@@ -1,0 +1,105 @@
+ PER CURIAM.
+This consolidated appeal calls on us to consider 18 U.S.C. 2709 , a statute that governs the Federal Bureau of Investigation's (FBI) issuance of National Security Letters (NSLs) to wire or electronic communication service providers.
+An NSL is an administrative subpoena that allows the FBI to gain access to, inter alia, "subscriber information .
+.
+.
+or electronic communication transactional records" held by internet service providers, [fn1] when this information is "relevant to an authorized investigation to protect against international terrorism or clandestine intelligence activities.
+.
+.
+."
+18 U.S.C. 2709 (a) & (b)(2).
+John Does I and II are internet service providers who received NSLs and commenced proceedings in the Southern District of New York and the District of Connecticut (respectively) challenging the constitutionality of 2709.
+Section 2709 was originally enacted as part of Title II of the Electronic Communication Privacy Act of 1986 ("ECPA"), Pub.L.
+No. 99-508 , 201, 100 Stat. 1848 , 1867-68 (1986), and was amended in 1993 and 1996.
+See generally FBI Access to Telephone Records, Pub.L.
+No. 103-142 , 1, 107 Stat. 1491 , 1491-92 (1993); Intelligence Authorization Act for Fiscal Year 1997, Pub.L.
+No. 104-293 , 601(a), 110 Stat. 3461 , 3469 (1996).
+Shortly after the terrorist attacks of September 11, 2001, however, Congress again amended 2709 by means of Title V, Section 505 of the Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism Act of 2001 ("USA Patriot Act"), Pub.L.
+107-56 , 115 Stat. 272 , 365 (Oct. 26, 2001).
+Both the Southern District of New York in Doe v. Ashcroft ("Doe I"), 334 F.Supp.2d 471 (S.D.N.Y.
+2004), and the District of Connecticut in Doe v. Gonzales ("Doe II"), 386 F.Supp.2d 66 (D.Conn.
+2005), ruled on the constitutionality of 2709 (as amended by the USA Patriot Act).
+However, while this appeal was pending, Congress passed the USA Patriot Improvement and Reauthorization Act of 2005, Pub.L.
+No. 109-177 , 120 Stat. 192 (Mar. 9, 2006) (the "Reauthorization Act" or the "Act").
+This Act dramatically altered 2709, and added several new procedures codified at 18 U.S.C. 3511 , which now govern judicial review of the FBI's requests for information through NSLs.
+In light of the significant changes to 2709 in the Reauthorization Act, this Court issued an order on March 15, 2006 requesting supplemental letter briefs from the parties on the impact of the Reauthorization Act on this case. Having reviewed the Government's Letter Brief dated March 29, 2006 ("Gov't Ltr.
+Br."), the Plaintiffs' Letter Brief dated April 7, 2006 ("Pls.Ltr.Br.
+"), and the Government's Reply Letter Brief dated April 18, 2006 ("Gov't Reply Ltr.
+Br."), we dispose of Doe I and Doe II as follows.
+I. Doe I, No. 05-0570 In Doe I, on cross-motions for summary judgment, the Southern District of New York held that the then-applicable version of 2709 was unconstitutional as applied to John Doe I under the Fourth Amendment because it was denied pre-enforcement judicial review.
+Doe I, 334 F.Supp.2d at 494-511 .
+The Southern District of New York also held that the permanent nondisclosure requirement (also known as the "gag order" provision) of the then-applicable version of 2709(c) was unconstitutional on its face under the First Amendment because it operated as a content-based prior restraint on speech that was not sufficiently narrowly tailored to achieve a compelling governmental interest.
+Doe I, 334 F.Supp.2d at 511-26 .
+The Reauthorization Act has substantially shifted the legal footing on which Doe I stands.
+The parties agree that the Reauthorization Act's provisions apply retroactively to NSLs issued before the Reauthorization Act.
+See Gov't Ltr.
+Br. at 2-3; Pls.
+Ltr.
+Br. at 1.
+Because the Reauthorization Act added provisions permitting NSL recipients to challenge the issuance of NSLs in court, see 18 U.S.C. 3511 (a), John Doe I no longer presses Fourth Amendment claims on this appeal, see Pls.
+Ltr.
+Br. at 2 n. 2; see also Gov't Reply Ltr.
+Br. at 1.
+Therefore, we deem them abandoned, rendering this portion of the appeal moot.
+Accordingly, we vacate the Fourth Amendment portion of the Southern District of New York Opinion in Doe I. See Russman v. Bd. of Educ., 260 F.3d 114 , 122 (2d Cir. 2001) ("In general, where the appellee has caused the case to become moot, we vacate the district court's judgment to prevent the appellee from insulating a favorable decision from appellate review.").
+The new 2709(c) now explicitly allows an NSL recipient to talk with an attorney "to obtain legal advice or legal assistance with respect to the request."
+18 U.S.C. 2709 (c)(1); see Gov't Ltr.
+Br. at 2.
+The Reauthorization Act also added procedures for the judicial review of the terms and conditions of nondisclosure imposed on a recipient of an NSL.
+See 18 U.S.C. 3511 (b).
+However, Plaintiffs argue that the revised version of 2709(c), as amended and supplemented by the Reauthorization Act, still violates John Doe I's First Amendment rights.
+See Pls.
+Ltr.
+Br. at 2-4.
+The Government responds that the Reauthorization Act and the new procedures found in 18 U.S.C. 3511 solve the purported First Amendment problems that the nondisclosure provisions of the prior version of 2709(c) had raised.
+See Gov't Ltr.
+Br. at 3-4.
+We do not believe that it would be prudent to resolve these novel First Amendment issues as a part of this appeal.
+Therefore, we also vacate the First Amendment portion of Doe I, and we remand this case so that the Southern District of New York, in the first instance, can address the First Amendment issues presented by the revised version of 2709(c), and the Reauthorization Act's new procedures and standards for judicial review found at 18 U.S.C. 3511 .
+On remand, the district court will, as appropriate, have the opportunity to receive amended pleadings, request new briefs, conduct oral argument, and, in due course, furnish its views on the constitutionality of the revised version of 2709(c) and the Reauthorization Act.
+See, e.g., Lewis v. Cont'l Bank Corp., 494 U.S. 472 , 482 , 110 S.Ct. 1249 , 108 L.Ed.2d 400 (1990) ("[I]n instances where □ mootness is attributable to a change in the legal framework governing the case, and where the plaintiff may have some residual claim under the new framework that was understandably not asserted previously, our practice is to vacate the judgment and remand for further proceedings in which the parties may, if necessary, amend their pleadings or develop the record more fully.").
+[fn2] II.
+Gonzales v. Doe II, No. 05-4896 In Doe II, on a motion for preliminary injunction, the District of Connecticut enjoined the Government from enforcing the gag order imposed on John Doe II under 2709(c) insofar as it prevented John Doe II from revealing its identity as a recipient of an NSL.
+In granting its motion for a preliminary injunction, the District of Connecticut held that John Doe II had demonstrated irreparable harm from the suppression of its speech, and a likelihood of success on the merits that 2709(c) violated John Doe II's First Amendment rights as a content-based, prior restraint on speech.
+See Doe II, 386 F.Supp.2d at 72-82 .
+In light of the Reauthorization Act, the Government now asserts that John Doe II should move in the District of Connecticut, under the new procedures in 18 U.S.C. 3511 (b), for a modification of the terms of its 2709(c) non-disclosure requirements so that it can reveal its identity.
+See Gov't Ltr.
+Br. at 5.
+The Government has represented to us that it will not oppose such a motion.
+See id .
+The Government also contends that once the District of Connecticut allows disclosure of John Doe II's identity, this appeal will become moot.
+The Government argues that, at that point, we should then dismiss the appeal in Doe II, and vacate the District of Connecticut's preliminary injunction opinion rather than leave it unreviewed on appeal.
+See id .
+(citing United States v. Munsingwear, Inc., 340 U.S. 36 , 71 S.Ct. 104 , 95 L.Ed. 36 (1950)).
+The Government's proposals for the handling of Doe II are flawed for two reasons.
+First, the District of Connecticut cannot entertain a motion under the Reauthorization Act and 18 U.S.C. 3511 (b) before this Court issues its mandate.
+In other words, we must act first and return this case to the District of Connecticut, which could then entertain motions from John Doe II, if necessary or appropriate.
+See Ostrer v. United States, 584 F.2d 594 , 598 (2d Cir. 1978) ("The effect of the mandate is to bring the proceedings in a case on appeal in our Court to a close and to remove it from the jurisdiction of this Court, returning it to the forum whence it came.
+"); see also United States v. Rivera, 844 F.2d 916 , 921 (2d Cir. 1988) ("Simply put, jurisdiction follows the mandate.").
+Second, it is the government's burden, "as the party seeking relief from the status quo of the □ judgment [below], to demonstrate .
+.
+.
+equitable entitlement to the extraordinary remedy of vacatur."
+U.S. Bancorp Mortgage Co. v. Bonner Mall Partnership, 513 U.S. 18 , 26 , 115 S.Ct. 386 , 130 L.Ed.2d 233 (1994).
+In considering whether or not vacatur of a lower court opinion is warranted when a case becomes moot on appeal, we look to the "the nature and character of the conditions which have caused the case to become moot."
+Id. at 24 , 115 S.Ct. 386 (internal quotation marks omitted).
+If the case has become moot due to circumstances unattributable to any of the parties or from the unilateral action of the party who prevailed in the district court, vacatur is usually warranted.
+See id. at 23 , 115 S.Ct. 386 .
+However, when "the party seeking relief from the judgment below caused the mootness by voluntary action," id. at 24 , 115 S.Ct. 386 , vacatur is usually not warranted.
+Given the concession of the Government (the Appellant in both Doe I and Doe I) on appeal that John Doe II can disclose its identity, the Government no longer opposes the relief granted by the District of Connecticut in its preliminary injunction ruling.
+Thus, the Government has effectively rendered this appeal moot by its own voluntary actions.
+See Gov't Ltr.
+Br. at 5.
+This voluntary forfeiture of review means that the Government has failed to meet its burden of demonstrating that it is entitled to vacatur of the District of Connecticut's preliminary injunction ruling.
+See Russman, 260 F.3d at 122 .
+Even though the Government's concession on appeal that it will not oppose the revelation of John Doe II's identity is dispositive, we nonetheless feel obligated to address the Government's concerns about leaving the District of Connecticut's "unreviewed ruling of unconstitutionality on the books."
+Gov't Ltr.
+Br. at 5.
+As the Supreme Court explained in U.S. Bancorp Mortgage Co. v. Bonner Mall Partnership, supra , [j]udicial precedents are presumptively correct and valuable to the legal community as a whole.
+They are not merely the property of private litigants and should stand unless a court concludes that the public interest would be served by a vacatur.
+Congress has prescribed a primary route, by appeal as of right and certiorari, through which parties may seek relief from the legal consequences of judicial judgments.
+To allow a party who steps off the statutory path to employ the secondary remedy of vacatur as a refined form of collateral attack on the judgment would — quite apart from any considerations of fairness to the parties — disturb the orderly operation of the federal judicial system.
+513 U.S. at 26-27 , 115 S.Ct. 386 (internal quotation marks and citations omitted).
+Therefore, in light of the Government's concession on appeal that John Doe II can reveal its identity — as was required by the District of Connecticut's preliminary injunction ruling — a simple dismissal of Doe II on mootness grounds is appropriate.
+CONCLUSION For the forgoing reasons, Gonzales v. Doe I, No. 05-0570, is hereby VACATED, and the case REMANDED for further proceedings on whether the new version of 18 U.S.C. 2709 (c), as revised and supplemented by the Reauthorization Act and 18 U.S.C. 3511 , violates the First Amendment either on its face or as applied to John Doe I. Gonzales v. Doe II, No. 05-4896, is hereby DISMISSED as moot.
+The mandate for these two consolidated cases shall issue forthwith.

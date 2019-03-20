@@ -1,0 +1,400 @@
+ SACK , Circuit Judge: In this appeal, we address the constitutionality of Connecticut's version of "Megan's Law," Conn. Gen.Stat.
+54-250 -261 (2001), amended by 2001 Conn. Legis.
+Serv. 01-84 (West), which requires people convicted or found not guilty by reason of mental disease or defect 1 of designated crimes to register with the State, and mandates disclosure of the information contained in the registry to the public in printed form and through the State's Internet website.
+The United States District Court for the District of Connecticut (Robert N. Chatigny, Judge), in a thorough opinion, held that the law violates the plaintiff's 2 right to procedural due process guaranteed by the Fourteenth Amendment to the United States Constitution but does not constitute an ex post facto law in violation of Article I, 10 thereof.
+Doe v. Lee , 132 F.Supp.2d 57 (D.Conn.2001) ( "Doe v. Lee" ).
+In accordance with this ruling, the court entered declaratory and permanent injunctive relief prohibiting the State from disseminating the registry or disclosing registry information to the public except in limited circumstances.
+The defendants challenge the issuance of this injunction by appealing the underlying grant of summary judgment to the plaintiff on the due process claim.
+The plaintiff cross-appeals the court's entry of judgment in favor of the defendants on the ex post facto challenge.
+We are keenly aware of the legitimate and pressing importance that the Connecticut legislature attaches to the State's ability to disseminate information about former sex offenders, principally in order to protect the health and welfare of the State's children.
+The particular legislative instrument it has chosen to employ, however, is too blunt to achieve that end properly.
+It fails to accommodate the constitutional rights of persons formerly convicted of a wide range of sexual offenses who are branded as likely to be currently dangerous offenders irrespective of whether they are.
+We therefore affirm.
+BACKGROUND I. The Connecticut Law Like every other state, 3 Connecticut has enacted a version of "Megan's Law," 4 which requires people convicted of certain criminal offenses, most of them sexual in nature, to register with the State upon their release into the community and provides for disclosure of information gathered through this registry.
+5 As amended most recently in 1999, Connecticut's version of the law requires registration of people who have been convicted of crimes that fall within four statutorily defined categories: criminal offenses against a victim who is a minor, 6 nonviolent sexual offenses, 7 sexually violent offenses, 8 and felonies committed for a sexual purpose.
+9 See Conn. Gen.Stat.
+54-250(2) , (5) , (11) , (12) , 54-251(a) , 54-252(a) , 54-254(a) .
+10 A. Registration Registration requirements vary depending on the type of crime for which a particular person is convicted and thereby becomes subject to the registration law.
+A person convicted of a criminal offense against a minor or of a nonviolent sexual offense must register with the Connecticut Department of Public Safety ("DPS") for ten years beginning within three days following his or her release into the community.
+See id. 54-251(a) .
+In addition, a person convicted of a felony committed for a sexual purpose can also be required to register for ten years at the discretion of the sentencing court.
+See id. 54-254(a) .
+Finally, a person convicted of a sexually violent offense must register for the remainder of his or her life.
+See id. 54-252(a) .
+11 Each registrant must provide the DPS with his or her name, "identifying factors" including fingerprints, a photograph, a list of other identifying characteristics, and a blood sample for DNA analysis, see id. 54-250(3) , criminal history record, and his or her residence address, see id. 54-251(a) , 54-252(a) , 54-254(a) , which must be verified once a year, see id. 54-257(c) .
+A person convicted of a sexually violent offense also must provide "documentation of any treatment received for mental abnormality or personality disorder," see id. 54-252(a) , and must verify his or her address once every ninety days, see id. 54-257(c) .
+Certain additional obligations apply to all registrants regardless of their underlying conviction.
+Anyone subject to the law who moves to a new residence must inform the State of his or her new address within five days.
+See id. 54-251(a) , 54-252(a) , 54-254(a) .
+If a registrant regularly travels into or temporarily resides in another state, he or she must register with the responsible agency there and comply with whatever additional duties that state imposes on sex offenders.
+12 See id .
+Each registrant must abide by the statute's address verification requirements by completing and returning to the State within ten days of receipt a nonforwardable verification form.
+See id. 54-257(c) .
+Finally, anyone subject to the law must submit to having his or her photograph taken at a specified location whenever the State so requests, see id. 54-251(a) , 54-252(a) , 54-254(a) , at least once every five years, see id. 54-257(d) .
+Failure to comply with any of these duties constitutes a class D felony, punishable by up to five years in prison.
+See id. 54-251(d) , 54-252(d) , 54-253(c) , 54-254(b) .
+B. Disclosure and Public Notification The statute also obligates DPS to compile the information gathered through the registration process in a central registry and to share that information with local police departments, state police troops, the Federal Bureau of Investigation, and coordinate agencies in other states in which registrants reside.
+See id. 54-257(a) .
+The DPS must also make the registry available to the public "during normal business hours."
+Id. 54-258(a)(1) .
+And the DPS is required to post registry information on the Internet, see id. 54-258(a)(1) , something it did until the practice was enjoined by the district court in this litigation.
+The DPS, also pursuant to statutory prescription, "[n]ot less than once per calendar quarter [is required to] issue notices to all print and electronic media in the state regarding the availability and means of accessing the registry."
+Id .
+Local police departments and state police troops are required to make the registry available for public inspection during office hours.
+See id .
+The following warning must be posted wherever the registry is open to public view: "Any person who uses information in this registry to injure, harass or commit a criminal act against any person included in the registry or any other person is subject to criminal prosecution."
+Id. 54-258a .
+The primary means of disseminating registrant information to the public was the "Sex Offender Registry" Internet database maintained by the DPS, 13 which, until it was shut down pursuant to the injunction issued by the district court, could be reached through the websites of several television stations, as well as through the official homepage of the State of Connecticut, http://www.state.ct.us.
+14 Anyone with access to the Internet was able to search the database by zip code or town name, which produced a list of all registrants within the scope of the search, or by last name or first letter thereof.
+Every name that was produced through such a search yielded a direct link to another page entitled "Registered Sex Offender" containing the registrant's name, address, photograph, and physical description.
+Sometime between December 1998 and May 1999, the following statement was added to the first page of the Sex Offender Registry website: Connecticut General Statutes 54-250 et seq.
+For part or all of the time it was accessible, the website contained the message: "This information is made available for the purpose of protecting the public."
+C. Exclusions and Restrictions Certain people who would otherwise fall within the scope of the law are eligible for relief from these provisions.
+Two narrow categories of offenders need not register at all if a court so orders upon a finding that "registration is not required for public safety": anyone who was convicted of engaging, while under nineteen years of age, in sexual intercourse with a victim who was between thirteen and sixteen years old but at least two years younger than the perpetrator; and anyone who was convicted of subjecting another person to sexual contact without the victim's consent.
+See Conn. Gen. Stat. 54-251(b) , (c) .
+A court has discretion to order the DPS to restrict public dissemination of information about two other classes of registrants--those who were convicted either of sexual assault in a spousal or cohabiting relationship or of any crime involving a victim under the age of 18 to whom the offender is related--if the court finds that publication is not required for public safety and would reveal the identity of the victim.
+See id. 54-255(a) , (b) .
+A registrant who has committed one of several specified offenses between October 1, 1988 and June 30, 1999 may petition the court for an order limiting the dissemination of his or her registration information to law enforcement purposes, provided that the court finds that such a limitation would not threaten public safety.
+See id. 54-255(c) .
+This right of petition is also afforded to a person who had been convicted between October 1, 1988 and September 30, 1998 of a crime within the purview of the sex offender law provided that he or she did not serve jail time for the original conviction, has not subsequently been convicted of another crime covered by the law, and has registered with the DPS.
+See id .
+Apart from whatever determinations are made in the course of these proceedings, neither the DPS nor any other agency responsible for administering the registration law affords a person subject to the law an opportunity to be heard on the issue of whether he or she is dangerous or a threat to public safety before requiring that person to register and disclosing the information about him or her to the public.
+II.
+Parties According to the plaintiff's Fourth Amended Complaint, the plaintiff is a Connecticut resident who has been convicted, based on conduct preceding the law's effective date, of an offense that subjects him to the registration and notification requirements of the Connecticut registration law.
+He alleges that he "is not a dangerous sexual offender and does not pose a threat to the community."
+The plaintiff also represents a class certified by the district court on May 18, 2001 that is defined as "all persons who are subject to the registration and public disclosure requirements of Connecticut's sex offender registry act, Connecticut General Statutes 54-250 et seq.
+, without notice and an opportunity to be heard on the question whether they are dangerous."
+The defendants are Connecticut agencies and directors or commissioners of those agencies with responsibilities for the administration of the registration act, all of whom are sued in their official capacities.
+III.
+Procedural History On February 22, 1999, the plaintiff filed suit under 42 U.S.C. 1983 alleging that Connecticut's sex offender law violates his Fourteenth Amendment right to procedural due process because it deprives him of a liberty interest--his reputation combined with the alteration of his status under state law--without notice or a meaningful opportunity to be heard.
+He also claims that the law subjects him to punishment for conduct that preceded the date on which the law took effect in violation of the Constitution's Ex Post Facto Clause.
+See U.S. Const.
+art.
+I, 10 .
+The plaintiff also sought to represent two classes, one based on the due process challenge and the other on the ex post facto claim.
+On behalf of himself and both classes, the plaintiff sought declaratory and injunctive relief prohibiting the State from enforcing the law's registration requirements or publicly disclosing any information contained in the registry.
+The plaintiff moved for summary judgment on July 9, 1999.
+The defendants cross-moved for summary judgment two months later.
+The district court ruled on these motions on March 31, 2001, granting summary judgment to the plaintiff on the due process claim and to the defendants on the ex post facto challenge.
+15 Doe v. Lee , 132 F.Supp.2d at 57 .
+With respect to the due process issue, the court held that the plaintiff had satisfied the "stigma plus" test derived from the Supreme Court's decision in Paul v. Davis , 424 U.S. 693 , 96 S.Ct. 1155 , 47 L.Ed.2d 405 (1976), and had therefore stated a liberty interest protected by the Due Process Clause.
+Doe v. Lee , 132 F.Supp.2d at 63-66 .
+The court reasoned that the plaintiff had met the "stigma" portion of this test because "the registry suggests that plaintiff is currently dangerous," id. at 63 , while he asserts that he is not.
+The court deemed the "plus" component satisfied by the fact that the registration duties imposed upon the plaintiff altered his status under state law.
+Id. at 64-66 .
+Having thus found that the law deprived the plaintiff of a protected liberty interest, the district court held that the State had not satisfied the mandate of the Due Process Clause because it failed to afford the plaintiff any notice or opportunity to be heard on the issue of his current dangerousness before disclosing his registry information to the public.
+Id. at 66 .
+On the ex post facto claim, the court held that the plaintiff had failed as a matter of law to demonstrate that the registration law was punitive either in purpose or in effect and therefore granted judgment to the defendants.
+Id. at 66-71 .
+On April 18, 2001, the plaintiff filed motions for certification of the due process claim class, for a declaratory judgment, and either for preliminary and permanent injunctive relief on behalf of the class or, in the alternative, for a preliminary injunction in favor of himself.
+The court issued a permanent injunction on May 17, 2001, prohibiting the defendants from "disclosing or disseminating to the public, either in printed or electronic form (a) the Registry or (b) Registry information concerning a member of the due process class if the information identifies the class member as being included in the Registry" and from "identifying any member of the due process class as being included in the Registry."
+Doe v. Lee , No. 3:99CV314 , 2001 WL 536729 (D.Conn.
+May 17, 2001) (order granting permanent injunction).
+The injunction is limited to public disclosure of the sexual offender registry; it does not prevent law enforcement agencies or officers from obtaining access to the registry or using information it contains for purposes of protecting the public or investigating specific crimes.
+On May 18, the district court granted the motion for class certification and entered a declaratory judgment in favor of the due process class.
+The defendants immediately moved the district court for a stay of the injunction, which the court denied on May 18, 2001.
+A divided panel of this Court denied a similar motion after oral argument on June 5, 2001, but expedited the parties' appeal and cross-appeal of the district court's final judgment, which had also been entered on May 18, 2001.
+DISCUSSION I. Standard of Review We review a district court's grant of summary judgment de novo , construing the evidence in the light most favorable to the non-moving party.
+Tenenbaum v. Williams , 193 F.3d 581, 593 (2d Cir.1999), cert. denied , 529 U.S. 1098 , 120 S.Ct. 1832 , 146 L.Ed.2d 776 (2000).
+Summary judgment is appropriate where "there is no genuine issue as to any material fact and the moving party is entitled to a judgment as a matter of law," Fed.R.Civ.P. 56(c) , i.e., "[w]here the record taken as a whole could not lead a rational trier of fact to find for the non-moving party."
+Matsushita Elec. Indus. Co. v. Zenith Radio Corp. , 475 U.S. 574, 587 , 106 S.Ct. 1348 , 89 L.Ed.2d 538 (1986).
+A fact is "material" for these purposes if it "might affect the outcome of the suit under the governing law " Anderson v. Liberty Lobby, Inc. , 477 U.S. 242, 248 , 106 S.Ct. 2505 , 91 L.Ed.2d 202 (1986).
+An issue of fact is "genuine" if "the evidence is such that a reasonable jury could return a verdict for the nonmoving party."
+Id. II.
+Procedural Due Process Claim We first address the defendants' appeal from the district court's judgment with respect to the due process claim.
+The parties agree, as do we, with the district court's conclusion that the "stigma plus" test, first set forth in Paul , governs the defendants' appeal.
+In Paul , the Supreme Court held that in order to state a claim under 42 U.S.C. 1983 for a violation of the Due Process Clause, a plaintiff who complains of governmental defamation must show (1) the utterance of a statement about him or her that is sufficiently derogatory to injure his or her reputation, that is capable of being proved false, and that he or she claims is false, and (2) some tangible and material state-imposed burden or alteration of his or her status or of a right in addition to the stigmatizing statement.
+Paul , 424 U.S. at 701-02, 710-11 , 96 S.Ct. 1155 .
+This requirement is known in this Circuit and elsewhere as the "stigma plus" test.
+See, e.g. , Cannon v. City of West Palm Beach , 250 F.3d 1299, 1302 (11th Cir.2001); Cutshall v. Sundquist , 193 F.3d 466, 479 (6th Cir.1999); WMX Techs., Inc. v. Miller , 197 F.3d 367, 376 (9th Cir.1999); Greenwood v. New York , 163 F.3d 119, 124 (2d Cir.1998).
+A. The "Stigma" A "stigma" is "[a] mark or token of infamy, disgrace, or reproach " The American Heritage Dictionary of the English Language 1702 (4th ed.2000).
+Publication of the Connecticut Sex Offender Registry plainly "stigmatizes" the people listed on it insofar as it asserts that they are persons convicted of crimes characterized by the State as sexual offenses.
+But those assertions are concededly true.
+The gravamen of "stigma" as part of a due process violation is the making under color of law of a reputation-tarnishing statement 16 that is false.
+See Codd v. Velger , 429 U.S. 624, 627 , 97 S.Ct. 882 , 51 L.Ed.2d 92 (1977) ( per curiam ) (holding that plaintiff was not entitled to a hearing with respect to derogatory statements about him because "[n]owhere in his pleadings or elsewhere has [he] affirmatively asserted that the [statements in issue were] substantially false"); Quinn v. Syracuse Model Neighborhood Corp. , 613 F.2d 438, 446 (2d Cir.1980) ("[T]o constitute deprivation of a liberty interest, the stigmatizing information must be both false and made public by the offending governmental entity.")
+(alterations in original; citation and internal quotation marks omitted).
+The plaintiff therefore asserts not merely stigma, but false stigma: that the Connecticut law "violates [his] due process rights by stigmatizing [him] as [a] presently dangerous sex offender[ ]," which he maintains is false and gives him a right to a hearing comporting with due process requirements to provide him with an opportunity to prove that he is not in fact a present threat to public safety.
+Appellee's Br. at 7 (emphasis added); see also Doe v. Lee , 132 F.Supp.2d at 63 ("Plaintiff contends that he is stigmatized because his inclusion in the registry conveys the false message that he is a dangerous sex offender and a threat to public safety.")
+To meet the stigma element of his claim, then, the plaintiff is required to show a stigmatizing statement about him made or to be made under color of law that is capable of being proved true or false.
+He has only to allege, not prove, that the statement is false in order to establish a due process right to the hearing he seeks.
+See Brandt v. Bd. of Co-op. Educ. Servs.
+, 820 F.2d 41, 43 (2d Cir.1987).
+It is at such a hearing that the plaintiff would have the opportunity to have his name cleared and the false stigma thus avoided.
+The district court concluded that the plaintiff met the stigma element of his claim.
+The court's opinion is not entirely clear, however, as to how public dissemination of the registry falsely stigmatizes the plaintiff.
+We read the court's decision as containing two possible explanations: that the registry implies that every person listed therein is in fact dangerous; and that it implies that some of the registrants are dangerous and that each individual registrant is more likely than the average person to be currently dangerous.
+As to the first of these possibilities, the court, echoing the plaintiff's argument, stated: Doe v. Lee , 132 F.Supp.2d at 63 .
+The defendants respond that "the inference of dangerousness the [d]istrict [c]ourt drew, and that it assumes the public will draw, from th[e] accurate and public information [contained in the registry] is not supported by any facts in the record."
+Appellants' Br. at 25.
+They argue that, to the contrary, by including in the website version of the sexual offender registry the statement that the DPS has made no determination that the persons included are "currently dangerous," the State has specifically negated this inference.
+Id. at 25-26 .
+We share some of the State's doubt as to whether, as a matter of law, public dissemination of the registry implies to any particular reader, its average reader, or to "an appreciable fraction" of its readership, Peck v. Tribune Co. , 214 U.S. 185, 190 , 29 S.Ct. 554 , 53 L.Ed. 960 (1909) (Holmes, J.) (defamation action), that every listed person, including the plaintiff, is currently dangerous.
+The registry purports to be a list of virtually all offenders convicted of covered crimes, not only presently dangerous sex offenders.
+The website disclaimer enforces that notion, at least to those visitors to the website who actually read it, by implying that the site includes both dangerous and non-dangerous offenders.
+While the registry thus necessarily communicates the idea that registrants committed covered offenses and thereby implies that they may pose a current danger, we cannot conclude on the record before us that visitors to the website necessarily understood it to say or imply that all of the registrants are in fact currently dangerous.
+Our inability to reach that conclusion is exacerbated by the fact that the website has been shut down and we have no means to examine the registry in the form and context in which actual readers would have viewed it.
+But the district court also said: some some Doe v. Lee , 132 F.Supp.2d at 64 (emphasis added) (footnote omitted).
+With this we agree.
+The sexual offender registry conveys the message that some of the persons listed on the registry are currently dangerous; disclosing the identity of persons who are currently a threat to public safety is the sole avowed and legitimate purpose of the registry.
+Even the disclaimer itself, by asserting that the DPS "has made no determination that any individual included in the Registry is currently dangerous," clearly implies that some may be.
+But the list is undifferentiated; it does not say which registrants are or may be currently dangerous and which are not.
+We think that it follows that publication of the registry implies that each person listed is more likely than the average person to be currently dangerous.
+That implication seems to us necessarily to flow from the State's choice of these particular individuals about whom to disseminate information, a record as to their sex offences, and information as to their current whereabouts.
+This implication stigmatizes every person listed on the registry.
+And the plaintiff claims that, as to him, it is false.
+If the "plus" factors are present--a question to which we will turn shortly--then the plaintiff is entitled to due process in the form of a hearing at which he would have the opportunity to establish that he is not particularly likely to be dangerous and therefore should not be listed in a publicly disseminated registry in a way that falsely implies otherwise.
+The State of Connecticut contends that by enjoining the publication of the information on the registry, the district court was doing no more than enjoining the dissemination of truthful information about the criminal history of the registrants.
+That would be troubling if it were so. 17 We would be deeply concerned about a federal court's order the purpose of which was to require the State of Connecticut to keep truths from its citizens.
+Cf. Virginia State Bd. of Pharmacy v. Virginia Citizens Consumer Council, Inc. , 425 U.S. 748, 770 , 96 S.Ct. 1817 , 48 L.Ed.2d 346 (1976) (deprecating as "highly paternalistic" a state law that, in violation of the First Amendment , sought to protect consumers by prohibiting truthful advertising).
+We conclude, however, that the district court's order does not target truthful speech.
+Publication of the registry in its present form implies that persons listed on the registry are particularly likely to be currently dangerous.
+Unless everyone on the registry is particularly likely to be dangerous, a proposition that the State neither asserts nor embraces, that implication is not true.
+The listings alone, true or false--the "stigmatizing" by the State--are not, under Paul , actionable as due process violations.
+But if "plus" factors are present, the plaintiff is entitled to due process to establish whether the implication of likely dangerousness, as applied to him, is false and to prevent its communication to the public until he has had that opportunity and has failed.
+B. The "Plus" Factors Having isolated the "stigma" that the Connecticut sexual offender registry law visits on registrants, then, we must inquire whether there is a "plus" factor that gives rise to a liberty interest under the Due Process Clause.
+1.
+Immunity and employment termination precedents .
+Although we have applied the "stigma plus" test many times, see, e.g. , Greenwood , 163 F.3d at 123-24 ; Donato v. Plainview-Old Bethpage Cent. Sch. Dist. , 96 F.3d 623, 630-33 (2d Cir.1996), cert. denied , 519 U.S. 1150 , 117 S.Ct. 1083 , 137 L.Ed.2d 218 (1997); Valmonte v. Bane , 18 F.3d 992, 998-1002 (2d Cir.1994); Martz v. Inc. Vill. of Valley Stream , 22 F.3d 26, 31-32 (2d Cir.1994); White Plains Towing Corp. v. Patterson , 991 F.2d 1049, 1062-63 (2d Cir.), cert. denied , 510 U.S. 865 , 114 S.Ct. 185 , 126 L.Ed.2d 144 (1993); Easton v. Sundram , 947 F.2d 1011, 1016-17 (2d Cir.1991), cert. denied , 504 U.S. 911 , 112 S.Ct. 1943 , 118 L.Ed.2d 548 (1992); Neu v. Corcoran , 869 F.2d 662, 665-70 (2d.
+Cir.), cert. denied , 493 U.S. 816 , 110 S.Ct. 66 , 107 L.Ed.2d 33 (1989), the import of the "plus" component remains somewhat unclear.
+See Neu , 869 F.2d at 667 (noting that the meaning of Paul is "not unambiguous" and that "it is not entirely clear what the 'plus' is").
+As we noted in Valmonte , 18 F.3d at 1000 , this uncertainty arises in part because many of our cases involving "plus" factors were resolved on the basis of a qualified immunity defense.
+We often elided the issue of whether the defendant had deprived the plaintiff of a liberty interest, concluding that the defendant was in any event entitled to prevail on grounds of qualified immunity because any such interest was not clearly established at the time of the alleged violation.
+See, e.g. , White Plains Towing Corp. , 991 F.2d at 1063-64 ; Easton , 947 F.2d at 1015-16 ; Neu , 869 F.2d at 665, 667 .
+18 In addition, our cases have typically addressed "stigma plus" claims in the context of termination of government employment.
+See, e.g. , Greenwood , 163 F.3d at 123-24 ; Donato , 96 F.3d at 630-33 ; Martz , 22 F.3d at 32 ; Brandt , 820 F.2d at 45 ; Baden v. Koch , 799 F.2d 825, 831 (2d Cir.1986); Quinn , 613 F.2d at 445-47 ; Gentile v. Wallen , 562 F.2d 193, 197-98 (2d Cir.1977); Huntley v. Cmty. Sch. Bd. , 543 F.2d 979, 985-86 (2d Cir.1976), cert. denied , 430 U.S. 929 , 97 S.Ct. 1547 , 51 L.Ed.2d 773 (1977).
+These cases yield principles that are sometimes difficult to apply in delineating "plus" factors in other contexts.
+This appears to result at least in part from the fact that the government-employment line of cases harks back to the Court's pre Paul decision in Board of Regents v. Roth , 408 U.S. 564 , 92 S.Ct. 2701 , 33 L.Ed.2d 548 (1972).
+There, the Court observed that although a teacher's termination from public employment does not implicate a liberty interest, it might if the state were to impose "on [the plaintiff] a stigma or other disability that foreclose[s] his freedom to take advantage of other employment opportunities."
+Id. at 573 , 92 S.Ct. 2701 .
+In termination cases, courts have found based on Roth that it is the termination that is the "plus" factor establishing a due process violation and the right to a "name-clearing hearing."
+See, e.g. , Donato , 96 F.3d at 630-31 .
+In the case before us, there is no termination of government employment.
+We therefore look for an understanding of the meaning and function of the "plus" factors by reviewing the history, language, and apparent meaning of Paul and its progeny.
+2.
+"Stigma plus" from Constantineau to Paul.
+Prior to Paul , the concept of "liberty" in the Due Process Clause of the Fourteenth Amendment appears to have been widely understood to encompass a person's interest in his or her good name and reputation, without more.
+See Laurence H. Tribe, American Constitutional Law 10-9 (2d ed.1988).
+That principle seemed to be established by the Supreme Court's decision in Wisconsin v. Constantineau , 400 U.S. 433 , 91 S.Ct. 507 , 27 L.Ed.2d 515 (1971).
+At issue there was a Wisconsin statute that allowed local officials to post in liquor stores a list of persons who became dangerous after heavy drinking and to forbid persons on the list from purchasing alcohol for one year.
+The officials were not required to notify targeted persons or allow them to be heard on the issue of whether they deserved the "badge of infamy" that the list imposed upon them.
+Id. at 437 , 91 S.Ct. 507 .
+The Court invalidated the statute, stating that "[w]here a person's good name, reputation, honor, or integrity is at stake because of what the government is doing to him, notice and an opportunity to be heard are essential."
+Id. At the heart of the Court's reasoning was the recognition that inclusion on the posted list Id. Chief Justice Burger and Justice Blackmun dissented on procedural grounds but agreed with the majority that "the Wisconsin statute appears, on its face and in its application, to be in conflict with accepted concepts of due process," and that the Court's decision on the merits therefore "[v]ery likely reach[es] a correct result."
+Id. at 440 , 91 S.Ct. 507 (Burger, C.J., dissenting).
+The Supreme Court seemed to reaffirm these "accepted concepts" in two cases decided over the ensuing several years.
+In Roth , the Court declined to find a protected liberty interest in the termination of a non-tenured teacher's employment at a public university but suggested that such an interest would be implicated if the state imposed "on [the plaintiff] a stigma or other disability that foreclosed his freedom to take advantage of other employment opportunities."
+Roth , 408 U.S. at 573 , 92 S.Ct. 2701 .
+Citing Constantineau , the Roth Court observed that the state "did not make any charge against [the plaintiff] that might seriously damage his standing and associations in his community.
+It did not base the nonrenewal of his contract on a charge, for example, that he had been guilty of dishonesty, or immorality.
+Had it done so," the Court reasoned, "this would be a different case." Id. As we have noted, this comment in Roth became the principal foundation for the jurisprudence of due process claims in connection with defamation (or "stigma") associated with termination of public employment.
+Three years later, in Goss v. Lopez , 419 U.S. 565 , 95 S.Ct. 729 , 42 L.Ed.2d 725 (1975), the Court held that students were entitled to due process before being suspended from public school on charges of misconduct.
+In addition to recognizing a property interest in the students' "legitimate entitlement to a public education," the Court appeared to conclude that the students had an independent liberty interest in their reputations.
+Id. at 574 , 95 S.Ct. 729 .
+Again citing Constantineau , the Court reasoned that the school's charges of misconduct "could seriously damage the students' standing with their fellow pupils and their teachers as well as interfere with later opportunities for higher education and employment."
+Id. at 575 , 95 S.Ct. 729 .
+"[T]he claimed right of the State to determine unilaterally and without process whether that misconduct has occurred immediately collides with the requirements of the Constitution."
+Id. In its 1976 decision in Paul , the Court revisited the issue of government-imposed stigma and reoriented this precedent.
+The Court addressed a municipal police department's practice of circulating to local merchants flyers displaying photographs of persons deemed to be "active shoplifters."
+Paul , 424 U.S. at 695 , 96 S.Ct. 1155 .
+One such suspected shoplifter filed suit under 42 U.S.C. 1983 , alleging that under Constantineau the distribution of a flyer containing his photograph violated the Due Process Clause because it damaged his reputation without affording him the necessary procedural protections.
+Id. at 696-97 , 96 S.Ct. 1155 .
+Writing for the majority, then-Justice Rehnquist rejected this claim, declaring that contrary to the plaintiff's view of Constantineau , an individual's "interest in reputation is neither 'liberty' nor 'property' guaranteed against state deprivation without due process of law."
+Paul , 424 U.S. at 712 , 96 S.Ct. 1155 .
+The Court acknowledged that it had "in a number of prior cases pointed out the frequently drastic effect of the 'stigma' which may result from defamation by the government in a variety of contexts."
+Id. at 701 , 96 S.Ct. 1155 .
+But in each such case, the Paul Court reasoned, a liberty interest was implicated only because the state had not only stigmatized the plaintiff, but had also impaired or altered some other "more tangible interest[ ]," such as "a right or status previously recognized by state law."
+Id. at 701, 711 , 96 S.Ct. 1155 .
+Thus, the Court observed, the deprivation in Constantineau was stigma plus the loss of the right, previously recognized under state law, to purchase alcohol; in Roth , the Court would have found a liberty interest implicated by stigma only if it was combined with termination of government employment; and in Goss , "liberty" was involved only because there was stigma plus the extinguishment of the state-law right to public education.
+Undergirding this analysis was the concern that a construction of the Due Process Clause under which damage to reputation alone could implicate a liberty interest "would seem almost necessarily to result in every legally cognizable injury which may have been inflicted by a state official acting under 'color of law' establishing a violation of the Fourteenth Amendment ."
+Id. at 699 ., 96 S.Ct. 1155 The Court noted that the plaintiff's complaint "would appear to state a classical claim for defamation actionable in the courts of virtually every State," and that "if the same allegations had been made about [the plaintiff] by a private individual, he would have nothing more than a claim for defamation under state law."
+Id. at 697, 698 , 96 S.Ct. 1155 .
+Only on the basis of the fortuity that a state actor rather than a private party had made the defamatory comment could the plaintiff argue that his suit was "transmuted into one for deprivation of rights secured under the Fourteenth Amendment ."
+Id. at 697-98 , 96 S.Ct. 1155 .
+Allowing that fortuity alone to establish a constitutional claim, the Court reasoned, would in effect render 1983 "a font of tort law to be superimposed upon whatever systems may already be administered by the States."
+Id. at 701 , 96 S.Ct. 1155 .
+Paul 's interpretation of decisions like Constantineau , Roth , and Goss was thus driven at least in part by "evident concern for values of federalism," Laurence H. Tribe, Unraveling National League of Cities: The New Federalism and Affirmative Rights to Essential Government Services , 90 Harv. L.Rev.
+1065, 1101 n. 135 (1977), and more specifically by a resolve to prevent 1983 from "supplant[ing] traditional tort law in laying down rules of conduct to regulate liability for injuries that attend living together in society," Daniels v. Williams , 474 U.S. 327, 332 , 106 S.Ct. 662 , 88 L.Ed.2d 662 (1986).
+The Court sought, through Paul , to maintain "the delicate balance between state and federal courts and [to respect] the design of 1983 , a statute that reinforces a legal tradition in which protection for persons and their rights is afforded by the common law and the laws of the States, as well as by the Constitution."
+Albright v. Oliver , 510 U.S. 266, 284 , 114 S.Ct. 807 , 127 L.Ed.2d 114 (1994) (Kennedy, J., concurring in the judgment).
+The requirement that a plaintiff demonstrate some "plus" factor--an alteration or impairment of "a right or status previously recognized by state law," Paul , 424 U.S. at 711 , 96 S.Ct. 1155 --appears to be central to this effort.
+If, as some thought before Paul , the Fourteenth Amendment notion of "liberty" encompassed an individual's unadorned interest in his or her reputation, then the issue whether an allegation of "stigma" stated a federal constitutional or state-law claim would depend entirely on whether the defendant happened to be a state officer or a private citizen.
+A plaintiff who was defamed by a private defendant could sue only in state court on a state law claim; a plaintiff who was defamed by a government actor could sue in federal court on a federal claim.
+Such a regime would "trivialize the centuries-old principle of due process" by enlarging the scope of the Fourteenth Amendment beyond the type of "arbitrary exercise of the powers of government" against which that provision was intended to guard, Daniels , 474 U.S. at 332, 331 , 106 S.Ct. 662 (internal quotation marks omitted), while, at the same time, invading the domain of the states by permitting a plaintiff to bypass common-law tort regimes in favor of the "heavy artillery of constitutional litigation," Steuart v. Suskie , 867 F.2d 1148, 1150 (8th Cir.1989).
+The "plus" requirement avoids this result by ensuring that a plaintiff cannot allege as a deprivation of a constitutionally protected liberty interest an injury that could have been inflicted by a private citizen in a position analogous to the state actor.
+If the plaintiff can point to some material indicium of government involvement beyond the mere presence of a state defendant to distinguish his or her grievance from the garden-variety defamation claim, courts can be assured that 1983 will not become "a body of general federal tort law" duplicative of "whatever systems may already be administered by the States."
+Paul , 424 U.S. at 701 , 96 S.Ct. 1155 .
+19 Two sources lend further support to this understanding of the "plus" requirement.
+The first is Siegert v. Gilley , 500 U.S. 226 , 111 S.Ct. 1789 , 114 L.Ed.2d 277 (1991), the only Supreme Court decision to apply and elaborate on the meaning of Paul .
+In an opinion by Chief Justice Rehnquist, the Siegert Court held that the plaintiff, a clinical psychologist who had voluntarily resigned from his post at one government hospital and was seeking to be "credentialed" at another, had not established a liberty interest arising from an allegedly defamatory letter written by his former supervisor to a prospective government employer.
+Siegert , 500 U.S. at 227-29 , 111 S.Ct. 1789 .
+The Court explained: Paul v. Davis Id. at 234 , 111 S.Ct. 1789 .
+The Court did not suggest that the requisite tangible interest or burden needs to meet some threshold of substantiality or that it must implicate a certain kind of interest, but rather that it must at least entail some non-trivial state involvement that removes the plaintiff's complaint from the realm of traditional state-law defamation.
+Although "[d]efamation, by itself , is a tort actionable under the laws of most States, but not a constitutional deprivation," id. at 233 , 111 S.Ct. 1789 (emphasis added), an allegation of defamation brigaded with other government action adversely affecting the plaintiff's interests properly invokes the protections of the Due Process Clause and therefore states a claim under 1983 .
+The second source of support for our reading of the "plus" component is the Supreme Court's decision in Parratt v. Taylor , 451 U.S. 527 , 101 S.Ct. 1908 , 68 L.Ed.2d 420 (1981), overruled in part on other grounds by Daniels , 474 U.S. at 330-31 , 106 S.Ct. 662 .
+In Parratt , the Court held that where, through a state official's misconduct, a plaintiff is stripped of property in circumstances in which pre-deprivation process is not feasible and the post-deprivation remedy provided by the state is adequate, the plaintiff may not bring a 1983 action for violation of his or her procedural due process rights.
+Parratt , 451 U.S. at 541-44 , 101 S.Ct. 1908 .
+In such circumstances, the Court held, the state post-deprivation remedy provides all the process that is due.
+The rationale underlying Parratt parallels that of Paul : "To accept [plaintiff's] argument that the conduct of the state officials in this case constituted a violation of the Fourteenth Amendment would almost necessarily result in turning every alleged injury which may have been inflicted by a state official acting under 'color of law' into a violation of the Fourteenth Amendment cognizable under 1983 ."
+Id. at 544 , 101 S.Ct. 1908 .
+Indeed, Parratt quoted Paul for the proposition that permitting constitutional suits on the basis of random and unauthorized actions by state officials when post-deprivation remedies are adequate "'would make of the Fourteenth Amendment a font of tort law to be superimposed upon whatever systems may already be administered by the States.'"
+Id. (quoting Paul , 424 U.S. at 701 , 96 S.Ct. 1155 ).
+The Supreme Court has since suggested a relationship between the Paul and Parratt analyses, see Daniels , 474 U.S. at 332-33 , 106 S.Ct. 662 , and courts cite the two for the proposition that "the Due Process Clause of the Fourteenth Amendment does not transform every tort committed by a state actor into a constitutional violation."
+DeShaney v. Winnebago County Dep't of Soc. Servs.
+, 489 U.S. 189, 202 , 109 S.Ct. 998 , 103 L.Ed.2d 249 (1989); see also, e.g. , Mahoney v Kesery , 976 F.2d 1054, 1060 (7th Cir.1992) (citing Paul and Parratt for the assertion that "[t]he Supreme Court has been emphatic that not every tort committed by public officers is actionable under the Constitution, even though every one could be thought to deprive the tort's victim of an interest in the nature of liberty or property").
+We therefore look to our interpretation of Parratt as a proper source of guidance on the import of Paul .
+In McClary v. O'Hare , 786 F.2d 83 (2d Cir.1986), we held that Parratt does not apply to substantive due process claims because substantive due process violations are "'complete as soon as the prohibited action is taken'" and therefore do not depend upon the adequacy of any pre or post-deprivation remedies.
+McClary , 786 F.2d at 86 n. 3 (quoting Daniels , 474 U.S. at 338 , 106 S.Ct. 662 (Stevens, J., concurring in the judgment)).
+But this conclusion could effectively swallow the Parratt rule, at least in those cases--such as McClary itself, where the plaintiff's decedent lost his life--in which a plaintiff whose procedural due process suit would be barred by Parratt could instead plead the claim as one for a violation of substantive due process.
+See id. at 88-89 ; see also Albright , 510 U.S. at 285 , 114 S.Ct. 807 (Kennedy, J., concurring in the judgment) (observing that Parratt could be avoided by "attaching a substantive rather than procedural label to due process claims").
+This would thwart the purpose of Parratt by permitting federal constitutional claims to proceed on the basis of conduct that the Court has deemed insufficient when framed in procedural terms.
+Our analysis in McClary parallels a federalism-based interpretation of the Paul "plus" factors.
+We were presented in McClary with both substantive and procedural due process claims against state and county officials brought by the administratrix of the estate of a highway worker who was killed by a falling crane while working on a government project.
+786 F.2d at 84-85 .
+We first rejected the procedural due process claim on the basis, inter alia , of Parratt , id. at 86-88 , and then turned to "[t]he more difficult question [at] the heart of this case": "when a deprivation of life or liberty assumes constitutional dimensions" for purposes of substantive due process.
+Id. at 88 .
+We began our discussion by observing that the Due Process Clause was designed to guard against abuses of "governmental power."
+Id. (citation and internal quotation marks omitted).
+We then noted that, as was the case in Daniels , no such abuse of state authority had been alleged; "the only fact distinguishing [the plaintiff's complaint] from an ordinary tort action is the identity of [the defendant]."
+Id. at 89 .
+We reasoned that where "identical actions could have been carried out by a private [defendant], for the same reasons and with the same regrettable consequences," substantive due process was not implicated.
+Id. Only where the defendant's action is "governmental in nature"--where "a government official, because of his unique position as such, was able to impose a loss"--would the protections of the Fourteenth Amendment come into play.
+Id. (internal quotation marks omitted).
+Because the plaintiff could not point to any state activity in the case beyond the mere presence of a state defendant, we dismissed her claim on the ground that "the substantive component of the Due Process Clause does not provide a remedy to a public employee that would not be available to a private employee subject to identical conduct by his employer."
+Id. McClary thus held that a plaintiff pleads a deprivation of an interest protected by substantive due process only when he or she demonstrates some state action that distinguishes the allegation from an ordinary tort claim.
+On similar reasoning, we hold that a plaintiff establishes a "plus" factor for purposes of the Paul v. Davis "stigma plus" test only if he or she points to an indicium of material government involvement unique to the government's public role that distinguishes his or her claim from a traditional state-law defamation suit.
+3.
+The "plus" factor in this case .
+Applying this holding to the case before us, we agree with the district court that the statutory registration duties imposed on the plaintiff constitute a "plus" factor.
+Those obligations (1) alter the plaintiff's legal status, and (2) are "governmental in nature," cf. McClary , 786 F.2d at 89 , insofar as they could not be imposed by a private actor in a position analogous to the state defendants, and therefore differentiate the plaintiff's complaint from a traditional defamation claim brought under state law.
+The registration duties imposed by Connecticut's sex offender law are extensive and onerous.
+With a few exceptions, a person who is required to register because he or she was convicted of a criminal act against a minor, a nonviolent sexual offense, or a felony with a sexual purpose must verify his or her address annually for ten years.
+Conn. Gen.Stat.
+54-251(a) , 54-253(a) , 54-254(a) , 54-257(c) .
+Anyone who was convicted of a sexually violent offense must do so every ninety days for the rest of his or her life.
+Id. 52-252(a) , 54-253(a) , 54-257(c) .
+To conduct this verification, the state mails to a registrant's last known address a nonforwardable form that the registrant must complete and return within ten days of receipt.
+Id. 54-257(c) .
+"In the event that a registrant fails to return the address verification form, the Department of Public Safety shall notify the local police department or the state police troop having jurisdiction over the registrant's last reported address, and that agency shall apply for a warrant to be issued for the registrant's arrest " Id .
+Whenever any registrant changes his or her address, he or she must notify the Commissioner of Public Safety within five days.
+Id. 54-251(a) , 54-252(a) , 54-254(a) .
+If he or she "regularly travels into or within another state or temporarily resides in another state for purposes including, but not limited to employment or schooling," he or she must notify the Connecticut Commissioner and register with the appropriate agency in the other state.
+Id .
+The registrant must also provide blood samples for purposes of DNA analysis when he or she is first registered and must appear at a specified location to have his or her photograph taken whenever the Commissioner requests, id. 54-250(3) , 54-251(a) , 54-252(a) , 54-253(b) , (c) , 54-254(a) , but at least once every five years, id. 54-257(d) .
+Failure to abide by any of these obligations constitutes a class D felony, punishable by up to five years in prison.
+Id. 54-251(d) , 54-252(b) , 54-253(c) , 54-254(b) .
+We think that these obligations, taken together, easily qualify as a "plus" factor under Paul .
+The imposition on a person of a new set of legal duties that, if disregarded, subject him or her to felony prosecution, constitutes a "change of [that person's] status" under state law.
+Paul , 424 U.S. at 712 , 96 S.Ct. 1155 .
+Such action is quintessentially "governmental in nature."
+McClary , 786 F.2d at 89 (citation and internal quotation marks omitted).
+Moreover, the presence of such an alteration of the registrant's legal rights and duties serves the federalism-based function of the "plus" factor: to ensure that the plaintiff cannot convert a state-law defamation claim into a 1983 action because of the mere fortuity that he or she is suing a state defendant.
+The injury that the plaintiff alleges in this case--stigma plus an alteration in his or her state-law duties and status--could not have been inflicted by a private person in a position analogous to that of the state.
+Only a defendant employing his or her "power as a state official " could impose and enforce the duties inherent in Connecticut's sexual offender registry law and then publish the information obtained by those state-imposed duties.
+Id .
+(emphasis in original).
+The defendants assert that "every federal court that has addressed the issue has held that no liberty interest is implicated in such a context."
+Appellants' Br. at 23.
+They are incorrect.
+Prior to the district court's decision in this case, three other district courts--including one in the Southern District of New York--have used similar reasoning to identify a protected liberty interest under the "stigma plus" test.
+See Doe v. Pryor , 61 F.Supp.2d 1224, 1231 (M.D.Ala.1999) (concluding that the imposition of new legal duties and the extinguishment of other rights, including "the right [to] establish a new residence without giving prior notice to government officials," constitute a "plus" factor); Doe v. Pataki , 3 F.Supp.2d 456, 468 (S.D.N.Y.1998) ("In light of these requirements placed on registrants, there can be no genuine dispute that registration alters the legal status of all convicted sex offenders subject to the Act These requirements obviously encroach on the liberty of convicted sex offenders, and, therefore, they suffer a tangible impairment of a right in addition to mere harm to reputation.
+"); W.P.
+v. Poritz , 931 F.Supp.
+1199, 1219 (D.N.J.1996) (noting that "stigma plus" can be established "by coupling the reputational damage with the continuing legal status as a registrant and the duties imposed as a result"), rev'd on other grounds sub nom.
+E.B.
+v. Verniero , 119 F.3d 1077 (3d Cir.1997).
+Since oral argument of this appeal, moreover, the United States District Court for the District of Columbia has held that a sex offender registry statute similar to Connecticut's infringes upon a protected liberty interest because its registration requirements and long period of supervised release impose an "extraordinary breadth and extent of burdens" which, when combined with reputational harm, satisfy the "stigma-plus" test.
+Doe v. Williams , 167 F.Supp.2d 45, 55 (D.D.C.2001).
+In addition, the Third Circuit has identified a protected liberty interest in these circumstances, albeit by relying upon a state-created right to privacy rather than the statutory obligations imposed on registrants.
+See E.B.
+v. Verniero , 119 F.3d 1077, 1105 (3d Cir.1997); see also Roe v. Farwell , 999 F.Supp.
+174, 196-97 (D.Mass.1998) (same).
+State courts, including the Supreme Court of New Jersey in the seminal case of Doe v. Poritz , 142 N.J. 1, 99-106 , 662 A.2d 367, 417-21 (1995), have reached a similar conclusion.
+It is true that the Sixth and Ninth Circuits have not found a liberty interest in analogous circumstances.
+See Cutshall , 193 F.3d at 479-82 ; Russell v. Gregoire , 124 F.3d 1079 (9th Cir.1997).
+A substantial number of district courts have held similarly.
+See, e.g. , Corbin v. Chitwood , 145 F.Supp.2d 92 (D.Me.2001); Akella v. Mich. Dep't of State Police , 67 F.Supp.2d 716 (E.D.Mich.1999); Femedeer v. Haun , 35 F.Supp.2d 852 (D.Utah 1999), aff'd in part, rev'd in part , 227 F.3d 1244 (10th Cir.2000); Lanni v. Engler , 994 F.Supp.
+849 (E.D.Mich.1998); Doe v. Kelley , 961 F.Supp.
+1105 (W.D.Mich.1997).
+However, these courts have not necessarily disagreed with the contention that the ongoing legal obligations of sex offender registrants constitute a "plus" factor.
+Neither the Sixth Circuit in Cutshall nor the Ninth Circuit in Russell was presented with such an argument.
+Instead, the plaintiff in each of those cases claimed that the "plus" factor consisted of the state's intrusion on his or her right to privacy.
+See Cutshall , 193 F.3d at 479 ; Russell , 124 F.3d at 1093-94 .
+See also Williams , 167 F.Supp.2d at 47-48 (making similar observations about, inter alia , Cutshall and Russell ).
+The defendants challenge the conclusion that the Connecticut sexual offender law satisfies the "plus" requirement on two grounds.
+First, they allege that the registration requirements constitute only a "minimal burden" on registrants, an intrusion no more onerous than that which the federal and state tax laws impose on all citizens and no more inconvenient than the type of obligations one encounters when completing census questionnaires or renewing a driver's license.
+The notion that meeting the burdens of the Connecticut registry law, which we have described in some detail, is comparable to paying taxes or complying with census and driving registration regulations is breathtaking.
+But in any event, as we have explained, the dispositive issue is neither the degree of burden inherent in the proffered "plus" factor nor the substantiality of the interest, right, or status affected thereby.
+Rather, at least when the governmental action is not trivial, the inquiry turns on the character of the action on which the plaintiff seeks to establish the "plus" component.
+Where, as here, that action is "governmental in nature"--a characterization supported by the defendants' comparison of the registration requirements to other obligations only the government can impose--it constitutes a "plus" factor that triggers constitutional protection.
+Second, the defendants argue that the registration requirement's relation to the stigma is too attenuated to constitute a "plus" factor.
+The defendants point out that the stigma arises not from the registration requirement but rather from the publication of the registration information.
+They contend that the harm of stigma and the additional tangible burden of the "plus" factor must arise from the same government act.
+In a similar vein, the defendants point out that a hearing permitting the plaintiff to establish that he is not dangerous would remedy only the stigma while leaving the registration requirement intact.
+According to the defendants, this demonstrates that the "plus" factor in this case is insufficient.
+We are unpersuaded by this argument.
+Our cases have not required the plaintiff to seek a remedy for both the stigma and the "plus" factor.
+See, e.g. , Donato , 96 F.3d at 633 ("A hearing must be held for the limited purpose of giving a discharged employee an opportunity to clear her name The employer need not rehire the employee even if she can prove the inaccuracy of the stigmatizing allegations.
+"); Brandt , 820 F.2d at 43 (fired government employee sought a name-clearing hearing but not reinstatement to his position).
+And we have never required that the stigma and the "plus" factor arise from a single government act.
+Indeed, in the government employment context, we have required only a "concurrent temporal link" between the separate acts of termination and defamatory statements.
+See Martz , 22 F.3d at 32 (collecting cases); see also Brandt , 820 F.2d at 44-45 (finding a liberty interest implicated where a government employee had been terminated but where the government had not published the reasons for the termination and the alleged stigma was merely a possible future event).
+We think that the temporal nexus between the stigma and the "plus" factor in this case is sufficiently close to support a liberty interest.
+The information published by the State is obtained by means of the registration requirement, and a person can be stigmatized by publication of the registry only if he or she is first subjected to that requirement.
+The "plus" factor is thus a necessary condition for the stigmatization.
+Cf. Valmonte , 18 F.3d at 1002 (finding a liberty interest implicated where the state's stigmatizing charges of suspected child abuse were "coupled with a statutory impediment mandating that employers justify hiring" an individual so charged).
+Our reason for rejecting the defendants' argument becomes even clearer in light of the "plus" factor's function of reserving the "heavy artillery" of the Due Process Clause for those cases involving uniquely governmental conduct.
+The requirement that sexual and other offenders register with the State--a requirement that can only be imposed by the State and that is a necessary predicate for the stigmatizing publication of the registry--places this case in that category.
+III.
+Ex Post Facto Claim The plaintiff cross-appeals the district court's grant of summary judgment to the defendants on his claim that the registration requirement constitutes a punishment in violation of the Ex Post Facto Clause of Article I, section 10 of the Constitution.
+20 The district court observed that the Clause prohibits states from applying a new penal sanction to a crime that has already been committed.
+Doe v. Lee , 132 F.Supp.2d at 66 (citing Kansas v. Hendricks , 521 U.S. 346, 370 , 117 S.Ct. 2072 , 138 L.Ed.2d 501 (1997)); see also Pataki , 120 F.3d at 1272 .
+In performing its analysis of the Connecticut law under the Ex Post Facto Clause, the court turned to our decision in Pataki , which established a two-part test to determine whether the law in issue is penal: "first, whether the legislature intended the statute to be criminal or civil; and, second, if the intent was nonpunitive, whether the statute is so punitive in fact that it cannot legitimately be seen as civil in nature."
+Doe v. Lee , 132 F.Supp.2d at 66 (citing Pataki , 120 F.3d at 1274-75 ).
+With respect to the first part of the test, the district court canvassed the "limited legislative history materials" supplied to it by the parties and held that it does not indicate a punitive legislative purpose.
+Id. at 67 .
+The court noted that "there is nothing in the text [of the law] that suggests the legislature sought to punish sex offenders rather than protect public safety."
+Id.
+It also observed differences between the New York sex offender registration law at issue in Pataki and the Connecticut law, including the fact that the former, unlike the latter, provided for individualized assessment of the dangerousness of the registrant.
+See id. at 67-68 .
+The court concluded that the "differences, taken separately or cumulatively and viewed in light of the [Connecticut] legislative history and the structural features indicating a regulatory purpose, do not demonstrate that the legislature acted with punitive intent" in adopting the law.
+Id. at 68 .
+We find no basis upon which to disagree.
+With respect to the second part of the Pataki test--whether, although regulatory in intent, the registry law is punitive in fact--the district court, citing Pataki , held that a fact-specific inquiry is required, but that only "the clearest proof" would suffice to meet the test.
+Doe v. Lee , 132 F.Supp.2d at 68 (internal quotation marks omitted in original).
+In making the punitive-in-fact determination, the district court consulted the factors set forth by the Supreme Court in Kennedy v. Mendoza-Martinez , 372 U.S. 144, 168 , 83 S.Ct. 554 , 9 L.Ed.2d 644 (1963).
+21 The court considered two aspects of the Connecticut law that the plaintiff argued indicated a "punitive effect": first, the fact that its registration requirement applies to behavior that is already a crime, and second, a perceived "excessiveness" of its dissemination of information via the Internet.
+Doe v. Lee , 132 F.Supp.2d at 68-70 .
+The court concluded: "Neither of these factors by itself, nor the two in combination, establishes by the 'clearest evidence' that the law is punitive in fact."
+Id. at 68 .
+As to the first, the fact that registration is triggered by conviction, the district court held that that could not be enough to render the statute punitive in fact because that characteristic is "common to all regulatory disabilities that follow from a prior conviction, such as the loss of the right to vote."
+Id. at 69 .
+"[T]he [Supreme] Court has found such a link insufficient to establish unconstitutionality."
+Id. (citing United States v. One Assortment of 89 Firearms , 465 U.S. 354, 365-66 , 104 S.Ct. 1099 , 79 L.Ed.2d 361 (1984); United States v. Ward , 448 U.S. 242, 250 , 100 S.Ct. 2636 , 65 L.Ed.2d 742 (1980)).
+The district court also disagreed with the plaintiff's position that the asserted "excessiveness" of the registry scheme, principally the use of a website for dissemination, made it punitive in fact.
+Id. (citation omitted.)
+Unlike the question of legislative intent, the punitive-in-fact aspect of the Connecticut sex offender registry statute as written is problematic.
+We acknowledged in Pataki that there "the question [was] not free from doubt," 120 F.3d at 1265 .
+We ultimately held, however, that New York's version of a sex offender registration law did not violate the Ex Post Facto Clause, but we based our holding as to the punitive-in-fact inquiry significantly on the tiered structure of the New York law under which the degree of harshness with which registering offenders are treated depends on an individualized assessment of the level of risk to the community posed by each of them.
+See id. at 1281-83 .
+Connecticut's law provides for no such individualized assessment, a fact at the core of the plaintiff's challenge to it here.
+Cf.
+Doe v. Otte , 259 F.3d 979, 991 (9th Cir.2001) (striking down Alaska sex offender registry law similar to Connecticut's on ex post facto grounds, calling it "highly significant" that the statute was not limited to persons "pos[ing] a future risk to the community.")
+But we need not and do not decide whether, because of the undifferentiated nature of the Connecticut law, the Connecticut statute as written is punitive-in-fact under ex post facto analysis.
+We have today affirmed the court's injunction under the Due Process Clause prohibiting the State from disseminating sex offender registry information without giving a person on the registry an opportunity to avoid being listed in a manner suggesting that he or she is probably currently dangerous by establishing that he or she is not.
+The State of Connecticut therefore stands enjoined from enforcing the registry law in the manner that might also render it punitive-in-fact and therefore unconstitutional under the Ex Post Facto Clause.
+In order to provide for a sex offender registry and its dissemination consonant with the injunction that we affirm today, Connecticut will likely adopt new procedures more sensitive to whether those on a widely disseminated registry are likely to be currently dangerous.
+The State may choose a scheme clearly permissible under the Ex Post Facto Clause under Pataki .
+Indeed, it could adopt a law constitutionally indistinguishable from that which we upheld on ex post facto grounds in that case. The plaintiff may of course challenge any new Connecticut law or procedure to determine whether it is consonant with the Ex Post Facto Clause.
+It will be soon enough to address the issue then.
+IV.
+The Injunction The district court granted the permanent injunction requested by the plaintiff.
+The injunction principally prohibits the defendants from "disclosing or disseminating to the public, either in printed or electronic form (a) the Registry or (b) Registry information concerning a member of the due process class [including the plaintiff] if the information identifies the class member as being included in the Registry," and from "identifying any member of the due process class as being included in the Registry."
+Doe v. Lee ,.
+In arriving at the terms of the injunction, the district court was required to "tailor the remedy to fit the nature and extent of the violation."
+United States v. Yonkers Bd. of Educ. , 837 F.2d 1181, 1235 (2d Cir.1987).
+We conclude that because it is the communication to the public of the fact that the plaintiff (and other members of the class) is in the registry, without a hearing as to the current danger that the plaintiff (and other members of the class) poses, that is both central to the constitutional infirmity of the statute and the principal object of the injunction, the injunction is properly tailored to fit the nature and extent of the violation.
+Finally, we note the narrowness of the basis on which we affirm the judgment of the district court and the injunction it contains.
+We hold only that the plaintiff and the members of the due process class are entitled to the opportunity to have a hearing consistent with due process principles to determine whether or not they are particularly likely to be currently dangerous before being labeled as such by their inclusion in a publicly disseminated registry.
+We make no judgment as to what form that process should take.
+And we make none as to what the State may do once such a process is complete if, pursuant thereto, a particular offender is determined not to be currently dangerous or as to whether or to what extent the State may publicly disseminate information about such an offender.
+CONCLUSION For the foregoing reasons, we affirm the judgment of the district court.

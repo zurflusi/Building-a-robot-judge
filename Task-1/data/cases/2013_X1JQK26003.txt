@@ -1,0 +1,250 @@
+ PROST, Circuit Judge.
+Cisco Systems, Inc. appeals from the final judgment of the United States District Court for the Eastern District of Texas, which was based on the findings of two separate jury verdicts finding that: Cisco directly and indirectly infringed specified claims of Commil USA, LLC's U.S.
+Patent No. 6,430,395 ("`395 patent"); the specified claims of the `395 patent are not invalid as indefinite, for lack of enablement, or as lacking adequate written description; and that Cisco was liable for $63,791,153 in damages as well as pre-judgment interest and costs.
+We find that the district court gave the jury a legally erroneous instruction with respect to indirect infringement.
+Additionally, we find that Cisco's evidence of a good-faith belief of invalidity may negate the requisite intent for induced infringement.
+However, we find that the district court did not err in granting a partial new trial.
+Thus, we affirm-in-part, vacate-in-part, and remand for further proceedings consistent with this opinion.
+I. BACKGROUND A. THE PATENT AND ACCUSED PRODUCTS In a wireless system, mobile devices such as phones and laptop computers communicate with fixed "base stations" according to standardized procedures that govern the way in which data exchanged between devices is formatted, ordered, maintained, and transmitted.
+These procedures are referred to as "protocols."
+Effective wireless communication requires that the transmitting device and the receiving device follow the same protocol.
+The `395 patent relates to a method of providing faster and more reliable handoffs of mobile devices from one base station to another as a mobile device moves throughout a network area.
+The `395 patent teaches that the communication protocol is divided based on time [***2] sensitivity.
+The portions of the protocol requiring accurate time synchronization — "real-time capabilities" — are performed at the base station.
+This part of the protocol is called the "low-level protocol."
+Other parts of the protocol that are not time-sensitive comprise the "high-level protocol," which is performed on another device called a switch.
+The base station and switch cooperate to handle a connection with a mobile unit.
+To implement the full communications protocol, the base station runs an instance of the low-level protocol for the connection and the switch runs a corresponding instance of the high-level protocol.
+Cisco is a major supplier of WiFi access points and controllers.
+Commil alleges that certain Cisco access points and controllers infringe claims 1, 4, and 6 of the `395 patent.
+Claim 1, the patent's sole independent claim, provides: In a wireless communication system comprising at least two Base Stations, at least one Switch in communication with the Base Stations, a method of communicating between mobile units and the Base Stations comprising: dividing a short-range Communication protocol into a low-level protocol for performing tasks that require accurate time synchronization and a high-level protocol which does not require accurate time synchronization; and for each connection of a mobile unit with a Base Station, running an instance of the low-level protocol at the Base Station connected with the mobile unit and running an instance of the high-level protocol at the Switch.
+B. THE DISTRICT COURT PROCEEDINGS A jury trial commenced on May 10, 2010.
+On May 17, 2010, the jury returned a verdict rejecting Cisco's invalidity contentions, finding Cisco liable for direct infringement, and awarding Commil $3.7 million in damages.
+The jury also found that Cisco was not liable for induced infringement.
+Commil filed a motion for a new trial on the issues of induced infringement and damages, which the court granted on December 29, 2010.
+On April 5, 2011, a second trial was held with respect to indirect infringement and damages.
+On April 8, 2011, the jury returned a verdict in favor of Commil on both issues and this time awarded $63.7 million in damages.
+On September 28, 2011, the district court entered an amended final judgment granting $63.7 million in actual damages, $10.3 million [**1293] in prejudgment interest, and $17,738 in costs.
+This appeal followed.
+II.
+DISCUSSION Cisco appeals the district court decision on several grounds.
+First, Cisco contends that an erroneous instruction allowed the jury to find inducement based on mere negligence.
+Second, Cisco argues that the district court erroneously precluded Cisco from presenting evidence of its good-faith belief of invalidity to show that it lacked the requisite intent to induce infringement of the asserted claims.
+Third, Cisco argues that the district court abused its discretion in granting a new trial and that the district court violated the Seventh Amendment by granting a new trial on certain issues, but not others.
+Fourth, Cisco claims the court erred in construing [***3] the term "short-range communication protocol."
+Fifth, Cisco argues that there is not substantial evidence to sustain the jury verdict on infringement.
+Sixth, Cisco contends the claims are indefinite, not enabled, and lacking adequate written description.
+Finally, Cisco objects to the damages award on the grounds that Commil's royalty base violates the entire market value rule.
+We take each of these issues in turn.
+A. THE JURY INSTRUCTION Before the district court and on appeal, Cisco challenged the second trial's jury instruction on induced infringement.
+The district court denied Cisco's motion for a new trial on the jury instruction issue.
+We review the denial of a motion for a new trial under the law of the regional circuit.
+Riverwood Int'l Corp. v. R.A.
+Jones & Co. , 324 F.3d 1346 , 1352 (Fed. Cir. 2003).
+In the Fifth Circuit, the denial of a motion for a new trial "will not be disturbed absent an abuse of discretion or a misapprehension of the law."
+Prytania Park Hotel v. Gen. Star Indem. Co. , 179 F.3d 169 , 173 (5th Cir.1999).
+Whether a jury instruction on an issue of patent law is erroneous is a matter of Federal Circuit law that is reviewed de novo.
+Sulzer Textil A.G.
+v. Picanol N.V.
+, 358 F.3d 1356 , 1363 (Fed. Cir. 2004) (citing Advanced Display Sys., Inc. v. Kent State Univ. , 212 F.3d 1272 , 1282 (Fed. Cir. 2000)).
+We will set aside the jury verdict, "if the movant can establish that `those instructions were legally erroneous,' and that `the errors had prejudicial effect.'"
+Id .
+(citations omitted).
+In reviewing jury instructions, we review the trial record and the jury instructions in their entirety.
+Id .
+At the second trial, the court instructed the jury that it could find inducement if "Cisco actually intended to cause the acts that constitute direct infringement and that Cisco knew or should have known that its actions would induce actual infringement."
+J.A.
+6389 (98:24-99:2).
+The "knew or should have known" language is a verbatim recitation of the standard for showing induced infringement we originally set forth in Manville Sales Corp. v. Paramount Sys., Inc. , 917 F.2d 544 , 553 (Fed. Cir. 1990).
+This court, sitting en banc, again approved this language in DSU Medical Corp. v. JMS Co., Ltd. , 471 F.3d 1293 , 1306 (Fed. Cir. 2006) (en banc).
+Cisco alleges that this instruction allowed the jury to find inducement on the showing of mere negligence and, as such, is legally erroneous in view of the Supreme Court's recent decision in Global-Tech Appliances, Inc. v. SEB S.A. , 131 S. Ct. 2060 (2011).
+The Global-Tech Court held that induced infringement "requires knowledge that the induced acts constitute patent infringement."
+Id. at 2068 .
+The knowledge requirement of Global-Tech may be satisfied by showing actual knowledge or willful blindness.
+Id. at 2072 .
+In reaching this conclusion the Court expressly distinguished actual knowledge and willful blindness from recklessness and negligence explaining that: [A] willfully blind defendant is one who takes deliberate actions to avoid confirming a high probability of wrongdoing and who can almost be said to have actually known the critical facts.
+By contrast, a reckless defendant is one who merely knows of a substantial and unjustified risk of such wrongdoing and a negligent defendant is one who [***4] should have known of a similar risk but, in fact, did not.
+Id. at 2070-71 (citations omitted).
+The Court acknowledged that the facts that must be adduced to find willful blindness prevent such a finding on facts that support only recklessness or negligence.
+Id .
+Moreover, the Court rejected the standard set forth by this court, in part, because it permitted "a finding of knowledge when there is merely a `known risk' that the induced acts are infringing."
+Id. at 2071 .
+[**1294] Commil contends that the jury instruction in this case merely allowed the jury to find knowledge based upon circumstantial evidence.
+Circumstantial evidence can, of course, support a finding of actual knowledge or willful blindness just as it did in Global-Tech .
+Id. at 2071-72 .
+The jury instruction in this case, however, was not so limited.
+While the court did instruct the jury that certain circumstantial evidence could support a finding of inducement, the present jury instruction plainly recites a negligence standard, which taken literally, would allow the jury to find the defendant liable based on mere negligence where knowledge is required.
+J.A.
+6389 (98:19-99:15).
+Therefore, to the extent our prior case law allowed the finding of induced infringement based on recklessness or negligence, such case law is inconsistent with Global-Tech and no longer good law.
+It is, therefore, clear that the jury instruction in this case was erroneous as a matter of law.
+This finding, however, does not end our inquiry.
+In order to set aside a jury verdict, we must find not only that the jury instruction was legally erroneous, but also that the instruction had a prejudicial effect.
+Sulzer Textil , 358 F.3d at 1364 ("[I]t is not enough to merely show that a jury instruction is erroneous; [petitioner] also must show that the erroneous jury instruction was prejudicial.").
+If the erroneous jury instruction "could not have changed the result, the erroneous instruction is harmless."
+Environ Prods., Inc. v. Furon Co. , 215 F.3d 1261 , 1266-67 (Fed. Cir. 2000).
+Commil contends that when viewed as a whole, the jury instruction required the jury to find facts that satisfy the Global-Tech standard and, therefore, there is no prejudicial effect.
+We cannot agree.
+A finding of inducement requires both knowledge of the existence of the patent and "knowledge that the induced acts constitute patent infringement."
+Global-Tech , 131 S. Ct. at 2068 ; see also DSU Med. Corp. , 471 F.3d at 1306 (explaining that an "alleged infringer must be shown .
+.
+.
+to have knowingly induced infringement," not merely knowingly induced the acts that constitute direct infringement" (citation omitted)).
+Here, the jury was clearly instructed that Cisco could not be liable for induced infringement if it was not aware of the `395 patent.
+The jury was also instructed that Cisco must have actively and knowingly aided and abetted direct infringement.
+The jury, however, was not instructed that in order to be liable for induced infringement, Cisco must have had knowledge that the induced acts constitute patent infringement.
+On the contrary, the jury instruction allowed Cisco to be held liable if "Cisco knew or should have known that its actions [***5] would induce direct infringement."
+J.A.
+6389 (99:10-11).
+With respect to whether the induced acts constitute patent infringement, it is clear that the jury was permitted to find induced infringement based on mere negligence where knowledge is required.
+This erroneous instruction certainly could have changed the result.
+Facts sufficient to support a negligence finding are not necessarily sufficient to support a finding of knowledge.
+Accordingly, we vacate the jury's verdict on induced infringement and remand for a new trial.
+Because we vacate the induced infringement verdict upon which the damages award is based, we also vacate the damages award.
+B. CISCO'S GOOD-FAITH BELIEF OF INVALIDITY Cisco further contends that the district court erred in preventing Cisco from presenting evidence during the second trial of its good-faith belief of invalidity to rebut Commil's allegations of induced infringement.
+We agree.
+Prior to the second trial, Cisco proffered evidence to support its good-faith belief that the `395 patent is invalid.
+Commil filed a motion in limine to exclude this evidence, which the district court granted without written opinion.
+It is not entirely clear from the record why the district court precluded Cisco from presenting its evidence.
+However, during a colloquy with Cisco's counsel at a pretrial hearing, the district court appeared to base its decision on the fact that our precedent indicates that such evidence is relevant where it relates to a good-faith belief of non-infringement, but is silent with respect to invalidity.
+J.A.
+6061-63.
+It is true, as the district court noted, that we appear to have not previously determined whether a good-faith belief of invalidity may negate the requisite intent for induced infringement.
+We now hold that it may. Under our case law, it is clear that a good-faith belief of non-infringement is relevant evidence that tends to show that an accused inducer lacked the intent required to be held liable for induced infringement.
+See DSU Med. Corp. [**1295] , 471 F.3d at 1307 (finding a demonstrated belief of non-infringement sufficient to support a jury verdict that the defendant did not induce infringement); Ecolab, Inc. v. FMC Corp. , 569 F.3d 1335 , 1351 amended on reh'g in part , 366 F. App'x 154 (Fed. Cir. 2009) (finding that a reasonable belief of non-infringement supported a jury verdict that the defendant lacked the intent required for induced infringement); Kinetic Concepts, Inc. v. Blue Sky Med. Grp., Inc. , 554 F.3d 1010 , 1025 (Fed. Cir. 2009) (holding that defendant's "belief that it can freely practice inventions found in the public domain" supports "a jury's finding that the intent required for induced infringement was lacking"); Bettcher Indus., Inc. v. Bunzl USA, Inc. , 661 F.3d 629 , 649 (Fed. Cir. 2011) (finding opinion of counsel regarding non-infringement "admissible, at least with respect to [defendant]'s state of mind and its bearing on indirect infringement").
+We see no principled distinction between a good-faith belief of invalidity and a good-faith belief of non-infringement for the purpose of whether a defendant possessed the specific intent to induce infringement of a patent.
+It is [***6] axiomatic that one cannot infringe an invalid patent.
+See, e.g., Prima Tek II, L.L.C.
+v. Polypap, S.A.R.L.
+, 412 F.3d 1284 , 1291 (Fed. Cir. 2005) ("there can be no .
+.
+.
+induced infringement of invalid patent claims"); Richdel, Inc. v. Sunspool Corp. , 714 F.2d 1573 , 1580 (Fed. Cir. 1983) ("The claim being invalid there is nothing to be infringed.").
+Accordingly, one could be aware of a patent and induce another to perform the steps of the patent claim, but have a good-faith belief that the patent is not valid.
+Under those circumstances, it can hardly be said that the alleged inducer intended to induce infringement.
+Thus, a good-faith belief of invalidity is evidence that may negate the specific intent to encourage another's infringement, which is required for induced infringement.
+Several district courts have considered this question and come to the same conclusion.
+See VNUS Med.
+Techs., Inc. v. Diomed Holdings, Inc. , 2007 WL 2900532 , at 1 (N.D. Cal. Oct. 2, 2007) (denying plaintiff's motion for summary judgment on induced infringement based, in part, on an opinion of counsel that the patents-in-suit were invalid"); Kolmes v. Worm Elastic Corp. , 1995 WL 918081 , at 10 (M.D.N.C.
+Sept. 18, 1995) (finding, after a bench trial, no intent to induce infringement where defendants "had a good faith belief in the invalidity" of the patent-in-suit); DataQuill Ltd. v. High Tech Computer Corp. , [ 887 F. SUPP. 2D 999 ], 2011 WL 6013022, at *10 (S.D. Cal. Dec. 1,2011) (indicating that a belief of invalidity may present a triable issue of fact as to intent to induce infringement); see also Lemley, Inducing Patent Infringement , 39 U.C.
+Davis.
+L. Rev. 225,243 (2005) ("[I]t is not reasonable to assume that merely because a defendant is aware of the existence of a patent, he intended to infringe it.
+He may believe the patent invalid"); but see Applera Corp. v. MJ Research Inc. , [ 305 F. SUPP. 2D 170 ], 2004 WL 367616, at *1 (D. Conn. Feb. 24, 2004); LadaTech, LLC v. Illumina, Inc. , [ 2012 BL 34535 ], 2012 WL 1188266, at *2 (D. Del. Feb. 14, 2012).
+We now hold that evidence of an accused inducer's good-faith belief of invalidity may negate the requisite intent for induced infringement.
+[fn1] This is, of course, not to say that such evidence precludes a finding of induced infringement.
+Rather, it is evidence that should be considered by the fact-finder in determining whether an accused party knew "that the induced acts constitute patent infringement."
+Global-Tech , 131 S. Ct. at 2068 .
+C. THE GRANT OF A SECOND TRIAL Cisco challenges the district court's grant of a new trial on two fronts.
+First, Cisco argues that there was no basis for granting a new trial.
+Second, Cisco argues that even if a new trial was proper, the partial new trial violated the Seventh Amendment.
+We discuss these issues seriatim.
+1.
+THE FIRST TRIAL The district court proceedings in this case were unusual.
+Commil is based in Israel and the inventors of the `395 patent are Israeli.
+Throughout the trial, according to the district court, Cisco's trial counsel attempted to play upon religious prejudices and ethnic stereotypes.
+[**1296] For instance, during the cross-examination of Jonathan David, a co-owner of Commil who is Jewish, Cisco's counsel attempted to perpetuate the stereotype of Jewish people as greedy opportunists by asking Mr. David if his cousin was a "bottom-feeder [***7] who swim[s] around on the bottom buying people's houses that they got kicked out of for next to nothing."
+J.A.
+5823 (139:19-140:1).
+Later, when Mr. David mentioned dining at a local barbeque restaurant, Cisco's counsel quipped, "I bet not pork."
+J.A.
+5825 (146:4-24).
+Following the pork comment, the court questioned counsel on the relevance of his statement and issued a curative instruction stating: Sometimes when a lawyer injects irrelevant information into a case it's because he perceives a weakness in the merits of his case.
+I don't know whether that's why it happened in this case, but you can consider that as you're evaluating the testimony and the evidence in this case. J.A.
+5838 (2:25-3:9).
+Despite the potent curative instruction and the court's clear displeasure, in his closing, counsel again made several irrelevant and prejudicial remarks.
+Counsel's behavior reached a new low when he began his closing argument with a reference to the trial of Jesus Christ, stating: Ladies and Gentlemen of the Jury, you are, in this case, truth-seekers.
+You are charged with the most important job in this courtroom, and that's determining the truth.
+.
+.
+.
+And when you figure out what the truth is, you'll know how to answer that verdict form.
+You remember the most important trial in history, which we all read about as kids, in the Bible had that very question from the judge.
+What is truth?
+J.A.
+6038 (16:1-16).
+[fn2] After discharging the jury, the court again expressed displeasure with Cisco's counsel and informed Commil that should they file it, a motion for a new trial would be entertained.
+Shortly thereafter, Commil filed a motion for a new trial on the issues of indirect infringement and damages.
+In ruling on the motion, the court found that when counsel's comments regarding the trial of Jesus were viewed in context with other comments regarding Mr. David and the inventors Jewish heritage, it was clear that counsel was attempting to align his "religious preference with that of the jurors and employs an `us v. them' mentality-i.e., `we are Christian and they are Jewish.'"
+Commil USA, LLC v. Cisco Sys., Inc. , No. 2:07-CV-341 , slip op. at 3 (E.D.
+Tex. Dec. 29, 2010).
+The court granted the motion, finding that the comments prejudiced the jury with respect to indirect infringement and damages.
+Cisco filed a motion for reconsideration, which the court denied.
+1.
+GRANT OF A NEW TRIAL We review issues not unique to patent law, such as the grant of a new trial based on the prejudicial remarks of counsel, under regional circuit law.
+Riverwood Int'l Corp. , 324 F.3d at 1352 .
+The Fifth Circuit reviews rulings on new trial motions for abuse of discretion, with more exacting review applied to orders granting a new trial than to those denying them.
+Conway v. Chem. Leaman Tank Lines, Inc. , 610 F.2d 360 , 362-363 (5th Cir. 1980).
+"[A] new trial will not be granted, even if counsel's remarks are improper, unless after considering the record as a whole the court concludes that manifest injustice would result from letting the verdict stand."
+Gautreaux v. Scurlock Marine, Inc. , 84 F.3d 776 , 783 (5th Cir. 1996).
+This is particularly the case where, as here, the statements drew no objection from the opposing party: "[I]mproper argument [***8] may be the basis for a new trial where no objection has been raised only `where the interest of substantial justice is at stake.'"
+Hall v. Freese , 735 F.2d 956 , 961 (5th Cir. 1984) (quoting Edwards v. Sears, Roebuck & Co. , 512 F.2d 276 , 286 (5th Cir. 1975)).
+As discussed supra , the district court granted a new trial based on what it viewed as the prejudicial effect of inflammatory statements made by Cisco's counsel during trial.
+Cisco claims that the statements do not warrant a new trial.
+Cisco asks us to review the cold record — substituting our judgment for the district court's — and find that there was no manifest injustice in this case.
+We decline.
+[**1297] In reviewing the district court's ruling, it is clear that the court did not abuse its discretion.
+There is ample evidence from which the district court could conclude that the jury was biased by Cisco's actions.
+Throughout trial, Cisco attempted to instill in the jury, through irrelevant references to ethnicity and religion, an "us versus them" mentality.
+Cisco persisted in its course of conduct even after the court warned counsel and issued a curative instruction.
+And, in a case involving Jewish inventors and plaintiffs, Cisco's counsel began his closing argument with a reference to the trial of Jesus Christ.
+Even if we were inclined to agree with Cisco that there is no manifest injustice in this case — and we are not — we refuse to substitute our judgment for that of a district court whose "on-the-scene assessment of the prejudicial effect, if any, carries considerable weight."
+United States v. Munoz , 150 F.3d 401 , 415 (5th Cir. 1998).
+Accordingly, we find that the district court did not abuse its discretion in granting a new trial.
+2.
+PARTIAL NEW TRIAL The Federal Rules of Civil Procedure allow the courts to grant partial new trials so long as the issues are "distinct and separable."
+Fed. R. Civ. P. 59 .
+A court's authority to grant a partial new trial is likewise constrained by the Seventh Amendment.
+Gasoline Prod. Co. v. Champlin Refining Co. , 283 U.S. 494 , 500 (1931).
+"Where the practice permits a partial new trial, it may not properly be resorted to unless it clearly appears that the issue to be retried is so distinct and separable from the others that a trial of it alone may be had without injustice."
+Id .
+A partial new trial should not be granted where the issues to be retried are "so interwoven" with other issues in the case "that the former cannot be submitted to the jury independently of the latter without confusion and uncertainty."
+Id .
+We have explained, however, that the Seventh Amendment "prohibition is not against having two juries review the same evidence , but rather against having two juries decide the same essential issues ."
+In re Innotron Diagnostics , 800 F.2d 1077 , 1086 (Fed. Cir. 1986) (citation omitted).
+Trying issues separately is appropriate where "separate trials would not constitute a `clear and indisputable' infringement of the constitutional right to a fair trial.
+Id .
+(citing Bankers Life & Casualty Co. v. Holland , 346 U.S. 379 , 384 (1953).
+Cisco contends that the district court violated the Seventh Amendment by granting a new trial on the issues of induced infringement and damages, but not direct infringement and validity.
+Specifically, Cisco contends, [***9] under the circumstances of this case, indirect infringement is not distinct and separable from validity, but rather, they are inextricably intertwined.
+Cisco argues that where the plaintiff alleges induced infringement and the defendant has evidence of a good-faith belief of invalidity, the issues of validity and induced infringement are not distinct and separable.
+We disagree.
+We note at the outset that "patent infringement and invalidity are separate and distinct issues."
+Pandrol USA, LP v. Airboss Ry. Prod., Inc. , 320 F.3d 1354 , 1364-65 (Fed. Cir. 2003).
+Indeed, this court routinely orders a partial new trial on infringement, while upholding an earlier verdict on validity.
+See, e.g., Cardiac Pacemakers, Inc. v. St. Jude Med., Inc. , 381 F.3d 1371 , 1374 (Fed. Cir. 2004); Comaper Corp. v. Antec, Inc. , 596 F.3d 1343 , 1354-55 (Fed. Cir. 2010).
+We previously rejected the "argument that, under the Seventh Amendment, a new trial on willfulness would require a new trial on infringement."
+Voda v. Cordis Corp. , 536 F.3d 1311 , 1329 (Fed. Cir. 2008).
+In order to prove that infringement was willful, a plaintiff must show both that "an infringer acted despite an objectively high likelihood that its actions constituted infringement of a valid patent" and that the "objectively-defined risk (determined by the record developed in the infringement proceeding) was either known or so obvious that it should have been known to the accused infringer."
+In re Seagate Tech., LLC , 497 F.3d 1360 , 1371 (Fed. Cir. 2007).
+"[T]he objective prong of Seagate tends not to be met where an accused infringer relies on a reasonable defense to a charge of infringement.
+Thus, the question on appeal often posed is whether a defense or non-infringement theory was reasonable."
+Bard Peripheral Vascular, Inc. v. W.L.
+Gore & Assocs., Inc. , 682 F.3d 1003 , 1005-06 (Fed. Cir. 2012) cert. denied , 133 S. Ct. 932 (2013).
+In such a case, in order to find that infringement was not willful, the defendant's non-infringement theory must be reasonable.
+The question of a non-infringement theory's reasonableness [**1298] often requires looking at the merits of non-infringement.
+Yet, a new trial on willfulness does not require a new trial on infringement.
+See Voda , 536 F.3d at 1329 .
+We believe the situation in the present case to be analogous.
+We acknowledge that the current case presents a unique situation where a jury considering induced infringement, but not validity, may be asked to consider evidence of invalidity in order to decide whether Cisco possessed a good-faith belief of invalidity.
+Nonetheless, the fact that a second jury will consider evidence of invalidity that supports Cisco's position on the good-faith belief issue does not compel the conclusion that the second jury will decide the ultimate issue of invalidity.
+Indeed, the issue of whether Cisco possessed a good-faith belief of invalidity is distinct and separate from the issue of whether the patent claims are invalid.
+In order to determine that Cisco had a good-faith belief of invalidity, the jury must merely decide whether Cisco possessed that belief in good-faith.
+The jury need not decide whether the underlying position was meritorious.
+Thus, although the two juries will review the same evidence of invalidity, they will not decide the same [***10] essential issues.
+Therefore, we cannot say that separate trials on invalidity and induced infringement would constitute a clear and indisputable infringement of the constitutional right to a fair trial.
+Accordingly, we find that holding separate trials on the issues of invalidity and induced infringement does not violate the Seventh Amendment.
+D. CLAIM CONSTRUCTION AND THE MERITS Cisco challenges the district court's construction of the term "short-range communication protocol."
+The court construed this term to mean "a set of procedures required to initiate and maintain short-range communication between two or more devices."
+Commil USA, LLC v. Cisco Sys., Inc. , 2:07-CV-341 , slip op. at 1 (E.D.
+Tex. Nov. 6, 2009).
+Cisco's argument is without merit.
+Cisco does not contend that a "short-range communication protocol" is not "a set of procedures required to initiate and maintain short-range communication between two or more devices."
+Rather, Cisco asks this court, as it did the district court, to limit the term to only those specific short-range communication protocols listed in the patent.
+We decline.
+See Phillips v. AWH Corp. , 415 F.3d 1303 , 1323-24 (Fed. Cir. 2005) (cautioning against importing limitations from the specification into the claims).
+Cisco also appeals the district court's findings regarding validity, infringement, and damages.
+Cisco argues that the claims are invalid for reasons of indefiniteness, non-enablement, and lack of written description.
+We find these contentions without merit.
+Because we remand for a new trial, we do not reach the issues of infringement and damages.
+Rather, we leave them to be decided by the district court in first instance.
+AFFIRM-IN-PART, VACATE-IN-PART, AND REMAND

@@ -1,0 +1,88 @@
+ TJOFLAT , Circuit Judge: The sole question presented by this appeal is whether the failure of a carrier to comply with credit regulations promulgated under the Interstate Commerce Act is a defense available to the consignor in an action by the carrier against a consignor who failed to execute a nonrecourse provision in the relevant bill of lading.
+The district court found the carrier's failure to be a valid defense; we affirm.
+I The facts in this case are not in dispute.
+On April 11, 1974, Commercial Metals Co. (Commercial) tendered one railcar of steel cobble to Penn Central Transportation Company for shipment to the designated consignee, Carco Steel Corporation (Carco).
+When arranging for shipment, Commercial did not execute the nonrecourse provision in the applicable bill of lading.
+This railcar was delivered by Southern Pacific Transportation, the last in a succession of carriers, to Carco on April 25, 1974.
+The railcar was released to Carco without collection of the shipping charges.
+Prior to delivery Southern Pacific did not investigate Carco's credit worthiness.
+On May 2, 1974, Commercial tendered two more railcars of steel cobble to Penn Central for shipment to Carco as consignee.
+When arranging for shipment, Commercial once again failed to execute the nonrecourse provision in the bills of lading.
+Soon thereafter, Southern Pacific Transportation delivered these railcars to Carco.
+At the time of their delivery, Carco had still not paid the freight charges on the first railcar of steel.
+Nevertheless, on May 16, 1974, Southern Pacific released these two railcars to Carco on receipt of two checks.
+The total amount tendered to Southern Pacific at that time was approximately $900 short of the sum actually due for shipping the last two cars; Carco made no offer to pay the sum due for shipment of the first railcar.
+The checks Carco tendered were dishonored by Carco's bank.
+Southern Pacific subsequently attempted to recover all sums due it from Carco, but was unable to do so. Two years and seven months later, Southern Pacific made demand on Commercial for payment of the shipping charges.
+Commercial refused to pay, and Southern Pacific commenced this action in the district court.
+II It is clear that "ordinarily the shipper is presumed primarily liable to the carrier for freight charges for the transportation of goods."
+O'Boyle Tank Lines, Inc. v. Beckham , 616 F.2d 207, 209 (5th Cir. 1980).
+Although this presumption may be modified by contract, id. , Commercial's failure to execute the nonrecourse provision of the bill of lading is a clear indication that Commercial was to be primarily liable for the cost of shipping these three railcars.
+Illinois Steel Co. v. Baltimore & Ohio Railroad Co. , 320 U.S. 508, 513 , 64 S.Ct. 322, 325 , 88 L.Ed. 259 (1944).
+Moreover, it is undisputed that Southern Pacific did deliver the railcars to Carco and has subsequently instituted this suit against Commercial within the applicable statute of limitations.
+Thus, in the absence of a valid defense, Commercial must be held liable to Southern Pacific for the freight charges.
+Section 3(2) of the Interstate Commerce Act, however, is a barrier to Southern Pacific's collection of the charges.
+That section reads in pertinent part: 49 U.S.C. 3(2) (1976).
+The regulations promulgated under the Act modify this statutory mandate by allowing for delivery of freight on credit.
+The terms under which credit may be extended, however, are quite strict.
+The applicable regulation reads: upon taking precautions deemed by it to be sufficient to assure payment of the tariff charges within the credit periods specified 4 days or 5 days 49 C.F.R. 1320.1 (1979)(emphasis added).
+As the facts of this case reveal, and as the parties agree, Southern Pacific failed to comply with section 3(2) of the Act by extending credit to Carco, without adequate precautions, for a period in excess of that provided for in the applicable regulation.
+The only question, therefore, is whether Southern Pacific's failure in this regard should constitute a defense to Commercial in Southern Pacific's action for the freight charges.
+The district court held that Southern Pacific's failure was a defense, and we agree.
+Consolidated Freightways Corp. of Delaware v. Admiral Corp. , 442 F.2d 56 (7th Cir. 1971), presents a closely analogous situation.
+In that case, Admiral Corporation was consignee on bills of lading executed by a freight forwarder as consignor.
+This consignor marked the bills of lading "prepaid," which indicated that the carrier was to bill the consignor.
+After the goods were delivered to Admiral, the carrier billed the consignor for freight charges.
+The consignor, who had obtained credit from the carrier for a period beyond that allowed by the applicable regulations, failed to tender payment.
+The carrier then attempted to secure payment from Admiral.
+The court held that the carrier's "unlawful conduct in violating the [relevant] credit regulations," id. at 63 , precluded the carrier from recovering from Admiral.
+The court stressed that "[p]ermitting [the carrier to recover] in this case would serve only to reward the carrier for its unlawful as well as inequitable conduct."
+Id.
+Accord , Brown Transportation Corp. v. Atcon, Inc. , 144 Ga.App.
+301 , 241 S.E.2d 15 (1977), cert. denied , 439 U.S. 1014 , 99 S.Ct. 626 , 58 L.Ed.2d 687 (1978); Allied Van Lines, Inc. v. Hanson , 131 Ga.App.
+506 , 206 S.E.2d 108 (1974); Aero Mayflower Transit Co., Inc. v. Harbin , 126 Ga.App.
+72 , 190 S.E.2d 91 (1972); Checker Van Lines v. Siltek International, Ltd. , 169 N.J.Super.
+102 , 404 A.2d 333 (1979).
+In the face of this authority, Southern Pacific has offered two reasons why its failure to comply with the ICC credit regulations should not preclude its recovery of freight charges.
+First, it argues that if the defense is allowed, the freight charges will not be paid, and nonpayment will violate the Interstate Commerce Act's clear prohibition of rate discrimination.
+Section 6(7) of the Act provides: 49 U.S.C. 6(7) (1976).
+Southern Pacific's argument is that allowing Commercial to avoid paying freight charges will, in effect, extend to Commercial a rate privilege, tantamount to a rate exemption, which clearly violates the Interstate Commerce Act's prohibition of all rate discrimination.
+Furthermore, Southern Pacific argues that when a pricing arrangement is discriminatory, the Act allows no defenses in an action designed to rectify that discrimination, regardless of the carrier's conduct.
+It is true that the primary purpose of the Interstate Commerce Act is to achieve uniformity in freight transportation charges and therefore to eliminate rate discrimination.
+Illinois Central Gulf Railroad Co. v. Golden Triangle Wholesale Gas Co. , 586 F.2d 588, 592 (5th Cir. 1978).
+As the Supreme Court has stated, the purpose of the Act is to achieve "but one rate, open to all alike, and from which there could be no departure."
+Boston & Maine R.R. v. Hooker , 233 U.S. 97, 112 , 34 S.Ct. 526, 528 , 58 L.Ed. 868 (1914).
+See also Pittsburgh, Cincinnati, Chicago & St. Louis Railway Co. v. Fink , 250 U.S. 577 , 40 S.Ct. 27 , 63 L.Ed. 1151 (1919).
+It is also true that, in light of this Congressional intent, courts have been quite reluctant to allow defenses to a carrier's claim for freight charges.
+See Illinois Central Gulf Railroad Co. , 586 F.2d at 592 .
+Thus, for example, when a carrier negligently undercharged a shipper of goods and then, upon discovering the error, sought to recover the balance, the Supreme Court refused to allow the shipper to use the carrier's initial failure to charge the proper rate as a defense.
+Pittsburgh, Cincinnati, Chicago & St. Louis Railway Co. , supra .
+It is not appropriate, however, to rely on section 6(7) of the Act and cases such as Pittsburgh, Cincinnati, Chicago & St. Louis Railway Co. , supra , to justify an absolute prohibition of defenses to a carrier's action against a shipper for freight charges.
+In each case the court must consider whether, under the circumstances presented, allowing the defense would undermine the purpose of the Interstate Commerce Act.
+The proper inquiry, then, is whether our recognition of the defense offered by Commercial in this case "will serve directly or indirectly as a cover for freight rate discrimination."
+Chicago, Burlington & Quincy Railroad Co. v. Ready Mixed Concrete Co. , 487 F.2d 1263, 1267 (8th Cir. 1973).
+See also In re Penn Central Transportation Co. , 477 F.2d 841, 844 (3d Cir.), aff'd , 414 U.S. 885 , 94 S.Ct. 231 , 38 L.Ed.2d 137 (1973); Southern Pacific Transportation Co. v. Campbell Soup Co. , 455 F.2d 1219, 1222 (8th Cir. 1972).
+The facts of this case do not reveal a situation in which denial of recovery to the carrier will serve as a cover for rate discrimination.
+Commercial was not extended a preferential rate, nor is there any evidence that the company contracted for or otherwise sought such a rate.
+"The full rate was charged.
+The only unlawful discrimination was the plaintiff's extension of credit " Consolidated Freightways Corp. of Delaware v. Admiral Corp. , 442 F.2d at 63 .
+Neither party denies that Southern Pacific could and should have demanded full payment for the freight charges from Carco, and that, initially, Southern Pacific could also have asserted the same claim against Commercial.
+"So long as payment of the full tariff charges may be demanded from some party, the anti-discrimination policy of the [Act] is satisfied."
+Id. at 62 .
+In the absence of a specifically applicable Congressional mandate, we refuse to transform the Act's anti-discrimination provision into "a sword to insure collection in every instance and a shield to insulate the carrier from the legal consequences of otherwise negligent or inequitable conduct."
+Id. Here, there was no attempt to achieve rate discrimination; the only discrimination that occurred was Southern Pacific's extension of specifically prohibited credit terms to Carco.
+It would indeed be anomalous to allow Southern Pacific to recover despite its conduct.
+The integrity of the Act is not eroded by barring Southern Pacific's recovery.
+Southern Pacific offers a second argument to void Commercial's defense in this action.
+It claims that those courts that have allowed defenses to a carrier's action for freight charges based upon the conduct of the carrier have done so only because the party from whom recovery was sought had already paid the shipping charge, albeit to someone other than the carrier.
+Thus, the defense asserted by Commercial should only be allowed if Commercial had prepaid Carco for the freight charge.
+The defense, in other words, should be allowed only to preclude double payment of freight charges.
+Southern Pacific is on solid ground when it asserts that the cases Commercial relies on, such as Admiral Corp. , supra , and the Georgia cases cited at 237, supra , are factually distinguishable from the case at bar.
+In these cases the defending party paid the shipping charge, pursuant to contract, to someone other than the carrier, and the carrier understood, or should have understood, this arrangement.
+Nevertheless, we believe this distinction is one of degree only; assuredly, holding Commercial liable if it had prepaid the freight charges would work an injustice.
+It does not necessarily follow, however, that holding Commercial liable here absent prepayment would not also be unjust, when its injury is solely the result of the improper and illegal business practices of Southern Pacific.
+"In this case a carrier seeks to extend the protective policy of the [Interstate Commerce Act] in order to be held harmless from credit losses resulting directly from its own flagrant disregard of regulations promulgated under the statute."
+Consolidated Freightways Corp. of Delaware , 442 F.2d at 65 (Stevens, J., concurring).
+Under these circumstances, we are compelled to hold that the carrier's failure to comply with the applicable ICC regulations is a defense, available to Commercial, in an action by the carrier for unpaid freight charges.
+For these reasons, we affirm the decision of the district court.
+AFFIRMED.

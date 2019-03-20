@@ -1,0 +1,56 @@
+ BIRCH , Circuit Judge: In this appeal, we determine whether the Supreme Court's Daubert 1 criteria for admission of scientific evidence should apply to testimony from a tire failure expert.
+In granting summary judgment against plaintiff-appellants, the district court relied on Daubert to exclude testimony from plaintiff-appellants' expert.
+Plaintiff-appellants, however, argue that the district court should not have applied Daubert because their expert's proffered testimony is not "scientific."
+We REVERSE.
+I. BACKGROUND On July 6, 1993, plaintiff-appellants, eight members of the Carmichael family (collectively "the Carmichaels"), were involved in a serious automobile mishap when the right rear tire on their minivan failed.
+This occurrence resulted in significant trauma to each of the Carmichaels; one member of the family ultimately died from her injuries.
+For the purposes of this appeal, the parties agree that the failure of a tire manufactured and sold by defendant-appellees (collectively "Samyang") directly caused the mishap.
+Following the incident, the Carmichaels submitted the carcass of the failed tire to George Edwards, a purported expert on tire failure.
+After examining the tire, Edwards determined that its failure was not the result of any abuse by the Carmichaels.
+Therefore, Edwards concluded that a defect in either the tire's design or its manufacture caused the blowout.
+Before Edwards could be deposed by Samyang, however, he became too ill to testify and transferred the case to his employee, Dennis Carlson.
+2 After reviewing Edwards's file on the tire and discussing the case with Edwards, Carlson confirmed Edwards's conclusion that a design or manufacturing defect caused the blowout.
+Carlson, though, did not personally examine the tire until approximately one hour before his deposition by Samyang, long after he had rendered his opinion on the cause of the blowout.
+In his deposition, Carlson then set forth both his analytical process and his conclusion that the Carmichaels' tire was defective.
+Before the district court, Samyang moved for the exclusion of Carlson's testimony on the ground that it could not satisfy Daubert 's standards for reliability of scientific evidence.
+After reviewing Carlson's deposition, the district court agreed and excluded Carlson, writing that "none of the four admissibility criteria outlined by the Daubert court are satisfied in this case." Carmichael , 923 F.Supp.
+at 1521 .
+Because the Carmichaels' only proffered evidence of a tire defect was Carlson's testimony, the district court then granted summary judgment for Samyang.
+See id. at 1524 .
+The Carmichaels now appeal the exclusion of their tire expert.
+II.
+DISCUSSION In Daubert , the Supreme Court established several general criteria for the admission of scientific expert testimony under Federal Rule of Evidence 702 .
+3 See Daubert , 509 U.S. at 593-95 , 113 S.Ct. at 2796-98 .
+4 Appealing the district court's exclusion of Carlson's testimony, the Carmichaels argue that the district court should not have applied Daubert 's reliability framework because Carlson is not a "scientific" expert.
+In response, Samyang contends that Carlson's testimony is based on an unreliable scientific analysis.
+We review the district court's legal decision to apply Daubert de novo, see Compton v. Subaru of Am., Inc. , 82 F.3d 1513, 1517 (10th Cir.), cert. denied , U.S. , 117 S.Ct. 611 , 136 L.Ed.2d 536 (1996), and its decision to exclude particular evidence under Daubert for abuse of discretion, see General Elec. Co. v. Joiner , U.S. , 118 S.Ct. 512 , L.Ed.2d (1997).
+Despite Samyang's protestations, "Daubert does not create a special analysis for answering questions about the admissibility of all expert testimony.
+Instead, it provides a method for evaluating the reliability of witnesses who claim scientific expertise."
+United States v. Sinclair , 74 F.3d 753, 757 (7th Cir.1996).
+In fact, the Supreme Court in Daubert explicitly limited its holding to cover only the "scientific context."
+Daubert , 509 U.S. at 590 n. 8, 113 S.Ct. at 2795 n. 8; see also United States v. Cordoba , 104 F.3d 225, 230 (9th Cir.1997) (" Daubert applies only to the admission of scientific testimony.
+"); Compton , 82 F.3d at 1518 (same); Iacobelli Constr., Inc. v. County of Monroe , 32 F.3d 19, 25 (2d Cir.1994) (same).
+5 Although the Court's analysis in Daubert may suggest reliability issues for district courts to consider as they determine whether proffered evidence is sufficiently reliable for admission under Rule 702 , "the trial court's role as gatekeeper is not intended to serve as a replacement for the adversary system: 'Vigorous cross-examination, presentation of contrary evidence, and careful instruction on the burden of proof are the traditional and appropriate means of attacking shaky but admissible evidence.'"
+United States v. 14.38 Acres of Land , 80 F.3d 1074, 1078 (5th Cir.1996) (quoting Daubert , 509 U.S. at 596 , 113 S.Ct. at 2798 ).
+What, then, is the difference between scientific and non-scientific expert testimony?
+In short, a scientific expert is an expert who relies on the application of scientific principles, rather than on skill or experience-based observation, for the basis of his opinion.
+See Daubert , 509 U.S. at 590 , 113 S.Ct. at 2795 .
+As the Sixth Circuit explained in Berry v. City of Detroit : if 25 F.3d 1342, 1349-50 (6th Cir.1994); see also Sorenson v. Robert B. Miller & Assoc., Inc. , Nos.
+95-5085 , 95-5086 , [ 97 F.3D 1452 ], 1996 WL 515351, (applying Berry ).
+6 Thus, the question in this case is whether Carlson's testimony is based on his application of scientific principles or theories (which we should submit to a Daubert analysis) or on his utilization of personal experience and skill with failed tires (which we would usually expect a district court to allow a jury to evaluate).
+In other words, is the testimony at issue in this case more like that of a beekeeper applying his experience with bees or that of an aeronautical engineer applying his more generalized knowledge of the scientific principles of flight?
+Having clarified the question posed by this case, it seems apparent to us that Carlson's testimony is non-scientific.
+Although Samyang is no doubt correct that the laws of physics and chemistry are implicated in the failure of the Carmichaels' tire, Carlson makes no pretense of basing his opinion on any scientific theory of physics or chemistry.
+7 Instead, Carlson rests his opinion on his experience in analyzing failed tires.
+After years of looking at the mangled carcasses of blown-out tires, Carlson claims that he can identify telltale markings revealing whether a tire failed because of abuse or defect.
+8 Like a beekeeper who claims to have learned through years of observation that his charges always take flight into the wind, Carlson maintains that his experiences in analyzing tires have taught him what "bead grooves" and "sidewall deterioration" indicate as to the cause of a tire's failure.
+Indeed, Carlson asserts no knowledge of the physics or chemistry that might explain why the Carmichaels' tire failed.
+Thus, we conclude that Carlson's testimony falls outside the scope of Daubert and that the district court erred as a matter of law by applying Daubert in this case. Still, the inapplicability of Daubert should not end the day regarding Carlson's reliability.
+Under Rule 702 , it is the district court's duty to determine if Carlson's testimony is sufficiently reliable and relevant to assist a jury.
+See 14.38 Acres , 80 F.3d at 1078 .
+Moreover, Carlson's testimony is subject to exclusion under Federal Rule of Evidence 403 if its probative value is substantially outweighed by its likely prejudicial effect.
+9 Aside from its Daubert related arguments, Samyang has presented this court with a number of potentially troubling criticisms of Carlson's alleged expertise and methodology, including his rendering of an opinion regarding the Carmichaels' tire before he had personally inspected its carcass.
+10 We leave judgments about such matters to the discretion of the district court on remand.
+III.
+CONCLUSION The district court erred as a matter of law in applying the Daubert criteria to the Carmichaels' proffered expert testimony.
+Therefore, we REVERSE and REMAND the case to the district court for further proceedings consistent with this opinion.

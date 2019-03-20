@@ -1,0 +1,86 @@
+ BOUDIN , Circuit Judge.
+Having obtained a filing extension, Cornelius and Suzanne Young filed their 1992 federal income tax return on October 15, 1993.
+Their return showed taxes due after withholding, but no payment accompanied the return.
+Instead, the Youngs made modest payments to the IRS for a number of months and then, on May 1, 1996, filed for Chapter 13 bankruptcy, 11 U.S.C. 1321 (1994).
+This automatically stayed all IRS efforts to collect taxes from the Youngs.
+Id .
+362(a)(6) .
+To complete a Chapter 13 bankruptcy--typically a proceeding that lasts several years--requires that tax claims be paid in full.
+11 U.S.C. 507(a)(8) , 1322(a)(2).
+At the outset, the IRS filed a proof of claim for the unpaid 1992 taxes.
+However, the Youngs did not stay the course; instead, on October 23, 1996, the Youngs moved to dismiss their petition.
+Id .
+1307 .
+The bankruptcy court did so on March 13, 1997, which would normally terminate the automatic stay.
+1 Id .
+362(c)(2) .
+One day before the Chapter 13 proceeding was closed, the Youngs filed a new "no asset" bankruptcy petition under Chapter 7.
+This in turn continued the automatic stay pendente lite .
+Chapter 7 is usually a brief proceeding to distribute non-exempt assets to creditors.
+On June 17, 1997, the Youngs received a discharge in the Chapter 7 proceeding, generally discharging their debts "[e]xcept as provided in section 523 [of title 11]," 11 U.S.C. 727(b) .
+After the discharge the IRS sought the unpaid balance for the Youngs' 1992 taxes, and the Youngs then asked the bankruptcy court to rule that their remaining 1992 tax liability had been discharged.
+The IRS countered that section 523(a)(1) (A) of the Bankruptcy Code precludes the discharge of any debt "for a tax of the kind and for the periods specified in section 507(a)(8)," 11 U.S.C. 523(a)(1) , which includes in pertinent part unsecured government claims for income tax 11 U.S.C. 507(a)(8)(A)(i) .
+This convoluted language is commonly understood to describe claims for taxes for which the return was due three years or less before the petition was filed.
+The Youngs' 1992 return was due on October 15, 1993; more than three years before their Chapter 7 petition was filed on March 12, 1997.
+In response to this computational argument for discharge, the IRS said that in calculating the three-year period under section 507 , the court should exclude the period during which the Chapter 13 automatic stay had prevented the IRS from collecting the Youngs' tax debt; if this is done, the elapsed delay is well under three years.
+Following the majority view among the divided authorities, the bankruptcy court agreed with the IRS that the three-year period in section 507 should be tolled during the period of the prior automatic stay.
+The district court affirmed, saying that the better reasoned decisions supported this result.
+The Youngs now appeal to this court.
+The issues, which turn solely on the law, are considered de novo in this court.
+Martin v. Bajgar (In re Bajgar) , 104 F.3d 495, 497 (1st Cir.1997).
+Prior to 1966, no tax debt was discharged by bankruptcy.
+11 U.S.C. 35(a)(1) , 104(a)(4) (1964).
+The ability of the IRS to recover unpaid taxes was constrained only by the statute of limitations requiring (exceptions aside) assessment within three years of the return's filing, and collection within six years (now ten years) of assessment.
+26 U.S.C. 6501-02 (1964 & 1994).
+In 1966, Congress amended the Bankruptcy Code to strike a new balance between government revenue needs and the "fresh start" objectives of the bankruptcy laws.
+Pub.L.
+No. 89-496, 2 , 80 Stat. 270 (1966) (codified at 11 U.S.C. 35 (Supp. V 1970)); S.Rep.
+No. 1158 (1966), reprinted in 1966 U.S.C.C.A.N.
+2468, 2469-72.
+Taxes were made dischargeable under Chapter 7 but subject to a three-year "lookback" provision which, ignoring exceptions not relevant here, read as follows: 11 U.S.C. 35(a) (Supp. V 1970).
+This provision did not affect claims of the government that were secured by liens that the IRS obtained prior to bankruptcy through IRS levies or court proceedings to collect past taxes.
+S.Rep.
+No. 1158, reprinted in 1966 U.S.C.C.A.N.
+at 2470.
+The new three-year lookback limitation, said Congress, would "induce taxing authorities to act to prevent large accumulations of tax claims," curbing the past practice of allowing them "to accumulate and remain unpaid for long periods of time."
+Id. at 2471 .
+Thus, even under the new scheme, the government could effectively protect itself as to all tax claims by acting promptly.
+2 In the Bankruptcy Reform Act of 1978, Pub.L.
+95-598, 92 Stat. 2549 (codified at 11 U.S.C. 101-1330 (1994)), Congress revised the 1966 amendments in various ways.
+Notably, it split the relevant discharge provision into the two sections described above ( sections 727(b) and 523(a)(1)(A)); it fine-tuned the three-year period to begin with the date of the return instead of the due date of the taxes, 11 U.S.C. 507(a)(8)(A)(i) ; and it added a new exception to dischargeability for taxes assessed within 240 days before the filing of a bankruptcy petition, 11 U.S.C. 507(a)(8)(A)(ii) .
+But details aside, there is no indication that Congress intended to alter the three-year lookback compromise struck in 1966.
+Against this background, the issue on this appeal is readily framed.
+The Youngs rely on the language of the present Bankruptcy Code and say correctly that a plain language reading favors their position.
+The IRS claim for their unpaid 1992 taxes was never secured and so is dischargeable in bankruptcy unless excepted by the three-year lookback provision.
+And, literally read, the three-year lookback provision does not apply to the Youngs because the tax return in question was filed more than three years prior to the Youngs' Chapter 7 bankruptcy petition.
+The IRS, by contrast, urges that the three-year lookback period be tolled--that is to say, extended--by excluding the period during which the Youngs were in Chapter 13 proceedings.
+During this period, the IRS could not make collection efforts based on its prior assessment against the Youngs for their 1992 taxes; and given the overlap of the two automatic stays obtained by the Youngs, the IRS never got the three-year period that Congress intended to provide it to assess and collect the 1992 taxes.
+This, says the IRS, frustrates the original compromise embodied in the statute and opens the way to taxpayer manipulation.
+Congress has adopted tolling provisions to deal with related problems elsewhere in the Bankruptcy and Tax Codes; 3 indeed, there is a tolling provision of a specialized kind built into the companion 240-day assessment period added to section 507(a)(8) (A)(ii) in 1978.
+But the inferences from the presence of these express provisions more or less cancel out: the IRS gets some support from underlying policies in favor of tolling adopted in these different situations, while the Youngs can say that Congress's express provisions show that it knew how to add tolling provisions when it wished to do so, see Keene Corp. v. United States , 508 U.S. 200, 208 , 113 S.Ct. 2035 , 124 L.Ed.2d 118 (1993) (using the canon of inclusio unius ).
+The truth is that Congress appears never to have thought about the precise problem posed by the Youngs' successive petitions.
+Had it done so, it is a very safe guess that it would have adopted a tolling provision of some sort to protect the IRS.
+The IRS's policy arguments, based on the original 1966 compromise and the threat of manipulation, are strong ones, and the Youngs have no serious counter-arguments based on policy; they rely mainly on literal language and the impropriety of courts rewriting statutes.
+This last point is the nub of the matter.
+If Congress imposed a new tax on two classes of taxpayers and patently omitted a third comparable class only through oversight, a court could not properly read the third class into the tax statute, however confident judges might be about what Congress would have done if it had thought of the defect.
+Yet courts have been far more ready to interpolate solutions into statutes where the concern is with ancillary matters such as remedies, exhaustion requirements, time period calculations, retroactivity, and estoppel.
+Such matters are usually subordinate to Congress's main concerns, and courts often have prior expertise or existing doctrine in point.
+The category most apt in this case is that of statutes of limitations.
+Ordinarily, such limitations periods are fixed tersely by statute, but an apparatus of judge-made tolling doctrine has been superimposed on such statutes.
+Developments in the Law--Statutes of Limitations , 63 Harv. L. Rev. 1177 , 1220-35 (1950).
+The three-year lookback provision is akin to a statute of limitations--it preserves recent claims against discharge and cuts off older ones--and we think that courts retain the same freedom here to assure that the underlying aims of Congress are not frustrated by conduct that thwarts the compromise enacted in 1966.
+Virtually all of the circuit cases dealing with successive bankruptcy petitions and the three-year lookback provision have chosen to supplement the statute; the only difference between the judges is how to do it.
+The most common rule, adopted by five circuits, is that the lookback period is automatically tolled during a prior bankruptcy.
+4 These courts differ only in using different analogies or arguments to support the rule; four borrow from some combination of tolling provisions elsewhere in the Bankruptcy and Tax Codes, see note 3 above, while the Tenth Circuit relies on the general equitable powers of bankruptcy courts under 26 U.S.C. 105(a) .
+By contrast, three other circuits have held that the lookback period is not automatically tolled by a prior bankruptcy proceeding but that equitable considerations may permit tolling on a case-by-case basis.
+The Eleventh Circuit states that the equities will usually favor the government, Morgan v. United States (In re Morgan) , 182 F.3d 775, 779-80 (11th Cir.1999); the Sixth seems to require a showing of debtor misconduct, Palmer v. United States (In re Palmer) , 219 F.3d 580, 585 (6th Cir.2000); and the Fifth agnostically demands a "[f]ull development and examination of the facts," Quenzer v. United States (In re Quenzer) , 19 F.3d 163, 165 (5th Cir.1993).
+We follow the majority view in favor of automatic tolling.
+In some cases, the equities alone might justify tolling, but the automatic tolling rule rests on a broader basis: it preserves for the government the benefit of the 1966 compromise by giving it the full three years to assess and collect taxes.
+The taxpayer is faced with "old" tax claims only if he or she has chosen to make back-to-back bankruptcy filings.
+And, as a final, although less important benefit, automatic tolling is infinitely easier and more predictable to administer.
+Some might think that to make up for omissions in statutes will only encourage careless drafting and that serious gaps can always be filled by congressional amendment.
+Others might argue that in an age of numerous and complex enactments, lawmakers should expect that common law judges will use their traditional skills to support legislation.
+As usual, it is a matter of striking the right balance, and it comforts us to know that all circuits that have ruled on the matter agree that some judge-made tolling adjustment is required for section 507(a)(8) (A)(i).
+The judgment of the district court is affirmed .
+Each side will bear its own costs on this appeal.
+It is so ordered .

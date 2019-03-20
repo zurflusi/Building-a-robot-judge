@@ -1,0 +1,148 @@
+ HAWKINS, Circuit Judge: This case presents the question of whether the notice requirements of the Truth in Lending Act ("TILA"), 15 U.S.C. 1601 1615 and Regulation Z, 12 C.F.R. 226 , as interpreted by the Federal Reserve Board's Official Staff Commentary, apply to discretionary interest rate increases that occur because of consumer default.
+We hold that Regulation Z requires a creditor to provide contemporaneous notice of such rate increases.
+FACTUAL AND PROCEDURAL BACKGROUND James A. McCoy ("McCoy") brought this action on behalf of himself and others similarly situated against Chase Manhattan Bank, USA, N.A. ("Chase"), a national bank located in Delaware.
+McCoy alleges that Chase increased his interest rates retroactively to the beginning of his payment cycle after his account was closed to new transactions as a result of a late payment to Chase or another creditor.
+McCoy claims that the rate increase violated TILA and Delaware law because Chase gave no notice of the increase until the following periodic statement, after it had already taken effect.
+The district court dismissed McCoy's complaint with prejudice, holding that because Chase discloses the highest rate that could apply due to McCoy's default in its cardmember agreement with McCoy ("Cardmember Agreement"), no notice was required.
+JURISDICTION AND STANDARD OF REVIEW We have appellate jurisdiction pursuant to 28 U.S.C. 1291 and review dismissals for failure to state a claim de novo.
+Knievel v. ESPN , 393 F.3d 1068 , 1072 (9th Cir. 2005).
+DISCUSSION Federal TILA Claim Congress enacted TILA to "assure a meaningful disclosure of credit terms so that the consumer will be able to compare more readily the various credit terms available to him and avoid the uninformed use of credit, and to protect the consumer against inaccurate and unfair credit billing and credit card practices."
+15 U.S.C. 1601 (a).
+Regulation Z, adopted by the Federal Reserve Board to implement TILA, addresses when and how notice of changes in terms must be given: Written notice required.
+Whenever any term required to be disclosed under 226.6 is changed or the required minimum periodic payment is increased, the creditor shall mail or deliver written notice of the change to each consumer who may be affected.
+The notice shall be mailed or delivered at least 15 days prior to the effective date of the [**2] change.
+The 15-day timing requirement does not apply if the change has been agreed to by the consumer, or if a periodic rate or other finance charge is increased because of the consumer's delinquency or default; the notice shall be given, however, before the effective date of the change.
+12 C.F.R. 226.9 (c)(1).
+Section 226.6 requires that a creditor disclose inter alia "each periodic rate that may be used to compute the finance charge."
+12 C.F.R. 226.9 (a)(2).
+The parties dispute the meaning of the phrase "any term required to be disclosed under 226.6 ."
+Chase argues that the phrase applies only to the contractual terms of Chase's Card-member Agreement.
+McCoy suggests the phrase also applies to the list of specific "items" 226.6 (a)(2) requires be disclosed, which includes the interest rate that may be used.
+Although we find McCoy's interpretation more natural, we acknowledge that the text of Regulation Z is ambiguous.
+We defer to an agency interpretation of its own ambiguous regulation provided it is not "plainly erroneous or inconsistent with the regulation."
+Auer v. Robbins , 519 U.S. 452 , 461 , 117 S.Ct. 905 , 137 L.Ed.2d 79 (1997) (citing Robertson v. Methow Valley Citizens Council , 490 U.S. 332 , 359 , 109 S.Ct. 1835 , 104 L.Ed.2d 351 (1989)).
+We do not "permit the agency, under the guise of interpreting a regulation, to create de facto a new regulation."
+Christensen v. Harris County , 529 U.S. 576 , 588 , 120 S.Ct. 1655 , 146 L.Ed.2d 621 (2000).
+Chase argues that the Federal Reserve Board ("FRB")'s Official Staff Commentary interprets Regulation Z to require no notice in this case.
+We disagree.
+Comment 3 is the most salient Official Staff Commentary to 226.9(c)(1) and, when describing the amount of notice required for different kinds of changes, provides that "a notice of change in terms is required, but may be mailed or delivered as late as the effective date of the change .
+.
+.
+[i]f there is an increased periodic rate or any other finance charge attributable to the consumer's delinquency or default."
+226.9(c)(1) , cmt. 3.
+The plain-meaning of Comment 3 is to require notice when a cardholder's interest rates increase because of a default, but to specify that the notice may be contemporaneous, rather than fifteen days in advance of the change.
+Under Comment 3, McCoy has stated a claim.
+Chase argues that because Comment 3 repeats language from Regulation Z, a different portion of the Official Staff Commentary, Comment 1, should govern instead.
+Comment 3's specific reference to interest rate increases attributable to the consumer's delinquency or default is directly on point and therefore governs.
+Even if we decided that Comment 1, despite preceding Comment 3, could somehow be interpreted as an exception to it, we would still hold that Comment 1 does not dispel Chase's obligation to notify its account holders of discretionary rate increases.
+Comment 1 to 226.9(c)(1) describes the circumstances in which Regulation Z requires no notice of a change in terms: "Changes" initially disclosed.
+No notice of a change in terms need be given if the specific change is set forth initially , such as: Rate increases under a properly disclosed variable-rate plan, a rate increase that occurs when an employee has been under a preferential rate agreement and terminates employment, or [**3] an increase that occurs when the consumer has been under an agreement to maintain a certain balance in a savings account in order to keep a particular rate and the account balance falls below the specified minimum.
+In contrast, notice must be given if the contract allows the creditor to increase the rate at its discretion but does not include specific terms for an increase (for example, when an increase may occur under the creditor's contract reservation right to increase the periodic rate).
+12 C.F.R. 226.9 (c), cmt. 1 (emphasis added).
+The effect of Comment 1, assuming arguendo it applies, depends on how the phrase "specific" is defined.
+McCoy argues that the "specific change is set forth initially" and the "specific terms for an increase" are included in a contract when the contract gives consumers the information they need in order to know what interest rate they will be charged and under what conditions.
+Chase argues that any agreement that specifies the possibility of an interest rate increase if the card-holder defaults and establishes any boundaries on the potential amount of the increase adequately "sets forth" a "specific change."
+McCoy's reading of Comment 1's use of the word "specific" is reinforced by the three examples Comment 1 includes of rate increases for which notice is not required.
+The first example is "rate increases under a properly disclosed variable-rate plan."
+Id .
+Variable rate plans specify that the interest rate will fluctuate in direct correspondence with an externally determined variable rate such as, for example, the Federal Prime rate.
+Providing additional notice of the interest rate charged under a variable rate plan would be redundant because variations in the interest rate are not discretionary, and the method for computing the interest rate based on the Federal Prime rate is fully specified in advance.
+Creditors in that circumstance need not provide additional notice because consumers can predict their precise interest rate according to a formula.
+The second example in Comment 1 is "a rate increase that occurs when an employee has been under a preferential rate agreement and terminates employment."
+Id .
+Again, the notice of such a rate increase would be redundant because it "occurs" whenever the employee terminates employment.
+Nothing suggests the creditor possesses any discretion over whether to increase the rates or by how much to do so once the event triggering a higher rate occurs.
+The third example is "an increase that occurs when the consumer has been under an agreement to maintain a certain balance in a savings account in order to keep a particular rate and the account balance falls below the specified minimum."
+Id .
+Again, the use of the word "occurs" rather than the phrase "may occur" suggests that additional notice would be redundant because the increase is non-discretionary.
+[fn1] All three examples pertain to rate increases that are spelled out in cardmember agreements and ascertainable by the consumer without additional notice.
+In contrast to these examples, the increase here occurs [**4] at Chase's discretion and the most pertinent "specific terms for an increase" — the actual amount of the increase and whether it will occur — are not disclosed in advance.
+The Cardmember Agreement states that Chase "may" change McCoy's interest rate and impose a non-preferred rate "up to" the maximum rate described in the pricing schedule.
+The agreement further states that McCoy's account "may" lose its preferred rates if he defaults.
+Although the agreement defines what constitutes a "default" triggering Chase's ability to exercise this discretion, a default is only one of the conditions required for an increase; it may be necessary, but apparently it is not sufficient.
+Chase outlines several other criteria it "may" obtain and use to review McCoy's account "for the purposes of determining its eligibility for Preferred rates," including McCoy's consumer credit reports, his payment history and level of utilization over the life of his account, and his other relationships with Chase and its affiliates.
+Chase does not disclose to McCoy how it may use this information and provides McCoy with no basis for predicting in advance what retroactive interest rate Chase will choose to charge him if he defaults.
+Under the agreement, when McCoy defaults, he will not know whether his rate will stay the same, increase slightly, or rise to the maximum default rate until he receives his next periodic statement listing the new rate.
+Worse yet, this new rate would then apply retroactively.
+Chase argues that the terms for an increase are adequately specified because the concept of a "default" is defined and because consumers are aware of the maximum rate they might pay in the "worst case scenario."
+It further argues that the discretionary increase that may occur when a consumer defaults can be reconceptualized as an automatic increase, followed by a discretionary reduction in rates.
+The district court accepted this line of reasoning, concluding that a "decision not to increase a rate is analytically indistinct from a decision to lower a rate."
+This argument proves too much because it would apply equally to Comment 1's example of when contemporaneous notice is required.
+Comment 1 specifically explains that notice must be given "when an increase may occur under the creditor's contract reservation right to increase the periodic rate."
+12 C.F.R. 226.9 (c), cmt. 1.
+Like a "reservation right to increase the periodic rate," the contract provision authorizing Chase to increase a defaulted consumer's interest rate up to the maximum default rate at its discretion does not give the cardholder sufficient information to know what rate will apply and therefore requires the creditor to provide notice.
+Chase's "contract allows the creditor to increase the rate at its discretion," 226.9(c) , cmt. 1, and does not specify the relevant terms, including the conditions that are necessary and sufficient for an increase to occur and the actual amount of the increase that will occur.
+Chase's agreement not to increase the interest rate higher than a preset, double-digit maximum does [**5] not materially distinguish its Cardmember Agreement from a contract reservation right to increase the periodic rate.
+An interpretation of Comment 1 as eliminating Regulation Z's notice requirement even where consumers do not have sufficient information to determine whether their interest rate will be raised, or by how much, dilutes the meaning of the word "specific" beyond recognition.
+Chase argues that we must nevertheless interpret Regulation Z to require no notice in this case because we must defer to a now-superceded Advance Notice of Proposed Rule-making, [fn2] promulgated for public comment by the Federal Reserve in 2007, which briefly characterizes existing law in the process of explaining a proposal to amend Regulation Z to increase the amount of notice for interest rate increases to forty-five days in most cases.
+Truth in Lending, 72 Fed.Reg.
+32948-01 , 33009 (proposed June 14, 2007) ("2007 ANPR").
+Consideration of the 2007 ANPR does not lead us to change our interpretation of the FRB's Official Staff Commentary.
+Chase observes that the 2007 ANPR includes as an example of when a "change-in-terms notice" is not required, "some credit card account agreements [that] permit the card issuer to increase the periodic rate if the consumer makes a late payment," noting that "[b]ecause the circumstances of the increase are specified in advance in the account agreement, the creditor currently need not provide a change-in-terms notice; under current 226.7(d) the new rate will appear on the periodic statement for the cycle in which the increase occurs."
+72 Fed.Reg.
+33009 .
+The effect of this language is ambiguous, however, because the term "change-in-terms notice" could, as Chase argues, refer to contemporaneous notice required for changes in interest rates, but might instead refer only to the fifteen days' advance notice required for changes in contractual terms.
+[fn3] The 2007 ANPR also contains language suggesting it "is currently the case" that notice is required even if "the creditor specifies the penalty rate and the specific events that may trigger the penalty rate in the account-opening disclosures."
+72 Fed. Reg. 33012 .
+The FRB reaffirmed this view in the "Supplementary Information" published by the FRB along with the final rule amending Regulation Z. In any case, FRB chose to remove the ambiguous language entirely when it issued a Final Rule and Supplementary Information amending Regulation Z in 2009.
+Truth in Lending, 74 Fed.Reg.
+5244 , 5350-03 (Jan. 29, 2009).
+Both the older ANPR and the recently approved statement of the FRB's views clearly state it "is currently the case" under Comments 1 and 3 that contemporaneous notice of default-based rate increases is required even where the "creditor specifies the penalty rate and the specific events that may trigger the penalty rate in the account-opening disclosures."
+Id .
+Therefore, while language scattered throughout the 2007 ANPR offers some support for each view of the Official Commentary, the ANPR does not clearly weigh in favor of either interpretation of Regulation Z. This ambiguity is not surprising because the primary [**6] purpose of the 2007 ANPR (and the 2004 ANPR that preceded it) was to announce proposed amendments to Regulation Z and solicit comment, not to offer additional staff commentary on Regulation Z's current requirements.
+As the dissent notes, although no binding authority has addressed this question, [fn4] several district court opinions and one unpublished memorandum disposition in this circuit have accepted Chase's view.
+See, e.g., Evans v. Chase Bank USA, N.A. , 267 Fed.Appx.
+692 , 693 (9th Cir. 2008) (unpublished disposition); Swanson v. Bank of America , 566 F.Supp.2d 821 (N.D.Ill.
+2008); Williams v. Wash. Mut. Bank , 2008 WL 115097 , 2008 U.S. Dist. LEXIS 5325 (E.D.Cal.
+Jan. 10, 2008); Shaner v. Chase Bank, USA, N.A. , 570 F.Supp.2d 195 , 200 (D.Mass.
+2008); Evans v. Chase Manhattan Bank USA, N.A. , [ 2006 BL 11742 ], 2006 WL 213740, 2006 U.S. Dist. LEXIS 5259 (N.D.Cal.
+Jan. 27, 2006).
+Most of these decisions cite the district court's analysis in Evans , which held that Chase set out the "specific terms for an increase" because "Chase gives the reasons for its rate changes."
+Evans , [ 2006 BL 11742 ], 2006 WL 213740, at *2, 2006 U.S. Dist. LEXIS 5259 , at *7-8.
+In Evans , the district court apparently labored under the misconception that Comment 3 precedes Comment 1 and therefore did not apply where the conditions specified in Comment 1 are met.
+See id .
+at *2, 2006 U.S. Dist. LEXIS 5259 , at *6 (citing Comment 3 and then asserting that "[t]he Commentary goes on to state, however, that `[n]o notice of a change in terms need be given if the specific change is set forth initially,'") (quoting Comment 1).
+Possibly for the same reason, most of these courts did not even discuss Comment 3 and none attended to the 2007 ANPR's internal ambiguities or considered what kind of deference, if any, is owed to an agency's characterizations of existing law when they are incidental to the purpose of an agency publication.
+[fn5] Our own consideration of the FRB's Official Staff Commentary, unofficial ANPRs, and the Supplementary Information accompanying its recent amendment of Regulation Z leaves us firmly convinced of the FRB's intent to require contemporaneous notice when rates are raised because of a consumer's delinquency or default, as McCoy alleges occurred in this case. State Law Claims In his second, third, and fourth causes of action, McCoy claims that Chase's practice of retroactively raising interest rates after a consumer defaults is unconscionable and that he is therefore entitled to declaratory relief, reformation, and damages for imposing an illegal penalty.
+The district court correctly noted that these causes of action are foreclosed if Delaware law specifically authorizes the practice because, pursuant to the National Bank Act, 12 U.S.C. 85 , Delaware law governs what interest Chase may charge and the methodology used to determine that interest rate.
+We reverse the dismissal of these claims, however, because the Delaware Banking Act authorizes rates of interest that "vary in accordance with a schedule or formula."
+5 Del. C. 944 .
+As the district court noted, a permissible schedule or formula may include a provision for a change in the "rates of interest applicable to all or any part of outstanding unpaid indebtedness .
+.
+.
+contingent upon the happening of any [**7] event or circumstance specified in the plan," including a default.
+Id .
+Section 944 therefore would clearly authorize a "schedule or formula" that specified a higher interest rate that would automatically apply in the event of default.
+However, the language of 944 does not appear to authorize rate increases that are discretionary and vary according to criteria in addition to the consumer's default where those criteria are not specified in a schedule or formula contained in the agreement.
+Absent binding Delaware court decisions construing the terms "schedule," "formula," or "contingent upon" in 944 , our task is to "predict how the highest state court would decide the issue using intermediate appellate court decisions, decisions from other jurisdictions, statutes, treatises, and restatements as guidance."
+Arizona Elec. Power Coop., Inc. v. Berkeley , 59 F.3d 988 , 991 (9th Cir. 1995) (quoting In re Kirkland , 915 F.2d 1236 , 1239 (9th Cir. 1990)).
+In this case, however, only federal district courts have construed 944 and not one has adequately addressed the importance of the discretionary nature of the increases or whether such increases are really "in accordance with a schedule or formula."
+See, e.g., Swanson v. Bank of Am., N.A. , 566 F.Supp.2d 821 , 829 (N.D.Ill.
+2008) ("By describing the events which cause the rate increase to occur, Defendant has complied with Section 944 .
+"); Evans v. Chase Manhattan Bank USA N.A. , [ 2006 BL 11742 ], 2006 WL 213740, *3, 2006 U.S. Dist. LEXIS 5259 , at *12 (N.D.Cal.
+Jan. 27, 2006) (concluding an agreement complied with 944 because it described "what events will cause default rates to go into effect").
+These interpretations of 944 neglect to consider fully whether rate increases truly are "contingent upon" a default and in "accordance with a schedule or formula" where they are discretionary and can result in a range of interest rates depending on undisclosed criteria beyond the occurrence of a default.
+A close analysis of the Cardmember Agreement reveals that it does not describe the specific events that " will cause default rates to go into effect," Evans , [ 2006 BL 11742 ], 2006 WL 213740, at *3, 2006 U.S. Dist. LEXIS 5259 , at *12 (emphasis added), but only those that may do so.
+It also fails to disclose how much Chase will actually increase rates should it choose to do so. As a result, we hold that the rate increases McCoy faced under the Card-member Agreement were not authorized by 944 because no "schedule or formula" contained in the agreement revealed whether the increases would occur or how large they would actually be.
+Having held that the contract provision authorizing discretionary interest rate increases is not authorized by 944 , we conclude that McCoy has made out a colorable claim that the provision may also be "unconscionable" under Delaware law and he should "be afforded a reasonable opportunity to present evidence as to its commercial setting, purpose and effect to aid the court in making its determination."
+6 Del. C. 2-302 ; see also Evans , [ 2006 BL 11742 ], 2006 WL 213740, at *3, 2006 U.S. Dist. LEXIS 5259 , at *12 (noting that absent authorization under 944 , "Plaintiffs' unconscionability contention may have had some weight").
+Any increased interest charge stemming from [**8] a default that occurs retroactively functions as "damages paid in the event of a breach," not compensation for the increased risk of non-collection, because McCoy would still owe that retroactively imposed additional charge even if he paid Chase his entire balance the moment after he defaulted.
+For these reasons, we reverse the dismissal of McCoy's second, third, and fourth causes of action.
+McCoy's fifth cause of action alleges Chase committed consumer fraud by failing to provide notice of an increase in interest.
+Delaware's consumer fraud statute, 6 Del. C. 2513 (a), prohibits: The act, use or employment by any person of any deception, fraud, false pretense, false promise, misrepresentation, or the concealment, suppression, or omission of any material fact with intent that others rely upon such concealment, suppression or omission, in connection with the sale, lease or advertisement of any merchandise, whether or not any person has in fact been misled, deceived or damaged thereby, is an unlawful practice.
+This allegation fails to state a claim for consumer fraud under 2513(a) because Chase openly and expressly notifies card-holders of the actions it reserves the right to take in the event of a default.
+Although Chase may have failed to fulfill its obligations under federal and Delaware law, McCoy has not alleged facts to support a finding that it concealed or misrepresented the possibility that it might raise rates without notice when a consumer defaulted.
+We affirm the dismissal of McCoy's fifth claim for relief.
+McCoy's sixth and seventh causes of action allege claims for breach of contract and tortious breach of the implied covenant of good faith and fair dealing.
+The Cardmember Agreement states that Chase would "notify [McCoy] of any change if required by applicable law."
+Given the requirements under TILA and Delaware law discussed above, while McCoy clearly has stated a claim that Chase breached this explicit contractual provision, [fn6] he cannot state an implied duty of good faith claim because "where the subject at issue is expressly covered by the contract, or where the contract is intentionally silent as to that subject, the implied duty to perform in good faith does not come into play."
+Dave Greytak Enters., Inc. v. Mazda Motors of Am., Inc. , 622 A.2d 14 , 23 (Del.Ch. 1992).
+Consequently, we reverse the dismissal of the sixth cause of action and affirm the dismissal of the seventh.
+CONCLUSION Under Regulation Z as interpreted by its Official Staff Commentary, McCoy has stated a TILA claim if Chase failed to give him notice of an interest rate increase "because of the consumer's delinquency or default" or if his contract with Chase "allows the creditor to increase the rate at its discretion but does not include the specific terms for an increase."
+12 C.F.R. 226.9 (c)(1); Id .
+, cmt. 3; Id .
+, cmt. 1.
+Having concluded that McCoy has stated a claim under either standard, we reverse and remand to the district court.
+We affirm the dismissal of McCoy's fifth and seventh causes of action, but reverse the dismissal of McCoy's other state law claims.
+AFFIRMED IN PART AND REVERSED IN PART.
+Costs on [**9] appeal to Appellant.

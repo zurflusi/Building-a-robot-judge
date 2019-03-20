@@ -1,0 +1,271 @@
+ RIPPLE , Circuit Judge.
+This case involves Bank of America Illinois' ("Bank America") appeal of the confirmation of a bankruptcy reorganization plan.
+203 N. LaSalle Street Limited Partnership ("LaSalle"), which owns fifteen floors of office space in a Chicago building, failed to pay a secured note held by Bank America, and Bank America attempted to foreclose on the property.
+LaSalle filed for bankruptcy under Chapter 11, 11 U.S.C. 1101 et seq.
+LaSalle eventually filed a reorganization plan that the bankruptcy court approved, as modified, despite Bank America's opposition to the plan.
+The district court upheld the bankruptcy court's order confirming the plan.
+For the reasons set forth in the following opinion, we affirm the judgment of the district court.
+I BACKGROUND A. Facts The debtor in this case, LaSalle, is an Illinois limited partnership that owns fifteen floors of office space in a building in the central business district of Chicago.
+The property was encumbered by a lien in favor of Bank America; LaSalle owed Bank America more than $93 million.
+LaSalle's loan was secured by a first non-recourse mortgage on the property that came due on January 3, 1995.
+LaSalle was unable to repay the loan, so Bank America started a foreclosure action in state court on January 20, 1995.
+In response, LaSalle filed for bankruptcy under Chapter 11.
+Bank America elected to have its secured claim, which was significantly greater than the value of the security, treated as a secured claim and an unsecured claim under 11 U.S.C. 1111(b) .
+1 In addition to the debt held by Bank America, LaSalle had several other debts outstanding: One of the general partners held a second non-recourse mortgage on the property; $2.3 million in real estate taxes remained unpaid; and other non-inside creditors held $90,000 in trade claims.
+2 In addition to the property, LaSalle held the right to a cash account consisting of pre-petition rents that amounted to $3.1 million.
+By filing for bankruptcy rather than having Bank America foreclose on the property, LaSalle's partners postpone significant tax liabilities estimated at $20 million.
+Before the bankruptcy court, the debtor filed a plan for reorganization on April 13, 1995, which it amended on May 12.
+Bank America objected to the amended plan, and the bankruptcy court rejected it because, in the court's view, the plan was not feasible.
+LaSalle further revised the plan and filed another reorganization plan on September 11, 1995.
+Under the new plan, Bank America was the only party to object, and at least one impaired class of claims, the unsecured trade debt class, voted to approve the plan.
+The bankruptcy court conducted a hearing and confirmed the plan (with slight modification).
+3 In its thorough opinion, the bankruptcy court found that the plan met all of the necessary requirements under 11 U.S.C. 1129 .
+It therefore confirmed the plan, finding the value of the property at that time to be $55.8 million.
+Under the confirmed plan, the debtor's partners would contribute new capital: $3 million the day after the effective date of the plan and five annual installments of $625,000 thereafter.
+LaSalle would pay the non-insider trade creditors in full without interest.
+Upon confirmation, the insiders would waive their general unsecured claims.
+The priority and state tax claims under the plan would be paid within 30 days of approval.
+Bank America's secured claim ($54.5 million) 4 would be paid partly in cash, $1.1 million within 5 days of the effective date of the plan, and the rest as a 7-10 year interest-bearing note secured by the property.
+Monthly payments would be made on a 30-year amortization schedule, and any excess payments would be applied to the principal.
+At the end of that time, if the property were sold or refinanced, any additional proceeds, after the secured claim is paid, would be applied toward Bank America's unsecured claim, $38.5 million.
+The plan also provided that, in the case of default, the debtor's deed held in escrow would be conveyed to Bank America.
+B. District Court Proceeding Bank America appealed the bankruptcy court's confirmation of LaSalle's reorganization plan to the district court and raised 14 objections.
+The district court reviewed Bank America's objections and upheld the decision of the bankruptcy court in its entirety.
+The district court rejected Bank America's objection that the plan was not proposed in good faith, as required by 1129(a)(3) , because that provision focuses on the content and effect of the plan, not the subjective motivation of the plan's proponent.
+The court further reasoned that, even if 1129(a)(3) were concerned with the filer's motivation, here the avoidance of tax consequences, LaSalle's proposal was not filed in bad faith.
+The district court also found that the bankruptcy court's factual findings that the plan was accepted by an actual impaired class, as required by 1129(a)(10) , was not clearly erroneous.
+The district court agreed with the bankruptcy court that the plan met 1129(a)(7)(A) 's "best interest" test because, under the proposed plan, Bank America receives property of a value not less than the amount Bank America would receive if the debtor had proceeded under Chapter 7: The present value of the plan for the secured claim is the same under the plan as Bank America would receive in a Chapter 7 liquidation.
+In addition, Bank America's deficiency claim, its unsecured claim, is treated more favorably under the proposed plan than under Chapter 7 because, under Chapter 7, Bank America would have received nothing for its unsecured deficiency claim.
+Further, according to the court, because the best interest test is met and the plan is carefully tailored to fulfill the requirements of that test, the plan does not unfairly discriminate against Bank America.
+Indeed, said the court, the discrimination from which Bank America claimed to suffer--other unsecured claims are paid off 100%, but Bank America gets only 16% of its unsecured claim--is not unfair.
+The district court agreed with the bankruptcy court that the Bankruptcy Code did not abolish the Bankruptcy Act's "new value" corollary to the absolute priority rule.
+In addition, the district court agreed with the bankruptcy court that the requirements for the new value corollary were met in this case. Therefore, the court found, the property held by the partners under the proposed plan did not violate the absolute priority rule.
+The court also upheld the bankruptcy court's determination that, despite the potential cash shortfalls in years 7 and 8 of the plan, the plan was feasible.
+Finally, the district court upheld the bankruptcy court's finding that the plan was fair and equitable in its treatment of Bank America's unsecured claim; the plan therefore met 1129(b)(2) 's "cramdown" requirements.
+The district court, in short, upheld the bankruptcy court in toto, and Bank America appeals.
+II DISCUSSION For a reorganization plan to be confirmed, the plan must meet the requirements of 11 U.S.C. 1129 .
+5 Bank America makes many of the same arguments to us that it did on appeal to the district court.
+Bank America alleges that the plan should not have been confirmed because it did not meet a number of 1129 's requirements.
+Success on the merits of any one of these claims would dictate a reversal of the bankruptcy court's confirmation order, unless, as LaSalle maintains, the appeal is moot.
+We shall deal with each of these issues in turn.
+However, before we turn to the specifics of the case, a quick overview of the process for the confirmation of a reorganization plan may prove useful.
+For a bankruptcy court to approve a proposed reorganization plan, the plan's proponent must show that the plan satisfies the 13 requirements of 1129(a) , if they are applicable.
+With one exception, to be discussed, a plan must meet all 13 requirements.
+They are: (1) the plan's compliance with Title 11, (2) the proponent's compliance with Title 11, (3) the good faith proposal of the plan, (4) the disclosure of payments, (5) the identification of management, (6) the regulatory approval of rate changes, if applicable, (7) the "best interest" test, (8) the unanimous acceptance by impaired classes, (9) the treatment of administrative and priority claims, (10) the acceptance by at least one impaired class of claims, (11) the feasibility of the plan, (12) the bankruptcy fees, and (13) retiree benefits.
+See 11 U.S.C. 1129(a)(1)-(13) .
+If, however, a plan is not approved by all of the impaired classes, as generally required by 11 U.S.C. 1129(a)(8) , it is still possible for a plan to be confirmed.
+If at least one of the non-insider, impaired classes of claims approves the plan, then a plan may be confirmed if two additional requirements are met.
+See 11 U.S.C. 1129(b) .
+If the bankruptcy court finds that all of the applicable requirements of 1129(a) are met except for 1129(a)(8) , and also that the plan does not discriminate unfairly between impaired classes and is fair and equitable to the rejecting classes, then the court may confirm the plan.
+See 11 U.S.C. 1129(b)(1)-(2) .
+In our review of the district court and bankruptcy court decisions, we review both courts' conclusions of law de novo.
+In re Chappell , 984 F.2d 775, 779 (7th Cir.1993).
+We review the determinations of fact by the bankruptcy court for clear error.
+In re Andreuccetti , 975 F.2d 413, 419-20 (7th Cir.1992).
+A "'finding is clearly erroneous when although there is evidence to support it, the reviewing court on the entire evidence is left with the definite and firm conviction that a mistake has been committed.'"
+FDIC v. Bierman , 2 F.3d 1424, 1431 (7th Cir.1993) (quoting Anderson v. Bessemer City , 470 U.S. 564, 573 , 105 S.Ct. 1504, 1511 , 84 L.Ed.2d 518 (1985)) (internal quotation and citation omitted).
+A. Mootness As a preliminary matter, we must respond to LaSalle's contention that the appeal should be dismissed as moot.
+LaSalle submits that, because the reorganization plan has been confirmed and LaSalle has implemented the plan, it would be very difficult now to reverse all the necessary transactions without harming a number of innocent third parties.
+Specifically, LaSalle contends: Investors have already put their capital into the reorganized debtor (thus foregoing other investment opportunities); LaSalle has renegotiated a lease with one of its two largest tenants; that tenant has spent a significant amount of money to redecorate its leased space; and numerous other payments have been made.
+In short, LaSalle concludes, under the circumstances, it would be very difficult for the bankruptcy court to "unscramble the eggs" now.
+The mere fact that Bank America was unable to obtain a stay from either the district court or this court does not necessarily lead to the conclusion that, once the plan has been confirmed and implemented, all issues related to the confirmation of the plan are moot.
+See In re Envirodyne Indus. , 29 F.3d 301, 303-04 (7th Cir.1994); In re Andreuccetti , 975 F.2d at 418 .
+In In re Envirodyne , we held that a court's ability to provide at least partial relief satisfies the Article III mootness issue.
+29 F.3d at 303-04 .
+With respect to the principle that courts will frequently refuse to modify a bankruptcy plan if it has already been implemented (formerly known as the "equitable mootness" doctrine), we noted that our inquiry is "whether modification of the plan of reorganization would bear unduly on the innocent."
+Id. at 304 ; cf. In re Lloyd , 37 F.3d 271, 273 (7th Cir.1994) (holding in bankruptcy proceeding that, because court could fashion some relief for the debtor, appeal was not moot, despite estate's sale of property to good faith purchaser).
+"So if modification of a plan of reorganization would upset legitimate expectations, it may be refused " In re Envirodyne , 29 F.3d at 304 (emphasis added).
+Many of the transactions that have occurred to date easily can be reversed without significant harm to third parties.
+Bank America seeks to foreclose on the property; doing so would not affect the monies that the trade creditors and state taxing authority have received.
+Bank America also does not seek to reverse the lease agreement reached between LaSalle and its tenant.
+Moreover, Bank America has agreed to return any payments and documents to LaSalle necessary to reverse the transaction.
+Finally, Bank America has consented to repay to the investors their investments plus reasonable interest.
+We believe that, if we were to reverse the decisions of the district and bankruptcy courts, the bankruptcy court could fashion some form of relief that would not unduly burden innocent third parties.
+Therefore we, like the district court, do not agree with LaSalle that the appeal is moot.
+B. Feasibility Bank America insists that the plan fails to meet the feasibility requirement of 1129(a)(11) , which requires that, in order for a plan to be confirmed, the "[c]onfirmation of the plan is not likely to be followed by the liquidation, or the need for further financial reorganization of the debtor " 11 U.S.C. 1129(a)(11) .
+In determining that the plan was feasible, the bankruptcy court need not find that it is guaranteed to succeed; "[o]nly a reasonable assurance of commercial viability is required."
+In re T-H New Orleans Ltd. Partnership , 116 F.3d 790, 801 (5th Cir.1997) (brackets in original); accord In re Acequia, Inc. , 787 F.2d 1352, 1364 (9th Cir.1986); In re Monnier Bros. , 755 F.2d 1336, 1341 (8th Cir.1985).
+Bank America, in arguing that the plan will not succeed, focuses on years 7 and 8 of the plan.
+In those years, LaSalle expects that it will experience cashflow shortfalls.
+The bankruptcy court scrutinized the plan very carefully and, despite these shortfalls, determined that the plan was feasible.
+It reasoned that the cashflow under the plan would be sufficient to pay all the debtor's expenses and the debt service to the bank for the first six years of the plan.
+By that time, the bankruptcy court concluded, LaSalle will have paid down the principal on the note by $7.5 million.
+In years 7 and 8 of the plan, however, there will be some cashflow shortages because of likely costs expended to renew the lease of one of the major tenants in the property.
+In years 9 and 10, the court predicted, projected cashflow will again exceed expenses and debt service.
+This cashflow shortfall would not make the plan unfeasible, stated the court, because it was likely that, after six years of successful implementation of the plan, Bank America voluntarily would lend the needed capital to LaSalle.
+If, on the other hand, the bank at that time decided not to lend LaSalle the money, LaSalle could sell its interest in the property and prepay the balance of the loan.
+The bankruptcy court, after hearing expert testimony on the improving market for office space in Chicago's central business district, determined that, at the time of the cashflow shortfall, the value of LaSalle's property would significantly exceed the remaining principal on the secured debt.
+Alternatively, the court found that, even if LaSalle did not make up the shortfall, there would not be a liquidation.
+Under the plan, if Bank America refuses to lend LaSalle the necessary capital and LaSalle does not sell its property, LaSalle will automatically and voluntarily transfer the property to Bank America.
+Bank America forwards three points that, it insists, undermine the bankruptcy court's conclusion that the plan is feasible.
+First, Bank America argues that the success of the plan depends upon the bank's willingness to re-lend money to LaSalle.
+Second, Bank America contends that, although there was expert testimony on which the court relied about the improving real estate market in the central business market in general, there was no testimony of an improving market for this specific property.
+Finally, Bank America asserts that the automatic reconveyance of the property to the bank in the event of LaSalle's default does not sufficiently protect Bank America's interest because a potential future bankruptcy proceeding could invalidate the conveyance.
+We agree with the district court, which, when considering the same arguments on appeal, concluded that these concerns are "primarily hypothetical, and constitute merely disagreements with the inferences drawn by the bankruptcy court."
+Bank of America, Illinois v. 203 N. LaSalle Street Partnership , 195 B.R. 692, 710 (N.D.Ill.1996).
+Contrary to Bank America's assertions, the bankruptcy court did not conclude that the success of the plan required Bank America to re-lend LaSalle capital in years 7 and 8 of the plan, although the court concluded that such a transaction would be the most likely outcome.
+Instead, the court considered alternatives that would not violate the 1129(a)(11) requirement even if Bank America were not to re-lend capital to LaSalle.
+We do not think that the bankruptcy court's conclusion on this point is clearly erroneous.
+We also do not believe that the inference the bankruptcy court drew about the future marketability of LaSalle's property by relying on expert testimony concerning the future real estate market in the property's vicinity, rather than requiring expert predictions with respect to the future market solely for LaSalle's property, was clearly erroneous.
+A plan need not be assured of success to be confirmed.
+We cannot accept Bank America's submission that the bankruptcy court's decision on this point was clearly erroneous.
+C. New Value Corollary 1.
+The general rule for a reorganization plan that has not been approved unanimously by the impaired classes is that it must meet the strictures of the absolute priority rule to be approved.
+6 The Supreme Court of the United States has summarized the absolute priority rule as follows: "[A] dissenting class of unsecured creditors must be provided for in full before any junior classes can receive or retain any property under a reorganization plan."
+Norwest Bank Worthington v. Ahlers , 485 U.S. 197, 202 , 108 S.Ct. 963, 966 , 99 L.Ed.2d 169 (1988) (internal quotation and brackets omitted).
+Prior to the passage of the Bankruptcy Code, there was a corollary to this rule, the "new value" corollary.
+See In re Wabash Valley Power Ass'n , 72 F.3d 1305, 1314 (7th Cir.1995), cert. denied , U.S. , 117 S.Ct. 389 , 136 L.Ed.2d 305 (1996).
+Under the new value corollary, established by Case v. Los Angeles Lumber Prods. Co. , 308 U.S. 106 , 60 S.Ct. 1 , 84 L.Ed. 110 (1939), a junior claim holder (an equity interest holder, for example) may retain, in some circumstances, his equity interest in the property over the objection of a senior impaired creditor class.
+To do so, the junior interest holder, under the proposed plan, must contribute new capital to the restructured enterprise.
+That capital must be new, substantial, necessary for the success of the plan, reasonably equivalent to the value retained, and in the form of money or money's worth.
+In re Woodbrook Assocs.
+, 19 F.3d 312, 319-20 (7th Cir.1994).
+The Supreme Court has noted that this corollary is rooted in the pragmatic realization that, in the course of a reorganization, "additional funds will be essential to the success of the undertaking, and it may be impossible to obtain them, unless stockholders are permitted to contribute and retain an interest sufficiently valuable to move them."
+Kansas City Terminal Ry. v. Central Union Trust Co. , 271 U.S. 445, 455 , 46 S.Ct. 549, 552 , 70 L.Ed. 1028 (1926).
+In enacting the Code, Congress codified the absolute priority rule, 1129(b)(2)(B)(ii) , by providing that a plan's treatment of the creditors would be fair and equitable if on account of 11 U.S.C. 1129(b)(2)(B)(ii) (emphasis added).
+At the same time, the Code altered the scheme of plan confirmation to provide that a plan could be confirmed if at least one of the impaired non-insider classes of creditors votes to approve the plan.
+The court then must confirm the plan if it finds that the plan does not discriminate unfairly and is "fair and equitable" to each dissenting class.
+See 11 U.S.C. 1129(b)(2) .
+At the time it codified the absolute priority rule, Congress did not explicitly codify the new value corollary.
+In re Woodbrook , 19 F.3d at 320 .
+Neither we nor the Supreme Court has had occasion to determine definitively whether this new value exception survived passage of the Bankruptcy Code.
+See In re Wabash , 72 F.3d at 1315 .
+7 Both the bankruptcy court and the district court concluded that the new value corollary did survive passage of the Code.
+Based upon its conclusion, the bankruptcy court determined that LaSalle's plan did not violate 1129(b)(2) 's absolute priority rule because LaSalle's plan met the requirements of the new value corollary.
+Bank America contends that the courts erred on both counts: First, the new value exception is no longer viable; second, even if still valid, LaSalle's plan did not meet the requirements of the exception.
+We begin, as we must with every statutory interpretation question, with the wording of the statute.
+Bank America reads 1129(b)(2)(B)(ii) to require, by the very force of the language itself, the repeal of the new value corollary.
+As we have noted earlier, this statutory provision provides that a junior interest may not receive any property in a reorganization "on account of" its previous interest before an objecting impaired senior creditor is paid in full.
+Under this reading of the statute, Bank America contends that, even assuming that LaSalle's reorganization plan meets the requirements of the new value exception, confirmation of the plan violates the statutory language.
+LaSalle's old equity interest holders, whose claims are junior to those of Bank America, are receiving or retaining property, the ability to continue to run their business, "on account of" their old equity interest.
+This interpretation requires, of course, that the phrase "on account of" bear a great deal of weight.
+As a matter of abstract logic, and certainly of semantics, one can argue that such a meaning can be attributed to these three words.
+At some level of abstraction, the new investors in the plan can be said to have the opportunity to invest and to control the company "on account of" their previous relationship with the debtor.
+However, the phrase is also susceptible of another construction.
+Congress, in using the "on account of" language, might well have intended a more direct causation between the property received by the debtor and the old equity interest.
+It can be cogently reasoned that, when an old equity holder retains an equity interest in the reorganized debtor by meeting the requirements of the new value corollary, he is not receiving or retaining that interest "on account of" his prior equitable ownership of the debtor.
+Rather, he is allowed to participate in the reorganized entity "on account of" a new, substantial, necessary and fair infusion of capital.
+The mere recitation of the possible interpretations of the statutory absolute priority rule, interpretations argued and reargued in both the cases and the academic literature, 8 evidence the ambiguity of the provision.
+See Dewsnup v. Timm , 502 U.S. 410, 416 , 112 S.Ct. 773, 777-78 , 116 L.Ed.2d 903 (1992) (noting that the contrasting positions of the parties with respect to section 506 and its relationship to other parts of the Code "do embrace some ambiguities").
+We therefore must look beyond the statutory language.
+The Supreme Court has made it clear that, in interpreting the Bankruptcy Code, we must keep in mind that "[w]hen Congress amends the bankruptcy laws, it does not write 'on a clean slate.'"
+Dewsnup , 502 U.S. at 419 , 112 S.Ct. at 779 (quoting In re John M. Russell, Inc. ( Emil v. Hanley ) , 318 U.S. 515, 521 , 63 S.Ct. 687, 690-91 , 87 L.Ed. 954 (1943)).
+The Court has been "reluctant to accept arguments that would interpret the Code, however vague the particular language under consideration might be, to effect a major change in pre-Code practice that is not the subject of at least some discussion in the legislative history."
+Id. (citing United Savings Ass'n v. Timbers of Inwood Forest Associates , 484 U.S. 365 , 108 S.Ct. 626 , 98 L.Ed.2d 740 (1988)).
+As we have noted, for more than fifty years, the new value precept has been recognized as an important corollary or exception to the absolute priority rule.
+See In re Snyder , 967 F.2d 1126, 1128 (7th Cir.1992).
+"'[I]f Congress intends for legislation to change the interpretation of a judicially created concept, it makes that intent specific.
+The Court has followed this rule with particular care in construing the scope of bankruptcy codifications.'"
+In re Snyder , 967 F.2d at 1129 (quoting Midlantic Nat'l Bank v. New Jersey Dep't of Envtl.
+Protection , 474 U.S. 494, 501 , 106 S.Ct. 755, 759 , 88 L.Ed.2d 859 (1986)) (brackets in original).
+In short, the Supreme Court has told us that we are not to abandon past bankruptcy practices absent a clear indication that Congress intended to break from those practices.
+"We will not read the Bankruptcy Code to erode past bankruptcy practice absent a clear indication that Congress intended such a departure."
+Pennsylvania Dep't Pub.
+Welfare v. Davenport , 495 U.S. 552, 563 , 110 S.Ct. 2126, 2133 , 109 L.Ed2d 588 (1990).
+In this case, there can be no question that "Congress must have enacted the Code with a full understanding" of the absolute priority rule and its new value corollary.
+Dewsnup , 502 U.S. at 419 , 112 S.Ct. at 779 .
+As this court has detailed on a prior occasion, see In re Snyder , 967 F.2d 1126, 1129 (7th Cir.1992), the new value corollary has long been ensconced in our bankruptcy practice.
+Indeed, it has been noted in several Supreme Court cases.
+9 There was even a proposal before Congress to expand the scope of the new value corollary by eliminating the requirement that the new capital to be provided be in money or money's worth.
+10 Yet, despite its awareness of the major role that the new value exception traditionally has played in the bankruptcy field, Congress never explicitly declared, either in the text or in the legislative history of the statute, that it intended the abolition of this important tool.
+Of the two textual interpretations, we think that the far more plausible is the one that interprets the "on account of" language to permit the continued existence of the new value corollary.
+We think that it is more reasonable to believe that Congress legislated on the understanding that, in new value transactions, old equity owners receive stock in exchange for the additional capital they invest.
+This interpretation is far more reasonable in terms of the practical realities of bankruptcy administration than the highly conceptualistic suggestion that the opportunity to participate in the reorganization is itself property retained on account of an old equity holder's prior ownership interest.
+As a practical matter, the opportunity to participate in a reorganization plan, even an exclusive right, is not retained on account of an old equity holder's former ownership interest; the opportunity to give new value and to have the opportunity to receive a return on that capital infusion is given because such participation, even exclusive participation, may enhance the value of the business after reorganization.
+Indeed, exclusivity may be necessary simply because it may be easier to obtain additional funding from the old equity participants.
+The new value corollary has been a major source of new funding in reorganizations for the past fifty years.
+To assume that Congress abolished this device implicitly by the three words "on account of" is to assume that Congress made a major economic decision affecting the economic health, and indeed the continued existence, of many corporate entities without ever addressing squarely the issue in the statute or its legislative history.
+The Code does provide some flexibility in plan confirmation in the face of dissenting creditors by denying minority dissenting creditors the right to prevent confirmation as long as the requisite majority of the creditors in each class accepts the plan.
+To the extent that the new value corollary was, in pre-Code days, a device that gave the plan proponent some leverage in dealing with minority creditors, its necessity may not be as great today as it was in an earlier period.
+11 Nevertheless, the new value corollary still serves as a significant source of new funding for the ailing entity, 12 and one would expect that Congress would address deliberately such a significant issue of economic policy if it had determined to abolish it.
+Notably, Congress gave not one hint, in the text of the statute or its legislative history, that it viewed the new measures regarding the participation of creditors in the approval of the plan to be connected to the continued availability, or the demise, of the new value corollary.
+To declare the abolition of the new value corollary would require us to take one of several paths, all of which would be inconsistent with the directions of the Supreme Court of the United States.
+We could hold that the statutory version of the absolute priority rule is unambiguous in its rejection of the new value corollary and disregard the great body of judicial opinions and serious scholarship that has contended for a Variety of interpretations.
+Alternatively, we could acknowledge the provision's ambiguity but disregard the clear direction of the Supreme Court that we are not lightly to infer that Congress has altered by implication established bankruptcy practice.
+Rather than embark on either of these precarious routes, we shall join the other circuits 13 that have decided the issue and hold that the new value corollary remains a part of our bankruptcy jurisprudence.
+2.
+Bank America further submits that, even if a new value exception were to exist under the Code, the debtor's plan here did not meet its requirements because the amount of capital infused was not substantial.
+The bankruptcy court found that the plan proposed infusing new capital into the reorganized debtor.
+The new capital, the court determined, amounted to a present-value money equivalent of $4.1 million.
+The bankruptcy court also concluded that this capital was necessary for the success of the plan, was in money or money's worth, was reasonably equivalent to the interest retained, and was substantial.
+Thus, according to the bankruptcy court, the plan met the requirements of the new value corollary and did not violate the absolute priority rule.
+We review these findings by the bankruptcy court for clear error.
+In re Andreuccetti , 975 F.2d 413, 419-20 (7th Cir.1992).
+"Whether the infusion of new capital is 'substantial' is more a common sense determination than a mathematical calculation when the debtor comprises only a single real estate asset which is fully encumbered."
+In re Woodbrook , 19 F.3d 312, 320 (7th Cir.1994); accord In re Snyder , 967 F.2d 1126, 1131-32 (7th Cir.1992) ("There is no mathematical formula for resolving the substantiality issue, and it will depend on the circumstances of the individual case.").
+However, "[c]ontributions that are merely nominal, or gratuitous, token cash infusions" will not suffice to meet this requirement.
+Id. at 1131 (internal quotation and citations omitted).
+In evaluating whether an infusion is substantial in a particular case, courts are to look at the infusion to determine whether it is real and necessary to the successful implementation of the plan.
+See In re Woodbrook , 19 F.3d at 320 .
+In this case, under the proposed plan, the investors would infuse $6.125 million into the reorganized debtor to make the reorganization plan work.
+This capital, the bankruptcy court determined, had a present value of over $4 million.
+The bankruptcy court, in finding that the amount to be infused was substantial, stated: Snyder Woodbrook In re 203 N. LaSalle St. Ltd. Partnership , 190 B.R. 567, 588 (Bankr.N.D.Ill.1995).
+The court also noted that, as a percentage of Bank America's unsecured debt, the contribution amounted to 10.7% of that amount.
+Cf. In re Woodbrook , 19 F.3d at 320 (rejecting invocation of new value corollary when contribution was at most 3.8% of unsecured debt); In re Snyder , 967 F.2d at 1131 (rejecting invocation of new value corollary when contribution was 2.7% of unsecured claims).
+We are not firmly convinced that the bankruptcy court made an error in its determination that this amount, in absolute terms and when viewed as a percentage of Bank America's unsecured claim, was substantial.
+In addition, the bankruptcy court, in evaluating the feasibility of the plan, found that the infusion of new capital was necessary for the successful implementation of the plan.
+We have fully discussed this determination and concluded that the bankruptcy court did not clearly err in its finding.
+We similarly believe that the court's ancillary conclusion that the new infusion was necessary to the success of the plan is adequately supported.
+We therefore hold that, given our deferential standards, the court did not clearly err in finding that the new value contributed under the plan is substantial.
+As such, we shall uphold the bankruptcy court's conclusion that the requirements for the new value corollary have been met.
+D. Impaired Class Bank America maintains that the acceptance by the impaired class in this case does not meet the Bankruptcy Code's requirement that, when not all of the impaired classes agree to a proposed plan, at least one impaired class that is not an insider class vote to accept the plan.
+Bank America submits that the impaired class which approved the reorganization plan, here the trade claims, is an artificially impaired class of claims.
+Bank America, relying on In re Windsor on the River Associates , 7 F.3d 127 (8th Cir.1993), 14 argues that the reason LaSalle did not pay the trade claims in full under the plan was to create an impaired class that would likely vote in favor of the reorganization claim.
+15 Both the bankruptcy and district courts rejected this argument.
+The bankruptcy court found, and Bank America does not dispute, that the trade claims are impaired.
+Under the plan, the trade creditors will not receive the interest due to them on their claims.
+This is definitely an impairment under the Code.
+See In re Wabash Valley Power Ass'n , 72 F.3d 1305, 1321 (7th Cir.1995) (stating that "any alteration of the rights constitutes impairment") (internal quotation and citation omitted).
+The bankruptcy court further found that the plan was proposed in good faith and that it was necessary, given the total funds that LaSalle had on hand, for the plan to impair some unsecured claims.
+The court therefore concluded that it did not violate the requirements of the Code for LaSalle to impair the trade claims, even though LaSalle had enough capital that it could have paid these claims in full, so that it would have more money available for reorganization and payment for the bank's claims.
+The district court concluded that the bankruptcy court's finding that the trade debt class was legitimately impaired was not clearly erroneous.
+Although we have never before adopted the Eighth Circuit's "artificial impairment" test, we believe that, even assuming that the Eighth Circuit's interpretation of 1129(a)(10) is the appropriate standard, the bankruptcy court did not err in its application here.
+We have noted, in discussing In re Windsor , that "[a] finding of 'artificial impairment' requires an inquiry into the purposes of the debtor."
+In re Wabash , 72 F.3d at 1321 n. 10.
+In re Windsor recognizes that the question of motivation is one for the bankruptcy court, whose resolution of the question is entitled to deference.
+7 F.3d at 132 .
+The bankruptcy court found that there were legitimate reasons for impairing the trade claims class.
+Impairing these claims allowed more money to be dedicated to the successful reorganization of the debtor.
+The court distinguished this situation from the one at issue in In re Windsor in which the only impairment was to wait 60 days to pay the "artificially impaired" class in full, and the debtor's only purpose for doing so, according to the Eighth Circuit, was to create an impaired class to approve the plan.
+In short, the bankruptcy court explicitly found that there was no lack of good faith by LaSalle's failure to pay the trade claims in full.
+We are not left with the definite and firm conviction that the bankruptcy court has made a mistake with respect to this issue.
+E. Other Issues Bank America presses several other claims on appeal, but they need not detain us long.
+First, Bank America claims that the bankruptcy court clearly erred when it found that the plan subjected its unsecured claim to unfair discrimination.
+The bankruptcy court agreed with Bank America that the plan discriminated between the unsecured trade claims and Bank America's unsecured deficiency claim.
+The court, however, disagreed that the discrimination was unfair; indeed, the bankruptcy court found that any discrimination between these claims' treatment under the plan redounds to the benefit of Bank America.
+Section 1129(b)(1) , which applies to the cramdown confirmation of reorganization plans, provides that a plan may be confirmed only if "the plan does not discriminate unfairly with respect to each class of claims or interests that is impaired under, and has not accepted, the plan."
+11 U.S.C. 1129(b)(1) .
+No one contends that the confirmed plan does not discriminate between classes.
+Under the plan, the unsecured trade creditors would receive 100% of their claims, except for the interest thereon, and Bank America, according to the court, would receive only 16% of its unsecured deficiency under the plan.
+However, the bankruptcy court found that this discrimination was not unfair because there was a legally acceptable rationale to support this disparity.
+Under 1129(a)(7) , the "best interest" test, for a cramdown proposal to be confirmed, each of the creditors in the Chapter 11 reorganization must receive at least as much as they would under a Chapter 7 liquidation.
+Under such a liquidation, the trade creditors would have been paid in full; whereas, because the unsecured deficiency claim is a statutory creation of Chapter 11, Bank America would not have received anything for the deficiency amount.
+Consequently, the bankruptcy court reasoned, the disparity between these claims, with the trade creditors receiving 100% and Bank America receiving 16%, is not unfair.
+Bank America does better than it would have under Chapter 7, and the trade creditors do no worse.
+Additionally, the plan called for the payment of the bank's unsecured deficiency claim before any insider creditor would be paid.
+Finally, the bankruptcy court concluded that this discrimination is narrowly tailored to meet the requirements of the "best interest" test.
+We believe that this explanation adequately explains the difference in treatment between the two classes of unsecured claims, and the bankruptcy court did not clearly err in refusing to find this discrimination unfair.
+Second, Bank America contends that, because the primary subjective purpose of the investors in the reorganized debtor is to stave off the tax liability they would incur if the bank were to foreclose, the plan was not proposed in good faith.
+To be confirmed, a plan must be "proposed in good faith and not by any means forbidden by law."
+11 U.S.C. 1129(a)(3) .
+"Though the term 'good faith,' as used in section 1129(a)(3) , is not defined in the Bankruptcy Code, the term is, generally interpreted to mean that there exists 'a reasonable likelihood that the plan will achieve a result consistent with the objectives and purposes of the Bankruptcy Code.'"
+In re Madison Hotel Assocs.
+, 749 F.2d 410, 424-25 (7th Cir.1984) (citations omitted).
+"According to the good faith requirement of section 1129(a)(3) , the court looks to the debtor's plan and determines, in light of the particular facts and circumstances, whether the plan will fairly achieve a result consistent with the Bankruptcy Code."
+Id. at 425 .
+We begin our inquiry by noting that the bankruptcy court's finding that the plan was proposed in good faith is a finding of fact to which we owe deference.
+See In re Andreuccetti , 975 F.2d 413, 420 (7th Cir.1992).
+The primary evidence to the contrary that Bank America provides is that the purpose for the reorganization is a desire by the investors to avoid a significant tax liability.
+16 This, in and of itself, is insufficient to establish that the bankruptcy court clearly erred because the desire to avoid significant tax liabilities, if legal, is a result consistent with the Bankruptcy Code.
+See In re James Wilson Assocs.
+, 965 F.2d 160, 170 (7th Cir.1992) ("It is not bad faith to seek to gain an advantage from declaring bankruptcy--why else would one declare it?").
+Bank America also posits that the plan was not proposed in good faith because the risk of the plan falls squarely on Bank America.
+The bankruptcy court, however, found otherwise.
+Much of the risk of the plan falls on the shoulders of the new investors.
+Moreover, Bank America, by focusing on the tax consequences to the plan's investors, appears to be urging that we look at the subjective motivations of those proposing the plan.
+In re Madison's teachings are to the contrary.
+The bankruptcy court cataloged the objective benefits and likely results of the plan, and these are not inconsistent with the Code.
+We therefore hold that the bankruptcy court did not clearly err when it determined that the plan it confirmed was proposed in good faith.
+Finally, Bank America asks that, if we reverse the district and bankruptcy courts' holdings on any issue, we also reverse the bankruptcy court's orders denying (1) relief from the automatic stay and (2) Bank America's request to convert or dismiss the case. Because we uphold the district court's judgment in its entirety, we deny Bank America's request.
+Conclusion For the foregoing reasons, we affirm the judgment of the district court.
+A FFIRMED .

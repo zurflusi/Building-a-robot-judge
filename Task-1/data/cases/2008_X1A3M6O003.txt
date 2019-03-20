@@ -1,0 +1,158 @@
+ POOLER, Circuit Judge: In this appeal, we address whether Section 901 (b) of the New York Civil Practice Law and Rules ("CPLR") — which prohibits a lawsuit seeking a statutory penalty from being brought as a class action — may be applied in a federal court sitting in diversity jurisdiction and adjudicating claims under New York law.
+Plaintiff-appellant Shady Grove Orthopedic Associates brought a class action for statutory interest penalties under Section 5106(a) of New York Insurance Law ("N.Y. Ins. Law") against defendant-appellee Allstate Insurance Company.
+In an opinion and order dated December 15, 2006, the district court (Nina Gershon, J.) granted Allstate's motion to dismiss on the ground that Shady Grove's claim is barred by CPLR 901(b) .
+Shady Grove now appeals that ruling.
+BACKGROUND Shady Grove's complaint alleged that Allstate failed to pay statutory interest penalties on overdue payments of insurance benefits owed to plaintiffs under no-fault automobile insurance policies issued by Allstate.
+[fn1] Shady Grove did not seek recovery of the insurance benefits themselves, which it concedes were eventually paid by Allstate.
+Rather, Shady Grove alleged that Allstate failed to make the payments of insurance benefits within the time frame prescribed by Section 5106(a) of N.Y. Ins. Law and Part 65-3 of Title 11 of the New York Compilation of Codes, Rules and Regulations, rendering the benefits overdue and thus incurring the statutory interest penalty of two percent per month.
+[fn2] Shady Grove further alleged that Allstate (1) routinely fails to pay covered claims for first-party no-fault benefits within the statutorily mandated 30-day time period; (2) routinely ignores its obligation to pay the statutory interest owed in such cases; and (3) routinely and falsely claims to have never received proof of the loss from the insured, so as to avoid triggering the statutory time limits.
+Shady Grove invoked the district court's diversity jurisdiction under 28 U.S.C. 1332 (d)(2)(A), which provides that "[t]he district courts shall have original jurisdiction of any civil action in which the matter in controversy exceeds the sum or value of $5,000,000, exclusive of interest and costs, and is a class action in which .
+.
+.
+any member of a class of plaintiffs is a citizen of a State different from any defendant.
+.
+.
+."
+Allstate [**2] is an Illinois corporation; Shady Grove is a Maryland corporation.
+The relevant automobile insurance policy is governed by New York law.
+Shady Grove sought damages in excess of $5,000,000 on behalf of a putative class of all individuals to whom Allstate owes interest under N.Y. Ins. Law 5106 (a).
+See Shady Grove Orthopedic Assocs., P.A.
+, 466 F.Supp.2d at 469 .
+Shady Grove acknowledged that its individual claim for approximately $500 in damages, which was based on interest on services rendered to Galvez, would fail to meet the monetary requirement for diversity jurisdiction.
+Id .
+Allstate moved to dismiss based on CPLR 901(b) , which provides: Unless a statute creating or imposing a penalty, or a minimum measure of recovery specifically authorizes the recovery thereof in a class action, an action to recover a penalty, or minimum measure of recovery created or imposed by statute may not be maintained as a class action.
+Therefore, Allstate argued, Shady Grove could not bring its action for a statutory interest penalty under N.Y. Ins. Law 5106 (a) as a class action, and the district court lacked diversity jurisdiction.
+Shady Grove argued that CPLR 901(b) is not applicable to class actions brought in federal court because it is a procedural rule in conflict with Rule 23 of the Federal Rules of Civil Procedure.
+In a careful and thorough opinion, Judge Gershon rejected this argument, reasoning that: Whereas this Court is bound by Rule 23 in this action, the strictures of 901(b) do not contravene any federal rule.
+This situation does not warrant an invocation of the Supremacy Clause or a discussion of the overlapping scope of 901 and Rule 23 .
+It would be patently unfair to allow a plaintiff an attempt at recovery in federal court for a state law claim that would be barred in state court.
+Shady Grove Orthopedic Assocs., P.A.
+, 466 F.Supp.2d at 472 (quoting Dornberger v. Metro. Life Ins. Co. , 182 F.R.D. 72 , 84 (S.D.N.Y.
+1998) (alteration marks omitted)).
+The district court also rejected Shady Grove's argument that N.Y. Ins. Law 5106 (a) falls within the exception clause of CPLR 901(b) , which allows class action suits where "a statute creating or imposing a penalty, or a minimum measure of recovery specifically authorizes the recovery thereof in a class action .
+.
+."
+Id. at 472 , 474-75.
+Shady Grove now appeals the district court's decision.
+Shady Grove argues that (1) under the rule of Erie Railroad Co. v. Tompkins , 304 U.S. 64 , 58 S.Ct. 817 , 82 L.Ed. 1188 (1938), a federal court should not apply a state procedural rule that would limit the use of a procedural device — here, the class action — that is otherwise available under the Federal Rules of Civil Procedure, and (2) the district court erred in failing to find that the exception clause of CPLR 901(b) was triggered.
+[fn3] DISCUSSION "We review the denial of a motion to dismiss the complaint de novo, accepting the truth of each factual allegation it contains."
+Teamsters Local 445 Freight Div. Pension Fund v. Dynex Capital, Inc. , 531 F.3d 190 , 194 (2d Cir. 2008).
+I. Erie Doctrine "Under the Erie doctrine, federal courts sitting in diversity apply state substantive law and federal procedural law."
+Gasperini v. Ctr. for Humanities, Inc. , 518 U.S. 415 , 427 , 116 S.Ct. 2211 , 135 L.Ed.2d 659 (1996); accord Allianz Ins. Co. v. Lerner , 416 F.3d 109 , 118 (2d Cir. 2005).
+"[T]he Erie doctrine [**3] applies, whatever the ground for federal jurisdiction, to any issue or claim which has its source in state law."
+In re Gaston & Snow , 243 F.3d 599 , 607 (2d Cir. 2001) (quotation marks omitted).
+The Supreme Court has observed that "[c]lassification of a law as `substantive' or `procedural' for Erie purposes is sometimes a challenging endeavor."
+Gasperini 518 U.S. at 427 , 116 S.Ct. 2211 .
+However, if a state rule is not compatible with a Federal Rule of Civil Procedure, the "question is usually unproblematic."
+Id. at 427 n. 7, 116 S.Ct. 2211 .
+The Federal Rule controls under the Supremacy Clause, so long as that Federal Rule "is consonant with the Rules Enabling Act, 28 U.S.C. 2072 , and the Constitution.
+.
+.
+."
+Id .
+(citing Hanna v. Plumer , 380 U.S. 460 , 469-74 , 85 S.Ct. 1136 , 14 L.Ed.2d 8 (1965); Burlington N. R.R. Co. v. Woods , 480 U.S. 1 , 4-5 , 107 S.Ct. 967 , 94 L.Ed.2d 1 (1987)).
+In analyzing whether a state rule conflicts with a Federal Rule of Civil Procedure, we must "determine whether, when fairly construed, the scope of [the Federal Rule] is `sufficiently broad' to cause a `direct collision' with the state law or, implicitly, to `control the issue' before the court, thereby leaving no room for the operation of that law."
+Burlington N. R.R. Co. , 480 U.S. at 4-5 , 107 S.Ct. 967 (quoting Walker v. Armco Steel Corp. , 446 U.S. 740 , 749-50 & n. 9, 100 S.Ct. 1978 , 64 L.Ed.2d 659 (1980)).
+In Walker , the Court cautioned: "[t]his is not to suggest that the Federal Rules of Civil Procedure are to be narrowly construed in order to avoid a `direct collision' with state law.
+The Federal Rules should be given their plain meaning."
+446 U.S. at 750 n. 9, 100 S.Ct. 1978 .
+Nonetheless, "[f]ederal courts have interpreted the Federal Rules .
+.
+.
+with sensitivity to important state interests and regulatory policies."
+Gasperini , 518 U.S. at 427 n. 7, 116 S.Ct. 2211 (citing Walker , 446 U.S. at 750-752 , 100 S.Ct. 1978 and S.A. Healy Co. v. Milwaukee Metro. Sewerage Dist. , 60 F.3d 305 , 310-312 (7th Cir. 1995)).
+If the state rule does not directly collide with the Federal Rule, the inquiry becomes whether the choice of rule would be "outcome affective" — in other words, "[w]ould `application of the [standard] .
+.
+.
+have so important an effect upon the fortunes of one or both of the litigants that failure to [apply] it would [unfairly discriminate against citizens of the forum State, or] be likely to cause a plaintiff to choose the federal court'?"
+Gasperini , 518 U.S. at 428 , 116 S.Ct. 2211 (quoting Hanna , 380 U.S. at 468 n. 9, 85 S.Ct. 1136 ) (alterations in original).
+[fn4] Courts must analyze this question in light of the "twin aims" of Erie.
+Id. at 430 , 116 S.Ct. 2211 .
+"The rationale of [ Erie ] was, first, that federal courts should obtain results substantially similar to those reached by state courts considering the same cause of action, and, second, that federal courts should avoid application of federal law if that application would significantly encourage forum shopping by prospective out-of-state litigants."
+Morse v. Elmira Country Club , 752 F.2d 35 , 37 (2d Cir. 1984) (citing Walker , 446 U.S. at 747 , 100 S.Ct. 1978 ; Hanna , 380 U.S. at 467 , 85 S.Ct. 1136 ).
+However, the test of whether application of a rule is outcome affective "was never intended to serve as a talisman."
+Hanna , 380 U.S. at 466-67 , 85 S.Ct. 1136 (quoting Byrd v. Blue Ridge Rural Elec. Coop., Inc. , 356 U.S. 525 , 537 , 78 S.Ct. 893 , 2 L.Ed.2d 953 (1958)).
+Federal courts will not apply a state rule if it would threaten "`[a]n essential characteristic of [the federal court] system.'"
+Gasperini 518 U.S. at 431 , 116 S.Ct. 2211 (quoting Byrd , 356 U.S. at 537 , 78 S.Ct. 893 ) (alterations in original).
+A. Does CPLR 901(b) Conflict with Rule 23 ?
+As an initial matter, we must determine whether there is a conflict between Rule 23 and CPLR 901(b) .
+See id. at 427 n. 7, 116 S.Ct. 2211 .
+Every district court to consider this question in any detail has concluded [**4] that there is no conflict.
+[fn5] We agree.
+Rule 23 , fairly construed, is not sufficiently broad to cause a direct collision with CPLR 901(b) .
+Rule 23 provides that a class action "may be maintained" if (1) certain prerequisites for class certification are met — namely, numerosity, commonality, typicality, and adequacy of representation — and (2) the action falls into one of three enumerated categories of actions for which class-based adjudication is the superior method of resolution.
+CPLR 901(a) is a parallel statute, also setting forth the requirements of numerosity, commonality, typicality, adequacy of representation, and that "a class action [be] superior to other available methods for the fair and efficient adjudication of the controversy."
+CPLR 901(6) , however, prohibits class actions to recover a penalty or a minimum measure of recovery absent specific statutory authorization.
+There is no analogue to CPLR 901(b) in Rule 23 .
+Rule 23 does not control the issue of which substantive causes of action may be brought as class actions or which remedies may be sought by class action plaintiffs.
+See Wade v. Danek Med., Inc. , 182 F.3d 281 , 290 (4th Cir. 1999) (" Rule 23 .
+.
+.
+merely establishes the procedures for pursuing a class action in the federal courts.
+.
+.
+.").
+Thus, Rule 23 leaves room for the operation of CPLR 901(b) , which is a substantive rule that eliminates statutory penalties under New York law as a remedy for class action plaintiffs.
+CPLR 901(b) is analogous to a statute of limitations, which is substantive for Erie purposes.
+See Walker , 446 U.S. at 746 , 750-52, 100 S.Ct. 1978 (describing the holding of Ragan v. Merchants Transfer & Warehouse Co. , 337 U.S. 530 , 69 S.Ct. 1233 , 93 L.Ed. 1520 (1949) that a state's "service of summons statute controlled because it was an integral part of the state statute of limitations, and under York that statute of limitations was part of the state-law cause of action.").
+In Walker , the Supreme Court held that state law, rather than Rule 3 of the Federal Rules of Civil Procedure, determines when a diversity action commences for the purposes of tolling the state statute of limitations.
+Rule 3 provides that "[a] civil action is commenced by filing a complaint with the court."
+This rule could be interpreted to conflict with state rules that provide for other means of commencing an action.
+But, the Court observed that Rule 3 makes no reference to the tolling of state limitations, and accordingly found no "direct conflict."
+Id. at 752 , 100 S.Ct. 1978 .
+Similarly, Rule 23 does not make reference to whether any particular state statutory cause of action can be brought as a class action or otherwise evidence an intent to occupy the field on this question.
+See S.A. Healy Co. , 60 F.3d at 307 , 310-12 (concluding that state provision for offers of settlement by plaintiffs is compatible with Federal Rule 68 , which is limited to offers by defendants, and rejecting district court's finding that Rule 68 "occupies the field") (cited with approval in Gasperini , 518 U.S. at 428 n. 7, 116 S.Ct. 2211 ); cf. Com/Tech Commc'n Techs., Inc. v. Wireless Data Sys., Inc. , 163 F.3d 149 , 150-51 (2d Cir. 1998) (holding that Rule 13 of the Federal Rules of Civil Procedure, which allows a defendant in a civil action to raise "any claim against an opposing party" as a counterclaim, [**5] conflicts with CPLR 3213 , which prohibits a defendant from bringing counterclaims that would not independently qualify for summary process).
+The Supreme Court distinguished Walker from Hanna , in which the Court found that the "clash" between Rule 4 (d)(1), which provided for waiver of service, and a state in-hand service requirement was "unavoidable."
+Walker , 446 U.S. at 749 , 100 S.Ct. 1978 (citing Hanna , 380 U.S. at 470 , 85 S.Ct. 1136 ); cf. Burlington N. R.R. Co. , 480 U.S. at 7-8 , 107 S.Ct. 967 (finding Alabama state statute imposing a mandatory penalty on an appellant upon affirmation of a money judgment to be in conflict with Rule 38 of the Federal Rules of Appellate Procedure, which affords federal courts discretion to award damages to an appellee).
+Here, there is no unavoidable clash — indeed, there is no clash at all.
+Rule 23 's procedural requirements for class actions can be applied along with the substantive requirement of CPLR 901(b) .
+Moreover, in the Erie context, a Federal Rule should be interpreted "with sensitivity to important state interests and regulatory policies."
+Gasperini , 518 U.S. at 427 n. 7, 116 S.Ct. 2211 (citing Walker , 446 U.S. at 750-752 , 100 S.Ct. 1978 ).
+The New York Court of Appeals has recently described the state interests behind CPLR 901(b) : It is evident that by including the penalty exception in CPLR 901(b) , the Legislature declined to make class actions available where individual plaintiffs were afforded sufficient economic encouragement to institute actions (through statutory provisions awarding something beyond or unrelated to actual damages), unless a statute expressly authorized the option of class action status.
+This makes sense, given that class actions are designed in large part to incentivize plaintiffs to sue when the economic benefit would otherwise be too small, particularly when taking into account the court costs and attorneys' fees typically incurred.
+Sperry , 8 N.Y.3d at 213 , 831 N.Y.S.2d 760 , 863 N.E.2d 1012 .
+Thus, the purpose behind CPLR 901(b) is to offset the deterrent effect of statutory penalties by eliminating the class action device as a means of enforcement of those penalties.
+CPLR 901(b) should be interpreted as part of the statutory interest penalty scheme, because it serves the state interest of offsetting that penalty.
+Allowing plaintiff to pursue its claims in federal court as a class action would circumvent this state policy.
+B. Does Application of CPLR 901(b) in Federal Court Serve the Twin Aims of Erie?
+Concluding that Rule 23 does not conflict with CPLR 901(b) , we must now analyze whether application of CPLR 901(b) in federal courts to prohibit the use of the class-action device to recover penalties created by state statute is consistent with the aims of Erie.
+We agree with the overwhelming majority of district courts that have concluded that CPLR 901(b) is a substantive law that must be applied in the federal forum, just as it is in state court.
+[fn6] Any other conclusion would contravene the mandates of Erie by allowing "plaintiffs to recover on a class-wide basis in federal court when they are unable to do the same in state court."
+Leider , 387 F.Supp.2d at 291 .
+A failure "to apply CPLR 901(b) would clearly encourage forum-shopping, with plaintiffs and their attorneys migrating toward federal court [**6] to obtain the `substantial advantages' of class actions."
+In re Relafen Antitrust Litig. , 221 F.R.D. at 285 ; see also Deposit Guar. Nat'l Bank v. Roper , 445 U.S. 326 , 338-39 & n. 9, 100 S.Ct. 1166 , 63 L.Ed.2d 427 (1980) (discussing the potential advantages of class-action litigation for plaintiffs and their counsel, including increased attorneys' fees and decreased costs).
+C. Does Application of CPLR 901(b) in Federal Court Threaten Any Essential Characteristic of the Federal Court System?
+Shady Grove argues that application of New York's CPLR 901(b) in federal courts would raise fundamental concerns of federalism, allowing "state legislatures [to] dictate to the federal courts the use or nonuse of procedural mechanisms that are otherwise available under the Federal Rules.
+.
+.
+."
+Def. Reply Br. at 4.
+To be sure, the Erie doctrine does not require a federal court to apply a state rule where it would pose a threat to "`[a]n essential characteristic of [the federal court] system.'"
+Gasperini , 518 U.S. at 431 , 116 S.Ct. 2211 (quoting Byrd , 356 U.S. at 537 , 78 S.Ct. 893 ) (alterations in original).
+But Shady Grove has made no argument that the availability of the class action device in all circumstances is an "essential characteristic" of the federal court system, particularly where the very cause of action that Shady Grove seeks to assert is a creature of New York state statute.
+II.
+CPLR 901(b) 's Exception Clause Finally, we address Shady Grove's argument that its cause of action under N.Y. Ins. Law 5106 (a) falls within the exception clause of CPLR 901(b) , which allows class actions for statutory penalties if specifically authorized by statute.
+Based on a plain reading of CPLR 901(b) , we conclude that it does not.
+CPLR 901(b) provides that where a statute creates a penalty, the " statute " itself must " specifically authorize [] the recovery thereof in a class action."
+(emphases added).
+N.Y. Ins. Law 5106 (a) contains no such authorization.
+Plaintiffs argue that an implementing regulation, Part 65-3.9 (c) of Title 11 of the New York Compilation of Codes, Rules and Regulations, demonstrates that a class action is permissible here.
+That regulation provides: If any applicant is a member of a class in a class action brought for payment of benefits, but is not a named party, interest shall not accumulate on the disputed claim or element of claim until a class which includes such applicant is certified by court order, or such benefits are authorized in that action by Appellate Court decision, whichever is earlier.
+N.Y. Comp.Codes R. & Regs.
+tit. 11, 65-3.9 (c).
+The district court correctly rejected this argument.
+Shady Grove Orthopedic Assocs., P.A.
+, 466 F.Supp.2d at 475 .
+At most, this regulation contemplates the recovery of a penalty in a class action; it does not demonstrate that the statute "specifically authorizes" that recovery as required by CPLR 901(b) .
+Even if, as Shady Grove argues, the plain meaning of the statute renders the regulation superfluous, the plain meaning of the statute controls.
+"The statutory text is the clearest indicator of legislative intent and courts should construe unambiguous language to give effect to its plain meaning."
+DaimlerChrysler Corp. v. Spitzer , 7 N.Y.3d 653 , 660 , 827 N.Y.S.2d 88 , 860 N.E.2d 705 (2006).
+CONCLUSION The district court's decision is AFFIRMED.
+Allstate's motion to strike the [**7] new arguments raised in points VI and VII of Appellant's Reply is GRANTED.
+Each party shall bear its own costs.
+The contrary cases brought to our attention by Shady Grove are neither controlling nor relevant.
+See Wesley v. John Mullins & Sons, Inc. , 444 F.Supp.
+117 , 119-20 (E.D.N.Y.
+1978) (treating CPLR 901(b) as procedural, without analysis or express holding on the issue); In re Oot , 112 B.R. 497 , 502 (Bankr.N.D.N.Y.
+1989) (applying Rule 23 's numerosity requirement because CPLR 901 was "procedural in nature"); In re Peters , 90 B.R. 588 , 594 (Bankr.N.D.N.Y.
+1988) (similar).

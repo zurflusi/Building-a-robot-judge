@@ -1,0 +1,243 @@
+ STRAUB, Circuit Judge: This class action copyright litigation arises from the unauthorized electronic reproduction of various written works.
+Named plaintiffs and class members consist mainly of freelance writers who contracted with publishers to author the works for publication in print media, and retained the copyrights in those works.
+The contracts did not grant the publishers the right to electronically reproduce those works or license them for electronic reproduction by others.
+But the publishers did so anyway.
+Plaintiffs then brought this class action on the theory that such electronic reproduction infringed their copyrights.
+After years of negotiations, class and defense counsel finally agreed on a settlement.
+Following lengthy motion practice, the District Court for the Southern District of New York certified a class and approved the settlement.
+We review that order and judgment on this appeal.
+The overwhelming majority of claims within the certified class arise from the infringement of unregistered copyrights.
+We have held, albeit outside the class action context, that district courts lack statutory subject matter jurisdiction over infringement claims arising from unregistered copyrights.
+See Well-Made Toy Mfg. Corp. v. Goffa Int'l Corp. , 354 F.3d 112 , 115 (2d Cir.2003); Morris v. Bus.
+Concepts, Inc. , 259 F.3d 65 , 72 (2d Cir.2001).
+The District Court never specifically addressed this potential jurisdictional flaw.
+The precise issue on appeal is whether the District Court had jurisdiction to certify a class consisting of claims arising from the infringement of unregistered copyrights and to approve a settlement with respect to those claims.
+We hold that it did not.
+We therefore vacate its order and judgment [***2] and remand the case for proceedings consistent with this opinion.
+BACKGROUND In New York Times Co. v. Tasini 533 U.S. 483 , 488 , 121 S.Ct. 2381 , 150 L.Ed.2d 500 (2001), the Supreme Court held that 201(c) of the Copyright Act does not permit publishers to reproduce freelance works electronically when they lack specific authorization to do so. Tasini effectively requires publishers wishing to electronically reproduce written works to obtain a separate license to do so. Shortly after the Court decided Tasini , three preexisting class action infringement suits, which had been suspended pending the decision, were activated and consolidated in the Southern District of New York.
+A fourth, nearly identical action was coordinated with that consolidated action.
+Together, these claims comprise the instant litigation.
+In this case there are basically two kinds of plaintiffs: individual authors and trade groups representing authors.
+Defendants also fall into two classes: companies that publish original electronic content, such as the New York Times Co., and companies that operate databases that license content from publishers, such as Thomson Corporation, the owner of Westlaw.
+The named plaintiffs, and the class members they purport to represent, produced written works for certain defendants on a freelance basis.
+Based on their copyrights in those freelance works, plaintiffs assert claims for two types of infringement.
+They first claim that publishers, such as the New York Times Co., infringed their copyrights.
+This infringement allegedly occurred when the publishers licensed the articles for print publication only but also reproduced the articles in their electronic databases.
+Since the publishers needed but never received a license for this second, electronic reproduction, plaintiffs allege that it constitutes infringement.
+Plaintiffs next claim that the electronic database services infringed their copyrights.
+This infringement allegedly occurred when those companies licensed the articles from the publishers and then reproduced the articles in their own electronic databases.
+Because the publishers never possessed the right to electronically reproduce the articles, plaintiffs urge, the publishers could not grant any license for electronic reproduction.
+Thus, any such license that the publishers sold to the aggregators and databases was legally ineffective.
+Consequently, according to plaintiffs, the electronic reproduction by the databases is unauthorized and infringing.
+[**1220] Since Tasini established the basic soundness of plaintiffs' liability theory, the District Court swiftly referred the parties to mediation.
+Before the mediator, defendants contended that this litigation possessed scant settlement value because the District Court could never certify the vast majority of the claims for inclusion in any proposed class.
+Defendants noted that section 411(a) of the Copyright Act provides that "no action for infringement of the copyright in any United States work shall be instituted until preregistration [***3] or registration of the copyright claim has been made in accordance with this title."
+17 U.S.C. 411 (a) (emphases in defendants' mediation submission).
+"That rule," defendants wrote, "whose language could hardly be clearer, precludes the certification of any class respecting works in which a copyright has not been registered."
+Defendants then cited authority for the proposition that the District Court "lacks jurisdiction .
+.
+.
+to certify a class covering any unregistered works."
+Citing survey evidence showing that freelancers register less than one percent of their works, defendants noted that this jurisdictional failure likely affected more than 99 percent of the claims at issue.
+Despite this looming jurisdictional issue, the desire to achieve global peace in the publishing industry spurred the parties through more than three years of "often heated" negotiations until they reached an agreement in 2005.
+The agreement defines the class, "for settlement purposes only," as follows: All persons who, individually or jointly, own a copyright under the United States copyright laws in an English language literary work that has been reproduced, displayed, adapted, licensed, sold and/or distributed in any electronic or digital format, without the person's express authorization by a member of the Defense Group or any member's subsidiaries, affiliates, or licensees (a) at any time on or after August 15, 1997 (regardless of when the work first appeared in an electronic database) or (b) that remained in circulation after August 15, 1997, even if licensed prior thereto, including English language works qualifying for U.S. copyright protection under an international treaty (hereinafter "Subject Work").
+The parties agree that the large majority of "subject works" have not been registered with the U.S.
+Copyright Office.
+The settlement sorts plaintiffs' claims into three groups.
+Category A claims concern copyrights that were registered prior to any infringement.
+Because these copyrights were registered before the infringing reproduction, they are eligible for statutory damages and attorney's fees under the Copyright Act.
+See 17 U.S.C. 412 .
+Category B claims concern copyrights that were registered after the infringing reproduction but before December 31, 2002.
+Under the Copyright Act, these claims qualify for actual damages only.
+See id .
+Category C claims, by far the most numerous, regard copyrights registered after December 31, 2002 or not registered at all.
+The settlement also assigns a damages formula to each type of claim.
+Category A claimants receive a flat fee.
+Category B claimants receive the greater of either a flat fee or a percentage of the original price of the work.
+By and large, Category C claimants also receive the greater of either a flat fee or a percentage of the original price of the work.
+Importantly, if the cost of all claims (plus the cost of notice, administration, and attorney's fees) exceeds $18 million, then the amount paid to Category C claimants is reduced — potentially to zero — before the claims of Category A and B claimants are affected.
+[***4] This feature is called the "C-reduction."
+Having reached an agreement, plaintiffs and defendants moved the District Court for class certification and settlement approval.
+Objectors opposed the motion on the ground, inter alia , that the settlement was inadequate and unfair to Category C claimants because they were paid little and singled out for reduction if the total claims exceeded $18 million.
+Objectors also maintained that the disparate treatment of Category C claimants illustrates that named plaintiffs, who each possess at least some registered copyrights, did not adequately represent those absent class members who possess only unregistered copyrights.
+Defendants responded that Category C claimants were adequately represented and treated fairly because their claims were essentially worthless.
+In justifying the C-reduction, defendants renewed their jurisdictional argument, urging that Category C claims mainly concerned "works in which [the] copyright had never been registered, and which were not, therefore, within the court's subject matter jurisdiction."
+Somewhat similarly, plaintiffs maintained that "freelance authors typically [**1221] did not register their works and thus lacked standing to bring an infringement action."
+After prolonged proceedings, the District Court granted final class certification and final settlement approval in September of 2005.
+The District Court never considered whether it had jurisdiction to certify a class consisting mostly of claims arising from unregistered copyrights, or to approve a settlement resolving those claims.
+Objectors appealed, again challenging the settlement's fairness and the adequacy of named plaintiffs' representation.
+Prior to oral argument, we became concerned that the District Court and the parties had passed over a nettlesome jurisdictional question.
+We ordered the parties to submit letter briefs "addressing the issue of whether the District Court had subject matter jurisdiction over claims concerning the infringement of unregistered copyrights."
+In re Literary Works in Elec. Databases Copyright Litig. , No. 05-5943-cv (2d Cir. Jan. 31, 2007).
+Those submissions were timely filed and we further questioned the parties at oral argument.
+DISCUSSION We review de novo whether the District Court had subject matter jurisdiction.
+See, e.g., DiTolla v. Doral Dental IPA of New York , 469 F.3d 271 , 275 (2d Cir.2006).
+In the following sections, we first ask whether the Copyright Act's registration requirement is jurisdictional and then ask whether each claim within the class must satisfy that requirement.
+We answer both questions affirmatively.
+Since most of the claims within this purported class do not satisfy the registration requirement, we also analyze whether the supplemental jurisdiction statute, 28 U.S.C. 1367 , remedies that jurisdictional defect.
+We conclude that it does not.
+Based on those determinations, we ultimately hold that the District Court lacked jurisdiction to certify the instant class or approve the settlement.
+I. The Copyright Act's Registration [***5] Requirement Is Jurisdictional Federal district courts possess only limited jurisdiction, which Congress regulates by statute.
+See U.S. Const, art.
+III , 1 ; Exxon Mobil Corp. v. Allapattah Servs., Inc. , 545 U.S. 546 , 552 , 125 S.Ct. 2611 , 162 L.Ed.2d 502 (2005).
+In a copyright action, a district court initially derives its jurisdiction from two sources: 28 U.S.C. 1331 and 1338 .
+Section 1331 provides district courts with a general grant of original jurisdiction over "all civil actions arising under the Constitution, laws, or treaties of the United States."
+Section 1338 more specifically grants district courts original jurisdiction over "any civil action arising under any Act of Congress relating to .
+.
+.
+copyrights."
+But these provisions are not necessarily the end of the matter.
+Congress may supplement or limit these basic provisions with additional requirements "expressed in a separate statutory section from jurisdictional grants."
+Barnhart v. Peabody Coal Co. , 537 U.S. 149 , 159-60 n. 6, 123 S.Ct. 748 , 154 L.Ed.2d 653 (2003).
+Section 411(a) of the Copyright Act, which regulates a district court's authority to adjudicate a copyright claim, is one such additional provision.
+It provides that "no action for infringement of the copyright in any United States work shall be instituted until preregistration or registration of the copyright claim has been made in accordance with this title."
+17 U.S.C. 411 (a); see also 17 U.S.C. 501 .
+[fn1] Whether this requirement is jurisdictional is not up for debate in this Circuit.
+On two recent occasions, we have squarely held that it is.
+See Well-Made Toy Mfg. Corp. v. Goffa Int'l Corp. , 354 F.3d 112 , 114 , 115 (2d Cir.2003) (affirming dismissal for lack of "subject matter jurisdiction" because section 411(a) 's "registration requirement is jurisdictional"); Morris v. Business Concepts, Inc. , 259 F.3d 65 , 72 , 73 (2d Cir.2001) (holding "that subject matter jurisdiction was lacking because the registration requirement of section 411(a) was not satisfied" and affirming dismissal "for lack of subject matter jurisdiction").
+We are far from alone in this regard; there is widespread agreement among the circuits that section 411(a) is jurisdictional.
+See La Resolana Architects, PA v. Clay Realtors Angel Fire , 416 F.3d 1195 , 1200 (10th Cir.2005) (" Section 411(a) is the jurisdictional lynchpin to copyright infringement actions[.
+]"); Positive Black Talk Inc. v. [**1222] Cash Money Records Inc. , 394 F.3d 357 , 365 (5th Cir.2004) (noting that section 411(a) "supplement[s]" the "broad underlying" jurisdictional grants in 28 U.S.C. 1331 , 1338 and acts as an additional "jurisdictional prerequisite"); Xoom, Inc. v. Imageline, Inc. , 323 F.3d 279 , 283 (4th Cir.2003) ("Copyright registration is a jurisdictional prerequisite to bringing an action for infringement under the Copyright Act.
+"); Murray Hill Publ'ns, Inc. v. ABC Commc'ns, Inc. , 264 F.3d 622 , 630 n. 1 (6th Cir.2001) (noting that while copyright protection exists prior to registration, "[t]he registration requirement under section 411[a] is a jurisdictional prerequisite to the right of the holder to enforce the copyright in federal court"); Brewer-Giorgio v. Producers Video, Inc. , 216 F.3d 1281 , 1285 (11th Cir.2000) ("It is well settled in this Court that the registration requirement is a jurisdictional prerequisite to an infringement suit."
+(internal quotation marks omitted and alterations incorporated)); Data Gen. Corp. v. Grumman Sys.
+Support Corp. [***6] , 36 F.3d 1147 , 1163 (1st Cir.1994) (describing registration under section 411(a) as a "jurisdictional requirement").
+Given our own binding precedent, not to mention the persuasive authority of our sister circuits, we again conclude that section 411(a)'s registration requirement limits a district court's subject matter jurisdiction to claims arising from registered copyrights only.
+The parties advance several arguments that effectively ask us to overrule our holdings in Morris and Well-Made.
+The short answer to these arguments is that this panel simply cannot overrule a prior panel's holding.
+See Jones v. Coughlin , 45 F.3d 677 , 679 (2d Cir.1995) ("A decision of a panel of this Court is binding unless and until it is overruled by the Court en banc or by the Supreme Court.").
+Nevertheless, for the sake of completeness we explain why these arguments fail.
+The parties first urge that section 411(a) is jurisdictional in a very minimal sense.
+They claim that if a plaintiff brings a single claim based on a registered copyright, the district court acquires jurisdiction over any and all related copyright claims, even if those other claims arise from unregistered copyrights.
+Defendants contend that " 411(a) is merely the plaintiffs ticket to court," that once stamped, allows him to raise all sorts of claims arising from unregistered copyrights.
+Although defendants are not necessarily bound by earlier arguments, their current tack cuts against their position before the mediator and the District Court, where they broadly maintained that "works in which [the] copyright had never been registered .
+.
+.
+were not .
+.
+.
+within the court's subject matter jurisdiction."
+[fn2] Anyway, our holding in Well-Made shuts the door on this line of argument.
+There, the plaintiff brought two infringement claims: one based on the infringement of its registered copyright in a 20-inch doll, the other based on the infringement of its unregistered copyright in a derivative 48-inch doll.
+354 F.3d at 115 .
+The district court decided the first claim on the merits but dismissed the second claim for lack of jurisdiction.
+Id .
+We affirmed on both scores.
+Id. at 115 , 117 .
+We specifically upheld the dismissal, for lack of jurisdiction, of the claim based on the unregistered copyright even though the plaintiff had paired that claim with a related claim stemming from the registered copyright in the 20-inch doll.
+Id. at 115-16.
+Thus, the existence of a claim based on a registered copyright does not bring within a district court's jurisdiction all related claims stemming from unregistered copyrights.
+In similar vein, defendants also point out that other courts have enjoined the infringement of unregistered copyrights when at least one of the plaintiffs copyrights-in-suit was registered.
+See, e.g., Perfect 10, Inc. v. Amazon.com, Inc. , 487 F.3d 701 , 710 n. 1 (9th Cir.2007); Olan Mills, Inc. v. Linn Photo Co. , 23 F.3d 1345 , 1349 (8th Cir.1994); Pac. and S. Co. v. Duncan , 744 F.2d 1490 , 1499 n. 17 (11th Cir.1984).
+This is another, although more limited, variation on the theme that where one of the plaintiffs claims arises from a registered copyright, section 411(a) vests jurisdiction over any related infringement claim.
+There are several [***7] problems with this argument.
+[**1223] First, we have never held that a district court may enjoin the infringement of un-registered copyrights so long as the underlying action arises from a registered copyright held by the same party.
+[fn3] Second, even if injunctive relief against infringement of an unregistered copyright is available, that relief is properly limited to situations, as were found to exist in Olan Mills and Pacific and Southern Co. , where a defendant has engaged in a pattern of infringement of a plaintiffs registered copyrights and can be expected to continue to infringe new copyrighted material emanating in the future from the plaintiff.
+See Olan Mills, Inc. , 23 F.3d at 1349 ; Pac. and S. Co. , 744 F.2d at 1499 .
+That sort of prophylactic relief furthers the purposes of the Copyright Act generally and does not undermine the intended effect of section 411(a) .
+To the extent that Perfect 10, Inc. suggests a broader exception, we decline to follow it.
+In any event, defendants' position calls for an exception vastly broader than is found in any case by asking us to rule that registration of one party's copyright would somehow provide jurisdiction over claims stemming from the unregistered copyrights of many other parties.
+We decline to do so. [fn4] In addition to the parties' arguments, we have considered whether the Supreme Court's recent decision in Eberhart v. United States , 546 U.S. 12 , 126 S.Ct. 403 , 163 L.Ed.2d 14 (2005) (per curiam), "casts doubt" on Morris and Well-Made ; if so, we may reconsider our holdings in those cases.
+Loyal Tire & Auto Center, Inc. v. Town of Woodbury , 445 F.3d 136 , 145 (2d Cir.2006); see also Paese v. Hartford Life and Accident Ins. Co. , 449 F.3d 435 , 443-46 (2d Cir.2006).
+We conclude that Eberhart does not undermine our holdings in Morris and Well-Made.
+In Eberhart , the Supreme Court held that the seven-day time limit for moving under Federal Rule of Criminal Procedure 33 was not jurisdictional.
+546 U.S. at 13 , 126 S.Ct. 403 .
+The Court underscored the "`critical difference between a rule governing subject-matter jurisdiction and an inflexible claim-processing rule,'" and slotted Rule 33's time limit within the latter category.
+Id .
+(quoting Kontrick v. Ryan , 540 U.S. 443 , 456 , 124 S.Ct. 906 , 157 L.Ed.2d 867 (2004)).
+A key difference between section 411(a) and Rule 33 renders Eberhart inapplicable.
+Rule 33 merely sets forth a time limit for moving in a case that undoubtedly already falls within the district court's subject matter jurisdiction.
+The rule is nothing more than an "`emphatic time prescription□ in [a] rule□ of court'" that regulates motion practice within a jurisdictionally-sound cause of action — namely, a prosecution for a violation of federal law.
+Id. at 18 , 126 S.Ct. 403 (quoting Kontrick , 540 U.S. at 454 , 124 S.Ct. 906 ).
+By contrast, section 411(a) creates a statutory condition precedent to the suit itself.
+In so doing, it "`delineat[es] the classes of cases .
+.
+.
+falling within a court's adjudicatory authority.'"
+Id. at 19 (quoting Kontrick , 540 U.S. at 455 , 124 S.Ct. 906 ); see also Bowles v. Russell , U.S. , 127 S.Ct. 2360 , 2364-65 , 168 L.Ed.2d 96 (2007) (distinguishing between "procedural rules adopted by the Court for the orderly transaction of its business," which are "not jurisdictional," from statutory "limits enacted by Congress," which typically are jurisdictional (internal quotation marks omitted)).
+[fn5] Given that fundamental difference [**1224] between [***8] Rule 33 and section 411(a) , Eberhart's holding does not cast doubt on Morris and Well-Made.
+For these reasons, we conclude that section 411(a)'s registration requirement is a jurisdictional prerequisite to a copyright infringement suit.
+[fn6] II.
+Each Claim within the Certified Class Must Satisfy Section 411(a)'s Registration Requirement Having established that section 411(a) imposes a jurisdictional requirement, we must decide whether each claim within the certified class must satisfy that requirement.
+The parties urge that jurisdiction is proper so long as the named plaintiffs' works were registered.
+Based upon the named plaintiffs' registrations, the parties maintain, the District Court had jurisdiction to certify a class containing thousands of claims arising from un-registered copyrights.
+We disagree.
+Initially, we note that the class action certification device, Federal Rule of Civil Procedure 23 , does not offer any alternative source of jurisdiction in the class action context.
+See 28 U.S.C. 2072 (b) (providing that the federal "rules shall not abridge, enlarge or modify any substantive right"); Fed.R.Civ.P. 82 ("These rules shall not be construed to extend or limit the jurisdiction of the United States district courts.
+"); Amchem Prods., Inc., v. Windsor , 521 U.S. 591 , 613 , 117 S.Ct. 2231 , 138 L.Ed.2d 689 (1997).
+We therefore must look to the language of section 411(a) , as well as any applicable case law, to determine how the registration requirement applies in the class action context.
+See generally Zahn v. Int'l Paper Co. , 414 U.S. 291 , 299-301 , 94 S.Ct. 505 , 38 L.Ed.2d 511 (1973) (reasoning that whether the amount-in-controversy requirement of 28 U.S.C. 1332 (a) applies to each class member's claim depends on the language of statute), result overruled by 28 U.S.C. 1367 .
+[**1225] Again, section 411(a) provides, in relevant part, that "no action for infringement of the copyright in any United States work shall be instituted until preregistration or registration of the copyright claim has been made in accordance with this title."
+17 U.S.C. 411 (a) (emphasis added).
+The question, as we see it, is whether the phrase "the copyright claim" refers to all the claims within the class or only those claims of the named plaintiffs.
+On the literal level, the language is not dispositive.
+The phrase "the copyright claim" does not require, or even tend toward, one reading.
+But case law does provide some useful guidance as to how we should interpret that phrase.
+To begin with, we have applied Article Ill's jurisdictional requirements to each member of a class.
+See Denney v. Deutsche Bank AG , 443 F.3d 253 , 264 (2d Cir.2006) ("[N]o class may be certified that contains members lacking Article III standing.").
+Since statutory and constitutional jurisdictional requirements are equally binding, see U.S. Const, art.
+Ill, 1 ; Exxon Mobil Corp. , 545 U.S. at 553 , 125 S.Ct. 2611 (noting "the bedrock principle that federal courts have no jurisdiction without statutory authorization"), the same approach should hold here.
+And case law indicates that it does.
+In Zahn , the Supreme Court considered whether the diversity statute, 28 U.S.C. 1332 , requires each class member to satisfy the amount-in-controversy requirement.
+414 U.S. at 301 , 94 S.Ct. 505 .
+The Court held that the phrase "matter in controversy" in 1332(a) refers to each class member's claim and therefore [***9] requires each claim to satisfy the statute's amount-in-controversy requirement.
+In so holding, the Court reasoned that Rule 23 does not authorize one plaintiff to "ride on another's coattails."
+Id. at 301 , 94 S.Ct. 505 (internal quotation marks omitted).
+In order to alter this result, Congress needed to pass, and did pass, a new statute, 28 U.S.C. 1367 , which we analyze in the next section.
+Two years later, in Weinberger v. Salfi , 422 U.S. 749 , 764 , 95 S.Ct. 2457 , 45 L.Ed.2d 522 (1975), the Court addressed whether a district court properly certified a class of Social Security claimants who asserted that they had been denied benefits wrongfully.
+Like the Copyright Act, the Social Security Act contains a provision limiting jurisdiction over social security claims: section 205(g) of the Social Security Act, which grants subject matter jurisdiction over only "final" decisions of the Secretary.
+Id. at 763 , 95 S.Ct. 2457 .
+In determining whether the district court had jurisdiction to certify the class in Weinberger , the Supreme Court applied this finality requirement to all the claims within the class.
+It concluded that the named plaintiffs' claims satisfied the finality requirement but that claims of absent class members did not.
+Id. at 764 , 95 S.Ct. 2457 ("As to class members, however, the complaint is deficient in that it contains no allegations that they have even filed an application with the Secretary, much less that he has rendered any decision, final or otherwise.
+.
+.
+.
+The class thus cannot satisfy the requirements for jurisdiction under [section 205(g) ].").
+Given this statutory jurisdictional defect, "the District Court was without jurisdiction over so much of the complaint as concerns the class, and it should have entered an appropriate order of dismissal."
+Id .
+Weinberger thus supports the proposition that when a statute imposes a jurisdictional requirement, each member of a putative class must satisfy that requirement.
+Four years later, the Court reaffirmed this approach in Califano v. Yamasaki , 442 U.S. 682 , 99 S.Ct. 2545 , 61 L.Ed.2d 176 (1979).
+There, the Court held that section 205(g) of the Social Security Act permits social security claimants to seek relief via the class action device.
+But the Court carefully reiterated that each class member must meet the jurisdictional requirements of section 205(g) .
+Id. at 701 , 99 S.Ct. 2545 (holding that claimants could bring social security class action "at least so long as the membership of the class is limited to those who meet the requirements of 205(g) ").
+Stating the proposition more generally, the Court wrote, "Where the district court has jurisdiction over the claim of each individual member of the class, Rule 23 provides a procedure by which the court may exercise that jurisdiction over the various individual claims in a single proceeding."
+Id .
+We see no reason to interpret or apply the jurisdictional requirement of section 411(a) any differently.
+In light of these precedents, we hold that the phrase "the copyright claim" in section 411(a) refers to each claim within a purported class, and thus requires that each class member's claim arise from a registered copyright.
+Only when each claim satisfies that jurisdictional prerequisite may the district [***10] court utilize Rule 23 to "exercise [its] jurisdiction [**1226] over the various individual claims in a single proceeding."
+Id .
+[fn7] III.
+The Supplemental Jurisdiction Statute Does Not Apply Here Although section 411(a) deprived the District Court of jurisdiction to certify a class containing claims stemming from unregistered copyrights, the supplemental jurisdiction statute might provide an alternate source of jurisdiction.
+In relevant part, the statute provides as follows: Except as .
+.
+.
+expressly provided otherwise by Federal statute , in any civil action of which the district courts have original jurisdiction, the district courts shall have supplemental jurisdiction over all other claims that are so related to claims in the action within such original jurisdiction that they form part of the same case or controversy under Article III of the United States Constitution.
+28 U.S.C. 1367 (a) (emphasis added).
+In Exxon Mobil Corp. , the Court held that 1367(a) confers supplemental jurisdiction in a diversity class action over state law claims that fail to satisfy 1332(a)'s amount-in-controversy requirement, so long as (1) at least one claim satisfies that requirement and (2) all the other claims are part of the same case or controversy.
+545 U.S. at 559-60 , 125 S.Ct. 2611 .
+But the Court has never held that 1367(a) confers supplemental jurisdiction over jurisdictionally-deficient federal claims asserted together with another, jurisdictionally-proper claim.
+See generally Handberry v. Thompson , 436 F.3d 52 , 62 (2d Cir.2006) ("In 28 U.S.C. 1367 (a), Congress provided federal district courts with so-called supplemental jurisdiction to decide certain state-law claims. "
+(emphasis added)).
+We think that the text of the statute precludes that sort of application.
+See generally United States v. Gayle , 342 F.3d 89 , 92 (2d Cir.2003) ("Statutory construction begins with the plain text and, if that text is unambiguous, it usually ends there as well").
+Section 1367(a) excepts from its reach those cases in which another federal statute denies jurisdiction.
+28 U.S.C. 1367 (a) (providing supplemental jurisdiction over related claims "[e]xcept as .
+.
+.
+expressly provided otherwise by Federal statute"); Exxon Mobil Corp. , 545 U.S. at 559 , 125 S.Ct. 2611 (" Section 1367(a) commences with the direction that .
+.
+.
+other relevant statutes□ may provide specific exceptions.
+.
+.
+.
+"); see also id .
+("When the well-pleaded complaint contains at least one claim that satisfies the amount-in-controversy requirement, and there are no other relevant jurisdictional defects , the district court, beyond all question, has original jurisdiction over that claim."
+(emphasis added)).
+In our view, section 411(a) is a federal statute that "provide[s] otherwise" within the meaning of 1367(a) and presents another "relevant jurisdictional defect□" of the sort to which the Supreme Court alluded in Exxon Mobil Corp. After all, federal courts have exclusive jurisdiction over copyright claims, 28 U.S.C. 1338 (a), and section 411 (a) bars claims based on unregistered copyrights.
+It would make a hash of those provisions for us to hold that 1367(a) — somehow — vests federal courts with jurisdiction over claims based on unregistered copyrights.
+True, section 411(a) does not refer to 1367(a) .
+But we have [***11] held that another statute need not expressly refer to 1367(a) to curtail its reach.
+See Handberry , 436 F.3d at 62 (holding that 18 U.S.C. 3626 (a)(1)(A) limits 1367(a) even though the former statute makes no reference to 1367(a) ).
+For these reasons, we conclude that 1367(a) did not provide the District Court with jurisdiction over the claims arising from the alleged infringement of unregistered copyrights.
+[**1227] CONCLUSION Because the District Court lacked jurisdiction to certify the class and approve the settlement agreement, we VACATE and REMAND for proceedings consistent with this opinion.

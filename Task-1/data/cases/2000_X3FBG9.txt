@@ -1,0 +1,285 @@
+ TJOFLAT , Circuit Judge: The 1996 Pole Attachment Act, 47 U.S.C. 224 (Supp.II.1996) (the "1996 Act"), gives providers of cable and telecommunications services the right to attach wires to the poles of power and telephone companies.
+If the power and telephone companies will not accept the rent the providers offer to pay, the Federal Communications Commission (the "FCC" or "Commission") sets the rent.
+In In re Implementation of Section 703(e) of the Telecommunications Act of 1996 , 13 F.C.C.R.
+6777, 1998 WL 46987 (1998) (codified at 47 C.F.R. 1.1401-1.1418 (1999)47CFRS1.1418CFRLQ) (" Report and Order "), the FCC promulgated a formula for computing that rent.
+The FCC also ruled (in the Report and Order ) that the 1996 Act precluded utilities (power and telephone) from receiving rent for wires that were "overlashed" to wires previously attached to their poles; 1 that the 1996 Act gave it authority to regulate the placement of wireless communications equipment and attachments for Internet service on utility poles; and that the Act precluded utilities from receiving rent for unused wires contained within fiber optic cables, "dark fiber," 2 attached to the poles.
+In these consolidated petitions for review of the Report and Order , several power companies 3 (the "Petitioners") challenge the FCC's formula for determining rent on the ground that, when implemented, the formula will operate to take their property without just compensation, in violation of the Fifth Amendment.
+We decline to reach this takings claim, because it is not ripe.
+The Petitioners also challenge the FCC's other rulings.
+As to those rulings, we find unripe their challenge to the overlashing provision of the Report and Order ; we hold that the FCC lacks authority to regulate the placement of wireless equipment on utility poles and attachments for Internet service; and that its decision regarding dark fiber constitutes a reasonable interpretation of the 1996 Act.
+I. A. From its inception, the cable television industry has attached its cables to the utility poles of power and telephone companies.
+4 They have done so because factors such as zoning restrictions, environmental regulations, and start-up costs have rendered other options infeasible.
+Despite this dearth of alternatives, the attachment agreements between cable television companies and utility companies have generally been voluntary.
+But, the lack of alternatives has given the power and telephone companies an advantage in negotiating attachment agreements: their monopoly in the supply of poles that could accommodate television cables has allowed them, in the past, to charge monopoly rents.
+In an effort to solve the monopoly pricing problem, Congress, in 1978, enacted the Pole Attachment Act, Pub.L.
+95-234, 92 Stat. 33 (1978) (codified at 47 U.S.C. 224 (1994)) (the "1978 Act"), as an amendment to the Communications Act of 1934.
+The solution Congress articulated in that act was to specify a range of rents telephone and power companies could charge the cable television companies they allowed to attach to their poles.
+5 Congress' solution, in the 1978 Act, did not, however, change the voluntary nature of the attachment arrangement.
+As before, the cable television companies had no right to attach; thus, utilities could reject a cable television company's offer to attach.
+As for the attachments already in place, the 1978 Act effectively changed their terms.
+6 In the event the parties could not agree to the rent and conditions of an attachment, and the State chose not to regulate the terms of attachments, the FCC would settle the issue.
+7 The rule the FCC promulgated to implement its authority under the 1978 Act reflected its limited authority; that rule merely "provided complaint and enforcement procedures to ensure that rates, terms and conditions for cable television pole attachments [we]re just and reasonable."
+47 C.F.R. 1.1401 (1978).
+The rule set forth (1) the procedure for filing a complaint about rents or conditions of attachment, see id .
+; (2) factors to be considered by the administrative law judge in determining the lawfulness of the rent or conditions the utility sought, see id .
+; and (3) a formula for determining the maximum rent the utility could receive, see 47 C.F.R. 1.1409 .
+Under the formula, the maximum rent a utility could charge was the attacher's proportionate share 8 of the bare costs of maintaining the pole and the "carrying charges" 9 associated with the pole.
+After the FCC promulgated its rule, several cable television companies in Florida filed complaints with the FCC, contending that Florida Power Corporation was charging them unreasonable rents to attach.
+See FCC v. Florida Power Corp. , 480 U.S. 245, 248-49 , 107 S.Ct. 1107, 1110 , 94 L.Ed.2d 282 (1987).
+The FCC agreed that the rents were unreasonable and set a lower rent.
+Florida Power appealed the FCC's decision to this court, which held that the rent the FCC had set effected a taking of Florida Power's property without just compensation.
+Florida Power Corp. v. FCC , 772 F.2d 1537, 1546 (11th Cir.1985) .
+The Supreme Court reversed, holding that no taking occurred because Florida Power had voluntarily agreed to the cable companies' attachments.
+Had Congress, in the 1978 Act, required utilities to allow the attachments, a taking may have occurred, the court suggested.
+See Florida Power Corp. 480 U.S. at 251 n. 6, 107 S.Ct. at 1111 n. 6.
+The Florida Power decision clarified two fundamental precepts underlying the 1978 Act and the FCC's implementing regulations: (1) the FCC had narrow authority under the 1978 Act; it could regulate the power companies only to ensure that, once they consented to an attachment, the conditions of attachment and the rent they were to receive were reasonable; and (2) the FCC's rent formula was not subject to judicial review under the Fifth Amendment's Takings Clause because the 1978 Act's voluntary attachment provision effected no taking for which just compensation would be due.
+Not long after the Court decided Florida Power , Congress decided to foster competition in the cable television industry.
+To that end, it enacted the Cable Communications Policy Act of 1984, Pub.L.
+No. 98-549, 98 Stat. 2779 (1984) (codified at 47 U.S.C. 521-559 (1994)) (the "Cable Act").
+Prior to this enactment, cable television companies operated under exclusive franchises granted by a local government, usually a municipality.
+Because these franchises effectively gave the companies monopolies in the franchise territory, the local governments regulated the rates they could charge subscribers.
+See H.R.Rep.
+No. 98-934, at 23-24, reprinted in 1984 U.S.C.C.A.N.
+4655, 4660-61.
+10 The approach Congress adopted to encourage competition was to eliminate the power of local governments to set rates for "basic" cable service.
+Congress realized that, in the short run at least, this would give incumbent cable operators the ability to charge their subscribers monopoly prices.
+Prices would decrease in the long run, however, as local governments granted additional franchises for a given territory.
+See Johnson Enters., Inc. v. FPL Group, Inc. , 162 F.3d 1290, 1296 (11th Cir.1998).
+New cable companies would be able to enter the market and compete with the incumbent cable company though, only if they could obtain utility pole attachments on the same terms as those given to the incumbent.
+In addition to these new demands for pole space, a host of new telecommunications carriers (such as new long distance telephone carriers and wide area telephone service providers), which used wires to carry their signals, began calling on the power and telephone companies to lease them space.
+They did so because utility poles afforded the only feasible means for stringing their wires.
+Since the 1978 Act only regulated the rents utilities could charge cable television companies, many utilities demanded monopoly rents from telecommunications carriers.
+In an effort to alleviate this problem, Congress, in 1996, amended the 1978 Act to give entities providing telecommunications and cable television service the right to "nondiscriminatory access" to utility poles.
+See 47 U.S.C. 224(f) (Supp. II 1996).
+11 In the event the parties could not agree to the terms of the attachment, including the rent, the 1996 Act authorized the FCC to set "just and reasonable" terms.
+See id .
+224(b)(1) .
+The 1996 Act also (1) redefined "utility," changing the definition from "any person whose rates or charges are regulated by the Federal Government or a State" to "any person who is a local exchange carrier, or a electric, gas, water, steam, or other public utility;" 12 (2) redefined "pole attachment" to include attachments by providers of telecommunications service; 13 (3) directed the FCC to create a formula for determining the attachment rent a utility could charge a telecommunications service provider; 14 and (4) instructed utilities on how to apportion the costs of "unusable" and "usable" space on their poles among telecommunications service providers.
+15 On February 6, 1998, the FCC promulgated regulations implementing its authority under the 1996 Act.
+See Report and Order , 13 F.C.C.R.
+6777, 1998 WL 46987 .
+In the Report and Order , the FCC interpreted section 224(f) of the 1996 Act to require that utility companies give Internet providers access to their poles because the Internet was a cable service.
+See id. at 6795-96 .
+Further, it interpreted the language of section 224(a)(4) , which states that pole attachment meant any attachment, and section 224(d)(3) , which provides that the FCC's rate applied to any attachment by a telecommunications carrier, to mean that telephone and power companies would have to accept pole attachments for wireless telephone equipment.
+See id. at 6798-99 ; see also infra n.22.
+The agency also determined that the Act precludes utilities from receiving rent for overlashed wires unless those wires significantly increase the burden on the pole.
+See id. at 6807 .
+Finally, the FCC interpreted the Act to prohibit utilities from receiving rent for dark fiber.
+See id. at 6810 .
+Having thus interpreted the scope of its authority, the FCC articulated formulas for determining the attachment rents utilities may charge telecommunications service providers.
+See id. at 6820-30 .
+Until February 2001, the 1978 Act's maximum rent formula for cable providers applies to attachments by telecommunications service providers.
+After that, the maximum rent will equal the sum of the "unusable" and "usable" rate factors.
+16 In this amended rule, the FCC incorporated almost verbatim the complaint process articulated in its 1978 rule.
+See 47 C.F.R. 1.1404 , 1.1409 (1999).
+If the parties cannot agree to the rent or other terms of an attachment (or if the utility denies access to its poles), the party contending that the rent or other terms are unjust and unreasonable may petition the Commission to settle the matter.
+That party bears the burden of establishing a prima facie case that the other party's position is unjust and unreasonable.
+17 If the complainant fails to make out a prima facie case, the FCC must dismiss its complaint, in which case the rent or conditions offered or demanded govern the transaction.
+18 If a prima facie case is established, the Commission determines the maximum just and reasonable rent allowed under the rule's formula.
+Then, it decides the specific just and reasonable rent the complainant should pay or receive for the attachment.
+This determination involves reviewing items such as costs, rate of return on investment, the utility's filings before state or federal regulatory agencies, and engineering studies, see 47 C.F.R. 1.1404(g)(1)-(13) (1999), in addition to considering the maximum rent the FCC's formula yields.
+The FCC's final rate order, like any of its final orders, is then subject to judicial review under 47 U.S.C. 402(a) (1994) (providing for judicial review of FCC orders) and 28 U.S.C. 2342 , 2344 (1994) (providing for judicial review of FCC orders in a United States Court of Appeals).
+B. In response to the FCC's Report and Order , power companies across the country filed petitions for review in various courts of appeals.
+On March 23, 1998, Gulf Power Company, Alabama Power Company, Georgia Power Company, and Southern Company Services filed a joint petition for review in the Eleventh Circuit Court of Appeals.
+On April 28, 1998, Florida Power & Light Company also filed a petition for review in the Eleventh Circuit.
+Subsequently, on May 8, 1998, Tampa Electric Company filed a petition for review in the Eleventh Circuit, and Potomac Electric Company filed a petition for review in the D.C.
+Circuit.
+The same day, Virginia Electric & Power Company, Duke Energy Company, and Carolina Power & Light Company filed petitions for review in the Fourth Circuit; Duquesne Light Company and Delmarva Power & Light Company filed in the Third Circuit; American Electric Power Service Corporation filed in the Sixth Circuit; Commonwealth Edison Company filed in the Seventh Circuit; and Union Electric Company filed in the Eighth Circuit.
+Finally, on June 17 and July 16, 1998, respectively, Houston Lighting & Power Company and Public Service Electric & Gas Company filed motions to intervene in the first case filed in the Eleventh Circuit.
+Their motions were granted on August 4, 1998, the same day we granted the FCC's motion to consolidate all of the petitions for review.
+In their petitions for review, the Petitioners challenge (1) the implementation of the FCC's formula for computing attachment rents as a taking without just compensation; (2) the implementation of the FCC's overlashing interpretation as a taking without just compensation; (3) the FCC's authority to include wireless communications equipment within the 1996 Act's regulated rate framework; (4) the FCC's authority to include Internet service providers within the 1996 Act's regulated rate framework; and (5) the FCC's decision not to count dark fibers as separate attachments.
+We discuss each of these challenges below, in parts III-VI.
+On the day Gulf Power Company and its co-plaintiffs filed their joint petition for review, Gulf Power and several other utilities 19 brought an action in the United States District Court for the Northern District of Florida seeking declaratory and injunctive relief.
+See Gulf Power Co. v. United States , 998 F.Supp.
+1386 (N.D.Fla.1998).
+Contending that the range of rental compensation the 1996 Act provided would in every case operate to deny a utility just compensation, these plaintiffs sought a declaration that the 1996 Act was facially invalid under the Fifth Amendment Takings Clause, and a permanent injunction prohibiting the Commission from enforcing the 1996 Act.
+See id. at 1389 .
+The plaintiffs also claimed that allowing the FCC to determine just compensation violated the Separation of Powers doctrine.
+The district court granted the United States' motion for summary judgment.
+It concluded that, although the 1996 Act authorized a taking of the plaintiffs' property, it did not deny the plaintiffs just compensation.
+Rather, it provided a procedure--a proceeding before the Commission--for determining just compensation which did not violate the Separation of Powers doctrine because the Commission's decision was subject to judicial review.
+See id. at 1397-98 .
+The plaintiff utilities appealed.
+A panel of this court upheld the district court's conclusion that the 1996 Act authorized a taking of the plaintiffs' property, but declined to review the court's ruling on just compensation.
+That issue was not ripe for review because the plaintiffs had not shown that the 1996 Act would operate to deny them just compensation in every case. See Gulf Power Co. v. United States , 187 F.3d 1324, 1338 (11th Cir.1999) ( Gulf Power I ).
+Finally, the panel affirmed the district court's holding that allowing the FCC to determine just compensation in the first instance did not violate the Separation of Powers doctrine.
+Id. at 1332-37 .
+II.
+In their petitions for review, the Petitioners do not present the same challenges the plaintiffs made in Gulf Power I .
+Instead of attacking the facial validity of the Act under the Fifth Amendment Takings Clause and the Separation of Powers doctrine, the Petitioners question the facial validity of several aspects of the FCC's Report and Order .
+We review constitutional challenges to agency regulations de novo.
+See Rural Tel. Coalition v. FCC , 838 F.2d 1307, 1313 (D.C.Cir.1988); see also 5 U.S.C. 706(2)(B) (1994).
+We use the two-step Chevron analysis to review agency interpretations of a statute.
+See Chevron U.S.A., Inc. v. Natural Resources Defense Council , 467 U.S. 837 , 104 S.Ct. 2778 , 81 L.Ed.2d 694 (1981) ; Legal Envtl.
+Assistance Found., Inc. v. EPA , 118 F.3d 1467, 1473 (11th Cir.1997).
+Under Chevron step one, we determine whether Congress has spoken unambiguously to the question at issue.
+If it has, our inquiry ends; we give effect to Congress' intent.
+See Chevron , 467 U.S. at 842-43 , 104 S.Ct. at 2781 .
+Under Chevron step two, if we determine that Congress' intent is ambiguous, we defer to a reasonable agency interpretation of Congress' intent.
+See id. at 843 , 104 S.Ct. at 2781-82 .
+In resolving whether an ambiguity exists, we use normal tools of statutory construction, without affording agency interpretations any deference.
+See INS v. Cardoza-Fonseca , 480 U.S. 421, 446 , 107 S.Ct. 1207, 1221 , 94 L.Ed.2d 434 (1987); National Mining Ass'n v. Secretary of Labor , 153 F.3d 1264, 1267 (11th Cir.1998).
+III.
+The Petitioners' primary challenge to the FCC's Report and Order is that the rate formula it establishes cannot pass muster under the Fifth Amendment Takings Clause.
+The Petitioners' challenge presents two separate questions: will the Commission's formula, when implemented, effect a taking of part of utility poles, and if so, will the formula operate to deny the utilities just compensation in every case. The Gulf Power I panel decided that the 1996 Act authorized a taking of utilities property, but concluded that the issue of whether the statute would operate to deny just compensation in every case was not ripe for review.
+See Gulf Power I , 187 F.3d at 1338 ; see also Abbott Lab. v. Gardner , 387 U.S. 136, 148-49 , 87 S.Ct. 1507, 1515 , 18 L.Ed.2d 681 (1967).
+The panel's resolution of the takings issue constitutes binding precedent.
+See Cargill v. Turpin , 120 F.3d 1366, 1386 (11th Cir.1997).
+We therefore begin with the premise that the 1996 Act authorizes the Commission, when faced with a complaint filed by an entity providing cable television or telecommunications services, to take a utility's property.
+Thus, our answer to the first question the Petitioners pose is yes: when the Commission rules on a complaint, a taking may result.
+The second question the Petitioners present is whether the Commission's formula will operate to deny utilities just compensation in every case. The Gulf Power I panel held that the just compensation question, when raised in a facial challenge to the 1996 Act, was not ripe unless the plaintiffs could show that just compensation would be denied in all cases.
+The compensation limits--the maximum and minimum rents--that the Commission's rule prescribes mirror the compensation limits prescribed by the 1996 Act.
+Compare 47 U.S.C. 224(b) , (d)(1), with 47 C.F.R. 1.1409 .
+Under the 1996 Act, the lowest rent that may be considered just and reasonable is an amount equal to the incremental cost of adding the new attachment to the utility's pole; the highest rent that may be considered just and reasonable is an amount equal to the fully allocated costs of the pole.
+See 47 U.S.C. 224(b) , (d)(1).
+A rent that is higher or lower than these statutory limits would be unjust and unreasonable.
+Because the outer boundaries of the FCC's formula are identical to those of the 1996 Act, Gulf Power I 's ripeness standard binds us.
+Thus, we inquire whether the Petitioners have shown that the Commission's formula will always deny utilities just compensation.
+In this case, we are not called upon to review an FCC determination that a utility provide pole space at a rent that does not amount to the just compensation mandated by the Takings Clause.
+All that is before us is a facial attack on the Commission's formula and the Petitioners' allegation that factors the Commission took into account in fashioning the formula could never provide just compensation.
+This is essentially the same argument the utilities made to the Gulf Power I panel.
+The panel's response was that the utilities failed to establish that "'no set of circumstances exists under which the Act would be valid.'"
+Gulf Power I , 187 F.3d at 1336 (quoting United States v. Salerno , 481 U.S. 739, 745 , 107 S.Ct. 2095, 2100 , 95 L.Ed.2d 697 (1987) ).
+Although the Petitioners posit circumstances in which the FCC's formula will deny just compensation, we are not confident, given the record at hand, that the formula will deny just compensation in all cases.
+The Petitioners' facial challenge to the formula is therefore unripe, and we do not address it.
+Gulf Power I , 187 F.3d at 1338 ; Cargill , 120 F.3d at 1386 .
+20 IV.
+The Petitioners challenge the FCC's decision to include wireless carriers within the "nondiscriminatory access" provision of section 224(f) , claiming that the FCC has no statutory authority to regulate wireless carriers under the 1996 Act.
+21 We agree.
+The FCC contends that Congress' frequent use of the word "any" in the 1996 Act indicates an intent to have the Commission broadly regulate pole attachments.
+22 As long as an attachment is made by a cable television company or a telecommunications service provider, the FCC contends, the attachment may be regulated under section 224(d) or (e), no matter what kind of attachment it is.
+This position is contrary to the Commission's narrow authority to regulate power companies.
+The FCC's organic statute does not give it authority to regulate power utilities.
+See 47 U.S.C. 151 (1994) (creating the FCC to regulate interstate and foreign commerce in radio and wire communication).
+Congress placed power companies within the agency's regulatory authority for pole attachment purposes only.
+See 47 U.S.C. 224(a)(1) .
+Section 224(a)(4) defines a pole attachment as "any attachment by a cable television system or provider of telecommunications service to a pole, duct, conduit, or right-of-way owned or controlled by a utility."
+A utility, according to section 224(a)(1) is "any person who owns or controls poles, ducts, conduits, or rights-of-way used, in whole or in part, for any wire communications."
+23 Read in combination, these two provisions give the FCC authority to regulate attachments to poles used, at least in part, for wire communications, and by negative implication does not give the FCC authority over attachments to poles for wireless communications.
+24 That wires are integral to the FCC's authority is supported by the legislative history of the 1978 Act.
+25 Congress' reason for passing it was that the Commission did not believe it had authority to regulate power companies since pole attachment arrangements "d[ id ] not constitute communication by wire or radio."
+S.Rep.
+No.95-580, at 14, reprinted in 1978 U.S.C.C.A.N.
+at 122 (internal quotation marks omitted).
+The FCC reasoned that: Id .
+Before 1978, the FCC's regulatory authority did not extend to power companies because power companies did not use their poles primarily for communication by wire or radio.
+This hindered the growth of the cable television market.
+The FCC could regulate what telephone companies charged to attach, but could not regulate what the power companies charged to attach.
+Because telephone and power poles generally did not run side-by-side, the cable companies at times were forced to attach to power company poles instead of telephone poles, and to pay monopoly rents.
+To prevent the power companies from taking unfair advantage of their bottleneck facilities in this manner, Congress brought them under the FCC's regulatory umbrella, permitting "[f]ederal involvement in pole attachments matters where space on a utility pole ha[d] been designated and [wa]s actually being used for communications services by wire or cable ."
+Id. at 15 , reprinted in 1978 U.S.C.C.A.N.
+at 123 (emphasis added).
+The reason Congress gave this pole attachment authority to the FCC was that the Commission already regulated all other aspects of the cable industry and cable companies were the only entities seeking to attach to poles in 1978.
+In 1996, when Congress amended the 1978 Act, it once again expanded the FCC's jurisdiction; this time to include attachments by telecommunications service providers.
+Nothing in the legislative history indicates that the original purpose behind regulating utility poles--to prevent the telephone and power companies from charging monopoly rents to connect to their bottleneck 26 facilities--changed.
+Rather, the legislative history suggests the same thing the language alteration suggests: Congress wanted to allow telecommunications service providers, like the cable television companies before them, to attach to the utilities' bottleneck facilities without having to pay monopoly rents.
+See H. Rep.
+No. 104-204, at 92 (1996), reprinted in 1996 U.S.C.C.A.N.
+10, 58.
+The Petitioners' poles are not bottleneck facilities for wireless carriers.
+Wireless attachments to poles "include an antenna or antenna clusters, a communications cabinet at the base of the pole, coaxial cables connecting antennas to the cabinet, concrete pads to support the cabinet, ground wires and trenching, and wires for telephone and electric service."
+Report and Order , 13 F.C.C.R.
+at 6799.
+Most of this equipment can be placed on any tall building, and the whole set-up requires more physical space then a wireline system.
+Further, wireless systems operate in a completely different way than do wireline systems.
+Wireline networks transmit through linear networks of cables strung between poles.
+Wireless networks, on the other hand, transmit through a series of concentric circle emissions that allow the network to continue working if one antenna malfunctions.
+Indeed, it is highly questionable whether there are any bottleneck facilities for wireless systems.
+What is beyond question is that utility poles are not bottleneck facilities for wireless systems.
+Because they are not, and because the 1996 Act deals with wire and cable attachments to bottleneck facilities, the act does not provide the FCC with authority to regulate wireless carriers.
+27 Although Congress did not give the FCC authority to regulate the placement of wireless carriers' equipment under section 224 (or any other section) of the Telecommunications Act of 1996, that statute did address, in part, such regulation by state and local governments.
+Section 332 28 states that "[t]he regulation of the placement, construction, and modification of personal wireless services facilities by any State or local government or instrumentality thereof--shall not unreasonably discriminate among providers of functionally equivalent services; and shall not prohibit or have the effect of prohibiting the provision of personal wireless service."
+Pub.L.
+No. 104-104, 704(B)(i) (I),(II), 110 Stat. 149 (1996) (codified at 47 U.S.C. 332(7)(B)(i)(I) , (II)).
+The section goes on to require a state to act on requests to site wireless equipment within a reasonable time, to require a state to put its reasons for denying any such request in writing, and to limit the reasons a state can assert for determining where wireless carriers can locate their equipment.
+See id .
+704(B)(ii) -(iv) (codified at 47 U.S.C. 332(7)(B)(ii) -(iv)).
+The specificity with which Congress addressed the siting of wireless equipment in section 332 indicates that it did not intend that section 224 provide the FCC authority to regulate the placement of wireless carriers' equipment.
+V. Next, Petitioners challenge the FCC's statutory authority to regulate attachments for Internet service under the 1996 Act.
+As with wireless carriers, we agree that the FCC has no authority under that act to regulate Internet service providers.
+The 1996 Act allows the Commission to regulate the rates for cable service and telecommunications service; Internet service is neither.
+The FCC argues that Internet service provided by a cable television system is either "solely cable services" or is subject to regulation under section 224(b)(1) 's mandate to "ensure that the rates, terms, and conditions [for pole attachments] are just and reasonable."
+Report and Order , 13 F.C.C.R.
+at 6795-96 (internal quotation marks omitted).
+To accept this argument requires us to disregard the unambiguous language of the 1996 Act, which we cannot do.
+See Robinson v. Shell Oil Co. , 519 U.S. 337, 340-41 , 117 S.Ct. 843, 846 , 136 L.Ed.2d 808 (1997).
+The 1996 Act calls for the Commission to establish two rates for pole attachments.
+29 One, described in section 224(d) , applies to "any pole attachment used by a cable television system solely to provide cable service."
+47 U.S.C. 224(d)(3) .
+The second rate applies to "charges for pole attachments used by telecommunications carriers to provide telecommunications services."
+47 U.S.C. 224(e)(1) .
+For the FCC to be able to regulate the rent for an attachment that provides Internet service then, Internet service must qualify as either a cable service or a telecommunications service.
+Cable service, defined in section 522 , is "the one-way transmission to subscribers of (i) video programming, or (ii) other programming service, and subscriber interaction, if any, which is required for the selection or use of such video programming or other programming service."
+47 U.S.C. 522(6)(A) , (B) (1994 & Supp. II 1996).
+30 The only difference between this definition of "cable service" and the definition included in the 1978 Act is the addition of the words "or use."
+According to the House Report accompanying the 1996 amendments, the inclusion of the words "or use" was meant to "reflect[ ] the evolution of video programming toward interactive services."
+H. Rep.
+No. 104-204, at 97, reprinted in 1996 U.S.C.C.A.N.
+at 64.
+This is the only sentence in the legislative history that attempts to explain Congress' change to the definition of "cable service."
+Although what it means to reflect an evolution of video programming toward interactive service is not exactly clear, it is clear from Congress' lack of discussion of this change that it was minor in both language and intent.
+If Congress by the addition of these two words meant to expand the scope of the "cable service" definition from its traditional video base to include all interactive services, video and non-video, it would have said so. Without any substantive comment, we will not read this minor change to effectuate a major statutory shift.
+See Walters v. National Ass'n of Radiation Survivors , 473 U.S. 305, 318 , 105 S.Ct. 3180, 3187 , 87 L.Ed.2d 220 (1985) (stating that without substantive comment "it is generally held that a change during codification is not intended to alter the statute's scope") (citing Muniz v. Hoffman , 422 U.S. 454, 467-74 , 95 S.Ct. 2178, 2185-89 , 45 L.Ed.2d 319 (1975) ).
+How then did the addition of the words "or use" alter the definition of "cable service"?
+The statute's plain language and Congress' one sentence explanation suggest that Congress expanded the definition to include services that cable television companies offer to their customers to allow them to interact with traditional video programming.
+31 Although the statute includes interaction with other programming--in addition to video programming--within the definition of "cable service," we cannot read the language "other programming" broadly to include Internet services.
+"Other programming" has been part of the definition of "cable service" since 1978, when the Internet was only a tool for researchers and the military, not a commodity that would require regulation.
+When Congress used this language then, it could not have intended it to cover Internet services provided by cable companies.
+Again, we will not radically expand the scope of the definition of "cable service" from a video base to an all-interactive-services base without some substantive indication from Congress that this is indeed its intent.
+See Walters , 473 U.S. at 318 , 105 S.Ct. at 3187 .
+32 Furthermore, as an aside, we note that the FCC, itself, has defined the Internet as an information service, not as a cable service.
+See In Re Fed.-State Joint Bd. on Universal Serv. , 13 F.C.C.R.
+11501 ¶ 66, 1998 WL 166178 ("Internet service providers themselves provide information services ").
+Thus, the FCC lacks statutory authority to regulate the Internet under the 1996 Act based on the theory that Internet service is a cable service.
+The only remaining basis for the Commission's authority to regulate the Internet under the 1996 Act is to treat the Internet as a telecommunications service.
+See 47 U.S.C. 224(d)(3) , (e) (directing the Commission to develop a rate for telecommunications carriers providing telecommunications service).
+The FCC, however, did not raise that argument before us.
+Nor could it have because the FCC has specifically said that the Internet is not a telecommunications service.
+See Report and Order , 13 F.C.C.R.
+at 6795 ("The Universal Service Order concluded that Internet service is not the provision of a telecommunications service under the 1996 Act.
+"); In Re Fed.-State Joint Bd. on Universal Serv. , 12 F.C.C.R.
+87 ¶ 69 (1996) ("Internet service does not meet the statutory definition of a 'telecommunications service.'").
+33 Accordingly, there is no statutory basis for the FCC to regulate the Internet as a telecommunications service under the 1996 Act.
+In sum, Congress, in the 1996 Act, authorized the FCC to develop rent formulas for attachments providing cable and telecommunications services.
+Internet service does not meet the definition of either a cable service or a telecommunications service.
+Therefore, the 1996 Act does not authorize the FCC to regulate pole attachments for Internet service.
+VI.
+The Petitioners' final challenge is to the FCC's statutory authority to regulate the rents utilities charge for dark fiber attachments.
+Dark fiber, which exists within a fiber optic cable, "consists of bare capacity and does not involve any of the electronics necessary to transmit or receive signals over that capacity."
+Report and Order , 13 F.C.C.R.
+at 6810.
+The advantage of stringing cables with lit and dark fiber is that dark fiber provides excess distribution and transmittal capacity for a cable or telecommunications company to use as its service network expands.
+Dark fiber also may be leased to a third party.
+Because dark fiber is bare capacity, it technically is neither a telecommunications service nor a cable service.
+In fact, it is not a service at all; it is simply an inactive fiber.
+The 1996 Act authorizes the FCC to regulate the pole attachments of cable television and telecommunications companies that provide cable and telecommunications services.
+See 47 U.S.C. 224 ; supra part V. The 1996 Act says nothing about regulating bare capacity.
+But, these bare capacity fibers do not generally exist on their own.
+They are usually located within cables that also contain fibers providing cable or telecommunications services, i.e., lit fibers the FCC clearly has the authority to regulate.
+Thus, unlike Internet service or wireless carriers, the statute's silence does not resolve the issue of whether the Commission may regulate dark fiber.
+Both Internet service and wireless carriers are similar to items the statute covers.
+The statute defines the kinds of attachers it covers, and wireless carriers do not fall within that definition.
+Similarly, the statute defines the types of wire services it covers, and Internet services are not one of those services.
+We can, therefore, say, based on the 1996 Act alone, that the FCC lacks the authority to regulate wireless carriers and the provision of Internet services.
+Dark fiber, however, is not a service (nor, of course, is it a type of attacher).
+Thus, the fact that it falls outside the definitions of "cable service" and "telecommunications service" tells us nothing about Congress' intent to regulate dark fiber.
+Congress did say that it did not intend to have an attacher pay twice for a single attachment, see H.R.Rep.
+No. 104-204, at 92, reprinted in 1996 U.S.C.C.A.N.
+at 59, but the legislative history does not indicate whether dark fiber and its host were to be considered a single attachment.
+Congress' intent is ambiguous; therefore, we proceed to step two of the Chevron analytical framework and consider whether the FCC reasonably interpreted Congress' silence on dark fiber.
+See Chevron , 467 U.S. at 843 , 104 S.Ct. at 2781-82 .
+34 The FCC decided that dark fiber is not a separate attaching entity from its host attachment.
+See Report and Order , 13 F.C.C.R.
+at 6811.
+35 According to the FCC, dark fibers place no more burden on a pole than do their host attachments.
+See id .
+This makes sense since dark fiber, by definition, is merely bare capacity and is included within its host attachment at the time that cable is attached to the pole.
+Further, we presume that in determining the rent for the host attachment, the utility and the FCC will account for the dark fibers contained within the attaching host.
+By accounting for the dark fibers in the rent determination for the host cable, the Commission ensures that the utility receives just compensation for any burden the dark fiber may cause the pole at the time the host attaches.
+Hence, once the utility has been compensated, there is no reason to treat dark fiber as a separate attaching entity, and the FCC's decision not to do so is reasonable.
+36 VII.
+For the foregoing reasons, we hold that the nondiscriminatory access provision of the 1996 Act authorizes a taking of a portion of the Petitioners' poles, which occurs when the FCC issues a rent determination order as to a particular pole or set of poles.
+Whether the rent formula developed by the FCC, including its decision not to require additional compensation for overlashed wires, provides just compensation is not ripe for review because it is not presented in a sufficiently concrete form for adjudication.
+Further, we hold that the FCC lacks the authority to regulate wireless carriers and the provision of Internet service under the 1996 Act.
+Finally, we hold that the FCC's decision not to count leased dark fiber as an additional attaching entity is reasonable.
+SO ORDERED.

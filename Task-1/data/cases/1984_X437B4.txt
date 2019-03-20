@@ -1,0 +1,117 @@
+ MURNAGHAN , Circuit Judge: The controversy here presented involves an order of the Federal Communications Commission (FCC) entitled "Uniform System of Accounts and Petition for Declaratory Ruling on Question of Federal Preemption."
+CC Docket No. 79-105, FCC 82-581 (released Jan. 6, 1983).
+The order provides that, when the FCC has prescribed depreciation rates and methods for classes of property used by telephone companies, state regulation of the same matter is thereby preempted.
+Petitioner, Virginia State Corporation Commission, along with multiple Petitioner-Intervenors representing regulatory agencies of other states, argues that the states' fixing of depreciation rates and accounting methods for intrastate ratemaking purposes is preempted neither by the express language of the Federal Communications Act of 1934, 47 U.S.C. 151 et seq.
+(1976) (the Act), nor by FCC rules explicitly governing depreciation of telephone equipment and facilities that are used interchangeably to provide both interstate and intrastate service.
+We agree with the FCC that its order released January 6, 1983 preempts state regulation of the depreciation rates and methods here involved, and thereby reemphasize our recognition in North Carolina Utilities Commission v. F.C.C.
+, 552 F.2d 1036 (4th Cir.1977) (" NCUC II "), cert. denied , 434 U.S. 874 , 98 S.Ct. 222 , 54 L.Ed.2d 154 (1977), that "FCC regulations must preempt any contrary state regulations where the efficiency of the national communications network is at stake " Id. at 1046 .
+I. Background Under the current state of the telecommunications art, local telephone companies provide "telephone plant" (facilities and equipment) that serve both interstate and intrastate communications needs.
+Section 152 of the Act provides in subsection (a) that the statute "shall apply to all interstate and foreign communication by wire," but in subsection (b) that "nothing in this chapter shall be construed to apply or to give the Commission jurisdiction with respect to (1) charges, classifications, practices, services, facilities, or regulations for or in connection with intrastate communication service by wire " Within this framework of divided authority, the Commission's statutory mandate is a broad one, "to make available to all the people of the United States a rapid, efficient, Nationwide, and world-wide wire communication service with adequate facilities at reasonable charges " 47 U.S.C. 151 .
+In order to achieve the mandated goal, the FCC is specifically empowered under 47 U.S.C. 220 to prescribe depreciation practices to be followed by interstate carriers.
+1 At the same time, the Act recognizes the continued vitality of state regulation of intrastate service.
+Section 221(b) provides that "nothing in this chapter shall be construed to apply, or to give the Commission jurisdiction, with respect to charges, classifications, practices, services, facilities, or regulations for or in connection with wire exchange service even though a portion of such exchange service constitutes interstate communication, in any case where such matters are subject to regulation by a State commission or by local governmental authority."
+Because most of the nation's telephone plant is used interchangeably to serve both interstate and intrastate telecommunications needs, the potential for conflict between federal and state regulatory action is obvious.
+2 The conflict at issue on this appeal had its genesis in two separate orders issued by the FCC in 1980 and 1981; both orders were designed to compel carriers to employ depreciation practices that more truly reflected actual depreciation rates in light of technological reality.
+After seven years of study, the FCC first determined in 1980 that the prior practice of "vintage year" grouping for depreciation purposes was inaccurate, and ordered that the "equal life group" method be used.
+See Docket No. 20188, 83 F.C.C.2d 267 (1980).
+The equal life method permitted greater precision in allocating costs of service to current consumers, and allowed more rapid capital recovery for plant having a short useful life. 3 Thus, while the prior "vintage year" method was thought to "stifle innovation and inhibit the introduction of new technology," 83 F.C.C.2d at 281, the "equal life" method was intended to bolster the competitive market structure that the FCC sought to foster.
+The same 1980 order also replaced the "whole life" method of depreciation with the "remaining life" method, which allowed a carrier to recoup the full cost of plant by making corrections in useful life estimates over time.
+83 F.C.C.2d at 288-90.
+4 The FCC's 1981 order provided that inside wiring in homes and businesses no longer should be treated as a capital investment to be depreciated over time, but rather as a cost to be "expensed" to current users.
+Again, the thrust of the rule change was to ensure that consumers actually requesting and benefitting from installed wiring pay for that benefit.
+By expensing the wiring, the burden of costs associated with such station connections would be placed on the causative ratepayer, and other consumers would not be forced to bear rates unduly inflated by a depreciation component for wiring services previously provided.
+85 F.C.C.2d 818, 824 (1981).
+The two orders were first challenged on April 30, 1981, when the National Association of Regulatory Utility Commissioners ("NARUC") filed a Petition for Clarification of the 1981 wiring order.
+Specifically, NARUC requested that the FCC issue a statement that the provisions of the wiring order were not binding upon state regulatory commissions insofar as intrastate communications service was concerned.
+The FCC responded to the petition in a Memorandum Opinion and Order of April 27, 1982, in which it concluded that in light of the relevant legislative history of the Act, "where state [accounting and depreciation] regulation is reconcilable with federal policies or rules, there is no occasion for us to override state agency actions in furtherance of legitimate state regulatory objectives."
+5 89 F.C.C.2d 1094, 1108 (1982).
+In response to the FCC's opinion and order, the American Telephone and Telegraph Company filed a Petition for Reconsideration on June 7, 1982.
+General Telephone Company of Ohio likewise petitioned for a Declaratory Ruling that inconsistent state action was foreclosed under the Act.
+6 After further pleadings and comments, the FCC reversed its earlier position in a second Memorandum Opinion and Order of January 6, 1983.
+C.C.
+Docket No. 79-105, F.C.C.
+No. 82-581, slip op. (Jan. 6, 1983).
+After it carefully resurveyed the legislative history and decisional law, and reexamined the express language of the Act, the FCC adopted the view that the most logical and reasonable interpretation of the Act "is that where the Commission prescribes depreciation rates for classes of property [and the depreciation methods to be used], state commissions are precluded from departing" from those rates and methods.
+Id. at 17 , ¶ 44.
+In reversing itself, the FCC espoused the notion that the plain terms of section 220 of the Act appear "clearly to preempt the states in connection with depreciation expense determinations and the related accounting."
+Id. at 6 , ¶ 17.
+Moreover, the FCC found that, even if section 220 did not possess a preemptive effect as a matter of law, the FCC's own policies and rulings would preempt inconsistent state regulatory action as a matter of federal supremacy.
+Id. at 17 , ¶ 45.
+Supported by numerous state and local regulatory commissions, the Virginia State Corporation Commission ("VSCC") filed a Petition for Review of the January 6, 1983 Order.
+VSCC alleged that preemption was required neither as a matter of law nor as a result of regulatory action taken by the FCC.
+Relying in part on this Court's prior decisions in NCUC I and NCUC II , and relevant decisions of other Circuits, 7 we hold that inconsistent state regulation of depreciation methods and classes of property to be depreciated has been preempted by the rulings of the FCC.
+Because we have determined that the affirmative regulatory action taken by the FCC suffices to preempt inconsistent state action, we find it unnecessary to decide whether, as a matter of law, the language of the Act itself requires preemption.
+II.
+Discussion While it is true that the Act does reserve to the states the authority to prescribe rates for intrastate telephone service, that reservation is not to be read as preserving the states' sphere of intrastate jurisdiction at the expense of an efficient, viable interstate telecommunications network.
+Section 152(b) of the Act does make the broad pronouncement that "nothing in [the] chapter shall be construed to give the Commission jurisdiction with respect to intrastate communication service."
+Section 221(b) further supports state authority by providing that the FCC shall have no jurisdiction "even though a portion of [an] exchange service constitutes interstate or foreign communication, in any case where such matters are subject to regulation by a State commission or by local governmental authority."
+Nonetheless, the foregoing provisions are rendered against a statutory backdrop that places primary emphasis upon a "rapid, efficient, Nationwide, and world-wide" communication service.
+8 Given that overriding concern, the 1983 Opinion by the FCC construing the accounting and wiring orders of 1980 and 1981 is most reasonably interpreted as valid exercise of statutory authority by the FCC, preempting inconsistent state action by virtue of the Supremacy Clause.
+9 While VSCC and Petitioner-Intervenors argue that " 221(b) has been given an unduly narrow interpretation in recent years," 10 we do not view as "narrow" an interpretation which recognizes that the Act does not sanction a "state regulation, formally restrictive only of intrastate communication, that in effect encroaches substantially upon the Commission's authority" over interstate telecommunications.
+NCUC I , 537 F.2d at 793 .
+Such a finding comports well with the recent Supreme Court decision in Fidelity Federal Savings & Loan Co. v. de la Cuesta , 458 U.S. 141 , 102 S.Ct. 3014 , 73 L.Ed.2d 664 (1982).
+The court stated in de la Cuesta , that "[e]ven where Congress has not completely displaced state regulation in a specific area, state law is nullified to the extent that it actually conflicts with federal law.
+Such a conflict arises when state law 'stands as an obstacle to the accomplishment and execution of the full purposes and objectives of Congress.'"
+Id. at 153 , 102 S.Ct. at 3022 ( quoting Hines v. Davidowitz , 312 U.S. 52, 67 , 61 S.Ct. 399, 404 , 85 L.Ed. 581 (1941)).
+11 Although the holding in de la Cuesta arose in the context of the Home Owner's Loan Act of 1938, 12 U.S.C. 1461 et seq.
+(1982), the basic analysis applies to this appeal as well: an appellate court is not to focus narrowly on Congress' own intent specifically to supersede state regulation.
+Rather, the Court must determine whether the federal agency entrusted with administering the act meant to preempt, and whether such preemptive action is within the scope of the agency's authority.
+458 U.S. at 154 , 102 S.Ct. at 3022 .
+12 First, it is quite clear that the FCC did intend to preempt inconsistent state regulation governing depreciation methods and classes of depreciable property.
+The 1983 Memorandum Opinion and Order stated in no uncertain terms that "we find that this Commission's depreciation policies and rates, including the expensing of inside wiring, preempt inconsistent state depreciation policies and rates."
+C.C.
+Docket No. 79-105, F.C.C.
+No. 82-581 (Jan. 6, 1983), slip op. at 17, ¶ 45.
+Second, the regulatory action taken by the FCC was also within its authority to ensure efficient operation of the interstate telephone network.
+In ordering that certain depreciation methods be followed, the FCC was merely exercising its power under section 220(b) of the Act to prescribe classes of property and percentages to be allowed as depreciation.
+To be sure, that prescription does have an effect on intrastate rates, but the effect will only be ancillary to the FCC's primary statutory directive to regulate interstate communications.
+While Petitioner VSCC would seek to prohibit even an ancillary effect on intrastate communications, such a result does not harmonize with the FCC's broader mission.
+As the FCC observed in Katz , supra , it is incumbent upon the FCC to exercise its authority in a manner best calculated to serve the needs of the public, and "[t]he fact that the same instruments are used for both interstate and intrastate services and that intrastate service is subject to state and local regulation does not alter the Commission's duties and obligations with respect to interstate telephone facilities."
+43 F.C.C.2d at 1332.
+Although the FCC noted in its 1982 Memorandum Opinion and Order that it had "never attempted to prevent any State commission from departing from [federal] accounting and depreciation rules," 89 F.C.C.2d at 1106-07, the fact of the matter is that the FCC never found it necessary to do so until the current decade.
+During the years of monopoly power, when state commissions tended voluntarily to follow federal directives, there was no realistic need to speak in terms of preemption.
+13 In the instant case, however, several state commissions refused to follow the FCC's determinations concerning depreciation.
+Although flexibility in depreciation practice presented little threat to the efficient operation of a monopolistic telecommunications industry, improper capital recovery does pose a true threat in today's competitive market.
+Thus, the FCC reasonably decided to preempt by issuing orders intended to speed capital recovery and improve accuracy of depreciation calculations, thereby enhancing competition.
+VSCC makes much of the argument that the FCC was silent on the issue of depreciation for some forty-seven years, 14 but that prior silence does not vitiate the ongoing authority of the FCC to act once it decides that industry conditions merit preemptive regulation.
+As the Supreme Court observed in Smith v. Illinois Bell , 282 U.S. 133, 159-60 , 51 S.Ct. 65, 72 , 75 L.Ed. 255 (1930), a state's prerogative to regulate survives " until action has been taken" by a federal agency vested with jurisdiction over the matter.
+(Emphasis added).
+15 Supporting the FCC's decision to regulate is the consideration that a full seventy-five percent of all investment in new plant falls within the intrastate services category.
+If that large amount of equipment investment should fail properly to reflect its true, rapid depreciation, interstate service would then suffer the effects of delayed innovation.
+As noted above, decisions of other Circuits have recognized the necessity for federal preemption of inconsistent state telecommunications policy.
+In Computer and Communications Industry Ass'n v. F.C.C.
+, 693 F.2d 198 (D.C.Cir.1982), cert. denied , U.S. , 103 S.Ct. 2109 , 77 L.Ed.2d 313 (1983), it was found that state tariffing of customer premises equipment ("CPE") "must necessarily yield to the federal regulatory scheme."
+Id. at 214 .
+The federal scheme required that charges for CPE ( e.g. , home computer terminals, data processing units) be separated from ordinary transmission service charges.
+Since CPE is used interchangeably for both interstate and intrastate service, such a decision would have a clear ancillary effect on intrastate rates.
+Nonetheless, the Court refused to perceive any distinction between the preemption principles to be applied in the case of state ratemaking issues, and those applicable to other state powers.
+Id. at 216 .
+Thus, ancillary effect on intrastate rates was permitted in order to achieve the federal goals of unfettered CPE selection, market competition, and a greater number of equipment and payment options.
+The Court in Computer and Communications Industry relied in large part on this Circuit's decisions in NCUC I and NCUC II to support preemption.
+In NCUC I , we held that state regulation that "encroaches substantially" upon federal authority was preempted.
+537 F.2d at 793 .
+The conflict in that case dealt directly with policies concerning physical interconnection of non-carrier provided CPE to transmission facilities used jointly for interstate and intrastate needs.
+Preemption was required, even though we recognized that the FCC had no authority "over local services, facilities and disputes that in their nature and effect are separable from and do not substantially affect the conduct or development of interstate communications."
+Id. While it may be true that the effects of depreciation policies are more attenuated than the very direct effect produced by physical connection of equipment to interchangeable lines, it cannot be said that depreciation policies are "separable from" interstate communications.
+Indeed, the conduct and development of interstate communications would undoubtedly be affected by the states' imposition of depreciation policies that slowed capital recovery and innovation.
+See also NCUC II , in which we recognized the preemptive effect, or "federal primacy," of the Commission's registration program for terminal equipment subject to interchangeable use: "If it is admitted--as we think it must be--that the FCC has full statutory authority to regulate joint terminal equipment to ensure the safety of the national network, then we can discover no statutory basis for the argument that FCC regulations serving other important interests of national communications policy are subject to approval by state utility commissions."
+552 F.2d at 1046-47 .
+The finding of federal primacy was echoed by the Court of Appeals for the Second Circuit in New York Telephone Co. v. F.C.C.
+, 631 F.2d 1059 (2d Cir.1980), a case which involved an assertion of federal jurisdiction over local exchange service when used in connection with interstate foreign exchange services.
+Citing Northwestern Bell for the proposition that state regulation continued unabated only when the federal agency "had not yet regulated in [the] area," 631 F.2d at 1066 , the Court held that once the FCC acted to impose its own tariff regulations, inconsistent state regulation was necessarily preempted.
+Finally, the Court of Appeals for the First Circuit explicitly adopted the rationale of NCUC I in Puerto Rico Telephone Co. v. F.C.C.
+, 553 F.2d 694 (1st Cir.1977).
+The Court first acknowledged that federal primacy would have the "anomalous" result of ousting Puerto Rico's jurisdiction over equipment used primarily for intrastate calls.
+However, the Court found it "even more anomalous, in light of FCC's broad [statutory] mandate that 152(b) ousts federal jurisdiction over all facilities that are also used for intrastate telephone service."
+Id. at 700 .
+16 It is true that Puerto Rico Telephone , like NCUC I , involved a federal policy relating to physical interconnection of CPE that was nonseverable from the interstate communications system.
+By contrast, the instant appeal raises no question of actual physical impossibility of complying with dual federal and state regulation; presumably, the carriers could keep accounts in which assets would be separately depreciated for intrastate and interstate purposes.
+17 Nonetheless, physical impossibility is but one ground for preemption; frustration of federal objectives provides a rationale at least equally valid.
+Since inconsistent state regulation poses an impediment to rapid development of interstate facilities, preemption is justified in this case even if "physical impossibility" is not at issue.
+In deciding the case, we have been mindful of an observation made by Chief Justice Burger when a member of the Court of Appeals for the District of Columbia in General Telephone Company of California v. F.C.C.
+, 413 F.2d 390 (D.C.Cir.1969), cert. denied , 396 U.S. 888 , 90 S.Ct. 173 , 24 L.Ed.2d 163 (1969).
+Applying the Act in the context of cable television broadcasting, Chief Justice Burger stated that "[t]he Act must be construed in light of the needs for comprehensive regulation and the practical difficulties inhering in state by state regulation of parts of an organic whole."
+Id. at 398 .
+To be sure, practical difficulties have come to abound in this age of technological innovation since Chief Justice Burger rendered his opinion almost fifteen years ago.
+In response to some of the difficulties, the FCC's decision to preempt inconsistent state depreciation practices emerges as a reasonable one, designed to foster the statutory goal of an efficient nationwide telecommunications service.
+Our review satisfies us that the FCC's Memorandum Opinion and Order of January 6, 1983 should be AFFIRMED.

@@ -1,0 +1,153 @@
+ OPINION WILKINSON , Chief Judge: Defendant Charles Zandford was convicted of thirteen counts of wire fraud for stealing from two of his investment clients.
+The Securities and Exchange Commission subsequently filed this civil action against Zandford under 17(a) of the Securities Act of 1933, 10(b) of the Securities Exchange Act of 1934, and the SEC's Rule 10b-5 .
+The district court granted the SEC's motion for summary judgment.
+Zandford now appeals.
+We hold that the federal securities laws do not reach every claim for the theft or conversion of a security from a brokerage account.
+Because Zandford's fraudulent actions were not sufficiently connected with a securities transaction, we reverse the judgment of the district court and remand with directions to dismiss the case. I. Between 1987 and 1991, Charles Zandford worked as a securities broker.
+In 1987, Zandford persuaded William Wood to open a joint investment account for himself and his daughter, Diane Wood Okstulski.
+Wood was an elderly man who was in poor health.
+His daughter was mentally retarded and suffered from a multiple personality disorder.
+Zandford promised to "conservatively invest" the Woods' money.
+In total, the Woods entrusted Zandford with $419,255.
+By September 1990, all of it was lost.
+In April 1995, a federal grand jury indicted Zandford on thirteen counts of wire fraud in violation of 18 U.S.C. 1343 .
+The indictment alleged that Zandford engaged in a scheme to defraud the Woods.
+The first count maintained that Zandford sold the Woods' shares of a mutual fund in order to use the proceeds for his own benefit.
+The remaining counts related to twelve separate checks from the Woods' account that Zandford made payable to himself.
+Zandford generated money in the Woods' account by selling their securities.
+A jury convicted Zandford on all counts.
+Zandford was sentenced to 52 months imprisonment and was ordered to pay $10,800 in restitution.
+This court subsequently affirmed Zandford's conviction.
+See United States v. Zandford , 110 F.3d 62 (4th Cir.1997) (Table).
+In September 1995, the Securities and Exchange Commission filed this civil action against Zandford under Section 17(a) of the Securities Act of 1933, 15 U.S.C. 77q(a) , Section 10(b) of the Securities Exchange Act of 1934, 15 U.S.C. 78j(b) , and Rule 10b-5 promulgated thereunder, 17 C.F.R. 240.10b-5 .
+The SEC's complaint alleged that Zandford violated these laws by selling the securities in the Woods' account, by misappropriating $343,000 in proceeds, and by using the money for his own personal needs.
+The SEC sought to enjoin Zandford from further violating the federal securities laws and to recover Zandford's ill-gotten gains.
+In April 1998, the SEC moved for partial summary judgment on its misappropriation claim.
+Zandford subsequently moved for permission to conduct limited discovery on the issue of whether his fraud was "in connection with" a securities transaction.
+On March 2, 1999, the district court denied Zandford's motion and granted the SEC's motion for summary judgment.
+The court determined that Zandford's criminal conviction for wire fraud established all facts necessary to satisfy the elements of the SEC's securities fraud claim.
+Therefore, the court held that the doctrine of collateral estoppel prevented Zandford from arguing that he was not civilly liable under the federal securities laws.
+The court enjoined Zandford from committing future violations of the securities laws.
+It also ordered Zandford to disgorge $343,000.
+Zandford now appeals.
+1 II.
+The district court determined that Zandford's criminal conviction for wire fraud established all facts necessary to satisfy the elements of the SEC's securities fraud claim.
+That court erred in holding that the doctrine of collateral estoppel prevented Zandford from contesting his civil liability under the federal securities laws.
+A criminal conviction can prevent a party from relitigating issues in a subsequent civil proceeding.
+See Emich Motors Corp. v General Motors Corp. , 340 U.S. 558, 568 , 71 S.Ct. 408 , 95 L.Ed. 534 (1951).
+For collateral estoppel to apply, the SEC must establish that: (1) the issue sought to be precluded is identical to one previously litigated; (2) the issue must have been actually determined in the prior proceeding; (3) determination of the issue must have been a necessary part of the proceeding; (4) the prior judgement must be final and valid; and (5) the party against whom estoppel is asserted must have had a full and fair opportunity to litigate the issue in the previous forum.
+See Sedlack v. Braswell Services Group, Inc. , 134 F.3d 219, 224 (4th Cir.1998).
+At the very least, the SEC's invocation of collateral estoppel fails to satisfy the "identity of issues" requirement.
+To establish that Zandford violated sections 17(a) and 10(b) , the SEC must prove, inter alia , that Zandford committed fraud "in the offer or sale" of securities, or "in connection with the purchase or sale" of securities.
+See 15 U.S.C. 77q(a) ; 15 U.S.C. 78j(b) ; 17 C.F.R. 240.10b-5 .
+By contrast, under the wire fraud statute, the government only need prove that (1) Zandford engaged in a scheme to defraud, and (2) that he used inter-state wire communications in executing his scheme.
+See 18 U.S.C. 1343 ; United States v. ReBrook , 58 F.3d 961, 966 (4th Cir.1995).
+Thus, to find Zandford guilty of wire fraud it was wholly unnecessary to determine whether his fraud was sufficiently connected to a securities transaction.
+Since Zandford was never charged with a criminal violation of 10(b) , he did not have the opportunity to argue at trial or on appeal that, as a legal matter, his fraud was not sufficiently connected to a securities transaction.
+The SEC concedes as much when it argues both that the criminal trial established the fact that Zandford sold securities as part of a scheme to misappropriate proceeds, and that the district court properly made a legal conclusion in this case that such a scheme satisfies the "in connection with" requirement.
+It is this legal conclusion which we will now review.
+III.
+A. The Securities Act of 1933 was designed "to provide full and fair disclosure of the character of securities sold and to prevent frauds in the sale thereof, and for other purposes."
+Blue Chip Stamps v. Manor Drug Stores , 421 U.S. 723, 728 , 95 S.Ct. 1917 , 44 L.Ed.2d 539 (1975).
+Likewise, "the fundamental purpose of the Securities Exchange Act of 1934[was] to implement a 'philosophy of full disclosure,' by providing participants in stock transactions with the information they need to make their investment decisions."
+Hunt v. Robinson , 852 F.2d 786, 787 (4th Cir.1988) (quoting Santa Fe Industries, Inc. v. Green , 430 U.S. 462, 477-78 , 97 S.Ct. 1292 , 51 L.Ed.2d 480 (1977)) (citation omitted).
+The federal securities laws do not cover all types of fraud.
+Rather, both the Securities Act and the Exchange Act require that the defendant's fraud be connected sufficiently to a securities transaction.
+To state a claim under 17(a) of the Securities Act, the SEC must show that Zandford's fraud, misstatement, or omission occurred "in the offer or sale of any securities."
+15 U.S.C. 77q(a) .
+2 Likewise, to state a claim under 10(b) of the Exchange Act and Rule 10b-5 , the SEC must show, inter alia , that Zandford misrepresented or failed to state material facts "in connection with" the purchase or sale of a security.
+See 15 U.S.C. 78j(b) ; 17 C.F.R. 240.10b-5 .
+3 The precise contours of the in connection with requirement are not self-evident.
+It seems unavoidable "that the standard be fleshed out by a cautious case-by-case approach."
+See Chemical Bank v. Arthur Andersen & Co. , 726 F.2d 930, 942-43 (2d Cir.1984) ( quoting Smallwood v. Pearl Brewing Co. , 489 F.2d 579, 595 (5th Cir.1974)).
+While the in connection with requirement must be flexible, it is not so elastic as to cover incidents which bear no relationship to market integrity or investor understanding.
+In particular, it is clear that ordinary state law fraud or conversion claims do not invariably violate the federal securities laws.
+"Congress, in enacting the securities laws, did not intend to provide a federal remedy for all common law fraud."
+Rivanna Trawlers Unlimited v. Thompson Trawlers, Inc. , 840 F.2d 236, 241 (4th Cir.1988) ( citing Marine Bank v. Weaver , 455 U.S. 551, 556 , 102 S.Ct. 1220 , 71 L.Ed.2d 409 (1982)).
+Indeed, the goal of 10(b) would not be served by expanding its scope to include "claims amounting to breach of contract or common law fraud which have long been the staples of state law."
+Hunt , 852 F.2d at 787-88 .
+With these principles in mind, we turn to the merits of Zandford's appeal.
+B. The precise issue before us is whether Zandford's alleged fraud is sufficiently connected to a securities transaction, as required by 17(a) of the Securities Act, 10(b) of the Exchange Act, and Rule 10b-5 .
+The SEC advocates a very broad reading of the in connection with requirement.
+It alleges that Zandford defrauded the Woods by failing to inform them that he intended to sell their securities in order to obtain the proceeds for himself.
+The SEC argues that this omission was fraudulent since Zandford, as the Woods' investment adviser, bore a duty to disclose material information to the Woods.
+The SEC contends that Zandford's omissions were in connection with Zandford's sale of the securities in the Woods' account.
+We do not believe that the federal securities laws extend to Zandford's fraudulent activities.
+The SEC has alleged what amount to ordinary state law fraud and conversion claims.
+In order to satisfy the in connection with requirement, "the fraud must have been integral to the plaintiff's purchase or sale of the security."
+Flickinger v. Harold C. Brown & Co., Inc. , 947 F.2d 595, 598 (2d Cir.1991); see also Taylor v. First Union Corp. of South Carolina , 857 F.2d 240, 245 (4th Cir.1988) (holding that deception that is only "tangentially and incidentally" related to the sale of a security does not satisfy the in connection with requirement).
+We have found no violation of 10(b) , for example, where "[t]he alleged fraud lies, not in the actual sale of the stock, but rather in defendants' refusal to tender the shares as required by the terms of the [employment] contract."
+Hunt , 852 F.2d at 787 .
+Here, Zandford's securities sales were incidental to his scheme to defraud.
+Zandford's fraud lay in absconding with the proceeds of the sales.
+The record contains no suggestion that the sales themselves were conducted in anything other than a routine and customary fashion.
+It is the SEC's burden to identify a fraudulent act and a particular sale of securities that would satisfy the in connection with requirement.
+This it has failed to do.
+Neither Zandford's inducements to open the brokerage account, nor his failure to inform the Woods that he intended to convert their assets, are sufficiently connected to a particular securities transaction.
+To take the opening of the account first, there is no allegation that Zandford's inducements influenced any investment decision by the Woods other than to initially open their brokerage account.
+It is not even alleged that Zandford misled the Woods about the relative merits or value of particular securities.
+See Bochicchio v. Smith Barney, Harris Upham & Co., Inc. , 647 F.Supp.
+1426, 1430 (S.D.N.Y.1986) (holding that where the defendant promised to safely manage plaintiffs' investment account but later made unauthorized sales of plaintiffs' securities and converted the proceeds, the defendant's fraudulent activity was merely a conversion of funds that did not satisfy the in connection with requirement); Bosio v. Norbay Securities, Inc. , 599 F.Supp.
+1563, 1566-68 (E.D.N.Y.1985) (holding that where defendant promised to forward proceeds to plaintiffs after a stock sale but then misappropriated the proceeds, plaintiffs had stated a conversion claim, not a 10(b) violation).
+Finally, the SEC never contended either in briefing or argument that the Woods' brokerage account was anything other than a discretionary one, in which Zandford could trade securities without first having to gain the Woods' approval.
+Where, as here, the inducements to open an investment account did not involve the sale or purchase of any security, any misrepresentations resemble more an actionable state law fraud than a federal securities violation.
+Zandford's statements did not make any reference to the attributes of a specific security.
+As such, they are little different from fraudulent misstatements made, for example, in the process of securing a personal loan.
+The mere "intent to cause a conversion of ownership interests at some uncertain future time and through uncertain means does not bring federal law into play, even though that intent is held at the time a purchase or sale of securities occurs."
+Pross v. Katz , 784 F.2d 455, 459 (2d Cir.1986); see also Head v. Head , 759 F.2d 1172, 1175-76 (4th Cir.1985) (holding that in order to satisfy the in connection with requirement, the fraud must relate to the securities alleged to satisfy the purchase and sale requirement, and not just to the transaction in its entirety); Chemical Bank v. Arthur Andersen & Co. , 726 F.2d 930, 943 (2d Cir.1984) (same).
+The SEC next contends that the federal securities fraud laws apply to Zandford's misappropriation of the proceeds in the Woods' account.
+The SEC has advanced but one case in which a court has held that a broker who sells securities and misappropriates the proceeds has violated the federal securities laws, and that decision provides no analysis to support its holding.
+See Henricksen v. Henricksen , 486 F.Supp.
+622, 629 (E.D.Wis.1980).
+The SEC relies instead on United States v. O'Hagan , 521 U.S. 642 , 117 S.Ct. 2199 , 138 L.Ed.2d 724 (1997), to support its broad interpretation of the in connection with requirement.
+Specifically, the SEC argues that O'Hagan held that a defendant's misrepresentations do not have to induce investors to engage in a particular securities transaction in order to violate the federal securities laws.
+We do not think, however, that O'Hagan controls this case. While O'Hagan certainly expanded the scope of the in connection with requirement, it did so in a specific context--namely, in those cases where someone traded securities based upon misappropriated confidential information.
+O'Hagan held that an attorney committed fraud in connection with a securities transaction when he misappropriated inside information from his client in order to engage in securities transactions based on this inside information.
+O'Hagan , 521 U.S. at 659 , 117 S.Ct. 2199 .
+Important to the Supreme Court's decision was the fact that the misappropriated confidential information had independent value to the client.
+Id. at 652, 656 , 117 S.Ct. 2199 .
+The defendant's actions limited the client's opportunity to profit from this information.
+By contrast, in this case, the Woods did not possess any inside information which would allow them to earn profits in the securities markets.
+O'Hagan in fact took pains to limit the extent to which it expanded the scope of the in connection with requirement.
+It did not graft a generalized prohibition against breaches of fiduciary duty onto the securities laws.
+See O'Hagan , 521 U.S. at 655 , 117 S.Ct. 2199 .
+The Court also noted, with apparent approval, the government's contention that 10(b) would not apply to a case in which a person defrauded a bank into giving him a loan or embezzled cash from another, and then used the proceeds of the misdeed to purchase securities.
+Id. at 656-57 , 117 S.Ct. 2199 .
+There would be no violation in such a case because the embezzled proceeds "would have value to the malefactor apart from their use in a securities transaction, and the fraud would be complete as soon as the money was obtained."
+Id. (internal citations omitted).
+The same logic applies to Zandford's fraudulent conduct.
+Unlike the defendant in O'Hagan , Zandford's goal was not to gain guaranteed profits through the purchase or sale of securities.
+Rather, his scheme was simply to steal the Woods' assets.
+Id. at 656 , 117 S.Ct. 2199 .
+Like the money an embezzler would use to buy securities, the money in the Woods' account had "value to [Zandford] apart from [its] use in a securities transaction."
+Id. The question is not how Zandford stole the money in the Woods' account.
+Rather it is whether Zandford engaged in manipulation of a particular security.
+Zandford's wrongdoing reflects less a federal securities violation and more a state law tort of conversion.
+The misappropriated proceeds might as well have come from the unlawful sale of a car which the Woods had entrusted to Zandford's care.
+The other cases upon which the SEC relies serve to underscore our point.
+In each of these cases, the defendants made misrepresentations about a particular security that induced another party either to purchase or sell that security.
+For instance, in United States v. Naftalin , 441 U.S. 768 , 99 S.Ct. 2077 , 60 L.Ed.2d 624 (1979), Naftalin's securities brokers sold particular securities based on Naftalin's false statements that he owned shares of those securities.
+Likewise, in Superintendent of Insurance v. Bankers Life & Cas. Co. , 404 U.S. 6, 9 , 92 S.Ct. 165 , 30 L.Ed.2d 128 (1971), the defendants, in order to induce a company's Board of Directors to sell certain bonds, falsely told the Board that the company would receive the proceeds of the sale.
+In SEC v. Jakubowski , 150 F.3d 675 (7th Cir.1998), Jakubowski made false statements on a stock subscription form in order to induce an issuer of securities to accept Jakubowski's offer to buy them.
+Id. at 679 .
+Finally, in Press v. Chemical Inv.
+Services Corp. , 166 F.3d 529, 533 (2d Cir.1999), the defendants failed to disclose that the funds from a maturing T-bill would not be available on a particular maturity date.
+This omission meant that the defendants had misrepresented the security's yield, which had affected the plaintiff's decision to purchase the particular security.
+In contrast to each of these cases, Zandford's statements or omissions were not about a particular security.
+Nor did his omissions induce the Woods or anyone else to buy or sell a particular stock.
+We do not, of course, condone Zandford's misconduct.
+For his transgressions, Zandford was criminally convicted and he doubtless faces other forms of civil liability and professional sanctions.
+The fact that Zandford's actions were reprehensible, however, does not relieve us of the obligation to determine whether his conversion of the Woods' assets violated the federal securities laws.
+We hold that Zandford's alleged fraudulent activities were not sufficiently connected to a securities transaction to merit liability under sections 17(a) and 10(b) , and Rule 10b-5 .
+Rather, the "only connection with federal securities laws is that the funds were converted from a securities investment account."
+Smith v. Chicago Corp. , 566 F.Supp.
+66, 70 (N.D.Ill.1983).
+The fact that Zandford's conduct as a broker may be within the scope of the securities statutes does not mean that his activities here necessarily constituted fraud in connection with a securities transaction.
+And while Zandford breached a fiduciary duty to the Woods, the Supreme Court has emphasized that the federal securities laws are not an open-ended breach of fiduciary duty ban.
+See O'Hagan , 521 U.S. at 655 , 117 S.Ct. 2199 (citing Santa Fe Industries, Inc. v. Green , 430 U.S. 462 , 97 S.Ct. 1292 , 51 L.Ed.2d 480 (1977)).
+In sum, we decline to stretch the language of the securities fraud provisions to encompass every conversion or theft that happens to involve securities.
+See Pross , 784 F.2d at 459 .
+This would be tantamount to endorsing an all-purpose expansion of those statutes which would violate Congress' intent and subsume significant areas of state law.
+IV.
+For the foregoing reasons, the judgment of the district court is reversed, and the case is remanded with directions to dismiss it.
+REVERSED AND REMANDED .

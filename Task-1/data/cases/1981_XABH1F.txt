@@ -1,0 +1,191 @@
+ IRVING R. KAUFMAN , Circuit Judge: Throughout the long summer of 1787, the Framers of the Constitution, assembled at Philadelphia, hammered the parochial prejudices of thirteen colonies into the rough framework of a union.
+There, a fundamental tenet of American jurisprudence was forged: federal courts are courts of limited jurisdiction.
+Alexander Hamilton, Luther Martin, James Madison, and others honed such rough verbiage as "cases respecting the national peace and harmony" to the precision of "cases arising under the Laws of the United States," 1 and Article III, thus tempered, emerged.
+Nearly two centuries later, in 1976, Congress passed the Foreign Sovereign Immunities Act ("FSIA" or "Act").
+2 The Act purports to create, pursuant to that same Article III, original jurisdiction in the district courts over "any nonjury civil action against a foreign state as to any claim for relief in personam with respect to which the foreign state is not entitled to immunity " 28 U.S.C. 1330(a) .
+This case, one of seven decided today involving the FSIA, 3 presents a sharp issue under the Act: may a foreign plaintiff sue a foreign state in a federal court for breach of an agreement not governed by federal law?
+The language of the statute seems to allow it.
+After exhaustive examination of the context, language, and history of Article III, we defer to the Framers' prescient restraint, and find jurisdiction lacking in the constitutional sense.
+I. The facts relevant to the issues on appeal can be stated quite briefly.
+Verlinden B. V. is a Dutch corporation.
+It has its principal offices in Amsterdam, the Netherlands.
+On April 21, 1975, Verlinden signed a contract with the Federal Republic of Nigeria agreeing to ship to Nigeria 240,000 metric tons of cement over the course of several months.
+Nigeria, in turn, promised to establish "an Irrevocable, Transferable abroad, Divisible and Confirmed Letter of Credit in favour of the seller for the total purchase price through Slavenburg's Bank, Amsterdam, Netherlands."
+On June 23, 1975, Nigeria established the letter of credit at the Central Bank of Nigeria, 4 and made it payable through the Morgan Guaranty Trust Company in New York.
+Under the letter of credit, Verlinden could collect, upon presentation of certain documents, $60 per ton for shipments made to Nigeria.
+The letter of credit provided it was to be governed by "[U]niform [C]ustoms and Practice Documentary Credits (1962 Revision) Chamber of Commerce Brochure No.
+222."
+5 On August 21, 1975, Verlinden subcontracted with a third party, Interbuco (a Leichtenstein corporation), for the purchase of 240,000 tons of cement at $51 per ton.
+Verlinden agreed to pay Interbuco $5 per ton if Verlinden reneged on the purchase.
+In September, Nigeria found its ports clogged with ships.
+6 Central Bank instructed Morgan, and Morgan notified Verlinden, that Morgan was not to pay Verlinden under the letter of credit for a shipment of cement unless Verlinden had obtained, two months before sailing, Nigeria's permission to enter the port.
+Verlinden, alleging Central Bank's action constituted an anticipatory breach of the letter of credit, 7 sued Central Bank in the Southern District of New York.
+Verlinden's complaint claimed $4.66 million, consisting mostly of lost profits and of money Verlinden was forced to pay Interbuco under the terms of the subcontract.
+Central Bank moved to dismiss the complaint for lack of jurisdiction under the FSIA.
+The district court, 498 F.Supp.
+1284 , granted the motion, assuming, as we have in setting forth the facts above, all the allegations of Verlinden's complaint to be true.
+Verlinden appeals.
+II.
+Turning to the law, our first inquiry must be whether Verlinden's complaint meets a threshold requirement under the FSIA.
+Do both Verlinden and Central Bank fall into the category of parties contemplated by the Act?
+Section 2(a) of the FSIA, codified at 28 U.S.C. 1330(a) , provides: section 1603(a) sections 1605-1607 The parties agree that Central Bank is an "instrumentality of a foreign state" under 28 U.S.C. 1603(b) , and therefore is a "foreign state" under 1603(a) .
+Accordingly, Verlinden's suit is one "against a foreign state" for purposes of 1330(a) .
+Verlinden's qualification under the Act is less clear, since it is a foreign corporation.
+The Report of the House Judiciary Committee on the bill that later became the Act (H.R.
+11315) proclaims the Act's purpose to be to ensure that " our citizens will have access to the courts" in suits against foreign states.
+House Judiciary Committee, Jurisdiction of United States Courts in Suits Against Foreign States , H.R.Rep.No.
+1487, 94th Cong., 2d Sess.
+6, reprinted in U.S.Code Cong. & Admin.News 6604, 6605 (" House Report ") (emphasis added).
+8 The draftsmen of 1330(a) assumed "U.S. businessmen" and "American property owner[s]" would bring suits under the Act.
+Id .
+The experts who testified at subcommittee hearings spoke of protecting "American citizens," 9 "American businesses," 10 "American parties," 11 and "American nationals."
+12 Looking back to the hearings surrounding the introduction of a 1973 predecessor to H.R.
+11315, references to "our citizens" again abound.
+13 In general, Congress emphasized that it did not intend "to open up our courts to all comers to litigate any dispute which any private party may have with a foreign state anywhere in the world."
+Hearings on H.R.
+11315 Before the Subcommittee on Administrative Law and Governmental Relations of the House Committee on the Judiciary , 94th Cong., 2d Sess.
+31 (1976) (" 1976 Hearings ") (testimony of Bruno A. Ristau, Chief, Foreign Litigation Section, Civil Division, Dep't of Justice).
+On the other hand, extensive language in the legislative history supports the belief that Congress did not limit the Act to suits brought by Americans.
+The House Report states the Act provides "when and how parties " can sue a foreign state in American courts, House Report at 6604 (emphasis added), and that it applies to "any claim" against a foreign state, id. at 6611 .
+Testimony before the subcommittee at the 1976 hearings referred broadly to relief for "private parties with claims," 1976 Hearings at 31 (testimony of Bruno A. Ristau), and "private litigants," id. at 58 (testimony of Peter D. Trooboff, Chairman, Committee on Transnational Judicial Procedure, International Law Section, American Bar Association).
+Professor Moore finds a "plain intention to confer on the district court jurisdiction of an action by an alien against a foreign state if the action otherwise meets the requirements" of the Act.
+1 J. Moore, Federal Practice and Procedure ¶ 0.66 at 700.178-79 (2d ed. 1979).
+This conclusion is buttressed by the Act's removal provision, 28 U.S.C. 1441(d) , which is not limited to suits brought by U.S. citizens, and purports to allow removal to federal court of " any civil action brought in a State court against a foreign state" (emphasis added).
+From this murky and confused legislative history, only one conclusion emerges: Congress formed no dear intent as to the citizenship of plaintiffs under the Act.
+It probably did not even consider the question.
+In the absence of determinative--or even persuasive--guidance from the legislative history, the words of the statute control.
+Section 1330(a) is not limited to suits brought by Americans.
+It applies to "any nonjury civil action against a foreign state" (emphasis added).
+Accordingly, we hold that a suit brought in a federal court by an alien against a foreign state is properly filed--at least under the terms of the Act.
+III.
+Having concluded that both plaintiff and defendant are within the class of parties contemplated by 1330(a) , we are forced to confront the constitutional dilemma: does Congress possess the power to grant jurisdiction over a suit such as this?
+Article III of the federal Constitution provides that the national government's "judicial Power shall extend to" certain types of disputes, which it lists in clause 1 of section 2 .
+14 That Congressional power to confer jurisdiction to those cases and no further has been established on a number of occasions.
+E. g. , Hodgson v. Bowerbank , 9 U.S. (5 Cranch) 303 , 3 L.Ed. 108 (1809).
+See also National Mutual Insurance Co. v. Tidewater Transfer Co. , 337 U.S. 582, 604 , 69 S.Ct. 1173, 1183 , 93 L.Ed. 1556 (Rutledge and Murphy, JJ., concurring ); 626, 69 S.Ct. 1195 (Vinson and Douglas, JJ., dissenting ); 646, 69 S.Ct. 1209 (Frankfurter and Reed, JJ., dissenting ); Federal Election Commission v. Central Long Island Tax Reform Immediately Committee , 616 F.2d 45, 51 (2d Cir. 1980) ( per curiam ) ( en banc ).
+To satisfy federal jurisdictional requirements, therefore, every case must be supported by both a Congressional grant of jurisdiction 15 and a constitutional base on which the statute rests.
+Kline v. Burke Construction Co. , 260 U.S. 226, 234 , 43 S.Ct. 79, 82 , 67 L.Ed. 226 (1922).
+The legislative diversity grant, for example, 28 U.S.C. 1332 , stands squarely on similar words in Article III.
+The statutory federal question grant also tracks the constitutional phrase.
+28 U.S.C. 1331 .
+Section 1330 can claim no such parallel language for support, and must seek it among the finite--and incongruent--words of Article III.
+A. The search for a constitutional basis for a 1330 suit between two aliens brings us first, but only briefly, to Article III's diversity grant.
+It provides, inter alia , that the judicial power shall extend to "Controversies between a State, the Citizens thereof, and foreign States, Citizens or Subjects."
+The phrase nowhere mentions a case between two aliens.
+Accordingly, Congress is powerless to confer jurisdiction over such suits, at least on the basis of the diversity grant, 16 Hodgson v. Bowerbank , supra, 9 U.S. at 303 , 3 L.Ed. 108 ; Montalet v. Murray , 8 U.S. (4 Cranch) 46 , 2 L.Ed. 545 (1807), 17 and Verlinden must look elsewhere in Article III for language to support its suit.
+B. A more colorable--but still unsuccessful--constitutional grounding for Verlinden's FSIA suit is the very first phrase of the relevant clause of Article III.
+That phrase extends the judicial power to "all Cases, in Law and Equity, arising under this Constitution, the Laws of the United States, and Treaties made, or which shall be made, under their Authority; " The federal courts have had little opportunity to construe the crucial language of the phrase, "arising under the Laws of the United States," mainly because the passage in 1875 of the predecessor to 1331 made direct resort to the Constitution unnecessary.
+A huge body of law interprets the statute.
+It is, therefore, to the almost identical words in 1331 --"arises under the laws of the United States"--to which we first turn in exploring whether Verlinden's suit "arises under" federal law for purposes of Article III.
+1.
+We had occasion in T. B. Harms Co. v. Eliscu , 339 F.2d 823 (2d Cir. 1964), cert. denied , 381 U.S. 915 , 85 S.Ct. 1534 , 14 L.Ed.2d 435 (1965), a copyright case, to discuss the three species of suit found to exist within the realm of 1331 .
+The first type finds its source in American Well Works Co. v. Layne & Bowler Co. , 241 U.S. 257, 260 , 36 S.Ct. 585, 586 , 60 L.Ed. 987 (1916), in which Mr. Justice Holmes stated that "a suit arises under the law that creates the cause of action."
+Five years later in Smith v. Kansas City Title & Trust Co. , 255 U.S. 180 , 41 S.Ct. 243 , 65 L.Ed. 577 (1921), the Supreme Court found the Holmes test too restrictive, and added a second genus of suit to 1331 : those in which the plaintiff's complaint discloses a need to interpret a federal law. 18 Accord , Ivy Broadcasting Co. v. American Telephone & Telegraph Co. , 391 F.2d 486, 492 (2d Cir. 1968).
+The third grouping is typified by Clearfield Trust Co. v. United States , 318 U.S. 363 , 63 S.Ct. 573 , 87 L.Ed. 838 (1943).
+It imposes a "federal common law" upon cases in which the court finds a national interest so strong that a judge-made federal rule of decision preempts the state law that would otherwise govern the cause.
+Verlinden's suit against Nigeria falls into none of the three categories.
+Its inclusion in the first group, suits in which federal law "creates the cause of action," is precluded by 28 U.S.C. 1606 .
+That section provides that, in FSIA suits, "the foreign state shall be liable in the same manner and to the same extent as a private individual under like circumstances."
+There is no intent here to create new federal causes of action; the purpose of the Act instead is to provide " access to the courts in order to resolve ordinary legal disputes."
+House Report at 6605 (emphasis added).
+The House Report states flatly: "The bill is not intended to affect the substantive law of liability."
+Id. at 6610 .
+19 Indeed, the parties agree that the law governing Verlinden's suit for breach of the letter of credit is the Uniform Customs and Practice for Documentary Credits of the International Chamber of Commerce, or the law of New York.
+At any rate, it is not federal.
+Congress here intended to "create" no cause of action, and Holmes's test is not satisfied.
+Cf. Textile Workers Union v. Lincoln Mills , 353 U.S. 448 , 77 S.Ct. 912 , 1 L.Ed.2d 972 (1957); Schumacher v. Beeler , 293 U.S. 367 , 55 S.Ct. 230 , 79 L.Ed. 433 (1934).
+Nor is the third test, for the progeny of Clearfield Trust have required a federal interest strong enough to supplant state rules of decision.
+See, e. g. , Mince v. DeKalb County , 433 U.S. 25 , 97 S.Ct. 2490 , 53 L.Ed.2d 557 (1977); In re "Agent Orange" Product Liability Litigation , 635 F.2d 987 (2d Cir. 1980).
+Appellant's contentions focus on the second, broader test.
+Its application depends upon the exact language of Ivy Broadcasting : whether "the complaint discloses a need for the interpretation of an act of Congress."
+Undoubtedly the FSIA, an act of Congress, will be construed if Verlinden's suit is permitted beyond the courthouse door.
+Delicate questions of sovereign immunity, which Congress in the Act made wholly federal, see House Report at 6610, will be the fulcrum of considerable controversy.
+If decided adversely to plaintiff, as they were by Judge Weinfeld, they will determine the outcome of the litigation.
+Despite all this, the issue of sovereign immunity is not disclosed by Verlinden's well-pleaded complaint.
+That complaint alleges the breach of a letter of credit, simpliciter .
+The Act retains sovereign immunity as a defense, to be raised by the defendant.
+20 Defenses that have to be raised affirmatively, no matter how urgent their federal nature, do not confer jurisdiction.
+Louisville & Nashville Railroad Co. v. Mottley , 211 U.S. 149 , 29 S.Ct. 42 , 53 L.Ed. 126 (1908).
+See also Phillips Petroleum Co. v. Texaco, Inc. , 415 U.S. 125 , 94 S.Ct. 1002 , 39 L.Ed.2d 209 (1974) ( per curiam ); Tennessee v. Union & Planters' Bank , 152 U.S. 454 , 14 S.Ct. 654 , 38 L.Ed. 511 (1894).
+The distinction is perhaps best illustrated by Gully v. First National Bank in Meridian , 299 U.S. 109 , 57 S.Ct. 96 , 81 L.Ed. 70 (1936), in which a federal statute removed the national bank's immunity from state taxation.
+Speaking for a unanimous court, Mr. Justice Cardozo stated: "A suit does not arise under a law renouncing a defense, though the result of the renunciation is an extension of the area of legislative power which will cause the suitor to prevail."
+Id. at 116 , 57 S.Ct. at 99 .
+See generally P. Bator, P. Mishkin, D. Shapiro, H. Wechsler, Hart & Wechsler's The Federal Courts and the Federal System 883-90 (2d ed. 1973).
+Moreover, the type of statute to be interpreted here is qualitatively different from the statutes involved in Smith and its progeny.
+Federal jurisdiction was present in those cases because the complaint revealed the need to construe a statute conferring substantive rights: in Smith , the Federal Farm Loan Act (creating the Federal Land Banks) and Article I, 8 , cl.
+18 of the Constitution (granting to Congress the right to make all laws necessary and proper to execute its powers); in Ivy Broadcasting , federal common law regarding the duties of communications carriers.
+Accord , Empresa Hondurena de Vapores, S.A. v. McLeod , 300 F.2d 222 (2d Cir. 1962) (statute creating right to petition for labor representation elections), vacated on other grounds , 372 U.S. 10 , 83 S.Ct. 671 , 9 L.Ed.2d 547 (1963).
+While in none of those cases did a federal law create the cause of action, each suit required construction of a law which, in another posture, had the power to do so. The laws regulated conduct and created rights outside the courtroom.
+This suit, per contra , requires construction of a federal statute, but only one regulating judicial practice.
+One cannot sue for violation of the FSIA.
+Accordingly, this case is closer to decisions like Skelly Oil Co. v. Phillips Petroleum Co. , 339 U.S. 667 , 70 S.Ct. 876 , 94 L.Ed. 1194 (1950).
+Skelly Oil called squarely for the interpretation of a federal statute (the Declaratory Judgment Act, 28 U.S.C. 2201 ), yet the Supreme Court found jurisdiction lacking.
+Speaking for the Court, Mr. Justice Frankfurter explained that "the right to be vindicated was State-created," 339 U.S. at 673 , 70 S.Ct. at 879 , not a right "arising under" federal law.
+That the conduit of jurisdiction was a federal statute did not create jurisdiction over the claim where none existed before.
+The same is true here.
+See also Moore v. Chesapeake & Ohio Railway Co. , 291 U.S. 205 , 54 S.Ct. 402 , 78 L.Ed. 755 (1934).
+2.
+Having established that Verlinden's suit does not "arise under" federal law by principles developed in cases construing 1331 , the issue before us is this: is the meaning to be given to the words "arising under" in Article III sufficiently broader than their construction in 1331 to bring Verlinden's suit within the federal judicial power?
+We think not, but we refuse to resolve this difficult case on the simple ground of logomachy.
+"The substantial identity of the words does not require, on that score alone, an identical interpretation.
+The differences in the functions of the two enactments, in the circumstances surrounding their adoption and in their further provisions justify inquiry as to whether their meaning is different."
+Shulman & Jaegerman, Some Jurisdictional Limitations on Federal Procedure , 45 Yale L.J. 393, 405 n. 47 (1936).
+The Supreme Court has implied, but has never held, that 1331 occupies less than all of the ground staked out by the parallel phrase in Article III.
+Shoshone Mining Co. v. Rutter , 177 U.S. 505, 506 , 20 S.Ct. 726 , 44 L.Ed. 864 (1900).
+21 The question before us is whether this case can stand on the narrow strip that remains.
+The clearest statement of the Framers' intent concerning Article III of the Constitution comes from Alexander Hamilton, a delegate from New York.
+In The Federalist , No. 83, Hamilton wrote: A. Hamilton, The Federalist , No. 83, at 519 (Putnam ed. 1888).
+In other words, the Framers emphatically did not intend to grant the legislature power to create jurisdiction over any cases Congress chose.
+Congressional prerogative in this area is circumscribed.
+The first test of that Congressional power grew out of the Judiciary Act of 1789, ch.
+20, 1 Stat. 73 (1789).
+In 11 of that Act, Congress purported to confer on the district courts jurisdiction over any case "where an alien is a party."
+In Mossman v. Higginson , 4 U.S. (4 Dall.)
+12 , 1 L.Ed. 720 (1800), however, the Supreme Court found that the judicial power did not extend to a suit between two aliens, even where the statute conferred it.
+22 Accord , Hodgson v. Bowerbank , supra .
+The Court in Mossman discussed the diversity clause of Article III, and found jurisdiction lacking for the reason set forth in section III-A, supra .
+The Court did not discuss, but by its holding passed upon, the "arising under" clause as well.
+Since judicial power was found wanting in the constitutional sense, the Court necessarily held that a suit brought under 11 did not "arise under" a law of the United States for purposes of Article III.
+That is, the Supreme Court in Mossman v. Higginson decided that, despite a federal interest in suits involving aliens, 23 Congress by the mere act of passing a statute conferring jurisdiction over a class of suits did not bring those suits within the judicial power.
+The reason is clear: to allow Congress to do so places no limits on the judicial power at all, and a sine qua non of constitutional analysis instructs that this power is limited.
+Mossman greatly advances our inquiry.
+Congress in the FSIA has purported to create jurisdiction over not cases "where an alien is a party," but cases "against a foreign state."
+In the absence of substantive rules of decision, we are constrained to find that the judicial power does not extend this far.
+See Textile Workers Union v. Lincoln Mills , supra (Frankfurter, J., dissenting ).
+24 Looking beyond this sort of detailed and mechanical application of old holdings to new facts, it becomes evident that our decision here is compelled by broader principles.
+The Framers created federal courts to protect, first, rights secured by the Constitution, and, second, rights created by federal law.
+They were concerned with the enforcement of uniformity in the interpretation of federal laws, but only insofar as those federal laws regulated conduct.
+We turn once more to Hamilton, writing in The Federalist , No. 80, supra , at 495.
+He stated: "Thirteen independent courts of final jurisdiction over the same causes, arising upon the same laws, is a hydra in government, from which nothing but contradiction and confusion can proceed."
+Significantly, his concern for uniformity extended only to "causes," not to all federal laws.
+Accordingly, when Mossman was sub judice , the Supreme Court did not hold that the need for a uniform standard under which aliens might be sued in federal court created, ipso facto , federal jurisdiction.
+The need to develop such a uniform standard (through, perhaps, construction of the term "alien") did not implicate a federal "cause," and was therefore insufficient.
+Here, the asserted need for a uniform standard under which foreign states might be sued in American courts must fail for the same reason.
+Thinking even more broadly, our result is required by the very structure of Article III, 2 , cl.
+1.
+That clause lists, in sequence, nine types of cases to which the judicial power extends.
+See note 14, supra .
+If we accepted the interpretation of the first phrase necessary to find jurisdiction here--that a case can "arise under" a jurisdictional statute--then we could eliminate the other eight phrases from the clause.
+For example, if we decided that Verlinden's suit was one "arising under a law of the United States" because it was brought under 1330 , then we could similarly hold that a suit "arose under a law of the United States" because it was brought under 1332 .
+The constitutional diversity grant would then be surplusage.
+If we are not to read the other phrases out of the clause, we must restrict the first phrase to cases arising under a substantive law.
+Granted the above, we cannot be deterred by Osborn v. Bank of the United States , 22 U.S. (9 Wheat.)
+738 , 6 L.Ed. 204 (1824).
+Osborn contains dictum, made holding in Bank of the United States v. Planters' Bank of Georgia , id. at 904 (1824), that a suit brought by the Bank of the United States could "arise under" the statute creating the Bank and giving it the right to sue and be sued.
+The facts of the case merit examination, for it has been suggested, 25 and we believe, that the case should be limited to them.
+Shortly before Osborn , the Bank of the United States had won, with great difficulty, the right to exist and to be free of state taxes.
+McCulloch v. Maryland , 17 U.S. (4 Wheat.)
+316 , 4 L.Ed. 579 (1819).
+Ohio continued to tax the Bank, and forcibly removed money from the Bank's vaults to satisfy the levy.
+In Osborn , the Bank sued to enjoin collection of the tax.
+The Supreme Court, faced with the death of the bank and of its holding in McCulloch on the one hand and with stretching jurisdictional concepts on the other, saved the Bank.
+A fair reading of the case depends heavily on the presence of an instrumentality of the United States as a party, and on the national government's desire to protect the Bank and itself from the rapacious states.
+The Court twenty-eight years later did not extend Osborn 's holding to cases where the United States was not a party, The Propeller Genessee Chief v. Fitzhugh , 53 U.S. (12 How.) 443 , 13 L.Ed. 1058 (1852), 26 and we decline to do so here.
+See generally , Mishkin, The Federal "Question" in the District Courts , 53 Colum.L.Rev.
+157 , 160-63, 184-96 (1953).
+IV.
+In interpreting the Constitution, we discern the Framers' intent only as seen through a glass, darkly, if at all.
+The delegates to the Constitutional Convention did not agree on all the Constitution's provisions, even as they signed it.
+Accordingly, a court construing its language must look as much to history, good sense, and sound concepts of judicial administration as to the text itself.
+Considering, therefore, both the past and the present, we find federal courts to be without power to hear suits such as the one before us.
+The judgment is affirmed, on the ground that the court lacks subject matter jurisdiction over the controversy.

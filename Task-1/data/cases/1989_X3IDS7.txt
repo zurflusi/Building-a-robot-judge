@@ -1,0 +1,104 @@
+ PHILLIPS , Circuit Judge: In this diversity action, Joseph E. Kelly appeals the district court's dismissal of his state-law tort claim against Guyon General Piping, Inc. (Guyon).
+The district court held that Kelly's tort action was jurisdictionally barred because his exclusive remedy lay in an action for workers' compensation.
+We affirm, although for different reasons than those relied upon by the district court.
+I In September 1983 Guyon, a pipe distributor with a regional plant and office in Chester, Virginia, contacted Thurston Motor Lines (Thurston) to request that Thurston deliver some of its pipes to a General Electric plant in South Carolina.
+Thurston is a North Carolina firm; Guyon called Thurston's Richmond, Virginia, terminal.
+Thurston in turn contacted Dan Johnson, an independent trucker out of Elkin, North Carolina, to furnish a truck and driver to haul the load.
+Kelly was employed by Johnson and took the job.
+Driving Johnson's truck, he picked up the pipes, which had previously been loaded onto a trailer by Guyon's employees, at Thurston's Richmond yard.
+He delivered the pipe to General Electric on September 26, 1983.
+Upon delivery Kelly removed the straps holding the pipe onto the trailer to ready the load for removal by General Electric employees.
+Shortly thereafter he was injured when a number of pipes fell from the truck and hit him.
+Under an existing agreement between Johnson and Thurston, Thurston provided workers' compensation coverage for any Johnson employees injured while making a delivery for Thurston.
+Kelly claimed and was awarded workers' compensation benefits under North Carolina law.
+Kelly brought the present suit in Virginia federal district court against Guyon, claiming that Guyon was negligent in loading and securing the pipes onto the trailer.
+Guyon filed a motion to dismiss, claiming that Kelly's suit was barred under workers' compensation law because Kelly was performing work of the same trade, business, or occupation as Guyon and therefore Guyon was Kelly's statutory employer.
+Deciding that Virginia would apply South Carolina law in adjudicating his claim because South Carolina was the site of the accident, the district court found that at the time of his injury Kelly was performing work of the same trade as Guyon, and consequently held that Guyon was Kelly's statutory employer, that Kelly's injury was covered under the South Carolina Workers' Compensation Act, S.C.Code 42-1-10 et seq.
+, and that his common law suit would therefore be barred under South Carolina law.
+The district court therefore granted Guyon's motion to dismiss and dismissed Kelly's case.
+This appeal followed.
+II In considering whether Kelly's tort action is barred, the first question is whether Virginia, as the forum state, would extend coverage of its own Workers' Compensation Act, Va.Code 65.1-1 et seq.
+, to an accident such as Kelly's which occurs outside the state.
+1 Under Virginia law, an employee injured while employed outside the state is entitled to compensation if he or she would have been entitled to compensation had the accident occurred inside the state and the following three conditions are met: (1) the employment contract was made in Virginia; (2) the employer's place of business is in Virginia; and (3) the employment contract was not expressly for services exclusively outside the state.
+Va.Code 65.1-61 .
+Assuming, for the moment, that Kelly would have been compensated for his injury had it occurred in Virginia, the facts before us satisfy only two of the three other requisite conditions.
+Guyon's place of business was in Virginia, and Kelly picked up the load of pipe in Virginia, so the second and third requirements are met.
+Guyon argues that the contract of employment was also made in Virginia, maintaining that for the purpose of the statute the contract of employment was its agreement with Thurston, which was reached with Thurston's Richmond, Virginia office.
+This agreement, however, was for services, not employment.
+The contract of employment was between Kelly and his employer, Johnson, and this contract was made in North Carolina.
+Consideration of the Virginia statute's definition of a statutory employer, see Va.Code 65.1-29 to 65.1-32, reaffirms this conclusion.
+As we have held, Virginia "require[s] the owners of a project to accept responsibility for the compensation of injured employees of contractors hired by the owner.
+The owner thus becomes the 'statutory employer' of the contractor's employees who, in turn, are the statutory employees' of the owner."
+Farish v. Courion Industries, Inc. , 722 F.2d 74, 79 (4th Cir.1983), aff'd 754 F.2d 1111 (4th Cir.1985) (en banc).
+The employment contract at issue is between employer and employee.
+Kelly is employee, Johnson is his employer, and Thurston and Guyon are his statutory employers.
+The employment contract was between Kelly and Johnson, and that contract was made in North Carolina.
+Virginia would not therefore find Johnson's tort claim precluded by the exclusivity provision of its own Workers' Compensation Act.
+III Having determined that Virginia would not find Kelly's claim precluded under its own Workers' Compensation Act, we must then consider whether Virginia would nonetheless bar Kelly's tort suit as a matter of comity because other states where Kelly might receive workers' compensation for his injury make this remedy exclusive.
+This question may conveniently be put as whether Virginia would agree with the following: 4 A. Larson, The Law of Workmen's Compensation 88.11 , at 16-133 to 16-139 (1989).
+In discussing this question, two initial points deserve attention.
+First, if Virginia were to decide to enforce another state's exclusive remedy bar, it would do so as a matter of its own choice of law, not constitutional compulsion.
+The Constitution's Full Faith and Credit Clause, U.S. Const.
+Art.
+IV, See.
+1, does not require one state to apply the exclusive remedy provisions of another state; in particular, the exclusive remedy provisions of the other state do not prohibit a common law remedy in the forum state.
+Carroll v. Lanza , 349 U.S. 408 , 75 S.Ct. 804 , 99 L.Ed. 1183 (1955).
+Cf. Thomas v. Washington Gas Light Co. , 448 U.S. 261 , 100 S.Ct. 2647 , 65 L.Ed.2d 757 (1980) (Full Faith and Credit Clause does not preclude successive workers' compensation awards in different states) (plurality opinion joined by three member concurrence in the judgment); Va.Code 65.1-61 (allowing compensation under the Virginia Act even if benefits or damages have been received under the laws of another state, but permitting total compensation no greater than provided for under the Act).
+Next, it must be decided whether Virginia would look to its tort choice of law rule or to other considerations in determining the state whose rule should control in a case such as this.
+In similar circumstances, some courts--including, apparently, the district court here--have assumed that the forum state should apply its tort choice of law rule and therefore have looked to the law of the state of injury to determine whether workers' compensation law provided the exclusive remedy for the particular injury alleged.
+See, e.g. , Sargent Industries, Inc. v. Delta Air Lines, Inc. , 251 Ga. 91 , 303 S.E.2d 108 (1983).
+Both as a practical matter and as a matter of principle, however, this approach has significant limitations that we believe would cause the Virginia courts to reject it.
+In the present case, for example, whether Kelly's tort action could go forward would depend under that approach on the fortuity that Kelly was injured in South Carolina and therefore on the reaches of South Carolina compensation law and would wholly neglect consideration of the fact that Kelly has already received workers' compensation benefits under North Carolina law.
+For this reason, and because of intimations in analogous cases, 2 we believe that Virginia courts would not rest decision on classification of "the substantive field involved as one, say, of tort, or of employment relations, with a mechanical application of the law of a particular state according to the field thus chosen" but on "the purpose of compensation acts, which [is] to substitute a limited but certain remedy for the former remedy in tort--a compromise benefiting both employer and employee."
+4 A. Larson 88.13 , at 16-142.
+And we believe that in taking this approach, Virginia would be primarily concerned with whether as a matter of comity it should enforce the exclusive remedy provisions of any other state which as the state of contract, injury, or employment relation, had already provided a compensation remedy.
+See id .
+88.11 , at 16-133.
+In this case, that state is North Carolina, under whose law Kelly has been awarded benefits for the industrial accident at issue.
+IV To consider whether Virginia would as a matter of comity apply North Carolina law here, we start with Virginia's general views on comity: Eastern Indemnity Co. of Maryland v. Hirschler, Fleischer, Weinberg, Cox, & Allen , 235 Va. 9 , 366 S.E.2d 53, 55 (1988), quoting McFarland v. McFarland , 179 Va. 418 , 19 S.E.2d 77, 83 (1942), quoting in turn 11 Am.Jur.
+Conflict of Laws 5 (1937).
+Comity is not appropriate when application of the foreign state's law would be "contrary to the public policy of the forum state."
+Willard v. Aetna Cas. & Surety Co. , 213 Va. 481 , 193 S.E.2d 776, 778 (1973).
+We perceive two policies respecting the extension of common law tort immunity to Guyon that Virginia courts might consider important in deciding whether to give immunity here by applying North Carolina law as a matter of comity.
+The first is that respecting Guyon's employment relationship with Kelly, which is not that of a direct employer, but of one who has contracted with Kelly's direct employer for personal services.
+The second is that underlying Virginia's basic legislative decision not to extend its own compensation coverage, hence tort immunity, to anyone for foreign injuries of the kind here at issue.
+As to the first policy consideration, if North Carolina workers' compensation law extended tort immunity in cases where compensation was available under its law to remote employers such as Guyon whereas Virginia's law did not, Virginia courts might well be disposed not to yield to the conflicting North Carolina policy.
+As to the second, if Virginia's legislative decision not to provide compensation coverage, hence tort immunity, for such foreign injuries were thought to reflect a basic policy favoring tort remedies over compensation in all but the most completely "local" situations, then Virginia courts might well be disposed not to depart from that policy by precluding pursuit of a tort remedy here on comity grounds.
+We take these two policy considerations in order.
+A It is plain that there is no conflict between the policies of Virginia and North Carolina respecting the reach of common law tort immunity to persons occupying the relationship of an employer such as Guyon to employees engaged in the employment which gave rise to Kelly's injury.
+Both states would treat Guyon, on the facts of this case, as Kelly's "statutory employer" immunized against common law tort liability for industrial accidents compensable under the respective state's workers' compensation schemes.
+There is no doubt that Guyon's relationship with Kelly at the time of the accident here in issue would have constituted Guyon a "statutory employer" immunized from tort liability had the accident here in issue been compensable under Virginia's compensation law.
+Uncontradicted testimony showed that Guyon had at least four employees at its regional plant and office in Chester, Virginia, and so satisfied that condition for qualifying as a "statutory employer" under Virginia law.
+Va.Code 65.1-28 .
+Guyon would also be considered Kelly's "statutory employer" in respect of the accident at issue, because when it occurred Kelly was engaged in the same "trade, business or occupation" as was Guyon.
+Va.Code 65.1-29 .
+As the district court found, at the time of this accident, before unloading had commenced, "Kelly was performing the same functions [unstrapping his load] as any Guyon driver making a similar pipe delivery would have been performing."
+Compare Stevens v. Ford Motor Co. , 226 Va. 415 , 309 S.E.2d 319 (1983) (company doing unloading of delivery truck not immunized from tort suit as "statutory employer" of truck driver assisting in unloading).
+If Kelly's accident had been compensable under the Virginia Act, this award would have been his exclusive remedy against Guyon.
+Va.Code 65.1-40 .
+In respect of the accident here in issue, North Carolina compensation law would similarly extend tort immunity to Guyon as a statutory employer.
+Kelly's compensation award under North Carolina compensation law is his exclusive remedy against such a statutory employer.
+See N.C.Gen.Stat.
+97-9 , 97-10.1, 97-19.
+Because North Carolina policy is not in this respect in conflict with that of Virginia, but indeed is parallel, no impediment exists on this score to Virginia's extending to Guyon, as a matter of comity, the immunity which North Carolina law would give him as a "statutory employer."
+B There remains the question whether the Virginia public policy which dictates non-coverage for foreign injuries such as Kelly's (hence no tort immunity for any tortfeasor responsible for it) would be considered offended by granting immunity to an employer such as Guyon because of another state's compensation award.
+We think not, and that the Virginia courts would not on this basis refuse to apply North Carolina immunity law as a matter of comity.
+At first blush, it might appear that the law in which this policy of non-coverage is expressed literally compels the availability of a tort remedy.
+"[T]he common-law right of an injured employee to maintain an action against a party whose negligence caused his injury still remains unless the statute expressly or by necessary inference curtails or denies it."
+Feitig v. Chalkley , 185 Va. 96 , 38 S.E.2d 73, 75 (1946).
+But we think this frequently quoted passage has reference only to the direct application of the Virginia compensation scheme, and does not purport to address the broader question whether the right might be considered "curtailed or denied" not by Virginia compensation statutes but by the award of compensation by another state.
+On that broader issue, we think that the governing policy of the Virginia Compensation Act is that which looks to compensation as the exclusive remedy for industrial accidents.
+Here, it is instructive to look to the basic thrust of Virginia's Workers' Compensation Act.
+The underlying intention of that Act (as of compensation laws generally) is comprehensively to control and regulate the relation between Virginia employers and employees in respect of industrial accident.
+Fauver v. Bell , 192 Va. 518 , 65 S.E.2d 575, 578 (1951).
+Specifically, it is to control and regulate this relation in such a fashion that the remedies provided by the Act are Feitig , 38 S.E.2d at 75 .
+In furtherance of this fundamental policy, exceptions to coverage (and immunity) under the Act arise only where the parties are not in the relation of employer (or statutory employer) and employee.
+If the defendant in a common law action is not a "stranger" to the work in which the plaintiff was engaged, it is the intention of the Act that the common law action should not be allowed to proceed.
+Whalen v. Dean Steel Erection Co. , 229 Va. 164 , 327 S.E.2d 102, 105 (1985).
+The Act has been said by the Supreme Court of Virginia to reflect a quid pro quo bargain involving quid pro quo Id. 327 S.E.2d at 106 .
+In light of these indications, we do not believe Virginia would interpret narrowly the reach of the policy expressed in the quid pro quo bargain and restrict its protections only to those employers and statutory employers who stand under the canopy of its own Act in relation to a particular accident.
+Because in the critical respects analyzed, North Carolina law is not contrary to Virginia public policy, but instead is compatible with it, we hold that Virginia would, as a matter of comity, treat Kelly's North Carolina compensation award as his exclusive remedy and hold his common law tort action against Guyon barred in Virginia.
+Cf. Kelly v. Eclipse Motor Line , 305 F.Supp.
+191 (D.Md.1969) aff'd , 432 F.2d 1009 (4th Cir.1970) (applying the Pennsylvania statutory bar to a Maryland tort suit).
+The district court's order dismissing Kelly's case is therefore affirmed.
+AFFIRMED.

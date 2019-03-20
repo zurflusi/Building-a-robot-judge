@@ -1,0 +1,105 @@
+ GEORGE C. PRATT , Circuit Judge: In Local 50, Bakery and Confectionery Workers Union, AFL-CIO v. Local 3, Bakery and Confectionery Workers Union, AFL-CIO , 733 F.2d 229 (2d Cir.1984), we held that one union's health benefits trust fund was required to transfer certain monies to another union's health benefits trust fund when all the employees of an employer had shifted their union allegiance from one union local to another.
+Today, we must revisit that problem in a slightly different context, where an employer leaves one set of multi-employer trust funds in favor of a different set of trust funds.
+Specifically, the question before us is whether, when an employer leaves pension and welfare trust funds in favor of another set of trust funds, 302(c)(5) of the Labor Management Relations Act ("LMRA") requires a reallocation of monies paid to the former funds on behalf of its employees, so that the monies are used "for the sole and exclusive benefit of the employees of such employer" as those terms are used in 302(c)(5) .
+Because we believe that absent some reallocation of monies, the former fund would suffer from a "structural defect", we reverse the judgment of the district court and remand with instructions to enter partial summary judgment in favor of the plaintiffs.
+BACKGROUND The appellants are management trustees, employers and management companies ("Southern Trustees", "Southern Employers" and "Southern Management Companies", respectively) which comprise the membership of the Local 144 Southern New York Residential Health Care Facilities Association Pension and Welfare Funds ("Southern Funds"), and employees ("Southern Employees") of the Southern Employers.
+Until 1981, the members of the Southern Funds were members of the Greater New York Health Care Facilities Association, Inc. ("Greater New York"), a multiemployer bargaining association, and were parties to collective bargaining agreements between Greater New York and Local 144, Hotel, Hospital, Nursing Home and Allied Services Employees Union, SEIU, AFL-CIO ("Local 144").
+Pursuant to those agreements, the Southern Employers were required to and did contribute to pension and welfare funds established for the benefit of employees of the Greater New York employers ("Greater Funds", or separately, "Greater Pension Fund" and "Greater Welfare Fund").
+The relationship between the Southern Employers and Greater New York ended in 1981, when the Southern Employers withdrew their membership in Greater New York.
+Upon their leaving Greater New York, the Southern Employers executed their own collective bargaining agreements with Local 144, agreements which obligated the Southern Employers to continue contributing to the Greater Funds on behalf of their employees.
+This arrangement lasted until 1984, when the Southern Employers decided also to withdraw from the Greater Funds and, along with B.N.H.
+Management Associates, Inc., to establish their own pension and welfare funds.
+The Southern Employers then negotiated with Local 144 for a new collective bargaining agreement that allowed the new funds to be established.
+On November 30, 1984, the parties to that agreement provided for the establishment of the Southern Funds.
+The agreement contained no provisions mandating a transfer of reserve funds from the Greater Funds to the Southern Funds.
+The agreement did provide, however, that (1) members of or contributors to the Southern Funds could sue to compel such a transfer, and (2) Local 144 would not oppose such a suit, provided that the suit was "consistent with applicable law."
+The agreement clearly illustrates that Local 144's primary concern was to assure that none of its members would suffer a loss of benefits as a result of the Southern Employers' change from the Greater Funds to the Southern Funds.
+To this end, the agreement provided not only for a continuity of benefits for covered employees, but also contained a requirement that the Southern Funds would provide the same level of benefits as had the Greater Funds.
+The Southern Employers were required to contribute to the Greater Welfare Fund until a date two months prior to the Southern Funds' operation.
+Additionally, the Greater Pension Fund ceased to accrue pension credits for the Southern Employees on July 1, 1984.
+The Southern Employers made pension contributions after July 1, 1984 to an escrow account maintained for the purpose of building reserves for the Southern Funds.
+The Southern Funds were established on October 18, 1985, with the execution of trust agreements.
+The trustees of the new funds agreed that the Southern Funds would become operational on December 1, 1985.
+On November 5, 1985, the Southern Trustees agreed that the Southern Pension Fund would fully recognize all years of credited service earned by participants who had not yet vested under the Greater Pension Fund.
+Those employees who had vested under the Greater Pension Fund, since they would receive a partial pension from that fund, would be provided a supplemental portion of their ultimate benefit by the Southern Pension Fund, so that they would receive the same total benefit, but part would be paid by the Greater Pension Fund, where they were already vested, and the remainder or supplemental portion would be paid by the Southern Pension Fund.
+To help finance this change from the Greater Funds to the Southern Funds, plaintiffs desired to have portions of the reserves in the Greater Funds that represented contributions on behalf of the Southern Employees transferred to the Southern Funds.
+To that end, plaintiffs filed this action in the district court, claiming (1) that the Greater Funds' trust documents, because they failed to provide for a transfer of a portion of their reserves to the Southern Funds, suffered from a "structural defect" which violated 302(c)(5) of the LMRA, 29 U.S.C. 186(c)(5) ; (2) that the failure of the Greater Funds to provide asset transfer rules violated 4234 of the Employee Retirement Income Security Act of 1974 ("ERISA"), 29 U.S.C. 1414 ; and (3) that the defendant Greater Fund trustees had breached their fiduciary duties under 404 of ERISA, 29 U.S.C. 1104 .
+In an opinion reported at 710 F.Supp.
+58 (S.D.N.Y.1989), the district court denied the plaintiffs' motion for partial summary judgment, granted the defendants' motion for summary judgment on the first and third claims, and dismissed the plaintiffs' second claim for lack of standing.
+On the first claim, involving 302(c)(5) , the district court distinguished our decision in Local 50 , noting that the Local 50 panel was influenced by policy concerns regarding collective bargaining.
+Local 50 involved employees who had changed bargaining representatives (and, hence, health benefit funds), while here, it was the employers who had initiated the change of funds.
+Consequently, the district court held, "[t]he absence of those [collective bargaining] considerations requires a different result here."
+Id. at 63 .
+The plaintiffs renew their arguments on appeal.
+DISCUSSION A. ERISA or LMRA: Which Controls?
+As an initial matter, we must consider the appellees' contention that ERISA, not the LMRA, controls this appeal, since ERISA is a "comprehensive and reticulated" statute, cf. Nachman Corp. v. Pension Benefit Guaranty Corp. , 446 U.S. 359, 361-62 , 100 S.Ct. 1723, 1726 , 64 L.Ed.2d 354 (1980), and as a specific statute, must be given precedence over a more general one.
+Some background on this statutory scheme is necessary to understand how the statutes relate to each other.
+In 1980, Congress passed the Multiemployer Pension Plan Amendments Act ("MPPAA"), which, inter alia , added 4235 of ERISA, 29 U.S.C. 1415 , to require the transfer of assets and liabilities from one pension plan to another when a change in pension plans comes about "as a result of a certified change of collective bargaining representative."
+Since the MPPAA was silent on transfers resulting from other scenarios, the appellees argue that Congress must have meant for asset transfers to occur only when the change is triggered by a certified change of collective bargaining representative; thus 302(c)(5) , in the appellees' view, cannot be read to make a structural defect out of a failure to transfer assets in situations not covered by 4235 of ERISA.
+We reject this argument.
+First, the proposition that a specific statute controls a general one applies only when the statutes are irreconcilable.
+When two statutes can live a peaceful coexistence, we must give effect to both of congress's commands.
+See Morton v. Mancari , 417 U.S. 535, 551 , 94 S.Ct. 2474, 2483 , 41 L.Ed.2d 290 (1974); Romano v. Luther , 816 F.2d 832, 840 (2d Cir.1987).
+It is well established that trust funds such as the ones at hand are governed jointly by the LMRA and ERISA; thus, both statutes not only can, but must, apply.
+See, e.g. , Central States, Southeast and Southwest Areas Pension Fund v. Central Transport, Inc. , 472 U.S. 559, 561-62 , 105 S.Ct. 2833, 2835-36 , 86 L.Ed.2d 447 (1985); Schneider Moving & Storage Co. v. Robbins , 466 U.S. 364, 366 n. 1, 104 S.Ct. 1844, 1846 , n. 1, 80 L.Ed.2d 366 (1984).
+Second, to give 302(c)(5) such a narrow reading, we would have to overrule our prior decision in Local 50 , which held that section to be applicable and which found a structural defect where there had been a failure to transfer funds.
+The appellees suggest as much when they invite us to "modify" our previously-stated views.
+Appellees' Brief at 47.
+Since we decline the invitation, the appellees, in order to succeed, must show not only Local 50 , but also our prior decisions in Trapani v. Consolidated Edison Employees' Mutual Aid Soc'y, Inc. , 891 F.2d 48 (2d Cir.1989) and O'Hare v. General Marine Transport Corp. , 740 F.2d 160 (2d Cir.1984), cert. denied , 469 U.S. 1212 , 105 S.Ct. 1181 , 84 L.Ed.2d 329 (1985), to be distinguishable.
+This they fail to do.
+B. Local 50 In Local 50 , we held that a union's health benefits fund was required to transfer, to a successor union's health benefits fund, that portion of the reserves attributable to those employees who "shifted their union allegiance from one local to another."
+733 F.2d at 230 .
+Before reaching the merits of the case, however, we noted: Id. at 233 (citation omitted).
+The district court concluded that this language meant our decision in Local 50 required a transfer of reserves only when it would (1) benefit employees and (2) absent a transfer, burden the employees' choice of bargaining representative.
+710 F.Supp.
+at 63 .
+While the appellees and the district court correctly recognized these concerns we had in Local 50 , it does not follow that these concerns dictate a different result in this case. In Trapani , where the change was initiated by an employer rather than by employees, we found "stronger equitable considerations in favor of plaintiffs than in Local 50 " for the very reason that the employees had no say in the change of funds.
+Trapani , 891 F.2d at 50 .
+The district court also relied heavily on the fact that the new collective bargaining agreement with Local 144 contractually obligated the Southern Employers to provide the same level of benefits as the Greater Funds would have provided: "[T]hat circumstance is the consequence of the obligation they assumed because they chose to create a new plan."
+710 F.Supp.
+at 63 (emphasis in original).
+According to the appellees, the Southern Employers backed their promise to Local 144 with their own assets, and thereby made a transfer of funds unnecessary for the protection of the employees.
+This argument falls wide of the mark.
+We are being asked to interpret not a collective bargaining agreement, but a statute.
+Regardless of the terms of the agreement between the Southern Employers and Local 144, the fact that the Greater Funds hold pension and welfare contributions which will never result in benefits for the unvested employees is still a structural defect under 302(c)(5) .
+See Local 50 , 733 F.2d at 235 .
+As Senator Taft, one of the sponsors of the LMRA, remarked: "In other words, this must be a trust fund it is in trust for the employees, who, after all have earned the money."
+93 Cong.Rec.
+4746 (1947), reprinted in 2 Legislative History of the Labor Management Relations Act, 1947 , at 1311 (1948) (emphasis added).
+See also id. at 1498 (remarks of Sen.
+Ball), quoted in Local 50 , 733 F.2d at 235 .
+C. Section 302(c)(5) of the LMRA: "Sole and Exclusive Benefit" The district court did not fully appreciate that the "sole and exclusive benefit" provision of 302(c)(5) recognizes that payments into a trust fund are in exchange for employees' labor, just as wages are, and should be protected so that employees may enjoy the "sole and exclusive benefit" of their efforts.
+United Mine Workers of America Health and Retirement Funds v. Robinson , 455 U.S. 562, 570-72 , 102 S.Ct. 1226, 1231 , 71 L.Ed.2d 419 (1982); NLRB v. Amax Coal Co. , 453 U.S. 322, 328, 331 , 101 S.Ct. 2789, 2794, 2795 , 69 L.Ed.2d 672 (1981); Local 50 , 733 F.2d at 236 .
+There is no requirement that an employer establish trust funds to benefit its employees; absent a contractual obligation, an employer could use these same funds to pay higher wages to its employees: Bey v. Muldoon , 223 F.Supp.
+489, 495 (E.D.Pa.1963), aff'd , 354 F.2d 1005 (3d Cir.), cert. denied , 384 U.S. 987 , 86 S.Ct. 1888 , 16 L.Ed.2d 1004 (1966).
+Section 302(c)(5) 's "sole and exclusive benefit" provision puts the force of law behind the principle that wages withheld by an employer should benefit the employees who earned those wages.
+Otherwise, the excess funding would operate as a windfall to the Greater Funds, a windfall which could be misused as the drafters of 302(c)(5) feared.
+See NLRB v. Amax Coal Co. , 453 U.S. at 330 n. 13, 101 S.Ct. at 2794 n. 13; International Brotherhood of Teamsters, Joint Council 18 v. New York State Teamsters Council Health & Hospital Fund , 903 F.2d 919, 922 (2d Cir.), cert. denied , U.S. , 111 S.Ct. 251 , 112 L.Ed.2d 210 (1990).
+Nevertheless, the appellees argue, the "sole and exclusive benefit" requirement is not violated here, because 302(c)(5) , which allows employers to pay money to their employees' representatives only "for the sole and exclusive benefit of the employees of such employer, and their families and dependents (or of such employees, families, and dependents jointly with the employees of other employers making similar payments, and their families and dependents)", means that the monies may remain in the Greater Funds to benefit those employees whose employers did not change to the Southern Funds.
+To support this argument, the appellees enlisted the aid of an expert at the district court, as well as two amici curiae in this court.
+All three have pointed out, correctly, that multiemployer plans are cost-sharing devices which pool funds.
+In theory, "any multiemployer trust fund might result in one employer's payments covering the claims of another employer's employees," see British Motor Car Distributors v. San Francisco Automotive Indus.
+Welfare Fund , 882 F.2d 371, 378 (9th Cir.1989); therefore, so the argument goes, there is no right to reallocate monies which were placed in a multiemployer fund just because the monies had not yet been used for the payment of benefits.
+This argument also misses the point of the "sole and exclusive benefit" requirement.
+Our holding today does not, as the appellees and amici fear, require multiemployer funds to tie the benefits of employee-participants to their individual contributions.
+It requires the reallocation of only those reserves that are attributable collectively to the labor of the employees whose employers have left the umbrella of the Greater Funds for that of the Southern Funds.
+We have previously noted that, contrary to the fears of appellees and amici , the benefits of individual employees need not be tied to their individual contributions.
+In O'Hare , which we decided only three months after Local 50 , we refused to find a 302(c)(5) structural defect where some , but not all, of an employer's employees voluntarily changed unions, thus changing welfare and pension plans.
+We said: section 302(c)(5) O'Hare , 740 F.2d at 173 .
+However, when all the employees of an employer are removed from a fund, there is no chance, actuarial or otherwise, that any of the "employees of such employer" (with the obvious exception of the already-vested pensioners) will ever receive benefits based on their contributions.
+Local 50 , 733 F.2d at 236 .
+Thus, the only way that the Southern Employees could ever receive the "sole and exclusive benefit" of their employers' contributions to the Greater Funds on their behalf would be to mandate a reallocation of reserves from the Greater Funds to the Southern Funds.
+Absent such a reallocation, the Greater Funds would suffer from a "structural defect".
+Local 50 , 733 F.2d at 235 .
+There remains to be determined what portion of the reserves of the Greater Funds are to be reallocated to the Southern Funds.
+In view of its original disposition of this case, the district court, of course, did not reach this question, so a remand for this purpose is necessary.
+As a general principle, the district court should require that the Greater Funds reallocate to the Southern Funds that portion of the reserves which represents contributions on behalf of the Southern Employees for liabilities now undertaken by the Southern Funds.
+See Local 50 , 733 F.2d at 238 .
+Local 50 dealt only with a health benefits fund.
+We are faced here with a more complex situation involving both welfare and pension funds, as well as both vested and unvested interests in the pension fund.
+To determine the amounts to be reallocated, further proceedings are necessary in the district court, which has broad discretion in the matter.
+It may be that the parties will be able to agree as to the proper amounts of reserves to be transferred.
+All of the funds should recognize that they exist solely for the benefit of the employees.
+Guided by whatever agreements and evidence the parties present, the district court shall exercise its discretion to shape an appropriate remedy guided by the principle that a fair portion of the reserves reflecting contributions made to the Greater Funds on behalf of the Southern Employees should be reallocated to the Southern Funds where the Southern Funds have undertaken the responsibility to pay the benefits for which the contributions were made.
+CONCLUSION Because we decide the case based on 302(c)(5) of the LMRA, there is no need to consider the second and third claims raised by the appellants.
+The judgment of the district court is reversed, and the case is remanded with instructions to enter an appropriate partial summary judgment for the plaintiffs and for further proceedings consistent with this opinion.

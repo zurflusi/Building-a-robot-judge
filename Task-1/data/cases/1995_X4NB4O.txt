@@ -1,0 +1,235 @@
+ STAHL , Circuit Judge.
+This appeal requires us to decide whether a computer menu command hierarchy is copyrightable subject matter.
+In particular, we must decide whether, as the district court [**1016] held, plaintiff-appellee Lotus Development Corporation's copyright in Lotus 1-2-3, a computer spreadsheet program, was infringed by defendant-appellant Borland International, Inc., when Borland copied the Lotus 1-2-3 menu command hierarchy into its Quattro and Quattro Pro computer spreadsheet programs.
+See Lotus Dev. Corp. v. Borland Int'l, Inc. , 788 F.Supp.
+78 (D.Mass.1992) (" Borland I "); Lotus Dev. Corp. v. Borland Int'l, Inc. , 799 F.Supp.
+203 (D.Mass.1992) (" Borland II "); Lotus Dev. Corp. v. Borland Int'l, Inc. , 831 F.Supp.
+202 (D.Mass.1993) (" Borland III "); Lotus Dev. Corp. v. Borland Int'l, Inc. , 831 F.Supp.
+223 (D.Mass.1993) (" Borland IV ").
+I. Background Lotus 1-2-3 is a spreadsheet program that enables users to perform accounting functions electronically on a computer.
+Users manipulate and control the program via a series of menu commands, such as "Copy," "Print," and "Quit."
+Users choose commands either by highlighting them on the screen or by typing their first letter.
+In all, Lotus 1-2-3 has 469 commands arranged into more than 50 menus and submenus.
+Lotus 1-2-3, like many computer programs, allows users to write what are called "macros."
+By writing a macro, a user can designate a series of command choices with a single macro keystroke.
+Then, to execute that series of commands in multiple parts of the spreadsheet, rather than typing the whole series each time, the user only needs to type the single pre-programmed macro keystroke, causing the program to recall and perform the designated series of commands automatically.
+Thus, Lotus 1-2-3 macros shorten the time needed to set up and operate the program.
+Borland released its first Quattro program to the public in 1987, after Borland's engineers had labored over its development for nearly three years.
+Borland's objective was to develop a spreadsheet program far superior to existing programs, including Lotus 1-2-3.
+In Borland's words, "[f]rom the time of its initial release Quattro included enormous innovations over competing spreadsheet products."
+The district court found, and Borland does not now contest, that Borland included in its Quattro and Quattro Pro version 1.0 programs "a virtually identical copy of the entire 1-2-3 menu tree."
+Borland III , 831 F.Supp.
+at 212 (emphasis in original).
+In so doing, Borland did not copy any of Lotus's underlying computer code; it copied only the words and structure of Lotus's menu command hierarchy.
+Borland included the Lotus menu command hierarchy in its programs to make them compatible with Lotus 1-2-3 so that spreadsheet users who were already familiar with Lotus 1-2-3 would be able to switch to the Borland programs without having to learn new commands or rewrite their Lotus macros.
+In its Quattro and Quattro Pro version 1.0 programs, Borland achieved compatibility with Lotus 1-2-3 by offering its users an alternate user interface, the "Lotus Emulation Interface."
+By activating the Emulation Interface, Borland users would see the Lotus menu commands on their screens and could interact with Quattro or Quattro Pro as if using Lotus 1-2-3, albeit with a slightly different looking screen and with many Borland options not available on Lotus 1-2-3.
+In effect, Borland allowed users to choose how they wanted to communicate with Borland's spreadsheet programs: either by using menu commands designed by Borland, or by using the commands and command structure used in Lotus 1-2-3 augmented by Borland-added commands.
+Lotus filed this action against Borland in the District of Massachusetts on July 2, 1990, four days after a district court held that the Lotus 1-2-3 "menu structure, taken as a whole--including the choice of command terms [and] the structure and order of those terms," was protected expression covered by Lotus's copyrights.
+Lotus Dev. Corp. v. Paperback Software Int'l , 740 F.Supp.
+37, 68, 70 (D.Mass.1990) (" Paperback ").
+1 Three days earlier, on the morning after the Paperback decision, Borland had filed a declaratory judgment action against Lotus in the Northern District of California, seeking a declaration of non-infringement.
+On September 10, 1990, the district court in California dismissed Borland's declaratory judgment action in favor of this action.
+Lotus and Borland filed cross motions for summary judgment; the district court denied both motions on March 20, 1992, concluding that "neither party's motion is supported by the record."
+Borland I , 788 F.Supp.
+at 80 .
+The district court invited the parties to file renewed summary judgment motions that would "focus their arguments more precisely" in light of rulings it had made in conjunction [**1017] with its denial of their summary judgment motions.
+Id. at 82 .
+Both parties filed renewed motions for summary judgment on April 24, 1992.
+In its motion, Borland contended that the Lotus 1-2-3 menus were not copyrightable as a matter of law and that no reasonable trier of fact could find that the similarity between its products and Lotus 1-2-3 was sufficient to sustain a determination of infringement.
+Lotus contended in its motion that Borland had copied Lotus 1-2-3's entire user interface and had thereby infringed Lotus's copyrights.
+On July 31, 1992, the district court denied Borland's motion and granted Lotus's motion in part.
+The district court ruled that the Lotus menu command hierarchy was copyrightable expression because Borland II , 799 F.Supp.
+at 217 .
+The district court demonstrated this by offering alternate command words for the ten commands that appear in Lotus's main menu.
+Id. For example, the district court stated that "[t]he 'Quit' command could be named 'Exit' without any other modifications," and that "[t]he 'Copy' command could be called 'Clone,' 'Ditto,' 'Duplicate,' 'Imitate,' 'Mimic,' 'Replicate,' and 'Reproduce,' among others."
+Id. Because so many variations were possible, the district court concluded that the Lotus developers' choice and arrangement of command terms, reflected in the Lotus menu command hierarchy, constituted copyrightable expression.
+In granting partial summary judgment to Lotus, the district court held that Borland had infringed Lotus's copyright in Lotus 1-2-3: genuinely Borland II , 799 F.Supp.
+at 223 (emphasis in original).
+The court nevertheless concluded that while the Quattro and Quattro Pro programs infringed Lotus's copyright, Borland had not copied the entire Lotus 1-2-3 user interface, as Lotus had contended.
+Accordingly, the court concluded that a jury trial was necessary to determine the scope of Borland's infringement, including whether Borland copied the long prompts 2 of Lotus 1-2-3, whether the long prompts contained expressive elements, and to what extent, if any, functional constraints limited the number of possible ways that the Lotus menu command hierarchy could have been arranged at the time of its creation.
+See Borland III , 831 F.Supp.
+at 207 .
+Additionally, the district court granted Lotus summary judgment on Borland's affirmative defense of waiver, but not on its affirmative defenses of laches and estoppel.
+Borland II , 799 F.Supp.
+at 222-23 .
+Immediately following the district court's summary judgment decision, Borland removed the Lotus Emulation Interface from its products.
+Thereafter, Borland's spreadsheet programs no longer displayed the Lotus 1-2-3 menus to Borland users, and as a result Borland users could no longer communicate with Borland's programs as if they were using a more sophisticated version of Lotus 1-2-3.
+Nonetheless, Borland's programs continued to be partially compatible with Lotus 1-2-3, for Borland retained what it called the "Key Reader" in its Quattro Pro programs.
+Once turned on, the Key Reader allowed Borland's programs to understand [**1018] and perform some Lotus 1-2-3 macros.
+3 With the Key Reader on, the Borland programs used Quattro Pro menus for display, interaction, and macro execution, except when they encountered a slash ("/") key in a macro (the starting key for any Lotus 1-2-3 macro), in which case they interpreted the macro as having been written for Lotus 1-2-3.
+Accordingly, people who wrote or purchased macros to shorten the time needed to perform an operation in Lotus 1-2-3 could still use those macros in Borland's programs.
+4 The district court permitted Lotus to file a supplemental complaint alleging that the Key Reader infringed its copyright.
+The parties agreed to try the remaining liability issues without a jury.
+The district court held two trials, the Phase I trial covering all remaining issues raised in the original complaint (relating to the Emulation Interface) and the Phase II trial covering all issues raised in the supplemental complaint (relating to the Key Reader).
+At the Phase I trial, there were no live witnesses, although considerable testimony was presented in the form of affidavits and deposition excerpts.
+The district court ruled upon evidentiary objections counsel interposed.
+At the Phase II trial, there were two live witnesses, each of whom demonstrated the programs for the district court.
+After the close of the Phase I trial, the district court permitted Borland to amend its answer to include the affirmative defense of "fair use."
+Because Borland had presented all of the evidence supporting its fair-use defense during the Phase I trial, but Lotus had not presented any evidence on fair use (as the defense had not been raised before the conclusion of the Phase I trial), the district court considered Lotus's motion for judgment on partial findings of fact.
+See Fed.R.Civ.P. 52(c) .
+The district court held that Borland had failed to show that its use of the Lotus 1-2-3 menu command hierarchy in its Emulation Interface was a fair use.
+See Borland III , 831 F.Supp.
+at 208 .
+In its Phase I-trial decision, the district court found that "each of the Borland emulation interfaces contains a virtually identical copy of the 1-2-3 menu tree and that the 1-2-3 menu tree is capable of a wide variety of expression."
+Borland III , 831 F.Supp.
+at 218 .
+The district court also rejected Borland's affirmative defenses of laches and estoppel.
+Id. at 218-23 .
+In its Phase II-trial decision, the district court found that Borland's Key Reader file included "a virtually identical copy of the Lotus menu tree structure, but represented in a different form and with first letters of menu command names in place of the full menu command names."
+Borland IV , 831 F.Supp.
+at 228 .
+In other words, Borland's programs no longer included the Lotus command terms, but only their first letters.
+The district court held that "the Lotus menu structure, organization, and first letters of the command names constitute part of the protectable expression found in [Lotus 1-2-3]."
+Id. at 233 .
+Accordingly, the district court held that with its Key Reader, Borland had infringed Lotus's copyright.
+Id. at 245 .
+The district court also rejected Borland's affirmative defenses of waiver, laches, estoppel, and fair use.
+Id. at 235-45 .
+The district court then entered a permanent injunction against Borland, id. at 245 , from which Borland appeals.
+This appeal concerns only Borland's copying of the Lotus menu command hierarchy into its Quattro programs and Borland's affirmative defenses to such copying.
+Lotus has not cross-appealed; in other words, Lotus does not contend on appeal that the district court erred in finding that Borland had not copied other elements of Lotus 1-2-3, such as its screen displays.
+II.
+Discussion On appeal, Borland does not dispute that it factually copied the words and arrangement of the Lotus menu command hierarchy.
+Rather, Borland argues that it "lawfully copied the unprotectable menus of Lotus 1-2-3."
+Borland contends that the Lotus menu command hierarchy is not copyrightable because it is a system, method of operation, process, or procedure foreclosed from protection by 17 U.S.C. 102(b) .
+Borland also raises a number of affirmative defenses.
+A. Copyright Infringement Generally To establish copyright infringement, a plaintiff must prove "(1) ownership of a valid copyright, and (2) copying of constituent elements of the work that are original."
+Feist Publications, Inc. v. Rural Tel. Serv. Co. , 499 U.S. 340, 361 , 111 S.Ct. 1282, 1296 , 113 L.Ed.2d 358 (1991) [**1019] ; see also Data Gen. Corp. v. Grumman Sys.
+Support Corp. , 36 F.3d 1147, 1160 n. 19 (1st Cir.1994); Concrete Mach. Co. v. Classic Lawn Ornaments, Inc. , 843 F.2d 600, 605 (1st Cir.1988).
+To show ownership of a valid copyright and therefore satisfy Feist 's first prong, a plaintiff must prove that the work as a whole is original and that the plaintiff complied with applicable statutory formalities.
+See Engineering Dynamics, Inc. v. Structural Software, Inc. , 26 F.3d 1335, 1340 (5th Cir.1994).
+"In judicial proceedings, a certificate of copyright registration constitutes prima facie evidence of copyrightability and shifts the burden to the defendant to demonstrate why the copyright is not valid."
+Bibbero Sys., Inc. v. Colwell Sys., Inc. , 893 F.2d 1104, 1106 (9th Cir.1990); see also 17 U.S.C. 410(c) ; Folio Impressions, Inc. v. Byer California , 937 F.2d 759, 763 (2d Cir.1991) (presumption of validity may be rebutted).
+To show actionable copying and therefore satisfy Feist 's second prong, a plaintiff must first prove that the alleged infringer copied plaintiff's copyrighted work as a factual matter; to do this, he or she may either present direct evidence of factual copying or, if that is unavailable, evidence that the alleged infringer had access to the copyrighted work and that the offending and copyrighted works are so similar that the court may infer that there was factual copying (i.e., probative similarity).
+Engineering Dynamics , 26 F.3d at 1340 ; see also Concrete Mach. , 843 F.2d at 606 .
+The plaintiff must then prove that the copying of copyrighted material was so extensive that it rendered the offending and copyrighted works substantially similar.
+See Engineering Dynamics , 26 F.3d at 1341 .
+In this appeal, we are faced only with whether the Lotus menu command hierarchy is copyrightable subject matter in the first instance, for Borland concedes that Lotus has a valid copyright in Lotus 1-2-3 as a whole 5 and admits to factually copying the Lotus menu command hierarchy.
+As a result, this appeal is in a very different posture from most copyright-infringement cases, for copyright infringement generally turns on whether the defendant has copied protected expression as a factual matter.
+Because of this different posture, most copyright-infringement cases provide only limited help to us in deciding this appeal.
+This is true even with respect to those copyright-infringement cases that deal with computers and computer software.
+B. Matter of First Impression Whether a computer menu command hierarchy constitutes copyrightable subject matter is a matter of first impression in this court.
+While some other courts appear to have touched on it briefly in dicta, see, e.g. , Autoskill, Inc. v. National Educ.
+Support Sys., Inc. , 994 F.2d 1476, 1495 n. 23 (10th Cir.), cert. denied , U.S. , 114 S.Ct. 307 , 126 L.Ed.2d 254 (1993), we know of no cases that deal with the copyrightability of a menu command hierarchy standing on its own (i.e., without other elements of the user interface, such as screen displays, in issue).
+Thus we are navigating in uncharted waters.
+Borland vigorously argues, however, that the Supreme Court charted our course more than 100 years ago when it decided Baker v. Selden , 101 U.S. 99 , 25 L.Ed. 841 (1879).
+In Baker v. Selden , the Court held that Selden's copyright over the textbook in which he explained his new way to do accounting did not grant him a monopoly on the use of his accounting system.
+6 Borland argues: Baker v. Selden To demonstrate that Baker v. Selden and this appeal both involve accounting systems, Borland even supplied this court with a video that, with special effects, shows Selden's paper forms "melting" into a computer screen and transforming into Lotus 1-2-3.
+We do not think that Baker v. Selden is nearly as analogous to this appeal as Borland claims.
+Of course, Lotus 1-2-3 is a computer [**1020] spreadsheet, and as such its grid of horizontal rows and vertical columns certainly resembles an accounting ledger or any other paper spreadsheet.
+Those grids, however, are not at issue in this appeal for, unlike Selden, Lotus does not claim to have a monopoly over its accounting system.
+Rather, this appeal involves Lotus's monopoly over the commands it uses to operate the computer.
+Accordingly, this appeal is not, as Borland contends, "identical" to Baker v. Selden .
+C. Altai Before we analyze whether the Lotus menu command hierarchy is a system, method of operation, process, or procedure, we first consider the applicability of the test the Second Circuit set forth in Computer Assoc. Int'l, Inc. v. Altai, Inc. , 982 F.2d 693 (2d Cir.1992).
+7 The Second Circuit designed its Altai test to deal with the fact that computer programs, copyrighted as "literary works," can be infringed by what is known as "nonliteral" copying, which is copying that is paraphrased or loosely paraphrased rather than word for word.
+See id. at 701 (citing nonliteral-copying cases); see also 3 Melville B. Nimmer & David Nimmer, Nimmer on Copyright 13.03[A] (1993).
+When faced with nonliteral-copying cases, courts must determine whether similarities are due merely to the fact that the two works share the same underlying idea or whether they instead indicate that the second author copied the first author's expression.
+The Second Circuit designed its Altai test to deal with this situation in the computer context, specifically with whether one computer program copied nonliteral expression from another program's code.
+The Altai test involves three steps: abstraction, filtration, and comparison.
+The abstraction step requires courts to "dissect the allegedly copied program's structure and isolate each level of abstraction contained within it."
+Altai , 982 F.2d at 707 .
+This step enables courts to identify the appropriate framework within which to separate protectable expression from unprotected ideas.
+Second, courts apply a "filtration" step in which they examine "the structural components at each level of abstraction to determine whether their particular inclusion at that level was 'idea' or was dictated by considerations of efficiency, so as to be necessarily incidental to that idea; required by factors external to the program itself; or taken from the public domain."
+Id. Finally, courts compare the protected elements of the infringed work (i.e., those that survived the filtration screening) to the corresponding elements of the allegedly infringing work to determine whether there was sufficient copying of protected material to constitute infringement.
+Id. at 710 .
+In the instant appeal, we are not confronted with alleged nonliteral copying of computer code.
+Rather, we are faced with Borland's deliberate, literal copying of the Lotus menu command hierarchy.
+Thus, we must determine not whether nonliteral copying occurred in some amorphous sense, but rather whether the literal copying of the Lotus menu command hierarchy constitutes copyright infringement.
+While the Altai test may provide a useful framework for assessing the alleged nonliteral copying of computer code, we find it to be of little help in assessing whether the literal copying of a menu command hierarchy constitutes copyright infringement.
+In fact, we think that the Altai test in this context may actually be misleading because, in instructing courts to abstract the various levels, it seems to encourage them to find a base level that includes copyrightable subject matter that, if literally copied, would make the copier liable for copyright infringement.
+8 While that base (or literal) level would not be at issue in a nonliteral-copying case like Altai , it is precisely what is at issue in this appeal.
+We think that abstracting menu command hierarchies down to their individual word and menu levels and then filtering idea from expression at that stage, as both the Altai and the district court tests require, obscures the more fundamental question of whether a menu command hierarchy can be copyrighted at all.
+The initial inquiry should not be whether individual [**1021] components of a menu command hierarchy are expressive, but rather whether the menu command hierarchy as a whole can be copyrighted.
+But see Gates Rubber Co. v. Bando Chem. Indus., Ltd. , 9 F.3d 823 (10th Cir.1993) (endorsing Altai 's abstraction-filtration-comparison test as a way of determining whether "menus and sorting criteria" are copyrightable).
+D. The Lotus Menu Command Hierarchy: A "Method of Operation" Borland argues that the Lotus menu command hierarchy is uncopyrightable because it is a system, method of operation, process, or procedure foreclosed from copyright protection by 17 U.S.C. 102(b) .
+Section 102(b) states: "In no case does copyright protection for an original work of authorship extend to any idea, procedure, process, system, method of operation, concept, principle, or discovery, regardless of the form in which it is described, explained, illustrated, or embodied in such work."
+Because we conclude that the Lotus menu command hierarchy is a method of operation, we do not consider whether it could also be a system, process, or procedure.
+We think that "method of operation," as that term is used in 102(b) , refers to the means by which a person operates something, whether it be a car, a food process, or a computer.
+Thus a text describing how to operate something would not extend copyright protection to the method of operation itself; other people would be free to employ that method and to describe it in their own words.
+Similarly, if a new method of operation is used rather than described, other people would still be free to employ or describe that method.
+We hold that the Lotus menu command hierarchy is an uncopyrightable "method of operation."
+The Lotus menu command hierarchy provides the means by which users control and operate Lotus 1-2-3.
+If users wish to copy material, for example, they use the "Copy" command.
+If users wish to print material, they use the "Print" command.
+Users must use the command terms to tell the computer what to do.
+Without the menu command hierarchy, users would not be able to access and control, or indeed make use of, Lotus 1-2-3's functional capabilities.
+The Lotus menu command hierarchy does not merely explain and present Lotus 1-2-3's functional capabilities to the user; it also serves as the method by which the program is operated and controlled.
+The Lotus menu command hierarchy is different from the Lotus long prompts, for the long prompts are not necessary to the operation of the program; users could operate Lotus 1-2-3 even if there were no long prompts.
+9 The Lotus menu command hierarchy is also different from the Lotus screen displays, for users need not "use" any expressive aspects of the screen displays in order to operate Lotus 1-2-3; because the way the screens look has little bearing on how users control the program, the screen displays are not part of Lotus 1-2-3's "method of operation."
+10 The Lotus menu command hierarchy is also different from the underlying computer code, because while code is necessary for the program to work, its precise formulation is not.
+In other words, to offer the same capabilities as Lotus 1-2-3, Borland did not have to copy Lotus's underlying code (and indeed it did not); to allow users to operate its programs in substantially the same way, however, Borland had to copy the Lotus menu command hierarchy.
+Thus the Lotus 1-2-3 code is not a uncopyrightable "method of operation."
+11 The district court held that the Lotus menu command hierarchy, with its specific choice and arrangement of command terms, constituted an "expression" of the "idea" of operating a computer program with commands arranged hierarchically into menus and submenus.
+Borland II , 799 F.Supp.
+at 216 .
+Under the district court's reasoning, Lotus's decision to employ hierarchically arranged command terms to operate its program could not foreclose its competitors from also employing hierarchically arranged command terms to operate their programs, [**1022] but it did foreclose them from employing the specific command terms and arrangement that Lotus had used.
+In effect, the district court limited Lotus 1-2-3's "method of operation" to an abstraction.
+Accepting the district court's finding that the Lotus developers made some expressive choices in choosing and arranging the Lotus command terms, we nonetheless hold that that expression is not copyrightable because it is part of Lotus 1-2-3's "method of operation."
+We do not think that "methods of operation" are limited to abstractions; rather, they are the means by which a user operates something.
+If specific words are essential to operating something, then they are part of a "method of operation" and, as such, are unprotectable.
+This is so whether they must be highlighted, typed in, or even spoken, as computer programs no doubt will soon be controlled by spoken words.
+The fact that Lotus developers could have designed the Lotus menu command hierarchy differently is immaterial to the question of whether it is a "method of operation."
+In other words, our initial inquiry is not whether the Lotus menu command hierarchy incorporates any expression.
+12 Rather, our initial inquiry is whether the Lotus menu command hierarchy is a "method of operation."
+Concluding, as we do, that users operate Lotus 1-2-3 by using the Lotus menu command hierarchy, and that the entire Lotus menu command hierarchy is essential to operating Lotus 1-2-3, we do not inquire further whether that method of operation could have been designed differently.
+The "expressive" choices of what to name the command terms and how to arrange them do not magically change the uncopyrightable menu command hierarchy into copyrightable subject matter.
+Our holding that "methods of operation" are not limited to mere abstractions is bolstered by Baker v. Selden .
+In Baker , the Supreme Court explained that Baker v. Selden , 101 U.S. at 104-05 .
+Lotus wrote its menu command hierarchy so that people could learn it and use it.
+Accordingly, it falls squarely within the prohibition on copyright protection established in Baker v. Selden and codified by Congress in 102(b) .
+In many ways, the Lotus menu command hierarchy is like the buttons used to control, say, a video cassette recorder ("VCR").
+A VCR is a machine that enables one to watch and record video tapes.
+Users operate VCRs by pressing a series of buttons that are typically labelled "Record, Play, Reverse, Fast Forward, Pause, Stop/Eject."
+That the buttons are arranged and labeled does not make them a "literary work," nor does it make them an "expression" of the abstract "method of operating" a VCR via a set of labeled buttons.
+Instead, the buttons are themselves the "method of operating" the VCR.
+When a Lotus 1-2-3 user chooses a command, either by highlighting it on the screen or by typing its first letter, he or she effectively pushes a button.
+Highlighting the "Print" command on the screen, or typing the letter "P," is analogous to pressing a VCR button labeled "Play."
+Just as one could not operate a buttonless VCR, it would be impossible to operate Lotus 1-2-3 without employing its menu command hierarchy.
+Thus the Lotus command terms are not equivalent to the labels on the VCR's buttons, but are instead equivalent to the buttons themselves.
+Unlike the labels on a VCR's buttons, which merely make operating a VCR easier by indicating the buttons' functions, the Lotus menu commands are essential to operating Lotus 1-2-3.
+Without the menu commands, there would be no way to "push" the Lotus buttons, as one could push unlabeled VCR buttons.
+While Lotus could probably have designed a user interface for which the command terms were mere labels, it did not do so here.
+Lotus 1-2-3 depends for its operation on use of the precise command terms that make up the Lotus menu command hierarchy.
+One might argue that the buttons for operating a VCR are not analogous to the commands for operating a computer program because VCRs are not copyrightable, whereas computer programs are.
+VCRs may not be copyrighted because they do not fit within any of the 102(a) categories of copyrightable works; the closest they come is "sculptural work."
+Sculptural works, however, are subject to a "useful-article" exception whereby "the design of a useful article shall be considered a pictorial, graphic, or [**1023] sculptural work only if, and only to the extent that, such design incorporates pictorial, graphic, or sculptural features that can be identified separately from, and are capable of existing independently of, the utilitarian aspects of the article."
+17 U.S.C. 101 .
+A "useful article" is "an article having an intrinsic utilitarian function that is not merely to portray the appearance of the article or to convey information."
+Id .
+Whatever expression there may be in the arrangement of the parts of a VCR is not capable of existing separately from the VCR itself, so an ordinary VCR would not be copyrightable.
+Computer programs, unlike VCRs, are copyrightable as "literary works."
+17 U.S.C. 102(a) .
+Accordingly, one might argue, the "buttons" used to operate a computer program are not like the buttons used to operate a VCR, for they are not subject to a useful-article exception.
+The response, of course, is that the arrangement of buttons on a VCR would not be copyrightable even without a useful-article exception, because the buttons are an uncopyrightable "method of operation."
+Similarly, the "buttons" of a computer program are also an uncopyrightable "method of operation."
+That the Lotus menu command hierarchy is a "method of operation" becomes clearer when one considers program compatibility.
+Under Lotus's theory, if a user uses several different programs, he or she must learn how to perform the same operation in a different way for each program used.
+For example, if the user wanted the computer to print material, then the user would have to learn not just one method of operating the computer such that it prints, but many different methods.
+We find this absurd.
+The fact that there may be many different ways to operate a computer program, or even many different ways to operate a computer program using a set of hierarchically arranged command terms, does not make the actual method of operation chosen copyrightable; it still functions as a method for operating the computer and as such is uncopyrightable.
+Consider also that users employ the Lotus menu command hierarchy in writing macros.
+Under the district court's holding, if the user wrote a macro to shorten the time needed to perform a certain operation in Lotus 1-2-3, the user would be unable to use that macro to shorten the time needed to perform that same operation in another program.
+Rather, the user would have to rewrite his or her macro using that other program's menu command hierarchy.
+This is despite the fact that the macro is clearly the user's own work product.
+We think that forcing the user to cause the computer to perform the same operation in a different way ignores Congress's direction in 102(b) that "methods of operation" are not copyrightable.
+That programs can offer users the ability to write macros in many different ways does not change the fact that, once written, the macro allows the user to perform an operation automatically.
+As the Lotus menu command hierarchy serves as the basis for Lotus 1-2-3 macros, the Lotus menu command hierarchy is a "method of operation."
+In holding that expression that is part of a "method of operation" cannot be copyrighted, we do not understand ourselves to go against the Supreme Court's holding in Feist .
+In Feist , the Court explained: Feist , 499 U.S. at 349-50 , 111 S.Ct. at 1290 (quotations and citations omitted).
+We do not think that the Court's statement that "copyright assures authors the right to their original expression" indicates that all expression is necessarily copyrightable; while original expression is necessary for copyright protection, we do not think that it is alone sufficient.
+Courts must still inquire whether original expression falls within one of the categories foreclosed from copyright protection by 102(b) , such as being a "method of operation."
+We also note that in most contexts, there is no need to "build" upon other people's expression, for the ideas conveyed by that expression can be conveyed by someone else without copying the first author's expression.
+13 In the context of methods of operation, however, "building" requires the use of the precise method of operation already employed; otherwise, "building" would require dismantling, too.
+Original developers are not the only people entitled to build on the methods of operation they create; anyone can.
+Thus, Borland may build on the method of operation that Lotus designed and may use the Lotus menu command hierarchy in doing so. Our holding that methods of operation are not limited to abstractions goes against Autoskill , 994 F.2d at 1495 n. 23, in which the [**1024] Tenth Circuit rejected the defendant's argument that the keying procedure used in a computer program was an uncopyrightable "procedure" or "method of operation" under 102(b) .
+The program at issue, which was designed to test and train students with reading deficiencies, id. at 1481 , required students to select responses to the program's queries "by pressing the 1, 2, or 3 keys."
+Id. at 1495 n. 23.
+The Tenth Circuit held that, "for purposes of the preliminary injunction, the record showed that [this] keying procedure reflected at least a minimal degree of creativity," as required by Feist for copyright protection.
+Id. As an initial matter, we question whether a programmer's decision to have users select a response by pressing the 1, 2, or 3 keys is original.
+More importantly, however, we fail to see how "a student select[ing] a response by pressing the 1, 2, or 3 keys," id. , can be anything but an unprotectable method of operation.
+14 III.
+Conclusion Because we hold that the Lotus menu command hierarchy is uncopyrightable subject matter, we further hold that Borland did not infringe Lotus's copyright by copying it.
+Accordingly, we need not consider any of Borland's affirmative defenses.
+The judgment of the district court is Reversed .
+Concurrence follows .

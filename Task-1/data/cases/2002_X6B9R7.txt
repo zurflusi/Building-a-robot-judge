@@ -1,0 +1,165 @@
+ WILLIAMS, Circuit Judge.
+We are asked to decide whether a pension plan amendment which expands the types of post-retirement employment that trigger mandatory suspension of early retirement benefits violates ERISA's "anti-cutback" rule, 29 U.S.C. 1054(g) , when applied to suspend the benefits of the plaintiffs, who retired before the amendment.
+The district court, relying on Spacek v. Maritime Ass'n , 134 F.3d 283 (5th Cir.1998), granted judgment on the pleadings in favor of the defendant pension fund.
+We reject the Fifth Circuit's interpretation of 29 U.S.C. 1054(g) and hold that the amendment, which had the effect of reducing the plaintiffs' early retirement benefits, violates the anti-cutback rule.
+1 I. BACKGROUND The facts are not in dispute.
+Plaintiffs Thomas E. Heinz and Richard J. Schmitt, Jr., are participants in a multiemployer pension plan administered by defendant Central Laborers' Pension Fund.
+Both plaintiffs, who were 39 years old when they retired in 1996, qualified for and began receiving monthly benefits payments under a "service-only pension," which was available to participants who retired at any age, so long as they had earned 30 or more pension credits.
+The monthly payments available under the service-only pension were the same as those available at normal retirement age—that is, the benefits were not actuarially reduced to take into account that payments began at an earlier age and would continue over a longer period.
+The monthly amount was determined based on the contribution rates at which the required 30 pension credits were earned.
+Under the plan, monthly benefit payments for those retiring before age 60, like the plaintiffs, were subject to suspension for periods during which the participants worked in certain "disqualifying employment."
+At the time of plaintiffs' retirement, disqualifying employment was defined in the plan (for employees retiring before age 60) as employment: in a job classification of any type specified and covered in a collective bargaining agreement or in any occupation or job classification where contributions are to be made to the Fund pursuant to a written agreement (either as a union or non-union construction worker).
+After their retirement, plaintiffs obtained jobs as supervisors in the construction industry, which was not disqualifying under the existing definition.
+For two years the plaintiffs worked as construction supervisors while collecting monthly pension benefits.
+Then, in 1998, the plan was amended and the definition of disqualifying employment was expanded to include (for participants who retired before age 53) work "in any capacity in the construction industry (either as a union or nonunion construction worker)."
+2 The Fund construed this amended definition as cov ering plaintiffs' supervisory work and suspended their monthly benefit payments.
+The plaintiffs sued the Fund and, on cross motions for judgment on the pleadings, the district court entered judgment for the Fund.
+The district court, after careful analysis, held first, that the anticutback rule does not apply to suspensions of early retirement benefits payments triggered by disqualifying employment, and second, that the Fund's interpretation of the amended definition of disqualifying employment to include supervisory work was not arbi-trary and capricious.
+The plaintiffs appeal on both grounds.
+II.
+ANALYSIS ERISA does not require employers to provide pension or early retirement benefits, or mandate a particular level of benefits.
+Hickey v. Chicago Truck Drivers, Helpers and Warehouse Workers Union , 980 F.2d 465, 468 (7th Cir.1992).
+Instead, "ERISA protects the benefits described in the Plan by ensuring that, if a pensioner is promised a benefit and fulfills the conditions required to receive it, the pensioner will actually receive the described and promised benefit."
+Id. at 469 .
+ERISA protects benefits from forfeiture through detailed rules regulating vesting and accrual rates, which ensure the participant's right to receive promised benefits notwithstanding his or her consent to plan provisions that would otherwise require forfeiture.
+See JOHN H. LANGBEIN & BRUCE A. WOLK, PENSION AND EMPLOYEE BENEFIT LAW 121-22 (3d ed.2000).
+One limited exception to the non-forfeiture rules is that pension plans may contain provisions requiring the suspension of monthly benefit payments if a participant works in certain jobs after retirement.
+See 29 U.S.C. 1053(a)(3)(B)(ii) ; ERISA 203(a)(3)(B).
+Under this exception, multiemployer plans may provide for suspension of benefit payments if the retiree works "in the same trade or craft, and the same geographic area covered by the plan."
+Id. For early retirement benefits, plans may contain even broader limitations on re-employment, according to a Department of Labor regulation promulgated under ERISA 203(a)(3)(B).
+See 29 C.F.R. 2530.203-3(a) .
+The plaintiffs do not contend that the restrictions on post-retirement employment contained in the plan, either before or after the 1998 amendment, violate these restrictions.
+Instead, they assert that the amendment, which expanded the scope of disqualifying employment, violated the anti-cutback rule of 1054(g).
+We review de novo the district court's decision to grant judgment on the pleadings in favor of the Fund.
+See Velasco v. III.
+Dept.
+of Human Servs.
+, 246 F.3d 1010, 1016 (7th Cir.2001).
+A. Plan Amendments Under 29 U.S.C. 1054(g) Plan amendments are permitted under ERISA, see 29 U.S.C. 1102(b)(3) , but an amendment may not decrease benefits that have already accrued.
+See LANGBEIN & WOLK, supra at 160.
+According to paragraph (1) of the anti-cutback rule: The accrued benefit of a participant under a plan may not be decreased by an amendment of the plan, other than an amendment described in section 1082(c)(8) or 1441 of this title.
+29 U.S.C. 1054(g)(1) ; ERISA 204(g)(1).
+3 "Accrued benefit" is defined under ERISA as "the individual's accrued benefit determined under the plan .
+expressed in the form of an annual benefit commencing at normal retirement age."
+29 U.S.C. 1002(23) .
+This definition has been interpreted to include retirement benefits and to exclude "ancillary benefits not directly related to retirement benefits" like insurance or disability benefits, see 26 C.F.R. 1.411(a)-7 ; Hickey , 980 F.2d at 468 , and some courts, relying on this definition, have held that early retirement benefits were likewise excluded.
+See Meredith v. Allsteel, Inc. , 11 F.3d 1354, 135960 (7th Cir.1993), overruled by Ahng v. Allsteel, Inc. , 96 F.3d 1033, 1036 (7th Cir.1996); Bencivenga v. Western Penn.
+Teamsters and Employers Pension Fund , 763 F.2d 574, 577-78 (3d Cir.1985).
+Paragraph (2) of 1054(g), added by the Retirement Equity Act of 1984, P.L.
+98-397 , makes clear, however, that early retirement benefits are within the protection of the anti-cutback rule.
+Under that new provision, the test is not whether the amendment decreases "accrued benefits," but rather whether the amendment "has the effect of—eliminating or reducing" early retirement benefits attributable to service before the amendment: For purposes of paragraph (1), a plan amendment which has the effect of— (A) eliminating or reducing an early retirement benefit or a retirement-type subsidy (as defined in regulations), or (B) eliminating an optional form of benefit, with respect to benefits attributable to service before the amendment shall be treated as reducing accrued benefits 29 U.S.C. 1054(g)(2) ; ERISA 204(g)(2); see Ahng , 96 F.3d at 1036 ; Arndt v. Security Bank S.S.B.
+Employees' Pension Plan , 182 F.3d 538, 540-41 (7th Cir.1999).
+4 There is no question that the benefits at issue here are "attributable to service before the amendment" because the plaintiffs had already retired when the plan was amended.
+The only question, then, is whether the 1998 plan amendment "has the effect of—eliminating or reducing" the plaintiffs' early retirement benefit.
+Before the amendment, plaintiffs had the right under the plan to work as construction supervisors and continue to receive their monthly benefit payments.
+When disqualifying employment was redefined to include work "in any capacity in the construction industry (either as a union or non-union construction worker)," and when the Fund applied that definition to supervisory work, the plaintiffs lost their right to work as construction supervisors while collecting benefits.
+We conclude that plaintiffs' loss of the option of working as construction supervisors was a reduction of their early retirement benefits within the meaning of 1054(g)(2).
+A participant's benefits cannot be understood without reference to the conditions imposed on receiving those benefits, and an amendment placing materially greater restrictions on the receipt of the benefit "reduces" the benefit just as surely as a decrease in the size of the monthly benefit payment.
+We have not before interpreted the prohibition in the anti-cutback rule as limited to amendments that reduce the amount of the periodic payment, and we find nothing in the language of the rule that suggests such an interpretation.
+In Ahng , for example, we held that the plaintiffs had stated a claim for violation of 1054(g) when they alleged that a plan amendment changed the deadline by which the employee must retire in order to receive supplemental early retirement benefits.
+96 F.3d at 1036-37 ; see also Bellas v. CBS, Inc. , 221 F.3d 517 (3d Cir.2000) (plan amendment that changed eligibility requirements for early retirement benefits violated 1054(g)).
+Similarly, in Michael v. Riverside Cement Co. Pension Plan , 266 F.3d 1023, 1027-28 (9th Cir.2001), the Ninth Circuit held that an amendment that eliminated the plan's "no-offset rule," which had allowed a participant to receive full early retirement benefits without regard to the amount he already received upon previous retirement, violated 1054(g) even though the amendment increased the plaintiff's monthly benefit payment.
+Cf. Hickey , 980 F.2d at 468 (7th Cir.1992) (plan amendment that eliminated the participant's right to cost-of-living adjustments violated the anti-cutback rule).
+The Fund argues that these cases are distinguishable because a change in the eligibility requirements, as in Ahng for example, differs from a change in the conditions triggering suspension of benefit payments in that the former permanently reduces benefits or eliminates certain participants' rights to benefits, whereas a suspension is temporary.
+We find the distinction unconvincing.
+Although with a suspension the interruption in benefit payments is temporary, the retiree never recovers the payments lost during the employment period.
+The amendment thus "eliminates" monthly benefit payments for participants who take certain jobs after retirement and "reduces" the participant's total early retirement benefits by an amount determined by how long the disqualifying work continues.
+Plaintiffs lost a valuable right they had earned before the amendment—the right to continue to work in the industry while receiving monthly benefit payments—and that loss was permanent.
+5 In our judgment, this was a reduction of early retirement benefits within the plain meaning of 1054(g)(2).
+6 B. Spacek v. Maritime Association The Fund points out, however, that "suspensions" are not identified along with the prohibitions against decreases, reductions, and elimination of benefits in the anti-cutback rule.
+The Fund relies on Spacek v. Maritime Ass'n , 134 F.3d 283 (5th Cir.1998), in which the Fifth Circuit concluded that an amendment like the one in this case did not violate the anti-cutback rule because it concerned a "suspension" and not a "reduction" in benefits.
+7 The Fifth Circuit supported its conclusion with: (1) an examination of the use of the two terms under the statute and related regulations; (2) the legislative history of the Retirement Equity Act; and (3) a Treasury regulation concerning the effect of suspensions on "accrued benefits."
+We respectfully conclude, however, that the Fifth Circuit's arguments do not support its conclusion.
+1.
+Suspensions and reductions under ERISA.
+In Spacek , the court noted that "[t]hroughout the statute and corresponding regulations, the concepts of reduction of benefits and suspension of benefit payments are used in distinct ways, often within a single provision."
+134 F.3d at 288-89 (citing 29 U.S.C. 1441(a) , 1341a(d) & 1342(d)(1)(A)(v) ; 29 C.F.R. 2520.104b-4(a)(1)(iii) ).
+From this the court reasoned that to interpret the prohibition in the anti-cutback rule against amendments that reduce benefits as applying to suspensions would "make the word 'suspension' redundant in all of these statutory provisions and interpretive regulations."
+Spacek , 134 F.3d at 289 .
+This redundancy, according to Spacek , would violate the canon of statutory construction that every word in a statute must be given meaning.
+Id.
+We disagree with the inference that Spacek draws from the various provisions that refer to both reductions and suspensions.
+Our interpretation of the anti-cutback rule does not suggest that all suspensions are "reductions" (or vice versa), only that if the suspension is pursuant to an amendment that reduces benefits (attributable to service before the amendment), then it is a reduction within the anti-cutback rule.
+This interpretation does not render the word "suspension" in the other provisions redundant.
+For example, Spacek relies on various provisions in Title IV of ERISA (relating to financially troubled and terminated plans) that refer to both "reduction of benefits" and "suspension of benefit payments"; according to Spacek , to avoid redundancy, the former phrase must be construed as excluding the latter.
+Id.
+But Spacek 's identification of the two relevant phrases is too narrow; to the extent the Title IV provisions identify two separate categories, they are amendments that reduce benefits on the one hand, and suspension of benefit payments , on the other.
+Section 1441, governing plan terminations, is typical: (a) Amendment of plan by plan sponsor to reduce benefits, and suspension of benefit payments Notwithstanding sections 1053 and 1054 of this title, the plan sponsor of a terminated multiemployer plan to which section 1341a(d) of this title applies shall amend the plan to reduce benefits , and shall suspend benefit payments , as required by this section.
+29 U.S.C. 1441(a) (emphasis added) 8 ; see also 29 U.S.C. 1425(a)(1) & 26 U.S.C. 418D(a)(1) (plans in reorganization may amend the plan to reduce benefits); 29 U.S.C. 1426(a) & 26 U.S.C. 418E(a) (insolvent plans may suspend benefit payments); 29 U.S.C. 1053(a)(3)(E)(ii) & 26 U.S.C. 411(a)(3)(F) (exception to forfeiture rule for amendments that reduce benefits under 1441 or 1425, and suspension of benefit payments under 1441 and 1426).
+Because the latter category ( suspension of benefit payments ) includes suspensions not according to any amendment, as in the case of insolvent plans, for example, it is not rendered superfluous by interpreting the amendment in this case as falling into the former category ( amendments that reduce benefits ).
+9 In other words, even crediting the reliability of any inference about the anti-cutback rule that can be drawn from the use of these phrases in various provisions relating to terminated or troubled plans, the most we can infer is that a suspension of benefit payments not falling into the first category—amendments that reduce benefits—should be excluded from the anti-cutback rule.
+But other than in the case of insolvent or terminated plans, an administrator's authority to suspend benefits must come from the plan.
+And as we noted before, no one is disputing that the suspension in this case would be proper if it were contained in the original plan.
+It is the propriety of the amendment to the plan that is at issue in this case, and not the suspension itself, and therefore we cannot infer from the distinction made in Title IV between suspensions of benefit payments and amendments that reduce benefits that the amendment in this case is beyond the anti-cutback rule.
+10 We do not view the omission of a specific reference to suspensions in the anti-cutback rule as an oversight, but as unnecessary.
+Adding a reference to suspensions in 1054(g)(1) ( e.g. , "The accrued benefit of a participant under a plan may not be decreased [ or suspended ] by an amendment of the plan") or 1054(g)(2) ( e.g. , "a plan amendment which has the effect of .
+.
+.
+eliminating[,] reducing[, or suspending ] an early retirement benefit .
+.
+.
+"), would be awkward and perhaps overbroad; it is not the suspension of benefit payments that offends the anti-cutback rule, but the change (to the detriment of the participant) in the conditions triggering the suspension, and this concept is adequately captured by the prohibition against amendments that reduce benefits.
+2.
+Legislative history of the Retirement Equity Act.
+The Fund, again relying on Spacek , also points to the legislative history of the Retirement Equity Act of 1984, which added paragraph (2)—the provision concerning amendments that reduce or eliminate early retirement benefits—to 1054(g).
+See Spacek , 134 F.3d at 289-90 .
+Spacek found instructive the following comment made by Representative William Clay during the final House debates on the Retirement Equity Act: Nor do those provisions in any way apply to or affect the provisions of ERISA section 203(a)(3)(B) and code section 411(a)(3)(B) relating to the suspension of benefits for postretirement employment, including the authorization for multiemployer plans to adopt stricter rules for the suspension of subsidized early retirement benefits.
+Spacek , 134 F.3d at 289 (quoting 130 Cong. Rec.
+23,487 (1984)).
+The Fifth Circuit concluded that Representative Clay's remark means that the anti-cutback rule in 1054(g) does not limit the power of the plan to amend the plan to expand the restrictions on post-retirement employment.
+See Spacek , 134 F.3d at 289-90 .
+We find Representative Clay's remark ambiguous at best on the question of whether amendments concerning suspensions for disqualifying employment are outside the coverage of 1054(g).
+11 But even if Representative Clay's understanding of the anti-cutback rule were consistent with the Fifth Circuit's—that suspensions upon disqualifying re-employment represent an additional exception to 1054(g)—we find nothing in the legislative history to indicate that anyone else in Congress shared the understanding attributed to Representative Clay by the Fifth Circuit.
+The parties have not identified, and we have been unable to find, any further reference in the legislative history of the Retirement Equity Act to the exception for suspensions that the Fifth Circuit infers from Representative Clay's remarks.
+12 The absence of any additional support in the legislative history suggests to us that the Fifth Circuit gave undue weight to the statement of Representative Clay, which (as interpreted by the Fifth Circuit) is at odds with the straightforward language of the statute.
+See Barnhart v. Sigmon Coal Co. , 534 U.S. 438 , 122 S.Ct. 941, 953-54 , 151 L.Ed.2d 908 (2002) (rejecting interpretation contained in the floor statements of the statute's sponsors); Monterey Coal Co. v. Federal Mine Safety and Health Review Comm'n , 743 F.2d 589, 596 (7th Cir.1984) (same); Alex v. City of Chicago , 29 F.3d 1235, 1239 n. 3 (7th Cir.1994) ("[I]solated remarks of individual legislators, [can]not be used to find ambiguity, or contrary intent, in statutory language that, with respect to a case in hand, is clear on its own terms without rendering nugatory the 'plain meaning' canon of construction.").
+13 Accordingly, we conclude that Representative Clay's remarks cannot be used to support an exception to the anti-cutback rule for amendments that expand disqualifying employment.
+3.
+Treasury Regulation 26 C.F.R. 1.411(c)-1(f) .
+The court in Spacek also found support in 26 C.F.R. 1.411(c)-1(f) , a Treasury Department regulation concerning the allocation of accrued benefits between employer and employee contributions.
+By way of background, the court first noted that the term "accrued benefit" means the employees' benefit as accrued under the plan, expressed in the form of "an annual benefit commencing at normal retirement age," 29 U.S.C. 1002(23) , 14 or, for early retirement benefits, the actuarial equivalent of the benefit commencing at normal retirement age.
+See Spacek , 134 F.3d at 290 (citing 29 U.S.C. 1054(c)(3) ; 26 C.F.R. 1.411(c)-1(e) ).
+15 The Treasury regulation relied upon by Spacek , 26 C.F.R. 1.411(c)-1(f)(1) , states that in calculating the actuarial equivalent of an accrued benefit, "[n]o adjustment is required on account of any suspension of benefits" if the suspension is permitted under ERISA 203(a)(3)(B)—the section dealing with restrictions on post-retirement employment.
+16 According to the Fifth Circuit, "because the reduction in total benefits paid over the lifetime of the plan participant as a result of the suspension need not be accounted for actuarially in computing the participant's accrued benefit," an amendment "authorizing such a suspension does not serve to decrease the participant's accrued benefits, and thus cannot violate 1054(g)."
+134 F.3d at 291 .
+This reasoning, however, is inconsistent with the language of paragraph (2) of 1054(g), which provides that an amendment that has the effect of eliminating or reducing early retirement benefits shall, for purposes of 1054(g), "be treated as reducing accrued benefits."
+29 U.S.C. 1054(g)(2) , ERISA 204(g)(2) (emphasis added); see Ahng , 96 F.3d at 1036 ; Bellas , 221 F.3d at 523 .
+Whether a benefit is "accrued" for other purposes under ERISA is irrelevant for purposes of 1054(g)(2).
+See Costantino v. TRW, Inc. , 13 F.3d 969, 979-80 (6th Cir.1994) ("There is no inconsistency between Defendant's claim that the definition of 'accrued benefits' excludes [retirement-type] subsidies, and the [Retirement Equity Act's] strategy of protecting subsidies by treating them as 'accrued benefits' in several provisions.
+"); Bellas , 221 F.3d at 523 ("While the definition of an accrued benefit has not been modified, Congress did modify section 204(g) in 1984 to the end that early retirement benefits and retirementtype subsidies were defined as being accrued for purposes of ERISA's anti-cutback provisions.").
+In fact, it was on this basis that we overruled our earlier decision in Meredith v. Allsteel, Inc. , 11 F.3d 1354, 1359-60 (7th Cir.1993), which held that an amendment reducing early retirement benefits did not violate 1054(g) because the benefits were not accrued benefits as defined under 29 U.S.C. 1002(23) .
+See Ahng , 96 F.3d at 1036-37 .
+The portion of the regulation relied upon by the court in Spacek , like the general definition of accrued benefits relied on in Meredith , is simply irrelevant to our determination of the scope of 1054(g)(2), which treats amendments that reduce early retirement benefits as reducing accrued benefits.
+The Fifth Circuit reasoned, however, that because the amendment would not decrease "accrued benefits," then the amendment could not violate the anti-cutback rule as applied to full retirement benefits, because for those benefits, the prohibition is limited to amendments that decrease "accrued benefits."
+See 134 F.3d at 291 .
+According to Spacek , applying the anti-cutback rule to amendments governing suspension of early retirement benefits would therefore give early retirement benefits greater protection than full retirement benefits, which is contrary to Congress's intent that early retirement benefits receive the same protection as full retirement benefits.
+Id.
+But Spacek's observation about Congress's intent cuts both ways.
+The question is, same as what?
+Other than perhaps the remarks of Representative Clay (reliance on which, as we just discussed, is problematic), there is nothing in the legislative history of the Retirement Equity Act to suggest that Congress had any specific understanding about whether amendments affecting suspensions of full or early retirement benefits would be covered.
+And we disagree with Spacek's key premise—that for full retirement benefits, 26 C.F.R. 1.411(c)—1(f) means that an amendment expanding the conditions triggering a suspension would not be covered by the anti-cutback rule.
+As Spacek points out, the regulation instructs that in calculating the accrued benefit, no actuarial adjustment need be made to account for the decrease in total benefits paid as a result of the suspension.
+See 134 F.3d at 290 .
+This is consistent with ERISA 203(a)(3)(B), 29 U.S.C. 1053(a)(3)(B) , which states that a suspension for certain post-retirement employment is not a forfeiture.
+But it does not necessarily follow that, because no actuarial adjustment is required, an amendment concerning suspensions cannot decrease accrued benefits.
+To say that a suspension is not a forfeiture (or does not decrease accrued benefits) is not the same as saying that a change in the rules governing suspensions cannot decrease accrued benefits.
+In other words, we can conclude from the regulation that a preexisting plan provision suspending benefit payments would not decrease accrued benefits; the regulation says nothing, however, about a change in the rules regarding suspensions.
+And if we view "accrued benefits" as including the conditions on receiving those benefits, then the amendment , by increasing those conditions, decreases accrued benefits.
+Spacek's logic therefore depends on interpreting the term "accrued benefits" as including only the periodic payment, but excluding the conditions affecting the participant's ability to receive that amount.
+There is nothing in the statutory definition that compels this interpretation, and we are persuaded that our interpretation is closer to ERISA's purpose of protecting anticipated benefits.
+See generally Hickey , 980 F.2d at 468 ("ERISA protects the benefits described in the Plan by ensuring that, if a pensioner is promised a benefit and fulfills the conditions required to receive it, the pensioner will actually receive the described and promised benefit.
+"); LANGBEIN & WOLK, supra , at 121-22.
+Another regulation, moreover, supports our conclusion that Spacek's construction is too narrow.
+That regulation, 26 C.F.R. 1.411(d)-4 , which contains the Treasury Department's interpretation of 26 U.S.C. 411(d)(6) (the counterpart of the anti-cutback rule in the Internal Revenue Code), interprets the anti-cutback rule as applying to amendments that impose further restrictions or increase the conditions affecting benefits that have already accrued.
+The regulation begins by defining " section 411(d)(6) protected benefits" as including any benefit that is described in 26 U.S.C. 411(d)(6)(A) & (B) (the counterpart in the Internal Revenue Code of the anti-cutback rule in 29 U.S.C. 1054(g) ).
+26 C.F.R. 1-411(d)-4 Q & A-1.
+It then provides that: The addition of employer discretion or objective conditions with respect to a section 411(d)(6) protected benefit that has already accrued violates section 411(d)(6).
+Also, the addition of conditions (whether or not objective) or any change to existing conditions with respect to section 411(d)(6) protected benefits that results in any further restriction violates section 411(d)(6).
+26 C.F.R. 1.411(d)-4 Q & A-7.
+The section of the anti-cutback rule dealing with early retirement benefits does not limit the prohibition to a decrease in "accrued benefits," but rather says that an amendment that "has the effect of—eliminating or reducing" benefits will "be treated as reducing accrued benefits."
+29 U.S.C. 1054(g)(2) .
+Reading this language to include an amendment increasing conditions is straightforward, and we decline to abandon this plain reading in favor of the Fifth Circuit's interpretation of the term "accrued benefits," which is neither compelled by the statutory definition nor supported by legislative history or other persuasive authority.
+17 III.
+CONCLUSION Nothing in ERISA, the legislative history of the Retirement Equity Act, or the Treasury regulation relied upon by the court in Spacek persuades us to depart from our conclusion that 29 U.S.C. 1054(g) unambiguously applies to the amendment in this case, which reduced plaintiffs' early retirement benefits by expanding the conditions triggering a suspension of benefit payments.
+Because our interpretation of 1054(g) resolves this appeal, we need not reach the plaintiffs' alternative argument that the Fund trustees' interpretation of the amendment's definition of disqualifying employment to include supervisory work was arbitrary and capricious.
+The judgment of the district court is REVERSED, and the case is REMANDED for further proceedings.

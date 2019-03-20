@@ -1,0 +1,341 @@
+ OPINION LUTTIG, Circuit Judge: Appellant Wachovia Bank, a national banking association with its principal place of business in North Carolina, appeals from the district court's denial of its petition to compel arbitration of claims that appellee Daniel G. Schmidt III brought against Wachovia in state court.
+On appeal, Schmidt argues for the first time that the district court lacked diversity jurisdiction to entertain Wachovia's petition because Wachovia operates branch offices in South Carolina, the state of which Schmidt is a resident.
+We must therefore decide whether a national banking association is, within the meaning of 28 U.S.C. 1348 , "located" in a state in which the banking association operates branch offices, and therefore a citizen of that state for purposes of diversity jurisdiction.
+Because we conclude that a national bank is located where it operates branch offices, we vacate the judgment of the district court and remand with instructions to dismiss for lack of jurisdiction.
+I. Appellant Wachovia Bank ("Wachovia") is a national banking association with its principal place of business in Charlotte, North Carolina.
+Appellant's Supp. Br. at 1.
+Wachovia operates branch offices in a number of other states, including South Carolina.
+Id. Appellee Daniel G. Schmidt III ("Schmidt") is a citizen of South Carolina.
+J.A.
+114.
+On April 10, 2003, Schmidt and other plaintiffs filed a complaint in South Carolina state court, naming Wachovia and others as defendants.
+J.A.
+117.
+The complaint alleged, inter alia , that the defendants fraudulently induced the plaintiffs to engage in a risky tax-motivated investment scheme.
+J.A.
+146-48.
+On June 18, Wachovia filed a petition in the United States District Court in South Carolina seeking an order compelling arbitration and a motion to compel arbitration of the state claims, naming Schmidt and related business entities as defendants.
+J.A.
+113.
+As the sole basis of jurisdiction, Wachovia's petition invoked the diversity jurisdiction of the district court under 28 U.S.C. 1332 .
+J.A.
+114.
+The district court denied Wachovia's petition and motion, without addressing its subject matter jurisdiction, J.A.
+380-90, and Wachovia appealed.
+For the first time, Schmidt argues before us that diversity is lacking because Wachovia is "located" in South Carolina, within the meaning of 28 U.S.C. 1348 .
+II.
+Section 1348 of title 28 of the United States Code provides in full: The district courts shall have original jurisdiction of any civil action commenced by the United States, or by direction of any officer thereof, against any national banking association, any civil action to wind up the affairs of any such association, and any action by a banking association established in the district for which the court is held, under chapter 2 of Title 12, to enjoin the Comptroller of the Currency, or any receiver acting under his direction, as provided by such chapter.
+All national banking associations shall, for the purposes of all other actions by or against them, be deemed citizens of the States in which they are respectively located .
+28 U.S.C. 1348 (emphases added).
+Schmidt contends that Wachovia, which operates branch offices in South Carolina, is "located" in that state, and that the district court therefore lacked jurisdiction.
+We agree.
+Three traditional tools of statutory interpretation in combination—the ordinary meaning of "located," its use in juxtaposition with the contrasting term "established" in the immediately preceding sentence in section 1348, and the Supreme Court's construction of "located" in a parallel venue statute in Citizens and Southern National Bank v. Bougas , 434 U.S. 35 , 98 S.Ct. 88 , 54 L.Ed.2d 218 (1977)—confirm that "located" should be construed so as to render banking associations citizens of the states in which they operate branch offices.
+A. It is an axiom of statutory interpretation that the plain meaning of an unambiguous statute governs, barring exceptional circumstances.
+See, e.g. , Rubin v. United States , 449 U.S. 424, 430 , 101 S.Ct. 698 , 66 L.Ed.2d 633 (1981).
+Where, as here, the statute does not provide an express definition for the term in question, "we construe [the] statutory term in accordance with its ordinary or natural meaning."
+FDIC v. Meyer , 510 U.S. 471, 476 , 114 S.Ct. 996 , 127 L.Ed.2d 308 (1994).
+In ordinary parlance, the word "located" is a general term referring to physical presence in a place.
+See, e.g. , Webster's Third New International Dictionary 1327 (1993) (defining "locate" as "to set or establish in a particular spot or position," and "location" as "a position or site occupied or available for occupancy"); Black's Law Dictionary 958 (8th ed.2004) (defining "location" as [t]he specific place or position of a person or thing").
+This was equally true in 1948, when section 1348 was enacted, and in 1887, when the phrase "citizens of the States in which they are respectively located" was first added to the predecessor statute to section 1348, see Act of Mar. 3, 1887, ch.
+373, 4, 24 Stat. 552, 554-55 ("the 1887 Act").
+See, e.g. , Black's Law Dictionary 1089 (4th ed.1968) (defining "location" as "site or place"); 8 Oxford English Dictionary 1081 (2d ed.1989) (defining "locate" as "[t]o fix or establish in a place; to settle; pass.
+to be settled, stationed, or situated," and providing examples of usage from 1807 through 1896 that universally involve physical presence in a place).
+Moreover, the sixth edition of Black's Law Dictionary , one of the few sources to consider the past participle "located" separately as a general legal term, emphasized the connotation of physical presence.
+See Black's Law Dictionary 940 (6th ed.1990) (defining "located" separately as "[h]aving physical presence or existence in a place" (emphasis added)).
+Accordingly, the ordinary meaning of "located" suggests that a national bank is "located" wherever it has physical presence.
+It is indisputable that a national banking association becomes physically present in a state when it opens branch offices in that state and conducts business there.
+See, e.g. , 12 U.S.C. 92 (authorizing any national bank "located and doing business in any place the population of which does not exceed five thousand inhabitants" to operate as an insurance agent (emphasis added)).
+It follows that, within the ordinary meaning of "located," a national banking association is "located" wherever it operates branch offices.
+Indeed, the ordinary meaning of "located" so naturally includes branch offices that a unanimous panel of the Second Circuit commented that section 1348 includes branch offices, without seeing any need for further analysis.
+See World Trade Center Properties, LLC v. Hartford Fire Ins. Co. , 345 F.3d 154, 161 (2d Cir.2003) ("Defendant Wells Fargo is a national bank and by statute is deemed to be a citizen of every state in which it has offices ."
+(emphasis added) (citing 28 U.S.C. 1348 )); see also United Republic Ins. Co. v. Chase Manhattan Bank , 315 F.3d 168, 169-70 (2d Cir.2003) (per curiam) (remanding to the district court to determine whether diversity jurisdiction existed in light of the fact that the defendant bank operated offices in the plaintiff's state).
+The Seventh Circuit has come to a contrary conclusion, holding that "located" in section 1348 refers only to a bank's principal office and the office listed in its organization certificate.
+See Firstar Bunk v. Faul , 253 F.3d 982, 993-94 (7th Cir. 2001); see also Norton v. Bank One , 387 F.3d 426 , 2004 WL 2224867 (5th Cir.2004) (adopting the same result on similar reasoning).
+While the Seventh Circuit's holding rests largely upon a purposive, historical analysis of the statute, which we address below, see infra , it also suggests that the word "located" is ambiguous as between any physical presence and a single, unique physical presence.
+See id. at 987 ("[W]hat we are trying to determine is the number or scope of places where a national bank is fixed or established.
+Some definitions do suggest that 'locate' refers to a particular or specific location.").
+But this supposed ambiguity is not found in the ordinary meaning of "located."
+Although the definitions cited by the Seventh Circuit (and us) do refer to a "particular or specific location," see id. (quoting Webster's Third at 1327), they do not include any requirement that the "particular or specific location" be unique or exclude other distinct locations.
+Nothing in these definitions suggests that an extended entity like a national banking association cannot occupy, and thus be "located," in multiple "particular or specific locations" at once.
+In fact, given that "locate" referred to tracts of land in one of its original applications, see 8 Oxford English Dictionary at 1081 (defining "locate" as [t]o appoint the place or situation of (the lands referred to in a grant)" and citing usage from 1765 through 1780); cf. Webster's Third at 1327 (defining "location" as "an area or tract of land"), it would be odd to restrict the term's application to a unique site in the case of other extended entities.
+A tract of land that stretches across the border of North and South Carolina is "located" in both states, not just North Carolina.
+Likewise is a national bank with its principal office in North Carolina and branch offices in South Carolina "located" in both states.
+In light of these definitions, the dissent's conclusion that the word "located" is ambiguous is puzzling.
+In maintaining that the term "located" is ambiguous, the dissent cites four definitions, all of which establish that "located" refers to a specific place or position.
+See post at 434 & n.2 (citing definitions that define "located" in terms of "specific place or position," "a particular spot or position," "site or place," and "fix or establish in a place").
+But the dissent plainly does not attempt to defend the erroneous inference that the Seventh Circuit drew, namely that the specificity of the position connoted by "located" implies uniqueness of that position; the dissent openly concedes that the word "located" could encompass multiple branch offices in multiple states.
+See post at 434 ("In this proceeding, 'located' could refer to any state in which Wachovia has established branch offices.").
+Thus, every definition the dissent cites supports our conclusion that the word "located" unambiguously includes branch offices, because branch offices plainly have a "specific place or position," are clearly located in a "particular spot or position," and are certainly "fixed or established in a site or place."
+See post at 434 & n.2.
+Because the dissent cites only definitions that clearly support our interpretation of the word "located," we are at a loss as to how to address its entirely unsupported conclusion that the word is ambiguous with respect to branch offices.
+B. The Supreme Court's decision in Citizens and Southern National Bank v. Bougas , 434 U.S. 35 , 98 S.Ct. 88 , 54 L.Ed.2d 218 (1977), gives authoritative support to our reliance on the ordinary meaning of "located" in section 1348.
+In Bougas , the Supreme Court interpreted "located" in the former venue statute for national banking associations to include branch offices.
+Id. at 37 , 98 S.Ct. 88 .
+Bougas must control our interpretation of "located" in the parallel jurisdiction statute for national banks for two reasons: first, in a statutory context almost identical to section 1348, the Bougas Court applied the canon that different statutory terms in the same section (as those appearing in section 1348, see discussion infra ) should be given different meanings; and second, the venue and jurisdiction statutes should be treated as in pari materia , so that the Supreme Court's construction of a term in one statute must control the meaning of the identical term in the other.
+i. It is a principle of statutory interpretation that different words used in the same statute should be assigned different meanings whenever possible.
+See, e.g. , Cunningham v. Scibana , 259 F.3d 303, 308 (4th Cir.2001) ("The use of different terms within related statutes generally implies that different meanings were intended."
+(quoting 2A Norman J. Singer, Sutherland's Statutes and Statutory Construction 46.06, at 194 (6th ed.2000))); cf. White v. Lambert , 370 F.3d 1002, 1011 (9th Cir.2004) ("It is axiomatic that when Congress uses different text in 'adjacent' statutes it intends that the different terms carry a different meaning.").
+Section 1348 uses two distinct terms to refer to the presence of a banking association: "established" and "located."
+The first sentence grants the district courts jurisdiction over "any action by a banking association established in the district for which the court is held" to enjoin the Comptroller of Currency or his receiver under chapter 2 of title 12.
+28 U.S.C. 1348 (emphasis added).
+The second sentence says that, for general jurisdictional purposes, national banks shall be "deemed citizens of the States in which they are respectively located ."
+Id. (emphasis added).
+These distinct terms can be given distinct meanings, because a national bank can have two different kinds of presence.
+First, a bank can have the generic physical presence of operating an office in a state or district.
+Second, every national banking association is required to designate in its organizational certificate "[t]he place where its operations of discount and deposit are to be carried on."
+12 U.S.C. 22 .
+This specific charter location is typically (though apparently it need not always be) the principal place of the bank's business.
+See Firstar Bank , 253 F.3d at 994 n. 6 ("[A] national bank denominating a state other than its principal place of business in its organization certificate apparently either never occurs or is exceedingly rare.").
+To give independent meaning to the distinct terms in section 1348, it is most reasonable to understand the place where a national bank is "established" to refer to a bank's charter location, and to understand the place where it is "located" to refer to the place or places where it has a physical presence.
+This interpretation accords not only with the ordinary meaning of "located," which refers to physical presence in general terms, see supra , but also with the ordinary meaning of "established," which connotes specifically an original and permanent location.
+See, e.g. , Webster's Third at 778 (defining "establish" as "to place, install, or set up in a permanent or relatively enduring position esp.
+as regards living quarters, business, social life, or possession," or "to bring into existence, create, make, start, originate, found, or build usu[ally] as permanent or with permanence in view " (emphases added)).
+A national bank is originally and permanently established at its main office, which cannot be moved more than thirty miles outside the city of its original location, and even then only with approval of two-thirds of the shareholders and the Comptroller of Currency.
+See 12 U.S.C. 30(b) .
+A bank is thereafter and temporarily located at its branch offices, which it can open and move at will, subject to the approval of the Comptroller.
+See 12 U.S.C. 36(i) .
+In Citizens and S. Nat'l Bank v. Bougas , 434 U.S. 35 , 98 S.Ct. 88 , 54 L.Ed.2d 218 (1977), the Supreme Court attributed the same two definitions to "established" and "located" in the former venue statute for national banks.
+The prior version of 12 U.S.C. 94 at issue in that case read as follows: Actions and proceedings against any association under this chapter may be had in any district or Territorial court of the United States held within the district in which such association may be established , or in any State, county, or municipal court in the county or city in which said association is located having jurisdiction in similar cases.
+Bougas , 434 U.S. at 35-36 , 98 S.Ct. 88 (emphasis added) (quoting Rev. Stat. 5198, as amended by Act of Feb. 18, 1875, ch.
+80, 1, 18 Stat. 316, 320).
+The Court noted that the lower courts had reached no consensus on the meaning of "located," but had unanimously concluded that "established" referred to a bank's charter location.
+See Bougas , 434 U.S. at 39 , 98 S.Ct. 88 ("The lower federal courts appear to be unanimous in holding that a national bank is 'established' only in the federal district that encompasses the place specified in the bank's charter.
+"); see also, e.g. , Leonardi v. Chase Nat'l Bank , 81 F.2d 19, 22 (2d Cir.1936), cert. denied , 298 U.S. 677 , 56 S.Ct. 941 , 80 L.Ed. 1398 (1936) ("[T]he district in which the national bank has its principal place of business and which contains the place recited in its charter should be taken as the proper district for suits against a national bank.").
+The Court determined that "located," used in close conjunction with "established" in the same statute, must be given a different meaning: "[T]he two words are different Whatever the reason behind the distinction in the words, it does exist, and we recognize it."
+Bougas , 434 U.S. at 44 , 98 S.Ct. 88 .
+The Court concluded that a national bank was "located" in any county where it operated a branch office.
+Id. at 38 , 98 S.Ct. 88 .
+The principle that different terms conjunctively used in the same statute should be given different meanings is identically applicable here.
+Indeed, section 1348 includes the very same words "established" and "located," used in similarly close proximity and in a highly similar context, as did the former version of 12 U.S.C. 94 .
+1 As in Bougas , the two words must be given their distinct meanings.
+Acknowledging this principle of interpretation, the Seventh Circuit argued that the two words in section 1348, "established" and "located," could be given different meanings by construing the place where a bank is "established" to refer to a bank's charter location, and the place where it is "located" to refer to a bank's principal place of business—though the two are almost invariably identical.
+See Firstar Bank , 253 F.3d at 992, 994 n. 6.
+Here, Wachovia makes the related observation that branch banking was not permitted for national banks until the McFadden Act of 1927.
+See Act of Feb. 25, 1927, ch.
+191, 7, 44 Stat. 1224, 1228; see also Act of June 16, 1933, ch.
+89, 23, 48 Stat. 162, 189-90 ("the 1933 statute") (permitting national bank branches in places other than the charter location); Bougas , 434 U.S. at 43 , 98 S.Ct. 88 (noting that the McFadden Act only permitted national bank branches in the same city as the charter location, and that "[i]t was not until 1933 that Congress approved, upon specified conditions, national bank branches beyond the place named in the charter").
+Thus, Wachovia argues, at the time of the 1887 Act's enactment, "located" could only refer to the principal office of a bank, which was always identical to the charter location.
+See Appellant's Supp. Br. at 3.
+As to the Seventh Circuit's interpretation, which has been embraced by the Fifth Circuit, one might object that, as a matter of practical effect, it fails to give independent meanings to the terms "located" and "established" in section 1348, because the bank's charter location is almost invariably the same as its principal place of business.
+See Firstar Bank , 253 F.3d at 994 n. 6.
+But we do not rest our disagreement with the Seventh Circuit's application of the statutory canon that different terms should be given different meanings on this ground; rather, we rest our disagreement with our sister circuit on the utterly implausible construction that its interpretation places upon the term "located."
+We simply do not believe that the place in which a bank is "located" can fairly be understood, without specialized definition (express or contextual), to refer to the place where it primarily conducts its business.
+And if a bank is said to be "located" only in the place in which it primarily conducts its business, and in no other place in which it is physically located—as the Seventh Circuit has held—then we are certain that words have little if any meaning beyond that which the particular speaker employing them says they do.
+In sum, if Congress wishes to specify principal place of business and thereby exclude branch locations, it can easily do so. And in fact it has done so elsewhere.
+See, e.g. , 12 U.S.C. 94 (restricting venue of suits against national banking associations to federal district courts and state courts in districts and counties "in which that association's principal place of business is located" (emphasis added)).
+But it did not do so in section 1348, and we should not interpret the provision as if it did.
+Wachovia's closely related historical argument is likewise unavailing.
+Wachovia suggests that, because "located" in the 1887 Act could refer only to a bank's principal office prior to the advent of branch banking in 1927, "located" in section 1348 likewise must be read to refer only to a bank's principal office.
+See Appellant's Supp. Br. at 5.
+The Supreme Court was unpersuaded in Bougas by a similar argument regarding the venue statute, see 434 U.S. at 43 , 98 S.Ct. 88 , and we agree that this logic must be rejected here as well.
+Under traditional tools of interpretation, the statutory history that Wachovia describes actually supports the opposite conclusion: Congress' readoption of the general term "located" in 1948, after it became possible for national banks to locate to other states through branch offices, confirms that Congress did not intend to restrict the term to a bank's principal place of business.
+In 1927, it first became possible (in ordinary parlance) for a national bank to be "located" in a place either through its principal office or through its branch offices.
+Congress was aware of this change, having effected the change itself.
+Because, in reenacting section 1348, Congress did not specify "principal" or "branch" location, but instead retained the general term "located," history reveals, if anything, that Congress did not intend to restrict the meaning of "located" beyond its meaning in ordinary parlance and did intend to bring branch offices within the scope of the section.
+Therefore, the words "established" and "located" should be given distinct meanings in section 1348.
+As the Supreme Court acknowledged in Bougas , "established" most naturally refers to charter location, while "located" most naturally refers to the site of any office.
+Bougas , 434 U.S. at 44 , 98 S.Ct. 88 .
+ii.
+The Supreme Court's interpretation of "located" in Bougas controls the meaning of "located" in section 1348 for another reason as well.
+Because the jurisdiction and venue statutes pertain to the same subject matter, namely the amenability of national banking associations to suit in federal court, under the in pari materia canon the two statutes should be interpreted as using the same vocabulary consistently to discuss this same subject matter.
+In Bougas , the Supreme Court held that the word "located" in the version of the federal venue statute then in effect referred to branch locations.
+See Bougas , 434 U.S. at 45 , 98 S.Ct. 88 .
+The version of the venue statute interpreted in Bougas was enacted in 1875, and was thus in effect when section 1348 was enacted in 1948.
+See Act of Feb. 18, 1875, ch.
+80, 1 , 18 Stat. 320 .
+As described above, section 1348 reflected the terminology of the venue statute by using both "established" and "located" to refer to the presence of national banks.
+See supra .
+Section 1348, the jurisdictional statute, thus adopted precisely the same vocabulary to describe banks' presence as did the then-existing venue statute.
+Statutes that are in pari materia or relating to the same subject matter are to be interpreted in light of, and consistently with, one another.
+United States v. Stewart , 311 U.S. 60, 64 , 61 S.Ct. 102 , 85 L.Ed. 40 (1940) ("[A]ll acts in pari materia are to be taken together, as if they were one law.").
+This interpretive principle is especially applicable when the two statutes adopt a single consistent vocabulary in reference to the same subject matter.
+See, e.g. , Oscar Mayer & Co. v. Evans , 441 U.S. 750, 756 , 99 S.Ct. 2066 , 60 L.Ed.2d 609 (1979) (construing a provision of the ADEA that was "almost in haec verba with" a provision of Title VII to reflect judicial constructions of the Title VII provision); United States v. Srnsky , 271 F.3d 595, 602 (4th Cir.2001) (arguing that the "nearly identical language" in adjacent statutory subsections must be read in pari materia ).
+Here, section 1348 adopted the same vocabulary—the terms "established" and "located"—to refer to the same subject matter, namely the location of national banking associations in relation to their capacity for suit, as did the former venue statute.
+Since the Supreme Court in Bougas provided the definitive construction of those terms in the venue statute, the in pari materia canon directs us to adopt the same construction for the jurisdiction statute.
+2 In refusing to apply the in pari materia canon, the Seventh Circuit maintained that section 1348 and the former 12 U.S.C. 94 should not be treated as in pari materia because, though they addressed similar subject matters , they did not serve similar legislative purposes .
+See Firstar Bank , 253 F.3d at 990 ("A number of cases have refused to apply the canon to laws superficially relating to similar subjects where a finer examination revealed that the purposes underlying the laws varied.").
+But the cases relied on by the Firstar Bank court did not address identical terms applied in similar statutes to the same very specific subject matter , instead, they addressed the interpretation of wholly distinct terms applied to distinctly different subjects.
+See United States v. Granderson , 511 U.S. 39, 50-51 , 114 S.Ct. 1259 , 127 L.Ed.2d 611 (1994) (refusing to interpret "original sentence" in light of the use of "supervised release" in another statute, and rejecting the argument that "the discrete, differently worded probation and supervised release revocation provisions should be construed in pari materia " (emphasis added)); Fort Stewart Schools v. Federal Labor Relations Authority , 495 U.S. 641, 647-48 , 110 S.Ct. 2043 , 109 L.Ed.2d 659 (1990) (refusing to read "conditions of employment" in a labor statute to exclude wages just because other labor statutes dealing with other subject matters in "entirely different fields of employment" had listed wages separately from conditions of employment).
+In contrast, in the case of section 1348, Congress adopted a set of specific terms to refer to the same very specific subject matter, namely describing the physical presence of national banking associations to determine their capacity for and amenability to suit in federal courts.
+In such circumstances, application of the in pari materia canon reflects the judgment that Congress, like other rational speakers, uses words consistently when speaking about similar subjects, regardless of its generalized purposes.
+Therefore, the two statutes should be treated as in pari materia and the Supreme Court's interpretation of "located" in Bougas must control the meaning of the same term in section 1348.
+In fashion similar to that of the Seventh Circuit, the dissent urges that the in pari materia canon should not apply because there are "significant meaningful distinctions" between the doctrine of venue and the provision for diversity jurisdiction.
+Post at 36 .
+But in what amounts to a full concession of the applicability of the canon, the dissent admits that the relevant subject matters of the venue and diversity jurisdiction statutes are identical: as the dissent frankly acknowledges both "concern whether a national bank may initiate suit or be sued in federal court."
+Id. The further observation made by the dissent that venue serves litigants' convenience while diversity jurisdiction is concerned with bias does not defeat the application of the canon.
+To permit it to do so would be to insist upon far too specific a congruity of purpose; no two statutes would ever be sufficiently similar to warrant application of the canon.
+And courts have never insisted on such absolute identity of purpose.
+See, e.g. , Simpson v. Union Oil Co. , 377 U.S. 13, 24 , 84 S.Ct. 1051 , 12 L.Ed.2d 98 (1964) (patent law and antitrust law are in pari materia ); Am. Cyanamid Co. v. FTC , 363 F.2d 757 , (6th Cir.1966) ("The Federal Trade Commission Act may be construed in pari materia with the Sherman and Clayton Acts.
+"); Hallenbeck v. Penn.
+Mut. Life Ins. Co. , 323 F.2d 566, 571 (4th Cir.1963) ("It is well established that statutes which relate to the same persons or things, or the same class of persons or things, or have a common purpose may be regarded as 'in pari materia.'"
+(emphasis added)).
+Indeed, the very treatise that the dissent cites summarizes the criteria for applying the canon this way: "The guiding principle is that if it is natural and reasonable to think that the understanding of members of the legislature or persons to be affected by a statute, be influenced by another statute, then a court called upon to construe the act in question should also allow its understanding to be similarly influenced."
+2B Sutherland's Statutory Construction 51.03, at 212.
+Here, of course, not only is it eminently "natural and reasonable" to think that Congress, in describing the presence of national banking associations to determine their capacity to sue and be sued in federal courts, would use the words "established" and "located" consistently in the two statutes; the opposite conclusion would be un natural and un reasonable.
+Even if the two statutes are not treated as in pari materia , the meanings of "established" and "located" in the venue statute still provide highly persuasive evidence of the meanings of the same terms in the jurisdiction statute.
+Identical words, even occurring in unrelated statutes, should be interpreted to have identical meanings whenever reasonably possible.
+See, e.g. , Overstreet v. North Shore Corp. , 318 U.S. 125, 129-30 , 63 S.Ct. 494 , 87 L.Ed. 656 (1943) (construing the phrase "engaged in commerce" in the Fair Labor Standards Act in light of existing constructions of the same phrase in the Federal Employers' Liability Act, without describing the two statutes as in pari materia ); Link v. City of Shelton , 186 Conn. 623 , 443 A.2d 902, 904 (1982) (construing the phrase "in the course of his duty" in the statute in question in light of the same phrase in the "unrelated" workers' compensation statute); see generally 2B Sutherland's Statutory Construction 53:03, at 327-31.
+Furthermore, even if we were to ignore Bougas and to adopt the dissent's suggestion that the diversity jurisdiction statute be interpreted in light of its "historical purpose," namely preventing bias against out-of-state parties, there is no reason to believe that this purpose would lead us to adopt the dissent's construction of section 1348.
+On the contrary, there is not a shred of evidence that Congress, in enacting section 1348, was concerned with shielding national banks from potential bias in the courts of the states where they operate branch offices.
+The only evidence that the dissent even offers is the fact that Congress, in 28 U.S.C. 1332(c)(1) , restricted the citizenship of corporations to the states of incorporation and of principal place of business.
+See post at 37 ("[T]he rationale underlying the concept of diversity jurisdiction led Congress to limit the states where a corporation may be deemed to possess citizenship [sic] ").
+But section 1332(c)(1) does not evidence that, Congress had any universal concern with potential state-court bias against entities with a substantial business presence in a given state.
+Section 1332(c)(1) is more naturally viewed as evidence of Congress' desire to adopt a bright-line rule to govern the citizenship of corporations—or perhaps more appropriately, as evidence merely of corporations' lobbying clout.
+Moreover, as we discuss below, the divergent language of section 1348 suggests that Congress did not intend to adopt the same rule in section 1348 as it adopted in section 1332(c)(1), see infra .
+In short, even if we were to ignore the Supreme Court's construction of "located" and "established" in Bougas , the "rationale underlying the concept of diversity jurisdiction" would still provide no warrant to adopt the dissent's position.
+The notion that Congress believed that national banks that actively conduct business in a state cannot get a fair adjudication of state-law claims in that state's courts is rank speculation, as even the dissent would have to acknowledge.
+In fact, if one were to engage in surmise, it would be just as defensible to conclude that Congress believed it entirely reasonable in such circumstances to deny national banking associations resort to the federal courts, over the courts of the states in which the banks have chosen to locate branch offices; for it might have appeared unseemly to permit the national banks to seek and receive the trust and business of a state's citizens, but at the same time to permit them to refuse, out of distrust of those citizen-customers, to subject themselves to the courts created by those citizens to protect their rights against those who seek, receive, and breach their trust reposed.
+In all events, we certainly would not indulge the former inference as to congressional belief where there is absolutely no evidence of such belief and the language chosen by Congress all but confirms the contrary.
+III.
+Despite the ordinary meaning of section 1348 and its obvious analog in the venue statute interpreted in Bougas , Wachovia persists that "located" is nevertheless ambiguous.
+See Appellant's Supp. Br. at 1 ("[T]he word 'located' lacks any plain or unambiguous meaning when applied to the activities of national banks.
+"); see also Bougas , 434 U.S. at 44 , 98 S.Ct. 88 ("There is no enduring rigidity about the word 'located.'").
+Wachovia argues that "located" in section 1348 must be interpreted to incorporate the settled background understanding of the term.
+See Appellant's Supp. Br. at 3; see also Firstar Bank , 253 F.3d at 988 .
+As an initial matter, we do not believe that the term "located" in section 1348 is ambiguous between "physically present," and "principal place of business" or "principally physically present."
+We think the word simply means "physically present," especially in light of the Supreme Court's definitive construction of the former 12 U.S.C. 94 .
+But even if the meaning of the word were sufficiently indeterminate to justify consulting such extrinsic evidence, no proffered background understanding sheds any light on the meaning of "located" as applied to branch offices .
+No consistent statutory usage, no settled meaning in the case law, and no historical statutory purpose addressed the question whether "located" includes branch offices.
+This issue had never been "clarified by judicial construction" and had never reached any "established understanding" at the time of section 1348's enactment.
+Firstar Bank , 253 F.3d at 988 .
+A. First, Congress did not rely on any settled background meaning other than the ordinary meaning of "located" when it enacted section 1348, because neither the federal banking statutes nor the cases interpreting them had established one.
+Wachovia concedes that Congress' use of "located" and its cognates to refer to national banking associations in federal statutes has been "far from uniform."
+Appellant's Supp. Br. at 1.
+In some sections of title 12, the context makes clear that "location" is being used in a specialized sense to refer only to charter location.
+See, e.g. , 12 U.S.C. 52 (requiring the capital stock certificates of a national banking association to state "the name and location of the association"); 12 U.S.C. 75 (providing for rescheduled annual shareholders' meetings when the meeting day "falls on a legal holiday in the State in which the bank is located"); 12 U.S.C. 182 (requiring notice of intent to dissolve to be published "for a period of two months in every issue of a, newspaper published in the city or town in which the association is located").
+In other sections, the context is clear that "located" is being used in its ordinary or natural sense, to include branch locations.
+See, e.g. , 12 U.S.C. 36 (defining "branch" to include "any branch place of business located in any State"); 12 U.S.C. 92 (authorizing any national bank "located and doing business in any place the population of which does not exceed five thousand inhabitants" to operate as an insurance agent).
+So the statutory usage of "located" does not establish any specialized meaning for the term apart from its ordinary meaning.
+Neither did Congress rely on any settled background meaning of "located" in the case law.
+Apparently only one court considered the issue of branch locations under the 1887 Act prior to enactment of section 1348.
+See Am. Sur. Co. v. Bank of Cal. , 133 F.2d 160, 161-62 (9th Cir.1943) (holding that a national bank is "located" only at its principal place of business under the 1887 Act, on analogy to the parallel rule for corporations).
+That one case is not enough to establish a settled background meaning upon which Congress necessarily implicitly relied in employing the word "located."
+And, as the Supreme Court noted in Bougas , courts disagreed widely about the meaning of "located" in the venue statute when they came to address the issue of branch banks.
+See Bougas , 434 U.S. at 39-41 , 98 S.Ct. 88 (describing "three diverse interpretations" in state courts of the word "located" in the former section 94).
+A line of cases prior to 1948 did interpret "located" to refer to charter location in the former venue statute.
+See, e.g. , Mfr.'s Nat'l Bank v. Baack , 16 F. Cas. 671, 673 (C.C.S.D.N.Y.1871) ("It is quite apparent, from all these statutory provisions, that congress [sic] regards a national banking association as being 'located' at the place specified in its organization certification.
+"); Raiola v. Los Angeles First Nat'l Trust & Savings Bank , 133 Misc.
+630 , 233 N.Y.S. 301, 302 (N.Y.City Ct.1929) (relying on Baack to conclude that "[t]he location of a national banking association is the place specified in its organization certificate"); Leonardi v. Chase Nat'l Bank , 81 F.2d 19, 21-22 (2d Cir.1936) (crediting Baack 's conclusion that "located" refers to charter location and holding that a bank is only "established" at its charter location, not at its branch offices ).
+However, none of these cases confronted the question whether a bank is located at its branch offices.
+On the contrary, the Baack case, which provided the authority for the subsequent cases, was decided long before the McFadden Act, and so necessarily presupposed that charter location was the only candidate for "location."
+Thus Baack did not create an "established understanding" that "located" excludes branch offices; branch offices did not even exist at the time it was decided.
+Similarly, neither Leonardi nor Raiola , in relying on Baack 's characterization of the venue statute, confronted the issue of whether a bank is "located" in those places in which it has branch offices.
+It follows that there was no settled background understanding of "located" as it applied to branch offices prior to 1948.
+This is unsurprising of course, because interstate branch offices did not exist prior to 1933.
+See supra .
+The issue was very seldom raised, much less settled, in the fifteen years between the 1933 statute and the enactment of section 1348.
+B. Undeterred, Wachovia argues that section 1348 must be interpreted in light of a broad historical purpose, which Wachovia characterizes as the intent "to give national banks the same access to diversity jurisdiction as that enjoyed by state corporations and individual citizens generally."
+Appellant's Supp. Br. at 3; see also Firstar Bank , 253 F.3d at 988 ("Congress passed 28 U.S.C. 1348 against an interpretive background which assumed that national banks were to have the same access to the federal courts as state banks and corporations.").
+Wachovia points out that, prior to 1882, Congress had provided general federal question jurisdiction of all suits involving national banks.
+Appellant's Supp. Br. at 2 (citing Petri v. Commercial Nat'l Bank of Chicago , 142 U.S. 644, 648 , 12 S.Ct. 325 , 35 L.Ed. 1144 (1892)).
+But Congress sought to reduce this broad access to the federal courts in statutes enacted in 1882 and 1887.
+The 1882 Act pared back the national banks' access to federal courts by purporting to place them on the same footing as state banks: "[J]urisdiction for suits hereafter brought by or against any [national banking association] shall be the same as, and not other than, the jurisdiction for suits by or against banks not organized under any law of the United States " Act of July 12, 1882, ch.
+290, 4, 22 Stat. 162, 163 ("the 1882 Act").
+Congress replaced this language in the 1887 Act by referring to jurisdictional parity with individual citizens, providing that national banks "shall, for the purposes of all actions by or against them be deemed citizens of the states in which they are respectively located; and in such cases the Circuit and District Courts shall not have jurisdiction other than such as they would have in cases between individual citizens of the same State."
+24 Stat. at 554-55 (1887).
+Wachovia argues that these two Acts established a settled background understanding, re-adopted by Congress in section 1348, that national banks should have the same jurisdictional access to federal courts as state banks and citizens.
+Appellant's Supp. Br. at 2; see also Firstar Bank , 253 F.3d at 993 ("'[L]ocated' should be construed to maintain jurisdictional equality between national banks and state banks or other corporations.").
+For support, Wachovia relies on statements in two Supreme Court cases commenting on the 1882 Act.
+See Petri , 142 U.S. at 649 , 12 S.Ct. 325 (noting that, under the 1882 Act, national banks "were placed in the same category with banks not organized under the laws of the United States"); Leather Mfr.'s Nat'l Bank v. Cooper , 120 U.S. 778, 780 , 7 S.Ct. 777 , 30 L.Ed. 816 (1887) (describing the purpose of the 1882 Act as "to put national banks on the same footing as the banks of the state where they were located for all the purposes of [federal] jurisdiction"); see also Mercantile Nat'l Bank v. Langdeau , 371 U.S. 555, 566 , 83 S.Ct. 520 , 9 L.Ed.2d 523 (1963) ("Section 4 [of the 1882 and 1887 Acts] apparently sought to limit, with exceptions, the access of national banks to, and their suability in, the federal courts to the same extent to which non-national banks are so limited.").
+On the basis of these generalizations, Wachovia would have us hold that "located" in section 1348 must be construed to exclude branch offices.
+As an initial matter, we must observe that, though we are invited to interpret the word "located" in light of a supposed background principle of parity, we are confronted with several different formulations of that parity principle with no guidance on how to select among them.
+The 1882 Act required jurisdictional parity between national banks and state banks , and the Cooper Court commented that it was "intended to put national banks on the same footing as the banks of the state where they were located."
+Cooper , 120 U.S. at 780 , 7 S.Ct. 777 .
+In contrast, the 1887 Act required jurisdictional parity between national banks and individual citizens .
+Yet the Petri Court suggested that the 1887 Act established parity between national banks and "other corporations and individual citizens."
+Petri , 142 U.S. at 651 , 12 S.Ct. 325 (emphasis added) (rejecting the argument that the 1887 Act stripped away all diversity jurisdiction of suits involving national banks).
+Here, Wachovia urges us to "give national banks the same access to diversity jurisdiction as that enjoyed by state corporations and individual citizens generally."
+Appellant's Supp. Br. at 3.
+And the Seventh Circuit called for "jurisdictional equality between national banks and state banks and other corporations."
+Firstar Bank , 253 F.3d at 993 .
+None of these formulations are equivalent.
+Moreover, even if we knew whether this elusive parity principle referred to individual citizens, state banks, state corporations, or all three, it would still be unclear whether that parity was fixed with reference to the jurisdictional access "enjoyed" by these entities in 1948 when section 1348 was enacted , or whether the word "located" in section 1348 must be interpreted to include an evolving reference to the jurisdictional access of state corporations as Congress amends it over the years , as the Seventh Circuit apparently believed.
+See Firstar Bank , 253 F.3d at 994 n. 5 ("Interpreting 28 U.S.C. 1348 , the current version of which was promulgated in 1948, by referencing 28 U.S.C. 1332(c)(1) , enacted ten years later in 1958 , might strike some as incongruous.
+However, the classic judicial task of reconciling many laws enacted over time, and getting them to 'make sense' in combination, necessarily assumes that the implications of a statute may be altered by the implications of a later statute ."
+(emphases added) (internal quotation marks omitted) (quoting United States v. Fausto , 484 U.S. 439, 453 , 108 S.Ct. 668 , 98 L.Ed.2d 830 (1988))).
+But even if we thought the statute was ambiguous enough to warrant consulting such abstract, judicially intuited purposes, and even if the abstract purpose urged upon us were sufficiently definite to provide clear guidance, we would reject Wachovia's historical argument for at least three reasons.
+First, the Supreme Court's characterizations in Petri and Cooper rested on the actual text of the 1882 Act.
+The 1882 Act was couched in terms of jurisdictional parity between national banks and state banks.
+See supra .
+But that text was repealed and replaced in 1887 .
+The 1887 Act described national banks' citizenship in the terms "located" and "established," while including a clarifying clause about jurisdictional parity between national banks and individual citizens.
+See supra .
+But, in 1948, this parity language was also repealed and replaced with section 1348.
+Section 1348, in contrast to both the 1882 and the 1887 Acts, however, includes no reference to state banks, to corporations, or to individual citizens whatsoever.
+Wachovia, thus, would have us conclude that Congress, by progressively eliminating parity language from the jurisdictional statute in two subsequent amendments, was thereby ratifying an abstract parity principle that was directly expressed only in the 1882 Act, fifty years prior to enactment of the statute we interpret .
+This strikes us as a patently unreasonable interpretation.
+Second, even if the 1882 and 1887 Acts could be read to establish a parity principle, and even if we believed that Congress adopted this parity principle in section 1348, it seems clear that any principle formulated in the 1880s would be inapplicable or, at best, neutral as to the issue before us, because interstate branch offices did not exist until 1933.
+Plainly, the parity guaranteed in the 1887 Act, namely parity between national banks and individual citizens , was neutral on the issue of branch offices, because individual citizens do not have anything analogous to branch offices.
+And the Congress that required parity with state banks in 1882 (which parity was repealed in 1887) was not confronted with the possibility that national banks would be conducting business in multiple states.
+The Supreme Court in Bougas made a similar observation on the 1864 predecessor to the former venue statute: It suffices to stress that Congress did not contemplate today's national banking system, replete with branches, when it formulated the 1864 Act; that there are no sure indicators of 1864 congressional intent with respect to a banking system that did not then exist; and that prior to 1927, and indeed, prior to 1933, Congress had no occasion whatsoever to be concerned with state-court venue other than at the place designated in the bank's charter.
+Bougas , 434 U.S. at 43 , 98 S.Ct. 88 .
+Even if Wachovia were correct in arguing that "Congress impliedly consented to the Supreme Court's 'settled meaning' of the statute [in 1948]," Appellant's Supp. Br. at 3, it still could not be correct in arguing that such a "settled meaning" (derived from Supreme Court cases decided in 1887 and 1892) had anything to say about the yet-unforeseen issue of branch banking.
+In other words, even if the parity principle(s) ascribed by the Supreme Court to Congress in the 1882 Act and the 1887 Act were somehow incorporated into the 1948 statute, any such principle would only guarantee that national banks are subject to the rules of diversity jurisdiction , instead of automatically triggering federal question jurisdiction.
+See, e.g. , Petri , 142 U.S. at 648 , 12 S.Ct. 325 (noting that the purpose of the 1882 Act was to eliminate federal "arising under" jurisdiction for suits involving national banks).
+The 1882 and 1887 Acts put national banks on "parity" with state banks and corporations only in this limited sense, namely that the access of all three to the federal courts would now be determined by their citizenship in various states—rather than by the presence of a federal charter.
+See Horton , 387 F.3d at 433 , [ 387 F.3D 426 ], 2004 WL 2224867 , at *4 (rejecting the argument that "this approach achieves the parity Congress intended: a state bank organized in Texas, being a Texas citizen, would not be able to invoke diversity jurisdiction in a suit against a Texas citizen; hence, a national bank located or doing business in Texas should also not be able to invoke diversity jurisdiction against a Texas citizen").
+Despite the dissent's extensive reliance on Petri and Cooper , nothing in these cases can be construed to require that the same rules regarding the technical qualifications for state citizenship must apply both to national banks and to corporations.
+Indeed, nothing in those cases could be construed to require such highly specific, permanently synchronized parity (in the face of statutory language to the contrary), because as the Supreme Court recognized in Bougas , no one envisioned in 1887 that a national bank could ever be a citizen of more than one state.
+3 See Bougas , 434 U.S. at 43 , 98 S.Ct. 88 .
+In fact, Wachovia, the dissent, the Fifth Circuit, and the Seventh Circuit all rely on the following language from Petri as critical evidence for their sweeping "principle of jurisdictional parity": "No reason is perceived why it should be held that congress [sic] intended [in the 1887 Act] that national banks should not resort to federal tribunals as other corporations and individual citizens might."
+Petri , 142 U.S. at 650-51 , 12 S.Ct. 325 .
+See Appellant's Supp. Br. at 2 (quoting this language); post at 435 (same); Firstar Bank , 253 F.3d at 986 (same); Horton , 387 F.3d at 433 & n. 32, 2004 WL 2224867 , at *4 & n. 32 (same).
+4 But, read in context, this language proves the very point we make here, because the Petri Court was addressing and rejecting the argument that the 1887 Act had abolished diversity jurisdiction for national banks altogether .
+See Petri , 142 U.S. at 649-50 , 12 S.Ct. 325 ([I]t is contended that the federal courts cannot exercise the same jurisdiction in respect of national banks, by reason of diverse citizenship, as they possess in controversies between individual citizens of different states.").
+Therefore this language from the Petri Court, and the holding of the Petri case, established only the general conclusion that federal courts could exercise diversity jurisdiction over national banks , just as they do over corporations and individual citizens.
+This is the only "parity principle" in the Petri and Cooper cases, and it is unwarranted (not to mention anachronistic) to cite this language to support the considerably more specific conclusion that the identical criteria of state citizenship must apply to national banks and to corporations.
+Precisely the same analysis applies to the language from the Cooper case quoted by Wachovia, the dissent, the Fifth Circuit, and the Seventh Circuit.
+The Cooper Court remarked that the 1882 Act "was evidently intended to put national banks on the same footing as the banks of the state where they were located for all the purposes of the jurisdiction of the courts of the United States."
+Cooper , 120 U.S. at 780 , 7 S.Ct. 777 ; see also Appellant's Supp. Br. at 2 (quoting this language); post at 435 (same); Firstar Bank , 253 F.3d at 986 (same); Horton , 387 F.3d at 429 , 2004 WL 2224867 , at *2 (same).
+But the issue that the Cooper Court addressed was whether general federal question jurisdiction for national banks had survived the enactment of the 1882 Act; its statement that the 1882 Act placed national banks "on the same footing" as state banks meant merely that the federal question jurisdiction previously enjoyed by national banks, but not by state banks, had indeed been abolished by the 1882 Act.
+See Cooper , 120 U.S. at 781 , 7 S.Ct. 777 ("[S]o long as the act of 1882 was in force, nothing in the way of jurisdiction could be claimed by a national bank because of the source of its incorporation [ i.e. its federal charter].
+A national bank was by that statute placed before the law in this respect the same as a bank not organized under the laws of the United States."
+(emphases added)).
+Likewise, precisely the same analysis also applies to the Langdeau case of 1963, quoted by Wachovia, the Fifth Circuit, the Seventh Circuit.
+In Langdeau , the Supreme Court commented as follows: [T]he 1882 Act and the 1887 Act were designed to overcome the effect of [prior statutes] which allowed national banks to sue and be sued in the federal district and circuit courts solely because they were national banks, without regard to diversity , amount in controversy or the existence of a federal question in the usual sense.
+Langdeau , 371 U.S. at 565-66 , 83 S.Ct. 520 (emphasis added).
+But Wachovia, the Fifth Circuit, and the Seventh Circuit all quote only the very next sentence from Langdeau , which reads as follows: Section 4 [of the 1882 and 1887 Acts] apparently sought to limit, with exceptions, the access of national banks to, and their suability in, the federal courts to the same extent to which non-national banks are so limited.
+Id. at 566 , 83 S.Ct. 520 ; see Appellant's Supp. Br. at 3; Firstar Bank , 253 F.3d at 986 ; Horton , 387 F.3d at 430 , 2004 WL 2224867 , at *2 n. 21.
+By quoting this second sentence out of context, they misleadingly imply that Langdeau supports their interpretation, when in fact Langdeau , like Petri and Cooper , merely confirms that Congress' intent in the 1882 and 1887 Acts was to establish "parity" in the limited sense of abolishing automatic federal question jurisdiction for suits involving national banks.
+Third, and perhaps most tellingly, if Congress desired to "maintain this parity" between national banks and corporations, Firstar Bank , 253 F.3d at 993 , it is very surprising that Congress did not adopt similar language in section 1348 to the language it adopted soon afterward in section 1332(c)(1), enacted in 1958.
+Section 1332(c)(1) provides for dual citizenship of corporations, in the state of incorporation and at the principal place of business, without using the words "located" or "established."
+See 28 U.S.C. 1332(c)(1) .
+Section 1348, by contrast, makes no such explicit provision for singular or dual citizenship.
+Interpreting the diversity jurisdiction statute governing national banks in light of the diversity jurisdiction statute governing corporations, as seems reasonable, we would conclude that Congress' use of entirely different language in the two reflects that it did not intend to adopt the same jurisdictional scheme for national banks as for corporations.
+In sum, Wachovia's attempts to alter the ordinary meaning of "located" by invoking a "settled meaning" of the term decided prior to enactment are unconvincing.
+"Located" carried no settled background meaning in statutory usage or case law, and section 1348 did not adopt any preexisting "parity principle" that might illuminate its meaning here.
+C. Notwithstanding the evident weakness and transparent flaws in the Fifth and Seventh Circuit opinions, the dissent stands on these opinions, as well as the Ninth Circuit's 1943 opinion in American Surety Co. , which interpreted the language of the 1887 Act.
+See post at 435-40 .
+If we believed that raw numbers were relevant, we would point out that the dissent fails to count the Second Circuit's recent observation, though not in holding, that favors our interpretation.
+See World Trade Center Properties , 345 F.3d at 161 ("Defendant Wells Fargo is a national bank and by statute is deemed to be a citizen of every state in which it has offices."
+(citing 28 U.S.C. 1348 )).
+But questions of statutory interpretation are not decided by majority vote of the courts of appeals, and bare citations to decisions by other courts cannot substitute for analysis.
+See McMellon v. United States , 387 F.3d 329 (4th Cir.2004) (en banc) (Luttig, J., dissenting) ("Judicial interpretation is not an exercise in poll-taking.").
+That our sister circuits may disagree with us in any given case is significant only insofar as their reasoning is persuasive.
+Here, that reasoning is simply unconvincing.
+Because statutory interpretation must rest on analysis rather than a tally of judicial dispositions, the dissent's assertion that "prior to 1992, the 'unquestioned' and 'longstanding interpretation' was that 'located' did not include the branches of a national bank," is without significance.
+Post at 436 (alteration omitted) (quoting Horton , 387 F.3d at 428-29 , 2004 WL 2224867 , at *1).
+But it is worth noting that, thus phrased, this observation is hardly ingenuous.
+No court challenged the dissent's construction of the term until 1992 only because there was no such construction available: the first case to address whether "located" in section 1348 included branch offices was the District of Rhode Island's 1992 opinion in Iacono , and that opinion construed the statute precisely as we do today.
+See Conn. Nat'l Bank v. Iacono , 785 F.Supp.
+30, 31 (D.R.I.1992) ("Whether a national banking association can also be deemed a citizen of the state in which its branch offices are 'located' is an issue that has rarely been discussed.").
+And the Iacono decision established the prevailing rule in the district courts prior to the Seventh Circuit's decision in Firstar Bank in 2001.
+See Firstar Bank , 253 F.3d at 985 .
+Thus, the dissent's implication that our holding today departs from some settled weight of authority dating back to the enactment of section 1348 simply does not withstand scrutiny.
+IV.
+The word "located" in 28 U.S.C. 1348 must be interpreted in accordance with its ordinary meaning of "physical presence."
+The Supreme Court's interpretation of the same word in a highly similar context in the Bougas case confirms the correctness of this construction.
+And no contrary background meaning is available counseling against this interpretation.
+Therefore, we hold that a national banking association is "located" under section 1348 in any state where it operates branch offices.
+Because it is unsupported by statutory and historical analysis, the rival interpretation of the dissent and the Fifth and Seventh Circuits amounts to little more than judicial assertion of a policy preference in favor of federal forums for national banking associations.
+This policy may be preferable; indeed, Congress may ultimately adopt this policy by amending the statutory language, as it did to 12 U.S.C. 94 in the aftermath of the Supreme Court's decision in Bougas .
+But our task is to interpret the language that Congress has actually enacted, not to anticipate what language it may enact in the future and judicially amend it accordingly.
+If the statute as written does not effectuate Congress' preference as to forum for such disputes as this, Congress may amend the statute.
+But for the courts to legislate such an amendment would be both to usurp the role of the legislature and to abdicate the role assigned to the judiciary.
+That which the Supreme Court of the United States observed in a directly analogous context fourteen years ago is strikingly fitting to our conclusion today: [Accommodating our diversity jurisdiction to the changing realities of commercial organization is not only performed more legitimately by Congress than by courts, but it is performed more intelligently by legislation than by interpretation of the statutory word 'citizen.'
+We have long since decided that, having established special treatment for corporations, we will leave the rest to Congress; we adhere to that decision.
+Carden v. Arkoma Assocs.
+, 494 U.S. 185, 197 , 110 S.Ct. 1015 , 108 L.Ed.2d 157 (1990).
+Because both Wachovia and Schmidt are citizens of South Carolina, the judgment of the district court is vacated.
+The case is remanded with instructions to the district court to dismiss for lack of federal jurisdiction.
+VACATED AND REMANDED

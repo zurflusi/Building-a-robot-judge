@@ -1,0 +1,130 @@
+ GODBOLD , Circuit Judge: Florida Power & Light Company (FPL) petitions for review of a determination, 1 reached by the Federal Power Commission on a 3-2 vote, that it is a public utility within the meaning of 201 of the Federal Power Act, 16 U.S.C. 824(e) .
+We reverse the Commission and set aside its order.
+The term "public utility" means "any person who owns or operates facilities subject to the jurisdiction of the Commission under sections 824-824h of this title."
+16 U.S.C. 824(e) .
+"The provisions of sections 824-824h of this title shall apply to the transmission of electric energy in interstate commerce and to the sale of electric energy at wholesale in interstate commerce *.
+The Commission shall have jurisdiction over all facilities for such transmission or sale of electric energy."
+16 U.S.C. 824 (b) .
+The Commission asserts jurisdiction on the ground that FPL owns and operates facilities for the transmission of electric energy in interstate commerce.
+Jurisdiction over interstate wholesale sales under 824(b) is not involved.
+1.
+Background.
+FPL's facilities are located wholly within the State of Florida.
+It has no connections at the state line with any out of state system.
+Commission jurisdiction is predicated on transmission interstate of FPL-generated power through its interconnection with other electric systems outside of and within Florida, and receipt by FPL, through these interconnections, of power generated outside of Florida.
+Congress exercised its power under the Commerce Clause and undertook federal regulation in the interstate electric field as a result of the decision of the Supreme Court in Public Utilities Commission of Rhode Island v. Attleboro Steam & Electric Co. , 273 U.S. 83 , 47 S.Ct. 294 , 71 L.Ed. 549 (1927), holding that neither Massachusetts nor Rhode Island had power to regulate the sale by a Rhode Island utility of electric energy to a Massachusetts utility because the sale was in interstate commerce.
+There being at that time no federal regulation of interstate sales by electric utilities, Congress acted to close this gap in effective utility regulation, the "Attleboro gap," by enacting Part II of the Federal Power Act in 1935.
+Jurisdiction of the FPC is not based upon a test of effect on interstate commerce but upon interstate transmission of electric energy (or wholesale sales in interstate commerce, not here applicable).
+16 U.S.C. 824(b) .
+To make clear that Commission jurisdiction extends only to transmission or sales "in interstate commerce," the Congress wrote several specific exclusions into the Act.
+16 U.S.C. 824(a) .
+This caveat and the directive that the Act 16 U.S.C. 824(b) , extend Commission jurisdiction to the limits of but no further than the Attleboro gap.
+Connecticut Light & Power Co. v. FPC , 324 U.S. 515 , 65 S.Ct. 749 , 89 L.Ed. 1150 (1945); Jersey Central Power & Light Co. v. FPC , 319 U.S. 61 , 63 S.Ct. 953 , 87 L.Ed. 1258 (1943).
+16 U.S.C. 824(b) .
+Exemptions are also provided for governmental units and corporations, 16 U.S.C. 824(f) , for one engaged in transmission or sale of electric energy but not otherwise subject to the Act who makes a temporary emergency connection with a public utility subject to the jurisdiction of the Commission, 16 U.S.C. 824a(d) , and for certain international exports, 16 U.S.C. 824a(f) .
+Congress defined interstate transmission as follows: 16 U.S.C. 824(c) .
+The Supreme Court has credited the Congress with determining that "federal jurisdiction was to follow the flow of electric energy, an engineering and scientific, rather than a legalistic or governmental test."
+Connecticut Light & Power Co. v. FPC , supra .
+Jersey Central Power & Light Co. v. FPC , supra , 319 U.S. at 72 , 63 S.Ct. at 959 , 87 L.Ed. at 1269 .
+The concept of following the flow of electric energy from one state to the other was easy to apply in Attleboro .
+A Rhode Island electric company delivered energy over its Rhode Island transmission lines to the facilities of a Massachusetts electric company which had no generating capacity.
+Now generating companies are interconnected with each other nationwide.
+Companies have formed area and regional power pools, with varying degrees of integration and centralized management.
+The Commission itself has power to establish regional districts for voluntary interconnection and coordination of facilities and to promote such interconnection and coordination.
+16 U.S.C. 824a(a) .
+Interconnection has become a fact of life to meet needs, scheduled and emergency, of localized areas and large regions.
+2 2.
+The instant case. FPL produces and sells electric energy in eastern and southern Florida.
+But it is a major electric company.
+3 The Commission opinion describes FPL's interconnections: The Commission position is best explained by quoting from its opinion: The Commission adopted the examiner's findings.
+Two are basic.
+First, that ownership and operation of facilities for interstate transmission was proved by reason of FPL's interconnection with other systems inside and outside of Florida "in electromagnetic unity of response," without any necessity of tracing the path of any interstate electrical energy.
+Second, that if tracing was considered essential, there had been interstate transmission to and from FPL's lines, based on the Commission's staff studies, which were predicated upon the "commingling theory" of the transmission of electric energy.
+It is not clear to us whether the examiner and the majority of the Commission considered commingling as undergirding the electromagnetic unity of response theory or as irrelevant to it.
+The dissenters appeared to treat the two concepts as one, pursuant to which at all times an interconnected network is "permeated" with free flowing electric energy.
+The nature and effects of the concept of "electromagnetic unity of response" were described by the examiner approximately as follows.
+The interconnected systems supply alternating current on the same frequency, 60 cycles per second, with the frequency of each system in synchronism with that of all other systems in the interconnection.
+The speed of all generators on the interconnected systems is irrevocably locked to the same frequency.
+A response mechanism known as tie line bias control regulates output in individual systems so that total overall generation matches as closely as possible the total overall load.
+When at any point a change in load occurs or a generator is taken out of service, this will affect every point on the interconnected systems.
+For example, every connected generator on the interconnected systems will contribute energy to compensate for any additional load to maintain the balance between total overall generation and total overall load and thereby maintain frequency at 60 cycles.
+The immediate effects of load or generation changes are dispersed throughout the electromagnetically interlocked generators of the interconnected systems.
+The magnitude of change in instantaneous generation and frequency will tend to diminish as the distance from the point of load or generation change increases.
+As such changes occur tie line bias control operates to restore the net interchange of power between each system and its neighbors to the former prearranged level.
+4 In our example above, the particular system on which total load increased will automatically increase its own generation to supply the additional load, and the other systems correspondingly will reduce their temporarily increased electric generation.
+No attempt is made to control flows of electric energy in individual lines (in fact, electric systems normally have no control over actual transfers of energy between them, if there is more than one interconnection), because the flows are determined by the electric characteristics of the overall network.
+Only the net of flows is controlled, by increasing or decreasing generation so as to maintain scheduled transmissions of power (both within a system and between systems).
+Thus there is free flow of electric energy throughout the overall network but limited by control of the net of flows, frequency changes, tie line bias, and the responses of generators to load changes.
+The examiner stated that nobody can say for certain just how electricity is really transmitted, but that "the answer is not important for legal purposes."
+He found: We conclude that the complex relationship of cause and effect in interconnected and synchronized systems is, as to FPL, not sufficient to prove the actual transmission of energy interstate.
+It tells us what, as to that company, could occur.
+It does not tell us with any substantial degree of certainty what does occur.
+This is not to say that "electromagnetic unity of response," with the reasonable inferences which may be drawn therefrom, may not be a part of substantial evidence of interstate transmission, as in the "power pool" cases discussed below.
+But, standing alone, as to FPL it is not substantial evidence establishing that when energy flows from Corp's lines to Georgia's lines, either scheduled or in response to frequency drop in the state of Georgia or somewhere further distant, the Florida power transmitted is Corp's plus FPL's and not Corp's alone, and conversely that when energy flows from Corp to FPL it is not Corp's alone but mixed with power generated outside Florida.
+5 The Commission referred, at the end of the excerpt first above quoted, to FPL's contribution of 8 mw to ISG during an outage in the midwest.
+That "contribution" does not necessarily mean that power was transmitted interstate from FPL to the midwest.
+Although the effect of FPL's transmission was to increase the total wattage available to the whole system, the "electromagnetic unity of response" theory is equally compatible with either the Commission's "permeation" assumption or the hypothesis that the power transmitted by FPL was consumed by Corp, another eight mw being passed on by Corp for further use or transmission.
+Turning to the second basic finding, of energy actually traced, the supporting evidence of actual transmissions referred to by the Commission consists of staff studies purporting to trace energy from Georgia through Corp's substations in Florida into FPL's system, and at other times over the same lines from FPL to Corp to Georgia.
+These studies are predicated upon the commingling theory, which is simply a method of conceptualizing the complex and not yet fully explainable flow of electric energy.
+FPL asserted the validity of a different theory, the "systems study method."
+6 The difference between this method and the commingling method relied on by the Commission lies in their assumptions about the nature of the transmission bus, a collection and transmission facility for electric power, for example, a substation.
+The systems study method assumes that it is possible to measure the magnitude and direction of flows within a bus as well as along transmission lines between buses.
+Relying on this assumption, FPL introduced measurements tending to show that for each point in time at which the Commission attempted to trace power from Georgia to FPL there was in fact a reversal in flow through the bus away from FPL's connection either on the Corp-FPL bus or on some other bus earlier in the trace through Corp's system.
+Finding on each bus the connection which brought power from the direction of Georgia, and totaling the inputs and outflows through other connections on the bus in the direction of FPL's connection, FPL calculated that inputs over this part of the bus were greater than outflows.
+Under the systems study assumptions, then, power could only flow in the opposite direction through the bus, away from FPL's connection.
+The staff did not disprove the correctness vel non of these measurements by FPL.
+7 Instead the staff urged that the steady state method of describing the flow of three-phase power is inadequate and that the flow is best conceptualized by the commingling theory.
+Modern electric utilities generate alternating current electricity.
+The steady state method treats the flows and counterflows of alternating current as unidirectional and measures only the net of the flows and counterflows.
+This simply ignores that alternating current is not unidirectional.
+8 The commingling concept too treats power flows as only net quantities.
+But the bus is treated as a "tank" or a "reservoir."
+The energy flowing to each load on the bus is attributed to each source of energy in the proportion that the source contributes to the total energy flowing into the bus.
+If at any instant the net flow of power is toward a system--that is, its load is more than its generation--it is assumed that at that moment some portion of the power being consumed by that system flowed into it from every other system contributing to the "tank" or "reservoir" at the bus. 9 Neither the examiner nor the Commission treated the commingling theory as a scientific fact depicting accurately what does occur but only as the more adequate way to conceptualize actual occurrences.
+10 The Commission expert witness Jacobsen acknowledged commingling has never been verified experimentally as fact.
+The following interchange took place during the hearing before the examiner: In some contexts the commingling method may be a more useful tool for analysis than steady state methods, but this is not to say that it is adequate for all purposes.
+Both suffer from the same vice of creating a construct which departs from the actual manner in which electricity operates and then attempting to trace the consequences.
+The engineering and scientific fact test for interstate flow of energy is not met by postulating a simplified characterization of how, for various purposes of convenience, energy may be treated as flowing.
+3.
+The "engineering and scientific" test based on actual power flow was articulated in Connecticut Light & Power .
+In that case, in the next following words the Supreme Court said: 324 U.S. at 529 , 65 S.Ct. at 756 , 89 L.Ed. at 1160 .
+We do not construe this language as obviating the necessity for showing interstate transmission of power.
+In context the Supreme Court was discussing not the technological transmission test but the exception from FPC jurisdiction of "facilities used in local distribution."
+16 U.S.C. 824 .
+The Commission bears the burden of proving its asserted jurisdiction.
+Public Service Co. of Indiana v. FPC , 375 F.2d 100, 104 (7th Cir.), cert. denied, 387 U.S. 931 , 87 S.Ct. 2054 , 18 L.Ed.2d 992 (1967); Arkansas Power & Light Co. v. FPC , 368 F.2d 376 (8th Cir. 1966).
+In attempting to meet this burden, the Commission does not rely upon the two "straight status" cases that have been adjudicated by the Supreme Court, Connecticut Light and Power and Jersey Central , neither of which supports its approach in this instance.
+Instead it turns to the cases in which jurisdiction has been found over wholesale sales "in interstate commerce" and adapts their methodology.
+Cincinnati Gas & Elec. Co. v. FPC , 376 F.2d 506 (6th Cir.), cert. denied, 389 U.S. 842 , 88 S.Ct. 77 , 19 L.Ed.2d 106 (1967); Public Service Co. of Indiana v. FPC , supra ; Arkansas Power & Light Co. v. FPC , supra ; Indiana & Michigan Electric Co. v. FPC , 365 F.2d 180 (7th Cir.), cert. denied, 385 U.S. 972 , 87 S.Ct. 509 , 17 L.Ed.2d 435 (1966); see also Pennsylvania Water & Power Co. v. FPC , 343 U.S. 414 , 72 S.Ct. 843 , 96 L.Ed. 1042 (1952).
+Pennsylvania Water concerned wholesale sales of an admitted public utility, as defined by the Act, which was part of a system integrated with a Maryland company.
+During periods of low flow on the Susquehanna River it received substantial amounts of power from the Maryland company, and it was not contested that some interstate energy reached each of its customers.
+Each of the four companies in the "power pool" cases from the Sixth, Seventh and Eighth Circuits was likewise a public utility within the meaning of the Act.
+Each of them also participated in an integrated power pool centrally directed to maximize efficiency by economy transfers and to provide emergency power.
+CG&E, PSCI and I&M were all members of the American Electric Power System (AEP) spanning several mid-western states, and Arkansas Power & Light was a member of a similar pool operation including utilities in three southern states.
+Each of these cases rests on far more than interconnection plus electromagnetic unity of response plus commingling.
+In both CG&E and Arkansas Power & Light , limited samples showed that some of the petitioners' wholesale customers received out of state energy.
+In each case, the company's principal contention was that tracing was necessary to establish the presence of out of state energy in its wholesale transmissions to its remaining customers as well.
+In each case the utility's membership in a pool, and its consequent regular purchases for economy and other reasons of power generated in other states, justified an inference that not just some but all of its wholesale sales contained interstate energy.
+In I&M and PSCI , the Commission traced no interstate energy to any wholesale customer.
+In I&M , this may have been unnecessary, since there was evidence that for substantial periods of time Illinois energy supplied at least large portions of north central Indiana and southwest Michigan, thereby bringing this case close to CG&E and Arkansas Power & Light .
+PSCI is the most far-reaching case.
+But the court in that case rested squarely on I&M , finding that the company's participation in the integrated AEP network, in view of the impossibility of tracing, justified the inference that some of the interstate power which demonstrably flowed in PSCI's lines reached each of its wholesale customers.
+We agree with the court in Arkansas Power & Light , supra , 368 F.2d at 383 , n. 8, that establishing wholesale rate jurisdiction over an electric company which is a public utility within the Act is a different matter from establishing plenary jurisdiction over a company based on interstate transmission.
+A consideration in the wholesale sale case is the seeming irrationality of allowing Commission jurisdiction over wholesale sales to which experts can trace some out of state energy, but not over those to which it might be impossible to trace interstate power, when it is obvious that there is interstate power in substantial portions of the utility's system.
+Cf. Arkansas Power & Light , supra .
+Another consideration is the seeming irrationality of a public utility with interstate electric energy flowing in its system escaping FPC jurisdiction over wholesale sales because of impossibility of proof arising from the inadequacy of instruments used by the utility itself.
+Cf. Indiana & Michigan , supra .
+These considerations have little application to the problems of federalism and reservations of power to the states imposed by the instant case, where the issue is one of whether FPL is a public utility at all, measured under tests articulated by the Congress and the courts in terms of actual transmissions of interstate energy.
+Some of the wholesale rate cases have relied heavily on the respective companies' participation in an integrated interstate power pool, which provided power more or less continuously, in substantial amounts, and with economy transfers.
+Neither FPC nor Corp is shown to be a member of such a pool.
+To the extent that the above wholesale rate decisions purport to rest on a theory of commingling, that theory is nowhere discussed in the context in which it is presented in this case. The term "commingled" appears to have originated in Pennsylvania Water , where it was used as a descriptive term for the Court's conclusion that some interstate power must have reached each wholesale customer.
+None of the subsequent power pool cases gives extended discussion to the scientific ramifications of the Commission's similarly conclusory findings that commingled energy reached each wholesale customer.
+The consequences of the Commission's electromagnetic unity theory, with or without the additive of the commingling concept, as a basis for jurisdiction were described by the dissenters in this way: per se any 11 12 section 202 voluntary section 202 The qualities of electric energy have long been familiar.
+If the free flowing character of electricity vel non proved interstate transmission then connection, rather than proving nothing, Jersey Central Power & Light Co. v. FPC , supra , 319 U.S. at 72 , 63 S.Ct. 953 , 87 L.Ed.2d at 1269 , proves everything, if it is made to any point of the synchronized system that spans most of this country.
+The impact of these consequences is pointed up by two other factors: the principle that for determining existence of jurisdiction the quantity of energy transmitted interstate is immaterial, 13 and the implication by the majority of the Commission in the present case that they may be of the view that if the Commission has jurisdiction it cannot in the exercise of discretion decline to exercise it.
+To attach federal agency jurisdiction is to supplant 14 or parallel 15 the regulatory schemes of the states.
+Congress avoided any such entry into the field where the Attleboro gap poses no bar to state regulation.
+What the Commission virtually argues for in this case is extension of its jurisdiction to all electric companies affecting interstate commerce.
+Our society grows increasingly more complex, more dependent upon electric energy, and the interconnection of electric systems is ever more pervasive.
+But such an extension of Commission power, if determined to be in the national interest, is for the Congress and not for this court.
+The petition for review is granted and the order of the Commission is reversed.

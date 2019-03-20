@@ -1,0 +1,248 @@
+ COFFIN , Chief Judge.
+The primary issue presented by this appeal is whether a "consumer" of insurance can sue an insurance company for violating the antitrust laws.
+Under the McCarran-Ferguson Act, 15 U.S.C. 1011-15 , "the business of insurance" is exempted from antitrust regulation to the extent that it is regulated by the states.
+Id .
+1012(b) .
+But McCarran-Ferguson does not confer a blanket immunity: insurers are subject to the Sherman Act if they engage in "act[s] of boycott, coercion, or intimidation" or if they agree to engage in such acts.
+Id .
+1013(b) .
+We must decide whether this exception applies only to insurance company boycotts of agents and other companies or also applies to refusals to deal with policyholders.
+This suit is brought by plaintiffs seeking to represent two classes: all licensed physicians practicing in the state of Rhode Island and all citizens of Rhode Island who are or will be under a doctor's care.
+The defendants are four insurance companies that have sold malpractice insurance to Rhode Island doctors.
+The plaintiffs charged in their amended complaint that these companies violated the nation's antitrust laws by conspiring to shrink the malpractice coverage available to Rhode Island doctors.
+According to the complaint, one company, St. Paul Fire & Marine Insurance Company, changed its future malpractice policies to provide coverage only on a "claims made" basis, rather than an "occurrence" basis.
+1 When St. Paul's disgruntled customers tried to take their business elsewhere, the other insurance companies refused to sell them malpractice policies of any sort.
+Believing this to be the result of an unlawful conspiracy in restraint of trade, plaintiffs sought injunctive relief and treble damages.
+2 The viability of their suit depends on the scope of the McCarran-Ferguson Act.
+15 U.S.C. 1011-15 .
+The Act must be placed in historical context if it is to be understood.
+For many years, from 1869 to 1944, the Supreme Court steadfastly maintained that insurance was not "commerce" and that state regulation of insurance did not impinge on the federal government's power to regulate interstate commerce.
+See, e. g. , Paul v. Virginia , 75 U.S. (8 Wall.)
+168 , 19 L.Ed. 357 (1869).
+In 1944, however, the Supreme Court repudiated the principle that insurance is not commerce and held that federal antitrust laws could constitutionally be applied to insurance companies.
+United States v. South-Eastern Underwriters Ass'n , 322 U.S. 533 , 64 S.Ct. 1162 , 88 L.Ed. 1440 (1944).
+This decision left the nation's insurance companies and the states' regulatory bodies dumbfounded; suddenly, state taxation and regulation of insurance seemed open to serious constitutional doubts.
+Federal authorities were loath to assume the burden of substituting national for state supervision of insurance.
+To restore some certainty, Congress passed the McCarran-Ferguson Act in 1945.
+The Act made it clear that state regulation and taxation of insurance could continue.
+It also narrowed the impact of federal law on the insurance business, stating that "the Sherman Act, .
+.
+.
+the Clayton Act, and .
+.
+.
+the Federal Trade Commission Act .
+.
+.
+shall be applicable to the business of insurance to the extent that such business is not regulated by State law."
+15 U.S.C. 1012(b) .
+This provision allows the states to engage in a kind of "reverse preemption", and the states were quick to enact the necessary laws.
+The parties agree that the defendants' acts were related to the business of insurance and that Rhode Island effectively regulates that business.
+Cf. SEC v. National Securities, Inc. , 393 U.S. 453 , 89 S.Ct. 564 , 21 L.Ed.2d 668 (1969); FTC v. Travelers Health Ass'n , 362 U.S. 293 , 80 S.Ct. 717 , 4 L.Ed.2d 724 (1960).
+The controversy in this case centers on an exception to the "preemptive" powers of the states: "Nothing contained in this chapter shall render the said Sherman Act inapplicable to any agreement to boycott, coerce, or intimidate, or act of boycott, coercion, or intimidation."
+15 U.S.C. 1013(b) .
+The district court concluded that "despite this provision's broad wording, which on first glance seems to support the plaintiffs' position, Congress intended this exception to be narrowly applied and that it does not, in fact, cover the situation presented in this case." It held that the "boycott, coercion, and intimidation" exception was intended by Congress solely to protect insurance agents or other insurance companies from being blacklisted by combinations of companies, and was not intended to have any bearing on the insurer-insured relationship.
+It also observed that a contrary holding would vitiate the McCarran-Ferguson Act by, presumably, cutting deeply into the area of regulation which has been given to the states.
+In so holding, it relied on the only case authorities which had dealt with this issue.
+Addrisi v. Equitable Life Assurance Soc'y , 503 F.2d 725 (9th Cir. 1974), cert. denied , 420 U.S. 929 , 95 S.Ct. 1129 , 43 L.Ed.2d 400 (1975); Meicler v. Aetna Cas. & Sur. Co. , 506 F.2d 732 (5th Cir. 1975); Transnational Ins. Co. v. Rosenlund , 261 F.Supp.
+12 (D.Or.1966).
+Six other district courts have now taken the same view.
+Mathis v. Automobile Club Inter-Ins. Exch. , 410 F.Supp.
+1037 (W.D.Mo.
+1976); Proctor v. State Farm Mut. Auto. Ins. Co. , 406 F.Supp.
+27 (D.D.C.1975); McIlhenny v. American Tit. Ins. Co. , 418 F.Supp.
+364 (E.D.Pa.1976); Royal Drug Co. v. Group Life and Health Ins. Co. , 415 F.Supp.
+343 (W.D.Tex.1976); Seasongood v. K & K Ins. Ag'cy , 414 F.Supp.
+698 (E.D.Mo.1976), rev'd on other grounds , 548 F.2d 729 (8th Cir. 1977) ; Frankford Hosp. v. Blue Cross , 417 F.Supp.
+1104 , 1976-2 Trade Cas. ¶ 61,030 (E.D.Pa.1976).
+3 Since we feel compelled to disagree with this rather formidable array of authorities, we first try to summarize as fairly as we can the bases for their decision.
+We then make our own analysis of the wording of the statute and its legislative history.
+The line of cases begins with Transnational Ins. Co. v. Rosenlund , supra .
+Although the Transnational court found that it was not faced with a boycott even within the ordinary meaning of that word, it announced in passing that the boycott provision pale 261 F.Supp.
+at 26-27 Only blacklisting by an insurance company, the court intimated, was subject to the Sherman Act under this provision.
+The court, though referring broadly to "the legislative history", cited only a single page of the Congressional record in support of this reading.
+91 Cong.Rec.
+1087 (1945).
+Transnational stood alone until 1974, when the Fifth and Ninth Circuits followed its lead.
+The courts of appeals simply adopted without elaboration the Transnational court's discussion of "the" legislative history.
+One reason for taking so narrow a view of the provision was the courts' apparent fear that any other reading would "emasculate", Meicler , supra , 506 F.2d at 734 , or "vitiate", Addrisi , supra , 503 F.2d at 729 , the McCarran-Ferguson Act.
+To fend off this danger, the Meicler court adopted a rule that policyholders or members of the public could not seek the benefit of the boycott provision.
+Later cases have followed these pioneers without adding to their analysis.
+As will be seen, we disagree with the conclusion reached by these courts.
+Simple disagreement might not be enough if the insurance business had long relied on authoritative rulings in other circuits.
+That is not the case here.
+The view we reject was not advanced until 1966, when a single district court suggested it.
+Only in the past three years has its narrow reading of the boycott provision begun to gain more general favor.
+What prevents us from following the trail blazed by the Transnational court is its decision to go behind the statutory language.
+We would be justified in probing legislative history if the language were ambiguous or if, even though unambiguous, the language literally read produced a senseless or unworkable statute.
+Massachusetts Financial Serv., Inc. v. Securities Investor Protection Corp. , 545 F.2d 754 (1st Cir. 1976).
+Cf. United States v. Slater , (1st Cir. Dec. 22, 1976).
+The words "agreement to boycott, coerce, or intimidate, or act of boycott, coercion, or intimidation", within the context of the Sherman Act, do not appear to us as ambiguous.
+In antitrust law, a boycott is a "concerted refusal to deal" with a disfavored purchaser or seller.
+Klor's, Inc. v. Broadway-Hale Stores, Inc. , 359 U.S. 207 , 79 S.Ct. 705 , 3 L.Ed.2d 741 (1959).
+4 Concerted refusals by a number of companies to sell malpractice insurance policies to doctors who were dissatisfied with the policy offered by their insurer would seem to fit within this definition of boycott.
+Indeed appellees make no argument to the contrary.
+Nor do the cases attempt to justify their excursion into legislative history on the basis of ambiguity of language.
+The articulated justification is based on the supposed "vitiation" of the McCarran-Ferguson Act if the boycott provision were to be given its normal Sherman Act scope.
+We observe first that a license to construe statutory words narrowly to avoid defeating legislative purpose is not to be cavalierly exercised.
+Under the McCarran-Ferguson Act, states were given authority to tax and regulate the business of insurance.
+This domain remains a vast one even if the boycott provision is read more broadly than appellees insist.
+McCarran-Ferguson would still insulate state tax and regulatory programs from challenges based on the dormant commerce clause.
+See Prudential Ins. Co. v. Benjamin , 328 U.S. 408 , 66 S.Ct. 1142 , 90 L.Ed. 1342 (1946).
+It would continue to protect the business of insurance from many federal regulatory statutes.
+See, e. g. , SEC v. National Securities, Inc. , supra (securities laws).
+Even within the antitrust field, McCarran-Ferguson would have great significance.
+Only the Sherman Act is made applicable to the business of insurance by the boycott provision; the Clayton and Federal Trade Commission Acts, for example, could still be "preempted" by state regulation.
+Moreover, not every violation of the Sherman Act can be characterized as an act of boycott, coercion, or intimidation.
+See, e. g. , United States v. Aluminum Co. of America , 148 F.2d 416 (2d Cir. 1945) (use of "benign" means to maintain monopoly violates Sherman Act); Standard Oil Co. v. United States , 221 U.S. 1, 43 , 31 S.Ct. 502 , 55 L.Ed. 619 (1911) (predatory pricing).
+Nor would the introduction of antitrust principles into dealings between policyholders and insurers hamstring the state regulatory bodies that have primary responsibility for overseeing the nation's insurance business.
+A necessary regulatory measure could seldom be successfully challenged as a state-inspired "boycott, coercion, or intimidation", for the boycott provision merely guarantees that "[n]othing contained in this chapter shall render the said Sherman Act inapplicable" to boycotts and the like.
+15 U.S.C. 1013(b) [emphasis added].
+The chapter in question is the McCarran-Ferguson Act.
+The boycott provision merely neutralizes that Act, leaving intact the doctrine of Parker v. Brown , 317 U.S. 341 , 63 S.Ct. 307 , 87 L.Ed. 315 (1943), which today insulates state regulatory schemes outside the insurance context from antitrust liability.
+See also Cantor v. Detroit Edison Co. , 428 U.S. 579 , 96 S.Ct. 3110 , 49 L.Ed.2d 1141 (1976).
+Indeed, Parker v. Brown may have added strength in the insurance field because of the policies reflected in the McCarran-Ferguson Act.
+But there is a large difference between allowing a state to fix insurance rates without fear of antitrust sanctions and similarly insulating companies which, outside any state-permitted structure or procedure, agree among themselves that customers dissatisfied with the coverage offered by one company shall not be sold any policies by any of the other companies.
+Contrary to the argument of some of the appellees, giving normal scope to the boycott provision will not plunge federal courts into the enterprise of retroactive rate-making.
+Regulation by the state would be protected; concerted boycotts against groups of consumers not resting on state authority would have no immunity.
+When we look to public policy, the limitation sought by appellees again lacks support.
+Throughout this century, preserving competition by means of the antitrust laws has been a continuing national purpose.
+A primary aim of antitrust law is assuring consumers the benefits of a free market economy.
+To exclude consumers of insurance from the protection afforded by the boycott provision thus cuts against a basic policy of antitrust law.
+Such an interpretation also conflicts with the Supreme Court's view that the McCarran-Ferguson Act as a whole is meant to apply to the relationship between policyholders and their insurers.
+SEC v. National Securities, Inc. , supra , 393 U.S. at 460 , 89 S.Ct. 564 .
+The boycott provision presumably also reflects this concern for the insurer-insured relationship.
+On a broader scale, we note that legislative and judicial exceptions to the general rule favoring free competition have often been narrowed over the years.
+See, e. g. , Cantor v. Detroit Edison Co. , 428 U.S. 579 , 96 S.Ct. 3110 , 49 L.Ed.2d 1141 (July 6, 1976) ("state action" exception restricted); Goldfarb v. Virginia State Bar , 421 U.S. 773, 785-88 , 95 S.Ct. 2004 , 44 L.Ed.2d 572 (1975) ("learned profession" exception questioned); United States v. International Boxing Club of New York, Inc. , 348 U.S. 236 , 75 S.Ct. 259 , 99 L.Ed. 290 (1955) (refusing to extend "baseball" exemption to boxing); Schwegmann Bros. v. Calvert Distillers Corp. , 341 U.S. 384 , 71 S.Ct. 745 , 95 L.Ed. 1035 (1951) (narrow view of Miller-Tydings "fair trade" exception).
+The McCarran-Ferguson Act is of course a legislative exception to the antitrust laws, and it deserves a fair reading.
+5 But the artificial reading of the boycott provision that appellees urge on us can only be characterized as a judge-made expansion of the Act.
+We think the national commitment to a free market places a special burden on courts to think long and hard before creating such exceptions to the antitrust laws.
+In short, the usual reading of "boycott, coercion, or intimidation" does not lead to irrationality, nor does it pose a grave danger to state authority.
+It conforms to the nation's antitrust policies.
+We see no reason, therefore, to look to the legislative history for a special and narrow meaning of these words.
+Nevertheless, in deference to the courts which have found support in that history, we have studied it in detail.
+The decision in South-Eastern Underwriters , supra , was issued on June 5, 1944.
+That decision approved an indictment charging that the members of an insurance underwriters' association "not only fixed premium rates and agents' commissions, but employed boycotts together with other types of coercion and intimidation to force nonmember insurance companies into the conspiracies, and to compel persons who needed insurance to buy only from [association] members on [association] terms."
+322 U.S. at 535 , 64 S.Ct. at 1164 .
+Following that decision, an intensive several-month period of discussion produced a compromise measure agreed to generally by the insurance industry.
+The right of states to collect taxes from insurance companies had been put in doubt; the states' tax collecting effort would normally take place between February 20 and March 10, 1945.
+Thus legislative consideration was expedited, debate taking place between January 25 and February 27, 1945.
+The reports accompanying the bills being debated both referred to the boycott provision, stating "These provisions of the Sherman Act remain in full force and effect."
+6 In the first Senate debate, on January 25, the boycott provision was broadened by a quickly accepted amendment from "Nothing contained in this section shall render the Sherman Act inapplicable to any agreement or act of boycott .
+.
+."
+to "Nothing in this act .
+.
+."
+91 Cong.Rec.
+479 (1945).
+The chief issue debated, reflecting Senator O'Mahoney's concern, was whether the act could be used to authorize attempts to monopolize.
+Senator Ferguson, a sponsor, gave the answer: "No.
+I will answer that by saying that if agreements in restraint of trade or to monopolize amounted either to a boycott and/or coercion and/or intimidation, they would be absolutely void .
+. "
+Id. at 480 .
+The bill was debated in the House on February 14.
+The language concerning "agreement" to boycott had been stricken in committee, but the deletion was challenged by Congressman Celler, who said his concern reflected the view of the Attorney General.
+Congressman Celler, in arguing for the restoration of "agreement" language, adverted to the danger of an oral blacklist being issued by large companies which "would frighten the wits out of all these small companies", and an agreement of "separation" barring a company whose agent wrote insurance for a blacklisted company from participation in "the self-constituted governing organizations".
+Id. at 1087 .
+On Congressman McCormack's suggestion, language was accepted proscribing "any agreement to boycott, coerce, or intimidate".
+Much of the debate then focused on the nature of the moratorium of three years on the general application of the Sherman and Clayton Acts.
+The bill went to conference.
+The House, on February 23, agreed to the conference report without debate.
+In the Senate, on February 26, Senator Pepper was concerned about states taking action during the moratorium period which would defeat the purpose of the antitrust acts.
+Senator Ferguson replied that states could not, even during the moratorium, "interfere with the application of the Sherman Act to any agreement .
+.
+.
+or .
+.
+.
+act of boycotting".
+Id. at 1443 .
+On the next day, Senator Pepper levelled his attack at the basic provision making the Sherman, Clayton, and Federal Trade Commission Acts permanently inapplicable to the extent that states had regulated the industry.
+His concern was that price fixing could continue with impunity.
+Senator O'Mahoney reassured him that private agreements enforcing certain rates would remain violations with the restoration of the "agreement" language taken out but restored by the House.
+He added: Id. at 1480 Senator Pepper was not satisfied, believing that states could legitimize and therefore insulate rating bureaus.
+Senator Ferguson pointed out that "there are six things on which a State could not legislate.
+They are boycott, coercion, or intimidation, or agreements to boycott, coerce, or intimidate."
+Id. at 1481 .
+He acknowledged that states would be permitted to authorize rating bureaus.
+Senator Pepper continued to gnaw at the issue, asking why the states should be given the right to "cloud" the Sherman and Clayton Acts.
+Again Senator O'Mahoney attempted reassurance by saying that there were three forms of regulation: state regulation permitted by the bill, federal regulation, which no one was urging, and private regulation by combinations "through private rules and regulations under which persons engaged in the insurance industry could be tried and convicted for the violation of private law."
+Id. at 1483 .
+This latter type, he said, would be absolutely outlawed.
+Senator Pepper still felt that, with state-authorized rating bureaus being allowed by the bill, states were being given "carte blanche" to legitimize vices.
+Id. at 1484 .
+Senator O'Mahoney rejoined that "[t]he vice in the insurance industry .
+.
+.
+was not that there were rating bureaus, but that there was in the industry a system of private government which had been built up by a small group of insurance companies, which companies undertook by their agreements and understandings to invade the field of Congress to regulate commerce."
+Id. at 1485 .
+After reading from the elaborate rules and regulations of a powerful association of insurance companies the Senator said, "The Insurance Executive Association undertook by regulation to coerce, intimidate, and boycott its own members and compel them to obey the rules and regulations the association itself prescribed."
+Id. at 1486 .
+Senator Barkley then asked if the boycott provision was sufficient to prevent combinations that do not involve boycott, coercion, or intimidation.
+Senator O'Mahoney replied, Id. 1486 The debate shortly ended and the conference report was accepted.
+Assuming for the moment that we have license to go beyond the words of the statute, we cannot turn to the legislative history with our minds in equipoise.
+H. Hart and A. Sacks, The Legal Process 1264 (tent.
+ed. 1958).
+The plain meaning of the boycott provision, the strength of the nation's antitrust policies, and the substantial scope that an ordinary reading of the provision would leave to the McCarran-Ferguson Act--all these at the least create a presumption for the legislative history to overcome.
+Our question, then, is whether we can distill from this history the clear intent of Congress to limit "boycott, coercion, or intimidation" to acts or agreements affecting the relationships between insurance companies and their competitors and agents.
+The basis for appellees' argument lies in the remarks of Congressman Celler about the danger of blacklisting small companies and Senator O'Mahoney's remarks about the evil of private enforcement of private law by the companies.
+And it is true that at no point were any remarks directed to the possibility of boycotts, coercion, or intimidation aimed at consumers.
+We would hesitate long before characterizing the Congressional intent as one narrowly restricting the boycott provision.
+We make two preliminary observations.
+The first is that South-Eastern Underwriters , which seems to have been the ultimate source of the "boycott, coercion, or intimidation" language, apparently dealt in part with threats and boycotts directed at policyholders.
+322 U.S. at 535 , 64 S.Ct. 1162 .
+The second is that the insurance industry participated deeply in the drafting of this legislation; if the boycott provision were intended to cover less than what the Sherman Act would normally cover, one might suppose that the language would not have been left so bald and general.
+Of more pertinence is the central role which the boycott provision played as the all purpose safety valve.
+It was amended twice, in each case to make it broader, first by making it effective across the entire Act and second by restoring the agreement language.
+Time after time the concerns of skeptics and opponents were met by reference to this provision.
+We cannot imagine that they would have been at all satisfied if they had understood that "boycott" was a code word confined to industry personnel.
+See , Levi An Introduction to Legal Reasoning , 15 U.Chi.L.Rev.
+501, 522 (1948).
+The inescapable fact is that in this four-day debate the only specific references to evils were made on two occasions, once in the House and once in the Senate.
+Congressman Celler voted against the bill in the House and while Senator O'Mahoney was supporting the measure as an acceptable compromise and was on the committee of conference, he was not a sponsor.
+While the vice of insurance company self-government outside the law obviously lay in their minds as a major evil to be combatted by the legislation, there is no suggestion that the legislation was limited to that evil.
+Indeed Senator O'Mahoney referred to the Insurance Executives Association rules as "the sort of agreement" to be condemned.
+His summary answer to Senator Barkley that "every effective combination or agreement to carry out a program against the public interest" would be prohibited by the boycott section could not be more unrestricted.
+We simply do not find in these debates or reports any evidence that would justify our reading the boycott provision in the special way urged by appellees.
+With all deference to the courts which have accepted the argument, we are reminded of the following advice of Mr. Justice Frankfurter: Some Reflections on the Reading of Statutes 47 Colum.L.Rev.
+527 We therefore reverse the lower court on this issue.
+The plaintiffs have charged the defendants with an unlawful boycott, and they are entitled to seek both injunctive relief and treble damages.
+See Monarch Life Ins. Co. v. Loyal Protective Life Ins. Co. , 326 F.2d 841 (2d Cir. 1963), cert. denied, 376 U.S. 952 , 84 S.Ct. 968 , 11 L.Ed.2d 971 (1964).
+7 The plaintiffs also object to the district court's decision to abstain on the plaintiffs' fraud claims, which were based on state law.
+In essence, plaintiffs pleaded that past and present insurance rates had been inflated by false statements to the public and the state insurance commissioner.
+Plaintiffs asked for restitution of all amounts paid in excess of a "fair and justifiable" malpractice insurance rate.
+Rhode Island courts have never ruled on the existence of a cause of action for recovery of excessive insurance premiums, but the district court noted that the state has provided elaborate administrative and judicial procedures for challenging existing rates.
+Rather than risk interfering with the state's regulatory scheme or misinterpreting state law, the district court abstained.
+Plaintiffs are apparently satisfied with the district court's decision to abstain with respect to insurance rates now in effect, for they do not appeal from that disposition.
+They do appeal from the court's abstention regarding past rates, which cannot be challenged administratively.
+The court's reluctance to take the case is understandable; recognizing a cause of action for the recovery of excessive past insurance premiums would profoundly affect the state's ratemaking machinery and policies.
+See Burford v. Sun Oil Co. , 319 U.S. 315 , 63 S.Ct. 1098 , 87 L.Ed. 1424 (1943); Louisiana Power & Light Co. v. City of Thibodaux , 360 U.S. 25 , 79 S.Ct. 1070 , 3 L.Ed.2d 1058 (1959).
+In cases like this, federal courts prefer to tread lightly, following trails already blazed by the state courts.
+Nonetheless, the court's jurisdiction over this claim was founded on diversity of citizenship.
+Abstaining in a diversity case often means completely relinquishing the case to the state courts; it thus defeats the purposes behind the grant of federal jurisdiction.
+A less drastic step might have served the purposes of the grant without unduly interfering in state regulatory matters.
+In Rhode Island, a novel and controlling question may be certified from the federal courts to the state courts.
+See Lehman Bros. v. Schein , 416 U.S. 386 , 94 S.Ct. 1741 , 40 L.Ed.2d 215 (1974); R.I.Sup.Ct.
+Rule 6.
+The district court did not certify this question.
+Two reasons for its choice are now advanced.
+First, the court's unappealed decision to abstain on the present rate question means that state courts and administrators will soon be wrestling with plaintiffs' claim, and it would not serve judicial economy for the federal court to begin work on a closely related claim.
+Second, even if a cause of action for recovering past premiums is proper, the federal court should abstain for fear of disrupting important state concerns.
+We doubt that either of these factors alone would permit abstention when balanced against the duty imposed on every federal court to decide cases within its jurisdiction.
+See Meredith v. Winter Haven , 320 U.S. 228 , 64 S.Ct. 7 , 88 L.Ed. 9 (1943).
+In combination, however, they persuade us that abstention was justifiable.
+See Louisiana Power & Light Co. v. City of Thibodaux , supra , 360 U.S. at 27 n.2, 79 S.Ct. 1070 .
+Appellants also object to the granting of summary judgment to two defendants, the Aetna and St. Paul insurance companies, on a count charging fraud in the sale of certain "consent to rate" policies.
+Plaintiffs offered no evidence that any named physician-plaintiff ever bought such a policy from either Aetna or St. Paul, nor that any named patient-plaintiff was ever treated by a doctor holding such a policy.
+Appellants thus had at best only a tenuous right to bring this claim against these companies, Haas v. Pittsburgh Nat'l Bank , 526 F.2d 1083 (3d Cir. 1975), and we find no error in the district court's decision to adhere strictly to the traditional rules.
+La Mar v. H & B Novelty & Loan Co. , 489 F.2d 461, 469 (9th Cir. 1973).
+See also O'Shea v. Littleton , 414 U.S. 488, 494-95 , 94 S.Ct. 669 , 38 L.Ed.2d 674 (1974).
+The district court disposed of the remaining charges of fraud in "consent to rate" policies by referring to Fed.R.Civ.P. 9(b) .
+Rule 9(b) requires complaints charging fraud to state "with particularity" the circumstances constituting fraud.
+The judge found that the complaint did not meet the standards set by rule 9(b) and dismissed the count without prejudice.
+The judge was correct; the complaint could hardly be more vague.
+While the judge might have ordered a more definite statement, it was within his power to grant a dismissal without prejudice.
+If the plaintiffs can plead fraud with more particularity, they may file an amended complaint.
+2A Moore's Federal Practice ¶ 9.03 p. 1934.
+Affirmed in part; reversed and remanded in part .

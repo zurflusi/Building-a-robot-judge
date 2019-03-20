@@ -1,0 +1,203 @@
+ WINTER , Chief Judge: Six freelance writers appeal from a grant of summary judgment dismissing their complaint.
+The complaint alleged that appellees had infringed appellants' various copyrights by putting individual articles previously published in periodicals on electronic databases available to the public.
+On cross motions for summary judgment, the United States District Court for the Southern District of New York held that appellees' use of the articles was protected by the "privilege" afforded to publishers of "collective works" under Section 201(c) of the Copyright Act of 1976 ("Act" or "1976 Act"), 17 U.S.C. 201(c) .
+We reverse and remand with instructions to enter judgment for appellants.
+BACKGROUND Appellants are freelance writers (individually, "Author" and collectively, "Authors") [**1034] who write articles for publication in periodicals.
+Their complaint alleged that certain articles were original works written for first publication by one of the appellee publishers between 1990 and 1993.
+None of the articles was written at a time when its Author was employed by the particular periodical; nor was any such article written pursuant to a work-for-hire contract.
+The Authors registered a copyright in each of the articles.
+The appellee newspaper and magazine publishers (collectively, "Publishers") are periodical publishers who regularly create "collective works," see 17 U.S.C. 101 , that contain articles by free lance authors as well as works created for-hire or by employees.
+With respect to the free lance articles pertinent to this appeal, the Publishers' general practice was to negotiate due-dates, word counts, subject matter and price; no express transfer of rights under the Author's copyright was sought.
+1 As to one article alleged in the complaint, however, authored by appellant David S. Whitford for Sports Illustrated, a publication of appellee The Time Incorporated Magazine Company ("Time"), a written contract expressly addressed republication rights.
+We address Whitford's claim separately below.
+Appellee Mead Data Central Corp. owns and operates the NEXIS electronic database.
+NEXIS is a massive database that includes the full texts of articles appearing in literally hundreds of newspapers and periodicals spanning many years.
+Mead has entered into licensing agreements with each of the Publishers.
+Pursuant to these agreements, the Publishers provide Mead with much of the content of their periodicals, in digital form, for inclusion in NEXIS.
+Subscribers to NEXIS are able to access an almost infinite combination of articles from one or more publishers by using the database's advanced search engine.
+The articles may be retrieved individually or, for example, together with others on like topics.
+Such retrieval makes the article available without any material from the rest of the periodical in which it first appeared.
+We briefly describe the process by which an issue of a periodical is made available to Mead for inclusion in NEXIS.
+First, an individual issue of the paper is stripped, electronically, into separate files representing individual articles.
+In the process, a substantial portion of what appears in that particular issue of the periodical is not made part of a file transmitted to Mead, including, among other things, formatting decisions, pictures, maps and tables, and obituaries.
+Moreover, although the individual articles are "tagged" with data indicating the section and page on which the article initially appeared, certain information relating to the initial page layout is lost, such as placement above or below the fold in the case of The New York Times.
+After Mead further codes the individual files, the pieces are incorporated into the NEXIS database.
+Appellee University Microfilms International ("UMI") markets, inter alia , CD-ROM database products.
+Pursuant to an agreement with The New York Times and Mead, UMI produces and markets the "NY Times OnDisc" ("NYTO") CD-ROM, which contains the full texts of articles from The New York Times.
+It also produces and markets a "General Periodicals OnDisc" ("GPO") CD-ROM, which contains selected New York Times articles and thousands of other articles.
+Pursuant to its agreement with Mead and The New York Times, UMI incorporates the files containing Times articles into its NYTO database.
+UMI uses a somewhat different methodology to incorporate articles from the N.Y. Times Sunday book-review and magazine sections onto its GPO CD-ROM.
+As to these pieces, UMI scans them directly onto "image-based" files.
+The image-based files are also abstracted and included on the text-based CD-ROM; the abstracts facilitate access to the image-based disk.
+The gist of the Authors' claim is that the copyright each owns in his or her individual articles was infringed when the Publishers provided them to the electronic databases.
+Appellees do not dispute that the Authors own the copyright in their individual works.
+Rather, they argue that the Publishers own the copyright in the "collective works" that they produce and are afforded the privilege, under Section 201(c) of the Act, of "reproducing and distributing" the individual works in "any revision of that collective work."
+17 U.S.C. 201(c) .
+The crux of the dispute is, therefore, whether one or more of the pertinent electronic databases may be considered a "revision" of the individual periodical [**1035] issues from which the articles were taken.
+The district court held that making the articles available on the databases constitutes a revision of the individual periodicals and that appellees' licensing arrangements were protected under Section 201(c) .
+See Tasini v. New York Times Co. , 972 F.Supp.
+804 (S.D.N.Y.1997) [ "Tasini I" ].
+It therefore granted appellees' motion for summary judgment.
+After a motion for reconsideration was denied, see Tasini v. New York Times Co. , 981 F.Supp.
+841 (S.D.N.Y.1997) [ "Tasini II" ], appellants brought this appeal.
+DISCUSSION We review de novo the grant or denial of summary judgment and view the evidence in the light most favorable to the non-moving party.
+See Turner v. General Motors Acceptance Corp. , 180 F.3d 451, 453-54 (2d Cir.1999).
+Summary judgment is appropriate only if the pleadings and evidentiary submissions demonstrate the absence of any genuine issue of material fact and that the moving party is entitled to judgment as a matter of law.
+See id. at 453 .
+The unauthorized reproduction and distribution of a copyrighted work generally infringes the copyright unless such use is specifically protected by the Act.
+To reiterate, each Author owns the copyright in an individual work and, save for Whitford, see infra , has neither licensed nor otherwise transferred any rights under it to a Publisher or electronic database.
+These works were published with the Authors' consent, however, in particular editions of the periodicals owned by the Publishers.
+The Publishers then licensed much of the content of these periodicals, including the Authors' works, to one or more of the electronic database providers.
+As a result, the Authors' works are now available to the public on one or more electronic databases and may be retrieved individually or in combination with other pieces originally published in different editions of the periodical or in different periodicals.
+In support of their claim, the Authors advance two principal arguments: first, Section 201(c) protects only the Publishers' initial inclusion of individually copyrighted works in their collective works and does not permit the inclusion of individually copyrighted works in one or more of the electronic databases; and, second, any privilege the Publishers have under Section 201(c) is not a transferrable "right" within the meaning of Section 201(d) and hence may not be invoked by the electronic database providers.
+The district court rejected both arguments, reasoning that the "privilege" under Section 201(c) is a "subdivision" of a right that is transferrable under Section 201(d)(2) , 972 F.Supp.
+at 815 , and that the scope of the "privilege" was broad enough to permit the inclusion of the Authors' pieces in the various databases, see id. at 824-25 .
+We hold that Section 201(c) does not permit the Publishers to license individually copyrighted works for inclusion in the electronic databases.
+We need not, and do not, reach the question whether this privilege is transferrable under Section 201(d) .
+2 a) The Section 201(c) Presumption (or, simply, " Section 201(c) ") Section 201 of the Act provides, inter alia , that as to contributions to collective works, the "[c]opyright in each separate contribution is distinct from copyright in the collective work as a whole, and vests initially in the author of the contribution."
+17 U.S.C. 201(c) .
+Correspondingly, Section 103 , which governs copyright in compilations and derivative works, provides in pertinent part that: 17 U.S.C. 103(b) .
+Section 101 states that "[t]he term 'compilation' includes collective works."
+17 U.S.C. 101 .
+It further defines "collective work" as "a work, such as a periodical issue, anthology, or encyclopedia, in which a number of contributions, constituting separate and independent works in themselves, are assembled into a collective whole."
+Id .
+Publishers of collective works are not permitted to include individually copyrighted articles without receiving a license or other express transfer of rights from the author.
+However, Section 201(c) creates a presumptive privilege to authors of collective works.
+Section 201(c) creates a presumption that when the author of an article gives the publisher the author's permission to include the article in a collective work, as here, the author also gives a non-assignable, non-exclusive [**1036] privilege to use the article as identified in the statute.
+It provides in pertinent part that: 17 U.S.C. 201(c) .
+Under this statutory framework, the author of an individual contribution to a collective work owns the copyright to that contribution, absent an express agreement setting other terms.
+See id .
+The rights of the author of a collective work are limited to "the material contributed by the [collectivework] author" and do not include "any exclusive right in the preexisting material."
+17 U.S.C. 103(b) .
+Moreover, the presumptive privilege granted to a collective-work author to use individually copyrighted contributions is limited to the reproduction and distribution of the individual contribution as part of: (i) "that particular [ i.e. , the original] collective work"; (ii) "any revision of that collective work"; or (iii) "any later collective work in the same series."
+17 U.S.C. 201(c) .
+Because it is undisputed that the electronic databases are neither the original collective work--the particular edition of the periodical--in which the Authors' articles were published nor a later collective work in the same series, appellees rely entirely on the argument that each database constitutes a "revision" of the particular collective work in which each Author's individual contribution first appeared.
+We reject that argument.
+We begin, as we must, with the language of the statute.
+See Lewis v. United States , 445 U.S. 55, 60 , 100 S.Ct. 915 , 63 L.Ed.2d 198 (1980).
+The parameters of Section 201(c) are set forth in the three clauses just noted.
+Under ordinary principles of statutory construction, the second clause must be read in the context of the first and third clauses.
+See General Elec. Co. v. Occupational Safety & Health Review Comm'n , 583 F.2d 61, 64-65 (2d Cir.1978) ("the meaning of one term may be determined by reference to the terms it is associated with" citing 2A Sutherland, Statutory Construction 47.16 ( Noscitur a sociis ), 47.17 ( Ejusdem generis ) (4th ed.1973)); see also Securities & Exch. Comm'n v. National Sec., Inc. , 393 U.S. 453, 466 , 89 S.Ct. 564 , 21 L.Ed.2d 668 (1969) ("The meaning of particular phrases must be determined in context.")
+(citation omitted).
+The first clause sets the floor, so to speak, of the presumptive privilege: the collective-work author is permitted to reproduce and distribute individual contributions as part of "that particular collective work."
+In this context, "that particular collective work" means a specific edition or issue of a periodical.
+See 17 U.S.C. 201(c) .
+The second clause expands on this, to permit the reproduction and distribution of the individual contribution as part of a "revision" of "that collective work," i.e. , a revision of a particular edition of a specific periodical.
+Finally, the third clause sets the outer limit or ceiling on what the Publisher may do; it permits the reproduction and distribution of the individual contribution as part of a "later collective work in the same series," such as a new edition of a dictionary or encyclopedia.
+The most natural reading of the "revision" of "that collective work" clause is that Section 201(c) protects only later editions of a particular issue of a periodical, such as the final edition of a newspaper.
+Because later editions are not identical to earlier editions, use of the individual contributions in the later editions might not be protected under the preceding clause.
+Given the context provided by the surrounding clauses, this interpretation makes perfect sense.
+It protects the use of an individual contribution in a collective work that is somewhat altered from the original in which the copyrighted article was first published, but that is not in any ordinary sense of language a "later" work in the "same series."
+In this regard, we note that the statutory definition of "collective work" lists as examples "a periodical issue, anthology, or encyclopedia."
+17 U.S.C. 101 .
+The use of these particular kinds of collective works as examples supports our reading of the revision clause.
+Issues of periodicals, as noted, are often updated by revised editions, while anthologies and encyclopedias are altered every so often through the release of a new version, a "later collective work in the same series."
+Perhaps because the "same series" clause might be construed broadly, the House Report on the Act noted that the "revision" clause in Section 201(c) was not intended to permit the inclusion of previously published freelance contributions "in a new anthology or an entirely different magazine or other collective work," i.e. , in later collective works not in the same series.
+H.R.Rep.
+No. 94-1476, at 122-23 (1976), reprinted in 1976 U.S.C.A.A.N.
+5659, 5738.
+Moreover, Publishers' contention that the electronic databases are revised, digital copies of collective works cannot be squared with basic canons of statutory construction.
+First, if the contents of an electronic database are merely a "revision" of a particular " [**1037] collective work," e.g. , the August 16, 1999 edition of The New York Times, then the third clause of Section 201(c) --permitting the reproduction and distribution of an individually copyrighted work as part of "a later collective work in the same series"--would be superfluous.
+See Regions Hosp. v. Shalala , 522 U.S. 448 , 118 S.Ct. 909, 920 , 139 L.Ed.2d 895 (1998) (Scalia, J. , dissenting) ("It is a cardinal rule of statutory construction that significance and effect shall, if possible, be accorded to every word.
+As early as in Bacon's Abridgment, sect.
+2, it was said that 'a statute ought, upon the whole, to be so construed that, if it can be prevented, no clause, sentence, or word shall be superfluous, void, or insignificant.'")
+(quoting Washington Mkt. Co. v. Hoffman , 101 U.S. 112, 115-16 , 25 L.Ed. 782 (1879)).
+An electronic database can contain hundreds or thousands of editions of hundreds or thousands of periodicals, including newspapers, magazines, anthologies, and encyclopedias.
+To view the contents of databases as revisions would eliminate any need for a privilege for "a later collective work in the same series."
+Second, the permitted uses set forth in Section 201(c) are an exception to the general rule that copyright vests initially in the author of the individual contribution.
+Reading "revision of that collective work" as broadly as appellees suggest would cause the exception to swallow the rule.
+See Commissioner v. Clark , 489 U.S. 726, 739 , 109 S.Ct. 1455 , 103 L.Ed.2d 753 (1989) (when a statute sets forth exceptions to a general rule, we generally construe the exceptions "narrowly in order to preserve the primary operation of the [provision]").
+Under Publishers' theory of Section 201(c) , the question of whether an electronic database infringes upon an individual author's article would essentially turn upon whether the rest of the articles from the particular edition in which the individual article was published could also be retrieved individually.
+However, Section 201(c) would not permit a Publisher to sell a hard copy of an Author's article directly to the public even if the Publisher also offered for individual sale all of the other articles from the particular edition.
+We see nothing in the revision provision that would allow the Publishers to achieve the same goal indirectly through NEXIS.
+Appellees' reading is also in considerable tension with the overall statutory framework.
+Section 201(c) was a key innovation of the Copyright Act of 1976.
+Because the Copyright Act of 1909 contemplated a single copyright, authors risked losing their rights by allowing an article to be used in a collective work.
+See 3 Melville Nimmer & David Nimmer, Nimmer on Copyright 10.01[A] (1996 ed.) (discussing doctrine of indivisibility).
+To address this concern, the 1976 Act expressly permitted the transfer of less than the entire copyright, see 17 U.S.C. 201(d) , in effect replacing the notion of a single "copyright" with that of "exclusive rights" under a copyright.
+Id. 106 , 103(b) .
+Section 201(d) , which governs the transfer of copyright ownership, provides: section 106 exclusive right Id. 201(d) (emphasis added); see also id. 204 (executions of transfers of copyright ownership).
+Similarly, Section 501 , which sets forth the remedies for infringement of copyright, provides in pertinent part that "[a]nyone who violates any of the exclusive rights of the copyright owner is an infringer."
+Id. 501(a) (emphasis added).
+3 Were the permissible uses under Section 201(c) as broad and as transferrable as appellees contend, it is not clear that the rights retained by the Authors could be considered "exclusive" in any meaningful sense.
+In light of this discussion, there is no feature peculiar to the databases at issue in this appeal that would cause us to view them as "revisions."
+NEXIS is a database comprising thousands or millions of individually retrievable articles taken from hundreds or thousands of periodicals.
+It can hardly be deemed a "revision" of each edition of every periodical that it contains.
+Moreover, NEXIS does almost nothing to preserve the copyrightable aspects of the Publishers' collective works, "as distinguished from the preexisting material employed in the work."
+17 U.S.C. 103(b) .
+The aspects of a collective work that make it "an original work of authorship" are the selection, coordination, and arrangement of the preexisting materials.
+Id. 101 ; see also Feist Publications, Inc. v. Rural Tel. Serv. Co. [**1038] , 499 U.S. 340, 349 , 111 S.Ct. 1282 , 113 L.Ed.2d 358 (1991) (discussing factual compilations).
+4 However, as described above, in placing an edition of a periodical such as the August 16, 1999 New York Times, in NEXIS, some of the paper's content, and perhaps most of its arrangement are lost.
+Even if a NEXIS user so desired, he or she would have a hard time recapturing much of "the material contributed by the author of such [collective] work."
+17 U.S.C. 103(b) .
+In this context, it is significant that neither the Publishers nor NEXIS evince any intent to compel, or even to permit, an end user to retrieve an individual work only in connection with other works from the edition in which it ran.
+Quite the contrary, The New York Times actually forbids NEXIS from producing "facsimile reproductions" of particular editions.
+See Tasini I , 972 F.Supp.
+at 826 n. 17.
+What the end user can easily access, of course, are the preexisting materials that belong to the individual author under Sections 201(c) and 103(b) .
+The UMI databases involved in this appeal present a slightly more difficult issue than does NEXIS.
+One, NYTO, is distinguishable from NEXIS in that it contains articles from only one publisher; the other, GPO, is distinguishable because it includes some image-based, rather than text-based, files.
+Nevertheless, we also conclude that the Publishers' licensing of Authors' works to UMI for inclusion in these databases is not within the Section 201(c) revision provision.
+The NYTO database operates very much like NEXIS; it contains many articles that may be retrieved according to criteria unrelated to the particular edition in which the articles first appeared.
+Moreover, because the files it contains are provided by Mead pursuant to an agreement between UMI, Mead, and The New York Times, no more of the Times' original selection and arrangement is evident or retained in NYTO than is retained in NEXIS.
+In every respect save its being limited to The New York Times, then, NYTO is essentially the same as NEXIS.
+That limitation, however, is not material for present purposes.
+The relevant inquiry under Section 201(c) , is, as discussed above, whether the republication or redistribution of the copyrighted piece is as part of a collective work that constitutes a "revision" of the previous collective work, or even a "later collective work in the same series."
+If the republication is a "new anthology" or a different collective work, it is not within Section 201(c) .
+H.R.Rep.
+No. 94-1476, at 122-23 (1976), reprinted in 1976 U.S.C.A.A.N.
+5659, 5738.
+Because NYTO is for present purposes at best a new anthology of innumerable editions of the Times, and at worst a new anthology of innumerable articles from these editions, it cannot be said to be a "revision" of any (or all) particular editions or to be a "later collective work in the same series."
+For the same reason, GPO is not protected by Section 201(c) .
+Although this database contains scanned photo-images of editions of The New York Times Sunday book review and magazine, it also contains articles from numerous other periodicals.
+In this respect, then, it is also substantially similar to NEXIS, and it, too, is at best a new anthology.
+We emphasize that the only issue we address is whether, in the absence of a transfer of copyright or any rights thereunder, collective-work authors may re-license individual works in which they own no rights.
+Because there has by definition been no express transfer of rights in such cases, our decision turns entirely on the default allocation and presumption of rights provided by the Act.
+Publishers and authors are free to contract around the statutory framework.
+Indeed, both the Publishers and Mead were aware of the fact that Section 201(c) might not protect their licensing agreements, and at least one of the Publishers has already instituted a policy of expressly contracting for electronic re-licensing rights.
+See note 1, supra [**1039] .
+b) Whitford As noted, Whitford entered into an express licensing agreement with Time.
+That agreement granted, in pertinent part, to Time: Time subsequently licensed Whitford's article to Mead without notifying, obtaining authorization from, or compensating, him.
+In response to Whitford's infringement action, Time contended that its "first publication" rights under clause (a) permitted it to license Whitford's article to Mead.
+The district court rejected this argument.
+See Tasini I , 972 F.Supp.
+at 811-12 .
+Nevertheless, it granted summary judgment in favor of Time on this claim.
+Upon appellants' motion for reconsideration, the district court explained that because Whitford's contract appeared to grant republication rights broad enough to cover Time's agreement with Mead, his remedy under the circumstances was a breach of contract claim against Time.
+See Tasini II , 981 F.Supp.
+at 845 .
+Such a contract claim would be based on the fact that Time had licensed Whitford's piece to Mead without compensating Whitford pursuant to their agreement.
+Whitford's failure to raise such a claim, in the court's view, undermined his infringement claim.
+See id. The court also explained that the privilege afforded collective-works authors under Section 201(c) operates as a "'presumed' baseline."
+See id. , 981 F.Supp.
+at 846 .
+Because Whitford's agreement failed to limit Time's rights to less than those otherwise afforded under Section 201(c) , Time was presumed to have rights to Whitford's piece to the full extent of Section 201(c) .
+See id. Having already determined that Section 201(c) protected the defendant newspapers' license agreements with Mead, the district court held that Time, too, was protected.
+However, the fact that a party has licensed certain rights to its copyright to another party does not prohibit the licensor from bringing an infringement action where it believes the license is exceeded or the agreement breached.
+See Schoenberg v. Shapolsky Publishers, Inc. , 971 F.2d 926, 932 (2d Cir.1992) ("If a breach of a condition is alleged, then the district court has subject matter jurisdiction.").
+Rather, where an author brings an infringement action against a purported licensee, the license may be raised as a defense.
+See Bourne v. Walt Disney Co. , 68 F.3d 621, 631 (2d Cir.1995).
+Where the dispute turns on whether there is a license at all, the burden is on the alleged infringer to prove the existence of the license.
+See id. Where the dispute is only over the scope of the license, by contrast, "the copyright owner bears the burden of proving that the defendant's copying was unauthorized."
+Id. In either case, however, an infringement claim may be brought to remedy unauthorized uses of copyrighted material.
+See id. Whitford did not, therefore, have the burden of pleading a contract claim against Time.
+5 With respect to express transfers of rights under Section 201(c) , that provision provides in pertinent part that "[i]n the absence of an express transfer of the copyright or of any rights under it, the owner of copyright in the collective work is presumed to have acquired only the privilege of reproducing and distributing the contribution [in limited circumstances]."
+17 U.S.C. 201(c) .
+Whitford contends that this provision, by its plain terms, does not apply where there is "an express transfer of copyright or of any rights under it," and that his license agreement with Time constitutes just such an express transfer.
+Therefore, he contends, the court erred in applying the privilege at all.
+As noted, the district court rejected this argument, observing that " Section 201(c) does not provide that the specified privileges apply 'only' in the absence of an express transfer of rights," but rather that "in the absence of an express transfer of rights, [**1040] publishers are presumed to acquire 'only' the delineated privileges."
+Tasini II , 981 F.Supp.
+at 845 .
+The district court went on to hold that "the specified privileges represent a floor- i.e. , a minimum level of protection which, if unenhanced by express agreement, publishers are generally presumed to possess.
+In other words, in the absence of an express transfer of 'more,' a publisher is presumed to acquire, at a minimum [ ], the delineated privileges."
+Id. at 845-46 .
+Under the district court's reasoning, therefore, unless Time's agreement with Whitford explicitly narrowed its "privilege" under Section 201(c) , the privilege accorded by that Section would continue to exist concurrently with any other rights obtained under the agreement.
+Given the district court's previously expressed broad view of the Section 201(c) privilege, Time prevailed, not because the agreement authorized the licensing of Whitford's article to Mead but because the agreement did not forbid it.
+The district court is mistaken.
+As discussed above, Section 201(c) creates only a presumption by the parties as to what an author means to convey by giving consent to inclusion of an article in a collective work.
+Section 201(c) does not permit a collective-work author in Time's shoes to license to Mead an individually-copyrighted work such as Whitford's article.
+Time's rights to license the article to Mead must, therefore, be derived from its agreement with Whitford.
+However, we agree with the district court that paragraph (a) of that agreement does not authorize such a license, and the record is clear that Time cannot invoke the conditional license provided in paragraphs (b) and (c).
+See Note 4, supra .
+There being no other basis for Time to license Whitford's article to Mead, summary judgment should have been granted in favor of Whitford on his claim.
+CONCLUSION We therefore reverse and remand with instructions to enter judgment for appellants.

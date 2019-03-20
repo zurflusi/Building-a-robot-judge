@@ -1,0 +1,85 @@
+ CAMERON , Circuit Judge.
+The question here involves solely the extent of the jurisdiction of the Federal Power Commission (Commission) under the Natural Gas Act.
+1 The facts underlying the controversy presented by this petition for review of an order of the Federal Power Commission are not in dispute and are, briefly, as follows: Lo-Vaca Gathering Company (Lo-Vaca) requested certificate authority with respect to two contracts involving the delivery of natural gas to El Paso Natural Gas Company (El Paso).
+The first request involved the "gathering and delivery" to El Paso of 50,000 Mcf (meaning, thousand cubic feet) of natural gas per day, and the second involved the "gathering and sale" of 70,000 Mcf per day.
+Authority requested under the first contract is thus limited to the "gathering and delivery" rather than the sale of the gas.
+Petitioners contend that regulation of the sale is not within the Commission's jurisdiction under the Act because that volume of gas is not to be resold.
+The contract provides: Jurisdiction is not disputed as to the second Lo-Vaca contract.
+Houston Pipe Line Company (Houston) proposes to sell to El Paso 70,000 Mcf of natural gas per day to be consumed wholly within the State of Texas.
+The contract provides that the gas sold "shall be used and consumed by El Paso solely as fuel in the operation of El Paso's plants and in the gasoline plant of Phillips Petroleum Company in Ector County, all located wholly within the State of Texas."
+It is not necessary here to outline the complicated routing of the gas through El Paso's multiplex lines.
+It is enough to say that, in each instance, petitioners propose to meter into the system, in Texas, the specified volumes of gas; that this gas will be commingled with gas already in the lines (which gas is admittedly "jurisdictional"); that other gas will later be put into the lines; and that, at the points described in the quoted clauses of the contract, an equal volume of gas will be withdrawn for "non jurisdictional" use.
+The Commission does not claim that the physical in-metering--out-metering will not be faithfully consummated just as the contracts provide; rather, it argues that as a matter of physical reality the gas withdrawn will not be "non jurisdictional" gas because it will not be the identical gas metered into the lines under the contracts.
+More quickly to delineate the issue drawn here, it should be noted that the Commission admits, as it must, that if the volumes under consideration were in some manner physically segregated it would not and could not claim jurisdiction over the sales.
+The Houston sale would not be subject to the Commission's jurisdiction because it would not be a "sale in interstate commerce;" and the Lo-Vaca sale, though in interstate commerce, would not be "for resale."
+15 U.S.C.A. 717(b) .
+See, Panhandle Eastern Pipe Line Company v. Public Service Commission of Indiana , 1947, 332 U.S. 507 , 68 S.Ct. 190 , 92 L.Ed. 128 .
+The Commission contends, however, that the physical nature of natural gas cannot be overcome by the words of the contract.
+In short, it urges that the fact is that some, and actually most, of the molecules sold will actually be resold in interstate commerce.
+This physical fact cannot be doubted, gas being the substance it is, but the real question before us is whether the physical commingling of the gas sold under the contracts with other gas destroys its "non jurisdictional" status.
+We hold that it does not.
+Gas is gas, and borrowing the words of Judge Brown, in connection with a different petroleum problem, " that principles of constitutional law and statutory construction are not equated with laws of physics, so that the inquiry is something more than the schoolboy's quest for molecular identification."
+Deep South Oil Co. of Texas v. Federal Power Commission , 1957, 5 Cir., 247 F.2d 882, 891 (dissenting opinion).
+First, we may discuss what is not involved.
+No question of constitutional limitations under the Commerce Clause need be considered.
+The Commission's jurisdiction under 717(b) is not so broad as the scope of the federal power under Art.
+1, Sec. 8 , Cl.
+3 of the Constitution.
+Its jurisdiction over the sale of natural gas is limited: Panhandle Eastern Pipe Line Company v. Public Service Commission of Indiana supra 332 U.S. at 516, 517 68 S.Ct. at 195 And, as we have said, the sales would admittedly be "non jurisdictional" if the gas so sold were not mixed and commingled with other gas which was to be resold in interstate commerce.
+So the question is more finely drawn: if the gas metered out for "non jurisdictional" use will not be made up of the identical molecules as the gas so metered in, does the Commission thereby gain jurisdiction of the sale?
+Petitioners rely principally on two cases from the courts of appeal 2 to support their theory of "fungibility" or "separation by contract."
+These cases, in turn, rely on the language of United States v. Public Utilities Commission of California , 1953, 345 U.S. 295 , 73 S.Ct. 706 , 97 L.Ed. 1020 .
+The Public Utilities Commission of California case is the starting point.
+The Navy contracted with California Electric Power Company to purchase electrical energy in California for the Navy's use 3 in Nevada.
+Delivery of the power was made at a sub-station about twenty-five miles from the Nevada line.
+The Power Company argued that jurisdiction of the Commission attached only to that portion of the energy resold by the Navy.
+Assuming arguendo that the energy could be so divided for jurisdictional purposes, the Court said that such separability "would turn, of course, on whether an essentially separate transaction covering the power directly consumed by the purchaser is identifiable.
+But there is no record evidence of separate rates, separate negotiations, separate contracts or separate rate regulation by official bodies; in short that the 'sales' themselves were separate *", 345 U.S. pp.
+317-318 , 73 S.Ct. at p. 719 .
+The petitioners here have carefully tailored their transactions to fit the above caveat .
+4 City of Hastings, Neb. v. Federal Power Commission , 1954, 95 U.S.App.D.C.
+158 , 221 F.2d 31 , certiorari denied, 349 U.S. 920 , 75 S.Ct. 660 , 99 L.Ed. 1252 (1955) involved a situation strikingly similar to the Lo-Vaca proposal.
+The City entered into two contracts with a supplier for the purchase of gas.
+One contract involved gas to be resold by the City and the other involved gas to be used by the City in its power plant.
+The gas came from out-of-state sources and was thus a "sale in interstate commerce."
+The gas sold under both contracts was delivered to the City in a commingled stream and, in holding the not-for-resale sale "non jurisdictional", that court said: 221 F.2d p. 36 The situation in North Dakota v. Federal Power Commission , 8 Cir., 1957, 247 F.2d 173 , was very much like that involved here under the Houston contract.
+There, Montana-Dakota Utilities Company entered into two contracts for the purchase of gas for sale in intrastate market and two contracts for the purchase of gas for the interstate market.
+Gas under all four contracts was delivered to Montana-Dakota in a commingled stream at one delivery point in North Dakota.
+Some of the gas was then resold in North Dakota and attributed to the intrastate purchase contracts.
+The question phrased by the court was: " does natural gas produced, wholesaled, transported, and sold for immediate consumption solely within the State of North Dakota become a proper subject for federal regulation as being in interstate commerce, because part of its transportation occurs in a commingled state with gas admittedly being transported in interstate commerce *?"
+[ 247 F.2d p. 176 ] The court concluded: We think the rationale and holdings of these cases are controlling here.
+5 The Commission here seeks to distinguish Hastings and North Dakota by the fact that, in those cases, all the gas sold was supplied by the same seller, whereas here El Paso is supplied by many sellers other than Lo-Vaca and Houston.
+It argues that to allow El Paso to "pick and choose" the suppliers of the "non-jurisdictional" quantities needed would be to allow the purchasing pipeline to discriminate between its various suppliers.
+The question, however, is whether the gas is effectively segregated by the device of a contract, rather than some physical barrier; and, therefore, the question of discrimination is irrelevant, insofar as the initial sales jurisdiction is concerned, if regulation of the sales is not within the jurisdiction of the Commission.
+If the gas could, in some manner, be transported in a physically segregated manner, jurisdiction would not attach; under the rationale of Hastings and North Dakota, and the language of United States v. Public Utilities, contractually-segregated gas is not jurisdictional; it must follow that discrimination vel non is not a proper area of inquiry.
+We can see no difference in the controlling legal principles here, even though the facts are somewhat different, as they are in almost all cases.
+Neither is the question whether the expenditures are reasonable and prudent, and thus includable in the pipeline's cost of service for rate computation purposes, before us here.
+Nor is there before us any question as to transportation , rather than sale , certificate authority.
+The Commission's position ignores the nature of natural gas.
+Gas in a pipeline can be separated only "on paper" or conceptually, or, at least, this is the cheapest and most practical way to do it.
+6 Gas lines transport gas for others, and we doubt that the owners are ever delivered the identical molecules turned over to the carrier.
+As we have said, gas is gas.
+The concept of separate identity, by volume, is not new.
+This Court, in a "hot oil" case, recognized that contraband oil commingled with lawfully produced oil could not be separated, as a physical fact.
+We concluded that both "justice and practical convenience will best be served by allowing a separation as is proposed [proportional separation].
+Commingling and proportionate separation is daily practiced in the business of grain elevators, pipe lines, and the like.
+We see no reason why the practice is not proper here."
+Federal Tender Board No. 1 v. Haynes Oil Corp. , 5 Cir., 1935, 80 F.2d 468, 469 .
+7 We must appreciate the concern of the California intervenors for the price paid for the non-jurisdictional gas.
+Their plea should be made, however, to Congress and not us.
+The courts are not competent to make legislative decisions as to whether jurisdiction should be given the Commission under varying circumstances; the scope of our function is to determine whether such jurisdiction does attach, as the statute is written.
+It may well be that the State of Texas has no incentive to regulate the cost of such gas; this, however, has no relevance in interpreting the statute, though it may have relevance in drawing or redrawing it.
+Our duty of statutory construction is limited to construing statutes, not constructing them.
+In closing, we must comment on the Commission's assertion that petitioners "beg the question" by stating that the sales are not "jurisdictional" because, as a matter of fact, most of the gas molecules put into the lines are sold in interstate commerce and will be resold.
+As we see it, this is not begging the question but is merely stating it.
+We hold that such gas is not "resold" in interstate commerce, because it is contractually segregated and is either consumed by the pipeline itself, or resold in Texas.
+It is clear, moreover, that all of the gas is not sold for resale in interstate commerce.
+It must follow that, if those volumes of gas can be segregated, the Commission has no legitimate interest in the sale of that amount of gas.
+The method of segregation used here seems to be the most practical one.
+No one has suggested to us any reason why the mixing or commingling of this gas with other gas hampers the regulation of sale of the "jurisdictional" gas, or in any manner tends to subvert the national policy.
+No one has suggested that petitioners will not carefully and conscientiously carry out the terms of their contracts.
+In short, we can find no prejudice to anyone's legitimate interests in the consummation of these plans.
+The substance of the proposals is that "non jurisdictional" gas will honestly be used for "non jurisdictional" purposes.
+Congress' refusal to give jurisdiction over such sales, assuming it has the constitutional power to do so, should not be thwarted because of the physical nature of natural gas.
+The petition for review is granted; the petitioners' request that the Commission's order, declaring the sales to be sales in interstate commerce for resale for ultimate public consumption, be set aside is granted and the case is remanded for disposition not inconsistent with this opinion.
+Order vacated.

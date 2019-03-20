@@ -1,0 +1,418 @@
+ TONE , Circuit Judge.
+The State of Illinois filed this action under the federal common law of nuisance to enjoin the City of Milwaukee and the Sewerage Commissions of the City and County of Milwaukee 1 from discharging raw sewage and inadequately treated sewage into Lake Michigan.
+2 Illinois alleged and undertook to prove at trial that the sewage contains pathogens, disease-causing viruses and bacteria, which are transported by currents into parts of the lake that lie within Illinois, where they present a substantial threat to the health of Illinois residents, and also that the sewage contains nutrients that accelerate eutrophication of the lake.
+The State of Michigan intervened as a plaintiff on the eutrophication issue only.
+After a four month trial, the district court found that plaintiffs had proved their allegations and entered a judgment requiring defendants to cease discharging raw sewage and to treat sewage before discharging it in compliance with effluent limitations more stringent than the minimum limitations imposed pursuant to the Federal Water Pollution Control Act, 33 U.S.C. 1251 , et seq.
+Defendants appeal, raising the issues of (1) whether the relief available in an action based on the federal common law of nuisance is greater than that available under the federal statute, and (2) whether the evidence in this case is sufficient to support the relief granted.
+As to the first question, we hold that the statute does not limit the relief that may be granted; as to the second, we hold that the evidence is sufficient to support only some of the relief granted and therefore affirm in part and reverse in part.
+This litigation began with Illinois' petition for leave to file an original action in the Supreme Court of the United States, which was denied, Illinois v. Milwaukee , 406 U.S. 91 , 92 S.Ct. 1385 , 31 L.Ed.2d 712 (1972).
+Illinois then filed suit in the United States District Court for the Northern District of Illinois.
+Defendants' motions to dismiss for lack of in personam jurisdiction and improper venue were denied, Illinois v. Milwaukee , 4 E. R.C.
+1849 (N.D.Ill.1972); later, defendants' motions to dismiss for failure to state a claim on which relief could be granted were also denied, Illinois v. Milwaukee , 366 F.Supp.
+298 (N.D.Ill.1973).
+In due course the case proceeded to trial, at the conclusion of which the judge orally and extemporaneously announced his findings of fact and conclusions of law.
+The facts and the relief granted will be described later, as they become pertinent to the issues discussed.
+Defendant-appellants' position is supported by the briefs of three amici curiae : the State of Wisconsin, the National League of Cities, and the United States Conference of Mayors.
+In addition, the United States has filed a brief amicus curiae in which it takes no position on the merits but supports the arguments of Illinois and Michigan that the federal common law of nuisance is not preempted or limited by federal legislation.
+After oral argument this court ordered supplemental briefing addressed to (1) the elements required to be proved to establish a claim for a common law nuisance, (2) identification of particularized findings of the district court considered material to those elements and record references to the evidence supporting those findings, and (3) identification of evidence in the record supporting the reasonableness and necessity of the relief granted by the trial court.
+The parties filed extensive supplemental briefs, and each side subsequently filed a reply to the other's supplemental brief, as a consequence of which submission of the case was delayed until October 1978.
+I. Objections to the Forum Defendants raise three arguments that may be broadly characterized as objections to the forum.
+First, defendants contend that they have committed no "tortious act within" the State of Illinois as that phrase is used in the Illinois "long-arm" statute, 17 of the Illinois Civil Practice Act, Ill.Rev.Stat.
+ch.
+110, 17 (1977), and therefore service of process was ineffective and the United States District Court sitting in Illinois could not exercise personal jurisdiction over them.
+See Rule 4(e), Federal Rules of Civil Procedure (Fed.R.Civ.P.).
+Second, defendants contend that their contacts with Illinois are insufficient to meet the minimum required by International Shoe v. Washington , 326 U.S. 310 , 66 S.Ct. 154 , 90 L.Ed. 95 (1945).
+Third, defendants contend that even if the court had personal jurisdiction, venue was improper.
+Judge Bauer, then a district judge, rejected these contentions in denying defendants pretrial motions to dismiss in Illinois v. Milwaukee , supra , 4 E.R.C.
+at 1850, and we do likewise.
+For purposes of 17 "a tort is committed in the place where the injury occurs."
+McBreen v. Beech Aircraft Corp. , 543 F.2d 26, 28 (7th Cir. 1976).
+It seems beyond dispute that injury to the plaintiff in this case occurred in Illinois.
+Cf. Ohio v. Wyandotte Chemicals Corp. , 401 U.S. 493, 500 , 91 S.Ct. 1005 , 28 L.Ed.2d 256 (1971).
+As to the second contention, the critical issue is whether it is fair and reasonable to require the defendants to defend in Illinois.
+See Kulko v. Superior Court of California , 436 U.S. 84, 92 , 98 S.Ct. 1690 , 56 L.Ed.2d 132 (1978); Telco Leasing, Inc. v. Marshall County Hospital , 586 F.2d 49 (7th Cir. 1978).
+3 Each year defendants dump into Lake Michigan millions of gallons of pathogen-containing sewage, which the district court found is sometimes carried into Illinois waters and presents a substantial threat of harm to Illinois residents.
+Under such circumstances, we do not think it unfair or unreasonable to require the defendants to defend their conduct in a federal forum located within the State of Illinois.
+See Ohio v. Wyandotte Chemicals Corp. , supra , 401 U.S. at 500 , 91 S.Ct. 1005 .
+Defendants argue that venue was improper for three different reasons: (1) the venue provision of the Federal Water Pollution Control Act Amendments of 1972, Pub.L.
+No. 92-500, 86 Stat. 816 , requires that the suit be filed in the district where the source is located, (2) all "nuisance" actions are "local" and therefore must be filed in the district where the source is located, and (3) all actions against a municipal corporation are "local" and therefore must be filed in the district where the municipal corporation is located.
+The first argument is quickly disposed of, for the venue provision of the statute is by its terms inapplicable.
+That provision is relevant only to "action[s] respecting a violation .
+.
+.
+of an effluent standard or limitation .
+.
+.
+brought under [ 505 ] .
+. "
+505(c)(1) .
+Here, plaintiff's action is based on the federal common law of nuisance.
+Therefore the relevant venue provision is 28 U.S.C. 1391(b) , which permits suit in either the "judicial district where all defendants reside, or in which the claim arose .
+. "
+Illinois v. Milwaukee , supra , 406 U.S. at 108 n.10, 92 S.Ct. at 1395 n.10.
+Whatever may be the significance of state law in determining whether an action is "transitory" or "local" in other contexts, 4 we agree with the district court, Illinois v. Milwaukee , supra , 4 E.R.C.
+at 1850, that the language in the Supreme Court's opinion in Illinois v. Milwaukee , supra , 406 U.S. at 108 n.10, 92 S.Ct. 1385 , indicates that an action against a municipal corporation and based on the federal common law of nuisance may be filed, pursuant to 28 U.S.C. 1391(b) , in either the district where all the defendants reside or the district where the claim arose, without regard to any otherwise applicable state venue statutes or common law rules.
+In this case, the claim arose in the Northern District of Illinois, where the injury was suffered, and therefore venue was proper.
+5 II.
+Effect of Federal Statutes on Federal Common Law of Nuisance In Illinois v. Milwaukee , supra , 406 U.S. 91 , 92 S.Ct. 1385 , 31 L.Ed.2d 712 , the Court denied Illinois' petition for leave to file an original action under 28 U.S.C. 1251(a)(1) 6 on the ground that "States," as used in that provision, does not include political subdivisions.
+Id. at 98 , 92 S.Ct. 1385 .
+The Court also declined to exercise its jurisdiction under 28 U.S.C. 1251(b)(3) , 7 since the issues raised in the complaint were governed by federal common law, and therefore an appropriate district court would have jurisdiction of the case under 28 U.S.C. 1331(a) .
+8 After reviewing the provisions of the Federal Water Pollution Control Act, 62 Stat. 1155 , 9 and other federal legislation regulating pollution of interstate waters, the Court held that federal common law had not been preempted, but noted "that new federal laws and new federal regulations may in time pre-empt the field of federal common law of nuisance."
+Id. at 107 , 92 S.Ct. at 1395 .
+Shortly after that decision Congress adopted the comprehensive Federal Water Pollution Control Act Amendments of 1972, Pub.L.
+No. 92-500, 86 Stat. 816 .
+In 1977 Congress further amended the Act.
+Pub.L.
+No. 95-217, 91 Stat. 1566 .
+Defendants concede that neither the 1972 nor the 1977 amendments preempt the federal common law of nuisance.
+Wisconsin's brief amicus curiae , however, argues that the comprehensive statutory scheme preempts the common law.
+The brief of the United States as amicus curiae argues to the contrary.
+Since the issue concerns our jurisdiction, we are obliged to consider it.
+See, e. g. , American Meat Institute v. EPA , 526 F.2d 442, 448-449 (7th Cir. 1975).
+In addition, we consider whether the statute, even if it does not preempt the federal common law, limits the relief that may appropriately be granted or otherwise influences the principles to be applied in this action.
+A. Federal Water Pollution Control Act 1.
+The Statute Before 1972 The pre-1972 Federal Water Pollution Control Act, 62 Stat. 1155 , as amended, 33 U.S.C. 1151 , et seq.
+(1970), authorized each state, with the approval of the Secretary of the Interior, to adopt "water quality criteria applicable to interstate waters or portions thereof within" the state, 33 U.S.C. 1160(c)(1) (1970), for the purposes of protecting the public health or welfare and enhancing the quality of water, see 33 U.S.C. 1160(c)(3) (1970).
+If any state failed to adopt acceptable water quality criteria, the Act authorized the Secretary of the Interior to prescribe them, 33 U.S.C. 1160(c)(2) (1970); water quality standards prescribed by the Secretary were subject to modification after review by a "Hearing Board" on petition of the governor of any state affected by the standards, 33 U.S.C. 1160(c)(4) (1970).
+The Act also provided enforcement procedures, recently described by the Supreme Court as "cumbrous."
+EPA v. California ex rel.
+State Water Resources Control Board , 426 U.S. 200, 202 , 96 S.Ct. 2022 , 48 L.Ed.2d 578 (1976); see also Illinois v. Milwaukee , supra , 406 U.S. at 103 , 92 S.Ct. 1385 (describing the enforcement procedures as "long" and "drawn-out").
+The procedures for abating pollution originating in one state but allegedly causing harm in a second state are of primary importance for our purposes.
+The Act provided that upon complaint of the governor or water pollution control agency of the second state, the Secretary should call a conference, giving all the interested parties notice of, and an opportunity to make statements at, the conference.
+33 U.S.C. 1160(d)(1) , (3) (1970).
+After the conference, the Secretary was directed to prepare a report for the benefit of the state agencies represented at the conference in which he summarized the proceedings and discussed, among other things, the adequacy of the measures taken to abate the pollution.
+33 U.S.C. 1160(d)(4) (1970).
+If the measures already taken were deemed inadequate, the Secretary was to recommend appropriate remedial action to the water pollution agency in the state from which the pollution came.
+33 U.S.C. 1160(e) (1970).
+If after "at least six months" the state agency had not taken the necessary action, the Secretary was directed to conduct hearings at which all the interested parties would again be given an opportunity to make statements, this time before a "Hearing Board."
+33 U.S.C. 1160(f)(1) (1970).
+If the Hearing Board found that pollution endangering the public health or welfare was indeed occurring and that adequate steps toward abatement had not been taken, it submitted its findings and recommendations "concerning the measures, if any, which it [found] to be reasonable and equitable to secure abatement of such pollution."
+Id .
+The Secretary then forwarded the Hearing Board's findings and recommendations "together with a notice specifying a reasonable time (not less than six months) to secure abatement of such pollution" to the polluters and the originating state's water pollution control agency.
+Id .
+If the polluter or state agency failed to take "action reasonably calculated to secure abatement" within the specified time, then the Secretary was authorized to request the Attorney General to file suit to secure abatement.
+33 U.S.C. 1160(g)(1) (1970).
+Discharges that reduced the quality of water below any "water quality criteria" established under the Act were subject to abatement pursuant to similar procedures.
+33 U.S.C. 1160(c)(5) (1970).
+The Act made no provision for private abatement suits.
+It is this system of interstate water pollution abatement, in combination with the discharge permit system administered by the Army Corps of Engineers, see note 16, infra , and other federal legislation, that the Court found insufficient to preempt the federal common law of interstate water pollution in Illinois v. Milwaukee , supra , 406 U.S. at 101-103, 107 , 92 S.Ct. 1385 .
+2.
+The 1972 Act Because of the inadequacies inherent in the "water quality" approach and, among other things, the ineffectiveness of the enforcement procedures described above, 10 Congress adopted the Federal Water Pollution Control Act Amendments of 1972, 33 U.S.C. 1251 , et seq.
+The 1972 amendments, which we sometimes refer to herein as the Act or FWPCA, substantially rewrote the statute, supplementing the water quality criteria with direct discharge limitations and greatly strengthening enforcement procedures.
+Congress declared that the national goal was to eliminate the discharge of pollutants into navigable waters by 1985.
+To achieve that goal, Congress established general technology-based levels of treatment for any pollutant that is to be discharged into navigable waters and specified dates by which those levels of treatment are to be achieved, 301 ; 11 all point sources 12 except publicly owned treatment works 13 must adopt the "best practicable control technology currently available" by July 1, 1977, and the "best available technology economically achievable" by July 1, 1983, 301(b)(1)(A) , (2)(A); publicly owned treatment works are required to adopt "secondary treatment" by July 1, 1977 and "the best practicable waste treatment technology over the life of the [treatment] works" by July 1, 1983, 301(b)(1)(B) , (2)(B), and 201(g)(2)(A).
+The Act directs the Administrator of the Environmental Protection Agency (EPA) 14 to prescribe the specific effluent limitations achievable using "best practicable" treatment technology, 301(b)(1)(A) , 304(b)(1), "best available" treatment technology, 301(b)(2)(A) , 304(b)(2), and "secondary" treatment technology, 301(b)(1)(B) , 304(d)(1).
+See, e. g. , E. I. du Pont de Nemours & Co. v. Train , 430 U.S. 112, 126-136 , 97 S.Ct. 965 , 51 L.Ed.2d 204 (1977); American Meat Institute v. EPA , supra , 526 F.2d at 448-452 .
+In addition, all point sources, presumably including publicly owned treatment works, must comply with "any more stringent limitation .
+.
+.
+established pursuant to any State law or regulations (under authority preserved by 510 ) 15 or any other Federal law or regulation .
+.
+.
+."
+301(b)(1) (C).
+The 1972 Act also created a permit system, called the National Pollutant Discharge Elimination System (NPDES), under which discharge permits may be granted by EPA or, where a state provides satisfactory assurances that it will enforce the requirements of the Act and EPA regulations, a designated agency of the state.
+16 Any discharges, except in compliance with the limitations imposed in a permit, are declared unlawful.
+301(a) .
+A permit must require the discharger to meet the minimum effluent limitations prescribed in the Act and EPA regulations.
+402(b)(1) (A).
+Each state agency established under the National Pollutant Discharge Elimination System is required to notify EPA of any permit to be issued under the program.
+402(d)(1) .
+If, under the permit, the waters of another state "may be affected," the agency is required to notify the other state, to give the other state an opportunity to submit written recommendations concerning the limitations to be imposed in the permit, and, if those recommendations are not adopted, to explain why in writing to EPA and the other state.
+402(b)(3) , (5).
+EPA may veto the issuance of any discharge permit if the waters of a state other than the issuing state may be affected.
+402(d)(2) (A), (b)(5).
+It is not clear whether the veto can be based on a ground other than violation of a standard imposed pursuant to the Act by EPA or a state.
+The language of 402(d)(2) (A) suggests that it can.
+17 The legislative history, however, indicates that the veto must be based upon the issuing state's failure to impose limitations sufficient to assure that applicable effluent limitations, either those imposed under the Act by EPA or those imposed by the affected state, are respected.
+18 Since there has been no veto here, it is unnecessary for us to resolve this ambiguity.
+The 1972 Act also substantially modified enforcement procedures.
+"Whenever, on the basis of any information available to him, the Administrator finds that any person is in violation of any condition or limitation" imposed under the Act, including those contained in state-issued discharge permits, he may at his option "issue an order requiring such person to comply," commence a civil action for appropriate relief in a federal district court, or notify the appropriate state agency of the violation.
+309(a) (1), (3), (b).
+If the latter course is chosen and after 30 days the state agency has not taken appropriate action to secure compliance, the Administrator must exercise one of the first two options.
+309(a) .
+Criminal and civil penalties are provided in 309(c) and (d).
+In accord with the stated policy of encouraging "[p]ublic participation in the development, revision, and enforcement of any regulation, standard, effluent limitation, plan, or program established" under the Act, 101(e) , Congress authorized any "person .
+.
+.
+having an interest which is or may be adversely affected" to file a civil action to secure compliance with the Act against any person alleged to be in violation of the provisions of the Act or against the Administrator if he fails to perform any nondiscretionary duty under the Act.
+505 (a), (g).
+19 But "[n]othing in [ 505 ] shall restrict any right which any person (or class of persons) may have under any statute or common law to seek enforcement of any effluent standard or limitation or to seek any other relief (including relief against the Administrator or a State agency)."
+505(e) .
+3.
+The 1977 Amendments .
+20 The 1977 amendments are fairly extensive, but of limited significance for our purposes.
+In them Congress modified the National Pollutant Discharge Elimination System to provide that when EPA objects to the issuance of a permit, it must also state "the reasons for such objection and the effluent limitations and conditions which such permit would include if it were issued by the Administrator."
+65(b) , 91 Stat. 1599 , as amended, 33 U.S.C.A 1342(d)(2) .
+A procedure was provided to avoid the impasse that had been possible under the 1972 Act when EPA objected to the issuance of a specific permit but the state agency refused to issue a modified permit; under the amendments, if EPA "objects to the issuance of a permit," the issuing state is entitled to a public hearing on the objection.
+65(a) , 91 Stat. 1599 as amended, 33 U.S.C.A. 1342(d)(4) ; see S.Rep.No.95-370 , 95th Cong., 1st Sess.
+73, reprinted in U.S.Code Cong. & Admin.News , pp.
+4326, 4398; H.R.Rep.No.95-830, 95th Cong., 1st Sess.
+96-97, reprinted in U.S.Code Cong. & Admin.News , pp.
+4424, 4471-4472.
+If the state either fails to request a hearing within 90 days of the objection or fails to submit a revised permit meeting the objection, then EPA may issue a permit itself "in accordance with the guidelines and requirements" of the Act.
+65(a) , supra .
+Congress also adopted provisions authorizing EPA, with the concurrence of the State in which the point source is located, under limited circumstances, to modify the dates by which the effluent levels established in the 1972 Act for all point sources must be met.
+See 43 , 44, 45, 91 Stat. 1583-1586 , as amended, 33 U.S.C.A. 1311(g) , (h), (i).
+The provisions applicable to modification of compliance dates for publicly owned treatment works are of particular significance here.
+Where construction is necessary for compliance with the "secondary treatment" or "more stringent" requirements of the 1972 Act, 301(b)(1)(B) , (C), but cannot be completed in time to meet these requirements or "the United States has failed to make financial assistance .
+.
+.
+available in time to achieve such limitations .
+.
+.," EPA or the appropriate state agency may extend the compliance date to July 1, 1983.
+45 , 91 Stat. 1584-1585 , as amended, 33 U.S.C.A. 1311(i) .
+The language and legislative history of this provision, however, make it clear that the maximum compliance possible at the time must be achieved throughout the period and complete compliance achieved at the "earliest date practically possible."
+Id .
+; S.Rep.No.95-370 , 95th Cong., 1st Sess.
+47, reprinted in U.S.Code Cong. & Admin.News at 4372.
+The 1977 amendments also provide for pollutant-specific modifications of the requirements of the 1972 Act.
+44 , 91 Stat. 1584 , as amended, 33 U.S.C.A. 1311(h) .
+Upon an adequate showing that, among other things, "there is an applicable water quality standard specific to the pollutant for which the modification is requested" and the modification would "not interfere with the attainment or maintenance of that water quality which assures protection of public water supplies and the protection .
+.
+.
+of a balanced .
+.
+.
+population of shellfish, fish, and wildlife, and allows recreational activities, in or on the water .
+.
+.," EPA, "with the concurrence of the State, may issue a permit .
+.
+.
+which modifies the secondary treatment effluent limitations prescribed under the Act for publicly owned treatment works."
+Id .
+The only other provision of the 1977 amendments that is of significance for our purposes directs EPA to conduct a study and report to Congress on "the status of combined sewer overflows in municipal treatment works operations."
+70 , 91 Stat. 1608 , as amended, 33 U.S.C.A. 1375(c) .
+The Senate committee studying the proposed legislation noted that "the second largest category of municipal treatment needs identified in the 1976 national needs list is the correction of combined sewer overflows .
+.
+Examples brought to the committee's attention showed combined sewer overflow problems to be a significant source of untreated sewage to the Nation's waters."
+S.Rep.No.95-370 , supra , 81, reprinted in U.S.Code Cong. & Admin.News , supra , p. 4406.
+One of the purposes of the report is to determine whether new legislation to address the problem is needed.
+70 , 91 Stat. 1608 , as amended, 33 U.S.C.A. 1375(c) .
+B. Preemption and Compliance with the Statute As a Defense Congress has thus established a comprehensive and detailed system for the regulation and eventual elimination of pollutant discharges into the nation's waters.
+Nevertheless, Congress has expressly stated that the effluent limitations imposed under the Act do not preclude the establishment of more stringent limitations by any state, 510 , see United States Steel Corp. v. Train , supra , 556 F.2d at 835-836, 837-838 ; and nothing in the Act is to be construed as "limiting the authority or functions of any officer or agency of the United States under any other law or regulation not inconsistent with [the] Act; .
+. "
+511(a) .
+The language of 511(a) is arguably broad enough to include the federal courts and, when read in the light of 510 , suggests, if it does not require, the conclusion that Congress did not intend to preempt the federal common law of nuisance.
+The imposition of effluent limitations more stringent than those required under the Act, if necessary to prevent harm to a complaining party, is fully consistent with the provisions of the Act.
+Because of the shared authority between the federal government and the individual states established in the Act, it is plain that uniformity was not thought necessary.
+Even the minimum effluent limitations prescribed in the Act are not uniform because the provisions for the ad hoc modification of the degree of compliance required for specific point sources will necessarily lead to variation.
+While providing in 505 for private suits to enforce the effluent limitations prescribed in the Act, Congress specifically stated that nothing in the section "shall restrict any right which any person .
+.
+.
+may have under any statute or common law to seek enforcement of any effluent standard or limitation or to seek any other relief .
+.
+.," thus indicating that preemption of existing remedies was not intended.
+There is nothing in the phrase "any statute or common law" that suggests that this provision is limited to state common law.
+There is no reason to believe that Congress would have wished to preserve state common law claims and preclude federal common law claims.
+The preservation of all existing remedies is consistent with the recognition in this Act of the value of public participation in all aspects of the effort "to restore and maintain the chemical, physical, and biological integrity of the Nation's waters," exemplified by the direction to EPA and states participating in the national discharge permit system to encourage such participation.
+See also Citizens for a Better Environment v. EPA , 596 F.2d 720, 722 (7th Cir. 1979).
+We conclude that the federal common law of nuisance has not been preempted by the Act.
+For the same reasons, we reject defendants' contention that compliance with a discharge permit issued under the Act is a defense in an action based on the federal common law of nuisance.
+Cf. New York v. New Jersey , 256 U.S. 296, 308 , 41 S.Ct. 492 , 65 L.Ed. 937 (1921) (in which the Court noted a construction permit issued by the Secretary of War, presumably under the provisions of the Rivers and Harbors Act of 1899 that were replaced by 402 of the 1972 Act, see note 16, supra , incorporating discharge limitations adopted in a settlement agreement with United States but did not regard the limitations as dispositive in New York's action against New Jersey); Baltimore & Potomac R. Co. v. Fifth Baptist Church , 108 U.S. 317 , 2 S.Ct. 719 , 27 L.Ed. 739 (1883) (rejecting the defendant railroad's arguments that compliance with District of Columbia smoke stack regulations, the existence of a federal charter authorizing defendants to "make and construct all works whatever, which might 'be necessary and expedient'," or congressional approval of the train route constituted a defense in a nuisance action when plaintiff suffered injury resulting from defendant's activity).
+21 But compare Pennsylvania v. Wheeling & Belmont Bridge Co. , 13 How. (54 U.S.) 518 , 14 L.Ed. 249 (1851) with Pennsylvania v. Wheeling Bridge Co. , 18 How. (59 U.S.) 421 , 15 L.Ed. 435 (1856) and Northern Transportation Co. v. Chicago , 9 Otto (99 U.S.) 635 , 25 L.Ed. 336 (1879).
+C. Limitations on Relief Defendants contend that even if the Act does not preempt the federal common law of nuisance, and even if compliance with the Act is not a defense, no more stringent relief can be granted by way of abatement than the federal minimum prescribed by the Act and EPA.
+In other words, although the federal government need not speak with a single voice, the words must be the same.
+As noted above, however, Congress has expressly stated that nothing in the Act should be read to limit the authority of any federal "officer or agency" so long as that authority is consistent with the provisions of the Act.
+Consistency does not require uniformity; the provision expressly preserving the authority of the states to impose limitations more stringent than those required under the Act, 510 , indicates that Congress did not think more stringent limitations inconsistent with the Act.
+Moreover, the savings clause, 505(e) , speaks not only of rights, but also of remedies.
+Since any effluent limitations less stringent than those provided in the Act, except pursuant to the modification procedures established, are prohibited, 505(e) must contemplate more stringent limitations than those imposed in the Act.
+If accepted, defendants' argument would reduce a cause of action under the federal common law to no more than an alternative avenue for enforcement of the statute.
+For the reasons stated above, we do not think that Congress intended any such restriction or that the statute, fairly read, limits the relief available in a federal court.
+D. Common Law of the Statute The conclusion that the Federal Water Pollution Control Act, as amended, does not preempt the federal common law of nuisance or limit the relief available in this case does not render that Act irrelevant.
+A statute that does not by its terms govern the case before a court may contain indications of the legislature's judgment on relevant issues of policy or provide an appropriate principle for decision of the case. 22 In applying the federal common law of nuisance in a water pollution case, a court should not ignore the Act but should look to its policies and principles for guidance.
+See Illinois v. Milwaukee , supra , 406 U.S. at 103 n.5, 92 S.Ct. 1385 ; cf. Textile Workers v. Lincoln Mills , 353 U.S. 448, 456-457 , 77 S.Ct. 923 , 1 L.Ed.2d 972 (1957).
+The Act contains no rules or principles that control in this case.
+We think, however, that the minimum treatment standards found acceptable by Congress and the effluent limitations imposed under the system established in the Act provide an appropriate starting point.
+Cf., e. g. , Wallis v. Pan American Petroleum , 384 U.S. 63, 69 , 86 S.Ct. 1301 , 16 L.Ed.2d 369 (1966).
+In the 1972 Act, Congress said that by July 1, 1977, publicly owned treatment works must, with several significant exceptions, adopt "secondary" treatment.
+That command was qualified by the 1977 amendments authorizing EPA or the appropriate state agency to extend the time for compliance with the secondary treatment standard to July 1, 1983.
+The Act's generally more stringent second stage provisions only require "the application of the best practicable waste treatment technology over the life of the works .
+.
+.," by July 1, 1983.
+301(b)(2)(B) , 201(g)(2)(A) (emphasis added).
+Thus, Congress has approved secondary treatment as an acceptable minimum for publicly owned treatment works at least until 1983 and perhaps later.
+23 EPA has defined secondary treatment for the purposes of the Act in terms of resulting effluent quality.
+40 C.F.R. 133.102 .
+Even though states are authorized to establish more stringent effluent limitations than those required by EPA, 402 , 510, there appear to be no Wisconsin regulations imposing more stringent standards, and the NPDES permits issued by the Wisconsin agency to the defendants in this case impose limitations no more stringent than those required by EPA.
+24 As we shall explain in more detail below, the effluent limitations contained in the permits are less stringent than those imposed by the district court in this case. In addition, the permits contain no prohibitions against discharges of raw sewage through overflows.
+While it is appropriate to give weight to Congress' expectations in adopting the Act and the standards established by EPA pursuant to the Act, we cannot forget that Congress deliberately chose to preserve existing rights and remedies.
+Thus, if the evidence in this case shows that requirements more stringent than those imposed in the NPDES permits are necessary to protect Illinois residents from harm caused or threatened by the defendants' sewage discharges, plaintiffs are entitled to have the more stringent requirements imposed.
+We can think of no other reason for Congress' preserving previously existing rights and remedies than to protect the interests of those who would be able to show that the requirements imposed pursuant to the federal statute are inadequate to protect their interests.
+When the complaining party is a neighboring state, the federal common law of nuisance provides a peculiarly appropriate remedy. 25 III.
+Elements of the Claim, Relief, and Standard of Proof The elements of a claim based on the federal common law of nuisance are simply that the defendant is carrying on an activity that is causing an injury or significant threat of injury to some cognizable interest of the complainant.
+See Georgia v. Tennessee Copper , 206 U.S. 230, 238-239 , 27 S.Ct. 618 , 51 L.Ed. 1038 (1907).
+It has been said that "in such a suit traditional limitations on equitable remedies are applicable."
+United States v. Stoeco Homes , 498 F.2d 597, 611 (3d Cir. 1974).
+This would mean that an injunction would be granted only when the right to relief is clear and the remedy at law inadequate.
+Missouri v. Illinois , 180 U.S. 208, 248 , 21 S.Ct. 331 , 45 L.Ed. 497 (1901); Wright & Miller, 11 Federal Practice and Procedure , 2942 , 364, 368-369 (1973); see also Mugler v. Kansas , 123 U.S. 623, 672-673 , 8 S.Ct. 273 , 31 L.Ed. 205 (1887).
+26 But when a state complains of pollution originating outside its territory the rules are different: Georgia v. Tennessee Copper , supra , 206 U.S. at 237-238 , 27 S.Ct. at 619 .
+Moreover, when the polluting activity is shown to endanger the public health, injunctive relief is generally appropriate.
+See Harrison v. Indiana Auto Shredders Co. , 528 F.2d 1107, 1122-1123 (7th Cir. 1976) (diversity case applying Indiana law).
+Similarly, while determining whether to issue an injunction generally involves a balancing of the interests of the parties, 27 Wright & Miller, supra , 2942 at 366-367 & n.43, the balance is of less importance when the plaintiff is a sovereign state.
+See Georgia v. Tennessee Copper , supra , 206 U.S. at 238 , 27 S.Ct. 618 .
+And if the pollution endangers the public health, injunctive relief is proper, without resort to any balancing.
+See Harrison v. Indiana Auto , supra , 528 F.2d at 1122-1123 .
+In exercising its original jurisdiction in interstate pollution cases, the Supreme Court has applied a preponderance of the evidence standard when the defendant is a private party, Georgia v. Tennessee Copper , supra , 206 U.S. at 238-239 , 27 S.Ct. 618 but a clear and convincing evidence standard when the defendant is a state, New York v. New Jersey , 256 U.S. 296, 309 , 41 S.Ct. 492 , 65 L.Ed. 937 (1921); Missouri v. Illinois , 200 U.S. 496, 520-522 , 26 S.Ct. 268 , 50 L.Ed. 572 (1906).
+28 In both New York v. New Jersey and Missouri v. Illinois , supra , 200 U.S. at 520-522 , 26 S.Ct. 268 , use of the higher standard was attributed to the sovereign status of the defendant.
+For example, in New York v. New Jersey the Court explained that New York v. New Jersey , supra , 256 U.S. at 309 , 41 S.Ct. at 496 .
+Justice Harlan's opinion for the Court in Ohio v. Wyandotte Chemicals , supra , 401 U.S. at 501-502, 504-505 , 91 S.Ct. 1005 , however, suggests that use of the higher standard was a part of an accommodation devised to enable the Supreme Court, structured as it is "to perform as an appellate tribunal," id. at 498 , 91 S.Ct. at 1009 , to cope with original actions in that Court involving interstate disputes regarding air and water pollution.
+29 He also indicated that the higher standard of proof might be appropriate in original actions against private defendants as well.
+Id. at 501 n.4, 91 S.Ct. 1005 .
+Justice Harlan's rationale for requiring the higher standard of proof is inapplicable when the action is tried in a trial court; and the alternative, sovereign state rationale recognized in the earlier cases is inapplicable here, cf. Illinois v. Milwaukee , supra , 406 U.S. at 98 , 92 S.Ct. 1385 (political subdivisions of a state are not "States" as used in 28 U.S.C. 1251(a)(1) , see note 6, supra ).
+Accordingly, we think the correct standard of proof in this case is a preponderance of the evidence 30 rather than clear and convincing evidence, although we can say, as did the district court, that use of either standard would produce the same result.
+IV.
+Sufficiency of the Evidence Supporting Findings of Fact The district court found that the defendants dump substantial quantities of pathogen-containing sewage into Lake Michigan each year, that the lake currents carry the pathogens into Illinois waters, where they may infect drinking water supplies and pose a danger to swimmers, and therefore that defendants' actions pose a significant risk of injury to Illinois residents.
+These findings are not clearly erroneous.
+Rule 52, Fed.R.Civ.P. The evidence supporting the findings, which we have carefully reviewed, 31 may be summarized as follows: Any population as large as Milwaukee's will include carriers of enteroviruses, 32 who will excrete the viruses.
+Therefore the sewage of a city as large as Milwaukee inevitably contains these viruses.
+Similarly, the sewage of any large city will also contain pathogenic bacteria.
+The sewer systems defendants operate have a total of approximately 239 bypass or overflow points from which untreated sewage escapes to flow directly or indirectly into lake Michigan or into rivers that empty into the lake.
+33 Most of these overflow points are either pumping stations or what are called "gravity overflows."
+Both types are triggered by the level of sewage in the system.
+In the former, pumps are activated by electrodes inside the sewer when the sewage flow reaches the level of the electrodes; when the pumps are activated, raw sewage is either pumped into storm sewers, which empty into rivers that in turn empty into Lake Michigan, or dumped directly into the rivers.
+The gravity overflows are simply pipes placed inside the sewers; when the sewage level rises to that of the pipes, raw sewage pours out into either storm sewers or rivers and then into Lake Michigan.
+Since both types of overflow points are activated by the level of sewage, an overload or a blockage in the sewers that causes the sewage level to rise will cause overflows, even if the sewer capacity would otherwise be adequate.
+Because ground water and water from storm sewers sometimes "infiltrates" or flows into sanitary sewers, overflows from the sanitary sewers, as well as from combined sewers, are especially likely during wet weather.
+In a single month in 1976 the untreated sewage discharged from just 11 of the 239 overflow points totalled 646.46 million gallons.
+In addition to the pathogens in the raw sewage that the defendants dump into Lake Michigan, pathogens are contained in the effluent that the South Shore and Jones Island treatment plants discharge directly and indirectly into Lake Michigan 34 when treatment of sewage at those plants is inadequate, as it has sometimes been.
+Biochemical oxygen demand (BOD), 35 as an indicator of the presence of organic material, and the presence of suspended solids 36 are both significant factors in evaluating the adequacy of sewage treatment, especially as to virus and bacteria elimination.
+37 EPA regulations and the discharge permits issued by the Wisconsin Department of Natural Resources for the Jones Island and South Shore plants require that the average daily BOD 5 (see note 35, supra ) and suspended solids content of the effluent not exceed 30 milligrams per liter (mg/l) in any 30-day period.
+Not only were the 30-day average daily limitations frequently violated at Jones Island and South Shore, but also, on occasion, even if these limitations were met, discharges on individual days greatly exceeded the 30 mg/l limitation.
+38 The evidence established that, at temperatures between 40 and 70 degrees Fahrenheit, 90% of the bacteria discharged on any given day will generally "die-off" within two to four days, although they can survive for four to eight days.
+But, at temperatures between 40 and 50 degrees Fahrenheit, viruses will survive for months; even at 70 degrees, a temperature rarely reached by Lake Michigan except in July and August, viruses will survive for about two weeks.
+All of the witnesses who testified concerning the transport of pathogens discharged at Milwaukee into Illinois waters agreed that the southerly currents were strong enough and persisted long enough to carry the pathogens into Illinois waters in less than four days.
+They differed only as to the number of times that this could be expected to occur in a given year.
+Pathogens discharged at Milwaukee will sometimes be carried into Illinois waters close enough to shore to come in contact with swimmers and to be taken in by water treatment plants.
+A swimmer can be infected by getting contaminated water into his mouth or nose or on a cut or abrasion on the skin.
+Drinking water can be contaminated by viruses or bacteria in lake water if a water treatment plant malfunctions because of human error or mechanical breakdown.
+Furthermore, there was evidence that viruses and bacteria can survive the treatment at a drinking water plant, even in the absence of error or breakdown.
+If viruses or bacteria contaminate the drinking water supplies, Illinois residents ingesting the water can of course become infected.
+Defendants estimate that the effluent from Jones Island and South Shore contains about 1,100,000 pounds of phosphorus each year; the phosphorus content of defendants' raw sewage discharges is unmeasured.
+The district court found that this constituted a substantial contribution to the accelerated eutrophication of the water in the western in-shore zone of Lake Michigan, within the territorial boundaries of the State of Illinois, and also found that the State of Michigan was injured by accelerated eutrophication, aggravated by defendants' discharges.
+39 V. Sufficiency of the Evidence Supporting the Relief Granted A. Relief Granted by the District Court The district court's judgment order requires the defendants to eliminate all overflows, defined as any "crossover, bypass, diversion structure, relief structure, pump station or any other device or mechanism by which human fecal waste is discharged directly or indirectly to public streams, rivers or lakes without collection and treatment," located outside the combined sewer system area by July 1, 1986.
+As to the 112 combined sewer overflows, the defendants must construct a collection and conveyance system with a storage capacity of 2605 acre-feet 40 by December 31, 1989.
+Any overflow from this collection and conveyance system must receive minimum "treatment" consisting of "bar screen" filtering, followed by "drum screen" filtering, and chlorination.
+Defendants must either modify existing sewage treatment facilities or construct new facilities to treat all sewage, including that collected in the combined sewer collection and conveyance system, in order to meet the following effluent limitations by December 13, 1986: 5 5 The order also provides for evidentiary hearings to secure modifications of the order or to determine whether the provisions of the order have been violated.
+In any such hearing the defendants must bear the burden of proving by a preponderance of the evidence that the modification is necessary or that any alleged violation of the order did not occur or was excused.
+B. Overflows That part of the district court's order requiring defendants to eliminate all overflows outside the combined sewer system by July 1, 1986 and to construct a collection and conveyance system for the combined sewer system that will practically eliminate overflows on the combined sewer system by December 31, 1989 is supported by the evidence and is reasonable.
+1.
+Overflows Outside the Combined Sewer Area There appear to be no provisions in the Act or EPA regulations expressly forbidding the discharge of raw sewage into public waters from overflow points.
+Yet such a prohibition is at least implicit in the provisions of 301 .
+41 It would be senseless to prohibit the discharge of effluent from publicly owned treatment works not meeting the secondary treatment requirements of 301(b)(1) (B), if raw sewage can nonetheless be discharged at will from overflow points before it reaches the treatment works.
+The discharge permits that the Wisconsin agency issued for the South Shore and Jones Island treatment plants prohibit, except under very limited conditions, any "diversion or bypass" of raw sewage at the treatment works .
+Although the discharge permits do not otherwise prohibit overflow discharges, the permits do require the city commission to "initiate" programs "leading to the elimination or control of all discharge overflow and/or bypass points .
+. "
+Under the permits, plans for the elimination or control of overflows were to be submitted to the Wisconsin agency by December 31, 1975.
+It is not clear from the record whether any plans were submitted, or, if they were, what their terms were and what action was taken.
+In any event, the provisions of these permits appear to have been modified.
+In July, 1976, the defendant commissions filed an action in a Wisconsin state court against the Wisconsin Department of Natural Resources, the state's discharge permit issuing agency, challenging the validity of the requirements of the permits issued for South Shore and Jones Island.
+The state agency answered, asserting the validity of the permit requirements, and filed a counterclaim alleging that the defendant commissions had violated the permit effluent limitations on numerous occasions.
+The state agency also alleged The state court suit was resolved by a settlement agreement, approved by the court on May 25, 1977, in which the sewerage commissions accepted the requirement that they eliminate dry weather bypasses and overflows on the Main Interceptor System by July 1, 1982, and complete construction of relief sewers by July 1, 1983.
+While construction of relief sewers and the other construction contemplated in the agreement presumably is intended to mitigate overflows, there is no specific date by which wet weather overflows must be eliminated.
+The sewerage commissions also agreed to "coordinate" a district-wide effort to "correct" wet weather bypassing and overflows on the separate sewer systems of the municipalities located within the Metropolitan Sewerage District of the County of Milwaukee, see note 33, supra .
+Under the agreement, any of the 26 municipalities within the district, by adopting a "resolution of commitment to the correction of wet weather related bypassing and overflowing within its sewerage system" becomes subject to the supervision of the commissions, which are required to make sure that all "corrective work" is complete by July 1, 1986.
+We need not decide whether modification of discharge permits in this manner complies with the procedural requirements of 402(b)(3) , (5), (6) or the substantive requirements of 402(b)(1)(A) , (B).
+For our purposes, it is sufficient that the state agency has condemned raw sewage discharges.
+It is doubtful whether anyone, layman or expert, would argue that the discharge of raw sewage into public waters is a satisfactory alternative to collection and treatment of sewage, even though it may be conceded that it may take time to fund and provide collection and treatment facilities, and therefore the raw sewage discharges may have to be endured for the short term.
+Donald Wieland, Director of Engineering for the Sewerage Commission of the City of Milwaukee, flatly stated that discharging raw sewage into public waters as a permanent solution to sewage overloads was not "sound sanitary engineering practice": Similarly, Dale Lundy, a hydraulic and sanitary engineering consultant called by plaintiffs, testified that collection and treatment is "considered preferable" to discharge of raw sewage.
+Defendants point to nothing in the record that would even suggest that the discharge of raw sewage into public waters is either an acceptable long range solution to the problem of disposing of human wastes or a practice that can be regarded as safe.
+The "crossover" overflow devices on the city's so-called "separate" system also fall within this aspect of the court's order.
+Rather than discharging raw sewage directly into public waters, the crossover devices dump the sewage into storm sewers which in turn dump it into the public waters.
+There may or may not be water in the storm sewers when the crossover devices are activated, and therefore the crossover overflow devices may result in discharges of raw sewage into public waters in precisely the same manner as the overflow devices that dump sewage directly into public waters. 42 We note that the discharge permit apparently issued to the City of Milwaukee by the Wisconsin agency, as modified, see note 33, supra , requires the city to "initiate a program leading to the elimination of the sanitary sewer crossovers (gravity) and the electrically operated relief pumps" on the city's "separate" sanitary sewer system "to assure attainment of all applicable Water Quality Standards."
+We have seen that, depending on the efficiency of the treatment, even effluent from a treatment plant may contain pathogens that pose a danger to Illinois residents and phosphorus that contributes to the accelerated eutrophication of the lake.
+Obviously then untreated sewage poses a greater danger.
+We therefore affirm the district court's order to the extent that it requires defendants to eliminate discharges of untreated sewage outside the combined sewer system area.
+2.
+Overflows Within the Combined Sewer Area In considering the city's combined sewer overflows, it is again appropriate to take as a starting point the provisions of the Act.
+Although there is no provision expressly prohibiting "combined sewer overflows," we think that such a prohibition can be inferred from the general provisions of 301 .
+For, as noted above, it simply does not make sense to read the statute as authorizing unrestricted discharges of untreated sewage; "dilution" by storm water does not constitute treatment.
+It seems apparent that the amount of dilution that has taken place when an overflow occurs depends entirely on what the relative volumes of sewage and water in the sewer happen to be at the time of the overflow.
+The overflow mechanisms do not regulate the amount of dilution or distinguish between pure and diluted sewage.
+If the total amount of sewage and water introduced into a sewer exceeds its capacity, the excess is discharged into the rivers and the lake; it may be either "diluted" or "undiluted."
+That the flow from the combined sewers is supposed to go to the treatment plants suggests that not even the city believes that the dilution in the combined sewers is sufficient to render the discharges harmless.
+43 EPA regulations concerning treatment plants that receive sewage from combined sewers recognize that during wet weather it may be difficult for a treatment plant to meet secondary treatment effluent limitations, but those treatment plants are not exempt from the requirements of the regulations, and "diluted" sewage, like raw sewage, must be treated before being discharged: 40 C.F.R. 133.03(a) .
+Implicit is a recognition that dilution alone is inadequate to protect the receiving waters.
+The discharge permit issued to the City of Milwaukee required the city to "initiate a program leading to the attainment of control of overflows from the City's combined sewer system .
+.
+.
+to assure attainment of all applicable Water Quality Standards."
+Although the City of Milwaukee was not one of the named plaintiffs in the state court litigation referred to above, the settlement agreement appears to modify this provision and to contemplate "completion of construction [on the combined sewer system] and achievement of applicable water quality standards by July 1, 1993."
+Again we need not decide whether a modification accomplished in this way meets the procedural requirements of the Act or whether the terms of the modification meet the substantive requirements of the Act.
+It is enough that neither Congress nor any agency charged with responsibility under the Act has approved the practice of discharging untreated sewage from a combined sewer system into public waters.
+The requirements in the district court's order that the defendants collect and treat the sewage in combined sewers before discharging it directly or indirectly into Lake Michigan is proper in light of the evidence.
+Defendants concede the feasibility of the completion date requirements.
+3.
+Illinois' Regulation of Overflows Within Its Own Jurisdiction Defendants attack the overflow elimination provision of the district court's order on the additional ground that Illinois does not even require elimination of sewage overflows within its own jurisdiction.
+Defendants cite 602 of the Illinois Pollution Control Board Rules and Regulations, Chapter 3: Water Pollution.
+There is precedent, in a case of this kind, for considering the rules of the complaining state as an indication of what is appropriate for the protection of the residents of that state.
+Missouri v. Illinois , supra , 200 U.S. at 525-526 .
+44 The argument is, on its face, inapplicable to sanitary sewer overflows since Illinois does prohibit those, Illinois Pollution Control Board Rules and Regulations, supra , 602(b) (1976); 45 consequently, we interpret defendants' argument to be that it was improper to order collection and treatment of sewage in the combined sewer system area.
+Section 602(c) does not prohibit combined sewer overflows, but "all dry weather flows, and the first blush of storm flows" must meet applicable effluent limitations, which for Lake Michigan are comparable to those imposed by the district court, and new combined sewers are prohibited.
+Id .
+602(c)(1) .
+46 Combined sewer flows equal to ten times the average "dry weather flow" must receive "primary treatment and disinfection with adequate retention time."
+Id .
+, 602(c)(2) .
+These requirements seem to be comparable to the treatment of overflows from the collection and conveyance system prescribed by the district court.
+The Illinois regulations further provide that, if necessary to prevent sludge accumulation or oxygen level depression, flows greater than ten times the average "dry weather flow" must be treated by "retention and return to the treatment works or otherwise."
+Id .
+, 602(c)(3) .
+Thus, it appears that defendants' only complaint based on a comparison with the Illinois regulations relates to the size of the retention facility required by the court.
+The details of the relief to be granted are in large part matters left to the trial court's discretion; in any event, the defendants do not provide us with evidence sufficient to justify disagreement with what the court found necessary or evidence sufficient to show that the marginal increase in cost of building a facility of the size required by the district court is significantly greater than the cost of building a facility of the size presumably contemplated by defendants.
+Furthermore, although Illinois permits some combined sewer overflows, it also, unlike the defendants, requires some treatment.
+The trial court is not limited by the law of the complaining state with respect to each detail of the relief to be granted.
+C. Effluent Limitations Neither the minimum effluent limitations prescribed by EPA pursuant to the provisions of the Act nor the effluent limitations imposed by the Wisconsin agency under the National Pollutant Discharge Elimination System limit a federal court's authority to require compliance with more stringent limitations under the federal common law.
+Nevertheless, those standards provide guidelines which a court should not ignore.
+EPA regulations define "secondary treatment" in terms of resulting effluent quality, in part, as follows: Biochemical Oxygen Demand (five-day) Suspended Solids 40 C.F.R. 133.102 .
+As noted above, for publicly owned treatment works the Act requires no more than secondary treatment until July 1, 1983, when they must implement the "best practicable waste treatment technology over the life of the [treatment] works."
+201(g)(2) (A); see 301(b)(2) (B).
+While point sources must comply with any more stringent requirements of the states in which they are located, Wisconsin does not appear to have adopted any more stringent limitations; the discharge permits issued to the defendants in this case do not impose any more stringent limitations than those in EPA's regulations.
+Both the South Shore and Jones Island plants must meet the following conditions under their discharge permits: 5 5 5 All of the effluent limitations imposed by the district court, except the phosphorus limitation, are significantly more stringent than those prescribed by EPA or in the discharge permits: in lieu of 30mg/l BOD 5 and suspended solids, the district court requires 5mg/l; in lieu of 200 fecal coliform cells per 100ml, the district court requires 40/100ml; in lieu of the monitoring requirement for chlorine, the district court requires a free chlorine residual 15 minutes after exposure.
+Further, as to BOD 5 and suspended solids, the district court imposes an absolute maximum of 10mg/l instead of the variable 85% removal requirement in the EPA regulations and the discharge permits.
+These effluent limitations imposed by the district court all relate to the hazard presented to Illinois residents by Milwaukee's discharge of sewage containing pathogens.
+Although aware that these limitations could be consistently met only by constructing what are referred to as "advanced waste treatment" plants, the court found that such treatment was necessary to protect Illinois residents from the danger presented by Milwaukee's discharges.
+We are unable to conclude, after a careful examination of the evidence cited by plaintiffs to justify the limitations imposed, that this evidence was sufficient.
+We recognize that once liability has been established, a trial court has broad authority to fashion appropriate relief.
+This rule is particularly applicable in an area of law where the appropriate relief will invariably depend on the circumstances of each case. See, e. g. , Washington v. General Motors Corp. , 406 U.S. 109, 115-116 , 92 S.Ct. 1396 , 31 L.Ed.2d 727 (1972).
+Nevertheless, a court, unlike a legislature or an administrative agency, is not free to rest solely upon what it thinks desirable; there must be evidence to support its conclusion that the relief granted is necessary to protect the complaining party from harm.
+47 To support the 5 mg/l BOD 5 and suspended solids limitations imposed by the district court, Illinois relies on the testimony of one witness who asserted that even at 30mg/l suspended solids "you are going to have a lot of organics tied up with solids that is going to use up your chlorine, and that the chlorine can't even get into."
+Further, Illinois cites the general testimony that organic matter and suspended solids interfere with effective chlorination and therefore should be reduced as much as possible.
+Illinois also relies on the testimony of one witness that the kind of treatment required to meet the 5 mg/l standard is preferable to the kind of treatment now used by the defendants.
+And finally, Illinois points to evidence that one of the defendants' consultant sanitary engineers recommended treatment comparable to that required to meet the 5 mg/l standard, that three cities have been required to meet similar limitations, and that several cities have voluntarily decided to modify their own treatment facilities in ways similar to that which would be required under the district court's order.
+48 The evidence shows that suspended solids and organic matter interfere with chlorination, and therefore that there is some correlation between suspended solids and BOD 5 and effective chlorination.
+The evidence does not, however, show how much more effective chlorination would be at 5mg/l suspended solids and BOD 5 than at 30mg/l suspended solids and BOD 5 ; the difference may be significant or it may be de minimis .
+49 That a few cities have adopted the more stringent standards is hardly enough to prove that those standards are necessary here, especially when the persons to be protected are many miles down the lakeshore from the discharge points.
+Cf. Comptroller General of the United States, "Report to Congress: Better Data Collection and Planning is Needed to Justify Advanced Waste Treatment Construction" (1976) (pointing out that several cities began construction of advanced waste treatment facilities without adequate consideration of the expected costs and benefits of such facilities).
+Our difficulty with the evidence reviewed above is that it consists merely of conclusions of the experts and does not explain why the particular standards are necessary to protect the health of Illinois residents.
+50 We are asked to accept the conclusions on faith.
+It is difficult for us to see how the opinion of an expert can be intelligently appraised unless it is supported by reasons.
+This is especially so when the opinion is offered to support effluent limitations markedly lower than (a) those established by EPA in its regulations, (b) those established by the state permit authority with the duty of protecting residents in the immediate environs of the discharges; and (c) those established by the complaining state itself for waters other than Lake Michigan.
+51 The record is conspicuously silent as to the reasons these less stringent standards were found adequate to protect persons in the immediate environs of the discharges by experts who were presumably as dedicated to the protection of public health and the environment as those on whose conclusions plaintiffs rely, and why those reasons are inapplicable here, especially when the discharges occur at least 25 miles from any of the persons to be protected.
+In short, plaintiffs point to nothing in the record, and we have found nothing, to connect the effluent limitations imposed by the district court with the protection of Illinois residents.
+If enforcement of the limitations imposed in the discharge permits proves inadequate to protect Illinois residents, then more stringent limitations may become necessary.
+But on the record before us, we cannot sustain the district court's order in this respect.
+52 Also relevant to this aspect of the remedy is Congress' treatment of publicly-owned treatment facilities in the 1972 and 1977 amendments to FWPCA.
+Secondary treatment facilities, which are not capable of meeting the 5 mg/l limitations, are permitted under 301(b)(1) (B) until July 1, 1983, when "the best practicable waste treatment over the life of the works" becomes the requirement.
+Although Congress did not attempt to answer the public health questions, leaving them to EPA and state agencies acting under EPA's supervision, the provisions of the Act are at least an indication of Congressional reluctance to risk pushing municipalities beyond the limits of their resources.
+The 1977 amendments, summarized above, show a deepening concern on this score.
+Congress' position in the Act does not, as we have held, mark the limits of our power in this common law nuisance action, but the policy underlying that position, to which we should give some deference, is at least a reason not to allow the nature of the action to cause a relaxation of the requirements of evidentiary foundation that would normally be observed in other kinds of actions.
+53 It is not clear whether the fecal coliform limitation and the free chlorine residual requirement imposed by the district court can be met with secondary treatment.
+In any event, the record support for these limitations is as deficient as it is for the suspended solid and BOD 5 limitations, and we are provided with no explanation of why such limitations were not included in the NPDES permits for the plants and the federal regulations.
+54 Our treatment of the effluent limitations imposed in the district court's order is not inconsistent with our treatment of the overflow requirements of the order.
+First, and we think most important, the evidence presented supports the district court's finding that the defendants' discharges of raw sewage, whether diluted or not, pose a significant risk of injury to Illinois residents.
+Raw sewage contains vastly higher concentrations of pathogens than treated sewage.
+Millions of gallons of raw sewage are dumped into the water each year from the 239 overflow points on the defendants' sewage systems, most frequently during wet weather, but also during dry weather.
+Lake currents can and do sometimes carry the pathogens into Illinois waters close to shore.
+Second, no one even attempts to justify such discharges as harmless or insignificant.
+As we have said, it is arguable that the Act itself prohibits discharges of raw sewage.
+The Wisconsin agency has taken steps to eliminate some overflows and to "correct" others although giving the defendants a longer time to take the necessary action than did the district court.
+But as stated above the defendants have conceded that compliance with the deadlines imposed by the court is feasible.
+On the other hand, the evidence supporting the effluent limitations is weak, at best.
+They are more stringent than those required by Congress, EPA, and the Wisconsin discharge permit issuing agency.
+And there is no evidence as to why the limitations deemed adequate to protect the inhabitants in the vicinity of the discharges are inadequate to protect the residents of Illinois who are at least 25 miles away.
+The phosphorus limitation imposed by the district court can be achieved using secondary treatment; an identical limitation is prescribed in the defendants' discharge permits.
+55 We affirm the district court's order to the extent that it requires the elimination of all sewage overflows and imposes a 1 mg/l phosphorus effluent limitation.
+We reverse the court's order insofar as it imposes suspended solids, BOD 5 , fecal coliform, and free chlorine residual effluent limitations more stringent than those prescribed in defendants' discharge permits.
+The case is remanded to the district court with directions to modify the injunctive order in conformity with the rulings of this court.
+Affirmed in part, Reversed and remanded in part.

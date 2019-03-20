@@ -1,0 +1,844 @@
+ SOTOMAYOR, Circuit Judge.
+This is a case about fish and other aquatic organisms.
+Power plants and other industrial operations withdraw billions of gallons of water from the nation's waterways each day to cool their facilities.
+The flow of water into these plants traps (or "impinges") large aquatic organisms against grills or screens, which cover the intake structures, and draws (or "entrains") small aquatic organisms into the cooling mechanism; the resulting impingement and entrainment from these operations kill or injure billions of aquatic organisms every year.
+Petitioners here challenge a rule promulgated by the Environmental Protection Agency ("the EPA" or "the Agency") pursuant to section 316(b) of the Clean Water Act ("CWA" or "the Act"), 33 U.S.C. 1326 (b), [fn1] that is intended to protect fish, shellfish, and other aquatic organisms from being harmed or killed by regulating "cooling water in-take structures" at large, existing power-producing facilities.
+For the reasons that follow, we grant in part and deny in part the petitions for review, concluding that certain aspects of the EPA's rule are based on a reasonable interpretation of the Act and supported by substantial evidence in the administrative record, but remanding several aspects of the rule because they are inadequately explained or inconsistent with the statute, or because the EPA failed to give adequate notice of its rulemaking.
+We also dismiss for lack of jurisdiction one aspect of the petitions because there is no final agency action to review.
+BACKGROUND Our decision in Riverkeeper, Inc. v. EPA 358 F.3d 174 (2d.
+Cir.2004) ("Riverkeeper I"), which addressed challenges to the EPA's rule governing cooling water intake structures at new as opposed to existing facilities discusses at length the procedural and factual background of the rulemaking pursuant to section 316(b) .
+We presume familiarity with Riverkeeper I and provide here only a brief overview of the statute and the various stages of the rulemaking.
+These consolidated petitions for review concern a final rule promulgated by the EPA regarding the water that large, existing power plants withdraw from rivers, lakes, and other waterways of the United States to cool their facilities.
+See 40 C.F.R. 125.91 (a).
+This cooling process requires power plants to extract billions of gallons of water per day from the nation's waters, thereby impinging and entraining a huge number of aquatic organisms.
+Riverkeeper I , 358 F.3d at 181 .
+Indeed, a single power plant can kill or injure billions of aquatic organisms in a single year.
+Id .
+Cognizant of this problem, Congress in 1972 amended the CWA, 33 U.S.C. 1251 1387 , to regulate cooling water intake structures.
+See Federal Water Pollution Control Act Amendments of 1972, Pub.L.
+No. 92-500 , 86 Stat. 816 (1972).
+We have described Congress's regulation of such structures as "something of an afterthought," Riverkeeper I , 358 F.3d at 186 n. 12, given that the directive appears in a section of the Act addressing the seemingly unrelated issue of thermal pollution, see CWA 316(a) , 33 U.S.C. 1326 (a).
+The Act, as amended, provides that "[a]ny standard established pursuant to section 1311 of this title [CWA section 301 ] or section 1316 of this title [CWA section 306 ] and applicable to a point source shall require that the location, design, construction, and capacity of cooling water intake structures reflect the best technology available for minimizing adverse environmental impact."
+CWA 316(b) , 33 U.S.C. 1326 (b).
+The provisions of the Act cross-referenced in section 316(b) direct the EPA to issue rules regulating the discharge of pollution from existing point sources, CWA 301 , 33 U.S.C. 1311 , and new point sources, CWA 306 , 33 U.S.C. 1316 .
+[fn2] As we noted in Riverkeeper I , "[w]hen the EPA established new source performance discharge standard[s] .
+.
+.
+it ought then to have regulated .
+.
+.
+intake structures.
+.
+.
+."
+358 F.3d at 185 (internal quotation marks omitted; emphasis in original).
+Put differently, section 316(b) required the EPA to promulgate regulations for cooling water intake structures at the same time that it established pollution discharge standards pursuant to sections 301 and 306 .
+The EPA's first attempt at regulation under section 316(b) , however, was remanded by the Fourth Circuit in 1977 on procedural grounds, and years passed without the EPA issuing new rules.
+Id. at 181 (citing Appalachian Power Co. v. Train , 566 F.2d 451 (4th Cir.1977)).
+Environmental groups ultimately sued the EPA and won a consent decree, pursuant to which the Agency established a timetable to issue rules pursuant to Section 316(b) in three "phases."
+Id .
+& n. 3.
+Phase I addressed in Riverkeeper I governs new facilities; Phase II addressed here covers large, existing power plants; and Phase III will regulate existing power plants not governed by Phase II, as well as other industrial facilities.
+See Riverkeeper, Inc. v. Whitman , 2001 WL 1505497 , at *1 n. 3 (S.D.N.Y.
+Nov.27, 2001).
+Our interpretation of section 316(b) is informed by the two provisions it cross-references, CWA sections 301 and 306 .
+Section 301 sets forth a framework under which limitations on the discharge of pollutants from existing sources would become more stringent over time.
+CWA 301(b) , 33 U.S.C. 1311 (b); see Riverkeeper I , 358 F.3d at 185 .
+Section 301(b)(1) (A) required the EPA, beginning in 1977, to set effluent limitations for existing sources based on "the best practicable control technology currently available," or "BPT."
+CWA 301(b)(1)(A) , 33 U.S.C. 1311 (b)(1)(A).
+By 1989, existing source effluent limitations were to be based on the more stringent "best available technology economically achievable," or "BAT."
+CWA 301(b)(2)(A) , 33 U.S.C. 1311 (b)(2)(A).
+Additionally, section 306 requires the EPA to establish "standards of performance" for the control of the discharge of pollutants from new sources based on "the best available demonstrated control technology," a standard that "reflects the greatest degree of effluent reduction."
+CWA 306(a)(1) , 33 U.S.C. 1316 (a)(1).
+In section 316(b) , Congress established yet another standard to govern cooling water intake structures, which requires such structures to reflect the "best technology available for minimizing adverse environmental impact," or "BTA."
+CWA 316(b) , 33 U.S.C. 1326 (b).
+We noted in Riverkeeper I that "[a]lthough the EPA is permitted to consider a technology's cost in determining whether it is `practicable,' `economically achievable,' or `available,' it should give decreasing weight to expense as facilities have time to plan ahead to meet tougher restrictions."
+358 F.3d at 185 (citations omitted).
+Additionally, we observed that "[b]ecause section 316(b) refers to sections 301 and 306 but provides a different standard (`best technology available for minimizing adverse environmental impact' instead of, for example, `best available demonstrated control technology') and does not explicitly provide that regulations pursuant to section 316(b) are subject to the requirements of sections 301 and 306 , we think it is permissible for the EPA to look to those sections for guidance but to decide that not every statutory directive contained therein is applicable" to rule-making under section 316(b) .
+Id. at 187 .
+With this general background in mind, we consider Phases I and II of the EPA's rulemaking.
+I. The Phase I Rule On December 18, 2001, the EPA issued its first rule ("the Phase I Rule") governing cooling water intake structures for new as opposed to existing facilities.
+Regulations Addressing Cooling Water Intake Structures for New Facilities; Final Rule , 66 Fed.Reg.
+65 , 256 (Dec. 18, 2001) (codified at 40 C.F.R. pts.
+9 , 122-25).
+The Phase I Rule established a two-track approach to regulating cooling water in-take systems at new facilities, under which a new facility could choose one of two "tracks" to comply with the statute.
+Track I created national intake capacity and velocity standards based on closed-cycle cooling technology, [fn3] which the EPA deemed the best technology available for minimizing adverse environmental impacts.
+See Riverkeeper I , 358 F.3d at 182-83 .
+Track II did not require the use of any specific technology so long as the facility "can show, in a demonstration study, `that the technologies employed will reduce the level of adverse environmental impact .
+.
+.
+to a comparable level to that which' would be achieved applying Track I's capacity and velocity requirements."
+Id. at 183 (quoting 40 C.F.R. 125.84 (d)(1)).
+Environmental and industry groups challenged certain aspects of the rule, including, inter alia , the part of the Track II procedure allowing power plants to comply with section 316(b) by undertaking so-called "restoration measures," such as re-stocking the waterbody with fish, reclaiming abandoned mines to reduce drain-off, or removing barriers to fish migration, to maintain fish and shellfish in a waterbody at certain levels.
+In Riverkeeper I , we upheld most aspects of the Phase I Rule, but remanded the provisions relating to the Track II restoration option.
+We found that the restoration option was inconsistent with section 316(b) 's requirement that the EPA minimize adverse environmental impacts by regulating the "`location, design, construction, and capacity of cooling water intake structures'" because this option has nothing to do with the location, design, construction, or capacity of such structures.
+Id. at 189 (quoting CWA 316(b) , 33 U.S.C. 1326 (b)).
+Given this, we held that the EPA had impermissibly exceeded its authority in allowing Phase I facilities to use these restoration measures to comply with regulations implementing the statute.
+Id .
+II.
+The Phase II Rule On July 9, 2004, the EPA issued a final rule, pursuant to the second phase of the consent decree ("the Phase II Rule" or "the Rule"), that governs cooling water intake structures at large, existing power plants.
+See Final Regulations to Establish Requirements for Cooling Water Intake Structures at Phase II Existing Facilities , 69 Fed.Reg.
+41 , 576 (July 9, 2004) (codified at 40 C.F.R. pts.
+9 , 122-125).
+The Phase II Rule covers existing facilities that are "point sources" and that, as their primary activity, "both generate□ and transmit□ electric power, or generate□ electric power but sell□ it to another entity for transmission," "use□ or propose□ to use cooling water intake structures with a total design intake flow of 50 million gallons per day (MGD) or more," and "use□ at least 25 percent of water with-drawn exclusively for cooling purposes."
+40 C.F.R. 125.91 .
+Although we will discuss the specifics of the Rule with respect to each challenge, we provide here an overview of the Rule.
+The Phase II Rule sets forth five compliance alternatives.
+See 40 C.F.R. 125.94 (a).
+Section 125.94(a) requires that a facility select and implement one of the following "for establishing best technology available for minimizing adverse environmental impact": (1)(i) You may demonstrate to the Director that you have reduced, or will reduce, your flow commensurate with a closed-cycle recirculating system.
+In this case, you are deemed to have met the applicable performance standards and will not be required to demonstrate further that your facility meets the impingement mortality and entrainment performance standards specified in paragraph (b) of this section.
+.
+.
+.
+; or (ii) You may demonstrate to the Director that you have reduced, or will reduce, your maximum through-screen design intake velocity to 0.5 ft/s or less.
+In this case, you are deemed to have met the impingement mortality performance standards and will not be required to demonstrate further that your facility meets the performance standards for impingement mortality specified in paragraph (b) of this section and you are not subject to the requirements in 125.95 , 125.96 , 125.97 , or 125.98 as they apply to impingement mortality.
+However, you are still subject to any applicable requirements for entrainment reduction.
+.
+.
+.
+[;] (2) You may demonstrate to the Director that your existing design and construction technologies, operational measures, and/or restoration measures meet the performance standards specified in paragraph (b) of this section and/or the restoration requirements in paragraph (c) of this section[;] (3) You may demonstrate to the Director that you have selected, and will install and properly operate and maintain, design and construction technologies, operational measures, and/or restoration measures that will, in combination with any existing design and construction technologies, operational measures, and/or restoration measures, meet the performance standards specified in paragraph (b) of this section and/or the restoration requirements in paragraph (c) of this section; (4) You may demonstrate to the Director that you have installed, or will install, and properly operate and maintain an approved design and construction technology in accordance with 125.99(a) or (b) ; or (5) You may demonstrate to the Director that you have selected, installed, and are properly operating and maintaining, or will install and properly operate and maintain design and construction technologies, operational measures, and/or restoration measures that the Director has determined to be the best technology available to minimize adverse environmental impact for your facility in accordance with paragraphs (a)(5)(i) or (ii) of this section.
+.
+.
+.
+40 C.F.R. 125.94 (a).
+The Phase II Rule does not require large, existing power plants to install closed-cycle cooling systems, although a facility with such a system (or one whose intake flow is commensurate with that of a closed-cycle system) will be considered in compliance with the Rule.
+40 C.F.R. 125.94 (a)(1)(i).
+The Rule instead references national performance standards, discussed below, that "are based on consideration of a range of technologies that EPA has determined to be commercially available for the industries affected as a whole."
+69 Fed.Reg.
+at 41 ,598-99.
+And rather than limiting BTA to technologies based on closed-cycle cooling systems, the EPA designated a "suite" of technologies including fine and wide-mesh wedgewire screens, aquatic filter barrier systems, barrier nets, and fish return systems, among others, id. at 41 ,599; see also 40 C.F.R. 125.99 (a) as BTA for large, existing power plants.
+Section 125.94(b) establishes national performance standards to be achieved through one of the compliance alternatives set forth in section 125.94(a) .
+With respect to impingement mortality, it provides that facilities choosing "compliance alternatives in paragraphs (a)(2) , (a)(3) , or (a)(4) of this section .
+.
+.
+must reduce impingement mortality for all life stages of fish and shellfish by 80 to 95 percent from the calculation baseline."
+[fn4] Id. 125.94(b)(1) .
+With respect to entrapment, facilities that choose compliance alternatives in paragraphs (a)(1)(H) , (a)(2) , (a)(3) , or (a)(4) of this section .
+.
+.
+must also reduce entrapment of all life stages of fish and shell-fish by 60 to 90 percent from the calculation baseline if: (i) [the] facility has a capacity utilization rate of 15 percent or greater, and (ii)(A) .
+.
+.
+uses cooling water withdrawn from a tidal river, estuary, ocean, or one of the Great Lakes; or (B) .
+.
+.
+uses cooling water withdrawn from a freshwater river or stream and the design intake flow of your cooling water intake structures is greater than five percent of the mean annual flow.
+Id. 125.94(b)(2) .
+Section 125.94(c) permits facilities to comply with the Rule by implementing restoration measures "in place of or as a supplement to installing design and control technologies and/or adopting operational measures that reduce impingement mortality and entrainment."
+Id. 125.94(c) .
+In order to adopt restoration measures under the Rule, a facility must demonstrate that "meeting the applicable performance standards or site-specific requirements through the use of design and construction technologies and/or operational measures alone is less feasible, less cost-effective, or less environmentally desirable than meeting the standards .
+.
+.
+through the use of restoration measures."
+Id. 125.94(c) (1).
+Moreover, the restoration measures implemented by the facility must produce ecological benefits "at a level that is substantially similar" to what would be achieved by meeting the national performance standards of section 125.94(b) .
+Id. 125.94(c)(2) .
+The compliance provision of section 125.94(a) (5) permits what is in effect a site-specific compliance alternative to the generally applicable performance standards in two circumstances.
+In the first circumstance ("the cost-cost compliance alternative" or "the cost-cost variance"), if a facility demonstrates that its compliance costs "would be significantly greater than the costs considered by the Administrator," the permitting authority must make a site-specific determination of BTA that is "as close as practicable to the applicable performance standards .
+.
+.
+without resulting in costs that are significantly greater than the costs considered by the Administrator" in establishing those standards.
+40 C.F.R. 125.94 (a)(5).
+In the second circumstance ("the cost-benefit compliance alternative" or "the cost-benefit variance"), the permitting authority must make a site-specific determination of BTA that is "as close as practicable" to the national performance standards if a facility demonstrates that its compliance costs would be "significantly greater than the benefits of complying" with the performance standards at the facility.
+Id. 125.94(a) (5)(ii).
+For those facilities installing technologies designated as BTA, section 125.94(d) allows the national performance standards set forth in section 125.94(b) to be satisfied by demonstrating compliance with a technology installation and operation plan ("TIOP"), which concerns, inter alia , a facility's installation, operation and maintenance of BTA.
+As the Rule is enforced through the permitting process under the National Pollutant Discharge Elimination System ("NPDES"), [fn5] section 125.94(d) (1) provides that a facility that uses one of the compliance methods other than closed-cycle cooling may request that compliance with the national performance standards during the first permit cycle be determined with respect to whether the facility has complied with the TIOP it submitted with its permit application.
+Section 125.94(d) (2) authorizes facilities to request that compliance during subsequent permit terms be determined based on whether a facility remains in compliance with its TIOP, and in accordance with any necessary revisions, "if applicable performance standards are not being met."
+40 C.F.R. 125.94 (d)(2).
+Finally, section 125.94(f) applies solely to nuclear power facilities.
+It provides that if a nuclear facility's compliance with the Rule would conflict with a safety requirement established by the Nuclear Regulatory Commission, the EPA must make a site-specific determination of BTA that would not conflict with the Commission's safety requirement.
+40 C.F.R. 125.94 (f).
+For purposes of judicial review, the Phase II Rule was promulgated on July 23, 2004.
+See 69 Fed.Reg.
+at 41 ,576.
+Three sets of petitioners, discussed below, brought timely challenges to the Rule.
+[fn6] DISCUSSION I. Standard of Review We have jurisdiction to review this Rule pursuant to CWA section 509(b)(1) , 33 U.S.C. 1369 (b)(1).
+See Riverkeeper I , 358 F.3d at 183 (stating that the Phase I Rule is covered by the jurisdictional grant of 1369(b)(1)) .
+As we explained in Riverkeeper I , our substantive review is two-fold.
+"First, we examine the regulation against the statute that contains the EPA's charge."
+Id. at 184 .
+If Congress "has directly spoken to the precise question at issue" and its intent is clear, we "must give effect to the unambiguously expressed intent of Congress."
+Chevron U.S.A.
+Inc. v. Natural Res. Def. Council, Inc. , 467 U.S. 837 , 842-43 , 104 S.Ct. 2778 , 81 L.Ed.2d 694 (1984).
+If, however, the statute is silent or ambiguous, we ask whether "the agency's answer is based on a permissible construction of the statute."
+Id. at 843 , 104 S.Ct. 2778 .
+Second, if the agency has followed Congress's unambiguously expressed intent or permissibly construed an ambiguous statute, "we measure the regulation against the record developed during the rulemaking, but we `hold unlawful' the agency's regulation only if it is `arbitrary, capricious, an abuse of discretion, or otherwise not in accordance with law.'"
+Riverkeeper I , 358 F.3d at 184 (quoting 5 U.S.C. 706 (2)(A)).
+"Normally, we must deem arbitrary and capricious an agency rule where `the agency has relied on factors which Congress has not intended it to consider, entirely failed to consider an important aspect of the problem, offered an explanation for its decision that runs counter to the evidence before the agency, or is so implausible that it could not be ascribed to a difference in view or the product of agency expertise.'"
+Waterkeeper Alliance, Inc. v. EPA , 399 F.3d 486 , 498 (2d Cir.2005) (quoting Motor Vehicle Mfrs.
+Ass'n v. State Farm Mut. Auto. Ins. Co. , 463 U.S. 29 , 43 , 103 S.Ct. 2856 , 77 L.Ed.2d 443 (1983) (internal quotation marks and citations omitted)).
+Finally, our review has a procedural dimension.
+The Administrative Procedure Act ("APA") requires that notice of proposed rulemaking be published in the Federal Register, 5 U.S.C. 553 (b)(3), and that interested parties be allowed an opportunity to comment on proposed rules, id. 553(c) .
+Where an agency fails to comply with the APA's notice and comment provisions, we remand to the agency for further proceedings.
+See Sprint Corp. v. FCC , 315 F.3d 369 , 371 (D.C. Cir.2003) ("Because the [agency] failed to provide adequate notice and opportunity to comment, we grant the petition and remand the case to the [agency].").
+II.
+The Petitions for Review The state petitioners [fn7] and the self-styled environmental petitioners [fn8] challenge the Rule on similar grounds.
+Their petitions contain the following arguments: (1) the EPA exceeded its authority in rejecting closed-cycle cooling as BTA for existing facilities generally, and the Agency's rejection of closed-cycle cooling as BTA for facilities on sensitive waterbodies is not entitled to deference because the decision was made at the direction of the Office of Management and Budget ("OMB"); (2) the EPA exceeded its authority by establishing ranges of acceptable performance rather than a single-numeric performance standard; (3) the CWA does not allow restoration measures as a means of compliance; (4) the EPA failed to give adequate notice that it would allow site-specific determinations of BTA based on cost-cost analysis, and the EPA impermissibly construed the statute to allow site-specific determinations of BTA based on cost-benefit analysis; (5) the provision allowing that compliance with the performance standards be determined by establishing compliance with a facility's TIOP is unauthorized and violates the rulemaking requirement of notice and comment; and (6) the Agency has classified certain new constructions as "existing facilities" contrary to the definitions set forth in the Phase I Rule without providing adequate notice and opportunity for comment.
+Three groups of industry petitioners, which we will refer to collectively as the "industry petitioners" or individually as Entergy Corporation ("Entergy"), the Utility Water Act Group ("UWAG"), [fn9] and PSEG Fossil LLC and PSEG Nuclear LLC ("PSEG"), advance various challenges to the Phase II Rule.
+Their challenges raise the following arguments: (1) section 316(b) of the CWA does not apply to existing facilities; (2) the Agency's definition of "adverse environmental impact" is insufficiently supported by the record; (3) the EPA's assumption of zero entrainment survival is insufficiently supported by the record; (4) the EPA improperly requires evaluation of qualitative non-use benefits in site-specific cost-benefit analyses; (5) the Agency failed to account for the Rule's disproportionate impact on nuclear facilities; (6) the EPA gave inadequate notice of the independent-supplier provision; and (7) the Agency provided no notice of its post-rulemaking definition of "Great Lakes."
+The industry petitioners also seek to preserve the right on this petition for review to raise new challenges to the Rule if we remand significant aspects of it.
+We consider first the challenges raised by the state and environmental petitioners and then will turn to the industry petitioners' challenges.
+III.
+The State and Environmental Petitioners A. Determination of BTA Perhaps the most significant challenge to the Phase II Rule is the petitioners' contention that the EPA exceeded its authority in rejecting closed-cycle cooling, and selecting instead the suite of technologies, as the "best technology available" as required by section 316(b) , 33 U.S.C. 1326 (b), in large part because the Agency engaged in improper cost considerations.
+This challenge requires us at the outset to determine to what extent, if any, the EPA can consider cost when selecting "the best technology available for minimizing adverse environmental impact" under the statute.
+1.
+Cost Analysis Pursuant to Sections 301 and 306 Section 316(b) does not itself set forth or cross-reference another statutory provision enumerating the specific factors that the EPA must consider in determining BTA.
+The statute, however, does make specific reference to CWA sections 301 and 306 , which we have taken previously as "an invitation" to look to those sections for guidance in "discerning what factors Congress intended the EPA to consider in determining" BTA.
+Riverkeeper I , 358 F.3d at 186 .
+We look to each of these statutes in turn.
+Section 301(b)(1) (A) established the BPT standard that governed the effluent limitations applicable to existing sources through 1989.
+Congress provided that, in determining BPT, the Agency could consider "the total cost of application of technology in relation to the effluent reduction benefits to be achieved from such application."
+CWA 304(b)(1)(B) , 33 U.S.C. 1314 (b)(1)(B).
+As noted above, however, the CWA created standards that were to become increasingly stringent over time, and in 1989, the more lenient BPT standard for existing sources was replaced by the BAT standard of section 301(b)(2) (A), in which Congress provided that the EPA could consider only "the cost of achieving such effluent reduction."
+CWA 304(b)(2)(B) , 33 U.S.C. 1314 (b)(2)(B).
+Notably omitted from the list of permissible factors to which the EPA could look in determining BAT was the cost of technology in relation to the benefits that technology could achieve.
+This shift from BPT to BAT fundamentally altered the way in which the EPA could factor cost into its CWA determinations.
+Indeed, in analyzing BPT and BAT, the Supreme Court stated that in "assessing BAT[,] total cost is no longer to be considered in comparison to effluent reduction benefits," as it had been in assessing BPT.
+EPA v. Nat'l Crushed Stone Ass'n , 449 U.S. 64 , 71 , 101 S.Ct. 295 , 66 L.Ed.2d 268 (1980).
+The Court indicated that the less stringent BPT standard had allowed for a "limited cost-benefit analysis" intended to "`limit the application of technology only where the additional degree of effluent reduction is wholly out of proportion to the costs of achieving such marginal level of reduction.'"
+Id. at 71 n. 10, 101 S.Ct. 295 (quoting Remarks of Senator Muskie reprinted in Legislative History of the Water Pollution Control Act Amendments of 1972 (Committee Print compiled for the Senate Committee on Public Works by the Library of Congress) Ser. No. 93-1, p. 170 (1973)).
+In determining BAT, by contrast, the EPA may consider cost as a factor to a limited degree, see id .
+, but only as to whether the cost of a given technology could be reasonably borne by the industry and not the relation between that technology's cost and the benefits it achieves, Riverkeeper I , 358 F.3d at 195 .
+Section 306 , which governs the effluent limitations that apply to new sources, provides that a "standard of performance" established by the EPA must reflect the "best available demonstrated control technology."
+CWA 306(a)(1) , 33 U.S.C. 1316 (a)(1).
+In language identical to the text of 304(b)(2)(B) governing BAT, Congress provided that in establishing standards of performance, the EPA "shall take into consideration the cost of achieving such effluent reduction," CWA 306(b)(1)(B) , 33 U.S.C. 1316 (b)(1)(B), but did not require the EPA to conduct cost-benefit analysis.
+Nat'l Wildlife Fed'n v. EPA 286 F.3d 554 , 570 (D.C. Cir.2002) ("[S]ection 306 requires that, when setting the [new source performance standards], the Administrator must take costs into consideration, but does not require that she conduct a cost-benefit analysis.").
+Sections 301 and 306 of the CWA thus demonstrate that, after 1989, cost is a lesser, more ancillary consideration in determining what technology the EPA should require for compliance under those sections.
+The shift from the BPT standard to the more stringent BAT one clearly signaled Congress's intent to move cost considerations under the CWA from a cost-benefit analysis to a cost-effectiveness one.
+We understand the difference between these two analyses to turn on the difference between means and ends.
+Cost-benefit analysis, like BPT, compares the costs and benefits of various ends, and chooses the end with the best net benefits.
+By contrast, cost-effectiveness considerations, like BAT, determine which means will be used to reach a specified level of benefit that has already been established.
+[fn10] Given the above and considering the parallel language of sections 304(b)(2) (B) and 306 (b)(1)(B), the reasoning of National Crushed Stone strongly suggests that cost-benefit analysis is no longer permitted under those sections of the CWA.
+2.
+Cost Analysis Pursuant to Section 316(b) As already noted, section 316(b) does not itself set forth the factors that the Agency can consider in determining the "best technology available for minimizing adverse environmental impact."
+The BTA standard of section 316(b) , however, is linguistically similar to the BAT standard of section 301 and the standard that applies to new sources under section 306 , and to the extent that cost-benefit analysis is precluded under those statutes, one might reasonably conclude that it is similarly not permitted under section 316(b) .
+We conclude in any event that the language of section 316(b) itself plainly indicates that facilities must adopt the best technology available and that cost-benefit analysis cannot be justified in light of Congress's directive.
+We stated in Riverkeeper I that the EPA can consider cost in establishing BTA, but only in a limited fashion and not as a primary consideration.
+Indeed, "[w]ith respect to costs, `the Administrator must inquire into the initial and annual costs of applying the technology and make an affirmative determination that those costs can be reasonably borne by the industry.'"
+Riverkeeper I , 358 F.3d at 195 (quoting Chem. Mfrs.
+Ass'n v. EPA , 870 F.2d 177 , 262 (5th Cir.1989)) (emphasis added).
+While the statutory language suggests that the EPA may consider costs in determining BTA, in that a technology that cannot not be reasonably borne by the industry is not "available" in any meaningful sense, cost-benefit analysis is not similarly supported by the language or purpose of the statute.
+Section 316(b) expressly requires a technology-driven result, cf. Natural Res. Def. Council, Inc. v. EPA , 822 F.2d 104 , 123 (D.C. Cir.1987) ("[T]he most salient characteristic of [the CWA's] statutory scheme, articulated time and again by its architects and embedded in the statutory language, is that it is technology-forcing.
+"), not one driven by cost considerations or an assessment of the desirability of reducing adverse environmental impacts in light of the cost of doing so. A selection of BTA based on cost-benefit considerations is thus impermissibly cost-driven, but a selection based in part on cost-effectiveness considerations, while taking cost into account, remains technology-driven.
+The statute therefore precludes cost-benefit analysis because "Congress itself defined the basic relationship between costs and benefits."
+Am. Textile Mfrs.
+Inst., Inc. v. Donovan , 452 U.S. 490 , 509 , 101 S.Ct. 2478 , 69 L.Ed.2d 185 (1981).
+Moreover, this conclusion is further supported by the fact that Congress in establishing BTA did not expressly permit the Agency to consider the relationship of a technology's cost to the level of reduction of adverse environmental impact it produces.
+[fn11] "When Congress has intended that an agency engage in cost-benefit analysis, it has clearly indicated such intent on the face of the statute."
+Id. at 510 , 101 S.Ct. 2478 .
+Given the above, the EPA may permissibly consider cost in two ways: (1) to determine what technology can be "reasonably borne" by the industry and (2) to engage in cost-effectiveness analysis in determining BTA.
+Thus, the EPA must first determine what is the most effective technology that may reasonably be borne by the industry.
+In making this initial determination, the most effective technology must be based not on the average Phase II facility but on the optimally best performing Phase II facilities, see, e.g., Kennecott v. United States EPA 780 F.2d 445 , 448 (4th Cir.1985) ("In setting BAT, EPA uses not the average plant, but the optimally operating plant, the pilot plant which acts as a beacon to show what is possible.
+"), although, of course, the EPA must still as-certain whether the industry as a whole can reasonably bear the cost of the adoption of the technology, bearing in mind the aspirational and technology-forcing character of the CWA.
+This technology constitutes the benchmark for performance.
+Once this determination has been made, the EPA may then consider other factors, including cost-effectiveness, to choose a less expensive technology that achieves essentially the same results as the benchmark.
+[fn12] For example, assuming the EPA has determined that power plants governed by the Phase II Rule can reasonably bear the price of technology that saves between 100-105 fish, the EPA, given a choice between a technology that costs $100 to save 99-101 fish and one that costs $150 to save 100-103 fish (with all other considerations, like energy production or efficiency, being equal), could appropriately choose the cheaper technology on cost-effectiveness grounds.
+Cost-benefit analysis, however, is not permitted under the statute because, as noted, Congress has already specified the relationship between cost and benefits in requiring that the technology designated by the EPA be the best available.
+[fn13] Cf. Am. Textile Mfrs.
+Inst , 452 U.S. at 509-10 , 101 S.Ct. 2478 .
+The Agency accordingly could not make the policy decision, in the face of Congress's determination that facilities use the best technology available, that an economically feasible level of reduction of impingement mortality and entrainment is not desirable in light of its cost.
+Indeed, in the example above, the EPA could not choose the cheaper technology on cost considerations under section 316(b) if the EPA had first determined that the power plants could reasonably bear the cost of technology that could save at least 102 fish.
+We nevertheless acknowledge that the comparable technologies considered by the Agency need not be identically effective for the Agency to engage in cost-effectiveness analysis.
+Were that the case, all that would be required would be the simple determination of which among competing technologies that achieved the same degree of reduction of adverse environmental impacts is the cheapest.
+Instead, the specified level of benefit is more properly understood as a narrowly bounded range, within which the EPA may permissibly choose between two (or more) technologies that produce essentially the same benefits but have markedly different costs.
+With these considerations in mind, we turn to the Rule as promulgated.
+3.
+The Determination of BTA under the Phase II Rule As noted previously, unlike the Phase I Rule, the Phase II Rule does not require facilities to reduce intake flow to a level commensurate with the intake of closed-cycle systems.
+Instead, the Rule requires facilities to meet the national performance standards associated with the suite of technologies the EPA identified as BTA.
+Petitioners' challenge here has two components.
+First, the state petitioners contend that closed-cycle cooling is the best technology available and that the EPA has exceeded its authority by promulgating a rule that does not require closed-cycle cooling, or the use of technologies producing a commensurate reduction of water usage for existing facilities in the same manner as the Phase I Rule required for new facilities.
+[fn14] Second, the environmental petitioners argue that the EPA improperly rejected closed-cycle cooling as BTA for the largest facilities on the most sensitive waterbodies at the direction of OMB because it sought to maximize net economic benefits rather than to minimize adverse environmental impact.
+They further argue that the BTA standard of section 316(b) requires a commitment of the maximum resources economically feasible to the goal of eliminating adverse environmental impacts and that the statute does not permit the EPA to select BTA on the basis of cost-benefit analysis.
+For the reasons that follow, we conclude that the statute's "best technology available" standard permits cost-effectiveness considerations to influence the choice among technologies whose performance does not essentially differ from the performance of the best-performing technology whose cost the industry reasonably can bear, but that the statute does not permit the EPA to choose BTA on the basis of cost-benefit analysis.
+As we explain below, however, the record is unclear as to the basis for the EPA's selection of the suite of technologies as BTA, and we therefore remand for clarification of the basis for the Agency's decision and potentially for a reassessment of BTA.
+The EPA stated in the Rule's preamble that the BTA standard should be interpreted as "best technology available commercially at an economically practicable cost," and explained that "an important component of economic practicability" is "the relationship of costs to environmental benefits."
+69 Fed.Reg.
+at 41 ,604.
+The EPA further explained that this inquiry required that "there should be some reasonable relationship between the cost of cooling water intake structure control technology and the environmental benefits associated with its use."
+Id .
+(emphasis added).
+The EPA took this "economically practicable" concept directly from the text of a floor speech of a single representative the only specific reference to section 316(b) in the congressional debates.
+See Riverkeeper I , 358 F.3d at 186 n. 12.
+We noted in Riverkeeper I that the "paucity" of legislative history "counsels against imputing much specific intent to Congress beyond the section's words themselves."
+Id .
+Moreover, we find the EPA's interpretation of section 316(b) problematic because its construction significantly resembles the less stringent, and now obsolete, BPT standard of section 301(b)(1) (A).
+As noted earlier, in setting forth the factors for the EPA to consider in establishing BPT under section 301(b)(1) (A) and the more stringent BAT under section 301(b)(2) (A), Congress made only one distinction: while the Agency could consider the relationship between cost and benefits in establishing BPT, CWA 304(b)(1)(B) , 33 U.S.C. 1314 (b)(1)(B), it could consider cost insofar as it can be "reasonably borne" by the industry, but not the relationship between cost and benefits, in establishing BAT, CWA 304(b)(2)(B) , 33 U.S.C. 1314 (b)(2)(B).
+Riverkeeper I , 358 F.3d at 195 .
+This difference in how the EPA can consider cost under section 304(b) in establishing BPT and BAT is directly mirrored by the most significant textual distinction between sections 301(b)(1) (A) and 301(b)(2)(A) the requirement that a technology be "practicable" under only the less stringent BPT standard.
+Compare CWA 301(b)(1)(A) , 33 U.S.C. 1311 (b)(1)(A) (BPT is the "best practicable control technology") with CWA 301(b)(2)(A) , 33 U.S.C. 1311 (b)(2)(A) (BAT is the "best available technology").
+The use of the word "practicable," therefore, when coupled with the permissible cost considerations under section 304 , signals that Congress intended the EPA to strike a balance between cost and benefits in determining BPT.
+But the word "practicable" is missing from the more stringent BAT standard, under which Congress prohibited the EPA from considering the relation of cost to benefits.
+This omission is thus significant.
+See Russello v. United States , 464 U.S. 16 , 23 , 104 S.Ct. 296 , 78 L.Ed.2d 17 (1983) ("[W]here Congress includes particular language in one section of a statute but omits it in another section of the same Act, it is generally presumed that Congress acts intentionally and purposely in the disparate inclusion or exclusion."
+(quotation marks and citation omitted; alteration in original)).
+Because Congress also omitted "practicable" from section 316(b) , we are troubled by the Agency's interpretation of the statute to require "practicability" analysis here and its implicit corollary that the Agency can undertake a cost-benefit analysis in establishing BTA under section 316(b) .
+Our concern with the EPA's determination with respect to section 316(b) is further deepened by the Agency's rejection of closed-cycle cooling and selection of a suite of technologies as the basis for BTA for existing facilities because the suite of technologies were the most "cost effective" option.
+69 Fed.Reg.
+at 41 ,667.
+The EPA explained this decision on several grounds.
+It first noted that it was rejecting closed-cycle cooling as BTA because of (1) "its generally high costs (due to conversions)," (2) "the fact that other technologies approach the performance of this option," and (3) "concerns for energy impacts due to retrofitting existing facilities, and other considerations."
+Id. at 41 ,605.
+The EPA emphasized that it selected BTA based on its determination that "a national requirement to retrofit existing systems is not the most cost-effective approach and at many existing facilities, retrofits may be impossible or not economically practicable."
+Id .
+It further explained that its rejection of closed-cycle cooling as BTA was based on "total social costs" and "lack of cost-effectiveness," as well as "concerns regarding potential energy impacts."
+Id. at 41 ,606.
+Given the EPA's discussion, noted above, of economically practicability, it is unclear whether the Agency improperly weighed the benefits and the costs of requiring closed-cycle cooling.
+Indeed, a comparison between the cost of closed-cycle cooling and the monetized benefits of this technology appears to have played some role in the EPA's rejection of this option as BTA.
+In the preamble to the proposed Rule, for instance, the EPA examined whether to require closed-cycle cooling on specific large bodies of waters and stated that "the incremental costs of [this closed-cycle cooling] option relative to the proposed option ($413 million) significantly outweigh the incremental benefits ($146 million)."
+67 Fed.Reg.
+at 17 ,158.
+Other record evidence on the EPA's rejection of closed-cycle cooling as BTA is a terse EPA memorandum indicating that a requirement commensurate with closed-cycle cooling for facilities on sensitive water-bodies would cost three times as much as the option ultimately adopted by the EPA and reduce entrainment, at most, by 1.33 times that option.
+Given the above indications that the EPA engaged in cost-benefit analysis, we remand for the EPA to explain its conclusions.
+At the outset, it is difficult to discern from the record how the EPA determined that the cost of closed-cycle cooling could not be reasonably borne by the industry.
+[fn15] Additionally, the EPA did not explain its statement that the suite of technologies "approach[es]" the performance of closed-cycle cooling.
+We see no adequate comparison in the Rule's proposal, the final Rule or its preamble, or the EPA's submissions to this Court of the effectiveness of closed-cycle cooling and the group of technologies whose effectiveness provided the basis for the Phase II Rule's performance standards.
+[fn16] In a technical area of this sort, it is difficult for judges or interested parties to determine the propriety of the Agency's action without a justification for the action supported by clearly identified substantial evidence whose import is explained.
+The record evidence alone here, which consists in large part of a voluminous database compilation of studies that assess the efficacy of various technologies at different locations, is oblique, complicated, and insufficient to permit us to determine what the EPA relied upon in reaching its conclusion.
+As the Supreme Court has emphasized, "[o]ur recognition of Congress' need to vest administrative agencies with ample power to assist in the difficult task of governing a vast and complex industrial Nation carries with it the correlative responsibility of the agency to explain the rationale and factual basis for its decision, even though we show respect for the agency's judgment in both."
+Bowen v. Am. Hosp.
+Ass'n , 476 U.S. 610 , 627 , 106 S.Ct. 2101 , 90 L.Ed.2d 584 (1986) (plurality opinion).
+The EPA was required to explain its judgment and the basis for it.
+Because the EPA purported to base its decision in large part on cost-effectiveness considerations, it was required to identify and explain any evidence indicating a minimal performance difference between comparable technologies, but it did not do so here.
+It stated only that the performance of the technologies it identified as BTA "approach" the performance of closed-cycle cooling.
+[fn17] We therefore find it impossible to judge whether the performance of these technologies is essentially the same as the performance of closed-cycle cooling, or whether they simply are cheaper per percentage point of reduction in entrainment and impingement mortality.
+That is, on the record before us, it is impossible to tell whether the EPA based its decision on permissible cost-effectiveness analysis or exceeded its authority by relying impermissibly upon a cost-benefit analysis.
+To the extent that the record does not indicate the EPA's basis, however, its statement that "the relationship of costs to environmental benefits is an important component of economic practicability," 69 Fed.Reg.
+at 41 ,604, indicates that cost-benefit analysis, under the cover of considerations of "practicability," was central to the Agency's decisionmaking.
+In short, the EPA's failure to explain its decision frustrates effective judicial review.
+If the EPA construed the statute to permit cost-benefit analysis, its action was not "based on a permissible construction of the statute."
+Chevron , 467 U.S. at 843 , 104 S.Ct. 2778 .
+It may also be that the EPA misunderstood or misapplied cost-effectiveness analysis.
+If so, its decision was arbitrary and capricious because the Agency relied on factors Congress has not intended it to consider.
+See Waterkeeper Alliance , 399 F.3d at 498 .
+Finally, the EPA may have simply failed either to perform the required analysis or to explain adequately a decision that was within its authority to make.
+We cannot opine on this subject, because we must consider only those justifications that the EPA offered at the time of the rulemaking.
+See SEC v. Chenery , 318 U.S. 80 , 87-88 , 63 S.Ct. 454 , 87 L.Ed. 626 (1943).
+Moreover, while the EPA could rely on factors other than impingement and entrainment in establishing BTA, such as negative environmental impacts or concerns about energy production and efficiency, see Riverkeeper I , 358 F.3d at 195-96 , we are unable to determine, on the record before us, whether the EPA gave paramount consideration to an improper factor in determining BTA.
+We therefore remand for clarification of the basis for the Agency's action and possibly for a new determination of BTA.
+[fn18] 4.
+Performance Standards Expressed as Ranges The Phase II Rule establishes performance standards expressed as an 80 to 95 percent reduction in impingement mortality and a 60 to 90 percent reduction in entrainment, which existing power plants must achieve, subject to certain exceptions, in order to be considered in compliance with the Rule.
+40 C.F.R. 125.94 (b)(1), (2) .
+The environmental petitioners challenge the Rule's "wide and indeterminate ranges" as failing to constitute "precise single-level limitations based on the best technology available for minimizing adverse environmental impact" and argue that these ranges are inconsistent with Congress's intent that there be a national standard under section 316(b) .
+We agree in part and, because the EPA in reconsidering its selection of BTA on remand may alter the suite of technologies it originally selected, thereby causing a coordinate alteration in the performance ranges, we provide some guidance to the EPA insofar as the petitioners' challenge touches on the limits of the Agency's authority.
+Although the EPA may, in the circumstances to be discussed, set performance standards as ranges, it must require facilities to minimize the adverse environmental impacts attributable to their cooling water intake structures to the best degree they can.
+The petitioners note that the EPA has found that certain screens and filter systems can reduce impingement mortality by up to 99 percent and that similar technologies can produce 80 to 90 percent reduction in entrainment.
+69 Fed.Reg.
+at 41 ,599.
+They contend that the CWA therefore requires the EPA to set BTA standards reflecting these best performers, see Texas Oil & Gas Ass'n v. EPA , 161 F.3d 923 , 928 (5th Cir.1998) ("Congress intended these [BAT] limitations to be based on the performance of the single best-performing plant in an industrial field."
+(citation and internal quotation marks omitted)), particularly given the EPA's acknowledgment that "[t]he higher end of the range is a percent reduction that available data show many facilities can and have achieved with the available technologies upon which the performance standards are based."
+69 Fed.Reg.
+at 41 ,600.
+The petitioners emphasize that the Rule's ranges impermissibly fail to require facilities even to attempt to achieve performance equal to the upper bound of the prescribed ranges.
+According to the EPA, section 316(b) does not require a single-numeric standard applicable to all Phase II existing facilities, and expressing the performance standards as ranges is necessary to account for the variables involved in reducing impingement mortality and entrainment under local conditions at particular facilities.
+The EPA contends that "[b]ecause the Phase II requirements are applied in a variety of settings and to existing facilities of different types and sizes, no single technology is most effective for all facilities subject to the Rule."
+The Agency argues that the technologies do not provide a fixed level of performance at all facilities and that their performance is affected by the nature of the waterbody, facility intake requirements, climatic conditions, and the waterbody's biology.
+The EPA argues also that the permit process requires facilities to reduce impingement mortality and entrainment commensurate with the efficacy of the installed technologies, which it claims ensures that the installed technologies will be maintained to ensure their utmost efficacy.
+[fn19] The difficulty with the EPA's arguments is that the Rule does not require facilities to choose technologies that produce the greatest reduction possible.
+Our decision in Riverkeeper I sheds some light on the parties' arguments.
+In that case, we discussed the differences between the two tracks in the Phase I Rule: Track I set forth precise velocity and capacity requirements while Track II permitted compliance via technologies that would achieve at least 90 percent of the reduction in impingement mortality and entrainment that compliance with Track I would yield.
+See 358 F.3d at 182-83 .
+The petitioners in that case challenged the Track II provision on the ground that it deviated from the statutory requirement that the EPA establish a single level of performance applicable to all facilities.
+Id. at 187 .
+The EPA argued that Tracks I and II reflected the same standard and that 10 percent is an acceptable margin of error given that measurements of reduction of impingement mortality and entrainment are necessarily inexact and depend upon natural fluctuations in animal populations and sampling errors.
+Id. at 188 .
+In assessing the parties' arguments, we stated that "the EPA, consistent with Congress's intention that there be a national standard governing the discharge of pollutants, must promulgate precise effluent limitations under sections 301 and 306 .
+.
+.
+."
+Id .
+(emphasis added).
+We went on to note, however, that while pollutant concentration and the velocity and volume of water withdrawn can be measured accurately, impingement mortality and entrainment "cannot always be measured directly and with mathematical precision."
+Id. at 189 .
+We concluded that the EPA acted reasonably in specifying "how much ambiguity it is willing to tolerate in measuring compliance and what it considers a reasonable margin of error in comparing the performance of different technologies."
+Id .
+In short, we acknowledged that the Track II performance requirements, unlike the Track I requirements, could not be measured precisely and that it was therefore reasonable to consider a margin of error in comparing performance under the two standards.
+This case is not entirely similar to Riverkeeper I because of the rationales that animate the EPAs creation of the performance ranges in Phases I and II.
+The Phase II Rule generally require facilities to reduce impingement mortality and entrainment by the specified percent ranges from the calculation baseline.
+40 C.F.R. 125.94 (b).
+These ranges, as explained by the EPA, are based on the reductions achievable by using various technologies.
+See 69 Fed.Reg.
+at 41 ,599.
+The EPA explained that it expressed the performance standards "in the form of ranges rather than a single performance benchmark because of the uncertainty inherent in predicting the efficacy of any one of these technologies."
+Id. at 41 ,600.
+It stated further that the lower end of the range is the percent reduction it "expects all facilities could eventually achieve if they were to implement and optimize available design and construction technologies and operational measures on which the performance standards are based" and that the higher end of the range "is a percent reduction that available data show many facilities can and have achieved with the available technologies upon which the performance standards are based."
+Id .
+Unlike Riverkeeper I , therefore, a margin of error from a relatively precise benchmark that is tolerable given measurement difficulties is not at issue here.
+Instead, the performance standards reflect the range of performance associated with various technologies identified as BTA.
+That performance, in turn, depends in part on local conditions and natural fluctuations.
+Id .
+Record evidence supports the EPA's conclusion that the percent reduction of impingement mortality and entrainment is not completely within the control of a facility and therefore may not be precisely achieved by a facility.
+See TDD for the Final 316(b) Phase II Existing Facilities Rule 4-3.
+Reducing these adverse environmental impacts is not as easily measured and controlled as are the discharge of pollutants and the capacity and flow rate of water intake.
+[fn20] We therefore acknowledge that in many cases it may be difficult, as a practical matter, for the EPA or other permitting authority to predict which plants will be able to achieve the upper, as opposed to the lower, end of the ranges.
+This uncertainty, however, does not justify a rule that permits even those facilities that could achieve the upper end of a range to be deemed in compliance if they reach only the lower end, particularly when the EPA has acknowledged that many facilities "can and have" achieved reductions at the high end of the range.
+69 Fed.Reg.
+at 41 ,600.
+Congress's use of the superlative "best" in the statute cannot be read to mean that a facility that achieves the lower end of the ranges, but could do better, has complied with the law.
+The statutory directive requiring facilities to adopt the best technology cannot be construed to permit a facility to take measures that produce second-best results, see Chevron , 467 U.S. at 843 , 104 S.Ct. 2778 , especially given the technology-forcing imperative behind the Act, Natural Res. Def. Council , 822 F.2d at 123 .
+Insofar as the EPA establishes performance standards instead of requiring facilities to adopt particular technologies, it must require facilities to choose the technology that permits them to achieve as much reduction of adverse environmental impacts as is technologically possible.
+[fn21] For this reason, the EPA on remand should address these concerns if in its BTA determination, it retains performance ranges.
+B. Restoration Measures The Phase II Rule allows a facility to meet the national performance standards set forth in 40 C.F.R. 125.94 (b) through the use of restoration measures such as restocking fish killed by a cooling water system and improving the habitat surrounding the intake structure in order, as the EPA explains, "to provide additional flexibility to facilities in complying with the rule by eliminating or significantly offsetting the adverse environmental impact caused by the operation of a cooling water intake structure."
+69 Fed.Reg.
+at 41 ,609; 40 C.F.R. 125.94 (c).
+The state and environmental petitioners contend that the EPA exceeded its authority by allowing compliance with section 316(b) through restoration measures because Riverkeeper I held that the statute's meaning is plain and that restoration measures cannot substitute for the "best technology available for minimizing adverse environmental impact" in cooling water intake structures.
+The EPA contends that its interpretation of the statute to permit restoration measures as a means of compliance is entitled to deference because it defined certain statutory terms in the Phase II Rule that it had not defined in the Phase I Rule.
+The EPA also relies on the Supreme Court's holding in National Cable & Telecommunications Association v. Brand X Internet Services , 545 U.S. 967 , 125 S.Ct. 2688 , 162 L.Ed.2d 820 (2005), and our statement in Riverkeeper I limiting the decision's reach to the Phase I Rule, to argue that our prior interpretation of the statute does not trump the Agency's construction.
+We agree with the petitioners that Riverkeeper I held that the Agency's decision to permit restoration measures in the Phase I Rule was not "based on a permissible construction of the statute," Chevron , 467 U.S. at 843 , 104 S.Ct. 2778 , and that this holding applies equally here.
+We began Riverkeeper I by noting that we were remanding the Phase I restoration provision because it "contradicts Congress's clearly expressed intent."
+358 F.3d at 181 .
+We went on to state that "however beneficial to the environment, [restoration measures] have nothing to do with the location, the design, the construction, or the capacity of cooling water intake structures, because they are unrelated to the structures themselves."
+Id. at 189 .
+"Restoration measures correct for the adverse environmental impacts of impingement and entrainment," we noted, but "they do not minimize those impacts in the first place."
+Id .
+(emphasis added).
+For this reason and others, we concluded in Riverkeeper I that the EPA had exceeded its authority in promulgating the Phase I Rule by allowing compliance with section 316(b) through restoration measures because this Rule was "plainly inconsistent" with the statute's text and Congress's intent.
+Id. at 189 , 191.
+The EPA's argument that Riverkeeper I is not binding on this issue here has three components.
+First, the EPA contends that our rejection of the restoration measures at issue in Riverkeeper I did not turn on the statute's text, but instead was based on various other indicators of Congressional intent.
+The Agency makes much of Riverkeeper I's brief discussion of Congress's rejection of a proposed amendment to section 316(b) that would have explicitly allowed restoration measures and of the EPA's support of that amendment because in its opinion, the existing language did not authorize restoration measures.
+Id. at 190-91 .
+Second, the EPA argues that its interpretation of section 316(b) in the Phase II Rule is entitled to deference because the Rule defined certain statutory terms it had not defined in the previous rulemaking phase and that its reasonable interpretation of these terms is entitled to deference.
+Specifically, the Agency "defined" three statutory terms in the preamble: it (1) read the phrase "minimiz[e] adverse environmental impact" to let facilities "minimize adverse environmental impact by reducing impingement and entrainment, or to minimize adverse environmental impact by compensating for those impacts after the fact," 69 Fed.Reg.
+at 41 ,628; (2) interpreted "reflect" to authorize it to consider the full range of technologies, including restoration measures, that minimize adverse environmental impact; and (3) viewed "restoration measures as part of the `design' of a cooling water intake structure," and "one of several technologies that may be employed .
+.
+.
+to minimize adverse environmental impact," 69 Fed.Reg.
+at 41 ,637.
+Finally, the EPA relies on our statement in Riverkeeper I that our ruling on the Phase I Rule was not meant to "predetermine the factors and standard[s] applicable to Phases II and m of the rulemaking," 358 F.3d at 186 n. 13, and on the Supreme Court's holding in Brand X that "[a] court's prior judicial construction of a statute trumps an agency construction otherwise entitled to Chevron deference only if the prior court decision holds that its construction follows from the unambiguous terms of the statute and thus leaves no room for agency discretion."
+545 U.S. at 982 , 125 S.Ct. at 2700 .
+We reject each of the EPA's contentions.
+First, our primary conclusion in Riverkeeper I was that restoration measures are "plainly inconsistent" with the statute's text, 358 F.3d at 189 , and our statements regarding the legislative history of a proposed amendment, which we offered as ancillary, but not dispositive, support for our construction of the statute, in no way diminish the force of our conclusion that Congress unambiguously expressed its intent in the statute.
+See Chevron , 467 U.S. at 842-43 , 104 S.Ct. 2778 ("If the intent of Congress is clear, that is the end of the matter; for the court, as well as the agency, must give effect to the unambiguously expressed intent of Congress.").
+Second, as to the EPA's claim that its construction of the statute is entitled to deference because it has now interpreted certain statutory terms, our holding in Riverkeeper I was and remains clear: restoration measures contradict the unambiguous language of section 316(b) .
+The EPA's promulgation of the Phase II Rule obviously did nothing to alter the text of section 316(b) , and the Agency cannot create ambiguity where none otherwise exists by defining statutory terms contrary to their plain meaning.
+Finally, as the foregoing analysis suggests, our decision in Riverkeeper I foreclosed the EPA from interpreting section 316(b) in the Phase II Rule to permit restoration measures as a means of complying with the statute, and, therefore, nothing in Brand X undermines the precedential value of our prior holding.
+Our statement in Riverkeeper I that we did not "mean to predetermine the factors and standard applicable to Phases II and III of the rule-making," was made in the narrow context of identifying "one reasonable reading" of particular statutory language relating to the standard for new and existing sources, not the restoration measures.
+358 F.3d at 186 n. 13.
+Where we held that the statutory language is unambiguous, Riverkeeper I is binding.
+Even assuming arguendo that we did not consider ourselves bound by Riverkeeper I , we are persuaded by its reasoning as applied here.
+Restoration measures are not part of the location, design, construction, or capacity of cooling water in-take structures, Riverkeeper I , 358 F.3d at 189 , and a rule permitting compliance with the statute through restoration measures allows facilities to avoid adopting any cooling water intake structure technology at all, in contravention of the Act's clear language as well as its technology-forcing principle.
+As we noted in Riverkeeper I , restoration measures substitute after-the-fact compensation for adverse environmental impacts that have already occurred for the minimization of those impacts in the first instance.
+Id .
+The Agency's attempt to define the word "minimize" to include "compensati[on] .
+.
+.
+after the fact," 69 Fed.Reg.
+at 41 ,628, is simply inconsistent with that word's dictionary definition: "to reduce to the smallest possible extent," Webster's Third New Int'l Dictionary 1438 (1986).
+Accordingly, the EPA impermissibly construed the statute by allowing compliance with section 316(b) via restoration measures, and we remand that aspect of the Rule.
+C. Site-Specific Compliance Alternatives As noted earlier, the Phase II Rule includes two site-specific compliance alternatives or variances from the generally applicable requirements.
+The cost-cost alternative authorizes a site-specific determination that "data specific to [a] facility demonstrate that the costs of compliance under .
+.
+.
+this section would be significantly greater than the costs considered by the Administrator .
+.
+.
+in establishing the applicable performance standards," 40 C.F.R. 125.94 (a)(5)(i), while the cost-benefit alternative authorizes a site-specific determination that "data specific to [a] facility demonstrate that the costs of compliance under .
+.
+.
+this section would be significantly greater than the benefits of complying with the applicable performance standards."
+Id. 125.94(a) (5)(H).
+If a facility makes either showing, the permitting authority "must make a site-specific determination of the best technology available" and impose "site-specific alternative requirements" that are "as close as practicable to the applicable performance standards."
+Id. 125.94(a) (5)(i), (ii) .
+Petitioners challenge the cost-cost compliance alternative; because, inter alia , they claim as a threshold matter that the Agency failed to comply with the APA's notice and comment requirements by disclosing cost data for specific facilities that would be used in determining whether a facility qualifies for the cost-cost compliance alternative only at the time the final Rule was issued.
+Petitioners also challenge the cost-benefit compliance alternative on two substantive grounds.
+They contend that this alternative (1) impermissibly allows compliance with the statute to be based on cost-benefit analysis and (2) is analogous to a water-quality standard, which the Act permits only for thermal pollution.
+CWA 316(a ), 33 U.S.C. 1326 (a).
+We address each of these arguments in turn.
+[fn22] 1.
+Cost-Cost Compliance Alternative As already noted, a variance may be available to a facility pursuant to 40 C.F.R. 125.94 (a)(5)(i) if the facility's compliance costs would be "significantly greater than" the costs considered by the Agency "in establishing the applicable performance standards."
+This variance requires a calculation of compliance costs based on the suite of BTA technologies that the EPA has identified and promulgated in the final Rule.
+69 Fed.Reg.
+at 41 ,644-46.
+We remand this provision because (1) the EPA did not give interested parties the requisite notice and opportunity to challenge the variance by failing to identify cost data for actual, named facilities, as opposed to model facilities, until after the notice and comment period had ended, Sprint Corp. , 315 F.3d at 371 , and (2) the variance is expressly premised on the validity of the BTA determination, [fn23] which itself has been remanded for further explanation, see, e.g., Solite Corp. v. U.S. EPA 952 F.2d 473 , 494-95 (D.C. Cir.1991) (remanding rule where the underlying grounds for its promulgation had been remanded to the EPA for procedural defects); cf. Chenery , 318 U.S. at 87-88 , 63 S.Ct. 454 (a rule may only be upheld on the grounds that the agency proffers).
+In the Rule's proposal, the EPA indicated that it had estimated compliance costs for 539 "model plants" based on factors such as "fuel source, mode of electricity generation, existing intake technologies, waterbody type, geographic location, and intake flow."
+67 Fed.Reg.
+at 17 ,144.
+An accompanying technical development document set forth the Agency's cost calculation methodology for these model plants and listed the compliance cost estimates for each of the 539 model plants.
+The proposal indicated that a facility must "determine which model plant [it] most closely" resembles in order to identify the costs considered by the Agency in establishing the national performance standards.
+See id .
+The EPA subsequently published in the Federal Register a so-called Notice of Data Availability ("NODA") in which it explained that it had changed its methodology for estimating the model plants' compliance costs.
+Proposed Regulations to Establish Requirements for Cooling Water Intake Structures at Phase II Existing Facilities; Notice of Data Availability; Proposed Rule , 68 Fed.Reg.
+13,522 , 13,527 (Mar. 19, 2003).
+Accompanying documents explained in greater detail the costing methodology and cost data underlying the revised approach.
+The revised proposal, however, did not depart from the "model plant" approach.
+The final Rule, by contrast, assigned cost estimates to specific, named facilities rather than model facilities.
+69 Fed.Reg.
+at 41 ,670-82.
+The Agency explained in the preamble to the final Rule that the EPA will adjust facility-specific costs pursuant to a multiple-step calculation formula to arrive at a final estimated cost the EPA considers a comparison for purposes of the cost-cost variance.
+Id. at 41 ,644-47.
+The EPA acknowledges that it did not disclose in the proposal or the NODA specific facility names in connection with cost data and explains that it failed to do so because it needed to protect certain confidential business information ("CBI") and had not developed during the proposal stage a means to protect that information while still providing cost data to the public.
+We accept the EPA's argument that masking the facility names did not prevent interested parties from commenting on the methodology and general cost data underlying the EPA's approach because the NODA explained the costing methodology and because the general cost data, while not identified by the Agency as relating to actual, specific facilities, was made available to interested parties.
+Nat'l Wildlife Fed. , 286 F.3d at 564-65 (holding that the EPA cannot be faulted for lack of notice in not releasing CBI data).
+We are persuaded, however, that the release of information and request for comments on the EPA's new approach to developing compliance cost modules via the NODA did not afford adequate notice of the costs associated with specific facilities promulgated in the final Rule.
+We have previously stated that "[n]otice is said not only to improve the quality of rulemaking through exposure of a proposed rule to comment, but also to provide fairness to interested parties and to enhance judicial review by the development of a record through the commentary process."
+Nat'l Black Media Coalition v. FCC , 791 F.2d 1016 , 1022 (2d Cir.1986).
+"While a final rule need not be an exact replica of the rule proposed in the Notice, the final rule must be a `logical outgrowth' of the rule proposed."
+Id .
+"The test that has been set forth is whether the agency's notice would fairly apprise interested persons of the subjects and issues" of the rulemaking.
+Id .
+(citation and internal quotation marks omitted).
+[fn24] Agencies accordingly are not permitted "to use the rulemaking process to pull a surprise switcheroo."
+Envtl.
+Integrity Project , 425 F.3d at 996 .
+Here, only the final Rule identified facilities by name in estimating compliance costs.
+Interested parties therefore could not comment on the basis for particular facilities' cost figures that the EPA established.
+This is problematic because the availability of a variance turns on the relationship between the costs estimated in the Rule and those that a specific facility establishes in a permit proceeding.
+The EPA focuses on the notice it gave of its intended methodology for calculating the costs the Agency considered, but ignores the overriding importance of the cost estimates for a particular facility in determining whether a site-specific cost-cost variance is appropriate.
+Thus, the EPA should have afforded notice and an opportunity to challenge the cost estimates for specific facilities and not simply an opportunity to comment on the EPA's methodology and general cost data.
+[fn25] We remand this variance for inadequate notice and because of our remand of the BTA determination.
+2.
+Cost-Benefit Compliance Alternative [fn26] If a facility requests that it be permitted to demonstrate compliance with the Phase II Rule through the site-specific cost-benefit provision of 40 C.F.R. 125.94 (a)(5)(h), the facility must submit with its application a Comprehensive Cost Evaluation Study, Benefits Valuation Study, and Site Specific Technology Plan.
+40 C.F.R. 125.95 (b)(6).
+As part of the Benefits Valuation Study, the facility must indicate the monetized value of commercial, recreational, and ecological benefits of compliance with the generally applicable national performance standards as well as a qualitative assessment of any so-called "non-use" benefits that cannot be monetized.
+40 C.F.R. 125.95 (b)(6)(ii)(A), (E) .
+Ultimately, the facility must demonstrate that its compliance costs are "significantly greater than" the benefits of compliance.
+The petitioners contend that this alternative impermissibly focuses on cost-benefit considerations, contrary to Congress's directive, and is analogous to the kind of water-quality-based standard we found to be inconsistent with the statute in Riverkeeper I. 358 F.3d at 190 .
+For both reasons, we are persuaded that the EPA exceeded its authority in permitting site-specific cost-benefit variances.
+In light of this conclusion, we do not reach the industry petitioners' claim that the provision impermissibly requires consideration of qualitative non-use benefits in the cost-benefit analysis.
+As we discussed previously in analyzing the EPA's determination of BTA, cost-benefit analysis is not consistent with the requirement of 316(b) that cooling water intake structures "reflect the best technology available for minimizing adverse environmental impact."
+Indeed, the statutory language requires that the EPA's selection of BTA be driven by technology, not cost.
+The Agency is therefore precluded from undertaking such cost-benefit analysis because the BTA standard represents Congress's conclusion that the costs imposed on industry in adopting the best cooling water intake structure technology available (i.e., the best-performing technology that can be reasonably borne by the industry) are worth the benefits in reducing adverse environmental impacts.
+Cf. Am. Textile Mfrs.
+Inst , 452 U.S. at 509 , 101 S.Ct. 2478 (noting that where Congress has defined the basic relationship between costs and benefits, a regulatory standard that strikes a different balance is inconsistent with the statute).
+Just as the Agency cannot determine BTA on the basis of cost-benefit analysis, it cannot authorize site-specific determinations of BTA based on cost-benefit analysis.
+The cost-benefit variance also impermissibly authorizes the EPA to consider the degraded quality of waterways in selecting a site-specific BTA.
+We stated in Riverkeeper I that in enacting the CWA, Congress rejected regulation by reference to water quality standards.
+358 F.3d at 189-90 .
+Before 1972, Congress "regulated point sources based on their effect on the surrounding water and allowed sources to discharge pollutants provided the discharge did not cause water quality to dip below an acceptable level."
+Id. at 189 .
+Congress changed its approach in 1972, in part because a plaintiff attempting to prove a violation of the law faced a nearly impossible burden of showing that a particular polluter had caused the water quality to dip below the regulatory standards.
+Id. at 189-90 .
+The Act now regulates discharges from point sources rather than water quality.
+We thus concluded in Riverkeeper I that water-quality standards cannot be considered under section 316(b) .
+Id. at 190 .
+Of course, "water quality" in the context of the Act is generally understood to refer to pollutant concentration.
+As we noted in Riverkeeper I , however, for purposes of section 316(b) , which regulates water intake rather than the discharge of pollutants, water quality is "measured by wildlife levels."
+Id. at 189 .
+This analysis in Riverkeeper I is, thus, equally applicable here.
+[fn27] The challenged provision of the Phase II Rule apparently would permit a facility to argue that, based on water quality (i.e., the level of aquatic wildlife in a particular body of water), the cost of complying with the national performance standards is not justified.
+The Agency explained in the preamble to the Rule that "in a waterbody that is already degraded, very few aquatic organisms may be subject to impingement or entrainment, and the costs of retrofitting an existing cooling water intake structure may be significantly greater than the benefits of doing so." 69 Fed.Reg.
+at 41 ,604.
+This kind of water-quality-based regulation is not authorized by the CWA because it would exempt facilities from meeting the mandated performance standards simply because wildlife levels in the waterbody were already low, and as we held in Riverkeeper I , the CWA does not permit the EPA to consider water quality in making BTA determinations.
+Finally, we note that to the extent that facilities on highly degraded waterbodies with relatively low wildlife levels face high compliance costs to achieve the national performance standards, those facilities may qualify for the cost-cost variance if such variance is retained on remand.
+Because the EPA exceeded its authority under section 316(b) by permitting (1) cost-benefit analysis and (2) assessment of the quality of the receiving water (i.e., the receiving water's wildlife levels) in determining whether a variance is warranted, we do not need to defer to the Agency's construction of the statute.
+We therefore remand this aspect of the Rule.
+D. TIOP Provision The Phase II Rule's TIOP provision, 40 C.F.R. 125.94 (d), permits a facility to comply with the national performance standards determined on the basis of whether the facility has "complied with the construction, operational, maintenance, monitoring, and adaptive management requirements of a Technology Installation and Operation Plan."
+Id. 125.94(d) (1).
+The petitioners contend that this provision impermissibly allows a facility's compliance to be determined not by reference to the performance standards themselves, but by evaluating whether a facility has complied with a plan to achieve the performance standards.
+In other words, they argue that the TIOP provision essentially allows for an unauthorized margin of error.
+The petitioners also argue that the EPA denied the public an opportunity to comment on the provision.
+Like the cost-cost compliance alternative, remand is appropriate here on two grounds: (1) the EPA did not give adequate notice regarding the provisions in section 125.94(d) (2); and (2) the record justification for the TIOP provision depends on the EPA's selection of a suite of technologies as BTA, a selection which has been remanded for further explanation.
+Given this, we remand the TIOP provision without reaching the merits here.
+The Rule provides that during the first permit term, a facility may request that its compliance be determined based on whether it has complied with its TIOP, which must be designed to meet the performance standards, 40 C.F.R. 125.94 (d)(1), and submitted with a permit application, id. 125.95(b) (4)(h).
+During subsequent permit terms, if a facility has complied with its TIOP but is not meeting the performance standards, the facility may request that its compliance with the standards during the following term be based on whether it remains in compliance with its TIOP, revised in accordance with the facility's adaptive management plan.
+40 C.F.R. 125.94 (d)(2).
+The EPA explained in the Rule's preamble that it is difficult to determine reductions in impingement mortality and entrainment relative to what would have occurred in the absence of control technologies given natural variability and the vagaries of sampling methods.
+69 Fed.Reg.
+at 41 ,613.
+The EPA explained further that it established the TIOP compliance options to account for these variabilities on the ability of a technology to meet the performance standards consistently over time.
+Id. at 41 ,613-14.
+As previously noted, a "final rule must be a `logical outgrowth' of the rule proposed."
+Nat'l Black Media Coalition , 791 F.2d at 1022 .
+The final rule must have roots in the proposal, Envtl.
+Integrity Project , 425 F.3d at 996 , which must "fairly apprise interested persons of the subjects and issues" involved in the rulemaking, Nat'l Black Media Coalition , 791 F.2d at 1022 .
+An agency cannot "pull a surprise switcheroo" on interested parties between a proposal and the issuance of a final rule.
+See Envtl.
+Integrity Project , 425 F.3d at 996 .
+Although the Rule's proposal notified interested parties that the Agency was considering a provision that would give facilities time to achieve the performance standards after implementing new technologies, the EPA gave inadequate notice of the potentially indefinite scope of this provision.
+Specifically, the EPA failed to provide notice of the Rule codified at 40 C.F.R. 125.94 (d)(2), which permits a facility to be deemed in compliance with the Phase II Rule in subsequent permit terms if it continues to adhere to its TIOP.
+In the Rule's proposal, the EPA stated only that it was considering "the need for regulatory language that would allow facilities time to come into compliance [with the performance standards] if they choose to install technologies to meet the performance standards."
+68 Fed.Reg.
+at 13 ,586.
+The proposal indicated further that the EPA was "evaluating and considering allowing six months, one year, two years, or five years (one permit term) for a facility to come into compliance after issuance of its permit."
+Id .
+The TIOP provision in the final Rule, by contrast, does not simply allow facilities additional time, up to one permit term, to come into compliance with the performance standards.
+Instead, it appears to permit a facility to satisfy the Rule's requirements in subsequent permit terms, for an indefinite period, without ever demonstrating compliance with the performance standards, so long as the facility has adhered to its TIOP.
+40 C.F.R. 125.94 (d)(2) (stating that "[d]uring subsequent permit terms" a facility "may request that compliance .
+.
+.
+be determined based on whether [it] remain[s] in compliance with" its TIOP).
+This aspect of the TIOP provision appears then not to be a "logical outgrowth" of the proposal, see Nat'l Black Media Coalition , 791 F.2d at 1022 , because interested parties would not have divined from the proposal that facilities could be given an indefinite period to come into compliance with the national performance standards.
+We thus remand the rule for failure to provide notice and comment and because the record justification for the TIOP provision depends on the EPA's selection of BTA, which has been remanded.
+E. Definitions of "New Facility" and "Existing Facility" The environmental petitioners challenge the reclassification in the Phase II Rule preamble of certain new constructions as "existing facilities," thereby rendering them subject to the Phase II Rule rather than the more stringent Phase I requirements that apply to new facilities.
+We agree with the petitioners that the Agency interpretively modified a definition appearing in the Phase I Rule via statements in the preamble to the Phase II Rule without providing interested parties notice and an opportunity for comment.
+"An agency's interpretation of its own .
+.
+.
+regulation must be given controlling weight unless it is plainly erroneous or inconsistent with the regulation."
+Fowlkes v. Adamec , 432 F.3d 90 , 97 (2d Cir.2005) (citations and internal quotation marks omitted).
+Although we typically owe considerable deference to an agency's construction of its own regulation, Udall v. Tollman , 380 U.S. 1 , 16 , 85 S.Ct. 792 , 13 L.Ed.2d 616 (1965), "[u]nder settled principles of statutory and rule construction, a court may defer to administrative interpretations of a statute or regulation only when the plain meaning of the rule itself is doubtful or ambiguous," Pfizer, Inc. v. Heckler , 735 F.2d 1502 , 1509 (D.C. Cir. 1984) (emphasis in original).
+"Deference to agency interpretations is not in order if the rule's meaning is clear on its face."
+Id .
+Implicit in the rule that an agency cannot interpret a regulation contrary to its unambiguous meaning is the requirement that "an agency must adhere to its own rules and regulations."
+Reuters Ltd. v. FCC , 781 F.2d 946 , 950 (D.C. Cir.1986).
+An agency may modify a regulation that has already been promulgated, therefore, only through the process of notice and comment rulemaking.
+See Alaska Prof'l Hunters Ass'n, Inc. v. FAA , 177 F.3d 1030 , 1034 (D.C. Cir.1999); see also 5 U.S.C. 551 (5) (defining "rule making," which is governed by the notice and comment requirements of 5 U.S.C. 553 , as the "agency process for formulating, amending, or repealing a rule"); Shalala v. Guernsey Memorial Hosp. , 514 U.S. 87 , 100 , 115 S.Ct. 1232 , 131 L.Ed.2d 106 (1995) (noting in dicta that APA rulemaking is required where an agency interpretation "adopt[s] a new position inconsistent with .
+.
+.
+existing regulations").
+The Phase I Rule defined "new facility" as any structure whose construction commenced after January 17, 2002 that meets both the definition of "new source" in 40 C.F.R. 122.29 (discussed below) and one of two other requirements: the structure must use either (1) "a newly constructed cooling water intake structure" or (2) "an existing cooling water intake structure whose design capacity is increased to accommodate the intake of additional cooling water."
+See 40 C.F.R. 125.83 .
+A "new source" under section 122.29 is a facility that (1) "is constructed at a site at which no other source is located," (2) "totally replaces the process or production equipment that causes the discharge of pollutants at an existing source," or (3) undertakes "processes .
+.
+.
+substantially independent of an existing source at the same site."
+[fn28] 40 C.F.R. 122.29 (b) (emphasis added).
+Section 122.29(b) provides further that, in determining whether a facility is "substantially independent" of an existing source, the director should consider "the extent to which the new facility is integrated with the existing plant; and the extent to which the new facility is engaged in the same general type of activity as the existing source."
+40 C.F.R. 122.29 (b)(iii).
+In determining whether a new construction qualifies as a "new facility" for purposes of the Phase I Rule, therefore, the permitting authority must perform a two-part, but not necessarily sequential, analysis.
+It must determine whether the construction uses a new cooling water intake structure or an existing structure whose capacity has been increased.
+The permitting authority must also determine whether the new construction qualifies as a "new source."
+Failure to meet either part of this analysis precludes the new construction from qualifying as a "new facility," and thus from falling under the Phase I Rule's purview.
+The Phase I Rule stated that "new facilities" meeting the foregoing requirements include a "stand-alone" facility, which the Phase I Rule defined as "a new, separate facility that is constructed on property where an existing facility is located and whose processes are substantially independent of the existing facility at the same site."
+Id. 125.83 .
+This is because such a facility, by definition, essentially qualifies as a "new source."
+Compare id .
+with 122.29 (defining "new source" as including a facility that undertakes "processes .
+.
+.
+substantially independent of an existing source at the same site").
+The Phase I Rule clarified, however, that "new facility" does not include "new units that are added to a facility for purposes of the same general industrial operation (for example, a new peaking unit at an electrical generating station)."
+Id. 125.83 .
+This is presumably because such units do not qualify as "new sources" in that they are not substantially independent of existing sources.
+See id. 122.29(b) (1)(iii) (setting forth the factors to be considered in determining substantial independence, including "the extent to which the new facility is integrated with the existing plant; and the extent to which the new facility is engaged in the same general type of activity as the existing source").
+The Phase I Rule thus appears to have left regulation over the following to a subsequent rulemaking phase: (1) new stand-alone facilities that use existing intake structures whose design capacity is not increased and (2) new units that are added to a facility for purposes of the same general industrial operation even if they require either an increase in the intake structure design capacity or the construction of a new cooling water intake structure altogether.
+Id .
+[fn29] The Phase II Rule defines "existing facility" as any facility whose construction commenced on or before January 17, 2002, "and any modification of, or any addition of a unit at such a facility that does not meet the definition of a new facility at 125.83 ."
+Id. 125.93 .
+Thus, from this definition, it appears that new stand-alone facilities that use existing, unmodified intake structures and new units added to a facility for purposes of the same industrial operation, regardless of their impact on the facility's cooling water intake structure, (i.e., the two kinds of new constructions left unregulated by the Phase I Rule) are considered "existing facilities" and governed by the Phase II Rule.
+The parties' dispute concerns statements in the preamble to the Phase II Rule that purportedly narrow, by way of interpretation, the Phase I Rule's definition of "new facility" [fn30] without the required procedures of notice and comment.
+In the preamble to the Phase II Rule, the EPA states that "the Phase I[R]ule treated almost all changes to existing facilities for purposes of the same industrial operation as existing facilities."
+69 Fed.Reg.
+at 41 ,579.
+The preamble then appears to distinguish stand-alone facilities from new units that are part of the same industrial operation, thereby defining the latter as existing facilities without reference to the definition of "new source" or the "substantial independence" test of 40 C.F.R. 122.29 .
+Id. at 41 ,579 n. 2a.
+The preamble states that the "substantial independence" test does not apply where there is an addition to an existing facility for purposes of the same industrial operation, such as the "addition of new generating units at the same site" as an existing facility, id. at 41 ,579, because such additions "are categorically treated as `existing facilities' regardless of any other considerations unless they completely replace an existing facility and its cooling water design intake capacity is increased," id. at 41 ,579 n. 2a.
+These comments are contrary to the plain meaning of the relevant portion of the Phase I Rule.
+The Phase I Rule unambiguously stated that "new facility" means any structure that is a "new source," as defined by 40 C.F.R. 122.29 , subject to certain other requirements.
+Under this provision, a source is considered "new" if, inter alia , "[i]ts processes are substantially independent of an existing source at the same site."
+40 C.F.R. 122.29 (b)(1)(iii).
+A permitting authority could not classify a source constructed at the site of an existing source as new or existing for purposes of the Phase I Rule, therefore, without reference to the "substantial independence" test.
+It is plain, then, that the Phase I Rule distinguished between "stand-alone" facilities and "new units," where the new construction is not built at an empty site and does not totally replace an existing source, by reference to the definition of a "new source."
+A stand-alone facility is "substantially independent" of an existing facility, and therefore a new source; a new unit that is part of the same industrial operation as an existing facility is not substantially independent of an existing facility, and therefore not a new source.
+It is impossible to determine which classification applies to a particular construction under the Phase I Rule without referring to the definition of "new source," i.e., whether it satisfies the "substantial independence" test.
+Put differently, the touchstone of the definition of "new facility" in the Phase I Rule is whether a source is a "new source."
+The Phase I Rule's plain terms thus indicate that a unit that is "substantially independent" of an existing facility is not "part of the same general industrial operation" as the existing facility.
+Any elimination of the "substantial independence" inquiry, therefore, strikes at the heart of the Phase I Rule and its classification of what facilities are subject to its requirements.
+The EPA claims that the Phase II Rule has in no way eliminated the "substantial independence" test and that the Rule's preamble merely makes clear that the fifth sentence in section 125.83 exempts "new units" from regulation under the Phase I Rule.
+This argument fails because the Phase I Rule provides no way to distinguish between stand-alone facilities and new units where the construction is built on a site where a source is already located and does not totally replace the existing source except by reference to the "substantial independence" test, i.e., without assessing the factors set forth at 40 C.F.R. 122.29 (b)(1)(iii) in order to determine whether the source is new or existing.
+Just as "stand-alone facility" has no intrinsic meaning, neither does "new unit."
+The Phase I Rule defines each by reference to the "substantial independence" test of section 122.29(b) .
+Thus, while an existing facility can be repowered with new generating units and remain an "existing facility" for regulatory purposes under section 316(b) , the determination can only be made by reference to whether a particular new generating unit is a stand-alone facility or a new unit that is part of the same general industrial operation as an existing facility.
+In fact, a permitting authority must first determine whether a source is "new" within the meaning of 40 C.F.R. 122.29 (b) before it can conclude that the source is a stand-alone facility or a new unit added to an existing facility for purposes of the same general industrial operation.
+Because the Phase I Rule was not ambiguous, we do not owe deference to the Agency's interpretation of the Phase I Rule in the preamble to the Phase II Rule.
+See Fowlkes , 432 F.3d at 97 ; Pfizer , 735 F.2d at 1509 .
+By permitting the Agency to determine that a new construction is not subject to the Phase II Rule without any definitional guidance and in contravention of the Phase I Rule, the EPA has expanded the scope of what may be classified as a "new unit" while narrowing the Phase I definition of "stand-alone" facility.
+Moreover, by including a potentially expansive definition of "new unit" in the preamble to the Phase II Rule, the EPA has interpretively modified the definitions that appeared in the Phase I Rule without providing interested parties an opportunity for notice and comment.
+Accordingly, we direct the EPA on remand to adhere to the definitions set forth in the Phase I Rule, see Reuters , 781 F.2d at 950-52 , or to amend those definitions following notice and comment, see Alaska Prof'l Hunters , 177 F.3d at 1034 .
+IV.
+The Industry Petitioners A. Applicability of Section 316(b) to Existing Facilities Entergy argues that the EPA lacks authority to apply CWA section 316(b) to existing, as opposed to new, facilities.
+We disagree and conclude that, at the very least, the EPA permissibly interpreted the statute to cover existing facilities and that its interpretation is therefore entitled to deference under Chevron.
+Entergy's argument turns primarily on the statutory language that the best technology available be reflected in the "location, design, construction, and capacity of cooling water intake structures" a collection of words Entergy contends indicates Congress's intent to regulate only new facilities.
+[fn31] Entergy argues further that the EPA has authority to approve cooling water intake structures only before construction and cannot regulate these structures through the NPDES permits issued pursuant to CWA section 402(a)(1) , 33 U.S.C. 1342 (a)(1), which allows the Administrator to "issue a permit for the discharge of any pollutant," but not, in Entergy's view, to cover existing intake structures.
+The EPA emphasizes that section 316(b) cross-references section 301 , which applies to existing facilities, and that the Agency's historical practice of applying section 316(b) to existing facilities effectuates Congress's objectives in enacting the CWA.
+The EPA contends that Congress's link between effluent limitations established pursuant to section 301 and BTA under section 316(b) indicates an intent to regulate cooling water intake structures at existing facilities.
+The EPA thus argues that the intake-structure standard is to be applied whenever an intake structure is present at a point source of pollutant discharge, whether that point source is new or existing.
+As to Entergy's argument concerning the ability to assess intake structures during NPDES permitting proceedings, the EPA argues that its decision to implement the Phase II requirements through NPDES permits has a strong textual basis.
+It notes that section 402 provides for the issuance of "a permit for the discharge of any pollutant" so long as the discharge meets "all applicable requirements under sections 1311 .
+.
+.
+[and] 1316 ," sections 301 and 306 of the CWA respectively.
+CWA 402(a)(1) , 33 U.S.C. 1342 (a)(1).
+EPA contends that the Phase II requirements are "requirements under sections 1311 .
+.
+.
+[and] 1316 " and therefore that cooling water intake structures may be regulated via permits issued pursuant to section 402 .
+The EPA has the better of both arguments.
+As to whether section 316(b) applies to existing facilities, we find Entergy's textual argument, while superficially appealing, ultimately to be unavailing.
+Nothing in section 316(b) indicates that because it applies to the "location, design, construction, and capacity" of a facility's cooling water intake structure, the section is therefore limited to new facilities and does not require existing facilities either to modify existing intake structures or to construct new intake structures in order to come into compliance with the EPA's Rule.
+[fn32] In fact, given the cross-references in section 316(b) to provisions governing both new and existing facilities, the EPA's reading is far more reasonable than Entergy's.
+See E.I.
+du Pont de Nemours & Co. v. Train , 430 U.S. 112 , 121 , 97 S.Ct. 965 , 51 L.Ed.2d 204 (1977) (" Section 301(b) [to which section 316(b) expressly refers] defines the effluent limitations that shall be achieved by existing point sources.
+.
+.
+.
+"); id. at 136 , 97 S.Ct. 965 (holding that "301 does authorize the [Agency] to promulgate effluent limitations for classes and categories of existing point sources").
+The cross-reference to section 301 is particularly significant given that Congress, having made this explicit cross-reference, did not then limit section 316(b) 's application to new facilities which would have been a simple task to do.
+At the very least, the EPA's view that section 316(b) applies to existing facilities is a reasonable interpretation of the statute, and we therefore accord it deference.
+See Chevron , 467 U.S. at 842-43 , 104 S.Ct. 2778 .
+Entergy's argument concerning the permitting process presents a closer question, but it is ultimately not persuasive and does not undermine our conclusion that section 316(b) , on its face, applies to existing facilities.
+The textual basis for the EPA to regulate cooling water intake structures during the periodic permitting process applicable to the discharge of pollutants is not immediately apparent.
+Section 402 conditions the issuance of a permit on the circumstance that a " discharge will meet .
+.
+.
+all applicable requirements under sections 1311.
+[and] 1316 ."
+CWA 402(a)(1) , 33 U.S.C. 1342 (a)(1) (emphasis added).
+While the Phase II requirements are "requirements" under sections 301 and 306 , they do not apply to the discharge of pollutants, and section 402 says nothing about conditioning a permit on compliance with other requirements of sections 301 and 306 , i.e., requirements not relating to the discharge of pollutants.
+Despite this textual hiccup, the EPA's decision to use the NPDES process to enforce section 316(b) is not unreasonable.
+Insofar as the provision applies to existing facilities and the cross-reference in section 316(b) to section 301 provides a clear textual basis for that conclusion the EPA could enforce it only through some permit process following the issuance of an initial construction permit.
+Moreover, the structure of section 316(b) supports the view that its requirements are to be enforced through the same process used to enforce the effluent limitations of sections 301 and 306 .
+As noted, the statute requires that any standard established by the EPA to govern the discharge of pollutants from existing facilities must also regulate cooling water intake structures.
+CWA 316(b) , 33 U.S.C. 1326 (b) (providing that "[a]ny standard established pursuant to section 1311 .
+.
+.
+or section 1316 " shall also regulate the cooling water intake structures of point sources).
+In light of this language, it is at least reasonable to conclude that Congress intended the requirements of section 316(b) to be part and parcel of any regulation of, and therefore any permit issuance relating to, the discharge of pollutants.
+See Riverkeeper I , 358 F.3d at 185-86 .
+It is a fair conclusion that section 402 implicitly requires permitting authorities to ensure compliance with section 316(b) as a permit condition.
+See U.S.
+Steel Corp. v. Train , 556 F.2d 822 , 850 (7th Cir.1977) ("[Section] 402(a)(1) implicitly requires the Administrator to insure compliance with 316(b) as one of the permit conditions.
+"), overruled on other grounds by City of West Chicago, Ill. v. U.S. Nuclear Regulatory Comm'n , 701 F.2d 632 , 644 (7th Cir.1983) (abandoning the view that 5 U.S.C. 558 (c) independently provides that formal adjudicatory hearings must be held when requested by a license applicant under CWA 402 ).
+Section 402 thus does not undermine the deference to which the Agency's interpretation of section 316(b) is entitled under Chevron.
+Because section 316(b) plainly applies to existing facilities and Congress intended the requirements of section 316(b) to apply in tandem with the effluent limitations established pursuant to sections 301 and 306 , we conclude that the EPA may regulate cooling water intake structures via the NPDES permit process.
+Otherwise, Congress's intent to regulate the intake structures of existing facilities could not be effectuated.
+[fn33] Accordingly, we reject this aspect of Entergy's challenge.
+B. Definition of "Adverse Environmental Impact" In the Phase II Rule, as in the Phase I Rule, the EPA has interpreted the statutory directive of section 316(b) to minimize "adverse environmental impact" ("AEI") to require the reduction of "the number of aquatic organisms lost as a result of water withdrawals associated" with cooling water intake structures.
+69 Fed.Reg.
+at 41 ,586.
+This interpretation reflects the fact that section 316(b) is a somewhat unusual provision of the CWA in that it governs the environmental effects of large scale withdrawals from waters of the United States rather than the release of pollutants into receiving water.
+As did the industry petitioners in Riverkeeper I , PSEG argues that the EPA arbitrarily defined AEI to include any loss of or harm to aquatic organisms due to impingement mortality and entrainment rather than only more severe "population-level effects."
+It contends that the EPA has historically focused on the "population dynamics" of aquatic organisms and the fact that many of these organisms are "density dependent," i.e., they produce large numbers of offspring, only a few of which survive to adulthood.
+[fn34] On the theory that the "vast majority" of entrained organisms would have died of natural causes in any event, PSEG argues that reduction of impingement mortality and entrainment will have only a marginal positive environmental impact.
+[fn35] PSEG contends that because the Agency has changed course from its longstanding interpretation of AEI without giving a clear and reasoned justification for its decision, the EPA's Rule is entitled to less deference than it otherwise would receive.
+PSEG also argues that the Phase II Rule's exclusion from the entrainment reduction requirement of facilities withdrawing small amounts of water, facilities withdrawing water from lakes other than the Great Lakes, and facilities that have a small capacity utilization rate undercuts the EPA's determination that impingement mortality and entrainment are per se adverse environmental impacts.
+We are not persuaded by PSEG's arguments.
+We agree with the EPA that the Phase II Rule is based on substantially the same record evidence of impingement mortality and entrainment relied upon in promulgating the Phase I Rule and that we rejected substantially the same arguments advanced here by the industry petitioners in Riverkeeper I , 358 F.3d at 197 ("The EPA considered all of the factors that UWAG now raises, and we are inclined to defer to the EPA's judgment of how best to define and minimize `adverse environmental impact.'"
+(internal footnote omitted)).
+Riverkeeper I thus controls this issue.
+In Riverkeeper I , we rejected the arguments that some species are nuisances and require eradication, that other species respond to population losses by increasing their reproduction, and that removing large numbers of aquatic organisms from waterbodies is not in and of itself an adverse impact.
+358 F.3d at 196 .
+We specifically rejected the view that "the EPA should only have sought to regulate impingement and entrainment where they have deleterious effects on the overall fish and shellfish populations in the ecosystem, which can only be determined through a case-by-case, site-specific regulatory regime."
+Id .
+We emphasized that "the EPA's focus on the number of organisms killed or injured by cooling water intake structures is eminently reasonable."
+Id .
+We reiterated that Congress had "rejected a regulatory approach that relies on water quality standards," analogizing the argument pressed there as urging what is essentially a water quality standard that focuses on fish populations and consequential environmental harm.
+[fn36] Id. at 196-97 .
+Given that the record evidence on this issue has not changed in any meaningful way since the Phase I rulemaking, we are both persuaded and bound by our statements on this issue in Riverkeeper I. Were we considering the issue in the first instance, however, we would be inclined to defer to the EPA's judgment in any event.
+The EPA explained that it has set "performance standards for minimizing adverse environmental impact based on a relatively easy to measure and certain metric reduction of impingement mortality and entrainment."
+69 Fed.Reg.
+at 41 ,600.
+It explained further that it chose this approach "because impingement and entrainment are primary, harmful environmental effects that can be reduced through the use of specific technologies" and stated that "where other impacts at the population, community, and ecosystem levels exist, these will also be reduced by reducing impingement and mortality."
+Id .
+We see no reason to second-guess this judgment, given the Agency's consideration of the various environmental consequences of cooling water intake structures.
+See Nat'l Wildlife Fed'n , 286 F.3d at 570 (noting that courts afford the EPA considerable discretion to weigh and balance various factors in determining how to establish performance standards).
+[fn37] C. Zero Entrainment Survival Assumption The Phase II Rule requires a reduction of impingement mortality , but a reduction of entrainment generally.
+See 40 C.F.R. 125.94 (b).
+The industry petitioners contend that the EPA improperly presumed that all entrained organisms are killed.
+They argue that the Rule's assumption that no organisms survive entrainment is contrary to the evidence which, in their view, indicates a survival rate of significantly more than zero.
+We conclude that in light of uncertain record evidence, the EPA acted within its discretion in assuming zero entrainment survival.
+The EPA explained in the preamble to the Phase II Rule that it assumed zero percent entrainment survival because it "does not have sufficient data to establish performance standards based on entrainment survival for the technologies used as the basis for today's rule."
+69 Fed.Reg.
+at 41 ,620.
+It explained further that it "believes the current state of knowledge does not support reliable predictions of entrainment survival that would provide a defensible estimate for entrainment survival above zero at a national level."
+Id .
+It also stated that the performance standard would likely have been higher had it incorporated entrainment survival into its conclusions.
+Id .
+While impingement mortality can be readily quantified, the EPA contends, entrainment mortality cannot because many entrained organisms are small, fragile, and prone to disintegrate during entrainment.
+The EPA also contends that death from entrainment sometimes occurs immediately but other times only after an organism is discharged back into the waterbody.
+In view of these factors, the EPA claims that it reasonably concluded that the available data did not support an estimate of entrainment survival at the national level.
+None of the peer reviewers accepted the EPA's assumption of zero percent survival.
+For instance, peer reviewer Dr. Mark Bain was "not convinced by the arguments presented that fish do not survive entrainment in significant numbers" and concluded that there is "very strong evidence that entrainment survival is not zero."
+Another peer reviewer, Dr.
+Charles Hocutt, concluded that the EPA's assumption is based on inference and innuendo and does not statistically refute opposing views.
+Although peer reviewer Dr. Greg Garman stated that the study submitted by the power industry was "very clearly biased" and "too seriously flawed to provide a serious challenge to the EPA position," he also noted that "EPA's position is only slightly more defensible" given the lack of rigorous statistical analyses.
+No peer reviewer, however, expressed the belief that reliable national statistics on entrainment survival exist.
+Hocutt found "it difficult for the layman and professional alike to draw confident conclusions without a detailed analysis" of the evidence, and Garman suspected a lack of sufficient data "to conduct a definitive and statistically valid test of the EPA zero survival assumption."
+While these comments do not, on balance, support the EPA's assumption, neither do they reflect any meaningful agreement on the incidence of entrainment survival.
+Given the statutory directive to set national standards and the well-documented uncertainty in the entrainment data, the EPA was well within its authority to determine that it could not provide a reasonable estimate of entrainment survival on a national basis.
+Judicial review is considerably deferential when "the agency's decision rests on an evaluation of complex scientific data within the agency's technical expertise."
+Texas Oil & Gas Ass'n , 161 F.3d at 934 ; City of Waukesha v. EPA 320 F.3d 228 , 247 (D.C. Cir.2003) (stating that an agency is entitled to "an extreme degree of deference .
+.
+.
+when it is evaluating scientific data within its technical expertise" (citation and internal quotation marks omitted)).
+Moreover, "it is within EPA's discretion to decide that in the wake of uncertainty, it would be better to give the values a conservative bent rather than err on the other side."
+Am. Iron & Steel Inst. v. EPA 115 F.3d 979 , 993 (D.C. Cir.1997).
+Indeed, one peer reviewer expressly noted that the EPA had adopted a "conservative approach" by its assumption of zero entrainment survival in the Rule.
+It is thus clear that the EPA acted well within its discretion in presuming zero entrainment survival after the Agency had reviewed a substantial body of complex scientific data, and acknowledging that the evidence is inconclusive, it adopted a conservative approach.
+For these reasons and those stated in Riverkeeper I , we therefore "defer to the EPA's judgment of how best to define and minimize `adverse environmental impact.'"
+358 F.3d at 197 .
+D. Nuclear Plants Entergy contends that the Phase II Rule fails to account for its purportedly disproportionate impacts on nuclear power plants and is therefore arbitrary and capricious.
+Entergy argues that nuclear facilities face unique safety concerns associated with the stable flow of cooling water to ensure safe reactor operation and shutdown.
+Any change in water intake or obstruction of water intake systems due to, for example, the clogging of screens, it argues further, affects nuclear power facilities in specific and serious ways.
+Entergy takes the position that the EPA failed to account for these issues in the Phase II Rule.
+We disagree because the record demonstrates adequate consideration by the EPA of nuclear plants' particular concerns.
+The EPA considered and responded to comments from nuclear facilities during the rulemaking process.
+Most importantly, the Agency considered whether the Rule's requirements presented any concerns relating to the safety of nuclear facilities.
+69 Fed.Reg.
+at 41 ,585 (noting that the EPA had coordinated with the Nuclear Regulatory Commission to ensure that there would not be a conflict between the EPA Rule and safety requirements applicable to nuclear facilities).
+The EPA ultimately included in the Phase II Rule a provision that accounts for this concern by providing for a site-specific compliance alternative for nuclear facilities.
+This provision states that if a nuclear facility "demonstrate[s] to the [EPA] based on consultation with the Nuclear Regulatory Commission that compliance with this subpart would result in a conflict with a safety requirement established by the Commission, the [EPA] must make a site-specific determination of best technology available for minimizing adverse environmental impact that would not result in a conflict."
+40 C.F.R. 125.94 (f).
+We defer to the EPA's determination that this compliance alternative ensures that any safety concerns unique to nuclear facilities will prevail over application of the general Phase II requirements.
+See Nat'l Wildlife Fed'n , 286 F.3d at 570 (noting that appellate courts give an agency considerable discretion when it has weighed and balanced the appropriate factors); BP Exploration & Oil, Inc. v. EPA 66 F.3d 784 , 802 (6th Cir.1995) ("The overriding principle in our review of the Final Rule is that the agency has broad discretion to weigh all relevant factors during rulemaking.
+The CWA does not state what weight should be accorded to the relevant factors; rather, the Act gives EPA the discretion to make those determinations.").
+Moreover, we are persuaded that the generous cost-cost compliance alternative, which we remand for lack of notice but do not address on the merits, may further account for Entergy's concerns.
+Accordingly, we deny the petition for review insofar as it challenges the Rule's application to nuclear facilities.
+E. Independent Suppliers The Phase II Rule provides that a large, existing facility is subject to the Rule's requirements even when it obtains cooling water from an independent supplier that is not itself a Phase II existing facility.
+40 C.F.R. 125.91 (c).
+Put differently, a Phase II facility can purchase cooling water only from suppliers whose intake structures are in compliance with the Phase II Rule.
+The provision is intended to prevent circumvention of the Rule by purchasing cooling water from non-Phase II entities.
+UWAG argues that the EPA gave inadequate notice of the scope of this so-called third-party or independent-supplier Rule.
+We agree.
+UWAG contends that while the Phase I Rule included an independent-supplier provision similar to the one at issue here, the parallel provision of the Phase I Rule applies only to third-party suppliers that are not point sources, and thus do not need discharge permits and are not subject to any rule promulgated pursuant to section 316(b) .
+[fn38] UWAG argues that the Rule's proposal indicated that the Phase II provision would track the language of the Phase I provision.
+UWAG contends, therefore, that the EPA gave inadequate notice of the more broadly phrased provision that was actually promulgated: a rule applying both to the intake structures of third-parties that are not point sources, and therefore not subject to direct regulation under section 316(b) , as well as to facilities with intake structures that will be governed by the Phase III rule, which will encompass smaller power plants and other facilities.
+The issue is thus whether the EPA provided adequate notice that the Rule ultimately promulgated would impose Phase II requirements on Phase III facilities that supply cooling water to Phase II facilities.
+As we have noted, our inquiry into whether an agency has provided adequate notice of its rulemaking as required by the APA is guided by the "logical outgrowth" test.
+Nat'l Black Media Coalition , 791 F.2d at 1022 .
+That is, we must determine whether the Agency's notice fairly apprised interested parties of the rulemaking, id .
+, or whether the final Rule was sufficiently remote or distant from the Agency's proposal to constitute a "surprise switcheroo," Envtl.
+Integrity Project , 425 F.3d at 996 .
+The proposed Rule published in the Federal Register stated that "[u]se of a cooling water intake structure includes obtaining cooling water by any sort of contract or arrangement with an independent supplier (or multiple suppliers) of cooling water if the supplier or suppliers withdraw(s) water from waters of the United States."
+67 Fed.Reg.
+at 17 ,220.
+The notice then stated that the provision was intended "to prevent circumvention of these requirements by creating arrangements to receive cooling water from an entity that is not itself a point source," id .
+(emphasis added), indicating that the provision would track the Phase I Rule's language.
+The initial language of the provision appearing in the proposal defining "independent supplier" as any provider that withdraws water from waters of the United States is virtually identical to the language in the final Rule.
+[fn39] The final Rule, however, states that it "is intended to prevent circumvention of these requirements by creating arrangements to receive cooling water from an entity that is not itself a Phase II existing facility."
+40 C.F.R. 125.91 (c) (emphasis added).
+This difference, while small, is not insignificant.
+As noted, under the proposed Rule, Phase II facilities could purchase cooling water from facilities complying with the Phase I, II, or III requirements.
+Under the final Rule, by contrast, Phase II facilities can purchase cooling water only from facilities complying with the Phase II Rule.
+The proposal therefore apprised affected parties of the general subject, but not the scope, of the Rule ultimately promulgated.
+Interested parties were thus given notice that the EPA sought to prevent circumvention of its rules and an opportunity to comment on this general policy, but could not have anticipated the final Rule's scope.
+Indeed, while the final provision has roots in the proposal, it clearly reaches further than the proposed provision and even the more stringent Phase I Rule.
+Affected parties would therefore have had no reason to anticipate the Agency's final course in light of the initial notice.
+Be cause the EPA provided inadequate notice of the scope of the Phase II Rule's independent-supplier provision, we conclude that the Rule ultimately promulgated is not a "logical outgrowth" of the proposed Rule.
+Nat'l Black Media Coalition , 791 F.2d at 1022 .
+Our conclusion rests in large part on the similarity between the Phase I Rule's independent-supplier provision and the proposed Phase II Rule's parallel provision.
+Given that the requirements under the Phase I Rule are more stringent than those imposed under the Phase II Rule, the proposal provided no notice that the Phase II Rule's independent-supplier provision would be more stringent than the Phase I Rule's provision.
+We therefore remand this aspect of the Rule.
+F. Definition of "Great Lakes " The entrainment performance standard of 40 C.F.R. 125.94 (b)(2) applies to facilities that use cooling water "withdrawn from .
+.
+.
+one of the Great Lakes."
+40 C.F.R. 125.49(b)(2)(ii)(A) .
+"Great Lakes," however, is not defined in the Rule.
+An affidavit of UWAG's counsel states that UWAG members have been told by state regulators that they have been told by EPA Headquarters that EPA would apply the Great Lakes national performance standards regarding impingement and entrainment to the cooling water intake structures located in the Great Lakes connecting channels or in waterways with open fish passage to a Great Lake and within 30 miles from a Great Lake.
+UWAG argues that interested parties were given no notice of this interpretation of the Phase II Rule or opportunity to comment on it and that the interpretation has no record support.
+UWAG also remarks that the EPA mentioned in the preamble to the Rule that in assessing the national environmental benefits of its final Phase II Rule, it had evaluated the benefits in seven study regions.
+The EPA defined the Great Lakes region for that purpose as follows: The Great Lakes region includes all facilities in scope of the Phase II rule that withdraw water from Lakes Ontario, Erie, Michigan, Huron, and Superior or are located on a waterway with open fish passage to a Great Lake and within 30 miles of the lake.
+69 Fed.Reg.
+at 41 ,655.
+UWAG contends that the EPA never indicated that this definition would apply to 125.94(b)(2) and seeks either a ruling that "Great Lakes" has its ordinary meaning or a remand for an express definition of what the term means.
+Notwithstanding UWAG's proffer that the EPA has informally interpreted "Great Lakes," the Rule itself does not define what is encompassed by the term, and UWAG has provided no documentary evidence that the EPA has issued a formal and binding definition or even applied a particular definition in a permitting proceeding.
+There is, therefore, no final agency action for us to review.
+We agree with the holding of the Seventh Circuit in American Paper Institute, Inc. v. Environmental Protection Agency , that in the absence of a formal and binding rule or some other final agency action, judicial review is not available at this time.
+882 F.2d 287 , 289 (7th Cir.1989).
+We therefore dismiss for lack of jurisdiction so much of the petition for review as challenges the purported definition of "Great Lakes."
+G. Preemptive Preservation of Issues UWAG has purported to "preserve" the right to raise new challenges to the Phase II Rule if we remand significant aspects of it to the EPA because UWAG views the Rule as an integrated whole.
+If certain aspects of the Rule are remanded, UWAG suggests, previously unobjectionable provisions may become, in its view, unacceptable.
+We are not sure what challenges UWAG seeks to preserve.
+Of course, UWAG will have the right to challenge any rule the EPA may promulgate on remand through a new petition for review.
+See 33 U.S.C. 1369 (b).
+Insofar as UWAG seeks to raise further challenges following the issuance of our ruling but before the EPA acts on remand, however, it waived those challenges by failing to raise them in the briefs it has already submitted to this Court.
+See Norton v. Sam's Club , 145 F.3d 114 , 117 (2d Cir.1998) (noting that issues not argued in a party's briefs are considered waived).
+We thus reject UWAG's claim to have preserved the right to raise new challenges to the Rule currently before us on this petition for review.
+CONCLUSION For the foregoing reasons, the state and environmental petitioners' petitions are granted in part and denied in part, and the industry petitioners' petitions granted in part, denied in part, and dismissed in part for lack of jurisdiction.
+We remand to the EPA the provision establishing BTA so that it may provide either a reasoned explanation of its decision or a new determination of BTA based on permissible considerations.
+We further remand the site-specific cost-cost variance and the TIOP provision because the cost-cost variance and subpart (d)(2) of the TIOP provision provided inadequate notice and both depend on the BTA determination, which we remand today.
+We remand as based on impermissible constructions of the statute those provisions that (1) set performance standards as ranges without requiring facilities to achieve the greatest reduction of adverse impacts they can; (2) allow compliance through restoration measures; and (3) authorize a site-specific cost-benefit variance as impermissible under the statute.
+We further remand for notice and comment the independent suppliers provision.
+We also direct the EPA on remand to adhere to the definition of "new facility" set forth in the Phase I Rule or to amend that definition by rulemaking subject to notice and comment.
+Finally, we dismiss for lack of jurisdiction so much of the petitions as challenges the purported definition of "Great Lakes" and deny as moot the motions to strike certain material from the record and to supplement the record with other material.

@@ -1,0 +1,206 @@
+ KING, Chief Judge: Plaintiffs-appellants, thirty police officers and public safety dispatchers employed by the defendants-appellees, the City of Jackson and the Police Department of the City of Jackson, appeal the district court's order granting summary judgment in favor of the defendants.
+The appeal presents an issue of first impression in our circuit regarding whether a disparate impact theory of liability is available to plaintiffs suing for age discrimination under the Age Discrimination in Employment Act of 1967.
+The district court ruled that, as a matter of law, claims of disparate impact cannot be brought under the Act.
+We agree and therefore affirm the judgment of the district court as to this issue.
+However, because the district court granted summary judgment in favor of the defendants on the plaintiffs' disparate treatment claim before addressing pending motions related to the plaintiffs' ability to fully develop the summary judgment record, we vacate the district court's final judgment insofar as it dismissed the plaintiffs' disparate treatment claim.
+I. PROCEDURAL HISTORY On May 14, 2001, thirty police officers and public safety dispatchers—all over the age of forty and all employed by the defendants—filed suit pursuant to the Age Discrimination in Employment Act ("ADEA"), 29 U.S.C. 621 et seq.
+(2000).
+They claimed injuries as a result of an allegedly age-discriminatory performance pay plan ("the plan") implemented by the defendants in order to grant substantially larger salary increases to police officers and public safety dispatchers (collectively "officers") under the age of forty.
+The plan was implemented by the defendants on October 1, 1998, and revised by the defendants on March 1, 1999.
+Under the plan, those officers and dispatchers with five or fewer years of tenure with the department received proportionately greater raises when compared to their former pay than those with more than five years of tenure.
+As stated by the district court: The plan accordingly created three categories for the purposes of the analysis of this case: 1) those officers and dispatchers with less than five years of tenure, most, if not all, of whom would have been under 40 years of age; 2) those 40 years of age or older, most, if not all, of whom would have had more than five years of tenure, and; 3) those under 40 years of age with more than five years of tenure.
+On December 11, 2001, the plaintiffs moved to compel certain fiscal and personnel discovery related to the implementation and revision of the plan; the magistrate judge overseeing disputes related to discovery in this matter granted this motion on January 16, 2002, concluding that "the fiscal and personnel discovery requested by the Plaintiffs is not privileged and should be produced."
+On June 5, 2002, the plaintiffs filed a "motion for sanctions, a default judgment, attorneys' fees and expenses, expert witness fees and a continuance," seeking to have the defendants comply with disclosure and discovery obligations as set forth in the Federal Rules of Civil Procedure and the order of the magistrate judge.
+Two days later, the defendants moved for summary judgment, and the plaintiffs thereafter moved to strike certain exhibits to the defendants' motion, in part because the existence of the documents attached as exhibits had been previously denied by the defendants.
+On September 6, 2002, while the plaintiffs' motions were pending, the district court granted summary judgment in favor of the defendants on the plaintiffs' disparate impact and disparate treatment claims and denied the plaintiffs' pending motions as moot.
+Final judgment was entered on this same date.
+The plaintiffs appeal this final judgment, maintaining that: (1) the district court erred in concluding that a disparate impact theory of liability is not cognizable under the ADEA, and (2) the district court erred in improvidently dismissing the plaintiffs' disparate treatment claim pending production by the defendants of requested discovery materials.
+II.
+STANDARD OF REVIEW We review the grant of summary judgment de novo , applying the same standards as did the district court.
+Daniels v. City of Arlington , 246 F.3d 500, 502 (5th Cir.), cert. denied , 534 U.S. 951 , 122 S.Ct. 347 , 151 L.Ed.2d 262 (2001).
+Summary judgment should be granted if there is no genuine issue of material fact for trial and the moving party is entitled to judgment as a matter of law.
+FED.R.CIV.P. 56(c) .
+In determining if there is a genuine issue of material fact, this court reviews the evidence in the light most favorable to the non-moving party.
+Daniels , 246 F.3d at 502 .
+III.
+THE PLAINTIFFS' DISPARATE IMPACT CLAIM The plaintiffs raise both disparate treatment and disparate impact theories of liability here.
+Regarding their disparate treatment claim, the plaintiffs allege that the defendants were motivated by age to implement a plan that discriminated against them intentionally.
+Regarding their disparate impact theory, the plaintiffs allege that the implementation of the facially neutral plan by the defendants gives rise to liability without a showing of intentional age motivation because the plan resulted in pay increases to officers under forty years of age that were four standard deviations higher than the raises received by officers over forty.
+In support of their disparate impact theory, the plaintiffs proffered to the district court statistical data demonstrating that the average pay increases made pursuant to the plan differed by age and that older officers received smaller raises than their younger counterparts.
+In a disparate treatment case, liability depends on whether the protected trait—here, age—actually motivated the employer's decision.
+Hazen Paper Co. v. Biggins , 507 U.S. 604, 610 , 113 S.Ct. 1701 , 123 L.Ed.2d 338 (1993).
+The employer may have relied on a facially discriminatory policy requiring adverse treatment of older employees or may have been motivated by age to discriminate against an individual on an ad hoc basis—"[w]hatever the employer's decisionmaking process, a disparate treatment claim cannot succeed unless the employee's protected trait actually played a role in that process and had a determinative influence on the outcome."
+Id .
+Proof of discriminatory motive is thus critical to the success of a plaintiff's discriminatory treatment claim.
+Id .
+In contrast, in a disparate impact case, liability may result without a demonstration of discriminatory motive.
+Id. at 609 , 113 S.Ct. 1701 .
+Disparate impact claims arise from "employment practices that are facially neutral in their treatment of different groups but that in fact fall more harshly on one group than another and cannot be justified by business necessity."
+Id. (quoting Int'l Bhd. of Teamsters v. United States , 431 U.S. 324, 335-36 n. 15, 97 S.Ct. 1843 , 52 L.Ed.2d 396 (1977)).
+In 1971, the Supreme Court held that plaintiffs may bring disparate impact claims under Title VII.
+Griggs v. Duke Power Co. , 401 U.S. 424, 430-31 , 91 S.Ct. 849 , 28 L.Ed.2d 158 (1971).
+This judicial construction of the statute was codified by Congress in 1991 to make clear that such a theory was available to plaintiffs.
+See Civil Rights Act of 1991, Pub.L.
+No. 102-166, 105(a), 105 Stat. 1071, 1074-75 (adding 42 U.S.C. 2000e-2(k) ).
+1 The availability of a disparate impact theory under the ADEA, however, is not so clear.
+In Hazen Paper Co. v. Biggins , the Supreme Court expressly declined to weigh in on whether the ADEA entitles a plaintiff to bring a disparate impact cause of action, stating that "we have never decided whether a disparate impact theory of liability is available under the ADEA, and we need not do so here."
+507 U.S. at 610 , 113 S.Ct. 1701 (internal citation omitted).
+This express reservation has led to a debate amongst the courts of appeals regarding whether the ADEA, like Title VII, entitles a plaintiff to bring a disparate impact claim.
+Those courts of appeals extending the holding in Griggs to the ADEA do so based on the textual similarities between the prohibitory sections of the ADEA and Title VII.
+See Frank v. United Airlines, Inc. , 216 F.3d 845, 856 (9th Cir.2000) (stating, post Hazen , that "[w]e see no reason to depart from our conclusion and we again hold that a disparate impact claim is cognizable under the ADEA"); Criley v. Delta Air Lines Inc. , 119 F.3d 102, 105 (2d Cir.1997) (following, without discussion, pre Hazen law in stating that "in our circuit, we have recognized such a[] [disparate impact] action"); Smith v. City of Des Moines , 99 F.3d 1466, 1470 (8th Cir.1996) (stating that "even if we believed that Hazen Paper cast doubt on the validity of [pre Hazen case law], Houghton [a post Hazen case] represents the law of this Circuit" and must therefore be followed).
+Those courts of appeals declining to hold that a disparate impact theory is cognizable under the ADEA recognize the significant textual overlap in the prohibitory sections of the ADEA and Title VII, but they also look beyond this similarity, examining the entire ADEA statute (and the purpose behind its enactment) and finding important differences between the ADEA and Title VII that counsel against extending the Griggs holding to the ADEA context.
+See Adams v. Fla. Power Corp. , 255 F.3d 1322, 1325-26 (11th Cir.) (holding that disparate impact claims may not be brought under the ADEA, in part because "the history of the ADEA differs from the legislative history of Title VII, which the Supreme Court in Griggs relied on to find a cause of action for disparate impact"), cert. granted , 534 U.S. 1054 , 122 S.Ct. 643 , 151 L.Ed.2d 561 (2001), cert. dismissed , 535 U.S. 228 , 122 S.Ct. 1290 , 152 L.Ed.2d 345 (2002); Mullin , 164 F.3d at 703 ("Congress never intended to make a disparate impact cause of action available under the ADEA.
+"); Maier v. Lucent Tech., Inc. , 120 F.3d 730, 735 (7th Cir.1997) ("[S]uch a theory of liability [disparate impact] is not cognizable under the ADEA.
+"); Ellis , 73 F.3d at 1001 ("[W]e hold that ADEA claims cannot be based on a disparate impact theory of discrimination.").
+2 After surveying the well-traversed arguments on either side of this debate, we hold that the ADEA was not intended to remedy age-disparate effects that arise from the application of employment plans or practices that are not based on age.
+Fundamental to our decision is the ADEA's express exception permitting employer conduct based on "reasonable factors other than age"—an exception absent from Title VII—and the inapplicability to the ADEA context of the policy justifications identified by the Supreme Court (in Griggs , 401 U.S. at 430-31 , 91 S.Ct. 849 ) for recognizing a disparate impact cause of action in the Title VII context.
+A. Similarities Between the ADEA and Title VII The construction of a statute begins with the text of the statute itself.
+The ADEA prohibits discrimination on the basis of age.
+See 29 U.S.C. 623 (2000).
+It was enacted in 1967, before the Supreme Court first interpreted Title VII to allow employees to prove discrimination by showing disparate impact.
+See Griggs , 401 U.S. at 431 , 91 S.Ct. 849 .
+The plaintiffs correctly identify the core sections expressly prohibiting discrimination "because of [an] individual's age" in the ADEA— 623(a)(1) and (a)(2)—as overlapping almost identically with the core sections expressly prohibiting discrimination "because of [an] individual's race, color, religion, sex, or national origin" in Title VII—42 U.S.C. 2000e-2(a)(1) and (2).
+3 This is no coincidence; "the prohibitions of the ADEA were derived in haec verba from Title VII."
+Lorillard v. Pons , 434 U.S. 575, 584 , 98 S.Ct. 866 , 55 L.Ed.2d 40 (1978).
+The only differences in the prohibitory language contained in these statutes are: (1) Title VII protects against discrimination on the basis of "race, color, religion, sex, or national origin," while the ADEA protects against discrimination on the basis of "age"; and (2) Title VII extends protection also to "applicants" for employment, while the ADEA does not.
+Although the ADEA's prohibitory provisions are at first blush read most naturally as outlawing only conduct motivated by age—the statute refers to actions taken "because of" age— Griggs of course held that parallel language in Title VII prohibited actions that had a race-disparate impact, irrespective of motive or intent.
+The significant overlap between the prohibitory sections of the ADEA and of Title VII persuaded the Second Circuit to hold early on, with little discussion, that a disparate impact theory of liability is likewise available under the ADEA.
+See Geller v. Markham , 635 F.2d 1027, 1031-32 (2d Cir.1980).
+4 The Eighth and Ninth Circuits soon followed suit, again without any significant inquiry apart from drawing a parallel to Title VII.
+See Leftwich v. Harris-Stowe State Coll. , 702 F.2d 686, 690 (8th Cir.1983) ; Douglas v. Anderson , 656 F.2d 528, 531 n. 1 (9th Cir.1981).
+5 As noted earlier, these circuits continue to follow that position.
+6 While the First, Seventh, Tenth, and Eleventh Circuits have likewise approached the statutory construction of the ADEA by looking at the text of the ADEA, they have (we think correctly) declined to limit their construction calculus solely to the prohibitory sections of the ADEA and Title VII.
+Instead, as we explore below, they look to the entire statute and legislative history of the ADEA to recognize important textual and policy-based differences between the ADEA and Title VII that demonstrate an intention on the part of Congress to allow for claims of intentional age discrimination, but not for claims of disparate impact discrimination.
+B. Differences Between the ADEA and Title VII (1) Section 623(f)(1) of the ADEA The ADEA's prohibitions against age discrimination in employment are qualified by several exceptions to employer liability set forth in 623(f) .
+Pursuant to one of these exceptions, an employer can avoid liability under the ADEA if the adverse employment action is "based on reasonable factors other than age."
+29 U.S.C. 623(f)(1) .
+7 Neither the "reasonable factors other than age" exception nor a parallel provision is found in Title VII.
+Facially, the exception appears to serve as a safe harbor for employers who can demonstrate that they based their employment action on a reasonable non-age factor, even if the decision leads to an age-disparate result.
+In a pre Hazen dissenting opinion, Judge Easterbrook argues against recognizing a disparate impact theory of liability under the ADEA based on this "reasonable factors other than age" exception: [Section (f)(1) ], which says that "reasonable factors other than age" may be the basis of decision—impl[ies] strongly that the employer may use a ground of decision that is not age, even if it varies with age.
+What else could be the purpose of this language?
+Surely it does not mean simply that "only age discrimination is age discrimination."
+"The prohibition and the exception appear identical.
+The sentence is incomprehensible unless the prohibition forbids disparate treatment and the exception authorizes disparate impact."
+Metz v. Transit Mix, Inc. , 828 F.2d 1202, 1220 (7th Cir.1987) (Easterbrook, J., dissenting) (quoting Douglas Laycock, Continuing Violations, Disparate Impact in Compensation, and Other Title VII Issues , 49 L. & CONTEMP.
+PROBS.
+53, 55 (1986)).
+Post Hazen case law likewise reads the inclusion of the "reasonable factors other than age" exception to imply a congressional intent to remedy only intentional discrimination because of age through the passage of the ADEA.
+For example, the First Circuit states: A critical asymmetry in the texts of the ADEA and Title VII counsels convincingly against recognizing a disparate impact cause of action under the former statute This ["reasonable factors other than age"] proviso permits employers to utilize factors other than age as grounds for employment-related decisions that differentially impact members of the protected class (individuals between the ages of 40 and 69).
+When this exception is read with the ADEA's general prohibition against age-based discrimination, the resulting construction follows: it shall be unlawful to "discriminate against any individual because of such individual's age," except when "based on factors other than age."
+Thus, if the exception contained in section 623(f)(1) is not understood to preclude disparate impact liability, it becomes nothing more than a bromide to the effect that "only age discrimination is age discrimination."
+Mullin , 164 F.3d at 701-02 .
+We too find that the inclusion of the "reasonable factors other than age" exception to the ADEA creates a critical "asymmetry" between the ADEA and Title VII.
+8 The addition of this broad exception to the ADEA, on its face, appears to preclude a disparate impact theory of liability under the ADEA; at a minimum, it amounts to a salient textual difference between the substantive liability provisions of the ADEA and Title VII—a difference not mentioned by any of the courts of appeals which have extended Griggs to the ADEA context.
+9 While we believe that the "reasonable factors other than age" provision counsels against recognizing a disparate impact theory under the ADEA, we would not go so far as to say that it rules out any alternative reading.
+As the dissent argues, the prohibitory section and the "reasonable factors other than age" clause could together be read as announcing a general rule that disparate impact is actionable but then carving out a defense for adverse impacts that can be justified as a business necessity.
+The dissent's position is, of course, essentially how the courts have treated claims under Title VII.
+We do not believe this course is open to us, however.
+This circuit long ago held that 623(f)(1) 's "reasonable factors other than age" provision does not create an affirmative defense to liability; rather, it allows the defendant to bring forward evidence to negate the plaintiff's prima facie case. See Marshall v. Westinghouse Elec. Corp. , 576 F.2d 588, 590-91 (5th Cir.1978).
+Furthermore, whether or not 623(f)(1) is technically treated as a defense, we do not think that the reference to "reasonable factors other than age" can be taken to mean that all practices having a disparate impact are illegal unless they meet the stringent requirements of "business necessity."
+Indeed, the Supreme Court has suggested a different meaning for the clause, stating that it "insure[s] that employers [are] permitted to use neutral criteria not directly dependent on age ."
+EEOC v. Wyoming , 460 U.S. 226, 232-33 , 103 S.Ct. 1054 , 75 L.Ed.2d 18 (1983) (emphasis added); cf. Kimel v. Fla. Bd. of Regents , 528 U.S. 62, 88 , 120 S.Ct. 631 , 145 L.Ed.2d 522 (2000) ("The exception simply makes clear that '[t]he employer cannot rely on age as a proxy for an employee's remaining characteristics, such as productivity, but must instead focus on those factors directly.'"
+(quoting Hazen , 507 U.S. at 611 , 113 S.Ct. 1701 )).
+Therefore, we would not read the "reasonable factors other than age" clause as a limited derogation from a general prohibition against disparate impact.
+Instead, we believe that the soundest reading of the whole text is that the ADEA does not prohibit employers from taking actions based on non-age factors, except when those non-age factors are so related to age that they are mere proxies.
+10 This reading of the text is also powerfully supported by the legislative history, to which we turn in Part III.B.2 of our opinion.
+The conclusion that this "reasonable factors other than age" exception textually precludes a disparate impact theory of liability under the ADEA is arguably strengthened by the Supreme Court's treatment of a similar exception to the Equal Pay Act.
+The Equal Pay Act was originally enacted in 1963 (as an amendment to the Fair Labor Standards Act) to prohibit discrimination in wages based on gender.
+Corning Glass Works v. Brennan , 417 U.S. 188, 195 , 94 S.Ct. 2223 , 41 L.Ed.2d 1 (1974).
+Under subsection (d) , entitled "Prohibition of sex discrimination," in Title 29, section 206 , the Equal Pay Act contains an exception similar to the "reasonable factors other than age" exception found in the ADEA: No employer having employees subject to any provisions of this section shall discriminate, within any establishment in which such employees are employed, between employees on the basis of sex except where such payment is made pursuant to (i) a seniority system; (ii) a merit system; (iii) a system which measures earnings by quantity or quality of production; or (iv) a differential based on any other factor other than sex: Provided , That an employer who is paying a wage rate differential in violation of this subsection shall not, in order to comply with the provisions of this subsection, reduce the wage rate of any employee.
+29 U.S.C. 206(d)(1) (emphasis added).
+The Supreme Court has interpreted this exception to preclude actions based on disparate impact theories under the Equal Pay Act.
+See County of Washington v. Gunther , 452 U.S. 161, 169-71 , 101 S.Ct. 2242 , 68 L.Ed.2d 751 (1981); Los Angeles Dep't of Water & Power v. Manhart , 435 U.S. 702, 710 , 98 S.Ct. 1370 , 55 L.Ed.2d 657 (1978).
+For example, in Manhart , a class action was brought on behalf of female employees of the Los Angeles Department of Water and Power challenging the Department's requirement that female employees make larger contributions to its pension fund than male employees.
+435 U.S. at 704 , 98 S.Ct. 1370 .
+The requirement was based on a study of mortality tables which revealed that, on the average, the Department's female employees lived a few years longer than its male employees.
+Id. at 705 , 98 S.Ct. 1370 .
+In footnote 20, Justice Stevens, writing for the Court, interpreted the "any factor other than sex" exception to the Equal Pay Act: A variation on the Department's fairness theme is the suggestion that a gender-neutral pension plan would itself violate Title VII because of its disproportionately heavy impact on male employees.
+Cf. Griggs v. Duke Power Co. , 401 U.S. 424 , 91 S.Ct. 849 , 28 L.Ed.2d 158 .
+This suggestion has no force in the sex discrimination context because each retiree's total pension benefits are ultimately determined by his actual life span ; any differential in benefits paid to men and women in the aggregate is thus "based on [a] factor other than sex," and consequently immune from challenge under the Equal Pay Act Id. at 710 n. 20, 98 S.Ct. 1370 (alteration in original).
+The Court's willingness to find that the Equal Pay Act's "any factor other than sex" exception precludes disparate impact theories of liability under the Equal Pay Act is helpful to our statutory construction of the ADEA.
+Many provisions in the ADEA have their roots in the Fair Labor Standards Act and the Equal Pay Act.
+See, e.g. , Lorillard , 434 U.S. at 577-82 , 98 S.Ct. 866 (discussing the Fair Labor Standards Act as the "model" for the enforcement and remedial provisions to the ADEA).
+Although legislative history on 623(f)(1) is slim, we find it likely that the ADEA's "reasonable factors other than age" exception was spawned from the Equal Pay Act's "any factor other than sex" exception, especially given that no parallel exception is found in Title VII.
+11 We recognize that the exceptions found in the ADEA and the Equal Pay Act are not identical.
+The most notable difference, emphasized by our colleague in dissent, is the inclusion of the word "reasonable" in the ADEA's exception.
+However, we, like the Eleventh Circuit in Adams , decline to infer from the inclusion of the word "reasonable" that Congress meant to create an implicit background rule that actions resulting in an age-disparate impact are as a general matter proscribed.
+See 255 F.3d at 1325 n. 6.
+As we explained above, we believe the better reading is not that the clause acts as a limited defense against disparate impact claims but rather that the clause signals that impacts resulting from neutral criteria not directly dependent on age are not prohibited in the first place.
+At the very least, we recognize the "reasonable factors other than age" exception as a clear textual difference between the ADEA and Title VII regarding employer liability—a distinction that, if nothing else, plainly contradicts the argument that the cognizability of a disparate impact claim under Title VII (as set forth in Griggs ) controls the cognizability of a disparate impact claim under the ADEA.
+12 (2) Legislative History and Policy Considerations In addition to the 623(f)(1) exception to the ADEA, strong policy considerations, revealed in the legislative history of the ADEA, underscore the differences between the ADEA and Title VII.
+Because the broad remedial purpose behind Title VII was central to the Court's statutory construction of Title VII in Griggs , the difference between the purposes behind the ADEA and Title VII is directly relevant to whether a disparate impact theory is cognizable under the ADEA.
+Congress enacted the ADEA after receiving a 1965 report by the Secretary of Labor regarding the problems of older workers.
+See EEOC v. Wyoming , 460 U.S. at 230-31 , 103 S.Ct. 1054 .
+For our purposes, it is significant that the Secretary's report finds "no evidence of prejudice based on dislike or intolerance of the older worker" and concludes that the main problem older workers faced in the workplace was arbitrary age discrimination—namely explicit age limitations—based on misconceptions about the abilities of older workers.
+U.S. D EP'T OF L ABOR , T HE O LDER A MERICAN W ORKER : AGE DISCRIMINATION IN EMPLOYMENT 2, 6 (1965) (the "Report"), reprinted in EEOC, L EGISLATIVE H ISTORY OF THE A GE D ISCRIMINATION IN E MPLOYMENT A CT 16 (1981) (hereinafter L EGISLATIVE H ISTORY ).
+The Report further specifically finds that the concept of age prejudice is unique and differs from the concept of race prejudice because the process of aging "is inescapable, affecting everyone who lives long enough," regardless of distinct social and economic environments.
+Id. at 6 .
+The Report likewise distinguishes between "arbitrary discrimination" based on age and other institutional arrangements that have a disproportionate effect on older workers, finding that different solutions were appropriate for these different problems.
+Id. at 21-25; see also Mullin , 164 F.3d at 703 (describing the Report as "recommend[ing] that arbitrary discrimination be statutorily prohibited, but that systemic disadvantages incidentally afflicting older workers be addressed through educational programs and institutional restructuring").
+13 These findings were "confirmed throughout the extensive factfinding undertaken by the Executive Branch and Congress" in conjunction with the enactment of the ADEA.
+EEOC v. Wyoming , 460 U.S. at 230-31 , 103 S.Ct. 1054 .
+On January 23, 1967, the Secretary transmitted to Congress proposed legislation entitled "Age Discrimination in Employment Act of 1967."
+Letter from W. Willard Wirtz to Hon.
+John W. McCormack and Hon. Hubert H. Humphrey, Jan. 23, 1967, reprinted in L EGISLATIVE H ISTORY at 62-63.
+In this letter, the Secretary notes that the bill "provides for attention to be given to institutional arrangements which work to the disadvantage of older workers," but that "[r]easonable differentiations not based solely on age would not fall within the proscription" of the bill.
+Id. Instead, the Secretary recommended that "research be undertaken and promoted with a view to reducing barriers to the employment of older workers."
+Id. at 63.
+The Report, this proposed bill, and subsequent factfinding by the Executive Branch and Congress led Congress to limit the purpose of the ADEA specifically "to prohibit[ing] arbitrary age discrimination in employment."
+29 U.S.C. 621(b) .
+In contrast to the refined purpose evidenced in the historical underpinnings of the ADEA's enactment, the Supreme Court's opinion in Griggs discusses Title VII's broad remedial purpose.
+The defendant company in Griggs instituted a policy of permitting incumbent employees who lacked a high school education to qualify for transfer from the labor and coal handling department to an "inside" department by passing two tests of general intelligence—"[n]either [of which] was directed or intended to measure the ability to learn to perform a particular job or category of jobs."
+401 U.S. at 427-28 , 91 S.Ct. 849 .
+Prior to the effective date of Title VII, the defendant had instituted a policy of "restricting Negroes" to the labor and coal handling department in 1965.
+Id. at 427 , 91 S.Ct. 849 .
+Chief Justice Burger, writing for the Court, held that Congress's objective in enacting Title VII was to "achieve equality of employment opportunities and remove barriers that have operated in the past to favor an identifiable group of white employees over other employees."
+Id. at 429-30 , 91 S.Ct. 849 .
+Based on this objective, the Court held that "practices, procedures, or tests neutral on their face, and even neutral in terms of intent, cannot be maintained if they operate to 'freeze' the status quo of prior discriminatory employment practices."
+Id. at 430 , 91 S.Ct. 849 .
+The cornerstone of Griggs 's holding that disparate impact is cognizable under Title VII is thus the link between the history of educational discrimination on the basis of race and the use of that discrimination to continue to disadvantage individuals on the basis of their race.
+Id. at 432 , 91 S.Ct. 849 (stating that "good intent or absence of discriminatory intent does not redeem employment procedures or testing mechanisms that operate as 'built-in headwinds' for minority groups and are unrelated to measuring job capability"); see also Gunther , 452 U.S. at 178 , 101 S.Ct. 2242 (describing the "broad approach" of Title VII as aimed at "overcoming and undoing the effect of discrimination") (internal quotation marks omitted).
+However, absent from the scope of the ADEA are the historical and remedial concerns that, in the Title VII context, led to the recognition of disparate impact claims directed at overcoming the consequences of past societal discrimination.
+As Justice Stevens explained in his concurring opinion in Washington v. Davis , 426 U.S. 229 , 96 S.Ct. 2040 , 48 L.Ed.2d 597 (1976), it is "inappropriate simply to transplant standards in their entirety into a different statutory scheme having a different history."
+Id. at 255 , 96 S.Ct. 2040 (Stevens, J., concurring).
+We heed this advice today and therefore follow the majority of circuit courts to have addressed this issue in holding that a disparate impact theory of liability is not cognizable under the ADEA.
+We find insufficient textual support for the recognition of a disparate impact theory of liability in the ADEA.
+Further, as we see it, the conclusion that the holding in Griggs should be extended to the ADEA context based on the similarities in the prohibitory sections of the ADEA and Title VII ignores important considerations.
+It ignores the existence of 623(f)(1)—an express exclusion of employer liability that is present in the ADEA but not present in parallel form in Title VII—and it ignores the differing purposes behind the ADEA and Title VII.
+14 IV.
+THE PLAINTIFFS' DISPARATE TREATMENT CLAIM In contrast to the plaintiffs' disparate impact claim, the plaintiffs' disparate treatment claim is cognizable under the ADEA.
+A. McDonnell Douglas Framework We have interpreted the now-familiar McDonnell Douglas framework to apply to disparate treatment claims brought under the ADEA.
+Tyler v. Union Oil Co. of Cal. , 304 F.3d 379, 395 (5th Cir.2002).
+To make out a prima facie case of discriminatory treatment based on age, the plaintiffs are required to prove: (1) they are within the protected class; (2) they are qualified for the position; (3) they suffered an adverse employment decision; and (4) they were replaced by someone younger or treated less favorably than similarly situated younger employees (i.e., suffered from disparate treatment because of membership in the protected class).
+Sandstad v. CB Richard Ellis, Inc. , 309 F.3d 893, 897 (5th Cir.2002); see also Kelliher v. Veneman , 313 F.3d 1270, 1275 (11th Cir.2002).
+If the plaintiffs make out their prima facie case, then the burden of production shifts to the defendants to articulate a legitimate, nondiscriminatory reason for the adverse employment action.
+Tyler , 304 F.3d at 395 .
+If the defendants meet this burden of production, the inference of discrimination drops, and the plaintiffs may then attempt to prove discrimination by offering evidence that the defendants' stated reason is pretextual.
+Id. ("In a disparate treatment case a plaintiff must produce sufficient evidence to rebut a showing by the employer that there was a legitimate, non-discriminatory reason for [differentially treating] a particular employee.").
+Here, the district court dismissed the plaintiffs' disparate treatment claim because the plaintiffs could not make out their prima facie case based on the evidence available to them at the time their responsive briefing was filed.
+The district court cited this evidence as consisting of: (1) evidence that the Personnel Director for the City of Jackson, Dr.
+George Terry, represented that the plan considered tenure only once; and (2) evidence that certain officers were subjected to age-related comments by Dr. Terry, Officer Deric Hearn, and Deputy Chief Cleon Butler.
+The district court additionally held that the plaintiffs' evidence, as a matter of law, was insufficient to disprove the defendants' legitimate nondiscriminatory reasons for their employment decision—to bring starting salaries for police officers up to the regional average, to develop a more generous pay scale within the confines of the city budget, and to consider tenure in the pay scale.
+B. The Plaintiffs' Pending Motions When the district court dismissed the plaintiffs' disparate treatment claim, two motions were pending: (1) a "motion for sanctions, a default judgment, attorneys' fees and expenses, expert witness fees and a continuance," filed by the plaintiffs on June 5, 2002; and (2) a "motion to strike exhibits to defendants' motion for summary judgment," filed by the plaintiffs on July 11, 2002.
+The June 5, 2002, motion sought comparative wage data relating to the plan, as originally implemented in October 1998 and as revised in March 1999.
+It also sought to compel disclosure of any related fiscal and personnel discovery in accordance with the order of the magistrate judge granting the plaintiffs' motion to compel.
+Finally, the motion sought a continuance of the discovery period in order to allow the defendants to produce discovery materials previously requested and to allow the plaintiffs an opportunity to further develop their case based on this new evidence.
+The July 11, 2002, motion sought to strike certain exhibits from the defendants' motion for summary judgment, in part because as to certain of these data produced as exhibits, "[t]he counsel for the Defendants [had] insisted that no such wage data existed," and "these data's purported existence and importance were never provided to the Plaintiffs until it was utilized by an Expert for the Defense."
+Curiously, the district court did not rule on these motions.
+Instead, in deciding to grant the defendants' motion for summary judgment, the district court simply considered the evidence available to the plaintiffs at the time of their responsive briefing.
+After granting summary judgment in favor of the defendants as to the plaintiffs' disparate treatment claim, the court then disposed of the plaintiffs' pending motions by stating that "[b]ecause the Court finds that Plaintiffs cannot meet their burden of proof for claims of disparate treatment under the ADEA, the other motions of Plaintiffs in opposition to the Motion of Defendant for Summary Judgment related to claims for disparate treatment are moot."
+On appeal, the plaintiffs contend that the dismissal of their disparate treatment claim was premature because they "were not allowed to enforce their requests for discovery or to complete scheduled depositions that had been recessed when the plaintiffs learned that significant information had been willfully withheld from them."
+C. Analysis of the District Court's Conclusions The district court may have conflated the plaintiffs' burdens of production and persuasion in concluding that the plaintiffs failed to meet their burden of demonstrating a genuine fact issue regarding their disparate treatment claim.
+15 However, we need not address this issue because, upon review, we agree with the plaintiffs that summary judgment on the plaintiffs' disparate treatment claim was premature in light of the plaintiffs' pending motions before the district court, particularly given the allegation included in these motions that the defendants have failed to comply with the order of the magistrate judge.
+The magistrate judge clearly ordered the defendants to turn over various discovery documents, including documents that were responsive to the plaintiffs' initial disclosure request.
+These documents apparently include the working papers used by city officials in drafting the new and revised plans, as well as evidence regarding comparative wage data—including memoranda and other documentation related to the March 1, 1999, City of Jackson Pay Plan Revision, signed by all pertinent department heads, the existence of which was initially denied by the defendants.
+The plaintiffs allege that this evidence provides additional documentation verifying the extent of the disparity between wage increases for officers under the age of forty and officers over the age of forty.
+The plaintiffs also allege that this evidence provides them with documentation regarding the defendants' knowledge that, at least at the time the defendants revised the plan, the plan would result in inferior pay status for older workers when compared to younger workers.
+This evidence appears to us to be relevant to the plaintiffs' prima facie case and to their ultimate burden required to counter the defendants' proffered reasons for implementing the pay plan.
+16 While much of this evidence relates primarily to the plaintiffs' now-dismissed disparate impact claim, the impact evidence may also support a permissible inference of intentional discrimination and, as the plaintiffs argue, may relate to whether one of the defendants' proffered justifications—to bring salaries up to the regional average—is false.
+We do not decide whether the defendants have, in fact, failed to comply with the magistrate judge's order, whether the motion to continue discovery should be granted, or whether the plaintiffs' other pending motions have merit.
+Rather, we simply hold that the district court should have addressed these motions before it ruled, on an apparently incomplete summary judgment record, that the plaintiffs had not met their burden of demonstrating the existence of genuine fact issues regarding their disparate treatment claim.
+If the defendants did not comply with their discovery obligations such that the plaintiffs were prohibited from presenting their best case to the district court, summary judgment in favor of the defendants improperly denied the plaintiffs an opportunity to continue discovery and supplement the record.
+Sunbelt Sav., FSB v. Montross , 923 F.2d 353, 357, 358 (5th Cir.1991) (holding that summary judgment was premature when discovery was still pending).
+The history of the discovery disputes plaguing this case and the existence of pending motions alleging that the plaintiffs' ability to present their best case was significantly hindered by the defendants' failure to comply with their discovery obligations convinces us that the summary judgment dismissal of the plaintiffs' disparate treatment claim was premature.
+On remand, the district court may want to take into account, in ruling on the pending motions, our decision on the viability of the disparate impact claim.
+V. CONCLUSION We AFFIRM in part, VACATE in part, and REMAND the case to the district court.
+Costs shall be borne by appellees.

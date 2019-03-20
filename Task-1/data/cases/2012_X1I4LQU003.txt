@@ -1,0 +1,626 @@
+ KAVANAUGH, Circuit Judge: Opinion for the Court filed by Circuit Judge KAVANAUGH, with whom Circuit Judge GRIFFITH joins.
+Dissenting opinion filed by Circuit Judge ROGERS.
+Some emissions of air pollutants affect air quality in the States where the pollutants are emitted.
+Some emissions of air pollutants travel across State boundaries and affect air quality in downwind States.
+To deal with that complex regulatory chailenge, Congress did not authorize EPA to simply adopt limits on emissions as EPA deemed reasonable.
+Rather, Congress set up a federalismbased system of air pollution control.
+Under this cooperative federalism approach, both the Federal Government and the States play significant roles.
+The Federal Government sets air quality standards for pollutants.
+The States have the primary responsibility for determining how to meet those standards and regulating sources within their borders.
+In addition, and of primary relevance here, upwind States must prevent sources within their borders from emitting federally determined "amounts" of pollution that travel across State lines and "contribute significantly" to a downwind State's "non-attainment" of federal air quality standards.
+That requirement is sometimes called the "good neighbor" provision.
+In August 2011, to implement the statutory good neighbor requirement, EPA promulgated the rule at issue in this case, the Transport Rule, also known as the Cross-State Air Pollution Rule.
+The Transport Rule defines emissions reduction responsibilities for 28 upwind States based on those States' contributions to downwind States' air quality problems.
+The Rule limits emissions from upwind States' coaland natural gas-fired power plants, among other sources.
+Those power plants generate the [***4] majority of electricity used in the United States, but they also emit pollutants that affect air quality.
+The Transport Rule targets two of those pollutants, sulfur dioxide (SO 2 ) and nitrogen oxides (NO x ).
+Various States, local governments, industry groups, and labor organizations have petitioned for review of the Transport Rule.
+Although the facts here are complicated, the legal principles that govern this case are straightforward: Absent a claim of constitutional authority (and there is none here), executive agencies may exercise only the authority conferred by statute, and agencies may not transgress statutory limits on that authority.
+Here, EPA's Transport Rule exceeds the agency's statutory authority in two independent respects.
+First , the statutory text grants EPA authority to require up-wind States to reduce only their own significant contributions to a downwind State's nonattainment.
+But under the Transport Rule, upwind States may be required to reduce emissions by more than their own significant contributions to a downwind State's nonattainment.
+EPA has used the good neighbor provision to impose massive emissions reduction requirements on upwind States without regard to the limits imposed by the statutory text.
+Whatever its merits as a policy matter, EPA's Transport Rule violates the statute.
+Second , the Clean Air Act affords States the initial opportunity to implement reductions required by EPA under the good neighbor provision.
+But here, when EPA quantified States' good neighbor obligations, it did not allow the States the initial opportunity to implement the required reductions with respect to sources within their borders.
+Instead, EPA quantified States' good neighbor obligations and simultaneously set forth EPA-designed [**388] Federal Implementation Plans, or FIPs, to implement those obligations at the State level.
+By doing so, EPA departed from its consistent prior approach to implementing the good neighbor provision and violated the Act.
+For each of those two independent reasons, EPA's Transport Rule violates federal law.
+Therefore, the Rule must be vacated.
+In so ruling, we note that this Court has affirmed numerous EPA clean air decisions in recent years when those agency decisions met relevant statutory requirements and complied with statutory constraints.
+See, e.g., National Environmental Development Association's Clean Air Project v. EPA 686 F.3d 803 (D.C.Cir.2012); API v. EPA 684 F.3d 1342 (D.C.Cir.2012); ATK Launch Systems, Inc. v. EPA 669 F.3d 330 (D.C.Cir.2012); NRDC v. EPA 661 F.3d 662 (D.C.Cir.2011); Medical Waste Institute & Energy Recovery Council v. EPA 645 F.3d 420 (D.C.Cir.2011); American Trucking Ass'ns v. EPA 600 F.3d 624 (D.C.Cir.2010).
+In this case, however, we conclude that EPA has transgressed statutory boundaries.
+Congress could well decide to alter the statute to permit or require EPA's preferred approach to the good neighbor issue.
+Unless and until Congress does so, we must apply and enforce the statute as it's now written.
+Our decision today should not be interpreted as a comment on the wisdom or policy merits of EPA's Transport Rule.
+It is not our job to set environmental [***5] policy.
+Our limited but important role is to independently ensure that the agency stays within the boundaries Congress has set.
+EPA did not do so here.
+[fn1] I A Under the Clean Air Act, the Federal Government sets air quality standards, but States retain the primary responsibility (if the States want it) for choosing how to attain those standards within their borders.
+See Train v. NRDC , 421 U.S. 60 , 63-67 , 95 S.Ct. 1470 , 43 L.Ed.2d 731 (1975); Virginia v. EPA 108 F.3d 1397 , 1406-10 (D.C.Cir.1997).
+The Act thus leaves it to the individual States to determine, in the first instance, the particular restrictions that will be imposed on particular emitters within their borders.
+(If a State refuses to participate, the Federal Government regulates the sources directly.)
+To spell this out in more detail: The Clean Air Act charges EPA with setting National Ambient Air Quality Standards, or NAAQS, which prescribe the maximum permissible levels of common pollutants in the ambient air.
+See 42 U.S.C. 7409 (a )-(b).
+[**389] EPA must choose levels which, "allowing an adequate margin of safety, are requisite to protect the public health."
+42 U.S.C. 7409 (b)(1).
+After a lengthy process, the details of which are not relevant here, EPA designates "nonattainment" areas — that is, areas within each State where the level of the pollutant exceeds the NAAQS.
+See 42 U.S.C. 7407 (d).
+Once EPA sets a NAAQS and designates nonattainment areas within the States, the lead role shifts to the States.
+The States implement the NAAQS within their borders through State Implementation Plans, or, SIPs.
+(As the experienced reader knows, there is no shortage of acronyms in EPA-land.)
+In their SIPs, States choose which individual sources within the State must reduce emissions, and by how much.
+For example, a State may decide to impose different emissions limits on individual coal-burning power plants, natural gasburning power plants, and other sources of air pollution, such as factories, refineries, incinerators, and agricultural activities.
+States must submit SIPs to EPA within three years of each new or revised NAAQS.
+See 42 U.S.C. 7410 (a)(1).
+Section.
+110(a)(2) of the Act lists the required elements of a SIP submission.
+Section 110(a)(2) (D)(i)(I), the "good neighbor" provision at issue in this case, is one of the required elements of a SIP.
+The good neighbor provision requires that SIPs: (D) contain adequate provisions — (i) prohibiting, consistent with the provisions of this subchapter, any source or other type of emissions activity within the State from emitting any air pollutant in amounts which will — (I) contribute significantly to nonattainment in, or interfere with maintenance by, any other State with respect to any such national primary or secondary ambient air quality standard.
+.
+.
+.
+42 U.S.C. 7410 (a)(2)(D).
+The good neighbor provision recognizes that emissions "from `upwind' regions may pollute `downwind' regions."
+Appalachian Power Co. v. EPA 249 F.3d 1032 , 1037 (D.C.Cir.2001).
+To put it colloquially, the good neighbor provision requires upwind States to bear responsibility for their fair share of the mess in down-wind States.
+By placing the good neighbor requirement in Section 110(a)(2) , Congress established the upwind State's SIP as the vehicle for implementing the upwind State's good neighbor [***6] obligation.
+Of course, an upwind State will not know what it needs to do to meet its good neighbor obligation until it learns the level of air pollution in downwind States, and further learns how much it is contributing to the problems in the downwind States.
+EPA plays the critical role in gathering information about air quality in the downwind States, calculating each upwind State's good neighbor obligation, and transmitting that information to the upwind State.
+With that information, the upwind State can then determine how to meet its good neighbor obligation in a new SIP or SIP revision.
+See 42 U.S.C. 7410 (k)(5).
+After EPA quantifies a State's good neighbor obligation, if a State does not timely submit an adequate SIP (or an adequate SIP revision) to take account of the good neighbor obligation as defined by EPA, responsibility shifts back to the Federal Government.
+Within two years of disapproving a State's SIP submission or SIP revision, or determining that a State has failed to submit a SIP, EPA must promulgate a Federal Implementation Plan to implement the NAAQS within that State.
+See 42 U.S.C. 7410 (c)(1).
+[**390] B The good neighbor provision — and EPA's attempts to implement it — are familiar to this Court from past cases.
+In Michigan v. EPA , 213 F.3d 663 (D.C.Cir.2000), we considered a challenge to EPA's 1998 NO x Rule, commonly referred to as the NO x SIP Call, which quantified the good neighbor obligations of 22 States with respect to the 1997 ozone NAAQS.
+See 63 Fed. Reg. 57,356 , 57,358 (Oct. 27, 1998).
+The 1998 NO x Rule did not define "amounts which will .
+.
+.
+contribute significantly to nonattainment" solely on the basis of downwind air quality impact, as one might have expected given the statutory text.
+Rather, EPA also considered how much NO x could be eliminated by sources in each State if those sources installed "highly cost-effective" emissions controls.
+See Michigan , 213 F.3d at 675 .
+On review, some States argued that the statutory text required EPA to order reductions based on air quality impact alone, not cost of reduction.
+But the Michigan Court found no "clear congressional intent to preclude consideration of cost."
+Id. at 677 (citation omitted).
+The Court thus held that EPA may "consider differences in cut-back costs, so that, after reduction of all that could be cost-effectively eliminated, any remaining `contribution' would not be considered `significant.'"
+Id. at 677 ;.
+see also id. at 677-79 .
+In other words, EPA could use cost considerations to lower an upwind State's obligations under the good neighbor provision.
+[fn2] In North Carolina v. EPA , 531 F.3d 896 (D.C.Cir.2008), we considered a challenge to EPA's 2005 Clean Air Interstate Rule, or CAIR.
+See 70 Fed. Reg. 25,162 (May 12, 2005).
+CAIR built on the 1998 NO x Rule and defined 28 States' good neighbor obligations with respect to the 1997 ozone NAAQS and the 1997 NAAQS for annual levels of fine particulate matter, or annual PM 2.5.
+See id .
+CAIR employed two different formulas — both of which incorporated cost considerations — to quantify each State's obligations for the pollutants covered by CAIR, SO 2 and NO x .
+The North Carolina decision held that the formulas went beyond Michigan's authorization to use cost and that the formulas [***7] therefore exceeded EPA's statutory authority.
+EPA may use cost to "require termination of only a subset of each state's contribution," the Court explained, but "EPA can't just pick a cost for a region, and deem `significant' any emissions that sources can eliminate more cheaply."
+531 F.3d at 918 (citation, emphasis, and some internal quotation marks omitted).
+The Court also held that " section 110(a)(2) (D)(i)(I) gives EPA no authority to force an upwind state to share the burden of reducing other upwind states' emissions.
+Each state must eliminate its own significant contribution to downwind pollution."
+Id. at 921 .
+The Court emphasized that EPA "may not require some states to exceed the mark."
+Id .
+North Carolina thus articulated an important caveat to Michigan's approval of cost considerations.
+The statute permits EPA to use cost to lower an upwind State's obligation under the good neighbor provision.
+See Michigan , 213 F.3d at 675 , 677 .
+But EPA may not use cost to in crease [**391] an upwind State's obligation under the good neighbor provision — that is, to force an upwind State to "exceed the mark."
+North Carolina , 531 F.3d at 921 .
+Put simply, the statute requires every up-wind State to clean up at most its own share of the air pollution in a downwind State — not other States' shares.
+C The North Carolina Court remanded CAIR without vacatur, leaving CAIR in place "until it is replaced by a rule consistent with our opinion."
+North Carolina v. EPA 550 F.3d 1176 , 1178 (D.C.Cir.2008) (on rehearing).
+The Transport Rule is EPA's attempt to develop a rule that is consistent with our opinion in North Carolina.
+EPA proposed the Transport Rule in August 2010 and finalized it in August 2011.
+See 75 Fed. Reg. 45,210 (Aug. 2, 2010) (proposed); 76 Fed. Reg. 48, 208 (Aug. 8, 2011) (final).
+The Transport Rule addresses States' good neighbor obligations with respect to three NAAQS: the 1997 annual PM 2.5 NAAQS, the 1997 ozone NAAQS, and the 2006 24-hour PM 2.5 NAAQS.
+See id. at 48 , 209.
+[fn3] The Transport Rule contains two basic components.
+First, the Rule defines each State's emissions reduction obligations under the good neighbor provision.
+Second, the Rule prescribes Federal Implementation Plans to implement those obligations at the State level.
+We describe each component here in some detail.
+EPA began by quantifying the "amounts" of pollution that each State must prohibit under the good neighbor provision — that is, "amounts which will .
+.
+.
+contribute significantly to nonattainment" or "interfere with maintenance" of the three NAAQS in other States.
+42 U.S.C. 7410 (a)(2)(D)(i).
+[fn4] EPA used a two-stage approach to quantify each State's-obligations under the good neighbor provision.
+In the first stage, EPA determined whether a State emits "amounts which will .
+.
+.
+contribute significantly" to a downwind State's nonattainment of any of the three NAAQS.
+EPA identified the significantly contributing upwind States based on "linkages" between each upwind State and specific downwind "nonattainment" or "maintenance" areas — that is, downwind areas that EPA modeling predicted would not attain, or absent regulation would not maintain, the NAAQS.
+Transport Rule, 76 Fed. Reg. at 48, 236.
+An upwind State was linked to a downwind nonattainment or maintenance [***8] area for a given NAAQS if EPA modeling showed that the upwind State's contribution to that downwind area exceeded a numerical "air quality threshold" — that is, a specific amount of air pollution sent from the upwind State into the downwind State's air.
+Id. EPA set the air quality threshold for each pollutant at an amount equal to 1% of the relevant NAAQS.
+The resulting thresholds were (i) 0.8 ppb for ozone, (ii) 0.15 µg/m 3 for annual PM 2.5 , and (iii) 0.35 µg/m 3 for 24-hour PM 2.5 Id.
+If modeling showed that an upwind State would send more than those [**392] amounts into a downwind State's air, as measured at a receptor site in a downwind State, the upwind State was deemed a "significant contributor" to the downwind State's air pollution problem.
+Those numerical air quality thresholds determined which upwind States had to reduce their SO 2 and NO x emissions and which upwind States did not — that is, the thresholds determined which upwind States' emissions "contribute significantly" to downwind States' air pollution problems.
+Upwind States "whose contributions are below these thresholds," EPA found, "do not significantly contribute to nonattainment or interfere with maintenance of the relevant NAAQS" in down-wind States.
+Id. Because their emissions did not "contribute significantly," those States were not required to cut their emissions for purposes of the good neighbor provision.
+As one would expect, this "significant contribution" threshold produced some close cases at the margins.
+For example, Maryland and Texas were covered for annual PM2.5 based on downwind contributions of 0.15 and 0.18 µg/m 3 , respectively — just barely meeting the 0.15 µg/m 3 threshold.
+See id. at 48, 240.
+And Texas exceeded the annual PM 2.5 threshold at just a single downwind receptor, in Madison, Illinois.
+See id. at 48, 241.
+[fn5] By contrast, Minnesota and Virginia, with maximum downwind contributions of 0.14 and 0.12 µg/m 3 , respectively, just missed being covered for annual PM 2.5 .
+See id. at 48, 240.
+For annual PM 2.5 , a total of 18 States [fn6] exceeded the threshold and were therefore deemed "significant contributors."
+For 24-hour PM 2.5 , a total of 22 States [fn7] exceeded the threshold.
+See id. at 48, 241-42.
+Those States were thus included in the Rule's reduction programs for SO 2 and annual NO x , pollutants that contribute to PM 2.5 formation.
+See id. at 48, 210.
+For ozone, a total of 26 States [fn8] exceeded the threshold.
+See id. at 48, 245.
+Those States were thus included in the Rule's reduction program for ozone-season NO x which contributes to ozone formation.
+See id. at 48, 210; see also 76 Fed. Reg. 80, 760 (Dec. 27, 2011) (finalizing six States' inclusion in the Transport Rule for ozone-season NO x ).
+At the second stage, however, EPA abandoned the air quality thresholds — that is, the stage one standard for whether an upwind State's emissions "contribute significantly" to a downwind State's nonattainment of air quality standards.
+Instead, at stage two, EPA used a cost-based standard: EPA determined how much pollution each upwind State's power plants could eliminate if the upwind State's plants applied all controls available at or below a [**393] given cost per [***9] ton of pollution reduced.
+The cost-perton levels applied without regard to the size of each State's "significant contribution" at stage one.
+In other words, how much pollution each upwind State was required to eliminate was not tied to how much the upwind State contributed to downwind States' air pollution problems.
+EPA predicted how far emissions would fall if power plants throughout the State were required to install controls available at or below various cost levels.
+The cost levels, or thresholds, were expressed in terms of cost per ton of pollutant reduced, with the idea being that plants would install all controls that cost less than the designated threshold.
+[fn9] EPA then added up the emissions from all of the covered States to yield total regionwide emissions figures for each pollutant, at each cost threshold.
+See Transport Rule, 76 Fed. Reg. at 48, 250-53.
+The higher the cost level selected, the greater the reduction of emissions, but also the greater the costs and burdens imposed on sources within the States.
+Next, EPA used computer modeling to estimate the downwind air quality effects of imposing different cost-perton levels on the upwind States.
+Id. at 48, 253.
+EPA modeled the air quality effects of applying a $500/ton cost level for NO x and ascending cost-per-ton levels for SO 2 .
+See id. at 48, 255; EPA, Analysis to Quantify Significant Contribution Technical Support Document 15 & n.9 (July 2010), J.A.
+2177.
+Armed with those two sets of modeling data, EPA proceeded to choose which regionwide cost-per-ton threshold to apply for each of the three pollutants — SO 2 , annual NO x and ozone-season NO x .
+EPA consulted both its cost-of-reduction modeling and its air quality modeling and identified what it termed "significant cost thresholds" — that is, cost-perton levels at which steep drops in upwind emissions or jumps in downwind air quality would occur.
+Transport Rule, 76 Fed. Reg. at 48, 255; see also id. at 48, 255-56.
+EPA then weighed both air quality and cost concerns in a "multi-factor assessment" to choose the final cost-perton levels.
+Id. at 48, 256.
+The "multi-factor assessment" did not employ any hard formula to weigh those factors.
+In the end, EPA settled on a single $500/ton threshold for ozone-season and annual NO x .
+See id. at 48, 256-57.
+For SO 2 , instead of using a single cost threshold for all of the SO 2 States, EPA divided the upwind States into two groups for the 2014 program year (that is, the emissions cuts required in 2014).
+EPA modeling showed that applying a $500/ton cost threshold resolved the attainment problems in the downwind areas to which seven upwind States were linked.
+See id. at 48, 257.
+Those seven upwind States became the Group 2 States, which were subject to a $500/ton threshold for SO 2 .
+See id. [**394] But $500/ton did not resolve attainment problems in the downwind areas to which 16 other upwind States were linked.
+Those 16 upwind States became the Group 1 States, which were subject to a stricter $2,300/ton cost threshold for SO 2 .
+See id. at 48, 259.
+EPA determined the amount of SO 2 , annual NO x or ozone-season NO x that each covered State could eliminate if its power [***10] plants installed all cost-effective emissions controls — that is, those controls available at or below the applicable cost-perton thresholds.
+See id. at 48, 260.
+EPA then used those figures to generate 2012, 2013, and 2014 emissions "budgets" for each up-wind State, for each pollutant for which that State was covered.
+See id. at 48, 259-63.
+The budget is the maximum amount of each pollutant that a State's power plants may collectively emit in a given year, beginning in 2012.
+[fn10] EPA did not stop there and leave it to the States to implement the required reductions through new or revised State Implementation Plans, or SIPs.
+Cf. 42 U.S.C. 7410 (k)(5).
+Instead, EPA simultaneously promulgated Federal Implementation Plans, or FIPs.
+The FIPs require power plants in covered upwind States to make the SO 2 and NO x reductions needed to comply with each upwind State's emissions budget, as defined by EPA.
+The FIPs also create an interstate trading program to allow covered sources to comply as cost-effectively as possible.
+See Transport Rule, 76 Fed. Reg. at 48, 271.
+The FIPs convert each State's emissions budget into "allowances," which are allocated among power plants in the State.
+Under the FIPs, it is EPA, and not the States, that decides how to distribute the allowances among the power plants in each State.
+See id. at 48 , 284-88.
+[fn11] The Rule retains a limited, secondary role for SIPs.
+States have the option of submitting SIPs that modify some elements of the FIPs.
+See id. at 48 , 327-28.
+The first program year for which States can submit such SIPs is 2014.
+See id .
+States may also seek to replace the FIPs wholesale, as long as the SIP prohibits the amounts of NO x and SO 2 emissions that EPA specified.
+See id. at 48 , 328.
+EPA says it would "review such a SIP on a case-by-case basis."
+Id .
+But, importantly, the States do not have a post-Rule opportunity to avoid FIPs by submitting a SIP [**395] or SIP revision: The FIPs "remain fully in place in each covered state until a state's SIP is submitted and approved by EPA to revise or replace a FIP."
+Id .
+Since it issued the final rule in August 2011, EPA has taken several subsequent regulatory actions related to the Transport Rule.
+See 76 Fed. Reg. 80,760 (Dec. 27, 2011) (finalizing six States' inclusion in the Rule for ozone-season NO x ); 77 Fed. Reg. 10,324 (Feb. 21, 2012) (making technical adjustments to modeling and delaying assurance penalty provisions until 2014); 77 Fed. Reg. 34,830 (June 12, 2012) (revising budgets for 13 States).
+D An array of power companies, coal companies, labor unions, trade associations, States, and local governments petitioned for review of EPA's Transport Rule.
+On December 30, 2011, this Court stayed the Rule pending a decision on the merits.
+See Order, No. 11-1302 , slip op. at 2 (D.C.Cir.
+Dec. 30, 2011).
+The Court's order instructed EPA to "continue administering the Clean Air Interstate Rule pending the court's resolution of these petitions for review."
+Id .
+In Part II of this opinion, we address whether the Rule exceeds EPA's authority to order upwind States to reduce "amounts which will .
+.
+.
+contribute significantly to nonattainment" in downwind States.
+In Part III, we address whether the statute permits EPA to issue FIPs without giving the States [***11] an initial opportunity to implement the required reductions through SIPs or SIP revisions.
+In Part rV, we consider the remedy.
+II In this Part, we analyze petitioners' argument that EPA exceeded its statutory authority under the "good neighbor" provision.
+Under the statute, EPA is limited to ordering upwind States to reduce "amounts which will .
+.
+.
+contribute significantly to nonattainment" in downwind States.
+42 U.S.C. 7410 (a)(2)(D)(i).
+A The Transport Rule defines States' obligations under Section 110(a)(2) (D)(i)(I) of the Clean Air Act, a provision sometimes described as the "good neighbor" provision.
+See 42 U.S.C. 7410 (a)(2)(D)(i)(I); Michigan v. EPA , 213 F.3d 663 , 671 (D.C.Cir.2000).
+The good neighbor provision requires that a State Implementation Plan, or SIP: (D) contain adequate provisions — (i) prohibiting, consistent with the provisions of this subchapter, any source or other type of emissions activity within the State from emitting any air pollutant in amounts which will — (I) contribute significantly to nonattainment in, or interfere with maintenance by, any other State with respect to any such national primary or secondary ambient air quality standard.
+.
+.
+.
+42 U.S.C. 7410 (a)(2)(D).
+The good neighbor provision recognizes that not all air pollution is locally generated: Some ambient air pollution "is caused or augmented by emissions from other states.
+Emissions from `upwind' regions may pollute `downwind' regions."
+Appalachian Power Co. v. EPA , 249 F.3d 1032 , 1037 (D.C.Cir.2001).
+Although the statute grants EPA significant discretion to implement the good neighbor provision, the statute's text and this Court's decisions in Michigan and North Carolina establish several red lines that cabin EPA's authority.
+Those red lines are central to our resolution of this case. [**396] First , and most obviously, the text of Section 110(a)(2) (D)(i)(I) tells us that the "amounts which will .
+.
+.
+contribute" to a downwind State's nonattainment are at most those amounts that travel beyond an upwind State's borders and end up in a downwind State's nonattainment area.
+[fn12] The statute is not a blank check for EPA to address interstate pollution on a regional basis without regard to an individual upwind State's actual contribution to downwind air quality.
+Moreover, the statutory text and this Court's decision in North Carolina v. EPA demonstrate that EPA may not force a State to eliminate more than its own " significant " contribution to a downwind State's nonattainment area — that is, to "exceed the mark," as we put it in North Carolina.
+531 F.3d 896 , 921 (D.C.Cir.2008).
+Thus, once EPA reasonably designates some level of contribution as "insignificant" under the statute, it may not force any upwind State to reduce more than its own contribution to that downwind State minus the insignificant amount.
+[fn13] Second , under the terms of the statute and as we explained in North Carolina , the portion of an upwind State's contribution to a downwind State that "contribute['] significantly" to that down-wind State's "nonattainment" necessarily depends on the relative contributions of that upwind State, of other upwind State contributors, and of the downwind State itself.
+Each upwind State may be required to eliminate only its own " [***12] amounts which will .
+.
+.
+contribute significantly" to a downwind State's "nonattainment."
+As explained in North Carolina , EPA may not require any upwind State to "share the burden of reducing other upwind states' emissions."
+Id .
+In other words, the statutory text — which refers to "amounts" which will "contribute significantly" to a downwind State's "nonattainment" — contains not just an absolute component (meaning that an upwind State's insignificant amounts are not covered) but also a relative component (meaning that each State's relative contribution to the down-wind State's nonattainment must be considered).
+Moreover, the end goal of the statute is attainment in the downwind State.
+EPA's authority to force reductions on upwind States ends at the point where the affected downwind State achieves attainment.
+Therefore, if the downwind State would attain the NAAQS but for upwind States' contributions — that is, if the entire aboveNAAQS amount is attributable to upwind States' emissions — then the upwind States' combined share is the entire amount by which the downwind State exceeded the NAAQS.
+And as we said in North Carolina , when EPA allocates that burden among the upwind States, EPA may not force any upwind State to "share the burden of reducing other upwind states' emissions."
+Id .
+Each upwind State must bear its own fair share.
+Therefore, the "significance" of each upwind State's contribution [**397] cannot be measured in a vacuum, divorced from the impact of the other upwind States.
+Rather, the collective burden must be allocated among the upwind States in proportion to the size of their contributions to the downwind State's non-attainment.
+Otherwise, EPA would violate the statute and our decision in North Carolina.
+[fn14] A specific example helps illustrate that point.
+Suppose the NAAQS is 100 units, but the downwind State's nonattainment area contains 150 units.
+Suppose further that the downwind State contributes 90 units, and three upwind States contribute 20 units each.
+Because the upwind States are responsible for the downwind State's exceeding the NAAQS.
+by 50 units, the downwind State is entitled to at most 50 units of relief from the upwind States so that the downwind State can achieve attainment of the NAAQS.
+Distributing those obligations in a manner proportional to their contributions, each of the three upwind States' significant contribution would be, at most, 162/3 units.
+Or suppose instead that the three upwind States contribute 10, 20, and 30 units respectively.
+Distributing those obligations in a manner proportional to their contributions, those three States' significant contributions would be at most 81/3 162/3, and 25 units, respectively, leading to the combined reduction of 50 units needed for the down-wind State to reach attainment.
+[fn15] In addition, our decisions in Michigan and North Carolina establish that EPA may consider cost, but only to further lower an individual State's obligations.
+See Michigan , 213 F.3d at 675 ; North Carolina , 531 F.3d at 918 .
+Under Michigan , moreover, EPA may do so in a way [**398] that benefits some upwind States more than others.
+See [***13] 213 F.3d at 679 .
+In other words, in order to prevent exorbitant costs from being imposed on certain upwind States, EPA may lower the obligations imposed on those States.
+Third , to conform to the text of the statute, EPA must also ensure that the combined obligations of the various upwind States, as aggregated, do not produce more than necessary "over-control" in the downwind States — that is, that the obligations do not go beyond what is necessary for the downwind States to achieve the NAAQS.
+Even when EPA carefully conforms to the above limits on its authority, the possibility of over-control in downwind States still arises because multiple upwind States may affect a single downwind State and, conversely, a single upwind State may affect multiple downwind States.
+The requirement to prevent such over-control comes directly from the text of the statute: The good neighbor provision of the statute targets those emissions from upwind States that "contribute significantly to nonattainment " of the NAAQS.
+EPA may require only those reductions that are necessary for downwind States to attain the NAAQS.
+The good neighbor provision is not a free-standing tool for EPA to seek to achieve air quality levels in downwind States that are well below the NAAQS.
+Therefore, if modeling shows that a given slate of upwind reductions would yield more downwind air quality benefits than necessary for downwind areas to attain the NAAQS, EPA must attempt to ratchet back the upwind States' obligations to the level of reductions necessary and sufficient to produce attainment in the downwind States.
+[fn16] To be sure, as even petitioners acknowledge, there may be some truly unavoidable over-control in some downwind States that occurs as a byproduct of the necessity of reducing upwind States' emissions enough to meet the NAAQS in other downwind States.
+See Industry & Labor Reply Br. 11 n.2.
+For those reasons, EPA must have some discretion about how to reasonably avoid such over-control.
+Moreover, because multiple upwind States may affect a single downwind State, and because a single upwind State may affect multiple downwind States, it may not be possible to accomplish the ratcheting back in an entirely proportional manner among the up-wind States.
+Our cases recognize as much.
+See Michigan , 213 F.3d at 679 ; North Carolina , 531 F.3d at 908 .
+But the point remains: EPA must avoid using the good neighbor provision in a manner that would result in unnecessary over-control in the downwind States.
+Otherwise, EPA would be exceeding its statutory authority, which is expressly tied to achieving attainment in the downwind States.
+B We now apply those principles to the EPA Transport Rule.
+"It is axiomatic that an administrative agency's power to promulgate legislative regulations is limited to the authority delegated by Congress."
+Bowen v. Georgetown Univ. Hosp. [**399] , 488 U.S. 204 , 208 , 109 S.Ct. 468 , 102 L.Ed.2d 493 (1988); see also Michigan v. EPA , 268 F.3d 1075 , 1081 (D.C.Cir.2001) ("EPA is a federal agency — a creature of statute," and may exercise "only those authorities conferred upon it by Congress.").
+An agency may not exceed a statute's authorization or violate a statute's limits.
+If a [***14] statute is ambiguous, an agency that administers the statute may choose a reasonable interpretation of that ambiguity — but the agency's interpretation must still stay within the boundaries of the statutory text.
+See Chevron U.S.A.
+Inc. v. NRDC , 467 U.S. 837 , 842-44 , 104 S.Ct. 2778 , 81 L.Ed.2d 694 (1984).
+[fn17] In the Transport Rule, EPA used a two-stage approach to define "amounts which will .
+.
+.
+contribute significantly" to down-wind attainment problems.
+The first stage identified those upwind States that were "significant contributors" to downwind attainment problems.
+EPA determined that a State's contribution to a downwind non-attainment or maintenance area was significant if it exceeded a numerical "air quality threshold" of 0.8 ppb for ozone, 0.15 µg/m 3 for annual PM 2.5 , and 0.35 µg/m 3 for 24-hour PM 2.5 .
+Transport Rule, 76 Fed. Reg. 48, 208, 48, 236 (Aug. 8, 2011).
+States "whose contributions are below these thresholds," EPA found, "do not significantly contribute to nonattainment or interfere with maintenance of the relevant NAAQS."
+Id .
+Those upwind States were off the hook altogether.
+But an upwind State that exceeded the significance threshold at even one down-wind State's receptor was drawn wholesale into the Rule's second stage — cost-based emissions reductions.
+At that second stage, EPA abandoned the previous measure of significance — the numerical air quality thresholds, which were based on the quantity of pollution an upwind State sent to a downwind area.
+Instead, EPA switched over to relying on cost of reduction alone.
+EPA required each State's power plants to cut all of the emissions they could eliminate at a given cost per ton of pollution reduced — regardless of the "amounts" of the State's emissions EPA deemed to "contribute significantly" at stage one and regardless of the relative contributions of the other upwind States and the downwind State.
+We perceive at least three independent but intertwined legal flaws in EPA's approach to the good neighbor provision.
+Those flaws correspond to the three requirements we outlined above that come from the statutory text.
+First , and most fundamentally, the Transport Rule is flawed because the requirement that EPA imposed on upwind States was not based on the "amounts" from upwind States that "contribute significantly to nonattainment" in downwind States, as required by the statute and our decision in North Carolina.
+Petitioners claim that the initial stage of EPA's analysis — the numerical air quality thresholds, which used a bright-line test for whether a State's downwind emissions "contribute significantly" — created a "`floor' below which any contribution is, by definition, viewed as insignificant."
+Industry & Labor Br. 20.
+Petitioners argue that EPA has no statutory authority to compel States to reduce amounts of pollution [**400] that are "insignificant."
+Therefore, petitioners contend that EPA could not ignore that floor at the later stage, when it calculated each State's "significant contribution" based on cost.
+[**401] [fn18] We agree with petitioners.
+The Transport Rule includes or excludes an upwind State based on the amount of that upwind State's significant [***15] contribution to a nonattainment area in a downwind State.
+That much is fine.
+But under the Rule, a State then may be required to reduce its emissions by an amount greater than the "significant contribution" that brought it into the program in the first place.
+That much is not fine.
+Put more plainly, EPA determined that a State was subject to the good neighbor provision if it contributed at least a certain threshold amount to air pollution in a downwind State.
+But EPA then imposed restrictions based on region-wide air quality modeling projections; those restrictions could require upwind States to reduce emissions by more than the amount of that contribution.
+EPA's approach poses a fundamental legal problem — one that derives from the text of the statute and from our precedents.
+Our decision in Michigan held that EPA may use cost considerations to require "termination of only a subset of each state's contribution."
+213 F.3d at 675 .
+And our decision in North Carolina made clear that EPA may not use cost to force an upwind State to "exceed the mark."
+531 F.3d at 921 .
+[fn19] By using a numerical threshold at the initial stage — and thereby creating a floor below which "amounts" of downwind pollution were not significant — EPA defined the "mark," to use the term employed in North Carolina.
+EPA could not then ignore that mark and redefine each State's "significant contribution" in such a way that an upwind State's required reductions could be more than its own significant [**402] contribution to a downwind State.
+[fn20] EPA now claims that the Rule's air quality thresholds were established for a "limited analytical purpose" and "otherwise say nothing about what part of each State's contribution should be considered `significant.'"
+EPA Br. 33.
+That claim rings hollow.
+EPA itself said in the final rule that "states whose contributions are below these thresholds do not significantly contribute to nonattainment or interfere with maintenance of the relevant NAAQS."
+Transport Rule, 76 Fed. Reg. at 48, 236.
+EPA therefore acknowledged that amounts below the threshold are not "amounts which will .
+.
+.
+contribute significantly" to downwind attainment problems.
+[fn21] In short, EPA used the air quality thresholds to establish a floor below which "amounts" of air pollution do not "contribute significantly."
+[fn22] The statute requires a State to prohibit at most those "amounts" which will "contribute significantly" — and no more.
+If amounts below a numerical threshold do not contribute significantly to a downwind State's nonattainment, EPA may not require an upwind State to do more.
+The Transport Rule does not adhere to that basic requirement of the statutory text and our precedents.
+[fn23] Second , EPA's Transport Rule also runs afoul of the statute's proportionality requirement as described in our decision in North Carolina : EPA has "no authority to force an upwind state to share the burden of reducing other upwind states' emissions."
+531 F.3d at 921 ; see Industry & Labor Br. 33 (in imposing SO 2 budgets, EPA "did not even consider the relative contributions of the various States").
+EPA's "redistributional instinct may be [**403] laudatory," North Carolina [***16] , 531 F.3d at 921 , but it cannot trump the terms of the statute.
+Under the statute, each upwind State that contributes to a downwind non-attainment area is responsible for no more than its own "amounts which will .
+.
+.
+contribute significantly" to the downwind State's pollution problem.
+To be sure, under Michigan , EPA may rely on cost-effectiveness factors in order to allow some upwind States to do less than their full fair share.
+See 213 F.3d at 675 ; cf. Petitioning States' Br. 17, Michigan , 213 F.3d 663 (No. 98-1497 ).
+But when EPA asks one upwind State to eliminate more than its statutory fair share, that State is necessarily being forced to clean up another up-wind State's share of the mess in the downwind State.
+Under the statute and North Carolina , that is impermissible.
+Here, EPA's Transport Rule violated the statute because it made no attempt to calculate upwind States' required reductions on a proportional basis that took into account contributions of other upwind States to, the downwind States' nohattainment problems.
+In the same vein, EPA's Transport Rule failed to take into account the downwind State's own fair share of the amount by which it exceeds the NAAQS.
+See Industry & Labor Br. 24-25.
+How "significantly" an upwind State contributes to a down-wind State's nonattainment also depends in part on how much of the above-NAAQS amount comes from the downwind State itself.
+As we explained above, EPA therefore must factor in the downwind State's own contribution, alongside those of the various upwind States.
+But EPA did not do that here.
+Third , and relatedly, EPA also failed to ensure that the collective obligations of the various upwind States, when aggregated, did not produce unnecessary over-control in the downwind States.
+EPA's statutory authority, once again, is limited to attaining the NAAQS in the downwind States.
+EPA may not require upwind States to do more than necessary for the downwind States to achieve the NAAQS.
+Here, EPA did not try to take steps to avoid such over-control.
+[fn24] In sum, EPA's authority derives from the statute and is limited by the statutory text.
+[fn25] EPA's reading of Section 110(a)(2) (D)(i)(I) — a narrow and limited [**404] provision — reaches far beyond what the text will bear.
+Although the statutory text alone prohibits EPA's Rule, the statutory context provides additional support for our conclusion.
+The Supreme Court, in analyzing Section 109 of the Clean Air Act, rejected the premise that Congress would "alter the fundamental details of a regulatory scheme" in "ancillary provisions" — in other words, that Congress would "hide elephants in mouseholes."
+Whitman v. American Trucking Ass'ns , 531 U.S. 457 , 468 , 121 S.Ct. 903 , 149 L.Ed.2d 1 (2001).
+The good neighbor provision is one of more than 20 SIP requirements in Section 110(a)(2) .
+It seems inconceivable that Congress buried in Section 110(a)(2)(D)(i)(I) — the good neighbor provision — an open-ended authorization for EPA to effectively force every power plant in the upwind States to install every emissions control technology EPA deems "cost-effective."
+Such a reading would transform the narrow good neighbor provision into a "broad and unusual authority" that would overtake other core provisions [***17] of the Act.
+Gonzales v. Oregon , 546 U.S. 243 , 267 , 126 S.Ct. 904 , 163 L.Ed.2d 748 (2006).
+We "are confident that Congress could not have intended to delegate a decision of such economic and political significance to an agency in so cryptic a fashion."
+FDA v. Brown & Williamson Tobacco Corp. , 529 U.S. 120 , 160 , 120 S.Ct. 1291 , 146 L.Ed.2d 121 (2000).
+States are obligated to prohibit only those "amounts" of pollution "which will .
+.
+.
+contribute significantly" to downwind attainment problems — and no more.
+Because the Transport Rule exceeds those limits, and indeed does not really try to meet those requirements, it cannot stand.
+III There is a second, entirely independent problem with the Transport Rule.
+EPA did not stop at simply quantifying each upwind State's good neighbor obligations.
+Instead, in an unprecedented application of the good neighbor provision, EPA also simultaneously issued Federal Implementation Plans, or FIPs, to implement those obligations on sources in the States.
+EPA did so without giving the States an initial opportunity to implement the obligations themselves through their State Implementation Plans, or SIPs.
+The Clean Air Act ordinarily gives States the initial opportunity to implement a new air quality standard on sources within their borders; States do so by submitting SIPs.
+See 42 U.S.C. 7407 (a), 7410 (a)(1).
+Here, by preemptively issuing FIPs, EPA denied the States that first opportunity to implement the reductions required under their good neighbor obligations.
+EPA justifies its "FIP-first" approach by pointing to its earlier findings that the States had failed to meet their good neighbor obligations.
+But those findings came before the Transport Rule quantified the States' good neighbor obligations.
+EPA's approach punishes the States for failing to meet a standard that EPA had not yet announced and the States did not yet know.
+Under the Act, EPA has authority to set standards, but the statute reserves the first-implementer role for the States.
+That division of labor applies not just to the NAAQS but also to the good neighbor provision, Section 110(a)(2) (D)(i)(I), as EPA itself has recognized several times in the past.
+When EPA defines States' good neighbor obligations, it must give the States the first opportunity to implement the new requirements.
+[**405] A "Under the Clean Air Act, both the Federal Government and the States exercise responsibility for maintaining and improving air quality."
+American Trucking Ass'ns v. EPA , 600 F.3d 624 , 625 (D.C.Cir.2010).
+The Act sets forth a basic division of labor: The Federal Government establishes air quality standards, but States have primary responsibility for attaining those standards within their borders.
+See Train v. NRDC , 421 U.S. 60 , 63-67 , 95 S.Ct. 1470 , 43 L.Ed.2d 731 (1975); American Trucking , 600 F.3d at 625-26 ; Virginia v. EPA , 108 F.3d 1397 , 1406-10 (D.C.Cir.1997); see also 42 U.S.C. 7401 (a) ("The Congress finds .
+.
+.
+that air pollution prevention (that is, the reduction or elimination, through any measures, of the amount of pollutants produced or created at the source) and air pollution control at its source is the primary responsibility of States and local governments.
+.
+.
+.
+"); 42 U.S.C. 7407 (a) ("Each State shall have the primary responsibility for assuring air quality within the entire geographic area comprising such State.
+.
+.
+.").
+[fn26] That statutory [***18] division of authority is strict.
+This Court has described the Train-Virginia line of cases as erecting a statutory "federalism bar" under Section 110 of the Act.
+See Appalachian Power Co. v. EPA 249 F.3d 1032 , 1046 (D.C.Cir.2001) (citing Train , 421 U.S. 60 , 95 S.Ct. 1470 ; Virginia , 108 F.3d 1397 ); Michigan v. EPA , 213 F.3d 663 , 687 (D.C.Cir.2000).
+That statutory federalism bar prohibits EPA from using the SIP process to force States to adopt specific control measures.
+See Michigan , 213 F.3d at 687 ; Virginia , 108 F.3d at 1410 .
+In Train , the Supreme Court invoked that statutory division of labor in holding that the Clean Air Act gives EPA "no authority to question the wisdom of a State's choices of emission limitations," so long as the State's SIP submission would result in "compliance with the national standards for ambient air."
+421 U.S. at 79 , 95 S.Ct. 1470 .
+The Court stated: The Agency is plainly charged by the Act with the responsibility for setting the national ambient air standards.
+Just as plainly, however, it is relegated by the Act to a secondary role in the process of determining and enforcing the specific, source-by-source emission limitations which are necessary if the national standards it has set are to be met.
+Id .
+(emphasis added); see also Union Electric Co. v. EPA 427 U.S. 246 , 256 , 269 , 96 S.Ct. 2518 , 49 L.Ed.2d 474 (1976) (EPA may not reject a SIP on grounds of technical or economic infeasibility; that "would permit the Administrator or a federal court to reject a State's legislative choices in regulating air pollution, even though Congress plainly left with the States, so long as the national standards were met, the power to determine which sources would be burdened by regulation and to what extent").
+Similarly, in Virginia , this Court held that EPA had no authority under Section 110 to condition its approval of northeastern States' SIPs on the States' adoption of California's vehicle emission control measures.
+See 108 F.3d at 1401-10 .
+The [**406] Court relied on the basic principle that the States, not EPA, are the primary implemented under Section 110 .
+See id. at 1410 (" section 110 does not enable EPA to force particular control measures on the states").
+In sum, Title I of the Act establishes a "partnership between EPA and the states."
+NRDC v. Browner , 57 F.3d 1122 , 1123 (D.C.Cir.1995).
+The terms of that partnership are clear: EPA sets the standards, but the States "bear primary responsibility for attaining, maintaining, and enforcing these standards."
+American Lung Ass'n v. EPA 134 F.3d 388 , 389 (D.C.Cir.1998).
+B With that basic structure in mind, we consider the question presented here: whether EPA may use its rulemaking authority to quantify States' obligations under Section 110(a)(2) (D)(i)(I) and simultaneously issue Federal Implementation Plans, without giving the States a first opportunity to comply.
+We begin by briefly describing the set of statutory provisions on which EPA relies here.
+EPA is the first mover in regulating ambient air pollution in Title I of the Clean Air Act.
+Section 109 requires EPA to promulgate NAAQS for common air pollutants.
+See Whitman v. American Trucking Ass'ns , 531 U.S. 457 , 462 , 121 S.Ct. 903 , 149 L.Ed.2d 1 (2001) (citing 42 U.S.C. 7409 (a)).
+But once EPA sets a NAAQS, "responsibility under the Act shifts from the federal government to the states."
+Lead Industries Ass'n v. EPA , 647 F.2d 1130 , 1137 (D.C.Cir.1980).
+Section 110 governs State Implementation Plans.
+Section 110(a)(1) [***19] requires States to submit SIPs to implement each new or revised NAAQS.
+See 42 U.S.C. 7410 (a)(1).
+Section 110(a)(2) lists many elements that a SIP must contain in order to ensure that the Plan will be comprehensive enough to enable the State to attain the NAAQS.
+See 42 U.S.C. 7410 (a)(2).
+[fn27] The good neighbor provision, Section 110(a)(2) (D)(i)(I), is one of those required elements.
+Section 110(c)(1) creates a federal backstop if the States fail to submit adequate SIPs.
+When EPA finds that a State "has failed to make a required submission" or "disapproves a State implementation plan submission in whole or in part" because of a SIP "deficiency," EPA must "promulgate a Federal implementation plan" within two years, "unless the State corrects the deficiency" in the meantime in a manner approved by EPA.
+42 U.S.C. 7410 (c)(1).
+In essence, the issue here is whether a State's implementation of its good neighbor obligation can be considered part of the State's "required submission" in its SIP (or whether the SIP can be deficient for failing to implement the good neighbor obligation) even before EPA quantifies the State's good neighbor obligation.
+We think not.
+EPA's quantifying [**407] of a State's good neighbor obligation and setting of a State's emissions budget is what "require[s]" the State to make a "submission" implementing that obligation on sources within the State.
+After EPA has set the relevant emissions budgets for each State, EPA may require States to submit new SIPs under Section 110(a)(1) or to revise their SIPs under Section 110(k)(5) .
+That is the approach EPA has used in the past.
+In short, once EPA defines or quantifies a State's good neighbor obligation, the State must have a reasonable time to implement that requirement with respect to sources within the State.
+[fn28] In short, the triggers for a FIP are EPA's finding that the SIP fails to contain a "required submission" or EPA's disapproving a SIP because of a "deficiency."
+But logically, a SIP cannot be deemed to lack a required submission or be deemed deficient for failing to implement the good neighbor obligation until after EPA has defined the State's good neighbor obligation.
+Once it defines the obligation, then States may be forced to revise SIPs under Section 110(k)(5) or to submit new SIPs under Section 110(a)(1) .
+Only if that revised or new SIP is properly deemed to lack a required submission or is properly deemed deficient may EPA resort to a FIP for the State's good neighbor obligation.
+C 1 In light of Section 110(c)(1) , EPA here made "a finding of failure to submit and/or disapproved a SIP submission" for each State with respect to each NAAQS for which that State would be covered.
+EPA Br. 44 (citing 42 U.S.C. 7410 (c)(1)); see also EPA, Status of CAA 110(a)(2)(D)(i)(I) SIPs Final Rule Technical Support Document (July 2011) (EPA, SIPs TSD), J.A.
+3167.
+[fn29] On the basis of those findings, EPA asserted authority to issue the Transport Rule FIPs.
+But EPA's many SIP disapprovals and findings of failure to submit share one problematic feature: EPA made all of [**408] those findings before it told the States what emissions reductions their SIPs were supposed to achieve under the good neighbor provision.
+See EPA, SIPs TSD, J.A.
+3167.
+EPA sees no problem [***20] with that.
+In EPA's view, there is no difference between a State's obligation to comply with the NAAQS and a State's good neighbor obligation: States must submit SIPs addressing both within three years of a NAAQS, or face FIPs.
+But there is a difference — a glaring one — between the two obligations.
+A NAAQS is a clear numerical target.
+For example, the NAAQS for annual PM 2.5 is 15 µg/m 3 Every State knows precisely what numerical goal its SIP must achieve.
+If a State misses that clear numerical target, it has only itself to blame.
+By contrast, the good neighbor obligation is not a clear numerical target — far from it — until EPA defines the target.
+Even after EPA sets a NAAQS, an upwind State's good neighbor obligation for that pollutant is nebulous and unknown.
+The statutory standard is "amounts" of pollution which will "contribute significantly to nonattainment" or "interfere with maintenance" of the new NAAQS in a downwind State.
+There is no way for an upwind State to know its obligation without knowing levels of air pollution in downwind States and then apportioning its responsibility for each downwind State's nonattainment.
+Therefore, the upwind State's obligation remains impossible for the upwind State to determine until EPA defines it?
+[fn30] Without further definition by EPA, a prohibition on "amounts which will .
+.
+.
+contribute significantly" is like a road sign that tells drivers to drive "carefully."
+The regulated entities — here, the upwind States — need more precise guidance to know how to conform their conduct to the law.
+A SIP logically cannot be deemed to lack a "required submission" or deemed to be deficient for failure to meet the good neighbor obligation before EPA quantifies the good neighbor obligation.
+EPA faults the States for not hitting that impossible-to-know target with their SIP submissions.
+In effect, EPA's view is that the only chance States have to hit the target is before EPA defines the target.
+By the time EPA makes the target clear, it's already too late for the States to comply.
+Interestingly, outside of this litigation, EPA has itself recently and repeatedly recognized that it makes no sense for States to act until EPA defines the target.
+Just a few weeks ago, for example, in a separate proceeding EPA said that while some elements of a SIP submission are "relatively straightforward," "others clearly require interpretation by EPA through rulemaking, or recommendations through guidance, in order to give specific meaning for a particular NAAQS."
+77 Fed. Reg. 46, 361, 46, 363 (Aug. 3, 2012).
+"For example, section 110(a)(2)(D)(i) requires EPA to be sure that each state's SIP contains adequate provisions to prevent significant contribution to nonattainment of the NAAQS in other states.
+This provision contains numerous terms that require substantial rulemaking by EPA in order to determine such basic points as what constitutes significant [**409] contribution."
+Id. at n.7.
+Thus, EPA has said that the good neighbor provision "clearly require[s] interpretation by EPA through rulemaking, or recommendations through guidance, in order to give specific [***21] meaning for a particular NAAQS."
+Id.; see also, e.g. , 77 Fed. Reg. 45 , 320, 45 , 323 & n.7 (July 31, 2012) (same); 77 Fed. Reg. 43, 196, 43, 199 & n.7 (July 24, 2012) (same); 77 Fed. Reg. 22, 533, 22, 536 & n.7 (Apr. 16, 2012) (same); 76 Fed. Reg. 40, 248, 40,250 & n.5 (July 8, 2011) (same).
+In this litigation, however, EPA insists that the text of Section 110(c)(1) compels its FIP-first approach.
+But EPA pursues its reading of the statutory text down the rabbit hole to a wonderland where EPA defines the target after the States' chance to comply with the target has already passed.
+Cf. FCC v. Fox Television Stations, Inc. , U.S. , 132 S.Ct. 2307 , 2317 , 183 L.Ed.2d 234 (2012) ("A fundamental principle in our legal system is that laws which regulate persons or entities must give fair notice of conduct that is forbidden or required.
+"); id .
+("regulated parties should know what is required of them so they may act accordingly"); Christopher v. SmithKline Beecham Corp. , U.S. , 132 S.Ct. 2156 , 2168 , 183 L.Ed.2d 153 (2012) ("It is one thing to expect regulated parties to conform their conduct to an agency's interpretations once the agency announces them; it is quite another to require regulated parties to divine the agency's interpretations in advance.
+.
+.
+.").
+We take a different view.
+Statutory text "cannot be construed in a vacuum.
+It is a fundamental canon of statutory construction that the words of a statute must be read in their context and with a view to their place in the overall statutory scheme."
+Roberts v. Sea-Land Services, Inc. , U.S. , 132 S.Ct. 1350 , 1357 , 182 L.Ed.2d 341 (2012) (quoting Davis v. Michigan Dep't of Treasury , 489 U.S. 803 , 809 , 109 S.Ct. 1500 , 103 L.Ed.2d 891 (1989)).
+Title I's core two-step process is that the Federal Government sets end goals and the States choose the means to attain those goals.
+See Michigan , 213 F.3d at 687 ; see also Virginia , 108 F.3d at 1410 .
+EPA's theory — that EPA can define the end goals for the good neighbor provision and simultaneously issue federal plans to implement them — upends that process and places the Federal Government firmly in the driver's seat at both steps.
+The FIP-first approach is incompatible with the basic text and structure of the Clean Air Act.
+In our view, determining the level of reductions required under Section 110(a)(2)(D)(i)(I) is analogous to setting a NAAQS.
+And determining the level of reductions under the good neighbor provision triggers a period during which States may submit appropriate SIPs under Section 110(a)(1) or SIP revisions under Section 110(k)(5).
+That approach fits comfortably within the statutory text and structure.
+In both situations — setting a NAAQS and defining States' good neighbor obligations — EPA sets the numerical end goal.
+And in both cases, once the standards are set, "determining the particular mix of controls among individual sources to attain those standards" remains "a State responsibility."
+1998 NO x Rule, 63 Fed. Reg. 57 , 356 , 57 , 369 (Oct. 27, 1998).
+2 Other contextual and structural factors also support our conclusion that Section 110(a)(2) (D)(i)(I) preserves the basic principle that States, not the Federal Government, are the primary implementers after EPA has set the upwind States' good neighbor obligations.
+[**410] Section 110 's particular function in the statutory scheme is to give the States the first opportunity to implement the national standards EPA sets under Title I. See 42 U.S.C. 7410 (a )-(c) ; see also Train , 421 U.S. at 79 , 95 S.Ct. 1470 ; Virginia , 108 F.3d at 1410 ; Michigan , 213 F.3d at 686-87 .
+The good neighbor [***22] requirement's placement in Section 110(a) — a provision calling for State-level regulation — strongly suggests that Congress intended States to implement the obligations set forth in Section 110(a)(2) (D)(i)(I).
+By contrast, if EPA's FIP-first interpretation were to prevail, Section 110(a)(2) (D)(i)(I) would not fit well in Section 110(a) .
+Moreover, Title I contains a separate provision, Section 126 , that explicitly contemplates direct EPA regulation of specific sources that generate interstate pollution.
+See 42 U.S.C. 7426 (b )-(c) ; see also Appalachian Power , 249 F.3d at 1046 .
+Section 126(b) permits a State to petition EPA for a finding that a source in a neighboring State emits pollution in violation of Section 110(a)(2) (D)(i).
+[fn31] See 42 U.S.C. 7426 (b).
+Section 126(c) gives EPA discretion to impose severe sanctions, including "emission limitations and compliance schedules," on a source for which a finding has been made.
+42 U.S.C. 7426 (c); see also 42 U.S.C. 7509 .
+The fact that Congress explicitly authorized EPA to use direct federal regulation to address interstate pollution suggests it did not contemplate direct Federal regulation in Section 110(a)(2) (D)(i)(I).
+Cf. Whitman , 531 U.S. at 467-68 , 121 S.Ct. 903 ; General Motors Corp. v. United States , 496 U.S. 530 , 541 , 110 S.Ct. 2528 , 110 L.Ed.2d 480 (1990).
+And as this Court has previously held, that Section 126 imposes "extrinsic legal constraints" on State autonomy " does not affect a state's discretion under 110 ."
+Appalachian Power , 249 F.3d at 1047 (emphasis added).
+In sum, the text and context of the statute, and the precedents of the Supreme Court and this Court, establish the States' first-implementer role under Section 110.
+We decline to adopt a reading of Section 110(a)(2)(D)(i)(I) that would blow a hole in that basic structural principle.
+[fn32] 3 The novelty of EPA's approach underscores its flaws.
+In the past, EPA has applied the good neighbor provision in the States-first way we have outlined here.
+The 1998 NO x Rule (which we addressed in Michigan ) quantified each State's good neighbor obligation but then gave the States 12 months to submit SIPs to implement the required reductions.
+See 63 Fed. Reg. at 57 , 358 , 57 , 450-51 ; 42 U.S.C. 7410 (k)(5).
+Indeed, EPA explicitly assured States that the Rule did not intrude on their authority to choose the means to achieve the EPA-defined end goal.
+See 1998 NO x Rule, 63 Fed. Reg. at 57 , 369 .
+EPA then explained, persuasively, why it made sense not to deviate from Title I's standard division of labor in the good neighbor context: The task of determining the reductions necessary to meet section 110(a)(2) (D) involves allocating the use of the downwind States' air basin.
+This area is a commons in the sense that the [**411] contributing State or States have a greater interest in protecting their local interests than in protecting an area in a downwind State over which they do not have jurisdiction and for which they are not politically accountable.
+Thus, in general, it is reasonable to assume that EPA may be in a better position to determine the appropriate goal , or budget, for the contributing States, while leaving [it] to the contributing States' discretion to determine the mix of controls to make the necessary reductions.
+Id. at 57 , 370 (emphases added).
+In Michigan , this Court held that the 1998 Rule did not transgress the Train-Virginia federalism bar.
+But the terms of [***23] the Michigan Court's approval highlight how flagrantly the new Transport Rule crosses that line.
+We said: "EPA does not tell the states how to achieve SIP compliance.
+Rather, EPA looks to section 110(a)(2) (D) and merely provides the levels to be achieved by state-determined compliance mechanisms. "
+213 F.3d at 687 (emphasis added).
+We emphasized that States had a "real choice" how to implement the required reductions.
+Id. at 688.
+Like the 1998 NO x Rule, the 2005 Clean Air Interstate Rule gave States the first crack at implementing the reductions required by EPA.
+See 70 Fed. Reg. 25 , 162 , 25 , 263 (May 12, 2005) (requiring SIPs within 18 months).
+When EPA issued CAIR FIPs in April 2006, about a year after it promulgated CAIR, it clarified that it intended the FIPs to serve as a "Federal backstop" to the ongoing SIP process, and did not intend to "take any other steps to implement FIP requirements that could impact a State's ability to regulate their sources in a different manner" until "a year after the CAIR SIP submission deadline."
+See CAIR FIPs, 71 Fed. Reg. 25, 328, 25, 330 (Apr. 28, 2006).
+That timetable, EPA assured the States, would allow EPA "to approve timely SIPs before implementation of FIP requirements occurs."
+Id. at 25 , 331 (emphasis added).
+In both the 1998 NO x Rule and the 2005 CAIR, EPA was therefore careful not to infringe the States' first-implementer role.
+EPA's own past practice and statements illustrate the anomaly of its new FIP-first approach.
+D On a separate tack, EPA does not concede that it denied the States their rightful chance to implement their good neighbor obligations.
+It contends States did have an opportunity to submit SIPs.
+In EPA's view, once it issued the 2006 24-hour PM 2.5 NAAQS, States had three years under Section 110(a)(1) to seek and obtain EPA approval of SIPs addressing their good neighbor obligations.
+But to reiterate, the problem is that the three-year period expired before EPA issued the Transport Rule and defined the good neighbor obligations of upwind States.
+EPA has an answer for that — one we find extraordinarily unpersuasive.
+In its view, each State should have come up with (i) its own definition of "amounts which will .
+.
+.
+contribute significantly" and (ii) its own modeling and methodology for applying that definition.
+See EPA Br. 48 ("EPA has never stated that its methodology is the only way") (emphasis omitted).
+In effect, EPA claims the statute requires each State to take its own stab in the dark at defining "amounts which will .
+.
+.
+contribute significantly" to a downwind State's nonattainment.
+The State would then have to apply that homemade definition using its own homemade methodology.
+[**412] [fn33] Of course, once a State takes its stab, EPA could disapprove it — especially if the State defined its own obligation to be less than what EPA deemed it to be.
+Experience appears to bear that out: Petitioners point out that every Transport Rule State that submitted a good neighbor SIP for the 2006 24-hour PM 2.5 NAAQS was disapproved.
+See State & Local Br. 29-31; State & Local Reply Br. 5-7.
+That should not come as a surprise.
+In the 1998 NO x Rule, EPA acknowledged that pre-Rule stabs in the dark were bound to fail.
+"Without [***24] determining an acceptable level of NO x reductions," EPA warned, "the upwind State would not have guidance as to what is an acceptable submission."
+63 Fed. Reg. at 57 , 370 .
+And States would incur significant costs developing those SIP submissions.
+As EPA repeatedly reminds this Court, interstate pollution is a collective problem that requires a comprehensive solution.
+See EPA Br. 5 ("Absent effective federal control, individual States often have little economic or political incentive to self-impose regulatory controls (and attendant costs) within their States solely to address air quality problems in other States.").
+And EPA itself has recognized that having each State independently guess at its own good neighbor obligations is not a plausible solution to interstate pollution: "It is most efficient — indeed necessary — for the Federal government to establish the overall emissions levels for the various States."
+1998 NO x Rule, 63 Fed. Reg. at 57 , 370 (emphasis added).
+Yet EPA now encourages us to suspend disbelief and conclude that under the statute, a State's only chance to avoid FIPs is to make a successful stab in the dark — a feat that not one Transport Rule State managed to accomplish.
+EPA clearly does not believe the stab-in-the-dark approach would really permit States to avoid FIPs — its own past statements show that.
+But EPA's authority to issue these FIPs rests on our accepting its rickety statutory logic.
+[**413] We decline the invitation.
+Our duty is to "interpret the statute as a symmetrical and coherent regulatory scheme and fit, if possible, all parts into an harmonious whole."
+FDA v. Brown & Williamson Tobacco Corp. , 529 U.S. 120 , 133 , 120 S.Ct. 1291 , 146 L.Ed.2d 121 (2000) (citations and internal quotation marks omitted).
+EPA's FIP-first approach fails that test.
+When EPA quantifies States' good neighbor obligations, it must give the States a reasonable first opportunity to implement those obligations.
+That approach reads Section 110 (a)(2)(D)(i)(I) in harmony with the rest of Section 110.
+It preserves Title I's Federal-State division of labor — a division repeatedly reinforced by the Supreme Court and this Court.
+And it accords with the commonsense notion that Congress did not design the good neighbor provision to set the States up to fail.
+[fn34] IV The decision whether to vacate a flawed rule "depends on the seriousness of the order's deficiencies (and thus the extent of doubt whether the agency chose correctly) and the disruptive consequences of an interim change that may itself be changed."
+Allied-Signal, Inc. v. NRC , 988 F.2d 146 , 150-51 (D.C.Cir.1993) (internal quotation marks omitted); see also Davis County Solid Waste Mgmt. v. EPA , 108 F.3d 1454 , 1459 (D.C.Cir.1997).
+Here, we have no doubt that the agency chose incorrectly.
+The Transport Rule stands on an unsound foundation — including EPA's flawed construction of the statutory term "amounts which will .
+.
+.
+contribute significantly to nonattainment."
+42 U.S.C. 7410 (a)(2)(D)(i).
+That deficiency is too fundamental to permit us to "pick and choose portions" of the rule to preserve.
+North Carolina v. EPA , 531 F.3d 896 , 929 (D.C.Cir.2008).
+And as with the Clean Air Interstate Rule, the Transport Rule's "fundamental flaws foreclose EPA from promulgating the same standards on remand."
+Id .
+[***25] (internal quotation marks omitted).
+EPA's chosen manner of implementing the Rule — issuing FIPs without giving the States a post-Rule opportunity to submit SIPs — also rests on a misreading of the statute.
+We therefore vacate the Transport Rule rulemaking action and FIPs, and remand to EPA.
+The remaining question is the status of CAIR.
+In North Carolina , this Court initially held that CAIR's "fundamental flaws" required vacatur.
+531 F.3d at 929 .
+On rehearing, the Court reconsidered its initial decision and modified its order to remand CAIR without vacatur.
+North Carolina v. EPA , 550 F.3d 1176 , 1178 (D.C.Cir.2008).
+The Court noted that under our precedents, it is appropriate to remand without vacatur "where vacatur would at least temporarily defeat the enhanced [**414] protection of the environmental values covered by the EPA rule at issue."
+Id .
+(internal quotation marks, brackets, and ellipsis omitted).
+The Court was "convinced that, notwithstanding the relative flaws of CAIR, allowing CAIR to remain in effect until it is replaced by a rule consistent with our opinion would at least temporarily preserve the environmental values covered by CAIR."
+Id .
+In accordance with our Order granting the motions to stay the Transport Rule, EPA has continued to administer CAIR.
+See Order, No. 11-1302 , at 2 (D.C.Cir.
+Dec. 30, 2011); see also http://www.epa.
+gov/cair.
+Vacating CAIR now would have the same consequences that moved the North Carolina Court to stay its hand — and indeed might be more severe now, in light of the reliance interests accumulated over the intervening four years.
+We therefore conclude, as did the' Court in North Carolina , that the appropriate course is for EPA to continue to administer CAIR pending its development of a valid replacement.
+[fn35] We vacate the Transport Rule and the Transport Rule FIPs and remand this proceeding to EPA.
+EPA must continue administering CAIR pending the promulgation of a valid replacement.
+So ordered.

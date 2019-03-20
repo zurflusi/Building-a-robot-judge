@@ -1,0 +1,197 @@
+ CUDAHY , Circuit Judge.
+This case presents an intriguing classificatory problem concerning the scope of the federal courts' admiralty jurisdiction.
+Specifically, we must decide whether a fire aboard a non-commercial vessel docked at a recreational marina on navigable waters bears a significant relationship to traditional maritime activity.
+Everett Sisson owned the Ultorian, a 56-foot pleasure yacht, docked at the Washington Park Marina on Lake Michigan in Michigan City, Indiana.
+A fire erupted on the vessel, destroying it completely and damaging extensively the marina and several other boats.
+The fire allegedly was caused by a defective washer and dryer.
+The net value of the Ultorian after the fire was $800.
+The owners of the other vessels and of the marina have made claims for damages in excess of $275,000.
+Sisson sought injunctive and declaratory relief in the district court, asserting jurisdiction under 28 U.S.C. 1333 , which provides in part: Essentially Sisson wishes to limit his liability to the claimants for damages caused by the fire, pursuant to the Limitation of Liability Act, 46 U.S.C.A.App.
+181 et seq.
+The district court dismissed Sisson's complaint for lack of subject-matter jurisdiction.
+663 F.Supp.
+858 (N.D.Ill.1987).
+Sisson moved for reconsideration, alleging that the Limitation of Liability Act provides a separate source of admiralty jurisdiction in this case. The district court denied the motion because, in its view, Sisson introduced a new legal theory which could have, but had not, been raised in the original opposition to dismissal.
+668 F.Supp.
+1196 (N.D.Ill.1987).
+The court then rejected Sisson's argument on the merits, concluding that the Limitation of Liability Act does not provide an independent basis of federal admiralty jurisdiction.
+The court held alternatively that, even if subject-matter jurisdiction did exist, Sisson was not entitled to limit his liability for damage caused by a pleasure boat.
+For the reasons given below, we affirm the district court's dismissal of the case for lack of subject-matter jurisdiction.
+I. Had this case arisen prior to 1972, it would have fallen within the admiralty jurisdiction.
+Throughout most of the history of admiralty law in this country, the key criterion distinguishing maritime torts has been whether the actionable wrong occurred "on navigable waters."
+The Supreme Court stated the rule in The Plymouth , 70 U.S. (3 Wall.)
+20, 36 , 18 L.Ed. 125 (1866): "Every species of tort, however occurring, and whether on board a vessel or not, if upon the high seas or navigable waters, is of admiralty cognizance."
+The present case would clearly have satisfied this "locality test;" it involves a fire that began on board a vessel moored on navigable waters, with resulting damage to other vessels also moored on navigable waters.
+This test, however, was changed in 1972 by the Supreme Court's decision in Executive Jet Aviation, Inc. v. City of Cleveland , 409 U.S. 249 , 93 S.Ct. 493 , 34 L.Ed.2d 454 (1972).
+In Executive Jet the owners of a jet aircraft invoked admiralty jurisdiction when their airplane crashed in Lake Erie.
+They alleged that the airport had negligently failed to keep its runway free of birds.
+The airplane's jet engines ingested the birds, causing the plane to lose power and crash.
+The tort arguably satisfied the locality test--the birds were ingested over, and the plane crashed in, the navigable waters of Lake Erie.
+See The Propeller Genesee Chief v. Fitzhugh , 53 U.S. (12 How.) 443 , 13 L.Ed. 1058 (1851).
+Reasoning that the locality test "was established and grew up in an era when it was difficult to conceive of a tortious occurrence on navigable waters other than in connection with a waterborne vessel," id .
+, 409 U.S. at 254 , 93 S.Ct. at 497 , the Court concluded that locality by itself was an inadequate basis for assuming admiralty jurisdiction over an airplane crash.
+Writing for a unanimous Court, Justice Stewart held that in the context of aviation, "a significant relationship to traditional maritime activity" must be shown as well, before admiralty jurisdiction could be invoked in tort cases.
+Id. at 268 , 93 S.Ct. at 504 .
+The Court's new "nexus" test was not satisfied by the mere similarity of problems confronting ships that sink and aircraft that crash in navigable waters.
+The fact that a "land-based plane flying from one point in the continental United States to another" happened to wind up in the water rather than on land did not provide a significant relationship between the crash and "traditional maritime activity involving navigation and commerce on navigable waters."
+Id. at 272 , 93 S.Ct. at 506 .
+Executive Jet left open the question whether the new "nexus" test would apply in non-aviation contexts.
+Any doubt about this issue was subsequently removed in Foremost Insurance Co. v. Richardson , 457 U.S. 668 , 102 S.Ct. 2654 , 73 L.Ed.2d 300 (1982), a case involving the collision of two pleasure boats on navigable waters.
+The Court first concluded that all tort actions invoking admiralty jurisdiction must meet the new nexus test requiring a significant relationship with "traditional maritime activity."
+Id. at 673-74 , 102 S.Ct. at 2658 .
+When subsequently defining traditional maritime activity, the Court recognized that "the primary focus of admiralty jurisdiction is unquestionably the protection of maritime commerce," but refused to require that alleged tortfeasors be "actually engaged in commercial maritime activity" before they could assert admiralty jurisdiction.
+Id. at 674-75 , 102 S.Ct. at 2658 (emphasis in original).
+In the Court's view, the federal interest in protecting maritime commerce "can be fully vindicated only if all operators of vessels on navigable waters are subject to uniform rules of conduct."
+Id. at 675 , 102 S.Ct. at 2658 (emphasis in original).
+The Court held that although the boats involved were "pleasure" rather than "commercial" craft, the collision in Foremost fell within the federal courts' admiralty jurisdiction: Id. (footnote omitted).
+The Court cautioned, however, that "[n]ot every accident in navigable waters that might disrupt maritime commerce will support federal admiralty jurisdiction."
+Id. at 675 n. 5, 102 S.Ct. at 2658 n. 5.
+This seems to us a strong admonition to proceed with great caution in extending the Foremost principles.
+We are now presented with a case that tests the limits of the developing admiralty nexus doctrine: Does a fire on board a moored pleasure yacht, docked in the navigable waters of a recreational marina on Lake Michigan, bear a significant relationship to traditional maritime activity?
+Guidance from the Court on this question is limited to two cases: a collision on navigable waters between pleasure craft, that passes the test, and the crash of a land-based airplane in navigable waters, that fails the test.
+1 Foremost makes it clear that the distinction between aviation and non-aviation contexts is not the critical issue.
+However, the existing case law gives little basis for determining under what circumstances an accident involving a vessel, in navigable waters, would lack the requisite nexus with "traditional maritime activity."
+One principled approach to delimiting the scope of "traditional maritime activity" might be to look at the original reasons for asserting admiralty jurisdiction over that activity.
+Most scholars of admiralty law agree that the original purpose of admiralty courts was to establish a uniform body of laws to govern (and to promote) maritime commerce.
+See, e.g. , G. Gilmore & C. Black, The Law of Admiralty , 1-1, 1-5 (1975); 7A J. Moore & A. Pelaez, Moore's Federal Practice ¶ .190, at 2005-06, ¶ .325 , at 3606-07 (2d ed. 1988); Black, Admiralty Jurisdiction: Critique and Suggestions , 50 Colum.L.Rev.
+259 , 280 (1950); Stolz, Pleasure Boating and Admiralty: Erie at Sea , 51 Calif.L.Rev.
+661, 667 (1963).
+However, in Foremost Justice Marshall rejected efforts to limit the admiralty jurisdiction to cases involving commercial shipping: commercial Foremost , 457 U.S. at 674 , 102 S.Ct. at 2658 .
+Thus admiralty jurisdiction is not precluded in the case before us simply because the tort involves pleasure, rather than commercial, vessels.
+Another approach would be to analyze the types of instrumentalities and accidents involved in each case in order to determine their relationship to traditional maritime activities.
+This is, in part, the direction taken by the district court opinion in this case, which paid close attention to the fact that the fire in question allegedly started in a possibly defective washer-dryer unit.
+663 F.Supp.
+858, 862 .
+We believe that the precise source of a fire aboard a vessel should not carry great weight in determining whether the tort is "maritime."
+Accidents stemming from many diverse sources can have grave effects for "traditional maritime activity" when they occur at sea.
+If a fire threatened to disable a commercial vessel or to block the entrance to a major harbor, to exclude it from admiralty jurisdiction on the basis of its source would make little sense under the "nexus" test.
+Further, such an approach would seem productive of many instances in which it would be necessary to try the case (to determine the source of the fire) to resolve the jurisdictional issue.
+It would also set the scene for endless hairsplitting definitional debates that do little to further the policy goals of this doctrine.
+Almost any conceivable accident when it occurs on board a ship can be categorized alternately as the result of a "traditional" activity necessarily performed by sailors through history (washing, preparing food, navigating the ship) or as the result of "modern" circumstances (an electric tooth brush malfunctions, or a microwave oven starts a fire).
+Analysis centered on how closely the source of an accident is related to "traditional maritime activity" thus seems an unproductive approach to the problem--at least in the context of accidents involving only vessels in navigable waters (as opposed to incidents involving objects on shore).
+There is little support in the language of the Supreme Court cases in this area for limiting admiralty jurisdiction to accidents that originated in a certain part of a vessel (i.e., the engine or steering mechanism), or that were caused by instrumentalities invented after a certain point in history.
+However, the language used by the Court in Foremost does suggest some other limiting principles.
+Justice Marshall stressed repeatedly that a key function of admiralty jurisdiction is protecting "the smooth flow of maritime commerce" by ensuring uniform navigational rules, id. at 674-76 , 102 S.Ct. at 2658-59 , and by requiring that "all vessel operators are subject to the same duties and liabilities."
+Id. at 676 , 102 S.Ct. at 2659 .
+The references to "traditional maritime activity" in Foremost always rely upon discussions of "navigation" or the " operation of a vessel" to explain the concept.
+Id. at 674-76 , 102 S.Ct. at 2658-59 (emphasis supplied).
+In a key passage, Foremost holds that in that case the collision between two pleasure boats on navigable waters fell under admiralty jurisdiction because of "[t]he potential disruptive impact of a collision between boats on navigable waters, when coupled with the traditional concern that admiralty law holds for navigation."
+Id. at 675 , 102 S.Ct. at 2658 (emphasis supplied).
+Thus there is a reasonable basis for concluding that the Foremost Court intended to limit admiralty jurisdiction in non-commercial maritime tort cases to torts involving navigation.
+In our view, a persuasive interpretation of Foremost would confine the admiralty jurisdiction in tort cases either to cases directly involving commercial maritime activity, or to cases involving exclusively non-commercial activities in which the wrong (1) has a potentially "disruptive impact" on maritime commerce and (2) involves the "traditional maritime activity" of navigation.
+2 Because the case before us involves only non-commercial activities, we must ask (1) whether the tort had a potentially "disruptive impact," and (2) whether it involved navigation.
+In our view, a fire on board a moored vessel could disrupt commercial navigation.
+If, for example, the Ultorian had been moored at a large municipal dock rather than in a recreational marina (apparently exclusively for pleasure boats), the fire or smoke might easily have spread to commercial vessels.
+Further, the fire could have spread from the marina across oil-covered water to threaten or obstruct commercial traffic in the channel or elsewhere.
+However, as Foremost emphasized, "[n]ot every accident in navigable waters that might disrupt maritime commerce will support admiralty jurisdiction."
+Id. at 675 n. 5, 102 S.Ct. at 2658 n. 5.
+This caveat seems well-founded in light of the precedent-established in Executive Jet .
+If potential disruptive impact upon commercial shipping were the primary criterion for determining whether a tort were related to traditional maritime activity, then the Executive Jet plane crash in navigable waters would have fallen within admiralty jurisdiction.
+Thus we must proceed to analyze the second Foremost criterion for non-commercial maritime torts--the "traditional maritime activity" requirement.
+Following the guidance given by careful scrutiny of the language in Foremost , we here apply a narrow reading of "traditional maritime activity," limiting application to cases involving navigation.
+Strong arguments, however, exist for broader treatment of this issue.
+Logically, fires aboard vessels--even when moored--are as much a traditional maritime concern as errors of navigation.
+Fire at sea, or at a mooring, is an ancient and dreaded hazard facing mariners.
+In Richardson v. Harmon , 222 U.S. 96 , 32 S.Ct. 27 , 56 L.Ed. 110 (1911), the Supreme Court--in commenting upon the exclusion from admiralty jurisdiction of torts involving vessels in which the resulting damage occurred on land--appeared to link collision and fire as twin maritime hazards: section 189 Id. at 101 , 32 S.Ct. at 28 .
+It is also somewhat puzzling to find the Court using a broad phrase such as "traditional maritime activity" in discussions that then proceed to deal only with navigation.
+The Court in Foremost may have been attempting to reconcile the relatively narrow policy basis for admiralty jurisdiction ("the primary focus of admiralty jurisdiction is unquestionably the protection of maritime commerce," Foremost , 457 U.S. at 674 , 102 S.Ct. at 2658 ), with the broad application of the admiralty jurisdiction since its inception to all varieties of torts occurring on navigable waters--and particularly to collisions of vessels on navigable waters, the paradigmatic admiralty case. See id. at 672 , 102 S.Ct. at 2657 .
+Once the Court decided to include pleasure boats, thus determining that "maritime commerce" is not the only "traditional maritime activity," it appears to have looked to the traditional concern of admiralty law with navigational rules, and to the federal interest in ensuring uniformity in those rules, in defining the scope of the nexus requirement.
+Id. at 675 , 102 S.Ct. at 2659 .
+Although this approach has its difficulties, see id. at 682 , 102 S.Ct. at 2662 (Powell, J., dissenting), it does attempt to determine which aspects of maritime activity are worthy of federal concern.
+Using this approach, the Court decided that a federal interest is served by having a uniform standard of conduct with respect to navigation on the navigable waterways.
+This uniform standard of conduct is ensured by federal laws governing the navigation of all vessels, including pleasure craft.
+See 33 U.S.C. 2001-2073 .
+Although federal laws also regulate fire safety aboard vessels, 3 the application of uniform fire safety laws to pleasure craft is not necessary to ensure the smooth flow of maritime commerce.
+By contrast, the comprehensive federal regulation of navigation through uniform "Rules of the Road" is essential to ongoing maritime commercial activity; if pleasure boats followed different rules than commercial vessels, they could disrupt the flow of commerce substantially.
+But see commentary cited infra note 4.
+Thus it seems that the federal interest invoked in Foremost is more at stake in the regulation of navigation than it is in the regulation of maritime fire safety.
+Further, even if logic and the demands of a comprehensible framework of analysis might draw us to treat fire--even at a mooring--as the twin of collision when maritime hazards are involved, we would feel constrained by the Supreme Court's repeated use of specific language in assessing what constitutes "traditional maritime activity."
+We have already noted that the Foremost court, when identifying traditional maritime activity or concerns, consistently mentioned "maritime commerce," "navigation," or "operation of a vessel."
+See 457 U.S. at 674-77 , 102 S.Ct. at 2658-59 .
+4 Similarly, in Executive Jet , the Court described the necessary maritime nexus as "some relationship between the tort and traditional maritime activities, involving navigation or commerce on navigable waters."
+409 U.S. at 256 , 93 S.Ct. at 498 (emphasis supplied).
+As the Fourth Circuit has noted: Executive Jet Foremost Richardson ; Oliver by Oliver v. Hardesty , 745 F.2d 317, 319 (4th Cir.1984).
+In cases where there is an immediate threat to commercial shipping (as might be posed, for example, by a fire at a municipal dock serving all types of vessels), admiralty jurisdiction will clearly be invoked.
+However, in cases where the threat to commercial shipping is not direct or immediate, we are compelled to conclude that Supreme Court precedent to date recognizes torts involving pleasure boats as "maritime" only if there is at least a potential threat to commercial shipping, and only if "navigation" is implicated.
+5 This may be too narrow and mechanical an interpretation of the Supreme Court.
+But the specific language of the Court seems to support it.
+And, as noted above, the Supreme Court's invocation of the need for uniform "Rules of the Road" as a touchstone where navigation or a collision is involved provides further support for this restrictive conclusion.
+6 In the present case, if the Ultorian had been underway in the shipping channel when the fire broke out, we might reach a different result.
+Even if we were not confined by the Supreme Court's repeated references to "navigation" as the traditional maritime activity in this context, there are reasons for declining to extend the nexus test to include fires on pleasure craft as a matter of course.
+First and most important, if this sort of fire were to join navigation as a "traditional concern" of maritime law, it would be nearly impossible to establish any limiting principle with respect to what satisfies the nexus requirement.
+Cf. Baer, Admiralty Law and the Supreme Court 25-4 (3d ed. 1979 & Supp.1985) (summarizing Foremost and predicting that "a limitation [may be] placed on the scope of the Court's opinion").
+For example, there would appear to be no way to distinguish the present case from the case of a pleasure boat that was moored too loosely during a storm and collided with a neighboring boat, or the case of a pleasure boat damaged by the swinging boom of a nearby sailboat.
+Indeed, without navigation 7 as the distinguishing feature, the new "nexus" test becomes identical with the old "navigable waters" test (at least for "vessels"), in defiance of the rule set out in Executive Jet and Foremost .
+Further, we do not think it appropriate to analogize broadly from navigation to fire in the context of a moored pleasure boat in the face of widespread scholarly criticism of the exercise of admiralty jurisdiction over pleasure boat torts.
+See, e.g. , Carnilla & Drzal, Foremost Insurance Co. v. Richardson: If this is Water, It Must be Admiralty , 59 Wash.L.Rev.
+1 (1983) (criticizing Foremost 's assertion of admiralty jurisdiction over collision between small pleasure boats); Stolz, Pleasure Boating and Admiralty: Erie at Sea , 51 Calif.L.Rev.
+861 (1963) (law of pleasure boating should be developed by state courts and legislatures); Note, Pleasure Boat Torts in Admiralty Jurisdiction: Satisfying the Maritime Nexus Standard , 34 Wash. & Lee L.Rev.
+121, 139-40 (1977) (in cases of pleasure craft torts, courts must determine "whether the exercise of jurisdiction furthers the commercial interests which admiralty courts were created to serve"); cf. 7A J. Moore & A. Palaez, Moore's Federal Practice ¶ .325 (2d ed. 1988) (admiralty tort jurisdiction should be limited to matters concerning maritime industry); Black, Admiralty Jurisdiction: Critique and Suggestions , 50 Colum.L.Rev.
+250 (1950) (same).
+Thus, there is a basis for the somewhat narrow interpretation followed in many of the recent decisions of other circuits concerned with the scope of admiralty jurisdiction in tort actions involving pleasure craft.
+8 And this interpretation is reassuring to those who perceive important principles of federalism in these distinctions.
+See, e.g. , Foremost , 457 U.S. at 685 , 102 S.Ct. at 2663 ("federalism concern is the dominating issue in the case") (Powell, J., dissenting).
+Accordingly, we affirm the district court's conclusion that Sisson lacks subject-matter jurisdiction under 28 U.S.C. 1333 .
+II.
+Sisson also argues that the Limitation of Liability Act provides a separate basis of admiralty jurisdiction.
+9 Although the Act is not cast in jurisdictional terms, the Supreme Court in 1911 interpreted what is now section 189 of the Limitation of Liability Act 10 as expanding the scope of liability subject to limitation to include nonmaritime, as well as maritime, torts.
+Richardson v. Harmon , 222 U.S. 96, 106 , 32 S.Ct. 27, 30 , 56 L.Ed. 110 (1911).
+Sisson contends that because the right of limitation under section 189 "does not depend on the maritime nature of the liability, jurisdiction under the Limitation Act is not coextensive with admiralty jurisdiction in tort."
+Brief of Plaintiff-Appellant at 12 (emphasis omitted).
+In Richardson v. Harmon , the owners of a steam barge that had collided with a bridge sought to limit their liability for damage to the bridge.
+The Supreme Court noted that, prior to the enactment of section 189 , there was no admiralty jurisdiction over an action against a shipowner for damage occurring on land.
+"The tort would have been a nonmaritime tort, and, as such, not within the cognizance of an admiralty court."
+Id. at 101 , 32 S.Ct. at 28 .
+The Court, by finding that section 189 included nonmaritime torts within the Limitation of Liability Act, was able to allow the commercial vessel (that had been traveling on navigable waters) to limit its liability for the collision that caused damage to the bridge, a structure on land.
+We question the applicability of Richardson v. Harmon to the present case in some part at least because the need that inspired that decision no longer exists.
+Section 189 was enacted to further the policy of the Limitation of Liability Act--to permit a shipowner to limit his risk to his interest in the ship--by allowing limitation of liability even when the damage resulted on land.
+That section 189 was intended to improve the competitive position of owners of commercial ships in this fashion is evidenced by its title when enacted: "An Act to Remove Certain Burdens on the American Merchant Marine, and Encourage the American Foreign Carrying Trade, and for Other Purposes."
+See Richardson v. Harmon , 222 U.S. at 101 , 32 S.Ct. at 29 .
+In 1948, however, Congress enacted the Extension of Admiralty Jurisdiction Act, 46 U.S.C.A.App.
+740 , which provides in part: In passing this Act, Congress sought to "provide a remedy for damage done to land structures by ships on navigable waters."
+Executive Jet , 409 U.S. at 260 , 93 S.Ct. at 500-01 ; see S.Rep.
+No. 1593, 80th Cong., 2d Sess., reprinted in 1948 U.S.Code Cong. & Admin. News 1898, 1899.
+Although the Extension of Admiralty Jurisdiction Act does not specifically supplant (or as the district court said here, "codify") Richardson v. Harmon , it does eliminate the need and reason for the rule established by the case; for now torts are "maritime" even when the damage occurs on land (and there is therefore no question that limitation of liability is available).
+Perhaps more importantly, most of the cases involving issues related to the scope of admiralty jurisdiction under the Limitation of Liability Act were decided prior to the Supreme Court's decisions in Executive Jet and Foremost .
+During that time, the test for admiralty jurisdiction under 28 U.S.C. 1333 was exclusively one of "locality."
+Thus, it is not surprising and seems rational policy that as long as "the event giving rise to the claims occurred on navigable waters" the owner of the vessel that caused the damage could limit his liability under the Act.
+G. Gilmore & C. Black, The Law of Admiralty 843-44 (1975).
+During this period, admiralty jurisdiction under the Limitation of Liability Act--although purportedly invoking a separate basis of jurisdiction--did not ignore completely the requirements of admiralty jurisdiction under section 1333 .
+Even though it was not necessary that the damage occur on navigable water, there remained the requirement that the vessel involved in the tort bear a "relation" to navigable waters.
+See, e.g. , In re Builders Supply , 278 F.Supp.
+254, 258 (N.D.Iowa 1968).
+Petitioners here readily concede that this "relation" is still a necessary ingredient of jurisdiction under the Limitation of Liability Act.
+Thus, vessel owners seeking to limit their liability are not relieved altogether from satisfying the locality test.
+The requirements of that test are merely somewhat relaxed.
+Now that the test for admiralty jurisdiction under section 1333 contains a nexus as well as a locality requirement, we must decide how the test for jurisdiction under the Limitation of Liability Act should reflect this additional dimension of admiralty jurisdiction.
+Specifically, we are presented with the question whether a court may assert admiralty jurisdiction over a limitation of liability action when the underlying tort fails to qualify as maritime because it is not "functionally" within the admiralty jurisdiction (since it is unconnected to traditional maritime activity).
+For the reasons which follow, we do not accept Sisson's contention that the nexus requirement for admiralty jurisdiction over the tort is irrelevant to the determination whether the Limitation of Liability Act independently confers admiralty jurisdiction.
+In our view, when a cause of action in tort does not bear any connection to traditional maritime activity, there is no justification for allowing the Limitation of Liability Act--which provides for a practice apparently defensible only in a traditional maritime context--to provide an independent basis for admiralty jurisdiction.
+It is true that the Supreme Court allowed limitation of liability to be extended geographically beyond normal admiralty jurisdictional bounds.
+But Richardson v. Harmon , in extending limitation to liability for damage occurring on land, furthered the purposes of both admiralty jurisdiction in general and of the Limitation of Liability Act in particular.
+If the purpose of limitation was to improve the competitive position of the American shipping industry, it would make no sense to exclude damages which quite fortuitously impacted on land and not, for example, on another vessel.
+Thus, shipowners were allowed to limit their liability to the value of the vessel for all damage caused by the ship or its crew whether seaward or landward.
+No similar policy would be furthered, however, by allowing limitation for torts which bear no relation to traditional maritime activity; under those circumstances the competitive rationale would make no sense.
+If pleasure boating is to be excluded from admiralty jurisdiction for functional reasons, we should not extend limitation of liability in the face of those same reasons.
+We believe that allowing admiralty jurisdiction here would be contrary to the policy of Executive Jet and Foremost .
+In creating the nexus requirement, the Supreme Court confined the reach of admiralty jurisdiction to include only those tort actions with which a uniform, sea-going jurisprudence should be concerned.
+To permit an alleged tortfeasor to circumvent the requirement that the tort bear a connection to traditional maritime activity simply by asserting a right to limit liability would eviscerate the nexus test.
+It would also lead to inequity between the parties if only the owner of the vessel causing the injury may claim jurisdiction under the Limitation of Liability Act.
+It appears that an injured party who wishes to avail itself of the benefits of admiralty law would still be required to satisfy both the nexus and the locality tests.
+Asserting admiralty jurisdiction over this case would also be inconsistent with principles of federalism espoused by the Supreme Court in Executive Jet .
+There the Court found that the crash of an airplane, originating in one state and destined for another, was only "fortuitously and incidentally connected to navigable waters" and, as such, bore "no relationship to traditional maritime activity."
+409 U.S. at 249 , 93 S.Ct. at 495 .
+Holding that this crash was outside the scope of admiralty jurisdiction, the Court explained that a state court "could plainly exercise jurisdiction over the suit, and could plainly apply familiar concepts of [state] tort law without any effect on maritime endeavors."
+Id. (footnotes omitted).
+Similarly, in the present case, the claims of other boat owners and of the owner of the marina could "plainly" be heard in state court without the intrusion of traditional maritime law concepts.
+Apparently no other court has addressed the precise question we are attempting to resolve here: whether an action to limit liability is within the scope of admiralty jurisdiction when the underlying wrong bears no relation to traditional maritime concerns.
+As we noted above, this question would not have arisen prior to Executive Jet .
+We have reviewed the cases published after that decision in which vessel owners had sought exoneration under the Limitation of Liability Act.
+In all of those cases, disputes over subject-matter jurisdiction were resolved by analyzing whether the alleged torts satisfied the locality and nexus requirements.
+See, e.g. , In re Paradise Holdings, Inc. , 795 F.2d 756, 758-60 (9th Cir.), cert. denied , 479 U.S. 1008 , 107 S.Ct. 649 , 93 L.Ed.2d 705 (1986); Duluth Superior Excursions, Inc. v. Makela , 623 F.2d 1251, 1252-54 (8th Cir.1980); In re Brown , 536 F.Supp.
+750, 751-52 (N.D.Ohio 1982); Clinton Bd. of Park Comm'rs v. Claussen , 410 F.Supp.
+320, 323-26 (S.D. Iowa 1976).
+If those courts had thought that the Limitation of Liability Act provided an independent basis of jurisdiction, irrespective of any relation to traditional maritime concerns, it would have been simpler for them to sustain jurisdiction on that ground.
+That none of the courts opted for this approach may call into question the continued validity of the Limitation of Liability Act as an independent basis of admiralty jurisdiction in these circumstances.
+For all of the reasons stated, we hold that a proceeding under the Limitation of Liability Act will be cognizable in admiralty only when the underlying tort has a relationship to traditional maritime activity.
+11 Accordingly, the district court's dismissal of this action for want of subject-matter jurisdiction is AFFIRMED.

@@ -1,0 +1,142 @@
+ REINHARDT , Circuit Judge: USA Petroleum Company (USA) sued Atlantic Richfield Company (ARCO) for violations of the Sherman Act, the Robinson-Patman Act, the Cartwright Act, and various state laws.
+USA subsequently voluntarily withdrew with prejudice its claim under section 2 of the Sherman Act.
+ARCO moved for summary judgment on USA's claim under section 1 of the Sherman Act, 15 U.S.C. 1 , and the district court granted its motion.
+The court entered judgment for ARCO under Fed.R.Civ.P. 54(b) , and USA timely appealed.
+We reverse.
+I. ARCO is an integrated oil company which, among other things, markets gasoline in the western United States.
+It sells gasoline to consumers both directly and indirectly through ARCO-brand dealers.
+USA is an independent marketer of gasoline, which it sells at retail under the brand name USA.
+USA competes directly with ARCO dealers at the retail level.
+USA alleges that ARCO conspired with retail service station dealers selling ARCO-brand gasoline to fix retail prices at below-market levels.
+USA alleges that "ARCO's strategy was to eliminate the independents by fixing and subsidizing below-market prices and siphoning off the independents' volumes and profits," and that it succeeded in that strategy.
+According to USA, many independents have been driven out of business.
+ARCO's subsidies consisted of temporary volume allowances, temporary competitive allowances, and other price allowances extended to its distributors and dealers.
+For the purpose of reviewing the district court's summary judgment order, we must assume these allegations to be correct.
+See Baker v. Department of Navy , 814 F.2d 1381, 1382 (9th Cir.1987).
+The district court ruled that "[e]ven assuming that [USA] can establish a vertical conspiracy to maintain low prices, [it] cannot satisfy the 'antitrust injury' requirement of Clayton Act 4 , without showing such prices to be predatory.
+Under the circumstances here concerned no such showing can be made."
+We disagree.
+II.
+The question on appeal is whether in the absence of proof of predatory pricing a competitor can recover damages because of a maximum resale price maintenance agreement.
+Specifically, we must decide whether a competitor's injuries resulting from vertical, non-predatory, maximum price fixing fall within the category of "antitrust injury".
+This is a difficult question, and one of first impression in this circuit.
+The Supreme Court has not spoken on this issue, and among the circuit courts only the Seventh Circuit has taken a position.
+See Jack Walters & Sons Corp. v. Morton Building, Inc. , 737 F.2d 698 (7th Cir.1984), discussed below.
+The question requires us to look closely at the purposes and policies underlying the antitrust laws, and to determine which application of the doctrine of "antitrust injury" best implements those purposes and policies.
+The concept of "antitrust injury" was put forward in Brunswick Corp. v. Pueblo Bowl-O-Mat, Inc. , 429 U.S. 477, 489 , 97 S.Ct. 690, 697 , 50 L.Ed.2d 701 (1977): antitrust In Brunswick , the plaintiffs argued that an illegal merger had kept alive failing competitors.
+The claim was that a violation of the antitrust laws had prevented the plaintiffs from obtaining monopoly profits.
+The Supreme Court's decision was not surprising: a plaintiff should not be able to claim damages for being unable to gain a monopoly position, the type of advantage the antitrust laws were meant to prevent.
+See id. at 487-88 , 97 S.Ct. at 697 .
+The Court held that when the injury claimed "was not of 'the type that the statute was intended to forestall,'" damages under section 4 of the Clayton Act would not be available.
+Id. (quoting Wyandotte Co. v. United States , 389 U.S. 191, 202 , 88 S.Ct. 379, 386 , 19 L.Ed.2d 407 (1967)).
+1 See Orion Pictures Distribution Corp. v. Syufy Enters.
+, 829 F.2d 946, 948-49 (9th Cir.1987) (no antitrust injury where the injury claimed was caused by a breach of contract, not by the alleged antitrust violation).
+III.
+To determine whether the injury USA alleges is of the type the antitrust laws were meant to prevent, we must look first to the Supreme Court's discussions of price fixing under the antitrust laws.
+In United States v. Socony-Vacuum Oil Co. , 310 U.S. 150 , 60 S.Ct. 811 , 84 L.Ed. 1129 (1940), a case involving horizontal price fixing, the Supreme Court held that price-fixing agreements were per se illegal.
+The Court responded as follows to the argument that the fixing of prices should be legal if the prices fixed were reasonable: Id. at 221 , 60 S.Ct. at 843 .
+To the argument that the prices had been fixed in such a way as to stabilize the market, the Court stated: .
+.
+.
+.
+.
+per se .
+.
+.
+.
+.
+Id. at 223, 225-26 n. 59, 60 S.Ct. at 844, 845-46 n. 59.
+The Supreme Court in a later case thought it evident that the rule that price fixing was per se illegal extended to the fixing of maximum prices.
+United States v. Socony-Vacuum Oil Co. 310 U.S. 150, 223 60 S.Ct. 811, 844 per se Kiefer-Stewart Co. v. Joseph E. Seagram & Sons, Inc. , 340 U.S. 211, 213 , 71 S.Ct. 259, 260 , 95 L.Ed. 219 (1951).
+Kiefer-Stewart involved both a vertical maximum price fixing (maximum resale price maintenance) agreement and a horizontal agreement among competitors to impose that price restraint.
+Id. at 212 , 71 S.Ct. at 260 .
+When the issue of vertical maximum price-fixing was more directly raised, the Supreme Court affirmed that that form of market manipulation was covered by the per se rule against price fixing.
+Kiefer-Stewart 1 Albrecht v. Herald Co. , 390 U.S. 145, 152-53 , 88 S.Ct. 869, 873 , 19 L.Ed.2d 998 (1968) (footnote omitted).
+2 In Arizona v. Maricopa County Medical Society , 457 U.S. 332 , 102 S.Ct. 2466 , 73 L.Ed.2d 48 (1982), the Court refused to withdraw maximum price fixing from the per se rule.
+per se Kiefer-Stewart Albrecht Id. at 348 , 102 S.Ct. at 2475 (brackets in Maricopa County ) (quoting Rahl, "Price Competition and the Price Fixing Rule--Preface and Perspective", 57 Nw.U.L.Rev.
+137, 142 (1962)) (footnote omitted).
+It is clear that maximum resale price maintenance remains per se illegal.
+3 III.
+We also look to the legislative history of the antitrust laws for guidance.
+Professor Eleanor Fox has summarized the findings of historians as follows: Fox, "The Modernization of Antitrust: A New Equilibrium", 66 Cornell L.Rev.
+1140, 1152-54 (1981) (footnotes omitted); see R. Hofstadter, "What Happened to the Antitrust Movement?
+", in The Paranoid Style in American Politics and Other Essays 188, 199-200 (1965).
+Price-fixing of any kind distorts in a basic way the competitive process the antitrust laws were meant to protect.
+Two prominent commentators have described vertical price fixing as follows: Flynn & Ponsoldt, "Legal Reasoning and the Jurisprudence of Vertical Restraints: The Limitations of Neoclassical Economic Analysis in the Resolution of Antitrust Disputes", 62 N.Y.U.L.Rev.
+1125, 1148 (1987).
+The Supreme Court cases echo the historians' conclusions regarding the objectives of the antitrust laws.
+The Court states that the rules against price fixing have a number of objectives, including the protection of the competitive process.
+Congress intended that market forces alone determine what goods and services are offered, at what price these goods and services are sold, and whether particular sellers succeed or fail.
+See, e.g. , Socony , 310 U.S. at 221, 223, 225-26 n. 59, 60 S.Ct. at 843, 844, 846 n. 59; Kiefer-Stewart , 340 U.S. at 213 , 71 S.Ct. at 260-61 (price fixing conspiracies "cripple the freedom of traders and thereby restrain their ability to sell in accordance with their own judgment"); Albrecht , 390 U.S. at 152-53 , 88 S.Ct. at 873 (price fixing conspiracies "severely intrude upon the ability of buyers to compete and survive in [the] market"); Maricopa County , 457 U.S. at 348 , 102 S.Ct. at 2475 ("The per se rule 'is grounded on faith in price competition as a market force [and not] on a policy of low selling prices at the price of eliminating competition.'")
+(quoting Rahl, "Price Competition and the Price Fixing Rule--Preface and Perspective", 57 Nw.U.L.Rev.
+137, 142 (1962)).
+When sellers conspire to fix prices, the market mechanism is distorted: prices may be driven higher, 4 some goods and services may not be offered, and sellers may succeed or fail for reasons other than their ability to respond to the demands of the market.
+Rules against price-fixing are thus meant to prevent harm to both consumers and to sellers.
+The "antitrust injury" standard requires us to determine whether the plaintiff's injuries resulted from a disruption of competition in the plaintiff's market caused by the defendant's antitrust violation.
+See generally Note, "Antitrust Standing, Antitrust Injury, and the Per Se Standard", 93 Yale L.J. 1309 (1984).
+In the present case the inquiry seems straightforward: USA's claimed injuries were the direct result, and, indeed, under the allegations we accept as true, the intended objective, of ARCO's price-fixing scheme.
+According to USA, the purpose of ARCO's price-fixing is to disrupt the market of retail gasoline sales, and that disruption is the source of USA's injuries.
+ARCO argues that USA, as ARCO's competitor, cannot claim an antitrust injury, because injury to competitors is not the type of injury that the rule against maximum resale price maintenance was meant to prevent--at least in cases where predatory pricing is not alleged.
+5 ARCO's argument misconceives the Supreme Court's analysis.
+The Supreme Court has not discussed maximum resale price maintenance as a separate type of antitrust violation, but only as one form of price fixing.
+See Arizona v. Maricopa County Medical Society , 457 U.S. at 348 , 102 S.Ct. at 2475 ; Albrecht v. Herald Co. , 390 U.S. at 152-53 , 88 S.Ct. at 873 .
+Thus, the proper question is not what type of injuries a rule against maximum resale price maintenance was meant to prevent, but what kind of injuries rules against price fixing were meant to prevent.
+The Supreme Court has indicated that the per se rule against price-fixing is aimed at the long-term as well as the short-term effects such practices have in the market, and not merely the immediate consequences for prices.
+See Business Elecs.
+Corp. v. Sharp Elecs.
+Corp. , U.S. , 108 S.Ct. 1515, 1519-20 , 99 L.Ed.2d 808 (1988) (characterizing interbrand competition as the primary concern of antitrust law, and listing "the creation and maintenance of small businesses" as one of its objectives).
+The removal of some elements of price competition distorts the markets, and harms all the participants: those retailers which have lost their ability to set prices, the other retailers in the same market who are harmed by the distorted market, and the consumers.
+Even if we were to analyze the question at the more specific level of maximum resale price fixing, given the long-term consequences of that practice we would reach the same result for similar reasons.
+ARCO relies in part on Cargill, Inc. v. Montfort of Colorado, Inc. , 479 U.S. 104 , 107 S.Ct. 484 , 93 L.Ed.2d 427 (1986).
+That reliance is misplaced.
+In Cargill , plaintiff, a large beef-packing firm, sought injunctive relief to enjoin the merger of the second and third largest beef-packing firms in the industry.
+The plaintiff asserted that the defendant would be able to lower its prices due to "multiplant efficiencies".
+Id .
+107 S.Ct. at 491 .
+This would require plaintiff in turn to lower its prices, thus lowering its profits.
+Id. at 492 .
+The Supreme Court held that this injury did not constitute "antitrust injury"; the Court relied in part on the fact that plaintiff had not shown that the defendant had engaged or would engage in unlawful or predatory pricing.
+Id. at 492-94 .
+In other words, in Cargill the plaintiff failed to show that the pricing practices that it claimed was causing or would cause its injuries were illegal.
+6 In fact, the Court termed the defendant's pricing policies "vigorous competition" and said that the antitrust laws protect small businesses "only against the loss of profits from practices forbidden by [those] laws."
+Id. at 492 .
+In the present case, plaintiff's injuries result directly from pricing practices that defendants admit (for the purpose of this appeal) are forbidden by the antitrust laws and are therefore illegal.
+7 In Cargill , as in Brunswick , the connection between the antitrust violation and the activity which caused the alleged injury is attenuated or indirect.
+In those cases, the violation was a merger or an acquisition, and the injury occurred because of pricing practices which were themselves legal.
+8 As the Court held, injuries derived from legal pricing practices are not necessarily the type of injuries rules against certain types of mergers and acquisitions were meant to prevent.
+See Cargill , 107 S.Ct. at 492-93 ; Brunswick , 429 U.S. at 486-88 , 97 S.Ct. at 696-97 .
+IV.
+ARCO claims that USA does not have standing under the "antitrust injury" standard because maximum resale price maintenance increases rather than decreases competition.
+9 Maximum resale price maintenance brings prices lower, not higher.
+If competitors fail, it is because they are not able to match the low prices charged by the maximum resale price maintenance retailers.
+This is a typical cost of competition, according to ARCO, and not a problem for antitrust policy.
+ARCO relies heavily on the argument that the antitrust laws were enacted for "the protection of competition , not competitors ."
+Brown Shoe Co. v. United States , 370 U.S. 294, 320 , 82 S.Ct. 1502, 1521 , 8 L.Ed.2d 510 (1962).
+However, we have earlier discussed the problems with misreading that aphorism: not Hasbrouck v. Texaco, Inc. , 842 F.2d 1034, 1040 (9th Cir.1988).
+10 We reject ARCO's characterization that USA's injury resulted from " increased , not reduced competition," as contrary to the antitrust laws.
+As in the terms of the Robinson-Patman Act, 15 U.S.C. 13(a) , the success of some firms and the failure of other firms, when due to illegal pricing practices, must be characterized as a "lessen[ing] [of] competition", not an increase in competition.
+Also, when firms conspire to fix low prices in order to drive out competition, the long-term consequences may be higher prices and reduced service to consumers.
+Cf. Albrecht , 390 U.S. at 152-53 , 88 S.Ct. at 873 : Socony-Vacuum , 310 U.S. at 221 , 71 S.Ct. at 268-69 .
+We note that commentators with a particular economic viewpoint have argued that maximum resale price maintenance should not be a per se violation of the antitrust laws.
+11 However, we cannot ignore the fact that maximum resale price maintenance is per se illegal, simply because some might think that rule is unwise or because of commentators' speculation that the rule's demise might be in sight.
+See Northwest Publications, Inc. v. Crumb , 752 F.2d 473, 475 (9th Cir.1985); cf. Jack Walters & Sons Corp. v. Morton Building, Inc. , 737 F.2d 698, 707, 709 (7th Cir.1984).
+The Supreme Court has clearly stated--and restated--that maximum resale price maintenance, as a form of price fixing, is per se illegal, and that rule binds us until the Court or Congress 12 clearly states otherwise.
+USA alleges that ARCO's price-fixing had the objective of forcing independent gasoline retailers from the market, and that ARCO had been largely successful in that objective.
+In its complaint, USA states that "more than a dozen large independents have sold out, liquidated or drastically curtailed their operations, and many independent retail stations have been closed."
+It also states that the barriers to entry into the retail gasoline market have been heightened so that "once an independent is eliminated, it is highly unlikely that it will be replaced."
+The objective and effect of ARCO's illegal pricing scheme has been to reduce the number of independent gasoline retailers, in other words, to reduce competition.
+USA complains that it has suffered financial losses and is being driven out of the market by ARCO's illegal price-fixing.
+This is the type of injury that the antitrust rules were meant to prevent.
+Finally, we consider the Seventh Circuit's treatment of the issue.
+In Jack Walters & Sons Corp. v. Morton Building, Inc. , 737 F.2d 698 (7th Cir.1984), Walters, a building-materials dealer, was a distributor of goods produced by Morton, a manufacturer of prefabricated farm buildings.
+Walters claimed, among other things, that Morton had coerced its dealers, including Walters, to maintain a conspiracy to maintain maximum resale prices.
+Id. at 706 .
+The district court dismissed Walters' claims, and the Seventh Circuit affirmed.
+Regarding the maximum resale price maintenance, Judge Posner, writing for the court, concluded that Walters had not shown antitrust injury: Id. at 709 .
+We disagree.
+13 The antitrust laws were, as we discussed earlier, intended to give entrepreneurs and independent distributors an "even playing field."
+The competitive process can only rule when participants in the process are not allowed to combine to fix prices ahead of time.
+14 We conclude that the purposes and policies of the antitrust laws are best effectuated by recognizing the "standing" of competitors to enforce the antitrust laws against price-fixing conspiracies.
+To put the same point differently, we conclude that the injury done to the market and to competitors by price-fixing conspiracies is antitrust injury--the type of injury the antitrust laws were meant to prevent.
+15 For the reasons stated above, we reverse the decision of the district court and remand the case for further proceedings consistent with this opinion.
+REVERSED AND REMANDED.

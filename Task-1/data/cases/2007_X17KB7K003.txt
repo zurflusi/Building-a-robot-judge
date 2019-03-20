@@ -1,0 +1,141 @@
+ THOMAS, Circuit Judge: This appeal presents the question of whether the Supreme Court's decision in Verizon Communications, Inc. v. Law Offices of Curtis V. Trinko, LLP , 540 U.S. 398 , 124 S.Ct. 872 , 157 L.Ed.2d 823 (2004) (" Trinko "), bars a plaintiff from claiming a violation of 2 of the Sherman Antitrust Act by virtue of an alleged price squeeze perpetrated by a competitor who also serves as the plaintiffs supplier at the wholesale level, but who has no duty to deal with the plaintiff absent statutory compulsion.
+We conclude that it does not, and affirm the order of the district court denying judgment on the pleadings.
+I This action was filed by linkLine Communications, Inc., In-Reach Internet LLC, Om Networks, and Nitelog, Inc. (collectively "linkLine"), who are Internet Service Providers ("ISPs") who sell DSL [fn1] access to the internet to retail customers.
+[fn2] While some ISPs affiliated with local telephone companies own their own infrastructure and facilities for transmitting data between the internet and consumers, these four lease those facilities variously from SBC California, Inc., Pacific Bell Internet Services, and SBC Advanced Solutions, Inc. (collectively "SBC Entities").
+As is true in many regions, because of the development of the telecommunications industry and the costs of building the necessary infrastructure, regional monopolies have developed that own and control the lines necessary for the delivery of telecommunication services.
+[fn3] These regional telephone companies are known as incumbent local exchange carriers ("ILECs").
+ILECs tend to own the local telephone network as well as the telephone lines — known as the "last-mile" — that connect each individual consumer to the network.
+Because any company seeking to connect [**2] with users at the end of these last mile connections must interconnect with the ILEC, the ILEC's facilities are commonly referred to as "bottleneck" facilities.
+At the time of the filing of linkLine's amended complaint, the relevant ILEC in this case was SBC California, Inc. ("SBC"), then a subsidiary of SBC Communications.
+[fn4] At the time of the filing of the amended complaint Pacific Bell Internet Services ("PBIS") was a subsidiary of SBC which sold DSL internet access to retail consumers using SBC's telephone lines.
+In June 2000, SBC transferred responsibility for the provisioning and billing of DSL facilities to SBC Advanced Solutions, Inc. ("SBC-ASI"), an affiliate of SBC's and a subsidiary of SBC Communications.
+The SBC Entities were thus organized so that they sold both wholesale DSL access ("DSL transport services") to independent ISPs as well as retail DSL access (through PBIS and then SBC-ASI) to individual consumers.
+At the time the amended complaint was filed, the SBC Entities were both a supplier to the Plaintiffs at the wholesale level, and a competitor at the retail level.
+Linkline filed its original complaint on July 24, 2003, alleging that the SBC Entities, acting as a single entity, have monopolized and attempted to monopolize the regional DSL market in violation of 2 of the Sherman Act.
+[fn5] In support of the 2 claim, the complaint alleged that SBC Entities: (a) created a price squeeze by charging ISP a high wholesale price in relation to the price at which defendants were providing retail services; (b) intentionally adopted anticompetitive procedures and processes for handling customer ordering and installation to ISPs that are calculated to (i) cause ISP customer disruption and interruption in service, and (ii) create extraordinary and serious delays and a substantial backlog of orders, in the hope that the ISP customers will revert back to defendants; (c) purposefully created and imposed procedures that impeded, and/or caused significant delays and costs for, end user customers of defendant switching to the services of independent ISPs, including plaintiffs; (d) misled, harassed and exhibited hostility toward customers of ISPs, including plaintiffs; (e) disparaged and created doubts about the efficacy and legality of ISPs, including plaintiffs; and (f) purposefully failed to bill properly for DSL services.
+In short, defendants adopted procedures carefully calculated to deny ISPs access to an essential facility and to preserve and maintain its monopoly control of DSL access to the Internet.
+On July 6, 2004, the SBC Entities filed a motion for judgment on the pleadings.
+The district court read linkLine's complaint as alleging three different categories of anticompetitive conduct: refusal to deal, denial of access to an essential facility, and price squeezing.
+In an order dated October 20, 2004, the district court dismissed the first two as barred by the Supreme Court's decision in Trinko.
+[fn6] With respect to the price squeezing claim, it ordered the Plaintiffs to file an amended complaint "limited to the price squeeze [**3] claim that details beyond the normal requirements of Rule 8 specific facts supporting Plaintiffs' price-squeeze claim."
+The first amended complaint described the allegation as follows: (1) As set forth above defendants unlawfully manipulated their dual role as vertically integrated monopolists as both a wholesale-monopoly supplier and retail competitor of plaintiffs for DSL by engaging in an unlawful price squeeze by intentionally charging independent ISPs wholesale prices that were too high in relation to prices at which defendants were providing retail DSL services and necessary equipment to end-user customers — and for a period by charging wholesale DSL prices to competing ISPs (such as plaintiffs) that actually exceeded the prices at which defendants retail affiliate (PBI) was charging retail end-user customers for DSL services and necessary equipment — thereby making it impossible for independent ISP competitors such as plaintiffs to compete at the low retail prices set by defendants for combined DSL-Internet Service and necessary equipment provided to end-user customers.
+(2) If plaintiffs charged retail DSL-Internet access customers the same retail price as defendants' retail affiliate charged, plaintiffs could not cover the cost of providing DSL service, which costs necessarily includes the wholesale transport costs charged by defendants.
+(3) By the same token, if defendants themselves charged their retail affiliates the same wholesale costs for DSL transport that they charged their wholesale ISP customers (such as plaintiffs), defendants could not cover their wholesale costs and make a profit from DSL service at their low retail prices for their bundled offering of DSL, Internet Service and necessary equipment (e.g., free modem and installation), that were in some cases, and for some period, even below the wholesale DSL transport cost.
+Given the price margin relationship between retail and wholesale prices, defendants are clearly attempting to compensate for deliberately sacrificing profits on the retail end of their operations (with offsetting margins on the wholesale side) in order to stifle, impede and exclude competition from independent ISPs such as plaintiffs that are both wholesale customers and retail rivals.
+In addition, the amended complaint also alleged that the Defendants (1) intentionally adopted anticompetitive procedures and processes for handling customer ordering and installation to ISPs that are calculated to (i) cause ISP customer disruption and interruption in service, and (ii) create extraordinary and serious delays and a substantial backlog of orders, in the hope that the ISP customers will revert back to defendants; (2) purposefully created and imposed procedures that impeded, and/or caused significant delays and costs for, end user customers of defendant switching to the services of independent ISPs, including plaintiffs, and imposed unreasonable and anticompetitive costs of DSL aggregation-backhaul circuits necessary [**4] for providing DSL service and particularly given the delays in processing orders, unfairly raised the per-customer costs of independent ISPs trying to compete with defendants.
+(3) misled, harassed and exhibited hostility toward customers of ISPs, including plaintiffs; (4) disparaged and created doubts about the efficacy and legality of ISPs, including plaintiffs; and (5) purposefully failed to bill properly for DSL services.
+In response, the SBC Entities filed various motions challenging the price squeeze allegations and other portions of the amended complaint.
+The district court granted in part the relief requested, but denied the motion to dismiss for failure to state a claim.
+Acting on the request of the SBC Entities, the district court certified the order for interlocutory appeal.
+We granted permission to appeal pursuant to 28 U.S.C. 1292 .
+We review the denial of a motion for judgment on the pleadings de novo.
+Doe v. United States , 419 F.3d 1058 , 1061 (9th Cir. 2005).
+II In antitrust terms, a price squeeze occurs "when a vertically integrated company sets its prices or rates at the first (or `upstream') level so high that its customers cannot compete with it in the second-level (or `downstream') market."
+Von Kalinowski et al., 2 Antitrust Laws and Trade Regulation 27.04 , 27-40 (2d Ed. Matthew Bender 2007).
+For over six decades, federal courts have recognized price squeeze allegations as stating valid claims under the Sherman Act.
+[fn7] See United States v. Aluminum Co. of Am. , 148 F.2d 416 , 437-38 (2d Cir. 1945) (" ALCOA ") (holding price squeeze unlawful); see also Bonjorno v. Kaiser Aluminum & Chem. Corp. , 752 F.2d 802 , 809-11 (3d Cir. 1984) (price squeeze is only an antitrust violation if plaintiffs can show that "the defendants deliberately produced the effect" to "destroy its competition"); Borough of Lansdale v. Philadelphia Elec. Co. , 692 F.2d 307 , 309-10 (3d Cir. 1982); City of Kirkwood v. Union Elec. Co. , 671 F.2d 1173 , 1178-79 (8th Cir. 1982) (antitrust liability can still lie for price squeezes even when rates are regulated); City of Groton v. Conn. Light & Power Co. , 662 F.2d 921 (2d Cir. 1981); City of Mishawaka v. Am. Elec. Power Co. , 616 F.2d 976 , 983-85 (7th Cir. 1980) (antitrust liability can lie for price squeezes in regulated industry upon a showing of specific anticompetitive intent).
+We have joined our sister circuits in holding that claims of price squeezing under 2 are viable against monopolists in regulated industries.
+City of Anaheim v. Southern California Edison Co. , 955 F.2d 1373 (1992).
+In Anaheim , we held that even in a business where prices were regulated at both the wholesale and the retail level, it was possible for a price squeeze to occur.
+Id. at 1377 ("[I]t is possible for a utility to manipulate its filings and requests in a manner that causes a, at least temporary, squeeze which might be just as effective as one perpetrated by an unregulated actor.").
+In Trinko , however, the Supreme Court held that the failure by a monopolist to deal with a competitor on certain service terms when that monopolist was under no duty to deal with the plaintiff competitor absent statutory compulsion, did not state a claim under 2 of the Sherman Act.
+This holding raised the question of whether a price squeeze is merely another term of the deal governed [**5] by the Supreme Court's analysis in Trinko , or whether it is something else.
+The D.C. and Eleventh Circuits have offered conflicting answers to that question.
+Compare Covad Communications Co. v. BellSouth Corp. , 374 F.3d 1044 , 1050 (11th Cir. 2004) (" BellSouth ") (holding that price squeeze claims survive Trinko ), with Covad Communications Co. v. Bell Atlantic Corp. , 398 F.3d 666 , 673 (D.C. Cir. 2005) (" Bell Atlantic ") (holding that they do not).
+In Trinko , a customer of one of Verizon's rivals sued Verizon Communications, Inc., alleging that Verizon had engaged in anticompetitive practices by discriminatorily delaying orders placed by customers of Verizon's competitors — orders Verizon was required to fill by the Telecommunications Act of 1996.
+[fn8] 540 U.S. at 404 , 124 S.Ct. 872 .
+Trinko alleged that by rendering poor performance on orders placed through Verizon's competitors, it would sour those customers' relationships with their CLECs and drive them back to Verizon.
+Id .
+Trinko sued Verizon after both the Federal Communications Commission ("FCC") and New York's Public Services Commission ("NYPSC") had already investigated the matter, resulting in a series of orders by the NYPSC and a consent decree with the FCC.
+The Supreme Court held that "Verizon's alleged insufficient assistance in the provision of service to rivals is not a recognized antitrust claim under this Court's existing refusal-to-deal precedents."
+Id. at 410 , 124 S.Ct. 872 .
+Trinko began from the premise that the Telecommunications Act of 1996 neither added to nor subtracted from the class of punishable conduct under traditional antitrust laws.
+Id. at 406 , 124 S.Ct. 872 (quoting 47 U.S.C. 152 , note ("nothing in [the 1996 Act] shall be construed to modify, impair, or supersede the applicability of any of the antitrust laws")).
+Accordingly, the Court set out to determine whether Trinko's allegations made out an actionable antitrust claim under the Court's existing refusal-to-deal precedents, irrespective of Verizon's statutory requirements under the 1996 Act.
+The Court reiterated that "the Sherman Act `does not restrict the long recognized right of [a] trader or manufacturer engaged in an entirely private business, freely to exercise his own independent discretion as to parties with whom he will deal,'" id. at 408, 124 S.Ct. 872 (quoting United States v. Colgate & Co. , 250 U.S. 300 , 307 , 39 S.Ct. 465 , 63 L.Ed. 992 (1919)), but that "the right to refuse to deal with other firms does not mean that the right is unqualified," id .
+(quoting Aspen Skiing Co. v. Aspen Highlands Skiing Corp. , 472 U.S. 585 , 601 , 105 S.Ct. 2847 , 86 L.Ed.2d 467 (1985).)
+The Court then stated that it is "very cautious" when recognizing exceptions to the right of refusing to deal and that Aspen Skiing was "at or near the outer boundary of 2 liability" for refusing to deal.
+Id. at 408-09 , 124 S.Ct. 872 .
+[fn9] In Aspen Skiing , the Court saw strong evidence that the defendant's sole purpose in refusing to deal was to attempt to monopolize, "not by competitive zeal but by anticompetitive malice."
+Id. at 409 , 124 S.Ct. 872 .
+That evidence included that (1) the parties had "voluntarily engaged in a course of dealing" (proving that the defendant would have done so absent statutory compulsion); (2) the defendant refused even to sell highlands ski passes at retail rates; and (3) the services it was withholding were " [**6] otherwise marketed or available to the public."
+Id. at 409-10 , 124 S.Ct. 872 .
+Having found no similar evidence in Trinko , the Court held that Verizon's alleged insufficient service failed to state a valid antitrust claim since Verizon's refusal to deal with its competitors at all could not even be seen as anticompetitive.
+Id. at 410 , 124 S.Ct. 872 .
+The Court went on to reason that not only did Trinko's allegations not make out a traditional antitrust claim, but that it would not be justified in extending antitrust liability to include Trinko's case. In reaching this conclusion, it emphasized "the existence of a regulatory structure designed to deter and remedy anticompetitive harm," and the dangers of judicial intervention.
+Id. at 412-14 , 124 S.Ct. 872 .
+The latter include the risk of "false condemnations" that might "chill the very conduct the antitrust laws are designed to protect."
+Id. at 414 , 124 S.Ct. 872 (quoting Matsushita Elec.
+Industrial Co. v. Zenith Radio Corp. , 475 U.S. 574 , 594 , 106 S.Ct. 1348 , 89 L.Ed.2d 538 (1986)).
+Importantly, the Court did not say that the existence of a regulatory scheme was a per se bar to judicial enforcement of the antitrust laws, only that "the existence of a regulatory structure" is " [o]ne factor of particular importance."
+Id. at 412 , 124 S.Ct. 872 (emphasis added).
+Trinko never addressed price squeeze claims specifically.
+However, Trinko is of significant import.
+Indeed, we have already had occasion to apply Trinko to bar antitrust liability when the complaint centered on allegedly anticompetitive price terms, albeit not price squeezes.
+See MetroNet Servs.
+Corp. v. Qwest Corp. , 383 F.3d 1124 (9th Cir. 2004).
+Given this background, we must decide whether Trinko entitles the SBC Entities to judgment on the pleadings, which in turn requires us to decide whether Anaheim remains viable after Trinko.
+Normally, only our court, sitting en banc, may overrule our precedent absent an intervening Supreme Court decision or act of Congress.
+Cerrato v. San Francisco Cmty. Coll. Dist. , 26 F.3d 968 , 972 n. 15 (9th Cir. 1994).
+However, "where the reasoning or theory of our prior circuit authority is clearly irreconcilable with the reasoning or theory of intervening higher authority, a three-judge panel should consider itself bound by the later and controlling authority, and should reject the prior circuit opinion as having been effectively overruled."
+Miller v. Gammie , 335 F.3d 889 , 893 (9th Cir. 2003) (en banc).
+Here, reconsideration of Anaheim is not required because the reasoning and theory of Anaheim is not "clearly irreconcilable with the reasoning or theory" of Trinko.
+First, as the Eleventh Circuit has underscored, Trinko did not involve a price squeezing theory.
+Indeed, Trinko took great care to explain that in this particular regulatory context, "claims that satisfy established antitrust standards" are preserved.
+540 U.S. at 406 , 124 S.Ct. 872 (citation omitted).
+Because a price squeeze theory formed part of the fabric of traditional antitrust law prior to Trinko , those claims should remain viable notwithstanding either the telecommunications statutes or Trinko.
+See BellSouth , 374 F.3d at 1050 ("price squeezing claim survives [ Trinko ] because it is based on traditional antitrust doctrine").
+Second, Anaheim did not embrace an unlimited [**7] view of 2 price squeeze liability in regulated industries.
+To the contrary, Anaheim rejected the idea that, in the case of regulated industries, "a mere showing that a price squeeze developed would suffice to cause antitrust liability."
+955 F.2d at 1378 .
+Anaheim recognized that "courts should tread carefully" in imposing antitrust standards on regulated industries, id. at 1378 , and ultimately required a showing of specific intent on the part of the wholesale monopoly holder to "serve its monopolistic purposes at [retail competitors'] expense" in order for 2 liability to attach.
+Id .
+Thus, Anaheim recognized the viability of the theory, but carefully circumscribed it.
+Trinko did not, as the SBC Entities would argue, completely eliminate the viability of a 2 price squeeze theory in regulated industries.
+Were that the case, Trinko would not have referred to the existence of a regulatory regime as only "one factor" to consider in determining whether antitrust liability might also lie.
+540 U.S. at 412 , 124 S.Ct. 872 .
+Moreover, the existence of regulation does not always eliminate the danger of anticompetitive harm.
+See Mishawaka , 616 F.2d at 983-84 (noting that the presence of a regulatory structure offers price squeezers a "ready made illegal opportunity with a legitimate gloss").
+The key, under Trinko , is the nature of the regulatory structure at issue.
+As Justice Scalia observed: One factor of particular importance is the existence of a regulatory structure designed to deter and remedy anticompetitive harm.
+Where such a structure exists, the additional benefit to competition provided by antitrust enforcement will tend to be small, and it will be less plausible that the antitrust laws contemplate such additional scrutiny.
+Where, by contrast, "[t]here is nothing built into the regulatory scheme which performances the antitrust function," Silver v. New York Stock Exchange , 373 U.S. 341 , 358 , 83 S.Ct. 1246 , 10 L.Ed.2d 389 (1963), the benefits of antitrust are worth its sometimes considerable disadvantages.
+Thus, consistent with Trinko , 540 U.S. at 412 , 124 S.Ct. 872 , Anaheim rejected the wholesale importation of antitrust theory as applicable to regulated industries.
+In the particular industry at hand, Anaheim recognized that, even in the regulatory scheme at issue, "it is possible for a utility to manipulate its filings and requests in a manner that causes a, at least temporary, squeeze which might be just as effective as one perpetrated by an unregulated actor."
+955 F.2d at 1377 .
+Thus, Anaheim undertook a Trinko-type analysis in the context of the particular industry and factual setting.
+Significantly, after examining the particular pleadings, the Anaheim panel concluded that the price squeeze theory was not viable in that case. Of course, in any future application of Anaheim , we will have to ensure consistency with Trinko.
+However, a careful reading of Anaheim does not demonstrate that the holding is "clearly irreconcilable with the reasoning or theory" of Trinko.
+When we apply Anaheim and Trinko to this case, the soundness of the district court's conclusion in denying judgment on the pleadings is clear.
+Here, unlike the circumstances in Anaheim and Trinko , we are confronted [**8] with a partially regulated industry.
+At the wholesale level, there are a series of regulatory mechanisms and regulatory agencies charged with assuring fair play.
+These regulations grew out of the 1934 Act and have been considered in a series of FCC decisions known as the "Computer Inquiries."
+[fn10] In short, under FCC rules in place at the time of the filing of the complaint, the SBC Entities were subject to certain regulatory requirements if they wished to enter the enhanced services telecommunications market (i.e., offer DSL internet access).
+If an ILEC wished to offer DSL internet access, it could choose one of two routes.
+It could form a separate subsidiary through which it would offer DSL internet access, but which had to obtain the infrastructure necessary to provision such services from the ILEC on the same terms as unaffiliated ISPs.
+See 47 C.F.R. 64.702 (c) (codifying the second "Computer Inquiry").
+Alternatively, an ILEC could provide DSL internet access itself, but to do so it must file what is known as a "Comparably Efficient Interconnection" plan ("CEI") with the FCC.
+See In re Computer III Further Remand Proceedings: Bell Operating Company Provision of Enhanced Services, Report and Order , 14 FCC Red.
+4289 (1999)[hereinafter "Computer III" order].
+These plans indicated how ILECs planned on providing competing ISPs with equal access to all the elements necessary to provide their own DSL internet access services.
+Among the requirements for CEI plans, ILECs had to "provide competitors with interconnection facilities that minimize transport costs.
+This provision ensures that [ILECs] cannot require competitive ISPs to purchase unnecessarily expensive methods of interconnection with the [ILECs] network."
+Id. [fn11] The 1934 Act also required that "[a]ll charges, practices, classifications, and regulations for and in connection with such communication service, shall be just and reasonable.
+.
+.
+."
+47 U.S.C. 201 (b).
+The 1934 Act charged the FCC with enforcing these regulations and, in some cases, parties can also bring complaints before state public utility commissions.
+Aggrieved parties can either file a complaint in federal district court or before the Commission.
+47 U.S.C. 207 .
+The FCC may also initiate its own enforcement proceedings and craft remedies as it deems appropriate.
+47 U.S.C. 205 .
+In practice, however, the FCC tends to rely on market players bringing complaints to its attention.
+See Cannon, Guide to the Computer Inquires at 70.
+All of this regulation, however, applies only to the wholesale prices the SBC Entities charged linkLine; there is no comparable regulatory attention paid to the retail DSL market.
+Any restrictions on pricing at the retail level derive primarily from the antitrust laws.
+It is unclear at this juncture the extent to which linkLine is basing its 2 price squeezing theory on wholesale pricing, retail pricing, or both.
+However, since linkLine could prove facts, consistent with its complaint, that involve only unregulated behavior at the retail level, its action or lawsuit survives a motion for judgment on the pleadings.
+We do not preclude the district court, [**9] however, from re-examining the viability of this claim on summary judgment after the record is more fully developed and it is clear whether the complained of behavior took place at the regulated wholesale level, the unregulated retail level, or some combination of the two, and to what extent, if any, the responsible agencies have devoted attention to or had involvement in the complained of conduct.
+[fn12] Based on the record before us at this time, we are able to conclude that the district court was correct to deny the SBC Entities' motion for judgment on the pleadings because linkLine's allegation that the pricing scheme created an anticompetitive price squeeze states a potentially valid claim under 2 of the Sherman Act.
+AFFIRMED.

@@ -1,0 +1,134 @@
+ OAKES , Circuit Judge: This case presents the esoteric, but nevertheless highly practical, issue of how withholding on wages earned before bankruptcy is to be handled in bankruptcy.
+Involved are both the income tax laws, silent in this regard as to the effect of bankruptcy, and the bankruptcy laws, silent as to the status of moneys withheld and indeed inarticulate as to the category of priority within which withholding taxes on previously earned wages fit.
+The problems presented in winding a tortuous path between two in-exact sets of statutes in these two different areas of law as to withholdings claimed due the United States are further complicated by virtue of a claim for income tax withholdings by the City of New York on a statute enacted after the wages were earned but before any payments on their account to the wage earners have been made by the bankruptcy trustee.
+Freedomland, Inc., filed an arrangement petition under Chapter XI of the Bankruptcy Act on September 15, 1964, and was adjudicated a bankrupt on August 30, 1965.
+During the statutory period for filing claims, 413 claims of $600 or less, totaling approximately $80,000, were filed by former employees of Freedomland on account of wages earned before the filing of the Chapter XI petition.
+11 U.S.C. 93.
+No claims for withholding, social security or related taxes were filed either by the United States or the City of New York during the statutory filing period or otherwise.
+1 The trustee, on November 7, 1969, moved the referee for an order authorizing payment to the wage claimants without withholding income, social security or other taxes and an order specifically declaring that he was not required (1) to make any such payments to any governmental body; (2) to prepare, distribute or file wage and tax statements for the employees or as an employer; or (3) to pay any penalties.
+The referee, Edward J. Ryan, was apparently much taken with the criticism by a fellow referee of United States v. Fogarty , 164 F.2d 26 (8th Cir. 1947), which held that a trustee must withhold income and social security taxes and that the taxes were payable as an administration expense entitled to first priority.
+2 Referee Ryan accordingly on January 27, 1971, granted the trustee's petition on all counts, holding that "compliance with withholding and reporting requirements of tax authorities is utterly inconsistent with the spirit and the letter of the Bankruptcy Act," particularly the policy in favor of "efficient, expeditious economic administration of bankrupt estates."
+The district court took evidence on the question what administrative burdens were imposed by the requirement that taxes were to be withheld, paid over and duly accounted for by the bankruptcy trustee.
+The district court noted (as the referee had previously) a bankruptcy practice in the Southern District of New York, concurred in by IRS, of deducting 25 per cent of gross wage claims, covering both income and social security taxes, and paying it in one check to the Director of Internal Revenue without allocation to the various individual taxpayers.
+Further evidence indicated that a junior accountant or clerk with payroll records could make the 25 per cent calculations quite readily and could also fill out forms 941 and W-3 for the Government and forms W-2 for the individual employees respectively.
+On the basis of this evidence the district court, in an opinion printed at 341 F.Supp.
+647 (S.D.N.Y.1972), reversed the referee's order that the trustee was not required to withhold taxes or file the necessary forms.
+The court then went on to hold, relying upon In re Connecticut Motor Lines, Inc. , 336 F.2d 96 (3rd Cir. 1964), that withholdings were not "expenses of administration" as held in United States v. Fogarty , supra , but rather were entitled only to a fourth priority as taxes "legally due and owing" to the United States by the bankrupt.
+Bankruptcy Act 64(a)(4), 11 U.S.C. 104(a)(4).
+In reaching this decision, the court also referred to In re International Match Corp. , 79 F.2d 203 (2d Cir.), cert. denied sub nom.
+Delaware v. Irving Trust Co. , 296 U.S. 652 , 56 S.Ct. 368 , 80 L.Ed. 464 (1935), for the proposition that "before a tax could be found to be legally due and owing by the bankrupt .
+.
+.
+enough must have been known about the basis of the tax to make the tax computable or 'knowable' before bankruptcy, although not collectible until after adjudication."
+341 F.Supp.
+at 656 .
+As to the City of New York's claim, the district court held that since the City tax was not even enacted until 1966 3 there were no taxes that could be said to be legally due and owing to it in September, 1964, when the Chapter XI proceeding was filed, and hence the City had no claim, under In re International Match Corp. , supra .
+For the reasons which we state hereafter, we agree with the district court insofar as it required withholding and filing the prescribed forms, but disagree as to the order of priority assigned by it to withholdings, as well as to its treatment of the claim of the City of New York.
+The first issue is whether a bankruptcy trustee must withhold under federal income tax law.
+The Internal Revenue Code of 1954, 3401(a) defines "wages" as "all remuneration .
+.
+.
+for services performed by an employee for his employer .
+.
+.
+."
+Were we to face this question afresh, an argument might be made that payments made by a bankruptcy trustee for wages earned before bankruptcy are really wage claim distributions.
+For example, as pointed out to us by the trustee, a solvent employer required to pay a judgment for disputed wages earned might not be paying "wages."
+Cf. Rev.Rul.
+55-520, 1955 Int.Rev.Bull.
+No. 2 at 393-94 (compromise settlement for cancellation of employment contract not wages for withholding or FICA); Rev.Rul.
+69-136, 1969 Int.Rev.Bull.
+No. 1 at 252-53 (sums paid former employees while in military service not wages).
+Further, it could be advanced that the bankruptcy trustee is not an "employer" since he has no "right to control and direct," 26 C.F.R. 31.3401(c)-1(b), the "individual performing services," 26 C.F.R. 31.3401(c)-1(a), that is, the wage claimant.
+See In re Park Brewing Co. , 48 F.Supp.
+750 (W.D.Mich.1942).
+But see Int.Rev.Code of 1954, 3401(d)(1) (defining "employer" as "the person having control of the payment of .
+.
+.
+wages .
+.
+.
+."
+[emphasis supplied]); 4 Educational Fund of the Electrical Industry v. United States , 426 F.2d 1053 (2d Cir. 1970) (payments to union members attending school which under collective bargaining agreement derived from employers but were paid out by union trust denominated as "educational fund" constituted "wages" for withholding, and educational fund held to constitute "employer" under 3401(d) (1)).
+We are not writing on a clean slate, however.
+United States v. Fogarty , supra , decided in the Eighth Circuit has been followed first in the Sixth, United States v. Curtis , 178 F.2d 268 (6th Cir. 1949), cert. denied, 339 U.S. 965 , 70 S.Ct. 1001 , 94 L.Ed. 1374 (1950), and then in the Ninth Circuits on this point.
+Lines v. State Department of Employment , 242 F.2d 201 (9th Cir.), rehearing denied with opinion, 246 F.2d 70 , cert. denied, 355 U.S. 857 , 78 S.Ct. 86 , 2 L.Ed.2d 64 (1957).
+See also In re Connecticut Motor Lines, Inc. , 217 F.Supp.
+330 (E.D.Pa.
+), supplemented 223 F.Supp.
+189 (1963), rev'd on other grounds, 336 F.2d 96 (3rd Cir. 1964).
+While Fogarty and its fellows have been criticized sharply by writers in the bankruptcy field, 5 there is no decision of any court outstanding to the contrary on the point of necessity of withholding.
+Indeed, as was found below, until it was decided to make a test case of this one--and we are appalled that almost nine years elapsed from the time the wages were earned until the case came to us 6 --the bankruptcy trustees, at least in the Southern District of New York, managed perfectly well with the rough deduction of 25 per cent and remittance of that sum to the Director.
+The trustee's and referee's parade of horribles relating to computations, employment of accountants, completion of forms, etc., was quite deflated by the court below in its findings, 7 and especially its conclusion that "Compliance with such requirements adds only slightly to the trustee's inescapable task and cost of verifying each claim before payment."
+341 F.Supp.
+at 654 .
+The result in Fogarty at least has the virtue that wage earners themselves do not have the job of determining their individual FICA taxes or figuring how to report them so as to obtain full social security credit therefor.
+It may be that a dust cloth will be needed to wipe the cobwebs away from the files in which the wage and payroll records for the quarter in question are stored, now that so much time has gone by, but the amount of effort required on the trustee's part in a bankruptcy matter involving the sums that this one does is relatively small, even though 413 wage claimants are involved.
+That effort probably doesn't begin to match that which will be required of a conscientious trustee to track down the present addresses of the former employees so that they may receive their long overdue wages in the mail, effort which could largely have been avoided had distributions been made when they first could have been, several years ago.
+We thus hold that the trustee, as a person who substantially controls the payment of wages, Int.Rev.Code of 1954, 3401(d)(1), is an employer for withholding tax purposes and must withhold.
+It follows that as employer the trustee must file the requisite forms, including 941, W-2 and W-3, as he was ordered to do below.
+Cf. Nicholas v. United States , 384 U.S. 678, 692-693 , 86 S.Ct. 1674 , 16 L.Ed.2d 853 (1966) (trustee in bankruptcy held under an Int.Rev.Code of 1954, 6011(a) obligation to file returns for taxes incurred by debtor in possession).
+We hold also that he may withhold on the 25 per cent basis which the court below found, with no real dispute here, represents an IRS attempt to facilitate bankruptcy administration on quite a practical basis.
+We see no objection to this commonsense approach, for if there is an overpayment the employee can file for a refund.
+Of course, as income or social security taxes change--and the latter have increased .65 per cent from 1971 to 1973--the 25 per cent may have to be adjusted slightly.
+8 Perhaps Congress will ultimately be of assistance here.
+But in any event the 25 per cent figure still seems a sound one and one easy to compute.
+To which, if any, of the five priorities under 64 of the Bankruptcy Act, note 2 supra , then, are withholdings on wage distributions to be assigned?
+The Fogarty case held that they should be classified as administration expenses, that is, in the first priority.
+See also Lines v. State Department of Employment , supra .
+But "the costs and expenses of administration," 64(a)(1) of the Bankruptcy Act, 11 U.S.C. 104(a)(1), must in general relate to the preservation or development of the bankrupt's assets.
+See, e. g. , Adair v. Bank of America National Trust & Savings Association , 303 U.S. 350, 361 , 58 S.Ct. 594 , 82 L.Ed. 889 (1938).
+We agree with the Third Circuit's criticism of Fogarty and Lines in In re Connecticut Motor Lines, Inc. , supra , 336 F.2d at 99-102 , noted, 63 Mich.L.Rev.
+1103 (1965), 40 N.Y.U.L.Rev.
+360 (1965), 19 Rutgers L.Rev.
+546 (1965).
+See also Denton & Anderson Co. v. Induction Heating Corp. , 178 F.2d 841, 843-844 (2d Cir. 1949) (commissions accruing after bankruptcy on goods ordered but not filled prior thereto held not entitled to first priority status).
+By according (a)(1) status to withholding taxes they would take priority over the wages on which they were based.
+In Lines , indeed, dividends which would have gone to wage earners were depleted by an employer's tax payment to the unemployment insurance fund.
+See 56 Mich.L.Rev.
+631, 633 (1958).
+We do not agree, however, with the Third Circuit's treatment in Connecticut Motor Lines of withholdings as "'taxes [which became] legally due and owing by the bankrupt '" (emphasis supplied), and hence entitled to fourth priority treatment.
+Bankruptcy Act 64(a)(4), 11 U.S.C. 104(a)(4).
+9 The taxes are by law calculable only when the wage claims are paid and not until then, note 7 supra , regardless of any practice by IRS to accept a flat payment of a specified percentage such as 25 per cent. The taxes were never "due and owing by [the] bankrupt," which was Freedomland.
+10 When a tax "cannot be computed as of the date of the petition in bankruptcy," it is not "due and owing by [the] bankrupt."
+In re International Match Corp. , supra .
+We agree, rather, with the very persuasive brief of the City of New York that the proper classification for the withholdings to be made is that of second priority wage claims.
+All of the withholding taxes, whether federal or city, derive from the payments which will be made to the wage claimants.
+Int.Rev.Code of 1954, 3402, 3101; New York City Admin.Code T46-51.0 and U46-8.0.
+The claimants are credited with the withheld amounts toward their income taxes.
+Int.Rev.Code of 1954, 31(a); New York City Admin.Code T46-53.0 and U46-10.0.
+Conceptually the tax payments should be treated in the same way as the wages from which they derive and of which they are a part.
+Cf. In re Quakertown Shopping Center, Inc. , 366 F.2d 95 (3rd Cir. 1966) (IRS can levy upon the claim of a taxpayer-creditor against a bankrupt estate without approval of bankruptcy court).
+In our view when wage claims are ordered to be paid by the bankruptcy court they should be segregated and the tax monies due held as trust funds.
+Int.Rev.Code of 1954, 7501(a); New York City Admin.Code T46-55.0 and U46-12.0.
+It is true that United States v. Randall , 401 U.S. 513 , 91 S.Ct. 991 , 28 L.Ed.2d 273 (1971) (5-4 decision), held that where a debtor in possession failed to obey an order of the bankruptcy court to deposit withheld taxes in a special tax account, the Bankruptcy Act's (a)(1) priority for costs and expenses of administration would override any claim pursuant to 26 U.S.C. 7501(a) that the withheld taxes "shall be held to be a special fund in trust for the United States."
+But cf. In re Airline-Arista Printing Corp. , 267 F.2d 333 (2d Cir. 1959), and City of New York v. Rassner , 127 F.2d 703 (2d Cir. 1942), referred to in United States v. Randall , supra , 401 U.S. at 519 , 91 S.Ct. 991 (dissenting opinion).
+Randall , however, did not reach the question before us.
+Rather, it was concerned only with vindicating the Bankruptcy Act's "policy of subordinating taxes to costs and expenses of administration."
+401 U.S. at 517 , 91 S.Ct. at 994 .
+That policy is fully upheld by placing the withheld taxes here in a second priority position along with the wages that create them.
+In other words, the trust which arises is subject to the prior payment of the statute-specified costs and expenses of administration, but exists nevertheless as to withholdings on wage claims allowed.
+11 In this view, contrary to the view of the Third Circuit in Connecticut Motor Lines , supra , 336 F.2d at 107 , there is no necessity for the Government (or City) to file proofs of claims for withholdings.
+Since withholding tax arises only when wage claims are allowed it might well be impossible for the Government to file a proof of claim, as it must do when the taxes are owing by the bankrupt , not the case here.
+The filing of the wage claims by the individuals constructively constituted a claim by the taxing authorities for withholdings due by law.
+Other creditors are not misled, since the amounts claimed for wages include within them the amounts due to the taxing authorities.
+In this respect we agree with the court below.
+There remains for consideration only the question whether New York City may obtain withholding taxes on the wage claims paid since there was not even a city income tax in effect when the wages were earned.
+But we have already pointed out that the wage earners here are in all probability on the cash basis, note 7 supra , so that regardless of when the wages were earned, they are income and taxable in the year received.
+As we have already said, liability for withholding arises when the wage claims are paid.
+Int.Rev.Code of 1954, 3402, 3101 and 31(a).
+The City in this respect is in the same position as the federal government.
+New York City Admin.Code T46-51.0 and U46-8.0; T46-53.0 and U46-10.0.
+Wages are just as much a part of city "adjusted gross income," New York City Admin.Code T46-12.0, as they are of federal.
+The fact that the city tax applies to wages earned before its effective date is not important since no vested rights are impaired.
+See Welch v. Henry , 305 U.S. 134, 146-151 , 59 S.Ct. 121 , 83 L.Ed. 87 (1938); Milliken v. United States , 283 U.S. 15, 20-24 , 51 S.Ct. 324 , 75 L.Ed. 809 (1931); Kentucky Union Co. v. Kentucky , 219 U.S. 140, 152-153 , 31 S.Ct. 171, 177 , 55 L.Ed. 137 (1911) ("Laws of a retroactive nature, imposing taxes .
+.
+.
+and not impairing vested rights, are not forbidden by the Federal Constitution").
+See also Lynch v. Hornby , 247 U.S. 339 , 38 S.Ct. 543 , 62 L.Ed. 1149 (1918) (federal income tax law constitutionally permits taxation of dividends paid out of surplus accumulated before date of act); Neild v. District of Columbia , 71 App.D.C.
+306 , 110 F.2d 246, 253 (1940).
+We conclude that the City is as entitled to its withholding tax as the federal government is to its taxes.
+We add only that to the extent there is now a conflict among the circuits as to priorities of withholding taxes on pre-bankruptcy wages earned--the Eighth and Ninth Circuits going for the first, the Third for the fourth and the Second for the second--correction may come either from Congress or the High Court.
+It is a pity that the wage claimants here had to wait so long for the case to wend its way to our court, and that so many of them were involved.
+Nevertheless the question has some significance in the administration of bankrupt estates so that it is perhaps well that after the 25 years that have elapsed since Fogarty the matter might receive some further congressional or judicial attention.
+We reverse and remand for the entry of judgment in accordance with this opinion.

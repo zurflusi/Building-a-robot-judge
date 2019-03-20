@@ -1,0 +1,185 @@
+ LUMBARD , Chief Judge: This interlocutory appeal under 28 U.S.C. 1292(b) from a decision of Judge Herlands in the Southern District of New York presents the question whether the community antenna television (CATV) systems operated by defendant Fortnightly Corporation (and its predecessors) in and around [**698] the cities of Clarksburg and Fairmont, West Virginia, infringed the exclusive right of plaintiff United Artists Television, Inc. (and its predecessors) to perform its copyrighted motion pictures in public, 1 17 U.S.C. 1(c) , (d) , by receiving and transmitting by coaxial cable to their paying subscribers the signals of television broadcasting stations in Pittsburgh, Pennsylvania, Steubenville, Ohio, and Wheeling, West Virginia, which were licensed to broadcast the motion pictures.
+A further issue is whether, if defendant's CATV systems did perform plaintiff's copyrighted motion pictures in public, they had a license implied in law to do so. Pursuant to a pretrial order, these issues were separated from unrelated issues, and were tried on the assumptions that the plaintiff owned valid copyrights in the motion pictures and that defendant's CATV systems received and transmitted the signals of television stations which broadcast the motion pictures.
+Judge Herlands held in a thorough and considered opinion that the operation of the defendant's CATV systems constituted an unlicensed public performance which infringed plaintiff's assumed copyrights.
+255 F.Supp.
+177 (S.D.N.Y.1966).
+We agree, and affirm Judge Herlands' decision.
+2 The hilly terrain in and around Clarksburg and Fairmont makes reception by normal rooftop antennas of television programs broadcast by the Pittsburgh, Steubenville, and Wheeling stations difficult or impossible.
+See note 14 infra .
+Both the Clarksburg and the Fairmont CATV systems receive broadcast television signals by means of tall antennas on hilltops some two and a half and one and a half miles respectively from the city centers, and transmit them through coaxial cables strung along utility poles and smaller "house drop" cables to television sets on subscribers' premises.
+The television signals of each station carried by a system are received by a separate antenna specifically designed and oriented to receive them.
+The signals of all the stations carried by the system are then transmitted together over its cables, without any editing or selection of programs, and the system has no way of knowing which program, if any, a subscriber has turned on.
+Both CATV systems carried three stations from their inception in 1953 to 1958, and five thereafter.
+Although there are local television broadcasting stations in Clarksburg and Weston, West Virginia, the CATV offerings attracted substantial numbers of subscribers to both systems.
+At the end of 1963, the Clarksburg system had 9571 subscribers and the Fairmont system 6047.
+The number of subscribers of each system in 1960 was over half the number of occupied housing units counted by the United States Census of Housing in the area they served.
+Defendant, like its predecessors, is a private corporation operating the CATV systems for profit under municipal franchises.
+Each subsdriber pays an initial charge, which is reduced if his premises are already connected to the CATV system, and fixed monthly charges.
+Additional charges are made for connecting additional sets.
+Different charges, sometimes individually negotiated, have at times been established for hotels, motels, and other nonresidential subscribers.
+Both the Clarksburg and the Fairmont systems often advertised the variety of stations and programming they made available, at times in connection with particular programs.
+Both systems conducted mail ballots among their subscribers to determine which stations they preferred to receive.
+A clear understanding of defendant's contention that its CATV systems do not publicly perform telecast motion pictures because the motion pictures are nowhere made visible or audible within the systems requires a brief summary of Judge Herlands' extensive and careful account of the technology of television and the operation of defendant's [**699] systems.
+See 255 F.Supp.
+at 188-197 .
+Television broadcasting equipment first translates the sight and sound of the program being broadcast into two voltages, the video signal, which measures the intensity of light at each spot on a photosensitive screen inside the camera as it is scanned by an electron beam, and the audio signal which measures the intensity of sound.
+These two changing voltages are then encoded in a radio frequency carrier wave for broadcasting; the video signal is used to modify, or modulate, the amplitude or maximum strength, of the carrier wave, and the audio signal is used to modulate the frequency of the carrier wave.
+The modulated carrier wave is then broadcast by an antenna as electromagnetic radiation.
+When this radiation strikes a home television antenna, it induces a voltage between the antenna terminals which reproduces the modulated carrier wave.
+The reproduced carrier wave is then conducted into the television set, and there demodulated to yield reproductions of the video and the audio signals.
+The video signal controls the intensity of a scanning electron beam, which reproduces on the electroluminescent interior of the television tube the image seen by the camera, and the audio signal controls the speaker of the set.
+Since the broadcast radiation propagates at the speed of light, the whole process of television broadcasting and reception consumes a fraction of a second.
+The radiation broadcast by a television broadcasting station, when it strikes the corresponding antenna of one of defendant's CATV systems, induces in it a reproduction of the station's modulated radio frequency carrier wave just as it does in a home antenna.
+The CATV system's "head end equipment," housed in a small building near the antennas, then amplifies the carrier wave, converts it if it is a high-frequency, or high-band, VHF wave (channels 7 to 13) to one of the low-band VHF channels (2 to 6) in order to reduce losses in transmission through the system's coaxial cables, narrows its frequency range, and then propagates it as electromagnetic radiation through the system's cables.
+The radiation, amplified by numerous trunkline and distribution amplifiers along the cables, is transmitted at nearly the speed of light to the terminals of subscribers' television sets, in most cases through matching transformers.
+Before 1958 and after 1964 the function of converting high-band to low-band VHF waves at each system's "head end" was performed by equipment which heterodyned an incoming wave, that is, mixed it with a locally produced wave whose frequency was chosen so that the beat wave resulting from the mixing, whose frequency was the difference between the frequencies of the two mixed waves, possessed the desired frequency.
+From 1958 to 1964 the same function was performed by units which demodulated the video signal of the incoming wave and used it to remodulate a locally produced wave of the desired frequency, and which heterodyned the audio component of the incoming wave.
+3 Thus broadcast television programs have never been made visible or audible within defendant's CATV systems.
+Nor have the systems originated television programs.
+While they possessed video scanners which could transmit a still image drawn on a slide inserted in the scanner, they had no equipment capable of originating television signals representing a moving image.
+With such equipment at its head end, one of the defendant's systems could originate programs; but defendant's expert, A. Earl Cullum, Jr., a consulting communications engineer, testified that the added capital and operating costs of such equipment would be relatively substantial.
+I. Defendant contends that its CATV systems should not be held to have performed plaintiff's copyrighted motion pictures in public because the motion pictures were not made visible or audible within the systems, but only in the television sets owned and controlled by their subscribers.
+We do not think that this fact is decisive.
+In light of prior decisions and of the policies of the Copyright Act, the result brought about by one of defendant's CATV systems--the simultaneous viewing of plaintiff's copyrighted motion pictures on the television sets of as many as several thousand of defendant's subscribers--is fairly characterized as a public performance infringing the copyrights.
+No legislative history indicates whether Congress expressly intended the exclusive right to perform in public to embrace the operation of systems [**700] like defendant's.
+4 We are furnished substantial guidance, however, by a decision of the Supreme Court finding a performance 5 on closely analogous facts, Buck v. Jewell-LaSalle Realty Co. , 283 U.S. 191 , 51 S.Ct. 410 , 75 L.Ed. 971 (1931).
+The LaSalle Hotel in Kansas City, Missouri, provided loudspeakers or headphones in each of its public and private rooms over which guests could hear the programs being received on the hotel's master radio.
+The hotel first contended that it did not perform the programs because a broadcast could give rise to only one performance, that by the broadcaster.
+Mr. Justice Brandeis, writing for the Court, stated that "[n]o reason is suggested why there may not be more than one liability."
+283 U.S. at 198 , 51 S.Ct. at 411 .
+The hotel next argued that it did not perform the programs because it could not determine their content, but could only choose among the programs broadcast.
+The Court rejoined that "[i]ntention to infringe is not essential under the act."
+Ibid. Finally, the hotel urged that a "radio receiving set is no more than a mechanical or electrical ear trumpet for the better audition of a distant performance."
+283 U.S. at 199 n. 7, 51 S.Ct. at 412 .
+Mr. Justice Brandeis answered: 283 U.S. at 200-201 51 S.Ct. at 412 The Jewell-LaSalle case was followed by Judge Woolsey in Society of European Stage Authors & Composers, Inc. v. New York Hotel Statler Co., Inc. , 19 F.Supp.
+1 (S.D.N.Y.1937).
+In the SESAC case, the Hotel Pennsylvania in New York City had installed loudspeakers in some 1900 guest rooms, connected to two master radios, each receiving one station, between which guests could choose by turning a knob on the loudspeaker.
+The hotel urged that this element of choice meant that it did not perform.
+Judge Woolsey held, however, that "the reception of a broadcast program by one who listens to it is not any part of the performance thereof," and concluded: [**701] 19 F.Supp.
+at 4-5 This, we think, is the nub of Jewell-LaSalle and SESAC : how much did the defendant do to bring about the viewing and hearing of a copyrighted work?
+Cf. Comment, Copyrights and TV--A New Use for the Multiple Performance Theory, 18 U.Chi.L.Rev.
+757, 764 (1951).
+Defendant's CATV systems did far more to bring about the viewing of television programs by their subscribers than the LaSalle Hotel and the Hotel Pennsylvania did to provide radio programs for their guests.
+The expense and effort required to install, operate, and maintain the CATV systems' antennas, head end equipment, many miles of cable, and connections to subscribers' television sets clearly exceeded that involved in wiring master radio sets to loudspeakers in hotel rooms.
+The "piping" of radio programs was merely incidental to the hotels' business, while the only business of defendant's CATV systems is making possible the viewing of broadcast television programs.
+If anything were needed to demonstrate that this, and not merely delivering modulated carrier waves to the terminals of subscribers' television sets, is defendant's business, defendant's frequent advertising of the programs and stations available over its cables makes it clear.
+Finally, a fundamental purpose of the exclusive right of public performance is to protect copyright proprietors against dilution of the market for their works, see Nimmer, Copyright 107.31 (1964), and a CATV system making television programs continuously available in viewers' homes seems much more likely to dispel any desire to see the same copyrighted works elsewhere than a hotel which offers the same programs to a constantly changing group of guests.
+Defendant appears to concede that, under Jewell-LaSalle and SESAC , its CATV systems would perform broadcast television programs if they furnished television sets to their subscribers; but it argues that the fact that they do not is conclusive.
+Given the ready availability of television sets from other sources, however, defendant's decision not to provide them is wholly outweighed by the magnitude of its contribution to the viewing of broadcast television programs by its subscribers, just as SESAC and (by implication) Jewell-LaSalle held that the fact that the hotels' guests individually made the actual decisions to turn on a program and to listen to it did not negate a performance, because the hotels had done so much to provide signals which could be made audible at will.
+Moreover, it would seem anomalous to hold that the operation of defendant's CATV systems did not result in a public performance because defendant's subscribers obtained their own television sets, when a television broadcast received on home television sets constitutes a public performance.
+Cf., e. g., Jerome H. Remick & Co. v. American Auto.
+Accessories Co. , supra note 4.
+Defendant's rejoinder is that in the case of a television broadcasting station a visible or audible rendition of a copyrighted work is given at the station's studio.
+6 But as Judge Herlands found, 255 F.Supp.
+at 190-191 , no such rendition accompanies the broadcast of taped and relayed programs or, usually, of motion pictures.
+7 A more fundamental defect of the rejoinder is that it disregards the policies of the Copyright Act.
+A television broadcast of a copyrighted work harms the copyright holder not because a handful or a roomful of persons sees the work performed at the studio, 8 but because thousands of viewers [**702] watch it in their homes.
+Perhaps recognizing this, defendant also contends that it is distinguishable from a broadcaster because the broadcaster is required by the Federal Communications Commission to have a studio for originating programs, generally in the principal community it serves, 47 C.F.R. 73.613 , and to retain the right to select the programs it broadcasts.
+See 47 C.F.R. 73.658(e) .
+But the Supreme Court held in Jewell-LaSalle that the hotel performed the broadcast musical compositions although it did not select them.
+Similarly, the fact that a broadcaster chooses the programs it broadcasts, and that defendant's CATV systems did not choose those they distributed, does not mean that the latter did not render public performances.
+Finally, defendant argues in its reply brief that, so far as the programs it supplies are viewed by its subscribers in their homes, any resulting performance by it is private.
+But it is settled that a broadcast or other transmission of a work to the public or a cross-section of it results in a public performance although each individual who choses to enjoy it does so in private.
+Jerome H. Remick & Co. v. American Auto. Assessories , supra note 4; Harms, Inc. v. Sansom House Enterprises, Inc. , 162 F.Supp.
+129 (E.D.Pa.1958), aff'd per curiam sub nom.
+Leo Feist, Inc. v. Lew Tendler Tavern, Inc. , 267 F.2d 494 (3 Cir. 1959); Society of European Stage Authors & Composers, Inc. v. New York Hotel Statler Co., Inc. , 19 F.Supp.
+1 (S.D.N.Y.
+1937).
+In any event, it seems clear to us that when one of defendant's CATV systems enables several hundred of its subscribers to view a program simultaneously, it is engaging in one public performance, not several hundred private ones.
+The contrary decision of the Exchequer Court of Canada, Canadian Admiral Corp. v. Rediffusion, Inc., Can.
+Exch. 382, 404-09, may have been influenced by the fact that the Canadian copyright act limited a performance to "any acoustic or visual representation."
+See Can.
+Exch. at 403.
+See also Mellor v. Australian Broadcasting Comm'n, A.C.
+491, 500-01 (P.C.)
+(dictum).
+Thus we conclude that defendant's CATV systems did more to bring about the viewing and audition of plaintiff's copyrighted motion pictures than the hotels which were held to have performed copyrighted musical compositions in Jewell-LaSalle and SESAC did to bring the music to their guests, and that the distinctions defendant advances are irrelevant to the policies of the Copyright Act.
+Our conclusion that defendant's CATV systems publicly performed the television programs they made available rests upon the result which they produced and which defendant clearly intended, the simultaneous viewing of the programs by its subscribers, rather than upon the technical characteristics of the systems, which both sides have urged upon us. 9 See Kalem Co. v. Harper Bros. , 222 U.S. 55 , 32 S.Ct. 20 , 56 L.Ed. 92 (1911).
+[**703] We therefore hold that defendant's systems publicly performed plaintiff's motion pictures.
+II.
+Defendant contends that even if its CATV systems publicly performed broadcast copyrighted works, they had a license implied in law to do so where the original broadcast was licensed by the copyright proprietor.
+The record on this appeal squarely presents the question whether such a license should be implied in law, absent any expression of the intent of the parties to the original license or in the face of an expressed intent to the contrary, because the issue of infringement was tried on the assumption that plaintiff licensed the original broadcasts of its motion pictures, and Judge Herlands found that the licenses were expressly limited to broadcasting by the licensee's transmitter, in some instances specifically excluding retransmission over CATV systems.
+255 F.Supp.
+at 184 .
+Defendant's argument for a license implied in law stems from Mr. Justice Brandeis' observation in the Jewell-LaSalle case that the musical composition in suit was broadcast without the consent of the plaintiffs, and his suggestion that Buck v. Debaum 40 F. (2d) 734 283 U.S. at 199 51 S.Ct. at 412 It is not clear whether Mr. Justice Brandeis was suggesting a license implied in fact, based on the likely intent of the parties, or a license implied in law.
+The American Society of Composers, Authors and Publishers (ASCAP), one of the plaintiffs in Jewell-LaSalle , has since usually included in its radio and television broadcast licenses a limitation stating that the license does not authorize "any receiver of any broadcast to perform publicly or reproduce the same for profit."
+Brief for ASCAP as Amicus Curiae, pp.
+4-5; Warner, Radio and Television Rights 133a, at 355-56 n. 15 (1953).
+In the SESAC case, the only reported case in which the effect of such a limitation has been considered, Judge Woolsey expressed the opinion that the limitation was "a redundancy," adding that in any case it 19 F.Supp.
+at 6 Judge Woolsey clearly assumed that Mr. Justice Brandeis had meant a license implied in fact.
+But Buck v. Debaum, the case Mr. Justice Brandeis cited, indicates that he may have envisioned a license implied in law.
+The district court there held that a cafe owner who played a licensed radio broadcast to his patrons was not liable to the copyright holder.
+It reasoned, first, that a radio broadcast gives rise to only one performance, that at the studio--this ground was overruled by Jewell-LaSalle --and second, that 40 F.2d at 736 The district court's statement that a copyright holder could protect himself by refusing to license broadcasts strongly suggests that it believed that any attempted limitation upon a license would be invalid.
+Whether Mr. Justice Brandeis meant to suggest a license implied in fact or in law, the question of an implied-in-law license to disseminate a radio or television broadcast is one of appellate first impression.
+Defendant's argument for a license implied in law 10 proceeds from the principle that the [**704] primary purpose of the Copyright Act is to encourage authors and artists to release their works to the public, and that reward to the copyright holder is a secondary aim incidental to this general purpose.
+Mazer v. Stein , 347 U.S. 201, 219 , 74 S.Ct. 460 , 98 L.Ed. 630 (1954); United States v. Paramount Pictures, Inc. , 334 U.S. 131, 158 , 68 S.Ct. 915 , 92 L.Ed. 1260 (1948); Berlin v. E. C. Publications, Inc. , 329 F.2d 541 (2 Cir.), cert. denied, 379 U.S. 822 , 85 S.Ct. 46 , 13 L.Ed.2d 33 (1964).
+The secondary aim of reward to the copyright holder is satisfied, defendant contends, when the holder has been induced to license the original television broadcast, and the Copyright Act's primary policy then requires that CATV systems like defendant's be allowed to transmit the broadcast signals without further payment to the copyright holder.
+To buttress this contention, defendant offered to prove at trial that the royalties paid to plaintiff by the original broadcasting stations "took into account or could have taken into account the reception of the broadcasts by defendant's subscribers as well as by other members of the stations' audiences."
+Brief for Defendant, p. 101 n. 115; see Joint Appendix 1319a-24a.
+Since this offer of proof was rejected, we shall assume its accuracy, although it seems debatable, at least so far as the royalties were based upon revenues from local advertisers, who might well have had little or no interest in reaching Clarksburg and Fairmont viewers, see Note, CATV and Copyright Liability: On a Clear Day You Can See Forever, 52 Va.L.Rev.
+1505, 1513-14 (1966), or even from national advertisers who wish to advertise in Clarksburg and Fairmont through other stations or media.
+11 See Note, CATV and Copyright Liability, 80 Harv.L.Rev.
+1514, 1523-25 (1967).
+Defendant relies upon holdings that a copyright proprietor may not restrict the resale of a copyrighted article after he has sold it, Bobbs-Merrill Co. v. Straus , 210 U.S. 339, 349-351 , 28 S.Ct. 722 , 52 L.Ed. 1086 (1908), and that "[w]hen [a] patentee has sold the patented article or authorized its sale and thus granted the purchaser an 'implied license to use,' it is clear that he cannot thereafter restrict that use *."
+Aro Mfg. Co., Inc. v. Convertible Top Replacement Co., Inc. , 377 U.S. 476, 497 , 84 S.Ct. 1526, 1538 , 12 L.Ed.2d 457 (1964); see, e. g., Adams v. Burke , 17 Wall.
+(84 U.S.) 453 , 21 L.Ed. 700 (1873).
+Defendant's argument from these holdings paints with too broad a brush.
+Bobbs-Merrill Co. v. Straus rested solely upon construction of the copyright holder's exclusive right to vend; the Court held that the first authorized sale of a copyrighted article exhausted that right, and that the purchaser might "sell it again, although he could not publish a new edition of it."
+210 U.S. at 350 , 28 S.Ct. at 726 .
+The rule of Bobbs-Merrill Co. v. Straus was codified in 1909, 35 Stat. 1084, as amended, 17 U.S.C. 27 , and as codified applies only when "possession" of a copyrighted article has been "lawfully obtained."
+See H.R.Rep.
+No. 2222, 60th Cong., 2d Sess.
+(1909), quoted in Platt & Munk Co., Inc. v. Republic Graphics, Inc. , 315 F.2d 847, 851-852 (2 Cir. 1963).
+In fact, even a sale does not generally release other exclusive rights, such as the right to copy, although this Court has held that the sale of a motion picture print conveys the right to perform it in public for profit.
+Universal Film Mfg. Co. v. Copperman , 218 F. 577 (2 Cir. 1914); see Platt & Munk Co., Inc. v. Republic Graphics, Inc. , supra 315 F.2d at 851 (dictum); Nimmer, Copyright 103.34 (1964).
+Thus Mr. Justice Brandeis explicitly rejected the analogy of Bobbs-Merrill Co. v. Straus in the Jewell-LaSalle case, stating: "It is true that control of the sale of copies is not permitted by the act [footnote omitted], but a monopoly is expressly granted of all public performances for profit."
+283 U.S. at 197 , 51 S.Ct. at 411 .
+The patent holdings cited by defendant likewise apply to sales of patented articles; a patent license to manufacture, sell, or use limited, for example, to a given territory or field of use is generally upheld, so long as it does not seek to extend the patent monopoly.
+See, e. g., General Talking Pictures Corp. v. Western Elec. Co. , 304 U.S. 175, 179-182 , 58 S.Ct. 849 , 82 L.Ed. 1273 (1938); Williams v. Hughes Tool Co. , 186 F.2d 278, 284 (10 Cir. 1950), cert. denied, 341 U.S. 903 , 71 S.Ct. 612 , 95 L.Ed. 1342 (1951); Note, Patent Use Restrictions, 75 Harv.L.Rev.
+602 (1962).
+Compare Brulotte v. Thys Co. , 379 U.S. 29 , 85 S.Ct. 176 , 13 L.Ed.2d 99 (1964).
+This case presents a very different issue, the divisibility of the copyright holder's exclusive right to perform.
+In an age of motion pictures and radio and television broadcasting, it would seem self-evident that a copyright [**705] proprietor must be allowed substantial freedom to limit licenses to perform his work in public to defined periods and areas or audiences; and his right to do so has apparently never been seriously challenged.
+12 See, e. g., Goldsmith v. Commissioner of Internal Revenue , 143 F.2d 466 (2 Cir.) (opinion of Chase, J.) (dictum), cert. denied, 323 U.S. 774 , 65 S.Ct. 135 , 89 L.Ed. 619 (1944); Herwig v. United States , 105 F.Supp.
+384, 388 , 122 Ct.Cl.
+493, 515-17 (1952) (dictum); Milgrim, Territoriality of Copyright: An Analysis of Assignability Under the Universal Copyright Convention, 12 ASCAP Copyright Law Symposium 1, 10-13 (1963).
+Compare Interstate Circuit, Inc. v. United States , 306 U.S. 208, 227-228 , 59 S.Ct. 467 , 83 L.Ed. 610 (1939).
+Thus plaintiff could clearly have limited its licenses to the licensee stations' viewers if those stations had been cable television systems.
+And aside from raising questions under the Federal Communications Act, which we examine in part III of this opinion, the fact that the original licensees broadcast furnishes no reason to deny plaintiff the right to limit its licenses to viewers who can receive the broadcasts through normal rooftop antennas.
+13 It is true that the difficulty of arranging licenses and the possibility of innocent infringement may be greater when television signals are received "off the air" and transmitted by a CATV system; but such considerations have never been held to justify an implied-in-law license.
+Nor is a different result required by defendant's contention that if its CATV systems are not granted a license implied in law, its subscribers will in effect pay twice for television programs, once by buying the products and services of the advertisers who support the original broadcast and once by paying for CATV service.
+Whatever force this "double payment" contention may have, it must be made to Congress.
+The fact that it involves purely legislative considerations cannot be obscured by couching it in terms of the primary and secondary policies of the Copyright Act.
+As a matter of principle, the same problem of "double payment" seems to be presented by any periodical which derives most of its revenues from advertising, but also charges for copies of the periodical, and allows special rates to certain classes of readers.
+The resolution of such issues of publishing and broadcasting economics has not been entrusted to the courts through the Copyright Act.
+III.
+Defendant's third contention is that the imposition of copyright liability upon its CATV systems would clash with the underlying purpose of the Federal Communications Act "to secure the maximum benefits of radio [and television] to all the people of the United States."
+National Broadcasting Co., Inc. v. United States , 319 U.S. 190, 217 , 63 S.Ct. 997, 1010 , 87 L.Ed. 1344 (1943).
+It argues that this policy requires at least that CATV systems be free of copyright liability for transmission of a television broadcasting station's signals within the station's "Grade B contour."
+The Grade B contour, calculated on the basis of the height of the station's transmitting antenna and of the terrain within a two-to-ten mile radius of the antenna in accordance with tables prescribed by the Federal Communications Commission, marks the boundary along which service "acceptable to the median observer" is theoretically expected to be available 90 per cent of the time at the best 50 per cent of the locations.
+See 47 C.F.R. 73.684 ; FCC Sixth Report and Order on Television Allocations, 1 (Part 3), 91 Pike & Fischer R. R. 601, par.
+97 (1952).
+Fairmont is within or on the B contour of four of the stations in suit, and Clarksburg is within the B contour of one.
+Judge Herlands found, however, that "no credible competent evidence was adduced" that subscribers to defendant's CATV systems could have received reasonably satisfactory pictures from the five stations in suit by using rooftop antennas.
+14 255 F.Supp.
+at 186 .
+[**706] Defendant also argues that since the Federal Communications Act expressly forbids rebroadcasting of broadcast signals without the broadcaster's consent, 48 Stat. 1091 (1934), 47 U.S.C. 325(a) , it implicitly excludes any other limitation upon the retransmission of broadcast signals.
+Plaintiff rejoins that unrestricted distribution of television programs by CATV might well contravene the national communications policies of providing at least one broadcasting service for all and of encouraging the maximum variety of local broadcasting.
+The Federal Communications Commission's Second Report and Order on Community Antenna Television Systems, 2 F.C.C.2d 725 , par.
+124 (1966), expresses the same apprehensions; but we need not resolve these large questions of communications policy.
+It is clear that, at least where defendant's subscribers could not receive the licensed broadcasters' signals satisfactorily by normal antennas, the Federal Communications Act, which lacks a comprehensive scheme of regulatory powers and private remedies, was not intended to preempt the application of the Copyright Act.
+Cf., e. g., United States v. Radio Corp. of America , 358 U.S. 334, 348-352 , 79 S.Ct. 457 , 3 L.Ed.2d 354 (1959); Cable Vision, Inc. v. KUTV, Inc. , 211 F.Supp.
+47, 56-58 (D.Idaho 1962), rev'd on other grounds, 335 F.2d 348 (9 Cir. 1964), cert. denied sub nom.
+Klix Corp. v. Cable Vision, Inc. , 379 U.S. 989 , 85 S.Ct. 700 , 13 L.Ed.2d 609 (1965).
+It is significant that the Federal Communications Commission has by implication expressed the same view, stating that its decisions regarding CATV are not intended to affect "copyright or other rights that broadcasters or others may have in television program material."
+First Report and Order on Microwave Relays, 38 F.C.C.
+683 , par.
+159 (1965).
+A different case might be presented, which we do not decide, if a CATV system's subscribers could receive one or more of the stations carried satisfactorily by normal antennas, 15 as it might then be contended that a copyright holder licensing a broadcast of a work over such a station must be held to have licensed their viewing of the work.
+Finally, defendant contends that it should not be subjected to copyright liability because the problems raised by CATV are too multifaceted and complex for judicial resolution.
+We agree that it is evident that CATV raises many serious problems of public policy, which are not adequately illumined by the record before us.
+See generally Note, The Wire Mire: The FCC and CATV, 79 Harv.L.
+Rev. 366 (1965).
+And it is clear that a court cannot undertake the fashioning of detailed, carefully graduated rules, like those contained in the Federal Communications Commission's Second Report and Order on Community Antenna Television Systems, supra, or in the proposed Copyright Law Revision reported by the House Committee on the Judiciary in the 89th and 90th Congresses.
+16 We must, however, decide the issue presented to us: whether, under the present Copyright Act, the operations of defendant's CATV systems constitute unlicensed public performances.
+We hold that they do, and affirm the decision below.

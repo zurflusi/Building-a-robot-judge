@@ -1,0 +1,126 @@
+ JOINER , Senior District Judge.
+The Internal Revenue Service (IRS) appeals from the district court's determination that it is liable to the trustee in bankruptcy of defendant, Nordic Village, Inc. (Nordic), for a voidable transfer under section 549 of the Bankruptcy Code, 11 U.S.C. section 549 .
+The facts are stipulated.
+Nordic filed a Chapter 11 petition on March 27, 1984, pursuant to which Nordic acted as debtor-in-possession.
+On July 18, 1984, Josef Lah, an officer and shareholder of Nordic (then doing business as Swiss Haus, Inc.), drew a $26,000 counter-check on the corporate account made payable to the bank.
+The bank, in turn, issued several cashier's checks to Lah.
+The cashier's check at issue here, for $20,000, was made payable to the IRS.
+The check bore the notation "REMITTER: SWISS HAUS, INC." At some point, a line was drawn through this notation, although it remains clearly legible.
+Lah delivered the cashier's check to the IRS, with instructions that it be credited against the outstanding tax liabilities of Josef Lah, doing business as Josef's Hair Design.
+The IRS credited Lah's account accordingly.
+On August 10, 1984, a trustee in bankruptcy was appointed for Nordic.
+The trustee subsequently initiated a proceeding to recover several unauthorized post-petition transfers, including the transfer to the IRS.
+The bankruptcy court held that the transfer was voidable under section 549 of the Bankruptcy Code, and that the IRS was the initial transferee of the debtor under section 550 of the Bankruptcy Code, 11 U.S.C. section 550 (1979 & Supp.1990), because Lah was acting as the agent of the debtor when he withdrew the funds from the corporate account.
+The district court affirmed, but as to the latter issue, it also held in the alternative that the IRS was an immediate transferee, and knew or should have known that the transfer was voidable as a consequence of the notation "REMITTER: SWISS HAUS, INC." We now affirm.
+I. This case presents two issues for review.
+The first issue is the jurisdictional question of whether a federal agency has sovereign immunity under the Bankruptcy Code.
+The IRS relies upon Hoffman v. Connecticut Department of Income Maintenance , U.S. , 109 S.Ct. 2818 , 106 L.Ed.2d 76 (1989), in which the Supreme Court held that the sovereign immunity provision of the Bankruptcy Code, 11 U.S.C. section 106 (1979), does not waive the immunity of the states as to money judgments. 1 For three reasons, this reliance is misplaced.
+First, there is no controlling analysis of the statute in Hoffman .
+Four Justices agreed that section 106 did not waive the immunity of states, in an opinion by Justice White, and in an opinion written by Justice Marshall, an equal number of Justices held to the contrary.
+The deciding vote in the case was delivered by Justice Scalia, concurring in the judgment on other grounds, and explicitly stating that he did not concur in the theory expanded upon in the opinion of Justice White.
+Thus, the most that can be said for the status of the Hoffman decision as precedent is that each of two theories received equal support.
+Second, the holding in Hoffman is distinguishable because it dealt with the immunity of states under the eleventh amendment.
+The White opinion did not address whether Congress intended to waive the immunity of the United States, but instead decided the case by application of the rule that a congressional abrogation of the sovereign immunity of the states will not be found minus an explicit statement of Congress's intent to do so on the face of the statute.
+109 S.Ct. at 2822 .
+Here, we are dealing with a congressional waiver of the sovereign immunity of the United States.
+Third, the legislative history supports the plain language of section 106 and the reasoning of the Marshall opinion in Hoffman , which pointed out that it was the intention of Congress to waive sovereign immunity in cases like Hoffman , and like the case presently before us.
+The only clear parsing of the statute having any application to this case is done by Justice Marshall.
+This case also presents the issue of the liability of a transferee in the circumstances surrounding the IRS's receipt of Lah's check.
+The district court was correct in holding, alternatively, against the IRS's claim that the funds were taken in good faith and without knowledge that they were funds belonging to Swiss Haus, Inc., the transfer of which was voidable.
+II.
+Waiver of Sovereign Immunity A. Intent of Congress The jurisdiction of the court turns on the waiver by Congress of the IRS's sovereign immunity.
+Two provisions of the Bankruptcy Code are relevant.
+Section 550 provides, in part: section 544 545 547 548 549 553(b) 724(a) section (a)(2) 11 U.S.C. 550 .
+Section 106 of the Bankruptcy Code provides: subsection (a) (b) 11 U.S.C. 106 .
+Section 106 abolishes the defense of sovereign immunity in cases where the claim is made by the trustee pursuant to a provision of the Code that contains any of the words "creditor," "entity," or "governmental unit."
+Section 550 is one of these sections.
+It specifically authorizes the Trustee to avoid the transfer and to recover the property or its value from the "entity" for whose benefit the transfer was made.
+Sections 550 and 106 authorize suits by the trustee to recover a transfer of the type involved here from the IRS regardless of sovereign immunity.
+In this case, the IRS received the "benefit" of the check.
+The IRS is a "governmental unit" and an "entity," thus, the language of the statute in this case clearly waives the governmental immunity.
+Section 106 is a straight-forward and specific waiver of sovereign immunity as it relates to federal governmental units.
+There is nothing in the provision suggesting that it is limited to injunctive or declaratory relief.
+The terms of the waiver take us to any provision of the Code using the trigger words.
+The meaning could not be clearer.
+The legislative history of the Bankruptcy Code supports a plain-language reading of section 106 .
+2 The original draft of the Bankruptcy Code submitted by the Commission on the Bankruptcy Laws of the United States proposed the following waiver of sovereign immunity: Report of the Commission on the Bankruptcy Laws of the United States, H.R.Doc.
+No. 93-137, 93d Cong., 1st Sess., Pt.
+II, at 1 (1973) ( reprinted in COLLIER ON BANKRUPTCY, App. 2, 1 (15th ed.1984)).
+The original House and Senate versions of current section 106 were identical and far narrower in scope, providing as follows: section 501 section 501 H.R.
+8200, 95th Cong., 1st Sess.
+324 (1977); S. 2266, 95th Cong., 2d Sess.
+313 (1978) ( reprinted in COLLIER ON BANKRUPTCY, App. 3, III, VII (15th ed. 1984)).
+The committee reports which accompanied this provision were also identical and indicative of the narrowness of the proposed provision.
+They stated in pertinent part: Section 106 11 U.S.C. 501(c) H.R.Rep.
+595, 95th Cong., 1st Sess.
+317 (1977); S.Rep.
+989, 95th Cong., 2d Sess.
+29-30 (1978), U.S.Code Cong. & Admin.News 1978, pp.
+5787, 5815, 5816, 6274 ( reprinted in COLLIER ON BANKRUPTCY, App. 2, II; App. 3, V (15th ed.1984)).
+Subsequently, the two identical proposed provisions on sovereign immunity, H.R.
+8200 and S. 2266, were sent to the Conference Committee where sections 106(a) and 106(b) were reworded and where section 106(c) made its initial and permanent appearance.
+Although the Conference Committee did not issue a report, the floor managers of the legislation read into the Congressional Record identical statements explaining the Conference Committee's work.
+The statement on section 106(c) provided as follows: Section 106(c) Section 106(c) In re Gwilliam 519 F.2d 407 In re Dolard 519 F.2d 282 sections 106(a) 106(b) section 106(c) 124 Cong.Rec.
+H11091 (Sept. 28, 1978) (comments of Mr. Edwards of California) ( reprinted in COLLIER ON BANKRUPTCY, App. 3, IX, at IX-90 (15th ed. 1984)); S17307 (Oct. 6, 1978) (comments of Mr. DeConcini of Arizona) ( reprinted in COLLIER ON BANKRUPTCY, App. 3, X, at X-16 (15th ed. 1984)).
+B. Hoffman Hoffman is not precedent for this case. The Justices joining in the White opinion based their conclusion on an eleventh amendment analysis, holding that the eleventh amendment immunity of states was not breached by the language of the waiver provision.
+These Justices did not examine the intent of Congress as to federal agencies like the IRS.
+They did not examine the legislative history at all.
+In fact, they did not decide this case. The judgment in Hoffman was reached only because Justice Scalia would hold, not that Congress did not abrogate the states' eleventh amendment immunity, but that it does not have the power to do so. Justice O'Connor agreed.
+The opinion of the other four Justices supports the analysis of this court in this case. Justice Marshall, joined by Justices Brennan, Blackmun, and Stevens, dealt squarely with the language of section 106 and found it sufficiently broad and compelling to overcome the immunity which the eleventh amendment grants to the states.
+They explicitly rejected the conclusion of the other four Justices that the statute would permit suits only for injunctive and declaratory relief.
+Hoffman is authority for the fact that the states cannot be sued under the Bankruptcy Code due to a five-Justice combination of two theories, one finding no authority in Congress to waive the sovereign immunity of states, and the other holding that the Bankruptcy Code's waiver provision was not intended to waive the sovereign immunity of states.
+Hoffman does not establish that the Act was not broad enough or specific enough to waive immunity.
+Justice Scalia, who cast the tie-breaking vote, did not parse the statute, because the intent of Congress was irrelevant under his analysis.
+The four Justices joining the Marshall opinion held that the provision is sufficiently broad and specific to permit suits against the states.
+In sum, the case cannot be used to support a claim that Congress has not waived the governmental immunity of the United States, absent the strictures of the eleventh amendment.
+In a case such as the one presently before the court, the arguments of Justice Marshall have equal force with the arguments of Justice White, and the lower courts must make independent judgments as to whether Congress intended, by the Bankruptcy Act, to waive the immunity of federal agencies, in this case, the IRS.
+The foregoing discussion highlights the features which distinguish the Hoffman case from the case at bar.
+In this case, the issues do not involve the eleventh amendment, but simply raise the intent of Congress to waive sovereign immunity regarding claims against the IRS.
+These two cases are very different and involve different burdens and analyses.
+The White opinion in Hoffman , urged upon us by the IRS, emphasized the heavy burden on a party asserting waiver of the eleventh amendment: "[T]o abrogate the States' Eleventh Amendment immunity Congress must make its intention 'unmistakably clear in the language of the statute.'"
+Hoffman , 109 S.Ct. at 2822 (quoting Atascadero State Hosp. v. Scanlon , 473 U.S. 234, 242 , 105 S.Ct. 3142, 3147 , 87 L.Ed.2d 171 (1985)).
+Addressing the probative value of the legislative history, the four Justices held that "'[l]egislative history generally will be irrelevant to a judicial inquiry into whether Congress intended to abrogate the Eleventh Amendment.'"
+Hoffman , 109 S.Ct. at 2824 .
+That holding is inapplicable to this case.
+This is a simple case involving the construction of language enacted by Congress, not a constitutional amendment relating to a fundamental concept of federalism.
+We do not have before us in this case issues relating to states' rights and central power and the various doctrines that have been developed to prevent overreaching by the federal government.
+The Hoffman case involves different values and thus, the analysis of that case was necessarily different than that called for here.
+While it is true that our reading of section 106 will result in different meanings depending upon whether it is being applied to a state or federal governmental unit, different meanings are an inevitable result of applying two different methods of construction, one dealing with a constitutional provision protecting our federal system, and the other simply determining the will of Congress to permit the federal government to be sued.
+The plaintiff's argument erroneously assumes that the Hoffman Court's holding that the states are immune to monetary recoveries was reached by the sole and inevitable construction of the provision.
+The Hoffman Court itself did not offer a single reading, but evenly divided between two.
+The more pertinent argument to the present case is that of the Marshall opinion.
+In summary, the statute, in clear and explicit terms, prevents the IRS from asserting the defense of sovereign immunity.
+This is supported by the legislative history, as noted by the Marshall opinion in Hoffman .
+Having resolved the jurisdictional issue, we now turn to the merits of the trustee's recovery.
+III.
+Right of Trustee to Recover Section 549 of the Bankruptcy Code provides that the trustee may avoid a transfer not authorized by any provision of the Code, that occurs after the commencement of the case. In this case, the transfer was unauthorized, and all events took place after the filing of the bankruptcy action.
+Section 550(a) of the Bankruptcy Code provides that when, as here, the transfer is voidable, the trustee may recover for the benefit of the estate the property transferred or its value.
+The trustee may recover from the initial transferee, the entity for whose benefit the transfer was made, or any immediate or mediate transferee of such initial transferee.
+The chain of possible liable parties is interrupted only when a transferee takes for value, in good faith and without knowledge of the voidable nature of the transfer.
+The requirement of "knowledge" is satisfied if the transferee "knew facts that would lead a reasonable person to believe that the property transferred was recoverable."
+Smith v. Mixon , 788 F.2d 229, 232 n. 2 (4th Cir.1986); Robbins v. Robbins , 91 B.R. 879, 886 (Bankr.W.D.Mo.1988).
+In this case, the IRS was either the "initial transferee" or an "immediate transferee of such initial transferee."
+If Lah is viewed as acting for Nordic, then the IRS is the "initial transferee."
+3 If Lah is viewed as having taken money illegally from Nordic, he is the "initial transferee" and the delivery of the cashier's check to the IRS makes the IRS an "immediate transferee" of Lah, the "initial transferee."
+If the IRS is considered as an "immediate transferee" of Lah, the IRS can prevail if the IRS shows that it took for value, in good faith, and without knowledge of the voidability of the transfer.
+In this case, since it is stipulated that the transfer is voidable, the trustee can recover from the IRS if the IRS is the "initial transferee," and can recover if the IRS is an "immediate transferee" of Lah, unless the IRS shows that it (1) took for value, (2) in good faith, and (3) without knowledge of the voidability of the transfer.
+The language of the statute clearly places the burden of showing value, good faith, and lack of knowledge, on the transferee as a defense.
+The way the statute is worded makes it clear that the trustee's right to recover is broad, by giving rights against not only the transferee, but also against transferees of the initial transferee.
+However, to prevent innocent third parties from being hurt by this broadly delineated right of recovery, the law gives them a defense if they show that they took for value, in good faith, and without knowledge of the voidability of the transfer.
+Bankruptcy Rule 6001 states that "[a]ny entity asserting the validity of a transfer under section 549 of the Code shall have the burden of proof."
+While the present dispute arises under section 550 , section 549(c) provides an identical exception for good faith purchasers of realty.
+If the IRS is to prevail, the facts must show that they have met the burden of proving the three required conditions--value, good faith, and lack of knowledge.
+The stipulated facts show that the check bore the notation "REMITTER: SWISS HAUS, INC.," which was the name under which the debtor was doing business.
+There is nothing in the record to indicate whether the notation was crossed out before or after the transfer to the IRS.
+The IRS gave value for the check by crediting it against Lah's outstanding tax liability.
+However, because of the words "REMITTER: SWISS HAUS, INC.," it cannot be said that the IRS acted without knowledge of the voidability of the transfer.
+It is not an ordinary business practice for corporate entities to pay one another's taxes.
+This notation is sufficient to place a reasonable person on notice that the transfer was illegitimate, and by extension, that it was voidable.
+It is not apparent from the facts that the IRS had actual notice--that it did not accept the check in good faith--however, the facts give rise to an inference of inquiry notice.
+The IRS is a sizeable organization and its procedures for collecting taxes complicated, but there is nothing in size or complexity that should lessen the obligation to observe circumstances giving notice that something might be wrong with accepting a check.
+The IRS, in crediting Lah's tax liability with money belonging to Swiss Haus, Inc., has done nothing to cause prejudice to others except Swiss Haus, Inc.
+When, as here, the transferee does not meet the burden of proving value given, good faith, or lack of knowledge, the unwinding of the situation by requiring the return of the money to the Trustee takes away from no one anything to which that person is entitled.
+Holding that the Trustee may recover simply places all the parties in the position where they were before the wrongful transfer took place.
+In other words, there is nothing special about the IRS to cause us to relax the requirements of value, good faith, and lack of knowledge in situations such as this one, being unwound by the court.
+IV.
+Since the IRS cannot assert the defense of sovereign immunity, and since the IRS has not carried its burden of showing that it took without knowledge of the voidability of the transfer, the district court is AFFIRMED.

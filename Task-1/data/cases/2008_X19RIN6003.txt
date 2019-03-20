@@ -1,0 +1,191 @@
+ B.D.
+PARKER, JR., Circuit Judge: BACKGROUND This appeal requires us to revisit the vexing question of the extraterritorial application of the securities laws, Rule 10b-5 in particular.
+Founded in 1858, headquartered in Melbourne, and incorporated under Australian law, the National Australia Bank ("NAB") calls itself Australia's largest bank.
+In 2000, its Australian business accounted [**2] for roughly 55% of its assets and revenues, with its international operations responsible for the remainder.
+NAB's approximately 1.5 billion "ordinary shares" (the equivalent of American common stock) trade on the Australian Securities Exchange, the London Stock Exchange, the Tokyo stock exchange, and the New Zealand stock exchange.
+While NAB's ordinary shares do not trade on United States exchanges, its American Depository Receipts [fn1] ("ADRs") trade on the New York Stock Exchange.
+In February 1998, NAB acquired Home-Side Lending Inc., an American mortgage service provider headquartered in Jacksonville, Florida, for $1.22 billion.
+Home-Side serviced mortgages in exchange for fees.
+By March of 2000, HomeSide, as a wholly owned subsidiary of NAB, held the rights to service $18 billion of mortgages, making it America's sixth biggest mortgage service company.
+Following the acquisition, HomeSide's operations were profitable.
+In Home-Side's first year, it earned A$313 [fn2] million in mortgage servicing fees, and contributed to NAB's net profits.
+In 1999, NAB announced A$153 million in profits from HomeSide, which accounted for approximately 5.4% of NAB's A$2.82 billion in profits for the year.
+For the 2000 fiscal year, NAB reported that HomeSide generated A$141 million in profits, 4.1% of its total profits of A$3.37 billion.
+HomeSide's accounting practices spawned this litigation.
+HomeSide calculated the present value of the fees it would generate from servicing mortgages in future years using a valuation model, booked that amount on its balance sheet as an asset called Mortgage Servicing Rights ("MSR"), and then amortized the value of that asset over its expected life.
+In 2001, NAB revealed that the interest assumptions in the valuation model used by HomeSide to calculate the MSR were incorrect and resulted in an overstatement in the value of its servicing rights.
+In July 2001, NAB disclosed that it would incur a $450 million write-down due to a recalculation in the value of HomeSide's MSR.
+NAB's ordinary shares and its ADRs both fell more than 5% on the news.
+In September 2001, NAB announced a second write-down of $1.75 billion of the value of HomeSide's MSR, causing NAB's ordinary shares to plummet by 13% and its ADRs to drop by more than 11.5% on the NYSE.
+In an amended Form 10-Q filed with the SEC in December 2001, NAB restated previously issued financial statements to reflect the July and September adjustments.
+Plaintiffs, four individuals who purchased NAB shares, sued NAB, Home-Side, and various individual officers and directors (collectively "Defendants") in the Southern District of New York, alleging violations of Sections 10(b) and 20(a) of the Securities and Exchange Act of 1934, 15 U.S.C. 78j (b) and 78t (a), and Rule 10b-5 promulgated thereunder, 17 C.F.R. 240.10b-5 .
+The Plaintiffs claimed that "NAB's subsidiary HomeSide knowingly used unreasonably optimistic valuation assumptions or methodologies" and that various of the Defendants made materially false and misleading statements in SEC filings, annual reports and press releases regarding HomeSide's profitability, economic health, [**3] and its contribution to NAB.
+HomeSide allegedly falsified the MSR in Florida and then sent the data to NAB in Australia, where NAB personnel disseminated it via public filings and statements.
+Three of the plaintiffs who purchased their shares abroad (Russell Leslie Owen, Brian Silverlock, and Geraldine Silverlock) ("Foreign Plaintiffs") sought to represent a class of nonAmerican purchasers of NAB ordinary shares, while the fourth plaintiff, Robert Morrison ("Domestic Plaintiff), who purchased ADRs, sought to represent a class of American purchasers during a proposed class period of April 1, 1999 through September 3, 2001.
+Defendants moved to dismiss the complaint for lack of subject matter jurisdiction under Rule 12(b)(1) , and for failure to state a claim under Rule 12 (b)(6) of the Federal Rules of Civil Procedure.
+See In re Nat'l Austl.
+Bank Sec. Litig. , No. 03 Civ. 6537(BSJ), [ 2006 BL 4098 ], 2006 WL 3844465, at *1, 2006 U.S. Dist. LEXIS 94162 , at *3 (S.D.N.Y.
+Oct. 25, 2006).
+The district court (Jones, J.) granted the motion, and dismissed the claims of the Foreign Plaintiffs for lack of subject matter jurisdiction and those of the Domestic Plaintiff for failure to state a claim.
+[fn3] This appeal followed.
+DISCUSSION I. "Determining the existence of subject matter jurisdiction is a threshold inquiry and a claim is properly dismissed for lack of subject matter jurisdiction under Rule 12(b)(1) when the district court lacks the statutory or constitutional power to adjudicate it."
+Arar v. Ashcroft , 532 F.3d 157 , 168 (2d Cir. 2008) (internal citations and quotation marks omitted).
+"A plaintiff asserting subject matter jurisdiction has the burden of proving by a preponderance of the evidence that it exists."
+Makarova v. United States , 201 F.3d 110 , 113 (2d Cir. 2000). "
+In reviewing a district court's dismissal of a complaint for lack of subject matter jurisdiction, we review factual findings for clear error and legal conclusions de novo."
+Moloney v. Soc. Sec. Admin. , 517 F.3d 70 , 74 (2d Cir. 2008) (per curiam).
+"[ T]he court must take all facts alleged in the complaint as true and draw all reasonable inferences in favor of plaintiff," Natural Res. Def. Council v. Johnson , 461 F.3d 164 , 171 (2d Cir. 2006) (citation and internal quotation marks omitted), but "jurisdiction must be shown affirmatively, and that showing is not made by drawing from the pleadings inferences favorable to the party asserting it."
+APWU v. Potter , 343 F.3d 619 , 623 (2d Cir. 2003).
+In resolving a motion to dismiss for lack of subject matter jurisdiction under Rule 12(b)(1) a district court may consider evidence outside the pleadings.
+Makarova , 201 F.3d at 113 .
+"Only Congress may determine a lower federal court's subject-matter jurisdiction."
+Kontrick v. Ryan , 540 U.S. 443 , 452 , 124 S.Ct. 906 , 157 L.Ed.2d 867 (2004) (citing U.S .
+Const., art.
+Ill, 1 ).
+When Congress wrote the Securities Exchange Act, however, it omitted any discussion of its application to transactions taking place outside of the United States.
+[fn4] See Itoba Ltd. v. Lep Group PLC , 54 F.3d 118 , 121 (2d Cir. 1995) ("It is well recognized that the Securities Exchange Act is silent as to its extraterritorial application."
+(citing Alfadda v. Fenn , 935 F.2d 475 , 478 (2d Cir. 1991))).
+Therefore, when faced with securities law claims with an international component, we turn to "the underlying purpose of the anti [**4] fraud provisions as a guide" to "discern `whether Congress would have wished the precious resources of the United States courts and law enforcement agencies to be devoted to' such transactions."
+Europe & Overseas Commodity Traders, S.A v. Banque Paribas London , 147 F.3d 118 , 125 (2d Cir. 1998) (quoting Bersch v. Drexel Firestone, Inc. , 519 F.2d 974 , 985 (2d Cir. 1975)).
+The underlying purpose of Section 10(b) is "to remedy deceptive and manipulative conduct with the potential to harm the public interest or the interests of investors."
+Id .
+(citing H.R.
+Rep.
+No. 1838, at 32-33 (1934)).
+Harm to domestic interests and domestic investors has not been the exclusive focus of the anti-fraud provisions of the securities laws.
+As our case law makes clear, we believe that it is consistent with the statutory scheme to infer that Congress would have wanted "to redress harms perpetrated abroad which have a substantial impact on investors or markets within the United States."
+Id .
+; see also Consol. Gold Fields PLC v. Minorco, S.A. , 871 F.2d 252 , 261-62 (2d Cir. 1989); Schoenbaum v. First-brook , 405 F.2d 200 , 206 (2d Cir.), reheard as to merits without reconsideration of jurisdiction , 405 F.2d 215 , 217 ( en banc 1968).
+We decided in Psimenos v. E.F.
+Hutton & Co. , 722 F.2d 1041 , 1045 (2d Cir. 1983), that in determining the extraterritorial reach of Section 10(b) we look to whether the harm was perpetrated here or abroad and whether it affected domestic markets and investors.
+This binary inquiry calls for the application of the "conduct test" and the "effects test."
+Id .
+[fn5] We ask: (1) whether the wrongful conduct occurred in the United States, and (2) whether the wrongful conduct had a substantial effect in the United States or upon United States citizens.
+SEC v. Berger , 322 F.3d 187 , 192-93 (2d Cir. 2003); Psimenos , 722 F.2d at 1045 .
+Where appropriate, the two parts of the test are applied together because "an admixture or combination of the two often gives a better picture of whether there is sufficient United States involvement to justify the exercise of jurisdiction by an American court."
+Itoba Ltd. , 54 F.3d at 122 .
+In this case, however, Appellants rely solely on the conduct component of the test.
+Under the "conduct" component, subject matter jurisdiction exists if activities in this country were more than merely preparatory to a fraud and culpable acts or omissions occurring here directly caused losses to investors abroad.
+See Alfadda , 935 F.2d at 478 ; Psimenos , 722 F.2d at 1045-46 ; Bersch v. Drexel Firestone, Inc. , 519 F.2d 974 , 986 (2d Cir. 1975).
+Our determination of whether American activities "directly" caused losses to foreigners depends on what and how much was done in the United States and on what and how much was done abroad.
+See I IT, Int'l Inv. Trust v. Cornfeld , 619 F.2d 909 , 920-21 (2d Cir. 1980).
+Here, HomeSide allegedly manipulated its internal books and records and sent the falsely inflated numbers from Florida to NAB's headquarters in Australia.
+NAB, operating from Australia, created and distributed its public filings and related public statements from Australia.
+These public filings and statements included HomeSide's falsified numbers in two ways.
+NAB directly included some of the allegedly false HomeSide numbers as stand-alone numbers in public filings.
+NAB also incorporated allegedly false HomeSide numbers in company-wide [**5] figures ( e.g. , company-wide revenue, profit, and growth numbers), rendering them false to the extent that they depended on the artificially inflated numbers from HomeSide.
+Appellants contended that the fraud occurred primarily in Florida because Home-Side was located there and the false numbers at issue were created there.
+The district court disagreed.
+In what it described as a "close call," the district court determined that HomeSide's knowing use of unreasonably optimistic assumptions to artificially inflate the value of its MSR could not serve as a predicate for subject matter jurisdiction because this conduct amounted to, at most, a link in the chain of a scheme that culminated abroad.
+The district court reasoned that there would have been no securities fraud "but-for (i) the allegedly knowing incorporation of HomeSide's false information; (ii) in public filings and statements made abroad; (iii) to investors abroad; (iv) who detrimentally relied on the information in purchasing securities abroad."
+In re Nat'l Austl.
+Bank Sec. Litig. , [ 2006 BL 4098 ], 2006 WL 3844465, at *8, 2006 U.S. Dist. LEXIS 94162 , at *25.
+Accordingly, the district court determined that "[o]n balance, it is the foreign acts — not any domestic ones — that `directly caused' the alleged harm here."
+Id .
+at *8, U.S. Dist. LEXIS 94162 , at *26.
+It concluded that the Plaintiffs failed to meet "their burden of demonstrating that Congress intended to extend the reach of its laws to the predominantly foreign securities transactions at issue here."
+Id .
+*8, U.S. Dist. LEXIS 94162 , at *25.
+II.
+The district court believed that the difficulty of this case is heightened by its novelty.
+Here, a set of (1) foreign plaintiffs is suing (2) a foreign issuer in an American court for violations of American securities laws based on securities transactions in (3) foreign countries.
+This is the first so-called "foreign-cubed" securities class action to reach this Circuit.
+See Stuart M. Grant & Diane Zilka, The Role of Foreign Investors in Federal Securities Class Actions, in Corporate Law and Practice Handbook Series (Number B-1442) 91, 96 (Practicing Law Institute ed., 2004) (coining the term "foreign-cubed"); Hannah L. Buxbaum, Multinational Class Actions Under Federal Securities Law: Managing Jurisdictional Conflict , 46 Colum. J. Transnat'l L. 14 (2007) (analyzing the concept of a "foreign-cubed" securities class action).
+But despite this unusual fact-pattern, the usual rules still apply.
+As we noted, subject matter jurisdiction exists over these claims only "if the defendant's conduct in the United States was more than merely preparatory to the fraud, and particular acts or culpable failures to act within the United States directly caused losses to foreign investors abroad."
+Alfadda , 935 F.2d at 478 .
+Our Circuit's current standard for determining whether we possess subject matter jurisdiction over transnational securities fraud largely grew out of a series of opinions we issued between 1968 and 1983.
+[fn6] Two of these cases, Bersch v. Drexel Firestone, Inc. , 519 F.2d 974 (2d Cir. 1975), and IIT v. Vencap, Ltd. , 519 F.2d 1001 (2d Cir. 1975), both written by Judge Friendly, are particularly helpful.
+Bersch [**6] involved the offering of shares in IOS, a Canadian mutual fund, to non-Americans via a prospectus distributed outside of the United States, which the plaintiffs in the action asserted contained misleading statements and omissions.
+Bersch , 519 F.2d at 980 .
+Of the six investment banks that underwrote the offering, two were headquartered in America, as was Arthur Andersen, IOS's primary accounting firm.
+Id. at 979-80 .
+IOS, the underwriters, and their attorneys and accountants met on many occasions in New York to initiate, organize, and structure the offering; parts of the prospectus were drafted in New York and read over the telephone to personnel at the main business office of IOS in Geneva, Switzerland; and the proceeds of the offering were deposited in New York before being distributed to IOS.
+Id. at 978 , 985 n. 24.
+We concluded that we did not have subject matter jurisdiction because the fraud itself consisted of the delivery of the fraudulent prospectus to investors and the final prospectus emanated from a foreign source (London, Brussels, Toronto, the Bahamas, or Geneva).
+Id. at 987 .
+Despite the fact that meetings and work regarding the prospectus took place in New York, we concluded that those actions were "merely preparatory" or took the "form of culpable nonfeasance and are relatively small in comparison to those abroad."
+See id .
+In Vencap , which involved the allegedly fraudulent sale of foreign securities to a British investment trust, with certain actions taken in the United States, we determined that the findings of the district court did not provide enough information for us to determine subject matter jurisdiction.
+We did, however, observe that a fundamental consideration in determining whether conduct gives rise to subject matter jurisdiction is that the United States should not be "used as a base for manufacturing fraudulent security devices for export, even when these are peddled only to foreigners," as "[t]his country would surely look askance if one of our neighbors stood by silently and permitted misrepresented securities to be poured into the United States."
+Vencap, Ltd. , 519 F.2d at 1017 .
+Bersch and Vencap illustrate how to approach subject matter jurisdiction under the "conduct test": identify which action or actions constituted the fraud and directly caused harm — in the case of Bersch , the act of placing the allegedly false and misleading prospectus "in the purchasers' hands," Bersch , 519 F.2d at 987 — and then determine if that act or those actions emanated from the United States.
+See Vencap, Ltd. , 519 F.2d at 1017 .
+Since then we have repeatedly applied these principles.
+See, e.g., Itoba Ltd. , 54 F.3d at 122 ; Alfadda , 935 F.2d at 478 ; Psimenos , 722 F.2d at 1045 .
+We most recently applied them in SEC v. Berger , 322 F.3d 187 (2d Cir. 2003).
+There, the Manhattan Investment Fund, an offshore investment company organized under the laws of the British Virgin Islands and run by a single active director (Berger), suffered losses in excess of $300 million.
+Id. at 188-89 .
+Instead of reporting these losses, Berger, working in New York, created fraudulent account statements that "vastly overstated" the market value of the Fund's holdings.
+Id. at 189 .
+Berger sent [**7] these fraudulent account statements to the fund administrator in Bermuda and ordered the administrator to send to investors the fraudulent statements rather than the accurate ones supplied by Bear Stearns.
+Id .
+We held that we had subject matter jurisdiction under the "conduct test" because the "fraudulent scheme was masterminded and implemented by Berger in the United States," id. at 194 , even though the statements that ultimately conveyed the fraudulent information to investors were mailed from Bermuda.
+The critical factor was that the conduct that directly caused loss to investors — the creation of the fraudulent statements — occurred in New York.
+Determining what is central or at the heart of a fraudulent scheme versus what is "merely preparatory" or ancillary can be an involved undertaking.
+Appellees and certain of the amid curiae urge us to eschew this analysis in favor of a bright-line rule.
+They urge us to rule that in so-called "foreign-cubed" securities actions, showing domestic conduct should never be enough and subject matter jurisdiction cannot be established where the conduct in question has no effect in the United States or on American investors.
+They contend that the general "presumption" against the extraterritorial application of American laws bars American courts from exercising subject matter jurisdiction over these types of claims.
+See, e.g., Microsoft Corp. v. AT & T Corp. , 550 U.S. 437 , 127 S.Ct. 1746 , 1758 , 167 L.Ed.2d 737 (2007) (referring to the "presumption that United States law governs domestically but does not rule the world"); Smith v. United States , 507 U.S. 197 , 113 S.Ct. 1178 , 1183 , 122 L.Ed.2d 548 (1993) ("It is a longstanding principle of American law that legislation of Congress, unless a contrary intent appears, is meant to apply only within the territorial jurisdiction of the United States.")
+(citation and internal quotation marks omitted); Kollias v. D & G Marine Maint. , 29 F.3d 67 , 70 (2d Cir. 1994) ("[W]e must presume that Congress intended its enactments to apply only within the territorial jurisdiction of the United States unless the legislation reflects a contrary intent.").
+In support of their position, Appellees and amici point to a parade of horribles that they claim would result if American courts exercised subject matter jurisdiction over such actions.
+They contend that this would, among other things, undermine the competitive and effective operation of American securities markets, discourage cross-border economic activity, and cause duplicative litigation.
+Their principal objection, though, is that entertaining such actions here would bring our securities laws into conflict with those of other jurisdictions.
+For instance, in Switzerland, no comprehensive federal legislation governs securities fraud, and private remedies are the only ones available.
+In Canada, securities class actions are recognized, but most provinces do not recognize the fraud on the market doctrine.
+In various other countries, class actions are either not available or the ability of class actions to preclude further litigation is problematic.
+See, e.g. , David A. Skeel, Jr., Can Majority Voting Provisions [**8] Do It All?
+, 52 Emory L.J. 417, 423 (2003) (noting that "most other countries do not have procedural devices that are even remotely similar to the U.S .
+class action"); Gerhard Walter, Mass Tort Litigation in Germany and Switzerland , 11 Duke J. Comp. & Int'l L. 369, 372 (2001) (observing that "class actions do not exist in Germany, Switzerland, and most other countries of the civil law system").
+In essence, Appellees argue that other countries have carefully crafted their own, individual responses to securities litigation based on national policies and priorities and that opening American courts to such actions would disrupt and impair these carefully constructed local arrangements.
+However, the potential conflict between our anti-fraud laws and those of foreign nations does not require the jettisoning of our conduct and effects tests for "foreign-cubed" securities fraud actions and their replacement with the bright-line ban advocated by Appellees.
+The problem of conflict between our laws and those of a foreign government is much less of a concern when the issue is the enforcement of the anti-fraud sections of the securities laws than with such provisions as those requiring registration of persons or securities.
+The reason is that while registration requirements may widely vary, anti-fraud enforcement objectives are broadly similar as governments and other regulators are generally in agreement that fraud should be discouraged.
+As Judge Friendly pointed out in I IT, Int'l Inv. Trust v. Cornfeld , 619 F.2d 909 , 921 (2d Cir. 1980), "[t]he primary interest of [a foreign state] is in the righting of a wrong done to an entity created by it.
+If our anti-fraud laws are stricter than [a foreign state's], that country will surely not be offended by their application."
+Furthermore, declining jurisdiction over all "foreign-cubed" securities fraud actions would conflict with the goal of preventing the export of fraud from America.
+As the argument goes, the United States should not be seen as a safe haven for securities cheaters; those who operate from American soil should not be given greater protection from American securities laws because they carry a foreign passport or victimize foreign shareholders.
+A much stronger case would exist, for example, for the exercise of subject matter jurisdiction in a case where the American subsidiary of a foreign corporation issued fraudulent statements or pronouncements from the United States impacting the value of securities trading on foreign exchanges.
+Moreover, we are leery of rigid bright-line rules because we cannot anticipate all the circumstances in which the ingenuity of those inclined to violate the securities laws should result in their being subject to American jurisdiction.
+That being said, we are an American court, not the world's court, and we cannot and should not expend our resources resolving cases that do not affect Americans or involve fraud emanating from America.
+In our view, the "conduct test" balances these competing concerns adequately and we decline to place any special limits beyond [**9] the "conduct test" on "foreign-cubed" securities fraud actions.
+The issue for us to resolve here boils down to what conduct comprises the heart of the alleged fraud.
+Appellants assert that the alleged manipulation of the MSR by HomeSide in Florida made up the main part of the fraud since those false numbers constituted the misleading information passed on to investors through NAB's public statements.
+According to Appellants, if HomeSide had not created and sent artificially inflated numbers up to its parent company, there would have been no fraud, no harm to purchasers, and no claims under Rule 10b-5 .
+Appellants insist that NAB's creation and dissemination of the public statements in question consisted solely of the mechanical insertion of HomeSide's numbers into the statements and public filings and that the locus of the improper conduct (Florida) and not the place of compilation (Australia) should determine jurisdiction.
+The Appellees, on the other hand, argue that the allegedly false and misleading public statements made by NAB constituted the fraud, since, without those statements, no misinformation would have been reported, no investors would have been defrauded, and no actionable claims would have existed under Rule 10b-5 .
+Since NAB's public statements were compiled in Australia and disseminated from there, Appellees contend that the only conduct that directly caused harm to investors occurred in Australia.
+We conclude that we do not have subject matter jurisdiction.
+The actions taken and the actions not taken by NAB in Australia were, in our view, significantly more central to the fraud and more directly responsible for the harm to investors than the manipulation of the numbers in Florida.
+HomeSide, as a wholly owned, primarily operational subsidiary of NAB, reported to NAB in Australia.
+Home-Side's mandate was to run its business well and make money.
+The responsibilities of NAB's Australian corporate headquarters, on the other hand, included overseeing operations, including those of the subsidiaries, and reporting to shareholders and the financial community.
+NAB, not HomeSide, is the publicly traded company, and its executives — assisted by lawyers, accountants, and bankers — take primary responsibility for the corporation's public filings, for its relations with investors, and for its statements to the outside world.
+Appellants' claims arise under Rule 10b-5(b) , [fn7] which focuses on the accuracy of statements to the public and to potential investors.
+Ensuring the accuracy of such statements is much more central to the responsibilities of NAC's corporate headquarters, which issued the statements, than to those of HomeSide, which did not.
+Liability under Rule 10b-5(b) requires a false or misleading statement.
+"Anything short of such conduct is merely aiding and abetting, and no matter how substantial that aid may be, it is not enough to trigger liability under Section 10(b) ."
+Wright v. Ernst & Young LLP , 152 F.3d 169 , 175 (2d Cir. 1998) (citation and internal quotation marks omitted).
+NAB's executives possess the responsibility [**10] to present accurate information to the investing public and to the holders of its ordinary shares in accordance with a host of accounting, legal and regulatory standards.
+When a statement or public filing fails to meet these standards, the responsibility, as a practical matter, lies in Australia, not Florida.
+Another significant factor at play here is the striking absence of any allegation that the alleged fraud affected American investors or America's capital markets.
+Appellants press their appeal solely on behalf of foreign plaintiffs who purchased on foreign exchanges and do not pursue the "effects" test.
+They do not contend that what Appellants allegedly did had any meaningful effect on America's investors or its capital markets.
+This factor weighs against our exercise of subject matter jurisdiction.
+A third factor that weighs against jurisdiction is the lengthy chain of causation between the American contribution to the misstatements and the harm to investors.
+HomeSide sent allegedly falsified numbers to Australia.
+Appellants do not contend that HomeSide sent any falsified numbers directly to investors.
+If NAB's corporate headquarters had monitored the accuracy of HomeSide's numbers before transmitting them to investors, the inflated numbers would have been corrected, presumably without investors having been aware of the irregularities, much less suffering harm as a result.
+In other words, while HomeSide may have been the original source of the problematic numbers, those numbers had to pass through a number of checkpoints manned by NAB's Australian personnel before reaching investors.
+While HomeSide's rigging of the numbers may have contributed to the misinformation, a number of significant events needed to occur before this misinformation caused losses to investors.
+This lengthy chain of causation between what HomeSide did and the harm to investors weighs against our exercising subject matter jurisdiction.
+As the Supreme Court noted in Stoneridge , "deceptive acts [that] were not communicated to the public" do not suffice to "show reliance .
+.
+.
+except in an indirect chain that we find too remote for liability."
+Stoneridge Inv.
+Partners, LLC v. Scientific-Atlanta, Inc. , U.S .
+, 128 S.Ct. 761 , 769 , 169 L.Ed.2d 627 (2008); accord Pugh v. Tribune Co. , 521 F.3d 686 , 696-97 (7th Cir. 2008).
+This particular mix of factors — the fact that the fraudulent statements at issue emanated from NAB's corporate headquarters in Australia, the complete lack of any effect on America or Americans, and the lengthy chain of causation between HomeSide's actions and the statements that reached investors — add up to a determination that we lack subject matter jurisdiction.
+III.
+CONCLUSION For all these reasons, the judgment of the district court is affirmed.

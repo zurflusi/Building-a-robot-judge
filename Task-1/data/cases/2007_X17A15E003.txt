@@ -1,0 +1,143 @@
+ CARNES, Circuit Judge: The facts of this case present an interesting issue involving whether to apply the exclusionary rule.
+Officers in one jurisdiction check with employees of a law enforcement agency in another jurisdiction and are told that there is an outstanding warrant for an individual.
+Acting in good faith on that information the officers arrest the person and find contraband.
+It turns out the warrant had been recalled.
+The erroneous information that led to the arrest and search is the result of a good faith mistake by an employee of the agency in the other jurisdiction.
+Does the exclusionary rule require that evidence of the contraband be suppressed, or does the good faith exception to the rule permit use of the evidence?
+I. On a July afternoon in 2004, Bennie Dean Herring drove his pickup truck to the Coffee County, Alabama Sheriff's Department to check on another of his trucks, which was impounded in the Department's lot.
+As Herring was preparing to leave the Sheriff's Department, Coffee County Investigator Mark Anderson arrived at work.
+Anderson knew Herring and had reason to suspect that there might be an outstanding warrant for his arrest.
+Anderson asked Sandy Pope, the warrant clerk for the Coffee County Sheriff's Department, to check the county database.
+She did and told Anderson that she saw no active warrants for Herring in Coffee County.
+Investigator Anderson asked Pope to call the Sheriff's Department in neighboring Dale County to see if there were any outstanding warrants for Herring there.
+Pope telephoned Sharon Morgan, the Dale County warrant clerk, who checked her database and told Pope that there was an active warrant in that county charging Herring with failure to appear on a felony charge.
+Pope relayed that information to Anderson.
+Acting quickly on the information, Investigator Anderson and a Coffee County deputy sheriff followed Herring as he drove away from the Sheriff's Department.
+They pulled Herring over and arrested him pursuant to the Dale County warrant, and they searched both his person and the truck incident to the arrest.
+The search turned up some methamphetamine in Herring's pocket and a pistol under the front seat of his truck.
+All of that happened in Coffee County.
+Meanwhile back in Dale County, Warrant Clerk Morgan was trying in vain to locate a copy of the actual warrant for Herring's arrest.
+After she could not find one, she checked with the Dale County Clerk's Office, which informed her that the warrant had been recalled.
+Morgan immediately called Pope, her counterpart in Coffee County, to relay this information, and Pope transmitted it to the two Coffee County arresting officers.
+[**2] Only ten to fifteen minutes had elapsed between the time that Morgan in Dale County had told Pope that an active warrant existed and the time that Morgan called her back to correct that statement.
+In that short interval, however, the Coffee County officers had acted on the initial information by arresting Herring and carrying out the search incident to that arrest.
+As a result of the contraband found during the search, Herring was indicted on charges of possessing methamphetamine, in violation of 21 U.S.C. 844 (a), and being a felon in possession of a firearm, in violation of 18 U.S.C. 922 (g)(1).
+He moved to suppress any evidence of the methamphetamine and firearm on grounds that the searches that turned them up were not incident to a lawful arrest, because the arrest warrant on which the officers acted had been rescinded.
+The magistrate judge recommended denying the motion to suppress.
+He found that the arresting officers conducted their search in a good faith belief that the arrest warrant was still outstanding, and that they had found the drugs and firearm before learning the warrant had been recalled.
+The magistrate judge concluded that there was "simply no reason to believe that application of the exclusionary rule here would deter the occurrence of any future mistakes."
+The district court adopted the magistrate judge's recommendation and made the additional finding that the erroneous warrant information appeared to be the fault of Dale County Sheriff's Department personnel instead of anyone in Coffee County.
+A jury convicted Herring of both counts, and he was sentenced to 27 months imprisonment.
+His sole contention on appeal is that the district court erred in denying his motion to suppress the drugs and firearm that were found during the search of his truck.
+II.
+The parties agree on the central facts.
+The Coffee County officers made the arrest and carried out the searches incident to it based on their good faith, reasonable belief that there was an outstanding warrant for Herring in Dale County.
+They found the drugs and firearm before learning that the warrant had been recalled.
+The erroneous information about the warrant resulted from the negligence of someone in the Dale County Sheriff's Department, and no one in Coffee County contributed to the mistake.
+The only dispute is whether, under these facts, the exclusionary rule requires the suppression of the firearm and drugs.
+A. The Fourth Amendment protects the "right of the people to be secure in their persons, houses, papers, and effects, against unreasonable searches and seizures."
+United States Const.
+Amend.
+IV .
+The search of Herring's person and truck cannot be justified as incident to a lawful arrest because the arrest was not lawful.
+There was no probable cause for the arrest and the warrant had been rescinded.
+That means the search violated Herring's Fourth Amendment rights, but it does not mean that the evidence obtained through them must be suppressed.
+As the Supreme Court has told us on more than one occasion, whether to apply the exclusionary rule is "an issue separate from the question [ [**3] of] whether the Fourth Amendment rights of the party seeking to invoke the rule were violated by police conduct."
+United States v. Leon , 468 U.S. 897 , 906 , 104 S.Ct. 3405 , 3412 , 82 L.Ed.2d 677 (1984) (quoting Illinois v. Gates , 462 U.S. 213 , 223 , 103 S.Ct. 2317 , 2324 , 76 L.Ed.2d 527 (1983)).
+The Leon case is the premier example of the distinction between finding a constitutional violation and excluding evidence based on that violation.
+Leon held that the exclusionary rule does not bar the use of evidence obtained by officers acting in good faith reliance on a warrant which is later found not to be supported by probable cause.
+Id. at 922 , 104 S.Ct. at 3420 .
+The Court's analysis of whether the exclusionary rule should be applied to constitutional violations stemming from mistakes by judicial officers carried out by law enforcement officers proceeded in two steps.
+First, the Court considered whether the rule should be applied because it might improve the performance of judges and magistrate judges, and the Court concluded that was not a good enough reason for applying it.
+See id. at 916-17 , 104 S.Ct. at 3417-18 ("[T]he exclusionary rule is designed to deter police misconduct rather than to punish the errors of judges and magistrates.
+"); see also Illinois v. Krull , 480 U.S. 340 , 348 , 107 S.Ct. 1160 , 1166 , 94 L.Ed.2d 364 (1987).
+Second, the Court considered whether, and if so how much, application of the exclusionary rule in that circumstance might be expected to improve the behavior of law enforcement officers, and it concluded that any slight deterrent benefit provided by applying the rule would be outweighed by the heavy costs of excluding relevant and material evidence.
+Leon , 468 U.S. at 920-22 , 104 S.Ct. at 3419-20 ("We conclude that the marginal or nonexistent benefits produced by suppressing evidence obtained in objectively reasonable reliance on a subsequently invalidated search warrant cannot justify the substantial costs of exclusion.
+"); see also Krull , 480 U.S. at 348 , 107 S.Ct. at 1166 ; United States v. Accardo , 749 F.2d 1477 , 1480 (11th Cir.1985) (characterizing Leon as establishing that the exclusionary rule "remains viable only as a deterrent to police misconduct").
+A decade later, in Arizona v. Evans , 514 U.S. 1 , 115 S.Ct. 1185 , 131 L.Ed.2d 34 (1995), the Court extended Leon's "good faith exception" to the exclusionary rule to circumstances in which officers rely in good faith on a court employee's representation that a valid warrant existed when, in fact, the warrant has previously been quashed.
+Id. at 14 , 115 S.Ct. at 1193 .
+The government contends that Evans involved essentially the same situation as this case and that the Evans decision standing alone justifies the admission of the illegally obtained evidence here.
+We think, however, that this effort by the government to justify its capture of Herring red-handed relies on a red herring.
+The Supreme Court in Evans expressly declined to address whether the exclusionary rule should be applied when police personnel rather than court employees are the source of the error, id. at 15 n. 5, 115 S.Ct. at 1194 n. 5, thereby disavowing any decision on the issue the government argues the Court decided.
+For guidance on this issue we return to Leon.
+The opinion in that case instructs us that "[w]hether the exclusionary sanction is appropriately imposed in a particular case .
+.
+.
+must be resolved by weighing the costs and benefits of preventing the use in the prosecution' [**4] s case in chief of inherently trustworthy tangible evidence."
+468 U.S. at 906 , 104 S.Ct. at 3412 .
+A rule that denies the jury access to probative evidence "must be carefully limited to the circumstances in which it will pay its way by deterring official lawlessness."
+Gates , 462 U.S. at 257-58 , 103 S.Ct. at 2342 .
+That means the exclusionary rule should only be applied to a category of cases if it will "result in appreciable deterrence."
+United States v. Janis , 428 U.S. 433 , 454 , 96 S.Ct. 3021 , 3032 , 49 L.Ed.2d 1046 (1976).
+Application of the rule is unwarranted where "[a]ny incremental deterrent effect .
+.
+.
+is uncertain at best."
+United States v. Calandra , 414 U.S. 338 , 351 , 94 S.Ct. 613 , 621 , 38 L.Ed.2d 561 (1974).
+The possibility that application of the exclusionary rule in a situation may deter Fourth Amendment violations to some extent is not enough.
+Alderman v. United States , 394 U.S. 165 , 174 , 89 S.Ct. 961 , 967 , 22 L.Ed.2d 176 (1969); see Leon , 468 U.S. at 910 , 104 S.Ct. at 3413 .
+Instead, the test for extending the exclusionary rule is whether the costs of doing so are outweighed by the deterrent benefits.
+Leon , 468 U.S. at 910 , 104 S.Ct. at 3413 .
+The "substantial social costs exacted by the exclusionary rule" are well known.
+Id. at 907 , 104 S.Ct. at 3412 .
+The Supreme Court has "consistently recognized that unbending application of the exclusionary sanction .
+.
+.
+would impede unacceptably the truth-finding functions of judge and jury," United States v. Payner , 447 U.S. 727 , 734 , 100 S.Ct. 2439 , 2445 , 65 L.Ed.2d 468 (1980), and it has "repeatedly emphasized that the rule's `costly toll' upon truth-seeking and law enforcement objectives presents a high obstacle for those urging [its] application."
+Pa. Bd. of Prob. & Parole v. Scott , 524 U.S. 357 , 364-65 , 118 S.Ct. 2014 , 2020 , 141 L.Ed.2d 344 (1998).
+For that reason, suppression of evidence has always been a last resort, not a first impulse.
+Hudson v. Michigan , U.S. , 126 S.Ct. 2159 , 2163 , 165 L.Ed.2d 56 (2006).
+Unlike the costs of applying the exclusionary rule, the benefits of doing so are hard to gauge because empirical evidence of the rule's deterrent effect is difficult, if not impossible, to come by.
+See Janis , 428 U.S. at 449-53 , 96 S.Ct. at 3030-31 .
+Even if we could measure or approximate any deterrent effect that the exclusionary rule produces, in order to value that effect we must identify the intended target of the deterrence.
+Id. at 448 , 96 S.Ct. at 3029 ("In evaluating the need for a deterrent sanction, one must first identify those who are to be deterred.").
+It is this question that the first part of Leon and nearly all of Evans addresses.
+See Leon , 468 U.S. at 913-17 , 104 S.Ct. at 3415-18 ; Evans , 514 U.S. at 11-17 , 115 S.Ct. at 1191-94 .
+The answer that both cases give is that the exclusionary rule is designed to deter police misconduct, rather than to punish the errors of others (in those cases, judicial magistrates and court clerks).
+Leon , 468 U.S. at 916 , 104 S.Ct. at 3417 ; Evans , 514 U.S. at 11 , 115 S.Ct. at 1191 .
+Our decisions give the same answer.
+See, e.g., United States v. Martin , 297 F.3d 1308 , 1313 (11th Cir.2002); Accardo , 749 F.2d at 1480 .
+Misconduct by other actors is a proper target of the exclusionary rule only insofar as those others are "adjuncts to the law enforcement team."
+Evans , 514 U.S. at 15 , 115 S.Ct. at 1193 .
+To sum up, our review of Leon identifies three conditions that must occur to warrant application of the exclusionary rule.
+First, there must be misconduct by the police or by adjuncts to the law enforcement team.
+Id. at 913-17 , 104 S.Ct. at 3415-18 .
+[fn1] Second, application of the rule must result in appreciable deterrence of that misconduct.
+Id. at 909 , 104 S.Ct. at 3413 .
+Finally, the benefits of the rule's application must not outweigh its costs.
+Id. at 910 , 104 S.Ct. at 3413 .
+B. As for the first condition, "[t]he deterrent purpose of the exclusionary rule necessarily assumes that the police have engaged in willful, or at [**5] the very least negligent, conduct which has deprived the defendant of some right."
+Michigan v. Tucker , 417 U.S. 433 , 447 , 94 S.Ct. 2357 , 2365 , 41 L.Ed.2d 182 (1974).
+The conduct in question in this case is the failure of someone inside the Dale County Sheriff's Department to record in that department's records the fact that the arrest warrant for Herring had been recalled or rescinded by the court or by the clerk's office.
+That failure to bring the records up to date is "at the very least negligent."
+See id .
+We will assume for present purposes that the negligent actor, who is unidentified in the record, is an adjunct to law enforcement in Dale County and is to be treated for purposes of the exclusionary rule as a police officer.
+See supra note 1.
+As for the second consideration in deciding whether to apply the exclusionary rule to these circumstances, doing so will not deter bad record-keeping to any appreciable extent, if at all.
+There are several reasons for this.
+For one thing, the conduct in question is a negligent failure to act, not a deliberate or tactical choice to act.
+There is no reason to believe that anyone in the Dale County Sheriff's Department weighed the possible ramifications of being negligent and decided to be careless in record-keeping.
+Deterrents work best where the targeted conduct results from conscious decision making, because only if the decision maker considers the possible results of her actions can she be deterred.
+Another reason that excluding evidence resulting from the negligent failure to update records is unlikely to reduce to any significant extent that type of negligence is that there are already abundant incentives for keeping records current.
+First, there is the inherent value of accurate record-keeping to effective police investigation.
+Inaccurate and outdated information in police files is just as likely, if not more likely, to hinder police investigations as it is to aid them.
+Second, and related to the first reason, there is the possibility of reprimand or other job discipline for carelessness in record-keeping.
+Third, there is the possibility of civil liability if the failure to keep records updated results in illegal arrests or other injury.
+Fourth, there is the risk that the department where the records are not kept up to date will have relevant evidence excluded from one of its own cases as a result.
+There is also the unique circumstance here that the exclusionary sanction would be levied not in a case brought by officers of the department that was guilty of the negligent record keeping, but instead it would scuttle a case brought by officers of a different department in another county, one whose officers and personnel were entirely innocent of any wrongdoing or carelessness.
+We do not mean to suggest that Dale County law enforcement agencies are not interested in the successful prosecution of crime throughout the state, but their primary responsibility and interest lies in their own cases.
+Hoping to gain a beneficial deterrent effect on Dale County personnel by excluding evidence in a case brought by Coffee County [**6] officers would be like telling a student that if he skips school one of his classmates will be punished.
+The student may not exactly relish the prospect of causing another to suffer, but human nature being what it is, he is unlikely to fear that prospect as much as he would his own suffering.
+For all of these reasons, we are convinced that this is one of those situations where "[a]ny incremental deterrent effect which might be achieved by extending the rule .
+.
+.
+is uncertain at best," Calandra , 414 U.S. at 348 , 94 S.Ct. at 620 , where the benefits of suppression would be "marginal or nonexistent," Leon , 468 U.S. at 920-22 , 104 S.Ct. at 3420 , and where the exclusionary rule would not "pay its way by deterring official lawlessness," Gates, 462 U.S. at 257-58 , 103 S.Ct. at 2342 .
+Turning to the third Leon condition, any minimal deterrence that might result from applying the exclusionary rule in these circumstances would not outweigh the heavy cost of excluding otherwise admissible and highly probative evidence.
+Leon , 468 U.S. at 910 , 104 S.Ct. at 3413 .
+In closing, we note, as the Supreme Court did in Leon , that the test for reasonable police conduct is objective.
+468 U.S. at 919 n. 20, 104 S.Ct. at 3419 n. 20.
+The district court found that "there [was] no credible evidence of routine problems with disposing of recalled warrants" and updating records in Dale County, and Herring does not contest that finding.
+If faulty record-keeping were to become endemic in that county, however, officers in Coffee County might have a difficult time establishing that their reliance on records from their neighboring county was objectively reasonable.
+The good faith exception to the exclusionary rule does not shelter evidence that was obtained in an unconstitutional arrest or search that was based on objectively unreliable information.
+See Evans , 514 U.S. at 17 , 115 S.Ct. at 1194-95 (O'Connor, J., concurring).
+AFFIRMED.

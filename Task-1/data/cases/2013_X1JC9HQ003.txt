@@ -1,0 +1,254 @@
+ TYMKOVICH, Circuit Judge.
+Kevin Loughrin was convicted of bank fraud and other charges arising from a check and identity theft scheme.
+He now appeals his conviction on two grounds: (1) the district court's jury instructions on the bank fraud counts, 18 U.S.C. 1344 (2), were erroneous because they did not contain a requirement that Loughrin intended to defraud a bank; and (2) the delay between his indictment and trial violated his rights under the Speedy Trial Act.
+We conclude the district court did not err in applying the requisite elements for bank fraud under 1344(2) and that the subsection does not require proof that the defendant intended to defraud a bank.
+We also agree that Loughrin was tried within seventy days as required by the Speedy Trial Act.
+Exercising our jurisdiction under 28 U.S.C. 1291 , we reject both of Loughrin's grounds for appeal and AFFIRM.
+I. Background Kevin Loughrin's charges arose from a scheme to steal checks from people's mail.
+After stealing the checks, he would alter them to make purchases at a local Target store.
+He would then return those purchases to Target for cash.
+The scheme came to an end when Loughrin and a codefendant, Theresa Thongsarn, were indicted on six counts of bank fraud, two counts of aggravated identity theft, and one count of possession of stolen mail.
+Prior to trial, Loughrin filed a motion for dismissal based on violations of the Speedy Trial Act, which the district court denied.
+At trial Loughrin proposed that the jury instruction for bank fraud, 18 U.S.C. 1344 (2), specifically require the jury to find that he had an intent to defraud a financial institution in order to convict.
+The court, stating that the statute and Tenth Circuit law did not require such a finding, rejected Loughrin's proposed instructions.
+Loughrin was convicted on all six bank fraud counts, as well as on counts for stolen mail and aggravated identity theft.
+The court sentenced Loughrin to thirty-six months' imprisonment.
+II.
+Analysis Loughrin contends the district court erred in two ways: (1) the jury instructions on the bank fraud counts, 18 U.S.C. 1344 (2), failed to include a requirement that he intended to defraud a bank or financial institution; and (2) his rights under the Speedy Trial Act were violated due to unexcused delay between his indictment and trial.
+We disagree [**2] with both arguments.
+A. Jury Instructions Loughrin first argues the district court erred in refusing to instruct the jury that a conviction under 1344(2) requires proof that he intended to defraud the banks on which the checks had been drawn.
+If the district court erred, Loughrin contends, there was insufficient evidence to sustain a conviction under 1344(2) .
+We review "a district court's refusal to give a requested instruction for abuse of discretion."
+United States v. Crockett , 435 F.3d 1305 , 1314 (10th Cir.2006).
+But we review the jury instructions de novo to determine "whether, as a whole, they accurately state the governing law."
+Id .
+The Bank Fraud statute prohibits two types of conduct: "knowingly execut[ing], or attempt[ing] to execute, a scheme or artifice — (1) to defraud a financial institution; or (2) to obtain any of the moneys, funds, credits, assets, securities, or other property owned by, or under the custody or control of a financial institution, by means of false or fraudulent pretenses, representations, or promises."
+18 U.S.C. 1344 .
+Though "largely overlapping, a scheme to defraud, and a scheme to obtain money by means of false or fraudulent pretenses, representations, or promises, are separate offenses."
+United States v. Swanson , 360 F.3d 1155 , 1162 (10th Cir.2004) (quoting United States v. Cronic , 900 F.2d 1511 , 1513 (10th Cir.1990)).
+The two provisions have similar elements, differing only by the type of scheme each one targets.
+Our case law requires the government to prove: "(1) that the defendant knowingly executed or attempted to execute a scheme (i) to defraud [ 1344(1) ] or (ii) to obtain property by means of false or fraudulent pretenses, representations or promises [ 1344(2) ]; (2) that defendant did so with the intent to defraud; and (3) that the financial institution was then insured by the Federal Deposit Insurance Corporation."
+United States v. Rackley , 986 F.2d 1357 , 1360-61 (10th Cir.1993) (emphasis in original).
+The differences in the prohibited conduct for each offense extend to the type of proof the government needs to offer.
+To establish that a bank was defrauded under 1344(1) , the government need not prove that the bank "suffered any monetary loss, only that the bank was put at potential risk by the scheme to defraud."
+United States v. Young , 952 F.2d 1252 , 1257 (10th Cir.1991).
+Yet a conviction under 1344(2) requires no proof that a bank was "at risk" because there is no explicit requirement that a particular bank be defrauded.
+United States v. Sapp , 53 F.3d 1100 , 1103 (10th Cir.1995).
+As we explained in Sapp , the reason for this difference stems from the plain language of the statute: "[C]lause (1) focuses on the conduct as it affects the financial institution, while clause (2) emphasizes the conduct of the defendant."
+Id .
+Indeed, the latter "extends to any knowingly false represfintation" by the defendant.
+Id. at 1102 (quotation omitted).
+Loughrin contends that a conviction under subsection 1344(2) , like one under 1344(1) , requires proof that he intended to defraud a bank.
+He argues that our decision in Rackley "suggests that the scheme to defraud and the false pretenses must equally be directed at a financial institution."
+Aplt.
+Br. at 18.
+But Rackley's omission of "financial institution" from its listing of the [**3] elements of 1344(1) does not change the fact that the text of 1344(1) itself requires that the scheme be to "defraud a financial institution. "
+18 U.S.C. 1344 (emphasis added).
+Under 1344(1) , the scheme to defraud must necessarily be directed at a financial institution or bank — there is no way to defraud a bank without intentionally directing the fraud, in some way, at a bank.
+Yet under 1344(2) , there is no requirement in either Rackley or the text of 1344(2) that the fraud must be intentionally directed at a bank.
+Unlike clause (1), clause (2) does not explicitly state who must be the object of the scheme.
+And Rackley indicates that only an intent to defraud someone is required.
+986 F.2d at 1360-61 .
+Thus, under our precedent, an individual can violate 1344(2) by obtaining money from a bank while intending to defraud someone else.
+The district court's refusal to give Loughrin's proposed instruction to the jury is also correct in light of Sapp's holding that 1344(2) requires no proof that the bank was "at risk" of suffering financial loss.
+Loughrin's interpretation would effectively render Sapp's holding superfluous: there is only a small subset of cases where a defendant would intend to defraud a bank and yet the bank would never be at any risk — i.e., incompetent attempts.
+Proving risk of loss to a bank is sensible when the target of the fraud must be a bank; yet when no risk of loss is required, it would be incongruous to still require that the target be a bank.
+Accordingly, the district court did not err in refusing to instruct the jury that an intent to defraud the bank was required.
+And the government satisfied the fraudulent intent requirement of 1344(2) with proof that Loughrin intended to defraud Target rather than a bank.
+Loughrin counters that our interpretation of 1344(2) creates bank fraud liability for any fraudulent scheme as long as a bank's assets are somehow involved, an outcome allegedly contrary to congressional intent and in conflict with the decisions of several circuits.
+[fn1] We recognize that our interpretation of 1344(2) may cast a wide net for bank fraud liability, but it is dictated by the plain language of the statute and our prior precedent.
+We are bound by those cases "absent en banc reconsideration or a superseding contrary decision by the Supreme Court."
+United States v. Meyers , 200 F.3d 715 , 720 (10th Cir.2000).
+In sum, we reject Loughrin's invitation to revisit the elements of bank fraud as set forth in our cases.
+The fact that Loughrin fraudulently obtained funds using bank checks, even though the bank was not at risk of loss, is sufficient to support his conviction for bank fraud.
+B. Speedy Trial Act Loughrin next argues that the district court violated his rights under the Speedy Trial Act (STA).
+We review a district court's denial of a motion to dismiss for violation of the Act for an abuse of discretion.
+United States v. Larson , 627 F.3d 1198 , 1203 (10th Cir.2010).
+The same standard applies when reviewing grants of an ends-of-justice continuance.
+United States v. Toombs , 574 F.3d 1262 , 1268 (10th Cir.2009).
+At the same time, we review the district court's compliance with the Act de novo and its findings of fact for clear error.
+Id .
+Before [**4] discussing the legal framework applicable to Loughrin's Speedy Trial Act claims, we provide the necessary factual background.
+1.
+Background Loughrin and his codefendant, Thongsarn, made their first appearance in federal court on June 8, 2010.
+No motions were filed after the indictment, other than a pro forma discovery request, until July 29, when Loughrin requested a change-of-plea hearing, which was scheduled for August 16.
+The change-of-plea hearing on August 16 turned into a status conference, and the hearing was pushed back to August 20.
+On neither date, however, did Loughrin or Thongsarn plead guilty.
+On August 27, the district court issued an order of continuance on the grounds that Thongsarn needed more time to understand the charges against her, tolling the time between August 16 and October 19, the then-scheduled trial date.
+During this time, because of conflicts with his old counsel, Loughrin retained Emily Swenson as new counsel.
+Thongsarn also obtained new counsel.
+On October 15, the district court granted a continuance at the request of Thongsarn's new counsel, on the grounds that new counsel needed more time to familiarize himself with the case. At the time, Loughrin had not yet made a motion to sever his trial from Thongsarn's.
+On November 3, Loughrin's new counsel moved to withdraw from representation due to a fee dispute.
+On November 16, the district court held a hearing to decide whether she could withdraw.
+The court continued the hearing to allow further discussions between Loughrin and Swenson over whether her representation could continue and whether a plea deal could be worked out with the government.
+On November 18, the court orally granted Swenson's motion to withdraw and appointed the federal defender's office as counsel.
+On the same day, the court changed the trial date to January 24 and tolled the intervening time.
+The attorney present from the federal defender's office acquiesced to the continuance.
+On December 28, Loughrin filed a motion to dismiss the aggravated identity theft charges, Counts 7 and 8.
+At a hearing on the motion (January 13, 2011), Loughrin's counsel stated Loughrin was ready to plead guilty to the bank fraud charges, Counts 1 through 6.
+The court replied it was unprepared to take Loughrin's plea that day.
+The court ultimately denied Loughrin's motion to dismiss Counts 7 and 8.
+On January 14, the government filed a motion to continue the trial from January 24 to February 7 and to request that the sixteen days between Loughrin's motion to dismiss and the court's denial of the motion be excluded for Speedy Trial purposes.
+The government explained that it needed the continuance because it had been preparing for a separate trial while at the same time responding to Loughrin's motion to dismiss.
+The government also stated that it had been under the assumption that the motion to dismiss would result in a continuance.
+In its filing the government attached a proposed order, largely recapitulating the reasons set forth in its motion.
+In a filing to the court on January 19, Loughrin's counsel, [**5] citing another trial he had scheduled for February 7, opposed the continuance.
+He also stated that Loughrin no longer planned on pleading guilty to the bank fraud charges and would proceed to trial on all counts.
+The same day, the government filed a response and supplement to its earlier motion to continue, seeking an additional two-week continuance (for a total of four weeks) now that Loughrin no longer planned to plead guilty to the fraud counts for the purpose of locating six additional witnesses for trial.
+The government attached a new proposed order reflecting Loughrin's change-of-plea decision and the government's need to locate more witnesses.
+On January 20, the district court issued an order of continuance, but adopted the proposed order submitted by the government on January 14, not the updated proposed order from January 19.
+Thus, the order filed by the court reflected the old facts: that Loughrin intended to plead to the fraud counts.
+The court also granted a two-month continuance, rather than the four-week continuance requested by the government, setting the trial date at March 21.
+On January 25, the government filed a "Motion to Amend Order" informing the court that the court's January 20 order reflected facts that were no longer true.
+The government also requested an additional two-week continuance because the March 21 trial date would come three days after the likely end of a two-week trial with which the government's attorneys would be fully occupied.
+The government cited continuity-of-counsel reasons as the basis for its request for a continuance.
+On February 2, the court held a hearing on the government's motion.
+The government explained that it would need additional witnesses now that Loughrin was no longer going to plead guilty to any counts or stipulate to any facts.
+Loughrin's counsel responded that the government knew from the beginning that it had a nine-count trial, and, to the extent that Loughrin's intention to plea changed the government's planning, it was only for six days.
+Loughrin's counsel suggested that the government ask another prosecutor in its office to step in.
+On February 7, the court issued an order of continuance moving the trial date from March 21 to April 4.
+The court amended its January 20 order to reflect the fact that the earlier continuance from January 24 to March 21 was justified on the grounds that the government needed additional time to prepare for trial given the defendant's decision to no longer plead guilty.
+The court explained that the further two-week continuance was justified on continuity of counsel grounds, given the conflicts imposed by the government's up-coming two-week trial.
+On February 23, Loughrin filed a motion to dismiss the indictment due to violations of the Speedy Trial Act.
+In particular, Loughrin challenged the court's orders on January 20 and February 7, on the grounds that they were not in the interests of justice.
+On March 2, the court denied Loughrin's motion.
+One month later, the case proceeded to trial.
+2.
+Speedy Trial Act Requirements The [**6] Speedy Trial Act requires that a criminal trial begin no more than seventy days after the filing of an indictment or the defendant's first appearance in court.
+18 U.S.C. 3161 (c)(1).
+The purpose of the Act is to "to protect a criminal defendant's constitutional right to a speedy trial and serve the public interest in bringing prompt criminal proceedings."
+United States v. Toombs , 574 F.3d 1262 , 1268 (10th Cir.2009) (quoting United States v. Thompson , 524 F.3d 1126 , 1131 (10th Cir.2008)).
+But not every day counts towards the seventy-day limit because of a multitude of statutory exclusions, 18 U.S.C. 3161 (g), including, for example, (1) any "delay resulting from any pretrial motion," from the day of its filing to the day of disposition, id. 3161(h)(1)(D) , and (2) any "delay resulting from consideration by the court of a proposed plea agreement," id. 3161(h)(1)(G) .
+If a delay does not fit within an explicit exclusion, the court may still exclude days from the seventy-day tally as long as it makes "findings that the ends of justice served by taking such action outweigh the best interest of the public and the defendant in a speedy trial."
+Id. 3161(h)(7)(A) .
+The court is required to make explicit findings in support of the exclusion, including, among others, whether any delay would result in a miscarriage of justice, the complexity of the case, and the need for adequate preparation.
+Id. 3161(h)(7)(B) .
+Importantly, if the court does not "set[] forth, in the record of the case, either orally or in writing, its reasons" for granting a continuance, then the delay resulting from that continuance will not be excluded from the seventy-day tally.
+Id. 3161(h)(7)(A) .
+At the same time, the court need not "articulate facts which are obvious and set forth in the motion for the continuance itself."
+Toombs , 574 F.3d at 1269 (quotation omitted).
+In determining whether the district court relied on sufficient facts in granting an ends-of-justice continuance, we can look to "the oral and written statements of both the district court and the moving party."
+Id. at 1271 .
+We have imposed a variety of requirements to police the district courts' use of ends-of-justice continuances.
+The district court must "consider[] the proper factors at the time such a continuance [is] granted."
+United States v. Larson , 627 F.3d 1198 , 1204 (10th Cir.2010) (quoting Toombs , 574 F.3d at 1269 ).
+The findings cannot consist of "short, conclusory statements lacking in detail."
+Id .
+(quoting Toombs , 574 F.3d at 1271 ).
+"While the preferred practice is for the district court to make its findings on the record at the time the continuance is granted, findings made contemporaneously with the granting of the continuance may be entered on the record after the fact if done before the court rules on a defendant's motion to dismiss."
+Toombs , 574 F.3d at 1269 (citing Zedner v. United States , 547 U.S. 489 , 506-08 & n. 7, 126 S.Ct. 1976 , 164 L.Ed.2d 749 (2006)).
+With this legal framework in mind, we review the district court's calculation of excludable days under the Act.
+3.
+Excludable Days The parties agree forty-nine days are not excludable and count towards Loughrin's seventy-day tally.
+To determine whether there are more than twenty-one additional nonexcludable days, we must evaluate the effect of Loughrin's change-of-plea hearing and three ends-of-justice continuances granted by the district [**7] court.
+We consider each in turn.
+a. Change-of-Plea Hearing Loughrin first contends the district court erred in its calculation of the period from July 29, the day Loughrin's change-of-plea hearing was set, to August 15, the day before the hearing.
+While under 3161(h)(1)(D) a pretrial motion tolls the clock — from the time it is filed until after the hearing — we have yet to determine whether a change-of-plea hearing qualifies as such a motion.
+Loughrin argues that it should not count as a pre-trial motion because there is no briefing or argument associated with the proceeding.
+The government, by contrast, argues that a change of plea should count as a motion because it requires a hearing.
+We have held that a motion under 3161(h)(1)(D) need not cause "actual delay" in order to exclude the period after its filing, and before its disposition, from the seventy-day tally.
+United States v. Williams , 511 F.3d 1044 , 1050 (10th Cir.2007) (citation omitted).
+The focus of the subsection is whether the court's intervention is required or whether a hearing must be held.
+It is obvious that a change of plea triggers judicial action and even though it may not require formal briefing it will require a hearing addressing the merits with the defendant's participation.
+At least two circuits have concluded that this judicial action qualifies a change-of-plea notice as a pretrial motion.
+See United States v. Santiago-Becerril , 130 F.3d 11 , 20 (1st Cir.1997); United States v. Jenkins , 92 F.3d 430 , 440 (6th Cir.1996).
+We agree with those cases.
+While a change-of-plea notice does not necessarily create extra work in the form of briefs to be filed or arguments to be made, it unsettles the parties' expectations and consumes time in the same way that a pretrial motion does.
+A change of plea hearing is essential to establish the knowing and voluntary nature of the defendant's guilty plea, and to determine the sufficiency of its factual basis.
+Until these factors are established, the court may not rule definitively on whether or not to accept the motion for change of plea.
+Santiago-Becerril , 130 F.3d at 20 .
+In sum, a "defendant's request to change his plea clearly constitutes a pretrial motion, a motion which automatically triggers an exclusion of time."
+Id .
+(citation omitted).
+A contrary conclusion, moreover, would create an incentive for defendants to file notices of disposition and later change their minds at the hearing — meanwhile, the seventy-day clock would continue to run.
+We therefore conclude the days between a notice of a change of plea and the change-of-plea hearing are excludable under the STA.
+Accordingly, the eighteen days in dispute here do not count toward Loughrin's seventy-day tally.
+b. November 18 Order of Continuance The next question centers on the district court's November 18 order of continuance, which changed the trial date from December 13, 2010 to January 24, 2011 and prospectively tolled the period between the date of the order and the new trial date.
+Loughrin concedes that, due to other pretrial motions, only thirteen days in that period are in dispute.
+The government raises a threshold argument that Loughrin waived the issue for [**8] appeal because he never specifically challenged the November 18 order in his motion to dismiss.
+The STA provides, "Failure of the defendant to move for dismissal prior to trial .
+.
+.
+shall constitute a waiver of the right to dismissal under this section."
+18 U.S.C. 3162 (a)(2).
+The government contends this provision mandates waiver when a defendant raises an STA objection before trial but fails to challenge a particular order of continuance in that objection.
+In support of this argument, the government points to an unpublished decision, United States v. Seals , 450 Fed.Appx.
+769 (10th Cir.2011).
+We find its reasoning persuasive.
+There, the defendant filed a pretrial motion to dismiss the indictment based on a violation of the Speedy Trial Act.
+Id. at 770 .
+On appeal, the defendant tried to raise an entirely different argument.
+The court noted, "We have interpreted this language [in 18 U.S.C. 3162 (a)(2)] to mean that we may not conduct any review of Speedy Trial Act arguments unraised below, not even for plain error."
+Id. at 771 (citing United States v. Gomez , 67 F.3d 1515 , 1519-20 (10th Cir.1995)).
+The court concluded that "not only must the defendant seek dismissal prior to trial, but he must do so for the reasons he seeks to press on appeal."
+Id .
+(emphasis in original) (citing United States v. O'Connor , 656 F.3d 630 , 637-38 (7th Cir.2011)).
+The court accepted the following reasoning: As the Seventh Circuit has aptly put it, "[i]f filing a motion to dismiss were enough to preserve all violations of the Act — whether identified in the motion or not — then the district court or the government, rather than the defendant, would effectively bear the burden of`spotting violations,'" contrary to the statutory scheme.
+Id .
+(quoting O'Connor , 656 F.3d at 638 ); accord Zedner , 547 U.S. at 502-03 , 126 S.Ct. 1976 .
+We agree.
+As the Supreme Court in Zedner noted, 3162(a)(2) "assigns the role of spotting violations of the Act to defendants — for the obvious reason that they have the greatest incentive to perform this task."
+Id .
+By forcing defendants to raise all their arguments in the district court, we ensure that the arguments are adequately developed below and give the district court the opportunity to further explain its reasoning for granting a continuance.
+Cf. Toombs , 574 F.3d at 1269 ("[F]indings made contemporaneously with the granting of the continuance may be entered on the record after the fact if done before the court rules on a defendant's motion to dismiss."
+(emphasis added)).
+The alternative would force the court on a motion to dismiss for STA violation to consider every conceivable basis for challenging its orders of continuance and exclusions of time, for fear that the defendant would raise new arguments on appeal.
+We therefore conclude that a defendant seeking to challenge on appeal a district court's order of continuance must do the same in his motion to dismiss to the district court.
+Because Loughrin did not object to the November 18 order, he cannot do so now.
+Accordingly, the thirteen days at issue here do not count toward Loughrin's seventy-day tally.
+c. January 20 Order of Continuance The next challenged period stems from the January 20 order of continuance.
+That order is actually comprised of two orders: the original order on January [**9] 20, and the order as amended nunc pro tunc on February 7.
+We have stated that "although the ends-of-justice findings mandated by the Act`may be entered on the record after the fact, they may not be made after the fact.'"
+Williams , 511 F.3d at 1055 (emphasis added) (quoting United States v. Apperson , 441 F.3d 1162 , 1180 (10th Cir.2006)).
+This means that continuances and the exclusion of days from the STA clock must be granted prospectively.
+Here, the January 20 Order moved the trial date from January 24 to March 21, while the February 7 Order, issued after a continuance hearing on February 2, amended the old one with new facts.
+Williams prohibits the new findings from being used to justify the old order for the period from January 24 to February 7.
+Those findings were not merely being entered on the record, but were being made in the first instance after a hearing.
+As such, they cannot be given retroactive effect.
+The January 20 order must survive on the record available at the time.
+Cf. Toombs , 574 F.3d at 1271 (noting that, when determining compliance with the Speedy Trial Act, the record includes "the oral and written statements of both the district court and the moving party").
+Yet the only days that are in dispute — based exclusively on the court's January 20 order — are those between January 24, the previous trial date, and February 7, the day the order was amended.
+And of those days only one of them, January 24, is at stake for purposes of Loughrin's seventy-day tally.
+This is because Loughrin concedes that the rest of the period is tolled due to the government's motion to amend the district court's order.
+Because excluding or including this one day will not be dispositive of Loughrin's STA claim, in the end we need not address the merits of the January 20 order.
+d. February 7 Order of Continuance Loughrin's final argument is that the court abused its discretion in entering the February 7 amended order of continuance.
+Upon recognizing that the district court's January 20 order was based on an erroneous fact — that Loughrin intended to plead guilty — the government made a motion on January 25 to amend the order.
+The district court held a hearing on the matter on February 2.
+At the hearing, the government explained that, while Loughrin no longer planned to plead guilty, his change of plea necessitated extra preparation by the government.
+The district court in its amended order on February 7 noted that, because Loughrin no longer intended to plead guilty to the bank fraud counts, the government would have to schedule and prepare fourteen to seventeen additional witnesses.
+The district court concluded this additional preparation for the government justified the court's grant of a two-month continuance.
+Loughrin contends this additional work cannot justify the continuance because the government relied for only six days on Loughrin's representation that he would plead guilty — the time between Loughrin's January 13 statement in court that he would plead guilty to the bank fraud counts and his disavowal of that intention in his January 19 court filing.
+Yet as the government explains, Loughrin's change [**10] of plea was far more disrupting than it appears at first blush: Once Loughrin indicated that he wished to plead guilty, the government had to call off most of its witnesses.
+Then when Loughrin changed his mind — only five days before the scheduled trial — the government had to resubpoena and reschedule those same witnesses.
+We agree that coordinating all those witnesses would require much more additional time than six days, the time that elapsed while Loughrin contemplated a plea of guilty.
+Loughrin argues that, his change-of-plea notwithstanding, the government should have been prepared to go to trial because the evidence against him was duplicative of the evidence against Thongsarn, his codefendant, and that Thongsarn did not indicate she would plead guilty prior to the court's January order.
+This argument might have had some traction for the time period between January 24 and February 7, but as noted above, only one day is at stake and we need not consider it.
+By February 7, the facts had changed.
+At the February 2 hearing, Thongsarn's counsel had indicated that his client would plead guilty before trial and would cooperate with the government.
+Before that, Thongsarn planned to go to trial and then give truthful incriminating testimony against Loughrin in order to obtain a more lenient sentence.
+At the hearing, Thongsarn's counsel indicated Thongsarn could provide additional evidence against Loughrin that could result in a superseding indictment.
+This proposed cooperation necessitated extra time so that the government could debrief Thongsarn and prepare her testimony for trial.
+We find these facts compelling.
+Given the need for additional witness preparation, we cannot say that the district court abused its discretion in amending its order to justify the two-month continuance.
+While perhaps the government did not need the full two months by the time of the February 2 hearing — indeed, it originally requested only one month — the facts do not indicate that the district court acted arbitrarily or capriciously in excluding those days from the STA clock.
+Loughrin also argues that the district court legally erred in its February 7 order by not making adequate factual findings relating to the government's need for more time.
+In support of his argument, Loughrin relies on United States v. Gonzales , 137 F.3d 1431 (10th Cir.1998).
+In Gonzales , the prosecutor had asked for a later trial date because he was going to be out of town and needed sufficient time to prepare his witnesses.
+Id. at 1434 .
+The court in Gonzales found that the district court erred in granting an ends-of-justice continuance without inquiring into the complexity of the case, into whether the case could be tried by someone else in the government's office, or into why the prosecutor had to be out of town in the first place.
+Id. at 1434-35 .
+Yet the record here is not nearly as sparse as that in Gonzales.
+The district court here inquired into the number of witnesses the government needed once Loughrin no longer intended to plead guilty and the effect Thongsarn's cooperation [**11] with the government would have on Loughrin's defense.
+This is far more substantial than the summary order the district court in Gonzales issued.
+The questioning the district court here engaged in was also far more probing.
+The court explicitly examined the basis of the government's need for more time.
+"Although a more thorough and explicit articulation might have better facilitated our review of the district court's decision, the order did list the reasons supporting the finding."
+United States v. Occhipinti 998 F.2d 791 , 798 (10th Cir.1993).
+We therefore conclude that the district court made no legal error.
+Accordingly, the thirty-three days that are in dispute between February 7 and March 21 do not count toward Loughrin's seventy-day tally.
+As part of its February 7 order, the district court also granted an additional two-week continuance due to the government's conflict with another trial, moving the trial from March 21 to April 4.
+Only six days are at issue here (between March 21 and March 23, and between February 1 and February 3).
+Because these six days (and the one day we declined to address above), when added to the forty-nine undisputed days, do not push Loughrin's tally over seventy, we need not decide whether the two-week continuance was appropriate.
+In sum, we conclude there was no violation of Loughrin's rights under the Speedy Trial Act.
+III.
+Conclusion Because the district court did not err in giving the jury instruction on 18 U.S.C. 1344 (2), and because the total number of nonexcludable days for purposes of the Speedy Trial Act was less than seventy, we AFFIRM the district court.

@@ -1,0 +1,130 @@
+ COOK, Circuit Judge.
+This decision confronts the procedural ramifications attendant to a Westfall Act certification that denies the occurrence of any injury-causing event and the jurisdictional consequences of a denial of substitution under the Act — issues that have split the circuits.
+We vacate the district court decision, ascribing instead to the view adopted by a majority of the other circuits to have considered these issues.
+I The Westfall Act, 28 U.S.C. 2679 , immunizes federal employees from liability for torts committed within the scope of their employment.
+The Act permits the United States to certify that a federal employee acted within the scope of his employment, remove such state-court action to federal court, and substitute itself as defendant in place of the targeted federal employee: Upon certification by the Attorney General that the defendant employee was acting within the scope of his office or employment at the time of the incident out of which the claim arose, any civil action or proceeding commenced upon such claim in a State court shall be removed .
+.
+.
+by the Attorney General to the district court of the United States .
+.
+.
+Such action or proceeding shall be deemed to be an action or proceeding brought against the United States .
+.
+., and the United States shall be substituted as the party defendant.
+This certification of the Attorney General shall conclusively establish scope of office or employment for purposes of removal.
+28 U.S.C. 2679 (d)(2) (2000).
+The United States invoked its Westfall Act authority in this case on behalf of Barry Haley, an employee of the Forest Service.
+Plaintiff Pat Osborn sued Haley in state court following her termination by her employer, Land Between the Lakes Association (LBLA).
+Osborne complained that Haley influenced LBLA, a contractor that provided services to the Forest Service, to fire her after she had a run-in with Haley.
+The Attorney General authorized certification that Haley had been acting within the scope of his employment at the time of the incident giving rise to Osborn's allegations.
+The United States then successfully removed the suit to federal court and filed a Notice of Proposed Substitution for the immune Haley, and a motion to dismiss for failure to state a claim.
+In the district court, Osborn contested substitution, adamant that, notwithstanding the Attorney General's certification, Osborn's inducement of her discharge was extraneous to the proper scope of his duties.
+To prove her point, she submitted evidence that governing policies prohibited Forest Service employees like Haley from "participat[ing] in any LBLA decision concerning the relationship of the LBLA to the Forest Service, including but not limited to .
+.
+.
+hiring or firing LBLA employees."
+In response, the United States conceded that if Haley induced Osborn's firing, he acted outside the scope of his employment.
+It denied, however, that Haley interfered with Osborn's continued employment.
+The district court regarded the submissions of the parties as requiring a decision on the merits of Osborn's claim, i.e., whether the alleged harm-causing incident occurred at all, rather than consideration of the question it thought it should be reviewing — whether the content of the communications between LBLA and Haley was within his scope of employment.
+The district court thus decided it lacked authority to decide the scope question.
+It instead accepted as true Osborn's allegations that Haley induced her discharge, and from that premise resolved the scope-of-employment/immunity issue against Haley's entitlement to immunity.
+The court perforce denied substitution and, then, concluding that it lacked jurisdiction, remanded the action to state court.
+II We analyze Defendants' appeal as presenting two interpretive questions yet unanswered by existing circuit precedent: first, whether district courts evaluating a scope certification can resolve material disputes about the facts "upon which the plaintiff would predicate liability," or whether instead courts must accept the plaintiff's allegations of such "merits facts," Melo v. Hafer, 13 F.3d 736 , 742-43 (3d Cir. 1994); and second, whether a federal court possesses the authority to remand if it ultimately finds substitution of the United States inappropriate.
+We begin with the first of the two questions.
+A It is well settled that the Attorney General's scope-of-employment certification may be judicially reviewed — a plaintiff may challenge the scope certification and expect resolution of that issue by the district court.
+Gutierrez de Martinez v. Lamagno, 515 U.S. 417 , 420 , 115 S.Ct. 2227 , 132 L.Ed.2d 375 (1995).
+But, as the district court rightly acknowledged in choosing the sister-circuit precedent it would follow, circuits disagree about the parameters of district courts' factfinding authority where, as here, the Attorney General's scope certification amounts to a denial that any wrongdoing occurred.
+In such cases, adjudicating the precondition — whether the incident occurred within the scope of employment — can only be accomplished by deciding whether the employee committed the wrong the plaintiff alleges.
+And that prospect has caused courts to question their authority under such circumstances.
+Wood v. United States, 995 F.2d 1122 (1st Cir. 1993) (en banc), the First Circuit decision relied on by the district court, represents one approach to this certification scenario.
+The Wood majority took the position that the Westfall Act does not permit judicial factfinding where the Attorney General's certification essentially denies the plaintiff's central allegations of wrongdoing, but instead requires courts to accept as true the plaintiff's allegations (as the district court did here).
+The court acknowledged that the Act permits the Attorney General to dispute the plaintiff's description of the tortious incident alleged — "incident-characterizing facts" — and authorizes the district court to resolve such disputes.
+Id. at 1129 .
+But, according to the court, "incident-denying" certifications require different treatment, largely because the Act's reference to the "time of the incident out of which the claim arose" assumes the existence of some kind of incident.
+Id. at 1124 .
+Additionally, the court deemed restrictions on the court's factfinding authority in connection with incident-denying certifications necessary to preserve the jury's factfinding role.
+Id. at 1123 , 1130.
+Three judges dissented, insisting "the district court cannot proceed merely by assuming the complaint's allegations to be true and the certificate false."
+Id. at 1134 .
+To the contrary, in their view, district courts must resolve all factual disputes relevant to whether the defendant acted within the scope of employment, including, when necessary, whether the defendant acted as the plaintiff alleges.
+Id. at 1133 .
+The Wood dissenters discounted the en banc majority's interpretation of the statutory phrasing as necessarily assuming that an incident occurred.
+To them, "it is an accident of language — a reflection of the most common case — that the statute posits a `happening.'"
+Id. at 1134 .
+"Incident," they determined, "must encompass the possibility that something did not happen as well as the possibility that it did."
+Id .
+Acknowledging some doubt regarding whether the jury or the judge should decide issues "common both to the validity of the certificate and to the merits of the controversy," the dissenters nonetheless concluded that the statutory language, Congress's policies, and relevant precedent support leaving that decision to the judge.
+Id. at 1134-37 .
+The dissenting view found support in: the absence of language in the statute requiring the Attorney General or the court to accept the plaintiff's version of events; Congress's intent to spare employees for whom the Attorney General has issued a scope certification "not only from liability for misconduct related to their official duties but also from the burden and expense of defending such suits"; and Supreme Court precedent emphasizing that "immunity-related issues should be decided by the judge and at the earliest opportunity."
+Id. at 1135-36 (emphasis omitted).
+Additionally, from the standpoint of sound administration of the statute, the dissenters found untenable the majority's distinction between characterization of an incident and denial of an incident.
+The dissenters predicted that, "under the majority's approach, district courts — and ultimately [circuit courts] — will continue to engage in difficult, time-wasting controversies .
+.
+.
+about precisely which facts pertaining to the scope of employment issue are for the district judge and which are for the jury," resulting in the multiplication of "[h]air splitting distinctions and anomalous results."
+Id. at 1136 .
+The majority of circuit courts addressing the issue since Wood have adopted the dissenters' approach.
+In Kimbro v. Velten, 30 F.3d 1501 , 1508 (D.C. Cir. 1994), for example, the D.C.
+Circuit, echoing the dissenters' reasoning, concluded: "it does not matter .
+.
+.
+what the certification actually says — i.e., whether it denies or recharacterizes the plaintiff's allegations of the employee defendant's conduct; its filing simply ensures that a federal court determine whether the employee is entitled to absolute immunity."
+Comparing the Attorney-General-certification provision with another provision of the Westfall Act, 2679(d)(3) , which entitles a defendant to a scope determination even absent an Attorney General's scope certification, the court reasoned, "Congress certainly could not possibly have intended an employee, whose conduct the Attorney General declined to certify, to have greater immunity protection than one who enjoyed an Attorney General's certification."
+Id .
+Likewise, in Melo v. Hafer, the Third Circuit, after reviewing the legislative history and language of the statute and considering Wood, "respectfully disagree[d] with the Wood court."
+13 F.3d at 746 .
+The Melo court found "nothing in the text or legislative history of the Act suggesting that Congress intended to restrict district courts to the facts alleged in the plaintiff's complaint when deciding substitution motions."
+Id .
+The court found "[a] fortiori, .
+.
+.
+nothing there suggesting that district courts be limited to the `core' facts alleged but not the `descriptive' ones."
+Id .
+Moreover, given congressional approval of pre-Westfall Act summary-judgment practice — reflected in the legislative history — the court "decline[d] to attribute to Congress an intent to make pre-trial substitution less available to a defendant employee than was a summary judgment on grounds of immunity under pre-Westfall practice."
+Id .
+The court thus concluded "that the Attorney General may file a certification under [the Westfall Act] whenever he or she concludes that an employee defendant was acting within the scope of his or her employment at the relevant time or times," even if "the plaintiff alleges conduct which is beyond the scope of the defendant's employment, but which the Attorney General determines did not occur."
+Id. at 747 .
+Other decisions too expressly or impliedly reject the Wood majority's approach.
+See Heuton v. Anderson, 75 F.3d 357 , 360 (8th Cir. 1996) (finding the Wood majority's approach "contrary to the language of the Westfall Act," and agreeing with the Wood dissenters that "nothing in the Westfall Act gives the district court the authority to refuse to substitute the United States on the ground that either the government or the employee denies the offensive conduct").
+Though this court has not yet directly addressed this issue, it noted in Singleton v. United States that "when a district court is reviewing a certification question under the Westfall Act, it must identify and resolve disputed issues of fact necessary to its decision before entering its order."
+277 F.3d 864 , 870 (6th Cir. 2002) (internal quotations and citations omitted).
+The panel cited Heuton, Melo, and Kimbro for this proposition.
+We join the majority of the circuits addressing the issue in holding that where the Attorney General's certification "is based on a different understanding of the facts than is reflected in the complaint," Melo, 13 F.3d at 747 , including a denial of the harm-causing incident, the district court must resolve the factual dispute.
+In our view, this reading of the Westfall Act observes the language and purpose of the Act, effectuates congressional policy, and accounts for administrative practicalities.
+We thus conclude that the district court erred in relying on the First Circuit's decision in Wood and in denying substitution without first determining the scope-of-employment issue.
+B Defendants additionally argue that even if the district court correctly denied the United States' motion to substitute, it erred in remanding the case to state court.
+Again pointing to a circuit split, Defendants urge us to adopt the majority view and interpret the Westfall Act as requiring the exercise of federal jurisdiction upon Attorney General certification, even where the district court ultimately denies substitution.
+The Westfall Act provides that "certification of the Attorney General shall conclusively establish scope of office or employment for purposes of removal."
+28 U.S.C. 2679 (d)(2).
+In a footnote, our Singleton case suggested that the "conclusively" language should be read literally.
+The panel noted: [A] plaintiff suing a federal employee may not challenge the government's removal of the case to federal court, but, once in federal court, the plaintiff may challenge the government's substitution of itself as defendant.
+.
+.
+.
+If the district court finds that the federal employee was not acting in the scope of employment and therefore that substitution is inappropriate, the district court retains jurisdiction over the case and assesses the claims pursuant to state tort law. 277 F.3d at 870 n. 5.
+See also Wolverton v. United States, No. 96-5224, 1997 WL 85153 , at *2 (6th Cir. Feb. 26, 1997) ("Unlike a certification for removal .
+.
+.
+a certification for substitution .
+.
+.
+is not automatically conclusive.").
+This interpretation attracted four of the five Supreme Court justices joining the majority opinion in Lamagno.
+In concluding that a district court retains jurisdiction under the Westfall Act even if it ultimately refuses to substitute the United States as a defendant, those justices reasoned: "Whether the employee was acting within the scope of his federal employment is a significant federal question — and the Westfall Act was designed to assure that this question could be aired in a federal forum.
+.
+.
+.
+Because a case under the Westfall Act thus `raises a question of substantive federal law at the very outset, it clearly arises under federal law, as that term is used in Art.
+III.'"
+515 U.S. at 435 , 115 S.Ct. 2227 (internal quotations, alterations, and citations omitted).
+[fn1] Several circuit court opinions agree with the four-justice Lamagno interpretation.
+See, e.g., Borneman v. United States, 213 F.3d 819 , 826 (4th Cir. 2000) ("Because 2679(d) `conclusively' vests federal jurisdiction over a suit against a federal employee who the Attorney General has certified `was acting within the scope of his office or employment,' a district court has no authority to remand a case removed pursuant to that section, and the bar of 1447(d) does not preclude us from reviewing a remand order when the district court exceeds its authority.
+"); Garcia v. United States, 88 F.3d 318 , 325 (5th Cir. 1996) (analyzing the language of the statute, the opinions in Lamagno, and decisions in other circuits and concluding that "upon rejection of the Attorney General's certification, the district court retains jurisdiction and may not remand the action to state court"); Aliota v. Graham, 984 F.2d 1350 , 1356 (3d Cir. 1993) ("From [the Westfall Act's] statutory scheme, we conclude that when a tort suit against a federal employee is filed in state court and the Attorney General certifies that the employee was acting within the scope of the employee's office or employment and removes the case, the district court has no authority to remand the case on the ground that the Attorney General's certification was erroneous.
+We believe that this conclusion is dictated by the plain language of the [Westfall Act] stating that the Attorney General's certification `shall conclusively establish scope of office or employment for purposes of removal.
+'").
+But see Haddon v. United States, 68 F.3d 1420 , 1427 (D.C. Cir. 1995) (requiring remand where the federal court finds the Attorney General's certification erroneous, reasoning that such a conclusion avoids difficult constitutional questions without undermining the purposes of the Westfall Act and prevents "federal courts [from trying] garden-variety tort suits following a judicial determination that the federal employees acted outside the scope of employment"); Nasuti v. Scannell, 906 F.2d 802 , 814 n. 17 (1st Cir. 1990) ("We imply power to enter a remand order (should scope not be found) from the analogous authorization in section 2679(d)(3) , and from the fact that a remand is both more logical and efficient than a dismissal of the federal action.").
+We agree with the majority view that the clear language of the Act forecloses remand.
+We thus also agree with Defendants that the district court lacked authority to remand the action.
+III Finding Defendants' arguments well taken, we vacate the district court's denial-of-substitution and remand orders.
+On remand the district court shall resolve the factual disputes underlying the scope question, including whether the alleged incident occurred.
+Even if the district court finds that Haley acted outside the scope of his employment, it must nonetheless retain jurisdiction over this case.

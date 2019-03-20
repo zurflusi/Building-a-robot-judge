@@ -1,0 +1,200 @@
+ SENTELLE, Circuit Judge: The Federal Energy Regulatory Commission (FERC) determined in a rate proceeding that Ohio Power Company's cost of coal purchased from an associated company was unreasonably high.
+The company has petitioned us to vacate the order on the grounds that it is for the Securities and Exchange Commission (SEC) to determine the reasonableness of contracts between associated companies.
+We grant the petition for the reasons set out below.
+I. Background A. The Statute The central issue raised by petitioner concerns the applied meaning of the phrase "subject matter" in section 318 of the Federal Power Act (FPA), 16 U.S.C. 825q , an issue to which section 13(b) of the Public Utility Holding Company Act of 193 (PUHCA), 15 U.S.C. 79m(b) [**330] , is relevant.
+FPA 318 and PUHCA 13 were enacted in different titles of the Public Utility Act of 1935, ch.
+687, 49 Stat. 803 (1935) (codified as amended principally at 15 U.S.C. 79 to 79z-6 and 16 U.S.C. 824-825r (1982 & Supp. V 1987)), which initiated federal regulation of public utility holding companies theretofore insulated from effective state-level regulation by their multi-state operations.
+The broadly remedial purposes of the Public Utility Act included protection of investors, consumers, and the public from various abusive holding company practices, including non-arm's-length contracts within an associated group.
+See 15 U.S.C. 79a(b)(2) .
+(The definitions of public utility holding company, associate company, and similar terms are set out in section 2 of PUHCA, 15 U.S.C. 79b .
+Those definitions are applicable to the present case but not in dispute.)
+More particularly for our purposes, PUHCA 13(b) makes unlawful contracts between associates of a public utility holding company, 15 U.S.C. 79m(b) .
+1 The SEC's Rule 90 prohibits associated companies from making or performing contracts for sale of goods or performance of services "at more than cost."
+17 C.F.R. 250.90(a)(2) (1988).
+Under the SEC's Rule 91, a transaction is deemed to meet that standard when the price "does not exceed a fair and equitable allocation of expenses plus reasonable compensation for necessary capital procured through the issuance of capital stock " 17 C.F.R. 250.91(a) .
+The sale between associates of seller-produced goods is not "limited to cost," 17 C.F.R. 250.90(d)(2) , but such a seller still may not charge its associate more than a fair market price.
+17 C.F.R. 250.92(b) .
+Under the concurrently enacted provisions of the FPA, FERC regulates the justness and reasonableness of wholesale rates for electric power in interstate commerce.
+16 U.S.C. 824, 824d, 824e .
+2 FERC's authority includes the power to determine that a "contract affect[ing]" such a rate is "unjust, unreasonable, unduly discriminatory or preferential" and to prescribe a just and reasonable contract.
+16 U.S.C. 824e(a) .
+Section 318 of the FPA provides that, in the absence of an SEC-granted exemption, the requirements of PUHCA govern when a company is subject both to a requirement of the SEC-administered PUHCA (including rules, regulations, and orders thereunder) "with respect to [an [**331] itemized list not at issue here] or any other subject matter " and of the FERC-administered FPA (including rules, regulations, and orders thereunder) "with respect to the same subject matter ."
+16 U.S.C. 825q (emphasis added).
+B. OPCO, SOCCO, and the SEC Petitioner Ohio Power Company (OPCO) is an operating public utility subsidiary of American Electric Power Company, Inc. (AEP), a public utility holding company subject to PUHCA.
+OPCO purchases coal from its wholly-owned subsidiary Southern Ohio Coal Company (SOCCO) on essentially a cost-pass-through basis.
+Because both are associates of a public utility holding company, it is unquestioned that the coal-sale transactions between OPCO and SOCCO are subject to SEC jurisdiction under section 13(b) .
+The SEC has issued four orders that touch on the price of the OPCO-SOCCO coal transactions.
+Ohio Power Company , Holding Co. Act Release No. 17,383 (Dec. 2, 1971), permitted OPCO to inject capital into the corporate shell of SOCCO so SOCCO could develop OPCO-owned coal reserves "to assure a reliable supply of coal." Id. The SEC noted that, under the proposal before it, SOCCO's charges to OPCO would be "based on" its actual costs plus a rate of return on capital no greater than that approved for OPCO by the Federal Power Commission, FERC's statutory predecessor.
+Id. at 2.
+There were no hearings and no findings, other than the ultimate finding that the proposed transaction was in the interest of the public, investors, and consumers.
+The order concluded with a "proviso that nothing in this order shall be construed as in any manner affecting the jurisdiction of any other regulatory authority with respect to the accounting or similar matter in connection with the proposed transactions."
+Id. Ohio Power Company, Holding Co. Act Release No. 20,515 , 14 S.E.C.
+Docket 928 (Apr. 24, 1978), approved OPCO's sale of its coal mines and leases to SOCCO and its further capital contribution to SOCCO.
+Again, the SEC stated that "[t]he price at which SOhio [SOCCO] coal is sold to AEP system companies will not exceed the cost thereof to the seller."
+Id. at 929.
+The SEC required both OPCO and SOCCO to file quarterly financial statements and statements setting out "the quantities of coal sold to each buyer, the price of such coal and the method used to compute the cost of coal sold."
+Id. at 930.
+Southern Ohio Coal Co. , Holding Co. Act Release No. 21,008 , 17 S.E.C.
+Docket 310 (Apr. 17, 1979), approved borrowings by SOCCO intended to reduce the cost of coal by providing cheaper capital.
+Southern Ohio Coal Co. , Holding Co. Act Release No. 21,537 , 19 S.E.C.
+Docket 1309 (Apr. 25, 1980), approved additional OPCO investment in SOCCO to finance capital improvements expected to reduce the cost of coal to SOCCO's buyers.
+As in the previous decisions, the last order adverted briefly to the contractual relation between the associates: "The price at which [SOCCO's] coal will be sold to AEP system companies will not exceed the cost thereof to the seller.
+For this purpose, cost will include reasonable compensation for necessary capital."
+Id. The SEC cited sections 6 , 7 , 9 , 10 , and 12 of PUHCA, 15 U.S.C. 79f , 79g , 79i , 79j , 79l , as authority for its various orders.
+None of the orders cite section 13(b) as authority.
+C. The Decision Below The present dispute arose in a rate proceeding initiated in 1982.
+All issues settled except the extent to which OPCO could include its costs for "captive coal" purchased from SOCCO in its recoverable cost of service.
+Ohio Power Co., 39 F.E.R.C.
+¶ 61,098, at 61,274 (1987).
+The Administrative Law Judge (ALJ) determined that section 318 and FERC's own regulations did not bar FERC's examination of the reasonableness of OPCO's captive coal purchases and that OPCO's coal costs had not been shown to be unreasonable.
+Id. at 61,275.
+The full Commission affirmed the ALJ's determination that the reasonableness of OPCO's captive coal costs were subject to review but determined that the price of the captive coal unreasonably exceeded a comparable market price.
+Id. [**332] On the threshold section 318 issue, the ALJ had reasoned that the SEC's regulation of the "intra-corporate price of [captive] coal" was not the "same subject matter," in the section 318 sense, as FERC's regulation of utility rates.
+Id. at 61,276.
+FERC agreed for two reasons.
+First, FERC questioned whether the SEC had set the price of captive coal at cost, since it was "not clear" that the SEC statements regarding whether the price would be "based on" and "not exceed" cost had mandated a cost floor as well as ceiling.
+Id. FERC also cited the SEC's Rule 92 , 17 C.F.R. 250.92 , prohibition of inter-associate sales of goods "at a price which exceeds the price at which the purchasers might reasonably be expected to obtain comparable goods elsewhere," which FERC interpreted as indicating that the SEC might require a below-cost market price, id. , and SEC authority for above-cost market prices, id. at 61,290 n. 17.
+FERC indicated that OPCO might apply this authority to the SEC for a market-based section 13 price.
+Second, FERC reasoned that setting the inter-associate price, assuming the SEC had in fact done that, simply was not "the same subject matter," in the section 318 sense, as setting wholesale utility rates and determining what costs may be recovered therein.
+Id. at 61,276-77.
+FERC cited in support SEC staff disclaimers that SEC section 13(b) orders set rates and an SEC section 13(b) exemption decision that purportedly recognized FERC's rate-making power to allow utilities within its jurisdiction to recover either SEC-authorized costs "or some other amount."
+Id. at 61,277 (quoting New England Electric System, Holding Co. Act Release No. 22,309, 24 S.E.C.
+Docket 298, 307-08 (Dec. 9, 1981)).
+The SEC has not appeared in this cause.
+II.
+Analysis A. Statutory Interpretation Before undertaking our analysis of FERC's interpretation of section 318 , we note that FERC does not claim for its interpretation the deference to administrative agencies mandated by Chevron U.S.A.
+Inc. v. Natural Resources Defense Council , 467 U.S. 837 , 104 S.Ct. 2778 , 81 L.Ed.2d 694 (1984), nor is such deference warranted.
+While Chevron requires us to defer to "an agency's construction of the statute which it administers," id. at 842 , 104 S.Ct. at 2781 , "when an agency interprets a statute other than that which it has been entrusted to administer, its interpretation is entitled to no deference," Department of Treasury v. FLRA , 837 F.2d 1163, 1167 (D.C.Cir.1988).
+Section 318 cannot be said to be entrusted to FERC's administration.
+Certainly it involves FERC, but only to the extent of FERC's interface with regulation of the regulated entities by the SEC under PUHCA.
+Therefore, FERC has rightly claimed no deference for its interpretation, and we afford none.
+FERC's statutory interpretation rested on two rationales: (1) that there is no conflict between the approaches of the SEC and FERC and (2) that the same subject matter is not involved.
+We discuss these in the order of their acknowledged importance.
+1.
+The Subject Matter Involved FERC primarily relied on its determination that its decision and the SEC's decisions do not deal with "the same subject matter" because FERC is regulating rates whereas the SEC is regulating inter-associate transactions.
+Section 318 governs conflicts regarding "the issue, sale, or guaranty of a security, or assumption of obligation or liability in respect of a security, the method of keeping accounts, the filing of reports, or the acquisition or disposition of any security, capital assets, facilities, or any other subject matter."
+16 U.S.C. 825q .
+FERC suggests in this Court that the present subject is somehow not a subject within the contemplation of section 318 because Congress enumerated certain matters in section 318 with respect to which the SEC has jurisdiction under PUHCA, see 15 U.S.C. 79f-79g , 79i-79j , 79n-79 o , but did not mention the non-enumerated subject under discussion.
+[**333] We cannot accept this suggestion.
+Congress concluded its enumeration in section 318 with the phrase "or any other subject matter," and the inclusiveness of these words cannot be avoided, as FERC would have us do, by speculating that "Congress simply wanted to include a provision that would cover some unanticipated 'conflict' that might arise."
+Brief for Respondent at 21 n. 21.
+The price term of sales contracts between associated companies are subject to SEC jurisdiction under PUHCA, just as are the enumerated subjects, and are therefore a "subject matter" under section 318 if such price term is also subject to the requirements of the FPA or of FERC's rules, regulations or orders thereunder.
+16 U.S.C. 825q .
+FERC has in effect set by order a different price term for such a contract by determining that it will not allow the contract price as a cost in OPCO's rate case. See Nantahala Power & Light Co. v. Thornburg , 476 U.S. 953, 971 , 106 S.Ct. 2349, 2359 , 90 L.Ed.2d 943 (1986).
+The conclusion that the same subject matter is implicated is inescapable.
+Nor can we subscribe to FERC's analysis that the same subject matter is not involved because it sets rates and the SEC does not.
+Simply put, FERC's reasoning proves too much because under such an analysis there could never be a conflict between the SEC and FERC with respect to a matter not specifically enumerated in section 318 .
+The absence of conflict would not be malum in se , of course, but we presume Congress contemplated that in fact it had conferred on the SEC jurisdiction over some non-enumerated matters that otherwise would fall within the jurisdiction of FERC, and it therefore included the residuary phrase in section 318 to govern those conflicts.
+FERC's reading renders the residuary language of section 318 meaningless to that extent, and such constructions are disfavored.
+See, e.g. , National Ass'n of Recycling Indus. v. ICC , 660 F.2d 795, 799 (D.C.Cir.1981).
+In addition, we note that the Supreme Court has held in an analogous situation that a state's "undoubted jurisdiction over retail rates" does not empower it to redetermine issues underlying FERC-set wholesale rates.
+Nantahala Power & Light , 476 U.S. at 970 , 106 S.Ct. at 2358 .
+Moreover, the purposes for which the SEC is to exercise jurisdiction are not as limited as FERC describes them.
+The ALJ, whose reasoning was affirmed by FERC, 39 F.E.R.C.
+at 61,275, described the SEC's purposes as ensuring "that no one of the associated companies takes advantage of any other," Ohio Power Co., 25 F.E.R.C.
+¶ 63,060, at 65,183 (1983), and "keeping a reasonable arm's length relationship between the two associated companies."
+Id. These are true statements as far as they go, but they disregard the SEC's statutory charge to exercise its power in the interest of consumers, as well as of investors and the public, and "to insure that such contracts are performed economically and efficiently ," as well as "at cost."
+15 U.S.C. 79m(b) (emphasis added).
+Whether and how well the SEC has discharged the full scope of its statutory duties was not before FERC and is not before us.
+It is sufficient for present purposes that the SEC is charged by the statute with regulating the terms of affiliate contracts in the interest of consumers, as well as investors and the public, and has not exempted the instant contract.
+Moreover, we observe, such purposes as the ALJ imputed to the SEC are barely distinguishable, if at all, from considerations cited by FERC itself in favor of a market test: "protection from the prospect of self dealing," and "a substitute for arms-length negotiations."
+39 F.E.R.C.
+at 61,279.
+The "economic efficiency" FERC seeks to promote by the market test, id. , echoes the "economically and efficiently" language of section 13(b) itself.
+The market and at-cost tests thus seem simply different means to the same end.
+When Congress enacted PUHCA, however, it specified a particular means to that end for companies subject to PUHCA, and neither we nor FERC are empowered to overrule that express legislative choice for companies within the jurisdiction of the SEC.
+We are not persuaded otherwise by the ambiguous disclaimers of rate-setting authority by the SEC and its staff quoted by FERC in its opinion.
+See 39 F.E.R.C.
+at 61,277-78 [**334] .
+The SEC clarifies nothing we need to understand by disclaiming "ratemaking" authority: plainly, that is not its statutory mandate nor the issue here.
+The issue is the effect to be given in a ratemaking proceeding to the SEC's price-term regulation.
+The statement of the SEC staff has little weight, but we note it asserts that the SEC does fix a pricing formula and refers to the intermediate steps between its decision and ratemaking in a manner that suggests that the SEC's staff believes that FERC is free to set rates based on other considerations.
+39 F.E.R.C.
+at 61,277.
+Cf. Nantahala Power & Light , 476 U.S. at 967-68 , 106 S.Ct. at 2357-58 .
+The SEC staff also stated that FERC "'has jurisdiction to try issues, both of fact and of interpretation, in applying such orders, insofar as material, to a particular rate case,'" 39 F.E.R.C.
+at 61,277, 3 but that too is not dispositive of the present question because it does not speak--by its own terms, could not speak--to what considerations govern the effect FERC is to give the SEC's determination.
+The purported disclaimer by the SEC itself similarly fails to speak clearly, if at all, to the question before FERC and before us.
+In New England Electric System , Holding Co. Act Release No. 22,309 , 24 S.E.C.
+Docket 298 (Dec. 9, 1981), the SEC had before it New England Power Company's (NEPCO) application for a section 13(b) exemption for the proposed future charter of a collier then under construction.
+In the paragraphs quoted by FERC, 39 F.E.R.C.
+at 61,277-78, the SEC determined that it could not then assess whether the complex pricing provisions of the future, twenty-five year charter would conform with section 13(b) 's at-cost requirements.
+On the other hand, the SEC decided that it would not retain jurisdiction because "other regulatory effects allay our concern."
+24 S.E.C.
+Docket at 307.
+Specifically, the SEC referred to FERC's FPA jurisdiction: "The rates allowed to NEPCO include, as a cost of service, its cost of fuel, which as allowed to NEPCO may include either the entire cost of transportation under the joint venture's charter to NEPCO, if FERC should determine that it is just and reasonable, or some other amount."
+Id. at 308.
+Because the case clearly is an exemption case, however, it is unclear whether the SEC was stating (1) its understanding that SEC at-cost determinations are irrelevant to FERC rate-setting determinations or (2) the effects that would follow upon its granting of the exemption and the consequent lifting of whatever bar section 318 might otherwise impose.
+Because an exemption by the SEC lifts the bar of section 318 to action by FERC, 16 U.S.C. 825q , we are not persuaded that the decision supports the proposition that FERC may use "some other amount" when the SEC does not grant exemption from the cost standard.
+The clearest statement by anyone associated with the SEC on the effect, in the absence of an exemption, of SEC section 13(b) determinations on FERC rate determinations that has been brought to our attention is the prepared statement of the SEC submitted to a congressional committee contemplating amendment of PUHCA.
+The statement, which advocated repeal of PUHCA, referred to FERC's adoption of a market test for affiliate contracts, the SEC's understanding that section 13 requires a cost standard for such transactions, and the SEC's conclusion that therefore a different federal standard applied to those companies associated with public utility holding companies than applied to those not so associated.
+The Public Utility Holding Company Act of 1935: Hearings on H.R.
+5220, H.R.
+5465 and H.R.
+6134 before the Subcommittee on Energy Conservation and Power of the Committee on Energy and Commerce, House of Representatives , 97th Cong., 2d Sess., at 582-83 (1982).
+(The SEC's recommendation to repeal PUHCA, of course, was not enacted.)
+Finally in this respect, we note that FERC properly has abandoned in this Court its citation below, 39 F.E.R.C.
+¶ 61,098, at 61,290 n. 18 & accompanying text at 61,277 , of Mississippi Indus. v. F.E.R.C.
+, 808 F.2d 1525, 1550-51 (D.C.Cir.1987) (per curiam) [**335] , as authority for its jurisdiction in the present case. The contracts at issue there were characterized as contracts for the sale of electricity between associated companies and therefore outside the scope of the SEC's jurisdiction.
+See id. ; compare 15 U.S.C. 79m(b) with 15 U.S.C. 79b(a)(20) .
+2.
+The Existence of Conflict FERC's first-stated, but less important, rationale was that no jurisdictional conflict arises because the SEC may require market pricing and "it is not clear," 39 F.E.R.C.
+at 61,276, that the SEC's orders in the present case impose a cost floor as well as a cost ceiling.
+As to the first contention, FERC cites the SEC's Rule 92, which provides that the price for seller-produced goods between associated companies may not exceed "the price at which the purchaser might reasonably be expected to obtain comparable goods elsewhere."
+17 C.F.R. 250.92 .
+As to the second, FERC's opinion notes that the SEC orders never state that SOCCO's price must equal cost, only that it will be "based on" and "not exceed" cost.
+In this Court, FERC points additionally to the boiler-plate character of the language in the SEC orders regarding the interest of the public, investors, and consumers; to the absence of any findings by the SEC on the reasonableness of the SOCCO-OPCO charges; to the absence of any findings that the coal price should be passed through to rate payers; and to the absence of evidence that the SEC was "closely monitoring" all costs to ensure efficiency.
+We cannot accept this rationale either because it proceeds from a false premise that the bar of section 318 applies only when there is a present conflict between SEC and FERC prescriptions.
+The language of section 318 in fact bars FERC jurisdiction whenever a person is "subject to a requirement," 16 U.S.C. 825q , of PUHCA.
+OPCO plainly is so subject to section 13(b) with respect to its contractual relations with SOCCO.
+The fact that FERC's market approach produces a current result that does "not exceed" cost, in the words of the SEC's 1978 and 1980 orders, does not make OPCO any less subject to section 13(b) or to the SEC's orders.
+In the absence of exemption, it is for the SEC rather than FERC to determine the inter-associate price.
+FERC suggests that OPCO may apply to the SEC for approval of a market-based rate.
+39 F.E.R.C.
+at 61,290 n. 17.
+The suggestion is not well-taken because it reverses Congress's section 318 decision that the SEC has the right of first refusal, as it were, in making such determinations.
+The statutory scheme simply does not contemplate that FERC will make the determination and then send the subject company to the SEC for a conforming order.
+Although it does not affect our decision, we must agree with FERC that it is "not clear" from the orders in question that the SEC was particularly mindful of its statutory powers and obligations under section 13(b) .
+The SEC orders devoted some attention to the cost of capital to SOCCO and to the cost of coal to that extent.
+But it is only to that extent that any concern with the cost of coal is evident.
+None of the four orders cites section 13 , nor mentions expressly whatever purchase agreement exists between SOCCO and OPCO, nor describes any element of costs other than the cost of capital.
+We note that section 13(b) and the SEC's regulations thereunder do not appear to require submission of and approval of inter-associate agreements but only conformity of the same with the SEC-promulgated rules.
+Accordingly, OPCO's assertion that the SEC "approved" the sales agreement between OPCO and SOCCO is problematic, and the references in the orders are consistent with, and may be no more than, references in passing to SOCCO's apparent election of, and unexamined representations of conformity with, the Rule 91 at-cost method.
+We also note, however, that Rules 90 and 91 are regulations under section 13(b) and as binding thereunder as an individualized order.
+We note as well that the SEC's 1978 Order did require OPCO to submit [**336] quarterly reports on the price of coal and how the price was computed.
+All these matters taken into account, our decision nevertheless rests on the threshold matter of the language of the statute, which commits the determination of the inter-associate price to the SEC. Whether the SEC acquits itself well or ill is not our present concern.
+B. Trapped Costs Although based upon the language of the statute, our decision is also informed by consideration of the consequences of FERC's action in effectively prescribing an inter-associate price.
+Accordingly, our decision is buttressed by the consistency of its consequences with Supreme Court precedents that disfavor conflicting regulation resulting in trapped costs.
+In Nantahala Power & Light , the Supreme Court held that it was impermissible for a retail-rate-setting state utility commission to "trap" costs by making a different allocation between related companies of a fixed quantity of low-cost power than had FERC at the wholesale level.
+476 U.S. at 970-71 , 106 S.Ct. at 2358-59 .
+(The PUHCA was not involved.)
+In a passage that is particularly instructive, the Court indicated that Id. at 971 , 106 S.Ct. at 2359 .
+Although the parallels to the present case are not precise, there are two quite clear lessons in the passage: First, it is sufficient that FERC's action in the present case reforms the agreement between OPCO and SOCCO in effect rather than in fact.
+Second, the cost-trapping "pretense" occasioned thereby is prohibited.
+In the case of Mississippi Power & Light Co. v. Mississippi ex rel.
+Moore , U.S. , 108 S.Ct. 2428 , 101 L.Ed.2d 322 (1988), FERC had allocated responsibility for purchasing the expensive power generated by the Middle South Utilities system's Grand Gulf 1 nuclear power plant among the system's multiple operating companies on a certain basis.
+The State of Mississippi, however, claimed the power to disregard FERC's determination with respect to the operating company within its jurisdiction because FERC had not actually considered the prudence of building Grand Gulf 1 and therefore had not preempted Mississippi's power to do so. The Supreme Court held that Nantahala Power & Light controlled and preemption did not turn on whether the particular matter of prudence was actually decided by FERC.
+108 S.Ct. at 2438-42 .
+Given the clear and express statutory allocation of jurisdiction between federal agencies in section 318 , Nantahala Power & Light and Mississippi Power & Light are not distinguishable from the present circumstances simply because they involved state-federal relations or because FERC must be re-cast in the role of the respective states with the SEC taking the role formerly played by FERC.
+As FERC points out, however, the Court did not rule in either Nantahala Power & Light or Mississippi Power & Light on the authority of a state (and by analogy, FERC in the present circumstances) to second-guess the utility on the quantity of price-regulated power it should have purchased when cheaper power was available.
+476 U.S. at 972 , 106 S.Ct. at 2359 ; 108 S.Ct. at 2440 .
+That question has been answered favorably to a state (and, by analogy, favorably to FERC in the present circumstances) in [**337] Kentucky West Virginia Gas Co. v. Pennsylvania Pub. Util. Comm'n , 837 F.2d 600, 606-11 (3d Cir.1988).
+We have no occasion to consider this rationale, however.
+It plainly was not part of FERC's analysis below, and an agency's order must be affirmed on the basis stated in its opinion or not at all.
+Federal Power Comm'n v. Texaco Inc. , 417 U.S. 380, 397 , 94 S.Ct. 2315, 2326 , 41 L.Ed.2d 141 (1974).
+FERC also argues that there is no "trapping" because FERC has stated that it will allow OPCO to recover in its rates, when the facts warrant, a fair market value for its captive coal in excess of its costs therefor.
+See Public Serv. Co. of N.M. , 17 F.E.R.C.
+¶ 61,123 (1981) (Opinion No. 133), aff'd in pertinent part sub nom.
+Public Serv. Co. of N.M. v. FERC , 832 F.2d 1201 (10th Cir.1987) (non-SEC case).
+The difficulty with this element of FERC's argument--and indeed with its present attempt to impose a market-based approach on petitioner's transactions--is that FERC does not, and apparently cannot, explain how OPCO can recover in its rates such a fair market value in excess of cost without running afoul of the SEC's bar in 17 C.F.R. 250.90(a)(2) .
+See supra p. 4.
+In other words, if we adopt FERC's approach, OPCO faces a tails-we-lose situation when FERC finds that fair market value dictates a captive coal level cost but is prevented by SEC regulation from winning when the other side of the coin comes up.
+Therefore, attractive as FERC's market approach may be in general, its application to the PUHCA-regulated petitioner adds nothing to FERC's argument in the present case. III.
+Conclusion For the reasons given above, we vacate and remand the decision of FERC.
+We would like to clarify that there are two issues which we do not address.
+First, we do not hold that OPCO and SOCCO or any other SEC-regulated companies are entitled to pay and receive a price in excess of market.
+See 17 C.F.R. 250.92 .
+Second, we do not hold that FERC may not apply a market test to contracts between related companies that are subject to its jurisdiction but not that of the SEC. See Public Serv. Co. of N.M. , 832 F.2d at 1201 .
+We hold only that the statute commits to the SEC such determinations regarding companies associated with a public utility holding company.
+Basing our decision as we do on this threshold issue, we have no occasion to reach the further issues raised by the petition.
+Granted.

@@ -1,0 +1,302 @@
+ PATRICK E. HIGGINBOTHAM, Circuit Judge: This case presents one issue on appeal: whether the federal regulatory regime governing pharmaceuticals preempts state-law failure-to-warn claims against manufacturers of generic drugs.
+The Supreme Court held, in Wyeth v. Levine , that such claims are not preempted against name brand drug manufacturers.
+[fn1] While not directing our result, it shadows our conclusion that the federal regulatory regime governing generics is also without preemptive effect.
+I Julie Demahy's physician prescribed the drug Reglan to treat her gastroesophageal reflux.
+For the next four years, Demahy's pharmacy filled her prescription with the generic form of Reglan, metoclopramide, manufactured by Actavis.
+[fn2] Demahy alleges that its long-term ingestion caused her to develop tardive dyskinesia, a neurological movement disorder.
+The Food and Drug Administration (FDA) approved Reglan in 1980, and Actavis began manufacturing generic metoclopramide thereafter.
+In 1985, the FDA required that Reglan's label be updated to include a warning regarding the risk of developing tardive dyskinesia.
+Actavis revised its labeling to comport with these changes to the Reglan label.
+There is no dispute that the generic drug's label was at all relevant times the same as Reglan's.
+In February 2009, the FDA issued a labeling revision for metoclopramide meant to warn of the risk of prolonged use, defined as use for more than 12 weeks.
+[fn3] Demahy asserts claims of personal injury under the Louisiana Products Liability Act for, inter alia , failure to warn of the risks of neurological disorder after long-term use of metoclopramide.
+[fn4] Specifically, Demahy argues that Actavis ignored scientific and medical literature establishing a higher risk of developing tardive dyskinesia, failed to request a labeling revision from the FDA, failed to change the label itself even though no prior FDA approval was required, and failed to report safety information directly to the medical community.
+Actavis moved to dismiss Demahy's claims, arguing that they rested on duties imposed by state law that could not be met under federal law — that they were conflict preempted.
+The district [**2] court denied the motion as to the failure-to-warn claims.
+[fn5] Since then, one sister circuit — the Eighth [fn6] — has considered the issue, which has split a rapidly growing number of district courts; [fn7] it held that state tort law is not preempted.
+[fn8] Appeals involving materially identical preemption claims are now pending before the Sixth Circuit.
+[fn9] Our review here is de novo.
+[fn10] II All prescription drugs marketed in this country must first receive FDA approval.
+Manufacturers of new drugs must submit a new drug application (NDA) to the FDA that demonstrates the drug's effectiveness and safety for its intended use.
+[fn11] The 1962 Food, Drug and Cosmetics Act (FDCA) established this avenue for pioneer drugs, with the core objective of ensuring that drugs are both safe and effective; [fn12] the FDA has codified the NDA regulations at 21 C.F.R. Part 314 .
+New drug approval requires, among other deliverables, the results of successful clinical trials [fn13] and labeling that accurately portrays the benefits and risks of the drug, as indicated by those trials and other data.
+[fn14] "Before approving an NDA .
+.
+.
+[the] FDA undertakes a detailed review of the proposed labeling, allowing only information for which there is a scientific basis to be included in the FDA-approved labeling."
+[fn15] The FDA will reject the proposed labeling if "based on a fair evaluation of all material facts, such labeling is false or misleading in any particular."
+[fn16] Contrast this with the simpler, less demanding approval process required of generic drugs.
+In 1984, Congress passed the Hatch-Waxman Amendments to the FDCA, which altered the federal regulatory regime governing generics.
+Thanks to these Amendments, once a pioneer drug loses patent protection, a drug company may seek permission to market a generic version through a significantly simplified process, known as the abbreviated new drug application procedure, or ANDA.
+[fn17] ANDA drugs must be the "same as" a name brand drug that has already been approved by the FDA as to active ingredients, route of administration, dosage form, strength, and conditions of use recommended in the labeling.
+[fn18] Under Hatch-Waxman, generic drug manufacturers need not repeat the clinical work of their name brand counterparts, but instead must only establish the generic drug's bioequivalence with the name brand drug.
+[fn19] By avoiding "unnecessary," "wasteful," and "unethical" duplication of previously-performed human clinical trials, [fn20] Congress meant "to provide a careful balance between promoting competition among pioneer .
+.
+.
+and generic drugs, and encouraging research and innovation."
+[fn21] In turn, this increased competition, coupled with the elimination of "retesting" of a drug that has already been determined to be safe and effective, [fn22] would result in significant cost savings to the American public.
+[fn23] Indeed, the Congressional Budget Office estimated that generic drugs save American consumers between $8 billion and $10 billion each year.
+[fn24] Generic drugs now account for seven out of ten prescriptions filled in the United States.
+[fn25] In their application, generic manufacturers must also show "that the labeling [**3] proposed for the new drug is the same as the labeling approved for the listed drug."
+[fn26] Applying to market a generic drug, then, requires "[a] statement that the applicant's proposed labeling is the same as the labeling of the reference listed drug except for" enumerated differences irrelevant here; without such a statement, the FDA will deny the application.
+[fn27] III The Supreme Court ruled in Levine that the federal regulatory regime governing pharmaceuticals does not preempt a state-law failure-to-warn claim against the manufacturer of a name brand drug.
+Actavis urges that generic drugs are different because the manufacturer of a name brand drug may change its label unilaterally — through the "changes being effected" (CBE) process — while seeking the FDA's approval of the change.
+According to Actavis, a generic manufacturer, in contrast, must produce the same drug and use the same label as the name brand drug manufacturer.
+The Levine Court did rely in part on the availability of the CBE process to reject the claim — advanced by a name brand manufacturer — that it was "impossible .
+.
+.
+to comply with both the state-law duties underlying those claims and its federal labeling duties."
+[fn28] The Court explained that once the risk to consumers has become "apparent," triggering a state-law duty to warn of it, "the CBE regulation permit[s] [the manufacturer] to provide such a warning before receiving the FDA's approval."
+[fn29] Though "the FDA retains authority to reject labeling changes made pursuant to the CBE regulation," the Court declined to "conclude that it was impossible for [the manufacturer] to comply with both federal and state requirements" without "clear evidence that the FDA would not have approved a change" to implement the warning.
+[fn30] Justice Breyer wrote separately "to emphasize the Court's statement that `we have no occasion in this case to consider the pre-emptive effect of a specific agency regulation bearing the force of law'" [fn31] and to accent the FDA's ability to "determine whether and when state tort law acts as a help or a hindrance to achieving the safe drug-related medical care that Congress sought" through "lawful specific regulations describing, for example, when labeling requirements serve as a ceiling as well as a floor."
+[fn32] Because no such regulation was at issue in Levine , Breyer agreed with the majority that state law was not preempted.
+[fn33] Actavis rightly points out that Levine is not the case before us.
+It does, however, carry important implications for Actavis's situation as well.
+IV Here, as in every preemption case, "[t]he purpose of Congress is the ultimate touchstone."
+[fn34] Congressional intent to preempt state law can either be expressed in statutory language or implied in the aim and structure of federal law.
+[fn35] Implied preemption comes in two forms: field and conflict preemption.
+Field preemption is inferred where federal law is so pervasive that it leaves no room for state supplementation.
+[fn36] When Congress has not completely displaced the possibility of state regulation, preemption may nonetheless occur when state law "actually conflicts" [**4] with federal law.
+[fn37] This conflict might be with a federal statute or an "agency regulation with the force of law."
+[fn38] Actavis asserts that Demahy's claims are conflict preempted: that it is impossible to comply with both federal and state law, [fn39] or, alternatively that state law poses an unacceptable "obstacle to the accomplishment and execution of the full purposes and objectives of Congress."
+[fn40] More specifically, Actavis contends that it is impossible to comply with both the federal regulatory regime governing generic drugs and the putative state-imposed duty to heighten warning labels, or that Louisiana law obstructs the goals of the FDCA, as amended by the Hatch-Waxman Amendments and implemented by FDA regulation.
+Such a conclusion is not to be found lightly.
+As Levine reminded, "[i]n all preemption cases, and particularly in those in which Congress has legislated .
+.
+.
+in a field which the States have traditionally occupied," a court must begin this inquiry into congressional intent "with the assumption that the historic police powers of the States were not to be superseded by the Federal Act unless that was the clear and manifest purpose of Congress."
+[fn41] " We rely on the presumption because respect for the States as `independent sovereigns in our federal system' leads us to assume that `Congress does not cavalierly preempt [state law].'"
+[fn42] Though there is ongoing disagreement among Supreme Court jurists as to if, when, and how this presumption applies — particularly in implied conflict preemption cases — five members of the Levine Court held that it applies to conflict preemption cases at least where, as here, the question is whether federal regulation of prescription drugs preempts state-law failure-to-warn claims.
+[fn43] In this case, the bar to a finding of preemption is set even higher because federal law provides no remedy for an injured consumer.
+Preemption of state failure-to-warn claims would foreclose a remedy that was traditionally available and for which federal law provides no substitute.
+Courts have been particularly reluctant to find preemption in such cases without an unambiguous signal of congressional intent.
+[fn44] This is especially true in cases that involve health and safety concerns, because "[s]tates traditionally have had greater latitude under their police powers to legislate as to the protection of the lives, limbs, health, comfort, and quiet of all persons."
+[fn45] Moreover, Congress has already expressly preempted state failure-to-warn claims for some products governed by the FDCA — medical devices [fn46] — and its choice not do so for other FDA-regulated products militates further against a finding of preemption here.
+[fn47] In Levine , the Court found Congress's enactment of an express preemption for medical devices telling, particularly given the historic coexistence of state tort remedies and federal regulation of prescription drugs.
+[fn48] As the Supreme Court has repeatedly instructed, "[t]he case for federal pre-emption is particularly weak where Congress has indicated its awareness of the operation of state law in a field [**5] of federal interest, and has nonetheless decided to `stand by both concepts and to tolerate whatever tension there [is] between them.'"
+[fn49] V Against this backdrop, Actavis first argues "that it would have been impossible for [it] to comply with the state-law duty to modify [its product's] labeling without violating federal law," [fn50] i.e., that "`compliance with both federal and state [law] is a physical impossibility.'"
+[fn51] Requiring that the conflict be one of "physical impossibility" readily suggests that this is a "demanding defense."
+[fn52] Here, Actavis urges that federal law requires that it maintain at all times a label that is the "same as" the name brand's, thus preventing simultaneous compliance with a state law requiring additional warnings.
+There is no dispute here that Hatch-Waxman proscribes the approval of an application to produce a generic drug with labeling that is not the "same as" that of the listed drug.
+Demahy acknowledges that a generic's label must initially conform to a listed drug's and she does not allege that Actavis is liable under state law for failure to warn adequately of the risks of tardive dyskinesia at the time of approval.
+Rather, she seeks to hold Actavis liable for failing to take steps to change the label after approval in order to provide adequate warning once additional risks emerged.
+And, while Congress plainly intended for a generic drug manufacturer to submit labeling identical to — or, the "same as" — the brand name drug when seeking ANDA approval, the statutory scheme "is silent as to the manufacturer's obligations after the ANDA is granted."
+[fn53] Of course, this statutory silence does not end our preemption inquiry, because "state laws can be pre-empted by federal regulations as well as by federal statutes."
+[fn54] The regulations on which Actavis relies, however, do not purport to bar generic labeling modifications following initial approval.
+Instead, they require only that a generic's label initially conform to the listed drug's; if the label does not, these regulations provide that an ANDA application will be denied.
+They do not address post-approval modifications at all.
+[fn55] On the contrary, "through many amendments to the FDCA and to FDA regulations, it has remained a central premise of federal drug regulation that the manufacturer bears responsibility for the content of its label at all times.
+It is charged both with crafting an adequate label and with ensuring that its warnings remain adequate as long as the drug is on the market."
+[fn56] As for maintaining an adequate label, the regulatory framework makes plain that manufacturers — name brand and generic alike — must act to warn customers when they learn that they may be marketing an unsafe drug.
+For their part, generic manufacturers are subject to the requirement that their labeling "be revised .
+.
+.
+as soon as there is reasonable evidence of an association of a serious hazard with a drug."
+[fn57] Demahy claims that Actavis failed to comply with this requirement despite reasonable evidence that long-term use of metoclopramide poses a serious hazard.
+Actavis responds that this requirement [**6] is on the name brand manufacturer alone, or that it is overridden as to generics, in light of the putative requirement that it conform to the name brand's label at all times.
+FDA commentary supports the requirement — advanced by Demahy — that "at a minimum a generic manufacturer should alert the agency to any new safety hazard associated with its product."
+[fn58] First, in commentary accompanying the FDA's implementation of the Hatch-Waxman Amendments, the FDA stated: "After approval of an ANDA, if an ANDA holder [a generic manufacturer] believes that new safety information should be added, it should provide adequate supporting information to FDA , and FDA will determine whether the labeling for the generic and listed drugs should be revised."
+[fn59] Generic manufacturers must also follow the same record keeping and reporting of adverse drug experiences postmarketing as name brand manufacturers.
+As the FDA explained, "ANDA applicants [must] submit a periodic report of adverse drug experiences even if the ANDA applicant has not received any adverse drug experience reports or initiated any labeling changes."
+[fn60] At the very least, then, the FDA contemplates that generic manufacturers will initiate label changes in addition to echoing changes to the name brand label.
+Nevertheless, Actavis points out that 21 U.S.C. 355 (e) "authorizes the withdrawal of approval of an application if `there is a lack of substantial evidence that the drug will have the effect it purports or is represented to have under the conditions of use prescribed, recommended, or suggested in the labeling thereof.'
+This provision applies to both [generic] and [listed] drug products."
+[fn61] Further, 21 C.F.R. 314.150 , explains that the FDA will initiate proceedings to withdraw approval for a generic drug if "the labeling for the drug .
+.
+.
+is no longer consistent with that for the listed drug .
+.
+.
+except for differences approved in the ANDA" [fn62] Actavis reads this language to prevent it from revising the label of its generic metoclopramide, because doing so would result in the FDA's withdrawal of approval.
+The FDA promulgated 314.150 in response to comments that it "should create a new provision authorizing the agency to withdraw an [ANDA] if the [ANDA] holder failed to modify its labeling to match labeling changes in the reference listed drug."
+[fn63] After being "revised .
+.
+.
+accordingly," the final version now "states that the ANDA applicant's failure to maintain drug labeling that is consistent with that of the listed drug may be grounds for withdrawing approval of the [ANDA]."
+[fn64] Similarly, in response to a comment that the "FDA should create a mechanism to compel ANDA holders to revise their labeling to conform to the listed drug product once the ANDA is approved," the FDA observed that 21 U.S.C. 355 (e)(2) already "authorizes the withdrawal of approval of an application if `there is a lack of substantial evidence that the drug will have the effect it purports or is represented to have under the conditions of use prescribed, recommended, or suggested in [its] labeling.'
+[fn65] Because this provision applies to both listed and generic drug products and "an ANDA must have [**7] labeling that is the same as the .
+.
+.
+listed drug," the FDA explained that "a generic drug .
+.
+.
+whose labeling is inconsistent with the listed drug's labeling might not be considered safe and effective."
+[fn66] Given that, the FDA crafted 314.150 "to permit the agency to withdraw approval of the ANDA if an applicant fails to maintain labeling in compliance with the requirements of the" Hatch-Waxman Amendments.
+[fn67] The overarching import of these remarks suggests, as one district court put it, that "the purpose of [the] regulation was not to prevent a generic manufacturer from improving or strengthening its warnings.
+It was, instead, to ensure that the FDA could require a generic manufacturer to modify its labeling to match labeling changes in the reference listed drug."
+[fn68] In Levine , the Supreme Court found it "difficult to accept" that "the FDA would bring an enforcement action against a manufacturer for strengthening a warning."
+[fn69] Nor is "a drug .
+.
+.
+misbranded simply because the manufacture has altered an FDA-approved label"; rather, the misbranding provisions concern the accuracy of the label's substance and the adequacy of its warnings and the FDA "contemplates that federal juries will resolve most misbranding claims."
+[fn70] This is not to say that generic drug manufacturers — or any drug manufacturers, for that matter — are free to make whatever changes they see fit.
+Most labeling modifications must be pursued through a "major changes" procedure, which requires prior FDA approval before any modification takes place.
+[fn71] As the Levine Court observed, "[g]enerally speaking, a manufacturer may only change a drug label after the FDA approves a supplemental application."
+[fn72] A manufacturer may, however, "make certain changes to its label before receiving the agency's approval," through the so-called "changes being effected," or CBE, process delineated in 21 C.F.R. 314.70 (c)(iii).
+[fn73] Accordingly, Demahy posits that Actavis could have complied with FDA regulations and state law by using either the CBE process, the "major changes" procedure (otherwise known as the prior approval process), or a third method — warnings sent directly to healthcare providers.
+A finding of preemption would require that all be foreclosed to generic manufacturers.
+We consider each in turn.
+A. The "Changes Being Effected" Process Where, as here, the requisite labeling change would "add or strengthen a contraindication, warning, precaution, or adverse reaction," [fn74] to reflect "information not previously submitted to the [FDA]" and is based on "sufficient evidence of a causal association," it qualifies for the CBE process, [fn75] meaning the manufacturer "may make the labeling change upon filing its supplemental application with the FDA; it need not wait for FDA approval."
+[fn76] The district court focused much of its analysis on the availability of the CBE process to generic manufacturers.
+"Just as nothing in the text of the Hatch-Waxman Amendments forbids a generic manufacturer from changing its drug's label from the listed version's post-approval," [fn77] the CBE regulation also does not, on its face, distinguish between generic and name brand drug manufacturers; [**8] that is, it does not forbid a generic manufacturer from using the CBE process to unilaterally change a label.
+Located at 21 C.F.R. 314.70 , the regulation provides that "the holder of an approved application" — not just an approved new drug application — "may commence distribution of the drug product involved upon receipt by the agency of a supplement for the change."
+[fn78] Unsupported by the regulation's text, then, Actavis must seek support from FDA commentary for its argument that generic manufacturers cannot use the CBE process.
+Specifically, when the Agency revised the CBE regulation following the Hatch-Waxman Amendments, it reminded "ANDA applicants that, as noted in paragraph 4 above, the labeling for an ANDA product must, with few exceptions, correspond to that for the reference listed drug."
+[fn79] At first glance, this provision seems to provide arguable support for Actavis's view: the comment, unlike others it cites, refers to "the labeling for an ANDA product," rather than "the labeling proposed for a product in an ANDA application" and thus could be read to mandate that a generic's labeling remain the "same as" the listed drug's after approval.
+A closer examination — one that accounts for the comment's reference to "paragraph 4" — indicates, however, that the FDA's explanation was still fixed on the pre-approval label.
+"Paragraph 4" turns down a suggestion that the FDA "accept ANDA's with warnings or precautions in addition to those on the reference listed drug's label," by noting that "the applicant's proposed labeling [must] be the same as that of the listed reference drug" with exceptions not relevant here.
+[fn80] So, once again we encounter an admonition that the content of a generic drug's labeling during the ANDA approval process conform to that of the corresponding listed drug; there is no direction, however, as to what may happen afterwards.
+It would be a stretch then, in light of paragraph 4's cameo in the FDA's comment to the CBE regulation, to read it as Actavis would have us do, and expand the directive that "the labeling proposed for the drug [be] the same as the labeling approved for the listed drug," into the post-approval period, an undemanded play with displacement of traditional state regulation.
+[fn81] In addition, these comments accompanied the only change that the FDA made to the CBE regulations when implementing the Hatch-Waxman Amendments: the addition of a paragraph requiring applicants to "comply with the patent information requirements under [ 21 U.S.C. 355 (c)(2)]."
+[fn82] Actavis's preferred reading of these comments is not plausible unless we accept the proposition that the FDA would, in a minor and unrelated revision, express the novel view that generic manufacturers are altogether forbidden from using the CBE process.
+On the other hand, what the FDA clearly did do to implement Hatch-Waxman cuts against Actavis's position, or at the very least muddies congressional and agency intent: it promulgated 21 C.F.R. 314.97 , entitled "Supplements and other changes to an approved abbreviated application."
+[fn83] This rule provides that ANDA applicants "shall comply with the requirements of 314.70 and 314.71 regarding [**9] the submission of supplemental applications and other changes to an approved abbreviated application."
+[fn84] The requirements of 314.70 include, of course, the CBE process.
+Had the FDA intended to deny generic manufacturers access to the CBE procedures, notwithstanding 314.97 's plain language, we might expect the FDA to say so, either in 314.97 or in the CBE provision itself.
+If this was the FDA's intent — and the industry's understanding at the time — it passed over the opportunity to make that clear in these provisions promulgated in Hatch-Waxman's wake.
+As the regulations stand, however, we cannot tack the words "only when a listed drug manufacturer has first revised its label" onto the end of 314.97 — as Actavis's argument begs.
+Nonetheless, Actavis insists that the CBE process is only available to generic manufacturers to implement changes already made to the name brand's label: in other words, that 314.97 only requires that generics follow name brand labeling if and when a change is made by the name brand manufacturer.
+For that reason, Actavis says, the FDA rejected a comment suggesting that ANDA holders be required to submit drug labeling at periodic intervals to ensure that the generic label matched its listed counterpart.
+The FDA found such a procedure unnecessary because "existing reporting requirements at 21 C.F.R. 314.70 [including the CBE provision] ensure that labeling changes are brought to FDA's attention in an appropriate and timely fashion."
+[fn85] The FDA will then "advise ANDA holders of changes to be made after approval, but postapproval changes resulting from the expiration of exclusivity or patent protection are the responsibility of the ANDA holder."
+[fn86] While this comment surely indicates that a generic drug manufacturer should use the CBE process to enact changes endorsed by the FDA, it does not say, however, that the process was not also intended to allow ANDA holders to act independently from the name brand manufacturers.
+Actavis also directs us to the FDA's rejection of yet another comment as part of administrative implementation of Hatch-Waxman.
+This time, it is one that suggested empowering "ANDA applicants to deviate from the labeling for the reference listed drug to add contraindications, warnings, precautions, adverse reactions, and other safety-related information."
+[fn87] In response, the FDA reiterated that "the ANDA product's labeling must be the same as the listed drug's product labeling because the listed drug product is the basis for ANDA approval."
+[fn88] Because "[c]onsistent labeling will assure physicians, health professionals, and consumers that a generic drug is as safe and effective as its brand-name counterpart," the FDA instructed "an ANDA applicant [who] believes new safety information should be added to a product's labeling .
+.
+.
+[to] contact FDA, and FDA will determine whether the labeling for the generic and listed drugs should be revised."
+[fn89] Nothing in this response deviates from the now-familiar distinction between the near-unqualified ban on labeling differences pre-approval and their availability "after approval of an ANDA."
+During that [**10] latter period, "if an ANDA holder believes that new safety information should be added, it should provide adequate supporting information to FDA, and FDA will determine whether the labeling for the generic and listed drugs should be revised."
+[fn90] Actavis maintains that this passage demonstrates that, for generic drugs, the FDA "decides whether a revision is necessary, not the drug manufacturer."
+We agree, but the FDA is the ultimate arbiter for all changes — whether prompted by a pioneer manufacturer or a generic one.
+Every submitted change requires FDA approval, even one that takes effect immediately through the CBE process.
+The FDA makes these approval decisions "based on a comprehensive scientific evaluation of the product's risks and benefits under the conditions of use prescribed, recommended, or suggested in the labeling."
+[fn91] Through this review, the FDA is in effect and in fact "determin[ing] whether the labeling for the generic and listed drugs should be revised."
+This is no less true when the FDA reviews the change only after it has been made, as is the case with CBE changes.
+At best, then, this language is reason for pause, not for a conclusive reading, or a finding of impossibility preemption.
+Lastly, Actavis emphasizes the FDA's recent statements suggesting that generics cannot use the CBE process and that federal law preempts state-law failure-to-warn claims brought against generics.
+Actavis first points to two amici briefs filed by the FDA in Colacicco v. Apotex Corp. , a case heard in the Eastern District of Pennsylvania [fn92] and then in the Third Circuit.
+[fn93] The briefs argued that Hatch-Waxman and implementing FDA regulations preempt state failure-to-warn claims as to both listed and generic drug manufacturers.
+[fn94] In so doing, the FDA took the position that generic manufacturers could not utilize the CBE process at all.
+[fn95] The Third Circuit found the plaintiffs' failure-to-warn claims preempted.
+[fn96] The Supreme Court later decided Levine , and in light of that holding, granted certiorari in Colacicco , vacated the judgment of the Third Circuit, and remanded for further consideration.
+[fn97] In response to Levine , the United States withdrew as amicus in Colacicco and notified the Third Circuit that the United States "does not take a position on whether [the state-law failure-to-warn claims] are preempted" and "has not yet conducted an examination of various preemption issues following the Supreme Court's decision in Wyeth [Levine] that would be necessary to inform a position of the United States in this case." [fn98] Now withdrawn, the FDA's amicus views are muted and we do not consider them.
+Similarly, Actavis has recently lost another pillar of support.
+In its briefs, Actavis relies on a footnote in the FDA's proposed 2008 revision to the CBE regulations, which states that "CBE changes are not available for generic drugs approved under an ANDA under 21 U.S.C. 355 (j).
+To the contrary, a generic drug manufacturer is required to conform to the approved labeling for the listed drug."
+[fn99] But the final version of the rule omits this footnote's language.
+In fact, the final rule — [**11] which seeks to "affirm that a CBE supplement is appropriate .
+.
+.
+only to reflect newly acquired information .
+.
+.
+and [when] there is sufficient evidence of a causal association with the drug" — is virtually silent as to generics altogether.
+The final rule does, however, specifically note that the FDA is "amending its regulations regarding changes to an approved [name brand] application."
+[fn100] Noting this statement, Actavis points out that the rule does not mention that the changes affect generic applications as well.
+It then posits that this omission is a sign that the CBE process simply does not apply to generics.
+We might agree absent three salient insights.
+First, in its commentary to the final version of the regulation, the FDA removed the footnote that explicitly stated what Actavis asks this court to now hold: that the CBE process does not apply to generics.
+Second, these regulations were promulgated prior to the Supreme Court's decision in Levine and since that time, the FDA has withdrawn its amicus in Colacicco , as part of an apparent reconsideration of its preemption position.
+Lastly, the 2008 final rule mentions generics only once — in a citation after a sentence that reads: "The agency has clarified by regulation and guidance the types of supplements that should be filed to satisfy a sponsor's obligations to change a drug's labeling.
+.
+.
+."
+In support of this statement, the FDA cites 21 C.F.R. 314.70 (which contains the CBE regulation) and a document entitled "Guidance for Industry: Changes to an Approved NDA or ANDA," produced in November 1999.
+The guidance document notes that "[a]ll labeling changes for ANDA products must be consistent with [ 21 U.S.C. 355 (j)]," but otherwise does not distinguish between label changes made by pioneer manufacturers and their generic counterparts.
+[fn101] Without explicit reference to the use of the CBE process by generic manufacturers, we decline to read in a bar to its use.
+The FDA's "earlier position," either as amicus or commentator, is instead "deprived of all claim to deference, by the fact that it is no longer the agency's position."
+[fn102] B. Prior Approval Process Nor does anything in the FDCA or Hatch-Waxman Amendments explicitly forbid generic manufacturers from proposing a label change through the so-called prior approval process.
+[fn103] While FDA regulations provide for permissive use of the CBE process for warning enhancements, and the prior approval process is required for "major changes," there is no indication of an agency policy, let alone congressional intent, to prevent generic manufacturers from proposing any and all labeling changes — no matter the significance of the change — through the prior approval process.
+Rather, the regulations governing labeling changes repeatedly use the nonrestrictive phrase "[t]hese changes include, but are not limited to" in describing the changes manufacturers may propose through each type of supplement.
+[fn104] Indeed, manufacturers are required to use the prior approval process for most "labeling changes."
+[fn105] C. "Dear Doctor" Letters In addition to the CBE and prior approval processes, Demahy posits that Actavis [**12] could have satisfied its state-law duty to warn by communicating directly with doctors, through a "Dear Doctor" letter.
+These letters — addressed to medical professionals and intended to explain the risks associated with prolonged use of metoclopramide — would also be subject to FDA regulation because they fall within the agency's broad definition of "labeling."
+[fn106] But, when promulgating its labeling regulations well before the Hatch-Waxman Amendments, the FDA made clear that the requirements "do not prohibit a manufacturer .
+.
+.
+from warning health care professionals whenever possibly harmful adverse effects associated with the use of the drug are discovered."
+[fn107] Thus, though generic manufacturers cannot send "Dear Doctor" letters without prior FDA approval, they can suggest that the FDA send such letters on their behalf; [fn108] the FDA will then send letters out if it determines that they are a necessary part of a risk evaluation and mitigation strategy.
+[fn109] Under Louisiana law, a drug manufacturer may discharge its duty to warn through notice to the prescribing physician.
+[fn110] Of the three avenues for complying with both state and federal law that Demahy identifies — the CBE process, the prior approval process, and letters sent directly to healthcare providers — each shares the same fundamental attributes: the manufacturer bears primary responsibility for maintaining its label consistent with safe and effective use of its product; when reports indicate that a label requires revision, the manufacturer must alert the FDA and provide supporting scientific data; and the FDA then makes the decision whether such a labeling change is supported by science.
+Even though with the CBE process, the decision is made after the label has been changed, the key feature remains: the FDA is still the final arbiter of labeling changes, while the manufacturer retains primary responsibility for the content of its label.
+The federal interest is in maintaining safe and effective labeling that is consistent across name brand and generic bioequivalent versions of the same drug.
+Who prompts the FDA to consider necessary changes to that shared label is immaterial.
+At best, Actavis has demonstrated that even an interpretation of the CBE process most favorable to Actavis (and one that fails to persuade this court) is decidedly equivocal.
+Yet, equivocation falls short of the "clear and manifest purpose of Congress" required for a finding of preemption.
+[fn111] Even assuming that the CBE regulation cannot be used by an ANDA holder to amend its label without FDA pre-approval, Levine's principles still apply with full force, and we agree with Demahy that generic drug manufacturers may use two other means of complying with both federal and state law — the prior approval process and correspondence sent directly to healthcare providers.
+Though most courts to have considered the question — including the one below — focus on the CBE process, the CBE regulation was not the exclusive, or even the primary, basis for rejecting preemption in Levine.
+Rather, the [**13] Court explained that the brand name drug manufacturer's quest for preemption was grounded in a "more fundamental misunderstanding" of the regulatory regime: that the "FDA, rather than the manufacturer, bears primary responsibility for drug labeling."
+[fn112] As we have seen, the opposite is true: "a central premise of federal drug regulation [is] that the manufacturer bears responsibility for the content of its label at all times."
+[fn113] Actavis urges that Congress intended to preempt state law because FDA regulations do not impose a duty on generic manufacturers to change their drug labels.
+This argument does not address the question we must answer.
+Preemption is not found because state law imposes duties and federal law does not.
+We look instead to the state-law imposition of duties, and to whether those duties make simultaneous compliance with federal law impossible.
+What the FDA might have done once Actavis suggested these changes is immaterial to the imposition of liability; Levine makes plain that uncertainty about the FDA's response makes federal preemption less likely: "absent clear evidence that the FDA would not have approved a change to [the drug's] label, we will not conclude that it was impossible for the [the manufacturer] to comply with both federal and state requirements."
+[fn114] The record here contains nothing, let alone "clear evidence," that suggests the FDA would have rejected a labeling proposal from Actavis.
+In fact, as discussed, the FDA mandated earlier this year that manufacturers of metoclopramide revise their labels to disclose further risks of tardive dyskinesia associated with long-term use.
+[fn115] Finally, Actavis's use of Justice Breyer's concurrence in Levine is here unavailing: he said if an agency sets a floor and a ceiling, its actions may very well enjoy preemptive effect.
+No such regulation bearing the force of law is before us, while the FDA's retreat from its earlier position on preemption and the use of the CBE provision casts further doubt on Actavis's argument.
+That being said, had the FDA gone further than Justice Breyer would require and specifically examined the risk of long-term use of metoclopramide at the time that Demahy's cause of action arose, the argument for preemption would be on surer footing.
+[fn116] VI Even if compliance with state and federal law is not "impossible," state law is nonetheless preempted if it stands as an "obstacle to the accomplishment and execution of the full purposes and objectives of Congress" as embodied in the Hatch-Waxman Amendments and the FDCA.
+[fn117] Here, if preemption is to be found, two additional conclusions necessarily follow: first, that Congress intended the name brand drug manufacturer to bear the sole burden of coping with incipient risks, even when it has ceased manufacturing the drug and left the market to generics; and two, that Congress intended either that the name brand manufacturer be liable for all failure-to-warn claims — even those arising out of the use of generic substitutes — or, that the injured plaintiff be left with no remedy.
+In assessing congressional [**14] objectives, these corollaries cannot be put aside.
+Compliance with Louisiana's failure-to-warn law, so says Actavis, will necessarily burden generic manufacturers with duplicative studies, trials, and other data-gathering exercises, all putative prerequisites to placing generic companies on notice that label changes are warranted.
+These burdens, if imposed, would no doubt drive up the development costs, and thus, the market price, of generic drugs — thwarting a key tenet of Hatch-Waxman "to make available more low cost generic drugs by establishing a generic drug approval procedure."
+[fn118] But what Louisiana law would require of generic drug companies does not inevitably impose significant investment of time and money.
+For one, Actavis fails to identify any statutory or regulatory provision that obligates manufacturers to justify labeling changes through their own clinical trials or other similarly onerous efforts.
+[fn119] Yes, requests to the FDA for label changes must be buttressed with scientific evidence, but nothing indicates that the evidence must be — as a matter of regulatory prescription or scientific reliability — acquired through the manufacturer's own clinical tests.
+As FDA regulations make plain, the regulatory regime contemplates that drug companies will effect labeling changes without conducting new clinical trials: "labeling shall be revised to include a warning as soon as there is reasonable evidence of a serious hazard with a drug; a causal relationship need not have been proved."
+[fn120] The FDA expects that such "reasonable evidence" might be derived from, among other sources, "new clinical studies, reports of adverse events, or new analyses of previously submitted data (e.g., meta-analyses)."
+[fn121] While clinical studies, then, may be used to support labeling changes, they are in no way prerequisites to those changes.
+When the FDA itself mandated an enhanced warning for metoclopramide in early 2009, it did not conduct its own studies, but referenced studies published elsewhere.
+Actavis concedes that generic manufacturers already must report "each adverse drug experience that is both serious and unexpected .
+.
+.
+as soon as possible but in no case later than 15 calendar days of initial receipt of the information by the applicant," [fn122] and every other "adverse drug experience .
+.
+.
+at quarterly intervals, for 3 years from the date of approval .
+.
+.
+and then at annual intervals."
+[fn123] The FDA also requires that generics "develop written procedures for the surveillance, receipt, evaluation, and reporting of postmarketing adverse drug experiences to FDA."
+[fn124] In Levine , the Supreme Court found that multiple reports of adverse drug experiences provided the substantiation necessary to justify a request for a heightened warning.
+[fn125] At least in the case of metoclopramide, it seems, the allegedly higher risk of long-term use was noted in medical literature beginning in the 1980s and 1990s.
+[fn126] Even if state law prompts Actavis to alert the FDA to this information, Actavis has provided no evidence that such collection and analysis of existing [**15] data and conclusions would result in significant additional expenditures.
+Stepping back, the duty to warn is, in general terms, predicated on the superior knowledge of the manufacturer.
+[fn127] In the world of prescription drugs, a pharmaceutical company manufactures, and the FDA approves, a branded drug only after extensive research and testing.
+Pioneer drug manufacturers thus develop superior knowledge of their product, and the duty to warn is more fairly imposed, as it was in Levine.
+Conversely, generic manufacturers undertake limited research efforts thanks to Hatch-Waxman.
+They can obtain approval for their copycat drug and label with the limited showing that their product is the "same as" a branded drug.
+Consistency among generic and name brand manufacturers not only avoids redundant research and monitoring efforts, it also assures consumers and physicians that the generic product is safe and effective.
+[fn128] That difference in initial regulatory burdens marks a stark tension between Hatch-Waxman's quest to quickly and cheaply place generic drugs on the market and a state law tort regime that represents the lone remedy for individuals harmed by inadequate labeling of generic drugs.
+Nevertheless, Congress did not consider the Hatch-Waxman Amendments in a vacuum, as Actavis would have us do now.
+Instead, the Amendments serve as just that — amendments — to the FDCA and to the modern regulatory regime governing all prescription drugs that the FDCA first established.
+Hatch-Waxman's goals are thus tethered to those of the overall regulatory scheme — chief among them the maintenance of safety and efficacy.
+In this wider context, nothing about the Hatch-Waxman Amendments, and their goal of cheaper drugs, obviates the concomitant prescription that all drugs, even cheaper ones, remain safe.
+Instead, as Levine explains, "failure-to-warn actions .
+.
+.
+lend force to the FDCA's premise that manufacturers, not the FDA, bear primary responsibility for their drug labeling at all times."
+[fn129] "The FDA has limited resources to monitor the 11,000 drugs on the market, and manufacturers have superior access to information about their drugs, especially in the postmarketing phase as new risks emerge."
+[fn130] In passing the FDCA, Congress "determined that widely available state rights of action provided appropriate relief for injured [drug] consumers" and that "state-law remedies further consumer protection by motivating manufacturers .
+.
+.
+to give adequate warnings."
+[fn131] We see no reason why the same cannot be said for the Hatch-Waxman Amendments to the FDCA.
+Today's inquiry does not concern the propriety of state failure-to-warn claims.
+It is enough that such a claim exists; we cannot consider whether a patient — as a policy matter — should have a state-law claim for a drug manufacturer's alleged failure to adequately warn of its products' risks.
+Louisiana says that she should.
+We have examined evidence that Congress believed she should not.
+In this case, unless the law would somehow harness liability onto name brand manufacturers for all failure-to-warn [**16] claims, preemption in this case would leave Demahy without a remedy.
+Yet, "[i]f Congress had intended to deprive [Demahy] of a long available form of compensation, it surely would have expressed that intent more clearly."
+[fn132] To hold otherwise would leave us with the bizarre conclusion that Congress intended to implicitly deprive a plaintiff whose doctor prescribes a generic drug of any remedy, while under Levine , that same plaintiff would have a state-law claim had she only demanded a name brand drug instead.
+Our review of the applicable statutes and regulations has not provided evidence sufficient to overcome the presumption against preemption; that is, there is no evidence sufficient for us to say that it was the "clear and manifest purpose" of Congress to preempt state law, or to allow the FDA to do the same.
+[fn133] The presumption reflects the judiciary's reluctance to find the intention of a coordinate federal branch to supplant state law.
+The preservation of our federalism requires Congress to do more than it — or the FDA — has chosen to do here.
+We cannot make the choice for them.
+The need for supplanting state duties here and the attendant calibration of costs and benefits are far beyond judicial ken — a reality reflected in the legal demands of conflict preemption and not wholly distant from the demands for implications of private rights of action.
+Because state imposition of duties to warn on generic drug manufacturers neither renders compliance with federal regulation impossible nor obstructs the goals of that regulation, we AFFIRM the district court's finding that Demahy's state-law failure-to-warn claims are not preempted.

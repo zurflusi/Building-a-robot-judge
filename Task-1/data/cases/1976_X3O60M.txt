@@ -1,0 +1,103 @@
+ MEDINA , Circuit Judge: This important and interesting case involves the Government's application for an order authorizing the installation and use of a pen register, and directing the New York Telephone Company to provide information, facilities and technical assistance to Special Agents of the Federal Bureau of Investigation in the installation and operation of the device.
+A pen register is a mechanical instrument attached to a telephone line, usually at a central telephone office, which records the outgoing numbers dialed on a particular telephone.
+In the case of a rotary dial phone, the pen register records on a paper tape dots or dashes equal in number to electrical pulses which correspond to the telephone number dialed.
+The device is not used to learn or monitor the contents of a call nor does it record whether an outgoing call is ever completed.
+For incoming calls, the pen register records a dash for each ring of the telephone, but does not identify the number of the telephone from which the incoming call originated.
+See United States v. Caplan , 255 F.Supp.
+805, 807 (E.D.Mich.1966).
+The device used for touch tone telephones, the TR-12 touch tone decoder, is very similar to a pen register, differing primarily in that it causes the digits dialed on the subject telephone to be printed in arabic numerals, rather than dots or dashes, corresponding to the electrical pulses.
+See United States v. Focarile , 340 F.Supp.
+1033, 1039-1040 (D.Md.1972), aff'd sub nom.
+United States v. Giordano , 469 F.2d 522 (4th Cir. 1972), aff'd , 416 U.S. 505 , 94 S.Ct. 1820 , 40 L.Ed.2d 341 (1974).
+By an order dated March 19, 1976, Judge Charles H. Tenney of the United States District Court for the Southern District of New York directed the Telephone Company to furnish to government agents investigating an alleged illegal gambling operation "All information, facilities and technical assistance necessary to accomplish the interception [by pen register] unobtrusively and with a minimum of interference with the service that such carrier is according the person whose communications are to be intercepted *."
+Pursuant to this order, the Telephone Company agreed to provide information such as terminal locations and cable and pair identifications, but declined to furnish telephone lease or private lines, citing Telephone Company regulations which prohibited such assistance.
+Government Special Agents determined that without these lease lines they could not successfully implement pen register surveillance; Telephone Company assistance in this regard was thus crucial.
+On March 30, 1976, appellant moved by order to show cause to vacate or modify that portion of Judge Tenney's March 19, 1976 order which mandated technical assistance by the Telephone Company in the installation of pen registers, contending that the order was without legal authority.
+In an opinion of April 2, 1976, not yet reported, Judge Tenney denied the motion in all respects.
+Appellant then promptly filed a notice of appeal and moved for a stay of both District Court orders pending appeal.
+This Court denied the motion for a stay on April 8, 1976, and ordered an expedited appeal.
+We will consider separately the two questions raised on this appeal: first, whether the District Court erred in authorizing the use of a pen register; and second, whether it erred in ordering the appellant to provide technical assistance to the Government.
+As it appears that this is the first time these important issues have been reviewed by this Court, we believe they merit some extended discussion.
+I In 1968, the Congress enacted the Omnibus Crime Control and Safe Streets Act, Title III of which added Sections 2510-2520 to Title 18 of the United States Code and amended Section 605 of the Federal Communications Act of 1934, 47 U.S.C.
+Section 605 .
+Title III is a comprehensive electronic surveillance statute, prohibiting all wiretapping and other types of electronic surveillance except by law enforcement officials investigating certain specified crimes.
+The statute requires compliance with strict procedures, all under judicial supervision.
+Both parties agree that pen register orders are not covered by Title III because its provisions apply only to surveillance which involves an "interception" of wire communication, or an "aural acquisition," as interception is defined in 18 U.S.C.
+Section 2510(4) , and because the legislative history makes clear that there was no Congressional intent to subject pen registers to the proscriptive standards of Title III.
+1 Other courts faced with the question of the applicability of Title III to pen register orders have likewise concluded that they are excluded.
+See United States v. Illinois Bell Tel. Co. , 531 F.2d 408, 410 , (N.D.Ill., 1976); United States v. Giordano , 416 U.S. 505, 553-54 , 94 S.Ct. 1820 , 40 L.Ed.2d 341 (1974) (Powell, J. , concurring in part and dissenting in part, joined by Burger, C. J. , Blackmun & Rehnquist, JJ.
+); United States v. Falcone , 505 F.2d 478 (3d Cir. 1974), cert. denied , 420 U.S. 955 , 95 S.Ct. 1339 , 43 L.Ed.2d 432 (1975); United States v. Vega , 52 F.R.D. 503 (E.D.N.Y.1971).
+2 It is also clear that pen register orders are not now covered by Section 605 of the Federal Communications Act of 1934.
+Prior to the enactment of Title III, there was authority for the broad applicability of Section 605 to the interception and disclosure of "any communication," including pen registers.
+See United States v. Dote , 371 F.2d 176 (7th Cir. 1966); United States v. Caplan , 255 F.Supp.
+805 (E.D.Mich.1966).
+The amendment of Section 605 effected by Title III restricted the coverage of that Section to radio communications, and withdrew the interception of wire or oral communications from the ambit of that Section, making Title III the sole governing provision.
+The legislative history of the amendment seems to us to indicate an intention by the Congress to disavow Dote and its progeny.
+3 section 605 section 605 While in agreement that pen register orders are thus not within Title III or Section 605 , the parties draw conflicting inferences from this absence of coverage.
+The Telephone Company argues that absent authorization in Title III or other statutes, the District Court had no authority to order the installation and use of a pen register.
+The Government argues that a District Court has inherent authority or power under Rule 41, F.R.Cr.P ., to issue such an order, subject only to the restraints of the Fourth Amendment .
+They point to the statement of Justice Powell in United States v. Giordano , supra , 416 U.S. at 553-54 , 94 S.Ct. at 1844, 1845 where he stated by way of dictum: Fourth Amendment We take this statement to mean that a pen register order involves a search and seizure under the Fourth Amendment , and that a court may issue such an order only upon a showing of probable cause.
+In United States v. Illinois Bell Tel. Co. , supra , the Seventh Circuit, in considering the power of the federal courts to issue pen register orders, concluded that ample authority could be found either in the inherent power of the courts or by analogy to Rule 41, F.R.Cr.P .
+The court held that a "commonsense approach" dictated that authority tantamount to that found in Rule 41 for the search and seizure of tangible objects be found to exist for an order authorizing the search and seizure of non-tangibles, such as information gleaned from pen register surveillance.
+Id., at 411 .
+We agree with this reasoning.
+While the electronic impulses recorded by pen registers are not "property" in the strict sense of that term as it is used in Rule 41(b) , we concur in the Seventh Circuit's suggestion that there exists a power akin to that lodged in Rule 41 to order the seizure of non-tangible property.
+But see In the Matter of the Application of the United States of America for an Order Authorizing Use of a Pen Register Device , 407 F.Supp.
+398 , (W.D.Mo.1976).
+Moreover, relying principally on Justice Powell's statement in United States v. Giordano , supra , we agree with the Seventh Circuit that a pen register order may only be issued after a showing of probable cause.
+We cannot concur in the view, voiced by some commentators, that pen register orders are constitutionally indistinguishable from mail covers, which are initiated by subpoena, and therefore should fall outside Rule 41 .
+See Statement of Professor G. Robert Blakey, NWC Law Enforcement Effectiveness Conference 38-39 (1976); Note, "The Legal Restraints Upon the Use of the Pen Register as a Law Enforcement Tool," 60 Cornell L.Q. 1028 (1975).
+If anything, we think this argument speaks in favor of more stringent regulation of mail covers, and in no way detracts from our conclusion here.
+In our view, the power to order pen register surveillance, whether considered a logical derivative of Rule 41 or a matter of inherent judicial authority, is the equivalent of the power to order a search warrant, and is thus subject to the requirements of the Fourth Amendment .
+As the order authorizing the installation and use of a pen register was here issued by Judge Tenney upon a showing of probable cause, we conclude that it was properly granted.
+II The next question is whether or not the court below properly ordered appellant to provide technical assistance to federal law enforcement agents in their operation of the pen register.
+This question is of some significance not only because of its immediate impact on the Telephone Company, but also because of its broader implications regarding the power of a federal court to mandate law enforcement assistance by private citizens and corporations under the threat of the contempt sanction.
+At the outset it should be noted that we are not concerned with the question of whether the Telephone Company could voluntarily assist in effectuating pen register surveillance, but rather only with whether they may be compelled to do so. Furthermore, we deem unfounded the Telephone Company's stated fear of criminal liability under 47 U.S.C.
+Section 501 and civil liability under 47 U.S.C.
+Section 206 for voluntary or compelled assistance in operating the pen register.
+18 U.S.C.
+Section 2520 , which provides a civil cause of action for any individual whose wire or oral communication is intercepted in violation of Title III, states that "good faith reliance on a court order shall constitute a complete defense to any civil or criminal action brought under this chapter or under any other law ."
+[emphasis added].
+Our inquiry is limited to the question of whether or not the District Court had authority to compel assistance, and if so, whether or not that power was properly exercised.
+Prior to its amendment in 1970, Title III was silent as to whether or not a court could order a private party, such as a telephone company, to provide technical assistance to law enforcement officials in the installation and use of wiretap devices.
+In May, 1970, the Ninth Circuit held in Application of the United States , 427 F.2d 639 (9th Cir. 1970) that absent express statutory authorization, a federal district court was without power to compel technical cooperation by the Central Telephone Company of Nevada in the interception of wire communications.
+Some two months after that decision, 18 U.S.C. Sections 2511 , 4 2518 5 and 2520 6 were amended to provide that a communication common carrier, or other firm or individual, could be compelled to furnish such technical assistance as requested by government agents, without fear of criminal or civil liability.
+As we have already said, however, Title III does not cover the issuance of pen register orders or corollary orders compelling technical assistance.
+While conceding this absence of coverage, the Government contends that the federal courts have either inherent authority or power under the All Writs Act, 28 U.S.C.
+Section 1651(a) to compel the Telephone Company to assist in installing and operating the pen register.
+In support of their argument they cite United States v. Illinois Bell Tel. Co. , supra , where the court found authority for the issuance of such an order to exist on both such bases.
+It appears that that was the first time a court construed the All Writs Act, or the notion of inherent judicial power, to provide justification for the entry of such an order in aid of its jurisdiction to order a search and seizure.
+The Seventh Circuit reasoned that since the federal courts have authority to enter orders authorizing government agents to employ a pen register, they must have analogous authority to compel assistance by a telephone company as non-compliance by the company would frustrate the issuance of the pen register order by rendering pen register surveillance technically infeasible.
+The All Writs Act provides that a federal court may issue any writ "necessary or appropriate in aid of [its] respective [jurisdiction] and agreeable to the usages and principles of law."
+Once jurisdiction is properly vested in a federal court on some independent basis, the Act empowers that court to enter such orders as it deems necessary, in its discretion, to preserve and protect its jurisdiction.
+It must be emphasized that the Act, even if found to be applicable here, is entirely permissive in nature; it in no way mandates a particular result or the entry of a particular order.
+It is addressed to the discretionary power of the court.
+Similarly, when one speaks of inherent judicial authority and argues for its exercise, as does the Government here, one invokes the discretionary power of the court and petitions for the entry of an order not otherwise provided for by specific statutory authority.
+Thus, even if we were to assume arguendo , as we do, that a district court has inherent discretionary authority or discretionary power under the All Writs Act to compel technical assistance by the Telephone Company, it is for this court to determine whether, on balance, the exercise of that power by the court below was proper or whether it constitutes an abuse of discretion.
+For the reasons detailed below, we conclude that, assuming the existence of the powers found by the Seventh Circuit, in the absence of specific and properly limited Congressional action, it was an abuse of discretion for the District Court to order the Telephone Company to furnish technical assistance.
+Probably the most persuasive point argued by the Government in support of such an order is that without the appellant's technical aid, the order authorizing the use of a pen register will be worthless.
+Federal law enforcement agents simply cannot implement pen register surveillance without the Telephone Company's help.
+The assistance requested requires no extraordinary expenditure of time or effort by appellant; indeed, as we understand it, providing lease or private lines is a relatively simple, routine procedure.
+Moreover, as we have noted above, we believe that the Telephone Company can provide this technical assistance without fear of civil or criminal liability; and the order itself provides for financial compensation for appellant for the assistance it renders.
+An additional argument in favor of granting the Government's request is its legitimate concern that if the courts do not act to compel compliance, law enforcement in general, and the particular investigation involved here, may be severely hampered.
+Notwithstanding the alacrity with which the Congress acted to amend Title III after the Ninth Circuit decision in Application of the United States , supra , there is no certainty that the Congress will similarly enact legislation authorizing orders compelling technical assistance in the case of pen register surveillance, or even if they do, that they will act promptly.
+Undue delay here would predictably impede if not entirely negate the Government's attempts to apprehend the suspected illegal gambling operators.
+Against these considerations, however, must be weighed the factors which militate against issuance of an order mandating technical assistance.
+We think a consideration of these factors compels the conclusion that the issuance of such an order by the court below represented an abuse of discretion.
+Congress did act quite rapidly to remedy the absence in Title III of any provision for compelling technical aid by communication common carriers after the Ninth Circuit rendered its decision.
+We do not agree with the Seventh Circuit that one may only infer from this speedy action that the Congress must have assumed that the federal courts possessed inherent power to compel assistance or that the telephone companies would voluntarily assist.
+United States v. Illinois Bell Tel. Co. , supra, at 412 .
+On the contrary, we think it is just as reasonable, if not more reasonable, to infer that the prompt action by the Congress was due to a doubt that the courts possessed inherent power to issue such orders, or that courts would be unwilling to find or exercise such power, and that in the absence of specific Congressional action, other courts would similarly reject applications by the Government for compelled compliance.
+In any case, as Congressional authority was thought to be necessary in Title III cases, it seems reasonable to conclude that similar authorization should be required in connection with pen register orders, especially as the two are so often issued in tandem.
+Perhaps the most important factor weighing against the propriety of the order is that without Congressional authority, such an order could establish a most undesirable, if not dangerous and unwise, precedent for the authority of federal courts to impress unwilling aid on private third parties.
+We were told by counsel for the Telephone Company on the oral argument of this appeal that a principal basis for the opposition of the Telephone Company to an order compelling it to give technical aid and assistance is the danger of indiscriminate invasions of privacy.
+In this best of all possible worlds it is a law of nature that one thing leads to another.
+It is better not to take the first step.
+While the Congress can clearly limit authorization for such orders to specific types of assistance and to federal law enforcement investigations of certain specified crimes, limitations by the courts cannot so easily be drawn, as our authority must be derived from the very general All Writs Act or the even more amorphous notion of inherent judicial power.
+We must be concerned not only with the Fourth Amendment rights of those whose telephone calls are monitored by pen register surveillance, but with the privacy rights of those third parties, communication common carriers and private parties alike, who might be called upon to aid the Government in its law enforcement endeavors.
+While a court may immunize such a third party from criminal or civil liability for its technical assistance, there is no assurance that the court will always be able to protect that third party from excessive or overzealous Government activity or compulsion.
+The potential dangers inherent in such a judicial order, and the future orders it spawns, compel us to conclude that if indeed the Government requires technical assistance, it is far better to have the authority for ordering that assistance clearly defined by statute.
+We thus agree with the advice of the Ninth Circuit: "If the Government must have the right to compel regulated communications carriers or others to provide such assistance, it should address its plea to Congress."
+Application of the United States , supra, at 644 .
+We have every hope that the Congress will promptly undertake consideration of these pen register orders and the technical assistance required to install and operate them.
+Accordingly, we affirm Judge Tenney's order insofar as it authorizes the use of a pen register, and reverse that part of the order which mandates assistance by appellant in the installation and operation of the pen register.

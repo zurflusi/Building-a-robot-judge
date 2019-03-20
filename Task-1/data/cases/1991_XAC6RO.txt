@@ -1,0 +1,73 @@
+ OPINION PHILLIPS , Circuit Judge: This appeal requires us to revisit the question whether an interest in an ERISA-qualified pension plan (a trust) should be included as property of the debtor's estate, where the self-settled trust contains an ERISA-imposed non-alienation provision but otherwise would not qualify as a spendthrift trust under state law.
+We hold that under In re Moore , 907 F.2d 1476 (4th Cir.1990), the interest here in issue is not includible in the debtor's estate and accordingly reverse the district court's holding to the contrary.
+I Joseph Shumate was the president and chairman of the board of Coleman Furniture Co. ("Coleman") from 1978 until early 1983.
+During this time, he controlled 96% of the voting stock and had the power to appoint and control the board of directors.
+Both before and after Shumate joined the company, Coleman had an ERISA-qualified pension plan that was financed solely by employer contributions.
+Shumate had an interest in the pension plan valued at $250,000; nearly 400 other Coleman employees also participated in the plan, though to a far lesser extent.
+In 1982, Coleman suffered financial problems, and filed for bankruptcy protection.
+Shortly thereafter, Shumate experienced financial difficulties himself, and he filed for bankruptcy in June 1984.
+John R. Patterson, the defendant in this lawsuit, was appointed a trustee for Shumate's bankruptcy estate.
+After much litigation over the Coleman pension plan, all of the 400 Coleman workers except Shumate were paid off in full by Coleman's bankruptcy estate.
+As a result, Patterson filed an adversary proceeding in bankruptcy court against Coleman's trustee to recover Shumate's interest in the pension plan so it would be included in Shumate's bankruptcy estate.
+Shumate responded by asking the district court, engaged in a related proceeding, to compel Coleman's trustee to pay directly to him his interest in the plan.
+The district court assumed jurisdiction over the bankruptcy court action and granted Patterson leave to intervene.
+The court then held that Shumate's interest in the plan should be included in the estate, pursuant to 11 U.S.C. 541(a) , on the basis that Shumate's control over the pension plan was so complete as not to qualify the pension plan, under applicable Virginia law, for spendthrift trust status.
+83 B.R. 404 .
+The court further held that assuming Shumate's interest in the pension was deemed property of the estate, it was not exempted by virtue of 522(b)(2) (A), because Shumate's interest in the ERISA-qualified pension plan was not "exempt under federal law."
+This appeal by Shumate followed.
+II Section 541 of the Bankruptcy Code provides that "all legal or equitable interests of the debtor in property as of the commencement of the case" become part of the bankruptcy estate.
+Though this provision was intended to be broad in scope, see United States v. Whiting Pools, Inc. , 462 U.S. 198, 204-05 , 103 S.Ct. 2309, 2313 , 76 L.Ed.2d 515 (1983); H.R.Rep.
+No. 595, 95th Cong., 1st Sess.
+367-38, reprinted in 1978 U.S.Code Cong. & Admin.News 5787, 6323-24, the Code allows certain exceptions.
+11 U.S.C. 541(a)(1) .
+One of the exceptions stipulates that "[a] restriction on the transfer of a beneficial interest of the debtor in a trust that is enforceable under applicable nonbankruptcy law is enforceable in a case under [the Bankruptcy Code]."
+Id .
+541(c)(2) (emphasis added).
+After the district court's decision in the instant case, this court held in Anderson v. Rainec ( In re Moore ), 907 F.2d 1476 (4th Cir.1990), that "applicable nonbankruptcy law" includes the Employee Retirement Income Security Act (ERISA).
+1 In that case we looked to the plain language of the statute and found "applicable nonbankruptcy law" to be not limited to state law but also to embrace federal statutes, including ERISA.
+907 F.2d at 1477-79 ("'Applicable nonbankruptcy law' means precisely what it says: all laws, state and federal, under which a transfer restriction is enforceable.
+Nothing in the phrase 'applicable nonbankruptcy law' suggests that the phrase refers exclusively to state law, much less to state spendthrift trust law.").
+We further held that because ERISA enforces restrictions on the transfer of pension interests under its non-alienation requirement, 2 it constitutes an "applicable nonbankruptcy law."
+See id. at 1479-81 .
+Under the Moore analysis, therefore, the ERISA non-alienation requirement qualifies as "[a] restriction on the transfer of a beneficial interest of the debtor in a trust enforceable under applicable nonbankruptcy law."
+Appellees concede as much, but seek to escape the force of Moore by contending that Moore does not stand for an ironclad proposition that ERISA creates an automatic exclusion in bankruptcy, but that such an exclusion must turn on "state law governing spendthrift trust or public policy."
+We disagree.
+The nub of appellees' argument is that the non-alienation requirement in Coleman's ERISA-qualified pension plan did not effectively apply to Shumate because he controlled the company, and thereby could control the pension plan.
+3 The evidence is that Shumate held 96% of the stock of the company, that he could vote in or out all the board of directors, that the board could terminate the pension plan at any time, and that he would personally benefit from any reversion from the plan upon termination.
+From this the district court concluded that a trust in which a beneficiary wields such power cannot be held a valid spendthrift trust, since public policy dictates that when debtor is both settlor and beneficiary of the trust it will not be enforced.
+This focus on state spendthrift trust law, which looks to the reality behind the non-alienation provision, is misplaced.
+ERISA requires a plan to have a non-alienation provision, and that provision has been vigorously enforced.
+See Guidry v. Sheet Metal Workers Nat'l Pension Fund , 493 U.S. 365 , 110 S.Ct. 680 , 107 L.Ed.2d 782 (1990); Smith v. Mirman , 749 F.2d 181, 183 (4th Cir.1984); General Motors Corp. v. Buha , 623 F.2d 455, 460 (6th Cir.1980).
+No more inquiry need be made to determine whether the trust is controlled by the settlor or the beneficiary, or whether they are the same person.
+As we held in Moore , "ERISA's non-alienability provisions prevent both voluntary and involuntary encroachments on vested benefits.
+Thus, neither plan participants nor general creditors may reach benefits under an ERISA-qualified profitsharing and pension fund."
+907 F.2d at 1480 (citations omitted).
+Looking only to the terms of the plan before us, we are satisfied that this conclusion also applies to the Coleman pension plan.
+Hence, this court's holding in Moore precludes the fact-based state law inquiry urged by appellees.
+We think it is not giving Moore undue weight to say that it stands for the proposition that all ERISA-qualified plans, which by definition have a non-alienation provision, constitute "applicable nonbankruptcy law" and contain enforceable restrictions on the transfer of pension interests.
+Id. That conclusion rests not on the reality of the particular beneficiary-settlor-trust relationship in issue, but instead on the status of the plan as ERISA-qualified.
+Consequently, Shumate's interest in the pension plan should be excluded from the bankruptcy estate under 541(c)(2) .
+4 This holding is consistent with the clear intent of ERISA and the Bankruptcy Code.
+Congress passed ERISA to guarantee that "if a worker has been promised a defined pension benefit upon retirement--and if he has fulfilled whatever conditions are required to obtain a vested benefit--he actually will receive it."
+Nachman Corp. v. Pension Benefit Guaranty Corp. , 446 U.S. 359, 375 , 100 S.Ct. 1723, 1733 , 64 L.Ed.2d 354 (1980).
+To make sure this guarantee was not eroded, Congress imposed restrictions on the assignment and alienation of pension benefits.
+See 29 U.S.C. 1056(d)(1) ; 26 U.S.C. 401(a)(13) .
+These restrictions demonstrate a "strong public policy against the alienability of an ERISA plan participant's benefits."
+Smith v. Mirman , 749 F.2d at 183 .
+The strength of this public policy judgment was reaffirmed recently by the Supreme Court in Guidry v. Sheet Metal Workers Nat'l Pension Fund , 493 U.S. 365 , 110 S.Ct. 680 , 107 L.Ed.2d 782 (1990).
+In Guidry , the Court held that the pension fund could not attach Guidry's pension benefits to recover the money Guidry had embezzled from the fund.
+The Court held that ERISA's nonalienation requirement "reflects a considered congressional policy choice, a decision to safeguard a stream of income for pensioners (and their dependents ), even if that decision prevents others from securing relief for the wrongs done them."
+110 S.Ct. at 687 .
+The Bankruptcy Code reflects a different, but not incompatible, congressional intent.
+In enacting the Code, Congress sought to define broadly a debtor's estate, Whiting Pools , 462 U.S. at 204 , 103 S.Ct. at 2313 , but also recognized that certain property should be excluded from the estate.
+See 11 U.S.C. 541(b) , (c)(2) .
+One class of property universally recognized as not included is a debtor's interest in a spendthrift trust.
+See, e.g. , McLean v. Central States, Southeast & Southwest Areas Pension Fund , 762 F.2d 1204 (4th Cir.1985); Goff , 706 F.2d 574 (5th Cir.1983).
+Courts have so held because 541 mandates that where trusts contain enforceable restrictions on transfer of a beneficial interest, those restrictions must be recognized in bankruptcy and there operate to exclude the interest from the debtor's estate.
+As this court made clear in Moore , we see no reason to restrict 541(c)(2) 's exclusion provision to spendthrift trusts.
+Instead, following the rule that, whenever possible, statutes should be read in harmony and not in conflict, Morton v. Mancari , 417 U.S. 535, 551 , 94 S.Ct. 2474, 2483 , 41 L.Ed.2d 290 (1974), we interpret these in such a way as to give full effect to both ERISA and the Bankruptcy Code by holding that interests in ERISA-qualified pension plans are excluded from a bankrupt's estate.
+See Moore , 907 F.2d at 1479-80 .
+III Because we hold that debtor's interest in the pension plan is excluded from the estate, we need not reach the question whether debtor's interest would in any event qualify for exemption under 522(b) .
+See 11 U.S.C. 522(b) ("an individual debtor may exempt from property of the estate any property that is exempt under Federal law").
+5 Accordingly, the judgment of the district court is reversed.
+REVERSED.

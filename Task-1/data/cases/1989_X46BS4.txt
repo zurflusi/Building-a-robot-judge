@@ -1,0 +1,142 @@
+ OAKES , Chief Judge: This is an appeal by the Government from an order of the United States District Court for the District of Connecticut, T. Emmet Clarie, Judge, suppressing certain electronic surveillance evidence under 18 U.S.C. 2518(8)(a) (Supp. V 1987).
+695 F.Supp.
+649 .
+Section 2518 regulates the procedure for the interception of electronic communications.
+It permits surveillance under the authority of an order from a judge.
+In general, tape recordings of the communications should be made.
+Then, "[i]mmediately upon the expiration of the period of the order, or extensions thereof, such recordings shall be made available to the judge issuing such order and sealed under his directions."
+18 U.S.C. 2518(8)(a) .
+This is no mere technical requirement.
+Rather, the sealing provision embodied in section 2518(8)(a) was a matter of fundamental concern underlying the electronic surveillance statute, Title III of the Omnibus Crime Control and Safe Streets Act of 1968, Pub.L.
+No. 90-351, 82 Stat. 197 , 211 (codified as amended at 18 U.S.C. 2510 et seq.)
+("Title III").
+Subsection 2518(8)(a) makes the presence of the seal, "or a satisfactory explanation for the absence thereof," a "prerequisite for the use or disclosure of the contents of any wire or electronic communication or evidence derived therefrom."
+This is an independent suppression remedy, distinct from that contained in section 2518(10)(a) .
+United States v. Mora , 821 F.2d 860, 866 (1st Cir.1987).
+The Supreme Court emphasized the importance of Title III's requirements when it construed section 2518(10)(a) 's suppression provisions in United States v. Giordano , 416 U.S. 505, 527 , 94 S.Ct. 1820, 1832 , 40 L.Ed.2d 341 (1974): We believe that these words apply with equal force to the suppression provision in section 2518(8)(a) .
+Furthermore, the technological advances that have occurred in the fifteen years since the Giordano decision, see G. Marx, Undercover: Police Surveillance in America 206-33 (1988) ( "Undercover" ), render the Court's views in that case all the more pertinent.
+For reasons that will appear below, we affirm the decision of the district court insofar as it suppressed 344 tapes of surveillance on telephones at Levittown, Puerto Rico (the "Levittown tapes") and thirty-four tapes from electronic surveillance at certain telephones in Vega Baja, Puerto Rico ("the Vega Baja tapes").
+BACKGROUND Following a rocket attack on the federal building and United States courthouse in Hato Rey, Puerto Rico, the Government obtained an order of electronic surveillance effective April 27, 1984, for the residence of defendant Filiberto Ojeda Rios ("Ojeda") in Levittown, Puerto Rico, and for a bank of public telephones near his residence.
+At some time during the surveillance, the Government had reason to believe that those connected with that attack were also involved in the robbery of the Wells Fargo depot in West Hartford, Connecticut.
+That robbery is the subject of an indictment, and we consider here the district court's suppression of tapes that the Government has designated as trial exhibits.
+1 The Government obtained two extensions of the April 27, 1984, order covering Ojeda's residence and the nearby public telephones in Levittown.
+The final extension expired on July 23, 1984, but the Government actually terminated the surveillance on July 9, 1984, a few days after Ojeda moved out of the apartment and ninety-six days before the tapes were judicially sealed on October 13, 1984.
+The date of sealing of the Levittown tapes was eighty-two days after the expiration of the final extension order.
+Meanwhile, however, the Government had obtained a new surveillance order on July 27, 1984, relating to Ojeda's new residence in El Cortijo, an urban community within a municipality adjacent to Levittown.
+That order, which will be called the El Cortijo order, expired on September 24, 1984.
+Between the time of the expiration of the Levittown order and its extensions and the issuance of the El Cortijo order, there was a lapse of only four days.
+Between the time of the expiration of the El Cortijo order and its extensions on September 24, 1984, and the order of sealing on October 11, 1984, there was a lapse of seventeen days.
+The district court held, however, that the Levittown electronic surveillance was not extended by the El Cortijo electronic surveillance order and that accordingly the court did not have to determine whether the duty to seal the Levittown tapes arose on July 9, 1984, the date that the Government ceased operating its equipment at Levittown, or on July 23, 1984, the date of expiration of the last Levittown extension order.
+In either case, the court ruled, the tapes were suppressed "on the basis of time alone."
+The court ruled, on the other hand, that the seventeen-day sealing delay applicable to the El Cortijo tapes themselves was satisfactorily explained because the tapes were immaculate, the delay came about in good faith, and the delay was not excessive.
+Thus our first question is whether the El Cortijo surveillance was in fact a continuance of the Levittown surveillance.
+We then must determine, if it was not, whether the surveillance evidence was suppressible on the facts of this case where there was a sealing delay in connection with the Levittown tapes of either eighty-two or ninety-six days, as the case may be.
+The Vega Baja tapes relate to orders of authorization to wiretap two public telephones outside a pharmacy in Vega Baja.
+The first order was obtained on January 18, 1985, and expired on February 17, 1985.
+The Government obtained a new wiretap order, based on a revised affidavit, on March 1, 1985.
+This order was extended twice, the final extension expiring on May 30, 1985.
+All the tapes derived from the Vega Baja telephone taps were then sealed on June 15, 1985.
+The Government claimed before the district court that the order of March 1, 1985, was an extension of the January 18, 1985, order, but the court was not satisfied with the Government's explanation, holding that the revised affidavit ought to have been completed "in a more expeditous [ sic ] manner."
+This led the court to conclude that the sealing delay for the Vega Beja tapes derived from the January 18, 1985, order was 118 days.
+It considered this delay excessive and suppressed these tapes "on the basis of time alone."
+The sealing delay for all of the other Vega Beja telephone tapes was sixteen days.
+The district court found that this sixteen-day delay was satisfactorily explained, again on the basis of the immaculacy of the tapes and the fact that the delay came about in good faith and was not excessive.
+Thus, with respect to the tapes created during the first Vega Baja telephone order of January 18, 1985, the first question is whether the March 1, 1985, order was an extension of the prior order.
+If it was not, then we must decide whether the 118-day sealing delay was satisfactorily explained on the facts of this case.
+It should be noted that the district court specifically stated in footnote 3 of its ruling that it made no specific findings with respect to the physical integrity of either the Levittown tapes or the Vega Baja tapes.
+In a motion for clarification and reconsideration, the Government contended that this was inconsistent with the substance of the court's rulings.
+The district court denied the motion to reconsider footnote 3.
+The appellees make the point that even if we were to reverse the district court's orders of suppression and to remand for further findings, serious questions of authenticity and integrity would remain for determination and independent grounds for suppression would be at issue on appeal.
+These include the Government's alleged use of a secret recording system, its alleged deliberate destruction of tapes containing original material, and its alleged practice of eavesdropping without recording.
+DISCUSSION The Law Governing Sealing Delays This court made it clear in United States v. Gigante , 538 F.2d 502 (2d Cir.1976), agreeing with the dissent of Judge Rosenn in United States v. Falcone , 505 F.2d 478 (3d Cir.1974), cert. denied , 420 U.S. 955 , 95 S.Ct. 1338 , 43 L.Ed.2d 432 (1975), that "a satisfactory explanation is required, not only for total failure to seal the tapes, but for failure to seal the tapes 'immediately' as well [A]ny other interpretation 'would completely undercut the statutory purpose of protecting the integrity of the tapes.'"
+Gigante , 538 F.2d at 507 (quoting Falcone , 505 F.2d at 486 n. 5 (Rosenn, J., dissenting)).
+Our decisions have fully recognized the importance of the integrity of the underlying tape, an importance that in an era of increasingly sophisticated techniques cannot be overemphasized.
+See Undercover at 135-36 (describing "editing" techniques such as erasing, losing or not reporting a tape, neglecting to activate the recording device, claiming that the device malfunctioned or could not be used for security reasons, and speaking inaudibly; and noting that "careful linguistic analysis" is required to combat strategies by which innocent people may be made to appear guilty on tape).
+We recognize that the sealing requirement, as established by the statute and construed by the courts, does not guarantee the integrity of tape recordings.
+E.g. , United States v. Massino , 784 F.2d 153, 156 (2d Cir.1986).
+Nevertheless, the requirement that tapes be sealed immediately upon expiration of an order contributes to the congressional purpose of minimizing the risk of tampering.
+We have held that one or two days is generally sufficient to carry out the sealing process.
+United States v. Vazquez , 605 F.2d 1269, 1278 (2d Cir.) ("a sealing achieved one to two weeks after expiration of a wiretap cannot be considered 'immediate'"), cert. denied , 444 U.S. 981 , 100 S.Ct. 484 , 62 L.Ed.2d 408 (1979).
+The First Circuit has pointed out that the sealing requirement, in the congressional language, "shall be a prerequisite" for admission of evidence from a wiretap.
+Mora , 821 F.2d at 866 .
+The court went on to say: Id. Our court and the First Circuit agree that the Government thus has a burden to offer the statutory "satisfactory explanation" for any sealing delay.
+Id. at 867-69 ; Massino , 784 F.2d at 156 .
+Because not every failure to comply with the wiretap statute requires suppression of the resultant evidence, United States v. Donovan , 429 U.S. 413, 433-34 , 97 S.Ct. 658, 671-72 , 50 L.Ed.2d 652 (1977); United States v. Chavez , 416 U.S. 562, 574-75 , 94 S.Ct. 1849, 1855-56 , 40 L.Ed.2d 380 (1974), the excusatory provision of section 2518(8)(a) should be viewed in light of the extent to which immediacy of sealing is "'a central or functional safeguard in Title III's scheme to prevent abuses,'" Mora , 821 F.2d at 866 (quoting United States v. Diana , 605 F.2d 1307, 1312 (4th Cir.1979) (quoting United States v. Chun , 503 F.2d 533, 542 (9th Cir.1974)), cert. denied , 444 U.S. 1102 , 100 S.Ct. 1067 , 62 L.Ed.2d 787 (1980)).
+Thus, we disagree with those courts that excuse sealing delays simply upon proof of the integrity of the tapes.
+See United States v. Angelini , 565 F.2d 469, 471 (7th Cir.1977) (if there is no satisfactory explanation for a sealing delay, court should consider whether statutory purpose of preserving tapes' integrity was satisfied, whether sealing requirement was deliberately ignored, and, if so, whether any tactical advantage was gained), cert. denied , 435 U.S. 923 , 98 S.Ct. 1487 , 55 L.Ed.2d 517 (1978); McMillan v. United States , 558 F.2d 877, 879 (8th Cir.1977) (per curiam) (denying habeas relief for federal prisoner, who alleged that sealing requirement had been violated, because integrity of tapes was undisputed); United States v. Diadone , 558 F.2d 775, 780 (5th Cir.1977), cert. denied , 434 U.S. 1064 , 98 S.Ct. 1239 , 55 L.Ed.2d 765 (1978); United States v. Lawson , 545 F.2d 557, 564 (7th Cir.1975), cert. denied , 424 U.S. 927 , 96 S.Ct. 1141 , 47 L.Ed.2d 337 (1976); United States v. Cohen , 530 F.2d 43, 46 (5th Cir.1976), cert. denied , 429 U.S. 855 , 97 S.Ct. 149 , 50 L.Ed.2d 130 (1976); United States v. Falcone , 505 F.2d 478, 484 (3d Cir.1974), cert. denied , 420 U.S. 955 , 95 S.Ct. 1338 , 43 L.Ed.2d 432 (1975); United States v. Vastola , 670 F.Supp.
+1244, 1282 (D.N.J.1987).
+The Sealing Delays in This Case Measuring the length of the sealing delays for both sets of tapes depends first on whether or not the later orders were extensions of the earlier ones.
+We will take up the two sets of tapes separately.
+In respect to the Levittown tapes and the El Cortijo order, the Government, citing United States v. Principie , 531 F.2d 1132 (2d Cir.1976), cert. denied , 430 U.S. 905 , 97 S.Ct. 1173 , 51 L.Ed.2d 581 (1977), argues that the El Cortijo order was an extension of the Levittown order.
+It was, the Government points out, part of the same general investigation, conducted for the same purpose, related to the same crime or crimes, and it involved the same mechanisms of interception.
+Since the orders related to successive premises occupied by the same person, Ojeda, the Government argues that the El Cortijo order was a simple extension of the Levittown order and that continuity was not destroyed by Ojeda's residential move.
+Any other ruling, we are told, would thwart legitimate governmental investigatory efforts every time a suspect changed his residence.
+As a last resort, the Government argues that its mistake was an honest one and that it was therefore acting in good faith.
+In other words, the Government would have us liberally construe extension orders, that is to say, take "a flexible approach."
+The Government also criticizes the weight attached by the district court to the differences between the Levittown surveillance and the El Cortijo surveillance.
+The former involved a microphone in the apartment and taps on three public telephones; the latter was a tap on a private telephone.
+The Government points out that the El Cortijo order also authorized the placement of a microphone in the El Cortijo apartment, but the investigators never had an opportunity surreptitiously to install it.
+We said in Vazquez , supra , that the term "extensions" is "to be understood in a common sense fashion as encompassing all consecutive continuations of a wiretap order, however designated, where the surveillance involves the same telephone, the same premises , the same crimes, and substantially the same persons."
+605 F.2d at 1278 (emphasis added) (citing United States v. Scafidi , 564 F.2d 633, 641 (2d Cir.1977), cert. denied , 436 U.S. 903 , 98 S.Ct. 2231 , 56 L.Ed.2d 400 (1978), and inviting comparison to Principie , supra , 531 F.2d at 1142 n. 14).
+The Government argues that our reference in Vazquez to the "same premises" is dictum, because the interception in Vazquez did not involve a change in location.
+This is true, but we see no reason to depart from Vazquez 's statement since it represents the common sense of the matter.
+The Government relies principally on the Principie case, for the proposition that when a target of surveillance moves to evade detection, an order for the second location is an extension of the order for the first location.
+Principie was an opinion authored by one member of this panel and concurred in by another.
+We note that it had nothing to do with the statutory provision at issue here.
+In Principie , we were concerned only with the requirement of providing notice to persons overheard during surveillance, under 18 U.S.C. 2518(8)(d) .
+Principie , 531 F.2d at 1142 .
+The requirement of giving inventory notice, unlike the sealing requirement, does not go to the underlying integrity of the tapes.
+Moreover, the facts in Principie differed significantly from the present case. In Principie , an electronic surveillance order for a club was issued and extended in July. The targets moved their headquarters on September 1, but an additional extension order covering the original location was issued on September 11.
+Id. at 1135-36 .
+The September 11 order was then "renewed and amended" on September 27 to cover the new location.
+Id. at 1142 & n. 14.
+Principie is thus distinguishable; there was a continuity between the orders in that case that is lacking in ours.
+We conclude that the location of a wiretap or other electronic surveillance is not an optional factor to be discarded on a "flexible" basis when the targets and crimes are similar or the same.
+In so saying, we recognize and are impressed, if not entirely pressed to our conclusion, by the fact that a 1986 amendment to Title III permits roving surveillance of a named target in specified circumstances, although this provision was not in effect when the interceptions at issue here occurred.
+See Electronic Communications Privacy Act of 1986, 106(d)(3) , Pub.L.
+No. 99-508, 100 Stat. 1848 , 1857 (codified at 18 U.S.C. 2518(11) (Supp. V 1987)).
+The Government finds the legislative history of section 2518(11) "instructive" in that it contemplates the roving surveillance of suspects who move from room to room in a hotel or of alleged terrorists who use different telephone booths to avoid surveillance.
+See S.Rep.
+No. 541, 99th Cong., 2d Sess.
+32, reprinted in 1986 U.S.Code Cong. & Admin.News 3555, 3586.
+It may be that the new section 2518(11) would have authorized roving surveillance of Ojeda, who seems to have suspected that he was under surveillance.
+The fact remains that section 2518(11) was added after the surveillance of Ojeda; we find the absence of this provision in 1984 instructive.
+Thus we hold that the El Cortijo order was not an extension of the Levittown order and that the Levittown tapes must stand or fall on their own.
+It was therefore necessary for the Government to justify the delay of up to eighty-two or ninety-six days, whichever is considered the period of time.
+The district court's reference to suppression "on the basis of time alone" implies that there could be no "satisfactory explanation," in the language of the statute, for such a long sealing delay.
+This presumption would, however, extend our cases, particularly United States v. Gigante , 538 F.2d 502 (2d Cir.1976), too far.
+Nevertheless, we do not think that the Government's explanation here was satisfactory.
+The supervising attorney mistakenly thought that the Government was not obligated to seal any electronic surveillance evidence in the case until there was a "hiatus" in the investigation as a whole.
+On appeal, the Government objects to an automatic rule of exclusion based on the length of the sealing delay.
+It argues that, as under Mora 's analysis, the integrity of the tapes, prejudice to the defendants, benefit to the Government, the cause of the delay, and the length of the delay should all be weighed to determine the adequacy of the explanation.
+See Mora , 821 F.2d at 867-69 .
+The Government asserts that this analysis should have led to the admission of the Levittown tapes, just as the later El Cortijo and Taft Street tapes were admitted.
+We agree that the factors enumerated in Mora should be considered.
+However, our weighing of those factors leads us to sustain the suppression of the Levittown tapes.
+In discussing sealing delays, the First Circuit observed that "[a]n explanation is unlikely to be deemed satisfactory if it is reflective of gross dereliction of duty or wilful disregard for the sensitive nature of the activities undertaken by means of the order."
+Id. at 869 .
+We think that unfortunately the failure to seal the Levittown tapes here resulted from a disregard of the sensitive nature of the activities undertaken.
+The danger here is, of course, that today's dereliction becomes tomorrow's conscious avoidance of the requirements of law.
+The privacy and other interests affected by the electronic surveillance statutes are sufficiently important, we believe, to hold the Government to a reasonably high standard of at least acquaintance with the requirements of law.
+We therefore agree with the First Circuit that when sealing is other than immediate, the resultant evidence can be utilized "if--and only if--a 'satisfactory explanation' for the delay eventuates," id. at 867 , and we hold that the Government's burden here was not met by proof that the tapes were free from adulteration.
+While the Government's misunderstanding of the law might help to excuse the nineteen-day delay accepted by Judge Clarie in respect to the later El Cortijo tapes, we think that the eighty-two or ninety-six day delay in respect to the Levittown tapes was not satisfactorily explained thereby.
+See id. at 868 ("the lengthier the delay, the more difficult to find the government's explanation 'satisfactory'").
+Thus we affirm Judge Clarie's order suppressing the Levittown tapes.
+As to the Vega Baja tapes, there was a twelve-day hiatus from the expiration of the January 18 order on February 17, 1985, to the issuance of an extension on March 1.
+Here the Government's explanation covers only a twelve-day period, which is on the borderline of acceptability.
+See United States v. Massino , 784 F.2d 153, 158 (2d Cir.1986) (fifteen-day delay "among the longest we have been willing to tolerate").
+The Government reminds us that there has been no showing of bad faith on its part.
+We do not agree with the Government that its good faith, by analogy to the analysis of the exclusionary rule in United States v. Leon , 468 U.S. 897 , 104 S.Ct. 3405 , 82 L.Ed.2d 677 (1984), justifies admission of any tapes that are free from tampering.
+We think that importing Fourth Amendment analysis (which concededly might be justified in the case of section 2518(10)(a) ) into the construction of the independent suppression remedy in section 2518(8)(a) would be unsound, because it would fail to recognize the explicitly stated congressional purposes of subsection (8)(a).
+See Mora , 821 F.2d at 866-67 .
+In other words, the cause and length of the delay, the deliberateness of the statutory transgression, the integrity of the tapes, the tactical advantages or disadvantages accruing from the error, and other relevant factors in a given case must all be considered in answering the sole question which the statute requires to be asked, namely, whether there is "a satisfactory explanation for the absence" of timely judicial sealing.
+See id. at 867 (quoting 18 U.S.C. 2518(8)(a) ).
+The issue with respect to the Vega Baja telephone tapes then is whether the Government satisfactorily explained the twelve-day lapse from the expiration of the January 18 order, on February 17, to the issuance of an "extension" on March 1.
+The Government claimed that it needed that time to revise the affidavits that it submitted to obtain the surveillance order.
+However, the district court found that the March 1 affidavit did not differ significantly from the earlier ones; indeed, the March 1 affidavit was textually similar and in fact shorter than that supporting the January 18 order.
+It was only on March 31 that the Government submitted its substantially revised affidavits, some 166 pages in length.
+The court decided that the Government should have completed the task more expeditiously, and the court held that the March 1 order could not be deemed an extension of the January 18 order.
+We agree with this conclusion and hence with the court's calculation that there was a 118-day delay in sealing these tapes.
+Again, while we eschew any thought of automatic suppression on the basis of time alone, we do not believe that any "satisfactory explanation" has been offered for this long delay other than an underlying cavalier conception that the sealing requirements are technical, rather than reflective of congressional concerns about underlying constitutional requirements.
+We therefore affirm the district court's suppression of the Vega Baja telephone tapes.
+Judgment affirmed.

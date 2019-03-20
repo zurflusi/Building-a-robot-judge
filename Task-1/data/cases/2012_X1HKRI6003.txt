@@ -1,0 +1,188 @@
+ BOUDIN, Circuit Judge.
+This products liability case arises out of severe and permanent injuries sustained by plaintiff Karen Bartlett after taking sulindac, a generic non-steroidal anti-inflammatory drug ("NSAID") manufactured by (among others) defendant Mutual Pharmaceutical Company ("Mutual").
+Sulindac is known to cause, in rare instances, a hypersensitivity reaction called Stevens-Johnson Syndrome and its more generous cousin toxic epidermal necrolysis ("SJS/TEN").
+In December 2004, Bartlett's doctor prescribed (for her shoulder pain) sulindac under the brand-name Clinoril made by the original provider, and her pharmacist dispensed generic sulindac.
+The consequences were disastrous.
+Bartlett developed SJS/TEN early in 2005.
+TEN is diagnosed when 30 percent or more of the outer skin layer on a patient's total body surface area has deteriorated, been burned off or turned into an open wound.
+In Bartlett's case, the percentage rose to 60-65 percent of her body; she spent 70 days at Massachusetts General Hospital — including over 50 in its burn unit.
+Both her suffering and permanent injury, including permanent near-blindness, are described below in connection with the award of damages.
+Bartlett brought a bevy of claims against Mutual in New Hampshire state court, including claims for breach of warranty, fraud, and negligence, as well as the perennial trio of products liability claims: design defect, failure to warn, and manufacturing defect.
+After Mutual removed the case to federal court on diversity [**2] grounds, all but the design defect claim were dismissed by the district court on summary judgment or voluntarily by Bartlett.
+Bartlett v. Mutual Pharm. Co. , No. 08-cv-358, 2010 WL 3659789 (D.N.H.
+Sept. 14, 2010); Bartlett v. Mutual Pharm. Co. , 731 F.Supp.2d 135 (D.N.H.2010).
+Bartlett originally planned her evidence across a range of possible claims, including an attack on the adequacy of the warning label and information that accompanied Mutual's sulindac drug.
+It was not until after the trial was completed that further legal developments (discussed below) fore-closed a direct attack on the adequacy of the label; but the district court dismissed Bartlett's warning claim because her prescribing doctor admitted that he had not read the box label or insert.
+Bartlett , 731 F.Supp.2d at 146-49 .
+Although Bartlett's experts had prepared their initial reports to cover multiple theories advanced in the complaint, by trial the core remaining theory of design defect was narrowed to this: that sulindac's risks outweighed its benefits making it unreasonably dangerous to consumers, despite the federal Food and Drug Administration ("FDA") having never withdrawn its statutory "safe and effective" designation that the original manufacturer had secured and on which Mutual was entitled to piggyback.
+See 21 U.S.C. 355 (b)(1), (d) (2006); id .
+355(j)(2)(A) .
+A 14-day trial occurred in late August and early September 2009, during which Bartlett called witnesses to her suffering and her treatment, including two important experts: a burn surgeon and — more critical to design defect — a pharmacologist/toxicologist.
+The latter expert in particular sought to show from incident reports made to the FDA and other information that sulindac had a worse record of causing SJS/TEN than other available drugs, and a safety profile similar to other drugs deemed dangerous enough to have been withdrawn from the market — such as valdecoxib, another NSAID sold under the brand name Bextra, which was withdrawn in 2005.
+Mutual had designated its own expert in the same field as well as other witnesses but ultimately chose to put on no affirmative case of its own, although it cross-examined Bartlett's experts vigorously and offered substantial legal arguments to the judge as to why it should not be found liable.
+After several days of deliberation, the jury found for Bartlett and awarded $21.06 million in compensatory damages.
+The district court denied Mutual's motion for judgment as a matter of law, Fed. R.Civ.P.
+50 (b), and motion for a new trial, Fed.R.Civ.P. 59 .
+Bartlett v. Mutual Pharm. Co. , 760 F.Supp.2d 220 (D.N.H.
+2011).
+Mutual now appeals, arguing that the district court misunderstood New Hampshire law on design defect claims; that such claims as to generic drugs are preempted under federal law; that causation was not proved; that Bartlett's expert evidence was inadmissible on multiple grounds; that instructions as to label warnings were inaccurate; that misconduct by Bartlett's counsel required a new trial; and that damages were excessive and required a new trial.
+The standard of review depends upon the issue, the first two raising strictly issues of law that we review de novo.
+U.S. ex rel.
+Loughren [**3] v. Unum Grp. , 613 F.3d 300 , 307-08 (1st Cir.2010).
+Design Defect.
+Although courts "traditionally have refused to review the reasonableness of the designs of prescription drugs," Restatement (Third) of Torts: Products Liability 6 , cmt. f , at 156 (1998), this court reads New Hampshire law now to permit such review, Brochu v. Ortho Pharm. Corp. , 642 F.2d 652 , 655 (1st Cir.1981).
+Brochu is consistent with the New Hampshire Supreme Court's adoption of Restatement (Second) of Torts 402A (1965), see Buttrick v. Lessard , 110 N.H. 36 , 260 A.2d 111 , 113 (1969), which "imposes liability for selling `any product in a defective condition unreasonably dangerous to the user or consumer' when the product causes injury to the user or consumer."
+However, Mutual interprets Buckingham v. R.J.
+Reynolds Tobacco Co. , 142 N.H. 822 , 713 A.2d 381 (1998), to require not merely unreasonable dangerousness but also proof that there exists an alternative, safer design for the product (like a new guard on a motorized table saw), see id. at 384 .
+The claim in Brochu could satisfy such a test, because the drug at issue there contained a mix of progestogen and estrogen, and its unreasonable dangerousness could be attributed to the design-flaw of an unnecessarily high proportion of estrogen.
+By contrast, Mutual says that Bartlett failed to allege and prove that sulindac could be made in a different and safer form, and this almost certainly has to be true: sulindac is a one-molecule drug; and the variations in sulindac as sold consist of inactive ingredients that ordinarily do not have significant pharmacological effects.
+But Buckingham does not clearly say that a safer alternative is a necessary element of design defect over and above an unreasonably dangerous product, and a subsequent decision disavows any such requirement.
+In Vautour v. Body Masters Sports Indus., Inc. , 147 N.H. 150 , 784 A.2d 1178 , 1183 (2001), which followed after Buckingham , the New Hampshire Supreme Court held that proof of a safer alternative design "should be neither a controlling factor nor an essential element that must be proved in every [design defect] case." Rather, it said that "a product is defective as designed `if the magnitude of the danger outweighs the utility of the product.'"
+Id. at 1182 (quoting Keeton et al., Prosser and Keeton on the Law of Torts 99 , at 699 (5th ed.1984)).
+Buckingham involved a design defect claim against cigarette manufacturers, and the court dismissed the claim on the ground that cigarettes are inherently dangerous and commonly known to be so. 713 A.2d at 384 ; see also Restatement (Second) of Torts 402A , cmt. i (danger "beyond that which would be contemplated by the ordinary consumer").
+But an ordinary consumer would hardly know without further warning that sulindac or any other ordinary analgesic carries a risk of the kind of ill effects and suffering that Bartlett encountered.
+Accordingly, the district court properly allowed Bartlett to show that sulindac was in a "defective condition" by showing that it was "unreasonably dangerous" due to its propensity to cause SJS/TEN — a harrowing hypersensitivity reaction characterized by necrosis of the skin and mucous membranes, and often causing blindness or death.
+Although Mutual could [**4] still have avoided liability by proving that sulindac was unavoidably unsafe but was highly useful and had an adequate safety warning, Bartlett , 731 F.Supp.2d at 150-51 ; Restatement (Second) Torts 402A , cmt. k , Mutual abandoned that defense on the eve of trial.
+[fn1] Mutual restates its no-defect argument as an issue of causation; but given the overwhelming evidence that sulindac triggered Bartlett's reaction, "but for" cause is plainly established, Bartlett , 760 F.Supp.2d at 246 .
+Mutual's position that "Bartlett could not present evidence that a nonexistent defect in the sulindac proximately caused her injury," merely restates the argument about New Hampshire law that we have just rejected.
+Preemption.
+The most far-reaching of Mutual's objections is that Bartlett's design defect claim is preempted by the Federal Food, Drug, and Cosmetic Act, 21 U.S.C. 301 et seq.
+("FDCA"), and — in particular — by the Drug Price Competition and Patent Term Restoration Act of 1984, Pub.L.
+No. 98-417 , 98 Stat. 1585 (1984) (codified at 21 U.S.C. 355 (j)(2)(A)) ("Hatch-Waxman Amendments"), and its regulations.
+Whether and to what extent the FDCA preempts design defect claims against generic drug manufacturers is a question of exceptional importance that the Supreme Court has yet to decide.
+Because prescription drugs and their warnings are closely regulated by the FDA, Congress might explicitly, or the Supreme Court by implication, have preempted state design defect or inadequate warning claims that allow state juries to second-guess the FDA's seal of approval.
+But the statute contains no general preemption provision, and in Wyeth v. Levine , 555 U.S. 555 , 129 S.Ct. 1187 , 173 L.Ed.2d 51 (2009), the Supreme Court rejected implied preemption, saying that "Congress did not intend FDA oversight to be the exclusive means of ensuring drug safety and effectiveness," id. at 575 , 129 S.Ct. 1187 , and that state law serves as a "complementary form of drug regulation," id. at 578 , 129 S.Ct. 1187 .
+Although Wyeth's holding was technically limited to failure-to-warn claims, [fn2] its logic applies to design defect claims as well.
+See Wyeth , 555 U.S. at 574 , 129 S.Ct. 1187 (state tort suits "motivat[e] manufacturers to produce safe and effective drugs and to give adequate warnings") (emphasis added); cf. Wimbush v. Wyeth , 619 F.3d 632 , 645 & n. 7 (6th Cir.2010) (negligent marketing claim not preempted).
+The lower courts agree that the FDCA does not preempt state tort suits against drug manufacturers.
+See Riegel v. Medtronic, Inc. , 552 U.S. 312 , 340 n. 11, 343 n. 16, 128 S.Ct. 999 , 169 L.Ed.2d 892 (2008) (Ginsburg, J., dissenting) (collecting cases).
+However, in PLIVA Inc. v. Mensing , U.S. , 131 S.Ct. 2567 , 180 L.Ed.2d 580 (2011), the Court carved out an exception to Wyeth , finding that the FDCA preempts failure-to-warn claims against generic drug manufacturers.
+Generic drug manufacturers, unlike brand-name manufacturers, cannot unilaterally change their labels, 21 C.F.R. 314.94 (a)(8)(iv) (2011), and thus cannot comply with both federal labeling standards and state law requirements deviating from those standards.
+PLIVA 131 S.Ct. at 2578 .
+There is no doubt that Congress wanted to reduce medical costs by spurring generic copycat drugs, and accordingly generic manufacturers do not, after patent protection lapses, need separate FDA approval to manufacture approved drugs or employ their approved labeling.
+See PLIVA 131 S.Ct. at 2574 , id. at 2582 ; see also 21 U.S.C. 355 (j)(2)(A).
+But, as the generic maker [**5] cannot alter the labeling, PLIVA held that Congress cannot have wanted the generic to pay damages under state law for a label that the FDA required.
+Mutual argues with some force that the generic maker also cannot alter the composition of the drug and so PLIVA 's policy of encouraging generics by preempting state tort claims should extend to design defect as well as claims based on inadequate warning.
+But although Mutual cannot legally make sulindac in another composition (nor is it apparent how it could alter a one-molecule drug anyway), it certainly can choose not to make the drug at all; and the FDCA might permit states to tell Mutual it ought not be doing so if risk-benefit analysis weights against the drug, despite what the Supreme Court made of similar arguments in the labeling context.
+This is second-guessing the FDA (unless new information emerged known to the maker but not the FDA), but Wyeth resolved the conflict against general preemption.
+And, not only has the Supreme Court not yet said it would extend PLIVA 's exception to design defect claims, but — while the generic maker has no choice as to label — the decision to make the drug and market it in New Hampshire is wholly its own.
+Thus, Bartlett having lost her warning claim by the mere chance of her drug store's selection of a generic, the Supreme Court might be less ready to deprive Bartlett of her remaining avenue of relief.
+True, such arguments can be turned on their head.
+[fn3] To refuse preemption here is consistent with Wyeth but in tension not with the holding but with part of PLIVA 's rationale; a generic maker can avoid defective warning lawsuits as well as design defect lawsuits by not making the drug; and while PLIVA is itself a limited departure from a general rule of Wyeth , an extension of PLIVA to design defect claims would comprise a general rule for generics (although not one PLIVA expressly adopted).
+On balance, we conclude that the Court adopted a general no-preemption rule in Wyeth and that it is up to the Supreme Court to decide whether PLIVA 's exception is to be enlarged to include design defect claims.
+Cf. Khan v. State Oil Co. , 93 F.3d 1358 , 1362-64 (7th Cir.1996), vacated and remanded , 522 U.S. 3 , 118 S.Ct. 275 , 139 L.Ed.2d 199 (1997).
+Given the widespread use of generic drugs and the developing split in the lower courts, see note 3, above, this issue needs a decisive answer from the only court that can supply it.
+Expert, Testimony.
+Next in the crosshairs are Bartlett's experts — pharmacologist/toxicologist Randall Tackett and burn surgeon Roger Salisbury.
+Mutual argues they were not qualified to offer their opinions, and that the opinions were either unreliable or undisclosed in their expert reports.
+The governing law is set forth in the Federal Rules of Evidence and Civil Procedure, [fn4] and Daubert v. Merrell Dow Pharms., Inc. , 509 U.S. 579 , 113 S.Ct. 2786 , 125 L.Ed.2d 469 (1993), which makes the judge the gatekeeper to assure that purported scientific evidence has legitimate basis.
+We review for abuse of discretion, Milward v. Acuity Specialty Prods. Grp. , 639 F.3d 11 , 13 (1st Cir.2011), cert. denied , U.S. , 132 S.Ct. 1002 , 181 L.Ed.2d 734 (2012), and find none here.
+Tackett and Salisbury offered a variety of opinions, the most relevant here [**6] relating to sulindac's risks and benefits.
+The district court found unreliable any explicit opinion that sulindac has a higher risk of causing SJS/TEN than other NSAIDs — what it called an opinion about "relative risk."
+But otherwise, the district court allowed Bartlett's experts: -to opine that sulindac's overall risk/benefit profile was unfavorable for marketing -to opine that aspirin and acetaminophen, which have no known connection to SJS/TEN, are safer alternatives to sulindac -to discuss voluntary "adverse event reports" (AERs) from prescribing doctors to the FDA, and the limitations of such data -to opine — based on the number of AERs and an estimated number of sulindac prescriptions — on the "reporting rate" of SJS/TEN, and to compare drugs' reporting rates -to offer various opinions about the inadequacy of sulindac's warning to counteract its dangerousness -and to opine that the FDA lacks the resources to ensure that all marketed drugs are safe and effective.
+Mutual argues that the two experts were not qualified, noting that neither witness ever prescribed an NSAID, and Tackett is not authorized to prescribe any drugs.
+But Salisbury is a burn surgeon with over 35 years' experience who treated more than 400 patients with SJS/TEN.
+Tackett is a pharmacologist and pharmacology professor with over 30 years' experience.
+Both had some experience with the FDA through their 2005 Citizen's Petition requesting an SJS/TEN risk assessment and labeling change for ibuprofen.
+And their reports demonstrate substantial familiarity with the relevant medical literature.
+Alternatively, Mutual argues that the opinions lack scientific basis and were inadmissibly unreliable, focusing on their use of AERs, voluntary reports from medical professionals and consumers to the FDA regarding patients' adverse reactions to pharmaceuticals.
+The FDA collects this information; and relevant data for sulindac included 89 reports of SJS/TEN from 1980 to 1997, increasing to 134 by 2004; 39 cases of death; and one of the highest SJS/TEN reporting rates among NSAIDs.
+Mutual says there are no quality controls on spontaneous reports; that various biases may increase reporting, including increased reporting following introduction of a new warning (a phenomenon called the "Weber effect"); and the difficulty of determining the number of total prescriptions ("denominator data") to determine a reporting rate.
+The FDA itself warns that "[a]ccumulated case reports cannot be used to calculate incidence or estimates of drug risk."
+Mutual also argues there is no accepted methodology for comparing drugs based on adverse event data.
+But proof that a significant number of adverse reports exists is part of the calculus and surely relevant input for a witness who is prepared to opine on the risk-benefit ratio based on a range of considerations.
+Mutual's own designated expert, Robert Stern, relied on adverse event data and comparative reporting rates in a peer-reviewed publication designed to quantify the risk of SJS/TEN associated with the use [**7] of NSAIDs ("Mockenhaupt 2003").
+And the FDA itself considered the SJS/TEN reporting rate of Bextra — another NSAID — in recommending its withdrawal, and published a study comparing SJS/TEN reporting rates among certain NSAIDs.
+As for biases that might distort the level of reporting, these are usually matters to be developed on cross-examination and go to the weight of the evidence unless the biases are so overwhelming as to make the data useless.
+And, as icing on the cake, at least one well-recognized limitation of adverse event data — under reporting — actually works in Bartlett's favor.
+Bartlett , 760 F.Supp.2d at 234 .
+Controlled studies would likely be superior but apparently none were available to quantify sulindac's incidence of causing SJS/TEN.
+Id. at 237 .
+Mutual is correct that in some cases courts found AERs and similar case reports insufficient to establish that a drug caused a certain adverse event, but these involved adverse events with innumerable possible causes (e.g. suicidal behavior, strokes, or birth defects).
+[fn5] Here, sulindac is a recognized cause of SJS/TEN and the evidence is that it caused Bartlett's SJS/TEN.
+Cf. Thomas v. Hoffman-LaRoche, Inc. , 949 F.2d 806 , 815 n. 38 (5th Cir.), cert. denied , 504 U.S. 956 , 112 S.Ct. 2304 , 119 L.Ed.2d 226 (1992) (10 seizure reports of dubious connection to the drug at issue).
+Further, the district court excluded opinions based on what Tackett admitted to be unreliable — namely, a direct comparison of sulindac's risk of SJS/TEN to other NSAIDs (including Bextra).
+The district court also admonished counsel not to confuse "reporting rates" with "actual incidence rates," and instructed the jury that, while it had heard evidence about sulindac's SJS/TEN reporting rate, it had not heard evidence about the actual rate at which sulindac causes SJS/TEN.
+But it was at least a sufficient danger that sulindac's labeling, whether adequately or not, warned doctors about it.
+Next, Mutual argues that Bartlett's experts failed to account for various shortcomings in adverse event data — for example, that they failed to consider whether the "Weber effect" increased sulindac's adverse event reporting; that sulindac's reporting rate in certain years may have been inflated because prescription data had to be approximated; and that Tackett's initial report count was inflated by duplicate reports and reports in which sulindac was not the cause of the adverse effect (Tackett later supplied corrected data).
+But these objections were raised mid-trial although apparently known to Mutual much earlier, and Mutual was free to — and did — highlight the flaws on cross-examination.
+Mutual was also free to develop evidence to show lesser benefits or greater dangers from alternative NSAIDs or similar drugs like acetaminophen.
+Mutual finally objects that the experts did not testify to the ultimate issue of "unreasonable dangerousness," but that was at the district court's order and was meant to work to Mutual's benefit.
+Finally, Mutual argues that the opinions, bases and supporting materials used by Bartlett's experts at trial were not adequately disclosed in the pre-trial disclosures for expert testimony.
+[**8] The original expert reports focused on some issues — labeling and marketing in particular — that were downplayed or dropped as the case was narrowed; but, as the district court declared, "the reports were filled with opinions about sulindac's risks and benefits," the weighing of which determines unreasonable dangerousness and, ultimately, design defect.
+Bartlett , 760 F.Supp.2d at 233 .
+So Mutual was hardly ambushed by the main thrust of the experts' testimony.
+But Mutual does claim that some important underpinnings were not adequately disclosed in Tackett's expert report which, together with expert depositions, is what allows the other side to prepare its own experts and effectively cross-examine at trial.
+Metavante Corp. v. Emigrant Sav. Bank , 619 F.3d 748 , 762 (7th Cir.2010), cert. denied , U.S. , 131 S.Ct. 1784 , 179 L.Ed.2d 653 (2011).
+This kind of policing is primarily a matter for the district judge, Gay v. Stonebridge Life Ins. Co. , 660 F.3d 58 , 64 (1st Cir.2011), but in extreme cases, appellate review is a backstop, see Licciardi v. TIG Ins. Grp. , 140 F.3d 357 , 363-64 (1st Cir.1998).
+In this case, Mutual lays special stress on two documents.
+One concerns a 2005 FDA analysis of NSAID risks (the "Bextra Memo") connected to the ultimate withdrawal of Bextra, a different NSAID, because of undue SJS/TEN risk.
+Contrary to Mutual's assertion, the Bextra Memo was cited in Tackett's report not merely for the proposition that the FDA had approved NSAID labeling changes; it also was cited to draw comparisons between Bextra and sulindac, and Mutual cannot properly claim to have been ambushed by this use.
+More dangerous to Mutual were data relied on by Tackett from a draft report on NSAID SJS/TEN risk, prepared by Robert Stern (who, again, was Mutual's designated expert) for the drug company Pharmacia (the "Pharmacia Report"), in forming his opinion about sulindac's high reporting rate of SJS/TEN.
+The Pharmacia Report has a storied history in this litigation — with Bartlett faulting Stern for failing to disclose the report during discovery, and the district court ordering supplemental deposition of Stern about it, only to discover that Tackett knew about the report all along.
+Tackett at least cited the eventually-published version ("Mockenhaupt 2003") in support of statements in his expert report that "Sulindac had significantly and substantially higher rates of reported SJS/TEN reactions relative to the office visits compared to other NSAIDs," that "Sulindac ranked in the top 5 of all drugs to cause SJS and TEN between 1980-1997," and "[c]ompared to other NSAIDs Sulindac had a higher reporting rate of SJS and TEN."
+Although the Pharmacia Report added that sulindac may have had the highest SJS/TEN reporting rate among NSAIDs from 1980 to 1997, neither the report nor Tackett's opinion about sulindac's high SJS/TEN reporting rate were a surprise to Mutual by the time of trial.
+Labeling Instructions.
+Mutual next faults the district court for telling the jury it could "consider the FDA's requirements for drug labels" in determining whether sulindac's warning mitigated its unreasonable dangerousness, and for failing to instruct the jury that Mutual could not legally change [**9] sulindac's label.
+Mutual argues that the jury must have inferred, incorrectly, that it could consider whether Mutual should have improved the warnings.
+As already explained, under current law the original maker, but not the generic provider, can alter the label.
+But the label was relevant to the design defect claim since, although unalterable by Mutual, its arguable inadequacies put limits on the extent to which its dangerousness was offset by adequate warnings; so the lack of a clearer warning made the product itself more dangerous under the risk-benefit test prescribed by Vautour.
+The district court's instructions, in a section covering "The warning" did make clear that this was the relevance of the label.
+[fn6] If Mutual wanted a further caution in the instructions, it should have sought it.
+Of course, at the time of the trial, PLIVA had not yet been decided, so such a caution might not have been at the fore-front of Mutual's thoughts.
+But the legal argument for such a caution was available to Mutual without PLIVA, cf. note 2; indeed, Mutual made this very argument in seeking a new trial before PLIVA was decided.
+Mutual failed to seek such an instruction before the jury retired; and the instructions given were not plain error.
+Counsel's Conduct.
+In its motion for a new trial, Mutual argued that the conduct of plaintiffs counsel was improper in various respects and that a new trial was justified on this count alone.
+In a post-trial motion of this sort, our review is for abuse of discretion; and where the charges involve judgments about degrees of impropriety, prejudice and cumulative effect, the trial judge has a special advantage over a reviewing court.
+Hatfield-Bermudez v. Aldanondo-Rivera , 496 F.3d 51 , 64 (1st Cir.2007).
+Of the many charges, several relating to alleged non-disclosures in the expert reports have already been answered; others are fairly trivial (a rhetorical claim that sulindac "stole" Bartlett's freedom) or had no conceivable impact (a sequestration order violation where Bartlett's husband observed his sister-in-law testify but in the end did not himself appear as a witness).
+We pass over such issues and focus on those that are potentially more serious.
+First, in voir dire Bartlett's counsel asked the jury to consider whether it could award "$20 million or more in damages"; but Bartlett's counsel had expressed their intent to mention specific damages figures, and Mutual did not seek to prevent the question in advance.
+After Mutual objected at voir dire, Bartlett's counsel were prohibited from mentioning total dollar figures again until closing, and the jury was told that any amount mentioned by counsel was "not evidence in this case." [fn7] Second, counsel also — despite an order prohibiting discussion of Mutual's financial condition, Bartlett v. Mutual Pharm. Co. , No. 08-cv-358, [ 2010 BL 378014 ], 2010 WL 3092649, at *8 (Aug. 2, 2010) — displayed to the jury a silent deposition clip whose captioning indicated Mutual's $480 million sales figure from 2007, before that clip skipped ahead to the next admissible question-and-answer.
+The parties vigorously dispute whether this was merely accidental, [**10] but we accept the district court's judgment that this isolated silent deposition clip, never again mentioned, is not basis enough for a new trial.
+Finally, Bartlett's counsel can be faulted in many instances for their manner of offering evidence.
+Counsel frequently led their own witnesses, although perhaps in some instances to avoid eliciting inadmissible information.
+Bartlett , 760 F.Supp.2d at 257 .
+Counsel also mischaracterized the record, including in closing argument.
+Counsel left prejudicial images of Bartlett's injuries visible to the jury for longer than necessary.
+And counsel attempted to use other demonstrative aids in a misleading manner.
+The district court frequently reprimanded counsel, on occasion in front of the jury.
+Bartlett , 760 F.Supp.2d at 253 .
+The judge was pro-active when he noticed Bartlett's counsel misusing demonstrative and other visual aids, sometimes intervening even where Mutual had not objected.
+And in some instances the judge gave curative instructions to limit or erase any prejudice.
+In the end, weighing the effect on a verdict of various missteps by counsel is a judgment call, and the district court in denying the motion for a new trial gave reasoned consideration to Mutual's arguments based on individual incidents.
+Given the comparative strength of Bartlett's expert evidence, the prior instances of sulindac-SJS/TEN events, and the enormous harm wrought in this instance, a judgment that misconduct did not cause the verdict for Bartlett is not unreasonable.
+Excessive Verdict.
+Mutual next argues that the jury's damages award is excessive.
+A new trial is warranted where the jury award is "grossly excessive, inordinate, shocking to the conscience of the court, or so high that it would be a denial of justice to permit it to stand."
+Francescki v. Hosp. Gen. San Carlos, Inc. , 420 F.3d 1 , 5 (1st Cir.2005).
+The facts are taken in the light most favorable to the plaintiff, but nevertheless the figure must be in the "universe of acceptable awards."
+Blinzler v. Marriott Int'l, Inc. , 81 F.3d 1148 , 1162 (1st Cir.1996).
+The jury awarded Bartlett $21.06 million-$4.56 million in largely uncontested special damages ($1.25 million past medical expenses, $2,377 million for future medical expenses, and $933,000 for lost wages), and $16.5 million for pain, suffering, and loss of enjoyment of life.
+All but the last figure rest on specific evidence that the jury accepted; but the last is, of course, the largest number and the target of Mutual's attack.
+Mutual says that this is the largest award in New Hampshire history — and more than twice the award against a car manufacturer, following a crash in which a young child died and another was left permanently disabled.
+Trull v. Volkswagen of Am., Inc. , 320 F.3d 1 , 3 (1st Cir.2002), cert. denied , 540 U.S. 938 , 124 S.Ct. 74 , 157 L.Ed.2d 250 (2003).
+Arguably, the more pertinent comparison is to the surviving child Nathaniel who, economic damages aside, was awarded just under $4 million for pain and suffering and other intangible elements of damage.
+Id. at 9-10 .
+Nathaniel suffered a skull fracture and bleeding that required an operation to remove the fluid, and his experts opined that the head trauma exacerbated a preexisting condition [**11] so that he would have to live indefinitely under supervised and structured conditions.
+Trull , 320 F.3d at 10 .
+The trauma of the crash, whatever suffering attended recovery from the operation and intangible losses from a more constrained life were thus valued by the jury at about a quarter of the amount awarded to Bartlett for pain and suffering.
+Nevertheless, Bartlett's injuries were truly horrific.
+She spent almost two months in MGH's burn unit, spent months in a medically-induced coma, and suffered burns over nearly two-thirds of her body.
+Her burn surgeon described the experience as "hell on earth."
+She spent a year being tube fed and endured two major septic shock episodes.
+She suffered through 12 eye surgeries and has many more ahead of her.
+This is a brief summary of the suffering detailed for the jury.
+In addition, the permanent damage is severe.
+Bartlett cannot eat normally due to esophageal burns, cannot have sexual relations due to vaginal injuries, and cannot engage in aerobic activities due to lung injuries.
+She is almost blind now and faces some likelihood of complete and permanent blindness.
+She cannot read or drive or work.
+And she is seriously disfigured in face and body.
+In sum, the jury's award is not so clearly disproportionate to the harm suffered that a court must set it aside.
+The outcome of this case, at least on this record, is not surprising or, with respect to sulindac, patently alarming.
+True, that drug has a minuscule risk of causing SJS/TEN, but sulindac is a recognized cause of SJS/TEN — potentially a leader among NSAIDs in that respect — and the drug carries other risks as well.
+And how far it has advantages over similar medicines with less or no risk is unclear in light of the limited defense offered; at most cross-examination suggested that sulindac may be the only approved NSAID for certain forms of arthritis.
+Whether or not our present regime of drug regulation and compensation for harm is optimal is debatable; but the ability of judges to reshape the regime in any fundamental way may be quite limited.
+As for the trial itself, the district judge handled a very difficult case with skill and insight and he deserves this court's special thanks for his thoughtful and very helpful opinions.
+Affirmed.

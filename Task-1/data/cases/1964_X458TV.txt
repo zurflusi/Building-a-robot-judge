@@ -1,0 +1,147 @@
+ MURRAH , Chief Judge.
+The taxpayer, a life insurance company, appeals from a judgment of the District Court ( Atlas Life Insurance Co. v. United States of America, D.C. , 216 F.Supp.
+457 ), denying refund of income taxes paid by it, pursuant to The Life Insurance Company Income Tax Act of 1959.
+26 U.S.C. 801 et seq.
+The Act imposes a tax at ordinary corporate rates upon "life insurance company taxable income" ( 802(a) ), based upon a three-phase calculation under Section 802(b) , which, for our purposes, involves only the first two steps, namely: the determination of "taxable investment income" and "gain from operations" as defined in Sections 804 and 809 , respectively.
+The taxpayer computed and paid its income taxes for the year 1958 in accordance with the statutory definitions.
+It thereafter filed claim for refund, contending that the application of the statutory definitions "taxable investment income" and "gain from operations" resulted in the imposition of a tax on tax-exempt interest received from municipal bonds, and that it is therefore entitled to an adjustment under the provisions of Sections 804(a) (6) and 809 (b) (4).
+The Act of 1959 was promulgated in response to the recognized need for a more permanent and equitable method for determining taxable income of life insurance companies, and was the result of a comprehensive reappraisal of former legislation in the area.
+The formula for the determination of the tax was conceived in recognition of two salient principles of tax immunity: (1) the policy which has inhered in income tax law since its inception in 1913, to the effect that interest on state securities is excluded from gross income in the computation of the taxpayer's federal tax liability; 1 and (2) in recognition of the traditional concept that a life insurance company should not be taxed on that part of its income which is required to be set aside as a reserve to meet the company's contingent obligations to its policyholders.
+See 2 U.S.C. Congressional and Administrative News, 86th Congress, First Session, p. 1575; Wurzel, "Tax-Exempt Interest of Life Insurance Companies", 70 Yale L.J. 15 (1960).
+The concept of "reserve deduction" is perpetuated in the Act by the division of each and every item of net investment income into two categories: (1) the policyholders' share which is excluded from tax liability; and (2) the company's share which is subject to taxation.
+To effectuate the division of the company's share from the policyholders' share of the net investment income, the Act first provides for the determination of net investment income, i. e., "investment yield", or gross investment income, including tax-exempt interest less certain expenses.
+See 804(c), 804(a) (1) and 809 (a) (1).
+The policyholders' percentage share of investment yield is determined by dividing investment yield into "policy and other contract liability requirements".
+804(a) (1) .
+These requirements are calculated in accordance with the complicated formula provided in Section 805 by adding: the product of the company's "adjusted reserves rate" 2 and its "adjusted life insurance reserves" 3 ; the pension plan reserves multiplied by the current earnings rate 4 ; and interest paid.
+The percentage derived from the use of this formula 5 represents the policyholders' percentage share, and the remaining portion of 100 percent is the company's percentage share.
+The life insurance company's percentage share of each and every item of investment yield is then reduced by its percentage share of tax-exempt interest, 6 and the result is taxable investment income.
+The second phase for calculating the tax base, i. e., "gain from operations", follows a similar pattern in determining the policyholders' share of investment yield.
+Though the formula is different, 7 it is sufficient for our purposes to note that, as in phase one, the tax-exempt interest is included to determine the respective percentage shares, and the company's share of exempt interest is then deducted to arrive at gain from operations.
+See 809 .
+Thus, after the computation of taxable investment income and gain from operations, Section 802(b) specifies their proper relationship to determine "life insurance company taxable income", i. e., the sum of taxable investment income and 50 percent of the excess of gain from operations over taxable investment income.
+The Act then finally provides as an "exception" that "[i]f it is established in any case that the application" of the definitions of taxable investment income and gain from operations "results in the imposition of tax on" any tax-exempt interest, "adjustment shall be made to the extent necessary to prevent such imposition."
+804(a) (6) and 809 (b) (4).
+Making application of the statutory formula in its return for 1958, the taxpayer first computed its tax liability to be $62,615.05.
+And, it does not now dispute the correctness of the calculations of its tax liability under the formula.
+The contention is rather that the application of the formula results in its tax liability being increased by $11,252.19, solely because of the receipt of tax-exempt interest and its inclusion in the determination of the tax base.
+The claim for refund is based on computation of the company's tax liability without the inclusion of tax-exempt interest in investment yield as used in the formula for determining the tax base.
+An interpretative analysis of the table below 8 reveals the extent to which the inclusion or exclusion of tax-exempt interest in or from investment yield permeates the whole computation of tax liability.
+Thus, in phase one, a reduction of the adjusted reserves rate results because it is the lower of the two earnings rates, which are in essence determined by dividing assets into investment yield.
+See Footnote 2.
+The effect of the reduction in the adjusted reserves rate on policy and other contract liability requirements is partially offset by the increase in the adjusted life insurance reserves caused by the greater difference between the adjusted reserves rate and the assumed interest rate.
+See Footnote 3.
+Although policy and other contract liability requirements are lower, the policyholders' percentage share is greater because of the exclusion of the exempt interest from investment yield.
+Conversely, the company's percentage share is greater because of the inclusion of exempt interest in investment yield.
+Thus, the percentage differential and the ultimate increase of taxable items of investment yield included in taxable investment income are attributable to the inclusion of tax-exempt interest.
+Similarly, in the phase two computation, exclusion of tax-exempt interest from investment yield results in an increased policyholders' percentage share, because it is calculated by dividing investment yield into required interest which remains the same.
+Thus, the difference in the company's percentage shares is attributable to the inclusion of the exempt interest, and this in turn accounts for the variation in gain from operations.
+The trial Court's conclusion that the receipt by the taxpayer of exempt interest was not in fact taxed, is apparently based upon the interpretation of the statutory formula, to the effect that the "company's tax-exempt interest is included in gross income and then deducted before reaching the tax base of the Taxpayer."
+Atlas Life Insurance Co. v. United States of America, supra , p. 460.
+The fallacy of this interpretation is that it fails to recognize what the Government seems to concede, that the increase in the Company's share of investment yield by the inclusion of exempt interest in the formula for determining the respective percentage shares is not offset by the deduction of the Company's percentage share of exempt interest, and that the ultimate tax liability is in fact increased.
+The judgment of the trial Court is sought to be sustained on the theory that although the inclusion of tax-exempt interest in the formula results in an increase in the Company's share of all other income, it will be exactly what it would have been if the Company had received taxable income, and that the application of the statutory definitions does not therefore result in a tax on tax-exempt interest.
+The Government says this is "precisely what Congress intended."
+And, they justify it by emphasizing the design of the statute to divide the ownership of all investment income, and that this has the concomitant effect of dividing the tax-exempt interest between the policyholders and the Company.
+This method of prorating the exempt interest is said to be an exertion of the "full power" of Congress to classify income for tax purposes, and in this particular case, to prevent a double deduction through the interplay of the exclusion of the policyholders' share and the deduction of exempt interest.
+The Government attacks the taxpayer's formula which eliminates the exempt interest from the computation as in effect allocating all taxable dollars to the policyholders and all tax-exempt dollars to the Company, thus creating a loophole which the statute was designed to prevent.
+If, as the Government contends, the Congress, in enacting the taxing formula, intended to test anew the doctrine of intergovernmental tax immunity by exerting its full constitutional powers to classify income for tax purposes, our inquiry is simply whether, judged by present-day concepts, the Congress overstepped its constitutional bounds.
+But, the taxpayer takes the position that Congress legislated with an eye to the doctrine of National Life Insurance Co. v. United States , 277 U.S. 508 , 48 S.Ct. 591 , 72 L.Ed. 968 , and Missouri v. Gehner , 281 U.S. 313 , 50 S.Ct. 326 , 74 L.Ed. 870 , according to which the sovereign may not subject a taxpayer to a greater burden on his income solely because of the receipt of tax-exempt interest.
+As we view our lawsuit in the context of the respective contentions of the parties, it involves the determination of the extent to which the Congress intended to exercise its power of taxation with respect to tax-exempt interest received by life insurance companies.
+While resort to legislative history is usually justified only in cases of ambiguity in the statutory language, i. e., see Nicholas v. Denver & R. G. W. R. Co. , 10 Cir., 195 F.2d 428 , it is frequently relied upon for the ascertainment of a Congressional purpose as embodied in the final enactment.
+See Flora v. United States , 362 U.S. 145 , 80 S.Ct. 630 , 4 L.Ed.2d 623 ; United States v. Harriss , 347 U.S. 612 , 74 S.Ct. 808 , 98 L.Ed. 989 ; United States v. American Trucking Ass'ns , 310 U.S. 534 , 60 S.Ct. 1059 , 84 L.Ed. 1345 ; Caminetti v. United States , 242 U.S. 470 , 37 S.Ct. 192 , 61 L.Ed. 442 ; Sutherland on Statutory Construction, Vol. 2, p. 481 et seq.
+In the words of Mr. Justice Frankfurter, dissenting in Reed v. Pennsylvania R. R. Co. , 351 U.S. 502, 510 , 76 S.Ct. 958, 963 , 100 L.Ed. 1366 , "The process of judicial construction must be mindful of the history of the legislation, of the purpose which infused it, of the difficulties which were encountered in effectuating this purpose, of the aims of those most active in relieving these difficulties."
+To support their positions, both the Government and the taxpayer rely heavily on the extensive legislative history of the Act as influenced by the contemporary case law.
+We will therefore examine it to determine the purpose and scope of the taxing act.
+The parties start with the Revenue Act of 1921 and particularly Section 245(a) , 42 Stat. 227 , 261, which provided that in the case of life insurance companies, net income means gross income less certain deductions, inter alia, (1) the amount of interest received from tax-exempt securities; and (2) a reserve deduction reduced by the amount of exempt interest.
+In National Life Insurance Co. v. United States , supra , the Supreme Court held that the diminution of the reserve deduction by the amount of exempt interest had the effect of destroying the guaranteed exemption.
+The underlying principle, as announced by the Court, was to the effect that a taxpayer may not be subject to a greater tax burden on his taxable income solely by reason of the receipt of tax-exempt interest.
+There were strong and persuasive dissents in which it was suggested that since the reserve deduction was a matter of grace or bounty, the Congress was perfectly free to reduce it by the amount of exempt interest, or any other amount for that matter.
+The dissenters did not think that the Constitution or the laws guaranteed that "a holder of tax-exempt bonds, shall be better off than if he held only taxable securities"; nor did it require that "those who do not hold tax-exempt securities shall, in respect to every tax, be subjected to a heavier burden than the owners of tax-exempt bonds."
+National Life Insurance Co. v. United States, supra , p. 528.
+Apparently, on the authority of National Life, the Supreme Court in Missouri v. Gehner , supra , reversed the Missouri Supreme Court which, in considering a state property tax, had upheld the apportionment of reserves and claims between taxable and nontaxable assets, including United States bonds.
+The Court restated the National Life doctrine to the effect that a "[S]tate may not subject one to a greater burden upon his taxable property merely because he owns tax-exempt government securities."
+Missouri v. Gehner, supra , p. 321.
+The same dissenters, speaking through Mr. Justice Stone in Gehner, were of the opinion that nothing in National Life required a reversal of this case.
+They insisted that tax-free securities might well be realistically held accountable for their share of reserves for claims in computing the tax.
+Otherwise, said they, an affirmative benefit is conferred upon the ownership of tax-exempt securities "at the expense of the taxing power of the state, by relieving the owner from the full burden of taxation on net worth to which his taxable assets have in some measure contributed."
+Missouri v. Gehner, supra , p. 328.
+It would thus appear that the dissenters would have given little or no respect to the doctrine of intergovernmental tax immunity.
+In any event, it seems reasonable to say that the same vigorous dissenters in both National Life and Gehner would find no fault in the asserted power to apportion tax-exempt income between the reserve deduction and taxable income for the purpose of arriving at the taxpayer's tax liability.
+Another contemporary decision of the Supreme Court, Denman v. Slayton , 282 U.S. 514 , 51 S.Ct. 269 , 75 L.Ed. 500 , also involved the 1921 taxing Act, particularly Section 214(a) (2) , 42 Stat. 227 , 239, which denied a deduction for interest paid on indebtedness incurred to purchase or carry tax-exempt securities.
+In his return for the taxable year 1922, the taxpayer excluded interest received on tax-exempt municipal bonds and deducted the interest on money borrowed to purchase and carry the bonds.
+The Commissioner disallowed the deduction and the lower court sustained the taxpayer on the authority of National Life.
+But, a unanimous Supreme Court, in an opinion by the writer of National Life, held that National Life was "radically different", and that its doctrine did not control.
+The Court went on to say that "[w]hile guaranteed exemptions must be strictly observed, this obligation is not inconsistent with reasonable classification designed to subject all to the payment of their just share of a burden fairly imposed."
+Denman v. Slayton, supra , p. 519.
+Such was the state of the decisional law as Congress continued to wrestle with the problem of finding a just and appropriate method of determining life insurance companies' taxable income.
+The 1921 Act apparently was not amended to reflect the National Life restriction on reserve deduction until the 1932 Act, which simply deleted the objectional provision for diminution of the reserve deduction by the amount of exempt interest.
+47 Stat. 169 , 224, 203 of Revenue Act of 1932.
+This text of the law was carried forward and observed until 1942 when a new system was introduced.
+56 Stat. 798 , 868-870, 202 and 203 of the Revenue Act of 1942.
+This Act prescribed a reserve deduction expressed as a percentage of investment income, including tax-exempt interest, based on industry-wide experience.
+Each company applied this percentage to its net investment income, but was allowed to deduct all its tax-exempt interest before prorating its net investment income.
+As in our formula, the 1942 Act included exempt interest in its formula for determining the industry-wide reserve deduction percentage.
+And, this percentage, which was applied to determine the individual company reserve deduction, was decreased by the inclusion of tax-exempt interest.
+This had the theoretical effect of increasing the percentage of net investment income which is taxable.
+But no taxpayer was induced to test the added tax burden as against the doctrine of National Life, apparently for two reasons: (1) the industry-wide reserve deduction percentage was so great that the individual company's net taxable investment income was minuscule; (2) each company could minimize its tax burden by purchasing tax-exempt securities because the income therefrom was not included in the computation of their individual tax liability.
+This situation obtained without significant change until 1958.
+See Wurzel, Yale L.J., supra , pp.
+20-21.
+After considerable study, the House passed a bill which provided for the determination of insurance company tax liability in three steps on an individual company basis.
+The step one base was the difference between the taxable net investment income, as reduced by the total amount of exempt interest, and the reserve deduction, as reduced by its allocable share of exempt interest.
+See: 804 and 805 , H.R.
+4245, Hearings Before Senate Finance Committee on H.R.
+4245, 86th Cong., First Sess.
+(1959), pp.
+4-7.
+The provisions of the House bill in this regard are noticeably similar to the so-called "Add-Back" provisions of Section 245(a) (2) of the 1921 Act, the distinction being that the reserve deduction was not diminished by the total amount of exempt interest, but only its prorata share.
+It is also noteworthy that the mathematical result of the House formula is conceded by all parties to be identical with the result obtained in the final Act.
+9 The insurance companies apparently did not detect the shades of the 1921 Act in the House bill until it came before the Senate.
+It was then that they apparently became aware that their tax liability might be increased solely by reason of the receipt of tax-exempt interest.
+When the Treasury came before the Senate Finance Committee to urge the adoption of the House bill, the Treasury witness, explaining the provisions of the proposed legislation, observed that while the tax-exempt interest was excluded in both phases of the bill, an adjustment was made "to the deductions to avoid a double benefit *."
+He also agreed that it was "probably a fair statement" to say that the adjustment was in reality charging a part of the operating expense against tax-free interest.
+When asked why the Treasury proposed to tax exempt interest, "even partially", the witness candidly answered: "Because we think it is right."
+In answer to further queries whether such a provision would render the bill unconstitutional, the witness also candidly admitted that he thought the question "might very well be litigated", and that "we should determine with the best advice we can, as to whether or not we today think such a provision is unconstitutional, and if we believe it is not, and if we believe the provision is right, we ought to include it in the bill."
+Hearings, supra , pp.
+43-44.
+The extensive pro and con hearings before the Senate Finance Committee on the House bill reflect strong representations on the part of insurance companies and those interested in the marketability of tax-exempt securities, to the effect that the proration of the tax-exempt interest between the reserve deduction and net investment income resulted in a tax burden on exempt interest, contrary to National Life, and was therefore constitutionally impermissible.
+In short, they rested their case principally on the constitutional limitations of National Life and Gehner.
+10 There was the further strong representation that the resultant burden on the exempt securities would adversely affect their marketability in competition with taxable securities--a result which Congress would wish to avoid.
+11 As we summarize the Government's representations to the Senate Committee, they were based primarily on the thesis that the trend of the recent Supreme Court decisions was away from the National Life doctrine of intergovernmental tax immunity, and toward the minority view; that in any event, the House bill formula was unlike the 1921 formula, and in substance the same as the 1942 formula, which had the effect of preventing a double deduction for tax-exempt interest, and which had never been challenged in the courts.
+See: Hearings, supra , pp.
+48-51.
+It is not manifestly clear what considerations prompted the Senate Committee to revise the House bill, but the fact is that it did reapproach the problem somewhat differently with respect to the treatment of tax-exempt interest.
+One of the innovations deemed important in the Senate version was division of the ownership of income and expense items between the policyholders and the insurance company, with only the company's share being taken into account for tax purposes.
+See: 2 U.S.C.Cong.
+& Adm.News, supra , p. 1580.
+The Senate Committee seemed to think that by dividing ownership of investment income by the use of a formula which included all tax-exempt interest, and the deduction of the company's prorata share from its tax base, was preferable to the House formula, which excluded all tax-exempt interest from investment income, but reduced the deduction for policy and other contract liability requirements by its prorata share of exempt interest.
+12 Apparently, being unsure of the tax consequences of what they had done, but "[t]o give further assurance that no tax is to be imposed on tax-exempt interest", the Senate then added the exception Sections 804(a) (6) and 809(b) (4).
+2 U.S.C.Cong.
+& Adm.News, supra , p. 1592.
+When the Senate version came to the floor for consideration the Chairman of the Finance Committee, reporting on the bill, stated that it was "the intention of the Committee not to impose any tax on tax-exempt interest"; and that the "Treasury has assured the Committee that this formula does not impose any tax on tax-exempt interest.
+The bill adds a proviso to the effect that if the formula I have described does result in the imposition of tax on this item, the formula is to be adjusted so that it does not do so." 13 105 Cong.Record, Part 6, p. 8401.
+A letter from the Treasury, read to the Senate, stated that "It has been the objective of the provisions in question to exclude fully from tax in the hands of life insurance companies the interest on State and municipal bonds.
+At the same time, however, it has been considered essential not to allow anything in the nature of a double deduction or tax loophole arising from the special characteristics of the unique formula to be applied to these companies."
+The letter again reviewed the statutory formula for determining an insurance company's taxable income and, referring to the exception sections, expressed the view that "this additional language is not necessary, since we cannot envision a situation in which the operation of the proposed tax formula would result in the substantive imposition of tax on municipal bond interest or on any other form of tax-exempt income."
+105 Cong.Record, Part 6, p. 8402.
+What the Treasury meant by a "substantive imposition" of tax on exempt interest is a matter of doubt and speculation.
+But, considered in the context of the views expressed before the Committee, and the position taken here, it seems fair to assume that the Treasury recognized that though the inclusion of tax-exempt interest in the formula resulted in an increase of the taxpayer's burden, it was nevertheless within the taxing power of the Congress and would not therefore result in an impermissible imposition, and we consequently have no need to employ the exception provisions of the statute.
+Whatever may be said of the extent of the Congressional power to indirectly burden exempt interest in the exercise of its power to classify all income for purposes of taxation; and whatever may be said of the Government's conception of the Congressional intent and purpose to observe those precepts in the enactment of this legislation, it seems manifestly plain to us that Congress did not intend to invade the integrity of the intergovernmental tax immunity doctrine as exemplified in the decisional law when the legislation was under consideration.
+The prenatal history of this Act convinces us that Congress legislated with an ear to the problem of the marketability of state and municipal securities, and with an eye to the constitutional limitations of National Life on the Congressional power to increase the tax burden of a life insurance company, solely by reason of the receipt of interest from state or municipal securities.
+The question then is whether this is a National Life-Gehner case. The trial court did not think so, and, basing its decision on Slayton, concluded that there was in fact no imposition of a prohibited tax.
+We conclude that our case is within the ambit of the National Life case, which is "radically different" from Slayton.
+In National Life, the Court invalidated Section 245(a) of the 1921 Act because it in effect increased the taxpayer's tax liability, solely by reason of the receipt of tax-exempt interest.
+In Slayton, the same Court upheld Section 214(a) of the same Act as a valid measure to prevent the avoidance of tax on taxable income by the simple expedient of borrowing to purchase tax-exempt securities.
+As the Court observed in Slayton, the taxpayer "was not in effect required to pay more upon his taxable receipts than was demanded of others who enjoyed like incomes solely because he was the recipient of interest from tax-free securities--a result which we found would have followed enforcement of the literal provisions of section 245(a) ".
+Denman v. Slayton, supra , p. 519.
+And see Helvering v. Independent Life Insurance Co. , 292 U.S. 371, 381 , 54 S.Ct. 758 , 78 L.Ed. 1311 .
+While the extent of the burden on the exempt interest and the form and method of imposing it in our case may differ from National Life, the taxable effect differs only in degree.
+In both instances the liability of the taxpayer is increased, solely by reason of the receipt of tax-exempt interest, and no form or method for determining it can disguise its incidence.
+We conclude that the application of the definitions in the Act does result in the imposition of a tax on exempt interest, and the taxpayer is therefore entitled to an adjustment to the extent necessary to prevent such imposition.
+It is incumbent upon the taxpayer to prove the amount of the adjustment.
+It says that it is $11,252.19, and arrives at this amount by simply eliminating exempt interest wherever it is operative in the computation under the statutory formula.
+While the Government does not quarrel with the taxpayer's arithmetic, it strenuously denies support or sanction of the formula by which it is computed.
+In that respect it says that the treatment of the tax-exempt interest is the same as if the money used to purchase tax-exempt securities had remained idle.
+Be that as it may, the Congress has expressly provided for an adjustment to the extent necessary to prevent the imposition of tax on the exempt interest.
+And, since we hold that the application of the statutory definitions does in fact result in a prohibited imposition; and since the taxpayer's computations are based upon the elimination of that interest, we must conclude that the adjustment does no more than prevent the prohibited imposition.
+Insofar as the judgment of the trial court denies refund of $11,252.19, it is reversed with directions to enter judgment accordingly.

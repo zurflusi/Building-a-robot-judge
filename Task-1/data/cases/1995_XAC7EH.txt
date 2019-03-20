@@ -1,0 +1,66 @@
+ WIGGINS , Circuit Judge: Marian Brockamp, the administrator and sole beneficiary of the estate of her father, Stanley B. McGill, brought an action for a refund of his April 1984 income tax overpayment.
+The district court granted summary judgment in favor of the United States, holding that the suit was precluded by the statute of limitations.
+We reverse and remand for further proceedings on Mr. McGill's mental incompetence.
+BACKGROUND In April 1984, Mr. McGill, who was 93 years old at the time, mailed a check to the Internal Revenue Service ("IRS") for $7,000, along with an application for an automatic extension of time to file his 1983 income tax return.
+He made no indication of his reason for sending the $7,000.
+Despite his extension request, Mr. McGill never filed an income tax return for 1983.
+More than two years later, on July 15, 1986, the IRS transferred the $7,000 from Mr. McGill's account into an "Excess Collection Account."
+Mr. McGill died intestate on November 7, 1988 at the age of 98.
+During the administration of his estate, Mrs. Brockamp discovered the $7,000 payment and requested a refund.
+In a letter to the IRS, Mrs. Brockamp characterized her father as "senile" and stated that he had mistakenly sent the check for $7,000 rather than $700.
+On March 27, 1991, Mrs. Brockamp filed a tax return for Mr. McGill's 1983 tax liability.
+The IRS assessed $427 in taxes, and refused Mrs. Brockamp's refund request, based on the statute of limitations provided in I. R.C.
+6511 .
+On August 3, 1993, Mrs. Brockamp filed suit against the United States seeking the return of the money paid by Mr. McGill.
+She argued that (1) the $7,000 check was a "deposit," rather than a payment, and therefore was not subject to the time limitations of 6511 , and (2) even if the $7,000 was a payment, her refund claim was not barred because the statute of limitations imposed by 6511 was equitably tolled due to Mr. McGill's mental incompetence.
+The district court rejected both arguments.
+It concluded that the $7,000 was a payment, that equitable tolling never applies to tax refund cases, and, therefore, that the claim was barred by the statute of limitations.
+We conclude that equitable tolling can apply to tax refund cases, and we therefore reverse.
+We remand to the district court for a determination of Mr. McGill's mental capacity during the relevant time frame.
+DISCUSSION I. STANDARD OF REVIEW A district court's construction and interpretation of the Internal Revenue Code is reviewed de novo .
+Miller v. United States , 38 F.3d 473, 475 (9th Cir.1994).
+II.
+MERITS A. Tax Refund Claims are Subject to Equitable Tolling I. R.C.
+6511(a) provides that a claim for refund of an overpayment must be filed within three years from the time the return was filed, or, if no return was filed, within two years from the date the tax was paid.
+The court lacks jurisdiction over a claim that does not satisfy 6511 .
+United States v. Dalm , 494 U.S. 596, 602 , 110 S.Ct. 1361, 1365 , 108 L.Ed.2d 548 (1989).
+Mrs. Brockamp obviously cannot meet the two year deadline, as the tax was paid in April 1984, and she did not file her refund claim until March 1991.
+Nor can she meet the three year deadline, because taxpayers who file returns more than two years after their taxes are paid cannot take advantage of the three year period following the filing of a return.
+Miller v. United States , 38 F.3d 473, 475 (9th Cir.1994).
+Therefore, 6511 bars Mrs. Brockamp's claim unless equitable tolling applies to lift that bar.
+The government relies on United States v. Dalm to support its position that the principles of equitable tolling cannot be applied to 6511 .
+In Dalm , the Supreme Court considered whether equitable recoupment could serve as an independent basis for federal jurisdiction where the statutory requirements of 6511 were not satisfied.
+The Court held that the doctrine could not be applied to toll 6511 .
+Dalm , 494 U.S. at 611 , 110 S.Ct. at 1369-70 .
+Nine months later, however, in Irwin v. Department of Veterans Affairs , 498 U.S. 89 , 111 S.Ct. 453 , 112 L.Ed.2d 435 (1990), the Supreme Court declared a new, general rule holding that "the same rebuttable presumption of equitable tolling applicable to suits against private defendants should also apply to suits against the United States.
+Congress, of course, may provide otherwise if it wishes to do so." Id. at 95-96 , 111 S.Ct. at 457 (Title VII action).
+In Irwin , the court changed its method of evaluating the availability of equitable tolling.
+Specifically, the court stated: We think that this case affords us an opportunity to adopt a more general rule to govern the applicability of equitable tolling in suits against the government Id. at 95 , 111 S.Ct. at 457 (emphasis added).
+We believe that this language effectively limited the Dalm decision described above.
+Irwin requires that, in the absence of congressional action, statutes of limitations are, as a general rule, presumed to be subject to equitable tolling in suits against the United States.
+Congress has never expressed any intention that equitable tolling should not apply to 6511 .
+The specific language of the statute does not speak to the application of equitable tolling principles.
+Additionally, since the Supreme Court decided Irwin four years ago, Congress has done nothing to indicate that equitable tolling does not apply to 6511 .
+Furthermore, as the court in Johnsen v. United States noted, the legislative history of 6511 "is absolutely devoid of any indication that Congress intended to preclude such equitable tolling in tax refund actions."
+758 F.Supp.
+834, 835-36 (E.D.N.Y.1991), quoted in Scott v. United States , 795 F.Supp.
+1028 (D.Haw.1992).
+We hold that in the absence of congressional action that indicates to the contrary, the statute of limitations provided in 6511 may be equitably tolled.
+1 We think that the facts as alleged by Mrs. Brockamp demonstrate why equitable tolling should apply in some tax cases.
+In this instance, it would be unconscionable to allow the government to retain money that it concedes it was not owed, and may have only received due to a 93 year-old man's senility.
+We find Irwin to be controlling and hold that, in the absence of congressional action, the principle of equitable tolling applies to tax refund claims.
+B. Mental Incompetence Tolls the Statute of Limitations In a prior case, we expressly left open the question of whether mental incompetence can toll a statute of limitations.
+See Atkins v. Union Pac. R.R. , 685 F.2d 1146, 1148 (9th Cir.1982).
+We have held, however, that where "extraordinary circumstances beyond plaintiffs' control [make] it impossible to file the claims on time," equitable tolling applies.
+Seattle Audubon Soc'y v. Robertson , 931 F.2d 590, 595 (9th Cir.1991).
+Recently, several post Irwin courts have held that mental incompetence will toll statutes of limitation in suits against the government.
+See, e.g. , Nunnally v. MacCausland , 996 F.2d 1, 4-5 (1st Cir.1993); Wiltgen v. United States , 813 F.Supp.
+1387, 1394-95 (N.D.Iowa 1992); Johnsen v. United States , 758 F.Supp.
+834, 835-36 (E.D.N.Y.1991).
+We now join those courts and hold that mental incompetence constitutes a ground for equitable tolling.
+Principles of equity mandate that when mental incompetence precludes a person from asserting his rights during the proper time period, he should not be precluded from later seeking redress for his injuries.
+Viewing the facts of this case in the light most favorable to Mrs. Brockamp, there is a triable issue of fact as to Mr. McGill's mental incompetence.
+If Mr. McGill is found to have been mentally incompetent when he made the overpayment, tolling will allow Mrs. Brockamp to satisfy the statute of limitations provided in 6511 .
+CONCLUSION We hold that equitable tolling principles apply to tax refund cases.
+Further, we hold that mental incompetence can be a ground for tolling a statute of limitations.
+Accordingly, we reverse the district court's grant of summary judgment in favor of the government, and remand for further proceedings regarding Mr. McGill's mental competency.

@@ -1,0 +1,90 @@
+ PER CURIAM: These consolidated appeals arise from two actions, both of which originally asserted various tort claims arising from Ciba-Geigy Corporation's manufacture and sale of a chlorodimeform-based insecticide, Galecron.
+The principal issue presented is whether the district court had removal jurisdiction under 28 U.S.C. 1441 and the All Writs Act, 28 U.S.C. 1651 , over a later action solely because prosecuting that action violated a settlement stipulation in an earlier action already before the court.
+We hold that it did not.
+Background The first of the two actions, Price v. Ciba-Geigy Corp. , was originally filed in the circuit court of Mobile County, Alabama.
+The defendants later removed it to the Southern District of Alabama, which certified a nationwide class and approved a complicated, structured settlement.
+The second, Henson v. Ciba-Geigy Corp. , originated in state district court in Iberville Parish, Louisiana.
+The Louisiana court stayed Henson after its named plaintiff and others successfully intervened in Price (where they were called the Henson interveners) and participated in the Price settlement.
+The settlement stipulation in the Price action had a clause requiring Henson 's dismissal: (R.7-84-Ex. A at 18.)
+"Related case" means, according to the stipulation, " Hurley Henson, et al v. Ciba-Geigy Corporation, et al / Docket No. 43,620, 18th Judicial District Court, Parish of Iberville, State of Louisiana."
+( Id. at 15 .)
+Following the approval of the Price settlement, "class counsel" (lawyers for the original Price plaintiffs) complied with the stipulation and prompted the Louisiana state district court to enter an order to show cause why the action should not be dismissed because of the stipulation.
+A hearing before the Louisiana district court ensued.
+Hany Zohdy, a Louisiana lawyer who represented the Henson interveners in the Price proceedings, told the Louisiana court that the Price settlement required dismissal only of claims concerning chlorodimeform and not claims about other chemicals handled by Ciba-Geigy.
+That was incorrect, of course, because the settlement stipulation plainly named the entire Henson action by docket number and said nothing about dismissing only certain claims.
+1 Zohdy's representation nonetheless successfully misled the Louisiana court into inviting the Henson plaintiffs to amend their petition to assert tort claims arising from exposure to Atrazine, another toxic Ciba-Geigy product.
+This amendment prompted Ciba-Geigy (and three individual defendants, all diversity-defeating Louisiana residents, who were also named in Henson ) to remove the action to the Middle District of Louisiana under 28 U.S.C. 1441(a) , asserting federal jurisdiction based on the All Writs Act, 28 U.S.C. 1651 .
+2 The defendants immediately requested a transfer to the Southern District of Alabama under 28 U.S.C. 1404(a) , which was granted.
+Following the transfer, the Southern District dismissed Henson as barred by the Price settlement.
+Exercising jurisdiction in the Price action itself, moreover, the Southern District ordered Zohdy to pay about $27,000 to Ciba-Geigy for the legal fees it incurred in enforcing the Price settlement despite Zohdy's efforts to thwart it.
+These are the rulings that the Henson plaintiffs and Zohdy appeal.
+Whether the district court had removal jurisdiction is a question we review de novo.
+Singleton v. Apfel , 231 F.3d 853, 856 (11th Cir.2000).
+"We review the district court's construction of the [settlement stipulation] de novo."
+Waters v. Int'l Precious Metals Corp. , 237 F.3d 1273, 1277 (11th Cir.2001).
+Whether the district court properly imposed sanctions for violation of a court-adopted stipulation of settlement we review for abuse of discretion only.
+See Abbott Labs.
+v. Unlimited Beverages, Inc. , 218 F.3d 1238, 1240 (11th Cir.2000).
+Discussion Sanctions on Zohdy Zohdy challenges the sanctions order on three meritless grounds.
+First, he says, the district court lacked jurisdiction to sanction him.
+Not so, because he was counsel of record in Price , the action in which he signed the settlement stipulation and in which he was sanctioned for violating the settlement.
+See Levine v. Comcoa Ltd. , 70 F.3d 1191, 1192 (11th Cir.1995).
+Second, Zohdy argues, the settlement stipulation did not require dismissal of claims relating to Atrazine, and he therefore did not act contrary to the settlement.
+This contention is meritless; the stipulation language quoted above explicitly requires dismissal of all claims in the Henson action, which the stipulation identifies by docket number.
+Finally, Zohdy asserts that he had no obligation to dismiss the Henson action because the settlement stipulation puts that onus on "class counsel," who do not include him.
+Perhaps that is so, but the district court sanctioned Zohdy, a signatory of the stipulation of settlement, for his efforts to undermine the settlement by preventing class counsel from discharging their duties to secure Henson 's dismissal.
+Whether or not Zohdy was specifically responsible for getting Henson dismissed, it was within the court's power to effectuate its orders to punish Zohdy for interfering with the settlement's implementation.
+See Chambers v. NASCO, Inc. , 501 U.S. 32, 45 , 111 S.Ct. 2123, 2133 , 115 L.Ed.2d 27 (1991) (court has inherent power to assess attorney fees on counsel for willful contravention of court order).
+Removal Jurisdiction Over Henson Zohdy's challenge to the district court's subject-matter jurisdiction over Henson has more merit.
+The asserted jurisdictional basis is the All Writs Act, whose pertinent part provides district courts the power to protect their jurisdiction: "The Supreme Court and all courts established by Act of Congress may issue all writs necessary or appropriate in aid of their respective jurisdictions and agreeable to the usages and principles of law."
+28 U.S.C. 1651(a) .
+Thus, for example, a district court has the authority under the Act to enjoin a party to litigation before it from prosecuting an action in contravention of a settlement agreement over which the district court has retained jurisdiction.
+See In re VMS Secs.
+Litig. , 103 F.3d 1317, 1324 (7th Cir.1996); White v. Nat'l Football League , 41 F.3d 402, 409 (9th Cir.1994); Wesch v. Folsom , 6 F.3d 1465, 1470 (11th Cir.1993); Kelly v. Merrill Lynch, Pierce, Fenner & Smith , 985 F.2d 1067, 1069 (11th Cir.1993).
+Whether a district court also has jurisdiction under the All Writs Act over an action removed under 1441 is a question that is currently unanswered in this circuit.
+3 The circuits have split in addressing similar questions of federal courts' power under the All Writs Act to protect judgments and control diehard litigants.
+On one hand, most have read the All Writs Act generously.
+Presented with statutory removal questions nearly identical to the one posed here, the Sixth and Eighth Circuits have held that state-court actions that could produce judgments undermining federal consent orders--and in one case a state-court action that was merely barred by the preclusive effect of a federal consent decree--are removable under 1441 , with original subject-matter jurisdiction supplied by the All Writs Act.
+See Xiong v. State of Minn. , 195 F.3d 424, 426 (8th Cir.1999); Bylinski v. City of Allen Park , 169 F.3d 1001, 1003 (6th Cir.1999); N.A.A.C.P., Minneapolis Branch v. Metro. Council , 125 F.3d 1171, 1174 (8th Cir.1997) (removal simply to determine preclusive effect of the federal consent decree), cert. granted; summarily vacated and remanded for reconsideration in light of Rivet v. Regions Bank , 522 U.S. 470, 118 S.Ct. 921 , 139 L.Ed.2d 912 (1998), 522 U.S. 1145 , 118 S.Ct. 1162 , 140 L.Ed.2d 173 (1998), reinstated , 144 F.3d 1168, 1169 (1998); Sable v. Gen.
+Motors Corp. , 90 F.3d 171, 175 (6th Cir.1996).
+The Second Circuit has not yet gone that far, but it has repeatedly held that a district court may, on motion of parties to an action over which it has jurisdiction, order a common-law removal (distinct from that authorized by 28 U.S.C. 1441(a) or other removal statutes) to federal court of a state-court action, even if there is no other basis of federal subject-matter jurisdiction, when the prosecution of the state-court action threatens the integrity of a consent decree or judgment entered in the federal action.
+See In re Agent Orange Prod. Liab. Litig. , 996 F.2d 1425, 1431 (2d Cir.1993); United States v. City of N.Y. , 972 F.2d 464, 469 (2d Cir.1992); Yonkers Racing Corp. v. City of Yonkers , 858 F.2d 855, 855 (2d Cir.1988); see also United States v. Am. Soc'y of Composers, Authors, & Publishers , 32 F.3d 727, 731 (2d Cir.1994) (All Writs Act provides independent ground of federal subject-matter jurisdiction of motion to vacate an arbitral award, when the parties arbitrated according to the terms of a preexisting federal consent decree).
+The Seventh Circuit has agreed with the Second Circuit, possibly in dicta (while the procedural history is not completely clear from the opinion, it appears that the district court enjoined the state-court actions rather than deeming them "removed").
+In re VMS Secs.
+Litig. , 103 F.3d at 1324 .
+The Third Circuit has also embraced the Second Circuit rule, although it declined to find appellate jurisdiction under the All Writs Act to review the district court's refusal to exercise removal jurisdiction under the Act.
+Davis v. Glanton , 107 F.3d 1044, 1047 n. 4 (3d Cir.1997).
+On the other hand are the minority of courts that have taken a less expansive view.
+The Tenth Circuit has held that the All Writs Act does not furnish removal jurisdiction at all because it confers no independent jurisdiction.
+See Hillman v. Webley , 115 F.3d 1461, 1469 (10th Cir.1997).
+A Ninth Circuit opinion could be read to reach a similar conclusion.
+See Westinghouse Elec. Corp. v. Newman & Holtzinger, P.C.
+, 992 F.2d 932, 937 (9th Cir.1993) (state-court action alleging breach of the agreement that led to a federal court's consent protective order was not removable, both because it did not concern the interpretation of the protective order itself and because the All Writs Act "may be invoked by a district court only in aid of jurisdiction which it already has").
+Some academic opinion tends to reject the expansive view of the All Writs Act preferred by the Second, Sixth, and Eighth Circuits.
+See Joan Steinman, The Newest Frontier of Judicial Activism: Removal Under the All Writs Act , 80 B.U.L.Rev.
+773 (2000); Lonny Sheinkopf Hoffman, Removal Jurisdiction and the All Writs Act , 148 U. Pa. L.Rev.
+401 (1999).
+We tend toward the Tenth Circuit camp and conclude that the district court lacked removal jurisdiction over the Henson case. Two settled principles, one about the prerequisites of 1441 removal, and another about the All Writs Act, lead us to this conclusion.
+First, 1441(a) authorizes removal only of actions "of which the district courts of the United States have original jurisdiction."
+28 U.S.C. 1441(a) .
+That phrase means that actions are not removable unless they "originally could have been filed in federal court."
+Caterpillar Inc. v. Williams , 482 U.S. 386, 392 , 107 S.Ct. 2425, 2429 , 96 L.Ed.2d 318 (1987).The implication of that rule here is that removal is proper only if the All Writs Act could have furnished subject-matter jurisdiction over the Henson action if it had first been filed in federal court.
+And, second, the Act does not provide such jurisdiction.
+The All Writs Act authorizes writs "in aid of [the courts'] respective jurisdictions," and thus does not provide an independent basis of federal subject-matter jurisdiction; a plaintiff cannot sue invoking only the court's All Writs power.
+Clinton v. Goldsmith , 526 U.S. 529 , 119 S.Ct. 1538, 1542 , 143 L.Ed.2d 720 (1999); see Pa. Bureau of Corr. v. United States Marshals Serv. , 474 U.S. 34, 40 , 106 S.Ct. 355, 360 , 88 L.Ed.2d 189 (1985) (Act authorizes orders protecting the jurisdiction that a federal court has "otherwise acquired"); McIntire v. Wood , 11 U.S. (7 Cranch) 504, 504 , 3 L.Ed. 420 (1813) (no jurisdiction under contemporary All Writs Act over action seeking writ of mandamus against Ohio official based on federal law); see generally Hoffman, supra , at 433-39 (history of All Writs Act strongly implies that it is not an independent source of subject-matter jurisdiction).
+Section 1441 and the All Writs Act do not, therefore, together provide a right to remove actions such as Henson .
+The most troubling counterargument, and the one that the Second, Sixth, and Eighth Circuits ultimately rely on, is that the All Writs Act is jurisdictional caulk--it plugs the cracks in federal jurisdiction through which crafty litigants can escape the effect of a federal order.
+See United States v. N. Y. Tel. Co. , 434 U.S. 159, 172-73 , 98 S.Ct. 364, 372 , 54 L.Ed.2d 376 (1977) (articulating this broad view of the All Writs Act's purpose).
+Therefore, the argument goes, the Act authorizes any exercise of authority that is convenient for effectuating a federal judgment, including the exercise of removal jurisdiction over a different action whose prosecution is inconsistent with a federal judgment.
+See, e.g. , In re Agent Orange Prod. Liab. Litig. , 996 F.2d at 1431 .
+This reasoning is tempting in a case like ours, but it goes too far.
+Too elastic an interpretation of the All Writs Act perverts it from a tool for effectuating Congress's intent in conferring jurisdiction on the lower federal courts into a device for judicially re-equilibrating a state-federal balance that is Congress's to strike.
+By requiring complete diversity in 1332 , and by limiting the time for removal of diversity cases to one year after their commencement, Congress has decided that Henson does not belong in federal court.
+The All Writs Act, even as jurisdictional caulk, should not allow us to override Congress's decision unless no other reasonable way appears to ensure that the federal court's orders are heeded.
+See Clinton , 119 S.Ct. at 1543 .
+The district court did not need to exercise jurisdiction over Henson when it had the ready remedy of an injunction against prosecution of the action, properly issued under the All Writs Act.
+All things considered, we conclude that the district court lacked subject-matter jurisdiction over the Henson action.
+Conclusion We accordingly vacate the district court's order dismissing Henson and remand with instructions for the court to remand Henson to Louisiana state court.
+We do not, however, imply that the district court may not by injunction force Henson 's dismissal.
+We affirm the district court's award of sanctions against Zohdy.
+No. 99-6021 (A PPEAL IN HENSON v. CIBA-GEIGY ): V ACATED AND R EMANDED WITH INSTRUCTIONS; No. 99-6130 (A PPEAL IN PRICE v. CIBA-GEIGY ): A FFIRMED .

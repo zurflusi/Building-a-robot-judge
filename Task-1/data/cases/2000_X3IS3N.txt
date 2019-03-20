@@ -1,0 +1,29 @@
+ PER CURIAM.
+This case presents a dispute between rival boxing promoters, plaintiff Cedric Kushner Promotions, Ltd. ("Kushner") and defendants Don King ("King"), Don King Productions, Inc., and DKP Corporation (together, "DKP").
+1 On September 28, 1998, Kushner filed a complaint in the United States District Court for the Southern District of New York, asserting claims under the Racketeer Influenced and Corrupt Organizations Act ("RICO"), 18 U.S.C. 1961 et seq.
+, and for common-law fraud and tortious interference with contract.
+The District Court (William H. Pauley, Judge ) granted defendants' motion pursuant to FED.R.CIV.P. 12(b)(6) to dismiss the RICO claims, and dismissed sua sponte the remaining state law claims for lack of subject matter jurisdiction.
+See Cedric Kushner Promotions, Ltd. v. King , No. 98 Civ. 6859 , 1999 WL 771366 (S.D.N.Y.
+Sept.28, 1999).
+In its complaint, Kushner asserted that defendants had violated 18 U.S.C. 1962(c) and had conspired to do so in violation of 18 U.S.C. 1962(d) .
+Pursuant to 18 U.S.C. 1964(c) , these criminal provisions provide a basis for civil liability as well.
+On appeal, Kushner challenges only the dismissal of its claim pursuant to 1962(c) .
+We review de novo the District Court's decision to dismiss that claim.
+See, e.g. , Sykes v. James , 13 F.3d 515, 518-19 (2d Cir.1993).
+Section 1962(c) provides that "[i]t shall be unlawful for any person employed by or associated with any enterprise engaged in, or the activities of which affect, interstate or foreign commerce, to conduct or participate, directly or indirectly, in the conduct of such enterprise's affairs through a pattern of racketeering activity or collection of unlawful debt."
+18 U.S.C. 1962(c) .
+It is well established in this Circuit that, under 1962(c) , the alleged RICO "person" 2 and RICO "enterprise" 3 must be distinct.
+See Anatian v. Coutts Bank (Switzerland) Ltd. , 193 F.3d 85, 89 (2d Cir.1999); Riverwoods Chappaqua Corp. v. Marine Midland Bank, N.A. , 30 F.3d 339, 343-45 (2d Cir.1994); Bennett v. U.S. Trust Co. , 770 F.2d 308, 315 (2d Cir.1985).
+In Riverwoods , we applied the distinctness requirement to find that a bank--effectively the RICO enterprise and the sole defendant--could not be held liable under 1962(c) when the RICO persons identified were the bank and bank employees acting within the scope of their employment.
+We explained that the distinctness requirement could not be circumvented Riverwoods , 30 F.3d at 344 (citation omitted).
+Relying on Riverwoods , we subsequently found that the distinctness requirement was not satisfied in a case where the alleged RICO enterprise was the NYNEX Group and the RICO persons were NYNEX, New York Telephone, and NYNEX Material Enterprises, all subsidiaries of the NYNEX Group.
+See Discon, Inc. v. NYNEX Corp. , 93 F.3d 1055 (2d Cir.1996), rev'd on other grounds , 525 U.S. 128 , 119 S.Ct. 493 , 142 L.Ed.2d 510 (1998).
+We explained that "[i]t would be inconsistent for a RICO person, acting within the scope of its authority, to be subject to liability simply because it is separately incorporated, whereas otherwise it would not be held liable under Riverwoods ."
+Id. at 1064 .
+The complaint in the instant action identifies DKP as the RICO enterprise and King as the RICO person.
+Though the complaint names both King and DKP as RICO defendants, the parties on appeal agree that the RICO claims against DKP were dropped, leaving King as the sole RICO defendant.
+As it is undisputed that King was an employee acting within the scope of his authority at DKP, Kushner does not assert that King and DKP are distinct.
+Instead, Kushner argues that the distinctness requirement is inapplicable when only the RICO person, and not the RICO enterprise, is a defendant.
+We conclude that the District Court properly rejected this contention.
+Our decisions in Riverwoods and Discon preclude the imposition of liability under 1962(c) unless the RICO person and RICO enterprise are distinct; these cases leave no room for creating exceptions to the distinctness requirement based on the identity of the defendant.
+4 Accordingly, we affirm the District Court's dismissal of Kushner's RICO claim against King pursuant to 18 U.S.C. 1962(c) , the only claim before us on this appeal.

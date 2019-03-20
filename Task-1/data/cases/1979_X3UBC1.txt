@@ -1,0 +1,137 @@
+ RONEY , Circuit Judge: In this case PPG Industries, Inc. appeals an action of the Administrator of the Environmental Protection Agency (EPA) subjecting the "waste heat" boilers of its recently constructed power plant to new source performance standards for fossil fuel-fired steam generating units.
+40 C.F.R. 60.40-46 (1977).
+PPG first challenges this Court's jurisdiction to entertain the appeal, having filed its petition for review both here and in the district court because of jurisdictional uncertainty.
+On the merits PPG contends that the performance standards for fossil fuel-fired steam generators have no application to its waste heat boilers, which are fueled only partially by fossil fuels.
+Even if the standards apply, PPG argues, the final action taken by the Administrator here was without statutory authority for two reasons: first, having started construction before the effective date of the regulations, the waste heat boilers were not a "new source" to which the statute applied; second, the Administrator had authority only to set standards for emission limitations, whereas here a standard for source fuel was imposed.
+In any event, PPG asserts the Administrator's action was arbitrary and capricious.
+Finding this Court lacks jurisdiction, we dismiss the petition.
+I. PPG's Lake Charles Facility Petitioner PPG Industries, Inc. owns and operates a chemical manufacturing plant located at Lake Charles, Louisiana, which requires large amounts of steam and electricity for its operations.
+To meet its energy requirements, PPG recently constructed a power plant designed to take advantage of fuel-efficient "cogeneration" technology.
+The power plant is comprised of two similar units.
+In each unit fossil fuel is burned in a General Electric gas turbine generator to produce electricity.
+Energy, or "waste heat" thrown off by the turbine's exhaust, which would normally be discharged into the atmosphere, is funnelled as a heat source into a "waste heat" boiler which also burns fuel oil.
+This exhaust from the turbines contributes nearly 40% (approximately 371 million British thermal units per hour) of the total input to the waste heat boiler, while the remaining heat (approximately 598 million British thermal units per hour) is provided by combustion of fuel oil or natural gas, known as fossil fuels.
+The highly pressurized steam produced by the waste heat boiler is first used to turn a "backpressure" turbogenerator, thereby creating more electricity, and is then channelled into PPG's main plant for use in the manufacturing process.
+The air pollutants from PPG's power plant are similar to those of any other boiler fired by fuel oil.
+The pollutant of principal concern is sulfur dioxide, which is formed during combustion of sulfur-bearing fuels in the presence of oxygen.
+Virtually all of the sulfur dioxide emissions from the power plant are directly attributable to the combustion of fuel oil in the waste heat boiler and virtually none to the gas turbine exhausts.
+PPG can control its sulfur dioxide emissions through use of either flue gas desulfurization equipment ("scrubbers") or fuel oil with a low sulfur content.
+In addition to sulfur dioxide emissions, PPG's power plan will emit particulate matter and nitrogen oxides.
+These pollutants are not of great concern in this case because nitrogen oxides are controlled primarily through boiler design, and combustion of fuel oil does not produce significant particulate emissions.
+II.
+The Statutory and Regulatory Framework In passing the Clean Air Act Amendments of 1970, Congress for the first time established a comprehensive federal-state scheme for the control and abatement of air pollution.
+Pub.L.
+No. 91-604, 84 Stat. 1676 (December 31, 1970), codified at 42 U.S.C. 1857 (1970).
+The Clean Air Act was again substantially amended in 1977, Pub.L.
+No. 95-95, 91 Stat. 685 (August 7, 1977), and the final amended version is codified at 42 U.S.C.A. 7401-7642.
+1 The 1970 Amendments required the EPA Administrator to set national ambient air quality standards for "criteria" pollutants.
+2 Each state, in turn, was required to adopt and submit for EPA approval a plan providing for "implementation, maintenance, and enforcement" of the national standards within the given state.
+42 U.S.C.A. 7410.
+While emissions from both existing and new sources of pollution are regulated under the various state implementation plans, Congress, "concerned that new plants--new sources of pollution--would have to be controlled to the greatest degree practicable if the national goal of a cleaner environment was to be achieved," Essex Chem. Corp. v. Ruckelshaus , 158 U.S.App.D.C.
+360 , 486 F.2d 427, 434 n.14 (D.C.Cir.1973), cert. denied , 416 U.S. 969 , 94 S.Ct. 1991 , 40 L.Ed.2d 558 (1974), determined that all new sources should be subject to an additional layer of federal control.
+It therefore enacted 111, which required the establishment of "standards of performance" for all new sources.
+42 U.S.C. 1857c-6 (1970), as amended , 42 U.S.C.A. 7411.
+"New source" is defined under the Act as "any stationary source, the construction or modification of which is commenced after the publication of regulations (or, if earlier, proposed regulations) prescribing a standard of performance under this section which will be applicable to such source."
+42 U.S.C.A. 7411(a)(2).
+Under 111(b), the Administrator was directed to publish, and from time to time revise, a list of those categories of stationary sources which he determined "may contribute significantly to air pollution which causes or contributes to endangerment of public health or welfare."
+Subsequently, he was to promulgate, after proposal and opportunity for public comment, standards of performance for new sources in the listed categories.
+In accordance with this directive, the Administrator published an initial list of five stationary source categories on March 31, 1971.
+The listed sources were fossil fuel fired-steam generators, incinerators, portland cement plants, nitric acid plants, and sulfuric acid plants.
+Later that year, regulations establishing new source performance standards were proposed and promulgated for each of the listed categories of sources.
+Regulations of general applicability are grouped in Subpart A, 40 C.F.R. 60.1-.15 (1977), while the regulations implementing the new source performance standards for fossil fuel-fired steam generators are located in Subpart D, 40 C.F.R. 60.40-.46 (1977).
+The standards of performance are written as emission limitations (in pounds per million British thermal units heat input or grams per million calories) which may not be exceeded.
+See 40 C.F.R. 60.42-.45 (1977).
+The regulations define "fossil fuel-fired steam generating unit" and "fossil fuel" as follows: Id. 60.41.
+The Subpart D provisions are made applicable to "[e]ach fossil-fuel fired steam generating unit" of more than 250 million British thermal units per hour heat input.
+Id. 60.40.
+Each fossil fuel-fired steam generating unit must meet performance standards for particulate matter, sulfur dioxide, and nitrogen oxides.
+Id. 60.42-.44.
+In order to measure compliance, 60.45 provides that the source owner or operator must install, calibrate, maintain, and operate continuous monitoring systems for measuring the opacity of emissions, sulfur dioxide and nitrogen oxides emissions, and either oxygen or carbon dioxide in the flue gases.
+III.
+Agency and Court Proceedings As a result of correspondence in 1975 and 1976 with PPG and intervenor Continental Oil Company (Continental), EPA learned of the construction of the new power plant at PPG's Lake Charles facility.
+In response to an EPA inquiry, PPG informed the agency that it planned to start construction of the two waste heat boilers on January 1, 1976, and July 1, 1977.
+EPA promptly requested information regarding the construction of the power plant to determine whether it would be subject to new source performance standards promulgated under 111 of the Clean Air Act.
+In responses of May 14, 1976, and June 28, 1976, PPG provided detailed information on the design and construction of the new power plant, along with information regarding other power generating facilities at the Lake Charles works.
+In a letter dated October 5, 1976, the Acting Director of the Enforcement Division of EPA's Region VI advised PPG that the performance standards for fossil fuel-fired steam generating units would apply to the waste heat boilers of the power plant because in the Director's view the construction of the boilers was commenced after August 17, 1971, the date on which the Subpart D regulations were proposed.
+In particular, the Director noted that the final purchase order for the first of the two waste heat boilers was dated October 14, 1974.
+PPG responded by a letter dated November 12, 1976, contending that each of the two sets of turbines and boilers in the power plant constituted a single integrated unit, that construction of each unit was commenced in 1970, and that the turbogenerator purchased in 1970 would be completely useless without the waste heat boilers.
+In a letter dated December 22, 1976, the Region VI Director answered that "[e]ven though [PPG] may have ordered equipment before the date of the proposed regulations that would be completely useless without the steam generators, that action is irrelevant to determine the applicability of the regulations to the two steam generators."
+On April 13, 1977, PPG filed a formal request under 40 C.F.R. 60.5 (1977) 3 for an EPA determination that (1) the standards of performance do not apply to boilers which, like those at PPG's Lake Charles works, derive a substantial amount of heat from turbine exhaust gases (waste heat) and (2) that construction of PPG's new power plant was commenced prior to August 17, 1971, the date of publication of proposed standards of performance for fossil fuel-fired steam generators.
+PPG also asked EPA for a clarifying determination as to the application of the Subpart D standards of performance to waste heat boilers if EPA ultimately determined that the standards governed the operation of PPG's boilers.
+The Regional Administrator of EPA's Region VI responded to PPG's three requests on June 8, 1977.
+EPA determined that PPG's waste heat boilers came within the scope of the standards of performance for fossil fuel-fired steam generators because each of the boilers is capable of operating at 250 million British thermal units per hour heat input.
+The fact that the boilers were designed to manufacture steam through combined use of turbine exhaust gases and the burning of fossil fuel was disregarded.
+EPA also rejected PPG's argument that construction of the waste boilers should be considered to have commenced before August 17, 1971, at the time that construction commenced on the power plant as a whole.
+In response to PPG's request for a determination clarifying application of the performance standards to the waste heat boilers output, EPA ruled that compliance with the standards would be judged only on the amount of heat and combustion effluents produced by the fossil fuel burned in the waste heat boilers.
+The turbine generators, having been ordered prior to August 17, 1971, were not subject to federal standards of performance.
+The combustion effluents and thermal energy from the turbines could therefore be discharged into the atmosphere without being limited by the standards.
+Reasoning that there would be no logic in penalizing an owner or operator who chooses to use the exhaust heat in a waste heat recovery steam generator unit rather than discharge it into the atmosphere, EPA ruled that both the heat input and the emission contribution of the combustion turbine would be excluded in determining whether the steam generator plant complies with the standards.
+The Director of the Division of Stationary Source Enforcement of EPA ultimately upheld these determinations and further ruled that PPG would be required at all times to burn fuel containing a sulfur content equal to or less than a sulfur level to be specified as a result of performance tests conducted in compliance with the performance standards.
+He further determined that PPG was not required to install equipment for and to conduct the continuous monitoring for sulphur dioxide and nitrogen oxides mandated by the performance standards, but that under the standards PPG would be obliged to install and operate continuous opacity monitors in the stacks of the waste heat boilers and might also be required to monitor and report on the sulfur content of the fossil fuel burned in the boilers.
+PPG filed this petition for review.
+Since PPG challenges this Court's jurisdiction to review EPA's actions in this case, it has also filed, as a precautionary measure, an action for review in the United States District Court for the Western District of Louisiana.
+PPG Industries, Inc. v. Costle , No. 77-1271.
+EPA has moved to stay the district court action pending a determination in this Court of its jurisdiction to hear this petition.
+IV.
+Jurisdiction PPG argues that the district court, rather than the court of appeals, should have jurisdiction of this review.
+Although disputing this Court's jurisdiction, PPG filed a timely petition for review here as a protective measure while concurrently filing suit in the Western District of Louisiana.
+No ruling concerning jurisdiction had been made by the district court when this case was argued.
+Prior to the passage of the Clean Air Act Amendments of 1977, the district courts and not the courts of appeals had jurisdiction to review determinations of local applications such as the one before us. 28 U.S.C.A. 1331(a) confers jurisdiction on the federal district courts to review agency action, subject only to preclusion by review statutes created or retained by Congress.
+Califano v. Sanders , 430 U.S. 99, 105 , 97 S.Ct. 980 , 51 L.Ed.2d 192 (1977).
+The court in Utah Power & Light noted that district court jurisdiction has been recognized under section 10 of the Administrative Procedure Act, 5 U.S.C.A. 701-706.
+553 F.2d at 219 n.20.
+The Supreme Court in Califano v. Sanders , however, concluded that the amendment of 1331 to eliminate the specified jurisdictional amount requirement for a review of agency actions undercuts the rationale for interpreting the Administrative Procedure Act as an independent jurisdictional provision.
+430 U.S. at 105 , 97 S.Ct. 980 , 51 L.Ed.2d 192 .
+The controlling issue, therefore, is whether the 1977 Amendments have changed the law to require that this review should take place initially in the courts of appeals.
+We conclude that they have not.
+The Clean Air Act Amendments of 1977 added new language to 307(b)(1), the judicial review provision of the Act.
+The new Act provides exclusive jurisdiction in the courts of appeals to review "any order" issued under several specifically enumerated sections and "any other final action of the Administrator under this Chapter.
+.
+which is locally or regionally applicable."
+4 The EPA determinations involved in this case do not fall within any enumerated sections of the statute.
+They are, rather, the Administrator's interpretations and applications of regulations promulgated pursuant to 111 of the Act.
+Therefore they must come under the "any other final action" clause of the statute if the court of appeals is to have jurisdiction.
+The parties agree the action is locally applicable, so that if there is court of appeals jurisdiction, it is here rather than in the D.C.
+Circuit.
+The addition of the "any other final action" language to the statute distinguishes the District of Columbia Circuit case of Utah Power & Light Co. v. EPA , 180 U.S.App.D.C.
+70 , 553 F.2d 215 (1977), upon which PPG relies.
+There the court held that the language of 307(b)(1) of the 1970 Amendments to the Clean Air Act 5 and "the policy considerations underlying that provision compel the conclusion that challenges to the validity of certain agency regulations are directly reviewable by courts of appeals, whereas challenges to interpretations of those regulations are not."
+(emphasis added) 180 U.S.App.D.C.
+at 73 , 553 F.2d at 218 .
+The court determined that Utah Power & Light Company was attacking the particular interpretation and application of the regulations to three power plants and not the validity of the regulations themselves.
+PPG argues that the phrase "any other final action .
+.
+.
+under this chapter" refers only to the provisions of the Act enumerated in 307(b)(1).
+The EPA contends that the phrase should be interpreted literally to subject every agency final action to review by the courts of appeals.
+Neither argument is convincingly supported in the language of 307(b)(1) itself.
+Had Congress intended to confer jurisdiction over only the enumerated sections, the "other final action" clause would be qualified by "under these sections" rather than "under this chapter" which clearly refers to the Act as a whole.
+If Congress intended, however, to cast the entire responsibility for reviewing all EPA action under the Act into the courts of appeals, the numeration of specific sections would appear to be redundant.
+The most revealing aspect of the legislative history of the revised 307(b)(1) is its complete failure to mention what EPA asserts was a massive shift of jurisdiction to the courts of appeals.
+6 In a legislative report which discusses proposed changes for over 300 pages, such a sweeping revision would be unlikely to escape comment.
+The likelihood that such a jurisdictional transfer was contemplated is further reduced by the nature of the "final actions" which this asserted shift would direct to the appellate courts and the state of the accompanying administrative records on which these actions would be reviewed.
+Many EPA decisions are the end product of agency procedures which produce an administrative record sufficiently complete for judicial review of the decision.
+7 Others, like those challenged by PPG here, are determinations made during the course of the agency's operations as to how its regulations will be interpreted and applied.
+If such decisions could be made only after agency compilation of a thorough record, the agency's administration of the Act would be brought to a standstill.
+Cf. Save the Bay, Inc., v. Administrator of E. P. A. , 556 F.2d 1282, 1292 (5th Cir. 1977).
+The skeletal record of the Administrator's grounds for such a decision, however, here a collection of correspondence between the agency and affected parties, may leave the reviewing court unable to verify the Administrator's grounds or, perhaps, to identify those grounds at all.
+See, e. g. , Save the Bay, Inc. , 556 F.2d at 1292 .
+(Record failed to reveal what factors caused EPA to refrain from exercising its veto power against a permit to discharge pollutants under the Federal Water Pollution Control Act).
+The Administrator's decisions in this case would have to be reviewed under the standard supplied by the Administrative Procedure Act, 5 U.S.C.A. 706.
+The Court must inquire (1) whether the action was within the scope of the agency's authority, (2) whether the agency conformed to procedural requirements, and (3) whether the decision was arbitrary, capricious, an abuse of discretion, or otherwise not in accordance with law.
+Texas v. EPA , 499 F.2d 289, 296 (5th Cir. 1974), cert. denied , 427 U.S. 905 , 96 S.Ct. 3191 , 49 L.Ed.2d 1199 (1976).
+The third inquiry requires that the Court consider "whether the decision was based on a consideration of the relevant factors and whether there has been a clear error of judgment."
+Citizens to Preserve Overton Park v. Volpe , 401 U.S. 402 , 91 S.Ct. 814 , 28 L.Ed.2d 136 (1971).
+The Supreme Court in Overton Park remanded the case to the district court for review of the Secretary of Transportation's approval of highway construction through the city park and observed 401 U.S. at 420 , 91 S.Ct. at 825 .
+This Court has noted Save the Bay, Inc. , 556 F.2d at 1292 .
+It is apparent that appellate courts, lacking the fact-finding mechanisms available to district courts, are ill-suited to conduct meaningful review of administrative actions resting on records as sparse as the one here.
+Judge Clark has previously articulated the adverse effects flowing from the legislative mandate that judicial review proceedings of highly technical, factually complex administrative actions be initially injected into the court system at the appellate level.
+See Texas v. EPA , 499 F.2d 289, 321 (5th Cir. 1974) (Clark, J., concurring), cert. denied , 427 U.S. 905 , 96 S.Ct. 3191 , 49 L.Ed.2d 1199 (1976).
+499 F.2d at 321-322 .
+The discovery apparatus of district courts permits the fact and record development prior to court confrontation.
+At this level, only after hearing, which may be long delayed because of other calendar commitments, can it be known whether the record is sufficient for review purposes.
+An insufficient record may necessitate a remand for fact-finding and record completion and a second court appearance, often before other judges, long delayed.
+Whatever addition to the jurisdiction of the courts of appeals Congress may have contemplated by adding the "any other final action" language to 307(b)(1), we assume that section was drafted with the mechanical limitations of the courts of appeals in mind.
+In light of the difficulty of review in this Court of the agency action challenged by PPG, we will not hold that review was intended to be here in absence of explicit congressional direction.
+The petition for review is therefore dismissed.
+PETITION DISMISSED.

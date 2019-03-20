@@ -1,0 +1,241 @@
+ OPINION OF THE COURT STAPLETON , Circuit Judge: This case involves thousands of individual plaintiffs-appellants who claim that they suffered injuries resulting from the implantation of orthopedic bone screws into the pedicles of their spines.
+Over 2,000 individual actions were consolidated for pre-trial proceedings pursuant to the multi-district litigation statute, 28 U.S.C. 1407 .
+This appeal involves plaintiffs' allegations that one defendant, Buckman Company, Inc. ("Buckman"), made misrepresentations to the Food and Drug Administration ("FDA") serious enough to play a substantial role in the events which resulted in their injuries.
+The district court granted Buckman's motion to dismiss this state-law "fraud on the FDA" claim, determining that: (1) the claim was "precluded by virtue of the fact that the MDA[i.e., the Medical Device Amendments of 1976, 21 U.S.C. 360c-360k , to the Federal Food, Drug, and Cosmetic Act of 1938 ("FDCA"), 21 U.S.C. 301 et seq. ]
+does not provide for a private right of action," App. at 157; and (2) plaintiffs could not, as a matter of law, demonstrate proximate causation between the misrepresentations to the FDA and any injuries suffered.
+App. at 158-59.
+We will reverse.
+I. A. The orthopedic bone screw devices that are the subject of this suit are regulated by the FDA pursuant to the MDA.
+Congress enacted the MDA to address concerns regarding the safety and effectiveness of the wide variety of medical devices introduced into the market.
+See Medtronic, Inc. v. Lohr , 518 U.S. 470, 476 , 116 S.Ct. 2240 , 135 L.Ed.2d 700 (1996).
+The MDA requires classification of medical devices into three categories based upon the risk that they pose to the public.
+Class I devices present no unreasonable risk of illness or injury and are subject only to general manufacturing controls.
+See 21 U.S.C. 360c(a)(1)(A) .
+Class II devices are potentially more harmful and are subject to federal performance regulations.
+See id .
+360c(a)(1) (B).
+Finally, Class III devices "present[ ] a potential unreasonable risk of illness or injury" and are subject to the strictest regulation.
+Id .
+360c(a)(1) (C).
+Class III devices may not be introduced into the market until the manufacturer provides the FDA with "reasonable assurance" that the device is both safe and effective.
+See id .
+360e(d)(2) .
+This "premarket approval" process requires a manufacturer to submit, and the FDA to review, "all information, published or known or which should reasonably be known concerning investigations which have been made to show whether or not such device is safe and effective."
+Id .
+360e(c)(1) (A).
+In addition, the manufacturer must provide the FDA with a full statement of design and manufacturing plans, as well as any additional information requested by the agency.
+See id .
+360e(c)(1) .
+Securing premarket approval is an arduous and time-consuming process; each submission requires an average of 1,200 hours of FDA review.
+See Lohr , 518 U.S. at 477 , 116 S.Ct. 2240 .
+There are three important exceptions to the requirement that Class III medical devices receive premarket approval before being placed on the market.
+First, a manufacturer can obtain an Investigational Device Exemption ("IDE"), which allows limited use of an experimental medical device to gather the type of data necessary to support a premarket approval application.
+See 21 U.S.C. 360j(g) .
+Though an IDE allows use of a Class III device in clinical trials, it does not permit introduction to the general public.
+Second, the MDA allows Class III devices that were in commerce prior to its enactment to remain on the market until the FDA initiates and completes a premarket approval analysis for those "predicate" devices.
+See id .
+360e(b)(1) (A).
+This "grandfathering" provision reflects Congress' recognition "that existing medical devices could not be withdrawn from the market while the FDA completed its PMA analysis for those devices."
+Lohr , 518 U.S. at 477-78 , 116 S.Ct. 2240 .
+Third, to prevent manufacturers of grandfathered devices from monopolizing the market while new devices wait for FDA approval, and to ensure that improvements to existing devices are introduced quickly, the MDA allows devices that are "substantially equivalent" to an existing predicate device to avoid the premarket approval process.
+See Lohr , 518 U.S. at 478 , 116 S.Ct. 2240 ; 21 U.S.C. 360e(b)(1)(B) .
+The procedure a manufacturer follows to take advantage of this exception is known colloquially as the " 510(k) process," after the number of the relevant section in the original Act.
+A 510(k) application must contain information supporting the device's substantial equivalence to a predicate device, proposed labeling for the device, and any additional information requested by the FDA.
+See 21 C.F.R. 807.87 .
+For a device to be approved under the 510(k) process, the FDA must determine that the new device has the same intended use as the predicate device and that it possesses the same technological characteristics or is as safe and effective as the predicate device.
+See 21 U.S.C. 360c(i)(1)(A) .
+1 The advantage of the 510(k) process is significant to manufacturers: review of a 510(k) application by the FDA requires an average of only twenty hours of agency time, compared to the 1,200 hours required for full premarket approval.
+See Lohr , 518 U.S. at 478-79 , 116 S.Ct. 2240 .
+B. Buckman is a regulatory consultant to medical device manufacturers, and was retained by the AcroMed Corporation to act as its liaison to the FDA in its attempt to secure marketing clearance for its product.
+AcroMed initiated the 510(k) process to secure marketing clearance for its orthopedic bone screw device, known as the Variable Screw Placement ("VSP") Spinal Plate Fixation System, in September 1984.
+2 In this application, AcroMed indicated that it intended to market the device for use in spinal surgery.
+The FDA rejected the request, determining that the VSP device was a Class III device and was not substantially equivalent to any predicate device.
+In September 1985, AcroMed, through Buckman, filed a second application for marketing clearance through the 510(k) process.
+The application provided additional information about the VSP device and again indicated its intended use in spinal surgery.
+The FDA again rejected the application, determining that the device was not substantially equivalent to a predicate device and that it posed potential risks not exhibited by other spinal-fixation systems.
+In December 1985, AcroMed and Buckman filed two final 510(k) applications seeking market approval for its product.
+AcroMed and Buckman split the VSP device into its component parts, renamed them "nested bone plates" and "cancerous bone screws" and filed a separate 510(k) application for each component.
+In both applications, a new intended use was specified: rather than seeking clearance for spinal applications, they sought clearance to market the plates and screws for use in the long bones of the arms and legs.
+AcroMed and Buckman claimed that the two components were substantially equivalent to predicate devices used in long bone surgery.
+The FDA approved the devices for this purpose in February 1986.
+The subject of this appeal is plaintiffs' fraud on the FDA claim against Buckman.
+Plaintiffs allege that AcroMed, through Buckman, made material misrepresentations in its successful 510(k) submission to the FDA.
+Specifically, plaintiffs allege that AcroMed, through Buckman, "sought approval of its VSP plates and screws for use in long bones simply as a pretext in order to market the device for its true intended use in the spine."
+App. at 58.
+According to the plaintiffs, Buckman, AcroMed and other defendants contrived a strategy in which they would (1) misrepresent the intended use of the screw system to the FDA, (2) obtain the FDA's approval to market the system for that misrepresented use, and (3) subsequently market the system for a use, spinal surgery, for which they could not obtain the FDA's approval.
+Plaintiffs contend that, as a result of the misrepresentations to the FDA, a 510(k) clearance was issued, allowing the devices access to the market they would not otherwise have had.
+C. In 1994, the Judicial Panel on Multidistrict Litigation designated the district court as the transferee court for In re: Orthopedic Bone Screw Liability Litigation , MDL No. 1014.
+Since that time, some 2,300 civil actions have been transferred to the district court.
+In March 1995 the district court granted a motion brought by AcroMed and other defendants to dismiss plaintiffs' fraud on the FDA claims, determining that those claims (1) were preempted by the MDA, and (2) impermissibly implied a private right of action for violation of the FDCA.
+See App. at 28 (Pretrial Order No. 12).
+Relying on our decision in Michael v. Shiley, Inc. , 46 F.3d 1316 (3d Cir.1995), the district court's order purported to "dismiss[ ] all fraud on the FDA claims contained in any pleading" in the consolidated litigation.
+App. at 37.
+Subsequently, in June 1996, the Supreme Court decided Medtronic, Inc. v. Lohr , 518 U.S. 470 , 116 S.Ct. 2240 , 135 L.Ed.2d 700 (1996), in which the Court addressed the scope of MDA preemption for the first time.
+As a result of that decision, plaintiffs filed amended complaints which re-asserted fraud on the FDA claims against Buckman and other defendants.
+AcroMed and other defendants filed a motion to reaffirm Pretrial Order No. 12 in light of Lohr .
+Buckman joined this motion, but also simultaneously filed its own motion to dismiss the fraud on the FDA claims against it.
+The district court granted AcroMed's motion and reaffirmed Pretrial Order No. 12, though on modified grounds.
+The district court recognized that Lohr likely invalidated one of the two grounds for its prior decision.
+Nevertheless, it concluded that Lohr did not completely undermine Pretrial Order No. 12 because Lohr "did not address claims of fraud on the FDA with respect to the absence of a private right of action for violations of the FDCA."
+App. at 157.
+The district court determined that allowing a fraud on the FDA claim would essentially create a private right of action for violation of the FDCA and that, "in view of the FDA's exclusive prosecutorial discretion any grant of an implied private right of action would be contrary to the letter and spirit of the statute."
+App. at 153.
+In addition, the district court determined that dismissal of plaintiffs' fraud on the FDA claims was warranted because "the alleged fraud cannot be said to have been a proximate cause of plaintiffs' alleged injuries."
+App. at 158.
+The court reasoned that since any misrepresentations were directed only to the FDA and any injuries were caused only by unrelated physicians, the connection between the alleged fraud and plaintiffs' injuries "is so tenuous, if existent at all, that the former cannot be said to be a 'substantial factor' in causing the latter."
+App. at 159 (citations omitted).
+After granting AcroMed's motion to dismiss the fraud on the FDA claims, the district court subsequently granted Buckman's identical motion to dismiss "for the reasons stated in Pretrial Order No.
+845."
+App. at 162 (Pretrial Order No. 900).
+Thereafter, the district court certified Pretrial Order No. 900 as a final order pursuant to Fed.R.Civ.P. 54(b) .
+See App. at 163 (Pretrial Order No. 1067).
+3 We have jurisdiction over the final order of the district court pursuant to 28 U.S.C. 1291 .
+We exercise plenary review over a dismissal for failure to state a claim, and we accept all factual allegations of the plaintiffs as true and draw all reasonable inferences therefrom in their favor.
+See Trump Hotels & Casino Resorts, Inc. v. Mirage Resorts Inc. , 140 F.3d 478, 483 (3d Cir.1998).
+II.
+Count I of the complaint tendered to us as representative is entitled "Fraud (on the FDA)."
+App. at 55.
+It alleges that: (1) "[i]n response to the FDA's inquiry concerning the intended use of the bone plates and bone screws, Buckman, acting as representative of AcroMed intentionally and falsely represented to the FDA that [they were] 'intended for use in appropriate fractures of long bones of both the upper and lower extremity and such other flat bones,'" App. at 58; (2) "Buckman intended for the FDA to clear the VSP device components based upon this misrepresentation," id .
+; (3) "[i]n reliance on this express misrepresentation, the FDA determined that AcroMed's nested bone plates and cancellous bone screws were substantially equivalent to devices marketed prior to May 28, 1976 for the intended use represented by AcroMed" and issued a 510(k) clearance, id .
+; (4) "the VSP device was intended exclusively for use in the spine," id .
+; (5) "the only purpose for which AcroMed's plates and screws were sold was for use in the spine," id .
+; (6) "[t]he FDA was ignorant of the fact that these devices and device components were intended by AcroMed to be used as pedicle screw fixation devices," id. at 63 ; (7) "[w]ere it not for these fraudulent acts and statements, the FDA would not have issued 510(k) clearances for AcroMed's pedicle screw fixation devices for any purpose, the devices would not have been introduced into interstate commerce, and Plaintiff would not have been exposed to the dangerous device which was surgically implanted in the Plaintiff's spine," id .
+; and (8) "[a]s a direct and proximate result of the wrongful conduct alleged in Count I of this Complaint, Plaintiff has suffered, and will continue to suffer, severe physical harm, including injury to Plaintiff's spine," id. at 63-64 .
+Count I is thus drafted to track the elements of a common law cause of action for fraudulent misrepresentation: (1) a representation of fact, opinion, intention or law; (2) knowledge of its falsity; (3) an intent to induce reliance; (4) justifiable reliance; and (5) resulting injury.
+See Restatement (Second) of Torts 525 et seq.
+At the time of the decision here appealed, the bone screw cases were still at the pleading stage.
+While it is clear that the plaintiffs' "fraud on the FDA" claims are based on state rather than federal law, neither the parties nor the district court have yet addressed the potential choice of law issues and those issues are not before us.
+We note at the outset, however, that the controlling state law of fraudulent representation in some cases may be different from that in other cases.
+This is important to our analysis because the district court's dismissal of all "fraud on the FDA" claims was appropriate only if federal law forecloses resort to state law or if the allegations comprising those claims do not state a claim on which relief can be granted under any of the potentially applicable state laws.
+We first address the issue of whether federal law forecloses resort to state law and then turn to the issue of whether the allegations of the complaints may state a claim under any of the potentially applicable state laws.
+III.
+A. The MDA contains the following preemption provision: 21 U.S.C. 360k .
+4 The FDA regulations interpreting 360k of the MDA provide in part as follows: 21 C.F.R. 808.1(d) .
+In Medtronic, Inc. v. Lohr , 518 U.S. 470 , 116 S.Ct. 2240 , 135 L.Ed.2d 700 (1996), the Supreme Court applied these statutory and regulatory provisions in the context of a suit against the manufacturer of a pacemaker that had been cleared as a Class III device under 510(k) .
+Lohr, the plaintiff there, asserted common law negligence and strict liability claims based on the design of the pacemaker as well as state law claims based on defective manufacture and mislabeling.
+The Court held that these claims were not preempted.
+The Court gave the preemption provision of the statute a narrow reading.
+It stressed that preemption occurs under 360k only when (1) there is a state "requirement" "with respect to a device;" (2) there is a federal "requirement" "applicable to the device" under the MDA; (3) the state requirement is "different from, or in addition to" the federal requirement; and (4) the state requirement relates to the safety or effectiveness of the device or some matter included in the federal requirement.
+See 518 U.S. at 500 , 116 S.Ct. 2240 .
+The Court found that issuance of a 510(k) clearance "did not 'require' Medtronic's pacemaker to take any particular form for any particular reason; the agency simply allowed the pacemaker, as a device substantially equivalent to one that existed before 1976, to be marketed without running the gauntlet of the MDA process."
+518 U.S. at 483-84 , 116 S.Ct. 2240 .
+The 510(k) process thus established no federal requirement "applicable to a device" within the meaning of the MDA.
+"Similarly, the general state common law requirements [relied upon by Lohr] were not specifically developed 'with respect to' medical devices.
+Accordingly, they [were] not the kinds of requirements that Congress and the FDA feared would impede the ability of federal regulators to implement and enforce specific federal requirements."
+Id. at 501 , 116 S.Ct. 2240 .
+The general obligations imposed by the state common law relied upon by Lohr were "no more a threat to federal requirements than would be a state-law duty to comply with local fire prevention regulations and zoning codes, or to use due care in the training and supervision of a workforce.
+These state requirements therefore escape pre-emption, not because the source of the duty is a judge-made common-law rule, but rather because their generality leaves them outside the category of requirements that 360k envisioned to be 'with respect to' specific devices such as pacemakers."
+Id. at 501-02 , 116 S.Ct. 2240 .
+The Court also held that "[n]othing in 360k denies [a state] the right to provide a traditional damages remedy for violations of common-law duties when those duties parallel federal requirements The presence of a damages remedy does not amount to the additional or different 'requirement' that is necessary under the statute; rather, it merely provides another reason for manufacturers to comply with identical existing 'requirements' under federal law."
+Id. at 495 , 116 S.Ct. 2240 .
+B. Based on Lohr , it is apparent that, within the meaning of 360k , there is no federal "requirement" "applicable to the device" at issue here; nor is there a state "requirement" "with respect to" that device.
+Moreover, the state common law relied upon does not impose any obligation on Buckman inconsistent with federal law.
+As plaintiffs stress, 18 U.S.C. 1001 makes it a crime to make a fraudulent statement to a federal agency and 21 C.F.R. 807.87(j) requires every pre-market notification to contain a statement that the information contained therein is believed to be truthful.
+C. Neither the district court nor Buckman takes issue with any of these conclusions concerning the effect of Lohr on the "fraud on the FDA" claims in this suit.
+The district court expressly acknowledged that Lohr was inconsistent with one of the two grounds it originally articulated for dismissing these claims.
+It nevertheless concluded that Lohr was consistent with dismissal because its alternative ground remained unaffected by Lohr .
+As the district court put it, "[w]hile Lohr may have affected the portion of [the court's prior decision] that relied on the doctrine of preemption, the portion of the court's reasoning based on the absence of an implied right of action [under the FDCA] remains in tact."
+App. at 152-53.
+We disagree.
+It is, indeed, well established that Congress has not created an express or implied private cause of action for violations of the FDCA or the MDA.
+It is also true, as the district court pointed out, that this court, in Michael v. Shiley, Inc. , 46 F.3d 1316, 1329 (3d Cir.1995), found this fact significant in the course of holding that a common law fraud claim against the manufacturer of a heart valve was preempted by the FDCA.
+We there concluded: 360k King [ v. Collagen Corp. 983 F.2d 1130 ,] 1140 Gile v. Optical Radiation Corp. 22 F.3d 540, 544 cert. denied 513 U.S. 965 115 S.Ct. 429 130 L.Ed.2d 342 Michael , 46 F.3d at 1329 .
+As we have noted, the district court recognized that the first reason we gave for our holding in Michael is untenable after Lohr .
+Nevertheless, it believed that it remained bound by our alternative rationale.
+It is important to note at the outset that, contrary to the district court's suggestion, our alternative rationale in Michael , like our primary one, was necessarily based on the doctrine of preemption.
+Absent preemption by federal law (or a ground for stay or abstention, doctrines not pertinent here), a district court having jurisdiction of the parties and the subject matter cannot decline to enforce liability imposed by the relevant state common law.
+See, e.g. , Polselli v. Nationwide Mutual Fire Insurance Co. , 126 F.3d 524, 527 n. 1 (3d Cir.1997) ("A federal court exercising diversity jurisdiction must apply the substantive law of the state whose laws govern the action.").
+Cf. Erie R. Co. v. Tompkins , 304 U.S. 64, 78 , 58 S.Ct. 817 , 82 L.Ed. 1188 (1938) ("Except in matters governed by the Federal Constitution or by Acts of Congress, the law to be applied in any case is the law of the State.").
+This is important to understand because "'[t]he purpose of Congress is the ultimate touchstone' in every pre-emption case." Lohr , 518 U.S. at 485 , 116 S.Ct. 2240 (quoting Retail Clerks v. Schermerhorn , 375 U.S. 96, 103 , 84 S.Ct. 219 , 11 L.Ed.2d 179 (1963)).
+Unless Congress intends preemption, there is none.
+Accordingly, where Congress has expressed itself on preemption in a statute, "Congress' intent, of course, primarily is discerned from the language of the pre-emption statute and the 'statutory framework' surrounding it."
+Id. at 486 , 116 S.Ct. 2240 (quoting Gade v. National Solid Wastes Management Assn.
+, 505 U.S. 88, 111 , 112 S.Ct. 2374 , 120 L.Ed.2d 73 (1992) (Kennedy, J., concurring)).
+In Michael , we inferred from the fact that Congress created no private right of action for violations of the FDCA that it intended to foreclose suits based on state common law that would provide a remedy for conduct violative of that act.
+Ironically, a plurality of the Supreme Court in Lohr drew a diametrically opposed inference from the same fact.
+It viewed Congress' failure to provide a federal remedy as persuasive evidence of an intent not to preempt common law liability for the same conduct: 360k 90 Stat. 539 Silkwood v. Kerr-McGee Corp. 464 U.S. 238, 251 104 S.Ct. 615 78 L.Ed.2d 443 360k Lohr , 518 U.S. at 487 , 116 S.Ct. 2240 (footnote omitted) (plurality).
+More fundamentally, however, Lohr teaches that where Congress has expressed its intention with respect to preemption, we should look primarily to what it said.
+When it looked to what Congress said in 360k , the Supreme Court in Lohr concluded that Congress did not intend to prevent a state from providing "a traditional damages remedy for violations of common-law duties when those duties parallel federal requirements."
+Lohr , 518 U.S. at 495 , 116 S.Ct. 2240 .
+Refusing to entertain Buckman's fraudulent misrepresentation claim solely because the statutory scheme does not contain a private cause of action would be the equivalent of finding preemption of state law claims contrary to the clear holding of Lohr .
+In short, Lohr overrules everything in Michael that would prevent a plaintiff from pursuing a cause of action for fraudulent misrepresentation based on common law principles.
+5 D. Buckman advances a number of preemption arguments in addition to the one adopted by the district court.
+In each instance, we conclude that Lohr counsels rejection.
+Buckman argues that Lohr is distinguishable (1) because it "did not involve claims turning on FDA procedures , but rather claims that the product itself was defective," Buckman Br. at 12, and (2) because the target of the alleged fraud here is "a creature of statute" which has the sole responsibility for enforcing the FDCA and the regulation promulgated thereunder.
+Buckman Br. at 10.
+6 Once again, we look first to Congress' express message concerning preemption- 360k .
+In the context of the text of that section as construed in Lohr , Buckman's suggested distinctions are simply unpersuasive.
+Indeed, given that there must be state and federal requirements with respect to a device , it is harder to argue preemption under 360k based on FDA procedures than based on FDA substantive requirements for a regulated device.
+We do not rule out the possibility that there may be some areas of preemption outside the scope of 360k based on clear and direct conflicts between the requirements of state law and those of the FDCA.
+The existence of 360k , its relatively narrow scope, and Lohr 's presumption against preemption of areas traditionally occupied by state law, however, counsel caution in finding implied preemption where no express preemption exists.
+Here, appellees' argument boils down to a contention that the litigation of suits of this kind is fundamentally inconsistent with the regulatory process established by the FDCA.
+We see no inconsistency between the FDA having the exclusive prerogative of bringing actions to enforce the FDCA and preserving the right of people in the plaintiffs' position to bring common law fraudulent misrepresentation claims.
+Moreover, we do not share appellees' apparent perception that litigation of such claims holds the potential for courts and juries second-guessing the FDA.
+Indeed, there is ample precedent, in related contexts, to support a claim premised on misrepresentations made to a federal agency.
+See, e.g. , Learjet Corp. v. Spenlinhauer , 901 F.2d 198, 202-03 (1st Cir.1990) (allowing aircraft purchaser's claim against manufacturer based on misrepresentation to Federal Aviation Administration); Stanton by Brooks v. Astra Pharmaceutical Products , 718 F.2d 553, 568-69 (3d Cir.1983) (allowing patient's claims against drug manufacturer based on misleading the FDA); Hawkins v. Upjohn Co. , 890 F.Supp.
+609, 612 (E.D.Tex.1994) (same).
+IV.
+Buckman also asks us to affirm on the alternative ground that the complaints do not state a claim for fraudulent misrepresentation.
+Three reasons for such a conclusion are urged.
+First, it is said that the complaints do not, and cannot, allege causation.
+Second, it is argued that, in the context of a 510(k) application, a statement of the intended purpose of the applicant, as a matter of law, is not a representation of fact, opinion, or intention.
+Finally, it is argued that the complaints do not, and cannot, allege reliance by the plaintiffs on the alleged misrepresentation by the FDA.
+A. The district court determined that plaintiffs' fraud on the FDA claims should be dismissed because "the alleged fraud cannot be said to have been a proximate cause of plaintiffs' alleged injuries."
+App. at 158.
+In the court's view, "[l]egal causation largely fails because the object of plaintiffs' fraud-on-the-FDA claim is the FDA and not the doctors who performed surgeries on the plaintiffs or the plaintiffs themselves The causal connection between the alleged fraud committed on the FDA and plaintiffs' alleged injuries is so tenuous, if existent at all, that the former cannot be said to be a 'substantial factor' in causing the latter."
+App. at 158-59.
+While we are not in a position to canvass all the potentially applicable law, what we know about tort law generally makes us unwilling to say that all of the plaintiffs' claims will fail for want of the kind of a causation that will give rise to liability.
+First, the mere fact that the alleged fraudulent misrepresentation was made to the FDA and not the plaintiffs does not necessarily preclude a finding of legally sufficient causation.
+Section 310 of the Restatement (Second) of Torts states, for example: Another example is provided by our decision in Stanton by Brooks v. Astra Pharmaceutical Products , 718 F.2d 553 (3d Cir.1983).
+The plaintiff there, who had suffered brain damage as the result of an adverse reaction to the local anesthetic, Xylocaine, recovered a substantial judgment against the manufacturer of the drug.
+The plaintiff alleged that the defendant had misled the FDA by withholding information it was required to report concerning adverse effects previously suffered by others.
+We sustained the judgment against an attack that there was no legally sufficient causal connection between the defendant's misleading conduct and the plaintiff's injury.
+We concluded: 718 F.2d at 569 (footnote omitted).
+We have earlier reviewed the specific allegations of the representative complaint in this matter regarding causation.
+Plaintiffs' theory is that, without Buckman's fraudulent representation, the FDA would not have given AcroMed a 510(k) clearance and that, absent a 510(k) clearance, AcroMed would not have access to the market to promote its devices for use in spinal surgery and plaintiffs would not have suffered injury.
+Given the terminology chosen, it appears to us that the district court viewed the causation standard for unintentional torts as the applicable one and regarded the yielding of plaintiffs' physicians to AcroMed's promotion as an intervening cause.
+It may be that plaintiffs' theory would be so viewed under the law of some jurisdictions.
+It is not clear to us, however, that it would be so viewed under all of the potentially applicable law.
+Buckman's representation to the FDA regarding intended use is alleged to have been intentional.
+Moreover, while it is not alleged that harm to plaintiffs was intended, plaintiffs do claim to be able to show that Buckman's representation was a necessary element of a conspiracy to get doctors to do exactly what plaintiffs' physicians did.
+See, e.g. , Restatement (Second) of Torts 435 B ("Unintended Consequences of Intentional Invasions") and 442 B ("Intervening Force Causing Same Harm as That Risked by Actor's Conduct").
+We do not hold that plaintiffs have or have not alleged a legally sufficient causal nexus.
+That issue can be resolved only after the controlling law has been identified in each case.
+We do hold that the district court erred in determining at this stage that all of the plaintiffs have failed to allege a legally sufficient causal nexus.
+B. Buckman insists that a statement of intended use in connection with a 510(k) application is not a representation of a fact or intent but, rather, a request for authority.
+In its view, the sole interest of the FDA in the applicant's intended use is to enable it to limit the authority granted to that which is sought and considered by the agency.
+In a related argument, Buckman contends that FDA reliance on the alleged misrepresentation is "negated in this case by the nature of the clearances that were given to AcroMed," Buckman Br. at 23, i.e., they were limited to long bone use only.
+We, of course, acknowledge that a statement of intended use in connection with a 510(k) application has utility in communicating the authority sought and in permitting the FDA to appropriately limit any authority granted.
+At the same time, we believe that such a statement is a representation of fact that is necessarily important to the FDA as such.
+The use to which a device will be put is of critical importance in the regulatory scheme.
+A device that presents no risk of injury when employed for one purpose may present great risk of injury when employed for another.
+For this reason a 510(k) clearance will be issued only if a device is a substantial equivalent of a preexisting device used for the same purpose.
+Moreover, a device cleared under 510(k) cannot lawfully be marketed for a use other than the use specified in the clearance.
+Thus, if such a device is marketed for another purpose, the manufacturer may be civilly and criminally sanctioned and the marketing enjoined.
+See 21 U.S.C. 331 , 332.
+According to Buckman, the FDA requires no representation from a 510(k) applicant regarding its marketing intentions and reads its representation with respect to "intended use" as no more than a description of the authority sought.
+Implicit in this view is the assertion that the marketing plans of a manufacturer seeking access to the market are of no interest to the FDA.
+If this be taken as an assertion of fact by Buckman, it is inappropriate at this stage because it conflicts with the allegations of the complaint.
+Plaintiff Donald G. Patterson, for example, alleges that "Were it not for [the misrepresentations that the applicant's intended use was in repairing fractures of the long bones], the FDA would not have issued 510(k) clearances for any purpose, the devices would not have been introduced into interstate commerce, and Plaintiff would not have been exposed to the dangerous device which was surgically implanted in the Plaintiff's spine."
+App. at 63.
+To the extent Buckman's argument is an assertion of law, we find no basis for it in the statute, in the regulations, or in any of the authorities cited in the briefing.
+To the contrary, such an assumption is fundamentally at odds with the statutory scheme.
+Under that scheme, the FDA is a gatekeeper charged with the responsibility of protecting the public from unreasonable risks of injury from medical devices.
+A manufacturer of a new device has no access to the market for any purpose absent some kind of FDA approval.
+Because the degree of risk presented by any device is a function of the use to which it is put, the intended use is thus a central focus in the FDA review.
+Indeed, there is nothing more material to its determination of whether to grant access to the market.
+It is undoubtedly true, as Buckman insists, that a manufacturer unable lawfully to secure a 510(k) clearance for one purpose may legally be entitled to a 510(k) clearance for the same device when put to a different purpose.
+The allegation here, however, is that AcroMed had no lawful access to the market for any purpose and that it secured such access only by representing that it intended to market its device for one use when, in fact, it intended at the time of the application to market that device solely for another, more hazardous use.
+7 If a manufacturer in AcroMed's position is successful in its scheme, we know that, when its marketing campaign is detected postissuance, the FDA is entitled to an injunction stopping that campaign.
+Under Buckman's view of the law, however, if the FDA is astute enough to uncover the scheme during its review, it is powerless to deny access to the market in the first place.
+We decline to accept a proposition so fundamentally at odds with the agency's gatekeeping assignment.
+C. Finally, Buckman argues that on the facts alleged there was no reliance by the plaintiffs on Buckman's statement to the FDA concerning intended use.
+This is true.
+This does not, however, negate the possible existence of a claim upon which relief can be granted.
+As we have earlier noted, 310 of the Restatement (Second) of Torts suggests that when someone makes a fraudulent misrepresentation for the purpose of inducing action by A which, if taken by A, will involve an unreasonable risk of injury to B, B may recover for resulting physical injury even though he was unaware of the fraudulent misrepresentation.
+It is possible that the controlling law in one or more of these cases takes a similar approach.
+V. Our holding is a narrow one.
+We do not hold that any of the plaintiffs have stated a claim under state law upon which relief could be granted.
+8 Neither we nor the district court is in a position to do that before identifying, with the help of the parties, the governing law or laws.
+Rather, we hold that (1) the plaintiffs' "fraud on the FDA" theory of liability is not so at odds with traditional principles of tort law that Buckman is entitled to a dismissal of all claims against it at this stage; and (2) if the state law of fraudulent misrepresentation applicable in one or more of these cases would impose liability on Buckman in the circumstances alleged, that law would not be preempted by the MDA.
+The judgment of the district court will be reversed, and the case will be remanded for further proceedings consistent with this opinion.

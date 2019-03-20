@@ -1,0 +1,399 @@
+ KATZMANN, Circuit Judge.
+This case calls upon us to determine, inter alia, the scope of the preemption provision set forth in Section 360k(a) of the 1976 Medical Device Amendments to the Food, Drug, and Cosmetic Act, 21 U.S.C. 301 et.
+seq.
+Specifically, we must decide whether Section 360k(a) preempts common law tort claims regarding medical devices that have entered the market pursuant to the Food and Drug Administration's ("FDA") rigorous premarket approval ("PMA") process.
+The Supreme Court left open this question in Medtronic v. Lohr, 518 U.S. 470 , 116 S.Ct. 2240 , 135 L.Ed.2d 700 (1996), which held that tort claims as to medical devices that have entered the market pursuant to the far less intensive premarket notification process (often referred to as the "Section 510(k) process") are not preempted by Section 360(k)(a) .
+Since Lohr, the majority of circuits addressing this question have held that claims regarding PMA-approved medical devices are, by contrast, preempted.
+See Horn v. Thoratec Corp., 376 F.3d 163 (3d Cir. 2004); Martin v. Medtronic, Inc., 254 F.3d 573 (5th Cir. 2001); Brooks v. Howmedica, Inc., 273 F.3d 785 (8th Cir. 2001); Kemp v. Medtronic, Inc., 231 F.3d 216 (6th Cir. 2000); Mitchell v. Collagen Corp., 126 F.3d 902 (7th Cir. 1997); but see Goodlin v. Medtronic, Inc., 167 F.3d 1367 (11th Cir. 1999).
+We now join this growing consensus and hold that tort claims that allege liability as to a PMA-approved medical device, notwithstanding that device's adherence to the standards upon which it obtained premarket approval from the FDA, are preempted by Section 360(k)(a) .
+We therefore affirm the district court's (Kahn, J. ) summary judgment dismissal of the plaintiffs-appellants' strict liability, breach of implied warranty, and negligent design, testing, inspection, distribution, labeling, marketing, and sale claims as to the Evergreen Balloon Catheter, a PMA-approved medical device.
+With regard to the plaintiffs' remaining claim for negligent manufacturing which premised liability on the theory that the particular Evergreen Balloon Catheter deployed during plaintiff-appellant Charles Riegel's angioplasty had not been manufactured in accordance with the PMA-approved standards we agree with the district court that this claim was not preempted, but that no genuine issue of material fact existed, and thus affirm the district court's summary judgment dismissal of that claim as well.
+We note that our preemption analysis is quite limited in scope, affecting the small universe of cases resting on claims alleging liability despite a PMA-approved device's adherence to the standards upon which it secured FDA premarket approval.
+We take care to explain that we do not hold that all state tort claims as to PMA-approved devices are preempted.
+Thus, tort claims that are based on a manufacturer's departure from the standards set forth in the device's approved PMA application such as the Riegels' negligent manufacturing claim are not preempted.
+I. A. The Evergreen Balloon Catheter is a prescription medical device that defendant-appellee Medtronic, Inc. developed for patients with coronary disease.
+Physicians use it during angioplasties to open patients' clogged arteries, essentially by inserting the catheter into the clogged vessel, inflating the catheter like a balloon, and then deflating and removing the catheter.
+The Evergreen Balloon Catheter entered the market pursuant to the PMA process in the mid-1990s.
+Specifically, on August 30, 1994, the FDA approved Medtronic's PMA application for the Evergreen Balloon Catheter, and on April 27, 1995 and April 18, 1996, the FDA approved Medtronic's PMA supplements, which requested approval for revised labeling for the device.
+We discuss the PMA process in greater depth infra Part III.A.
+On May 10, 1996, plaintiff-appellant Charles Riegel underwent a percutaneous transluminal coronary angioplasty, during which his surgeon used an Evergreen Balloon Catheter.
+The procedure was intended to dilate Riegel's right coronary artery, which had been found to be "diffusely diseased" and "heavily calcified."
+The device label for the Evergreen Balloon Catheter specifies that its use is contraindicated for patients who have "diffuse or calcified stenoses."
+During the procedure, Riegel's physician, Dr. Eric Roccario, first attempted to remove the calcium deposits in Riegel's artery with a rotoblator device, and then unsuccessfully inserted several different balloon catheters.
+Dr. Roccario ultimately inserted the Evergreen Balloon Catheter into Riegel's artery and inflated the device several times, up to a pressure of ten atmospheres.
+The device label for the Evergreen Balloon Catheter specifies that it should not be inflated beyond the "rated burst pressure" of eight atmospheres.
+On the final inflation, the Evergreen Balloon Catheter burst, and Riegel began to rapidly deteriorate.
+He developed a complete heart block, lost consciousness, was intubated and placed on advanced life support, and was rushed to the operating room for emergency coronary bypass surgery.
+Riegel survived, but according to his Complaint, he suffered "severe and permanent personal injuries and disabilities."
+B. Riegel and his wife, Donna, subsequently filed suit against Medtronic in the Northern District of New York, alleging five state common law causes of action: (1) negligence in the design, testing, inspection, manufacture, distribution, labeling, marketing, and sale of the Evergreen Balloon Catheter; (2) strict liability; (3) breach of express warranty; (4) breach of implied warranty; and (5) loss of consortium.
+[fn1] In its amended answer, Medtronic raised the affirmative defense of federal preemption by Section 360k(a) of the 1976 Medical Device Amendments, 21 U.S.C. 360 (c)-(k), to the Food, Drug, and Cosmetic Act, 21 U.S.C. 301 et.
+seq, and subsequently moved for summary judgment on its preemption defense.
+In a March 14, 2002 opinion, the district court (Kahn, J. ) ruled that the Riegels' strict liability claim, breach of implied warranty claim, and all of their negligence claims except for the negligent manufacturing claim were preempted by Section 360k(a), and therefore dismissed all of these claims.
+The court let stand the Riegels' breach of express warranty claim.
+Thus, discovery continued on the two remaining substantive claims: the negligent manufacturing claim and the breach of express warranty claim.
+[fn2] Medtronic later moved for summary judgment on these two remaining claims, and on December 2, 2003, the district court granted that motion.
+The court dismissed the breach of express warranty claim because the Evergreen Balloon Catheter's instructions had clearly disclaimed any express warranty.
+It dismissed the negligent manufacturing claim on grounds that there was insufficient evidence upon which a reasonable fact-finder could conclude that the Evergreen Balloon Catheter had burst because of negligent manufacture, rather than because it had encountered a calcium spicule in Riegel's artery, had been inflated beyond the specified eight atmosphere limit, or some combination thereof.
+The Riegels proceeded to file the instant appeal, in which they challenge both the March 14, 2002 and December 2, 2003 summary judgment rulings of the district court.
+With regard to the March 14, 2002 ruling, they argue that none of their claims was preempted.
+With regard to the December 2, 2003 ruling, they argue that there were genuine issues of material fact as to their negligent manufacturing claim.
+[fn3] II.
+Initially, we note the applicable standard of review.
+An order granting summary judgment will be affirmed only when no genuine issue of material fact exists and the movant is entitled to judgment as a matter of law.
+See Fed.R.Civ.P. 56 (c); Island Software & Computer Serv. v. Microsoft Corp., 413 F.3d 257 , 260 (2d Cir. 2005).
+With regard to the March 14, 2002 dismissal of many of the Riegels' claims on preemption grounds, there are no disputed facts, and "our task is to determine whether the district court correctly applied the law."
+Pagan v. NYNEX Pension Plan, 52 F.3d 438 , 441 (2d Cir. 1995) (internal quotation marks omitted).
+With regard to the December 2, 2003 dismissal of the Riegels' negligent manufacturing claim, we must decide whether, "construing the evidence in the light most favorable to the non-moving party and drawing all reasonable inferences in its favor," there are any genuine issues of material fact.
+SCS Communications, Inc. v. The Herrick Co., Inc., 360 F.3d 329 , 338 (2d Cir. 2004).
+III.
+A. We begin with the preemption issue, for which, at the outset, it is helpful to review the overarching regulatory structure.
+In 1976, Congress enacted the Medical Device Amendments ("MDA") to the 1938 Food, Drug, and Cosmetic Act, in order to "provide for the safety and effectiveness of medical devices intended for human use."
+90 Stat. 539 .
+The MDA established a regulatory structure pursuant to which the Department of Health and Human Services, through the FDA, would regulate medical devices.
+Under the MDA, medical devices are categorized into three classes, based on the level of risk that they pose.
+21 U.S.C. 360c (a)(1).
+First, those devices that "present minimal potential for harm to the user," such as elastic bandages, are classified as "Class I" devices; such devices can be marketed without prior approval and are subject only to "general controls" that cover all medical devices.
+21 U.S.C. 360c (a)(1)(A); see also http://fda.gov/cdrh/devadvice/3132.html (last visited April 28, 2006); Lohr, 518 U.S. at 477 , 116 S.Ct. 2240 .
+Second, devices that are potentially more harmful, such as powered wheelchairs and infusion pumps, are classified as "Class II" devices.
+These devices can still be marketed without advance approval, but in addition to being subject to "general controls," they may also be subject to "special controls," such as postmarket surveillance, patient registries, and/or other measures deemed necessary.
+21 U.S.C. 360c (a)(1)(B); see also http://fda.gov/cdrh/devadvice /3132.html; Lohr, 518 U.S. at 477 , 116 S.Ct. 2240 .
+Finally, those devices for which "general controls" and "special controls" are insufficient to provide reasonable assurance of safety and effectiveness, and which either "present a potential unreasonable risk of illness or injury" or are "for a use in supporting or sustaining human life or for a use which is of substantial importance in preventing impairment of human health" are classified as Class III devices.
+21 U.S.C. 360c (a)(1)(C).
+It is undisputed that the Evergreen Balloon Catheter the device at issue in this litigation is a Class III device.
+[fn4] A Class III device is required to undergo "premarket approval to provide reasonable assurance of its safety and effectiveness" before being marketed.
+21 U.S.C. 360c (a)(1)(C).
+The premarket approval, or "PMA," process is lengthy and rigorous.
+See Lohr, 518 U.S. at 477 , 116 S.Ct. 2240 (describing the PMA process as a "rigorous one," and noting that the FDA spends an average of 1,200 hours on each PMA submission).
+The manufacturer must submit a detailed PMA application that contains full reports of all investigations of the safety and effectiveness of the device; a full statement of the components, ingredients, properties, and principles of operation of the device; a full description of the methods used in the manufacture and processing of the device; information about performance standards of the device; samples of the device; specimens of the proposed labeling for the device; and any other relevant information.
+21 U.S.C. 360e (c).
+There is significant opportunity for interaction between the FDA and the manufacturer over the course of the PMA process.
+Typically, the initial PMA application must include data from clinical investigations to establish the safety and effectiveness of the device, 21 C.F.R. 814.20 (b)(6)(ii); the manufacturer cannot even conduct such a clinical investigation in the first place without FDA permission, 21 C.F.R. 812.1 (a).
+The results of such clinical investigations, in turn, must be included by the manufacturer in the PMA application, along with all of the information described above.
+See 21 C.F.R. 814.20 ; 21 U.S.C. 360e (c).
+The FDA then reviews the submission to determine whether it is sufficiently complete to enable a substantive review; if not, the FDA will refuse to file it.
+21 C.F.R. 814.42 .
+After having accepted the PMA for filing, the FDA begins its review, which may involve referring the PMA to an advisory committee.
+21 C.F.R. 814.44 ; see also www.fda.gov/cdrh/ devadvice/pma ("Review Process: Overview") (last visited April 28, 2006).
+On the 100th day after the PMA has been filed, the FDA will, at the applicant's request, meet with the applicant to discuss the status of the application and any deficiencies that need to be addressed.
+See 21 U.S.C. 360e (d)(3).
+Once the FDA has concluded its review, it decides whether or not to approve the device for marketing.
+This choice is not binary; the FDA has means to impose additional requirements.
+For example, the FDA can issue an "approvable letter" stating that the FDA believes it will be able to approve the application if specific conditions are agreed to by the applicant.
+See 21 C.F.R. 814.44 (e).
+Alternatively, if the FDA "believes that the application may not be approved," it can "send the applicant a not approvable letter .
+.
+.
+[that] will describe the deficiencies in the application .
+.
+.
+and, where practical, will identify measures required to place the PMA in approvable form."
+21 C.F.R. 814.44 (f).
+The FDA thus has quite broad authority to approve, deny, and effectuate modifications of an application throughout the PMA process.
+In the end, once the FDA has approved a medical device through the PMA process, the applicant is required to comply with the standards in the PMA approval order.
+21 C.F.R. 814.80 ("A device may not be manufactured, packaged, stored, labeled, distributed, or advertised in a manner that is inconsistent with any conditions to approval specified in the PMA approval order for the device.").
+Any changes that the applicant believes could affect the safety or effectiveness of the device must be submitted, via a "PMA supplement," to the FDA for approval.
+21 C.F.R. 814.39 (a) ("After FDA's approval of a PMA, an applicant shall submit a PMA supplement for review and approval by FDA before making a change affecting the safety or effectiveness of the device for which the applicant has an approved PMA.
+.
+.
+.
+While the burden for determining whether a supplement is required is primarily on the PMA holder, changes for which an applicant shall submit a PMA supplement include, but are not limited to, the following types of changes if they affect the safety or effectiveness of the device: (1) New indications for use of the device[;] (2) Labeling changes[;] (3) The use of a different facility or establishment to manufacture, process, or package the device[;] (4) Changes in sterilization procedures; (5) Changes in packaging[;] (6) Changes in the performance or design specifications, circuits, components, ingredients, principle of operation, or physical layout of the device[;] (7) Extension of the expiration date of the device.
+.
+.
+.").
+Additionally, the standard FDA "Conditions of Approval" accompanying a PMA order state that continued approval of the PMA "is contingent on the submission of postapproval reports required under 21 CFR 814.84 at intervals of 1 year from the date of approval of the original PMA."
+See www.fda.gov/devadvice/pma ("Postapproval (Annual) Reports") (last visited April 28, 2006).
+Such annual reports must (1) identify all changes made to the device (even if those changes did not affect the device's safety or effectiveness and therefore did not first require submission of a PMA supplement), 21 C.F.R. 814.84 (b)(1); (2) contain a summary and bibliography of any "unpublished reports of data from any clinical investigations or nonclinical laboratory studies involving the device or related devices and known to or that reasonably should be known to the applicant," 21 C.F.R. 814.84 (b)(2)(i); and (3) contain a summary and bibliography of any "reports in the scientific literature concerning the device and known to or that reasonably should be known to the applicant," 21 C.F.R. 814.84 (b)(2)(ii).
+The standard PMA "Conditions of Approval" also require the manufacturer to submit an "Adverse Reaction Report" or "Device Defect Report" to the FDA within ten days after it receives or has knowledge of information concerning (1) "a mixup of the device or its labeling with another article"; (2) "any adverse reaction attributable to the device that has not been addressed by the device's labeling or is occurring with unexpected severity or frequency"; or (3) "any significant chemical, or other change or deterioration in the device or any failure of the device to meet the specifications established in the PMA that could not cause or contribute to death or serious injury but are not correctable by adjustments or other maintenance procedures described in the approved labeling."
+See www.fda.gov/devadvice/pma ("Adverse Reaction and Device Defect Reporting").
+[fn5] The FDA may also impose other requirements on manufacturers as a condition of PMA approval, such as restrictions on the sale or distribution of the device; continuing evaluation; prominent display of warnings; maintenance of records according to specifications deemed necessary by the FDA; batch testing; and any other requirements that the FDA "determines are necessary to provide reasonable assurance, or continued reasonable assurance, of the safety and effectiveness of the device."
+21 C.F.R. 814.82 (a).
+The FDA can impose such requirements either in the initial PMA approval order, by regulation at the time of PMA approval, or by regulation subsequent to approval.
+Id .
+The vast majority of Class III medical devices, however, reach the market without ever going through the rigorous PMA process described above.
+This is because the MDA also includes a "grandfathering" provision that "allows pre-1976 devices to remain on the market without FDA approval until such time as the FDA initiates and completes the requisite PMA."
+Lohr, 518 U.S. at 478 , 116 S.Ct. 2240 .
+And, in order to "prevent manufacturers of grandfathered devices from monopolizing the market while new devices clear the PMA hurdle, and to ensure that improvements to existing devices can be rapidly introduced into the market," the MDA also allows new devices that are "substantially equivalent" to such pre-existing devices to enter the market without going through the PMA process.
+Id .
+This "substantial equivalence" route to the market is known as the premarket notification, or " 510(k)," process.
+[fn6] In its decision, the Lohr Court noted that the 510(k) premarket notification process has become the means by which most new medical devices enter the market.
+Id. at 479 , 116 S.Ct. 2240 .
+This observation holds true with full force today.
+Indeed, from the FDA's website, it appears that in the fiscal year 2005, out of the 3,180 new Class III devices that were permitted to enter the market through either the 510(k) or PMA processes, 3,148 of them went through the 510(k) process and only 32 went through the PMA process.
+[fn7] In other words, in 2005, approximately ninety-nine percent of such devices went through the 510(k) process and only one percent went through the PMA process.
+As the contrasting terms "premarket notification" and "premarket approval" suggest, the 510(k) process differs dramatically from the PMA process.
+Unlike the PMA process which requires reasonable assurance that the new device is itself safe and effective, and ultimately results in the FDA's "approval" of the device the 510(k) process simply requires the manufacturer to show that the device is substantially equivalent to, i.e., as safe and effective as, a legally marketed device that did not go through the PMA process.
+As the Supreme Court stated in Lohr, the 510(k) process was apparently intended simply to "maintain the status quo with respect to the marketing of existing medical devices and their substantial equivalents."
+Lohr, 518 U.S. at 494 , 116 S.Ct. 2240 .
+To that end, "[t]he 510(k) notification process is by no means comparable to the PMA process; in contrast to the 1,200 hours necessary to complete a PMA review, the 510(k) review is completed in an average of only 20 hours."
+Id. at 478-79 , 116 S.Ct. 2240 ; see also Buckman v. Plaintiffs' Legal Committee, 531 U.S. 341 , 348 , 121 S.Ct. 1012 , 148 L.Ed.2d 854 (2001) ("[T]he 510(k) process lacks the PMA review's rigor: The former requires only a showing of substantial equivalence to a predicate device, while the latter involves a time-consuming inquiry into the risks and efficacy of each device.").
+In fact, the FDA regulations explicitly prohibit manufacturers of devices that have reached the market through the 510(k) process from indicating that the FDA has actually approved their device on the merits, stating that the 510(k) determination that a device is "substantially equivalent" to a pre-existing, non-PMA-approved device on the market " does not in any way denote approval of the device.
+Any representation that creates an impression of a official approval of a device because of complying with the premarket notification regulations is misleading and constitutes misbranding."
+21 C.F.R. 807.97 (emphasis added).
+Once a device has entered the market pursuant to the 510(k) process, its manufacturer has broader latitude to make changes on its own than does the manufacturer of a PMA-approved device.
+As the FDA explained in its Amicus Curiae Letter Brief to the Third Circuit in Horn v. Thoratec, "[i]n direct contrast to the PMA regime, FDA does not `approve' changes to a Section 510(k)-cleared device.
+Rather, the manufacturer simply has to demonstrate that its device is still substantially equivalent to its predicate."
+Horn v. Thoratec Corp., 376 F.3d 163 , 172 (3d Cir. 2004).
+To that end, whereas a PMA supplement must be submitted for review and approval by the FDA before any change is made that "affect[s] the safety or effectiveness of the device," a 510(k) supplemental submission is required only where the device "is about to be significantly changed or modified in design, components, method of manufacturer, or intended use," 21 C.F.R. 807.81 (a)(3) (emphasis added).
+[fn8] Having summarized the PMA and 510(k) routes to market set forth by the MDA, we now move to one final aspect of the MDA that is crucial for purposes of this case. The MDA also includes an express preemption provision: Section 360k(a) .
+In relevant part, this provision states as follows: [N]o State or political subdivision of a State may establish or continue in effect with respect to a device intended for human use any requirement (1) which is different from, or in addition to, any requirement applicable under this Act to the device, and (2) which relates to the safety or effectiveness of the device or to any other matter included in a requirement applicable to the device under this Act.
+21 U.S.C. 360k (a).
+[fn9] The application of Section 360k(a)'s preemption provision to medical devices that have entered the market through the two alternate routes described above the PMA process and the 510(k) process forms the crux of this case. B. During the several decades following the 1976 enactment of the MDA, the circuit courts grappled with how broadly to construe Section 360k(a)'s preemption of state "requirement[s]" that differed from or added to "requirement[s] applicable under this Act."
+Could a state requirement be created by state common law, or only by state statutes and other enactments?
+For that matter, did approval under the PMA process or, alternatively, clearance under the 510(k) process or some other expedited process amount to a requirement under the Food, Drug, and Cosmetic Act with which state law could conflict?
+This Court addressed some of these questions in Becker v. Optical Radiation Corp., 66 F.3d 18 (2d Cir. 1995).
+There, we stated that state common law claims that alleged product defects as to a PMA-approved device, notwithstanding that device's compliance with the PMA process, would be preempted by Section 360k(a) .
+We explained: At the premarket stage, pursuant to the MDA, the FDA reviews a device's testing, design specifications, intended use, manufacturing method, performance standards and labeling, and decides whether the device is safe and effective.
+21 U.S.C. 360e (c)(1), (2) .
+[The plaintiff's] claims allege defective design, defective manufacture, failure to warn and failure to test.
+If [the plaintiff] were allowed to pursue these claims, and if she were successful, the common law of New York would impermissibly add requirements in the areas reviewed in the [PMA] process, and thus would impose standards on the [device] which are different from those of the MDA.
+Id. at 20.
+The Becker Court was not, however, presented with the question of whether common law claims as to 510(k)-cleared devices would be similarly preempted.
+It was this latter question that the Supreme Court considered in Lohr, where the plaintiffs brought various state tort law claims in regard to the design, manufacturing, and labeling of a pacemaker that had entered the market pursuant to the 510(k) process.
+In the course of assessing whether these plaintiffs' tort law claims would if successful result in a state law "requirement" that differed from, or added to, a federal "requirement," a fractured Court reached several conclusions.
+All nine justices agreed that the 510(k) process set forth no federal requirements as to the design of medical devices, and that clearance through the 510(k) process simply reflected the FDA's conclusion that a new device was substantially equivalent to a pre-existing device.
+Thus, the justices unanimously agreed that design defect claims as to 510(k)-cleared devices would not be preempted by Section 360k(a) of the MDA because there would be no federal requirements with which such claims could conflict.
+See Lohr, 518 U.S. at 493-94 , 116 S.Ct. 2240 (majority opinion) (stating that clearance via the 510(k) process "did not `require' Medtronics' pacemaker to take any particular form for any particular reason; the agency simply allowed the pacemaker, as a device substantially equivalent to the one that existed before 1976, to be marketed without running the gauntlet of the PMA process"); 518 U.S. at 513 , 116 S.Ct. 2240 (O'Connor, J., concurring in part and dissenting in part) ("I agree with the Court that the Lohrs' defective design claim is not preempted by the FDCA's 510(k) `substantial equivalency' process.
+.
+.
+.Because the 510(k) process seeks merely to establish whether a pre-1976 and a post-1976 device are equivalent, and places no `requirements' on a device, the Lohrs' defective design claim is not preempted.").
+[fn10] When the justices moved from a consideration of the plaintiffs' design defect claims to their manufacturing and labeling claims, however, they fractured over two issues regarding the interpretation of Section 360k(a)'s preemption of state "requirements" that were "different from, or in addition to, any requirement applicable under this Act."
+First, the justices diverged over whether the reference to "requirements applicable under this Act" meant that only device-specific requirements could give rise to preemption, or instead meant that any FDA requirements could give rise to preemption.
+Five of the justices Justices Stevens, Kennedy, Souter, Ginsburg, and Breyer concluded that only federal device-specific requirements could give rise to preemption.
+[fn11] Id. at 497-500 , 116 S.Ct. 2240 (majority opinion); id. at 505-07 , 116 S.Ct. 2240 (Breyer, J., concurring in part and concurring in the judgment).
+These justices therefore agreed that because the only FDA manufacturing and labeling requirements [fn12] that covered the pacemaker at issue were general in nature rather than device-specific, the plaintiffs' manufacturing and labeling claims were not preempted.
+By contrast, the remaining four justices Justices Rehnquist, O'Connor, Scalia, and Thomas concluded that even general FDA requirements could give rise to preemption, and therefore dissented, in part, on grounds that the plaintiffs' manufacturing and labeling tort claims as to the pacemaker were preempted by the general FDA manufacturing and labeling requirements.
+Id. at 511-514 , 116 S.Ct. 2240 (O'Connor, J., concurring in part and dissenting in part).
+In addition to their 5-4 split over whether the applicable federal requirement needed to be device-specific, the justices also divided again by a 5-4 margin over whether a state "requirement," as that term was used in Section 360k(a) , could derive from state common law or only from state statutes and regulations.
+Justices Stevens, Kennedy, Souter, and Ginsburg largely adopted the view that only the latter category would typically give rise to a state requirement for purposes of the MDA, stating in Part IV of the opinion that "when Congress enacted 360k , it was primarily concerned with the problem of specific, conflicting state statutes and regulations rather than the general duties enforced by common-law actions," id. at 489 , 116 S.Ct. 2240 (plurality opinion), and subsequently stating in part VI of the opinion that "it is apparent that few, if any, common-law duties have been preempted by this statute.
+It will be rare indeed for a court hearing a common-law cause of action to issue a decree that has `the effect of establishing a substantive requirement for a specific device,'" id. at 502-03 , 116 S.Ct. 2240 (plurality opinion).
+Justice Breyer, however, declined to join Parts IV and VI of the opinion, and wrote separately to emphasize that he was "not convinced that future incidents of MDA preemption of common-law claims will be `few' or `rare.'"
+Id. at 508 , 116 S.Ct. 2240 (Breyer, J., concurring in part and concurring in the judgment).
+He stated, with reference to the Court's prior holding in Cipollone v. Liggett Group, Inc., 505 U.S. 504 , 112 S.Ct. 2608 , 120 L.Ed.2d 407 (1992), [fn13] that "[o]ne can reasonably read the word `requirement' as including the legal requirements that grow out of the application, in particular circumstances, of a State's tort law."
+Id. at 504 , 112 S.Ct. 2608 .
+Justice Breyer further illustrated this point with the following hypothetical situation: Imagine that, in respect to a particular hearing aid component, a federal MDA regulation requires a 2-inch wire, but a state agency regulation requires a 1-inch wire.
+If the federal law, embodied in the "2-inch" MDA regulation, preempts the state "1-inch" agency regulation, why would it not similarly pre-empt a state-law tort action that premises liability upon the defendant manufacturer's failure to use a 1-inch wire (say, an award by a jury persuaded by expert testimony that use of more than 1-inch wire is negligent)?
+The effects of the state agency regulation and the state tort suit are identical.
+.
+.
+.
+Consequently, I believe that ordinarily, insofar as the MDA pre-empts a state requirement embodied in a state statute, rule, regulation, or other administrative action, it would also pre-empt a similar requirement that takes the form of a standard of care or behavior imposed by a state-law tort action.
+Id. at 504-05 , 112 S.Ct. 2608 .
+Finally, Justices Rehnquist, O'Connor, Scalia, and Thomas also adopted the view that, pursuant to Cipollone, "[i]f 360(k)'s language is given its ordinary meaning, it clearly preempts any state common-law action that would impose a requirement different from, or in addition to, that applicable under the FDCA just as it would preempt a state statute or regulation that had that effect."
+Id. at 511 , 112 S.Ct. 2608 (O'Connor, J., concurring in part and dissenting in part).
+In sum, therefore, five justices endorsed the proposition that a state "requirement," for purposes of the MDA, could stem from state common-law actions as well as from state statutes or regulations.
+[fn14] We thus interpret Lohr as setting forth two main principles, each endorsed by five justices, for determining whether a common law tort action over a medical device is preempted by the MDA.
+First, on the federal side of the analysis, courts must consider whether there are any device-specific federal requirements with respect to the device at hand.
+If so, courts must then turn to the state side to determine whether there would be a conflict between that device-specific federal requirement and "any of the liability-creating premises of the plaintiffs' state-law tort suit."
+Lohr, 518 U.S. at 508 , 116 S.Ct. 2240 (Breyer, J., concurring in part and concurring in the judgment).
+Since Lohr, the majority of circuits have applied the above-described framework to conclude that common law tort actions as to PMA-approved devices, in contrast to 510-cleared devices, are preempted by the MDA.
+See Horn v. Thoratec Corp., 376 F.3d 163 (3d Cir. 2004); Martin v. Medtronic, Inc., 254 F.3d 573 (5th Cir. 2001); Brooks v. Howmedica, Inc., 273 F.3d 785 (8th Cir. 2001); Kemp v. Medtronic, Inc., 231 F.3d 216 (6th Cir. 2000); Mitchell v. Collagen Corp., 126 F.3d 902 (7th Cir. 1997).
+[fn15] These circuits have all concluded that (1) approval through the PMA process, unlike the 510(k) process, amounts to a federal device-specific requirement, and (2) common law tort actions that allege liability as to a PMA-approved device, notwithstanding that device's compliance with the PMA-approved standards, would conflict with that federal device-specific requirement.
+See Horn, 376 F.3d at 170-179 ; Martin, 254 F.3d at 579-584 ; Brooks, 273 F.3d at 795-799 ; Kemp, 231 F.3d at 225-232 ; Mitchell, 126 F.3d at 911-914 .
+Only the Eleventh Circuit has reached the opposite conclusion, holding that approval through the PMA process does not constitute a federal device-specific requirement.
+See Goodlin v. Medtronic, Inc., 167 F.3d 1367 , 1376-77 (11th Cir. 1999).
+[fn16] C. We now turn to the instant appeal of the district court's March 14, 2002 order dismissing many of the Riegels' claims on preemption grounds.
+We note, initially, that our Becker decision clearly indicated that tort law claims as to a PMA-approved device would be preempted by Section 360k(a) of the MDA.
+See Becker, 66 F.3d at 20 .
+Because the Supreme Court subsequently spoke to the issue of Section 360k(a)'s preemptive scope in Lohr, however, we must revisit the issue to determine whether Becker is still good law.
+See, e.g., Taylor v. Vt. Dep't of Educ., 313 F.3d 768 , 782-83 (2d Cir. 2002).
+Thus, following the Lohr Court, our analysis proceeds in two parts.
+First, we must consider whether, when a device such as the Evergreen Balloon Catheter obtains approval pursuant to the PMA process, it is subject to a "requirement applicable under this Act," i.e., a federal device-specific requirement.
+Second, we must analyze the Riegels' tort claims to determine whether there is a conflict between that device-specific requirement and "any of the liability-creating premises of the [Riegels'] state-law tort suit."
+Lohr, 518 U.S. at 508 , 116 S.Ct. 2240 (Breyer, J., concurring in part and concurring in the judgment).
+1.
+We agree with the majority of circuits that have held that the relatively small subset of PMA-approved devices in contrast to the much larger population of 510(k)-cleared devices are subject to federal device-specific requirements.
+In holding that 510(k) clearance did not give rise to a federal device-specific requirement, the Lohr Court explicitly distinguished between the 510(k) process and the PMA process, stating that the two processes were "by no means comparable."
+Lohr, 518 U.S. at 478-79 , 116 S.Ct. 2240 .
+Indeed, the Lohr Court expressly emphasized that (1) the 510(k) process was focused on equivalence rather than safety; (2) the FDA itself stated that 510(k) clearance did not "denote official FDA approval"; (3) the 510(k) exemption did not appear to have been "intended to do anything other than maintain the status quo with respect to the marketing of existing medical devices and their substantial equivalents"; and (4) 510(k) clearance could not be viewed as "requir[ing] [the device] to take any particular form for any particular reason."
+Lohr, 518 U.S. at 493-94 , 116 S.Ct. 2240 .
+The PMA process utterly diverges from the 510(k) process in each of these respects.
+First, although clearance through the 510(k) process simply means that a device is substantially equivalent to a pre-existing device which may or may not be safe and effective approval through the PMA process requires reasonable assurance of the device's substantive safety and effectiveness.
+Second, whereas 510(k) clearance does not indicate official FDA approval, the FDA has made clear that approval through the PMA process does denote such official approval.
+Indeed, the FDA explains on its website that "PMA is the most stringent type of device marketing application required by FDA.
+.
+.
+.
+PMA approval is based on a determination by FDA that the PMA contains sufficient valid scientific evidence to assure that the device is safe and effective for its intended use(s)."
+See http://www.fda.gov/cdrh/devadvice/pma/ (last visited April 28, 2006).
+Third, although the 510(k) process essentially froze the status quo with respect to pre-1976 devices and their substantial equivalents, the PMA process was created as an entirely new regime for devices that were not substantially equivalent to older devices.
+Finally, whereas 510(k) clearance does not reflect the FDA's determination that the device should "take any particular form for any particular reason," Lohr, 518 U.S. at 493 , 116 S.Ct. 2240 , the PMA process expressly provides the FDA with the power to require the device to take a particular form in order to be approved as safe and effective.
+As noted above, once the FDA has concluded its review, it can issue an "approvable letter" stating that the FDA believes it can approve the application if "specific conditions" are agreed to by the applicant.
+See 21 C.F.R. 814.44 (e).
+Alternatively, if the FDA "believes that the application may not be approved," it can "send the applicant a not approvable letter.
+.
+.
+.
+[that] will describe the deficiencies in the application .
+.
+.
+and, where practical, will identify measures required to place the PMA in approvable form."
+21 C.F.R. 814.44 (f).
+Moreover, once a device has obtained PMA approval, the manufacturer cannot make any changes that might affect the safety and effectiveness of the device without further FDA approval.
+At that point, therefore, the device is clearly subject to the federal, device-specific requirement of adhering to the standards contained in its individual, federally approved PMA.
+The Riegels have argued that manufacturers of 510(k)-cleared devices are also precluded from making changes without FDA approval, and that this did not prevent the Lohr Court from finding that 510(k) clearance imposed no device-specific requirements.
+But their premise is not entirely accurate.
+As noted above, manufacturers of 510(k)-cleared devices have broader latitude to make changes without FDA approval than do manufacturers of PMA-approved devices, given that they must only obtain approval when making significant changes, see 21 C.F.R. 807.81 (a)(3), as opposed to any change that "affect[s] the safety or effectiveness of the device," see 21 C.F.R. 814.39 (a).
+This distinction makes sense: the only issue governing 510(k) clearance is whether the device is substantially equivalent to a pre-existing device that did not go through the PMA process.
+Thus, unless a significant change is made to a 510(k)-cleared device, it will presumably still be substantially equivalent to the pre-existing device, and there is no need for further FDA review.
+By contrast, PMA approval explicitly signifies the FDA's substantive approval of the device's reasonable safety and effectiveness, as the device is currently constituted, and it therefore naturally follows that any changes to a PMA-approved device that might affect the device's safety and effectiveness will require further FDA approval.
+For these reasons, we conclude that the Evergreen Balloon Catheter, a PMA-approved device, was subject to the federal device-specific requirement of complying with the particular standards set forth in its approved PMA application.
+It is true that, as the dissent states, see post at 132, here the FDA approved Medtronic's PMA application for the Evergreen Balloon Catheter without invoking its power to require additional alterations.
+As such, the only documents in the record from the FDA to Medtronic are generic letters informing Medtronic that the Evergreen Ballon Catheter has obtained PMA approval and that Medtronic must comply with the generally applicable "Conditions of Approval" governing all PMA devices.
+We believe, however, that this is not relevant to the analysis.
+Had the FDA believed that the Evergreen Balloon Catheter, as constituted at the time Medtronic submitted its PMA application for the device, was not reasonably safe and effective, it certainly would have had the power to condition PMA approval on implementation of the changes that the FDA believed were necessary.
+Alternatively, as the dissent points out, the FDA could also have deemed it appropriate to promulgate performance standards applicable to catheters such as the Evergreen Balloon Catheter, pursuant to 21 C.F.R. 861.1 (b)(3).
+Post at 132.
+Apparently, however, the FDA concluded that the Evergreen Balloon Catheter was safe and effective as currently constituted.
+It would be illogical to hold that because the FDA, after rigorous review, deemed the PMA application for the Evergreen Balloon Catheter acceptable in its present form, the Evergreen Balloon Catheter is less subject to a device-specific regulation than are devices whose initial PMA applications are inadequate and which obtain PMA approval only after significant back-and-forth with the FDA.
+Once the PMA process is complete, all PMA-approved devices are subject to the same federal device-specific regulation: complying with the standards set forth in their individual approved PMA applications.
+The Riegels have also argued that with regard to their failure-to-warn claim relating to the labeling of the Evergreen Balloon Catheter, there is no applicable federal device-specific requirement because (1) the only federal regulation governing the substance of the Evergreen Balloon Catheter's label was 21 C.F.R. 801.109 , the same general regulation that the Lohr Court found not to be sufficiently device-specific to warrant preemption of the labeling claims as to the 510(k)-cleared pacemaker device at issue, see Lohr, 518 U.S. at 497-501 , 116 S.Ct. 2240 ; and (2) under 21 C.F.R. 814.39 (d)(1)-(2), manufacturers of PMA-approved devices can make certain labeling changes without pre-approval from the FDA, such as labeling changes that add or strengthen a contraindication, add or strengthen an instruction, or delete misleading, false, or unsupported information.
+The flaw in this argument is that, unlike in Lohr, here the FDA explicitly approved the labeling of the Evergreen Balloon Catheter through the PMA process.
+Indeed, when Medtronic wanted to revise the Evergreen Balloon Catheter's label, it submitted PMA supplements that requested approval for those revisions, and the FDA granted that approval.
+Thus, we need not reach the question of whether, had Medtronic subsequently changed the catheter's label pursuant to the 814.39(d) process that permits certain changes without FDA approval, failure-to-warn claims as to that label would be preempted, because here there is no evidence that Medtronic ever made changes to the catheter's label other than through the PMA process.
+Finally, we note the dissent's concern about the FDA's ability to "do an adequate job of ensuring the safety of medical devices," and its discussion of specific instances in which the FDA approved, via the PMA process, medical devices that were later proven unsafe.
+Post at 130-31.
+We agree that it is imperative for the FDA to protect consumers' safety by exercising careful and reasoned judgment both in (1) evaluating whether to grant PMA approval in the first place (and determining which, if any, changes must be made in the device for it to obtain such approval) and (2) reviewing the postapproval annual reports, adverse reaction reports, and device defect reports that must be submitted by manufacturers of PMA-approved devices in order to determine whether the continuation of such approval is appropriate.
+As a court, we are constrained to observe, however, that the FDA's level of success in carrying out these responsibilities, rather than bearing on the legal question of whether PMA approval reflects a federal device-specific requirement, is ultimately a policy matter for Congress and the Executive to address.
+2.
+Having ruled that the Evergreen Balloon Catheter was subject to the federal device-specific requirement of complying with the standards in its approved PMA application, we now move to the question of whether the Riegels' claims would, if successful, result in state "requirements" that differed from or added to those standards.
+We conclude that they would.
+The Supreme Court first addressed the issue of whether a preemption provision's reference to state "requirements" encompasses state common law tort suits, in addition to state statute or other positive enactments, in Cipollone v. Liggett Group, Inc., 505 U.S. 504 , 112 S.Ct. 2608 , 120 L.Ed.2d 407 (1992).
+There, in the context of interpreting the preemption provision contained in the Public Health Cigarette Smoking Act of 1969, 15 U.S.C. 1334 (b), a majority of the Court answered that question in the affirmative.
+See id. at 521-22 , 112 S.Ct. 2608 ("The phrase `no requirement or prohibition' sweeps broadly and suggests no distinction between positive enactments and common law; to the contrary, those words easily encompass obligations that take the form of common-law rules.
+.
+.
+.
+[C]ommon-law damages actions of the sort raised by petitioner are premised on the existence of a legal duty, and it is difficult to say that such actions do not impose requirements or prohibitions.")
+(plurality opinion); see also id. at 548 , 112 S.Ct. 2608 (Scalia, J., concurring in the judgment in part and dissenting in part).
+In Lohr, the five justices who endorsed the view that 360k(a)'s reference to state "requirements" encompassed state common law tort lawsuits explicitly invoked Cipollone in reaching that conclusion.
+See Lohr, 518 U.S. at 504-05 , 116 S.Ct. 2240 (Breyer, J., concurring in part and concurring in the judgment) ("[I]n Cipollone .
+.
+., the Court made clear that similar language `easily' encompassed tort actions because `[state] regulation can be as effectively exerted through an award of damages as through some form of preventative relief.'
+This rationale would seem applicable to the quite similar circumstances here.")
+(internal citations omitted; alteration in original); id. at 510-511 , 112 S.Ct. 2608 (O'Connor, J., concurring in part and dissenting in part) ("We recently addressed a similar question in Cipollone.
+.
+.
+.
+A majority of the Court agreed that state common-law damages actions do impose `requirements.'
+.
+.
+.
+That rationale is equally applicable in the present context.").
+Since Lohr, the Supreme Court has held firm to the view that state "requirements" can be created by state common law actions.
+Just last year in Bates v. Dow Agrosciences LLC, the Court held in the context of interpreting the Federal Insecticide, Fungicide, and Rodenticide Act's provision that "State[s] shall not impose or continue in effect any requirements for labeling or packaging in addition to or different from those required under this Act," 7 U.S.C. 136v (b) that the Fifth Circuit had "correctly [held] that the term `requirements' in 136v(b) reaches beyond positive enactments, such as statutes and regulations, to embrace common-law duties."
+544 U.S. 431 , 125 S.Ct. 1788 , 1798 , 161 L.Ed.2d 687 (2005).
+Thus, the Bates Court explained that the plaintiffs' fraud and negligent-failure-to-warn claims, which were premised on a deficiency in the labeling or packaging of the product at issue, would be preempted by FIFRA, unless the duties that the claims implicated were simply equivalent to FIFRA's own misbranding provisions, rather than adding to or differing from the FIFRA provisions.
+Id. at 1800 .
+[fn17] We thus conclude that the Riegels' claims for strict liability, breach of implied warranty, and negligent design, testing, inspection, distribution, labeling, marketing, and sale would, if successful, impose state requirements that differed from, or added to, the PMA-approved standards for the Evergreen Balloon Catheter.
+These claims do not rest on the premise that the particular catheter used during Mr. Riegel's angioplasty deviated from the standards contained in the approved PMA application for the Evergreen Balloon Catheter.
+Rather, the liability-creating premise of all of these claims is that the Evergreen Balloon Catheter itself, in its present PMA-approved form, is in some way defective and therefore requires modification.
+The Riegels assert that a verdict in their favor would simply stem from generally applicable state common law duties, such as the duty to use due care and the duty to inform users and purchasers of about relevant risks.
+Therefore, they argue, such a verdict could not possibly create a state "requirement" that adds to, or differs from, any federal device-specific requirements for the Evergreen Balloon Catheter.
+We disagree.
+The Supreme Court made clear in Cipollone, Lohr, and Bates that common law actions, which are premised on the alleged violation of a legal duty, do impose requirements.
+As Justice O'Connor put it in Lohr, "state common-law damages actions operate to require manufacturers to comply with common-law duties."
+Lohr, 518 U.S. at 510 , 116 S.Ct. 2240 (O'Connor, J., concurring in part and dissenting in part).
+Indeed, a verdict in the Riegels' favor on any of these claims would represent a finding that the Evergreen Balloon Catheter had not adhered to the various state common law duties implicated by those claims, e.g., that its design did not comport with the duty of due care, or that its labeling did not comport with the duty to warn.
+Such a verdict would clearly differ from the FDA's PMA approval of the device (and its related packaging, labeling, distribution, and so on) as being reasonably safe and effective, and, moreover, from the FDA's prohibition against making any modifications affecting the device's safety and effectiveness without first obtaining FDA approval.
+Indeed, such a situation would be quite analogous to the hypothetical situation posed by Justice Breyer in his Lohr concurrence, in which, notwithstanding a federal requirement for a 2-inch hearing wire in a particular hearing aid, a plaintiff brought a tort claim relating to the same hearing aid that premised liability on the manufacturer's failure to use a wire that was 1-inch or less.
+Lohr, 518 U.S. at 504 , 116 S.Ct. 2240 (Breyer, J., concurring in part and concurring in the judgment).
+Justice Breyer clearly thought that such a claim would be preempted.
+Id .
+Here, similarly, there is a federal requirement that the Evergreen Balloon Catheter adhere to the standards set forth in its approved PMA application, absent further FDA approval.
+Yet the Riegels' claims would premise liability on Medtronic's failure to have done something with the Evergreen Balloon Cather other than adhere to the PMA-approved standards.
+In fact, it is unclear what a manufacturer of a PMA-approved medical device would do when faced with such a jury verdict on a plaintiff's common law claims, given that the manufacturer would nonetheless be unable to make any modifications affecting the device's safety and effectiveness without obtaining further FDA approval.
+Moreover, it is certainly conceivable that different juries would reach conflicting verdicts about the same medical devices, thus rendering it almost impossible for a device to comply simultaneously with its federal PMA (which, after all, can only change after an extensive process) and with the various verdicts issued by different juries around the country.
+In this regard, a finding of preemption is consistent with another purpose evident in the MDA's legislative history: its desire to ensure that "innovations in medical device technology are not stifled by unnecessary restrictions," and its corresponding recognition that "if a substantial number of differing requirements applicable to a medical device are imposed by jurisdictions other than the Federal government, interstate commerce would be unduly burdened."
+H.R.
+Rep.
+No. 94-853, at 12, 45.
+As such, although we agree with the dissent's recognition of a general presumption against preemption, and with the dissent's comment that the legislative history of the MDA is silent as to the specific issue of preemption of state tort liability, see post at 127-29, we believe that the above-discussed Supreme Court precedent makes clear that Section 360k(a)'s reference to state "requirements" should be interpreted to encompass state common law actions.
+We note, too, that the dissent's argument regarding legislative history and intent is far more persuasive with respect to 510(k)-cleared devices than with PMA-approved devices.
+As the Supreme Court stated in Lohr, the 510(k) process appears to have been designed to "maintain the status quo with respect to the marketing of existing medical devices and their substantial equivalents.
+That status quo included the possibility that the manufacturer of the device would have to defend itself against state-law claims of negligent design."
+Lohr, 518 U.S. at 494 , 116 S.Ct. 2240 .
+By contrast, the PMA regime represented an entirely new approach of ensuring consumer safety through increased federal regulation and oversight.
+It is thus much less clear that the continuation of the previous tort remedies in the PMA context is consistent with the MDA's purpose.
+See Benjamin A. Goldberger, The Evolution of Substantial Equivalence in FDA's Premarket Review of Medical Devices, 56 FOOD DRUG.L.J.
+317, 332-33 (2001) ("Finding preemption for devices that received PMAs while holding that 510(k)'d devices cannot benefit from preemption is consistent entirely with the original purpose of substantial equivalence doctrine.
+Developed as a method to ensure economic parity between post-enactment and pre-enactment devices, a substantial equivalence finding allows a company to market devices as others did before the MDA, complete with exposure to tort liability.
+A PMA, on the other hand, brings a device completely within the scope of the federal regulation as Congress had envisioned it, and, thus is preemptive.").
+For these reasons, we adhere to the rationale initially set forth by this Court in Becker, and hold that the Riegels' strict liability, breach of implied warranty, and negligent design, testing, inspection, distribution, labeling, marketing, and sale claims are preempted by Section 360k(a) of the MDA.
+We thus affirm the district court's March 14, 2002 order granting summary judgment to Medtronic on these claims on preemption grounds.
+By the same token, we agree with the district court's conclusion that the Riegels' negligent manufacturing claim was not preempted, to the extent that it rested on the allegation that the particular Evergreen Balloon Catheter that was deployed during Mr. Riegel's angioplasty had not been manufactured in accordance with the PMA-approved standards.
+A jury verdict in the Riegels' favor on this claim would not have imposed state requirements that differed from, or added to, the PMA-approved standards for this device, but would instead have simply sought recovery for Medtronic's alleged deviation from those standards.
+See Lohr, 518 U.S. at 513 , 116 S.Ct. 2240 (O'Connor, J., concurring in part and dissenting in part) ("Where a state cause of action seeks to enforce an FDCA requirement, that claim does not impose a requirement that is `different from, or in addition to,' requirements under federal law.
+To be sure, the threat of a damages remedy will give manufacturers an additional cause to comply, but the requirements imposed on them under state and federal law do not differ.
+Section 360k does not preclude States from imposing different or additional remedies, but only different or additional requirements."
+) (emphasis in original).
+We conclude this portion of our analysis by emphasizing that contrary to the dissent's fear that "the decision today will deprive those who were injured by an unreasonably dangerous medical device of any remedy whatsoever," post at 129 the scope of our decision is actually quite limited.
+As noted above, the vast majority of Class III medical devices enter the market pursuant to the 510(k) process, not the PMA process.
+The Supreme Court has already held in Lohr that tort claims as to 510(k)-cleared devices are not preempted.
+Moreover, our decision today does not even hold that all state tort claims as to PMA-approved devices are preempted.
+On the contrary, as set forth above, tort claims that are premised on a manufacturer's deviation from the standards set forth in the device's approved PMA application such as the Riegels' negligent manufacturing claim are in no way preempted.
+Only those claims that allege liability despite a PMA-approved device's adherence to those standards are, pursuant to this decision, preempted.
+As one article recently noted, "[t]his is a relatively small universe of cases."
+See Gregory J. Scandaglia and Therese L. Tully, 59 FOOD DRUG L.J. 245, 263-64 (2004).
+We also question the dissent's conclusion that our holding will necessarily remove the incentives for manufacturers of PMA-approved devices to continue improving the safety of their products once they obtain approval and to alert the FDA of the need for changes as new data becomes available.
+See post at 130, 133.
+As a condition of continued approval, manufacturers of PMA-approved products are already required to provide the FDA with annual reports that summarize any "unpublished reports of data from any clinical investigations or nonclinical laboratory studies involving the device or related devices," 21 C.F.R. 814.84 (b)(2)(i); and any "reports in the scientific literature concerning the device," 21 C.F.R. 814.84 (b)(2)(ii).
+Such manufacturers are also specifically required, as a condition of continued approval, to notify the FDA within ten days of any adverse reactions or device defects.
+See supra page 111.
+Additionally, such manufacturers are also likely to be in competition with other manufacturers of similar devices, providing another incentive for them to continue improving their own devices.
+In any event, we ultimately view this as a policy issue for the legislative and executive branches rather than a legal question.
+Should Congress conclude that the preemption of the state tort actions at issue in this case creates undesirable incentives for manufacturers of PMA-approved devices, it is entirely free to amend Section 360k(a) to make clear that its reference to state "requirements" does not include state tort actions.
+Finally, we note that our conclusion is further supported by the FDA's recent determination that preemption is warranted with respect to this universe of cases, as indicated by the content of the May 14, 2004 amicus curiae brief that the FDA submitted upon request to the Third Circuit in connection with the Horn case, which implicated the same issue that we address here.
+See 2004 WL 1143720 (amicus brief); Horn, 376 F.3d at 177-79 ("The FDA has clearly expressed its view that PMA approval in this particular case requires preemption.
+The FDA conceives of [the plaintiff's] state common law claims as imposing a `requirement' which is `different' from that imposed by the FDA in the PMA process, and thus requiring preemption .
+.
+.
+A majority of the Court in Lohr emphasized that the FDA is `uniquely qualified to determine whether a particular form of state law .
+.
+.
+should be pre-empted.'")
+(quoting Lohr, 518 U.S. at 496 , 116 S.Ct. 2240 ).
+It is certainly true that the FDA previously took a different view, but as the Third Circuit noted in Horn, "an agency may change its course so long as it can justify its change with a `reasoned analysis,'" a standard satisfied here.
+Id .
+(citing Motor Vehicle Mfrs.
+Ass'n v. State Farm Mut. Auto. Ins. Co., 463 U.S. 29 , 42 , 103 S.Ct. 2856 , 77 L.Ed.2d 443 (1983)).
+IV.
+We now turn to the December 2, 2003 order that granted summary judgment to Medtronic on the Riegels' non-preempted negligent manufacturing claim.
+The legal framework governing this claim is undisputed.
+Because the Riegels do not have the actual Evergreen Balloon Catheter that was used during Mr. Riegel's angioplasty, they can prevail only by proving by circumstantial evidence that it must have been defective.
+As the New York Court of Appeals recently explained, "[i]n order to proceed in the absence of evidence identifying a specific flaw, a plaintiff must prove that the product did not perform as intended and exclude all other causes for the product's failure that are not attributable to defendants."
+Speller v. Sears, Roebuck and Co., 100 N.Y.2d 38 , 41 , 760 N.Y.S.2d 79 , 790 N.E.2d 252 (N.Y. 2003).
+Medtronic, with reference to expert opinions, has argued that the Evergreen Balloon Catheter used during Mr. Riegel's angioplasty burst not because it was negligently manufactured, but rather because (1) it was inflated to 10 atmospheres, even though the label stated that it should not be inflated more than 8 atmospheres; (2) it was inserted into an artery that was "diffusely diseased" and "heavily calcified," even though the label stated that it should not be used in such instances (because calcium spicules can puncture the catheter); and/or (3) Dr. Roccario used metal stents that could have punctured the catheter.
+Thus, to overcome Medtronic's arguments and survive summary judgment, the Riegels had to come forward with competent evidence excluding Medtronic's proferred alternative causes as the actual origin of the catheter's rupture.
+See Speller, 100 N.Y.2d at 42 , 760 N.Y.S.2d 79 , 790 N.E.2d 252 (holding that where the defendants argued that the fire in question had been caused not by their refrigerator's wiring, but rather by the plaintiff's stove, "[i]n order to withstand summary judgment, plaintiffs were required to come forward with competent evidence excluding the stove as the origin of the fire").
+We agree with the district court that the Riegels did not come forward with competent evidence excluding Medtronic's proffered causes as the origin of the rupture.
+It is undisputed that Dr. Roccario, in performing Mr. Riegel's angioplasty, inflated the balloon catheter to ten atmospheres, which is two atmospheres and approximately 29.4 pounds per square inch beyond the maximum rated burst pressure explicitly specified on the device label.
+The Riegels have argued, through Dr. Roccario's affidavit, that "exceeding the maximum recommended atmospheres of eight (8) to ten (10) atmospheres was not outside the window of [the device's] testing in laboratory settings .
+.
+.
+and inflations to ten (10) atmospheres was based upon my past experience with the product and was called for in the circumstances herein presented in order to attempt to obtain the angiographic appearance that I desired rather than what I was presented with at the time and instead of reintroducing still another balloon."
+Although it may well be that inflating the balloon catheter up to ten atmospheres was the best decision under the circumstances, this does not indicate that the inflation was not the cause of the catheter's rupture.
+It is similarly undisputed that Mr. Riegel had heavily calcified arteries, and that the label for the Evergreen Balloon Catheter contraindicated its use in such an instance.
+Dr. Roccario has stated that "it is all but routine today at this point in the development of the medical science in question for a PTCA [percutaneous transluminal coronary angioplasty] to go forward under such circumstances."
+Again, however, this does not mean that in this particular instance, we can exclude the calcified nature of Mr. Riegel's artery as a cause for the catheter's rupture.
+Indeed, Dr. Roccario himself while stating that "there was simply nothing about the procedures that I undertook or the medical decisions and choices that I made on May 10, 1996 which in my professional medical opinion in any way contributed to the bursting of this particular Evergreen 3.0-20mm balloon" has not actually opined that the catheter must have burst as a result of a manufacturing defect.
+The only affirmative evidence that the Riegels have adduced in support of their claim that the catheter must have had a manufacturing defect is the report of their expert, engineer Ted Milo, who offered the view that based on the nature of Mr. Riegel's injury, the catheter must have burst not longitudinally, but radially, which in his view apparently signified a manufacturing defect.
+The district court found, however, that Milo's conclusion that the catheter had burst radially was based on "sheer surmise and conjecture rather than on any scientific basis," and therefore found it to be insufficiently substantiated to be admissible as expert testimony.
+We agree, and thus conclude that the district court did not abuse its discretion in refusing to admit this evidence.
+See Raskin v. The Wyatt Co., 125 F.3d 55 , 65-66 (2d Cir. 1997) (explaining that district court has broad discretion in deciding whether to admit evidence, that we therefore review evidentiary rulings for manifest error, and that this "same standard of review applies to a district court's evidentiary rulings on expert testimony").
+The district court identified serious flaws in Milo's expert opinion.
+First, Milo did not explain the basis of his conclusion that Mr. Riegel's injury was more indicative of a radial failure than a longitudinal failure.
+Second, even assuming arguendo that the balloon burst radially rather than longitudinally, Milo did not explain why a radial failure could not itself result from the causes that Medtronic proffers here: namely, overinflation of the catheter or by punctures caused by calcifications.
+Indeed, the district court also pointed out that Milo's own exhibit indicated that even some non-longitudinal failures are caused not by manufacturing defects, but rather by overpressurization or punctures from calcified lesions.
+[fn18] The Riegels have not responded to this point on appeal.
+We also note that in his deposition, when Milo was asked for his response to another expert opinion that "the probable cause of rupture of the balloon catheter was not a manufacturing defect, but rather puncture of the balloon by either a spicule of calcium in the vessel wall or a portion of the previously implanted metal stents," he responded, "I have no opinion."
+Although the Riegels argue that Milo's theories should have been evaluated by a jury rather than the district judge, this Circuit has explained that it is appropriate for the district court to determine the admissibility of scientific evidence and to rely only on admissible evidence in ruling on summary judgment.
+See, e.g., Amorgianos v. National Railroad Passenger Corp., 303 F.3d 256 , 271 (2d Cir. 2002) (affirming grant of summary judgment after district court had ruled the plaintiff's expert report inadmissible); Raskin, 125 F.3d at 66 (stating that "an expert's report is not a talisman against summary judgment").
+We believe that the district court was well within its discretion in concluding that Milo's opinion was not an admissible expert opinion and therefore could not serve as a basis for demonstrating a manufacturing defect.
+An expert opinion requires some explanation as to how the expert came to his conclusion and what methodologies or evidence substantiate that conclusion.
+See Fed.R.Evid.
+702 ("If scientific, technical, or other specialized knowledge will assist the trier of fact to understand the evidence or to determine a fact in issue, a witness qualified as an expert by knowledge, skill, experience, training, or education, may testify thereto in the form of an opinion or otherwise, if (1) the testimony is based upon sufficient facts or data, (2) the testimony is the product of reliable principles and methods, and (3) the witness has applied the principles and methods reliably to the facts of the case").
+In this case, Milo essentially provided no explanation as to how he had reached his conclusion that the rupture must have been caused by a manufacturing defect, and himself seems to have backed away from this conclusion in his deposition.
+It was therefore appropriate for the district court to exclude his opinion.
+As a result, because there was no competent evidence excluding Medtronic's proffered causes particularly, encounter with a calcium spicule in the artery and/or the over-inflation of the catheter as the origin of the rupture of the Evergreen Balloon Catheter, there were no genuine issues of material fact for a jury on this claim.
+Therefore, we agree with the district court that the Riegels "failed to submit sufficient evidence from which a fairminded trier of fact [could] reasonably conclude that Plaintiff excluded all other causes of the burst," and affirm the court's December 2, 2003 dismissal of their negligent manufacturing claim.
+V. For the foregoing reasons, we hereby affirm the district court's March 14, 2002 and December 2, 2003 orders that, collectively, granted summary judgment to Medtronic on all of the Riegels' claims.

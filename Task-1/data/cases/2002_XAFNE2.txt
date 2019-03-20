@@ -1,0 +1,71 @@
+ BARKETT , Circuit Judge: The Defendants appeal the district court's order granting in part and denying in part their motion to compel arbitration.
+In this case, a group of doctors, acting on behalf of themselves and others similarly situated, have sued several HMOs on various grounds--including RICO, ERISA, quantum meruit, breach of contract, federal clean claim payment regulations, unjust enrichment, and state prompt pay statutes.
+The suit is made particularly complicated by the wide array of different relationships among the various parties in the action, relationships that we need not elaborate here beyond noting the following: some of the doctors had contracts with some of the HMOs; some of those contracts had arbitration clauses; and some of those arbitration clauses placed limitations on the sort of damages an arbitrator may award.
+1 The task facing the district court was, in short, to determine which of the various legal claims must be resolved through arbitration.
+The district court made four rulings related to this appeal.
+First, the court held that claims between plaintiffs and defendants who are both signatories to contracts containing enforceable arbitration clauses must be arbitrated.
+2 Second, relying primarily on our opinion in Paladino v. Avnet Computer Technologies, Inc. , 134 F.3d 1054 (11th Cir.1998), the court found that those arbitration clauses that exclude punitive damages are unenforceable in this suit because they preclude recovery of treble damages under RICO; therefore, an HMO may not compel arbitration of a RICO suit under such an arbitration clause.
+3 Third, the court determined that an HMO may not invoke its arbitration clause to compel arbitration of an aiding-and-abetting charge regarding a doctor's contractual rights with a different HMO.
+4 Fourth, the court held that exceptions to the general rule that a non-party to a contract may not invoke the contract--exceptions we described in MS Dealer Corp. v. Franklin , 177 F.3d 942 (11th Cir.1999)--do not apply in the present case; thus an HMO that is not a signatory to a particular contract may not invoke that contract's arbitration clause to compel arbitration.
+5 We affirm in its entirety the district court's order for the reasons set forth in its comprehensive opinion found at 132 F.Supp.2d 989 (S.D.Fla.2000).
+We agree that under the circumstances here MS Dealer does not compel application of equitable estoppel.
+In MS Dealer , the plaintiff, Franklin, bought a car pursuant to a "Buyers Contract" with Jim Burke Motors.
+The Buyers Contract incorporated by reference a retail installment contract, in which Franklin was charged $ 990.00 for a service contract through MS Dealer.
+Franklin subsequently sued both Jim Burke and MS Dealer for conspiracy and fraud.
+MS Dealer, a nonsignatory to the Buyers Contract, attempted to invoke that contract's arbitration clause to compel arbitration.
+Noting that "there are certain limited exceptions, such as equitable estoppel, that allow[ ] non signatories to a contract to compel arbitration," this Court found that MS Dealer could compel arbitration.
+Id. at 947 .
+In discussing those exceptions, MS Dealer relied primarily on Sunkist Soft Drinks, Inc. v. Sunkist Growers, Inc. , 10 F.3d 753 (11th Cir.1993) and Boyd v. Homes of Legend, Inc. , 981 F.Supp.
+1423 (M.D.Ala.1997).
+In Sunkist , the plaintiff, Sunkist Growers, Inc. (SGI), sought to avoid arbitration as provided by the contractual agreement between SGI and Sunkist Soft Drinks, Inc. (SSD).
+Subsequent to the agreement between the SGI and SSD, Del Monte purchased SSD.
+When SGI sued Del Monte over the terms of the agreement between SGI and SSD, Del Monte sought arbitration pursuant to that agreement.
+SGI argued that Del Monte could not compel arbitration because it was not a signatory to the contract.
+This Court held that SGI was equitably estopped from avoiding arbitration because SGI was suing under the same contract that provided for arbitration and, thus, should not be permitted to rely on some contractual terms but avoid others.
+Sunkist at 758.
+We noted that Del Monte was the parent company of SSD, and that after the purchase of SSD, Del Monte had ceased operating it as an independent enterprise.
+Id.
+Thus, the direct nexus between all of SGI's claims and the agreement as well as the integral relationship between SSD and Del Monte led us to conclude that SGI's claims were intimately founded in and intertwined with the agreement, and the plaintiff was thus equitably estopped from denying the non-signatory defendant's right to compel arbitration.
+Id. In Boyd , plaintiffs purchased mobile homes from several mobile home dealers, homes which had been manufactured by Homes of Legend (Homes).
+The purchases were made pursuant to retail installment and security agreements between the plaintiffs and the dealers, agreements that contained arbitration clauses.
+Homes was not a party to nor mentioned in these contracts for sale.
+The plaintiffs sued Homes, inter alia , for breach of their written express warranties on the mobile homes, alleging defects in materials and workmanship.
+They also alleged that their homes were covered under a myriad of state and federal consumer warranties--including implied and non-written warranties of merchantability, habitability, and freedom from defects--and that Homes' conduct violated the those warranties as well as the consumer protection provisions of the Magnuson-Moss Act.
+Some plaintiffs also sued the dealers.
+Homes attempted to compel arbitration based on the arbitration clauses in the retail installment contracts between the various plaintiffs and dealers.
+The Boyd court ruled that Homes could not compel arbitration by invoking plaintiffs' arbitration agreements with the dealers, in part, because plaintiffs did not "advance the theory that the [dealer] defendants acted as Homes of Legend's front in committing the alleged frauds," but, rather, "pursue[d] parallel claims of fraudulent conduct against two separate commercial entities who have common, but decidedly distinct, duties toward them " Boyd at 1434.
+Boyd observed that this scenario was completely distinct from two previous cases in which it had applied equitable estoppel: Staples [v. Money Tree, Inc. 936 F.Supp.
+[856,] 859 Roberson [v. Money Tree of Alabama, Inc. 954 F.Supp.
+[1519,] 1522, 1529 Boyd at 1433.
+In Sunkist , because the plaintiff's claims against the nonsignatory defendant were based upon, and inextricably intertwined with, the written agreement of the parties, we compelled arbitration.
+In Boyd , the plaintiff's causes of action against Homes were based on duties separate and apart from those arising out of the retail installment contract between the plaintiffs and the dealers, and did not allege collusion between the defendants to defraud the plaintiffs as to the terms of that contract.
+Thus, the nonsignatory defendant was not entitled to compel arbitration.
+Applying Sunkist and Boyd , MS Dealer concluded that defendant MS Dealer could invoke equitable estoppel to compel arbitration of plaintiff Franklin's suit, because "each of [Franklin's] fraud and conspiracy claims depend[ed] entirely upon her contractual obligation to pay $990.00 for the service contract," MS Dealer at 948, and moreover because Id. (quoting Boyd at 1433).
+A plaintiff's allegations of collusive behavior between the signatory and nonsignatory parties to the contract do not automatically compel a court to order arbitration of all of the plaintiff's claims against the nonsignatory defendant; rather, such allegations support an application of estoppel only when they "establish[ ] that [the] claims against [the nonsignatory are] intimately founded in and intertwined with the obligations imposed by the [contract containing the arbitration clause]."
+Id. The HMOs nonetheless direct our attention to more general language from MS Dealer , which notes that equitable estoppel may be appropriate "when the signatory [to the contract containing the arbitration clause] raises allegations of substantially interdependent and concerted misconduct by both the nonsignatory and one or more of the signatories to the contract."
+Id. (quoting Boyd at 1433).
+The HMOs contend that this language mandates an application of equitable estoppel in this case simply because the doctors allege a RICO conspiracy.
+This contention is only tenable if the passage is read completely out of context.
+MS Dealer "is not a rigid test, and each case turns on its facts."
+Hill v. G E Power Systems, Inc. , 282 F.3d 343 (5th Cir.2002) (holding that district court did not abuse its discretion in declining to apply doctrine of equitable estoppel even though complaint alleged collusive scheme to defraud).
+In all cases, "'the lynchpin for equitable estoppel is equity,' and the point of applying it to compel arbitration is to prevent a situation that 'would fly in the face of fairness.'"
+Id .
+at , 2002 WL 206335 , (quoting Grigson v. Creative Artists Agency, L.L.C.
+, 210 F.3d 524, 527 (5th Cir.2000)).
+The purpose of the doctrine is to prevent a plaintiff from, in effect, trying to have his cake and eat it too; that is, from "rely[ing] on the contract when it works to [his] advantage [by establishing the claim], and repudiat[ing] it when it works to [his] disadvantage [by requiring arbitration]."
+Tepper Realty Co. v. Mosaic Tile Co. , 259 F.Supp.
+688, 692 (S.D.N.Y.1966).
+The plaintiff's actual dependance on the underlying contract in making out the claim against the nonsignatory defendant is therefore always the sine qua non of an appropriate situation for applying equitable estoppel.
+In light of the foregoing, we agree with the district court that the present RICO suit does not present an appropriate circumstance for equitable estoppel, and even if we did not agree, we would be hard pressed to identify any abuse of discretion in the court's decision to forego application of the doctrine.
+See Grigson at 528 ("whether to utilize equitable estoppel in this fashion is within the district court's discretion; we review to determine only whether it has been abused.").
+Here, the doctors' suit does not rely upon or presume the existence of an underlying contract; the RICO claims in this case are based on a statutory remedy Congress has provided to any person injured as a result of illegal racketeering activities.
+6 This remedy stands apart from any available remedies for breach of contract, and clearly is not "intimately founded in and intertwined with the underlying contract obligations."
+McBro Planning and Development Co. v. Triangle Const.
+Co., Inc. , 741 F.2d 342, 344 (11th Cir.1984) (quoting Hughes Masonry Co. v. Greater Clark County School Bldg. Corp. , 659 F.2d 836, 841 n. 9 (7th Cir.1981)).
+Thus, the doctors in the present suit are not effectively "attempting to hold [a non-signatory HMO] to the terms of [a signatory HMO's] agreement."
+Hughes Masonry at 838.
+Moreover, although the doctors in this case do claim fraudulent collusive behavior by the HMOs, they make no suggestion that the contracts containing arbitration clauses are themselves the product of, or in any way related to, the HMO's conspiratorial behavior.
+This situation is different from MS Dealer , in which the plaintiffs alleged that the signatory and nonsignatory defendants had colluded to defraud by including an excessively expensive installment contract in a buyers order (sharing in the illicit profits), and the only claims against the nonsignatory defendant were related to that retail installment contract.
+In contrast, here the alleged fraudulent scheme does not differentiate between doctors with contracts and those without, and the RICO claims are unrelated to any of the contractual relationships that exist between the doctors and the HMOs.
+Therefore, the fact that the doctors' complaint alleges a RICO conspiracy provides no basis in equity for allowing a nonsignatory HMO to avail itself of an arbitration agreement that a coconspirator signatory HMO happens to have with a plaintiff doctor.
+AFFIRMED.

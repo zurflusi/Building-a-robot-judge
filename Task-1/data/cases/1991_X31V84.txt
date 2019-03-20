@@ -1,0 +1,255 @@
+ D.W.
+NELSON , Circuit Judge: With the enactment of the Federal Tort Claims Act (FTCA), 28 U.S.C. 1346(b) , 2671-80, Congress partially punctured the immunity of the sovereign.
+At the same time, however, it limited the relief available against parties other than the government by making the United States the exclusive defendant in various situations.
+This case presents one of the numberless questions arising out of this interplay: whether a suit predicated on the tortious deprivation of fifth amendment due process, and therefore arguably beyond the reach of the FTCA, may nonetheless be brought against the Federal Savings & Loan Insurance Corporation ("FSLIC") pursuant to a "sue-and-be-sued" clause.
+We hold that it may. I. In 1966, plaintiff John Meyer ("Meyer") joined Fidelity Savings & Loan ("Fidelity"), where he remained for the ensuing sixteen years.
+By 1982, at the time he was terminated, he had reached the position of executive vice-president.
+That same year, as a result of dubious loan policies, Fidelity began experiencing severe financial difficulties.
+They finally came to a head on April 13, 1983, when California's Savings and Loan Commissioner seized Fidelity's assets and appointed the FSLIC as state receiver.
+Because the FSLIC was later appointed the sole federal receiver by the Federal Home Loan Bank Board pursuant to 12 U.S.C. 1729(c)(2) , federal receivership replaced state receivership by operation of law. 1 Also on April 13, Robert Pattullo ("Pattullo") was named as the FSLIC's special representative to handle Fidelity's receivership.
+He promptly proceeded to terminate four employees.
+Among them was Meyer.
+No reason was given Meyer for his termination, nor was he provided an opportunity either to hear the reasons why he should, or put forth the reasons why he should not, be terminated.
+In the same vein, he subsequently was denied the opportunity to appeal the decision or present evidence to challenge it.
+Meyer's suit, filed against a number of defendants, grows out of these events.
+As of the time of trial, the sole remaining claim alleged that the FSLIC's and Pattullo's actions had deprived plaintiff of a property interest without due process of law, in violation of the Fifth Amendment.
+2 The FSLIC's argument that it was protected by the doctrine of sovereign immunity having been rejected by the United States magistrate presiding over the trial, 3 the trial proceeded before-a-jury.
+On September 19, 1989, the jury reached its decision pursuant to a special verdict.
+It found that Meyer had "a legitimate claim of entitlement to employment or a reasonable expectation of continued employment arising out of an implied contract with Fidelity;" that Meyer was "discharged by the FSLIC and/or Robert L. Pattullo;" that the FSLIC and/or Pattullo "failed to provide John Meyer with a hearing, the reasons for his discharge, and an opportunity to contest the reasons for his discharge before his termination;" that Pattullo was "acting within the scope of his employment at the time he terminated plaintiff;" and that Meyer was "damaged as a result of the discharge."
+Upon instruction challenged by appellant, and after the court had rejected appellant's request that it allow expert testimony on the state of the law at the time of Meyer's termination, the jury also found Pattullo to be "immune from liability under the doctrine of qualified immunity."
+The FSLIC timely appealed, arguing that Meyer's claims against the federal agency were barred by sovereign immunity.
+In the alternative, it disputes the conclusion that Meyer was deprived of a protected property interest.
+Meyer then filed a cross-appeal on the issue of Pattullo's qualified immunity.
+4 II.
+The jurisdictional puzzle presented by this case consists of four principal pieces.
+First is the fundamental proposition that, "[a]bsent a waiver of sovereign immunity, the Federal Government is immune from suit."
+Loeffler v. Frank , 486 U.S. 549, 555 , 108 S.Ct. 1965, 1969 , 100 L.Ed.2d 549 (1987); see also United States v. Testan , 424 U.S. 392, 400 , 96 S.Ct. 948, 954 , 47 L.Ed.2d 114 (1976); LaBarge v. County of Mariposa , 798 F.2d 364, 366 (9th Cir.1986), cert. denied , 481 U.S. 1014 , 107 S.Ct. 1889 , 95 L.Ed.2d 497 (1987).
+Second comes Congress' express provision that the FSLIC may "sue and be sued, complain and defend, in any court of competent jurisdiction in the United States."
+12 U.S.C. 1725(c)(4) (repealed 1989); see also F.H.A.
+v. Burr , 309 U.S. 242, 245 , 60 S.Ct. 488, 490 , 84 L.Ed. 724 (1939) (stating that "such waivers by Congress of governmental immunity in case of such federal instrumentalities should be liberally construed").
+We consistently have held that this "sue and be sued" language constitutes a general waiver of sovereign immunity.
+Woodbridge Plaza v. Bank of Irvine , 815 F.2d 538, 542-43 (9th Cir.1987); Morrison-Knudsen Co., Inc. v. Chg Intern., Inc. , 811 F.2d 1209, 1223 (9th Cir.) ("Unless Congress clearly directs otherwise, such 'sue and be sued' language waives an agency's sovereign immunity"), cert. dismissed , 488 U.S. 935 , 109 S.Ct. 358 , 102 L.Ed.2d 349 (1987).
+The third item is the FTCA, 28 U.S.C. 1346(b) , 2671-2680.
+The FTCA waives the United States' sovereign immunity from tort claims "in the same manner and to the same extent as a private individual under like circumstances."
+28 U.S.C. 2674 ; see also Bush v. Eagle-Picher Indus. , 927 F.2d 445, 447 (9th Cir.1991).
+5 The fourth and final piece of the puzzle is the FTCA provision that states: section 1346(b) 28 U.S.C. 2679 .
+Construing these four pieces together, our task can be expressed in the following question: Is a claim alleging deprivation of property without due process of law "cognizable" under the FTCA?
+If the answer to this question is yes, the sue-and-be-sued clause has no effect on this case, see 28 U.S.C. 2679(a) , and Meyer's suit must be dismissed.
+Where the FTCA governs, its remedy is exclusive and a government agency may not be sued in its own name.
+See Loeffler , 486 U.S. at 549 , 108 S.Ct. at 1966 .
+The issue, then, simply becomes whether the FTCA waives the United States' sovereign immunity for the particular tort at stake and whether the plaintiff has duly complied with the Act's requirements.
+Meyer's suit alleges a constitutional tort, which, by definition, is based on federal, not state, law.
+Because the FTCA restricts its waiver to injuries "under circumstances where the United States, if a private person, would be liable to the claimant in accordance with the law of the place where the act or omission occurred," 28 U.S.C. 1346(b) , his claim would be barred.
+6 On the other hand, if the tort is not "cognizable" under the FTCA, then 2679(a) has no application in this case and Meyer's suit is authorized by the broad waiver of sovereign immunity embodied in the sue-and-be-sued provision.
+See Woodbridge Plaza , 815 F.2d at 542-43 ; Morrison-Knudsen , 811 F.2d at 1223 .
+In deciding whether a claim is or is not cognizable, courts appear to have established three broad categories.
+First, claims brought against sue-and-be-sued agencies that clearly fall under the FTCA's coverage--that is, for which the FTCA provides a cause of action--are cognizable under section 1346(b) .
+As a consequence, the remedy provided by the FTCA is exclusive.
+That result derives directly from section 2679(a) and the Supreme Court's opinion in Loeffler , where it stated: 486 U.S. at 562 , 108 S.Ct. at 1973 .
+Second, claims against sue-and-be-sued agencies that do not sound in tort, and therefore escape the FTCA's ambit, are unaffected by section 2679(a) .
+That much is clear from Loeffler , in which the Supreme Court held that limitations on a sue-and-be-sued waiver of sovereign immunity must be "expressly" created by Congress.
+486 U.S. at 561 , 108 S.Ct. at 1972 .
+The waiver of sovereign immunity, in sum, is left intact as to non-tort causes of action.
+See also Woodbridge , 815 F.2d at 543-44 (holding that where a claim is not "within the exclusive purview of the FTCA the 'sue-and-be-sued' provision" remains available to waive the agency's sovereign immunity) (citing Franchise Tax Board v. United States Postal Service , 467 U.S. 512 , 104 S.Ct. 2549 , 81 L.Ed.2d 446 (1984)).
+In the third hypothetical lies the real brain teaser.
+These are hybrid cases where the claim sounds in tort but is excluded from the FTCA's coverage.
+They fall into two subgroups: explicitly excluded claims, and implicitly excluded claims.
+The question in both instances is whether the fact that the FTCA does not provide a remedy means that the action is not cognizable under the Act.
+For actions controlled by an explicit exclusion, the answer is clear.
+Claims labeled "exceptions" by 28 U.S.C. 2680 are one such example.
+7 Such claims, which would appear to be embraced by the FTCA's definition of torts for which the government has waived its immunity but which are specifically excepted pursuant to section 2680 , are not actionable.
+They are, however, deemed "cognizable" under the FTCA.
+Safeway Portland Employees Fed. Credit Union v. FDIC , 506 F.2d 1213, 1215 (9th Cir.1974).
+Therefore, pursuant to section 2679 , a sue-and-be-sued clause would not waive an agency's immunity as to such actions.
+8 The other, more difficult example concerns claims that sound in tort but are implicitly excluded from the FTCA's waiver of sovereign immunity.
+This is the case with torts for which state law would not impose liability on private persons, such as constitutional torts.
+Because "the constitutional tort is a child of federal law, the United States is not liable for such torts under the Federal Tort Claims Act."
+Bell, Proposed Amendment to the Federal Tort Claims Act , 16 Harv.J.
+on Legis.
+1, 4 (1979); see also Pereira v. United States Postal Service , 899 F.2d 861, 864 (9th Cir.1990); Keene Corp. v. United States , 700 F.2d 836, 845 n. 13 (2d Cir.), cert. denied , 464 U.S. 864 , 104 S.Ct. 195 , 78 L.Ed.2d 171 (1983); Birnbaum v. United States , 588 F.2d 319, 322 (2d Cir.1978); Schuck, Suing Our Servants: The Court, Congress, and the Liability of Public Officials for Damages , 1980 Sup.Ct.Rev.
+281, 356.
+See generally Dolan, Constitutional Torts and the Federal Tort Claims Act , 14 U.Richmond L.Rev.
+281 (1980).
+We conclude, for the reasons that follow, that constitutional torts, in addition to being implicitly excluded from the FTCA, are also not cognizable under that statute.
+The Seventh Circuit's exchange on this issue is most illuminating.
+In Baker v. F & F Investment Company , 489 F.2d 829 (7th Cir.1973), African-Americans brought a suit alleging violation of their Fifth and Thirteenth amendment rights by federal agencies, including the FSLIC.
+The defendants' argument that the FTCA applied and did not grant a remedy to the plaintiffs was characterized as both "elaborate" and "inherently suspect," by the court.
+Id. at 834-35 .
+The Seventh Circuit proceeded to hold that subject matter jurisdiction existed for two reasons.
+First, addressing the issue of what we have called implicitly excluded claims, the court held: Id. at 835 .
+Second, the court defeated the defendants' argument that the suit, being in reality a suit for tortious interference with contractual rights, was explicitly barred by 28 U.S.C. 2680(h) .
+9 The court simply replicated its prior reasoning, stating that if this were "really a suit for interference with contract rights, then the FTCA would 'not apply' and the sue and be sued clauses would not be limited by 2679(a) , and the pre-FTCA consent to sue would not be affected."
+Id. at 836 (citation omitted).
+Six years later, the Seventh Circuit reconsidered its Baker decision in FDIC v. Citizens Bank & Trust Co. , 592 F.2d 364 (7th Cir.), cert. denied , 444 U.S. 829 , 100 S.Ct. 56 , 62 L.Ed.2d 37 (1979).
+That case involved a suit filed against the FDIC for a tort explicitly excluded from the FTCA; it did not involve any implicit exclusions.
+Reviewing decisions of other courts, the Seventh Circuit found that the FTCA "withdrew the sue-and-be-sued waiver of sovereign immunity" for explicitly excluded torts.
+Id. at 369 .
+As most courts had ruled, even though a claim is labeled an exception under the FTCA, it nonetheless is "cognizable" for purposes of 1346(b) .
+Id. at 370 ; see Safeway Portland , 506 F.2d at 1215 ; Edelman v. FHA , 382 F.2d 594, 596-97 (2d Cir.1967).
+Therefore, it overruled Baker on this point.
+However, Citizens Bank left undisturbed Baker's second prong, namely that "because the claim arose under federal law it was not within the ambit of the Act."
+592 F.2d at 370 .
+Indeed, it expressly distinguished the facts of the two cases, remarking that "the conduct alleged in Baker was not the kind of conduct a private person (see 1346(b) ) would ever have an opportunity to engage in, which suggests that Congress did not intend the Federal Tort Claims Act to apply."
+Id. at 370 n. 8.
+In sum, there is a difference, for purposes of "cognizability," between claims explicitly excepted by the FTCA and those implicitly excluded by virtue of the FTCA's own definition--that is, claims where no private person would be liable under the law of the state.
+10 The former are "cognizable" under the FTCA, while the latter are not.
+Support for this view can be found by comparing Safeway Portland with First Empire Bank v. FDIC , 572 F.2d 1361 (9th Cir.), cert. denied , 439 U.S. 919 , 99 S.Ct. 293 , 58 L.Ed.2d 265 (1978).
+As mentioned above, in Safeway Portland , we found that torts explicitly excluded from the FTCA are "cognizable" under the statute.
+Id. at 1215 (quoting Edelman , 382 F.2d at 597 ).
+And yet, in First Empire , we held the FDIC liable on a claim based on federal law without even mentioning the immunity argument.
+As noted in Federal Deposit , short of surreptitiously overruling Safeway Portland , First Empire must stand for the position that "a tort claim arising under federal law is not subject to the Act."
+Citizens Bank , 592 F.2d at 372 .
+Language from a large number of courts corroborates this position.
+For example, in Birnbaum , plaintiffs brought suit alleging that the Central Intelligence Agency ("CIA") had unlawfully opened letters from the Soviet Union.
+Besides discussing a number of causes of action cognizable under state law, the court scrupulously examined the claim alleging a constitutional violation: federal constitutional 1346(b) tour de force 588 F.2d at 327-28 (footnote omitted) (emphasis in original); see also Keene , 700 F.2d at 845 n. 13 (remarking that " Bivens -type actions against the United States are routinely dismissed for lack of subject-matter jurisdiction").
+These cases fortify the view that constitutional torts are not cognizable under the FTCA.
+The FSLIC asserts that Pereira and its forebears 11 stand for the proposition that the sue-and-be-sued language does not waive its immunity for constitutional torts.
+In Pereira , plaintiff brought a First Amendment suit against the United States Postal Service ("USPS").
+899 F.2d at 862 .
+Holding that the Postal Service was immune from suit despite its sue-and-be-sued clause, we stated: Id. at 864 .
+We find Pereira inapposite for purposes of the instant case. 12 Pereira , as well as the three cases to which it cites on this issue, involved a claim against the USPS.
+Like the FSLIC, the USPS is a sue-and-be-sued federal agency; unlike claims against the FSLIC, however, claims against the USPS are governed by 39 U.S.C. 409(c) .
+13 Section 409(c) provides: "The provisions of chapter 171 and all other provisions of title 28 relating to tort claims shall apply to tort claims arising out of activities of the Postal Service."
+Its import is to make the FTCA the sole possible avenue of relief for all torts committed by the USPS, whether or not the FTCA actually provides a remedy.
+In other words, section 409(c) has effectively read out tort actions from the general waiver of sovereign immunity embodied in the Postal Service's sue-and-be-sued clause.
+See Pereira , 899 F.2d at 863 (noting that the USPS's sue-and-be-sued waiver of sovereign immunity "is limited with respect to tort claims" by virtue of 39 U.S.C. 409(c) ).
+Because the FTCA does not provide a remedy for constitutional torts, the United States has not waived its immunity for such torts when committed by the Postal Service.
+In light of this limitation on the sue-and-be-sued clause, we could not have found that language to have authorized a suit against the Postal Service for constitutional torts.
+Congress has enacted no such restriction on the general waiver of the FSLIC's immunity.
+For that reason, Pereira does not control this case. 14 Nor are we persuaded by the FSLIC's argument that its interpretation best matches congressional intent.
+First, it cites Congress' wish to "place torts of 'suable' agencies of the United States upon precisely the same footing as torts of 'nonsuable' agencies."
+H.R.Rep.
+No. 1287, 79th Cong., 1st Sess., 6 (1945).
+Because the latter cannot be sued directly for constitutional torts, it argues, nor can the former.
+Despite its force, the logic is not fail-proof.
+The Supreme Court case interpreting Congress' statement made it clear that "in the context of suits for which it provided a cause of action under the FTCA , 'sue-and-be-sued' agencies would be subject to suit only to the same extent as agencies whose sovereign immunity from tort suits was being waived for the first time."
+Loeffler , 486 U.S. at 562 , 108 S.Ct. at 1973 (emphasis added).
+Congress, in sum, begged the very question raised by this case, namely whether constitutional torts are torts for which Congress "provided a cause of action under the FTCA."
+Hence, Meyer's view is equally consistent with legislative intent, leaving suable and nonsuable agencies on equal terms whenever, and to the extent that, the FTCA applies.
+The FSLIC's second, more powerful retort is to point to the 1988 Liability Reform Act amending the FTCA.
+As outlined earlier, see supra note 8, section 2679 has two prongs: the first is addressed to sue-and-be-sued agencies, 2679(a) ; the second to federal employees, 2679(b) .
+In relevant part, both purport to provide exclusive FTCA remedies against the United States.
+15 However, under the amendment, Congress specifically held that federal employees were not immunized by section 2679(b) for civil actions "brought for a violation of the Constitution of the United States."
+28 U.S.C. 2679(b)(2)(A) .
+The absence of a comparable restriction under section 2679(a) lends credence to the view that the Act also precludes constitutional tort suits against sue-and-be-sued agencies.
+However, we reject that argument.
+Besides the fact that interpreting the sounds of legislative silence remains an uncertain science, there is another way of reading Congress' action.
+As Justice Stevens points out in his Smith dissent, section 2679(b)(2) (A) is of questionable usefulness: "Congress did not need to add this amendment because constitutional torts are, for the most part, outside the realm of common-law torts," Smith , 111 S.Ct. at 1193 (Stevens, J., dissenting), and therefore unaffected by the FTCA or its amendments.
+As a result, it is at least arguable that its inclusion was meant as a reminder, an added guarantee made necessary by the amendment's potential ambiguity on this point.
+16 Moreover, other differences between Congress' treatment of actions against federal agencies and against federal employees should be noted.
+The provision addressing the former is remarkably succinct.
+As we have seen, it does not mention that constitutional tort suits might still be viable against sue-and-be-sued agencies, compare 28 U.S.C. 2679(b)(2)(A) ; but, by the same token, neither does it mention the continued applicability of the FTCA's explicit limitations.
+Compare 28 U.S.C. 2679(d)(4) .
+It follows no more logically from the absence of the former that agencies are immune from constitutional tort claims than it does from the absence of the latter that they are not immune from tort suits expressly excepted under section 2680 .
+Accordingly, for the reasons set out above, we find that Meyer's action against the FSLIC alleging deprivation of property without due process of law is not barred by the doctrine of sovereign immunity.
+The district court's ruling on this matter is affirmed.
+17 III.
+We next address Meyer's claim that he was unconstitutionally deprived of his property interest without due process of law.
+We review this question de novo.
+United States v. McConney , 728 F.2d 1195, 1203 (9th Cir.) (en banc), cert. denied , 469 U.S. 824 , 105 S.Ct. 101 , 83 L.Ed.2d 46 (1984).
+In Board of Regents v. Roth , 408 U.S. 564, 576-77 , 92 S.Ct. 2701, 2708-09 , 33 L.Ed.2d 548 (1972), and Perry v. Sindermann , 408 U.S. 593, 601 , 92 S.Ct. 2694, 2699 , 33 L.Ed.2d 570 (1972), the Supreme Court held that to have a property interest, an individual must possess an entitlement to the benefit.
+Entitlements are created not by the Constitution, but by "independent source[s] such as state law."
+Roth , 408 U.S. at 577 , 92 S.Ct. at 2709 .
+Relying on Cleary v. American Airlines, Inc. , 111 Cal.App.3d 443 , 168 Cal.Rptr.
+722 (1980), and Pugh v. See's Candies, Inc. , 116 Cal.App.3d 311 , 171 Cal.Rptr.
+917 (1981), the district court found that Meyer had stated a proper claim under state law for enjoyment of continued employment.
+See also Foley , 47 Cal.3d at 676-82 , 254 Cal.Rptr.
+at 222-26 , 765 P.2d at 384-88 .
+18 The terms and conditions of Meyer's employment that support his claim include his sixteen years of service for Fidelity, his frequent promotions and commendations and Fidelity's general policy of termination only upon a showing of good cause.
+The FSLIC urges that, notwithstanding Fidelity's conduct, a contract for indefinite employment barring good cause was in excess of governing federal regulations.
+12 C.F.R. 563.39 , in effect at the time of appellee's termination, provided that: Cf. United States v. Gaubert , U.S. , 111 S.Ct. 1267, 1277 , 113 L.Ed.2d 335 (1991) (describing the FSLIC's "broad statutory authority").
+The FSLIC's argument is that by virtue of 12 C.F.R. 563.39 , Meyer never enjoyed a property interest in continued employment.
+Because a guarantee of continued employment would be inconsistent with section 563.39 , it follows that it must be considered non-enforceable.
+As support for its position, the FSLIC invokes Inglis v. Feinerman , 701 F.2d 97 (9th Cir.1983), cert. denied , 464 U.S. 1040 , 79 L.Ed.2d 168 (1984), and Bollow v. Federal Reserve Bank , 650 F.2d 1093 (9th Cir.1981), cert. denied , 455 U.S. 948 , 102 S.Ct. 1449 , 71 L.Ed.2d 662 (1982).
+In both cases, plaintiffs asserted that their employment contracts gave rise to property interests that were unconstitutionally terminated.
+Inglis , 701 F.2d at 99 ; Bollow , 650 F.2d at 1096 .
+The court disagreed.
+In Inglis , the employer was a federal bank created under the Federal Home Loan Bank Act, 12 U.S.C. 1421 et seq.
+, 701 F.2d at 98 ; in Bollow , it was a federal reserve bank governed by the Federal Reserve Act of 1913, 12 U.S.C. 341 , Fifth.
+650 F.2d at 1097 .
+The two relevant statutes gave the employer the power "to dismiss at pleasure" officers and employees.
+Inglis , 701 F.2d at 98 ; Bollow , 650 F.2d at 1097 .
+Despite allegations that the bank's overall conduct and communications amounted to a promise of continued employment, the court held such purported pledges to be void and nonenforceable in light of inconsistent and controlling federal statutes. 701 F.2d at 98 ; 650 F.2d at 1099-100 .
+See also Aalgaard , 224 Cal.App.3d 674 , 274 Cal.Rptr.
+81 (construing in similar fashion the National Banking Act, 12 U.S.C. 24 , Fifth).
+Although the analogy is seductive, it ultimately must fail.
+To begin with, there is no equivalent "dismissal at pleasure" language in the instant case.
+It is one thing to have a federal statute that grants banks the power to terminate employment contracts at will, quite another to forbid insured associations from entering into burdensome or unsafe contracts.
+Where the former clearly collides with a "for cause" provision, the latter, at most, qualifies it.
+As Meyer remarks, it is perfectly plausible that a contract contemplating dismissal only for good cause would not "constitute an unsafe or unsound practice" under 12 C.F.R. 563.39 .
+More importantly, the cases cited by the FSLIC all involve federal banks created under federal statutes.
+Here, although governed in part by federal law, the employer was a state-chartered savings institution.
+Federal law, which somehow "preempted" state law claims, see Inglis , 701 F.2d at 98 (explaining that Bollow "construed [ 12 U.S.C. 341 (Fifth)] as preempting employee claims of wrongful discharge based on state law"); Aalgaard , 224 Cal.App.3d 674 , 274 Cal.Rptr.
+at 92 (finding that 12 U.S.C. 24 , Fifth preempted California law), does not preempt Meyer's action--nor indeed does the FSLIC claim that it does.
+In short, the contract allegedly created between Fidelity and Meyer cannot be voided on this ground.
+The FSLIC directs its second set of arguments to the particularities of receivership law.
+First, it points to the broad power granted by Congress to federal receivers, citing their responsibility "to proceed to liquidate its assets in an orderly manner, whichever shall appear to be to the best interests of the insured members of the association in default."
+12 U.S.C. 1729(b) (repealed 1989).
+To compel the FSLIC to conduct a hearing before exercising its authority would, it is argued, be inconsistent with congressional intent.
+Second, the FSLIC contends that its actions also are expressly permitted under California law because it incorporates applicable federal law.
+Indeed, California Financial Code 9103 (repealed 1983), provides that a state receiver, "shall have all the rights, privileges and powers conferred upon it by federal statutes now or hereafter enacted."
+See Fidelity Savings & Loan Ass'n v. Federal Home Loan Bank Board , 689 F.2d 803, 810 (9th Cir.1982) (stating that under this provision, "California law thus incorporates all federal law concerning the powers of the FSLIC as receiver"), cert. denied , 461 U.S. 914 , 103 S.Ct. 1893 , 77 L.Ed.2d 283 (1983).
+Once again, the FSLIC's argument is appealing.
+Stated somewhat differently, the contention is that Meyer's purported entitlement to continued employment was, from its very inception, defined conditionally, limited by the prospect of Fidelity's placement in receivership.
+With the implicit promise came the implied caveat.
+Ultimately, however, this reasoning also is flawed.
+The source of Meyer's property right was California common law, a history of satisfactory employment, and an understanding of fair dealing.
+The fact that federal and, arguably, state law conferred wide discretion to receivers to repudiate "burdensome" contracts does not, retrospectively, annul the state entitlement.
+In FDIC v. Mallen , 486 U.S. 230 , 108 S.Ct. 1780 , 100 L.Ed.2d 265 (1988), for example, the president and director of a federally insured bank was indicted on a number of charges.
+Id. at 236 , 108 S.Ct. at 1785 .
+As a result, the FDIC suspended him pursuant to 12 U.S.C. 1818(g)(1) , which authorizes precisely such action.
+Id. at 237-38 , 108 S.Ct. at 1786-87 .
+Reading the case through the FSLIC's eyes, one would be tempted to say that there had been no deprivation of a property interest, since the interest itself was contingent upon the plaintiff not being indicted--in other words, the president's entitlement to continued employment could not survive his indictment, for that would be inconsistent with the FDIC's right to dismiss under federal regulations.
+The Court, however, saw it differently.
+Without hesitation, it found that the plaintiff's right to continue as president was "protected by the Fifth Amendment Due Process Clause," and that "the FDIC's order of suspension affected a deprivation of this property interest."
+Id. at 240 , 108 S.Ct. at 1787 .
+19 That the suspension was foretold made it no less of a deprivation.
+20 Undoubtedly, federal receivership law reflects the urgency of the situation facing savings and loan institutions.
+The right given receivers to dispose expeditiously of burdensome contracts is an outgrowth of this emergency; but the weight of the federal interest goes to the question of what , not whether , process is due.
+The facts alleged in this case suggest that the FSLIC arbitrarily terminated some employees while retaining others.
+Meyer, for his part, was never given an opportunity to hear or be heard, and it was never determined--at least not openly--that keeping him aboard would somehow destabilize the entire crew.
+At a minimum, Meyer "must be given some kind of notice and afforded some kind of hearing"--"rudimentary precautions" guaranteed by the due process clause.
+Goss , 419 U.S. at 579, 581 , 95 S.Ct. at 738, 740 (emphasis in original).
+Accordingly, we affirm the district court on this point.
+IV.
+Meyer also brought a Bivens action against Pattullo stemming from the alleged violation of plaintiff's Fifth Amendment rights.
+See Bivens v. Six Unknown Named Agents of Fed. Bureau of Narcotics , 403 U.S. 388 , 91 S.Ct. 1999 , 29 L.Ed.2d 619 (1971).
+While the FTCA presents no bar to Meyer's Bivens action, he faces a different kind of obstacle in his suit against Pattullo.
+An official in Pattullo's position is entitled to qualified immunity when his "conduct does not violate clearly established statutory or constitutional rights of which a reasonable person would have known."
+Harlow v. Fitzgerald , 457 U.S. 800, 818 , 102 S.Ct. 2727, 2738 , 73 L.Ed.2d 396 (1982); see also Finkelstein v. Bergna , 924 F.2d 1449, 1451 (9th Cir.1991); Thorsted v. Kelly , 858 F.2d 571, 573 (9th Cir.1988).
+Thus, "[t]he relevant inquiry is whether a reasonable government official could have believed that his conduct was lawful, in light of clearly established law and the information he possessed."
+Thorsted , 858 F.2d at 573 (citing Anderson v. Creighton , 483 U.S. 635 , 107 S.Ct. 3034 , 97 L.Ed.2d 523 (1987)).
+In this case, after having received instructions from the court that were challenged by the plaintiff, the jury returned a verdict in favor of Pattullo on the grounds of qualified immunity.
+The court's instructions were as follows: We begin, uncharacteristically, with substantial agreement: neither party disputes that the jury was improperly instructed.
+In light of controlling precedent, a proper instruction should refer both to the factors enumerated in this case and to "clearly established law."
+See, e.g. , Thorsted , 858 F.2d at 573 .
+The district court rejected plaintiff's and defendants' proposed instructions, both of which met this requirement; clearly, it was in error.
+21 This, however, does not end the inquiry.
+As we recently noted, the trial court has wide latitude in formulating instructions and will be reviewed for abuse of discretion only.
+Benigni v. City of Hemet , 879 F.2d 473, 479 (9th Cir.1988); Thorsted , 858 F.2d at 573 .
+The reviewing court must determine "whether, considering the charge as a whole, the court's instructions fairly and adequately covered the issues presented, correctly stated the law, and were not misleading."
+Thorsted , 858 F.2d at 312 .
+An error of instruction will not be reversed "if it is more probably than not harmless."
+Benigni , 879 F.2d at 479 ; see also Kisor v. Johns-Mansville Corp. , 783 F.2d 1337, 1340 (9th Cir.1986) ("We must consider whether the instruction [is] to the prejudice of the objecting party").
+We conclude that the error in this case was non-prejudicial based on our finding that, as a matter of law, "'the facts alleged [do not] support a claim of violation of clearly established law.'"
+Vaughan v. Ricketts , 859 F.2d 736, 739 (9th Cir.1988) (quoting Mitchell v. Forsyth , 472 U.S. 511, 528 n. 9, 105 S.Ct. 2806, 2816 n. 9, 86 L.Ed.2d 411 (1985)), cert. denied , 490 U.S. 1012 , 109 S.Ct. 1655 , 104 L.Ed.2d 169 (1989).
+Although we believe Meyer's claim has merit, see supra Part III, "a reasonable officer could have believed his actions toward [Meyer] were constitutional even if they were not."
+Wood v. Ostrander , 879 F.2d 583, 591 (9th Cir.1989), cert. denied , U.S. , 111 S.Ct. 341 , 112 L.Ed.2d 305 (1990).
+22 Rules governing federally insured institutions and federal receivership make for treacherous law.
+Indeed, the district court went so far as to reverse itself, initially finding that Meyer did not have a legitimate expectation of continued employment.
+In order to be clearly established, Anderson , 483 U.S. at 640 , 107 S.Ct. at 3039 (citation omitted); see also F.E.
+Trotter, Inc. v. Watkins , 869 F.2d 1312, 1315 (9th Cir.1989); Brady , 859 F.2d at 1556 .
+In light of the complex nature of Meyer's entitlement, reflected in both the district court's and our own examination of the issue, we are unable to say that Anderson's standard has been met.
+The issue of qualified immunity should not have been submitted to the jury because Pattullo violated no clearly established law .
+See Schwartzman v. Valenzuela , 846 F.2d 1209, 1211 (9th Cir.1988) (question of clearly established right is question of law).
+Thus, any error in the qualified immunity instruction was harmless.
+V. Finally, Meyer contends that the district court erred by excluding expert testimony regarding the state of the law.
+A court's decision to exclude evidence is reviewed for abuse of discretion.
+Ignacio v. People of the Territory of Guam , 413 F.2d 513, 520 (9th Cir.1969), cert. denied , 397 U.S. 943 , 90 S.Ct. 959 , 25 L.Ed.2d 124 (1970).
+On numerous past occasions, this court has "condemned the practice of attempting to introduce law as evidence."
+United States v. Unruh , 855 F.2d 1363, 1376 (9th Cir.1987), cert. denied , 488 U.S. 974 , 109 S.Ct. 513 , 102 L.Ed.2d 548 (1988).
+Indeed, "[i]t is not for witnesses to instruct the jury as to applicable principles of law, but for the judge."
+Marx & Co., Inc. v. Diners' Club, Inc. , 550 F.2d 505, 509-10 (2d Cir.), cert denied , 434 U.S. 861 , 98 S.Ct. 188 , 54 L.Ed.2d 134 (1977).
+If judges are advised to reject expert testimony on legal matters, surely it cannot be reversible error when they do so.
+Conclusion There are, essentially, two threshold matters in this case: the first is the FSLIC's immunity, and the second, Pattullo's.
+For the foregoing reasons, the district court's disposition on both issues is hereby AFFIRMED.

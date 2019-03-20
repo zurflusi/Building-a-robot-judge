@@ -1,0 +1,310 @@
+ OAKES , Circuit Judge: This is another in the new wave of cases involving "private civil RICO"--the private right of action found in the Racketeer Influenced and Corrupt Organizations Act, 18 U.S.C. 1961-1968 (1982).
+Appeal is from a judgment, designated as final pursuant to Fed.R.Civ.P. 54(b) , of the United States District Court for the Eastern District of New York, I. Leo Glasser, Judge, dismissing the RICO claims in appellant's amended complaint.
+574 F.Supp.
+963 .
+We affirm.
+Facts This case involves business fraud.
+Plaintiff-appellant Sedima S.P.R.L.
+(Sedima) is a Belgian corporation in the business of importing and exporting to and from Belgium electronic, mechanical and hydraulic parts manufactured in the United States and abroad.
+Appellee Imrex is an American corporation engaged in exporting aircraft and aircraft-related electronic component parts.
+Appellees Jacob Armon and Gidon Armon are officers of Imrex.
+In 1979, Sedima and Imrex entered into a joint venture to provide electronic component parts for a NATO subcontractor in Belgium.
+Imrex obtained the parts and shipped them to Europe pursuant to orders secured by Sedima.
+Sedima allegedly secured approximately $8.5 million worth of orders to be placed through Imrex.
+Sedima alleges that Imrex and the Armons fraudulently prepared purchase orders, invoices and credit memoranda for Sedima that they knew falsely overstated purchase prices, attendant costs and shipping and financing charges of the parts purchased on behalf of the joint venture.
+The complaint further alleges that Imrex received monies belonging to the joint venture pursuant to these fraudulent purchase orders, invoices and credit memoranda.
+In addition to counts alleging breach of contract, breach of fiduciary duty, unjust enrichment, breach of the joint venture agreement, conversion, breach of a constructive trust and a cause of action based on quasi contract, three of the counts allege violations of RICO, 18 U.S.C. 1962(c) .
+1 Two of the RICO counts allege that the fraudulent purchase orders, invoices and credit memoranda constitute a pattern of racketeering activity, the predicate acts being separate and numerous violations of the Mail Fraud Act, 18 U.S.C. 1341 (1982) and the Wire Fraud Act, 18 U.S.C. 1343 (1982).
+The third count charges a RICO conspiracy under 18 U.S.C. 1962(c) and (d) .
+2 Sedima seeks treble damages and reasonable attorneys' fees under these RICO counts.
+18 U.S.C. 1964(c) .
+3 The District Court Decision Judge Glasser dismissed the RICO counts on the basis that there was a failure to allege a RICO-type injury.
+In so holding, he relied on a series of decisions, discussed infra , which have stated that in order for an injury to be "by reason of a violation of section 1962 ," as required by section 1964(c) , something more than or different from injury that would result from the predicate acts alone must be shown by the plaintiff.
+Bankers Trust Co. v. Feldesman , 566 F.Supp.
+1235, 1240-42 (S.D.N.Y.1983); Landmark Savings & Loan v. Loeb Rhoades, Hornblower & Co. , 527 F.Supp.
+206, 206-09 (E.D.Mich.1981); North Barrington Development, Inc. v. Fanslow , 547 F.Supp.
+207, 210-11 (N.D.Ill.1980).
+The district court adopted the reasoning of two related lines of cases.
+One series of cases, relying on an analogy between RICO and the antitrust laws, requires that a RICO plaintiff allege a "competitive injury," that is, an injury to business or property stemming from competitive harm.
+North Barrington , 547 F.Supp.
+at 210-11 , Harper v. New Japan Securities International, Inc. , 545 F.Supp.
+1002, 1007 (C.D.Cal.1982); Feldesman , 566 F.Supp.
+at 1241 .
+The other series of cases requires plaintiffs to allege a "racketeering enterprise injury," an injury that occurs where "a civil RICO defendant's ability to harm the plaintiff is enhanced by the infusion of money from a pattern of racketeering acts into the enterprise."
+Landmark Savings , 527 F.Supp.
+at 209 , relying upon Note, Reading the Enterprise Element Back Into RICO: Sections 1962 and 1964(c) , 76 Nw.U.L.Rev.
+100, 125-33 (1981).
+Judge Glasser found no allegation of any injury in this case apart from that which would result directly from the alleged predicate acts of mail fraud and wire fraud, and accordingly dismissed the RICO counts.
+Background The problem addressed by the district court, which has received much attention both in the courts and among commentators, is that a broad reading of the civil RICO provisions would allow plaintiffs to bring suit in federal court 4 under RICO nearly anytime they could allege injury caused by two acts which are violations of any one of the predicate acts listed in RICO.
+Since these predicate acts include a great many state law violations, federal securities law violations, and federal mail and wire fraud violations, an expansive interpretation of RICO allows plaintiffs to bring into federal courts many claims formerly subject only to state jurisdiction, and to bypass remedial schemes created by Congress, particularly in the securities area.
+The fact that successful RICO plaintiffs may obtain treble damages and attorneys' fees provides, of course, additional incentives to plaintiffs to categorize their actions as RICO claims.
+Section 1964(c) states that anyone "injured" "by reason of" a violation of section 1962 is entitled to treble damages.
+Section 1962 "violations" include conducting "enterprises" "through a pattern of racketeering"; a "pattern of racketeering" is defined by section 1961(5) as two or more "acts of racketeering" occurring within a given time.
+"Acts of racketeering" are defined by section 1961(1) , inter alia, as any of a number of acts "chargeable under State law," acts "indictable" under a variety of federal laws, or an "offense" under the federal securities law.
+Thus, ignoring for the moment some troubling ambiguities, the statute on its surface seems to allow private suits for people injured by defendants who have committed two so-called predicate acts.
+Given this language it is not surprising that there has been an explosion of civil RICO litigation.
+Only a few cases including civil RICO claims were published in the decade following passage of the Act in 1970; 5 a law review note asserts that courts published only two opinions dealing with civil RICO by 1978 and only thirteen by early 1981.
+Note, Civil RICO: The Temptation and Impropriety of Judicial Restriction , 95 Harv.L.Rev.
+1101 n. 7 (1982).
+There are now over 100 published decisions.
+Siegel, "RICO" Running Amok in Board Rooms , L.A.
+Times, Feb. 15, 1984, at 1.
+This development has resulted, no doubt, from the bar's increased awareness of the statute, spawned, perhaps, by an influential law review article coauthored by Professor G. Robert Blakey and Brian Gettings which proposed a broad reading of the statute.
+Professor Blakey's position as chief counsel to the Senate subcommittee which proposed RICO has evidently given his expansive views of the statute special credence.
+6 A veritable wave of commentaries and cases making civil claims along lines suggested by Blakey and Gettings and others has occurred.
+We are told that there is now indeed a "RICO bar" which specializes in bringing or defending RICO claims.
+And members of that "bar" have found, as would appear obvious, that the stigma associated with the label "racketeering" is a good settlement weapon.
+7 Indeed, a current adage is said to be that "RICO provides the only civil action where the defendant pleads not guilty."
+Bridges, supra note 6 at 44.
+The problem with civil RICO is not the explosion of federal litigation.
+Congress is of course free to create federal causes of action for civil litigants within constitutional limits not necessarily in question here.
+But see infra notes 24, 49.
+But there is simply no evidence that in creating RICO, Congress intended to create the broad civil cause of action that the reading of the statute given by its proponents would allow.
+The Racketeer Influenced and Corrupt Organizations Act, as its very name implies, was designed to combat organized crime.
+The damage done by organized crime was the subject of much public concern and congressional activity throughout the 1950s and 1960s.
+8 RICO was enacted as Title IX of the Organized Crime Control Act of 1970, Pub.Law 91-452 (1970), an act designed "to seek the eradication of organized crime in the United States by providing new remedies to deal with unlawful activities of those engaged in organized crime."
+116 Cong.Rec.
+35191 (1970).
+Title IX itself was designed "to protect legitimate businesses against the syndicate's infiltration."
+9 It was an attempt to deal with organized crime as an economic phenomenon.
+In so doing, its enforcement provisions were modeled after the enforcement provisions of the antitrust laws.
+See, e.g., infra text accompanying note 26.
+Given the general purpose of the RICO legislation, the uses to which private civil RICO has been put have been extraordinary, if not outrageous.
+Section 1964(c) has not proved particularly useful for generating treble damage actions against mobsters by victimized businesspeople.
+It has, instead, led to claims against such respected and legitimate "enterprises" as the American Express Company, E.F.
+Hutton & Co., Lloyd's of London, Bear Stearns & Co., and Merrill Lynch, 10 to name a few defendants labeled as "racketeers" in civil RICO claims resulting in published decisions.
+Though there are a few reported cases where RICO has been used against reputed mobsters 11 or at least against organized criminals, 12 it is being far more frequently used for purposes totally unrelated to its expressed purpose.
+It has become a standard practice, for example, to insert a RICO claim in litigation involving tender offers.
+13 It has become commonly used, as here, in typical business fraud cases, 14 in so-called "garden variety" securities fraud cases, 15 and in bank fraud cases.
+16 RICO, then, presents a classic case of a statute whose ambiguous language needs to be construed in light of Congress's purpose in enacting it.
+17 The need to discern legislative intent is particularly important when, as here, crucial statutory language is drawn in haec verba from another statute where it has a peculiar technical meaning.
+The law itself calls for reference to legislative intent since the liberal construction clause states that the text should be construed to "effectuate its remedial purpose."
+We are, then, obliged to study the legislative history of RICO and particularly of section 1964(c) to inform our reading of that statute and, in particular, of the scope of the private civil remedy created by the Congress.
+Legislative History The legislative history of the Organized Crime Control Act of 1970 gives little hint of the intended scope of private action under civil RICO.
+While the Act for the most part originated in the Senate, the civil provision permitting suit by private persons, 18 U.S.C. 1964(c) , originated in the House. 18 Consequently it is not mentioned in the Senate Report, although the other three subsections of section 1964 that were included in the Senate bill are discussed.
+This fact, we believe, is critical to consideration of the legislation.
+This is true because the "[c]ivil approach" discussed in the report of the Senate Judiciary Committee accompanying S. 30, Rep.
+No. 91-617, 91st Cong., 1st Sess.
+80-83 (1969), refers solely to the Government's right to seek and obtain injunctions to prevent and restrain violations of section 1962 through divestment by individuals of their interest in enterprises, imposing restraints on future activities or investments, or ordering dissolution or reorganization of any enterprise.
+Id .
+at 24.
+Consequently any comments in the Senate Report analogizing to the antitrust laws, referring to the American Bar Association position in the Senate hearings, or otherwise pertaining to the Senate's "[c]ivil approach" do not pertain to the scope, impact, or purpose of the private treble damage remedy inserted later by the House of Representatives.
+19 Ultimately the Senate accepted the House amendment adding subsection (c).
+Apparently, as the session was about to end, the Senate did not ask for a conference.
+The legislative history on the House side is not much more instructive.
+The decision to add a civil private damages provision was made by a House subcommittee at the behest of Representative Sam Steiger and the American Bar Association.
+20 The addition was not considered an important one, a remarkable fact which in itself indicates that Congress did not intend the section to have the extraordinary impact claimed for it.
+Indeed, when the Judiciary Committee initially introduced the amended bill, it did not even announce to the House that it had made the addition.
+21 It was only in the middle of the second and last day of House discussion of the bill that a member of the committee noted that 22 This brief remark is one of only three statements regarding section 1964(c) made on the House floor.
+See supra note 22.
+The House subcommittee hearings 23 are not much more helpful.
+Although they contain useful analysis of the purposes for creating civil remedies for the government, 24 and generally for applying antitrust type civil remedies in the fight against organized crime, 25 most of this discussion took place before the private remedy was added to the bill.
+Thus, although there was testimony that section 1964 was too broad, 26 none of that testimony was addressed to the private cause of action provision.
+The only discussion accompanying the introduction of the private action came in a statement by Representative Steiger, who wrote that such an amendment would enable "those who have been wronged by organized crime [to] at least be given access to a legal remedy" and that it would also "enhance the effectiveness of Title IX's prohibitions."
+27 Nor do the House's broad pronouncements on the purposes of Title IX or on the meaning of its other sections reveal Congress' intent in promulgating the private action.
+The House Report in its introductory section refers, inter alia, to the purpose of "proscribing the operation of any enterprise engaged in interstate commerce through a 'pattern' o[f] 'racketeering activity.'"
+H.Rep.
+No. 91-1549, 91st Cong., 2d Sess.
+35, reprinted in 1970 U.S.Code Cong. & Ad.News 4007, 4010 (1970).
+It states that "'[r]acketeering activity' is defined in terms of specific State and Federal criminal statutes."
+Id.
+It adds that "[t]he title, as amended, also authorizes civil treble damages suits on the part of private parties who are injured."
+Id .
+The section by section explanation is hardly more helpful.
+Referring to section 1961(1) 28 which defines "racketeering activity," the report says that that term is defined section 1962 Id. at 56 , reprinted in 1970 U.S.Code Cong. & Ad.News at 4032.
+The House Report defines "pattern of racketeering activity" only by referring to the section 1961(5) 29 definition that it is the equivalent of at least two acts of racketeering activity occurring within a given time period.
+Id .
+The report deals with section 1962 by saying that it "establishes a threefold prohibition aimed at stopping the infiltration of racketeers into legitimate organizations," noting that subsection (c) "prohibits the conduct of the enterprise through the prohibited pattern of activity or collection of debt."
+Id. at 57 , reprinted in 1970 U.S.Code Cong. & Ad.News at 4033.
+In reference to the civil remedies provided in section 1964(c) for the violation of section 1962 , the report merely paraphrases the language of section 1964(c) .
+The most important and evident conclusion to be drawn from the legislative history is that the Congress was not aware of the possible implications of section 1964(c) .
+If Congress had intended to provide a federal forum for plaintiffs for so many common law wrongs, it would at least have discussed it.
+If Congress had intended to provide an alternate and more attractive scheme for private parties to remedy violations of the securities laws--involving decades of statutes, regulations, commentaries, and jurisprudence--it would at least have mentioned it.
+The House Judiciary Committee, which authored the provision, would at least have mentioned the amendment to the full House as a major change in its report had there been any inkling of its possible implications.
+The clanging silence of the legislative history, coupled with the section's use in areas far afield from the battle against organized crime, has led some, though concededly not all, courts to read various limitations into the act in order to conform its use to that thought to best effectuate the congressional purpose.
+Four such limitations have been widely considered: (1) whether RICO requires some nexus between the challenged activity and organized crime; (2) whether the injury complained of must result from "enterprise" involvement in the racketeering, rather than directly from the activity itself; (3) whether plaintiffs must allege a "competitive" or "racketeering injury"; and (4) whether there must be criminal convictions for the predicate acts underlying a civil RICO suit.
+Even a cursory review of the case law indicates that there is simply no consensus on what RICO requires.
+While some courts have held that only those activities with some connection to organized crime may be the subject of civil RICO suits, 30 others, including this circuit, 31 have rejected this limitation.
+32 Similarly, although some courts have read RICO to require a showing of "competitive" 33 or "racketeering" 34 injury, more have held against imposing such limitations.
+35 Finally, courts have split on whether there must be criminal convictions for the predicate acts prior to institution of a private civil RICO suit.
+See cases cited at infra note 42.
+We have as yet little guidance from the Supreme Court as to which, if any, of these different understandings of RICO's private civil remedy is appropriate.
+In holding in United States v. Turkette , 452 U.S. 576 , 101 S.Ct. 2524 , 69 L.Ed.2d 246 (1981) that the term "enterprise" as used in RICO encompasses both legitimate and illegitimate enterprises, and that an enterprise must be an entity separate and apart from the pattern of activity in which it engages, 452 U.S. at 587 , 101 S.Ct. at 2530 , the Court said in reference to the civil remedies that "[a]s a general proposition, however, the civil remedies could be useful in eradicating organized crime from the social fabric, whether the enterprise be ostensibly legitimate or admittedly criminal."
+It went on to say that "[t]he aim is to divest the association of the fruits of its ill-gotten gains."
+Id. at 585 , 101 S.Ct. at 2529 .
+The Court concluded that it is "untenable" that the existence of the civil remedies "limits the scope of this criminal provision."
+Id. The Court recognized that Congress, in passing RICO, intended to "alter somewhat the role of the Federal Government in the war against organized crime," id. at 587 , 101 S.Ct. at 2530 , and rejected the lower court's view that in order to right "the balance between federal and state enforcement of criminal law" it was obliged to read narrowly the statutory definition of "enterprise."
+Id. at 586-87 , 101 S.Ct. at 2530 .
+However, the Court was only discussing congressional intention as to the criminal enforcement provisions of RICO, not the intended scope of the private civil remedy.
+Id.
+Similarly, the Court's invocation of the plain meaning rule as regards the Congressional definition of "enterprise" in 18 U.S.C. 1961(4) , 452 U.S. at 580-81 , 101 S.Ct. at 2527 , provides little or no guidance as to the handling of the very real ambiguities, which we discuss below, surrounding the complex statutory scheme providing for the private civil remedy.
+See Harper v. New Japan Securities International, Inc. , 545 F.Supp.
+1002, 1005-06 (C.D.Cal.1982).
+36 Discussion I. Injury by Reason of Racketeering Activity .
+We agree with the district court that the appellant has failed to allege any injury to its business "by reason of a violation of section 1962 ," as required by section 1964(c) .
+The "by reason of" standing limitation to RICO has been endorsed by a great many district courts.
+See cases cited in supra notes 33-34.
+They argue that the "by reason of" language was put into the statute by Congress as a way to limit standing to sue under RICO to people hurt by an injury of the type RICO was intended to prevent.
+RICO was intended not simply to provide additional remedies for already compensable injuries, 37 but rather to provide added remedies and procedures to fight certain specific kinds of organized criminality.
+The "by reason of" language, therefore, requires that plaintiffs allege injury caused by an activity which RICO was designed to deter, which, whatever it may be, is different from that caused simply by such predicate acts as are alleged here.
+The justification for this limitation is not derived solely from the language of the statute.
+38 Instead, many courts focus on the fact that the "by reason of" language is drawn directly from section four of the Clayton Act.
+In that act the language has been construed to require plaintiffs to allege and prove an "antitrust injury," e.g. , Brunswick Corp. v. Pueblo Bowl-O-Mat, Inc. , 429 U.S. 477, 489 , 97 S.Ct. 690, 697 , 50 L.Ed.2d 701 (1977), which the Supreme Court has defined as "injury of the type the antitrust laws were intended to prevent."
+Id. By analogy, then, the "by reason of" language in section 1964(c) is intended to limit standing to those injured by a "racketeering injury," by an injury of the type RICO was designed to prevent.
+See, e.g. , In re Action Industries Tender Offer , 572 F.Supp.
+at 851-52 ; Johnsen v. Rogers , 551 F.Supp.
+at 285 .
+Two kinds of questions have, however, been raised in relation to finding a standing requirement analogous to the Clayton Act's in RICO's "by reason of" language.
+First, courts and commentators have argued that the legislative history demonstrates that Congress did not intend to have the Clayton Act's standing requirement applied to RICO.
+E.g. Schact v. Brown , 711 F.2d at 1357-58 ; Blakey & Gettings, supra note 6, at 1015-17 & nn.
+24-32, 1041.
+The second question has to do with defining precisely what is meant by a "racketeering injury."
+One of the Senate predecessors to RICO was framed as an amendment to the Clayton Act.
+S. 2048, 90th Cong., 1st Sess.
+(1967).
+This approach was rejected by the House Judiciary Committee in part because it was thought that the strict standing requirements of the Clayton Act should not have to be met by plaintiffs suing under RICO.
+House Hearings, supra note 9, at 149 (Statement of the Antitrust Section of the ABA).
+Similarly, on the Senate floor a number of Senators explicitly rejected the idea of "imputing the great complexity of antitrust law enforcement" to RICO, 39 although this discussion did not refer to the private civil action which, as we have noted, was added to the bill only after it had left the Senate.
+The legislative history suggests that it would therefore be inappropriate to carry over wholesale all of the elaborate antitrust standing case law onto RICO.
+It would no doubt violate both the congressional purpose and common sense to require RICO plaintiffs to allege an injury of the type the antitrust laws were designed to prevent to maintain a RICO suit.
+On the other hand, there is nothing in the legislative history which suggests that Congress did not intend to create analogous standing barriers to RICO by using the "by reason of" language.
+By borrowing language imposing a standing limitation, it is reasonable to believe that Congress indicated a desire to have an analogous standing limitation imposed in RICO.
+40 The question then becomes what kind of injury is a "racketeering injury"?
+As has been said, RICO was intended to "address the infiltration of legitimate business by organized crime."
+Turkette , 452 U.S. at 591 , 101 S.Ct. at 2532 .
+According to the congressional statement of findings and purpose, the Act was to seek to eradicate organized crime because "organized crime activities in the United States weaken the stability of the Nation's economic system, harm innocent investors and competing organizations, interfere with free competition, seriously burden interstate and foreign commerce, threaten the domestic security, and undermine the general welfare of the Nation and its citizens."
+See also legislative history cited in Bridges, supra note 6, at 68-72 & nn.
+133-39.
+RICO was not enacted merely because criminals break laws, but because mobsters, either through the infiltration of legitimate enterprises or through the activities of illegitimate enterprises, cause systemic harm to competition and the market, and thereby injure investors and competitors.
+It was to help solve this problem that Congress added RICO to the arsenal of weapons used to fight organized crime.
+It is only when injury caused by this kind of harm can be shown, therefore, that we believe that Congress intended that standing to sue civilly should be granted.
+This is, we repeat, by no means to say that standing to sue under RICO should be limited only to people who have standing to sue for a competitive injury under the antitrust laws.
+41 This is so because Congress in promulgating RICO was addressing the kind of economic injury which has an effect on competition, but nowhere suggested that actual anticompetitive effect is required for suits under the statute.
+For purposes of clarity, it is better to identify the RICO standing requirement as a "racketeering injury" requirement rather than a "competitive injury" requirement, as the latter term may incorrectly suggest that all of the details of the antitrust law standing requirement are being incorporated by reference.
+This carries with it at least, as the trial judge found, the obligation that the plaintiff show injury different in kind from that occurring as a result of the predicate acts themselves, or not simply caused by the predicate acts, but also caused by an activity which RICO was designed to deter.
+II.
+Necessity of a Prior Conviction .
+In Trane Co. v. O'Connor Securities , 718 F.2d 26, 29 (2d Cir.1983), we left "to another day" the question whether a prior criminal conviction is a prerequisite to a civil RICO action.
+We now hold that it is.
+A number of cases have discussed the problem with little or no analysis.
+Even the commentators who would call for an expansive reading of the Act have done likewise, merely citing those same cases in footnotes.
+E.g. , Note, Civil RICO , supra note 35, at 1103 n. 17; Blakey and Gettings, supra note 6, at n. 129.
+For reasons that appear below, we cannot agree with these decisions and commentators.
+A. The Case Law .
+United States v. Cappetto , 502 F.2d 1351 (7th Cir.1974), cert. denied , 420 U.S. 925 , 95 S.Ct. 1121 , 43 L.Ed.2d 395 (1975), is the case most frequently relied upon by courts which have held that criminal convictions are not required before private civil actions may be maintained.
+Cappetto , however, dealt solely with the government's right, in the absence of a criminal conviction, to sue for an injunction under section 1964(a) to prevent or restrain violations of RICO.
+The case held that Congress was entitled to make civil equitable relief available to the government to prevent or restrain certain actions under subsection 1964(a) .
+In so doing, the court relied on a long series of cases which hold that the government is entitled to bring civil suits for acts which are also punishable as crimes, especially when it is seeking remedial equitable relief and not punitive relief.
+502 F.2d at 1356-57 .
+Thus, far from determining the question of the intended or appropriate scope of the treble damage remedy provided to private parties under subsection 1964(c), Cappetto made no holding with respect to private civil actions.
+As a matter of policy, government actions and private actions are of course very different.
+Prosecutorial discretion, and in the case of RICO, guidelines from the Department of Justice, protect against overbroad use of RICO.
+See United States Attorneys' Staff Manual, Executive Office for U.S. Attorneys, RICO Guidelines (Jan. 30, 1981).
+There is no comparable way to limit private RICO.
+Farmers Bank of Delaware v. Bell Mortgage Corp. , 452 F.Supp.
+1278, 1280 (D.Del.1978), did squarely hold that section 1964(c) "does not condition that cause of action in any way upon a previous conviction under the criminal provisions of the statute," and adds that it is only necessary that the plaintiff prove the elements of the RICO action by a preponderance of the evidence in order to be awarded damages in a civil action.
+However, as support for these propositions it cites only to Cappetto .
+452 F.Supp.
+at 1280 .
+Almost all other cases that hold that criminal convictions are not necessary rely either on Farmers Bank or Cappetto and offer no other reasoning to support their conclusion.
+42 The only other argument put forward for the position that criminal convictions are not required for civil RICO suits is contained in USACO Coal Co. v. Carbomin Energy, Inc. , 689 F.2d 94, 95 n. 1 (6th Cir.1982).
+In a footnote the court stated: Section 1962 Section 1963 1962 1964(c) 1962 1964(c) 1964(c) 1963 1963 1964(c) 1962 1963 43 While this argument is, at least, based upon the statute, we think it is misguided.
+If Congress had referred to section 1963 in section 1964(c) , the result would have been not only to require criminal convictions for the predicate acts before bringing a civil suit, but to require a conviction under RICO .
+By referring to section 1962 in section 1964(c) , it is our view that Congress intended to refer to injuries caused by the "unlawful" pattern of racketeering, defined in section 1961(5) as "requir[ing]" two of the criminal acts listed in section 1961(1) .
+Thus people injured by "racketeering activity" may sue, assuming they have standing to sue, whether or not the government has brought an action under RICO to punish that activity.
+As to whether that racketeering activity itself must already have been proven criminal, the question we are facing here, the reference to section 1962 in section 1964(c) provides no indication.
+B. Statutory Analysis .
+1.
+Language .
+To determine the scope and content of the civil remedy, the proper place to begin analysis is, as always, the statutory language itself.
+To start, section 1964 itself draws several distinctions between the government and private persons.
+Subsection 1964(a) gives the district courts jurisdiction to "prevent and restrain violations" of section 1962 ; it is not a general grant of jurisdiction and does not relate to subsection (c).
+Subsection (b) permits the Attorney General to institute proceedings under the section; it was drawn when subsection (c) was not in the statute and relates back to subsection (a).
+44 Study of the particular words chosen by Congress in drafting section 1964(c) is also fruitful.
+Section 1964(c) , as has been noted, "is modeled after, but is not identical to, section 4 of the Clayton Act."
+45 Therefore, any variations between the language of section four of the Clayton Act and section 1964(c) of RICO are especially instructive.
+The Clayton Act provision reads in relevant part: "any person who shall be injured in his business or property by reason of anything forbidden in the antitrust laws may sue " 15 U.S.C. 15(a) (1982) (emphasis added).
+RICO section 1964(c) , on the other hand, reads: "Any person injured in his business or property by reason of a violation of section 1962 of this chapter may sue " (emphasis added).
+The difference is instructive.
+It is possible to argue that "violation" is simply a shorthand way of saying "by reason of anything forbidden," and one could suppose that when the House of Representatives reinserted the treble damage private right of action provision which had been rejected by the Senate it approved this change in a desire merely to eschew surplusage.
+46 But this interpretation does not seem as compelling as one which suggests that the change was made with a specific intent in mind--to require that conviction at least of the predicate acts be had before a civil suit may be brought by a private person.
+47 It is helpful to look back to the definition in section 1961(1) of "racketeering activity," since we are referred to section 1962 by way of section 1964(c) , and section 1962(a) makes "a pattern of racketeering activity" "unlawful" in certain circumstances.
+Section 1961(1) describes four distinct types of such activity.
+Those under subparagraph (A) include " any act or threat involving murder, kidnaping, gambling, arson, robbery, bribery, extortion or dealing in narcotic or other dangerous drugs, which is chargeable under State law" and is punishable by imprisonment for more than one year (emphasis added).
+The "racketeering activity" acts under subparagraph (B) include " any act which is indictable under" certain provisions of federal law including mail fraud and wire fraud, in addition to other typical organized crime activities (emphasis supplied).
+The predicate acts under section 1961(1)(C) are, as in subparagraph (B), "indictable" acts dealing with labor matters.
+Finally, the predicate acts under subparagraph (D) include "any offense involving fraud" in the securities or bankruptcy areas, or in the felonious dealing in narcotic or other dangerous drugs (emphasis supplied).
+The difference between the "chargeable under state law" and "indictable under federal law" language can readily be explained by the fact that some matters even involving imprisonment for more than a year may be chargeable by information under state law, as in the State of Connecticut for example.
+The distinction between "indictable" acts under (B) and (C) or "chargeable" acts under (A), on the one hand, and "offense[s]" under subparagraph (D), on the other, is more troubling.
+An "offense" speaks to conviction.
+An indictable or chargeable act refers obviously to an earlier stage in the criminal process.
+All these terms, however, speak along criminal rather than civil lines.
+A person who is charged in a civil case with securities fraud (for example, by way of willful misrepresentations in a proxy statement), proof of which is by a preponderance of the evidence, can surely not be said to have committed "an offense," conviction of which requires proof beyond a reasonable doubt, with all of the traditional constitutional and other safeguards.
+Criminal violation of the securities laws occurs only with the requisite criminal scienter.
+Is one to be held liable under a lesser standard of proof in a private right of civil action and, not incidentally, thereby stigmatized as a "racketeer"?
+It is hard to believe that in adopting civil RICO Congress intended to permit proof of "willful" violations by only a preponderance of the evidence.
+48 Otherwise, two misstatements in a proxy solicitation could subject any director in any national corporation to "racketeering" charges and the threat of treble damages and attorneys' fees.
+As for the language "any act which is indictable" (or "chargeable"), conceivably Congress meant by the choice of these words to suggest either that indictments or, in the case of certain state felonies informations, are not required, since the acts need only be "indict able or "charge able " (emphasis added).
+But a plausible alternative view of the words "indictable" and "chargeable," found in RICO's definitional section, is that Congress did not intend to give civil courts power to determine whether an act is "indictable" in the absence of a properly returned indictment or "chargeable" absent an information.
+Courts do not traditionally look at a given set of facts--proved by a preponderance of the evidence only--and say that these facts make out acts which are "indictable" or "chargeable."
+See Kleiner v. First National Bank of Atlanta , 526 F.Supp.
+1019, 1022 (N.D.Ga.1981), overruled on other grounds sub nom.
+Morosani v. First National Bank of Atlanta , 703 F.2d 1220 (11th Cir.1983).
+In the case of indictments that is the purpose of grand juries.
+The Fifth Amendment provides that "no person shall be held to answer for a capital, or otherwise infamous crime, unless on a presentment or indictment of a grand jury " Surely, being declared a "racketeer" or being held responsible for being one is being held to "answer for" an "infamous crime."
+49 Whatever else one may think of grand juries or the processes by which they pursue their deliberations, they may stand as a bulwark between the individual and the government.
+Under the interpretation given RICO by those courts which do not require criminal convictions of the predicate acts before the bringing of a civil action, every private plaintiff becomes his own one-person grand jury, or in the case of state felonies chargeable by information, his own prosecutor.
+2.
+Intent .
+But we need not rest the argument for this narrow interpretation of RICO on parsing of the words of the statute, since concededly they are ambiguous and could be construed to relate to underlying conduct.
+The structure of RICO as a whole leads one to the narrower interpretation requiring criminal convictions by a more direct route.
+The Act is designed to provide new penalties and remedies to combat conduct which explicitly has already been found criminal.
+Thus it has been noted by the very commentators who have most strenuously urged a broad reading of civil RICO that RICO did not itself "draw a line between criminal and innocent conduct," but rather "authorized the imposition of different criminal or civil remedies on conduct already criminal , when performed in a specified fashion."
+Blakey & Gettings, supra note 6, at 1032 (emphasis supplied).
+50 In this sense RICO is significantly different from the antitrust laws, where it is possible to bring a civil action even in the absence of criminal conduct.
+51 RICO liability simply does not exist without criminal conduct, 52 though of course, in a criminal RICO case, the proof of the predicate act convictions may be made under the same indictment, in the same trial and coordinately with the proof of the RICO offense(s).
+But in a civil context, there is no way to know whether the conduct in question is "already criminal," a problem compounded by the fact that ordinarily there is a lower burden of proof in civil actions.
+We conclude that had Congress considered this problem, it would have explicitly required previously established convictions in the context of section 1964(c) .
+Absent such explicit congressional direction, such a narrow reading of section 1964(c) best integrates that subsection into the entire structure of the Act.
+On the other hand, if the broad reading is accepted, problems are created of which there is no indication that Congress even dreamed.
+Chief among these problems, as the foregoing argument suggests, is the proper burden of proof in proving predicate offenses in the absence of a criminal conviction.
+It is not surprising that courts which have allowed civil suits to go forward have wrestled with the proper burden of proof required to maintain the action.
+The problem, of course, relates to the burden to which a plaintiff must be put to prove that a defendant is a "racketeer" because he has committed two predicate acts.
+At least three different standards of proof are within the realm of plausibility: proof beyond a reasonable doubt, 53 proof by clear and convincing evidence, 54 and proof by preponderance of the evidence.
+55 Courts in addition have indicated that probable cause must be alleged with reference to the predicate acts, although how this is meant to relate to the burden of the plaintiff at trial remains something of a mystery.
+56 Insofar as the RICO scheme calls for only criminal conduct to be punished, it thus appears that in the absence of previous convictions a civil plaintiff must carry a burden equal to that in a criminal case in proving that criminal conduct.
+Yet it would be extraordinarily difficult for juries to understand the different burdens of proof required for different elements of a civil case. Moreover, if Congress had intended to impose such an unusual scheme, one would think that some suggestion of it would have occurred in the extensive legislative history.
+Instead, that history indicates that Congress assumed a preponderance standard was appropriate.
+57 The most logical conclusion to be drawn is that Congress expected the criminality of the predicate acts to be proved before the private action went forward--that a criminal conviction must precede a private civil suit.
+In addition to burden of proof problems, allowing private civil RICO claims to proceed without criminal convictions would make a hash of the very "liberal construction" provision said to require just such a result.
+It has been argued by the leading proponents of a broad reading of civil RICO that liberal construction is appropriate because RICO merely penalizes conduct already criminal; thus, it is said, requirements of strict construction have already been applied in construing the predicate criminal offenses.
+58 Acknowledging that due process, of course, requires that criminal statutes be strictly construed, e.g. , Dunn v. United States , 442 U.S. 100, 112 , 99 S.Ct. 2190, 2197 , 60 L.Ed.2d 743 (1979), these proponents argue that since proof of criminal conduct could already be presumed in RICO suits, there would then be no need to " further restrict the scope of the statute by re applying these policies."
+Blakey & Gettings, supra note 6, at 1032 (emphasis added).
+In the civil context, absent predicate act convictions, the policy of strict construction simply cannot be implemented.
+As one commentator has suggested, "[i]f the liberal construction clause is applicable to determine the scope of criminal liability under Title IX, the provision is therefore unconstitutional."
+Tarlow, RICO Revisited , 17 Ga.L.Rev.
+291, 309 (1983).
+How could the line be crossed into the sphere of criminality simply by bringing a civil action?
+It is this peculiar structure of RICO that strongly suggests that, had Congress considered the problem, it would have intended criminal convictions of at least the predicate crimes as a prerequisite for a civil RICO action.
+RICO's statutorily mandated requirement of liberal construction cannot fairly be relied upon in interpreting section 1964(c) without undermining its very justification.
+Nor is this anomaly surprising given that private civil RICO was added to RICO in the House as an afterthought, subsequent to the inclusion of the liberal construction clause in the Senate version of the bill.
+The statute, we repeat, is simply not a symmetrical whole.
+In sum, after reviewing the words and structure of the enacted statute, its legislative history, and the prior case law interpreting the statute, we find it impossible to believe that in enacting RICO, Congress intended to sweep all ordinary injuries occasioned by the predicate criminal acts within the dragnet of the treble damage remedy provided by section 1964 .
+To bring a private civil action, there must be a "violation," that is, criminal convictions on the underlying predicate offenses.
+Of course, a conviction under RICO itself will do, a fortiori.
+Moreover, plaintiffs must satisfy the standing requirement set out in this opinion and by the court below, a requirement that, as a practical matter, will not create an added barrier to a plaintiff's suit following upon criminal convictions under RICO, though it may present a problem in the case of convictions only of predicate acts, a problem which we need not here address.
+Neither should the criminal conviction requirement create a significant additional barrier to a RICO plaintiff with proper standing to sue.
+Even without such a requirement, if a criminal prosecution is possible, it is unlikely that private RICO actions can progress very far, since defendants will block discovery by invoking the Fifth Amendment.
+See Bridges, supra note 6, at 53 n. 66.
+We therefore reject arguments based on the supposed "plain meaning" of a statute that, whatever its virtues and vices, is hardly a model of clarity.
+Being required, then, to look to the legislature's intent as demonstrated in the legislative history, we find nothing conclusive, but discern in the legislative silence a purpose that is entirely at odds with the open-ended reading of the statute adopted by a number of the courts and promoted by certain commentators.
+The legislative history indicates that the private action provision is modeled upon the Clayton Act, and we hold that standing requirements analogous but not identical to those in the Clayton Act should be required in RICO.
+We also note that the civil RICO provisions differ in some significant ways from the Clayton Act provisions.
+59 In particular, the Clayton Act allows suits in the absence of criminal conduct, and therefore obviously in the absence of criminal convictions.
+Private civil RICO, on the other hand, is designed only to penalize conduct already determined to be criminal.
+In addition, the analysis of the RICO private treble damage provision must necessarily be differentiated from analysis of the injunctive provisions of RICO, both because of the differences between the government and a private party as a plaintiff, and because of the inherent differences between injunctive and punitive damages relief.
+Finally, we have tried to suggest that RICO's "liberal construction" clause actually requires that criminal convictions be obtained before civil suits under section 1964(c) commence.
+We need not rest the argument on the burdens to which the courts would otherwise be subjected, though other things being equal that might carry weight.
+We do strongly suggest, however, that if Congress had intended to permit defendants in every "garden-variety" fraud or securities violation case to be stigmatized as "racketeers," on the basis of a preponderance of the evidence, it would have said so in plainer language than it did.
+Before we impute to Congress the intention of federalizing a large portion of the common law which, since the time of the Constitution, has been left to the courts of the several states, and of providing treble damages and attorneys' fees for violations of these laws, or of altogether replacing or eliminating much of the need for extensive bodies of federal law specifically directed at extensively considered evils, we will require more explicit language from Congress indicative of such intent.
+Judgment affirmed.

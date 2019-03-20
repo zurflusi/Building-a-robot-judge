@@ -1,0 +1,303 @@
+ LIPEZ, Circuit Judge.
+This case raises a significant question under the First Amendment: may a union, functioning as the exclusive bargaining agent for certain state employees, charge nonmembers for litigation expenses incurred by its national affiliate, if that litigation is substantively related to the bargaining process and is funded through a pooling arrangement?
+Two other circuits have responded in the affirmative; one has answered in the negative.
+Our reading of the Supreme Court's most recent decision on this subject leads us to reply in the affirmative and hold that "extra-unit litigation" [fn1] may be charged to nonmembers where it satisfies the "germaneness test" that generally applies to other pooled resources.
+[fn2] See Lehnert v. Ferris Faculty Ass'n , 500 U.S. 507 , 111 S.Ct. 1950 , 114 L.Ed.2d 572 (1991).
+We therefore affirm the district court's entry of summary judgment for the union and against the nonmember employees.
+I. A. Factual Background Both parties moved for summary judgment below; none of the material facts are in dispute.
+The Maine State Employees Association ("MSEA") is a union representing state workers, and has been designated by the state as the exclusive bargaining agent for certain employees of its executive branch.
+Under MSEA's collective bargaining agreement, it must provide certain administrative services for all of these employees, regardless of whether they elect to join the union.
+As a result, MSEA is entitled to receive a "service fee" (also known as an "agency fee") from those nonmember state employees whom it represents.
+[fn3] The state and MSEA negotiated a new collective bargaining agreement in 2005, which included a provision requiring all nonmember employees to begin paying this service fee as of July 1, 2005.
+The service fee is intended to be equal to the amount of union dues minus those expenses not related to the provision of collective bargaining and contract administration services.
+[fn4] In other words, MSEA is permitted to charge nonmember employees their share of all expenditures related to its services as the exclusive bargaining agent; [fn5] those MSEA expenditures that are not related to bargaining and contract administration, such as political campaign donations or benefits provided only to members, cannot be "charged" to the nonmembers.
+[fn6] MSEA initially sent notices to all nonmember employees in April and June 2005, providing a description of the service fee and how it [**2] was calculated.
+In July 2005, MSEA sent a superseding notice, accompanied by additional (and updated) financial information.
+The July notice calculated the service fee based on MSEA's 2004 fiscal year, the most recent year for which such data was available.
+In the July notice, as compared to the earlier April and June notices, MSEA opted to classify all of its organizing expenditures as nonchargeable; activities such as public relations and lobbying were also classified as nonchargeable.
+MSEA's expenditures include the affiliation fee, see supra note 2, that it pays to the Service Employees International Union ("SEIU") to maintain its affiliation relationship with that organization.
+MSEA's July notice also included financial information for SEIU and classified as chargeable that proportion of its affiliation fee that represented SEIU's expenditures on chargeable activities.
+In other words, all of SEIU's activities that were comparable to those undertaken by MSEA, and which MSEA deemed chargeable in the calculation of the service fee, were included in the calculation of the proportion of MSEA's affiliation fee that could be charged to nonmembers.
+MSEA included in its calculation of chargeable expenditures those costs of litigation (by both itself and SEIU) that was germane to collective bargaining.
+This meant that nonmembers contributed, through their service fees, to some litigation that was not undertaken specifically for their own bargaining unit, but rather was conducted by or on behalf of other units or the national affiliate, sometimes in other states.
+Included within this general category of expenditures were the salaries of SEIU's lawyers, and other costs of providing legal services to bargaining units throughout the country.
+Costs of litigation that was not related to collective bargaining, however, were not included in the service fees assessed to MSEA's nonmembers.
+MSEA's July notice stated that 49.13% of the expenditures in its 2004 budget were chargeable to nonmembers; therefore, the service fee charged to nonmembers was 49.13% of the dues that members were required to pay.
+In addition to announcing the amount of the service fee, the July notice contained extensive additional information, such as: an affidavit from MSEA's Director of Finance explaining the calculation of the fee, a statement of all MSEA expenses classified into categories of chargeable and nonchargeable, an auditor's report on the statement of chargeable and non-chargeable expenses, and an independent auditor's report on SEIU's most recent financial statement (2003) on chargeable and nonchargeable expenses.
+The July notice also provided nonmembers with information on how they could challenge the service fee if they disagreed with any of the expenditure allocations described within it.
+The notice informed nonmembers that if any nonmembers challenged the fee amount or calculations, all fees paid by nonmembers would be placed in an interest-bearing escrow account until arbitration was complete.
+[**3] Some nonmembers did challenge the service fee and an arbitration was scheduled for all objections.
+The arbitration took place in December 2005, and the arbitrator issued a decision in May 2006, upholding MSEA's service fee calculation.
+In accord with the notice, all fees paid by nonmembers were held in escrow until after the arbitrator's decision was announced.
+B. Procedural Background Before the arbitration process was complete, the twenty appellant-plaintiffs in this case filed suit in the District of Maine under 42 U.S.C. 1983 , seeking class action status, injunctive and declaratory relief, damages, and restitution.
+The employees then moved for a preliminary injunction, as well as class certification.
+After a hearing on the preliminary injunction motion, the district court denied it.
+Following the close of discovery, both parties moved for summary judgment.
+The district court granted summary judgment for the defendants, holding that "the inclusion of the cost of extra-[unit] litigation does not violate Plaintiffs' constitutional rights."
+The court also held that, because "the MSEA has placed all objecting nonmember service fees in an escrow account pending the ruling from the impartial arbitrator," there is "no constitutional violation."
+As the court explained: "the use of an impartial arbitrator and the escrowing of objectors' fees pending resolution of the complaint is sufficient to safeguard the nonmembers' constitutional rights" under Supreme Court precedent.
+[fn7] On appeal, the nonmember employees raise only two issues.
+[fn8] First, they claim that SEIU's expenditures on litigation related to or on behalf of other bargaining units (also known as "extra-unit litigation" expenses) are not chargeable to nonmembers under the First Amendment because "the State of Maine has no `compelling state interest' in SEIU's far-flung litigation activities nationwide."
+Second, the appellants claim that the "district court erred when it held that the constitution imposes no obligation to calculate an adequate advance reduction of the fee."
+II.
+The first issue in this case — the chargeability of extra-unit litigation that is related to collective bargaining and that is subject to a pooling arrangement — requires us to examine a series of Supreme Court decisions and to resolve an area of uncertainty.
+Although none of the Supreme Court's opinions has squarely addressed the issue presented in this case, we explain below our view that the constitutionality of charging extra-unit litigation costs to non-member employees turns on the same "germaneness" test that applies to all other pooled services under Lehnert v. Ferris Faculty Ass'n , 500 U.S. 507 , 111 S.Ct. 1950 , 114 L.Ed.2d 572 (1991).
+A. Origins of Supreme Court Doctrine Over the course of the past thirty years, the Supreme Court has repeatedly addressed the First Amendment implications of "union shops" or "agency shops," where union membership, or service fee payment, is required as a condition of continued employment.
+See supra note 3.
+The early cases in this field dealt with railroads and their employees, after Congress passed a [**4] provision of the Railway Labor Act that required every employee working for a particular unit to provide financial support to the exclusive bargaining representative for that unit.
+See, e.g., Railway Employees' Dep't.
+v. Hanson , 351 U.S. 225 , 76 S.Ct. 714 , 100 L.Ed. 1112 (1956); Machinists v. Street , 367 U.S. 740 , 81 S.Ct. 1784 , 6 L.Ed.2d 1141 (1961).
+Those cases upheld the constitutionality of the relevant provisions of the Railway Labor Act and concluded that Congress could impinge on employees' rights to free speech and free association by requiring their payment of dues to a union, in order to promote peaceful labor relations and efficient labor representation.
+Hanson , 351 U.S. at 235-38 , 76 S.Ct. 714 ; Street , 367 U.S. at 768 , 81 S.Ct. 1784 .
+In Street , the Court held that Congress's permissible reasons for passing the statute meant that fees or dues could be required from nonmembers only insofar as those fees were related to the union's role as negotiator and administrator of the collective bargaining agreement.
+Street , 367 U.S. at 768-69 , 81 S.Ct. 1784 .
+Thus, it would be a violation of the First Amendment if Congress permitted railroads (or other private sector employers) to forcibly collect funds from employees in order to "finance the campaigns of candidates for federal and state offices whom [the nonmember employees] opposed, and to promote the propagation of political and economic doctrines, concepts and ideologies with which [they] disagreed."
+Id. at 744 , 81 S.Ct. 1784 .
+Given these principles, employers who designate a particular union as the exclusive bargaining agent for their employees cannot require those employees to subsidize or financially support the political or ideological activities of the union.
+B. Abood v. Detroit Board of Education In 1977, in Abood v. Detroit Board of Education , 431 U.S. 209 , 97 S.Ct. 1782 , 52 L.Ed.2d 261 (1977), the Court considered a Michigan statute allowing local governments to create "agency shops."
+The Supreme Court thus faced the question whether, and to what degree, the constitutional implications of the agency shop arrangement were altered by the nonmembers' role as government employees.
+The Court concluded that the same legislative purposes underlay the state's and Congress' endorsement of an agency shop, meaning that the same government interests were at stake in the two situations.
+Id. at 224-26 , 97 S.Ct. 1782 .
+The Court explained: To be required to help finance the union as a collective-bargaining agent might well be thought, therefore, to interfere in some way with an employee's freedom to associate for the advancement of ideas, or to refrain from doing so, as he sees fit.
+But the judgment clearly made in Hanson and Street is that such interference as exists is constitutionally justified by the legislative assessment of the important contribution of the union shop to the system of labor relations established by Congress.
+`The furtherance of the common cause leaves some leeway for the leadership of the group.
+As long as they act to promote the cause which justified bringing the group together, the individual cannot withdraw his financial support merely because he disagrees with the group's strategy.
+If that were allowed, we would be reversing the Hanson case, sub silentio.'
+Id. at 222-23, 97 S.Ct. 1782 (quoting Street , 367 U.S. at 778 , 81 S.Ct. 1784 (Douglas, [**5] J., concurring) (footnote omitted)).
+The Court also found that the same First Amendment interests in speech and association were at stake, regardless of whether the nonmember employees were employed by a state government or a private entity.
+Id. at 231-32 , 97 S.Ct. 1782 .
+Therefore, the Abood majority endorsed the same basic constitutional framework for government employees as had previously been adopted in Hanson and Street.
+Id. at 225-26 , 235-36 , 97 S.Ct. 1782 .
+C. Ellis v. Brotherhood of Railway Clerks After the Supreme Court held in Street and Abood that nonmember employees' service fees could not be used to support political or ideological expression, the focus of litigation shifted to implementation of the general principles articulated in those cases.
+A series of subsequent cases required the Court to determine two key questions: what sorts of union activities qualify as political or ideological (and therefore are not chargeable to nonmembers), and what procedures must a union adopt to ensure that nonmembers' P In Ellis v. Brotherhood of Railway Clerks , 466 U.S. 435 , 104 S.Ct. 1883 , 80 L.Ed.2d 428 (1984), nonmember employees sued a union, claiming that its method of fee collection was unconstitutional.
+The union collected the same amount from all employees, including dues-paying members and fee-paying nonmembers.
+At the end of a fiscal year, it would then rebate a portion of the fee to the nonmembers, returning the amount of the fee that correlated to the union's expenditures on political or ideological activities (i.e., nonchargeable expenses).
+Id. at 439-40 , 104 S.Ct. 1883 .
+The Court held that the "pure rebate approach is inadequate."
+Id. at 443 , 104 S.Ct. 1883 .
+It explained that collection of the full dues amount, and rebate of the improperly collected funds, was tantamount to an "involuntary loan" by the nonmembers, and was impermissible because the union had other, less intrusive ways to collect the service fee.
+Id. at 444 , 104 S.Ct. 1883 .
+Although Ellis did not prescribe a particular method for collection of service fees from nonmember employees, it suggested (without requiring) that advance reduction of fees and interest-bearing escrow accounts might be used to resolve the problem.
+Id .
+Having declared invalid the procedure by which this union collected its funds, the Court then addressed the particular expenditures that were challenged by nonmembers.
+In evaluating these expenditures, the Court recognized that the agency-shop arrangement inherently entailed some "significant impingement on First Amendment rights" because the nonmember employees were, for the sake of peaceful labor relations, being required to "support financially an organization with whose principles and demands [they] may disagree."
+Id. at 455 , 104 S.Ct. 1883 .
+The Court nonetheless recognized that this infringement of constitutional rights had been permitted, by its prior decisions in Hanson and Street , because of the strong governmental interests at stake.
+With those preliminary considerations in mind, it articulated the standard for permissible charges to nonmembers as whether the challenged expenditures are necessarily or reasonably incurred for the [**6] purpose of performing the duties of an exclusive representative of the employees in dealing with the employer on labor-management issues.
+Under this standard, objecting employees may be compelled to pay their fair share of not only the direct costs of negotiating and administering a collective-bargaining contract and of settling grievances and disputes, but also the expenses of activities or undertakings normally or reasonably employed to implement or effectuate the duties of the union as exclusive representative of the employees in the bargaining unit.
+Id. at 448 , 104 S.Ct. 1883 .
+Pursuant to this standard, only those expenditures arising from activities related to the union's duty of representation to all of the employees in the bargaining unit could be charged to all employees.
+One of the six specific expenditures at issue in Ellis was litigation costs.
+The Court held: The expenses of litigation incident to negotiating and administering the contract or to settling grievances and disputes arising in the bargaining unit are clearly chargeable to petitioners as a normal incident of the duties of the exclusive representative.
+The same is true of fair representation litigation arising within the unit, of jurisdictional disputes with other unions, and of any other litigation before agencies or in the courts that concerns bargaining unit employees and is normally conducted by the exclusive representative.
+The expenses of litigation not having such a connection with the bargaining unit are not to be charged to objecting employees.
+Id. at 453 , 104 S.Ct. 1883 .
+Consistent with Ellis' general definition of relevance (or "germaneness," as the Court would later describe it), which focuses on activities that are related to a union's collective bargaining duties, litigation expenses chargeable to nonmembers would also have to be related to the bargaining process for the particular local unit.
+Extra-unit litigation, by definition, could not satisfy this standard.
+See supra note 1.
+D. Chicago Teachers Union v. Hudson In Chicago Teachers Union v. Hudson , 475 U.S. 292 , 106 S.Ct. 1066 , 89 L.Ed.2d 232 (1986), the Court addressed one union's attempt to implement the Ellis decision.
+The union charged all nonmember employees a service fee equal to 95% of the dues required of members; the proportion was calculated based on the union's expenditures on chargeable activities during the prior fiscal year.
+Id. at 295 , 106 S.Ct. 1066 .
+The union informed all non-members that they would be required to pay this amount and that they could object to the "proportionate share" (i.e., the fee calculation) in writing, if they did so within thirty days of the first payment.
+Id. at 296 , 106 S.Ct. 1066 .
+Once an objection was raised, a three-step process would begin.
+First, the union's executive committee would consider the objection.
+If the committee did not agree with the objection, the objector could appeal the issue to the union's executive board.
+Finally, if the objection remained unresolved, the union president would select an arbitrator, to be paid by the union, who would resolve the issue.
+An objector who prevailed at any of these levels would [**7] receive a rebate for the contested amount, and all future service fees would be reduced accordingly.
+Id .
+The issue in Hudson , therefore, was whether the union had taken sufficient precautions to prevent "`compulsory subsidization of ideological activity.'"
+Id. at 302 , 106 S.Ct. 1066 (quoting Abood , 431 U.S. at 237 , 97 S.Ct. 1782 ).
+The Supreme Court began by observing once again that the government's interests in efficient and peaceful labor relations, while sufficient to permit enforcement of an agency shop policy, were not so great as to render the First Amendment interests of nonmember employees irrelevant.
+Therefore, it stated that unions must devise a means to collect the service fee which would be "carefully tailored to minimize the infringement," and the nonmember employees must be given enough information and adequate procedural mechanisms to allow them to "identify the impact of the governmental action on [their] interests and to assert a meritorious First Amendment claim."
+Id. at 303 , 97 S.Ct. 1782 .
+The Court first held that the union's fee collection was unconstitutional because it was functionally comparable to the pure rebate system that had been rejected in Ellis.
+Id. at 305 , 97 S.Ct. 1782 .
+Next, the Court held that the union's method of making an advance reduction of dues (the 5% reduction from the full dues amount) was inadequate because it failed to provide nonmembers with sufficient information to allow them to determine whether they wished to object.
+Id. at 306-07 , 104 S.Ct. 1883 .
+The Court emphasized that the union had a duty to provide an explanation of how the advance reduction was calculated and some expenditure information.
+Id. at 306-07 , 104 S.Ct. 1883 & n. 18.
+The Court also held that placing the entire fee paid by nonmembers into an escrow account could not cure otherwise defective procedures (such as inadequate explanation of the fee or a biased dispute resolution procedure), but that a union must escrow the "amounts reasonably in dispute" pending the resolution of any objections raised by nonmembers.
+Id. at 310 , 104 S.Ct. 1883 .
+Finally, the Court held that the union must "provide for a reasonably prompt decision by an impartial decisionmaker" after a nonmember employee files an objection.
+Id. at 307 , 104 S.Ct. 1883 .
+Summarizing its conclusions, the Court held that the "constitutional requirements for the Union's collection of agency fees include an adequate explanation of the basis for the fee, a reasonably prompt opportunity to challenge the amount of the fee before an impartial decisionmaker, and an escrow for the amounts reasonably in dispute while such challenges are pending."
+Id. at 310 , 104 S.Ct. 1883 .
+[fn9] E. Lehnert v. Ferris Faculty Association In Lehnert v. Ferris Faculty Ass'n , 500 U.S. 507 , 111 S.Ct. 1950 , 114 L.Ed.2d 572 (1991), the Court addressed, for the first time, the chargeability of "pooled expenses."
+The defendant union in Lehnert was a local affiliate of both a state union (the Michigan Education Association, or "MEA") and a larger, national union (the National Education Association, or "NEA").
+It paid affiliation fees to the MEA and the NEA; these fees, along with the fees paid by all other local affiliates, were used by the state and national unions to support various activities at the state [**8] and national level.
+The affiliation fees also ensured the local unit's access to the MEA's and NEA's resources when the unit needed them (and the correlative availability of those resources to other local units when they were in need).
+The union passed a portion of its affiliation fees obligation on to nonmembers, by counting a percentage of the affiliation fees within the chargeable category of expenditures.
+That chargeable category was calculated by dividing the MEA's and NEA's total expenditures by those expenditures it made on "chargeable" activities.
+The non-member plaintiffs in Lehnert challenged the amount of the service fee, based on the inclusion of certain expenditures in the category of "chargeable" expenses.
+The Lehnert Court began by reviewing the relevant precedents and deriving from them a three-part test for determining whether a particular union expenditure is chargeable to nonmembers: "chargeable activities must (1) be `germane' to collective-bargaining activity; (2) be justified by the government's vital policy interest in labor peace and avoiding `free riders'; and (3) not significantly add to the burdening of free speech that is inherent in the allowance of an agency or union shop."
+Id. at 519 , 111 S.Ct. 1950 .
+[fn10] The Court then analyzed the nonmembers' claim "that they may be charged only for those collective-bargaining activities undertaken directly on behalf of their unit."
+Id. at 522 , 111 S.Ct. 1950 .
+It focused on the language from Hanson requiring that expenditures charged to nonmembers be "germane" to collective bargaining and concluded that such expenditures need not have "a direct relationship" to the nonmembers' bargaining unit in order to satisfy the germaneness prong of the chargeability test.
+Id. at 522-23 , 111 S.Ct. 1950 .
+The Court explained: The essence of the affiliation relationship is the notion that the parent will bring to bear its often considerable economic, political, and informational resources when the local is in need of them.
+Consequently, that part of a local's affiliation fee which contributes to the pool of resources potentially available to the local is assessed for the bargaining unit's protection, even if it is not actually expended on that unit in any particular membership year.
+Id. at 523 , 111 S.Ct. 1950 .
+Thus the non-members' service fees could include "their pro rata share of the costs associated with otherwise chargeable activities of [the local unit's] state and national affiliates, even if those activities were not performed for the direct benefit of the objecting employees' bargaining unit."
+Id. at 524 , 111 S.Ct. 1950 .
+In other words, the Court concluded that the use of a pooling or affiliation arrangement, with its requirement that a local union pay an affiliation fee to the state or national union, would not render expenditures that were otherwise chargeable (that is, substantively relevant to collective bargaining) non-germane to the local bargaining unit.
+The Court cautioned, however, that the permissibility of pooling arrangements "does not serve to grant a local union carte blanche to expend dissenters' dollars for bargaining [**9] activities wholly unrelated to the employees in their unit."
+Id .
+The Lehnert Court, therefore, adopted a different standard of germaneness than that used by the Ellis Court.
+While Ellis defined germane activities as those directly related to the local unit's bargaining process, 466 U.S. at 448 , 104 S.Ct. 1883 , Lehnert recognized germaneness as having two distinct components: charged expenditures must be (1) substantively related to collective bargaining, and (2) "for services that may ultimately inure to the benefit of the members of the local union by virtue of their membership in the parent organization," 500 U.S. at 524 , 111 S.Ct. 1950 .
+Thus, Lehnert defined germaneness more broadly to take account of the nature of affiliation relationships and the pooling of resources characteristic of such relationships.
+Although a majority of the Justices agreed on this general standard for evaluating the chargeability of pooled expenses, they did not reach agreement on the permissibility of charging nonmembers for extra-unit litigation funded through a pooling arrangement.
+Justice Blackmun's majority opinion, joined in some parts by four other Justices, did not garner five votes for the paragraph discussing extra-unit litigation and is not controlling on that subject.
+Id. at 510 , 528 , 111 S.Ct. 1950 .
+There, Justice Blackmun said that the costs of litigation "that does not concern the dissenting employees' bargaining unit" would not be "germane to the union's duties as exclusive bargaining representative."
+Id. at 528 , 111 S.Ct. 1950 .
+[fn11] Justice Blackmun concluded that extra-unit litigation, which does not involve the nonmembers' own unit by definition, was categorically not germane because it does not "concern" the union's role as bargaining agent for that specific unit.
+Id .
+He declined to apply the two-part germaneness test that he prescribed for other pooled expenses (requiring a substantive relationship to bargaining and a benefit conferred on the unit, through the reciprocal pooling arrangement), and specifically rejected the notion that such litigation might be germane where it would "ultimately be of some use to" the particular unit.
+Id .
+Justice Marshall, who concurred in part and dissented in part, wrote separately about the litigation issue and expressly noted that Justice Blackmun's paragraph on the topic was dicta.
+Id. at 544 , 111 S.Ct. 1950 ("The [principal] opinion's discussion of extra-unit litigation costs is no more than dicta since .
+.
+.
+no such costs are at issue in this case.") (Marshall, J., concurring in part and dissenting in part).
+Justice Marshall also stated that he would reject any per se rule against charging for extra-unit litigation expenses, suggesting that such expenditures would be subject to the same germaneness test as other pooled resources (and thus would be potentially chargeable).
+Id. at 546-47 , 111 S.Ct. 1950 .
+[fn12] Finally, Justice Scalia, joined by Justices O'Connor, Souter, and Kennedy (in part), dissented and argued that the only chargeable costs are those arising from performance of the union's "statutory duties as exclusive bargaining agent."
+Id. at 550 , 111 S.Ct. 1950 (Scalia, J., concurring in part and dissenting in part).
+Justice Scalia [**10] rejected the "germaneness" test and argued that the governmental interest in preventing the "free rider" problem was limited to the union's statutory duties to such potential free riders.
+In other words, the union could collect service fees only for its involvement in those activities that it was required by law to pursue.
+Id. at 556-57 , 111 S.Ct. 1950 .
+Justice Scalia did agree with the majority, however, that nonmembers could be charged for the costs of providing statutorily required services through a pooling arrangement.
+Id. at 561 , 111 S.Ct. 1950 ("It would .
+.
+.
+be appropriate to charge the cost of [national-affiliate provided] services actually provided to [the local unit] itself , since they relate directly to performance of the union's collective-bargaining duty.
+It would also be appropriate to charge to nonunion members an annual fee charged by NEA in exchange for contractually promised availability of such services from NEA on demand.
+"); id. at 562 , 111 S.Ct. 1950 (explaining that pooled resources are chargeable where they provide a tangible benefit to the particular bargaining unit and its duties as exclusive representative, because there is a "tangible benefit .
+.
+.
+[in having] expert consulting services on call, even in the years when they are not used").
+Justice Scalia did not mention extra-unit litigation specifically, most likely because no such charges were at issue in Lehnert.
+Id. at 544 , 111 S.Ct. 1950 (Marshall, J., concurring).
+In light of this fractured opinion, Lehnert did not resolve the specific question before us in this case: whether a union may charge nonmembers for expenses related to litigation conducted by a national affiliate, if the litigation is substantively related to the bargaining process and is funded through a pooling arrangement.
+Lehnert did provide the framework, however, for analyzing the question.
+III.
+Before applying the Lehnert test to the facts of this case, we review some of the decisions from other circuits which have addressed the chargeability to nonmembers of the costs of extra-unit litigation in light of the Supreme Court decisions that we have discussed.
+A. Other Circuits' Decisions In Pilots Against Illegal Dues v. Air Line Pilots Ass'n , 938 F.2d 1123 (10th Cir.1991) (" PAID "), a case decided shortly after Lehnert , the Tenth Circuit nevertheless relied heavily on Ellis in its analysis.
+The Air Line Pilots Association ("ALPA") charged nonmember employees of United Airlines for some of its costs associated with the litigation surrounding Continental Airlines' bankruptcy proceedings.
+Id. at 1127 .
+ALPA claimed that these costs were properly chargeable because its success in the Continental litigation, which related to the Continental employees' collective bargaining rights, would generally strengthen the union, and thereby benefit the United bargaining unit.
+Id. at 1129 .
+The Tenth Circuit rejected this argument because it applied the definition of "germaneness" articulated in Ellis and concluded that the Continental litigation did not "concern" or "relate to" the United bargaining unit.
+Id. at 1129-30 .
+[fn13] The PAID court quoted from Ellis at length and concluded [**11] that only expenditures which "directly concerned" or "benefitted" the particular bargaining unit could be germane.
+Id. at 1130 ("In order for litigation expenses to be charged to a bargaining unit, the litigation must concern the members of the bargaining unit.").
+Therefore, the court held that the "ALPA may not charge objecting United pilots for expenses incurred in litigation on behalf of the Continental bargaining unit" because the United unit did not benefit from that litigation.
+Id. at 1129 .
+This approach effectively prevents unions from charging nonmembers for any extra-unit litigation because, by definition, extra-unit litigation will not directly involve or concern the nonmembers' unit.
+[fn14] Four years later, the Sixth Circuit came to a different conclusion because it applied a different legal standard.
+In Reese v. City of Columbus , 71 F.3d 619 , 624 (6th Cir.1995), that court held that the Lehnert chargeability test applies to extra-unit litigation expenses and that such expenses are, therefore, chargeable to nonmembers where they are shown to be related to collective bargaining and ultimately "inure to the benefit" of the local unit (as pooling arrangements inevitably do).
+In other words, the Reese court adopted the definition of germaneness articulated in Lehnert , rather than the narrower definition adopted in Ellis.
+This approach, in contrast to that taken in PAID , means that extra-unit litigation funded through pooling arrangements will be chargeable whenever it substantively involves collective bargaining because the affiliation relationship itself provides the required connection between the expenditure and the local unit.
+The Reese court examined the fractured Lehnert decision closely and found that the general approach to pooled expenses endorsed by the majority of the Supreme Court (i.e., that costs incurred through pooling arrangements could be charged to nonmembers if they were germane to collective bargaining) applied to extra-unit litigation, as it did to other pooled resources.
+Id .
+Most recently, the Third Circuit addressed the chargeability of extra-unit litigation in Otto v. Pennsylvania State Education Ass'n , 330 F.3d 125 (3d Cir.2003), and aligned itself with the Sixth Circuit.
+In Otto , the nonmember employee-plaintiffs worked for a local school district and were required to pay agency shop fees to the local and state education associations.
+The plaintiffs claimed, among other things, that the local unit's expense pooling arrangement with the state association resulted in their payment of unconstitutional charges for extra-unit litigation.
+Id. at 128-29 .
+The Third Circuit framed the question before it this way: "[W]hether a union may charge non-members for their pro rata share of expenses that relate to litigation and that were incurred on behalf of an affiliate union pursuant to a cost-sharing agreement."
+Id. at 135 .
+The court noted that the Lehnert decision had not agreed on how such extra-unit litigation costs would fare under its definition of germaneness, meaning that there was no "definitive Supreme [**12] Court guidance."
+Id. at 136-38 .
+The Otto court applied the Lehnert germaneness test to the particular extra-unit litigation costs that the local union had charged to the nonmembers.
+It concluded that those expenditures provided a sort of insurance to the local unit by ensuring "the [future] availability of resources for [the unit's own] collective-bargaining-related litigation," and, in that way, inuring to the benefit of the local unit.
+Id. at 139 .
+The court thus deemed the expenditures germane to the local unit's role as collective bargaining agent.
+Id .
+Under the second prong of the Lehnert chargeability test, the court said that "the free-rider concerns applicable to other pooled-expense arrangements apply with equal force to extra-unit litigation expenditures."
+Id .
+Finally, under the third prong of the test, the court concluded that where the pooled resources are being used for litigation that relates to collective bargaining, there would be "`little additional infringement of First Amendment rights beyond that already accepted.'"
+Id .
+(quoting Ellis , 466 U.S. at 456 , 104 S.Ct. 1883 ).
+Therefore, the Third Circuit concluded that pooling arrangements for extra-unit litigation should be treated like other pooling arrangements, with costs chargeable to non-members so long as they satisfied the three-part Lehnert test, including the Lehnert definition of germaneness.
+Id .
+B. MSEA's Extra-Unit Litigation Charges In granting summary judgment for MSEA, the district court held "as a matter of law that the inclusion of the cost of extra-unit litigation does not violate Plaintiffs' constitutional rights."
+Locke v. Karass , 425 F.Supp.2d 137 , 147 (D.Me.2006).
+It cited the decisions of the Sixth and Third Circuits, and stated that "[t]hose circuit courts that have ruled on the issue have found that it is constitutionally permissible for unions to include extra-unit litigation expenses in the service fees charged to nonmembers."
+Id. at 146-47 .
+The appellants argue that the district court failed to give due weight to the Supreme Court's earlier decision in Ellis , which stated that "[t]he expenses of litigation not having □ a connection with the bargaining unit are not to be charged to objecting employees."
+466 U.S. at 453 , 104 S.Ct. 1883 .
+They claim that this language is dispositive and bars the union from charging nonmembers for any extra-unit litigation costs.
+In addition, they cite to Justice Blackmun's opinion in Lehnert , representing four Justices, and its endorsement of the Ellis per se prohibition on charging for extra-unit litigation, 500 U.S. at 528 , 111 S.Ct. 1950 , in support of their argument.
+They also contend that our decision in Romero v. Colegio De Abogados De Puerto Rico , 204 F.3d 291 , 299 (1st Cir.2000), is controlling here because, they say, it holds that charging nonmembers for litigation, other than that conducted by or for the particular bargaining unit, is unconstitutional.
+In response, MSEA argues that Ellis is not relevant to this case because it did not address the chargeability of pooled resources, and its discussion of extra-unit litigation is therefore inapplicable to the facts here.
+The union also challenges appellants' reliance on Romero , arguing [**13] that its discussion of chargeability for extra-unit litigation was dicta.
+[fn15] MSEA urges us to adopt the reasoning of the Third and Sixth Circuits, finding that the three-part Lehnert test should apply to extra-unit litigation in the same way that it applies to all other pooling arrangements.
+We agree with MSEA that both Lehnert 's germaneness definition and three-part chargeability test are applicable here.
+Like the Third Circuit, we believe the chargeability of extra-unit litigation "lies in the intersection of the Ellis and Lehnert holdings," 330 F.3d at 135 .
+The Ellis decision holds that nonmembers cannot be charged for litigation that does not "concern" their own bargaining unit.
+466 U.S. at 453 , 104 S.Ct. 1883 .
+While the language in Ellis suggests, at first blush, that only litigation by or for the particular bargaining unit involved can be charged to nonmembers, a closer reading of the opinion reveals a more limited holding.
+As Otto noted, the Ellis court was not confronted with a pooling arrangement, 330 F.3d at 136 ; its decision pertained only to the direct contribution of local union monies to litigation efforts by other units (or by a national affiliate) — meaning contributions to litigation expenses given without expectation of reciprocal contributions at a later time.
+[fn16] See also Lehnert , 500 U.S. at 564 , 111 S.Ct. 1950 (Kennedy, J., concurring in the judgment in part and dissenting in part) (noting that Ellis "contains no discussion" of whether it would be permissible for a local unit to charge nonmembers for bargaining-related litigation "through a cost sharing arrangement under the auspices of the affiliate").
+Moreover, the litigation that was deemed nonchargeable in Ellis was specifically defined as "litigation not involving the negotiation of agreements or settlement of grievances."
+466 U.S. at 440 , 104 S.Ct. 1883 .
+Therefore, the import of the decision in Ellis , relying on a narrow definition of germaneness, is limited by its factual background (i.e., a direct funding arrangement).
+Lehnert addressed a different factual context — a pooling arrangement — and explored the reasons that pooled expenditures for litigation fall outside the rule articulated in Ellis.
+500 U.S. at 523-24 , 111 S.Ct. 1950 .
+The best way to reconcile Ellis and Lehnert is to recognize this distinction.
+Ellis continues to be good law, and to mean what it literally says, in cases involving a unit's direct expenditures to support litigation by other bargaining units.
+But where monies are spent in a pooling arrangement, as described by Lehnert, Ellis does not bar the chargeability of extra-unit litigation expenses, and Lehnert's definition of germaneness, applicable generally to pooling arrangements, applies sensibly to litigation expenses funded by such a pooling arrangement.
+Under Lehnert , an activity is germane if it is substantively related to bargaining and will "ultimately inure to the benefit of the members of the local union," 500 U.S. at 524 , 111 S.Ct. 1950 .
+Where a unit enters a pooling arrangement, the pool itself provides a benefit to the local unit.
+As noted in Otto , the pooling arrangement is akin to insurance, whereby the local unit contributes certain amounts to a larger fund in order to ensure that [**14] the larger fund will provide resources (in the form of services or money) in return, when the local unit needs them.
+See id. at 522-24 ; Otto , 330 F.3d at 136 ("Even if a local union party to such an arrangement does not litigate in any given year, it still derives a tangible benefit from participating in an expense-pooling agreement: the availability of on-call resources greater than those it could muster individually.").
+This arrangement, therefore, differs in kind from unilateral, non-reciprocal contributions to extra-unit litigation (of the sort at issue in Ellis ), for which a bargaining unit would have no reasonable expectation of any return benefit.
+The funding mechanism used is critical to a determination of which definition of germaneness ought to apply.
+The Ellis definition assumes, and thereby requires, a direct source of funding, whereas the Lehnert definition of germaneness assumes the existence of an affiliation or pooling relationship.
+As this case involves extra-unit litigation funded through a pooling agreement, we conclude that the Lehnert definition of germaneness should apply.
+Although Justice Blackmun's treatment of extra-unit litigation costs in Lehnert did not command a majority of the Court and hence is not controlling, appellants rely heavily on it, and its grounding in Ellis.
+However, like some of Justice Blackmun's colleagues, we are not persuaded by his analysis.
+Justice Blackmun stated that "extra-unit litigation [is] more akin to lobbying [than collective bargaining] in both kind and effect."
+500 U.S. at 528 , 111 S.Ct. 1950 .
+He noted that union litigation "may cover a diverse range of areas from bankruptcy proceedings to employment discrimination," and concluded that it was essentially "political and expressive" in nature.
+Id .
+The Lehnert Court, consistent with the earlier decisions in Hanson , 351 U.S. at 238 , 76 S.Ct. 714 , and Abood , 431 U.S. at 235 , 97 S.Ct. 1782 , recognized that purely political or ideological expenditures could not constitutionally be charged to nonmembers.
+Therefore, once Justice Blackmun characterized extra-unit litigation as expressive and political, 500 U.S. at 528 , 111 S.Ct. 1950 , he had no need to apply the general chargeability test set forth in Lehnert to the costs of such litigation.
+We think, however, that litigation is not susceptible to a single label.
+Some litigation may be purely expressive, and therefore clearly outside the scope of chargeable activities.
+However, other litigation may be central to the negotiation and administration of a collective bargaining agreement.
+In this case, the appellants have not challenged MSEA's characterization of the litigation for which the nonmembers were charged as "related" to collective bargaining.
+There is no contention that the litigation at issue is purely expressive or political.
+Therefore, we apply the Lehnert three-prong test to determine whether MSEA's contributions to SEIU's litigation efforts were properly chargeable.
+If the SEIU litigation was "germane" to MSEA's collective bargaining duties, as that term was defined in Lehnert , if it was justified by the government's interests in labor peace and prevention of free riders, [**15] and if it did "not significantly add to the burdening of free speech that is inherent in the allowance of an agency or union shop," 500 U.S. at 519 , 111 S.Ct. 1950 , the costs of MSEA's contribution to that litigation were chargeable to the appellants.
+The appellants have not, before the district court or on appeal, argued that the particular expenditures for which they were charged failed to satisfy this test.
+Instead, relying on Ellis , and Justice Blackmun's treatment of extra-unit litigation costs in Lehnert , they have argued only that, as a matter of law, extra-unit litigation could not be deemed "germane," and hence the costs associated with it could not be charged to nonmembers.
+Having rejected that argument, we are bound to conclude that the costs at issue here do satisfy the chargeability test, as there has been no dispute regarding the second and third prongs of the test.
+In addressing this extra-unit litigation issue, the district court held "as a matter of law[,] that the inclusion of the cost of extra-[unit] litigation does not violate Plaintiffs' constitutional rights."
+425 F.Supp.2d at 147 .
+Viewed in isolation, apart from the arguments framed by the parties, that language might be read to endorse a per se rule that all extra-unit litigation can be charged to nonmembers.
+However, as we have noted, the parties did not dispute whether the litigation charges were "germane," as that term was defined in Lehnert.
+Therefore, the district court must have assumed, consistent with the representations made to it, that the extra-unit litigation charges before it were "germane" within the meaning of Lehnert.
+On the basis of that understanding, we agree with the district court's disposition of the extra-unit litigation issue.
+IV.
+Appellants also claim that the district court erred in finding no flaw in the process used by MSEA to assess the non-member fee.
+They argue that Hudson implicitly, if not explicitly, imposed a requirement that unions make an advance reduction of the service fee based on the percentage of expenditures that are classified as nonchargeable.
+They further argue that the calculation must be done in "good faith."
+As already noted, MSEA did make an advance reduction, assessing approximately 49% of its members' dues as a service fee on nonmembers.
+Given that fact, we decline to consider whether such a reduction is mandatory under Hudson.
+[fn17] The only remaining issue before us, therefore, is the method by which the service fee is calculated.
+However, appellants' challenge to the method of calculation is simply a reiteration in different terms of their challenge to the constitutionality of extra-unit litigation charges.
+That is, appellants claim that the definition of "chargeable" was excessively broad because it included extra-unit litigation expenditures.
+They have not identified any procedural defects in the notice and explanation that MSEA provided to nonmembers.
+They also have not disputed any discrete charges based on the facts or circumstances of the expenditure.
+There is no second issue to decide.
+V. In the aftermath of the Supreme Court's decisions in Ellis and [**16] Lehnert , we understand the uncertainty about the constitutionality of charging nonmembers of a union for the costs of extra-unit litigation.
+However, for the reasons described above, we find that Lehnert and Ellis can be reconciled by identifying the mechanism by which a local unit contributes to extra-unit litigation.
+Where extra-unit litigation is funded through direct contributions, as in Ellis , nonmembers may not be charged for those expenditures.
+Where the litigation is funded through a pooling arrangement, the broader Lehnert definition of germaneness applies and the affiliation relationship between the state or national union and the local unit will be sufficient to demonstrate that the expenditures will "inure to the benefit" of the local unit; thus, in these situations, charges will be germane so long as the litigation at issue relates to the bargaining process.
+The facts in this case are not disputed.
+The extra-unit litigation costs were funded through a pooling arrangement and were substantively related to the bargaining process.
+Those costs are chargeable to the nonmember appellants without offending the First Amendment of the Constitution.
+Affirmed.

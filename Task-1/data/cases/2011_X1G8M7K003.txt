@@ -1,0 +1,810 @@
+ MATHESON, Circuit Judge.
+I. INTRODUCTION Tarrant Regional Water District ("Tarrant"), a Texas state agency, applied to the Oklahoma Water Resources Board ("the OWRB") for permits to appropriate water at three locations in Oklahoma for use in Texas.
+Just before filing its applications, Tarrant sued the nine members of the Oklahoma Water Resources Board (collectively "OWRB") in the district court for the Western District of Oklahoma and sought a declaratory judgment to invalidate certain Oklahoma statutes that govern the appropriation and use of water and an injunction preventing OWRB from enforcing them.
+[fn1] Tarrant alleged that the Oklahoma statutes restrict interstate commerce in water and thereby violate the dormant Commerce Clause as discriminatory or unduly burdensome.
+Tarrant further alleged that Congress did not authorize Oklahoma through the Red River Compact ("Compact") to enact such laws.
+OWRB responded that Congress did authorize Oklahoma to adopt these statutes by consenting to the Compact.
+Tarrant also claimed that the Compact preempts the Oklahoma statutes insofar as the Compact applies to Tarrant' [**2] s application to appropriate water located in Reach II, Subbasin 5 of the Red River Basin.
+The district court granted summary judgment for OWRB on both the dormant Commerce Clause and Supremacy Clause claims.
+Tarrant Reg'l Water Dist. v. Herrmann , No. CIV-07-0045-HE , [ 2009 BL 252419 ], 2009 WL 3922803 (W.D.Okla.
+Nov. 18, 2009) (unpublished) ( Tarrant I. ) After that decision, Tarrant took steps to export to Texas Oklahoma water that is not subject to the Compact.
+Tarrant negotiated a contract with property owners in Stephens County, Oklahoma to export groundwater to Texas and also entered a memorandum of understanding (MOU) with the Apache Tribe concerning the Tribe's potential water rights.
+Then in the district court Tarrant reasserted its dormant Commerce Clause challenge based on these transactions.
+The district court dismissed the Stephens County matter for lack of standing and the Apache Tribe matter as not ripe.
+Tarrant Reg'l Water Dist. v. Herrmann , No. CIV-07-0045-HE , [ 2010 BL 162271 ], 2010 WL 2817220 (W.D.Okla.
+July 16, 2010) (unpublished) ( Tarrant II. )
+This appeal raises three issues.
+First, did Congress authorize the Compact states to protect their apportionments of water through measures that otherwise might violate the dormant Commerce Clause?
+Second, did the Compact preempt certain Oklahoma statutes insofar as they interfere with Tarrant's appropriating water located in the Oklahoma part of Reach II, Subbasin 5 and exporting it to Texas?
+Third, did Tarrant have a justiciable dormant Commerce Clause challenge to the application of certain Oklahoma statutes to water not subject to the Compact based on the Stephens County and Apache Tribe arrangements?
+Exercising jurisdiction under 28 U.S.C. 1291 , we AFFIRM the grants of summary judgment on the dormant Commerce Clause and preemption issues.
+We AFFIRM the dismissals based on standing and ripeness.
+II.
+BACKGROUND A. Facts Tarrant Regional Water District is a Texas state agency that provides water to north central Texas.
+The Dallas-Fort Worth metropolitan area has grown rapidly, with a corresponding need for water.
+This case represents Tarrant's efforts to satisfy this need with water from Oklahoma.
+The Red River forms the boundary between southeastern Oklahoma and northeastern Texas.
+In 1955, Congress granted permission to Arkansas, Louisiana, Oklahoma, and Texas to negotiate an agreement apportioning water in the Red River Basin.
+See Pub.L.
+No. 84-346 , 69 Stat. 654 (1955).
+In 1978, the states signed the Red River Compact, and, in 1980, Congress ratified it.
+See Pub.L.
+No. 96-564 , 94 Stat. 3305 (1980).
+The Compact divides the Basin into five reaches and further divides the reaches into subbasins to allocate water.
+To aid in understanding the Compact, the Compact's Negotiating Committee wrote Interpretive Comments so that future readers "might be apprised of the intent of the Compact Negotiating Committee with regard to each Article of the Compact."
+Aplt.App.
+Vol.
+I, 248.
+Tarrant seeks to export water to Texas from multiple sources in Oklahoma.
+Tarrant has proposed to appropriate water from Beaver Creek and Cache Creek, two Oklahoma tributaries of the Red River.
+Both creeks are located in Reach I, Subbasin 2.
+Tarrant also has [**3] applied to appropriate water from the Riamichi River, an Oklahoma tributary of the Red River in a different area — Reach II, Subbasin 5.
+The Compact applies to the water from these locations.
+In an attempt to access water not subject to the Compact, Tarrant has entered into an agreement with owners of ground-water rights in Stephens County, Oklahoma to export groundwater from their property to Texas.
+Tarrant also has signed an MOU with the Apache Tribe.
+Under the MOU, the parties agreed to work cooperatively to further quantify the Apache Tribe's reserved water rights and to develop mutually agreed terms for Tarrant's use of certain amounts of such water by purchase or long-term lease.
+Oklahoma requires a permit to appropriate water within the state and has created the Oklahoma Water Resources Board to rule on permit applications.
+See OKLA. STAT. tit. 82, 105.9 (establishing the OWRB's permit application authority).
+Tarrant has filed permit applications for its Beaver Creek, Cache Creek, and Riamichi River plans.
+Oklahoma statutes establish criteria that the OWRB must follow in deciding on applications.
+Some of these statutes require the OWRB to treat permits for instate and out-of-state water use differently.
+See generally id. 105 (cataloguing the criteria for water permit applications).
+B. Procedural History On November 1, 2007, Tarrant sued OWRB in the Western District of Oklahoma.
+It sought (1) a declaratory judgment that certain Oklahoma statutes are unconstitutional and (2) an injunction to prevent the OWRB from applying the statutes to its Beaver Creek, Cache Creek, and Riamichi River applications.
+Tarrant advanced what it labeled its Commerce Clause and Supremacy Clause arguments.
+Tarrant argued that the Oklahoma statutes placed burdens on interstate commerce that are unconstitutional under the dormant Commerce Clause.
+It also asserted that the Oklahoma statutes were preempted insofar as they conflicted with the Compact's language.
+Tarrant clarified that its Supremacy Clause claim concerns the Compact provision governing Reach II, Subbasin 5.
+Tarrant argued that this provision entitles Texas to a share of Subbasin 5 water and allows Tarrant as a Texas state agency to divert part of this share from an Oklahoma location in Subbasin 5 and export it to Texas free from the Oklahoma restrictions on out-of-state water use.
+1.
+Tarrant's Initial Complaint and Ensuing Litigation Tarrant's initial complaint challenged two sets of statutes.
+The first set was enacted in 2004 and placed a five-year Moratorium on the export of water out of state: [T]he Legislature hereby establishes a moratorium on the sale or exportation of surface water and/or groundwater outside this state pursuant to the provisions of this section.
+Unless otherwise repealed or revoked by the Oklahoma Legislature, the moratorium shall be in effect for a five-year period beginning on the effective date of this act.
+OKLA. STAT. tit. 82, 1B (A).
+Another statute applied the Moratorium to any state or tribal compact or any inter-governmental cooperative [**4] agreement, authorized pursuant to law, which is drafted in whole or in part to apportion surface water or groundwater ownership, or authorize or otherwise implement any sale or exportation of surface water or groundwater outside this state, except as authorized by the provisions of this act.
+Id. 74, 1221.A .
+The Moratorium expired on November 1, 2009.
+The second set of challenged statutes was enacted before the Moratorium.
+These statutes treat applications for instate and out-of-state water use differently.
+One statute requires legislative approval for out-of-state water use: "Provided, however, no contract shall be made conveying the title or use of any waters of the State of Oklahoma .
+.
+.
+for sale or use in any other state, unless such contract be specifically authorized by an act of the Oklahoma Legislature and thereafter as approved by it."
+Id. 82, 1085.2(2) .
+Another provision allows an exception to the general requirement that water be put to beneficial use within one year if the proposal optimized instate water use: If .
+.
+.
+the proposed project, improvement or structure will promote the optimal beneficial use of water in the state, and it further appears that the total amount of water to be authorized by the permit cannot be put to beneficial use within seven (7) years, then the Board shall provide in the permit the time within which the total amount to be authorized shall be put to beneficial use.
+Id. 105.16 .
+Also in the second set are two statutes that prevent Oklahoma state entities from selling water for out-of-state use.
+One statute requires that the Oklahoma Water Conservation Storage Commission — which includes all the members of the OWRB — "shall not permit the sale or resale of any water for use outside the State of Oklahoma."
+Id. 1085.22 .
+Another statute contains a similar limit on water exports by regional water districts: "No district organized hereunder shall sell or export water or gas pursuant to the Rural Water, Sewer, Gas and Solid Waste Management Districts Act outside of the state without consent of the Legislature."
+Id. 1324.10(B) .
+Finally, the second set of challenged statutes includes an Oklahoma statutory definition that prevents municipal water districts from including out-of-state agencies.
+The definition of "public agency" provides that "public agencies of other states shall not be entitled to membership in the district."
+ld 1266(9) .
+OWRB moved to dismiss Tarrant's complaint because the case was not ripe, OWRB was entitled to Eleventh Amendment immunity, the court should decline to hear the case under the abstention doctrine, and Louisiana and Arkansas are indispensable parties.
+The district court rejected each of OWRB's arguments and denied the motion.
+See Tarrant Reg'l Water Dist. v. Herrmann , No. CIV-07-0045-HE , [ 2007 BL 136397 ], 2007 WL 3226812 (W.D.Okla.
+Oct. 29, 2007) (unpublished).
+OWRB filed an interlocutory appeal on the ripeness, immunity, and abstention rulings.
+We affirmed the district court's decision on the first two issues and dismissed the portion of the appeal regarding abstention.
+Tarrant Reg'l Water Dist. v. Sevenoaks , 545 F.3d 906 , 915 (10th Cir. 2008) (" Sevenoaks ".)
+2.
+Tarrant's Supplemental [**5] Complaint and Ensuing Litigation In 2009, the Oklahoma legislature passed H.B.
+1483, which substantially overhauled the water permit application process.
+H.B.
+1483, 52nd Leg., 1st Sess.
+(Okla. 2009).
+Tarrant supplemented its complaint to challenge five more statutory provisions, including four from H.B.
+1483, on both dormant Commerce Clause and Supremacy Clause grounds.
+First, Tarrant challenged one of the new criteria that the OWRB must use when ruling on applications: "If the application is for use of water out of state, the Board shall .
+.
+.
+evaluate whether the water that is the subject of the application could feasibly be transported to alleviate water shortages in the State of Oklahoma."
+OKLA. STAT. tit. 82, 105.12 (A)(5).
+Second, Tarrant challenged a new restriction on the OWRB's discretion: "No permit issued by the Oklahoma Water Resources Board to use water outside the boundaries of the State of Oklahoma shall .
+.
+.
+[i]mpair the ability of the State of Oklahoma to meet its obligations under any interstate stream compact."
+Id. 105.12A(B) .
+Third, Tarrant challenged a post-approval application review process that applies only to out-of-state uses of water: Permits and amendments that authorize the use of water outside the state shall be subject to review by the Board at least every ten (10) years after the date of issuance to determine whether there has been a substantial or material change .
+.
+.
+The Board may impose additional conditions as described by Board rules to address any such substantial or material change.
+Id. 105.12F .
+Fourth, Tarrant challenged a new version of the longstanding legislative approval requirement: "No permit for the use of water out of state shall authorize use of water apportioned to the State of Oklahoma under an interstate compact unless specifically authorized by an act of the Oklahoma Legislature and thereafter as approved by it."
+Id. 105.12A(D) .
+Fifth and finally, Tarrant challenged Oklahoma's statutorily enshrined "state water plan," which declares: "Water use within Oklahoma should be developed to the maximum extent feasible for the benefit of Oklahoma so that out-of-state down-stream users will not acquire vested rights therein to the detriment of the citizens of this state."
+Id. 1086.1(A)(3) .
+OWRB filed a motion to dismiss and, in the alternative, for summary judgment.
+OWRB argued for dismissal on two grounds: that the court should defer to the Red River Compact Commission under the doctrine of primary jurisdiction and that H.B.
+1483 had impliedly repealed all of the originally challenged statutes.
+In the alternative, OWRB asked for summary judgment on the dormant Commerce Clause and Supremacy Clause claims.
+On November 18, 2009, the district court denied OWRB's motion to dismiss on primary jurisdiction and implied repeal, but granted summary judgment for OWRB on the Supremacy Clause and dormant Commerce Clause claims.
+See Tarrant I , [ 2009 BL 252419 ], 2009 WL 3922803.
+In rejecting the implied repeal arguments, the court noted that the Supreme Court disfavors such arguments.
+Id .
+at *2.
+H.B.
+1483 included no explicit repealer, and the legislative history of [**6] H.B.
+1483 demonstrated that the Oklahoma legislature had consciously chosen not to adopt an explicit repealer that had been included in previous drafts of the bill.
+Id .
+On primary jurisdiction, the court explained that the dormant Commerce Clause and Supremacy Clause arguments involved issues of law instead of issues of fact "not within the conventional experience of judges" — the type of issues the doctrine of primary jurisdiction was meant to include.
+Id .
+at *2-3.
+Therefore, the court found no reason to defer to the Red River Compact Commission.
+The court next analyzed the dormant Commerce Clause challenge and based its decision on "the nature of an interstate compact, the language Congress used .
+.
+.
+and the logical import of that language."
+Id .
+at *5.
+It found no controlling precedent: "So far as the court can determine, no case has squarely addressed the question of whether Congress' approval of compact language like that involved here is sufficient to insulate state statutes from Commerce Clause scrutiny."
+Id .
+at *4.
+The court found Sporhase v. Nebraska, ex rel Douglas , 458 U.S. 941 , 102 S.Ct. 3456 , 73 L.Ed.2d 1254 (1982), the precedent that Tarrant primarily relied upon, distinguishable because that case involved non-compacted water.
+"Here, the circumstances are at least one step removed from those existing in Sporhase.
+The particular compact involved here (the RRC) is directly applicable to the water in issue and it specifically contemplates dividing the water — allocating it — between the states involved."
+Tarrant I , [ 2009 BL 252419 ], 2009 WL 3922803 at *4.
+The court proceeded to the text of the Compact.
+"The language of the RRC does not explicitly say `states can limit or stop the out-of-state shipment of water' nor does it make any explicit reference to the Commerce Clause, dormant or otherwise.
+But the court does not read the various cases to require that level of specificity."
+Id .
+at *5.
+The court instead looked to "[t]he principal purpose and effect of the [Red River Compact]," which, the court determined, was to protect state water resources: "[N]one of the many cases concluding Congress' intent to supplant the Commerce Clause was insufficiently clear or insufficiently expressed involved circumstances where the essence of what Congress did do was to allocate resources between states."
+Id .
+at 6*.
+"[I]n light of the right of Oklahoma to control compact waters within its borders not inconsistent with the compact and in the absence of a showing that a particular statute is necessarily inconsistent with the compact," the court concluded that "the superseding effect (over otherwise applicable Commerce Clause standards) extends to all water covered by the compact."
+Id .
+The district court then turned to Tarrant's Supremacy Clause claim.
+Tarrant focused its preemption argument on an alleged conflict between 5.05(b)(1) of the Red River Compact and Oklahoma water statutes governing appropriation and use of water located within Oklahoma.
+See 5.05(b)(1) , 94 Stat. 3305 .
+In particular, Tarrant argued that 5.05(b)(1) allocates to Texas a share of Reach II, Subbasin 5 water that Tarrant can divert from the Oklahoma side of Subbasin 5 and use in Texas unrestrained [**7] by the Oklahoma statutes that place burdens on out-of-state water use.
+The district court addressed the preemption issue in one paragraph and held that the Compact does not preempt Oklahoma water statutes: "The compact itself explicitly states it is not intended to supplant any state legislation if it is otherwise consistent with the compact."
+Tarrant I , [ 2009 BL 252419 ], 2009 WL 3922803 at *7.
+Tarrant also argued that the Oklahoma statutes it challenged should be invalidated under the dormant Commerce Clause insofar as they apply to water not governed by the Compact because Congress has not consented to any state burdens on interstate commerce in non-compacted water.
+In its order, the district court stated that because Tarrant had yet to execute a contract to export water that was not subject to the Compact, Tarrant's claims were too speculative.
+Id .
+The court granted Tarrant leave to amend the complaint should a contract be reached.
+Id .
+at *8.
+3.
+Tarrant's Attempts to Access Water Not Subject to the Red River Compact After the November 18, 2009 order, Tarrant signed a contract to acquire ground-water from landowners in Stephens County, Oklahoma and agreed to an MOU with the Apache Tribe about its potential water rights.
+On July 16, 2010, the district court ruled that neither of these agreements created a justiciable controversy.
+Tarrant II , [ 2010 BL 162271 ], 2010 WL 2817220 at *1.
+The court found that Tarrant lacked standing on the Stephens County claim because the contract Tanant had signed was for groundwater.
+Most of the statutes Tarrant challenged applied only to stream water, and the remaining statutes it challenged also did not apply.
+Id .
+at *1-2.
+The court determined that the Apache Tribe issue was not ripe because the MOU agreement was too contingent.
+Id .
+at *2-3.
+The court noted that the Apache Tribe's water rights were not clear.
+It was therefore premature to address any potential dormant Commerce Clause issues based on the Apache Tribe water.
+Id .
+Tarrant filed a timely appeal.
+After oral argument, we requested supplemental briefing on the question of whether Tarrant had standing to raise its preemption claim.
+Because the district court granted a final judgment for OWRB, we have jurisdiction under 28 U.S.C. 1291 .
+III.
+DISCUSSION A. Issues and Standards of Review First, we address Tarrant's claim that the Oklahoma statutes are invalid under the dormant Commerce Clause.
+Second, we consider whether the Compact preempts the Oklahoma statutes in Reach II, Subbasin 5.
+Third, we discuss whether Tarrant has a justiciable claim to challenge the Oklahoma statutes under the dormant Commerce Clause as they apply to water not subject to the Compact.
+As to the district court's grant of OWRB's motion for summary judgment on the dormant Commerce Clause and Supremacy Clause issues, "[w]e review summary judgment decisions de novo, applying the same legal standard as the district court."
+Willis v. Bender , 596 F.3d 1244 , 1253 (10th Cir. 2010) (quotations omitted).
+Summary judgment is appropriate if "the movant shows that there is no genuine dispute as to any material fact and the movant is entitled to judgment as a matter of law."
+Fed.R.
+[**8] Civ.P.
+56 (a).
+For the district court's dismissal of Tarrant's claim based on agreements with the Stephens County landowners and the Apache Tribe, "[w]e review de novo .
+.
+.
+the district court's determination of subject-matter jurisdiction."
+Rio Grande Silvery Minnow v. Bureau of Reclamation , 599 F.3d 1165 , 1175 (10th Cir. 2010) (quotations omitted).
+"We review the .
+.
+.
+court's findings of jurisdictional facts for clear error."
+Id .
+(quotations omitted).
+B. Dormant Commerce Clause We start with a brief review of the dormant Commerce Clause analytical framework and the standard for assessing whether Congress has consented to laws that might otherwise violate the dormant Commerce Clause.
+We also discuss the relationship between the dormant Commerce Clause and the Compact Clause.
+We then turn to the district court's decision and the parties' arguments.
+The foregoing sets the stage for our own consent analysis.
+1.
+Implicit Restriction on State Power The Commerce Clause provides that Congress has power "[t]o regulate Commerce with foreign Nations, and among the several States, and with the Indian tribes."
+U.S. CONST.
+art.
+I , 8 , cl.
+3 .
+It is both an enumerated grant of power to Congress and an implicit restriction on state interference with interstate commerce.
+Since Cooley v. Board of Wardens , 53 U.S. (12 How.) 299 , 318 , 13 L.Ed. 996 (1851), overruled on other grounds by Complete Auto Transit, Inc. v. Brady , 430 U.S. 274 , 97 S.Ct. 1076 , 51 L.Ed.2d 326 (1977), the Supreme Court has read the Commerce Clause to restrain state power even without congressional action.
+The Court has limited what states may do with interstate commerce by interpreting the negative implications of the Commerce Clause — "these great silences of the Constitution."
+H.P.
+Hood & Sons, Inc. v. Du Mond , 336 U.S. 525 , 535 , 69 S.Ct. 657 , 93 L.Ed. 865 (1949).
+State discrimination against interstate commerce generally will be struck down as unconstitutional unless the state can show a strong public purpose.
+City of Philadelphia v. New Jersey , 437 U.S. 617 , 628 , 98 S.Ct. 2531 , 57 L.Ed.2d 475 (1978).
+"At a minimum such facial discrimination invokes the strictest scrutiny of any purported legitimate local purpose and of the absence of nondiscriminatory alternatives."
+Hughes v. Oklahoma , 441 U.S. 322 , 337 , 99 S.Ct. 1727 , 60 L.Ed.2d 250 (1979).
+Nondiscriminatory state laws can also be invalidated when they impose an undue burden on interstate commerce.
+See Bibb v. Navajo Freight Lines, Inc. , 359 U.S. 520 , 529 , 79 S.Ct. 962 , 3 L.Ed.2d 1003 (1959).
+"Where the statute regulates even-handedly to effectuate a legitimate local public interest, and its effects on interstate commerce are only incidental, it will be upheld unless the burden imposed on such commerce is clearly excessive in relation to the putative local benefits."
+Pike v. Bruce Church, Inc. , 397 U.S. 137 , 142 , 90 S.Ct. 844 , 25 L.Ed.2d 174 (1970).
+2.
+Congressional Consent to State Action In 1945, the Supreme Court recognized the "undoubted" power of Congress "to redefine the distribution of power over interstate commerce" by "permitting] the states to regulate the commerce in a manner which would not otherwise be permissible" under the dormant Commerce Clause.
+S. Pac. Co. v. Arizona , 325 U.S. 761 , 769 , 65 S.Ct. 1515 , 89 L.Ed. 1915 (1945).
+Congressional consent can transform otherwise unconstitutional state action into permissible state action.
+One leading precedent on congressional consent is Prudential Ins. Co. v. Benjamin , 328 U.S. 408 , 66 S.Ct. 1142 , 90 L.Ed. 1342 (1946).
+The McCarran-Ferguson Act [**9] provided that "silence on the part of the Congress shall not be construed to impose any barrier to the regulation or taxation of such business by the several States."
+Ch.
+20, 59 Stat. 33 (1945) (codified as amended at 15 U.S.C. 1011 1015 ).
+In Prudential , the Supreme Court held that the Act ratified a South Carolina tax on out-of-state insurance companies.
+Prudential , 328 U.S. at 429-31 , 66 S.Ct. 1142 .
+Because there was no comparable tax on instate companies, the tax would have violated the dormant Commerce Clause without congressional action.
+Id. at 417-18 , 66 S.Ct. 1142 .
+The Court explained how Congress gave consent: This was done in two ways.
+One was by removing obstructions which might be thought to flow from its own power, whether dormant or exercised, except as otherwise expressly provided in the Act itself or in future legislation.
+The other was by declaring expressly and affirmatively that continued state regulation and taxation of this business is in the public interest and that the business and all who engage in it "shall be subject to" the laws of the several states in these respects.
+Id. at 429-30 , 66 S.Ct. 1142 .
+Two cases expanded on the Prudential analysis.
+In 1983, the Court held that the Federal Power Act, 41 Stat. 1063 (1920) (codified as amended at 16 U.S.C. 791a 824k ), did not insulate state statutes from the dormant Commerce Clause.
+New England Power Co. v. New Hampshire , 455 U.S. 331 , 340-41 , 102 S.Ct. 1096 , 71 L.Ed.2d 188 (1982).
+The Court recognized as "well settled that Congress may use its powers under the Commerce Clause to confer `upon the States an ability to restrict the flow of interstate commerce that they would not otherwise enjoy.'"
+Id. at 339-40 , 102 S.Ct. 1096 (quoting Lewis v. BT Inv.
+Managers, Inc. , 447 U.S. 27 , 44 , 100 S.Ct. 2009 , 64 L.Ed.2d 702 (1980)).
+The Act's language — that the federal law "shall not .
+.
+.
+deprive a State or State commission of its lawful authority now exercised over the exportation of hydroelectric energy which is transmitted across a State line" — did not constitute consent.
+New England Power , 455 U.S. at 341 , 102 S.Ct. 1096 (quoting 201(b) , 41 Stat. 1063 (codified as amended at 16 U.S.C. 824 (b))).
+"[T]his provision is in no sense an affirmative grant of power to the states to burden interstate commerce `in a manner which would otherwise not be permissible.'"
+New England Power , 455 U.S. at 341 , 102 S.Ct. 1096 (quoting S. Pac. , 325 U.S. at 769 , 65 S.Ct. 1515 ).
+The Court explained that "Congress did no more than leave standing whatever valid state laws then existed relating to the exportation of hydroelectric energy .
+.
+.
+[the statute] simply saves from pre-emption under Part II of the Federal Power Act such state authority as was otherwise `lawful.'"
+New England Power , 455 U.S. at 341 , 102 S.Ct. 1096 .
+In 1985, by contrast, the Supreme Court upheld Massachusetts and Connecticut statutes that gave advantages to New England banks over banks from other regions.
+Ne. Bancorp, Inc. v. Bd. of Governors of Fed.
+Reserve Sys. , 472 U.S. 159 , 175 , 105 S.Ct. 2545 , 86 L.Ed.2d 112 (1985).
+The Court found that Congress intended to insulate such laws from a dormant Commerce Clause challenge when it passed the Bank Holding Company Act of 1956, ch.
+240, 70 Stat. 133 (codified as amended, 12 U.S.C. 1841 et seq.
+).
+"When Congress so chooses, state actions which it plainly authorizes are invulnerable to constitutional attack under the Commerce Clause."
+Ne. Bancorp , 472 U.S. at 174 , 105 S.Ct. 2545 .
+Although they reached different outcomes, these cases stand for the principle that whether Congress has consented to state regulation of interstate commerce depends [**10] on the language of the particular federal statute.
+3.
+The Sporhase/Wunnicke Standard for Congressional Consent The Supreme Court elaborated its standard for determining Congress's intent to consent to state statutes in Sporhase v. Nebraska, ex rel Douglas , 458 U.S. 941 , 960 , 102 S.Ct. 3456 , 73 L.Ed.2d 1254 (1982), a principal case in the parties' briefs and the district court's decision.
+Sporhase recognized that water is included in interstate commerce.
+Id. at 953-54 , 102 S.Ct. 3456 .
+It found that a Nebraska law restricting the interstate transfer of groundwater violated the dormant Commerce Clause.
+Id. at 957-58 , 102 S.Ct. 3456 .
+Although the groundwater at issue was not covered by an interstate compact, the Sporhase Court acknowledged that federal water statutes, including congressional approvals of interstate water compacts, showed deference to state law.
+Id. at 958-59 , 102 S.Ct. 3456 .
+This general deference to state law, however, did not constitute "expressly stated" congressional consent to immunize the Nebraska law from dormant Commerce Clause scrutiny.
+Id. at 960 , 102 S.Ct. 3456 (quoting New England Power , 455 U.S. at 343 , 102 S.Ct. 1096 ).
+The Nebraska law discriminated against interstate commerce by preventing the withdrawal of groundwater from any well in Nebraska for use in another state unless the other state granted reciprocal opportunities to withdraw and transfer groundwater to Nebraska.
+Id. at 960 , 102 S.Ct. 3456 .
+The Court found the reciprocity requirement not "narrowly tailored" to serve Nebraska's water conservation goals.
+Id. at 957-58 , 102 S.Ct. 3456 .
+Two years later, the Court cautioned that the phrase "expressly stated" in Sporhase had "no talismanic significance."
+South-Central Timber Dev. Inc. v. Wunnicke , 467 U.S. 82 , 91 , 104 S.Ct. 2237 , 81 L.Ed.2d 71 (1984).
+Alaska had required that timber taken from state lands be processed within the state before export.
+The Wunnicke Court held that this state law was not authorized by Congress.
+Id. at 90 , 104 S.Ct. 2237 .
+The Court clarified that an express statement is just one way Congress can manifest intent.
+Id. at 88 , 104 S.Ct. 2237 .
+What matters is that Congress "affirmatively contemplate" that it is consenting to state protectionism and that its intent is "unmistakably clear."
+Id. at 91-92 , 104 S.Ct. 2237 .
+The Court cautioned that a law that "appears to be consistent with federal policy — or even that state policy furthers the goals .
+.
+.
+that Congress had in mind — is an insufficient indicium of congressional intent."
+Id. at 92 , 104 S.Ct. 2237 .
+4.
+The Compact Clause and the Commerce Clause This case also involves Congress's authority to approve interstate compacts.
+The Compact Clause provides: "No State shall, without the Consent of Congress .
+.
+.
+enter into any Agreement or Compact with another State."
+U.S. CONST.
+art.
+I , 10 , cl.
+3 .
+The Supreme Court has said that interstate disputes "may appropriately be composed by negotiation and agreement, pursuant to the compact clause of the Federal constitution.
+We say .
+.
+.
+that such mutual accommodation and agreement should, if possible, be the medium of settlement, instead of invocation of our adjudicatory power."
+Colorado v. Kansas , 320 U.S. 383 , 392 , 64 S.Ct. 176 , 88 L.Ed. 116 (1943).
+Congressional ratification elevates interstate compacts to federal law.
+Texas v. New Mexico , 482 U.S. 124 , 128 , 107 S.Ct. 2279 , 96 L.Ed.2d 105 (1987).
+"[W]here Congress has authorized the states to enter into a cooperative agreement, and where the subject [**11] matter of that agreement is an appropriate subject for congressional legislation, the consent of Congress transforms the States' agreement into federal law under the Compact Clause."
+Cuyler v. Adams , 449 U.S. 433 , 440 , 101 S.Ct. 703 , 66 L.Ed.2d 641 (1981).
+As federal law, interstate compacts themselves cannot be challenged under the dormant Commerce Clause.
+Intake Water Co. v. Yellowstone River Compact Comm'n , 769 F.2d 568 , 569-70 (9th Cir. 1985).
+In Intake Water , the plaintiffs challenged the Yellowstone River Compact itself, not state statutes.
+Id. at 569 .
+The Ninth Circuit concluded that "the Compact cannot, by definition, be a state law impermissibly interfering with commerce but is instead a federal law, immune from attack."
+Id. at 570 .
+This case does not include a challenge to the Compact, but the Compact is the focus of our analysis.
+We must examine the relationship between the Compact and the Oklahoma water statutes to decide whether Congress has displaced the restrictions of the dormant Commerce Clause.
+5.
+The District Court and the Parties' Arguments on the Compact and Consent Before conducting our own consent analysis, we review the district court's and the parties' interpretations of the Compact.
+The district court explained that "[t]he language of the RRC does not explicitly say `states can limit or stop the out-of-state shipment of water' nor does it make any explicit reference to the Commerce Clause, dormant or otherwise.
+But the court does not read the various cases to require that level of specificity."
+Tarrant I , [ 2009 BL 252419 ], 2009 WL 3922803 at *5.
+The district court then turned to the specific Compact provisions, noting that the Compact said it "govern[ed] the use, control and distribution of the interstate water" and "provide[dl an equitable apportionment" of that water.
+Id .
+(quoting the Compact, 1.01(a), 1.01(b), 94 Stat. 3305 ).
+The court also pointed to Compact language stating that the Signatory States "may use the water allocated to it by this Compact in any manner deemed beneficial by that state," that a state's "failure .
+.
+.
+to use any portion of the water allocated to it shall not constitute relinquishment or forfeiture of the right to such use," and that nothing in the Compact "shall interfere or impair the right or power of any Signatory State to regulate within its boundaries the appropriation, use, and control of water .
+.
+.
+not inconsistent with its obligations under this Compact."
+Id .
+(quoting 2.01,2.04,2.10).
+The court also emphasized that many of the provisions that apportion water say that "the pertinent state `shall have free and unrestricted use.'"
+Id .
+(using as examples 4.02(b), 4.03(b)).
+The district court concluded that "[t]he principal purpose and effect of the [Compact]" was to protect state water resources: "[N]one of the many cases concluding Congress' intent to supplant the Commerce Clause was insufficiently clear or insufficiently expressed involved circumstances where the essence of what Congress did do was to allocate resources between states."
+Id .
+at *6.
+Tarrant argues on appeal that the Supreme Court has set a high standard for finding congressional consent and quotes the "expressly stated" and "unmistakably clear" language from Wunnicke.
+[**12] Tarrant contends that the Compact's language giving Oklahoma "free and unrestricted use" to water in Reach I, Subbasin 2 — which covers the location of its Beaver Creek and Cache Creek applications — merely gives Oklahoma a "perpetual preference for the use of [that] water" and "discharges Oklahoma from any obligation to guarantee a downstream delivery."
+Aplt.
+Opening Br. at 43.
+Tarrant claims that the Oklahoma statutes "exceed the scope of any congressional consent to discriminate" and that the statutes were not enacted "pursuant to any compact."
+Id. at 44 , 45.
+OWRB emphasizes the Compact's language granting to Oklahoma "free and un-restricted use" of the water in the relevant subbasins.
+OWRB also argues that compacts are inherently protectionist, noting that "when a state enters into an interstate water compact, it always does so in order to promote and protect the use of water within its own boundaries."
+Aple.
+Reply Br. at 52.
+The reason Congress is even required to consent to Compacts, the OWRB claims, is that compacts allocate water to states so that they may protect their shares.
+Id. at 53 .
+6.
+Consent Analysis To determine whether Congress consented to the Oklahoma statutes, we must examine the Compact.
+Sporhase is distinguishable because in that case Nebraska was attempting to regulate the interstate transfer of groundwater that was not subject to an interstate compact.
+See Sporhase , 458 U.S. at 960 , 102 S.Ct. 3456 .
+In this case, the water is subject to the Red River Compact, and the issue is whether the Compact insulates Oklahoma's statutes from dormant Commerce Clause challenge.
+An interstate compact "remains a legal document that must be construed and applied in accordance with its terms."
+Texas v. New Mexico , 482 U.S. at 128 , 107 S.Ct. 2279 .
+We recently decided whether a compact authorized state restrictions on interstate commerce and emphasized that the inquiry into Congress's intent begins with examination of the language of the compact itself.
+See EnergySolutions, LLC v. Utah , 625 F.3d 1261 , 1271 (10th Cir. 2010); see also Montana v. Wyoming , U.S. , 131 S.Ct. 1765 , 1779 , 179 L.Ed.2d 799 (2011) (interpreting the Yellowstone River Compact by looking to its "plain terms.").
+The Compact apportions water among the four compacting states.
+It also authorizes the states to regulate the use of apportioned water.
+The broad language of key Compact provisions inoculates the Oklahoma statutes challenged here from dormant Commerce Clause attack.
+We reach this conclusion understanding the case law as calling for caution before insulating arguably protectionist state laws from dormant Commerce Clause scrutiny.
+The Compact, however, contains the clear statement of congressional authorization of state regulation that Sporhase and Wunnicke require.
+a. Section 2.01 The Compact explicitly defers to and recognizes plenary state authority over water use: "Each Signatory State may use the water allocated to it by this Compact in any manner deemed beneficial by that state."
+Id .
+2.01 .
+This provision continues: "Each state may freely administer water rights and uses in accordance with the laws of that state."
+Id .
+By ratifying that Oklahoma may "freely administer" [**13] apportioned water and use it "in any manner" the state deems beneficial, Congress conferred broad regulatory authority on the state using unqualified terms.
+b. Section 2.10 Section 2.10 echoes and reinforces 2.01 's expansive acknowledgement of state discretion: "Nothing in this Compact shall be deemed .
+.
+.
+to interfere within its boundaries the appropriation, use, and control of water."
+Id .
+2.10 .
+This reaffirmation of state "control of water," in addition to state "appropriation" and "use" authority, encompasses state restrictions on what water appropriators may do with their appropriated water.
+Section 2.10 's non-interference language might suggest no more than preservation of existing state laws without protecting them from dormant Commerce Clause attack, similar to the Federal Power Act in New England Power.
+See 201(b) , 41 Stat. 1063 (codified as amended at 16 U.S.C. 824 (b)).
+But the Compact's Interpretive Comments refute this suggestion and confirm our reading of 2.10 .
+As to Article II of the Compact, which includes 2.
+10 , the Interpretive Comments explain that "each state is free to continue its existing internal water administration, or to modify it in any manner it deems appropriate."
+Aplt.App.
+Vol.
+I, 251.
+When read in the context of the Compact as a whole, 2.10 supports congressional consent to the states to regulate water apportioned to them.
+Even if the Compact had intended to preserve then-existing state water laws, it preserved some protectionist state laws.
+Some of the statutes that Tarrant challenges as treating instate and out-of-state water use differently predate the signing and ratification of the Compact and would have been familiar to the Compact's drafters.
+See H.B.
+1596, 33rd Leg., 1st Sess.
+(Okla. 1972) (enacting OKLA. STAT. tit. 82, 1085.22 and amending OKLA. STAT. tit. 82, 1085.2 (2) and OKLA. STAT. tit. 82, 105.16 ).
+Accordingly, when Congress ratified the Compact and granted to each state the power to "freely administer" the water, it gave congressional consent to the pre-Moratorium statutes at issue here, just as Congress in the McCarran-Ferguson Act gave "support to the existing and future state systems for regulating .
+.
+.
+insurance."
+Prudential Ins. Co. , 328 U.S. at 429 , 66 S.Ct. 1142 .
+c. Sections 4.02 and 5.05 The foregoing general provisions demonstrate the Compact's deference to state authority.
+The Compact also includes specific provisions that apportion water in each subbasin and assign authority over the water to the relevant state.
+Tarrant's Beaver Creek and Cache Creek applications seek to appropriate water from Reach I, Subbasin 2.
+Section 4.02(b) , which apportions Reach I, Subbasin 2, provides: "The State of Oklahoma shall have free and unrestricted use of the water of this subbasin."
+See 4.02(b) , 94 Stat. 3305 .
+The phrase "unrestricted use" does not distinguish between apportioned water that has or has not been appropriated or between apportioned water that has or has not been permitted for transport out of state.
+It plainly indicates that the state is not limited in how it uses its apportioned water.
+Identical "unrestricted use" language appears in many other Compact provisions apportioning water.
+See id .
+4.03(b) , 5.01(b) , 5.02(b) , 5.04(b) , 6.04(b) [**14] , 7.01(b) , and 8.01 .
+Tarrant's Riamichi River application seeks to appropriate water in Reach II, Subbasin 5.
+The apportionment of Reach II, Subbasin 5 is more complex because the subbasin encompasses parts of four states.
+We discuss 5.05 , which apportions Reach II, Subbasin 5, in detail below because it forms the basis of Tarrant's preemption claim.
+We conclude that 5.05 , like the Compact's other apportionment provisions, confers authority to the states to regulate water use within their respective boundaries.
+d. Purpose and State Authority The Compact states its purpose to govern the "use, control and distribution" of the compacted water.
+See id .
+1.01(a) .
+As our discussion of the Compact provisions shows, the Compact is replete with language recognizing each state's broad regulatory authority over the water apportioned to that state.
+Section 1.01(a) , therefore, manifests the wide scope of state authority.
+The word "control" is unqualified and, along with the words "use" and "distribution" and the Compact sections that follow, indicates that each Signatory State is authorized to regulate the appropriation and transport of apportioned water and that such authorized regulation is not limited to particular purposes.
+Taken together, the Compact provisions using words and phrases such as "unrestricted use," "control," "in any manner," "freely administer," and "nothing shall be deemed to interfere" give the Oklahoma Legislature wide latitude to regulate interstate commerce in its state's apportioned water.
+Such provisions were completely lacking in the Sporhase case. Indeed, there was no compact specifically applicable to the water in Sporhase.
+See 458 U.S. at 941 , 102 S.Ct. 3456 .
+The district court noted that the Oklahoma statutes are consistent with the Compact.
+See Tarrant I , [ 2009 BL 252419 ], 2009 WL 3922803, at *6.
+As the Supreme Court said in Wunnicke , consistency of state law with federal policy alone may be a necessary but not a sufficient condition to find congressional consent.
+Wunnicke , 467 U.S. at 92 , 104 S.Ct. 2237 .
+We agree that the Oklahoma statutes are consistent with the Compact, but, beyond consistency, we rest our decision on the language of the Compact itself as providing congressional consent.
+In view of our conclusion that the Red River Compact gives Oklahoma wide berth to protect its compacted water against out-of-state transfer and use, we do not address whether the Oklahoma statutes that were challenged here would be constitutional under the dormant Commerce Clause in the absence of the Compact.
+C. Preemption Tarrant argues that 5.05(b)(1) of the Compact preempts certain Oklahoma water statutes.
+As previously explained, this preemption argument is limited to Tarrant's application for water in Reach II, Subbasin 5 of the Red River Basin.
+The district court considered the preemption issue and concluded that "there is no necessary conflict between the federal law here in question — the RRC — and the state laws plaintiff challenges.
+The compact itself explicitly states it is not intended to supplant any state legislation if it is otherwise consistent with the compact."
+Tarrant I , [ 2009 BL 252419 ], 2009 WL 3922803 at *7.
+We understand the [**15] district court's one-paragraph discussion and general holding that the Compact is consistent with and does not preempt the Oklahoma statutes as including a holding that 5.05(b)(1) does not conflict with the Oklahoma water statutes.
+We do not paint this issue with such a broad brush and think it merits a more extensive and focused preemption analysis, emphasizing language of 5.05(b)(1) of the Compact.
+We conduct that analysis in five steps.
+First, we explain why Tarrant has standing to raise this claim.
+Second, we examine the preemption doctrine, noting that the presumption against preemption is especially strong in areas of longstanding state policy.
+Third, we review some of the Compact's key general provisions, which indicate that Congress did not intend to preempt state water laws.
+Fourth, we examine 5.05(b)(1) and show that it can and should be read to be consistent and not in conflict with the Oklahoma statutes.
+Fifth, we address Tarrant's arguments.
+1.
+Standing At oral argument questions were raised about Tarrant's standing to bring its preemption claim.
+We asked the parties for supplemental briefing limited to this issue.
+After considering the parties' arguments, we find that Tarrant has standing.
+Tarrant claims that 5.05(b)(1) of the Compact authorizes it to take water to Texas from the portion of Reach II, Sub-basin 5 that is located in Oklahoma, water that Tarrant claims is apportioned in part to Texas under the Compact.
+Tarrant has filed an application with the OWRB to appropriate such water for use in Texas.
+The justiciability of Tarrant's Subbasin 5 preemption claim rests on the same basis as its dormant Commerce Clause claim arising from applications to the OWRB.
+The alleged Article III injury is the interference of the Oklahoma water laws with Tarrant's efforts to import water from Oklahoma.
+We addressed standing in a recent preemption case that also involved the relationship between federal law and state statutes as they applied to a pending agency application in Skull Valley Band, of Goshute Indians v. Nielson , 376 F.3d 1223 (10th Cir. 2004).
+The Skull Valley Band sought to build a spent nuclear fuel storage facility on its tribal lands in Utah and applied to the Nuclear Regulatory Commission for a license.
+Id. at 1227-28 .
+The State of Utah passed a series of statutes that required the Governor's approval for any such facility in the state.
+Id. at 1228-29 .
+The Skull Valley Band sued various Utah officials, arguing that federal law preempted the Utah statutes.
+Id. at 1227 .
+The Utah officials sought dismissal for lack of standing.
+Id .
+The district court denied the motion.
+Id. at 1230-31 .
+We affirmed.
+Id. at 1254 .
+We explained in Skull Valley that "a party seeking a license from a governmental agency generally has standing to challenge an allegedly invalid law that either imposes substantial burdens upon the applicant or flatly prohibits the activity in question."
+Id. at 1234 .
+Although Tarrant is applying to a state agency rather than a federal agency as in Skull Valley , the Skull Valley analysis applies here.
+Tarrant is seeking a permit [**16] from a government agency, the OWRB, and alleges the Oklahoma statutes are invalid as applied to Reach II, Subbasin 5 because they are preempted.
+If Tarrant is correct that the Compact gave it a right to appropriate water in Reach II, Subbasin 5, the Oklahoma statutes would burden that right because they treat instate and out-of-state water use differently.
+We conclude that Tarrant, like the Skull Valley Band, has alleged an Article III injury and has standing to raise its preemption claim.
+Our holding here is consistent with our earlier decision in Sevenoaks that Tarrant's dormant Commerce Clause and preemption claims are ripe.
+We explained that "a fair reading of the statutes at issue demonstrates that the OWRB is arguably precluded from granting [Tarrant's] application.
+[Tarrant] has thus shown it faces an appreciable threat of injury sufficient to invoke federal jurisdiction."
+Sevenoaks , 545 F.3d at 910 .
+The parties dispute whether Texas is receiving its share of the water of Reach II, Subbasin 5.
+But, as Tarrant has clarified, its preemption argument does not rely on whether Texas is receiving its share.
+See Aplt.
+Supplemental Br. at 2.
+Tarrant's claim is that 5.05(b)(1) of the Compact allows Texas appropriators to take water from the Oklahoma portion of Reach II, Subbasin 5 on an equal footing with Oklahoma appropriators regardless of whether Texas is receiving its share of compacted water.
+See id. at 6 .
+OWRB has also argued that Tarrant lacks standing because only Texas or other Signatory States may raise claims under the Compact.
+This argument overlooks that the Compact itself anticipates Compact litigation involving parties other than the Signatory States: "The United States District Courts shall have original jurisdiction .
+.
+.
+of any case or controversy involving the application or construction of this Compact; that said jurisdiction shall include, but not be limited to, suits between Signatory States."
+13.03 .
+Tarrant's preemption claim "involv[es] the application or construction of the Compact."
+Whether or not Tarrant is correct about its preemption reading of the Compact, it has taken the steps it needs for judicial review.
+Tarrant also has prudential standing because it does not "seek to pursue another person's legal rights, litigate a mere generalized grievance, or raise a challenge falling outside the zone of interests protected by the law involved."
+Raley v. Hyundai Motor Co., Ltd. , 642 F.3d 1271 , 1275 (10th Cir. 2011) (summarizing prudential standing factors).
+Tarrant claims its own right to appropriate Oklahoma water in Reach II, Subbasin 5 for use in Texas.
+Its grievance is specific to its pending Riamichi River application.
+And if Tarrant's Compact interpretation is correct, the Compact would protect Tarrant's alleged interest in Reach II, Subbasin 5 water.
+If Tarrant's claim must fail, it fails as a matter of law, not as a matter of standing.
+2.
+Preemption Doctrine We start our analysis of Tarrant's claim with some basic principles of the preemption doctrine.
+In determining whether a state statute is preempted, "[t]he purpose of Congress is the ultimate [**17] touchstone."
+See Retail Clerks Int'l Ass'n v. Schermerhorn , 375 U.S. 96 , 103 , 84 S.Ct. 219 , 11 L.Ed.2d 179 (1963).
+Federal statutes can preempt state statutes either by an express statement of preemption or by implication.
+"Congress may indicate preemptive intent through a statute's express language or through its structure and purpose."
+Altria Grp. v. Good , 555 U.S. 70 , 129 S.Ct. 538 , 543 , 172 L.Ed.2d 398 (2008).
+Express preemption arises from explicit preemption language in the statute.
+Implied preemption includes field preemption or conflict preemption.
+Field preemption occurs when Congress "take[s] unto itself all regulatory authority" by legislating in a "field which the States have traditionally occupied."
+Rice v. Santa Fe Elevator Corp. , 331 U.S. 218 , 230 , 67 S.Ct. 1146 , 91 L.Ed. 1447 (1947).
+Conflict preemption occurs "where Congress has not completely displaced state regulation in a specific area" and where "state law is nullified to the extent that it actually conflicts with federal law."
+Fid. Fed. Sav. & Loan Ass'n v. de la Cuesta , 458 U.S. 141 , 153 , 102 S.Ct. 3014 , 73 L.Ed.2d 664 (1982).
+This case does not concern express preemption — the Compact does not explicitly mention preemption.
+It also does not concern field preemption because the Compact explicitly disavows interference with state laws.
+See 2.10, 94 Stat. 3305 ("Nothing in this Compact shall be deemed .
+.
+.
+to [i]nterfere .
+.
+.
+within its boundaries the appropriation, use, and control of water").
+We are left with implied conflict preemption.
+We agree with the district court that "[i]f Congress has not fully displaced state regulation over the particular subject matter, state law is preempted to the extent it actually conflicts with federal law so as to render compliance with both impossible."
+Tarrant I , [ 2009 BL 252419 ], 2009 WL 3922803 at *7.
+The issue here is whether the Oklahoma water statutes that Tarrant challenges and 5.05(b)(1) of the Compact are compatible or whether they conflict.
+Implied conflict preemption occurs "when it is impossible .
+.
+.
+to comply with both state and federal requirements."
+PLTVA, Inc. v. Mensing , 564 U.S. , 131 S.Ct. 2567 , 2577 , 180 L.Ed.2d 580 (2011).
+This can be a physical impossibility: "A holding of federal exclusion of state law is inescapable and requires no inquiry into congressional design where compliance with both federal and state regulations is a physical impossibility for one engaged in interstate commerce."
+Florida Lime & Avocado Growers, Inc. v. Paul , 373 U.S. 132 , 142-43 , 83 S.Ct. 1210 , 10 L.Ed.2d 248 (1963).
+Short of physical impossibility, state law may still stand "as an obstacle to the accomplishment and execution of the full purposes and objectives of Congress."
+Hines v. Davidowitz , 312 U.S. 52 , 67 , 61 S.Ct. 399 , 85 L.Ed. 581 (1941).
+"What is a sufficient obstacle is a matter of judgment, to be informed by examining the federal statute as a whole and identifying its purpose and intended effects."
+Crosby v. Nat'l Foreign Trade Council , 530 U.S. 363 , 373 , 120 S.Ct. 2288 , 147 L.Ed.2d 352 (2000).
+The Supreme Court has recognized a presumption against implied conflict preemption.
+See Wyeth v. Levine , 555 U.S. 555 , 566-67 , 129 S.Ct. 1187 , 1195 , 173 L.Ed.2d 51 (2009); California v. ARC America Corp. , 490 U.S. 93 , 101-102 , 109 S.Ct. 1661 , 104 L.Ed.2d 86 (1989); Hills-borough Cnty. v. Automated Med. Lab., Inc. , 471 U.S. 707 , 716 , 105 S.Ct. 2371 , 85 L.Ed.2d 714 (1985); Rush Prudential HMO, Inc. v. Moran , 536 U.S. 355 , 387 , 122 S.Ct. 2151 , 153 L.Ed.2d 375 (2002).
+"We rely on the presumption [against preemption]" out of "respect for the States as independent sovereigns in our federal system."
+Wyeth , 555 U.S. at , 129 S.Ct. at 1195 , n. 3 (quotations omitted).
+The Court is especially reluctant to find preemption in matters of longstanding state regulation. "
+[**18] In all preemption cases, and particularly in those in which Congress has legislated .
+.
+.
+in a field which the States have traditionally occupied, we start with the assumption that the historic police powers of the States were not to be superseded by the Federal Act unless that was the clear and manifest purpose of Congress."
+Medtronic, Inc. v. Lohr , 518 U.S. 470 , 485 , 116 S.Ct. 2240 , 135 L.Ed.2d 700 (1996) (quotations and citation omitted).
+The presumption against preemption is particularly strong in this case because history reveals "the consistent thread of purposeful and continued deference to state water law by Congress."
+California v. United States , 438 U.S. 645 , 653 , 98 S.Ct. 2985 , 57 L.Ed.2d 1018 (1978).
+3.
+The Compact's Deference to State Water Regulation The Compact starts with a series of "General Provisions" that inform interpretation of its specific sections and demonstrate pronounced federal deference to state water law.
+See 2.01-2.14, 94 Stat. 3305 .
+The first of these provisions grants broad discretion to states to regulate the use of their water apportionments: "Each Signatory State may use the water allocated to it by this Compact in any manner deemed beneficial by that state."
+Id .
+2.01 .
+In addition, states may also regulate water use by their respective appropriators: "Each state may freely administer water rights and uses in accordance with the laws of that state."
+Id .
+This language is evidence of Congress's consent to, not preemption of, state water regulations.
+The Compact further declares that it does not displace state water law: "Nothing in this Compact shall be deemed .
+.
+.
+to .
+.
+.
+[i]nterfere .
+.
+.
+within its boundaries the appropriation, use, and control of water .
+.
+.
+not inconsistent with its obligations under this Compact."
+Id .
+2.10 .
+We understand this language to caution against reading preemption into the Compact's other provisions.
+Many of the Compact's allocation provisions give "free and unrestricted use of the water" to the state in which the water is located.
+See id .
+4.02(b) ; see also 4.03(b) , 5.01(b) , 5.02(b) , 5.03(b) , 5.04(b) , 6.04(b) , 7.01(b) , and 8.01 .
+The Compact's general policy is to give the Compact states unrestricted authority to regulate their apportioned water.
+These Compact provisions that authorize broad state control of water support our holding that the Compact gives congressional consent to the states to adopt measures protecting their water apportionments that might otherwise violate the dormant Commerce Clause.
+We must analyze the specific language of 5.05(b)(1) as part of a Compact that generally reinforces rather than undermines state water regulation.
+4.
+Section 5.05(b)(1) of the Red River Compact Section 5.05 of the Compact defines Reach II, Subbasin 5 to include parts of Oklahoma, Texas, and Arkansas without reference to state lines.
+Why did the Compact drafters do this?
+As we explain below, both the language and purpose of this section show that the subbasin was designed to ensure that an equitable share of water from the subbasin reaches the states downstream from Oklahoma and Texas.
+Reach II, Subbasin 5 encompasses "that portion of the Red River, together with its tributaries, from Denison Dam down to the Arkansas [-] Louisiana state boundary, [**19] excluding all tributaries included in the other four subbasins of Reach II."
+Id .
+5.05(a) .
+Parts of Oklahoma, Texas, and Arkansas are located within Reach II, Subbasin 5.
+A map of Reach II, Subbasin 5 appears at the end of this opinion.
+The Compact prescribes three allocation schemes for the water in Reach II, Subbasin 5, depending on the flow level of the Red River at the Arkansas-Louisiana border: one allocation when the flow is above 3,000 cubic feet per second (cfs), another when the flow is between 3,000 and 1,000 cfs, and a third when the flow is below 1000 cfs.
+Id .
+5.05 .
+Section 5.05(b) (1) apportions Reach II, Subbasin 5 when flow levels are above 3,000 cfs: (b) Water within this subbasin is allocated as follows: (1) The Signatory States shall have equal rights to the use of runoff originating in subbasin 5 and un-designated water flowing into subbasin 5, so long as the flow of the Red River at the Arkansas-Louisiana state boundary is 3,000 cubic feet per second or more, provided no state is entitled to more than 25 percent of the water in excess of 3,000 cubic feet per second.
+The phrase "equal rights to the use of in 5.05(b)(1) needs to be read in context.
+To understand 5.05(b)(1) , we start by examining the states' obligations under the low flow provisions of 5.05(b)(2) and 5.05(b)(3) , and then return to 5.05(b)(1) .
+We conclude with the general purpose of 5.05 .
+a. Sections 5.05(b)(2) and (b)(3) The Compact provides that when the flow is below 1,000 cfs, the upstream states "shall allow a quantity of water .
+.
+.
+within their respective states to flow into the Red River as required to maintain a 1,000 cubic foot per second flow at the Arkansas-Louisiana state boundary."
+Id .
+5.05(b)(3) .
+This duty under 5.05(b)(3) recognizes each state's authority to regulate water use within its boundaries.
+When the flow rises to a level between 1,000 and 3,000 cfs, the upstream states still have minimum flow obligations, but now Louisiana receives a fixed percentage of the water instead of a fixed flow level.
+The "States .
+.
+.
+shall allow to flow into the Red River for delivery to the State of Louisiana a quantity of water equal to 40 percent of the total weekly runoff originating in subbasin 5."
+Id .
+5.05(b)(2) .
+Again, the states have an obligation to Louisiana, and, again, are expected to tell their appropriators whether water can be used or must be left to flow downstream to meet this obligation.
+The caveat that follows this language reinforces the emphasis on state control: "this requirement shall not be interpreted to require any state to release stored water."
+Id .
+5.05(b)(2) .
+b. Section 5.05(b)(1) Section 5.05(b) (1) applies when the flow of the Red River exceeds 3,000 cfs.
+During these high flow periods, the "Signatory States shall have equal rights to the use of the excess water in Reach II, Subbasin 5.
+Id .
+5.05(b)(1) .
+The upstream states do not need to curtail the water use of their appropriators to ensure Louisiana a minimum flow level because she is already receiving 3,000 cfs.
+The next part of 5.05(b)(1) says: "[N]o state is entitled to more than 25 percent of the water in excess of 3,000 cubic feet per second."
+Section 5.05(b) (1), like the other provisions in 5.05(b) , is intended to protect downstream [**20] Louisiana from the upstream states diverting too much water.
+Whereas 5.05(b)(2) and 5.05(b)(3) reserve a minimum flow level to Louisiana, 5.05(b)(1) secures Louisiana's interests indirectly by ensuring that the three upstream states will not take more than 25 percent each of the excess water, allowing the remaining 25 percent to flow downstream to Louisiana.
+c. Section 5.05 Generally The Compact's Interpretive Comments support the foregoing reading of 5.05 .
+The Comments explain: "In subbasin 5 .
+.
+.
+the upstream states cooperate in assuring reliable flows to Arkansas and Louisiana.
+This is accomplished by keying the upstream states' obligation to the flow at the Arkansas-Louisiana boundary."
+Aplt.
+App.
+Vol.
+I, 263-64.
+The Interpretive Comments do not identify another purpose for 5.05 and do not suggest any intent to preempt state law.
+Section 5.05(c) also reinforces that the purpose of 5.05 is to ensure a minimal flow to downstream states.
+Although Arkansas is an upstream state relative to Louisiana, it is a downstream state relative to Oklahoma and Texas.
+Just as 5.05(b) seeks to ensure that Oklahoma, Texas, and Arkansas deliver a minimum flow level to Louisiana, 5.05(c) seeks to ensure that Oklahoma and Texas deliver a minimum flow level to Arkansas.
+It states: "Whenever the flow at Index, Arkansas, is less than 526 c.f.s., the states of Oklahoma and Texas shall each allow a quantity of water .
+.
+.
+within their respective states to flow into the Red River: Provided, however, this provision shall be invoked only at the request of Arkansas."
+Id .
+5.05(c) (emphasis added).
+d. Section 5.05 — No Preemption Taken together, the provisions of 5.05 stand for the principle that the upstream states control the water within their boundaries, provided they meet their minimum flow obligations to downstream states and do not take more than an equal share of the excess water.
+Sections 5.05(b) (2) and 5.05(b)(3) tell us what happens during periods of low flow.
+The up-stream states must act to ensure that Louisiana receives its minimum level of water.
+Once the flow into Louisiana reaches 3,000 cfs, 5.05(b)(1) kicks in.
+Section 5.05(b) (1), like (b)(2) and (b)(3) , obligates the upstream states to ensure that Louisiana receives its 3,000 cfs.
+It also addresses what happens to the water that exceeds 3,000 cfs.
+It says that each state has "equal rights to the use of that water, and that no state is "entitled to more than 25 percent."
+It does not say that a Texas user is entitled to take Texas's share of that water from a tributary located in Oklahoma.
+And it does not say that the OWRB is precluded from applying Oklahoma water laws to a Tarrant application to divert water in Oklahoma for use in Texas.
+Although such inferences may be arguable based on the language of 5.05(b)(1) alone, neither is reasonable when 5.05(b)(1) is read in conjunction with the Compact as a whole.
+And even if they were reasonable inferences, both run afoul of the presumption against preemption when 5.05(b)(1) can also be read to limit access to each state's share of the excess water to locations in the particular state.
+This journey through the 5.05(b) sub-sections demonstrates [**21] that protecting water flow to the downstream states was the raison d'être 5.05 including 5.05(b)(1) .
+To read more into 5.05 , especially to read it as conflicting with Oklahoma law, requires inferences that 5.05 does not expressly support and that the general Compact provisions pronouncing deference to, noninterference with, and broad authorization for state law do not allow.
+The following discussion of Tarrant's arguments further shows why this is so. 5.
+Preemption and Tarrant's Arguments Tarrant interprets "equal rights to the use" in 5.05(b)(1) not only to grant Texas a share of excess water, which it does, but also to mean that a Texas user such as Tarrant can access that water from anywhere in the subbasin, including Oklahoma, and not be subject to Oklahoma laws that restrict out-of-state use of water.
+We cannot agree with this interpretation.
+Section 5.05(b) (1) does not expressly say what Tarrant interprets it to say.
+Too many factors preclude Tarrant's interpretation.
+First, preemption is disfavored in this area of longstanding state regulation of water.
+Second, the Compact provisions generally call for pronounced deference to, not displacement of, state water laws Third, as shown above, 5.05(b)(1) itself can reasonably be read to foreclose Tarrant's interpretation.
+Fourth, nothing in the Interpretive Comments to the Compact supports Tarrant's interpretation.
+Fifth, a compact that authorizes state regulatory water laws so as to insulate them from dormant Commerce Clause challenge, as this one does, is unlikely to preempt those very same laws.
+Tarrant notes that the phrase "equal rights to the use of is not qualified by any reference to state borders.
+But borders still matter in 5.05 .
+The opening clause of 5.05(b) says that the "[w]ater within this subbasin is allocated" to the signatory states, and the ensuing flow level provisions described earlier are framed in terms of state entitlements and obligations.
+Tarrant even attempts to support its interpretation by suggesting that borders do matter under 5.05(b)(1) .
+It argues that the part of Texas located within Reach II, Subbasin 5 contains "primarily intermittent streams and dry arroyos yielding a small fraction of the total water flowing in Subbasin 5," and that Texas users must divert some water in Oklahoma for Texas to secure its equal share.
+See Aplt.
+Opening Br. at 30.
+If 5.05(b)(1) erased borders completely, it should be immaterial whether Tarrant could access Texas's share in Texas.
+Tarrant also argues that we should interpret 5.05(b)(1) in light of the history of federal reservoirs constructed in southern Oklahoma on the damsites that lead into Subbasin 5.
+Tarrant argues that Congress authorized and funded the reservoirs to satisfy the water demands of north central Texas.
+Tarrant further notes that 2.02 of the Compact states that water taken from a federal project "shall be charged to the state or states receiving the benefit therefrom."
+2.02 , 94 Stat. 3305 .
+Apart from failing to show any connection between the reservoir projects and 5.05 of the Compact, Tarrant's argument also cannot be squared [**22] with its claim that any of the four states, not just Texas, can access excess water anywhere in Reach II, Subbasin 5.
+Tarrant tries to avoid 2.10 's interpretive rule of non-interference with state water regulation by noting that it is qualified by the phrase "not inconsistent with [a state's] obligations under this Compact."
+Id .
+2.10(a) .
+But this begs the question of how 5.05(b)(1) should be read.
+Tarrant claims that allowing Oklahoma to restrict Tarrant from appropriating water from Reach II, Subbasin 5 for use in Texas would be inconsistent with Oklahoma's obligations under 5.05(b)(1) .
+But, as we have shown and will reinforce below, the better reading of the Compact is that it does not obligate Oklahoma to allow Texas entities to appropriate Texas's share of 5.05(b)(1) water from within Oklahoma's boundaries.
+Tarrant attempts to read more into 5.05(b)(1) than this provision was meant to or can support.
+It was designed to ensure minimum water flow to states downstream from Oklahoma.
+"[E]qual rights to the use of can reasonably be read to mean that each signatory state has the same opportunity and entitlement to use up to 25 percent of the excess water in its state and under its state laws.
+This reading is consistent with the state water laws in the Compact states.
+It may be possible to identify a different interpretation of this phrase so that it conflicts with the Oklahoma state water laws, but simply finding a possible alternative take on the meaning of federal law does not establish preemption.
+Even if Tarrant's interpretation of 5.05(b)(1) were plausible, accepting that interpretation would require us to embrace the paradoxical position that Congress, in approving the Red River Compact, both consented broadly to state burdens on interstate commerce and preempted state law.
+To suggest that 5.05(b)(1) gives appropriators such as Tarrant license to come into Oklahoma and appropriate water for use in Texas in contravention of Oklahoma law runs counter to the purpose of the Compact, the purpose of 5.05(b)(1) , and the presumption against preemption when there is no clear conflict between state and federal law and the state law applies to a matter of historic state concern.
+The conflict must be clear as an Oklahoma stream, and Tarrant cannot meet that test.
+[fn2] In addition to its arguments on the merits, Tarrant complains that the district court addressed this issue "sua sponte" without "adequate notice and opportunity to present countervailing arguments and evidence."
+Aplt.
+Opening Br. at 14.
+But Tarrant alleged in its first complaint that the "Compact allocates to Texas the right to take water from certain stream segments in Oklahoma" and that the Compact would therefore preempt the Oklahoma statutes.
+Aplt.App.
+Vol. 1, 42.
+[fn3] It regarded this Supremacy Clause claim as tightly bound with its dormant Commerce Clause claim.
+After summary judgment was entered against it, Tarrant continued to present arguments to the district court on the preemption claim.
+See Aplt.App.
+Vol. IV, 1334-38.
+Our review of the district court proceedings does not produce sufficient [**23] concern to refrain from our review of the preemption claim here.
+The district court decision on preemption could have been more detailed and specific, but the court did consider and resolve the preemption issue.
+See Aplt.App.
+Vol. IV, 1332.
+After reviewing the issue at greater length, we affirm.
+D. Stephens County and Apache Tribe We now address the justiciability of Tarrant's dormant Commerce Clause claim that is based on its attempts to access water in Oklahoma that is not subject to the Compact.
+This issue stands in contrast to the one we addressed in 2008 when we held that Tarrant's claims regarding compacted water are justiciable.
+OWRB had argued that the case was not ripe and should be dismissed because the OWRB had yet to act on Tarrant's water appropriation permit applications.
+We rejected that argument "because a plaintiff challenging the constitutionality of a state statute has a sufficiently adverse legal interest to a state enforcement officer sued in his representative capacity to create a substantial controversy when .
+.
+.
+the plaintiff shows an appreciable threat of injury flowing directly from the statute."
+Sevenoaks , 545 F.3d at 910 (quotation omitted).
+Because Oklahoma's statutes require the OWRB to treat instate and out-of-state water use differently in ruling on applications, "the OWRB is arguably precluded from granting [Tarrant's] application.
+[Tarrant] has thus shown it faces an appreciable threat of injury sufficient to invoke federal jurisdiction."
+Id .
+Tarrant had filed an application with the OWRB for each of its Beaver Creek, Cache Creek, and Riamichi River plans, and those applications formed the basis for our justiciability decision in Sevenoaks.
+By contrast, neither Tarrant, the Stephens County landowners, nor the Apache Tribe has filed an application with the OWRB regarding Tarrant's hopes to use the Stephens County or Apache Tribe water.
+The question here, therefore, is whether Tarrant has a justiciable claim with respect to either its Stephens County or Apache Tribe agreements.
+1.
+The District Court Order The district court found that Tarrant lacks standing to raise the Stephens County claim and that the Apache Tribe claim is not yet ripe.
+See Tarrant II , [ 2010 BL 162271 ], 2010 WL 2817220, at *3.
+On the Stephens County issue, the court analyzed the Oklahoma statutes that Tarrant seeks to challenge and failed to find any statutes that apply to Tarrant's contract.
+Most of the statutes apply only to the OWRB stream water application process.
+Id .
+at *1-2.
+The remaining statutes also do not apply to the Stephens County groundwater that Tarrant seeks to purchase.
+Id .
+Without any application pending before the OWRB and without any statute that Tarrant challenges applying even if there were an application, Tarrant suffered no article III injury that would create standing.
+Id .
+In a footnote, the court added that, because none of the challenged Oklahoma statutes applies to the Stephens County water at issue, the amended complaint fails to state a claim and therefore could be dismissed pursuant to Federal Rule of Civil Procedure 12 (b)(6).
+Id. [**24] at *2 n. 7.
+On the Apache Tribe issue, the district court found the agreement too speculative to support justiciability.
+Id. at *3.
+The MOU contained nothing more than a promise to negotiate in good faith if and when the Apache Tribe determined its water rights.
+Id. The court said it was not clear that the Apache Tribe had any water it was willing to sell to Tarrant, and, there-fore, the case was not ripe.
+Id. 2.
+Tarrant's Arguments In its brief, Tarrant refers only obliquely and never explicitly to the Stephens County issue and instead focuses on the Apache Tribe agreement.
+Tarrant's arguments about the MOU, however, address standing — the basis for the district court's dismissal of the Stephens County claim — rather than ripeness, the basis for the district court's dismissal of the Apache Tribe claim.
+After OWRB in its Answer Brief challenges Tarrant on this point, Tarrant claims "the same analysis applies to both doctrines."
+Aplt.
+Reply Br. at 1.
+Tarrant offers two arguments against the district court's rulings.
+First, Tarrant claims it does not need to enter into specific water transactions to create a justiciable controversy.
+Second, Tarrant reads the district court's order on justiciability to require for standing that the Oklahoma statutes be the only obstacle preventing it from exporting the Oklahoma water to Texas.
+Tarrant contends that obstacles other than the statutes should not prevent the court from reaching Tarrant's challenge to the Oklahoma statutes as they apply to non-compacted water. 3.
+OWRB's Arguments OWRB focuses on the Apache Tribe claim and argues that the relevant issue is ripeness, not standing.
+OWRB emphasizes that Tarrant's promise to "work cooperatively" with the Apache Tribe does not constitute an agreement to buy and sell water.
+OWRB further argues that the Apache Tribe may decide not to file an application with the OWRB if the Tribe's water rights are federal in origin and not subject to state administration.
+See Aplt.
+App.
+Vol. Ill, 830.
+According to OWRB, Tarrant will not suffer hardship from a dismissal for lack of ripeness.
+Such a dismissal effectively calls for the Apache Tribe to ascertain what water rights it has and whether the Tribe wants to sell water to Tarrant before Tarrant can challenge the constitutionality of the Oklahoma statutes as they apply to Apache Tribe water. 4.
+Stephens County "Standing under Article III of the Constitution requires that an injury be concrete, particularized, and actual or imminent; fairly traceable to the challenged action; and redressable by a favorable ruling."
+Monsanto Co. v. Geertson Seed Farms , U.S. , 130 S.Ct. 2743 , 2752 , 177 L.Ed.2d 461 (2010).
+As for the injury element, "the plaintiff must have suffered an injury in fact — an invasion of a legally protected interest which is (a) concrete and particularized and (b) actual or imminent, not conjectural or hypothetical."
+Lujan v. Defenders of Wildlife , 504 U.S. 555 , 560 , 112 S.Ct. 2130 , 119 L.Ed.2d 351 (1992) (quotations and citations omitted).
+As we have explained, "a main focus of the standing inquiry is whether plaintiff has suffered a present or imminent injury, as opposed to a mere possibility, or even probability, [**25] of future injury."
+Morgan v. McCotter , 365 F.3d 882 , 888 (10th Cir. 2004).
+The OWRB has jurisdiction over the permitting process for groundwater.
+See OKLA. STAT. tit. 82, 1020.7 .
+The ground-water permit process is separate from the surface water appropriation application process.
+See generally id. 1020 .
+The criteria that the OWRB uses in deciding on applications for groundwater permits are different from surface water applications and are enumerated in a different statute.
+Compare id. 1020.9 with id. 105.12 .
+Tarrant has standing to challenge the Oklahoma statutes governing the OWRB's surface water appropriation permit process because it is an applicant on its Beaver Creek, Cache Creek, and Riamichi River plans and the statutes interfere with its applications.
+See Sevenoaks , 545 F.3d at 910 (holding that "the OWRB is arguably precluded from granting [Tarrant's] application.
+[Tarrant] has thus shown it faces an appreciable threat of injury sufficient to invoke federal jurisdiction.")
+However, Tarrant lacks standing on its claim based on the Stephens County groundwater.
+None of the Oklahoma statutes that Tarrant wishes to challenge as violating the dormant Commerce Clause applies to Tarrant's potential groundwater interest, and it has not filed an application to appropriate groundwater.
+Tarrant lacks standing to challenge Oklahoma's surface water permit application laws based on the Stephens County claim because it has not suffered a justiciable injury.
+We think Tarrant's claim fails on ripeness grounds as well.
+Neither Tarrant nor the Stephens County landowners are applicants for a permit.
+That Tarrant or one of the landowners in Stephens County may in the future apply for a groundwater permit is an insufficient basis for a ripe case or controversy.
+[fn4] 5.
+Apache Tribe The ripeness doctrine aims "to prevent the courts, through avoidance of premature adjudication, from entangling themselves in abstract disagreements."
+Abbott Labs.
+v. Gardner , 387 U.S. 136 , 148 , 87 S.Ct. 1507 , 18 L.Ed.2d 681 (1967), over-ruled on other grounds by Califano v. Sanders , 430 U.S. 99 , 105 , 97 S.Ct. 980 , 51 L.Ed.2d 192 (1977).
+"Like standing, the ripeness inquiry asks whether the challenged harm has been sufficiently realized at the time of trial.
+The ripeness issue, however, focuses not on whether the plaintiff was in fact harmed, but rather whether the harm asserted has matured sufficiently to warrant judicial intervention."
+McCotter , 365 F.3d at 890 (quotation omitted).
+As we have explained, "[i]n determining whether a claim is ripe, a court must look at the fitness of the issue for judicial resolution and the hardship to the parties of withholding judicial consideration."
+Skull Valley , 376 F.3d at 1237 (quotation omitted).
+The relationship between the Red River Compact and surface water owned by the Apache Tribe is fraught with complex questions of federalism, tribal sovereignty, and the reserved water rights doctrine.
+We should not resolve the issue unless and until it is determined what rights the Apache Tribe has to Oklahoma surface water and whether the Apache Tribe decides to sell that water to Tarrant.
+There will be no hardship to Tarrant from this dismissal as it waits for the Apache Tribe to [**26] ascertain its water rights and then negotiates a contract to export the water to Texas.
+"In evaluating ripeness the central focus is on whether the case involves uncertain or contingent future events that may not occur as anticipated, or indeed may not occur at all."
+Initiative and Referendum Inst. v. Walker , 450 F.3d 1082 , 1097 (10th Cir. 2006) (quotations omitted).
+That statement accurately describes the claim at issue here.
+The district court correctly dismissed the Apache Tribe issue as not ripe.
+IV.
+CONCLUSION Our role is not to pass judgment on the economic policy implications of the Red River Compact.
+Our role is to ascertain what the Compact says about state regulation of apportioned water.
+We hold that the Red River Compact insulates Oklahoma water statutes from dormant Commerce Clause challenge insofar as they apply to surface water subject to the Compact.
+We also uphold the Oklahoma statutes against Tarrant's preemption claim.
+We do not address Tarrant's challenge to the Oklahoma statutes insofar as they apply to water not subject to the Compact because Tarrant's claim on that issue is not justiciable.
+After oral argument, Tarrant moved to strike certain parts of OWRB's supplemental appendix regarding the Reach II, Subbasin 5 issue because the district court had declined to consider the additional materials.
+We take the Reach II, Subbasin 5 issue to be a matter of Compact interpretation and need not consider the supplemental materials.
+Therefore, we dismiss the motion to strike.
+The district court's grant of summary judgment to OWRB on the dormant Commerce Clause and Supremacy Clause issues is AFFIRMED.
+The district court's dismissals of the Stephens County and Apache Tribe claims as not justiciable are AFFIRMED.
+Exhibit
