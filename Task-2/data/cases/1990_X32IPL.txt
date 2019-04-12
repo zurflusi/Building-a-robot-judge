@@ -1,0 +1,198 @@
+ WIGGINS , Circuit Judge: Appellants are independent service organizations, or ISOs, that service copier and micrographic equipment manufactured by appellee Eastman Kodak Co.
+They appeal summary judgment dismissing their antitrust claims against Kodak.
+We reverse and remand.
+At the heart of this case are two of Kodak's business policies: First, Kodak will not sell replacement parts for its equipment to Kodak equipment owners unless they agree not to use ISOs.
+Second, Kodak will not knowingly sell replacement parts to ISOs.
+Kodak admits that the purpose of these policies is to prevent ISOs from competing with Kodak's own service organization for the repair of Kodak equipment.
+On appeal, appellants argue that they raised triable issues concerning: (1) whether Kodak's refusal to sell parts to equipment owners unless they agree not to use ISOs constitutes a tying arrangement violative of Section 1 of the Sherman Act; and (2) whether Kodak's refusal to sell parts to ISOs is an act of monopolization violative of Section 2 of the Sherman Act.
+We have jurisdiction under 28 U.S.C. 1291 (1982).
+We review the district court's grant of summary judgment de novo.
+Richards v. Neilsen Freight Lines , 810 F.2d 898, 902 (9th Cir.1987).
+We must determine, viewing the evidence in the light most favorable to appellants, whether issues of material fact exist and whether the district court correctly applied the relevant substantive law.
+Ashton v. Cory , 780 F.2d 816, 818 (9th Cir.1986).
+Viewed in the light most favorable to appellants, the facts are as follows: Prior to 1982, Kodak serviced almost all of its micrographic and copier equipment.
+Kodak would sell replacement parts (at a profit) to any party who intended to use them to repair Kodak equipment.
+ISOs generally do not manufacture the replacement parts they use in providing equipment service.
+ISOs do, however, maintain regular inventories of such parts.
+In reliance on Kodak's practice of freely selling replacement parts, ISOs developed and began to compete significantly with Kodak in 1984 and 1985.
+ISOs offered service for as little as half of Kodak's price.
+To better compete, Kodak in some cases cut its price for service.
+Some customers found ISO service superior to Kodak service.
+Concerned with ISO competition, Kodak reviewed its replacement parts policies in 1985 and developed its current policies of not selling replacement parts to ISOs or to customers who use ISOs.
+Kodak exempted micrographic equipment manufactured before 1985 from these new policies.
+Since 1985, Kodak has had difficulty identifying ISOs and customers who use ISOs.
+Kodak, therefore, unknowingly sold parts to ISOs and customers who use them since it implemented the 1985 policies.
+Kodak is currently attempting to enforce more effectively its policies.
+I. The Tying Claim Section 1 of the Sherman Act declares illegal "[e]very contract, combination , or conspiracy, in restraint of trade or commerce."
+15 U.S.C. 1 (1982).
+The Supreme Court has consistently interpreted this provision to prohibit only unreasonable restraints of trade.
+Business Elec. Corp. v. Sharp Elec. Corp. , 485 U.S. 717 , 108 S.Ct. 1515, 1519 , 99 L.Ed.2d 808 (1988).
+Appellants contend that they have presented genuine issues for trial as to whether Kodak's refusal to sell spare parts to equipment owners unless they agree not to use ISOs constitutes a tying arrangement per se unreasonable under this section.
+1 A tying arrangement is "an agreement by a party to sell one product but only on the condition that the buyer also purchase a different (or tied) product, or at least agrees that he will not purchase that product from any other supplier ."
+Northern Pac. Ry. Co. v. United States , 356 U.S. 1, 5-6 , 78 S.Ct. 514, 518 , 2 L.Ed.2d 545 (1958) (emphasis added, footnote omitted).
+A tying arrangement is per se unreasonable if the defendant has sufficient economic power in the tying product market to restrain competition appreciably in the tied product market and if the arrangement affects more than an insubstantial volume of interstate commerce in the tied product.
+2 Fortner Enterprises, Inc. v. U.S.
+Steel Corp. , 394 U.S. 495, 499 , 89 S.Ct. 1252, 1256 , 22 L.Ed.2d 495 (1969); Mozart Co. v. Mercedes-Benz of N. Am., Inc. , 833 F.2d 1342, 1345 (9th Cir.1987), cert. denied , U.S. , 109 S.Ct. 179 , 102 L.Ed.2d 148 (1988); General Business Systems v. North American Philips Corp. , 699 F.2d 965, 977 (9th Cir.1983).
+The district court held that appellants failed to show evidence of a tying arrangement, noting that Kodak does not "condition the sale of one product on the buyer's purchase of another product" since a "Kodak customer can buy equipment without having to buy parts; and he can buy parts if he simply owns Kodak equipment."
+Image Technical Services, Inc. v. Eastman Kodak Co. , No. C-87-1686-WWS, at 5, 1988 WL 156332 (N.D.Cal.
+Apr. 18, 1988) (Memorandum of Opinion and Order Granting Summary Judgment).
+Appellants argue that the district court misconstrued one of their theories, explicitly presented in their memorandum in opposition to Kodak's motion for summary judgment.
+This theory is that Kodak has tied parts to service, not equipment to parts or parts to equipment.
+Kodak responds that even viewed as appellants suggest, its policy is not a tying arrangement.
+First, Kodak points out, it does not force owners to buy service in order to receive parts; Kodak only requires owners not to buy ISO service to receive parts.
+Kodak will sell parts to owners who agree to self-service their machines.
+Kodak, however, misconceives the nature of tying agreements.
+As we stated above, a tying arrangement is "an agreement by a party to sell one product but only on the condition that the buyer also purchase a different (or tied) product, or at least agrees that he will not purchase that product from any other supplier ."
+Northern , 356 U.S. at 5-6 , 78 S.Ct. at 518 (emphasis added; footnote omitted).
+Second, Kodak argues that its policy is not a tying arrangement because parts and service form a single product market, and without two distinct markets there can be no tying arrangement.
+See Jefferson Parish Hosp. Dist. No. 2 v. Hyde , 466 U.S. 2, 21 , 104 S.Ct. 1551, 1562 , 80 L.Ed.2d 2 (1984).
+The critical question in determining whether two distinct product markets exist is whether it is economically efficient to offer two products separately.
+Id. at 21-22 , 104 S.Ct. at 1562-63 .
+That, in turn, depends on whether the demand for each can be separated.
+Id. Kodak contends that there is no separate demand for parts and service.
+Indeed, Kodak contends, they are useless without each other.
+Consequently they are economically inseparable.
+Kodak's argument presents, at best, a disputed issue of fact.
+That products must be used together does not eliminate the possibility that they form distinct markets.
+"We have often found arrangements involving functionally linked products at least one of which is useless without the other to be prohibited tying devices."
+Id. at 19 n. 30, 104 S.Ct. at 1562 n. 30 (citing cases).
+Kodak's policy of allowing customers to purchase parts on condition that they agree to service their own machines suggests that the demand for parts can be separated from the demand for service.
+Kodak does not dispute appellants' claim that some equipment owners have (perhaps surreptitiously) bought service from ISOs and parts from Kodak.
+Nor does Kodak dispute appellants claim that other equipment owners would have contracted with ISOs for service if they could have obtained parts separately.
+Cf. Dimidowich v. Bell & Howell , 803 F.2d 1473, 1480 n. 3 (9th Cir.1986) (applying California law) (noting that for some products, such as automobiles, the parts market is distinct from the service market), modified 810 F.2d 1517 (9th Cir.1987); Digidyne Corp. v. Data General Corp. , 734 F.2d 1336, 1339 (9th Cir.1984), cert. denied , 473 U.S. 908 , 105 S.Ct. 3534 , 87 L.Ed.2d 657 (1985) (holding that separate markets existed for computer central processing unit and computer operating system).
+Having established that a tying arrangement might exist, we next consider whether, assuming that such a tying arrangement exists, there is an issue of material fact as to whether Kodak has sufficient economic power in the tying product market to restrain competition appreciably in the tied product market.
+To determine such market power, courts commonly consider whether the defendant is able to force or to induce some potential tying-product customers (here potential Kodak parts customers) to purchase the tied product (here Kodak service) that these customers would not purchase absent the tying arrangement.
+Jefferson Parish , 466 U.S. at 12-18 , 104 S.Ct. at 1558-61 ; Mozart , 833 F.2d at 1345 ; Digidyne , 734 F.2d at 1339-41 .
+The district court did not decide this issue.
+Appellants suggest that Kodak does have power in the parts market for two interdependent reasons.
+First, many Kodak parts are unique and available only from Kodak.
+See Jefferson Parish , 466 U.S. at 17 , 104 S.Ct. at 1560 (explaining that a defendant may have market power if he offers a unique product that others are unable to offer).
+Second, owners of Kodak machinery cannot readily switch to other companies' machinery (thereby obviating the need for Kodak parts).
+Once one owns Kodak's expensive machinery, appellants argue, he is locked in to it.
+See Digidyne , 734 F.2d at 1342 (discussing how market power can be enhanced by customer lock-in).
+Kodak counters, first, that it does not have market power in the interbrand markets for copier or micrographic equipment.
+3 Thus, Kodak argues, it cannot have market power in the after-market for spare parts.
+Kodak points out that appellants do not dispute that equipment purchasers consider the cost of parts and service when initially deciding between Kodak's equipment and its competitors' equipment.
+If Kodak were to charge supercompetitive prices for parts and service, equipment purchasers would buy competitors' equipment.
+Second, Kodak argues that appellants have failed to present sufficient evidence that its equipment owners cannot economically replace their current equipment.
+We believe that competition in the interbrand markets might prevent Kodak from possessing power in the parts market.
+To be sure, this case is distinguishable from those in which the defendants had tied parts to equipment.
+In those cases, since equipment was the tying product, interbrand competition in the equipment market readily negated the plaintiffs' claims that the defendants possessed power in the tying product market.
+See, e.g. , Grappone, Inc. v. Subaru of New England, Inc. , 858 F.2d 792 (1st Cir.1988) (tying of cars to parts).
+In this case, Kodak has tied parts to service, not equipment to parts.
+Interbrand competition in the equipment market does not in the abstract negate appellants' claim that Kodak has power in the parts market.
+See Dimidowich , 803 F.2d at 1480 n. 3 (pointing out that an owner of a broken piece of Bell and Howell micrographic equipment cannot turn to people who service only Kodak or 3M equipment).
+But just as equipment purchasers would turn to one of Kodak's competitors if Kodak tied supercompetitively priced parts or service directly to equipment, equipment purchasers might turn to one of Kodak's competitors if Kodak ties supercompetitively priced service to parts.
+Kodak's desire to attract new customers might, therefore, keep it from charging supercompetitive prices for service.
+As we stated in a case involving a computer company's alleged tying of service and warranty protection to computer hardware, "To have attempted to impose significant pressure to buy [computer parts] by use of the tying service only would have hastened the date on which [defendant] surrendered to its competitors in the small business computer market."
+Philips , 699 F.2d at 977 ; see also Parts and Elec.
+Motors, Inc. v. Sterling Elec., Inc. , 866 F.2d 228, 236 (7th Cir.1988) (Posner, J. dissenting) (suggesting, in the context of a tie of parts to motors, that market forces will keep a company that lacks interbrand market power from charging supercompetitive prices in the parts market), cert. denied , U.S. , 110 S.Ct. 141 , 107 L.Ed.2d 100 (1989).
+Nevertheless, we cannot uphold the district court's grant of summary judgment on this theoretical basis.
+Not only do we lack the benefit of the district court's consideration of the market power issue, we are presented with a record that was not fully developed through discovery on this issue.
+4 Furthermore, market imperfections can keep economic theories about how consumers will act from mirroring reality.
+See Jefferson Parish , 466 U.S. at 15 n. 24, 104 S.Ct. at 1560 n. 24 (noting that market imperfections can keep consumers from seeing the price and quality implications of a tying arrangement).
+While appellants have not conducted a market analysis and pin-pointed specific imperfections in the copier and micrographic markets, a requirement that they do so in order to withstand summary judgment would elevate theory above reality.
+It is enough that appellants have presented evidence of actual events from which a reasonable trier of fact could conclude that Kodak has power in the interbrand market and that competition in the interbrand market does not, in reality, curb Kodak's power in the parts market.
+For example, appellants have presented evidence that Kodak charges up to twice as much as appellants for service that is of lower quality than appellants' service.
+Appellants presented evidence that in some instances competition from ISOs drove down the price that Kodak was willing to charge for service and that in other instances some owners of large Kodak equipment packages will pay higher prices for Kodak service rather than switch to competitors' systems.
+See Fortner , 394 U.S. at 503-04 , 89 S.Ct. at 1258-59 (a price differential may suggest market power).
+Appellants' evidence distinguishes this case from Philips .
+In that case, involving a district court's proper summary judgment for a defendant on a tying claim based upon a lack of market power, we explicitly found that the plaintiff had "not presented facts from which [market power] could be inferred."
+Philips , 699 F.2d at 977 .
+For example, in contrast to the situation in this case, it appeared uncontroverted that the higher price for the tied product was due to the product's greater reliability.
+See Philips , 699 F.2d at 969, 972-73, 977-78 .
+The tied product did not go down in price after the tying arrangement ceased.
+Id. at 977 .
+There also appears to have been no evidence that Philips was the exclusive source of service for Philips computers, the tying product.
+But appellants have presented evidence that many Kodak parts, the tying product, are unique and available only from Kodak.
+Furthermore, Philips' share of the interbrand computer market never exceeded five percent.
+Id. at 969 .
+At the time of Philips' alleged tying arrangement, Philips' share of the interbrand market was declining as Philips' computers were "threatened with obsolescence."
+Id. at 970 .
+Roughly one year into the lawsuit, Philips withdrew completely from the American computer market.
+Id. at 969-70 .
+By contrast, Kodak's share of the interbrand copier and micrographic equipment markets varies and may approach as much as twenty-three percent.
+See ante at 616, n. 3.
+Far from being threatened with obsolescence, Kodak's equipment is state of the art.
+Granted, appellants have not claimed that these factors are sufficient to give Kodak power in its interbrand markets.
+But just as market share is not alone determinative of market power, cf. Pacific Coast Agricultural Export Ass'n v. Sunkist Growers, Inc. , 526 F.2d 1196, 1204 (9th Cir.1975) (market share is not determinative of monopoly power), cert. denied , 425 U.S. 959 , 96 S.Ct. 1741 , 48 L.Ed.2d 204 (1976), power in the interbrand market is not the only basis for power in the parts market.
+Some strength in the interbrand market, although short of actual market power, can combine with other factors to yield power in an after-market.
+We, therefore, believe that the contrast between Kodak's and Philips' strength in their interbrand markets is another indication of a difference in power in their after-markets.
+Cf.
+Sterling , 866 F.2d at 236 (Posner, J., dissenting) (defendant's market share was one-tenth of one percent).
+Viewed in the light most favorable to appellants, the evidence that they have presented is sufficient to raise a material issue of fact as to whether Kodak has power in the parts market.
+Kodak also contends that it has legitimate business reasons for refusing to sell parts to equipment owners who use ISOs.
+This court has held that a tying arrangement "does not violate the antitrust laws 'if implemented for a legitimate business reason and if no less restrictive alternative is available.'"
+Mozart , 833 F.2d at 1349 (citing Phonetele, Inc. v. American Tel. & Tel. Co. , 664 F.2d 716, 739 (9th Cir.1981)).
+Kodak contends that it implemented its parts policies for three legitimate business reasons: (1) To guard against inadequate service, which reflects negatively on Kodak because customers cannot differentiate between bad service and bad equipment; (2) to remove inventory costs, which Kodak incurs in supplying replacement parts to non-users of Kodak service; (3) to prevent ISOs from free-riding on Kodak's investment in the copier and micrographic industry.
+Appellants argue that Kodak's proffered reasons are pretextual or insufficient.
+Once again, the district court did not discuss this aspect of the case and we cannot say as a matter of law that Kodak's proffered reasons for its policies are genuine and sufficient.
+To prevail on the basis of its first reason, Kodak would have to prove 5 that its tying arrangement is the only way that highest quality service can be assured.
+See id. at 1350 & n. 7.
+But appellants have presented evidence that their service is superior to Kodak service.
+Furthermore, appellants have presented evidence from which a reasonable trier of fact could conclude that Kodak's first reason is pretextual.
+For example, appellants have presented evidence that Kodak for the first time refused to sell parts to appellant Image Technical Services, Inc. just two months after Image, in competitive bidding against Kodak, won contracts with the state of California.
+Triable issues of fact surround Kodak's first reason.
+A reasonable trier of fact could also conclude that Kodak's second reason is pretextual.
+A reasonable trier of fact need not accept Kodak's assertion that not selling parts to equipment owners who use ISOs will reduce its inventory costs.
+A reasonable trier of fact could conclude that equipment owners' need for Kodak-supplied parts is determined only by the frequency of equipment failure.
+Indeed, Kodak's policy is based on the premise that equipment owners will have to buy replacement parts from Kodak, even if it means not using ISOs.
+Thus, triable issues of fact surround Kodak's second reason.
+As a matter of law, Kodak's third reason cannot justify its policy.
+Kodak believes that if ISOs are to compete with it, they should be required to overcome the barriers to entering the parts market as well as the barriers to entering the service market.
+But one evil of a tying arrangement is precisely that it creates an entry barrier for potential competitors by requiring them to enter two product markets simultaneously.
+Fortner , 394 U.S. at 509 , 89 S.Ct. at 1261 .
+For this reason, "recovery of investment costs has been explicitly excluded from the narrowly-construed exceptions to the per se rule against tie-ins." Digidyne , 734 F.2d at 1343-44 (quoting In re Data General Corp. Antitrust Litigation , 490 F.Supp.
+1089, 1122 (N.D.Cal.
+1980).
+As a matter of law, therefore, it is a less restrictive alternative for Kodak to structure its prices for equipment, parts, and service so that the price for which Kodak sells each of these reflects Kodak's investment costs in that area.
+Id. at 1344 (citing United States v. Jerrold Electronics Corp. , 187 F.Supp.
+545 (E.D.Pa.1960), aff'd per curiam , 365 U.S. 567 , 81 S.Ct. 755 , 5 L.Ed.2d 806 (1961)).
+Finally, Kodak suggests that it acted unilaterally in tying parts to service.
+It is true that independent action is not proscribed by Section 1 of the Sherman Act.
+Monsanto Co. v. Spray-Rite Service Corp. , 465 U.S. 752, 761 , 104 S.Ct. 1464, 1469 , 79 L.Ed.2d 775 (1984).
+But Kodak entered into agreements with its equipment owners, expressly set out in its "Terms of Sale," that it will sell parts only to users "who service only their own Kodak equipment."
+If such conduct were to be labelled "independent," virtually all tying arrangements would be beyond the reach of Section 1 .
+We do not believe that Monsanto , without discussing the courts' tying decisions, meant to overturn them.
+The district court improperly granted summary judgment on the Section 1 claim.
+II.
+The Refusal to Deal Claim Section 2 of the Sherman Act makes it illegal for any person to "monopolize, or attempt to monopolize, any part of the trade or commerce among the several States, or with foreign nations."
+15 U.S.C. 2 (1982).
+For a person to be guilty of monopolization, he must (1) possess monopoly power in the relevant market; and (2) wilfully engage in conduct designed to maintain that power improperly.
+See United States v. Grinnell Corp. , 384 U.S. 563, 570-71 , 86 S.Ct. 1698, 1703-04 , 16 L.Ed.2d 778 (1966).
+For a person to be guilty of attempted monopolization, he must (1) possess a specific intent to monopolize the relevant market with a dangerous probability of success; and (2) wilfully engage in conduct designed to achieve monopoly power improperly.
+California Computer Prod. v. IBM , 613 F.2d 727, 736 (9th Cir.1979).
+6 Appellants contend that they have presented genuine issues for trial as to whether Kodak has, in allegedly changing a long-standing policy of supplying Kodak parts to ISOs, engaged in improper monopolization or attempted monopolization conduct.
+7 The district court found that Kodak had no duty to deal with its competitors.
+We agree with the district court's statement of this general rule; however, we believe that there are material issues of fact concerning whether Kodak falls within one of the exceptions to it.
+A monopolist may not refuse to deal with a competitor in an exclusionary attempt to impede competition without a legitimate business reason.
+Aspen Skiing Co. v. Aspen Highlands Skiing Corp. , 472 U.S. 585, 608 , 105 S.Ct. 2847, 2860 , 86 L.Ed.2d 467 (1985); Oahu Gas Service, Inc. v. Pacific Resources Inc. , 838 F.2d 360, 368 (9th Cir.), cert. denied , U.S. , 109 S.Ct. 180 , 102 L.Ed.2d 149 (1988).
+In the same spirit, a monopolist may not retaliate against a customer who is also a competitor by denying him access to a facility essential to his operations, absent legitimate business justifications.
+Otter Tail Power Co. v. United States , 410 U.S. 366, 377 , 93 S.Ct. 1022, 1029 , 35 L.Ed.2d 359 (1973).
+Appellants have presented sufficient evidence, recounted above, from which a reasonable trier of fact could find that Kodak's implementation of its policies was anticompetitive, exclusionary, and involved a specific intent to monopolize.
+Cf. Calculators Hawaii, Inc. v. Brandt, Inc. , 724 F.2d 1332, 1339 (9th Cir.1983) (service contractor for distributor of money-handling machines produced no evidence that manufacturer who refused to sell contractor parts after manufacturer terminated distributor acted in a predatory manner or was not predominantly motivated by legitimate business purposes); Bushie v. Stenocord Corp. , 460 F.2d 116, 119-21 (9th Cir.1972) (distributor of dictating equipment produced no evidence that manufacturer who terminated him was motivated by anticompetitive intent).
+8 We have already discussed Kodak's proffered business justifications in our treatment of appellants' Section 1 claim.
+Although there is no least restrictive alternative requirement in the context of a Section 2 claim, 9 we noted above that there exist triable issues of fact as to whether Kodak's first two proffered reasons are genuine rather than pretextual.
+With respect to Kodak's third reason, we observed above that it was precisely the kind of justification the theory behind Section 1 negated.
+The same is true under Section 2 .
+A claim that one need not support a competitor's activities is merely a claim that one has no duty to deal with that competitor.
+Such a claim cannot serve as a justification for conduct which has been found to be exempted from this general rule.
+10 We have more trouble with the monopoly power (or dangerous probability of monopoly power) issue.
+The district court did not discuss whether the service of Kodak equipment could be a relevant market and whether Kodak might possess monopoly power or a dangerous possibility of monopoly power in that market.
+This court has strongly suggested that service of one company's micrographic equipment can be a relevant market under Section 2 .
+See Dimidiwich , 803 F.2d at 1480-81 n. 3 ("[A]n owner of broken [Bell & Howell] micrographic equipment is indifferent to people who can service Kodak or 3M machines.
+If the owner's only option is to request service from Bell & Howell or Comgraphix (depending on his location), that is obviously the market the owner faces.
+"); Cf. Bushie , 460 F.2d at 118 n. 1, 120-21 (implying without analysis that the relevant market for servicing dictating equipment is the interbrand service market).
+We cannot say as a matter of law that service of Kodak equipment is not the relevant market in this case.
+Assuming such a market, might Kodak have monopoly power in it?
+Monopoly power is the "power to control prices or exclude competition" in the relevant market.
+United States v. E.I.
+DuPont DeNemours & Co. , 351 U.S. 377, 391 , 76 S.Ct. 994, 1005 , 100 L.Ed. 1264 (1956).
+It is something more than the market power that is a prerequisite to liability under Section 1 .
+See Digidyne , 734 F.2d at 1339-41 .
+The question whether appellants have presented sufficient evidence on this issue is thus not as easily answered as the question whether they have presented sufficient evidence on market power.
+We conclude that the evidence presented by appellants is sufficient to withstand summary judgment.
+Again, there is logical appeal in Kodak's theory that it could not have monopoly power (let alone market power) in the service market since it lacks economic power in the interbrand markets.
+But in light of appellants' evidence we cannot say that this theory mirrors reality.
+The district court improperly granted summary judgment on the Section 2 claim.
+The judgment of the district court is REVERSED and the case is REMANDED.

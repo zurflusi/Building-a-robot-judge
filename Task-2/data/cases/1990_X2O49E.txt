@@ -1,0 +1,196 @@
+ CARDAMONE, Circuit Judge: This appeal deals with a suit brought to recover short-swing profits against insiders which was dismissed in the district court.
+It is clear from Supreme Court precedent that liability for short-swing trading will not arise unless the securities transactions at issue fall within the literal language of the statute that prohibits over-reaching by insiders.
+Here plaintiff's standing to bring suit against insiders, rather than such individuals' liability, is the question presented.
+In resolving this issue the words of the statute must still be carefully examined, but legislative purpose may also be considered where standing is not clearly precluded by the statutory language.
+Congressional policy is a stubborn thing; it permeates this area of the law.
+In resolving this case therefore we must not defeat Congress' plain policy by viewing standing too narrowly.
+BACKGROUND Before us is an order of the Southern District of New York (Mukasey, J.), entered November 9, 1988 that granted summary judgment to defendants dismissing plaintiff's complaint for lack of standing.
+Plaintiff also appeals from an order dated May 23, 1989 denying his Rule 60(b) motion for relief from the November 9, 1988 order.
+Plaintiff appeals that dismissal of his action brought pursuant to 16(b) of the Securities Exchange Act of 1934, 15 U.S.C. 78p(b) (1988).
+Section 16(b) provides that an owner of an issurer's security may bring an action in behalf of the issuer to recover short-swing profits realized by the corporation's officers, directors and principal stockholders.
+A "short-swing" profit occurs when a profit is realized on a purchase and sale, or sale and purchase, of stock occurring within a period of six months.
+The statute requires officers, directors and owners of more than ten percent of the issuer's stock (insiders) to disgorge short-swing profits back to the issuer.
+The question presented is whether a shareholder whose shares in an issuer are converted by a business restructuring into shares of a newly formed parent corporation that owns all of the stock of the issuer loses standing to maintain a previously instituted 16(b) suit.
+Because we think the answer to the question posed is "no," the grant of summary judgment dismissing plaintiff's suit must be reversed.
+FACTS Plaintiff Ira L. Mendell is a former shareholder of Viacom International Inc. (International).
+Defendants are limited partnerships, general partnerships, individual partners and certain corporations (Coniston or the Coniston defendants) that together invested in the stock of International.
+In 1986 defendants collectively owned more than ten percent of its stock.
+In January 1987 plaintiff filed a complaint alleging that Coniston was liable to International pursuant to 16(b) for profits arising out of Coniston's purchases and sales of International stock in 1986.
+Plaintiff asserted that on trades of International stock made between July and October 1986 the Coniston defendants acquired approximately 11 million dollars in short-swing profits at a time when they were insiders by virtue of their ownership of more than ten percent of International stock.
+The complaint also alleged that in October 1986 a demand was made upon International and its Board of Directors to institute a 16(b) suit against the Coniston defendants, but that though more than 60 days had passed no suit had been commenced by International.
+Approximately six months later, in June 1987, after plaintiff had filed suit, International was acquired through a merger transaction by Arsenal Acquiring Corporation, a shell corporation formed for that purpose.
+All of International's stock was exchanged for a combination of cash and stock in Arsenal Acquiring's parent corporation called Arsenal Holdings, Inc., and Arsenal Acquiring then merged into International, which thereby became a wholly-owned subsidiary of the parent, Arsenal Holdings.
+As part of the merger, Arsenal Holdings changed its name to Viacom, Inc. (Viacom).
+Thus plaintiff, who held shares in International when he brought suit to recover insider profits for the issuer, now holds shares in its parent, Viacom.
+Viacom is the sole shareholder of International, and International is the parent corporation's sole asset.
+At a pretrial conference held in February 1988 defendants asserted that plaintiff no longer had standing to maintain his 16(b) suit since he was no longer a shareholder of International.
+In March 1988 plaintiff served an amended complaint asserting that he had standing to bring the action in behalf of Viacom, the parent corporation, which he claimed was effectively the "issuer."
+Alternatively, he contended that he had standing to bring the action as a double-derivative action in behalf of International.
+Coniston moved for summary judgment.
+On November 9, 1988 the district court granted summary judgment to defendants because plaintiff lacked standing, ruling that "[s]uits to disgorge ill-gotten gains under 16(b) may be prosecuted only by the issuer itself or the holders of its securities."
+Mendell v. Gollust , [1988-89] Fed.Sec.L.Rep.
+(CCH) ¶ 94,086 at 91,086 , 1988 WL 123703 (S.D.N.Y.1988).
+On January 9, 1989--after the opinion issued but before the judgment of dismissal was entered on January 17, 1989--plaintiff purchased a subordinated note issued by International.
+In March 1989 plaintiff made a motion pursuant to Fed.R.Civ.P. 60(b) asserting that he now had standing as a noteholder of International, and that the judgment entered some weeks earlier should be vacated.
+In an opinion dated May 23, 1989 the district court denied the Rule 60(b) motion stating that counsel's failure to advise his client to purchase the note earlier did not provide grounds to overturn the judgment.
+See Mendell v. Gollust , [Current Volume] Fed.Sec.L.Rep.
+(CCH) ¶ 94,477 , 1989 WL 56252 (S.D.N.Y.1989).
+We heard oral argument on November 21, 1989, and on November 28 requested the Securities and Exchange Commission (SEC) to submit an amicus curiae brief setting forth its views on plaintiff's standing under 16(b) .
+We now have the benefit of the SEC's amicus curiae brief filed on January 10, 1990.
+DISCUSSION I Section 16(b) A. Policy Considerations and Legislative Purpose In order to determine how broadly 16(b)'s standing requirements should be construed, we begin with a brief examination of the policy considerations and the legislative purpose that preceded the enactment of the statute.
+The Securities Act of 1934 in general and 16(b) in particular were passed to insure the integrity of the securities markets and to protect the investing public.
+See 15 U.S.C. 78p(b) (1988); Federal Securities Exchange Act of 1934, S.Rep.No.
+792, 73d Cong., 2d Sess.
+9 (1934) [ Senate Report ]; 2 L. Loss, Securities Regulation 1037-38, 1040-41 (2d ed. 1961).
+The Committee on Banking and Currency heard many instances where insiders either personally or through the medium of holding companies made large profits from the use of information not available to the public.
+Senate Report at 9.
+It concluded that the reporting requirements regarding changes in insider holdings and the provision making profits recoverable on sales or purchases made within six months would render difficult or impossible trading on advance information by insiders for profit.
+Id. The bill's provisions were for the express purpose of preventing the unfair use of inside information.
+Id. at 21.
+Stock Exchange Practices, Report of the Committee on Banking and Currency, S.Rep.No.
+1455, 73d Cong., 2d Sess.
+55 (1934).
+Hence, Congress envisioned 16(b) as a remedial law that would deter those "intrusted with the administration of corporate affairs or vested with substantial control over corporations [from using] inside information for their own advantage."
+Id. at 68.
+B. Judicial Construction of 16(b) Since its passage the Supreme Court has construed 16(b) in a number of cases.
+In the earliest, Blau v. Lehman , 368 U.S. 403 , 82 S.Ct. 451 , 7 L.Ed.2d 403 (1962), it refused to hold an entire partnership liable for short-swing profits as an insider when one of its members was a director of the issuer because the plain language of 16(b) did not provide for partnership liability, though the director was susceptible to suit in his individual capacity for the profits he realized.
+Id. at 411-14 , 82 S.Ct. at 455-57 .
+In Kern County Land Co. v. Occidental Petroleum Corp. , 411 U.S. 582 , 93 S.Ct. 1736 , 36 L.Ed.2d 503 (1973), a tender-offeror that purchased more than ten percent of the stock of Kern County Land Co. had its shares of Kern converted into new Tenneco stock when Tenneco merged with Kern in a defensive transaction.
+The tender-offeror negotiated a contract to sell to Tenneco the shares it would receive after the merger.
+Writing that traditional cash-for-stock purchases fall within 16(b) , but that certain "unorthodox" transactions are not so easy to resolve, the Court observed that these "borderline" transactions are within the statute's reach if they are a vehicle promoting the evil Congress sought to prevent.
+Id. at 593-94 , 93 S.Ct. at 1744 .
+The Court noted that the transaction in question was not based on a statutory insider's information and therefore was not vulnerable to the speculative abuse barred by 16(b) , and held that neither the exchange of shares in the merger nor the execution of the option contract constituted a "sale" under 16(b) .
+See id. at 600-01 , 93 S.Ct. at 1747-48 .
+In Reliance Electric Co. v. Emerson Electric Co. , 404 U.S. 418 , 92 S.Ct. 596 , 30 L.Ed.2d 575 (1972), Emerson Electric, a holder of more than ten percent of Dodge Manufacturing Co., made two sales of stock within six months after purchasing it, the first of which reduced its holdings to less than ten percent.
+The question was whether the profits from the second sale, made within six months of its purchase but not while Emerson was a ten percent holder, were recoverable by the corporation under 16(b) .
+In holding that they were not, the Supreme Court observed that a ten percent owner must under the statute be such "'both at the time of the purchase and sale of the security involved,'" 15 U.S.C. 78p(b) , and since Emerson Electric was not such an owner at the time of the second sale, the method it had used to avoid liability was one permitted by the statute.
+404 U.S. at 422-23 , 92 S.Ct. at 599-600 .
+The Court reasoned that, because liability under the statute is predicated upon objective proof, a trader's intent and/or motive is irrelevant and hence, Emerson Electric was not liable under 16(b) .
+Id. at 425 , 92 S.Ct. at 600 .
+In Reliance the statutory language was clear; only where differing constructions of 16(b)'s terms are possible may a court interpret the statute in a way that serves Congress' purpose.
+Id. at 424 , 92 S.Ct. at 600 .
+Here, we are faced with the latter scenario.
+C. Broad Interpretation of 16(b) When the statute permits interpretation the section traditionally has been read broadly in view of its remedial purposes.
+The disgorgement provision is aimed at deterring insider trading by removing the profits from "a class of transactions in which the possibility of abuse [is] believed to be intolerably great."
+Id. at 422 , 92 S.Ct. at 599 .
+The statute presumes that insiders in a company have access to non-public information regarding its operation and will use that information when trading in the issuer's stock, and thus proof of the actual use of such inside information is not required.
+See Foremost-McKesson, Inc. v. Provident Sec. Co. , 423 U.S. 232, 243, 251 , 96 S.Ct. 508, 519 , 46 L.Ed.2d 464 (1976); Reliance Elec. , 404 U.S. at 422 , 92 S.Ct. at 599 ; Smolowe v. Delendo Corp. , 136 F.2d 231, 235-36 (2d Cir.), cert. denied , 320 U.S. 751 , 64 S.Ct. 56 , 88 L.Ed. 446 (1943).
+We and most other courts have adopted a "pragmatic" approach, construing 16(b) in a manner that seems most consistent with Congress' purpose.
+See Kern County Land Co. , 411 U.S. at 594 , 93 S.Ct. at 1744 ("the courts have come to inquire whether the transaction may serve as a vehicle for the evil which Congress sought to prevent"); Reliance Elec. , 404 U.S. at 424 , 92 S.Ct. at 600 ("where alternative constructions of the terms of 16(b) are possible, those terms are to be given the construction that best serves the congressional purpose of curbing short-swing speculation by corporate insiders.
+"); Feder v. Martin Marietta Corp. , 406 F.2d 260, 262 (2d Cir.1969) (courts interpret 16(b) in ways most consistent with legislative purpose "even departing where necessary from the literal statutory language.
+"), cert. denied , 396 U.S. 1036 , 90 S.Ct. 678 , 24 L.Ed.2d 681 (1970).
+II Standing Under 16(b) A. Broadly Construed To effectuate its purposes the statute permits "the owner of any security of the issuer" to bring suit in behalf of the corporation.
+15 U.S.C. 78p(b) .
+Such person may institute a 16(b) claim in behalf of the issuer if the latter fails to bring suit after the stockholder so requests.
+See id. Because such a suit is not brought in his own, but rather the corporation's behalf, 16(b)'s standing requirements have been given wide latitude.
+See Pellegrino v. Nesbit , 203 F.2d 463, 466 (9th Cir.1953); see also Prager v. Sylvestri , 449 F.Supp.
+425, 429 (S.D.N.Y.1978) (demand requirement of 16(b) exists for benefit of the issuer; defendant insider may not assert lack of demand as a defense.).
+A 16(b) plaintiff performs a public rather than a private function and is seen as an instrument for advancing legislative policy.
+See Magida v. Continental Can Co. , 231 F.2d 843, 846-47 (2d Cir.), cert. denied , 351 U.S. 972 , 76 S.Ct. 1031 , 100 L.Ed. 1490 (1956).
+The standing requirements for shareholder derivative suits are not applicable to a 16(b) plaintiff.
+See Blau v. Mission Corp. , 212 F.2d 77, 79 (2d Cir.), cert. denied , 347 U.S. 1016 , 74 S.Ct. 872 , 98 L.Ed. 1138 (1954); Rothenberg v. United Brands Co. , [1977-78] Fed.Sec.L.Rep.
+(CCH) ¶ 96,045 at 91,691-92 , 1977 WL 1014 (S.D.N.Y.
+); aff'd mem. , 573 F.2d 1295 (2d Cir.1977); 2 L. Loss, Securities Regulation at 1045-47.
+Generally a derivative plaintiff must be a shareholder at the time of the transaction of which he complains, the action must not be a collusive one to confer federal jurisdiction, and the complaint must allege with particularity the efforts made to obtain the desired action.
+See Fed.R.Civ.P. 23.1 .
+In contrast, in a 16(b) suit the complaining stockholder need not have held his securities at the time of the objectionable transaction.
+See Blau v. Mission Corp. , 212 F.2d at 79 .
+Suit may be brought by the holder of any of the issuer's securities--equity or debt--regardless of whether the security held is of the same class as those subject to disgorgement as short-swing profits.
+See 15 U.S.C. 78p(b) ; Smolowe , 136 F.2d at 241 ; 2 L. Loss, Securities Regulation at 1046.
+Further, the amount or value of a plaintiff's holdings or his motives for bringing suit are not relevant.
+See Magida , 231 F.2d at 847-48 .
+In keeping with the general rules of 16(b) analysis, the question of whether a plaintiff has standing to bring suit is, in part, determined by whether the policy behind the statute is best served by allowing the claim.
+Thus, in Blau v. Oppenheim , 250 F.Supp.
+881 (S.D.N.Y.1966) (Weinfeld, J.), the district court permitted a shareholder of a parent corporation to bring a 16(b) suit on behalf of its issuer-subsidiary.
+There the company that issued the stock that was traded in contravention of the statute was dissolved in a merger.
+The court reasoned that where the issuer is merged out of existence, none of the original shareholders are left to bring suit.
+Id. at 886 .
+A holding that would allow only the shareholders of the now defunct issuer to remedy the statutory violation would therefore make the statute unenforceable.
+See id. at 886-87 ; see also Portnoy v. Kawecki Berylco Indus. Inc. , 607 F.2d 765, 768 (7th Cir.1979).
+In order to avoid a result that was contrary to the purpose of the statute the court interpreted the word "issuer" to include the parent corporation.
+Oppenheim , 250 F.Supp.
+at 884 .
+Defendants urge that we limit Oppenheim to permit a shareholder of a parent corporation to maintain a 16(b) suit with respect to the subsidiary's stock only when the original issuer did not survive a merger into the subsidiary.
+They contend that when the issuer survives the merger as a viable corporate entity enforcement of the statute by the issuer or by its shareholder, the parent corporation, is still available.
+We disagree with defendants' rationale; it would have been equally applicable to Oppenheim because there the 16(b) claim could have been brought by the issuer's survivor or by its shareholder, the parent corporation, yet the court did not restrict standing to those entities.
+The plaintiff in Oppenheim actually had less claim to standing than the plaintiff in the instant case, because in Oppenheim the plaintiff never held shares in the original issuer, but purchased shares in the parent only after the merger.
+Further, we do not rely on the interpretation of "issuer" set forth in Oppenheim , but focus instead on whether a security holder loses his standing as an "owner" of securities when his stock is involuntarily converted in a merger.
+The probability that the statute will not be enforced is present to the same degree when the original issuer survives the merger as a wholly-owned subsidiary of the parent corporation as it was in Oppenheim .
+In such circumstance no public shareholders remain to bring an action.
+As a practical matter it is unrealistic to believe that the issuing corporation will bring an action against itself or its insiders.
+See Rothenberg, [1977-78] Fed.Sec.L.Rep.
+¶ 96,045 at 91,691; cf. Lewis v. McAdam , 762 F.2d 800, 802 (9th Cir.1985) (per curiam); Magida , 231 F.2d at 846 .
+Leaving insiders to police themselves is not only contrary to 16(b)'s private shareholder enforcement purpose, but also can be expected to secure the same results as those obtained when a fox guards a chicken coop. Concededly, some protection against insider abuse may still be available through a stockholder's derivative suit for breach of fiduciary duty.
+Yet such a suit is not as effective as a 16(b) claim because shareholders are subject to the already noted more stringent standing requirements of Rule 23.1 , and, in addition, the complaint may be countered with subjective considerations of intent or good faith, such as a business judgment defense.
+Cf. Oppenheim , 250 F.Supp.
+at 887 .
+Moreover, the SEC endorses the view that the policy of 16(b) is best effectuated by allowing plaintiff to maintain this suit.
+See Ownership Reports and Trading By Officers, Directors and Principal Stockholders, Securities Exchange Act Rel.No.
+26333 (Dec. 2, 1988), 42 SEC Docket 570 , 53 Fed.Reg.
+49997 (Dec. 13, 1988) [SEC Rel.No.
+26333 ].
+Although not binding on us, the SEC's insights in construing securities laws are entitled to consideration.
+See Basic Inc. v. Levinson , 485 U.S. 224, 239 n. 16, 108 S.Ct. 978, 987 n. 16, 99 L.Ed.2d 194 (1988) ; TSC Indus., Inc. v. Northway, Inc. , 426 U.S. 438, 449 n. 10, 96 S.Ct. 2126, 2132-33 n. 10, 48 L.Ed.2d 757 (1976).
+Proposed SEC Rule 16a-1(h) would specifically define "owner" of a security as either a current beneficial owner of securities of the issuer at the time suit was filed or a former beneficial owner who was compelled to relinquish his holdings as a result of a business combination.
+See SEC Rel.No.
+26333 .
+While the proposed rule is inapplicable in the case at hand, cf. Mayer v. Chesapeake Ins. Co. , 877 F.2d 1154, 1162 (2d Cir.1989), cert. denied , U.S. , 110 S.Ct. 722 , 107 L.Ed.2d 741 (1990), it reflects the strength of the SEC's convictions.
+B. Standing Not Barred by Existing Law Defendants and the dissenting opinion assert it is "settled law" that a security holder who commences a 16(b) suit must remain a security holder throughout the litigation and if he ceases to own the securities he loses his standing to continue the action.
+See Untermeyer v. Valhi, Inc. , 665 F.Supp.
+297 (S.D.N.Y.1987), aff'd mem. , 841 F.2d 1117 (2d Cir.), aff'd on rehearing , 841 F.2d 25 (2d Cir.) (per curiam), cert. denied , 488 U.S. 868 , 109 S.Ct. 175 , 102 L.Ed.2d 145 (1988); Rothenberg, [1977-78] Fed.Sec.L.Rep.
+(CCH) ¶ 96,045; see also Lewis , 762 F.2d 800 ; Portnoy , 607 F.2d 765 ; Staffin v. Greenberg , 509 F.Supp.
+825, 840 (E.D.Pa.1981), aff'd on other grounds , 672 F.2d 1196 (3d Cir.1982).
+That conclusion is not mandated either by the statutory language or by the cited cases.
+First, the language of the statute speaks of the "owner" of securities; but such language is not modified by the word "current" or any like limiting expression.
+The statute does not specifically bar the maintenance of 16(b) suits by former shareholders and Congress, had it so desired, could readily have eliminated such individuals as plaintiffs.
+The broad meaning of the word owner better accords with the remedial purpose of the statute.
+Second, although some decisions have denied standing to a 16(b) plaintiff on the grounds that he is not a current security holder, those cases are distinguishable.
+The district court, for example, relied upon Untermeyer v. Valhi, Inc. , which dealt with a plaintiff who owned stock of the parent corporation, but who never owned stock of the company that issued the shares traded in contravention of 16(b) .
+665 F.Supp at 298 .
+Thus, even without a merger the Untermeyer plaintiff would not have had standing.
+In contrast, plaintiff here brought a valid 16(b) suit while he was a current shareholder of the issuer, and but for the merger standing would not be in issue here.
+In Rothenberg v. United Brands Co., also cited by the district court, the shareholders received cash in the merger instead of securities.
+The crucial factor considered by the trial court was that in a cashout merger the former shareholders maintain no continuing financial interest in the litigation.
+See Rothenberg, [1977-78] Fed.Sec.L.Rep.
+(CCH) ¶ 96,045 at 91,692.
+In the present case all former International shareholders obtained, as a result of the merger, shares of International's parent corporation, and plaintiff, as one of them, continues to have at least an indirect financial interest in the outcome of this lawsuit.
+Two additional reasons caution against an overbroad application of Rothenberg : That decision noted that even if plaintiff had standing the 16(b) claim failed on the merits, see id. at 91,693-94; and the court's standing analysis was premised on an analogous application of Rule 23.1 which, as noted above, does not govern shareholders bringing 16(b) claims.
+Id. at 91,691-92.
+Contrary decisions of our sister circuits are similarly distinguishable.
+See Lewis , 762 F.2d at 801 (plaintiff shareholder of parent but never held stock in the issuer or its surviving subsidiary); Portnoy , 607 F.2d at 767-68 (cashout merger left plaintiff with no continuing financial interest in the litigation; plaintiff's alternative status as a shareholder in the grandparent corporation gave no standing for 16(b) suit on behalf of the issuer).
+In the case at bar, the conversion of International stock into Viacom stock presents a novel situation where former shareholders have a continuing interest in maintaining suit in behalf of the issuer.
+We conclude, therefore, that under those unique circumstances the cases cited by defendants are neither controlling nor persuasive.
+Here plaintiff's suit was timely, and while his 16(b) suit was pending he was involuntarily divested of his share ownership in the issuer through a merger.
+But for that merger plaintiff's suit could not have been challenged on standing grounds.
+Although we decline--in keeping with 16(b)'s objective analysis regarding defendants' intent--to inquire whether the merger was orchestrated for the express purpose of divesting plaintiff of standing, we cannot help but note that the incorporation of Viacom and the merger proposal occurred after plaintiff's 16(b) claim was instituted.
+Hence, the danger of such intentional restructuring to defeat the enforcement mechanism incorporated in the statute is clearly present.
+Quite plainly, a rule that allows insiders to avoid 16(b) liability by divesting public shareholders of their cause of action through a business reorganization would undercut the function Congress planned to have shareholders play in policing such actions.
+See Oppenheim , 250 F.Supp.
+at 887 ; SEC Rel.
+No. 26333 .
+Permitting plaintiff to maintain this 16(b) suit is not barred by the language of the statute or by existing case law, and it is fully consistent with the statutory objectives.
+The grant of summary judgment must therefore be reversed.
+If it is established that profits were realized in contravention of the statute they should be disgorged to International.
+The section is designed to protect fairness interests, not provide compensatory relief.
+The result we reach will adequately protect the former International shareholders who now own International indirectly as shareholders of Viacom.
+Cf. American Standard, Inc. v. Crane Co. , 510 F.2d 1043, 1060-61 (2d Cir.1974), cert. denied , 421 U.S. 1000 , 95 S.Ct. 2397 , 44 L.Ed.2d 667 (1975).
+Because the plaintiff has standing under 16(b) , we do not reach the district court's rejection of plaintiff's standing argument based upon an alleged "double derivative" action.
+See Mendell, [1988-89] Fed.Sec.L.Rep.
+(CCH) ¶ 94,086 at 91,087.
+III Plaintiff's Standing as a Noteholder Under Fed.R.Civ.P. 60(b) In light of our reversal of the November 9, 1988 order and subsequent judgment of dismissal gives plaintiff his requested relief, plaintiff's appeal of the motion brought pursuant to Rule 60(b) is to some extent mooted.
+Nevertheless, we write to affirm the district court's denial of the Rule 60(b) motion in order to emphasize that plaintiff's purchase of a senior subordinated note of International did not provide grounds to vacate the district court's initial order.
+The relevant portions of Rule 60(b) provide that "upon such terms as are just, the court may relieve a party from a final judgment [or] order for the following reasons: (1) mistake, inadvertence, surprise, or excusable neglect; or (6) any other reason justifying relief from the operation of the judgment."
+Fed.R.Civ.P. 60(b) .
+Motions under Rule 60(b) are addressed to the sound discretion of the district court and are generally granted only upon a showing of exceptional circumstances.
+Nemaizer v. Baker , 793 F.2d 58, 61 (2d Cir.1986).
+Plaintiff argues that he purchased the International note "as soon as it occurred to plaintiff's counsel (1) that any security holder of International could maintain a 16(b) action and (2) that notes of International were available to be purchased."
+We agree with the district court that counsel's ignorance of the law on this point cannot form the basis for relief under subdivision (1) of Rule 60(b) .
+See id. at 62-63 .
+Nor can we say that the district court abused its discretion when it denied relief under subdivision (6) of Rule 60(b) .
+Plaintiff's acquisition of a note following an adverse ruling on his claim to standing as a shareholder did not present the kind of "extraordinary" circumstance that mandates relief to avoid an "extreme and undue hardship."
+See Ackermann v. United States , 340 U.S. 193, 199 , 71 S.Ct. 209, 212 , 95 L.Ed. 207 (1950); Matarese v. LeFevre , 801 F.2d 98, 106 (2d Cir.1986), cert. denied , 480 U.S. 908 , 107 S.Ct. 1353 , 94 L.Ed.2d 523 (1987).
+As a noteholder of International, plaintiff clearly has standing to bring a 16(b) claim in International's behalf.
+See 15 U.S.C. 78p(b) .
+Yet his newly acquired noteholder status does not afford grounds to vacate an order premised on his status as a former shareholder.
+CONCLUSION The district court's order entered May 24, 1989 is affirmed.
+Its order entered November 9, 1988 and the subsequent judgment of dismissal entered January 17, 1989 are reversed and the case is remanded to the district court for further proceedings consistent with this opinion.

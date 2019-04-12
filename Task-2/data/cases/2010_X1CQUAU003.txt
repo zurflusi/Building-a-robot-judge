@@ -1,0 +1,140 @@
+ KRAVITCH, Circuit Judge: Police arrested Willie Gene Davis after a traffic stop and searched the car in which he was riding as permitted by our decision in United States v. Gonzalez , 71 F.3d 819 , 825 (11th Cir. 1996).
+On evidence obtained from that search, Davis was convicted for the unlawful possession of a firearm.
+During the pendency of his appeal to this court, the Supreme Court overturned Gonzalez in Arizona v. Gant , U.S. , 129 S.Ct. 1710 , 173 L.Ed.2d 485 (2009).
+We now decide whether the Fourth Amendment 's exclusionary rule requires the suppression of evidence obtained from the search.
+I During a routine traffic stop in 2007, Sergeant Curtis Miller asked Willie Davis, the vehicle's only passenger, for his name.
+After a pause, Davis identified himself as "Ernest Harris."
+Miller could smell alcohol on Davis's breath, and he noticed Davis fidgeting with his jacket pockets.
+When the driver of the vehicle failed her field sobriety tests, Miller asked Davis to step out of the car.
+As Davis exited the vehicle, he started to take off his jacket.
+Miller told him to leave it on, but Davis removed the jacket anyway and left it behind on the seat.
+Miller checked Davis for weapons and took him to the rear of the vehicle, where he asked a crowd of bystanders whether Davis's name was really Ernest Harris.
+The bystanders gave Davis's true name, which Miller verified with the police dispatcher, using Davis's birth date.
+Miller arrested Davis for giving a false name and placed him, handcuffed, in the back of his patrol car.
+The driver of the vehicle was also arrested, handcuffed, and placed in a separate patrol car.
+Once the vehicle's occupants had been secured, Miller searched it and found a revolver in one of Davis's jacket pockets.
+After his indictment for possessing a firearm in violation of 18 U.S.C. 922 (g)(1), Davis filed a motion to suppress the gun.
+He conceded that our precedent required the court to deny his motion, but he moved to preserve the issue for appeal in light of the Supreme Court's grant of certiorari in Arizona v. Gant , 552 U.S. 1230 , 128 S.Ct. 1443 , 170 L.Ed.2d 274 (2008).
+The district court denied his motion on the ground that Sergeant Miller had found the gun during a valid search incident to arrest.
+[fn1] Following a jury trial, Davis was convicted and sentenced to 220 months in prison.
+II In New York v. Belton , 453 U.S. 454 , 460 , 101 S.Ct. 2860 , 69 L.Ed.2d 768 (1981), the Supreme Court held "that when a policeman has made a lawful custodial arrest of the occupant of an automobile, he may, as a contemporaneous incident of that arrest, search the passenger compartment of that automobile."
+In so holding, the Court purported to apply [**2] the limiting rationale of its decision in Chimel v. California , 395 U.S. 752 , 89 S.Ct. 2034 , 23 L.Ed.2d 685 (1969), which had "established that a search incident to an arrest may not stray beyond the area within the immediate control of the arrestee."
+Belton , 453 U.S. at 460 , 101 S.Ct. 2860 .
+In its attempt to craft a "workable rule," however, the Court assumed "that articles inside the relatively narrow compass of the passenger compartment of an automobile are in fact generally, even if not inevitably, within `the area into which an arrestee might reach in order to grab a weapon or evidentiary [item].'"
+Id .
+(alteration in original) (quoting Chimel 395 U.S. at 763 , 89 S.Ct. 2034 ).
+We, like most other courts, had read Belton to mean that police could search a vehicle incident to a recent occupant's arrest regardless of the occupant's actual control over the passenger compartment.
+See, e.g., Gonzalez , 71 F.3d at 825 .
+As the Supreme Court later explained, its opinion in Belton was "widely understood to allow a vehicle search incident to the arrest of a recent occupant even if there [was] no possibility the arrestee could gain access to the vehicle at the time of the search."
+Gant , 129 S.Ct. at 1718 .
+In Arizona v. Gant , the Court rejected that prevailing reading of Belton: — We now know that articles inside the passenger compartment are rarely within the area into which an arrestee might reach, and blind adherence to Belton's faulty assumption would authorize myriad unconstitutional searches."
+129 S.Ct. at 1723 (quotation marks and citation omitted).
+The Court replaced our interpretation of Belton with the following rule: "Police may search a vehicle incident to a recent occupant's arrest only if the arrestee is within reaching distance of the passenger compartment at the time of the search or it is reasonable to believe the vehicle contains evidence of the offense of arrest."
+Id .
+Davis now relies on Gant to argue that the search after his arrest violated the Fourth Amendment and, therefore, that the gun recovered from his jacket should have been suppressed.
+The government responds that we should not retroactively apply the exclusionary rule to searches conducted in good-faith reliance on our precedent.
+The retroactivity of a constitutional decision and the scope of the good-faith exception to the exclusionary rule are questions of law that we review de novo.
+Glock v. Singletary , 65 F.3d 878 , 882 (11th Cir. 1995); United States v. Martin , 297 F.3d 1308 , 1312 (11th Cir. 2002).
+III Although the Supreme Court's retroactivity doctrine has a complicated history, see United States v. Johnson , 457 U.S. 537 , 542-48 , 102 S.Ct. 2579 , 73 L.Ed.2d 202 (1982), it is now settled that "a decision of [the Supreme] Court construing the Fourth Amendment is to be applied retroactively to all convictions that were not yet final at the time the decision was rendered," id., at 562 , 102 S.Ct. 2579 , "with no exception for cases in which the new rule constitutes a `clear break' with the past," Griffith v. Kentucky , 479 U.S. 314 , 328 , 107 S.Ct. 708 , 93 L.Ed.2d 649 (1987).
+[fn2] Accord Glazner v. Glazner , 347 F.3d 1212 , 1217 (11th Cir. 2003) ("[F]or newly announced rules governing criminal prosecutions, the Supreme Court has completely rejected both pure prospectivity, which occurs where a court gives a newly announced rule no retroactive effect, and modified prospectivity, which occurs where a court applies a newly announced rule retroactively on a case by case basis.").
+Because [**3] Davis's case was pending on direct appeal when Gant was decided, the rule announced in that decision applies to his case.
+There can be no serious dispute that the search here violated Davis's Fourth Amendment rights as defined in Gant First, both he and the car's driver had been handcuffed and secured in separate police cruisers before Sergeant Miller performed the search.
+Second, Davis was arrested for "an offense for which police could not expect to find evidence in the passenger compartment," Gant , 129 S.Ct. at 1719 , because Miller had already verified Davis's identity when he arrested him for giving a false name.
+Gant makes clear that neither evidentiary nor officer-safety concerns justify a vehicle search under these circumstances.
+Our conclusion that the search violated Davis's constitutional rights does not, however, dictate the outcome of this case. "Whether the exclusionary sanction is appropriately imposed in a particular case .
+.
+.
+is `an issue separate from the question whether the Fourth Amendment rights of the party seeking to invoke the rule were violated by police conduct.'"
+United States v. Leon , 468 U.S. 897 , 906 , 104 S.Ct. 3405 , 82 L.Ed.2d 677 (1984) (quoting Illinois v. Gates , 462 U.S. 213 , 233 , 103 S.Ct. 2317 , 76 L.Ed.2d 527 (1983)).
+Consequently, we must still decide whether the fruits of the illegal search should be suppressed.
+We are not the first court of appeals to consider this question, but the other circuits have split on the issue.
+In the aftermath of Gant , the Ninth and Tenth Circuits have reached opposite conclusions as to the exclusionary rule's application in cases like this one.
+Compare United States v. Gonzalez , 578 F.3d 1130 (9th Cir. 2009) (applying the exclusionary rule to a pre Gant search), with United States v. McCane , 573 F.3d 1037 (10th Cir. 2009) (relying on the rule's good-faith exception and refusing to require the suppression of evidence), cert. denied , No. 09-402, [ 2010 BL 43243 ], 2010 WL 680526, U.S. , 130 S.Ct. 1686 , 176 L.ED.2d 179 (Mar. 1, 2010).
+Similarly, before Gant , the Fifth Circuit refused to apply the exclusionary rule when police had relied in good faith on prior circuit precedent, United States v. Jackson , 825 F.2d 853 , 866 (5th Cir. 1987) ( en banc ), but the Seventh Circuit expressed skepticism about applying the rule's good-faith exception when police had relied solely on caselaw in conducting a search, United States v. 15324.
+County Highway E. , 332 F.3d 1070 , 1076 (7th Cir. 2003).
+[fn3] We now enter the fray and hold that the exclusionary rule does not apply when the police conduct a search in objectively reasonable reliance on our well-settled precedent, even if that precedent is subsequently overturned.
+A. Retroactivity and the Exclusionary Rule In United States v. Gonzalez , 578 F.3d 1130 , the Ninth Circuit reversed the denial of a motion to suppress evidence obtained in violation of Gant , even though the search at issue had occurred before Gant was decided.
+The basis for the court's decision was that retroactivity doctrine required not only the application of Gant's new substantive rule, but also the application of the same remedy.
+[fn4] Because the defendant in Gant had benefited from the exclusionary rule, the court explained, "`basic norms of constitutional adjudication'" required the suppression of evidence in all non-final cases involving similarly situated defendants.
+Id. at 1132 (quoting Griffith , 479 U.S. at 322-23 , 107 S.Ct. 708 ).
+We [**4] do not find this reasoning persuasive.
+The Ninth Circuit's decision turned, in large part, on its assumption that the Supreme Court's affirmance in Gant endorsed the manner in which the state court had applied the exclusionary rule below.
+See Gonzalez , 578 F.3d at 1132-53 .
+But the Court's order granting Arizona's petition for a writ of certiorari in Gant explicitly limited the scope of review to the constitutionality of the search.
+552 U.S. 1230 , 128 S.Ct. 1443 , 170 L.Ed.2d 274 .
+The Court's holdings are confined to the questions on which it grants certiorari, Sup.Ct.
+R. 14.1 (a); Yee v. City of Escondido , 503 U.S. 519 , 535-36 , 112 S.Ct. 1522 , 118 L.Ed.2d 153 (1992), and in Gant neither the order granting certiorari nor the Court's subsequent opinion discusses the exclusionary rule at all.
+[fn5] In other words, the Court did not express approval of the exclusionary rule's application below merely by affirming the state court's judgment.
+[fn6] Before the Supreme Court, Gant concerned the meaning of Belton , not the scope of the exclusionary rule.
+We also disagree with the Ninth Circuit's contention that by declining to suppress evidence in cases like this we would fail to "fully appl[y]" Gant , thereby "violat[ing] `the integrity of judicial review by turning the court into .
+.
+.
+a legislative body announcing new rules but not applying them."
+Gonzalez , 578 F.3d at 1132 (quoting Griffith , 479 U.S. at 314 , 107 S.Ct. 708 ).
+Our conclusion that Sergeant Miller's search violated Davis's constitutional rights does fully apply Gant to the facts of this case. See United States v. Peoples , [ 2009 BL 234889 ], 2009 WL 3586564, at *4 (W.D.Mich.
+Oct. 29, 2009).
+We consider constitutional violations and remedies separately in the Fourth Amendment context, Leon , 468 U.S. at 906 , 104 S.Ct. 3405 , and the Supreme Court has refused to tie the retroactivity of new Fourth Amendment rules to the suppression of evidence, see id. at 912 n. 9, 104 S.Ct. 3405 .
+As the Tenth Circuit observed in McCane , "[t]he issue before us .
+.
+.
+is not whether the Court's ruling in Gant applies to this case, it is instead a question of the proper remedy upon application of Gant to this case." 573 F.3d at 1045 n. 5.
+B. Good Faith and the Exclusionary Rule "[T]he exclusionary rule is not an individual right"; it "applies only where it `result[s] in appreciable deterrence,'" and "the benefits of deterrence must outweigh the costs."
+Herring v. United States , U.S. , 129 S.Ct. 695 , 700 (2009) (quoting Leon , 468 U.S. at 909 ) (alteration in original).
+[fn7] Whether to suppress evidence obtained from an unconstitutional search thus "turns on the culpability of the police and the potential of exclusion to deter wrongful police conduct."
+Id. at 698 .
+Because the exclusionary rule "cannot be expected, and should not be applied, to deter objectively reasonable law enforcement activity," the Supreme Court has established an exception to the rule's application for cases in which the officers who conducted an illegal search "acted in the objectively reasonable belief that their conduct did not violate the Fourth Amendment ."
+Leon , 468 U.S. at 919 , 104 S.Ct. 3405 .
+The Court has gradually expanded this good-faith exception to accommodate objectively reasonable police reliance on: subsequently invalidated search warrants, Leon, 468 U.S. 897 ; subsequently invalidated statutes, Illinois v. Krull, 480 U.S. 430 (1987); inaccurate court records, Arizona v. Evans, 514 U.S. 1 (1995); and negligently maintained police records, Herring , U.S. , 129 S. Ct. 695 .
+each of its decisions expanding the exception, the Court has concluded that the unlawful [**5] police conduct at issue was neither "sufficiently deliberate that exclusion [could] meaningfully deter it" nor "sufficiently culpable that such deterrence [would be] worth the price paid by the justice system."
+Herring, 129 S. Ct. at 702 .
+In this case, Sergeant Miller did not deliberately violate Davis's constitutional rights.
+Nor can he be held responsible for the unlawfulness of the search he conducted.
+At the time of the search, we adhered to the broad reading of Belton that the Supreme Court later disavowed in Gant , and a search performed in accordance with our erroneous interpretation of Fourth Amendment law is not culpable police conduct.
+Law enforcement officers in this circuit are entitled to rely on our decisions, and "[p]enalizing the officer for the [court's] error, rather than his own, cannot logically contribute to the deterrence of Fourth Amendment violations," Leon , 468 U.S. at 921 , 104 S.Ct. 3405 .
+As the Tenth Circuit explained, the general "purpose of the exclusionary rule is to deter misconduct by law enforcement officers, not other entities," and there would be little "significant deterrent effect in excluding evidence based upon the mistakes of those uninvolved in or attenuated from law enforcement."
+McCane , 573 F.3d at 1044 .
+Because the exclusionary rule is justified solely by its potential to deter police misconduct, suppressing evidence obtained from an unlawful search is inappropriate when the offending officer reasonably relied on well-settled precedent.
+[fn8] This conclusion is consistent with the Supreme Court's reasoning in Leon , in which it declined to require the suppression of evidence obtained in reliance on a facially sufficient warrant issued by a neutral magistrate judge: First, the exclusionary rule is designed to deter police misconduct rather than to punish the errors of judges and magistrates.
+Second, there exists no evidence suggesting that judges and magistrates are inclined to ignore or subvert the Fourth Amendment or that lawlessness among these actors requires application of the extreme sanction of exclusion.
+Third, and most important, we discern no basis, and are offered none, for believing that exclusion of evidence seized pursuant to a warrant will have a significant deterrent effect on the issuing judge or magistrate.
+468 U.S. at 916 , 104 S.Ct. 3405 (footnote omitted).
+We see no meaningful distinction between a magistrate judge's error in applying Supreme Court precedent to a probable-cause determination and our error in applying that same precedent to the question of a warrantless search's constitutionality.
+The exclusionary rule must be "restricted to those situations in which its remedial purpose is effectively advanced," Krull , 480 U.S. at 347 , 107 S.Ct. 1160 , and suppressing evidence obtained in reliance on well-settled precedent would be no more effective in deterring police misconduct than would suppressing evidence obtained pursuant to a judge's probable-cause determination.
+C. Mistakes of Law and the Good-Faith Exception With this decision, we join the Fifth and Tenth Circuits in refusing to apply the exclusionary rule when the police have reasonably relied on clear and well-settled precedent.
+See McCane [**6] , 573 F.3d at 1045 ("[T]his court declines to apply the exclusionary rule when law enforcement officers act in objectively reasonable reliance upon the settled case law of a United States Court of Appeals.
+"); Jackson , 825 F.2d at 866 ("[T]he exclusionary rule should not be applied to searches which relied on Fifth Circuit law prior to the change of that law.
+.
+.
+.").
+We stress, however, that our precedent on a given point must be unequivocal before we will suspend the exclusionary rule's operation.
+We have not forgotten the importance of the "incentive to err on the side of constitutional behavior," and we do not mean to encourage police to adopt a "`let's-wait-until-it's-decided approach'" to "unsettled" questions of Fourth Amendment law.
+Johnson , 457 U.S. at 561 , 102 S.Ct. 2579 (quoting Desist v. United States , 394 U.S. 244 , 277 , 89 S.Ct. 1030 , 22 L.Ed.2d 248 (1969) (Fortas, J., dissenting)).
+The clarity of the Belton rule we followed before Gant is thus critical to our decision today.
+Although the Court in Gant insisted that Belton could have been interpreted in either of two ways, it also acknowledged that Belton was premised on a "faulty assumption" to which the doctrine of stare decisis did not require adherence.
+Gant , 129 S.Ct. at 1719 , 1723 .
+Indeed, we, like most of the other courts of appeals, treated the broader, permissive reading of Belton as well-settled.
+It is precisely in situations like this, when the permissibility of a search was clear under precedent that has since been overturned, that applying the good-faith exception makes sense.
+When the police conduct a search in reliance on a bright-line judicial rule, the courts have already effectively determined the search's constitutionality, and applying the exclusionary rule on the basis of a judicial error cannot deter police misconduct.
+Cf. Krull , 480 U.S. at 360 n. 17, 107 S.Ct. 1160 .
+("[T]he question whether the exclusionary rule is applicable in a particular context depends significantly upon the actors who are making the relevant decision that the rule is designed to influence.").
+Our decision here is therefore consistent with our holding in United States v. Chanthasouxat , 342 F.3d 1271 , 1280 (11th Cir. 2003), that "the good faith exception to the exclusionary rule .
+.
+.
+should not be extended to excuse a vehicular search based on an officer's mistake of law" (emphasis added).
+The justifications for the good-faith exception do not extend to situations in which police officers have interpreted ambiguous precedent or relied on their own extrapolations from existing caselaw.
+When the police rely on novel extensions of our precedent, they engage in the sort of legal analysis better reserved to judicial officers, whose "detached scrutiny .
+.
+.
+is a more reliable safeguard against improper searches than the hurried judgment of a law enforcement officer engaged in the often competitive enterprise of ferreting out crime," United States v. Chadwick , 433 U.S. 1 , 9 , 97 S.Ct. 2476 , 53 L.Ed.2d 538 (1977) (quotation marks and citation omitted), quoted in Leon , 468 U.S. at 913-14 , 104 S.Ct. 3405 .
+[fn9] When law enforcement officers rely on precedent to resolve legal questions as to which "[r]easonable minds .
+.
+.
+may differ," Leon , 468 U.S. at 914 , 104 S.Ct. 3430 , the exclusionary rule is well-tailored to hold them accountable for their mistakes.
+[fn10] Although an officer's mistake of law cannot provide objectively reasonable grounds for [**7] a search, Chanthasouxat , 342 F.3d at 1279 , the mistake of law here was not attributable to the police.
+On the contrary, the governing law in this circuit unambiguously allowed Sergeant Miller to search the car.
+Relying on a court of appeals' well-settled and unequivocal precedent is analogous to relying on a statute, cf. Krull , 480 U.S. 340 , 107 S.Ct. 1160 , 94 L.Ed.2d 364 , or a facially sufficient warrant, cf. Leon , 468 U.S. 897 , 104 S.Ct. 3405 , 82 L.Ed.2d 677 — not to personally misinterpreting the law.
+In this case, Sergeant Miller performed a search that our contemporaneous interpretation of Belton clearly permitted.
+Had the Supreme Court not subsequently rejected that interpretation in Gant , we undoubtedly would have upheld the search as constitutional.
+Because the search was objectively reasonable under our then-binding precedent, suppressing the gun found in Davis's jacket would serve no deterrent purpose.
+In accordance with our holding that the good-faith exception allows the use of evidence obtained in reasonable reliance on well-settled precedent, we refuse to apply the exclusionary rule here.
+Davis's conviction is AFFIRMED.

@@ -1,0 +1,283 @@
+ GEORGE C. PRATT , Circuit Judge: I. INTRODUCTION For better or for worse, our circuit in recent years seems to have been the locus for "megatrials".
+See, e.g. , Polizzi v. United States , 926 F.2d 1311, 1313 (2d Cir.1991) ("This appeal stems from what can only optimistically be called an aberration in the federal judicial system--the RICO megatrial"); United States v. Casamento , 887 F.2d 1141, 1149 (2d Cir.1989) (thirty-five defendants charged in RICO indictment, twenty-one defendants tried in joint trial lasting over seventeen months and involving roughly 275 witnesses), cert. denied , U.S. , 110 S.Ct. 1138 , 107 L.Ed.2d 1043 (1990); Procter & Gamble Co. v. Big Apple Indus.
+Bldgs., Inc. , 879 F.2d 10, 12 (2d Cir.1989) ("The [RICO pattern] problem is of serious consequence because a RICO trial often becomes a 'megatrial' with large numbers of unrelated defendants--charged with unconnected wrongs--tried together under the rubric of a single conspiracy"), cert. denied , U.S. , 110 S.Ct. 723 , 107 L.Ed.2d 743 (1990).
+Defendants are often heard to complain that the government benefits from the ambiguity and confusion which accompanies these gargantuan indictments; despite the complaints, we have responded, sometimes grudgingly, by affirming the lion's share of the convictions in spite of our concerns about the unruliness of such cases.
+See, e.g. , Casamento , 887 F.2d at 1151-53 .
+Similarly, defendants often complain that, because of the diversity of proof admissible in such an enormous case, they suffer not only from "prejudicial spillover", such as occurs "where a minor participant in one conspiracy was forced to sit through weeks of damaging evidence relating to another," United States v. Miley , 513 F.2d 1191, 1209 (2d Cir.) (Friendly, J.), cert. denied sub nom.
+Goldstein v. United States , 423 U.S. 842 , 96 S.Ct. 74 , 46 L.Ed.2d 62 (1975), but also from prejudice transferred across the line separating conspiracies, or defendants, "so great that no one really can say prejudice to substantial right has not taken place."
+Kotteakos v. United States , 328 U.S. 750, 774 , 66 S.Ct. 1239, 1252 , 90 L.Ed. 1557 (1946).
+This case--an enormous one involving bid-rigging in the New York City concrete industry, with numerous small, tangentially-related counts attached like barnacles--creates a problem different from, but related to, the concept of prejudicial spillover: that of "spillover taint".
+Serious error that occurred during this enormous trial requires the reversal of that portion of the case representing the majority of the convictions.
+This error, when combined with other aspects of the trial that raise serious questions of fairness, leads us to the conclusion that all of the convictions must be reversed.
+After reversing what was by far the largest portion of the indictment, we cannot really say that prejudice to substantial right would not take place if we left only a few of the collateral convictions intact.
+The likelihood of spillover taint running from the erroneously-achieved convictions to the remaining few is enough to undermine our confidence in the accuracy of all of the guilty verdicts.
+We therefore reverse the convictions of all appealing defendants and remand for further proceedings in the district court.
+II.
+FACTS AND BACKGROUND The history of this case is long and complex.
+At this point we set forth its general background and outline; further factual details will be discussed later in the opinion where pertinent to specific issues.
+A. The Commission Case Well before the indictment in this case was handed down, a much shorter RICO trial (eleven weeks) involving many of the same facts was held in the Southern District of New York.
+This trial, which came to be known as the "commission case", alleged a RICO enterprise known as the "commission" of La Cosa Nostra: i.e. United States v. Salerno , 868 F.2d 524, 528 (2d Cir.), cert. denied , U.S. , 110 S.Ct. 56 , 107 L.Ed.2d 24 (1989).
+The government charged, as predicate racketeering acts in the commission case, three general commission schemes.
+One alleged scheme was the concrete contractors' "club": Id. at 529 .
+There was an interesting relationship between the commission case and the timing of the indictments in the case before us.
+The final (third superseding) indictment in the commission case was filed on March 13, 1986.
+Eight days later, the initial indictment was filed in this case (the "club case").
+The trial of the commission case began on September 8, 1986.
+Ten days later, the first superseding indictment in the club case was filed.
+The jury returned its verdicts against the commission defendants on Nov. 19, 1986; the defendants were thereafter sentenced on Jan. 13, 1987.
+Two days later, the government filed its second superseding indictment in the club case. After an in banc hearing as to one commission case defendant, 865 F.2d 1370 (2d Cir.1989), we affirmed all of the convictions, with the exception of one RICO count against one defendant, which we reversed.
+B. The Indictment On April 7, 1987, a grand jury for the Southern District of New York charged eleven defendants (Anthony Salerno, Vincent DiNapoli, Louis DiNapoli, Nicholas Auletta, Edward Halloran, Alvin O. Chattin, Aniello Migliore, Matthew Ianniello, John Tronolone, Milton Rockman, and Richard Costa) in a 35-count third superseding indictment.
+The gravamen of the indictment was that, from 1970 to the date of the indictment, the defendants conspired to and did engage in a racketeering enterprise known as the Genovese Organized Crime Family of La Cosa Nostra (colloquially, the "Genovese family" of "the Mafia").
+While engaged in this enterprise, the defendants allegedly committed and conspired to commit numerous crimes, which were charged in the indictment as predicate acts.
+Count One charged all eleven defendants with conspiring to conduct the Genovese family's affairs through a pattern of racketeering activity (which consisted of 41 separate predicate acts), in contravention of the RICO conspiracy statute, 18 U.S.C. 1962(d).
+The separately enumerated predicate acts charged: Various defendants were charged in each predicate act, but no one defendant was charged with every predicate act, nor were all eleven defendants charged in any one predicate act.
+Count Two of the indictment charged all eleven defendants with the substantive crime of conducting and participating in the activities of the Genovese family in violation of 18 U.S.C. 1962(c) (the "substantive RICO count").
+Counts Three through Thirty-Five charged various of the defendants with mail fraud, conspiracy, extortion, illegal gambling, and extortionate credit extension; these substantive charges corresponded to most of the predicate acts charged in Counts One and Two.
+The scope of the indictment, and the verdicts returned, are illustrated in the table which is attached as an Appendix to this opinion.
+The Appendix illustrates that all defendants were charged with the RICO conspiracy and RICO substantive counts contained in Counts One and Two of the indictment.
+In addition, it shows that the indictment breaks down into one huge case (the Construction Case, charging seven defendants in sixteen counts); one eleven-count case (the Food Case, in which Costa was charged in all eleven counts, Salerno in nine, and Ianniello in only one); two small cases (the Teamster Case, charging three defendants in two counts; and the Rackets Case, charging Salerno in four counts and Louis DiNapoli in one); and allegations of three additional racketeering acts: illegal labor payoffs (charging only Salerno and Ianniello), attempted extortion of Andrew Giordano (charging only Salerno and Ianniello), and conspiracy to murder John Simone (charging only Salerno and Tronolone).
+The Appendix further shows that Ianniello, Tronolone, and Rockman each were charged in only a few counts, while the defendants in the Construction Case represented the major targets of the indictment.
+Obviously, they were the major targets at the trial, as well.
+C. The Trial Trial of this matter began on April 6, 1987, and concluded thirteen months later, on May 4, 1988.
+Most of the trial was devoted to the prosecution and defense of the Construction Case. The government presented evidence that the Construction Case defendants had participated in a scheme to rig the contracts for concrete superstructure work on high-rise buildings in Manhattan where the value of the concrete work was over $2 million.
+According to the government, Salerno, along with Vincent DiNapoli, orchestrated the scheme.
+By establishing control over two essential elements of Manhattan-area concrete contractors' work--labor and ready-mix concrete--Salerno and Vincent DiNapoli were able to keep all of the work on these projects within a select group of contractors, called the "Club".
+The Genovese family allegedly allocated the jobs among these companies by rigging the bids that they submitted.
+The Genovese family also allegedly controlled the labor market through corrupt union officials, and controlled the ready-mix market by entering into an alliance with defendant Halloran, to whom the Genovese family granted a monopoly for supplying concrete in Manhattan.
+The Genovese family profited from this scheme because, according to the government, the owner/developers and construction managers paid to it a two percent surcharge on all concrete jobs performed by Club members.
+D. The Verdicts All eight appealing defendants, as well as defendant Costa (who did not appeal his convictions), were convicted of Counts One and Two, the RICO conspiracy and substantive RICO counts.
+Salerno, both DiNapolis, Auletta, Halloran, Chattin, and Migliore were all convicted of Counts Three through Eighteen (and found to have committed racketeering acts 1-16), which was the Construction Case. In addition, Halloran was found to have committed four construction-related racketeering acts (predicate acts 19-22) in relation to the RICO conspiracy count, but only two of those same acts (19 and 20) in relation to the substantive RICO count.
+The Teamster Case, which was premised on allegations of fraudulent intervention in the elections of Roy L. Williams and Jackie Presser as general presidents of the International Brotherhood of Teamsters, resulted in verdicts of not guilty for all three charged defendants, Salerno, Tronolone, and Rockman.
+Salerno and Ianniello were, however, found to have committed the related predicate act 23, involving the illegal labor payoffs.
+The jury was unable to agree on the predicate act involving the alleged extortion of Giordano, which charged only Salerno and Ianniello.
+The Food Case alleged extortion of Marathon Enterprises (a New Jersey producer of hot dogs and hot dog buns) and the Player's Club Restaurant, bid-rigging on food service contracts at the Bronx Zoo, and illegal payments to an AFL-CIO official.
+The Food Case resulted in convictions on all counts involving Salerno and Costa, who were charged in Counts Twenty-One through Thirty-One (and predicate acts 25-36).
+Ianniello, who was charged in Count Twenty-One (and predicate act 25) along with Salerno and Costa, was likewise found guilty.
+On the Rackets Case, which charged Salerno and Louis DiNapoli with running an illegal numbers business and Salerno with illegal bookmaking and extortionate credit practices, the jury found that both Salerno and Louis DiNapoli had committed predicate act 37, involving gambling and loan sharking.
+Salerno was also convicted of Count Thirty-Two, which corresponded to predicate act 37, but Louis DiNapoli was only charged with the predicate act, not the formal Count.
+The jury returned verdicts of not guilty on the remainder of the Rackets Case. Neither Salerno nor Tronolone was found to have conspired to murder John Simone.
+The jury further returned forfeiture verdicts against Salerno, Vincent DiNapoli, Auletta, and Halloran, awarding to the government Salerno's interests in S & A Concrete Company and its affiliates from November 1981 through the end of 1984; his interests in Glen Island Casino; and payments from Marathon Enterprises, Inc. totalling $155,000.
+The jury forfeited to the government Vincent DiNapoli's interests in S & A and the Glen Island Casino.
+Additionally, the jury ordered that Auletta's interests in S & A Concrete and its affiliates, as well as Big Apple Concrete, be forfeited to the government, and the jury further awarded to the government Auletta's proceeds from the sale of certain property.
+Finally, the jury ordered forfeited Halloran's interests in Big Apple and Certified Concrete Co., Inc. E. The Sentences Judge Lowe sentenced Salerno to 70 years in prison and ordered him to pay a fine of $376,000 plus twice the gross profits of his racketeering activities.
+Vincent DiNapoli was sentenced to 24 years in prison and fined $266,000 plus twice his gross racketeering profits.
+Migliore received the same sentence and fine as Vincent DiNapoli.
+Louis DiNapoli was sentenced to 14 years' imprisonment and fined $266,000 plus twice his gross racketeering profits.
+Ianniello and Halloran were each sentenced to 13 years in prison; Halloran was fined $266,000 plus twice his gross racketeering profits, while Ianniello was fined $505,000.
+Chattin was sentenced to six years in prison and fined $16,000.
+Costa was sentenced to nine years' imprisonment and ordered to pay a fine of $297,000.
+F. The Motions for New Trial After the jury had rendered its verdicts, but before sentencing, Salerno--joined by all other convicted defendants--filed a motion for a new trial and for the recusal of Judge Lowe.
+They claimed to have discovered evidence that Judge Lowe and the United States Deputy Marshal assigned to her courtroom had separately engaged in ex parte contacts with the jury during deliberations.
+Judge Lowe allegedly informed the jury that they had to produce a unanimous verdict, and that no mistrials would be tolerated.
+The marshal was alleged to have told the foreperson of the jury that "the people outside are getting tired and restless, and if we don't hurry up and make some type of decision, we are going to have to listen to over one hundred audio tapes."
+He was also alleged to have told another juror, "[Y]ou got a pretty bad attitude."
+The factual allegations are discussed more extensively in Chief Judge Brieant's opinion, 740 F.Supp.
+171 (S.D.N.Y.1990).
+Based on the written submissions and oral argument, but without conducting an evidentiary hearing, Judge Lowe, in a lengthy opinion reported at 698 F.Supp.
+1109 (S.D.N.Y.1988), denied the motion for a new trial as well as the motion for recusal and proceeded to sentencing.
+When the defendants appealed, we vacated Judge Lowe's order denying the new trial motion and remanded with specific instructions for a factual inquiry into the defendants' allegations.
+United States v. Ianniello , 866 F.2d 540 (2d Cir.1989).
+On the remand, Chief Judge Brieant conducted the factual inquiry, and once again denied the defendants' motion for a new trial, stating: "On the totality of the evidence this Court concludes that there is no credible evidence that either Judge Lowe or Deputy Marshal Perrine interfered with the deliberations of the jurors or attempted in any way to influence or coerce the trial jury."
+United States v. Ianniello , 740 F.Supp.
+171, 195 (S.D.N.Y.1990).
+From the judgments of conviction as well as Chief Judge Brieant's denial of their motion for a new trial, eight defendants appeal.
+III.
+DISCUSSION This megatrial resulted in a mega-appeal, in which the eight appealing defendants filed separate briefs, raising collectively at least sixteen distinct issues.
+The appellants did not simply repeat each others' arguments; instead, seven of them presented at least one separate argument and in addition adopted by reference the points raised in the others' briefs, pursuant to Fed.R.App.P.
+28(i).
+The government responded with a 300-page typeset brief, addressing the sixteen arguments point-by-point.
+Oral argument was a similar ordeal, in which we departed from our usual practices in two ways.
+First, we allotted for oral argument two hours (and ended up using three), where we normally allow no more than fifteen minutes per side.
+Second, in view of the unusual number of significant issues raised, we allowed each advocate for each defendant to make his argument, followed immediately by the government's rebuttal argument.
+We heard six different advocates for the appellants, while two assistant United States Attorneys divided the chores for the government.
+Our task was informed by fine briefing and extraordinary oral advocacy on all sides.
+Their extensive efforts to cope with a case of this magnitude were commendable.
+Although sixteen issues were raised, we have concluded that one of the claimed errors--the erroneous exclusion from evidence of certain grand jury testimony--so tainted the entire trial that reversal and a new trial is required for all eight appealing defendants.
+It is necessary, in addition, to comment on three other issues--Ianniello's proffered bias defense, evidence of inconsistent positions taken by the government against Auletta, and the serious allegations of misconduct--in order to be sure these problems do not arise again.
+A. The Grand Jury Testimony of Bruno and DeMatteis 1.
+Background Pursuant to its obligation under Brady v. Maryland , 373 U.S. 83 , 83 S.Ct. 1194 , 10 L.Ed.2d 215 (1963), the government informed defendants Vincent and Louis DiNapoli that Pasquale J. Bruno and Frederick DeMatteis had testified under immunity before the grand jury, and that counsel for the defendants might wish to speak to those witnesses, as they were sources of potentially exculpatory evidence.
+Both Bruno and DeMatteis were principals in Cedar Park Concrete Construction Corporation ("Cedar Park"), one of the companies alleged to have been a member of the "Club" of concrete contractors.
+At trial, counsel for the defendants called Bruno and DeMatteis to the stand, whereupon each asserted his fifth amendment privilege against self-incrimination.
+Although requested to do so by defense counsel, the government refused to immunize Bruno and DeMatteis.
+Defendants then moved the district court to direct the government to furnish copies of the grand jury minutes so that they could introduce the witnesses' grand jury testimony under Fed.R.Evid.
+804(b)(1), the "former testimony" exception to the hearsay rule for unavailable declarants.
+After examining privately the grand jury minutes as well as other materials supplied by the government (all of which were transmitted to the district court under seal), and hearing in camera arguments from the government about the content and admissibility of the grand jury testimony, Judge Lowe denied the motion.
+She reasoned that the government's motive to examine a grand jury witness is "far different from the motive of a prosecutor in conducting the trial"; thus, she held, the grand jury minutes were inadmissible under rule 804(b)(1).
+2.
+Federal Rule of Evidence 804(b)(1) Federal Rule of Evidence 804(b)(1) provides, in pertinent part: (b) Hearsay exceptions (1) Former testimony This former testimony exception to the hearsay rule is arguably "the strongest hearsay", because of all the ideal conditions for the giving of testimony (oath, opportunity for cross-examination, presence of trier of fact, and presence of opponent), only the latter is absent.
+Fed.R.Evid.
+804 advisory committee's note.
+See E. Cleary, McCormick on Evidence 245, at 726-29 (3d ed. 1984).
+See also Weissenberger, The Admissibility of Grand Jury Transcripts: Avoiding the Constitutional Issue , 59 Tul.L.Rev.
+335, 344 (1984) (former testimony exception based on necessity, accuracy, and fairness to party against whom offered).
+We must keep these considerations in mind as we interpret the rule.
+a. Declarant Unavailable?
+Federal Rule of Evidence 804(a)(1) provides: (a) Definition of unavailability (1) We have long recognized that "unavailability" includes within its scope those witnesses who are called to testify but refuse based on a valid assertion of their fifth amendment privilege against self-incrimination.
+See, e.g. , United States v. Salvador , 820 F.2d 558, 560 (2d Cir.), cert. denied , 484 U.S. 966 , 108 S.Ct. 458 , 98 L.Ed.2d 398 (1987); United States v. Rodriguez , 706 F.2d 31, 40 (2d Cir.1983); United States v. Beltempo , 675 F.2d 472, 480 (2d Cir.), cert. denied , 457 U.S. 1135 , 102 S.Ct. 2963 , 73 L.Ed.2d 1353 (1982).
+Thus, it is without question that once they were subpoenaed and had invoked their fifth amendment privilege, both Bruno and DeMatteis became "unavailable" to the defendants, who could not compel them to testify.
+However, the government could compel that testimony through a grant of use immunity.
+The "unavailability" of a witness under rule 804 depends on the situation of the parties and their relationship to the witness.
+See J. Weinstein & M. Berger, Weinstein's Evidence ¶ 804(a) , at 804-36 (1990) ("the crucial factor is not the unavailability of the witness but the unavailability of his testimony.").
+"A declarant is not unavailable as a witness if exemption, refusal, claim of lack of memory, inability, or absence is due to the procurement or wrongdoing of the proponent of a statement for the purpose of preventing the witness from attending or testifying."
+Fed.R.Evid.
+804(a) (emphasis added).
+In such a case, the witness is not "unavailable" to the proponent, who is thereby prevented from invoking rule 804(a).
+That same principle of adversarial fairness should prevent the opponent of a hearsay declaration from invoking the protections of rule 804(b)(1) when the declarant, although unavailable to the proponent , is available to the opponent of the declaration.
+"If the witness has been by the opponent procured to absent himself, this ought of itself to justify the use of his deposition or former testimony *."
+5 J. Wigmore, Evidence in Trials at Common Law 1405, at 218-19 (Chadbourn rev. 1974) (emphasis in original).
+In short, the testimony of Bruno and DeMatteis was available to the government but unavailable to the defendants.
+b. Testimony given as a witness at another hearing of the same or another proceeding?
+Grand jury testimony, doubtlessly, is "former testimony" under rule 804(b)(1).
+See United States v. Vigoa , 656 F.Supp.
+1499, 1505 n. 5 (D.N.J.1987) ("It is undeniable that grand jury testimony constitutes 'former testimony' specifically covered by Rule 804(b)(1)"), aff'd , 857 F.2d 1467 (3d Cir.1988) (mem.); cf. United States v. Salim , 855 F.2d 944, 952-53 (2d Cir.1988) (oath or affirmation and verbatim translation satisfy "former testimony" requirement); Fed.R.Evid.
+804 advisory committee's note.
+Here, both oath and verbatim transcription were present in the grand jury testimony: both witnesses were sworn, and the proceedings were transcribed by a certified shorthand reporter.
+c. Opportunity and similar motive?
+This is not the first time that the grand jury testimony of Bruno and DeMatteis has been the subject of dispute in this court.
+In the commission case, one of the appellants also argued that the failure to turn over the grand jury testimony of Bruno and DeMatteis violated both Brady and Fed.R.Evid.
+804(b)(1).
+The government there had taken the position that it would produce the grand jury minutes only if and when Bruno was called as a witness.
+868 F.2d at 542 n. 7.
+We held that its position "does not violate Brady ".
+Id. See also Brief for Government at 188-90, United States v. Salerno , 868 F.2d 524 (2d Cir.1989).
+We further held that since the appellant had not called the declarants as witnesses to permit them to refuse to testify at the trial, he had failed to show that either declarant was "unavailable".
+Salerno , 868 F.2d at 542 & n. 8.
+Here, in contrast, the defendants called both men to the stand out of the jury's presence and, when asked a series of questions, both men invoked the fifth amendment in response to each question.
+Thus, the defendants filled in the gap that had defeated the appellant in the commission case.
+But to keep the trial jury from hearing the grand jury testimony of these two witnesses, the government raised still another objection: that it did not have a "similar motive" to develop the witnesses' testimony before the grand jury as required under rule 804(b)(1).
+Since all other requirements for admission of the testimony were satisfied, this similar-motive contention becomes the focus of the dispute on this appeal.
+The government vigorously contends that they lacked a "similar motive" to develop the testimony in front of the grand jury, since they believed that the witnesses had committed perjury therein.
+By ex parte affidavits filed under seal, the government maintained that they have "little or no incentive to conduct a thorough cross-examination of Grand Jury witnesses who appear to be falsifying their testimony to assist Grand Jury targets or other witnesses."
+The government argued, and the district court agreed, that the government's motive in developing testimony in front of a grand jury is so different from the motive at trial that the rule 804(b)(1) hearsay exception does not apply.
+Accordingly, the district court refused the defendants' offer of the grand jury testimony of Bruno and DeMatteis.
+While we agree that the government may have had no motive before the grand jury to impeach the allegedly false testimony of Bruno and DeMatteis, we do not think that is sufficient to exclude the evidence at trial.
+The "similar motive" requirement of rule 804(b)(1) protects the party to whom the witness is "unavailable" in order to accord that party some degree of adversarial fairness, thereby assuring that the earlier treatment of the witness is the rough equivalent of what the party against whom the statement is offered would do at trial if the witness were available to be examined by that party.
+When the declarant is unavailable to the party against whom the testimony is being offered, the "similar motive" requirement not only ensures that the right of cross-examination is preserved, but also ensures that the party against whom the testimony is offered has been afforded a fair chance to seek the truth, and is not blindsided at trial by the hearsay testimony.
+See United States v. Young Bros., Inc. , 728 F.2d 682, 691 (5th Cir.) ("This concern is not present in this case because it was the party offering the testimony, the appellant, who had not had the opportunity to cross-examine.
+"), cert. denied , 469 U.S. 881 , 105 S.Ct. 246 , 83 L.Ed.2d 184 (1984); United States v. Vigoa , 656 F.Supp.
+at 1505 ("By conditioning admission upon proof that the party against whose interest the testimony is offered was adequately represented during the development of the testimony, Rule 804(b)(1) incorporates considerations of adversarial fairness into the evidentiary analysis.").
+Had Bruno and DeMatteis been, for example, ill or dead at the time of trial (and therefore, under rule 804(a)(4), "unavailable" to either side), the district court would have properly inquired whether the government had a "similar motive" to examine them in the grand jury before allowing their testimony before the grand jury to be admitted under rule 804(b)(1), because neither the government nor the defendant would be able to examine the witness at trial.
+But since these witnesses were available to the government at trial through a grant of immunity, the government's motive in examining the witnesses at the grand jury was irrelevant.
+When the reason for the requirement evaporates, so does the requirement.
+See 2A N. Singer, Sutherland Statutory Construction 45.12, at 54-55 (4th ed. 1984).
+We are cognizant of the reliability concerns that have led courts to exclude grand jury testimony from use by the prosecution at trial.
+See, e.g. , United States v. Thevis , 665 F.2d 616, 629 (5th Cir. Unit B), cert. denied , 459 U.S. 825 , 103 S.Ct. 57 , 74 L.Ed.2d 61 (1982): See also McKethan v. United States , 439 U.S. 936, 938 , 99 S.Ct. 333, 334 , 58 L.Ed.2d 333 (1978) (Stewart, J., dissenting from the denial of certiorari) (noting, inter alia , that no one is present to "give the defendant's version of the story"); United States v. West , 574 F.2d 1131, 1138-39 (4th Cir.1978) (Widener, J., dissenting) (confrontation clause concerns where grand jury testimony introduced against defendant).
+But when the defendant wishes to introduce the grand jury testimony that the government used to obtain his indictment, those concerns about reliability and accuracy are absent.
+Every factor present in the grand jury--the ex parte nature of the proceeding, the leading questions by the government, the absence of the defendant, the tendency of a witness to favor the government because of the grant of immunity, the absence of confrontation--is adverse to the interest of the defendants, not the government.
+Yet it is the government here which seeks to avail itself of the protections of Fed.R.Evid.
+804(b)(1).
+Since the witnesses were only unilaterally "unavailable" and could have been subjected to cross-examination by the government, we will not countenance the exclusion of their grand jury testimony on the ground of purported fairness to the government.
+It is indeed troubling to us that after identifying Bruno and DeMatteis as exculpatory witnesses under Brady , the government then sought to make it impossible for the defendants to obtain the exculpating testimony.
+In resisting the admission of the grand jury transcripts, the government was not true to the letter or spirit of Brady , where the Supreme Court said: Brady , 373 U.S. at 87 , 83 S.Ct. at 1196-97 .
+To say that the government satisfied its obligation under Brady by informing the defendants of the existence of favorable evidence, while simultaneously ensuring that the defendants could neither obtain nor use the evidence, would be nothing more than a semantic somersault.
+However, we rest our decision on our interpretation and application of Fed.R.Evid.
+804(b)(1), and not Brady v. Maryland , keeping in mind the time-honored rule that we should not reach constitutional issues unless absolutely necessary.
+In so holding, we note that the government is in no way required to grant use immunity to a witness called by the defense; it is simply left with a series of choices.
+Immunity remains "pre-eminently a function of the Executive Branch."
+United States v. Turkish , 623 F.2d 769, 776 (2d Cir.1980) (citing Ullman v. United States , 350 U.S. 422 , 76 S.Ct. 497 , 100 L.Ed. 511 (1956)), cert. denied , 449 U.S. 1077 , 101 S.Ct. 856 , 66 L.Ed.2d 800 (1981); United States v. Lang , 589 F.2d 92, 96 (2d Cir.1978) (collecting cases).
+See also 18 U.S.C. 6003 (immunity in court and grand jury proceedings).
+The government is no stranger to such choices; in fact, it made a similar choice when Bruno and DeMatteis were originally called before the grand jury.
+In front of the grand jury, the government felt it had to make a smaller sacrifice (by granting Bruno and DeMatteis use immunity) in order to achieve the greater goal of indicting the defendants.
+To make a similar choice at trial is not too great a burden to cast on the government.
+The government, of course, could have granted initially defendants' request to immunize Bruno and DeMatteis, heard their live testimony, and thereby prevented admission of the grand jury transcripts, for then the witnesses would have been available to both sides.
+However, once the government made Bruno and DeMatteis unavailable to the defense by refusing to immunize them at trial, the grand jury transcript should have been admitted as prior testimony of an unavailable declarant under rule 804(b)(1).
+At that point, the government would have been faced with another choice: it could have then immunized the witnesses and called them to testify about their grand jury testimony.
+Had it done so, Fed.R.Evid.
+806 would have permitted the government to cross-examine these witnesses even though it would have been the government who had called them.
+Or, it could have chosen not to immunize the witnesses, and thereby waived its right to any further live examination.
+Had it chosen this course, rule 806 still would have permitted impeachment of Bruno and DeMatteis as hearsay declarants, as if they were actually testifying, and the rule exempts the government from the usual condition that a witness's prior inconsistent statement may not be used without first confronting the witness with the statement.
+In other words, after the grand jury testimony of Bruno and DeMatteis was admitted, the government would have a full and fair opportunity to discredit that testimony.
+In short, the district court erred in excluding the exculpatory grand jury testimony of Bruno and DeMatteis.
+That testimony was former testimony given by a declarant unavailable to the defendants, and the government's argument that it lacked the opportunity and similar motive to develop the testimony in front of the grand jury is irrelevant, because the declarants were not similarly unavailable to the government at trial.
+3.
+The scope of the error The error in excluding the grand jury testimony would be reversible error, however, only if the evidence is "material"; that is, "if there is a reasonable probability that, had the evidence been [admitted], the result of the proceeding would have been different.
+A 'reasonable probability' is a probability sufficient to undermine confidence in the outcome."
+United States v. Bagley , 473 U.S. 667, 682 , 105 S.Ct. 3375, 3383 , 87 L.Ed.2d 481 (1985) (opinion of Blackmun, J.); see also United States v. Underwood , 932 F.2d 1049, 1052 (2d Cir.1991).
+After reviewing the grand jury minutes, which were transmitted to us under seal, our confidence in the outcome is sufficiently undermined to require reversal of the convictions based on the Construction Case. Pasquale Bruno and Frederick DeMatteis were both principal players in Cedar Park, one of the largest contractors in the metropolitan New York City concrete industry.
+Arguably, without their participation there could be no "club" of concrete contractors.
+Very generally stated, their grand jury testimony denied any awareness of, let alone participation in, such a "club".
+If this testimony had been believed, it is reasonably probable that the jury would have concluded either that no such "club" existed, or at the very least that there was reasonable doubt as to its existence.
+Without the "club", the Construction Case simply dissolves.
+Indeed, the central importance of the "club's" existence is probably why the government felt obligated to identify Bruno and DeMatteis as sources of exculpatory testimony under Brady v. Maryland .
+Excluding their grand jury testimony therefore requires, at the very least, reversal of the Construction Case convictions.
+But we cannot stop there.
+As discussed at the beginning of this opinion, the Construction Case formed the core of the RICO charges--we analogized the remaining counts and predicate acts to "barnacles" on the ship that was the Construction Case. Without a ship, however, barnacles have nothing to cling to.
+Because such a huge portion of this case must be reversed on this single evidentiary error, and because the spillover taint undermines the convictions on the lesser counts as well, we reverse the convictions of all eight appealing defendants in toto .
+The Food Case--the largest portion of the indictment aside from the Construction Case--was not directly affected by the exclusion of the grand jury testimony.
+However, given that the Food Case involved only Salerno (and on one count, Ianniello, whose convictions we would reverse on other grounds set forth below), we would be less than honest if we said that there was not a "reasonable probability" that the erroneously-achieved Construction Case verdicts had tainted these verdicts as well.
+The likelihood of prejudicial taint, from the numerous erroneous verdicts to the remaining few, is simply too great for us to ignore.
+"The dangers of transference of guilt from one to another across the line separating conspiracies, subconsciously or otherwise, are so great that no one really can say prejudice to substantial right has not taken place."
+Kotteakos , 328 U.S. at 774 , 66 S.Ct. at 1252 .
+B. Ianniello's Bias Defense During the government's case-in-chief, the only evidence presented against Matthew Ianniello was tape-recorded evidence.
+All of this evidence was gathered by agents of the Federal Bureau of Investigation, who--pursuant to their obligation to "minimize" the conversations they were taping--switched the tape recorder on and off, selectively recording Ianniello's conversations.
+From these tape recordings, the FBI agents prepared transcripts, which were ultimately submitted to the jury.
+Ianniello prepared a similar set of transcripts from the tapes, but they differed from the government's versions in numerous instances.
+Based on these differences as well as on the agents' opportunity to select what they recorded, one of Ianniello's defenses was that the FBI agents were biased against Ianniello, and deliberately selected their recordings so as to reflect unfavorably on him.
+A major part of the defense was that the agents' bias was established by their mistranscribing of Ianniello's conversations.
+During cross-examination of the FBI agents, counsel for Ianniello attempted to examine the agents on the subject of their alleged bias against him, and particularly on the instances of mistranscription.
+At numerous points in the record, Judge Lowe made it clear that such inquiries into the intent and motivation of the agents in preparing the tapes and transcripts would have to wait until Ianniello's own case. At one point, she said: At the same time, Judge Lowe recognized the propriety of Ianniello's bias defense, as this colloquy demonstrates: However, when Ianniello's counsel, Jay Goldberg, attempted to recall the FBI agents during his side of the case, he was met with resistance from both the government and Judge Lowe: We are acutely aware that an abuse of discretion standard governs our review of trial court decisions to limit cross-examination.
+Delaware v. Van Arsdall , 475 U.S. 673, 679 , 106 S.Ct. 1431, 1435 , 89 L.Ed.2d 674 (1986); United States v. Maldonado-Rivera , 922 F.2d 934, 956 (2d Cir.1990); Harper v. Kelly , 916 F.2d 54, 57 (2d Cir.1990), cert. denied , U.S. , 111 S.Ct. 1403 , 113 L.Ed.2d 459 (1991).
+We are similarly aware, as the government reminds us, that a defendant does not have an absolute right to examine a government witness to elicit evidence of bias.
+In United States v. Blackwood , 456 F.2d 526 (2d Cir.), cert. denied , 409 U.S. 863 , 93 S.Ct. 154 , 34 L.Ed.2d 110 (1972), cited by the government, we held that the district court's refusal to recall a government witness during a defendant's case was not an abuse of discretion where the defendant failed to show "any valid reason for his failure to use the material then in his possession during his earlier cross-examination of that witness."
+Id. at 529-30 .
+This case is completely unlike Blackwood , though, and for obvious reasons.
+Judge Lowe clearly, explicitly, and repeatedly instructed counsel for Ianniello that questioning the agents about bias and illicit motive would have to wait for the defense case.
+But then, when the time for his defense case arrived, she again denied him the opportunity based on the prosecutor's contention that he "could well have done that" on his earlier cross-examination of the agents.
+We see no way that Judge Lowe's about-face can be justified.
+This was not a harmless error.
+By instructing Ianniello to wait to make the bias inquiry, and then refusing to allow it, the district court effectively prevented Ianniello from presenting a defense.
+This was an error of constitutional magnitude.
+The Supreme Court has long held that criminal defendants have, at a minimum, "the right to put before a jury evidence that might influence the determination of guilt."
+Pennsylvania v. Ritchie , 480 U.S. 39, 56 , 107 S.Ct. 989, 1000 , 94 L.Ed.2d 40 (1987).
+See also Chambers v. Mississippi , 410 U.S. 284 , 93 S.Ct. 1038 , 35 L.Ed.2d 297 (1973) (Mississippi common law rule forbidding impeachment of one's own witness deprived defendant of his right to defend against state's charges).
+"[A] trial court must allow some cross-examination of a witness to show bias."
+United States v. Abel , 469 U.S. 45, 50 , 105 S.Ct. 465, 468 , 83 L.Ed.2d 450 (1984) (citing Alford v. United States , 282 U.S. 687 , 51 S.Ct. 218 , 75 L.Ed. 624 (1931)); see also Olden v. Kentucky , 488 U.S. 227, 231-32 , 109 S.Ct. 480, 482-83 , 102 L.Ed.2d 513 (1988) (per curiam); Delaware v. Van Arsdall , 475 U.S. at 677, 679 , 106 S.Ct. 1431, 1435 , 89 L.Ed.2d 674 .
+Judge Lowe's inconsistent and unexplainable rulings deprived Ianniello of his right to present a defense, and constituted reversible error.
+C. The Government's Inconsistent Positions Nicholas Auletta contends that the district court abused its discretion by precluding him from establishing that the government had prosecuted the commission case under the theory that Auletta--like many other contractors--was a victim of extortion by the members of the commission, a theory that was inconsistent with the government's position in this case.
+He argues that he should have been able to introduce the indictment, as well as the government's opening and closing statements from the commission case as admissions of a party-opponent under Fed.R.Evid.
+801(d)(2).
+The government argues that the exclusion of this evidence was well within Judge Lowe's discretion, since being a victim of extortion is not inconsistent with fraudulent bid-rigging, the charge against Auletta in this case. Since we reverse the convictions of all defendants on other grounds, it is not necessary to reach this issue in order to decide this appeal.
+Nevertheless, since a retrial is likely, we offer some guidance on this subject.
+An indictment is not admissible as an admission of a party-opponent, since it is "the charge of a grand jury, and a grand jury is neither an officer nor an agent of the United States, but a part of the court."
+Falter v. United States , 23 F.2d 420, 425 (2d Cir.) (L. Hand, J.), cert. denied , 277 U.S. 590 , 48 S.Ct. 528 , 72 L.Ed. 1003 (1928).
+See also United States v. GAF Corp. , 928 F.2d 1253, 1261 (2d Cir.1991) (quoting Falter ).
+However, the jury arguments are another story.
+In United States v. McKeon , 738 F.2d 26 (2d Cir.1984), we refused to adopt a per se prohibition on the use of prior opening statements in criminal trials.
+There, in language particularly appropriate to this case, we said: Id. at 31 .
+Recognizing that serious collateral consequences could result from the unbridled use of such statements, we there circumscribed the evidentiary use of prior jury arguments.
+First, "the district court must be satisfied that the prior argument involves an assertion of fact inconsistent with similar assertions in a subsequent trial."
+Id. at 33 .
+Second, the court must determine "that the statements of counsel were such as to be the equivalent of testimonial statements" made by the client.
+Id. Last, the district court must determine by a preponderance of the evidence that the inference that the proponent of the statements wishes to draw "is a fair one and that an innocent explanation for the inconsistency does not exist."
+Id. The government seeks to explain the seeming inconsistency by reference to our decision in the commission case, United States v. Salerno , 868 F.2d 524 (2d Cir.), cert. denied , U.S. , 110 S.Ct. 56 , 107 L.Ed.2d 24 (1989).
+The commission case was different from this case (the "club case"), according to the government's brief, in the following ways: In this case, Auletta was prosecuted for--and convicted of--violating the mail fraud statute, 18 U.S.C. 1341.
+To convict Auletta of mail fraud, the government had to show, inter alia , that the mailings were done "for the purpose of" rigging bids.
+Auletta attempted to introduce the government's opening and closing statements from the commission case in order to counter the government's theory that the acts of mailing were done by him with the purpose of executing a scheme to defraud.
+We believe, in light of the specific intent requirement of the mail fraud statute, the district court abused its discretion in refusing to admit evidence that might have disproved that Auletta had the purpose of rigging bids in mind when he deposited the bids in the mail.
+Had the jury viewed Auletta the way the government did in the commission case, they might have concluded that his purpose was other than bid-rigging when he deposited the bids in the mail.
+These excerpts from the government's closing argument in the commission case are illustrative: Apparently, the government has taken the same evidentiary clay that they used in the commission case and, for purposes of this trial, resculpted Auletta from a "puppet on a string" to a bid-rigger.
+The government was free to choose, for tactical or other reasons, not to join Auletta in the commission case, and to postpone his prosecution until they brought the club case. Even so, United States v. GAF Corp. , 928 F.2d at 1260 .
+In summary, this is a telling example of one of the problems the government creates by framing such huge indictments.
+A prosecution of this magnitude is necessarily generalized and even vague in some respects, and the "differences" between the commission case and the club case illustrate just how malleable such a prosecution can become.
+Perhaps Auletta was a culpable bid-rigger; perhaps he was a puppet on a string.
+The government, at different times, has urged both--and the jury was entitled to know that, because the jury, and not the government, must ultimately decide which he was.
+D. The Alleged Jury Door Incident On a previous appeal of this case heard by another panel of this court, very serious allegations of misconduct by the trial judge and a court officer were made.
+United States v. Ianniello , 866 F.2d 540 (2d Cir.1989), vacating and remanding United States v. Salerno , 698 F.Supp.
+1109 (S.D.N.Y.1988) (Lowe, J.).
+That panel remanded the matter to the district court for an inquiry to determine (1) whether the judge or the courtroom marshal made the alleged ex parte statements to the jury; (2) what each said, if anything; (3) the factual circumstances surrounding any such contacts; and (4) whether the jurors who heard the alleged statements communicated them to the other jurors.
+Ianniello , 866 F.2d at 544 .
+On remand, Chief Judge Brieant of the Southern District conducted the inquiry, and concluded that "there is no credible evidence that either Judge Lowe or Deputy Marshal Perrine interfered with the deliberations of the jurors or attempted in any way to influence or coerce the trial jury."
+Ianniello , 740 F.Supp.
+at 195 .
+On appeal, all defendants contend that the procedures followed on the remand were unfair and that the findings by Chief Judge Brieant were clearly erroneous.
+Again, since we reverse the convictions of all appealing defendants on other grounds, it is unnecessary to decide these issues in order to resolve this case.
+We are left, however, with a nagging sense of frustration at Judge Lowe's certification in affidavit form that she does not recall having appeared at the jury door or ever telling the jury to acquit or convict.
+Had such conduct actually occurred we would, of course, uniformly reverse.
+We are left, however, with Chief Judge Brieant's finding in the matter, which is not clearly erroneous.
+We do have some question as to whether the district court's finding that the deputy marshal was "lacking any motive to lie", see 740 F.Supp.
+at 182 , was clearly erroneous, for in the very next paragraph of his opinion, Chief Judge Brieant points out that "[a] Deputy Marshal who violates his oath while having custody of jurors risks severe punishment, including discharge from his employment."
+Id. With his job at stake, any deputy marshal charged with making improper comments about the case to a deliberating juror would not be "lacking any motive to lie".
+Nevertheless, because we reverse on other grounds, we need not make these determinations.
+Because such conduct would be so far beyond the bounds of permissible behavior by anyone connected with the courts, we do not expect that the issue will arise ever again.
+IV.
+CONCLUSION The convictions of Anthony Salerno, Vincent DiNapoli, Louis DiNapoli, Nicholas Auletta, Edward Halloran, Alvin O. Chattin, Aniello Migliore, and Matthew Ianniello, are reversed, and the case is remanded for further proceedings.

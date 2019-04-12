@@ -1,0 +1,307 @@
+ GEE , Circuit Judge: This appeal presents a novel issue: whether the dismissal on forum non conveniens grounds of a maritime action by a federal court precludes litigation of the same claims in a state court located in the same city.
+We conclude that the forum non conveniens determination in federal court is binding in a subsequent action between the same parties in the nearby state court.
+A. Facts and Prior Proceedings Appellant Choo's husband Leong Chang was a shipwright.
+In 1977, he was killed in an accident while helping to repair a vessel docked in Singapore.
+Madam Choo sued the appellees, who are the owner and the operator of the vessel, in the Houston federal court for damages under the Jones Act, DOSHA, general maritime law, and the Texas wrongful death statute.
+The district court granted summary judgment on the merits of the Jones Act, DOSHA, and general maritime law claims, but granted the appellees only a conditional dismissal of the remaining claims because Houston was an inconvenient forum.
+1 Madam Choo failed to appeal, and the denial of her subsequent Rule 60(b) motion was affirmed in Chick Kam Choo v. Exxon Corp. , 699 F.2d 693 (5th Cir.) ( "Choo I" ), cert. denied , 464 U.S. 826 , 104 S.Ct. 98 , 78 L.Ed.2d 103 (1983).
+Madam Choo brought the same claims in a Texas state court in Houston.
+2 Exxon removed the case on diversity grounds to the federal district court, which dismissed the case as res judicata and sanctioned Choo's lawyers.
+On appeal, our Court reversed the removal, holding that there was not complete diversity between the parties.
+Chick Kam Choo v. Exxon Corp. , 764 F.2d 1148 (5th Cir.1985) ( "Choo II" ).
+The sanctions were dissolved and the case returned to state court.
+Exxon then brought this independent action seeking to enjoin the state court proceeding as an interference with the prior judgment of the federal court.
+The district court granted the injunction and again sanctioned Choo's attorneys.
+Choo appeals.
+B. Jurisdiction and the Anti-Injunction Act Madam Choo concedes on brief that jurisdiction is proper in this case if the district court was properly enjoining the state litigation as res judicata: 28 U.S.C. 2283 See Southwest Airlines [v. Texas Int'l Airlines 546 F.2d 84 cert. denied 434 U.S. 832 98 S.Ct. 117 54 L.Ed.2d 93 properly Appellant's brief at 10 (emphasis in original).
+Therefore the only real issue in this case is whether the district court's dismissal of the first action bound all subsequent proceedings in Houston courts.
+As we understand the presentation of Madam Choo's lawyers, she advances three intertwined contentions to show that the Texas court is not bound.
+The first is that the federal district court's original conditional dismissal of her Texas wrongful death claim was a nullity because the court had dismissed all federal claims and therefore lacked pendent jurisdiction over the Texas claim.
+The second is that a Texas state court may properly redetermine the identical forum non conveniens issue: whether Houston is a convenient forum for trial of this case from Singapore.
+The third is that Texas law does not recognize the doctrine of forum non conveniens in actions for personal injury or death and hence that the federal court's application of that doctrine is irrelevant to the state court proceeding.
+These arguments are not explicitly made in the alternative, but we will consider them in that fashion because they are logically disjoined.
+C. The Current Status of the Texas Claims Madam Choo contends that the district court was without power to dismiss her state-law claims.
+She does not dispute that the district court intended to dismiss the Texas claims on forum non conveniens grounds.
+In fact, the magistrate's recommendation in the initial round of litigation in the federal court explicitly included the Texas state claims in the recommendation for conditional forum non conveniens dismissal.
+3 But because the district court dismissed all her claims under substantive federal law, she argues that the court thereby deprived itself of power to adjudicate her pendent claims, and its attempt to do so was a nullity.
+The judgment of the district court sounds inconsistent in this respect.
+It first dismissed all federal claims, including those under "the general maritime laws of the United States," on the merits.
+Then, it granted a motion for conditional forum non conveniens dismissal without specifying what claims were being dismissed on that ground. 4 As we have noted, the Texas claims were no doubt meant to be included in this conditional dismissal, but the court did not state which, if any, federal claims were conditionally dismissed.
+A sufficient but incomplete response to this argument is that even if no federal admiralty claim remained in the case, the district court still retained pendent jurisdiction over the state claims.
+Dismissal of federal claims on the merits does not deprive a federal court of jurisdiction over state claims.
+See United Mine Workers v. Gibbs , 383 U.S. 715, 725 , 86 S.Ct. 1130, 1138 , 16 L.Ed.2d 218 (1966).
+Furthermore, even supposing the district court to have abused its discretion in dismissing the pendent state claim as forum non conveniens , that ruling was not appealed and thus, right or wrong in the abstract, is binding on the parties as a practical matter.
+Courts are no longer sympathetic to the argument that judicial blunders void the jurisdiction or nullify the power of a court.
+See Archie v. Christian , 808 F.2d 1132 (5th Cir.1987) (en banc) (lack of consent to a jury trial before a federal magistrate as required by statute does not undermine the district court's jurisdiction or nullify the judgment so as to warrant sua sponte reversal on appeal).
+But we must reject for more fundamental reasons the contention that the district court was without jurisdiction to dispose of the state claims.
+The federal court sitting in admiralty is a court of plenary jurisdiction.
+Such a court is not deprived of jurisdiction by reason of the fact that neither federal statutory law nor general maritime law provides the substantive law to resolve the matter before it.
+The Lauritzen Romero Rhoditis 5 doctrine applied by the district court is a maritime choice of law doctrine.
+When an admiralty court determines that foreign law applies, that is simply one factor to be considered in forum non conveniens analysis.
+It is axiomatic that only a court with jurisdiction over the case can dismiss it as filed in a forum non conveniens .
+In this case, the district court granted summary judgment on the claim that the substantive general maritime law of the United States governed the action; but it implicitly acknowledged that the plaintiffs--survivors of a ship repairman killed on an operational vessel in navigable waters--have admiralty tort claims.
+See Kelly v. Smith , 485 F.2d 520, 523-26 (5th Cir.1973) (setting out test for admiralty jurisdiction), cert. denied sub nom.
+Chicot Land Co. v. Kelly , 416 U.S. 969 , 94 S.Ct. 1991 , 40 L.Ed.2d 558 (1974); cf. Cormier v. Oceanic Contractors, Inc. , 696 F.2d 1112, 1113 (5th Cir.) (welder injured while working aboard a barge moored for loading in Dubai, United Arab Emirates, is a Sieracki seaman 6 entitled to bring an unseaworthiness claim under the general maritime law), cert. denied , 464 U.S. 821 , 104 S.Ct. 85 , 78 L.Ed.2d 94 (1983).
+The court simply declined to exercise its undoubted admiralty jurisdiction over claims by Singapore plaintiffs on an alleged tort in Singapore to which the substantive law of Singapore should be applied.
+Therefore, the conditional dismissal included maritime tort claims and the federal court necessarily had jurisdiction to dispose of pendent state claims.
+We have established that Madam Choo's claims under Texas law were conditionally dismissed as forum non conveniens in the first round of litigation by a court with power to do so.
+We now squarely face Choo's alternative argument: A Texas state court may nevertheless redetermine whether forum non conveniens applies to a case previously dismissed on that ground in a federal court a few blocks away.
+This poses issues both important and novel, to which we now turn.
+D. The Effect of the Forum Non Conveniens Dismissal Federal courts have permitted relitigation of the forum non conveniens issue in a different federal forum when the plaintiff has demonstrated different contacts between the new forum and the underlying dispute.
+In Mizokami Brothers of Arizona v. Mobay Chemical Corp. , 660 F.2d 712, 716 (6th Cir.1981), an Arizona district court had dismissed a dispute between international parties on forum non conveniens grounds.
+The Sixth Circuit held that the plaintiff could relitigate the forum non conveniens issue in a Missouri district court.
+660 F.2d at 716 .
+The Mizokami court distinguished Pastewka v. Texaco, Inc. , 565 F.2d 851 (3d Cir.1977).
+In Pastewka , the Third Circuit held that a forum non conveniens determination in a New York federal district court was res judicata as to a Delaware federal district court when the underlying dispute involved a maritime collision twelve miles off the coast of England: 28 U.S.C. 1332(c) 565 F.2d at 853 .
+Madam Choo's presentation to us does not point to any "underlying facts," Mizokami , 660 F.2d at 716 , or "objective fact," Pastewka , 565 F.2d at 853 , that make a Texas court in Houston a more convenient forum for this litigation than a United States District Court in Houston.
+We therefore contemplate a more extreme situation than that dealt with in Pastewka : there the localities dealt with were England (site of accident), New York (forum first found inconvenient), and Delaware (second forum, precluded by first determination).
+Here the corresponding ones are: Singapore, Houston (federal court), and Houston (state court).
+There can be no doubt that there is but one issue, an issue that has already once been decided by the federal district court.
+While that decision was probably correct, what signifies is that Choo did not appeal from it so its propriety is not even before us.
+The only question before us is whether the forum non conveniens issue itself is the same in Houston federal and state trial courts.
+Madam Choo has alleged no facts relevant to forum non conveniens that could lead us to conclude that a state court is a more convenient forum.
+There is, to be sure, little authority on the point.
+Other than Mizokami and Pastewka , discussed above, Professor Wright cites only Domingo v. States Marine Lines , 340 F.Supp.
+811 (S.D.N.Y.1972), and Anastasiadis v. Mecom , 265 F.Supp.
+959 (S.D.Tex.1966).
+Domingo is arguably in Madam Choo's favor; we discuss it below.
+In Anastasiadis , our brother Ingraham, then on the district bench, dismissed an attempted in personam action against the beneficial owner of a vessel on grounds of direct estoppel because a former action in rem against the vessel had been dismissed on a finding that the courts of Greece were its proper forum.
+Professor Wright concludes: forum non conveniens but issue preclusion is appropriate if the issue actually remains the same 18 C. Wright, A. Miller & E. Cooper, Federal Practice and Procedure: Jurisdiction 4436, at 346 (1981) (emphasis added; footnotes omitted).
+Here the issue does remain the same: a state court in Houston is as convenient or inconvenient a forum for trial of a case from Singapore as a federal court in Houston.
+The species of res judicata with which we deal today is known as direct estoppel.
+Judge Gibbons, writing for the Third Circuit in Pastewka , states the doctrine clearly: res judicata res judicata Pastewka , 565 F.2d at 853 .
+7 In response to this sparse but persuasive authority, Madam Choo's attorneys cite only Parsons v. Chesapeake & Ohio Railway Co. , 375 U.S. 71 , 84 S.Ct. 185 , 11 L.Ed.2d 137 (1963) (per curiam).
+Parsons held that a state court forum non conveniens dismissal is not res judicata in a federal court applying 28 U.S.C. 1404(a) , the statutory change-of-venue analogue of forum non conveniens .
+We agree with Judge Gibbons that Parsons is not inconsistent with the direct estoppel by judgment rule.
+Pastewka , 565 F.2d at 854 .
+First, Parsons points out various considerations material to a state court's forum non conveniens analysis that will almost always differ from those informing a federal court's 1404(a) analysis.
+For example, the Illinois state court had dismissed the action after finding that the Michigan town where the plaintiff's injury allegedly occurred was the proper forum.
+The Supreme Court pointed out that there was no federal court in that town; the nearest was 60 miles away.
+That alone might be a materially different "objective fact" under the standard we announce today.
+Second, the Supreme Court has recently affirmed explicitly what is implicit in Parsons : Section 1404(a) is not a codification of the common law doctrine of forum non conveniens .
+Although forum non conveniens analysis is similar, the federal district court has more discretion under the statute than under the common law doctrine.
+Piper Aircraft Co. v. Reyno , 454 U.S. 235, 253 , 102 S.Ct. 252, 264 , 70 L.Ed.2d 419 (1981).
+Therefore, issue preclusion is less appropriate in the Parsons context.
+Our research has uncovered one case that is superficially favorable to Madam Choo.
+In Domingo v. States Marine Lines , 340 F.Supp.
+811 (S.D.N.Y.1972), the court dismissed an action by brought against an United States shipowner by Phillipine citizens.
+The U.S. ship had collided with and sunk a Phillipine ship in Manila harbor.
+Many of the plaintiffs had filed the same suit in Delaware and in an earlier suit in the New York state courts.
+The New York state courts had dismissed the suit as forum non conveniens , but the Delaware courts had denied a forum non conveniens motion to dismiss.
+The plaintiffs argued that (only) the Delaware decision was res judicata .
+The federal court disagreed: res judicata See Parsons v. Chesapeake & Ohio Ry. Co. 340 F.Supp.
+at 817 & n. 6 (part of citation omitted).
+The thrust of this passage is clearly contrary to the authority we have reviewed thus far.
+But we are comfortable distinguishing Domingo on several grounds.
+First, the district court spent a large part of its analysis expressing concern about its overcrowded docket.
+340 F.Supp.
+at 816 .
+This is the kind of "objective fact" that can undermine an assertion that a prior determination of forum non conveniens is res judicata in a new forum.
+Madam Choo, for example, has not alleged differing docket conditions in the federal and state courts in Houston.
+Second, the court was hardly presented with a compelling case for direct estoppel: the Delaware courts had decided in favor of the plaintiffs and the New York courts had decided in favor of the defendant on the precise issue presented to the federal court.
+Finally, the federal district court was sitting in admiralty.
+As we elaborate below, the special requirement of federal supremacy in matters maritime may justify the district court's refusal to follow decisions made under state notions of forum non conveniens .
+We conclude that once a court of competent jurisdiction has squarely passed on an issue fairly mooted between the same parties, on the merits of the cause or otherwise, that issue may not be relitigated.
+In the case of forum non conveniens , the plaintiff in the new forum must do more than ask for a rebalancing of forum non conveniens considerations.
+He must show objective facts relevant to the issue that materially alter the considerations underlying the previous resolution.
+Here, in the ordinary case, our inquiry would be complete.
+Texas law presents a further peculiarity, however, one that drives us to consider larger matters indeed.
+E. The Texas "Open-Forum" Law Faced with the above, Madam Choo's counsel responds somewhat as follows: "Supposing that the Texas forum is indeed an inconvenient one, and supposing further that the federal court's decision that it is inconvenient would ordinarily settle that matter for state court purposes as well, what prevents a state from throwing open its doors so as to become courthouse to the world?
+from hearing all cases from anywhere, regardless of how convenient or inconvenient to court, witnesses, or parties?"
+"And in fact," he continues, "that is exactly what Texas has done for cases involving personal injury and wrongful death."
+The contention is not fanciful: Since early in this century, Texas has maintained a statute in more or less the form of the present Vernon's Civil Practice and Remedies Code 71.031 : Tex.Civ.Prac.
+& Rem.Code 71.031 (Vernon 1986).
+No one can say whether Texas courts will place upon this statute the construction for which Madam Choo contends: that Texas has constituted itself the world's forum of final resort, where suit for personal injury or death may always be filed if nowhere else.
+8 The Texas Supreme Court has, however, as recently as December 1984 reaffirmed its longstanding view that, although the question is an open one, this may in fact have been the Texas Legislature's intent.
+The opinion to which we refer is Couch v. Chevron International Co. , 682 S.W.2d 534 (Tex.1984); one that is the more striking by reason of its procedural setting, as we explain in the margin.
+9 There the Texas Court declined review of a judgment for defendant in a Jones Act case strikingly similar to this, one brought to Texas from the offshore oil fields of the North Sea on behalf of Scottish plaintiffs by one of counsel in today's case. After losing a motion to dismiss for forum non conveniens in the trial court, the plaintiffs had moved for a new trial on the ground that they were also asserting a claim under Tex.Rev.Civ.Stat.Ann.
+art.
+4678 (Vernon Supp.1984), the preceding codification of 71.031 quoted above.
+The trial court denied the motion on the theory that the plaintiffs had waived by delay the right to invoke article 4678 .
+The Texas court of appeals affirmed on the ground that forum non conveniens dismissal was appropriate despite the invocation of article 4678 .
+Couch v. Chevron International Oil Co. , 672 S.W.2d 16 (Tex.App.--Houston [14th Dist.] 1984).
+The court of appeals reasoned that, because this was a Jones Act case, federal maritime law applied and, assuming them to be inconsistent, the federal forum non conveniens doctrine preempted the statute.
+The Supreme Court affirmed the judgment.
+Lest there be any doubt about its reasons for doing so, however, it was at pains to explain that waiver, not forum non conveniens , was the basis: forum non conveniens 672 S.W.2d 16 forum non conveniens Id. at 18 forum non conveniens forum non conveniens Flaiz v. Moore 359 S.W.2d 872, 876 Couch , 682 S.W.2d at 535 .
+If Couch left any doubt that the Texas Supreme Court holds strong views on the technically "open question" of the applicability of forum non conveniens to an action under 71.031 , that doubt was all but laid to rest the following year.
+In McNutt v. Teledyne Industries, Inc. , 693 S.W.2d 666 (Tex.App.--Dallas 1985), another court of appeals, pointing to the phrase "may be enforced" in the statute, ruled that Texas courts have discretion to allow or not to allow an action under 71.031 , and that the trial court had not abused its discretion in granting a forum non conveniens dismissal.
+The Texas Supreme Court promptly granted a writ of error, 29 Tex.Sup.Ct.J.
+66 (1985), vacating the judgment as moot in December 1985 after the parties settled.
+The actions of the Texas Court in Couch and McNutt make clear the substantial likelihood that it will decline to acknowledge the doctrine of forum non conveniens even in a maritime case governed by federal law.
+Indeed, Couch was such a case. Madam Choo contends that the existence of 71.031 precludes forum non conveniens analysis in a personal injury or death case filed in a Texas state court; and, given the broad hints thus far dropped by the Texas Supreme Court, it is hard to disagree that this may be its view of the statute.
+From this premise, she concludes that a forum non conveniens dismissal of such an action by a federal court cannot be res judicata in a Texas state court because 71.031 creates a potentially dispositive legal issue that has not yet been fully and finally litigated between the parties.
+Again, as a general matter, we can find no fault with her logic: When a federal court and a Texas state court have concurrent and independent jurisdiction over a personal injury or death action, in the end 71.031 may well be construed by the Texas Supreme Court to preclude direct estoppel in the state courts by a forum non conveniens dismissal in the federal courts.
+But this is a maritime case; it does not involve independent actions in the state and federal courts.
+The state court's jurisdiction is derivative; and it is bound to apply the general maritime law of the United States--a jurisprudence of which federal courts are the custodians, as Texas courts are of Texas law.
+F. The Uniformity Doctrine and the Supremacy of Maritime Law Within its sphere of operation, the maritime law of the United States is supreme; and the states are without power to disrupt it: 28 U.S.C. 1333 in personam Offshore Logistics, Inc. v. Tallentire , U.S. , , 106 S.Ct. 2485, 2495 , 91 L.Ed.2d 174 (1986).
+The Supreme Court laid the foundation of this doctrine in a series of cases 70 years ago.
+See Southern Pacific Co. v. Jensen , 244 U.S. 205 , 37 S.Ct. 524 , 61 L.Ed. 1086 (1917); Chelentis v. Luckenbach S.S. Co. , 247 U.S. 372 , 38 S.Ct. 501 , 62 L.Ed. 1171 (1918); Knickerbocker Ice Co. v. Stewart , 253 U.S. 149 , 40 S.Ct. 438 , 64 L.Ed. 834 (1920).
+Although the broad pronouncements of those early cases have been often hedged and qualified, see, e.g. , Romero v. Int'l Terminal Operating Co. , 358 U.S. 354, 373-75 , 79 S.Ct. 468, 480-81 , 3 L.Ed.2d 368 (1959), their core meaning is indisputable.
+"If there is any sense at all in making maritime law a federal subject, then there must be some limit set to the power of the states to interfere in the field of its working."
+G. Gilmore & C. Black, The Law of Admiralty 1-17, at 48 (2d ed. 1975).
+Like other questions arising under the Supremacy Clause, questions of federal preemption in the maritime context admit of no simple answers.
+We must turn to precedent for assistance in determining when maritime law preempts inconsistent state laws.
+1.
+The Relation Between Maritime Law and State Law The preemption test in the maritime field is usually stated something like this: "Although state law may supplement maritime law where maritime law is silent, or where a local matter is at issue, state law may not be applied where it would conflict with maritime law."
+Coastal Iron Works, Inc. v. Petty Ray Geophysical , 783 F.2d 577, 582 (5th Cir.1986) (citations omitted).
+This test is not very helpful in today's case; the state law under scrutiny is plainly inconsistent with maritime law, and the question is whether the type or degree of inconsistency is objectionable.
+A better definition for present purposes appears in an earlier decision of our Court: J. Ray McDermott & Co. v. The Vessel Morning Star , 457 F.2d 815, 818 (5th Cir.) (en banc) (Ship Mortgage Act need not be supplemented by state law), cert. denied , 409 U.S. 948 , 93 S.Ct. 271 , 34 L.Ed.2d 218 (1972).
+This test contains several concrete ideas.
+First, state law can be used to "fill the gaps" of maritime law; the implication is that the state law provides detailed distinctions that are absent from and of little or no concern to maritime law.
+Second, state law is less likely to be used to supplement maritime legislation.
+The idea here is partly that Congress is supreme in matters maritime and partly that legislation is more likely than judge-made law to be complete and self-sufficient.
+Cf. Mobil Oil Corp. v. Higginbotham , 436 U.S. 618 , 98 S.Ct. 2010 , 56 L.Ed.2d 581 (1978) (DOSHA may not be supplemented by judge-made recovery rules).
+Consequently, any inconsistent state law is likely to conflict with statutory maritime law--to be inconsistent in the preemptive sense.
+Third, state law inconsistent with the "characteristic features" of the maritime law is preempted in an admiralty case. Finally, as in other areas of federal preemption, state law is preempted by maritime law if it affects international or interstate relations.
+With the aid of this definition and our own research in the cases, we have identified five factors--more accurately, five concepts or clusters of ideas--that inform maritime preemption analysis.
+The first and second factors cut toward the application of state law, the fourth and third toward preemption, and the fifth cuts in both directions indiscriminately.
+The first factor is that state law is not preempted when it contains a detailed scheme to fill a gap in maritime law.
+In Wilburn Boat Co. v. Fireman's Fund Insurance Co. , 348 U.S. 310 , 75 S.Ct. 368 , 99 L.Ed. 337 (1955), for example, the Supreme Court noted that there was no federal admiralty law to govern the application of terms and warranties in a marine insurance contract.
+The Court decided that the maritime court should apply state law instead of creating a uniform maritime law of insurance contracts.
+Although this decision has been severely criticized by commentators, see, e.g. , Gilmore & Black, 1-17, at 48-49, the Supreme Court reasonably believed that more uncertainty would result from the case-by-case creation from whole cloth of a federal maritime insurance law than from the application of a variety of already well-developed state laws.
+348 U.S. at 319 , 75 S.Ct. at 373 .
+The second factor is that state law is not preempted when the law regulates behavior in which the state has an especially strong interest.
+The venerable phrase "police power" is often used to express this overriding interest in self-regulation.
+See, e.g. , Askew v. American Waterways Operators , 411 U.S. 325 , 93 S.Ct. 1590 , 36 L.Ed.2d 280 (1972) (Florida oil spill regulations); Wilburn Boat Co. v. Fireman's Fund Insurance Co. , 348 U.S. at 316-19 , 75 S.Ct. at 371-73 (traditional and plenary state power to regulate all forms of insurance).
+The "maritime but local" idea is a corollary: the state interest, whatever its magnitude, is viewed as greater than any maritime concern.
+See, e.g., Grant-Smith-Porter Ship Co. v. Rohde , 257 U.S. 469 , 42 S.Ct. 157 , 66 L.Ed.2d 321 (1922) (carpenter injured while building ship on navigable waters cannot bring an action in admiralty but is restricted to state workman's compensation); cf. Kamani v. Port of Houston Authority , 702 F.2d 612, 614 (5th Cir.1983) (action by longshoreman working aboard ship; remanding question whether state or maritime statute of limitations should apply to maritime action brought against state under the Texas Tort Claims Act).
+The third factor is that maritime law preempts whenever a uniform rule will facilitate maritime commerce, or, conversely, when non-uniform regulation will work a material disadvantage to commercial actors.
+This notion is sometimes simply referred to as the need for uniformity, but uniformity is obviously not an end in itself or else state law would always be preempted.
+A corollary of this concept is the notion found in the J. Ray McDermott & Co. test of "characteristic features" or core principles of the maritime law. 457 F.2d at 818 .
+Applying state law inconsistent with "characteristic features" would defeat the reasonably settled expectations of maritime actors.
+The most striking example of the importance of uniformity is Moragne v. States Marine Lines , 398 U.S. 375 , 90 S.Ct. 1772 , 26 L.Ed.2d 339 (1970) (overruling one hundred-year-old precedent to create a uniform maritime action for wrongful death in territorial waters).
+10 Since uniformity is related to predictability and to reasonable legal expectations, it is of greatest importance when legal relations are not predictably related to a certain locale and its laws.
+The Moragne Court ridiculed the fluctuating rights and responsibilities of shipowners and crew under the Harrisburg Tungus 11 regime as a ship sailed blithely through waters covered by DOSHA, territorial waters of states that gave wrongful death remedies, and waters of states that did not.
+Compare this to the Wilburn Boat maritime insurance contract made in Texas, covering a boat on the inland waters of Texas, with an eventual suit on the contract in Texas state court, removed to federal.
+The fourth factor is that maritime law preempts state law when the state law impinges on international or interstate relations.
+This concept is so basic to federal maritime jurisdiction that we find only generalized statements and no disputes about it in the cases.
+But there are powerful analogies in other areas of preemption doctrine that reflect the sovereign power of the federal government to regulate foreign relations and relations between the states.
+For example, state regulation of both resident and nonresident aliens is frequently held preempted by federal law even when the state law is not inconsistent with any particular federal law.
+See, e.g. , Toll v. Moreno , 458 U.S. 1 , 102 S.Ct. 2977 , 73 L.Ed.2d 563 (1982) (state university may not charge resident aliens out-of-state tuition even though aliens are exempt from state taxation by federal law); Graham v. Richardson , 403 U.S. 365 , 91 S.Ct. 1848 , 29 L.Ed.2d 534 (1971) (state restrictions on welfare benefits available to resident aliens preempted by federal authority to regulate immigration).
+And this is so regardless of the fact that traditional areas of state regulation and powerful state interests are involved.
+See Zschernig v. Miller , 389 U.S. 429 , 88 S.Ct. 664 , 19 L.Ed.2d 683 (1968) (Oregon inheritance statute requiring state judicial inquiry into relation between nonresident aliens and their country of domicile is an invalid intrusion by the state into foreign affairs).
+Matters of import to foreign relations are inherently matters of uniquely federal competence.
+See Banco Nacional de Cuba v. Sabbatino , 376 U.S. 398, 425 , 84 S.Ct. 923, 939 , 11 L.Ed.2d 804 (1964) (federal "act of state" doctrine applied in a diversity case; "ordering our relationships with other members of the international community must be treated exclusively as an aspect of federal law").
+The final factor, stated baldly, is that plaintiffs should win personal injury or death maritime tort claims.
+This concept points indiscriminately toward state or federal law depending on the case.
+It was one important technique used by the Supreme Court and lower courts during the 1950s and 1960s to keep admiralty law in line with the land-side revolution in tort law.
+See Gilmore & Black, 6-61, at 463-68.
+Instead of constantly liberalizing maritime law, the federal courts would allow state law to control if the result was favorable to the plaintiff.
+Presently, this thumb-on-the-scales concept is on the decline in maritime law. 12 The old revolution is now fixed as the new orthodoxy; and we have begun to doubt both the wisdom of further change and our institutional competency to undertake it.
+See State of Louisiana ex rel.
+Guste v. M/V TESTBANK , 752 F.2d 1019, 1032-34 (5th Cir.1985) (en banc) (Gee, J., concurring), cert. denied , U.S. , 106 S.Ct. 3271 , 91 L.Ed.2d 562 (1986).
+We do not consider it in our analysis below.
+2.
+Forum Non Conveniens and State Law The next question is whether under these standards 71.031 , the Texas "open-forum" law, is preempted by maritime forum non conveniens doctrine in a maritime case brought by a non-resident alien.
+But first we face one twist.
+The traditional view of concurrent state jurisdiction over maritime matters under the "saving to suitors" clause is that states are free to apply their own common law "remedies" as long as substantive maritime law governs.
+See Chelentis , 247 U.S. at 382 , 38 S.Ct. at 504 ("The distinction between rights and remedies is fundamental.
+"); cf. Offshore Logistics , U.S. at , 106 S.Ct. at 2495 (states' "substantive remedies" must conform to maritime standards).
+It has been universally and correctly assumed that state procedural rules govern actions in state courts under the "saving to suitors" clause--the "reverse Erie " metaphor captures this assumption perfectly.
+Some courts have held that forum non conveniens is "procedural" for Erie purposes.
+See, e.g. , Sibaja v. Dow Chemical Co. , 757 F.2d 1215 (11th Cir.1985), cert. denied , U.S. , 106 S.Ct. 347 , 88 L.Ed.2d 294 (1986).
+Therefore, if the "reverse Erie " doctrine is perfectly symmetrical, it follows that state courts are not obligated to apply federal forum non conveniens analysis in maritime cases.
+We reject this facile syllogism; drawing conclusions from metaphors is dangerous.
+The reason that state court procedures are not preempted by maritime law is that they almost never--before this case we might rashly have said "never"--conflict with it.
+When they do, however, it is clear that they must yield.
+Among several examples of this rule that might be cited is Garrett v. Moore-McCormack Co. , 317 U.S. 239 , 63 S.Ct. 246 , 87 L.Ed. 239 (1942).
+In that case an injured seaman, having first released his claim, later brought a Jones Act suit on it in the state courts of Pennsylvania.
+The state court, applying its rule that one who attacks the validity of a written release has the burden of proof--and a heavy one at that--gave judgment for the defendant despite a jury verdict favorable to the seaman.
+On resort to it, the Pennsylvania Supreme Court drew precisely the substance/procedure line, concluding that "the rule as to burden of proof on releases does not affect the substantive rights of the parties, but is merely procedural, and is therefore controlled by state law."
+317 U.S. at 242 , 63 S.Ct. at 249 .
+Speaking through Justice Black, a unanimous Supreme Court reversed and directed that the more lenient (to the seaman) federal procedural rule must be applied: that in establishing the validity of a seaman's release the burden of proof--and a heavy one at that--is on the person who relies on it.
+Because the Erie diversity doctrine and the "reverse Erie " maritime doctrine spring from distinct principles and policies, there is no reason to expect a perfect symmetry between them.
+In the Erie context, the substance/procedure dichotomy is simply shorthand for distinctions that must be drawn on the basis of policies underlying the doctrine. 13 The "reverse Erie " question is whether the inconsistent state law, whether deemed a matter of substance or procedure, conflicts with maritime law.
+Therefore, the question of the effect on 71.031 remains, and we must analyze it under the framework set out above.
+It is obvious from the factors which we have outlined that 71.031 loses on all counts.
+Federal forum non conveniens analysis must preempt 71.031 in a maritime suit by an alien in Texas courts.
+The first factor--using state law to fill gaps--is inapplicable at best.
+This factor actually cuts towards federal law because forum non conveniens is well-articulated federal doctrine while the meaning of 71.031 is not yet settled.
+The second factor--"police power" or "maritime but local" state interests--gives the state law little support in this context.
+While Texas has an undeniably powerful interest in defining the jurisdiction of its courts, its interest in the substance of claims by non-resident aliens arising from activities in foreign lands cannot be considered strong.
+By its terms, the statute applies only to a "wrongful act, neglect, or default causing the death or injury [when it] takes place in a foreign state or country ."
+71.031(a) (emphasis added).
+This conclusion is reinforced by the circumstance that the defendant in a maritime claim involving 71.031 need not reside in Texas.
+In the context of international maritime commerce, the defendants are just as likely to be aliens as are the plaintiffs.
+The third factor--uniformity and predictability of maritime law--points forcefully toward preemption.
+Forum non conveniens is a "characteristic feature" of maritime law.
+The doctrine has its roots in the maritime law, see generally Bickel, The Doctrine of Forum Non Conveniens as Applied in the Federal Courts in Matters of Admiralty , 35 Cornell L.Rev.
+12 (1949), and appeared in maritime cases in the federal courts shortly after their birth.
+See Mason v. The Ship Blaireau , 6 U.S. (2 Cranch) 240, 264 , 2 L.Ed. 266 (1804).
+14 When the Supreme Court first introduced forum non conveniens analysis into the mainstream of federal jurisprudence, the dissenters argued that the doctrine should be confined to the admiralty and equity courts from whence it came.
+See Gulf Oil Corp. v. Gilbert , 330 U.S. 501, 513-15 , 67 S.Ct. 839, 845-46 , 91 L.Ed. 1055 (1947) (Black, J., dissenting).
+As we elaborate below, the need for uniform application of the doctrine by all courts in the United States is particularly acute because of the transnational and international nature of the interests at stake in a forum non conveniens inquiry.
+Even standing alone, these theoretical considerations might lead us to conclude that any state law inconsistent with the doctrine should be preempted; but there are powerful practical reasons as well.
+If the Texas courts interpret 71.031 to require them to take jurisdiction over cases to which it applies, maritime actors throughout the world will be subject to suit in the state courts of Texas on claims arising around the world as long as they have sufficient contacts here for personal jurisdiction to be had.
+They will be available for suit even if they are aliens, the plaintiffs are aliens, and the transaction complained of by the plaintiff has no relation whatever either to Texas or to the United States.
+Furthermore, if such a 71.031 case can be removed to the district court, then federal forum non conveniens may be applied and the case dismissed.
+See, e.g. , Sibaja v. Dow Chemical Co. , 757 F.2d at 1219 .
+Thus crucial aspects of the outcome of the litigation will turn on the fortuities of diversity.
+To make matters worse, the holding of our Court in an earlier phase of this litigation means that actions between an alien plaintiff and an alien defendant in the courts of Texas will not be removable while those involving an alien plaintiff and a United States defendant undoubtedly will be removed and often dismissed for forum non conveniens.
+See Choo II , 764 F.2d at 1152 (no diversity jurisdiction in suit between aliens).
+If 71.031 is interpreted as Madam Choo urges, its general effect will be the random, unpredictable availability of Texas courts to foreign plaintiffs depending on the requirements of the statute and the contacts of the defendants with Texas.
+The non-removability of Jones Act claims is one more significant variable in this bizarre jurisdictional equation.
+Add in the ability of domestic defendants--but not alien defendants--to remove non-Jones Act cases to federal court and have the action dismissed, and the effect of 71.031 becomes positively irrational.
+We cannot tolerate this pointless intrusion on the basic uniformity of the maritime law.
+G. Federal Forum Non Conveniens: Balancing Private Interests and International Effects Finally, the fourth factor--plenary federal power over international relations--powerfully confirms our conclusion that federal forum non conveniens doctrine must apply to maritime cases in state courts.
+Federal law controls the international role of all courts in the United States.
+See Zschernig v. Miller , 389 U.S. 429, 436 , 88 S.Ct. 664, 668 , 19 L.Ed.2d 683 (1968) (state court inquiries into the internal affairs of foreign nations intrude on exclusive federal power over foreign affairs and international relations and are unconstitutional under the Supremacy Clause).
+In Banco Nacional de Cuba v. Sabbatino , 376 U.S. 398 , 84 S.Ct. 923 , 11 L.Ed.2d 804 (1964), for example, the Supreme Court went out of its way entirely to observe that the federal "act of state" doctrine must apply even though that case was brought into the federal courts in New York by diversity of citizenship and New York recognized an "act of state" doctrine all but identical to the federal one.
+The "act of state" doctrine, like the doctrine of forum non conveniens , is a prudential doctrine of judicial self-limitation in an international context.
+See R. Falk, The Role of Domestic Courts in the International Legal Order 9 (1964) (the "decision to defer [under the act of state doctrine] is a way of explaining that a domestic court is not a suitable forum within which to make the determination of validity.
+In this respect, the act of state doctrine resembles the doctrine of forum non conveniens .").
+The Foreign Sovereign Immunities Act is another example of the supremacy of federal law when international interests are implicated: it necessarily preempts inconsistent state laws because it must be applied in all U.S. courts, state and federal.
+See 28 U.S.C. 1602 et seq.
+Federal foreign policy interests do not disappear when purely private foreign parties come before U.S. courts.
+Even in the seemingly domestic setting of a third-party indemnification complaint in a products liability case, the Supreme Court has recently commanded the state courts to rethink their analysis of personal jurisdiction in light of the inherent foreign policy implications: United States v. First National City Bank 379 U.S. 378, 404 85 S.Ct. 528, 542 13 L.Ed.2d 365 Asahi Metal Industry Co. v. Superior Court of California, Solano City , U.S. , , 107 S.Ct. 1026, 1034-35 , 94 L.Ed.2d 92 (1987).
+In situation after situation, Congress and the Supreme Court have made the availability of courts in the United States to foreign plaintiffs and against foreign defendants exclusively a matter of federal law, and they have consistently mandated self-restraint in asserting jurisdiction over arguably foreign disputes.
+As we have noted, the doctrine of forum non conveniens arises from and has long been a part of the maritime law of this nation.
+This should not be surprising, considering that the inherently transnational nature of shipping creates international controversies; maritime actors, by the nature of their business, cannot avoid sufficient "minimum contacts" to subject themselves to the jurisdiction of many nations.
+These jurisdictional minima are not enough to protect maritime actors: Lauritzen v. Larsen , 345 U.S. 571, 581 , 73 S.Ct. 921, 927 , 97 L.Ed. 1254 (1953).
+By comparison, non-maritime commercial actors can do a huge volume of business in the United States without subjecting themselves to jurisdiction by simply avoiding direct territorial contacts.
+See Asahi Metal Industry Co. (assertion of jurisdiction over Japanese manufacturer of tire valves by California violates due process; despite large number of sales in California of tire tubes incorporating its valves, Japanese valve maker does not directly solicit business or make sales there).
+When foreign and domestic admiralty defendants are haled into court in the United States, our maritime law has long afforded them many protections, including the "defense of inconvenience," to avoid having to defend themselves in the United States against claims under U.S. law when a more optimal forum or more appropriate law is available.
+15 It is precisely one crucial prudential choice--the convenience of the forum and its fairness to the admiralty defendant in the international context--that the Texas statute appears to abrogate.
+The Supreme Court has fought a long maritime battle against the kind of parochial thinking embodied in the Texas "open-forum" law.
+In Lauritzen , for example, the Court gave a limiting reading to the all-inclusive language of the Jones Act because of considerations of comity and self-restraint.
+Lauritzen , 345 U.S. at 581-82 , 73 S.Ct. at 927-28 (footnotes omitted).
+All of this cautionary language in Lauritzen obviously applies with equal force in the forum non conveniens context.
+Twenty years later the Supreme Court was still chiding the lower courts about their tendency to accept admiralty jurisdiction over everything.
+Our court had refused to enforce a choice-of-forum clause in a contract between sophisticated international maritime businesses.
+The Court rebuked us: M/S BREMEN v. Zapata Off-Shore Co. , 407 U.S. 1, 9 , 92 S.Ct. 1907, 1912 , 32 L.Ed.2d 519 (1972).
+The Lauritzen and Zapata cases are two examples of a clear national policy of judicial self-restraint in the maritime field.
+Federal maritime law tries to implement a policy balanced between allowing aliens to sue in our courts and under our laws when appropriate while rejecting attempts to make the United States the forum and lawmaker for the world's maritime defendants.
+The Texas "open-forum" law, on the other hand, could make one of the united states an open world forum, and with that would follow distorting effects on international commerce and regulation.
+Ultimately 71.031 , if Madam Choo's interpretation is an accurate prediction of Texas law, could hardly fail to affect foreign relations, as the Texas courts entertain actions by aliens against aliens for occurrences on alien soil or waters in derogation of the judicial and administrative power of the domicilliary countries and the place of the wrong.
+The doctrine of forum non conveniens is the heart and soul of the federal policy of judicial self-restraint in the day-to-day workings of the maritime law.
+Texas cannot be allowed to thwart that policy in a maritime case brought to its courts.
+16 Not long ago, Congress amended the Jones Act to deny a cause of action to foreign workers injured while engaging in the offshore exploration or development of mineral or energy resources in foreign waters, unless the person bringing the action is able to establish that there is no other remedy available.
+See 46 U.S.C. 688(b) (as amended by Pub.L.
+No. 97-389 , 96 Stat. 1949 , 1955 , 503(a) (1982)).
+The legislative history makes it clear that Congress intended to codify judicial decisions dismissing claims under the Jones Act by foreign offshore workers under the doctrine of forum non conveniens.
+See Vaz Borralho v. Keydril Co. , 710 F.2d 207, 210-11 (5th Cir.1983).
+We assume that no one would dare argue that the Texas courts could refuse to dismiss a Jones Act claim barred by 688(b) under the authority of 71.031 .
+Why should the result be any different when the federal maritime law at issue is judge-made rather than statutory?
+H. Conclusion Today we must decide whether Texas may apply 71.031 in maritime cases brought in her courts.
+The district court's injunction of the state proceeding is proper if and only if the original federal court determination of the parties' rights and obligations is res judicata ; and the federal judgment is res judicata if and only if the Texas courts are not free to apply their "open-forum" law to actions that come within the maritime jurisdiction of the federal courts.
+Our concern, however, is broader than the narrow facts of this case. In Kassapas v. Akron Shipping Agency, Inc. , 485 So.2d 565 (La.Ct.App.
+5th Cir.), writ denied , 488 So.2d 203 (La.1986), a Louisiana Court of Appeal reversed a trial court's dismissal of a maritime case on the ground of forum non conveniens .
+The plaintiffs originally sued for wrongful death under the Jones Act and the general maritime law of the United States in the federal district court for the Southern District of New York.
+The district court noted that the plaintiffs and the plaintiffs' decedents were Greek, the owner of the vessel was a Liberian corporation with its principal place of business in Greece, the manager of the vessel was a Greek corporation, the charterer was a Panamanian corporation, and the deaths were alleged to have occurred in the port of Leningrad in the Soviet Union.
+The district court held that it was a forum non conveniens and conditionally dismissed the case. Kassapas v. Arkon Shipping Agency, Inc. , 578 F.Supp.
+400 (S.D.N.Y.
+), aff'd mem. 738 F.2d 418 (2d Cir.1984).
+17 After the dismissal by the federal district court, the plaintiffs found the vessel in Jefferson Parish, and brought the identical claims in the state courts of Louisiana.
+The trial court dismissed the action as forum non conveniens .
+The state Court of Appeal reversed, citing dubious federal authority for the proposition that forum non conveniens is "procedural," 18 and holding that the doctrine is not recognized in Louisiana law and could not be applied by the trial court.
+As we have shown, Kassapas was wrong.
+We are concerned that two major maritime states in this Circuit appear to be willing to disregard federal forum non conveniens doctrine in maritime cases brought to their courts.
+For all these reasons, we reject Madam Choo's argument that 71.031 overrides forum non conveniens analysis in this case and that the deferral of her claims to Singapore by the federal court is not res judicata in a Texas state court.
+Under the federal uniformity doctrine state courts must apply the forum non conveniens rule of the general maritime law in any case brought before them by citizens of foreign lands over which the federal courts would have admiralty jurisdiction.
+State law inconsistent with that doctrine cannot be applied in a maritime case.
+Accord Couch v. Chevron International Oil Co. , 672.
+S.W.2d 16 (Tex.App.--Houston [14th Dist.] 1984 writ ref'd, n.r.e.
+); but cf. Couch v. Chevron International Co. , 682 S.W.2d 534 (Tex.1984); contra Kassapas , 485 So.2d at 567 .
+Therefore, we affirm the district court's injunction of the state court proceeding as res judicata on the ground that Texas may not apply its "open-forum" law in a maritime case and there is no other new issue to be litigated.
+It is time for this litigation to come to an end in the United States and to return to Singapore, where it belongs.
+Because of the complexity of this case, the sanctions against Madam Choo's attorneys are DISSOLVED, but the issuance of the permanent injunction by the district court is AFFIRMED.

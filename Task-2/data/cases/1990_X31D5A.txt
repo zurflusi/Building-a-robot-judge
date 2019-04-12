@@ -1,0 +1,104 @@
+ POLITZ , Circuit Judge: Thomas and Sharon Freytag, Joe and Gladys Womble, Bert and Mildred Timm, and Kenneth and Candace McCoin (Taxpayers) appeal adverse deficiency determinations made against them by the Tax Court.
+The court disallowed the Taxpayers' deductions for losses allegedly incurred as the result of investments in a commodity straddle program on the grounds that the program was composed of sham transactions or, alternatively, that the Taxpayers did not enter into these transactions primarily for economic profit.
+Finding error of neither law nor fact, we affirm.
+Background The Taxpayers are four of approximately 3,000 taxpayers who have sought redetermination of deficiencies assessed against them for deducting losses allegedly realized from investments in straddles in forward contracts to buy and sell securities issued by the Government National Mortgage Association (GNMAs) and the Federal Home Loan Mortgage Corporation (FMACs).
+1 The straddle portfolios in which the Taxpayers invested were all part of a computer-generated investment program offered by First Western Government Securities (First Western), formed in 1978 by Sidney Samuels, an attorney and former Internal Revenue Service agent.
+2 We summarize the findings of the Tax Court, detailed in its exhaustive opinion, Freytag v. Commissioner , 89 T.C. 849 (1987), as follows: First Western identified prospective investors by using accountants, lawyers, and financial consultants it referred to as "finders."
+All First Western investors signed a customer agreement stating that First Western Investors informed First Western of their "tax preference," the amount of tax loss or long-term capital gain they wished to secure.
+First Western would respond by recommending portfolios of straddles based upon the requested tax-motivated action and the time remaining in the tax year.
+3 Because of the high risk involved, the forward contract market in GNMAs and FMACs is dominated by institutional investors.
+Individual contracts in excess of $1.8 million in size and six months in duration are rare.
+The portfolios offered by First Western, however, had delivery dates ranging from 14 to as many as 30 months; those purchased by the Taxpayers involved over $1.6 billion.
+In the typical scenario, investors would provide First Western with a "margin" deposit.
+Although a margin typically neither limits an investor's potential liability nor is linked to tax considerations, the "margins" paid by First Western's investors were a percentage of their desired tax loss and represented their total liability for trading losses.
+First Western assessed trading fees against the "margin" until a stated "fee cap" was reached, after which no fees were assessed.
+As either the buyer or seller, a requisite in every transaction with its investors, First Western unilaterally set all prices.
+The Tax Court found that the predicates underlying First Western's pricing algorithm ensured that all of its contract prices would move in tandem with the price of the GNMA 9½% coupon and in lockstep with each other.
+It is the norm that marketplace investors enter into forward contracts intending to take or make delivery of the underlying security on a specified date.
+The mere possibility of delivery links the forward market to the cash market in the underlying securities.
+Delivery never occurred in the First Western program; in fact, First Western's computer program contained no delivery provision.
+In lieu of delivery, and as a key element of its program, First Western closed out its investors' positions by cancellation or assignment, methods typically reserved for other kinds of situations.
+4 When the loss leg of an investor's straddle achieved the desired tax loss, First Western would cancel the contract to ensure the investor a tax loss for the year.
+5 Once the gain leg generated the desired amount of capital gain, First Western would assign the contract to one of three financial entities maintaining an account with it for this specific purpose.
+First Western closed out the contract with the assignee, credited the assignee's account with one percent of the proceeds, and credited the remaining 99 percent to the investor.
+No money changed hands.
+First Western successfully obtained tax losses for its investors remarkably close to their stated tax preferences.
+6 Unfortunately for the Taxpayers, however, the Commissioner marched to a different "tax preference" drummer.
+The Commissioner determined First Western's program to be a sham and denied the deduction of losses resulting from its transactions.
+Some 3,000 taxpayers petitioned the Tax Court for a redetermination.
+The Taxpayers were among ten test cases selected for a consolidated trial, which began in December 1984 before Judge Richard Wilbur.
+Judge Wilbur fell ill and Chief Judge Sterrett assigned the cases to a special trial judge for purposes of conducting the trial.
+Proceedings before the special trial judge were videotaped so Judge Wilbur could review testimony at home.
+Judge Wilbur took senior status and the chief judge advised the parties that unless they objected he intended to assign their cases to the special trial judge for preparation of a report in accordance with 26 U.S.C. 7443A .
+One corporate petitioner objected and its trial was severed.
+Those remaining agreed to the reassignment with the understanding that Judge Wilbur or the chief judge would issue the opinion of the Tax Court, as required by 7443A(c) .
+The special trial judge filed a proposed opinion finding First Western's transactions to be a sham or, alternatively, that its investors' losses were not deductible because they had not entered into the transactions primarily for profit.
+The special trial judge also recommended the levying of negligence assessments against the Taxpayers.
+The chief judge formally adopted the proposed opinion as the decision of the Tax Court.
+Following two unsuccessful motions for reconsideration, the Taxpayers appealed.
+Analysis 1.
+Jurisdiction of the special trial judge.
+Pursuant to 26 U.S.C. 7443A the chief judge of the Tax Court may appoint special trial judges to preside over (1) any declaratory judgment proceeding, (2) any proceeding conducted under section 7463 , (3) any proceeding where neither the amount of deficiency in dispute nor any claimed overpayment exceeds $10,000, and (4) "any other proceeding" so designated by the chief judge.
+26 U.S.C. 7443A(b)(1) (4) .
+In the first three categories, the court may authorize the special trial judge to render a decision.
+26 U.S.C. 7443A(c) .
+Special trial judges may not render the formal decision of the Tax Court in cases assigned under the fourth category.
+In the instant case, which fell under the "any other proceedings" category, the special trial judge filed his report on October 21, 1987.
+The chief judge adopted this report as the Tax Court's opinion and formally filed the decision that same day.
+The Taxpayers contend that by adopting the proposed opinion on the same day it was filed the chief judge in effect permitted the special trial judge to render the "decision" of the Tax Court contrary to 26 U.S.C. 7443A(c) .
+Inasmuch as this argument is, in essence, an attack upon the subject matter jurisdiction of the special trial judge, 7 it may be raised for the first time on appeal.
+C.F.
+Dahlberg & Co. v. Chevron U.S.A., Inc. , 836 F.2d 915 (5th Cir.1988).
+Our analysis begins and ends with the simple fact that the opinion in this case was issued by the Tax Court in the name of the chief judge.
+The chief judge had both the obligation and power to maintain full responsibility for the decision in this case.
+Tax Ct.R.
+183(c) .
+8 We will assume that the judge did so in good faith.
+The record before us is devoid of any evidence that even remotely suggests otherwise, other than the short time span between the filing of the special trial judge's report and the issuance of the Tax Court's opinion by its chief judge.
+9 2.
+The Tax Court's determination of sham transactions.
+The fundamental premise underlying the Internal Revenue Code is that taxation is based upon a transaction's substance rather than its form.
+Thus sham transactions are not recognized for tax purposes, and losses allegedly generated by such transactions are not deductible.
+See e.g. , Gregory v. Helvering , 293 U.S. 465 , 55 S.Ct. 266 , 79 L.Ed. 596 (1935); Forseth v. Commissioner , 845 F.2d 746 (7th Cir.1988); Enrici v. Commissioner , 813 F.2d 293 (9th Cir.1987); Bramblett v. Commissioner , 810 F.2d 197 (5th Cir.1987) (unpub.
+op.); Mahoney v. Commissioner , 808 F.2d 1219 (6th Cir.1987); Wooldridge v. Commissioner , 800 F.2d 266 (11th Cir.1986) (unpub.
+op.).
+Whether a particular transaction is a sham is a question of fact reviewed under the clearly erroneous standard.
+Forseth , 845 F.2d at 748 ; Enrici , 813 F.2d at 295 ; Mahoney , 808 F.2d at 1220 .
+Although the Tax Court found that one "gremlin" mandated the conclusion that First Western's program was designed to create sham transactions, it could not help but reach this conclusion in light of the multitude of "gremlins" with which it was confronted.
+Although they raise several related claims, 10 the Taxpayers primarily contend that the Tax Court's finding that the First Western program was a sham was clearly erroneous in light of the testimony of their own expert witnesses who, they insist, presented unrebutted proof that First Western's contract prices would be considered reasonable in the open market.
+To demonstrate the off-market nature of First Western's pricing methodology, the experts called by the Commissioner compared market prices of forward contracts for immediate settlement with the prices resulting from the application of First Western's formula to the same type of contract.
+The Taxpayers assert that the court's reliance on these analyses was clearly erroneous because First Western traded only in long-term forward contracts.
+Although First Western did not trade in immediate forward contracts, it is undisputed that there is no market for the 14-to-30-month contracts utilized in the First Western program.
+Accordingly the only way to compare First Western's prices with market prices was through an analysis of the kind of instruments which in fact were traded in the market.
+Were we to assume, arguendo , that First Western's pricing formula produced contract prices sufficiently tracking those in the open commodities market, the fact remains that the Taxpayers surrendered total control to First Western over investments that, in the real market, are so risky as to be virtually non-existent.
+As the Ninth Circuit recognized under similar circumstances in Sochin v. Commissioner , supra , "no reasonable investor would surrender total control of his or her ability to profit or lose unless satisfied that the risk of loss had been greatly diminished or eliminated."
+Sochin , 843 F.2d at 356 .
+First Western's absolute authority over the pricing and timing of the transactions that occurred in the self-contained market of its own making enabled it to achieve the tax losses desired by its investors with uncanny accuracy.
+The Tax Court's recognition that First Western's program made available to its investors an essentially risk-free opportunity to purchase tax deductions cannot be labeled clearly erroneous.
+See United States v. United States Gypsum Co. , 333 U.S. 364, 395 , 68 S.Ct. 525, 542 , 92 L.Ed. 746 (1948) (fact findings will remain undisturbed unless a review of the evidence leaves "the definite and firm conviction that a mistake has been committed").
+Bathed in the harsh light of economic reality the Taxpayers' other factual arguments amount to nothing more than a valiant effort to substitute the testimony of their expert witnesses for the findings of the Tax Court.
+3.
+Deductibility of losses under 108 .
+The deductibility of pre-1982 commodity straddles is governed by section 108(a) of the Tax Reform Act of 1984, Pub.L.
+No. 98-369, 108 , 98 Stat. 494 , 630 (1984), as amended by section 1808(d) of the Tax Reform Act of 1986, Pub.L.
+No. 99-514, 100 Stat. 2085 , 2817 (1986).
+Section 108(a) permits the deduction of a loss Applying section 108(a) to the Taxpayers' transactions with First Western, the Tax Court held in the alternative that even if the transactions generated by First Western were not shams, the losses in question were nonetheless not deductible because the Taxpayers had not entered into the transactions with a primary motive of economic profit.
+Taking exception to the primary motive test applied by the Tax Court, the Taxpayers contend that section 108(a) requires only that their transactions have had a "reasonable prospect of profit."
+Although this argument does not affect the Taxpayers' liability in light of our affirmance of the Tax Court's sham determination, we conclude that we ought to address it briefly, for purposes of comprehensiveness, even if only to reject it.
+This circuit, along with every other circuit plumbing congressional intent underlying section 108(a) , has held losses to be deductible under that provision only if the taxpayer entered into the transaction primarily for profit.
+See Killingsworth v. Commissioner , 864 F.2d 1214 (5th Cir.1989); Dewees v. Commissioner , 870 F.2d 21 (1st Cir.1989); Friedman v. Commissioner , 869 F.2d 785 (4th Cir.1989); Kirchman v. Commissioner , 862 F.2d 1486 (11th Cir.1989); Landreth v. Commissioner , 859 F.2d 643 (9th Cir.1988); Miller v. Commissioner , 836 F.2d 1274 (10th Cir.1988).
+11 4.
+Additions to tax for negligence under section 6653(a) .
+Finally, the Taxpayers attack the Tax Court's determination that they were liable for negligence penalties pursuant to 26 U.S.C. 6653(a) .
+Once the Commissioner has determined that a negligence penalty is appropriate, the taxpayer bears the burden of establishing the absence of negligence.
+Marcello v. Commissioner , 380 F.2d 499 (5th Cir.1967), cert. denied , 389 U.S. 1044 , 88 S.Ct. 787 , 19 L.Ed.2d 835 (1968).
+The Tax Court found that the Taxpayers had failed to discharge this burden.
+We agree.
+All of the Taxpayers were professionals with investment experience that should have alerted them to the questionable financial validity of the First Western program.
+As the Tax Court found, however, this was not the case. Womble and Timm, who demonstrated no understanding of the way in which straddles and forward contracts function, failed to take even the most rudimentary steps to investigate the bona fides of the financial aspects of the First Western program--despite the fact that, under the literal terms of the forward contracts they purchased, they could have been required to take or make delivery of millions of dollars' worth of GNMAs or FMACs.
+Instead, they relied upon the advice of their "finders," who apparently had no expertise whatsoever in the financial aspects of the portfolios involved.
+We cannot conclude that the court's assessment of the negligence penalty against Womble and Timm was clearly erroneous.
+As "finders" themselves, Freytag and McCoin had even more reason to question the validity of the First Western program.
+Despite claims that they engaged in extensive investigation before investing in First Western, neither disputes the Tax Court's finding that they both were aware that the so-called margin deposit was a charade and that First Western's program was "controlled to the point that any meaningful risk was virtually nonexistent."
+We affirm as well, therefore, the Tax Court's assessment of negligence penalties against Freytag and McCoin.
+12 The decision of the Tax Court is in all respects AFFIRMED.

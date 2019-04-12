@@ -1,0 +1,111 @@
+ WINTER , Circuit Judge: This expedited appeal, based on sealed papers, concerns the scope of certain exemptions to the Freedom of Information Act, 5 U.S.C. 552 (1982 & Supp. IV 1986) ("FOIA").
+Judge Mishler held that defendants John Doe Agency ("Agency") and John Doe Government Agency ("Government Agency") were not required under the FOIA to turn over certain Agency documents, a Vaughn index and answers to interrogatories.
+He ruled that disclosure of these materials to plaintiff John Doe Corporation ("Corporation") would "jeopardize" a grand jury investigation and that the materials were therefore exempt from disclosure under the FOIA.
+We disagree.
+The documents in question were generated in routine audits and were not compiled for law enforcement purposes.
+We also believe that their disclosure would not compromise the secrecy of any grand jury proceeding and that the justifications proffered for denying Corporation access to the Vaughn index and answers to Corporation's interrogatories are legally insufficient.
+We reverse and remand.
+BACKGROUND Corporation is a government contractor.
+In the course of a routine audit by Agency in 1978, Corporation and Agency exchanged letters regarding the accounting treatment of certain costs incurred by Corporation.
+In a letter of May 2, 1978, Agency asserted that these costs, which were charged to a technical overhead account, should have been charged directly to certain government contracts.
+In response, on July 11, 1978, Corporation gave its justification for charging the costs to the overhead account in a lengthy letter to Agency.
+No further correspondence on the matter took place.
+Eight years later, in 1986, the issue was revived in the context of a grand jury investigation concerning possible fraudulent activity by Corporation in connection with its contracts with the government.
+In the ostensible belief that Agency documents relating to the 1978 correspondence would exonerate it, and no doubt in the unstated belief that the documents would be useful in responding to the investigation or defending criminal charges, Corporation filed a request with the Agency for such documents under the FOIA on September 30, 1986.
+The Agency denied the request on November 18, 1986, stating that the documents were exempted from disclosure under FOIA Subsection (b)(7)(A) (production "could reasonably be expected to interfere with enforcement proceedings") and (b)(7)(E) (production would disclose techniques and procedures for law enforcement investigations).
+Corporation took an administrative appeal.
+Before any response was received from the Agency (which eventually denied the request), Corporation learned that the documents had been transferred to Government Agency and filed an identical FOIA request with Government Agency on February 3, 1987.
+Government Agency denied the request, relying without elaboration on the FOIA exemption in Subsection (b)(7)(A).
+After an administrative appeal, the Justice Department, acting for Government Agency, summarily denied Corporation's appeal.
+Corporation sought de novo review in the Eastern District under 5 U.S.C. 552(a)(4)(B) of the Agency's and Government Agency's withholding of the documents.
+In their answer, Agency and Government Agency contended that the documents were exempt from disclosure under FOIA Subsections (b)(3) (matters specifically exempted by other statutes), (b)(5) (certain "inter-agency or intra-agency memorandums or letters"), (b)(7) (law enforcement records that would interfere with or expose enforcement proceedings), and Fed.R.Crim.P.
+6(e) ("matters occurring before the grand jury") as incorporated by FOIA Subsection (b)(3).
+The answer asserted that the documents were obtained by Government Agency from Agency pursuant to a grand jury subpoena.
+On September 28, 1987, Corporation moved to compel the preparation of a Vaughn index 1 and served interrogatories seeking information concerning the transmittal of the documents to the Government Agency and the timing of the grand jury subpoena in relation to the Corporation's FOIA requests.
+In response, the government moved for a protective order to stay preparation of the Vaughn index and answers to interrogatories until the government had prepared a summary judgment motion.
+It stated that the documents had been presented to a grand jury and pertained directly to the subject matter of an investigation.
+It argued that disclosure of the documents might reveal the identities of witnesses, the "strategy or direction" of the investigation, and otherwise enable Corporation to construct a defense.
+On December 14, 1987, the district court ordered Agency and Government Agency to prepare a Vaughn index and to answer Corporation's interrogatories.
+The court directed that the index and answers be filed for in camera inspection.
+The government complied on February 16, 1988.
+After an in camera review of the Vaughn index and answers, the district court issued a Memorandum of Decision and Order on March 28, 1988.
+Judge Mishler, relying on Hatcher v. United States Postal Service , 556 F.Supp.
+331 (D.D.C.
+1982), determined without elaboration that there was a "substantial risk" that disclosure of the documents, the Vaughn index, or the answers to interrogatories would "jeopardize" the grand jury proceeding.
+He ruled, therefore, that defendants were not required to turn over any of the documents, Vaughn index and interrogatory answers.
+Corporation appealed.
+DISCUSSION This appeal presents several issues.
+We must resolve whether the district court's decision was final and appealable, whether the documents are exempt under FOIA Subsection (b)(7) or Fed.R.Crim.P.
+6(e) , and whether plaintiff may have access to the Vaughn index and answers to interrogatories.
+1.
+Appealability of the District Court Order We conclude that the March 28, 1988 Memorandum of Decision and Order of the district court was a final order and is appealable under 28 U.S.C. 1291 (1982).
+The government contends that the ruling appealed from was interlocutory because it merely withheld the Vaughn index and interrogatory answers from Corporation and did not dispose of the exemption claims.
+In support of that position, the government points to the absence of any motion for judgment by plaintiffs or defendants.
+We believe it clear, however, that the district court intended a final disposition of the action.
+After stating that "there is a substantial risk that disclosure of any of this material, the documents, the Vaughn index and the answers to [Corporation's] interrogatories, would jeopardize the grand jury proceeding," the district court concluded that "[d]efendants are not required to turn over any of these documents to the plaintiff."
+The government's contention that "these documents" is a reference only to the Vaughn index and answers to interrogatories is belied by the language of the decision, which precluded disclosure of "the documents, the Vaughn index and the answers " The requirement of finality is to be construed in a practical, rather than a technical sense, Gillespie v. United States Steel Corp. , 379 U.S. 148, 152-53 , 85 S.Ct. 308, 310-11 , 13 L.Ed.2d 199 (1964), and the failure to embody the order in a separate judgment, see Fed.R.Civ.P. 58 , will not prevent our exercising jurisdiction in light of the evident fact that no further proceedings in the district court were contemplated by Judge Mishler.
+The instant case is easily distinguished from the recent decision in Hinton v. Department of Justice , 844 F.2d 126 (3d Cir.1988).
+In Hinton , a district court had simply ordered a federal agency to prepare a Vaughn index in response to a FOIA request.
+On appeal, the Third Circuit ruled that the order to prepare the index was not immediately appealable, either as an injunction, see 28 U.S.C. 1292(a)(1) (1982), or as a collateral order.
+See Cohen v. Beneficial Indus.
+Loan Corp. , 337 U.S. 541, 546 , 69 S.Ct. 1221, 1225 , 93 L.Ed. 1528 (1949).
+In the instant case, the district court denied disclosure of the documents ultimately sought, as well as of the Vaughn index and answers to interrogatories.
+2.
+Application of FOIA Subsection (b)(7) Corporation filed its FOIA request after learning that it was under investigation for fraud involving defense contracts.
+The documents sought are now before a grand jury, and the government argues that release of the documents would interfere with the investigation.
+The motive for an FOIA request is not relevant to whether the information must be disclosed.
+See, e.g. , Federal Bureau of Investigation v. Abramson , 456 U.S. 615, 631 , 102 S.Ct. 2054, 2064 , 72 L.Ed.2d 376 (1982); NLRB v. Sears, Roebuck & Co. , 421 U.S. 132, 149 , 95 S.Ct. 1504, 1515 , 44 L.Ed.2d 29 (1975).
+The fact that Corporation is under investigation does not, therefore, alter the requester's FOIA rights.
+See NLRB v. Robbins Tire & Rubber Co. , 437 U.S. 214, 242 & n. 23, 98 S.Ct. 2311, 2327 & n. 23, 57 L.Ed.2d 159 (1978).
+Although the FOIA was not principally intended to be a device enlarging the scope of private discovery in litigation, the statute compels disclosure of nonexempt documents to "any person" without regard to the limitations on discovery by parties to civil or criminal litigation.
+5 U.S.C. 552(a)(3) .
+The district court held that the documents were exempt under FOIA Subsection (b)(7), which exempts from disclosure "matters that are records or information compiled for law enforcement purposes, but only to the extent that the production of such law enforcement records or information[ ] could reasonably be expected to interfere with enforcement proceedings."
+Although the district court concluded that disclosure would "jeopardize" the grand jury proceedings, it made no finding as to whether the records sought were "compiled for law enforcement purposes."
+Such a finding is essential to a valid claim of exemption under Subsection (b)(7).
+Indeed, the judicial precedent relied upon by the district court, Hatcher v. United States Postal Service , 556 F.Supp.
+331 (D.D.C.
+1982), expressly distinguished between exempted documents created pursuant to a criminal investigation and discloseable documents created as a matter of routine, prior to and independent of the investigation.
+Id. at 334-35 .
+In the instant case, the documents requested were generated by Agency independent of any investigation in the course of its routine monitoring of Corporation's accounting procedures with regard to Corporation's defense contracts.
+The records were compiled in 1978, seven years before the investigation began in 1985.
+They were thus not "compiled for law enforcement purposes" and are not exempted by Subsection (b)(7).
+The 1974 amendments to the FOIA make it clear that a governmental entity cannot withhold materials requested under the FOIA on the ground that materials that were not investigatory records when compiled have since acquired investigative significance.
+Originally, the FOIA exemption in question applied to "investigatory files."
+In 1974, however, Congress substituted the word "records" for "files" to insure that documents produced in the routine course of government operations would not be withheld under Subsection (b)(7) merely because they had been commingled with investigative materials generated later in the course of a law enforcement proceeding.
+Robbins Tire & Rubber , 437 U.S. at 227-30 , 98 S.Ct. at 2319-21 ; see also Abramson , 456 U.S. at 626-27 , 102 S.Ct. at 2061-62 .
+The attempt in the instant case to withhold documents generated in the course of routine audits because they are now part of an investigatory file thus contravenes the obvious intent of the 1974 amendments to FOIA.
+See Hatcher , 556 F.Supp.
+at 335 .
+We realize that compliance with the FOIA may compel the government to disclose matters that are ordinarily beyond the scope of discovery in criminal investigations and thus may enable a potential defendant to prepare responses to the investigation and to construct a defense to criminal charges.
+That is a concern that should be addressed to Congress, however.
+3.
+Rule 6(e) Judge Mishler's decision may also have been based on Fed.R.Crim.P.
+6(e) 's prohibition on the disclosure of matters occurring before a grand jury.
+We believe that Rule is incorporated into the FOIA by Subsection (b)(3), which permits the withholding of documents "specifically exempted from disclosure by statute " Although (b)(3) does not specifically refer to rules promulgated by the Supreme Court under its rulemaking power, once such rules are effective, they prevail over conflicting statutory law. 18 U.S.C. 3771 (1982).
+In view of the superior force of such rules, it would be anomalous not to consider them in claims of exemption under (b)(3).
+Documents requested under the FOIA may be withheld under Rule 6(e) only when their "disclosure would 'tend to reveal some secret aspect of the grand jury's investigation' such matters as 'the identities of witnesses or jurors, the strategy or direction of the investigation '" Senate of Commonwealth of Puerto Rico v. United States Dep't of Justice , 823 F.2d 574, 582 (D.C.Cir.1987).
+Agency and Government Agency argue that that test has been met here.
+We disagree.
+The government defendants have simply failed to demonstrate "a nexus between disclosure and revelation of a protected aspect of the grand jury's investigation."
+Id. at 584 .
+A document that is otherwise available to the public does not become confidential simply because it is before a grand jury.
+Instead, there must be a showing that disclosure of the document will result in exposure of some other aspect of the grand jury proceeding that is secret.
+No such showing has been made in the instant case. Indeed, the subject matter of the investigation was sufficiently known to have prompted the FOIA request.
+4.
+Availability to Corporation of the Vaughn Index and Answers to Interrogatories Agency and Government Agency also argue that the Vaughn index and answers to Corporation's interrogatories should not be given to Corporation.
+They contend that there is no general presumption of entitlement to a Vaughn index and interrogatory responses in FOIA actions.
+They further argue that, where the government shows that the balance tips in favor of preserving confidentiality and secrecy, alternative methods, such as in camera inspection of the index and answers, may be substituted.
+Agency and Government Agency assert that the balance favors non-disclosure because release of the index and interrogatory answers would frustrate the grand jury inquiry.
+In camera review of a Vaughn index and interrogatory answers is unusual, and differs significantly from in camera review of the actual requested documents, a procedure expressly authorized by the FOIA.
+5 U.S.C. 552(a)(4)(B) .
+Without access to the index or answers, the requester of documents will be unable to mount a complete adversary argument.
+Existing caselaw allowing in camera inspection of a Vaughn index appears limited to cases implicating national security interests.
+See, e.g. , Doyle v. Federal Bureau of Investigation , 722 F.2d 554, 556-57 (9th Cir.1983); Hayden v. National Sec.
+Agency , 608 F.2d 1381, 1384-85 (D.C.Cir.1979); Phillippi v. Central Intelligence Agency , 546 F.2d 1009, 1013 (D.C.Cir.1976).
+We need not define the precise circumstances in which a Vaughn index may be withheld from the party seeking the documents, however, because the justification proffered for withholding it in the instant case is clearly without merit.
+If the exemption in Subsection (b)(7) does not protect the documents themselves, disclosure of the Vaughn index can hardly be said to trench upon legitimate secrecy interests.
+So far as the interrogatory answers are concerned, we have found nothing justifying the wholesale claim of a need for secrecy.
+However, the government should on remand be allowed to bring to the district court's attention any particular matter that would, if disclosed, expose some secret aspect of the grand jury's investigation.
+Disclosure may be withheld if it would violate Rule 6(e).
+CONCLUSION We reverse the district court's decision upholding the claim of exemption under Section 552(b)(7) and Rule 6(e) and vacate the district court's decision on plaintiff's access to the Vaughn index.
+We remand for further proceedings concerning the answers to interrogatories and any other exemptions claimed by the government for the Agency documents.

@@ -1,0 +1,410 @@
+ CARNES, Circuit Judge: The system of developing new drugs in this country exemplifies the maxims "no risk, no reward" and "more risk, more reward."
+Developing new drugs is a risky, lengthy, and costly endeavor, but it also can be highly lucrative.
+Only one in every 5,000 medicines tested for the potential to treat illness is eventually approved for patient use, and studies estimate that developing a new drug takes 10 to 15 years and costs more than $1.3 billion.
+[fn1] No rational actor would take that kind of a risk [**1562] over that period of time without the prospect of a big reward.
+The reward, if any, comes when the drug is approved and patented, giving the pioneer or "brand name" company that developed it a monopoly over the sale of the new drug for the life of the patent.
+The pioneer company can then exploit the patent monopoly by charging higher prices than it could if competitors were allowed to sell bioequivalent or "generic" versions of the drug.
+In that manner, the pioneer company is usually able to recoup its investment and gain a profit, sometimes a super-sized one.
+Another maxim might also apply to the patent monopoly of drug pioneers: "more money, more problems."
+The huge profits that new drugs can bring frequently attract competitors in the form of generic drug manufacturers that challenge or try to circumvent the pioneer's monopoly in the market.
+Patent litigation often results, threatening the pioneer's monopoly and profits.
+Instead of rolling the dice and risking their monopoly profits in the infamously costly and notoriously unpredictable process of patent litigation, many patent-holding companies choose to settle lawsuits in order to preserve their patents and keep the [***2] monopoly profits flowing.
+This case involves a type of patent litigation settlement known as a "pay for delay" or "reverse payment" agreement.
+In this type of settlement, a patent holder pays the allegedly infringing generic drug company to delay entering the market until a specified date, thereby protecting the patent monopoly against a judgment that the patent is invalid or would not be infringed by the generic competitor.
+This case began when the Federal Trade Commission filed a complaint in district court alleging that the reverse payment settlements between the holder of a drug patent and two generic manufacturers of the drug are unfair restraints on trade that violate federal antitrust laws.
+The FTC claims that the settlements are simply tools that the three manufacturers used to avoid a judgment that the patent was invalid or would not be infringed by the generics, thereby protecting monopoly profits that the companies divvied up by means of payments from the patent holder to the generic manufacturers.
+The key allegation in the FTC's complaint is that the patent holder was "not likely to prevail" in the infringement actions that it brought against the generic manufacturers and then settled.
+According to the FTC, the reverse payment settlements unlawfully protected or preserved a monopoly that likely was invalid and that should not be shielded from antitrust attack.
+The drug companies counter that, far from being devices designed to dodge antitrust restrictions, reverse payment settlements are simply a way that patent holders protect and maintain the lawful exclusionary rights patent law grants them.
+Cf. Walker Process Equip., Inc. v. Food Mach & Chem. Corp. , 382 U.S. 172 , 177 , 86 S.Ct. 347 , 350 , 15 L.Ed.2d 247 (1965) ("A patent .
+.
+.
+is an exception to the general rule against monopolies.
+.
+.
+."
+(quotation marks omitted)); Precision Instrument Mfg. Co. v. Auto. Maint. Mach Co. , 324 U.S. 806 , 816 , 65 S.Ct. 993 , 998 , 89 L.Ed. 1381 (1945) (same).
+They say that punishing a patent holder for paying a potential competitor to stay out of the market as part of a settlement agreement would penalize precisely what patents are designed to permit: the exclusion of competition.
+That erosion of patent rights, the drug companies argue, would weaken incentives for investing in drug development, which would reduce the number of life-saving or life-enhancing innovations that benefit consumers.
+The FTC would like us to hold that reverse payment settlements, like the ones in this case, are presumptively unlawful restraints of trade.
+It argues that such settlements allow brand name and generic drug companies to be partners in unlawful monopolies.
+Monopoly profits, the FTC says, will typically exceed the sum of the individual profits that the drug companies could make by competing against each other.
+So even if the generic drug company is likely to win the infringement suit, it has a strong economic incentive to drop its lawsuit in exchange for a share of the brand name company's monopoly profits.
+[fn2] Viewed [**1563] this way, a reverse payment settlement ending patent litigation is a "win-win" for both companies.
+The brand name drug company maintains [***3] its monopoly by enforcing a patent that may be invalid, and the generic drug company makes more money under the settlement than it could have earned by competing in a market free of the patent's restraints.
+While the drug companies are the big winners in this scenario, consumers are the big losers; they continue paying monopoly prices for the drug even though the patent creating the monopoly is likely invalid or would not be infringed by generic competition.
+The FTC estimates that reverse payment settlements cost consumers about $3.5 billion per year in the form of higher drug prices.
+I. The usual protocol in opinions is to put the facts and procedural history of the case before a discussion of the applicable statutes, but in this case the facts make more sense after a discussion of the statutory process for introducing new drugs to the market.
+No one can legally market or sell a new drug in the United States without first gaining the approval of the Food and Drug Administration.
+See 21 U.S.C. 355 (a).
+The particular pathway to approval depends largely on the type of drug involved.
+One pathway is for pioneer drugs, which are ones that have never before received FDA approval.
+To initiate that approval process, an applicant files a New Drug Application.
+See id .
+The NDA must contain detailed information about the drug, including its chemical composition, "full reports of investigations" about its safety and efficacy, descriptions of its production and packaging processes, and proposed labeling language.
+Id. 355(b)(1) .
+An NDA applicant must also provide the FDA with "the patent number and the expiration date of any patent" that a generic manufacturer would infringe by making or selling the applicant's drug.
+Id ; see also 21 C.F.R. 314.53 (b).
+If the FDA approves the NDA, it publishes the drug and patent information in a book called "Approved Drug Products with Therapeutic Equivalence and Evaluations," commonly referred to as the "Orange Book."
+See 21 U.S.C. 355 (j)(7)(A); see also Caraco Pharm.
+Labs., Ltd. v. Novo Nordisk AIS , U.S. , 132 S.Ct. 1670 , 1675-76 , L.Ed.2d (2012).
+The pioneer company may then market and sell the drug.
+A more streamlined pathway to approval is reserved for generic versions of pioneer drugs that the FDA has already approved and listed in the Orange Book.
+To begin the generic drug approval process, an applicant files an Abbreviated New Drug Application.
+See 21 U.S.C. 355 (j).
+The ANDA allows an applicant "to piggyback on the safety and efficacy studies conducted for the pioneer drug" and thereby gain FDA approval by establishing that the generic drug is chemically identical to a pioneer drug already listed in the Orange Book.
+Valley Drug Co. v. Geneva Pharm., Inc. , 344 F.3d 1294 , 1296 (11th Cir. 2003); see 21 U.S.C. 355 (j)(2)(A); Caraco Pharm. Labs.
+, 132 S.Ct. at 1676 ("Rather than providing independent evidence of safety and efficacy, the typical ANDA shows that the generic drug has the same active ingredients as, and is biologically equivalent to, the brand-name drug.").
+An ANDA that piggybacks on a drug listed in the Orange Book must make one of four "paragraph certifications" with respect to any patents affiliated with the listed drug.
+It must certify that: (I) no patent information for the brand name drug [***4] has been filed with the FDA; (II) the patent has expired; (III) the patent will expire on a specifically identified date; or (IV) the "patent is invalid or will not be infringed by the manufacture, use, or sale of the new drug for which the application is submitted."
+21 U.S.C. 355 (j)(2)(A)(vii).
+It matters which certification is made.
+If the applicant certifies under paragraphs I or II, the FDA reviews the ANDA and may approve it.
+See id. 355(j)(5)(B)(i) .
+If the applicant certifies under paragraph III, however, the FDA will not approve the application until the patent for the listed drug has expired.
+See id. 355(j)(5)(B)(ii) .
+If the applicant certifies under paragraph IV, things get complicated.
+The ANDA applicant must send notice to the patent holder of its position [**1564] that the patent listed in the Orange Book is invalid or will not be infringed by the applicant's generic drug.
+See id. 355(j)(2)(B) .
+The patent holder then has 45 days to file an infringement lawsuit against the ANDA applicant.
+Id. 355(j)(5)(B)(iii) ; cf. 35 U.S.C. 271 (e)(2)(A) (making it a constructive act of infringement to file a paragraph IV certification); Cameo Pharm. Labs.
+, 132 S.Ct. at 1677 ("Filing a paragraph IV certification means provoking litigation.").
+If the patent holder does not sue within that time frame, the FDA proceeds with the ANDA approval process.
+21 U.S.C. 355 (j)(5)(B)(iii).
+If a suit is timely filed, however, the FDA stays the ANDA approval process for 30 months to allow the parties or a court to resolve the infringement dispute.
+Id .
+If, during that 30-month stay, a court decides that the patent is invalid or not infringed, the FDA's approval of the ANDA, if any, is effective on the date that the court enters its judgment.
+Id. 355(j)(5)(B)(iii)(I)(aa) .
+Federal law encourages generic drug manufacturers to file paragraph IV certifications.
+The first ANDA applicant making a paragraph IV certification that receives FDA approval is granted a 180-day "exclusivity period" during which the FDA postpones its approval process for other ANDA applications for generic versions of the same Orange Book listed drug.
+Id. 355(j)(5)(B)(iv) .
+That exclusivity period begins to run "after the date of the first commercial marketing of the [generic] drug."
+Id. 355(j)(5)(B)(iv)(I) ; see also 21 C.F.R. 314.107 (c)(1).
+As a result, the first generic manufacturer to make a paragraph IV certification could receive a 180-day head start to compete with the pioneer drug, which is "a significant incentive for generic manufacturers to challenge weak or narrow drug patents."
+Valley Drug , 344 F.3d at 1298 .
+II.
+With that statutory approval process in mind, we turn to the facts of this case. Because this appeal arises from the district court's Rule 12(b)(6) dismissal of the FTC's complaint for failure to state a claim, we accept as true all of the factual allegations in that complaint.
+Thaeter v. Palm Beach Cnty.
+Sheriff's Office , 449 F.3d 1342 , 1352 (11th Cir. 2006).
+A. Besins Healthcare, S.A., developed the prescription drug AndroGel, a topical gel that treats the symptoms of low testosterone in men.
+Chemicals in the gel gradually penetrate the skin and enter the blood-stream, providing a sustained release of synthetic testosterone.
+In August 1995, Besins granted Solvay Pharmaceuticals, Inc., a license to sell AndroGel in the United States and agreed to provide a commercial supply of the drug if the FDA approved [***5] it for sale.
+Solvay filed an NDA for AndroGel in April 1999, which the FDA approved in February 2000.
+Solvay then began marketing and selling the drug with great success.
+Between 2000 and 2007, revenue from the sale of AndroGel in the United States exceeded $1.8 billion, far more than it cost to develop the drug.
+Shortly after the FDA approved AndroGel, Solvay filed a patent application with the Patent and Trademark Office.
+A prior patent covering the synthetic testosterone used in AndroGel had expired decades earlier, but Solvay's application sought patent protection for a particular gel formulation of it.
+The Patent and Trademark Office granted Solvay's application on January 7, 2003, and jointly awarded Solvay and Besins Patent Number 6,503,894 ("the ` 894 patent "), which expires in August 2020.
+Within 30 days of being granted the patent, Solvay asked the FDA to include the ` 894 patent information in the Orange Book alongside the AndroGel listing.
+Cf. 21 U.S.C. 355 (c)(2) (requiring successful NDA applicants to inform the FDA within 30 days of receiving a new patent for a listed drug).
+Other drug manufacturers soon developed generic versions of AndroGel.
+Two of those companies, Watson Pharmaceuticals, Inc. and Paddock Laboratories, Inc., filed ANDAs with the FDA in May 2003.
+Watson was the first to file its ANDA, which made it eligible for the 180-day exclusivity period under 21 U.S.C. 355 (j)(5)(B)(iv).
+Both companies made paragraph IV certifications, claiming that their generic AndroGel products did not infringe on the ` 894 patent or that the patent was invalid.
+Within the relevant 45-day window, id. 355(j)(5)(B)(iii) , Solvay filed in federal district court a patent infringement lawsuit [**1565] against Watson and Paddock.
+[fn3] That filing triggered the 30-month stay of the FDA's approval process for Watson's and Paddock's generic versions of AndroGel.
+See id .
+The stay was set to expire in January 2006.
+The parties litigated the infringement action for the next few years.
+To spread the risks and costs of litigation, Paddock partnered with Par Pharmaceutical Companies, Inc., which agreed to share the costs of litigation with Paddock in exchange for part of the potential profits from Paddock's generic AndroGel product if that product gained FDA approval.
+After conducting discovery, Watson and Par/Paddock, the defendants in the patent infringement lawsuit, filed motions for summary judgment on the validity of the ` 894 patent .
+Those motions were fully briefed and ready for decision when the statutorily imposed 30-month stay on the FDA's approval process for Watson's ANDA ended in January 2006.
+The FDA approved Watson's generic AndroGel product that same month.
+As a result, Solvay was facing the possibility of losing its monopoly in the AndroGel market in early 2006.
+If the district court granted Watson's motion for summary judgment either on the ground that the ` 894 patent was invalid or that it would not be infringed by the generic drugs, Watson could immediately flood the market with generic versions of AndroGel without fear of being found to have violated Solvay's patent (unless the district court's decision was overturned on appeal).
+See 21 U.S.C. 355 (j)(5)(B)(iii)(I)(aa).
+Watson forecast that [***6] its generic version of AndroGel would sell for about 25% of the price of branded AndroGel, which could decrease the sales of branded AndroGel by 90% and cut Solvay's profits by $125 million per year.
+A lot was riding on the outcome of the patent litigation.
+Before the district court ruled on Watson's and Par/Paddock's motions for summary judgment, and before any generic AndroGel was brought to market, the parties resolved their patent dispute with several settlement agreements.
+Under the terms of the settlements, Watson, Par, and Paddock agreed not to market generic versions of AndroGel until August 31, 2015, unless another manufacturer launched one before then.
+In addition, Watson agreed to promote branded AndroGel to urologists, and Par agreed to promote it to primary care doctors.
+Par also agreed to serve as a backup manufacturer for branded AndroGel but assigned that part of the agreement to Paddock.
+For its part, Solvay agreed to pay Par/Paddock $10 million per year for six years and an additional $2 million per year for the backup manufacturing assistance.
+Solvay also agreed to share some of its AndroGel profits with Watson through September 2015, projecting that those payments would be between $19 million and $30 million per year.
+After finalizing the agreements, all of the parties — Solvay, Watson, Par, and Paddock — filed in district court a stipulation of dismissal terminating the patent infringement lawsuit.
+B. After the settlement agreements ending the patent litigation were reported to the FTC as required by 21 U.S.C. 355 note (2003) (Federal Trade Commission Review), the FTC filed an antitrust lawsuit against Solvay, Watson, Par, and Paddock.
+That lawsuit was then transferred to the Northern District of Georgia, which is where the parties had litigated the patent infringement claims.
+The FTC then filed an amended complaint against all four drug companies.
+[fn4] The FTC's amended complaint claimed that the settlement agreements, in which Solvay promised to pay Watson and Par/Paddock in exchange for those companies not selling generic AndroGel until 2015, are unlawful agreements not to compete in violation of Section 5(a) of the Federal Trade Commission Act.
+15 U.S.C. 45 (a)(1) (banning "[u]nfair methods of competition in or affecting commerce, and unfair or deceptive acts or practices in or affecting commerce").
+It alleged that the settlement agreements were attempts to "defer" generic competition with branded AndroGel by postponing the entry date of the generic drugs, thereby maintaining Solvay's monopoly and allowing the parties to share monopoly profits "at the expense of the consumer savings that would result from price competition."
+[**1566] The lynchpin of the FTC's complaint is its allegation that Solvay probably would have lost the underlying patent infringement action — that is, Watson and Par/Paddock had a strong case that the ` 894 patent did not bar their entry into the generic AndroGel market.
+More specifically, the complaint alleges that "Solvay was not likely to prevail " in the patent litigation because "Watson and Par/Paddock developed persuasive arguments [***7] and amassed substantial evidence that their generic products did not infringe the [`894] patent and that the patent was invalid and/or unenforceable" (emphasis added).
+According to the FTC, because the `894 patent "was unlikely to prevent generic entry," Solvay's reverse payments to the generic drug producers continued and extended a monopoly that the patent laws did not authorize.
+By doing that, it argues, the reverse payment agreements unlawfully restrain competition.
+The four defendants moved to dismiss the FTC's complaint under Rule 12(b)(6) , arguing that this Court's precedent immunizes reverse payment settlements from antitrust attack unless a settlement "imposes an exclusion greater than that contained in the patent at issue."
+Because the FTC had not alleged the settlements did that, the defendants argued, the complaint failed to state a claim on which relief could be granted.
+The district court agreed with the defendants, concluded that the FTC did "not allege that the settlements exceed the scope of the ` 894 patent ," and granted the defendants' motion to dismiss.
+The FTC then filed this appeal, contending that it had sufficiently pleaded an antitrust claim by alleging that the parties had entered into the settlement agreements even though Solvay was "not likely to prevail" in the infringement actions against the generic producers.
+III.
+"We review de novo the district court's grant of a motion to dismiss under 12(b)(6) for failure to state a claim.
+.
+.
+."
+Ironworkers Local Union 68 v. AstraZeneca Pharm., LP , 634 F.3d 1352 , 1359 (11th Cir. 2011) (quotation marks omitted).
+In doing so, we accept the allegations in the complaint as true and construe them "in the light most favorable to the plaintiff."
+Clark v. Riley , 595 F.3d 1258 , 1264 (11th Cir. 2010) (quotation marks omitted).
+"A complaint must state a plausible claim for relief, and `[a] claim has facial plausibility when the plaintiff pleads factual content that allows the court to draw the reasonable inference that the defendant is liable for the misconduct alleged.'"
+Sinaltrainal v. Coca-Cola Co. , 578 F.3d 1252 , 1261 (11th Cir. 2009) (quoting Ashcroft v. Iqbal , 556 U.S. 662 , 129 S.Ct. 1937 , 1949 , 173 L.Ed.2d 868 (2009)) (alteration in Sinaltrainal ).
+"Stated differently, the factual allegations in a complaint must `possess enough heft' to set forth `a plausible entitlement to relief.
+.
+.
+."
+Fin. Sec.
+Assurance, Inc. v. Stephens, Inc. , 500 F.3d 1276 , 1282 (11th Cir. 2007) (quoting Bell Atl. Corp. v. Twombly , 550 U.S. 544 , 557 , 559 , 127 S.Ct. 1955 , 1966-57 , 167 L.Ed.2d 929 (2007)).
+A. The difficulty at the heart of this case is in deciding how to resolve the tension between the pro-exclusivity tenets of patent law and the pro-competition tenets of anti-trust law.
+That difficulty is made less difficult, however, by the law's pro-precedent tenets.
+Our earlier decisions carry us much of the way to a resolution in this case.
+This Court first confronted an antitrust challenge to a reverse payment settlement in Valley Drug Co. v. Geneva Pharmaceuticals, Inc. , 344 F.3d 1294 (11th Cir. 2003).
+The facts of that case parallel the facts of this one: Two generic manufacturers alleged that the patent for a drug listed in the Orange Book was invalid, the patent holder filed infringement claims against the generic manufacturers, and the parties settled before a court decided the merits [***8] of the claims.
+Id. at 1298-300 .
+One generic manufacturer received millions of dollars in exchange for acknowledging the validity of the pioneer's patent and agreeing not to enter the market until another generic manufacturer did or until the patent expired, whichever came first.
+Id. at 1300 .
+The other generic manufacturer, also in exchange for millions of dollars, agreed not to enter the market until one of those two events occurred or until a court held that the patent was invalid, whichever came first.
+Id .
+Several private parties filed an antitrust lawsuit against the three manufacturers alleging that the settlement agreements were per se illegal contracts in restraint of trade in violation of Section 1 of the Sherman Act.
+[fn5] See id. at 1295-96 ; see also 15 U.S.C. 1 ("Every [**1567] contract .
+.
+.
+in restraint of trade or commerce among the several States, or with foreign nations, is declared to be illegal.").
+The district court agreed with the plaintiffs and granted their motion for partial summary judgment.
+See Valley Drug , 344 F.3d at 1295 , 1301 .
+After the court granted the drug companies' request for permission to take an interlocutory appeal, see 28 U.S.C. 1292 (b), we reversed.
+Valley Drug , 344 F.3d at 1295 , 1313 .
+Our Valley Drug decision began by acknowledging that antitrust laws typically prohibit agreements where one company pays a potential competitor not to enter the market, but we reasoned that reverse payment settlements of patent litigation presented atypical cases because "one of the parties own[s] a patent."
+Id. at 1304 .
+The patent made all the difference because it meant that the patent holder had a "lawful right to exclude others" from the market.
+Id .
+; see also 35 U.S.C. 154 (a)(1) ("Every patent shall .
+.
+.
+grant to the patentee .
+.
+.
+the right to exclude others from making, using, offering for sale, or selling the invention throughout the United States.
+.
+.
+.
+"); Dawson Chem. Co. v. Rohm & Haas Co. , 448 U.S. 176 , 215 , 100 S.Ct. 2601 , 2623 , 65 L.Ed.2d 696 (1980) ("[T]he essence of a patent grant is the right to exclude others from profiting by the patented invention.").
+The district court, we explained, "failed to consider" those exclusionary rights in its antitrust analysis when it held that the agreements were per se illegal.
+Valley Drug , 344 F.3d at 1306 .
+Because one party to the reverse payment agreements held a patent, the agreements did not necessarily decrease the level of competition in the market.
+Id. at 1309 .
+It followed that the district court had erred in using a per se test for determining the legality of the agreements.
+See id .
+("If [the patent holder] had a lawful right to exclude competitors, it is not obvious that competition was limited more than that lawful degree by paying potential competitors for their exit.
+"); see also Schering-Plough Corp. v. FTC , 402 F.3d 1056 , 1065-66 (11th Cir. 2005) ("By their nature, patents create an environment of exclusion, and consequently, cripple competition.
+The anticompetitive effect is already present.
+"); cf. Asahi Glass Co. v. Pentech Pharm., Inc. , 289 F.Supp.2d 986 , 994 (N.D.111.2003) (Posner, J., sitting by designation) ("In a reverse-payment case, the settlement leaves the competitive situation unchanged from before the [generic manufacturer] tried to enter the market.").
+After deciding to reverse the district court's partial grant of summary judgment in favor of the plaintiffs in Valley Drug , we went on to discuss several [***9] other matters "that promise[d] to be relevant on remand."
+Valley Drug , 344 F.3d at 1306 .
+We first addressed the plaintiffs' argument that the analysis on remand should disregard the patent altogether because after the parties had entered into their settlement agreements a federal district court had invalidated the patent at issue.
+According to the plaintiffs in Valley Drug , that post-settlement invalidation meant the patent holder "never had any patent rights," which meant the settlements necessarily excluded more competition from the market than the patent holder was lawfully entitled to exclude (namely, none).
+Id. at 1306-07 .
+Which meant, according to the plaintiffs, there were no patent rights to shield the settlements from antitrust attack, which meant the settlements were "subject to per se condemnation."
+Id. at 1306 .
+We rejected that argument, explaining that a court must judge the antitrust implications of a reverse payment settlement as of the time that the settlement was executed.
+Id .
+"[T]he mere subsequent invalidity of the patent does not render the patent irrelevant to the appropriate antitrust analysis."
+Id. at 1306-07 .
+For that reason, even though the patent at issue in Valley Drug was in fact invalid, its terms had to be given full effect.
+See id. at 1305 (explaining that, at the time of settlement, the patent holder had "the right to exclude others from making, using, or selling anhydrous terazosin hydrochloride until October of 2014, when [the patent] is due to expire").
+Our decision to give full effect to the patent's terms in Valley Drug means that even a court judgment about a patent's actual exclusionary power, unless that judgment comes before settlement, does not count.
+What does count is the patent's " potential exclusionary power" as it appeared at the time of settlement.
+Id. at 1311 (emphasis added).
+The patent in Valley Drug had the potential to exclude competition at the time of settlement because, [**1568] at that time, "no court had declared [the] patent invalid."
+Id. at 1306 ; cf. 35 U.S.C. 282 ("A patent shall be presumed valid.").
+Because the patent had that potential at the time of settlement, we treated the holder as though it had an exclusionary right at that time.
+See Valley Drug , 344 F.3d at 1306 .
+Our discussion in Valley Drug about the "potential exclusionary power" of patents did not mean, however, that all reverse payment settlements of patent litigation are immune from antitrust attack.
+A patent holder and any of its challengers cannot enter into an agreement that excludes more competition than the patent has the potential to exclude.
+If a reverse payment settlement reduces generic competition to a greater extent than the patent grant potentially does, the holder of the patent has used the settlement to buy exclusionary rights that are not contained in the patent grant, and those additional rights are vulnerable to antitrust attack.
+See id. at 1312 ("[T]he patent exception to antitrust liability .
+.
+.
+is limited by the terms of the patent and the statutory rights granted the patentee.
+"); cf. United States v. Masonite Corp. , 316 U.S. 265 , 277 , 62 S.Ct. 1070 , 1077 , 86 L.Ed. 1461 (1942) ("The owner of a patent cannot extend his statutory grant by contract or agreement.
+A patent affords no immunity for a monopoly [***10] not fairly or plainly within the grant.").
+Put another way, a patent gives its holder a "bundle of rights," CMS Indus., Inc. v. L.P.S.
+Int'l Ltd. , 643 F.2d 289 , 294 (5th Cir. 1981), [fn6] but any new exclusionary rights the holder buys to add to that bundle do not fall within the scope of the patent grant and for that reason do not fall within the scope of the patent's antitrust immunity.
+In keeping with those principles, we said in Valley Drug that parties to a reverse payment settlement are immune from antitrust liability if the anticompetitive effects of their settlement fall "within the scope of the exclusionary potential of the patent."
+344 F.3d at 1311 .
+If any provisions of the settlement create restraints on competition beyond that scope, however, those excesses "may then be subject to traditional antitrust analysis to assess their probable anticompetitive effects in order to determine whether [they] violate 1 of the Sherman Act."
+[fn7] Id. at 1312 .
+What was left for the district court to do on remand was to consider "the scope of the exclusionary potential of the patent [and] the extent to which the[] provisions of the Agreements exceed that scope."
+Id .
+B. Our next decision involving an antitrust challenge to a reverse payment settlement of patent litigation came in Schering-Plough Corp. v. FTC , 402 F.3d 1056 (11th Cir. 2005).
+Schering, which held the patent for a drug called K-Dur 20, settled lawsuits it had filed against two generic drug manufacturers, Upsher-Smith Laboratories, Inc. and ESI Lederle, Inc. Id. at 1058-60 .
+Schering's settlement with Upsher had two main parts: (1) Upsher agreed not to enter the K-Dur 20 market until five years before Schering's patent expired, and (2) Schering paid Upsher more than $60 million to license some of Upsher's other drug products.
+Id. at 1059-60 .
+Schering's settlement with the other generic manufacturer, ESI, also had two main parts: (1) ESI agreed not to enter the K-Dur 20 market until almost three years before Schering's patent expired; and (2) Schering paid ESI $5 million in legal fees and $15 million to license some of ESI's other drug products, plus another $10 million if ESI's generic drug received FDA approval.
+Id. at 1060-61 & n. 8.
+The FTC determined in an administrative proceeding that the settlement agreements violated the FTC Act and the Sherman Act.
+Id. at 1058 .
+Although it did not expressly say that reverse payment agreements are per se illegal, the FTC's order nonetheless announced a rule prohibiting all reverse payment settlements in which the generic company receives anything [**1569] of value in exchange for deferring its research, development, or entry to market.
+Id. at 1062 .
+The defendant drug companies petitioned this Court to review the order, we did so, and we vacated it.
+Id. at 1076 .
+We began our review of the FTC's order by reiterating what we had said in Valley Drug : neither the rule of reason nor the per se test is an appropriate way to analyze the antitrust implications of a reverse payment settlement of patent litigation.
+Id. at 1065 .
+That traditional analysis is inappropriate because one of the signatories to the settlement holds a patent, and a patent conveys the right to "cripple competition."
+Id. at 1066 .
+The proper analysis, we explained, "requires an examination of: (1) the scope [***11] of the exclusionary potential of the patent; (2) the extent to which the agreements exceed that scope; and (3) the resulting anticompetitive effects."
+Id .
+(citing Valley Drug , 344 F.3d at 1312 ).
+The essence of this three-prong analysis is an evaluation of whether the settlement agreements contain provisions that restrict competition beyond the scope of the exclusionary potential of the patent.
+Cf. United States v. Singer Mfg. Co. , 374 U.S. 174 , 196-97 , 83 S.Ct. 1773 , 1785 , 10 L.Ed.2d 823 (1963) ("[I]t is .
+.
+.
+well settled that the possession of a valid patent or patents does not give the patentee any exemption from the provisions of the Sherman Act beyond the limits of the patent monopoly.
+"); In re Tamoxifen Citrate Antitrust Litig. , 466 F.3d 187 , 213 (2d Cir. 2006) ("[T]here is no injury to the market cognizable under existing antitrust law, as long as competition is restrained only within the scope of the patent.").
+After describing that analysis in Schering-Plough , we defined the potential exclusionary scope of the K-Dur 20 patent, giving full force to the exclusionary rights it potentially conveyed.
+Under the patent, Schering could exclude both of the generic companies from the K-Dur 20 market.
+Schering-Plough , 402 F.3d at 1066 .
+The patent also gave Schering the "right to grant licenses, if it so chooses."
+Id. at 1067 .
+Those exclusionary and licensing rights existed until the patent expired on September 5, 2006, or until the generic manufacturers "proved either that the .
+.
+.
+patent was invalid or that their products .
+.
+.
+did not infringe Schering's patent."
+Id. at 1066-67 .
+With the potential exclusionary scope of the patent defined in Schering-Plough , we then evaluated whether the settlements extended Schering's exclusionary rights beyond that scope.
+That was simple to do.
+The settlement with Upsher permitted that company to market its generic K-Dur 20 product more than five years before the expiration of Schering's patent, and the settlement with ESI allowed it to market its generic product almost three years before the patent expired.
+Id. at 1068-71 .
+The settlements excluded competition for a shorter period of time (five years less and three years less) than the face of the patent allowed.
+For that reason, we held that the reverse payment settlements did not impermissibly extend Schering's patent monopoly.
+Our Schering-Plough decision also rejected the FTC's argument that Schering had agreed to pay too much money to settle the case and that the generic companies had agreed to stay off the market for too long.
+See id. at 1073 .
+If that were true, the FTC asserted, it meant that Schering must have paid the generic companies not only to settle the infringement lawsuit but also to obtain increased exclusionary rights in the K-Dur 20 market.
+See id .
+In other words, the FTC claimed that Schering used the reverse payment settlements not just to protect its legitimate bundle of patent rights, but also to mask a "naked payment" to horizontal competitors in order to expand the scope of its monopoly.
+Id. at 1070 , 1072 .
+We rejected the FTC's contention in part because it did not take into account the underlying patent litigation, which was "certain[] to be a bitter and prolonged process."
+Id. at 1072 ; see also id. at 1075 ("[T]he size of the payment .
+.
+.
+should not dictate the availability [***12] of a settlement remedy.").
+We emphasized that "[t]he general policy of the law is to favor the settlement of litigation," id. at 1072 , and reiterated that patent litigation is costly and complex, see id. at 1073-74 .
+All three drug companies in Schering-Plough were facing high risks and costs if they continued to litigate the infringement action.
+See id. at 1075 (discussing the costs of attorney fees, expert fees, and discovery expenses, and noting the "caustic environment of patent litigation" that may increase the "period of uncertainty" for patenting and marketing new drugs).
+The agreements among the parties reflected that high-stakes reality, so their settlements "fell well within the protections of the [ [**1570] K-Dur 20] patent, and were therefore not illegal."
+Id. at 1076 .
+[fn8] C. Our third and most recent decision involving the antitrust implications of reverse payment settlements is Andrx Pharmaceuticals, Inc. v. Elan Corp. , 421 F.3d 1227 (11th Cir. 2005).
+The district court in that case granted a patent holder's motion for judgment on the pleadings, but we reversed the judgment because the plaintiff had sufficiently pleaded an antitrust claim.
+It had done so in two ways.
+First, the complaint in Andrx alleged that the generic manufacturer had agreed "to refrain from ever marketing a generic" version of the patented drug.
+Id. at 1235 (emphasis added).
+If true, that meant the settlement agreement blocked generic competition after the patent expired, and in that way excluded competition beyond "the scope of exclusion intended by the .
+.
+.
+patent."
+Id .
+The other way the complaint in Andrx stated a plausible antitrust claim was by alleging that the settlement agreement allowed the generic company to retain its 180-day exclusivity period of 21 U.S.C. 355 (j)(5)(B)(iv) even though that company had "no intention of marketing its generic drug."
+Andrx , 421 F.3d at 1231 .
+If true, that meant the 180-day period, which begins to run "after the date of first commercial marketing," 21 U.S.C. 355 (j)(5)(B)(iv)(I), would never be "trigger[ed]," Andrx , 421 F.3d at 1231 .
+As a result, the exclusivity period would have acted like a cork in a bottle, blocking other generic competition from pouring into the market.
+[fn9] By doing that, the settlement created anticompetitive effects beyond the scope of the patent.
+Id. at 1235 ; see also id. at 1231 ("[T]he settlement agreement had the effect of preventing any generic competition in the .
+.
+.
+market and constituted a conspiracy to restrain trade."
+(emphasis added)).
+For those reasons, we held that the complaint in Andrx stated a plausible antitrust claim.
+Id. at 1236 .
+IV.
+Our Valley Drug, Schering-Plough , and Andrx decisions establish the rule that, absent sham litigation or fraud in obtaining the patent, a reverse payment settlement is immune from antitrust attack so long as its anticompetitive effects fall within the scope of the exclusionary potential of the patent.
+[fn10] The issue in this case is whether, under that test, the FTC's complaint states an antitrust claim by alleging that Solvay was "not likely to prevail" in the underlying infringement action against Watson, Par, and Paddock.
+[**1571] The FTC argues that its "not likely to prevail" allegation sufficiently states an antitrust claim because a patent has no exclusionary potential if [***13] its holder was not likely to win the underlying infringement suit.
+And if the patent has no exclusionary potential, the FTC continues, then any reverse payment settlement that excludes any competition from the market necessarily exceeds the potential exclusionary scope of the patent and must be seen as the patent holder's illegal "`buying off of a serious threat to competition."
+Consistent with that reasoning, the FTC urges us to adopt "a rule that an exclusion payment is unlawful if, viewing the situation objectively as of the time of the settlement, it is more likely than not that the patent would not have blocked generic entry earlier than the agreed-upon entry date."
+Under that rule, the FTC's allegation that Solvay was "not likely to prevail" in the patent litigation would state a plausible antitrust claim.
+We decline the FTC's invitation and reject its argument.
+The FTC's position equates a likely result (failure of an infringement claim) with an actual result, but it is simply not true that an infringement claim that is "likely" to fail actually will fail.
+"Likely" means more likely than not, and that includes a 51% chance of a result one way against a 49% chance of a result the other way.
+Cf. United States v. Frazier , 387 F.3d 1244 , 1280-81 (11th Cir. 2004) ("[I]t is more likely than not — that is, there is more than a fifty-percent chance — that [the event] would have occurred.").
+Giving the word its plain meaning, as many as 49 out of 100 times that an infringement claim is "likely" to fail it actually will succeed and keep the competitor out of the market.
+Our decisions focus on the potential exclusionary effect of the patent, not the likely exclusionary effect.
+See, e.g., Valley Drug , 344 F.3d at 1305 ; Schering-Plough , 402 F.3d at 1066 ; Andrx , 421 F.3d at 1235 .
+In few cases that are settled is the probability needle pointing straight up.
+One side or the other almost always has a better chance of prevailing, but a chance is only a chance, not a certainty.
+Rational parties settle to cap the cost of litigation and to avoid the chance of losing.
+Those motives exist not only for the side that is likely to lose but also for the side that is likely, but only likely, to win.
+A party likely to win might not want to play the odds for the same reason that one likely to survive a game of Russian roulette might not want to take a turn.
+With four chambers of a seven-chamber revolver unloaded, a party pulling the trigger is likely (57% to 43%) to survive, but the undertaking is still one that can lead to undertaking.
+Patent litigation can also be a high stakes, spin-the-chambers, all or nothing undertaking.
+See Valley Drug , 344 F.3d at 1308 ; Schering-Plough , 402 F.3d at 1075-76 .
+For the company with a patented drug, it obviously makes sense to settle the infringement action if it is "not likely to prevail," even though that company may have a substantial (up to 49%) chance of winning.
+On the other side of the settlement equation is the generic drug company that is only "likely to prevail" in the action; with a substantial (up to 49%) chance of losing, that company also has a legitimate motive for settling.
+When both sides of a dispute have a substantial chance of winning and losing, especially when their chances may [***14] be 49% to 51%, it is reasonable for them to settle.
+That companies with conflicting claims settle drug patent litigation in these circumstances is not a violation of the antitrust laws.
+The FTC argues in its brief that "Solvay's patent was vulnerable," that it "knew that its patent was in trouble," and that "its claims of infringement were very much in doubt."
+Those arguments not only go beyond the allegations of the complaint, which is all that we can consider in this appeal from a Rule 12(b)(6) dismissal, but they also do little more than reflect the reality of patent litigation and the risks it presents to the patent holder.
+That reality and those risks are precisely why a party is likely to choose to settle a patent dispute even if it might well prevail.
+When hundreds of millions of dollars of lost profits are at stake, "even a patentee confident in the validity of its patent might pay a potential infringer a substantial sum in settlement."
+Valley Drug , 344 F.3d at 1310 ; cf. In re Ciprofloxacin Hydrochloride Antitrust Litig. , 261 F.Supp.2d 188 , 208 (E.D.N.Y.
+2003) ("No matter how valid a patent is — no matter how often it has been upheld in other litigation or successfully reexamined — it is still a gamble to place a technology case in the hands of a lay judge or jury.
+Even the confident patent owner knows that the chances of prevailing in patent litigation rarely exceed seventy percent.
+Thus, there are risks involved even in that rare [**1572] case with great prospects."
+(alterations and quotation marks omitted)).
+There are other reasons to reject the FTC's approach.
+It would require an after-the-fact calculation of how "likely" a patent holder was to succeed in a settled lawsuit if it had not been settled.
+Predicting the future is precarious at best; retroactively predicting from a past perspective a future that never occurred is even more perilous.
+And it is too perilous an enterprise to serve as a basis for antitrust liability and treble damages.
+See Valley Drug , 344 F.3d at 1308 ("Patent litigation is too complex and the results too uncertain for parties to accurately forecast whether enforcing the exclusionary right through settlement will expose them to treble damages if the patent immunity were destroyed by the mere invalidity of the patent.
+"); cf. Whitmore v. Arkansas , 495 U.S. 149 , 159-60 , 110 S.Ct. 1717 , 1725 , 109 L.Ed.2d 135 (1990) ("It is just not possible for a litigant to prove in advance that the judicial system will lead to any particular result in his case.").
+The FTC's retrospective predict-the-likely-outcome-that-never-came approach would also impose heavy burdens on the parties and courts.
+It would require, in the FTC's words, "viewing the situation objectively as of the time of the settlement."
+In this case, assaying the infringement claim "as of the time of settlement" would have required mining through mountains of evidence — when the lawsuit settled, more than 40 depositions had been taken and one side alone had produced more than 350,000 pages of documents.
+The settlement made that unnecessary, but the FTC's approach would put that burden back on the parties and the court, undo much of the benefit of settling patent litigation, and discourage settlements.
+Our [***15] legal system can ill afford that.
+See Schering-Plough , 402 F.3d at 1075 ("There is no question that settlements provide a number of private and social benefits as opposed to the inveterate and costly effects of litigation.
+"); see also Valley Drug , 344 F.3d at 1309 (noting "the important role played by settlement in the enforcement of patent rights"); cf. In re Tamoxifen Citrate , 466 F.3d at 202 ("Where a case is complex and expensive, and resolution of the case will benefit the public, the public has a strong interest in settlement."
+(quotation marks omitted)); Flex-Foot, Inc. v. CRP, Inc. , 238 F.3d 1362 , 1368 (Fed. Cir. 2001) (noting "the important policy of enforcing settlement agreements").
+There is also the fact that retrospective prediction, at least in this type of case, is unlikely to be reliable.
+The FTC itself has recognized as much in the past.
+In its order in the Schering-Plough case, the full Commission explained that: An after-the-fact inquiry by the Commission into the merits of the underlying litigation is not only unlikely to be particularly helpful, but also likely to be unreliable.
+As a general matter, tribunals decide patent issues in the context of a true adversary proceeding, and their opinions are informed by the arguments of opposing counsel.
+Once a case settles, however, the interests of the formerly contending parties are aligned.
+A generic competitor that has agreed to delay its entry no longer has an incentive to attack vigorously the validity of the patent in issue or a claim of infringement.
+In re Schering-Plough Corp. , No. 9297 , 2003 WL 22989651 , at *22 (F.T.C.
+Dec. 8, 2003), vacated by Schering-Plough , 402 F.3d 1056 .
+For those reasons, the FTC concluded that "it would not be necessary, practical, or particularly useful .
+.
+.
+to embark on an inquiry into the merits of the underlying patent dispute when resolving antitrust issues in patent settlements."
+Id .
+at *23.
+The FTC was right then for the same reasons it is wrong now.
+There is another reason to reject the FTC's new approach.
+Congress has given the United States Court of Appeals for the Federal Circuit exclusive appellate jurisdiction over patent cases.
+See 28 U.S.C. 1295 (a)(1); see also Cardinal Chem. Co. v. Morton Int'l, Inc. , 508 U.S. 83 , 89 , 113 S.Ct. 1967 , 1971 , 124 L.Ed.2d 1 (1993); Christianson v. Colt Indus.
+Operating Corp. , 486 U.S. 800 , 807 , 108 S.Ct. 2166 , 2173 , 100 L.Ed.2d 811 (1988).
+This Court and the other non-specialized circuit courts have no expertise or experience in the area.
+We are ill-equipped to make a judgment about the merits of a patent infringement claim, which is what we would have to do in order to decide how likely the claim was to prevail if it had been pursued to the end.
+The FTC's approach is in tension with Congress' decision to have appeals involving patent issues decided by the Federal Circuit.
+[**1573] As we discussed at the beginning of this opinion, the FTC warns that the alternative to its approach of looking back to decide what the likely outcome of settled infringement claims would have been is unacceptable.
+The alternative, according to the FTC, will allow patent holders and potential competitors "to forgo litigation over patent infringement and split up an ongoing stream of monopoly profits, even in situations in which it is evident that it is more likely than not that the patent would be found invalid [***16] or not infringed."
+The FTC believes that, because drug prices will be higher in the absence of competition, the profits generated by a patent holder's monopoly will typically exceed the aggregated profits that all companies individually would earn through competition.
+As a result, a potential competitor can make more money by dropping its patent challenge in return for a share of the holder's monopoly profits than it can by continuing to attack an invalid patent and bringing a less expensive version of the drug to market before the patent expires.
+The FTC's ominous forecast discounts the reality that there usually are many potential challengers to a patent, at least to drug patents.
+If the patent actually is vulnerable, then presumably other generic companies, which are not bound by the first challenger's reverse payment settlement, will attempt to enter the market and make their own challenges to the patent.
+Blood in the water can lead to a feeding frenzy.
+Although a patent holder may be able to escape the jaws of competition by sharing monopoly profits with the first one or two generic challengers, those profits will be eaten away as more and more generic companies enter the waters by filing their own paragraph IV certifications attacking the patent.
+Cf. Herbert Hovenkamp, Sensible Antitrust Rules for Pharmaceutical Competition , 39 U.S.F.
+L. Rev. 11, 25 (2004) ("In a world in which there are numerous firms willing and able to enter the market, an exit payment to one particular infringement defendant need not have significant anticompetitive effects.
+If there is good reason for believing the patent [is] invalid others will try the same thing.").
+In closing, it is worth emphasizing that what the FTC proposes is that we attempt to decide how some other court in some other case at some other time was likely to have resolved some other claim if it had been pursued to judgment.
+If we did that we would be deciding a patent case within an antitrust case about the settlement of the patent case, a turducken task.
+Even if we found that prospect palatable, we would be bound to follow the simpler recipe for deciding these cases that is laid out in our existing precedent.
+As we interpret that precedent, the FTC loses this appeal.
+AFFIRMED.
+We stated in Valley Drug that: "[A]ppellees have neither alleged nor asserted that the patent was procured by fraud, that appellants knew the patent was invalid, that there was no objective basis to believe that the patent was valid, or any such similar allegations.
+We therefore are not called upon to decide what the antitrust consequences of such circumstances might be."
+344 F.3d at 1307 n. 19.
+We make the same observations about this case and limit our decision in the same way.
+Although the FTC's complaint alleges that Solvay was "not likely to prevail" in its infringement actions against Watson and Par/Paddock, it does not contend that any of the three companies knew that the patent was invalid or not infringed or that there was no objective basis to believe the patent was valid and infringed.
+Accordingly, we do not rule out the possibility that sufficient allegations of any of those facts would state a valid antitrust claim.

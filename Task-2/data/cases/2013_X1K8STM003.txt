@@ -1,0 +1,450 @@
+ MATHESON, Circuit Judge.
+This appeal arises from Colorado's efforts to collect sales and use taxes during the expansion of e-commerce.
+Appellant Barbara Brohl, Executive Director of the Colorado Department of Revenue (the "Department"), appeals from an order enjoining the enforcement of state notice and reporting requirements imposed on retailers who do not collect taxes on sales to Colorado purchasers ("non-collecting retailers"), Most, if not all, of these non-collecting retailers sell products to Colorado purchasers by mail or online.
+Appellee Direct Marketing Association ("DMA") — a group of businesses and organizations that market products via catalogs, advertisements, broadcast media, and the Internet — urges us to uphold the district court's determination that Colorado's notice and reporting obligations are unconstitutional.
+The district court concluded that Colorado's requirements for non-collecting retailers discriminated against and placed undue burdens on interstate commerce, in violation of the Commerce Clause of the United States Constitution.
+It therefore entered a permanent injunction prohibiting enforcement of the state requirements.
+The issue in this appeal is whether Colorado's notice and reporting obligations for non-collecting retailers violate the Commerce Clause.
+However, we do not reach that merits question.
+Because the Tax Injunction Act, 28 U.S.C. 1341 , deprived the district court of jurisdiction to enjoin Colorado's tax collection effort, we remand to the district court to dismiss DMA's Commerce Clause claims.
+I BACKGROUND A. Colorado's Sales and Use Taxes Colorado imposes a 2.9 percent tax on the sale of tangible goods within the state.
+Colo.Rev.Stat.
+39-26-104 (1)(a), 106(1)(a)(II) .
+Retailers with a physical presence in the state are required by law to collect sales tax from purchasers [fn1] and remit it to the Department.
+Id. 39-26-105 , 106(2)(a) .
+The sales tax statute imposes additional duties on Colorado retailers such as recordkeeping, id. 39-26-116 , [**2] and penalties for deficient remittance of sales tax, id. 39-26-115 .
+If Colorado purchasers have not paid sales tax on tangible goods — as occurs in some online and mail-order purchases from retailers with no in-state physical presence — they must pay a 2.9 percent use tax "for the privilege of storing, using, or consuming" the goods in Colorado.
+Id. 39-26-202(1)(b) .
+The use tax complements the sales tax and is "prevent[] consumers of retail products from purchasing out of state in order to avoid paying a Colorado sales tax."
+Walgreen Co. v. Charnes , 819 P.2d 1039 , 1043 (Colo.1991) (en banc); see also Halliburton Oil Well Cementing Co. v. Reily , 373 U.S. 64 , 66 , 83 S.Ct. 1201 , 10 L.Ed.2d 202 (1963) ("[T]he purpose of .
+.
+.
+a sales-use tax scheme is to make all tangible property used or consumed in [a] State subject to a uniform tax burden irrespective of whether it is acquired within the State.").
+Although Colorado's sales and use taxes have equivalent rates, they are collected differently.
+Whereas retailers with a physical presence in the state must collect and remit sales tax to the Department, the onus is on the purchaser to report and pay use tax.
+See J.A.
+Tobin Const.
+Co. v. Weed , 158 Colo. 430 , 407 P.2d 350 , 353 (1965) (en banc).
+This difference results from the Supreme Court's bright-line rule in Quill Corp. v. North Dakota , 504 U.S. 298 , 112 S.Ct. 1904 , 119 L.Ed.2d 91 (1992).
+In Quill , the Court reaffirmed that it is unconstitutional under the "negative" or "dormant" aspect of the Commerce Clause for a state to require a retailer with no in-state physical presence to collect the state's sales or use taxes.
+Id. at 315-18, 112 S.Ct. 1904 (reaffirming Commerce Clause holding in National Bellas Hess, Inc. v. Department of Revenue of Illinois , 386 U.S. 753 , 87 S.Ct. 1389 , 18 L.Ed.2d 505 (1967)).
+Because Quill prohibits Colorado from forcing retailers with no in-state physical presence to collect and remit taxes on sales to Colorado consumers, the state requires its residents to report and pay use taxes to the Department with their income tax returns.
+See Colo.Rev.Stat.
+designed to 39-26-204(1)(b).
+The failure to report and pay use tax is a criminal offense.
+Id. 39-26-206; id. 39-21-118.
+Nonetheless, use tax collection is elusive.
+Most Colorado residents do not report or remit use tax despite the legal obligation to do so. A 2010 report submitted as part of this litigation estimated that Colorado state and local governments would lose $172.7 million in 2012 because of residents' failure to pay use tax on e-commerce purchases from out-of-state, non-collecting retailers.
+B. Notice and Reporting Requirements To increase use tax collection, in 2010 the Colorado legislature enacted statutory requirements for non-collecting retailers.
+[fn2] The statute and its implementing regulations impose three principal obligations on non-collecting retailers whose gross sales in Colorado exceed $100,000; they must (1) provide transactional notices to Colorado purchasers, (2) send annual purchase summaries to Colorado customers, and (3) annually report Colorado purchaser information to the Department.
+Under the first requirement, non-collecting retailers must "notify Colorado purchasers that sales or use tax is due on certain purchases .
+.
+.
+and that the state of Colorado requires the purchaser to file a sales or use tax return."
+[**3] Colo.Rev.Stat.
+39-21-112 (3.5)(c)(I).
+The notice must be included in every transaction with a Colorado purchaser, 1 Colo.
+Code Regs.
+201-1:39-21-112.3.5(2)(a), and shall inform the purchaser that (1) the retailer has not, collected sales or use tax, (2) the purchase is not exempt from Colorado sales or use tax, and (3) Colorado law requires the purchaser to file a sales or use tax return and to pay tax owed.
+Id. 201-1:39-21-112.3.5(2)(b).
+[fn3] According to the Department, the transactional notice "serves to educate consumers about their state use tax liability with the aim of increasing voluntary compliance."
+Aplt.
+Br. at 12.
+Under the second requirement, non-collecting retailers must mail annual notices to Colorado customers who purchased more than $500 in goods from them in the preceding calendar year.
+1 Colo.
+Code Regs.
+201-1:39-21-112.3.5(3)(a), (c).
+The summary must be sent by January 31 of each year and the envelope containing it must be "prominently marked with the words 'Important tax document enclosed.'"
+Id. 201-1:3 9-21-112.3.5(3)(a)(i), (vi).
+The summary must inform Colorado consumers of purchase dates, items bought, and the amount of each purchase made in the preceding calendar year.
+Id. 201-1:39-21-112.3.5(3)(a)(ii).
+The annual summary tells purchasers they have a duty to "file a sales or use tax return at the end of every year" in Colorado and must inform customers that the retailer is required to report to the Department the customers' total purchase amounts from the preceding calendar year.
+Id. 201-1:39-21-112.3.5(3)(a)(iii), (iv).
+According to the Department, the annual summary "arms the consumer with accurate information to facilitate reporting and paying the use tax."
+Aplt.
+Br. at 13.
+Third, non-collecting retailers must annually report information on Colorado purchasers to the Department.
+Colo.Rev.
+Stat. 39-21-112 (3.5)(d)(II)(A).
+The annual report shall include purchasers' names, billing addresses, shipping addresses, and total purchase amounts for the previous calendar year.
+1 Colo.
+Code Regs.
+201-1:39-21-112.3.5(4)(a).
+According to the Department, this customer information report "allows [it] to pursue audit and collection actions against taxpayers who fail to pay the tax" and "is designed to increase voluntary consumer compliance with state tax laws because consumers know that a third party has reported their taxable activity to the taxing authority."
+Aplt.
+Br. at 13.
+Non-collecting retailers who do not comply with any one of Colorado's notice and reporting obligations are subject to penalties.
+Colo.Rev.Stat.
+39-21-112 (3.5)(c)(II), (d)(III)(A)-(B).
+Alternatively, retailers may choose to collect and remit sales tax from Colorado purchasers to forgo the notice and reporting obligations.
+C. Procedural History In June 2010, DMA sued the Department's executive director, [fn4] challenging the constitutionality of Colorado's notice and reporting requirements.
+Claims I and II of DMA's complaint alleged that Colorado's statutory and regulatory obligations are unconstitutional under the Commerce Clause because they (1) discriminate against interstate commerce ("Discrimination Claim"), and (2) impose undue burdens on interstate commerce ("Undue Burden Claim").
+[fn5] The district [**4] court granted DMA a preliminary injunction prohibiting the enforcement of the notice and reporting requirements.
+The parties then agreed to an expedited process for resolving the two Commerce Clause claims and filed cross-motions for summary judgment on those claims.
+On March 30, 2012, the district court granted DMA's motion for summary judgment and denied the Department's motion for summary judgment.
+On the Discrimination Claim, the court concluded that the notice and reporting requirements facially discriminate against interstate commerce.
+It held these requirements are unconstitutional because "[t]he record contains essentially no evidence to show that the legitimate interests advanced by the [Department] cannot be served adequately by reasonable nondiscriminatory alternatives."
+Direct Mktg.
+Ass'n v. Huber , No. 10-CV-01546-REB-CBS, 2012 WL 1079175, at *6 (D.Colo.
+Mar. 30, 2012).
+On the Undue Burden Claim, the district court relied on Quill's bright-line rule that state governments cannot constitutionally require businesses without an in-state physical presence to collect and remit sales or use taxes.
+The district court acknowledged that Colorado's notice and reporting requirements do not obligate out-of-state retailers to collect and remit taxes.
+But it reasoned that the notice and reporting requirements place burdens on out-of-state retailers that "are inextricably related in kind and purpose to the burdens condemned in Quill" Id. at *8.
+These burdens, the district court concluded, would unconstitutionally interfere with interstate commerce.
+In the same order, the court entered a permanent injunction prohibiting enforcement of the notice and reporting requirements.
+In granting injunctive relief, the district court said DMA had achieved actual success on the merits because the court had granted summary judgment on the Discrimination and Undue Burden Claims.
+Because DMA's non-Commerce Clause claims remained unresolved, the district court said it would "address in a separate order the parties' request that [it] certify this order as a final judgment under Fed.R.Civ.P. 54 (b)," from which the Department could appeal.
+Id. at *11; see also 28 U.S.C. 1291 .
+However, the Department filed its notice of appeal before the district court certified the order as final under Fed.R.Civ.P. 54 (b).
+We nevertheless may consider the Department's appeal from the district court's entry of a permanent injunction under 28 U.S.C. 1292 (a)(1) (providing jurisdiction over interlocutory orders granting injunctions).
+II.
+DISCUSSION The issue on appeal is whether Colorado's notice and reporting requirements for non-collecting retailers violate the dormant Commerce Clause.
+Before addressing that issue, however, we must determine whether the Tax Injunction Act ("TLA"), 28 U.S.C. 1341 , precludes federal jurisdiction over DMA's claims.
+We conclude that it does and do not reach the merits of this appeal.
+A. Tax Injunction Act The TIA provides that "district courts shall not enjoin, suspend or restrain the assessment, levy or collection of any tax under State law where a plain, speedy [**5] and efficient remedy may be had in the courts of such State."
+28 U.S.C. 1341 . "
+The statute has its roots in equity practice, in principles of federalism, and in recognition of the imperative need of a State to administer its own fiscal operations."
+Rosewell v. LaSalle Nat'l Bank , 450 U.S. 503 , 522 , 101 S.Ct. 1221 , 67 L.Ed.2d 464 (1981) (quotations omitted).
+It therefore serves as a "broad jurisdictional barrier" that "limit[s] drastically federal district court jurisdiction to interfere with so important a local concern as the collection of taxes."
+Arkansas v. Farm Credit Servs.
+of Cent. Ark. , 520 U.S. 821 , 825 , 826 , 117 S.Ct. 1776 , 138 L.Ed.2d 34 (1997).
+Because the TIA is a jurisdictional limitation, we must determine whether it prohibits our consideration of this appeal regardless of whether it was raised in the district court.
+See Oklahoma ex rel.
+Okla.
+Tax Comm'n v. Int'l Registration Plan, Inc. , 455 F.3d 1107 , 1111 (10th Cir.2006); see also Folio v. City of Clarksburg , 134 F.3d 1211 , 1214 (4th Cir. 1998) ("This statutory provision is a jurisdictional bar that is not subject to waiver, and the federal courts are duty-bound to investigate the application of the Tax Injunction Act regardless of whether the parties raise it as an issue.").
+The TIA prohibits our jurisdiction if (1) DMA's action seeks to "enjoin, suspend or restrain the assessment, levy or collection of any tax under State law," 28 U.S.C. 1341 , and (2) "a plain, speedy and efficient remedy may be had in the courts of such State," id.
+We address these issues in turn.
+1.
+Does DMA seek to enjoin, suspend, or restrain the assessment, levy or collection of a state tax?
+The TIA divests federal district courts of jurisdiction over actions that seek to "enjoin, suspend or restrain the assessment, levy or collection of any tax under State law."
+28 U.S.C. 1341 .
+This broad language prohibits federal courts from interfering with state tax administration through injunctive relief, declaratory relief, or damages awards.
+See California v. Grace Brethren Church , 457 U.S. 393 , 407-08 , 102 S.Ct. 2498 , 73 L.Ed.2d 93 (1982); Marcus v. Kan. Dep't of Revenue , 170 F.3d 1305 , 1309 (10th Cir.1999).
+The TIA "does not limit any substantive rights to enjoin a state tax but requires only that they be enforced in a state court rather than a federal court."
+Empress Casino Joliet Corp. v. Balmoral Racing Club, Inc. , 651 F.3d 722 , 725 (7th Cir.2011).
+In its brief, DMA argues the TIA does not preclude federal jurisdiction here because DMA (1) is not a taxpayer seeking to avoid a tax, and (2) challenges notice and reporting requirements, not a tax assessment.
+a. Non-taxpayer lawsuits DMA argues it is not a taxpayer seeking to avoid state taxes and thus the TIA does not apply.
+Its argument rests on Hibbs v. Winn , 542 U.S. 88 , 124 S.Ct. 2276 , 159 L.Ed.2d 172 (2004), where the Supreme Court stated that the TIA is triggered when "state taxpayers seek federal-court orders enabling them to avoid paying state taxes."
+Id. at 107, 124 S.Ct. 2276 .
+Relying on our precedent interpreting Hibbs , we disagree that the TIA applies only when taxpayers seek to avoid a state tax in federal court The plaintiffs in Hibbs were Arizona taxpayers who brought an Establishment Clause challenge in federal court to a state tax credit for contributions to "school tuition organizations."
+Id. at 94-95, 124 S.Ct. 2276 .
+The plaintiffs did not challenge a tax imposed on them, but a tax benefit to others.
+Id. at 108, 124 S.Ct. 2276 .
+The Supreme Court determined the TIA did not [**6] bar such a lawsuit.
+The Court observed that Congress enacted the TIA to "direct[] taxpayers to pursue refund suits instead of attempting to restrain [state tax] collections" through federal lawsuits.
+Id. at 104, 124 S.Ct. 2276 .
+"In short," the Court said, "Congress trained its attention on taxpayers who sought to avoid paying their tax bill by pursuing a challenge route other than the one specified by the taxing authority."
+Id. at 104-05,124 S.Ct. 2276.
+Beyond this discussion of taxpayer lawsuits, the Hibbs Court explained that the TIA applies to federal court relief that "would .
+.
+.
+operate[] to reduce the flow of state tax revenue" — i.e., federal lawsuits that would inhibit state tax assessment, levy, or collection.
+Id. at 106, 124 S.Ct. 2276 .
+According to the statute's legislative history, Congress enacted the TIA with "state-revenue-protective objectives," including prohibiting "taxpayers, with the aid of a federal injunction, from withholding large sums, thereby disrupting state government finances."
+Id. at 104, 124 S.Ct. 2276 ; see also id. at 105 n. 7, 124 S.Ct. 2276 ("The TIA .
+.
+.
+proscribes interference only with those aspects of state tax regimes that are needed to produce revenue — i.e., assessment, levy, and collection.").
+The Court noted that the Hibbs plaintiffs did not challenge a state-revenue-producing measure — they sought to invalidate a tax credit the state gave to taxpayers — and that nothing in the TIA prohibited a third party from challenging a state tax benefit in federal court.
+See id. at 107-08, 124 S.Ct. 2276 .
+Although Hibbs states that the TIA applies to "cases in which state taxpayers seek federal-court orders enabling them to avoid paying state taxes," id. at 107, 124 S.Ct. 2276 , we have not interpreted it as holding that the TIA applies only to taxpayer suits.
+For instance, in Hill v. Kemp , 478 F.3d 1236 (10th Cir.2007), we applied the TIA outside the context of a taxpayer seeking to avoid taxes.
+In Hill , Oklahoma motorists and abortion-rights supporters sought to enjoin Oklahoma's statutory scheme for specialty vehicle license plates.
+Id. at 1239.
+The plaintiffs argued that Oklahoma unconstitutionally discriminated against their viewpoint by giving more favorable terms and conditions to drivers who wanted specialty plates with anti-abortion messages.
+Id.
+We agreed with the district court that the TIA barred the plaintiffs' challenge because Oklahoma's specialty license plate scheme imposed revenue-generating charges, which we viewed as taxes.
+Id. at 1244-45.
+To enjoin the "entire specialty plate regime .
+.
+.
+or even to enjoin a portion of it," we said, "would deny Oklahoma the use of significant funds" used for a variety of state initiatives.
+Id. at 1247.
+Such a result "would implicate exactly the sort of federalism problems the TIA was designed to ameliorate."
+Id.; see also Tully v. Griffin, Inc. , 429 U.S. 68 , 73, 97 S.Ct. 219, 50 L.Ed.2d 227 (1976) ("[T]he statute has its roots in equity practice, in principles of federalism, and in recognition of the imperative need of a State to administer its own fiscal operations.").
+The plaintiffs in Hill argued that, under Hibbs , the TIA did not apply because they did not "challenge an assessment imposed on them, but rather assessments imposed on and paid by other persons or entities" — i. [**7] e., they were not taxpayers trying to avoid a tax.
+478 F.3d at 1249 .
+We disagreed with this reading of Hibbs.
+We saw "[n]othing in the language of the TIA indicat[ing] that our jurisdiction to hear challenges to state taxes can be turned like a spigot, off when brought by taxpayers challenging their own liabilities and on when brought by third parties challenging the liabilities of others."
+Id.
+We acknowledged that in Hibbs the Court "did point out that TIA cases typically involve challenges brought by state taxpayers seeking to avoid their own state tax liabilities."
+Id.
+But we noted that some lower-court cases applied the TIA to suits by third parties who sought to disrupt state tax collection and that the Hibbs Court did not criticize these decisions.
+Id. at 1249 & n. 11 (citing Valero Terrestrial Corp. v. Caffrey , 205 F.3d 130 , 132 (4th Cir.2000)).
+We interpreted Hibbs as holding that the "essential problem with the defendant's assertion that the TIA barred the suit .
+.
+.
+lay in the fact that the plaintiff[s] .
+.
+.
+simply did not seek to enjoin the levy or collection of any tax .
+.
+.
+but instead sought to challenge the provision of a tax credit."
+Id. at 1249.
+The upshot of Hibbs , we said, is that "giving away a tax credit is a very different thing than assessing, levying or collecting a tax."
+Id. at 1249.
+The nature of the plaintiff was not the "essential and dispositive distinction under the Supreme Court's teaching in Hibbs."
+Id.
+Accordingly, we have not interpreted Hibbs as holding that the TIA applies only when taxpayers seek to avoid a state tax.
+Rather, the key question is whether the plaintiff's lawsuit seeks to prevent "the State from exercising its sovereign power to collect .
+.
+.
+revenues."
+Id. [fn6] This interpretation adheres to Hibbs's instruction that the primary purpose of the TIA is to "shield[] state tax collections from federal-court restraints."
+542 U.S. at 104 , 124 S.Ct. 2276 ; see also Ashton v. Cory , 780 F.2d 816 , 822 (9th Cir.1986) ("The Supreme Court has repeatedly stated that the principal purpose of the Tax Injunction Act was to curtail federal court interference with state revenue collection procedures.").
+Contrary to DMA's position, it cannot avoid the TIA merely because it is not a taxpayer challenging tax payment.
+b. Notice and reporting obligations DMA next argues that it seeks to avoid notice and reporting obligations, not a tax.
+It insists that "[t]he fact that such obligations relate to use tax owed by Colorado consumers does not bring the DMA's suit .
+.
+.
+under the umbrella of the TIA as a suit seeking to enjoin the collection of a state tax."
+Aplee.
+Br. at 4.
+But the TIA bars more than suits that would enjoin tax collection.
+It also prohibits federal lawsuits that would " restrain the .
+.
+.
+collection" of a state tax.
+28 U.S.C. 1341 (emphasis added).
+The issue is whether DMA's attack on Colorado's notice and reporting obligations would "restrain" Colorado's tax collection.
+i. Suits that restrain tax collection In enacting the TIA, Congress chose to prohibit three forms of interference with state tax collection: "enjoin[ing], suspend[ing], or restrain[ing.]"
+Id. Its use of the disjunctive "or" suggests each term has a distinct meaning.
+See Garcia v. United States , 469 U.S. 70 , 73 , 105 S.Ct. 479 , 83 L.Ed.2d 472 (1984) ("Canons of construction [**8] indicate that terms connected in the disjunctive .
+.
+.
+be given separate meanings.").
+The terms "enjoin" and "suspend" suggest entirely arresting tax collection, but "restrain" has a broader ordinary meaning.
+See Smith v. United States , 508 U.S. 223 , 228 , 113 S.Ct. 2050 , 124 L.Ed.2d 138 (1993) ("When a word is not defined by statute, we normally construe it in accord with its ordinary or natural meaning.").
+Under most definitions, "restrain" means to limit, restrict, or hold back.
+See Webster's Third New International Dictionary 1936 (1976) (defining "restrain" as "to limit or restrict .
+.
+.
+a particular action or course" and "to moderate or limit the force, effect, development, or full exercise of"); American Heritage Dictionary of the English Language 1497 (2011) (defining "restrain" as "[t]o hold back or keep in check"); see also Black's Law Dictionary 1429 (9th ed.2009) (defining "restraint" as "[c]onfinement, abridgment, or limitation").
+We accept this ordinary meaning of "restrain," cognizant of the Supreme Court's instruction that the TIA is a broad jurisdictional prohibition.
+See Farm Credit Servs.
+, 520 U.S. at 825 , 117 S.Ct. 1776 ; Rosewell , 450 U.S. at 524 , 101 S.Ct. 1221 ; Moe v. Confederated Salish and Kootenai Tribes of Flathead Reservation , 425 U.S. 463 , 470 , 96 S.Ct. 1634 , 48 L.Ed.2d 96 (1976); see also Brooks v. Nance , 801 F.2d 1237 , 1239 (10th Cir.1986); Gasparo v. City of New York , 16 F.Supp.2d 198 , 216 (E.D.N.Y.1998) (The TIA "has not been narrowly construed, but rather constitutes a broad restriction on federal court jurisdiction."
+(quotations omitted)).
+A lawsuit seeking to enjoin state laws enacted to ensure compliance with and increase use tax collection, like DMA's challenge here, would "restrain" state tax collection.
+Such a lawsuit, if successful, would limit, restrict, or hold back the state's chosen method of enforcing its tax laws and generating revenue.
+Federalism concerns, which the TIA seeks to avoid, arise not only when a state tax is challenged in federal court, but also when the means for collecting a state tax are targeted there.
+The TIA's use of the term "restrain" allows federal courts to weed out lawsuits, such as DMA's, that attempt to undermine state tax collection.
+Although DMA does not directly challenge a tax, it contests the way Colorado wishes to collect use tax.
+This court has said that the TIA "cannot be avoided by an attack on the administration of a tax as opposed to the validity of the tax itself."
+Brooks , 801 F.2d at 1239 .
+In making this statement, we agreed with Czajkowski v. Illinois , 460 F.Supp.
+1265 (N.D.Ill.1977), which applied the TIA to a challenge to state cigarette tax enforcement, even though it was "arguable that plaintiffs [were] only seeking to enjoin the state from using unconstitutional methods and procedures to collect the taxes, rather than the collection of taxes itself."
+Id. at 1272.
+We acknowledge that DMA's suit is unlike TIA cases in which a plaintiff asks a federal court to invalidate and enjoin a state tax.
+Even if DMA's constitutional attack on the notice and reporting obligations were successful, Colorado consumers would still owe use taxes by law.
+But the state-chosen method to secure those taxes would be compromised, curbing Colorado's ability to collect revenue.
+The inquiry under the TIA is whether DMA's lawsuit would restrain state tax collection.
+Although DMA's lawsuit [**9] differs from the prototypical TIA case, its potential to restrain tax collection triggers the jurisdictional bar.
+DMA suggests that the obligations imposed on non-collecting retailers merely "relate to use tax owed by Colorado consumers."
+Aplee.
+Br. at 4.
+We disagree with DMA's characterization and attempt to distance the notice and reporting obligations from the collection of a state tax.
+Colorado enacted the notice and reporting obligations to increase taxpayers' compliance with use tax laws and thereby increase use tax collection.
+Even the title of the bill that later became law reflects its tax collection purpose: "An Act Concerning the Collection of Sales and Use Taxes on Sales Made by Out-of-State Retailers."
+Id. at 5 (emphasis added).
+One of the challenged requirements, the annual customer information reports sent to the Department, would aid the Department's auditing of taxpayers, a significant tax collection mechanism.
+Indeed, the tax collection goal of the notice and reporting requirements is apparent because out-of-state retailers who voluntarily collect tax on Colorado purchases are exempt.
+The purposes of the TIA apply both to a lawsuit that would directly enjoin a tax and one that would enjoin a procedure required by the state's tax statutes and regulations that aims to enforce and increase tax collection.
+Either action interferes with state revenue collection and falls within the "traditional heartland of TIA cases" that dismiss federal lawsuits to protect state coffers.
+Hill , 478 F.3d at 1250 ; see also Brooks , 801 F.2d at 1239 (the TIA "cannot be avoided by an attack on the administration of a tax as opposed to the validity of the tax itself"); Jerron W., Inc. v. State of Cal., State Bd. of Equalization , 129 F.3d 1334 , 1337 (9th Cir.1997) (applying the TIA to an action seeking to enjoin a hearing and administrative proceedings that were integral to the state's sales tax assessment and collection scheme).
+Other courts have applied the TIA to attacks on tax collection methods, rather than taxes themselves.
+In Gass v. County of Allegheny , 371 F.3d 134 (3d Cir.2004), the Third Circuit held that the TIA barred a lawsuit challenging a state tax appeals procedure.
+Although the appellant argued that its lawsuit did not affect the state's ability to collect tax, the appellate court concluded that the "appeal process is directed to the .
+.
+.
+ultimate goal and responsibility of determining the proper amount of tax to assess" and thus fell within the TIA.
+Id. at 136.
+Similarly, the Ninth Circuit has applied the TIA to bar a suit that would have prohibited disclosure of tax information to state taxing authorities.
+Blangeres v. Burlington N., Inc. , 872 F.2d 327 , 328 (9th Cir.1989) (per curiam).
+The lawsuit sought to withhold "earnings records and other taxrelated information to the Idaho and Montana taxing authorities."
+Id. As here, the taxpayer would have continued to owe tax, but the states would have been deprived of the means to calculate and collect it.
+The Ninth Circuit said, "[t]he fact that the injunction would restrain assessment indirectly rather than directly does not make the [TIA] inapplicable."
+[**10] Id.; see also RTC Commercial Assets Trust 1995-NP3-1 v. Phoenix Bond & Indem. Co. , 169 F.3d 448 , 454 (7th Cir.1999) ("[T]he TIA withdraws federal jurisdiction even over actions that would indirectly restrain the assessment, levy, or collection of taxes.").
+The Ninth Circuit has since explained that whether the TIA applies depends on "the effect of federal litigation on the state's ability to collect revenues, and will only bar the adjudication of a federal constitutional claim in federal court if a judgment for the plaintiffs will hamper a state's ability to raise revenue."
+Winn v. Killian , 307 F.3d 1011 , 1017 (9th Cir.2002), aff'd sub nom.
+Hibbs , 542 U.S. 88 , 124 S.Ct. 2276 .
+We have little problem concluding that DMA's lawsuit would hamper Colorado's ability to raise revenue.
+ii.
+DMA's additional arguments DMA responds that the Supreme Court has cautioned that the TIA is not a "sweeping congressional direction to prevent federal-court interference with all aspects of state tax administration."
+Hibbs , 542 U.S. at 105 , 124 S.Ct. 2276 .
+We have acknowledged this point, see Chamber of Commerce v. Edmondson , 594 F.3d 742 , 761 (10th Cir.2010), and continue to do so here.
+But in making this pronouncement, the Supreme Court was distinguishing between federal lawsuits that would not curb state revenue collection, and therefore would not fall within the TIA, and "[f]ederal-court relief [that] .
+.
+.
+[would] reduce the flow of state tax revenue," and thus trigger the TIA.
+Hibbs , 542 U.S. at 106 , 124 S.Ct. 2276 .
+DMA's Commerce Clause claims fall within the latter category.
+DMA also cites two federal circuit court cases to argue that our interpretation of the TIA is overly broad: United Parcel Service Inc. v. Flores-Galarza ("UPS") , 318 F.3d 323 , 330-32 (1st Cir.2003), and Wells v. Malloy , 510 F.2d 74 , 77 (2d Cir. 1975).
+In UPS , the First Circuit addressed whether the Butler Act, a close relative of the TIA, deprived it of jurisdiction over a challenge to Puerto Rico's interstate package delivery scheme.
+The Butler Act provides that "[n]o suit for the purpose of restraining the assessment or collection of any tax imposed by the laws of Puerto Rico shall be maintained in the United States District Court for the District of Puerto Rico."
+48 U.S.C. 872 .
+UPS challenged Puerto Rico's statutory scheme prohibiting an interstate carrier from delivering a package unless the recipient presented a certificate of excise tax payment.
+See UPS , 318 F.3d at 326 .
+Alternatively, interstate carriers could prepay excise tax and seek reimbursement from package recipients, but this option imposed expensive and burdensome statutory and regulatory obligations.
+Id. The First Circuit determined the Butler Act did not bar UPS's action.
+It reasoned that "UPS sought to enjoin only those provisions .
+.
+.
+that prohibit or interfere with the delivery of packages.
+UPS did not challenge the amount or validity of the excise tax, nor the authority of the Secretary to assess or collect it."
+Id. at 330-31.
+The court also said that Puerto Rico's package "delivery ban targets third parties instead of those who owe the tax."
+Id. at 331.
+It found that Puerto Rico's laws produced excise tax revenue "indirectly through a more general use of coercive power" and did not create "a system of tax collection within the meaning of the Butler Act."
+Id. (quotations [**11] omitted).
+Even if UPS counsels against applying the TIA here, we decline to follow it.
+Much of UPS's reasoning conflicts with our own binding case law.
+For instance, UPS found it important that the plaintiff did "not challenge the amount or validity of the excise tax," id. at 330-31, but we have said the TIA "cannot be avoided by an attack on the administration of a tax as opposed to the validity of the tax itself."
+Brooks , 801 F.2d at 1239 .
+The UPS court also declined to apply the Butler Act because Puerto Rico's laws targeted third parties, not taxpayers.
+But, as discussed above, we recognized in Hill that the TIA can apply to third-party lawsuits that enjoin, suspend, or restrain tax collection.
+See 478 F.3d at 1249 .
+Indeed, much of the reasoning in UPS would have counseled against applying the TIA to the license plate lawsuit in Hill.
+DMA also cites Wells v. Malloy , 510 F.2d 74 , 77 (2d Cir. 1975) (Friendly, J.).
+In Wells , the plaintiff sought to enjoin a Vermont provision that required suspension of his driver's license for failure to pay motor vehicle taxes.
+Id. at 76.
+The plaintiff did not dispute owing taxes.
+Id. The district court determined the TIA barred the action, but the Second Circuit disagreed.
+The court concluded the plaintiff was not seeking to restrain the collection of a tax.
+It said, '"Collection,' of course, could be read broadly to include anything that a state has determined to be a likely method of securing payment."
+Id. at 77.
+But the court interpreted "collection" to mean "methods similar to assessment and levy .
+.
+.
+that would produce money or other property directly, rather than indirectly through a more general use of coercive power."
+Id. Like Wells , we do not interpret the TIA as applying to any action challenging a state law that could possibly secure tax payment.
+But here DMA challenges laws enacted to notify consumers of their duty to pay use tax and to garner information on consumer purchases to ensure tax compliance through audits.
+Its lawsuit targets measures that attempt to ensure tax compliance in the first instance, not sanctions imposed after a taxpayer has admittedly refused to pay taxes.
+Colorado's laws are not a reactive and punitive "general use of coercive power" to entice tax payment from individuals who admittedly refuse to pay, and we therefore do not think Wells applies here.
+Finally, we mention one recent development.
+After oral argument in this case, this court considered the application of the Anti-Injunction Act ("AIA"), 26 U.S.C. 7421 , in Hobby Lobby Stores, Inc. v. Sebelius , 723 F.3d 1114, 2013 WL 3216103 (10th Cir. June 27, 2013) (en banc).
+Using somewhat similar language to the TIA, the AIA states that "no suit for the purpose of restraining the assessment or collection of any tax shall be maintained in any court by any person, whether or not such person is the person against whom such tax was assessed."
+26 U.S.C. 7421 (a).
+Whereas the TIA protects state tax measures, the AIA "protects the [federal] Government's ability to collect a consistent stream of revenue, by barring litigation to enjoin or otherwise obstruct the collection of taxes."
+Nat'l Fed'n of Indep. Bus. v. Sebelius , U.S. , 132 S.Ct. 2566 , 2582 , 183 L.Ed.2d 450 (2012).
+In Hobby Lobby , two corporations challenged [**12] a federal requirement that they provide employees with health insurance coverage for certain contraceptive methods.
+723 F.3d at 1121 , 2013 WL 3216103 at *1.
+Failure to comply with the federal requirement exposed the corporations to a "tax" under 26 U.S.C. 4980 .
+Id. at 1126-27, 2013 WL 3216103 at *7.
+We considered whether the AIA barred the corporations' action because their suit might enjoin a tax on them for non-compliance with the health care coverage requirement.
+We explained that the corporations were "not seeking to enjoin the collection of taxes or the execution of any IRS regulation; they [were] seeking to enjoin the enforcement, by whatever method, of one HHS regulation" regarding contraceptive coverage.
+Id.; see also id. ("[T]he corporations' suit is not challenging the IRS's ability to collect taxes.").
+The "tax [was] just one of many collateral consequences" of noncompliance with the federal contraceptive-coverage requirement.
+Id. Moreover, "[t]he statutory scheme ma[de] clear that the tax at issue [was] no more than a penalty for violating regulations .
+.
+.
+and the AIA does not apply to the exaction of a purely regulatory tax."
+Id. at 1127, 2013 WL 3216103 at *8 (quotations omitted).
+[fn7] Our position in this appeal is consistent with the analysis in Hobby Lobby.
+The corporations in Hobby Lobby challenged a health insurance regulation and a possible penalty for failing to comply with that regulation.
+To the extent that the penalty constituted a "tax" under the AIA, an issue that this court seemed to doubt in Hobby Lobby , it was a "more general use of coercive power," Wells , 510 F.2d at 77 , and fell outside the bounds of the AIA.
+Here, DMA challenges notice and reporting requirements in Colorado's sales and use tax statutory scheme.
+These requirements are not a coercive use of power or punitive in nature — they are the state's chosen means of enforcing use tax collection in the first instance.
+And the state's use tax is indisputably a "tax" under the TIA.
+The revenue-generating, non-punitive purpose of the notice and reporting obligations places them squarely within the TIA's protection.
+DMA's action seeks to restrain the collection of sales and use taxes in Colorado.
+The state's notice and reporting obligations, while not taxes themselves, were enacted with the sole purpose of increasing use tax collection.
+Indeed, the obligations for non-collecting retailers are a substitute for requiring these same retailers to collect sales and use taxes at the point of sale, an approach the Colorado legislature deemed foreclosed by the Supreme Court's decision in Quill.
+Having determined that DMA's action falls within the TIA's prohibition on federal lawsuits that would "enjoin, suspend or restrain the assessment, levy or collection of any tax under State law," 28 U.S.C. 1341 , we proceed to the statute's second element.
+2.
+Does DMA have a plain, speedy, and efficient remedy in Colorado?
+For the TIA to apply, DMA must also have a "plain, speedy and efficient remedy .
+.
+.
+in the courts of [Colorado]."
+28 U.S.C. 1341 .
+This part of the TIA requires that Colorado law offer a "full hearing and judicial determination" on its claims.
+See Rosewell , 450 U.S. at 514 , 101 S.Ct. 1221 (quotations omitted).
+We must be convinced that Colorado law provides [**13] DMA with sufficient process to challenge the notice and reporting requirements.
+See Hill , 478 F.3d at 1253-54 .
+As previously discussed, Congress intended for the TIA to impose a "broad jurisdictional barrier" that "limit[s] drastically federal district court jurisdiction to interfere with so important a local concern as the collection of taxes."
+Farm Credit Servs.
+, 520 U.S. at 825 , 117 S.Ct. 1776 ; see also Grace Brethren Church , 457 U.S. at 413 , 102 S.Ct. 2498 .
+The TIA's "plain, speedy and efficient remedy" provision is therefore interpreted "narrowly" to "be faithful to [this] congressional intent."
+Id. Our narrow inquiry asks only whether the "state-court remedy .
+.
+.
+meets certain minimal procedural criteria."
+Rosewell , 450 U.S. at 512 , 101 S.Ct. 1221 ; see also Colonial Pipeline Co. v. Morgan , 474 F.3d 211 , 218 (6th Cir.2007) ("The plain, speedy and efficient remedy contemplated by [the Tax Injunction Act] merely requires that the state provide certain minimal procedural protections against illegal tax collection."
+(quotations omitted)).
+The TIA does not require that the state provide the best or speediest remedy.
+See Rosewell , 450 U.S. at 520 , 101 S.Ct. 1221 ; Alnoa G. Corp. v. City of Houston, Tex. , 563 F.2d 769 , 772 (5th Cir.1977).
+And "the likelihood of [a] plaintiff's success in the state court is not a factor .
+.
+.
+when determining whether the jurisdictional prohibition of [the TIA] applies."
+Cities Serv.
+Gas Co. v. Okla.
+Tax Comm'n , 656 F.2d 584 , 586 (10th Cir.1981).
+DMA does not challenge the process available to it in Colorado.
+Colorado state courts can and do grant relief in cases challenging the constitutionality of tax measures.
+See Riverton Produce Co. v. State , 871 P.2d 1213 , 1230 (Colo.1994) (en banc).
+Further, Colorado courts have considered Commerce Clause challenges involving taxes.
+See Gen.
+Motors Corp. v. City & Cnty. of Denver , 990 P.2d 59 , 73 (Colo.1999) (en banc); People v. Boles , 280 P.3d 55 , 62-63 (Colo.App.2011).
+Circuit courts have routinely said that such available process in state court satisfies the TIA's "plain, speedy and efficient remedy" element.
+See, e.g., Washington v. Linebarger, Goggan, Blair, Pena & Sampson, LLP , 338 F.3d 442 , 444-45 (5th Cir.2003) (availability of a state tax protest provision "or a state declaratory action" was an adequate remedy); Folio v. City of Clarksburg, W. Va. , 134 F.3d 1211 , 1215 (4th Cir.1998) (declaratory relief available in state court); Smith v. Travis Cnty. Educ. Dist. , 968 F.2d 453 , 456 (5th Cir.1992) (remedy available in state court); Burris v. City of Little Rock , 941 F.2d 717 , 721 (8th Cir.1991) ("[Plaintiffs] could also have obtained a declaratory judgment under Ark.
+Code Ann. 16-111-103 .
+Federal constitutional claims may, of course, be raised in state court.
+"); Long Island Lighting Co. v. Town of Brookhaven , 889 F.2d 428 , 431 (2d Cir.1989) (declaratory judgment available under New York law); Ashton v. Cory , 780 F.2d 816 , 819-20 (9th Cir.1986) (plaintiff had no plain state refund remedy, but had already "assert[ed] its claims in the California courts," which "afford[ed] the required full hearing and judicial determination of its preemption claims"); Sipe v. Amerada Hess Corp. , 689 F.2d 396 , 405 (3d Cir.1982) (in personam proceeding could be maintained in state court).
+We are hesitant, however, to stop our analysis there.
+The Supreme Court in Hibbs suggested that the TIA does not refer to general process available in state court.
+The Court said that a "plain, speedy and efficient remedy" under 28 U.S.C. 1341 is "not one designed for the universe of plaintiffs who sue the State.
+Rather, it [is] a remedy [**14] tailormade for taxpayers."
+542 U.S. at 107 , 124 S.Ct. 2276 .
+It then cited to decisions in which taxpayers were allowed to protest taxes in state court after first seeking a refund under state administrative law.
+Although the Hibbs Court was not deciding any issue specifically dealing with the "plain, speedy and efficient remedy" language of the TIA, its brief discussion suggests that the statutory language may contemplate something more than the general availability of a remedy to "the universe of plaintiffs who sue the State."
+[fn8] As discussed earlier, in Hill v. Kemp , this court determined that the TIA may bar third-party non-taxpayer lawsuits, despite the Hibbs Court's discussion of taxpayer lawsuits.
+478 F.3d at 1249 ("Nothing in the language of the TIA indicates that our jurisdiction to hear challenges to state taxes can be turned like a spigot, off when brought by taxpayers challenging their, own liabilities and on when brought by third parties challenging the liabilities of others.").
+In Hill , the plaintiffs had a "plain, speedy and efficient" remedy in state court because Oklahoma tax statutes provided "a general right to protest taxes before the Tax Commission," as well as a right of action to remedy grievances for any state tax law that is contrary to federal law or the Constitution.
+Id. at 1253-54 (citing 68 Okla. Stat. 201[ 68-201 ] et seq.
+and id. 226).
+Oklahoma law also specifically allowed for declaratory relief against unlawful taxes.
+Id. at 1254 (citing 12 Okla. Stat 1397[ 12-1397 ]).
+Thus, in Hill , the plaintiffs could seek a remedy under specific state tax laws.
+This was consistent with Hibbs in that these remedies were not available to the universe of plaintiffs suing the state.
+Accordingly, we address whether Colorado's tax laws similarly provide a more specific remedy to DMA: How can DMA or the remote retailers it represents challenge Colorado's statutory scheme outside of filing an action in state court for injunctive or declaratory relief?
+DMA complains that Colorado's laws force remote retailers to choose between obeying the notice and reporting requirements and remitting sales tax to the Department.
+Aplee.
+Br. at 46-47.
+Much like a taxpayer who seeks to challenge a state tax but must first pay the tax and seek a refund under state law, a remote retailer could choose to remit sales tax and then seek a refund.
+Colo.Rev.Stat.
+39-26-703 (2.5)(a) allows retailers to "file any claim for refund with the executive director of the department of revenue."
+(Emphasis added).
+[fn9] In pursuing the refund, the retailer could argue that Colorado laws unconstitutionally coerce it to choose between collecting a sales tax and complying with the notice and reporting requirements, the same Commerce Clause argument it brings here.
+See Aplee.
+Br. at 46-47 ("[T]he State of Colorado seeks to compel retailers who have declined to collect Colorado sales tax voluntarily[] to give[]up their constitutional rights not to collect such taxes.
+Although the [Department] argues that the retailer's decision in the face of such coercion is a 'choice,' the Constitution precludes such oppressive and discriminatory measures against interstate [**15] commerce."
+(citation omitted)).
+The director then would "promptly examine such claim and .
+.
+.
+make a refund or allow a credit to any [retailer] who establishes that such [retailer] overpaid the tax due."
+Colo.Rev.Stat.
+39-26-703 (2.5)(a).
+If the retailer is "aggrieved at the final decision," it may seek review in the state district courts.
+Id. 39-26-703(4).
+Another remedy for a remote retailer is to challenge any penalties it incurs for failing to comply with the notice and reporting obligations.
+See, e.g., id. 39-21-112(3.5)(c)(II), (d)(III)(A)-(B) (providing for penalties).
+Under Colo. Rev. Stat 39-21-103 , a taxpayer may dispute a tax owed to the Department after receiving a notice of deficiency and may request a hearing.
+Although this provision discusses tax deficiencies, it also contemplates disputes involving penalties owed to the Department.
+See id. 39-21-103(8)(c).
+This provision also contemplates the taxpayer and the executive director agreeing that "a question of law arising under the United States or Colorado constitutions" is implicated in the dispute, bypassing a hearing, and going "directly to the district court."
+Id. 39-21-103(4.5).
+[fn10] We are satisfied that Colorado provides avenues for remote retailers to Challenge the scheme allegedly forcing them to choose between collecting sales tax and complying with the notice and reporting requirements.
+Colorado's administrative remedies provide for hearings and appeals to state court, as well as ultimate review in the United States Supreme Court.
+See Rosewell , 460 U.S. at 514 , 101 S.Ct. 1221 (a plain, speedy, and efficient remedy exists if a "full hearing and judicial determination" is available and the party "may raise any and all constitutional objections to the tax"); see also Colonial Pipeline , 474 F.3d at 218 ("State procedures that call for an appeal to a state court from an administrative decision meet these minimal criteria."
+(quotation's omitted)).
+Whether DMA or a remote retailer it represents files a similar lawsuit in state court seeking injunctive and declaratory relief, or whether it follows Colorado's administrative tax procedures, a plain, speedy, and efficient remedy is available in Colorado.
+III.
+CONCLUSION The TIA divested the district court of jurisdiction over DMA's Commerce Clause claims, and we therefore have no jurisdiction to reach the merits of this appeal.
+[fn11] We remand for the district court to dismiss DMA's Commerce Clause claims for lack of jurisdiction, dissolve the permanent injunction entered against the Department, and take further appropriate action consistent with this opinion.
+In Levin , the Court discussed three factors that "compel[led] forbearance on the part of federal district courts" with respect to a Commerce Clause and equal protection challenge to Ohio's taxation scheme: (1) the state enjoyed great freedom in tax classifications, as opposed to more suspect classifications; (2) the plaintiffs sought to improve their competitive position; and (3) the state courts were not as constrained in fashioning a remedy.
+Id. at 2336.
+Similar considerations control here and "demand deference to the state adjudicative process."
+Id.

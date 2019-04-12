@@ -1,0 +1,402 @@
+ PATRICK E. HIGGINBOTHAM, Circuit Judge: Today we decide one of the many cases arising from the rubble of Enron Corporation, which fell from its lofty corporate perch in 2001 wreaking financial ruin upon thousands of investors, creditors, and employees.
+Like a falling giant redwood, it took down with it many members of its supporting cast.
+Our present focus is upon one of those, Arthur Andersen, LLP, then one of the largest accounting and consulting firms in the world.
+Arthur Andersen appeals from a judgment of conviction entered in the Southern District of Texas upon a jury verdict finding it guilty of obstructing an official proceeding of the Securities and Exchange Commission, in violation of 18 U.S.C. 1512(b)(2) .
+The indictment leading to the conviction was returned on March 7, 2002, charging Andersen in a single count of corruptly persuading one or more Andersen personnel to withhold, alter, destroy, or conceal documents with the intent to impair their availability in an official proceeding.
+That proceeding, which the government said Andersen knew was imminent and inevitable, was an investigation by the SEC into the relationship between Enron and Andersen, from whom Enron obtained accounting, auditing, and consulting services.
+Trial commenced on May 6, 2002, and the verdict was returned on June 15, 2002.
+Writ large, the government says that Andersen, in an effort to protect itself and its largest single account, ordered a mass destruction of documents to keep them from the hands of the SEC. Andersen asks this court to reverse its conviction, urging errors in four evidentiary rulings, misconduct by the prosecutor in his rebuttal jury summation, and two legal contentions regarding the required proof under 1512(b)(2) .
+The evidentiary rulings include admitting extensive evidence regarding two unrelated SEC enforcement actions against Andersen, excluding evidence of the volume of documents Andersen did not destroy, and excluding impeachment evidence.
+Regarding the proof required by 1512(b)(2) , Andersen urges that given its element of "corruption," the government had to prove more than that it acted with an intent to impede the SEC. Finally, Andersen asserts that the government had to prove that Andersen intended to interfere with a "particular" proceeding.
+We are not persuaded that this conviction is flawed by reversible error and we affirm the judgment of conviction.
+I During the 1990's, Enron transformed itself from a natural gas pipeline operator into a trading and investment conglomerate with a large volume of trading in the energy business.
+Andersen both audited Enron's publicly filed financial statements and provided internal audit and consulting services.
+By the late 1990's, Andersen's "engagement team" for its Enron account [**2] included more than 100 people, a significant number of which worked exclusively in Enron quarters in Houston, Texas.
+From 1997 through 2001 the engagement team's leader was David Duncan.
+He was in turn subject to certain managing partners and accounting experts in Andersen's Chicago office.
+Enron was a valued client producing 58 million dollars in revenue in 2000 for Andersen with projections of 100 million for the next year.
+Enron's Chief Accounting Officer and Treasurer throughout this period came to the employ of Enron from the accounting staffs of Andersen, as did dozens of others.
+This was a close relationship.
+Indeed, the jury heard evidence that Andersen removed at Enron's request at least one accountant from his assignment with Enron after Enron disagreed with his accounting advice.
+With Enron's move to energy trading and rapid growth came aggressive accounting, pushing Generally Accepted Accounting Principles to its advantage.
+Part of this picture included Enron's use of "special purpose entities," SPEs.
+These were "surrogate" companies whose purpose was to engage in business activity with no obligation to account for the activity on Enron's balance sheet.
+Four of these SPEs — called Raptors — play a large role in this story.
+They were created in 1999 and 2001, with the assistance of Andersen, largely capitalized with Enron stock.
+The Raptors engaged in transactions with "LJM," an entity run by Andrew Fastow, Enron's Chief Financial Officer.
+By late 2000 and early 2001, the traded price of Enron's stock was dropping and some of the Raptor's investments were also turning downward.
+Some of the SPEs were profitable and some were experiencing sharp losses.
+But aggregated they reflected a positive return to Enron.
+GAAP would not permit such an aggregation of the four entities and Andersen's Chicago office told David Duncan that it would not — that it was a "black and white" violation.
+That advice was ignored and the losses were buried under the profits of the group in the public reporting for the first quarter 2001.
+The slide of Enron stock continued, dropping some 50% from January to August 2001.
+The summer of 2001 brought problems to Andersen on other fronts, and these "unrelated" events later become important to the issues before us.
+In June 2001 Andersen settled a dispute with the SEC regarding Andersen's accounting and auditing work for Waste Management Corporation.
+Andersen was required to pay some $7 million, the largest monetary settlement ever exacted by the SEC, and Andersen suffered censure under SEC Rule 102(e).
+Then in July 2001, the SEC sued five officers of Sunbeam Corporation and the lead Andersen partner on its audit.
+Meanwhile, events at Enron began to accelerate.
+On August 14, 2001, Jeffrey Skilling, Enron's CEO, resigned, pushing Enron stock further downward.
+Within days, Sherron Watkins, a senior accountant at Enron, formerly at Andersen, warned Enron's Chairman, Kenneth Lay, that Enron "could implode in a wave of accounting scandals."
+She also warned David Duncan and Michael Odom, an Andersen partner in Houston who [**3] had oversight responsibility for Duncan.
+Chairman Lay promptly asked Enron's principal outside legal counsel to examine the accused transactions.
+And by early September, senior Andersen officials and members of its legal department formed a "crisis-response" group, including, among others, its top risk manager and Nancy Temple, an in-house lawyer in Chicago assigned to Enron matters on September 28, 2001.
+Possible proceedings became a reality on November 8, 2001, when Andersen received an SEC subpoena.
+The time line between September 28 and November 8, from a possibility of a proceeding to fact, is important and we turn briefly to that narrative.
+1 On October 8, Andersen contacted a litigation partner at Davis, Polk and Wardwell in New York regarding representation of Andersen.
+The following day, Nancy Temple discussed the problem of Enron with senior in-house counsel at Andersen.
+Her notes from this meeting refer to an SEC investigation as "highly probable" and to a "reasonable possibility" of a restatement of earnings.
+Her notes also recorded, "without PSG agreement, restatement and probability of charge of violating cease and desist in Waste Management."
+Two days later, on October 10, Temple urged Andersen personnel to comply with the document retention policy, noting "if it's destroyed in the course of normal policy and litigation is filed the next day, that's great .
+.
+.
+we've followed our own policy and whatever there was that might have been of interest to somebody is gone and irretrievable."
+On October 12, Temple entered the Enron crisis into Andersen's internal tracking system for legal matters, labeling it "government regulatory investigation," and asked Odom if the engagement team was in compliance with Andersen's document policy.
+Odom forwarded the email to Duncan in Houston.
+Meanwhile, Enron was facing an October 16 date for announcing its third quarter results.
+That release had to disclose a $1.01 billion charge to earnings and, to correct an accounting error, a $1.2 billion reduction in shareholder equity.
+Enron's draft of the proposed release described the charge to earnings as "non-recurring."
+Andersen's Chicago personnel advised that this phrase was misleading, but Enron did not change it.
+With one exception, Andersen took no action when its advice was not followed: Temple suggested that Andersen's characterization of the draft release as misleading be deleted from the email exchanges.
+An SEC letter to Enron quickly followed the releases of October 16.
+In the letter the SEC advised that it had opened an informal investigation in August and an additional accounting letter would follow.
+Andersen received a copy of the letter on Friday, October 19.
+A Saturday morning conference of Andersen's Enron crisis group followed.
+While the meeting traversed a range of issues, Temple again reminded all "to make sure to follow the policy."
+The following Tuesday, October 23, Enron had a telephone conference with security analysts.
+At the same time, Duncan scheduled an "urgent" and "mandatory" meeting in Houston at which, following [**4] lengthy discussion of technical accounting issues, he directed the engagement team to comply with Andersen's records retention policy.
+On October 26, a senior partner at Andersen circulated an article from the New York Times discussing the SEC's response to Enron.
+In an email, he commented that "the problems are just beginning and we will be in the cross-hairs.
+The marketplace is going to keep the pressure on this and it's going to force the SEC to be tough."
+Evidence that this prediction of SEC toughness was sound came quickly.
+On October 30, the SEC sent Enron a second letter requesting accounting documents — a letter signed by the two top enforcement division officials.
+Throughout this period Andersen's Houston office shredded documents.
+Government witnesses detailed the steady shredding and deletion of documents and the quantity of paper trucked away from the Houston office.
+Almost two tons of paper were shipped to Andersen's main office in Houston for shredding.
+The government produced an exhibit at trial charting the time and quantity of the carted waste paper from January 2001 through December of that year.
+The pounds carted remained fairly steady at a rate under 500 pounds, but spiked on October 25 to just under 2500 pounds.
+The shredding continued until the SEC served its subpoena for records on November 8.
+Temple advised Duncan that the subpoenae had been served.
+The next day Duncan's assistant advised the Houston team: "Per DAVE — No more shredding.
+.
+.
+.
+We have been officially served for our documents."
+Enron filed for bankruptcy on December 2, 2001.
+The following April, David Duncan pleaded guilty to obstructing the SEC. II We turn first to Andersen's claims of error in certain evidentiary rulings at trial.
+1 The first such contention urges error in the district court's exclusion of Andersen's evidence of the volume of documents retained by the engagement team that were either not deleted or recaptured and produced to the SEC.
+This evidence was relevant, Andersen argues, because it is inconsistent with the charge that its personnel were "corruptly persuaded" to destroy documents and delete emails to keep them from the SEC. Andersen's explanation for the shredding and deleting, at least for the upward spike on October 23, was that personnel in its Houston office were attempting to clean up their files in anticipation of their examination by Chicago supervising personnel, and that the presence of multiple copies of significant documents was evidence that there was "no systematic attempt to root out embarrassing materials."
+The argument continues that the district court misunderstood the issue.
+Pointing to an in limine order, Andersen argues that Judge Harmon believed the proffered evidence inadmissible as an attempt to offer evidence that "on other occasions the defendant acted innocently," when the true thrust of the evidence was to negate the evidence that any person acting for Andersen acted corruptly and with the intent necessary to commit the charged crime.
+The government replies that [**5] refusing to admit the documents into evidence was simply the court's enforcement of its pretrial ruling on discovery — that the defendant could not offer documents in trial that it had not produced for examination by the prosecution before trial; that Andersen never authenticated the documents nor by a proper predicate demonstrated that the documents not destroyed, to which it wanted to point, were relevant Enron documents.
+Relatedly, the government notes that other evidence was before the jury demonstrating that not all of the documents were destroyed.
+Finally, it argues that the evidence supporting Andersen's conviction is so powerful, that any error was not reversible error.
+The government relied on the volume of documents destroyed as evidence of Andersen's intent.
+It follows that competent evidence countering the government's proof of the volume of shredding, as well as its timing, undeniably had some relevance.
+To put the issue in perspective, Andersen did not attempt to deny that it shredded large numbers of documents and for sustained periods, leaving the government's assertion to this extent largely unchallenged.
+Nor does Andersen's principal argument claim error in the exclusion of specific documents alleged to have been destroyed.
+In sum, that all documents were not destroyed and that large numbers of documents were produced to the SEC by Andersen was not challenged.
+2 Some 21 boxes of Duncan's preserved desk files were introduced by Andersen and displayed to the jury.
+Andersen's explanation for the undeniable surge in shredding and the persistent and uncustomary reminders to employees to abide Andersen's retention policy was that it wanted to leave only the work papers of auditing efforts, and that Duncan did not want his superiors in Chicago to face his unkempt files.
+That explanation pointed to the upsurge in papers trucked away shortly after he learned of his superior's planned visit to Houston.
+The jury was free to evaluate this testimony.
+Andersen maintained at trial that it was not offering the specific documents into evidence and hence its proffer of documents not identified to the prosecution as trial exhibits before trial did not violate the pretrial order entered by the trial judge; that it wanted to place into perspective the government's evidence of the amount of paper carted away by proof of the large amount of documents produced for the SEC. The government responded at trial that the evidence would not be relevant without the predicate proof of what the documents were and that proof, if forthcoming, would put the proffer in the teeth of the pretrial preclusion order.
+Fine point it is, but we cannot conclude that the trial judge abused her discretion in this ruling.
+Regardless, even if there was a sufficient showing that these documents were relevant to the SEC proceeding, it is clear that Andersen was denied only this particular method of demonstrating that it produced a large number of documents; that it otherwise made this showing at trial is not seriously [**6] challenged.
+The district court observed that there was "ample evidence already in the record that all the documents were not destroyed" and that "Andersen does not need to introduce evidence of 1660 boxes of remaining desk files to make this point."
+Any error was not reversible error.
+In sum, we are not persuaded that the district court committed reversible error in its rulings regarding the evidence of the volume of documents destroyed or retained.
+2 We turn next to Andersen's contention that the district court erred in allowing the government to offer evidence of two SEC proceedings filed against it arising out of Andersen's work with Sunbeam Corp and Waste Management, Inc. Andersen argues that the evidence of these charges of its misconduct and their settlement was not relevant in that there was no evidence that they were connected to any "corrupt persuader," or that any partner at Andersen involved in work at Sunbeam or Waste Management was also involved with its Enron account.
+It concedes that while the fact of these two difficulties with the SEC offers at least "a small kernel" of relevant evidence that "could have been thought relevant," far too much detail of the unproved accusations and settlements were admitted.
+This excess was such that the jury could not be expected to cabin its consideration to Andersen's motive in shredding documents.
+Rather, the argument goes, the government was allowed to prove that Andersen was "a bad corporate actor and should be found guilty for that reason alone."
+Rule 404(b) is a rule of inclusion allowing proof of prior bad acts of a defendant when the acts are relevant to an issue other than the defendant's character, such as "motive, opportunity, intent, preparation, plan, knowledge, identity, or absence of mistake or accident."
+3 When the relevance of an issue is shown, the inquiry turns to Rule 403 , which requires the exclusion of the evidence if its relevance is substantially outweighed by the danger of unfair prejudice.
+4 There must be a "genuine risk that the emotions of the jury will be excited to irrational behavior," and the risk must be "disproportionate to the probative value of the offered evidence."
+5 We will reverse only on a clear showing of a prejudicial abuse of discretion.
+6 The government opened its case with the testimony of Thomas Newkirk, one of four associate directors in the Division of Enforcement of the SEC.
+He explained (1) the structure of the Agency; (2) the difference between a matter under investigation or MUI and a formal inquiry; (3) that a 102(e) proceeding is directed at professionals engaged in misconduct in their practice before the commission, such as lawyers or accountants; and (4) that this proceeding could result in both a prohibition of practice before the SEC and censure for unprofessional conduct.
+He also explained that "almost without fail" a restatement of earnings by a Fortune 500 company will prompt a formal investigation and that documents for the investigation are obtained by subpoena.
+Newkirk's attention was then drawn to prior proceedings by the SEC against Andersen.
+[**7] He explained to the jury that Sunbeam was a public company whose stock was traded on the New York Stock Exchange in the 1990's.
+Andersen was its auditor when in November 1998 Sunbeam filed a restatement of its earnings, reducing its earnings for two previous quarters by $60 million, nearly 30 percent of its earnings for that period.
+Under his supervision, the SEC on May 12, 1998, launched an investigation into Sunbeam's financial statements.
+He explained the course of the investigation, including Andersen's production of documents under an SEC subpoena and the filing of a complaint in the United States District Court in Florida.
+The complaint, also admitted into evidence, charged five officers from Sunbeam and the Andersen engagement partner with fraud.
+An amended complaint was filed on July 11, 2001.
+7 Newkirk then outlined the SEC action taken against Andersen and Waste Management.
+As he explained it, Waste Management, a Fortune 500 Company whose stock was traded on the New York Stock Exchange, filed a restatement of earnings for the years 1992 through the first three quarters of 1997 of more than $1.7 billion, the largest restatement in history, prompting a formal investigation.
+There had been an informal investigation, but on the filing of the formal investigation, the SEC promptly issued a subpoena for Andersen documents.
+Then on June 19, 2001, the SEC filed a complaint in the Federal District Court in Washington, D.C. Andersen consented to a decree enjoining it from future violations of the Securities Laws.
+The Federal Court also imposed a fine of $7 million against Andersen and fines of from 30 to 50 thousand dollars against three Andersen partners sued in that case.
+This was the largest fine against a Big Five firm sought and obtained by the SEC. Finally, the government offered through Newkirk the censure of Andersen for issuing false and misleading statements that its audit of Waste Management had been conducted in accordance with generally accepted accounting principles.
+Andersen's contention that the evidence of its difficulties with the SEC in the Sunbeam and Waste Management cases was not relevant is not persuasive.
+The district court carefully examined this question in a written ruling before trial to which she adhered in trial.
+The defense of Andersen faced three large realities.
+First, David Duncan, its partner in charge of the Enron account, pleaded guilty to a criminal charge of obstruction, confessing intent to impede the SEC investigation by shredding documents.
+Second, it could hardly deny that Andersen engaged in massive shredding and deletion of files as a part of senior management's investigation of its handling of Enron, including difficulties with the accuracy of Enron's financial statement.
+Third, it must have known that a restatement of earnings of any appreciable size by a Fortunate 500 company would prompt a formal SEC investigation and subpoena for its documents.
+A contrary contention was a hard sell, at best.
+As for Duncan, Andersen's able trial counsel suggested in [**8] his cross examination that Duncan was innocent, despite his plea of guilty.
+The large shredding was said to be an effort to catch up with the cleaning of files that had been put aside, contrary to Andersen's records retention policy and to get the files in order for review by Andersen's Chicago-based supervisors.
+It was not to frustrate an SEC investigation.
+Under the court's charge, the government had the burden of proving that the shredding was done with the intent to subvert, undermine, or impede an official proceeding, including proceedings before the SEC. In confronting that burden, the government urged that Andersen's difficulty with the SEC in other matters was the backdrop to Andersen's destruction of documents in its internal investigation of its work for Enron.
+Specifically, the government noted that the trouble at Enron came within months of Andersen being hit in the Waste Management case with the largest fine ever imposed by the SEC upon a Big Five accounting firm, accompanied by censure and a consent to an injunction not to mislead in violation of the securities laws, and that this blow was quickly followed by the filing of an amended complaint in the SEC's Sunbeam suit which leveled charges of fraud against Sunbeam officials and the Andersen partner in charge of that account.
+This backdrop, with its attendant press, includes the quickly following sudden resignation of Skilling, Enron's CEO, in August 2001.
+That is, trouble with Enron, Andersen's largest account, came into view less than 90 days from these large developments in Andersen's difficulties with the SEC regarding its work with both Sunbeam and Waste Management.
+These "prior" acts were indisputably relevant to the question of Andersen's intent in its destruction of Enron-related documents.
+This was evidence of Andersen's actual experience with restating earnings and the inevitability of an SEC subpoena.
+It was evidence that Andersen knew its audit work would be at issue.
+Moreover, it was a powerful rebuttal of the testimony of Andersen's SEC expert, John Riley, that no SEC subpoena was expected until the end of the first week in November.
+Andersen urges that evidence about Sunbeam and Waste Management could not be relevant, absent proof that the facts offered were known by a single person, a corrupt persuader.
+It urges that it cannot be charged with the collective knowledge of all its agents.
+The government replies that the law is to the contrary, pointing to decisions of courts of appeals.
+8 We need not resolve that debate.
+The notes of Nancy Temple, an in-house lawyer, make clear that she was keenly aware of the cease and desist order and the 102(e) censure proceedings in Waste Management, and that she viewed Waste Management and Sunbeam as a "model" for the Enron difficulties.
+There is much more.
+On November 6, Lawrence Rieger, a senior partner, sent an email to Temple with press accounts of the press releases by Sunbeam and Waste Management.
+He included an Andersen memorandum entitled "Action Steps in Response to Indications of Possible Restatement [**9] of Financial Statement."
+That document had been distributed to all U.S. partners.
+Goolsby, an Andersen partner, and John Riley had extensive knowledge of the proceedings in both Waste Management and Sunbeam and participated in conference calls with Andersen personnel addressing the Enron "crisis."
+Goolsby had signed the court papers in Waste Management.
+David Duncan, who had never worked on either Waste Management or Sunbeam matters, knew about those cases.
+It defies common sense to assert that partners in Andersen would not be informed about both of these cases.
+At the least, a jury could reasonably so conclude.
+Andersen retreats to the contention that in any event there was too much detail about unproved charges, detail that was unnecessary and prejudicial.
+It points out that its offer to stipulate to the fact of the prior occurrences was not accepted.
+We are unpersuaded.
+The government was not required to accept a sterile recitation of the prior events.
+Rather, it was entitled to leave the clothes on these events, so recent.
+The district court carefully instructed the jury regarding the limits upon the evidence.
+Many of the documents were redacted before being sent into the jury room, and counsel had full opportunity to place the events in perspective through cross examination and closing argument.
+We find no abuse of discretion in the trial judge's weighing of the probative value of the evidence and the risk of collateral prejudice.
+3 Andersen next contends that the district court erred in excluding evidence of statements made by Kathy Agnew during an interview with the FBI.
+According to Andersen, these statements would have enabled Andersen to impeach one of the government's key pieces of evidence suggesting a link between Andersen's decision to destroy documents and its concern over an SEC investigation of Enron.
+During the testimony of Agent Sullivan, the agent supervising the FBI's investigation of Andersen, the government introduced notes taken by Agnew of an October 23, 2001, meeting with Andersen partner Thomas Bauer.
+In these notes, Agnew wrote: "Clean up documentation.
+SEC voluntary request.
+Two suits, more on the way."
+Andersen did not challenge the admission of Agnew's notes, attack Agnew's credibility, or attempt to introduce evidence of other statements made by Agnew while Agent Sullivan was on the stand.
+Several weeks later, however, the day before closing arguments, Andersen attempted to introduce an FBI report written by Agent Sullivan summarizing statements Agnew made about the October meeting.
+The report indicates that Agnew did not specifically remember the October 23 meeting, but she recalled that their goal was to ensure that the work papers were complete.
+Andersen claims that the statements recorded in Sullivan's report were admissible under Federal Rule of Evidence 806 to impeach the out-of-court statements in her notes.
+We disagree.
+Rule 806 allows a party to attack the credibility of a declarant when a hearsay statement or a statement defined in Rule 801(d)(2)(C), (D), or (E) has been admitted.
+9 Rule 806 does not apply in this case, however, because [**10] the Agnew notes were not hearsay: the government did not admit them to prove the truth of the statements contained in them.
+The statements were instead admitted only to show that they were made and that Andersen knew that it was subject to SEC investigation.
+Because the statements were not hearsay, Rule 806 does not apply.
+Indeed, Andersen effectively concedes this point in its reply brief, insisting that the notes were admitted for the truth of the proposition they "implicitly" advanced — that Andersen personnel were instructed to destroy documents because the SEC was conducting an inquiry.
+That the notes may have suggested a link between Andersen's document destruction and the SEC, however, does not alter the fact that the statements in the notes were not admitted for their truth.
+Nonetheless, Andersen urges that Agnew's notes were admitted into evidence only under Rule 801 (d)(2)(D) and that Rule 806 should, by its terms, allow for the admission of the FBI report.
+Andersen's argument is unpersuasive for several reasons.
+First, despite Andersen's claim, it is not apparent from the record that the district court relied on Rule 801(d)(2)(D) in admitting the notes because Andersen made no objection to their admission and the court did not address the matter directly.
+Since the notes were readily admissible as non-hearsay statements without regard to Rule 801(d)(2)(D) , we will not presume that Rule 801(d)(2)(D) was the sole basis for their admission.
+Moreover, Andersen appears to assume that Rule 806 applies whenever a statement might have been admitted under Rule 801(d)(2)(D) , even if it was in fact admitted on other grounds.
+We do not read Rule 806 so broadly.
+As the Advisory Committee notes make clear, the purpose of Rule 806 was to allow for the impeachment of a hearsay declarant.
+10 Because the statements in Agnew's notes were not hearsay at all, Rule 806 simply does not apply.
+We conclude that the district court did not commit reversible error by refusing to admit the FBI reports of an interview with Agnew.
+III Andersen contends that the jury instructions were flawed in three ways: first in explaining the meaning of "corruptly persuades," then in misstating the element of "official proceeding," and finally in not instructing the jury that the government had to prove that Andersen knew that its destruction of records was unlawful.
+"We review the rejection of a requested jury instruction for abuse of discretion, 'affording the trial judge substantial latitude in tailoring [the] instructions.'"
+11 Reversal is required only if the requested instruction "1) is substantively correct; 2) was not substantively covered in the charge actually delivered to the jury; and 3) concerns an important point in the trial so that the failure to give it seriously impaired the defendant's ability to effectively present a defense."
+12 No error results from a court's refusal to give an instruction that is not substantially correct in its statement of the law. 13 1 Andersen was convicted of obstructing justice under what has come to be known as the "corrupt persuasion" prong of 18 U.S.C. 1512(b)(2)(A)&(B) .
+It provides: Whoever knowingly uses intimidation, threatens, or corruptly persuades another person, or attempts [**11] to do so, or engages in misleading conduct toward another person, with intent to .
+.
+.
+cause or induce any person to (A) .
+.
+.
+withhold a record, document, or other object, from an official proceeding; [or] (B) alter, destroy, mutilate, or conceal an object with intent to impair the object's integrity or availability for use in an official proceeding .
+.
+.
+shall be fined under this title or imprisoned not more than ten years, or both.
+In this case, the charge read in relevant part: To "persuade" is to engage in any non-coercive attempt to induce another person to engage in certain conduct.
+The word "corruptly" means having an improper purpose.
+An improper purpose, for this case , is an intent to subvert, undermine, or impede the fact-finding ability of an official proceeding.
+Andersen's principal argument is that the district court's definition of the term "corruptly" in 1512(b)(2) renders the term superfluous.
+Andersen argues that, since 1512(b)(2) explicitly requires that the accused act with the intent to withhold materials from an official proceeding, the term "corruptly" has no meaning under the district court's definition.
+Andersen urges that "corruptly persuades" requires more than an intent to withhold documents.
+Andersen contends that the term should be read to require either proof that the person persuaded violated an independent duty or that the person engaged in inherently culpable conduct, such as bribery.
+The government challenges Andersen's basic contention that the term "corruptly" would have no independent meaning if defined as "an improper purpose."
+The government relies on the term's plain meaning, its definition in closely related statutes, the statute's structure, and legislative history.
+Specifically, the government notes that courts have routinely defined the term "corruptly" in companion statutes like 1503 and 1505 14 to require "an improper purpose."
+15 In United States v. Reeves, for example, we defined the term to be an intent to "secur[e] improper benefits or advantages for one's self or for others."
+16 The majority of circuits interpreting the term as used in 1512(b) have reached a similar result, defining "corruptly" in terms of improper purpose despite the dim light it casts upon its meaning, its circularity aside.
+17 We find Andersen's surplusage argument unpersuasive.
+Andersen's argument relies heavily on the Third Circuit's decision in United States v. Farrell.
+18 In Farrell, a divided panel concluded that the term "corruptly persuades" in 1512(b) did not proscribe "a noncoercive attempt to persuade a coconspirator who enjoys a Fifth Amendment right not to disclose self-incriminating information .
+.
+.
+from volunteering information to investigators."
+19 In reaching its decision, the court specifically rejected the notion that the term could mean "persuades with the intent to hinder communication to law enforcement," concluding that such a definition "would render the word 'corruptly' meaningless."
+20 The panel also dismissed the relevance of court decisions interpreting the term "corruptly" in companion statutes like 1503 .
+21 Although these decisions had routinely defined the term to mean "with an improper purpose," the court found these [**12] decisions unpersuasive because of the differences between 1512 and 1503 .
+22 Unlike 1512(b) , 1503 does not include any mens rea element except the term "corruptly."
+Section 1512(b) , by contrast, expressly requires a specific intent to withhold documents from investigators.
+With this in mind, Andersen asserts that a definition which makes sense in 1503 becomes surplusage when applied to 1512(b) .
+23 The Third Circuit, however, did not define the term "corruptly" to require the violation of an independent legal duty, as Andersen claims.
+24 Rather, it held the converse, that encouraging another to exercise a constitutional right is not corrupt.
+25 The Farrell court specifically declined to define the term in any detail or to give substantive content to the term.
+Rather, the decision can fairly be read more narrowly: that a person who persuades someone to invoke his Fifth Amendment right does not violate the statute.
+Andersen is incorrect, moreover, in its contention that the court's definition of "corruptly" rendered the term superfluous.
+The court defined "corruptly" to mean "an intent to subvert, undermine or impede the fact-finding ability of an official proceeding."
+Andersen contends that "corruptly" has no independent meaning under this definition because 1512(b) already separately requires an intent to impede the fact-finding ability of an official proceeding.
+Section 1512(b) , however, requires an "intent to impair the .
+.
+.
+integrity or availability [of an object] for use in an official proceeding"; it does not focus on undermining an agency's fact-finding ability.
+In short, as defined by the court, "corruptly" was not a mirror of 1512(b) 's intent requirement.
+This point becomes more apparent when the charge is read in full.
+The district court instructed that "[a]n improper purpose, for this case, is an intent to subvert, undermine, or impede the fact-finding ability of an official proceeding," including "subvert" and "undermine" as urged by Andersen.
+26 Acting with an intent to "subvert, undermine, or impede" an investigation narrowed the reach of the statute, insisting upon a degree of culpability beyond an intent to prevent a document from being available at a later proceeding.
+A routine document retention policy, for example, evidences an intent to prevent a document from being available in any proceeding.
+But it does not alone evidence an intent to "subvert, undermine, or impede" an official proceeding.
+In narrowing the statute's potential reach, the district judge rejected the government's argument that the jury should be charged on the bare bones of the statute and shaped the charge to the facts of the case.
+It also gave meaning to "corruptly persuades."
+"Subvert" means "to overturn or overthrow from the foundation, ruin" or "to pervert or corrupt by an undermining of morals, allegiance, or faith."
+The most relevant definition of "undermine" is "to subvert or weaken insidiously or secretly."
+Impede means "to interfere with or get in the way of," to "hold up."
+Each of these terms implies a degree of personal culpability beyond a mere intent to make documents unavailable.
+The legislative history of 1512(b) , explored by the dissent in Farrell, further [**13] persuades us that the district court's charge was correct.
+27 Section 1512(b) was enacted to replace and expand the witness protection provisions incorporated in 1503 .
+As initially drafted, 1512(b) did not bar noncoercive conduct performed with an intent to hide information from investigators; one could violate the statute only through intimidation, use of physical force, threats, or misleading conduct.
+Congress added the term "corruptly persuades" in 1988 to "include in section 1512 the same protection of witnesses from non-coercive influence that was (and is) found in section 1503 ."
+Congress knew that courts had uniformly defined "corruptly" in 1503 as "motivated by an improper purpose," and it is logical to give the word "corruptly" in 1512 the same meaning that it has in 1503 .
+At the very least, this legislative history — and its clear intent to criminalize non-coercive conduct — deflates Andersen's "structural" argument that 1512 targets certain means used to obstruct justice and not just motive.
+28 We are persuaded that defining "corruptly" as "motivated by an improper purpose" comports easily with the legislative history.
+Congress intended that 1512(b) have the same substantive scope as former 1503 .
+Since 1503 proscribed conduct undertaken "with an improper purpose," 1512(b) should also do so. Andersen requested that the jury be instructed that the only way corrupt persuasion may be found is by an improper method or a violation of an independent legal duty.
+We find no court that has come to this conclusion.
+Andersen bases its argument on Farrell, but Andersen's description of the holding is an incomplete statement of the Third Circuit's viewpoint.
+Farrell made clear that a violation of an independent legal duty is sufficient to prove corrupt persuasion, and it refused to define "corruptly persuade" as acting with an improper purpose, but it did not hold that violating an independent legal duty or persuading by an improper method was the only way to establish a 1512(b) violation.
+29 The statute itself has no such requirement.
+Andersen, moreover, gives no explanation why "improper purpose" should require unlawful conduct.
+Under the caselaw, "corruptly" requires an improper purpose, not improper means, 30 and Andersen offers no explanation why "improper purpose" should require "improper means."
+Indeed, the means used would seem to be relevant only to the extent that they shed light on whether the purpose was improper.
+Moreover, the only examples of "unlawful conduct" that Andersen gives are bribery and counseling a witness to lie.
+The statute would have little independent reach, however, if it could be violated only through bribery or suborning perjury because such conduct is to a large extent criminalized in other provisions of the criminal code.
+31 Yet Andersen offers no other examples of "culpable" or "unlawful" conduct sufficient, under its test, to trigger the statute.
+We cannot lightly conclude that Congress intended for the statute to do only work already done by the criminal code.
+Finally, even ignoring Andersen's failure to request a substantially correct instruction, the submitted instruction survives harmless error [**14] review.
+Trial error is harmless unless it had a "substantial and injurious effect or influence in determining the jury's verdict," or leaves us in "grave doubt" as to whether it such an effect.
+On the facts of this case, that the jury was not required to find a violation of an independent legal duty did not have a substantial and injurious effect on the verdict.
+The jury was instructed that to corruptly persuade another, Andersen must have acted with an intent to subvert, undermine, or impede the fact-finding ability of an official proceeding.
+Contrary to Andersen's assertions, this instruction does not read "corruptly persuade" out of the statute.
+Acting with an intent to withhold a record from an official proceeding casts a wider net than acting with an intent to subvert, undermine, or impede the entire fact-finding ability of the proceeding.
+There is nothing improper about following a document retention policy when there is no threat of an official investigation, even though one purpose of such a policy may be to withhold documents from unknown, future litigation.
+A company's sudden instruction to institute or energize a lazy document retention policy when it sees the investigators around the corner, on the other hand, is more easily viewed as improper.
+The instruction's requirement of an improper purpose in withholding the documents ensures that the jury found a level of culpability over and above the mere intent to withhold a document from an official proceeding.
+We cannot say that the error had a substantial and injurious effect on the jury's verdict.
+The court narrowed the reach of the statute at the urging of Andersen.
+Any error that occurred did not have a substantial and injurious effect on the jury's verdict.
+2 Andersen argues that the jury instructions were also flawed in their explanation of an "official proceeding."
+32 The contention is that while 1512(b)(2) provides that the proceeding "need not be pending or about to be instituted at the time of the offense," 33 it does not offer guidance as to the concreteness of the defendant's expectation of a proceeding.
+Andersen first contends that it was entitled to have the jury instructed that an "official proceeding" had to be "ongoing or .
+.
+.
+scheduled to be commenced in the future."
+Resting on this court's decision in United States v. Shively, 34 the argument is that there must be proof of "intent to affect .
+.
+.
+some particular federal proceeding that is ongoing or is scheduled to be commenced in the future."
+35 The government argues, and we agree, that this statement was dicta, it having already concluded that the government failed to prove that the defendant intended to affect an official proceeding.
+This reconciles Shively with the plain language of the statute, an accommodation that we should prefer over a reading that defies the statutory provision that an official proceeding "need not be pending or about to be instituted at the time of the offense."
+Andersen next maintains that it was entitled to an instruction to the jury that it could not be found guilty unless at the time of the obstructing act it "had in mind [**15] a particular proceeding that it sought to obstruct."
+In addition to its reliance upon Shively, Andersen argues that Congress could not have intended to criminalize the widespread use of records retention programs, all of which have a general purpose of not retaining documents that might be helpful to some later appearing adversary — that this court should read the statute to insist upon proof that a defendant intended to impede a particular proceeding.
+The argument anticipates a government argument that this is fanciful, pointing out that the prosecution argued just that in ascribing criminal intent to Michael Odom's statement in a videotaped meeting with employees that the records retention policy should be followed because it would make records unavailable in possible future litigation — even though it asserts his remarks were unrelated to Enron.
+Indeed, it argues, the jury asked to see the video during its deliberations.
+This, it urges, makes clear that the jury was allowed to convict for acts that do not violate the statute.
+This contention is not without force, but it fails here.
+Andersen's requested instruction is in tension with the congressionally detailed reach of the statute.
+It ignores the statutory language, which does not require a defendant to know that the proceeding is pending or about to be initiated.
+36 Its stronger argument is that without insisting that a defendant's intent to impede a proceeding have some limiting sights, companies could be convicted for maintaining records retention programs which were adopted with no proceeding in mind.
+The answer here may lie with the sound application of the elements of corrupt purpose and intent.
+That case is not before us.
+Ultimately, we find no reversible error.
+Wherever the permissible reach of this statute may be finally drawn, it is beyond this case.
+This case was tried on the theory that Andersen intended to undermine, subvert, or impede a proceeding of the SEC. The government did not suggest that a records retention program violated the Act.
+Rather, it argued that Andersen used that policy as a code to shred — to subvert, undermine, or impede a government proceeding it knew was imminent.
+There was no risk of conviction for innocent maintenance of a records program.
+That the SEC was the feared opponent and initiator of a proceeding and not some other shadowy opponent was clear at every step.
+That is how the case was tried and the jury charged.
+Prosecutor Matthew Freidrich in the first opening statement of the government told the jury: They knew that the SEC was coming .
+.
+.
+they knew what that could mean to the firm .
+.
+.
+and the reason that they knew that was because Andersen — at the time these events that are set out in the indictment happened, Andersen was already under a form of probation with the SEC .
+.
+.
+if Andersen was found to, again, have violated securities laws, they could have their ticket pulled, meaning they could be debarred.
+They could be stopped from practicing accounting in front of the SEC, and that would have meant the end of the practice.
+.
+.
+.
+[T] [**16] his case is all about a group of partners at Andersen who knew that the law was coming and did what they could .
+.
+.
+to hinder the law.
+And at the end of the trial, we will ask you to find them guilty of that.
+This case, as charged 37 and tried, was well within the statute.
+We cannot find reversible error in the trial court's rejection of Andersen's request to add to the definition of an official proceeding that it be a particular proceeding.
+3 Finally, Andersen argues that the district court erroneously charged the jury by not instructing that "a conviction under section 1512(b)(2) is permissible only if the defendant is shown to have known that its conduct was wrongful."
+It asserts that because persuading another to withhold documents from an official proceeding is not necessarily culpable conduct, Congress must have intended "corruptly" to shield those who act without knowledge of their unlawful conduct from culpability.
+The government responds, and we agree, that the jury was properly instructed because knowledge of one's violation is not an element of 1512(b)(2) .
+The general rule, of course, is that ignorance of the law is no defense.
+38 When Congress wishes to avoid the general rule, it usually does so by requiring that a defendant act willfully or with specific intent to violate the law. 39 Section 1512(b)(2) does not require that the defendant act willfully, and does not provide that a defendant may be convicted only if the defendant knows his conduct is unlawful.
+Andersen's argument misses the import of the jury's finding that it acted with an improper purpose; one could act with an improper purpose even if one did not know that the actions were unlawful.
+The instructions required the jury to find the appropriate mental states for a 1512(b)(2) violation: the jury could convict Andersen only if it found that Andersen intended to subvert, undermine, or impede the fact-finding ability of an official proceeding.
+The district court did not err by refusing to give an "ignorance of the law" instruction.
+IV Andersen challenges two additional rulings of the district court involving the cross-examination of David Duncan and remarks made by the prosecutor in his closing argument.
+We find no reversible error.
+1 Inappropriate and harmful comments made during closing argument may constitute reversible error.
+40 When reviewing alleged improper comments, we first determine whether the comments were improper and then decide whether they caused harm.
+41 "Improper argument harms the defendant if it affects his substantial rights."
+42 Finally, "it is necessary to look at [the challenged remarks] in context."
+43 The comments at issue here involve an email written by Rodney Faldyn demonstrating Andersen's adoption of a previously rejected accounting practice that allowed Enron to avoid a restatement of earnings.
+At least one copy of the email was deleted during the document destruction, but copies of the email survived.
+During its opening statement, the prosecution said, "you won't find another copy of this [email] anywhere in evidence.
+Do you think the SEC would have wanted to see this document?"
+At a bench conference, [**17] Andersen informed the court that a copy of the email was in fact produced to the SEC. The prosecution told the court that it would not have made the statement if it knew that a copy was produced, and the court found that the prosecution acted in good faith.
+To cure any confusion, the district court instructed the jury that despite the government's good faith belief, "an undeleted copy of the document exists and [] it was produced to the SEC pursuant to the subpoena.
+.
+.
+.
+[Y]ou are not to consider any arguments regarding whether or not another copy of that document was preserved."
+During rebuttal summation, the government again referred to the Faldyn email as evidence of Andersen's change of accounting practice in relation to Enron.
+In response to Andersen's argument that it destroyed only unimportant documents, the government noted that the Faldyn email was deleted and said, "ask yourselves, the SEC, would you want this?"
+Andersen objected, asserting that the prosecutor's argument ignored the court's previous instruction to the jury that the SEC received a copy of the email.
+The court overruled the objection, and the prosecutor went on to explain to the jury that even if copies of the email survived and were produced, one deletion alone was significant.
+That some Andersen employees "didn't get the message" to destroy documents, the argument goes, does not indicate that Andersen was not attempting to destroy important documents.
+The government argued further that the destruction of a copy of an important document is significant because a copy could indicate who had the document, when the person received it, and whether the person destroyed it.
+Andersen moved for a mistrial after closing arguments, and the court denied the motion.
+The court disagreed with Andersen's contention that the prosecution simply repeated its confusing remarks from opening statements, noting that the prosecutor indicated that there were other copies of the email and "never said this was the only document"; rather, the prosecutor asked, "wouldn't the SEC have liked to have seen that."
+Andersen asserts that the rebuttal comments "created the incorrect impression that Andersen had deleted all copies of the email."
+Andersen views the rebuttal comments as misleading and misstating the evidence, and contends that because the discussion of the Faldyn email was a significant portion of the government's rebuttal, a new trial is warranted.
+We find no prosecutorial misconduct here.
+The comments made during rebuttal were different from the remarks made during opening statement.
+The opening statement remark that no copy of the email would be found in evidence could have confused the jury by implying that all copies of the email were destroyed.
+In contrast, the rebuttal comments highlighted the email's importance, asserted that the SEC would want to see it, and noted that at least one copy of it was deleted.
+The prosecutor did not claim that all copies of the email were destroyed or that no copy of the email was received by the SEC; rather, the prosecutor argued [**18] that destruction of one copy alone demonstrates the document's incriminating nature and Andersen's intent to keep it from the SEC, even if other copies eventually were produced.
+The court did not err in finding that these comments were not improper and denying Andersen's request for a mistrial.
+2 Andersen asserts that the district court "prejudicially handicapped [its case] by undermining the cross-examination of David Duncan."
+It claims that the basis of its cross-examination of Duncan was four summaries of interview sessions (" FD-302 forms") between Duncan and the FBI drafted by FBI agents after the interviews.
+During his cross-examination, Duncan said that the four FD-302s forms contained various inaccuracies and misstatements.
+The court sustained the government's objection to Andersen's attempt to cross-examine Duncan regarding the discrepancies between his recollection and the summaries.
+Andersen requested an evidentiary hearing to determine the nature of the inaccuracies, and the government explained that Duncan marked his own copies of the summaries, highlighting portions he felt were inaccurate.
+The court conducted an in camera review of three of Duncan's copies of the summaries, finding that none of the inconsistencies were material.
+Rather, the court found that Duncan's notations referred to specific words or phrases, making it "more likely that Duncan, a precise accountant, meant by his highlighting that the agent failed to capture in his prose the precise flavor of what Duncan recalled as his actual statement."
+The court accordingly denied Andersen's motion for an evidentiary hearing.
+Based on these events, Andersen presents two claims of error: (1) the district court exerted insufficient effort to determine the materiality of misstatements in the FD-302 forms, and (2) the court's failure to provide the marked FD-302 forms crippled Andersen's ability to effectively cross-examine David Duncan.
+Andersen provides no authority to justify reversal of the jury's verdict, and we find none.
+To the contrary, Andersen's various assertions are belied by the underlying events.
+First, the facts demonstrate that Andersen had everything it needed to effectively cross examine Duncan.
+Duncan's cross-examination lasted three days and covered a wide range of topics.
+Andersen could have questioned Duncan about his statements to the FBI and then compared his statements to the summaries drafted by the FBI agent.
+Andersen then could have highlighted to the jury any inconsistencies between his testimony and the summaries, and could have called the FBI agent who drafted the summary to explore the discrepancies.
+Andersen did not take these opportunities below, perhaps because impeaching Duncan's credibility would undermine its admitted strategy of using Duncan's testimony to support its own defense.
+Second, Andersen did not present to the court below one of its primary complaints — that the court could not adequately determine the materiality of the inconsistencies because the court reviewed only three of the four summaries marked by Duncan.
+[**19] Andersen did not complain to the district court that the court's review was insufficient by failing to review the fourth summary.
+Furthermore, it was Duncan's attorney, not the government, who possessed and provided the marked summaries, but Andersen did not inquire as to why the fourth summary was not provided.
+Given that Andersen provides no authority explaining why the court's actions and findings require reversal, and that the facts undermine its assertion that it could not effectively cross-examine Duncan, we find no reversible error.
+V For these reasons, we AFFIRM the judgment of conviction.

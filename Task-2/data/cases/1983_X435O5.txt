@@ -1,0 +1,107 @@
+ PER CURIAM: At issue is whether California state agencies may use California summary tax collection procedures to reach funds in the hands of the United States Postal Service.
+The district court consolidated these two cases involving similar facts and legal questions but different statutes, and granted summary judgment for the Postal Service.
+In both cases, California state taxing authorities sought to utilize administrative collection procedures resembling garnishment in order to collect sums owed by the Postal Service to delinquent taxpayers.
+Plaintiff in the first case is the Employment Development Department, seeking to recover unemployment insurance taxes owed to the state by contractors who have done work for the Postal Service.
+Plaintiff in the second case is the Franchise Tax Board, seeking to collect personal income taxes owed by Postal Service employees.
+Because the applicable statutes and resulting analysis differ, we discuss each case separately.
+I. The Employment Development Department In February 1978, the Employment Development Department (the Department) issued two "notices of levy" pursuant to 1755 1 of the California Unemployment Insurance Code, notifying the Postal Service that two of its mail transportation contractors were delinquent in paying taxes to the Department.
+The notices purported to constitute a levy on monies owed to those tax debtors by the Postal Service.
+The Postal Service refused to comply, stating that it was not authorized to make the payment requested.
+In October 1978, the Department filed this action seeking judgment in the amount of the tax delinquencies, and court costs.
+The district court granted summary judgment for the Postal Service, holding Cal.Unemp.Ins.Code 1755 inapplicable to the Postal Service because that statute does not expressly include within its reach the United States and its agencies or instrumentalities.
+In the alternative, the district court found the Department's claim barred by 39 U.S.C. 5006 , on the theory that that section is the exclusive statutory authority for reaching funds in the hands of the Postal Service owed to its contractors, and that the Department is not one of those authorized to proceed under that section.
+We consider first whether Cal.Unemp.Ins.Code 1755 authorizes the Department to proceed by administrative levy against the Postal Service.
+If it does, we must also consider whether such levies are nevertheless prohibited by applicable federal law.
+The Postal Service contends that state law does not authorize use of the levy procedures against an agency of the United States because such agencies are not expressly made subject to levy by the statute.
+The Postal Service does not contend that it is immune from all suits, for 401(1) of the Postal Reorganization Act 2 clearly and unambiguously waives sovereign immunity by providing that the Service "may sue and be sued."
+See generally FHA v. Burr , 309 U.S. 242, 245 , 60 S.Ct. 488, 490 , 84 L.Ed. 724 (1940).
+Rather, the Service argues that the state statute is by its own terms inapplicable.
+The statute provides that the Director may serve the notices of levy on "all persons" having under their control any assets of the tax debtor.
+Section 1757 states that "any person" failing to turn over such credits shall be liable to the Department in the amount owed to the tax debtor, but not exceeding the amount specified in the notice of levy.
+While these two sections appear to be quite broad in scope, the current problem arises from the fact that section 1758 states only that "[a]s used in this article 'person' includes this State and any county, city and county, municipality, district or other political subdivision thereof."
+The Service argues that, in referring to state and local governmental entities but omitting any reference to their federal counterparts, the state legislature exempted federal agencies from the statute.
+3 A specific reference to state governmental entities is necessary if the legislature intends to waive the immunity to which those entities would otherwise be entitled under state law.
+Cal. Const.
+art.
+20, 6 ; Rose v. State , 19 Cal.2d 713 , 123 P.2d 505, 512 (1942); Galbes v. Girard , 46 F. 500, 501 (C.C.S.D.Cal.1891).
+Cf. Florida Department of Health & Rehabilitative Services v. Florida Nursing Home Ass'n , 450 U.S. 147, 149-50 , 101 S.Ct. 1032, 1033-1034 , 67 L.Ed.2d 132 (1981) (per curiam) (waiver of state's eleventh amendment immunity found only by express language or such overwhelming implication from text that no other construction reasonable); Edelman v. Jordan , 415 U.S. 651, 673 , 94 S.Ct. 1347, 1360-1361 , 39 L.Ed.2d 662 (1974) (same).
+But reference to federal entities in a state statute would serve no similar purpose since an act of Congress, not of a state legislature, is necessary to effect a waiver of federal immunity.
+Army & Air Force Exchange Service v. Sheehan , 456 U.S. 728 , 102 S.Ct. 2118 , 72 L.Ed.2d 520 (1982); United States v. Testan , 424 U.S. 392, 399 , 96 S.Ct. 948, 953-954 , 47 L.Ed.2d 114 (1976); United States v. King , 395 U.S. 1, 4 , 89 S.Ct. 1501, 1502-1503 , 23 L.Ed.2d 52 (1969).
+The Service argues that the term "person" when used in a state statute can never, as a matter of statutory interpretation, include federal entities, but it offers no persuasive authority for such a rule.
+It relies upon United States v. United Mine Workers , 330 U.S. 258, 272 , 67 S.Ct. 677, 686 , 91 L.Ed. 884 (1947), which stated that "statutes which in general terms divest preexisting rights or privileges will not be applied to the sovereign without express words to that effect."
+The court there held that Congress did not intend to treat the United States in the same manner as other "employers" under federal labor laws.
+Id. at 276 , 67 S.Ct. at 687 .
+United Mine Workers establishes no general rule of construction applicable here.
+Interpretation of the California statute involves construction of state law, not the scope of federal sovereign immunity.
+4 The Postal Service offers neither a reason why California should wish to treat federal agencies any differently than it treats other employers for purposes of state tax collection procedures, nor any indication that the state legislature intended to do so. Our conclusion that state law authorizes the Department to direct notices of levy under 1755 to the Postal Service is reinforced by a rule of construction used by the California courts.
+In construing Cal.Civ.Proc.Code 17 , which parallels section 1758 in stating that the term "'person' includes" listed types of entities, the California court of appeal articulated the California rule: Oil Workers International Union v. Superior Court , 103 Cal.App.2d 512 , 230 P.2d 71, 105-06 (1951).
+Accord , People v. Western Air Lines, Inc. , 42 Cal.2d 621 , 268 P.2d 723, 733 (1954); Patricia J. v. Rio Linda Union School District , 61 Cal.App.3d 278 , 132 Cal.Rptr.
+211, 216 (1976); Datil v. City of Los Angeles , 263 Cal.App.2d 655 , 69 Cal.Rptr.
+788, 790 (1968); Durkin v. Durkin , 133 Cal.App.2d 283 , 284 P.2d 185, 188-89 (1955).
+We therefore conclude that the Postal Service is a "person" against whom the Department may proceed under 1755 .
+5 The Service's alternative contention is that even if the California statute is construed to apply to the Postal Service, the statute is inconsistent with and therefore preempted by 39 U.S.C. 5006 .
+6 That statute by its terms governs the creation of liens in favor of those who perform services for a Postal Service contractor or subcontractor.
+The parties agree that the Department cannot become a lienor within the meaning of the statute, since it has not performed services for a Postal Service contractor or subcontractor.
+The Service goes on to argue, however, that because 5006 is the only statutory authority expressly conferring a right to proceed against the Service in order to reach funds owed to a postal contractor or subcontractor, the Department may not levy upon such funds in any other fashion.
+The Service cites no cases in support of its position, and several courts have effectively established that 5006 is not the exclusive means of attaching Postal Service funds owed to contractors or subcontractors.
+In Kennedy Electric Co. v. United States Postal Service , 508 F.2d 954 (10th Cir.1974), a subcontractor was allowed to recover from the Postal Service money owed to the general contractor by the Service.
+The court did not mention 5006 ; recovery was permitted because the subcontractor had established an equitable lien, not a statutory one.
+Moreover, the Service's argument is inconsistent with other decisions allowing garnishment of Postal Service funds without regard to whether the debt garnished is owed to a contractor or subcontractor.
+General Electric Credit Corp. v. Smith , 565 F.2d 291 (4th Cir.1977) (per curiam); May Department Stores Co. v. Williamson , 549 F.2d 1147 (8th Cir.1977); Standard Oil Division, American Oil Co. v. Starks , 528 F.2d 201 (7th Cir.1975) (per curiam).
+Accordingly, we hold that 39 U.S.C. 5006 does not bar the collection procedures utilized here.
+The summary judgment granted against the Employment Development Department and in favor of the United States Postal Service is reversed.
+II.
+The Franchise Tax Board In Mid-1978, the Franchise Tax Board (the Board) issued four "orders to withhold" to the Postal Service under Cal.Rev.
+& Tax.Code 18817 .
+7 These orders informed the Postal Service that four individual employees were delinquent in paying state income taxes.
+The orders purported to constitute a levy on the credits or payments owed by the Postal Service to the four Taxpayer-employees.
+The Postal Service refused to comply, arguing as it had with the Department that the statute authorizing such orders was not applicable to federal agencies such as the Postal Service.
+The Board commenced this action in December 1978, seeking judgment in the amount of the tax delinquencies and court costs.
+The district court held in granting summary judgment for the Postal Service that, first, state law does not authorize such levies against federal agencies, and second, the Postal Service cannot be required to collect delinquent California tax liabilities of its employees because a contrary conclusion would violate 5 U.S.C. 5517 , which governs the withholding of state income taxes by federal agencies.
+The Postal Service's first argument, that the California Revenue and Taxation Code does not authorize use of the summary tax collection procedures against a federal agency, is frivolous in view of the express provisions of those statutes.
+Here, unlike the situation in the companion case involving the Employment Development Department, the California legislature has unequivocally demonstrated its intention.
+It is true that neither the Postal Service in particular, nor federal agencies in general, are expressly included within the definition of "employer" embodied in section 18810 .
+8 That definition, however, must be read together with the definition of "employee" in section 18809 , repealed in 1980 and recodified at Cal.Unemp.Ins.Code 13004 .
+An employee is "[any] individual who receives remuneration for services performed within this state and includes an officer, employee, or elected official of the United States or any agency or instrumentality [thereof]."
+Thus, reading the two sections together, it is obvious that the Postal Service is an "employer" indebted to an "employee" within the meaning of those sections.
+9 State law clearly authorizes issuance of notices to withhold to the Postal Service.
+It remains to be considered only whether the Service is nevertheless excused from compliance by federal law.
+Under 5 U.S.C. 5517 , 10 the Secretary of the Treasury is required to enter into contracts with states wishing federal agencies and instrumentalities to withhold state income taxes from payments to employees liable therefor.
+Subsection (b) and the parallel provision of the contract between the Secretary and California prohibit the imposition of "a penalty or liability because of this section" on "the United States or its employees."
+11 The Service argues that the provisions of 5517 prohibit these levies.
+We agree.
+This section, the substance of which has been in effect since 1952, was enacted for the specific purpose of providing for the withholding of state income taxes from the earnings of federal employees.
+The uncontroverted evidence in the record establishes that as early as 1962, withholding was provided by agreement persuant to 5517 between the Secretary of the Treasury and the State of California.
+The agreement specifically states: "3.
+Nothing in this agreement shall be deemed: (b) to require collection by agencies of the United States of delinquent tax liabilities of federal employees."
+The standard agreement prescribed by regulation, 31 C.F.R. 215.12(a) (1978) contains the same provision.
+The regulations promulgated by the Secretary of the Treasury to implement 5517 are specifically applicable to the United States Postal Service.
+31 C.F.R. 215.2(a) .
+Before the enactment of the Postal Reorganization Act (Footnote 2), the Post Office Department employees in California were subjected to withholding of state income taxes in accordance with 5517 and the agreement.
+The Congress included 39 U.S.C. 410 in the Postal Reorganization Act.
+It provides, in part: "Except as provided in subsection (b) of this section, and except as otherwise provided in this title or insofar as such laws remain in force as rules or regulations of the Postal Service, no Federal law dealing with public or Federal contracts employees or funds apply to the exercise of the powers of the Postal Service."
+Subsection (b) does not include 5517 (withholding of state income taxes) but does include 5520 (withholding of city income and employment taxes).
+Section 5520 was first enacted on July 10, 1974, 88 Stat. 294 , and 39 U.S.C. 410 was amended by the same law to include this new provision for withholding city income and employment taxes as a law applicable to the Postal Service.
+When the Postal Reorganization Act was adopted, the Congress was faced with the situation of transforming an established federal agency, the Post Office Department, into the United States Postal Service, "an independent establishment of the executive branch."
+The transition was accomplished with as little disruption as possible.
+In substance, all previous laws, regulations and contracts remained in effect until changed by the Board of Governors of the new independent establishment.
+62 Am.Jur.2d, 2 , p. 6.
+12 It is true that the language of 39 U.S.C. 410 , "insofar as such laws remain in force as rules or regulations of the Postal Service," may be somewhat equivocal in support of this conclusion, but the Savings Provision of Public Law 91-375 (84 Stat. at 774-5) is much more specific.
+13 The undisputed evidence shows that the United States Postal Service did recognize that the withholding of state income taxes contract does apply to it and continues in force and effect.
+When in 1974 a new act was passed authorizing similar agreements for the withholding of city or county income or employment taxes, the fact that this law was made specifically applicable to the United States Postal Service implies Congressional recognition that the statute pertaining to the withholding of state income taxes was already applicable to it.
+The anomaly inherent in any other conclusion is obvious.
+The orders to withhold served by the Franchise Tax Board were issued pursuant to Cal.Rev.
+& T.Code 18817 (Footnote 7), which is part of Chapter 19, Article I of the Revenue and Taxation Code relating to "Information and Withholding Tax at Source."
+It deals with the same subject matter as 5 U.S.C. 5517 .
+In view of the agreements and regulations pursuant to the authorization of 5517 , federal cooperation with state withholding tax statutes is limited to current withholding from current wages to meet current anticipated income tax liabilities of the federal employee.
+Withholding of wages of federal employees cannot be used to collect delinquent tax liabilities.
+The Franchise Tax Board argues with considerable persuasiveness that the United States Postal Service is now a quasi-autonomous entity.
+The Postal Service has been "launched into the commercial world."
+See FHA v. Burr , 309 U.S. 242, 245 , 60 S.Ct. 488, 490 , 84 L.Ed. 724 (1940); May Department Stores Co. v. Williamson , 549 F.2d 1147, 1148 (8th Cir.1977); Standard Oil Division, American Oil Co. v. Starks , 528 F.2d 201, 202-3 (7th Cir.1975).
+The Postal Reorganization Act, 39 U.S.C. 401(1) , with two narrow limitations not relevant here, expressly confers on the Postal Service the general power to sue and be sued in its official name.
+So, it is contended that this general waiver of immunity overrides the specific limitations and restrictions of 5 U.S.C. 5517 and the pertinent agreements and regulations.
+We do not agree.
+The general rule of statutory construction is that "where there is no clear intention otherwise, a specific statute will not be controlled or nullified by a general one, regardless of the priority of enactment."
+Morton v. Mancari , 417 U.S. 535, 552 , 94 S.Ct. 2474, 2483 , 41 L.Ed.2d 290 (1974).
+See also Radzanower v. Touche Ross & Co. , 426 U.S. 148, 151 , 96 S.Ct. 1989, 1992-3 , 48 L.Ed.2d 540 (1976).
+14 The summary judgment granted against the Franchise Tax Board and in favor of the United States Postal Service is affirmed.

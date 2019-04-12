@@ -1,0 +1,267 @@
+ DUNCAN, Circuit Judge.
+For the second time, we hear an appeal in a dispute between Appellees Discover Bank and Discover Financial Services, Inc., a servicing affiliate of Discover Bank ("DFS," and, together with Discover Bank, "Discover"), and Appellant Betty E. Vaden ("Vaden").
+This case arises from Vaden's failure to pay a credit card balance and DFS's resulting suit against her in state court.
+Vaden responded with several class-action counterclaims against DFS.
+Discover Bank then filed suit in federal district court under 4 of the Federal Arbitration Act ("FAA"), seeking to compel arbitration of Vaden's counterclaims.
+In the first appeal, we decided as a threshold matter that the federal courts possess subject matter jurisdiction under 4 of the FAA if the underlying dispute presents a federal question.
+On remand, we directed the district court to decide whether such a federal question exists here.
+More specifically, we asked the district court to determine whether Discover Bank or DFS was the real party in interest with respect to Vaden's state court counterclaims.
+If Discover Bank were found to be the real party in interest, then the Federal Deposit Insurance Act ("FDIA"), 12 U.S.C. 1811 et seq., would be implicated because Discover Bank is a state [**2] chartered, federally insured bank.
+In that event, we asked the district court to determine whether the FDIA completely preempted Vaden's state law usury claims.
+If the district court found that the claims were completely preempted and therefore a federal question existed, it then had to determine whether there was a genuine issue of material fact regarding the existence of an arbitration agreement between Vaden and Discover Bank.
+The district court found that this case presented a federal question and accordingly denied Vaden's motion to dismiss for lack of subject-matter jurisdiction and stayed her state-court counterclaims pending arbitration.
+We agree that a federal question exists here and that the district court properly compelled arbitration.
+Therefore, we affirm.
+I. In 1990, Vaden obtained a Discover credit card.
+The card was issued by Discover Bank, a Delaware-chartered, federally insured bank.
+DFS is a servicing affiliate of Discover Bank.
+According to the servicing agreement between DFS and Discover Bank, DFS performs such functions as marketing and servicing Discover Bank loan products and collecting on accounts pursuant to instructions from Discover Bank.
+J.A.
+531-38.
+In June 1999, Discover mailed Vaden a new Platinum Discover Card.
+Discover claims that Vaden's account was automatically converted to Platinum status at this time.
+Vaden's "Cardmember" statements, however, identified her as a regular Cardmember until September 1999.
+In July 1999, Discover mailed Vaden a "Notice of Amendment to Discover Platinum Cardmember Agreement" (the "Notice of Amendment").
+J.A.
+33.
+This notice, which applied only to Platinum Cardmembers, included a provision requiring arbitration of disputes.
+In July 2003, on behalf of Discover Bank, DFS sued Vaden in Maryland state court for nonpayment of a card balance in excess of $10,000.
+Vaden then filed class-action counterclaims based solely on Maryland law against DFS.
+These counterclaims include a breach-of-contract claim and claims that certain fees and interest rates were charged in violation of applicable Maryland statutes that regulate finance charges, late fees, and compounding of interest on consumer credit accounts.
+In that proceeding, DFS was identified as "Discover Financial Services, Inc. (Discover), SVC Affiliate of Discover Bank, F/K/A Greenwood Trust Co., a DE chartered state bank and issuer of the Discover Card."
+Shortly after Vaden filed these counterclaims, Discover filed a petition in federal court seeking to compel arbitration of Vaden's state-court counterclaims based on the arbitration provision in the Notice of Amendment.
+Discover had made no previous requests to Vaden for arbitration.
+The district court granted Discover's motion to compel arbitration.
+Vaden timely appealed and this court heard argument on that appeal in December 2004.
+In January 2005, we considered the issue of whether subject-matter jurisdiction existed.
+See Discover Bank v. Vaden , 396 F.3d 366 , 367 (4th Cir.2005) ( "Vaden I ").
+We held in Vaden I that "when a party comes to federal court seeking [**3] to compel arbitration, the presence of a federal question in the underlying dispute is sufficient to support subject-matter jurisdiction."
+Id. at 367 .
+We declined to decide whether such an underlying federal question existed in this case. Id .
+On remand, we directed the district court to determine whether a federal question existed and guided it to examine whether Discover Bank was the real party in interest with respect to Vaden's state-court claims and whether these claims were completely preempted by the FDIA.
+[fn1] Answering these questions, the district court found that Discover Bank was the real party in interest and that Vaden's state court usury claims were completely preempted.
+Also, the district court found that there was no issue of material fact regarding the existence of an arbitration agreement between Vaden and Discover Bank, and accordingly granted Discover's request for arbitration.
+Vaden again timely appealed the district court's ruling, which appeal is before us now.
+Vaden argues that DFS is the real party of interest, and thus the FDIA is not implicated and the federal court is without subject-matter jurisdiction over the dispute.
+Vaden also contends that compelling arbitration was improper for two reasons: (1) Discover lacks standing because it failed to satisfy the relevant statutory requirements for compelling arbitration, and (2) there was not a valid arbitration agreement between Vaden and Discover Bank.
+II.
+We turn first to the question of whether the federal courts have subject-matter jurisdiction over Discover Bank's 4 petition for arbitration under the FAA.
+Under 4 of the FAA, a district court may issue an order compelling arbitration if the court would otherwise "have jurisdiction under Title 28, in a civil action .
+.
+.
+of the subject matter of a suit arising out of the controversy between the parties."
+9 U.S.C. 4 (2000) (emphasis added).
+Section 4 does not require a party to actually file suit regarding the underlying controversy; the FAA requires only that a party be aggrieved by another party's failure to arbitrate a controversy, "the subject matter of which would fall within the jurisdiction of this Court, were an actual suit to arise out of the controversy."
+Reynolds & Reynolds Co. v. Image Software, Inc. , 254 F.Supp.2d 761 , 765 (S.D.Ohio 2003); see Vaden I , 396 F.3d at 369 ("We thus hold that a federal court possesses subject-matter jurisdiction over a case when the controversy underlying the arbitration agreement presents a federal question.
+"); id. at 370 ("The text of 4 requires us to consider jurisdiction as it arises out of the whole controversy between the parties.
+"); Tamiami Partners, Ltd. v. Miccosukee Tribe , 177 F.3d 1212 , 1223 n. 11 (11th Cir.1999) (suggesting that "it is appropriate to look through" the arbitration request to assess whether the underlying dispute between the parties is grounded in federal law).
+Thus, a 4 petition to compel arbitration is properly in federal court if the underlying dispute presents a federal question.
+[fn2] Moses H. Cone Mem'l Hosp. v. Mercury Constr. Corp. , 460 U.S. 1 , 25 n. 32, 103 S.Ct. 927 , 74 L.Ed.2d 765 (1983); Vaden I , 396 F.3d at 367 .
+A court must therefore look through the arbitration claim and examine [**4] the underlying state-court action.
+The Supreme Court has explained that even when a complaint alleges only violations of state law, the case may nevertheless center on a federal question, and therefore be removable, [fn3] if federal law completely preempts the state law claims.
+Caterpillar Inc. v. Williams , 482 U.S. 386 , 393 , 107 S.Ct. 2425 , 96 L.Ed.2d 318 (1987).
+This is the "complete pre-emption doctrine."
+Id .
+Caterpillar explains that "[o]nce an area of state law has been completely pre-empted, any claim purportedly based on that pre-empted state law is considered, from its inception, a federal claim, and therefore arises under federal law."
+Id .
+Complete preemption is an exception to the well-pleaded complaint rule.
+Although generally a case may not "be removed to federal court solely because of a defense or counterclaim arising under federal law," Topeka Hous. Auth. v. Johnson , 404 F.3d 1245 , 1247 (10th Cir.2005), complete preemption is an exception to this rule and so federal jurisdiction is proper, even though the preemption is only raised as a defense.
+See Caterpillar , 482 U.S. at 393 , 107 S.Ct. 2425 ; see also Topeka Hous. Auth. , 404 F.3d at 1247 (noting that complete preemption is an exception to the general rule barring removal based on counterclaims) (citing 14B Charles Alan Wright, Arthur R. Miller & Edward H. Cooper, Federal Practice & Procedure 3722.1, at 508 (3d ed.1998)).
+[fn4] In misapprehending that complete preemption is a narrow exception to the general rule that federal jurisdiction must appear on the face of the complaint, the dissent fails to appreciate the fundamental distinction between complete and ordinary preemption.
+Its interpretation would deny Discover Bank a federal forum even if Discover were a nationally — as opposed to state — chartered bank operating under a federal law the Supreme Court has expressly held to completely preempt state law.
+See infra Part II.B.
+The fallacy inherent in the dissent's view is patent: it would render the concept of complete preemption a nullity.
+For subject-matter jurisdiction to exist in this case, then, two requirements must be satisfied: (1) a federal law other than the FAA must be invoked; and (2) said federal law must completely preempt the state law claims in question.
+The district court, at our direction, found that there was a federal question in the underlying dispute because Discover Bank was the real party in interest in the state-court proceedings, thereby implicating the FDIA, and that the FDIA completely preempted Vaden's state-court usury claims against Discover Bank.
+We now consider its determinations, discussing each in turn.
+We review questions of subject-matter jurisdiction de novo, Lontz v. Tharp , 413 F.3d 435 , 438 (4th Cir.2005).
+A. First, we look to whether a federal law is invoked by the underlying state court dispute.
+See Caterpillar , 482 U.S. at 393 , 107 S.Ct. 2425 .
+To resolve this question we must answer another: whether Discover Bank, as opposed to DFS, is the real party in interest with respect to Vaden's counterclaims.
+[fn5] On the face of the pleadings, DFS, not Discover Bank, is the party to the state-court dispute.
+If Discover Bank is not the real party in interest with respect to the counterclaims, the FDIA does not apply because DFS is not a bank, [**5] [fn6] and therefore the counterclaims implicate no federal law.
+The parties' styling of the pleadings does not control our analysis, however; we must decide whether Vaden's state-court counterclaims are really directed at Discover Bank rather than DFS.
+See Vaden I , 396 F.3d at 372 n. 3.
+The district court found that Discover Bank was the real party of interest with respect to Vaden's counterclaims, and we agree.
+One of our most fundamental procedural rules is that an action must be brought by the party that has the right to enforce the claim and has a significant interest in the litigation.
+See Va. Elec. & Power Co. v. Westinghouse Elec. Corp. , 485 F.2d 78 , 83 (4th Cir.1973) (citing Fed.R.Civ.P. 17 (a)).
+The identity of the "real" party may not always be apparent from the face of pleadings; it may be necessary to look beyond the pleadings to the facts of the dispute.
+See Vaden I , 396 F.3d at 373 n. 3; see also Phipps v. FDIC , 417 F.3d 1006 , 1011 (8th Cir.2005) ("[W]e are required to look beyond the plaintiffs' artful attempts to characterize their claims to avoid federal jurisdiction.").
+Such is the case here.
+The need to look carefully at the facts to determine the real party in interest is particularly compelling in this instance because of the unique and complex relationships among the parties through the various phases of this litigation.
+[fn7] The instant suit began when DFS, identified as "Discover Financial Services, Inc. (Discover), SVC Affiliate of Discover Bank, F/K/A Greenwood Trust Co., a DE chartered state bank and issuer of the Discover Card," sued Vaden in Maryland state court for an unpaid credit card balance.
+Vaden counterclaimed against DFS, alleging damages based upon improper assessment of fees and interest charges: "[T]hus, her claims were directed against the entity that extended her credit, charged her interest and had a right to bring the collection action — the lender."
+Amicus Br., FDIC, at 2.
+Vaden would have us simply accept DFS as the lender, and thus real party in interest, and deny Discover Bank's role as originator of her Cardmember account.
+The facts, however, show that Discover Bank was the lender here and therefore the real party in interest.
+There are several pieces of evidence we find instructive in construing the relationship between Vaden and Discover Bank.
+The Cardmember agreements issued to Vaden are of particular significance.
+These agreements conclusively demonstrate that Discover Bank was the entity that extended Vaden credit and set the interest and fees of which Vaden complains.
+[fn8] See e.g. , J.A.
+26-27, 29-31, 206-07.
+The agreements allow Discover Bank to levy periodic finance charges and late fees, as well as to change the rate of finance charge with thirty days' notice.
+Id .
+In addition, the arbitration agreement in question was between Discover Bank and Vaden only, as they were the only two parties to the original Cardmember agreement.
+See J.A.
+33-34, 499.
+The servicing agreement between Discover Bank and DFS also supports our finding that Discover Bank is the real party in interest here.
+That agreement provides that DFS will service certain Discover Bank "loan products," J.A.
+531-38, and DFS must perform all marketing [**6] and collection services under instructions from Discover Bank, J.A.
+532-33.
+One of the service activities DFS performed was mailing monthly bills to cardmembers.
+Nothing on the statements that DFS mailed to Vaden identified DFS as the lender.
+To the contrary, mailing billing statements is consistent with DFS's admitted role as a servicing agent.
+DFS also brings collection actions pursuant to the servicing agreement, as it did here in suing Vaden for her unpaid balance on Discover Bank's behalf.
+See J.A.
+533.
+In addition, as the FDIC points out, the servicing agreement specifies that: DFS will not be responsible for violations of federal or state law, including usury laws, fee restrictions or privacy laws, to the extent that DFS acts consistently with directions or supervision received from [Discover Bank] or its agents.
+.
+.
+.
+[ Discover Bank] will be solely responsible for establishing the annual percentage yields and rates, insurance premiums, and other charges and fees for its credit cards , deposit accounts and other products and for ensuring that such yields, rates, premiums, charges or fees are in compliance with state and federal laws.
+J.A.
+531-32 (emphasis added).
+The agreement establishes a clear division of authority between DFS and Discover Bank, designating Discover Bank as the party in charge of setting the terms and conditions of lending money through its credit cards.
+DFS, although it could evaluate consumer credit applications, could only do so under guidelines set forth by Discover Bank.
+Id .
+Importantly, the servicing agreement also provides that Discover Bank will indemnify DFS for any damages caused by Discover Bank.
+J.A.
+536.
+This includes any potential judgment from Vaden's state court counterclaims against DFS.
+Discover Bank acknowledges that it would be bound by any judgment resulting from the state-court litigation, even though it was not officially a party to it, because DFS was acting on its behalf.
+Appellee's Br. at 24 n. 7.
+Nor would DFS be permitted to keep any funds collected from a Cardmember in its own name: it must immediately deposit all such funds in Discover Bank's accounts.
+J.A.
+534.
+A final source of support for the conclusion that Discover Bank is the real party in interest is found in Discover Bank's financial statement and prospectuses for the sale of interests in credit card receivables through securitizations.
+Discover Bank's independently-audited financial statement explains that credit-card loans make up the majority of the bank's consumer loans and are assets of the bank.
+J.A.
+511, 519.
+The bank's prospectuses identify Discover Bank as the issuer of the Discover credit card and owner of the Discover Card account.
+J.A.
+543, 619-622.
+These same prospectuses reaffirm Discover Bank's right to set the terms for essential aspects of a cardholder's account: the rate for periodic finance charges, late fees, credit limits, minimum monthly payments, credit-worthiness criteria, charge-off policies, and collection practices.
+J.A.
+613, 619, 621, 623.
+Service and operating tasks are delegated to DFS.
+J.A.
+620, [**7] 622.
+This evidence notwithstanding, Vaden argues that DFS, and not Discover Bank, is the real party in interest with respect to her state-law counterclaims.
+She points to several items in the record for support, including the pleadings themselves, Morgan Stanley's Annual report on Discover, and press releases from DFS.
+In particular, Vaden proffers certain press releases stating that DFS operates the Discover Card brand as evidence that DFS is the real party in interest.
+The functions attributed to DFS in these press releases, however, are consistent with its role as a servicing entity and do not establish it as a lender.
+Importantly, Vaden herself does not contest the fact that it is Discover Bank and not DFS that set the interest rate on her account.
+None of these documents suggest that DFS operated as a lender or had any authority to alter or set vital terms of Vaden's Cardmember account.
+Moreover, these documents are secondary sources of information, rather than primary sources such as the servicing agreement and Discover Bank's prospectus.
+We are unpersuaded by Vaden's arguments, as we find the evidence she proffers to be consistent with the conclusion that Discover Bank is the real party in interest.
+On these facts, we hold that Discover Bank is the real party in interest with respect to Vaden's state court counterclaims.
+Because Discover Bank is a state-chartered, federally insured bank, the FDIA is implicated by these claims against the bank.
+[fn9] B. We turn next to the question of whether 27 of the FDIA "completely preempts" state law usury claims against a state-chartered, federally insured bank that is the real party in interest of a state court dispute.
+[fn10] In interpreting any statute, we turn first to the text of the statute itself.
+Section 27(a) of the FDIA provides in part: In order to prevent discrimination against State-chartered insured depository institutions .
+.
+.
+with respect to interest rates .
+.
+.
+such State bank[s] .
+.
+.
+may, notwithstanding any State constitution or statute which is hereby preempted for the purposes of this section , take, receive, reserve, and charge on any loan or discount made, or upon any note, bill of exchange, or other evidence of debt, interest .
+.
+.
+at the rate allowed by the laws of the State .
+.
+.
+where the bank is located.
+12 U.S.C. 1831d (a) (emphasis added).
+The statute's express preemption provision indicates that at the very least, Congress contemplated ordinary express preemption when drafting this statute.
+However, to decide the more specific question of whether Congress intended complete preemption of state-court usury claims, as distinguished from ordinary express preemption, we look beyond the text, to Congress's intentions in enacting the statute.
+The legislative history of the FDIA is instructive in this regard.
+It tells us that Congress intended to "allow□ competitive equity among financial institutions, and reaffirm□ the principle that institutions offering similar products should be subject to similar rules."
+126 Cong. Rec.
+6 ,908 (1980) (Statement of Sen.
+Bumpers).
+The FDIA was enacted in part to "provide□ parity, [**8] or competitive equality, between national banks and State chartered depository institutions.
+.
+.
+."
+126 Cong. Rec.
+6 ,900 (1980) (Statement of Sen.
+Proxmire).
+Keeping in mind the purpose underlying the FDIA's enactment, we turn to the question of whether Congress intended the FDIA to completely preempt state-law usury claims against state-chartered banks.
+Although this is an issue of first impression in this court, we are not wholly without guidance as far as federal banking laws are concerned.
+The Supreme Court has addressed the issue within the context of the National Bank Act ("NBA"), 12 U.S.C. 1 et seq., which is to national banks as section 27 of the FDIA is to state-chartered banks.
+[fn11] In Beneficial , the Supreme Court held that the NBA completely preempts state-court usury claims against national banks.
+539 U.S. at 11 , 123 S.Ct. 2058 .
+The Court explained that "[b]ecause 85 and 86 provide the exclusive cause of action" for usury claims, there is "no such thing as a state-law claim of usury against a national bank."
+Id .
+As a result, even though the plaintiff's complaint did not mention federal law, his cause of action arose under federal law and defendant National Bank's removal to federal court based on complete preemption under the NBA was proper.
+Id. at 10-11 , 123 S.Ct. 2058 .
+One of our sister circuits has compared the NBA to the FDIA and found that both statutes completely preempt state-law usury claims.
+[fn12] The Third Circuit has held that the NBA and FDIA are interpreted in para materia and therefore the doctrine of complete preemption applies to the FDIA as well.
+In In re Community Bank of N. Va. , 418 F.3d 277 , 295 (3d Cir.2005), the court found that Section 1831d(a) "completely preempts any state law attempting to limit the amount of interest and fees a federally insured, state-chartered bank can charge."
+Indeed, not only does the FDIA contain an express preemption clause — "notwithstanding any State constitution or statute which is hereby preempted for the purposes of this section" — but it also "incorporates verbatim the language of 85 of the NBA."
+Id. at 295 .
+"When Congress borrows language from one statute and incorporates it into a second statute, the language of the two acts ordinarily should be interpreted the same way."
+Id. at 295-96 .
+Therefore, complete preemption was held to apply to state usury claims against state-chartered, federally insured banks, just as it does to claims against national banks.
+The First Circuit has also compared the NBA and FDIA, although not in the context of complete preemption.
+The dispute in Greenwood Trust Co. v. Massachusetts , 971 F.2d 818 , 821 (1st Cir.1992), arose when the Commonwealth of Massachusetts notified Greenwood that its late-fee policy violated state law.
+Greenwood reacted to the threat of potential litigation from the state by filing for declaratory and injunctive relief in federal court on the grounds that the FDIA [fn13] expressly preempted state law usury claims.
+In assessing whether the FDIA expressly — not completely — preempted state usury laws, the court explained that Congress enacted the FDIA to level the playing field between national and state banks regarding the levying of interest rates.
+[**9] Greenwood Trust , 971 F.2d at 826 .
+"The historical record clearly requires a court to read the parallel provisions of [the FDIA] and the Bank Act in pari materia."
+Id .
+(emphasis omitted).
+[fn14] We find the logic of our sister circuits compelling.
+We note as well that the FDIC further supports our finding of complete preemption.
+[fn15] The agency has "uniformly construed Section 1831d in pari materia with Sections 85 and 86 [of the NBA]."
+Amicus Br., FDIC, at 10 (emphasis omitted).
+"[U]nder Section 1831d(a) , state banks were provided interest rate authority comparable to that of national banks.
+Interest charges include not only the numerical percentage rate assigned to a loan but also late payment fees, over the limit fees and other similar charges."
+Id .
+(citing 12 C.F.R. 7.4001 (a)) (footnote omitted).
+In arguing that the FDIA completely preempts state-law usury claims, the FDIC relies on Beneficial National Bank , agreeing with the First and Third Circuits, that in 1831d, "Congress created a federal cause of action that entirely replaced .
+.
+.
+the analogous area of state law."
+Id. at 13 , 123 S.Ct. 2058 .
+We find the analyses of the FDIC and our sister circuits persuasive.
+Given the express preemption language of the FDIA, the statute's legislative history affirming Congress' intent to provide competitive equality between national and state-chartered banks, the virtual identity of the preemption language in the NBA and that of the FDIA, and the Supreme Court's finding of complete preemption under the NBA, we are hard-pressed to conclude other than that Congress intended complete preemption of state-court usury claims under the FDIA.
+As the final step in our analysis, we turn to a consideration of whether Vaden's state law counterclaims fall into this completely preempted category.
+Vaden's state court counterclaims challenge certain fees and interest rates charged on her Discover card account.
+[fn16] She argues that these fees and interest rates were in violation of Maryland laws regulating finance charges, late fees, and compounding of interest on consumer credit accounts.
+See Md.
+Code Ann., Comm. Law 12-502 , 506 , -506.2 (2005).
+[fn17] Vaden's complaints regarding the fees and interest charged on her card-member account fall squarely within the FDIC's definition of "usury" charges.
+See 12 C.F.R. 7.4001 (a) (defining usury charges as the numerical periodic rate, late payment fees, over-limit fees, and other charges).
+We therefore conclude that Vaden's claims are completely preempted by the FDIA.
+[fn18] We emphasize again that our holding only extends so far as a state-chartered, federally insured bank is the real party of interest with respect to the preempted state-court claims.
+III.
+Lastly, we turn to the issue of whether an arbitration agreement binds Vaden and Discover Bank so as to make compelling arbitration proper.
+Pursuant to our instructions in Vaden I , the district court also examined "whether there was a question of material fact about the existence of an arbitration agreement."
+396 F.3d at 373 n. 4.
+Vaden appeals the district court's findings that an arbitration agreement existed between the parties and that her claims are subject to arbitration because [**10] she failed to opt out of that agreement.
+Discover Bank v. Vaden , 409 F.Supp.2d 632 , 639 (D.Md.2006) (citing Snowden v. Checkpoint Check Cashing , 290 F.3d 631 , 634 (4th Cir.2002), for the proposition that a "court must order arbitration once it is satisfied that an agreement for arbitration has been made and has not been honored"); see 9 U.S.C. 4 .
+Significantly, under both Delaware and Maryland law, Vaden bears the burden of rebutting the presumption of receiving the arbitration agreement, which was included in a Notice of Amendment to the Cardmember agreement.
+[fn19] See Graham v. Commercial Credit Co. , 194 A.2d 863 , 865 (Del.Ch. 1963) (holding "that mail which is properly addressed and posted .
+.
+.
+is presumed to be duly received by the addressee"); Marsheck v. Bd. of Trustees of the Fire & Police Employees' Ret. Sys. of the City of Balt.
+, 358 Md. 393 , 749 A.2d 774 , 785 (2000) (explaining the presumption of receipt arising from proper mailing).
+Vaden's only evidence to support her claim that she did not receive it is her own statement that she did not, and mere denial is insufficient to rebut the presumption of receipt.
+We find no error in the district court's analysis of this issue and so affirm based on the reasoning of the district court.
+[fn20] IV.
+For the foregoing reasons, we affirm the district court's finding that Discover Bank is the real party in interest with respect to Vaden's state-court counterclaims, and we hold that the FDIA completely preempts state-court usury claims against a state-chartered, federally insured bank to the extent that the bank is the real party in interest with respect to those claims.
+We also affirm the district court's finding that there was no issue of material fact with respect to the existence of an arbitration agreement between Vaden and Discover and therefore affirm the district court's grant of Discover's motion to compel arbitration.
+AFFIRMED.
+By its very nature, Rule 17(a) applies only to those who are asserting a claim.
+6A Charles Alan Wright, Arthur R. Miller, and Mary Kay Kane, Federal Practice & Procedure 1543 (2d ed.1987) (emphasis added).
+The real party in interest requirement is not limited to original plaintiffs but must also be satisfied for purposes of asserting a counterclaim.
+Id .
+(emphasis added).
+Here the counter-claimant was Ms. Vaden.
+No part of Rule 17(a) suggests an inquiry into whether an entity might be a proper defendant.
+Quite generally people can and do sue whomever they intend.
+If Discover Financial Services believed it was not the proper party to be sued it could have filed a motion for summary judgment.

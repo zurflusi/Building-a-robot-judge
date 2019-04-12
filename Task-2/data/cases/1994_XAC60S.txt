@@ -1,0 +1,322 @@
+ OPINION DONALD RUSSELL , Circuit Judge: At issue in this case is the constitutionality of 47 U.S.C. 533(b) , which provides, in pertinent part: 47 U.S.C. 533(b)(1) , (2).
+1 This provision, enacted as part of the Cable Communications Policy Act of 1984 (the "1984 Cable Act"), Pub.L.
+No. 98-549, 98 Stat. 2779 (codified at 47 U.S.C. 521 et seq.
+), essentially prohibits local telephone companies from offering, with editorial control, cable television services to their common carrier subscribers.
+2 In a thorough opinion, the district court found the statute to violate the First Amendment.
+Chesapeake & Potomac Tel. Co. v. United States , 830 F.Supp.
+909 (E.D.Va.1993) ( "C & P" ).
+3 For the reasons stated herein, we affirm.
+I. The facts and background underlying this case, which the parties do not dispute, are presented fully in the opinion of the district court.
+We summarize them here.
+Chesapeake and Potomac Telephone Company of Virginia ("C & P") applied for a cable franchise from the City of Alexandria ("City").
+It is undisputed that the City denied this application solely upon its belief that any grant of such a franchise would violate 47 U.S.C. 533(b) .
+Thereafter, C & P and Bell Atlantic Video Systems, both wholly-owned subsidiaries of Bell Atlantic Corporation, brought suit in federal district court in Virginia against the United States, the Federal Communications Commission ("FCC") and the Attorney General (collectively the "Government defendants") seeking to invalidate Section 533(b) as itself violative of the First Amendment and seeking to enjoin its enforcement.
+4 Subsequently, the National Cable Television Association ("NCTA") sought, and was granted, permission to intervene as a defendant.
+Cross-motions for summary judgment were filed.
+Ultimately, the district court granted plaintiffs' motion for summary judgment.
+It declared 47 U.S.C. 533(b) unconstitutional both facially and as applied to plaintiffs and enjoined the Government defendants from enforcing the provision.
+5 The Government defendants and the NCTA appeal the district court's judgment.
+II.
+Before the specific contentions of the parties are addressed, a discussion, albeit truncated, of the history of regulation in this area will be helpful.
+Although cable television has its origins in the 1940's, see Turner Broadcasting Sys., Inc. v. FCC , U.S. at , , 114 S.Ct. 2445, 2451 , 129 L.Ed.2d 497 (1994), only by the late 1960's was the industry on the verge of true expansion, see C & P , 830 F.Supp.
+at 915 .
+In those days, it was commonplace for companies to hang the coaxial cables through which they provided cable service or, as it was then called, community antenna television service ("CATV"), from utility poles.
+The FCC was concerned that local telephone companies, as monopolists and owners of these poles, would be in a position to obstruct or delay companies which were unaffiliated with the telephone companies, and who wished to provide cable television services, from entering that market.
+The FCC's initial response to this concern consisted solely of a requirement that a telephone company obtain certification, pursuant to 47 U.S.C. 214 , 6 prior to constructing, acquiring or operating any video transmission facilities.
+See General Tel. Co. of Cal. , 13 F.C.C.2d 448 (1968), aff'd , 413 F.2d 390 (D.C.Cir.
+), cert. denied , 396 U.S. 888 , 90 S.Ct. 173, 178 , 24 L.Ed.2d 163 (1969).
+The FCC found that anti-competitive practices by telephone companies against unaffiliated cable companies nevertheless persisted and, so, in 1970, the FCC promulgated a rule which barred telephone companies from providing cable service in their local telephone service areas, except upon issuance of a waiver by the FCC.
+That rule, then found at 47 C.F.R. 64.601 , provided, in pertinent part: Applications of Telephone Cos.
+for Section 214 Certificates for Channel Facilities Furnished to Affiliated Community Antenna Television Systems; Final Report and Order , 21 F.C.C.2d 307, Appendix A, at 331, reconsidered in part , 22 F.C.C.2d 746 (1970), aff'd sub nom.
+General Tel. Co. of the Southwest v. United States , 449 F.2d 846 (5th Cir.1971).
+(The rule, modified only so as to conform to Section 533(b) , as discussed infra , is today found at 47 C.F.R. 63.54 .)
+In enacting the rule, the FCC specifically noted that concentration of control of communications media was undesirable.
+Id .
+¶ 56.
+The FCC identified two ways in which local telephone companies, absent regulation, were likely to dominate the cable industry.
+First, the telephone companies could deny unaffiliated cable companies access, or charge excessive prices for access, to telephone company poles.
+Id .
+¶¶ 13(b), 46.
+(This is called "pole-access discrimination.")
+Second, the telephone companies with cable affiliates could subsidize these cable affiliates with revenue obtained from telephone company operations.
+Id .
+¶ 13(a).
+(This is called "cross-subsidization.")
+In 1978, Congress passed the Pole Attachm ent Act, Pub.L.
+No. 95-234, 92 Stat. 35 , which, in pertinent part, instructed the FCC to "regulate the rates, terms, and conditions for pole attachments," 47 U.S.C. 224(b)(1) .
+(The FCC subsequently promulgated regulations, see 47 C.F.R., Part 1, Subpart J, governing the rates, terms, and conditions for pole attachments.)
+While the Pole Attachment Act eliminates the possibility of discriminatory pricing for access to poles, it does not mandate access to poles and therefore does not address all the concerns purportedly addressed by the FCC rule and the subsequent enactment of Section 533(b) .
+In 1981, the FCC reconsidered the need for its cross-ownership rule.
+It concluded that the rule, at the time, remained a necessity, FCC Office of Plans and Policy, FCC Policy on Cable Ownership: A Staff Report 176 (1981), but acknowledged that it might not be necessary to retain the rule in perpetuity, id. at 177-78 .
+In 1984, Congress enacted Section 533 , captioned "Ownership restrictions," as part of the 1984 Cable Act.
+The new statutory provision was adopted, with few changes, from the FCC rule.
+Importantly, however, and without explanation in the legislative history, Congress drafted Section 533(b) to prohibit not the furnishing of "CATV" service as did the extant FCC rule but, instead, the provision of "video programming."
+The FCC subsequently amended its regulation to reflect the enactment of Section 533(b) .
+Section 533(b) 's telephone-cable cross-ownership bar 7 was accompanied by Section 533(a) 's broadcasting-cable cross-ownership bar.
+8 Subsection (c) grants the FCC authority to promulgate other media-related cross-ownership bars applicable to "ownership or control of a [local] cable system."
+Congress indicated, within the body of the statute, that it intended the 1984 Cable Act to "assure that cable communications provide and are encouraged to provide the widest possible diversity of information sources and services to the public," 47 U.S.C. 521(4) , and to "promote competition in cable communications," id .
+521(6) .
+A House Report recited that the congressional aim in enacting Section 533 (as a whole) was "to prevent the development of local media monopolies, and to encourage a diversity of ownership of communications outlets."
+H.R.Rep.
+No. 934, 98th Cong., 2d Sess.
+55 (1984), reprinted in 1984 U.S.C.C.A.N.
+4655, 4692.
+The report further explains that Congress' "intent [in enacting Section 533(b) was] to codify current FCC rules concerning the provision of video programming over cable systems by common carriers."
+Id. at 56 , reprinted in 1984 U.S.C.C.A.N.
+at 4693.
+The 1984 Cable Act and its legislative history are otherwise silent as to the purpose or goals of Section 533(b) .
+In 1987 and 1988, the FCC again undertook a review of whether repeal of the telephone-cable cross-ownership bar would be appropriate.
+Although it specifically found the bar to be constitutional under intermediate scrutiny, Telephone Company--Cable Television Cross-Ownership Rules, Section 63.54-63.58 , 3 F.C.C.
+Rcd.
+5849 ¶¶ 76-77 (1988) (Further Notice of Inquiry and Notice of Proposed Rulemaking), the FCC tentatively concluded that repeal of the rule in favor of less restrictive alternatives might be appropriate, see.
+id .
+¶¶ 78-80.
+In 1992, the Commission again voted in favor of repeal, provided that "appropriate safeguards" were imposed.
+Telephone Co.--Cable Television Cross-Ownership Rules, Sections 63.54-63.58 , 7 F.C.C.
+Rcd.
+5781 ¶ 135 (1992) (Second Report and Order, Recommendation to Congress and Second Further Notice of Proposed Rulemaking) (" Video Dialtone Order ").
+Similar positions have been reached by other government agencies, including the Justice Department's Antitrust Division.
+Telephone Co.--Cable Television Cross-Ownership Rules, Sections 63.54--63.58 , CC Docket No. 87-266, at 44 (1992) (Reply Comments of the U.S. Dep't of Justice).
+To date, however, despite numerous proposals to that effect, Congress has yet to repeal Section 533(b) .
+III.
+Much of the disagreement in this case arises from one issue: the proper characterization of Section 533(b) .
+Section 533(b) bars telephone companies from directly or, via affiliates controlled by the companies, indirectly distributing "video programming" to customers of its common carrier services.
+By regulation, the FCC defines "control" and "affiliate" as follows: "[T]he terms 'control' and 'affiliate' bar any financial or business relationship whatsoever by contract or otherwise, directly or indirectly between the carrier and the customer, except only the carrier-user relationship."
+47 C.F.R. 63.54(c) .
+Further: "Only those ownership interests which amount to 5 percent or more shall be considered a cognizable ownership 'affiliation' for purposes of this section."
+Id .
+63.54(e) (1).
+Paragraph (1) of 47 U.S.C. 533(b) prohibits (as, similarly, does subsection (b) of 47 C.F.R. 63.54 , the FCC rule underlying Section 533(b) ) common carriers from As a corollary, however, it seems that the telephone company can legally "provide channels of communications or pole line conduit space" to an un affiliated cable operator to use in the provision of video programming in the telephone company's common carrier service area.
+It has thus been held that, consistent with the FCC rule underlying Section 533(b) , "a telephone company can offer pole space to a cable operator that is unaffiliated" with it.
+Northwestern Ind. Tel. Co. v. FCC , 824 F.2d 1205, 1209 (D.C.Cir.1987), cert. denied , 493 U.S. 1035 , 110 S.Ct. 757 , 107 L.Ed.2d 773 (1990).
+It has further been held "that a telephone company may construct, maintain and own channel distribution facilities and use them to transmit television signals for independent cable operators without running afoul of the [FCC]'s cross-ownership rules."
+Id. (footnote omitted) (emphasis in original); see 47 C.F.R. 63.57 .
+9 Such involvement by a telephone company in the provision of cable television is construed to fall within the "carrier-user" exception contained in 47 C.F.R. 63.54(c) .
+Of course, in order to function in its "common carrier" capacity and, thereby, to qualify for the "carrier-user" exception, the telephone company may not engage in "unjust or unreasonable discrimination," 47 U.S.C. 202 , including basing its decision as to whether to provide channel distribution facilities to a particular cable operator on the basis of the content of the speech that operator will convey, see id .
+A similar result, of course, obtains under Section 533(b) , under which the FCC regulations lie.
+National Cable Television Ass'n v. FCC , 914 F.2d 285, 289 (D.C.Cir.1990).
+From the foregoing, we may distill the following essential understanding of Section 533(b) .
+Section 533(b) allows telephone companies to transmit, without any editorial control, the video programming of unaffiliated cable operators.
+10 Further, while telephone companies can "create" video programming, they cannot transmit directly their own programming to their local subscribers.
+While appellants correctly note that the telephone companies may legally arrange to have their video programming transmitted to this audience by means of unaffiliated cable or broadcast television operators or by purchasing local broadcast television stations, 11 this argument ignores the practical fact that this ability turns on the whim of local broadcasters and cable operators.
+In short, while telephone companies may legally arrange to have their own video programming transmitted to their local audiences, this does not mean that they can , in all cases, achieve this goal.
+Thus, unlike other video programmers, the telephone companies cannot guarantee that their programming will reach this audience.
+To this extent, then, Section 533(b) regulates the telephone companies' ability to compete in the video programming market, for a telephone company which chooses to create its own video programming cannot, unlike its competitors, ensure, if it chooses, that its programming will reach any particular audience.
+We turn to an examination of how Section 533(b) 's function fulfills the goals which it was enacted to serve.
+The need for regulation of the telephone companies' entry into the cable medium arises from the peculiar technological characteristics of the cable medium.
+12 The Supreme Court explained in Turner : U.S. at , 114 S.Ct. at 2466 .
+The telephone companies' common carrier networks are the only electronic means of access to American homes and businesses other than existing coaxial cable wiring networks used by cable operators.
+Recently, the possibility of transmitting cable programming over these common carrier networks has become a reality.
+Thus, the peculiar positioning of the local telephone companies makes them natural competitors of the cable operators.
+Appellants advance two justifications for Section 533(b) : preventing the telephone companies from engaging in monopolistic practices against the cable industry and maintaining diversity in ownership of communications outlets.
+Although, at first glance, the section appears to inhibit competition and undermine diversity by effectively keeping the telephone companies, the natural technological predators of the cable companies, largely out of the cable business, thereby allowing cable companies to keep their monopolies, 13 the reasoning behind Section 533(b) is that, were telephone companies allowed to compete directly against cable companies, the telephone companies, by virtue of their monopoly position, could and would drive the cable companies out of business, resulting in telephone companies serving as sole "gatekeeper[s]," U.S. at , 114 S.Ct. at 2466 , of the means of electronic access to homes and businesses.
+See National Cable Television Ass'n , 914 F.2d at 287 ("It is clear enough from Congress's explicit adoption of the Commission's ban on cross ownership that the policy of this subsection is to promote competition by curtailing the opportunities telephone companies would otherwise have to take advantage of their monopoly control of the conduits and telephone poles that are required for the transmission of video programs to cable subscribers.").
+Worse, as explained more fully below, the telephone companies could then use this awesome power to exert monopoly control over the market for video programming products, the so-called video programming market.
+IV.
+"Video programming" comprises much of the programming provided by cable television companies.
+It is clear that the provision of cable television service is a form of "speech" protected by the First Amendment.
+14 Turner Broadcasting Sys., Inc. , U.S. at , 114 S.Ct. at 2456 ; Leathers v. Medlock , 499 U.S. 439 , 111 S.Ct. 1438 , 113 L.Ed.2d 494 (1991).
+Because Section 533(b) impairs the telephone companies' ability to engage in a form of protected speech, we must determine whether Congress' enactment of Section 533(b) violated the First Amendment.
+A. A court, in evaluating whether a regulation of speech runs afoul of the First Amendment, must subject the regulation to a degree of scrutiny determined by the particular circumstances presented.
+Generally, a regulation that imposes a differential burden on certain speech because of the "content" of that speech alleged to infringe upon protected speech is unconstitutional unless it can survive strict scrutiny.
+Turner Broadcasting Sys., Inc. , U.S. at , 114 S.Ct. at 2459 .
+By contrast, "regulations that are unrelated to the content of speech are subject to an intermediate level of scrutiny."
+Id.
+It is under this standard that the government may "impose reasonable restrictions on the time, place, or manner of protected speech" (so-called "time, place and manner restrictions"), provided that the restrictions are content-neutral.
+Ward v. Rock Against Racism , 491 U.S. 781, 789-90 , 109 S.Ct. 2746, 2752-53 , 105 L.Ed.2d 661 (1989).
+Last, in rare cases, the Supreme Court has held that the First Amendment requires that certain regulations of speech pass only minimal scrutiny.
+See Red Lion Broadcasting Co. v. FCC , 395 U.S. 367, 397-400 , 89 S.Ct. 1794, 1810-12 , 23 L.Ed.2d 371 (1969).
+We consider first the applicability of minimal scrutiny.
+Concluding that standard to be inapplicable here, we then turn to whether we must apply strict, or merely intermediate, scrutiny.
+1.
+The government and the NCTA raise several related arguments in favor of the application of minimal scrutiny.
+None is convincing.
+a. The Supreme Court has generally limited application of minimal scrutiny to First Amendment cases to cases involving regulation of the broadcast media.
+See Turner Broadcasting Sys., Inc. , U.S. at , 114 S.Ct. at 2456 .
+The Supreme Court has repeatedly emphasized that the reason that regulations of broadcast media need pass only minimal scrutiny is the fact, unique to the broadcast media, that the number of broadcast stations (television and radio) usable productively by society is limited by physical considerations.
+See, e.g. , id. at , 114 S.Ct. at 2456-57 ; Red Lion Broadcasting Co. , 395 U.S. at 397-400 , 89 S.Ct. at 1810-12 .
+Appellants suggest that application of minimal scrutiny should extend to regulations governing cable television, arguing that, just as the First Amendment requires only that broadcast television be subjected to limited review because of the physical scarcity of broadcast frequencies, the scarcity of cable systems warrants similar review to regulation of cable television.
+In short, appellants argue that, although it is undisputed that there is no physical limitation on the number of cable systems that can be constructed or on the number of cable channels that a cable system can support, 15 it is, as a matter of economics, impractical for there to be more than one cable system in any given municipality.
+Apart from the question of whether the premise underlying this argument is true, see Preferred Communications, Inc. v. City of Los Angeles , 13 F.3d 1327 (9th Cir.) (invalidating, under the First Amendment, a Los Angeles restriction limiting cable service in particular areas of that city to one operator), cert. denied , U.S. , 114 S.Ct. 2738 , 129 L.Ed.2d 859 (1994); Quincy Cable TV, Inc. v. FCC , 768 F.2d 1434, 1450 (D.C.Cir.1985) ("[T]he tendency toward monopoly, if present at all, may well be attributable more to governmental action--particularly the municipal franchising process--than to any "natural" economic phenomenon.
+"), cert. denied , 476 U.S. 1169 , 106 S.Ct. 2889 , 90 L.Ed.2d 977 (1986), the Supreme Court squarely addressed and rejected this argument in its recent opinion in Turner Broadcasting System, Inc. , U.S. at , 114 S.Ct. at 2457-58 .
+We accordingly reject it here.
+b. Appellants' next argument in favor of minimal scrutiny relies upon the Supreme Court's opinion in FCC v. National Citizens Commission for Broadcasting ("NCCB") , 436 U.S. 775 , 98 S.Ct. 2096 , 56 L.Ed.2d 697 (1978).
+At issue in NCCB was the constitutionality of a regulation promulgated by the FCC, under which, with few exceptions, a newspaper publisher would be denied a license to operate a broadcasting station in a city in which he, she or it published a newspaper.
+The Court subjected the regulation to minimal scrutiny and concluded that it was constitutional, finding the FCC's goal of promoting diversity in ownership of mass communications outlets to be in the "'public interest,'" id. at 799 , 98 S.Ct. at 2114 .
+Appellants read the Court's opinion to stand for the broad proposition that the First Amendment requires that all regulations which prohibit cross-ownership of different modes of communications in the same market withstand minimal scrutiny.
+Appellants misread the NCCB .
+The Court's reasoning explicitly relied upon the fact that the regulation there at issue affected ownership of the broadcast media.
+See 436 U.S. at 799-800 , 98 S.Ct. at 2114-15 .
+NCCB , then, falls squarely within the Red Lion line of cases.
+Because the instant case does not involve regulation of the broadcast media, 16 NCCB is wholly inapposite.
+c. Appellants next argue that, because common carriers have a monopoly benefit conferred upon them, the government has the right to condition continued enjoyment of this benefit upon acceptance of regulation which would ordinarily be deemed violative of the First Amendment.
+The underpinnings of this quid pro quo argument are highly questionable.
+See First Nat'l Bank of Boston v. Bellotti , 435 U.S. 765 , 98 S.Ct. 1407 , 55 L.Ed.2d 707 (1978) (state cannot limit free speech exercise by corporation chartered under its own laws); but see id. at 822-28 , 98 S.Ct. at 1439-43 (Rehnquist, J., dissenting) (endorsing the quid pro quo theory).
+However, even were it acceptable to engage in such a quid pro quo in certain limited circumstances, there is not a true quid pro quo here because the benefit of common carrier status is conferred by state and local governments, yet Section 533(b) is a burden imposed upon the telephone companies by the federal government.
+As a result, to whatever extent the quid pro quo theory outlined above might otherwise have some vitality, it is inapplicable here.
+d. Last, appellants argue that Associated Press v. United States , 326 U.S. 1 , 65 S.Ct. 1416 , 89 L.Ed. 2013 (1945), shields Section 533(b) from heightened scrutiny.
+The issue in Associated Press was whether the federal antitrust laws applied to the Associated Press, a news distribution organization then composed of newspaper publishers.
+Justice Black, writing for the Court, concluded that the generally-applicable antitrust laws were not designed to restrict speech nor, in actual practice, did they.
+See id. at 20 & n. 18, 65 S.Ct. at 1424-25 & n. 18.
+Consequently, the First Amendment was not implicated.
+See id. 17 Section 533(b) is not generally applicable; it regulates only local common carriers.
+Moreover, as discussed above, Section 533(b) , by its plain terms, infringes upon protected speech.
+Appellants' reliance on Associated Press v. United States is therefore misplaced.
+2.
+In light of the foregoing, Section 533(b) must survive some form of heightened scrutiny if it is to be found constitutional.
+The district court found that the regulation at issue in this case should be subjected to intermediate scrutiny.
+We agree, although our reasoning differs from that advanced by the district court.
+We will subject Section 533(b) to strict scrutiny only if it regulates speech based upon content.
+"[T]he 'principal inquiry in determining content-neutrality is whether the government has adopted a regulation of speech because of [agreement or] disagreement with the message it conveys.'"
+Turner Broadcasting Sys., Inc. , U.S. at , 114 S.Ct. at 2459 (quoting Ward , 491 U.S. at 791 , 109 S.Ct. at 2753-54 ).
+18 Turner outlines a two-step inquiry to be undertaken in determining whether a regulation is content-neutral.
+First, we must examine the plain terms of the regulation to see whether, on its face, the regulation confers benefits or imposes burdens based upon the content of the speech it regulates, see id. at , 114 S.Ct. at 2459 19 ; id. at , 114 S.Ct. at 2460 (benefits conferred, and burdens imposed, by "must-carry" rules without regard to content).
+If the regulation's plain language does not, itself, mandate a finding of content discrimination, we then must determine whether, nevertheless there are indications that the regulation's "manifest purpose is to regulate speech because of the message it conveys."
+U.S. at , 114 S.Ct. at 2461 .
+We may discern a statute's manifest purpose from the statute's stated purpose, id. at , 114 S.Ct. at 2461 , or from its "design and operation," id. a. Section 533(b) regulates telephone company provision of "video programming."
+Because Section 533(b) prohibits telephone company provision of "video programming" regardless of the message it conveys, the burden it imposes on common carriers is not content-based.
+Similarly, the benefits afforded by Section 533(b) accrue to all cable system operators, regardless of the content of the speech conveyed by their systems.
+Thus, Section 533(b) does not, by its terms, regulate speech differently according to the message conveyed thereby.
+The district court found that Section 533(b) regulated speech differently according to its content because the determination of whether "video programming" is being provided requires reference to the content of the programming.
+"Video programming" is defined at 47 U.S.C. 522(19) as "programming provided by, or generally considered comparable to programming provided by, a television broadcast station."
+The FCC has interpreted that this definition requires reference to what constituted broadcast television programming in 1984.
+Video Dialtone Order , supra , 7 F.C.C.
+Rcd.
+5781 ¶ 74.
+On this basis, the district court concluded: 533(b) 522(19) 830 F.Supp.
+at 923 (footnote omitted).
+We disagree.
+While a content-based distinction necessarily involves consideration of the nature of the message sought to be conveyed, the converse is not true in all cases, i.e. , that a regulation requires some examination of the speech upon which it has impact does not make the regulation content-based.
+In particular, the government may validly examine the mode of delivery of speech to determine whether it is delivered in conformity with a "manner" restriction, provided that the restriction does not discriminate based upon the content of speech.
+Instructive with regard to when the reference a regulation makes to speech is so unintrusive that the regulation is not thereby rendered content-based is Regan v. Time, Inc. , 468 U.S. 641 , 104 S.Ct. 3262 , 82 L.Ed.2d 487 (1984), where the Court upheld the validity of a statute regulating the size and color of permissible copying of United States currency.
+Justice White wrote for a four-member plurality 20 : the Government does not need to evaluate the nature of the message being imparted in order to enforce the color and size limitations.
+Those limitations restrict only the manner in which the illustrations can be presented 468 U.S. at 655-56 , 104 S.Ct. at 3270-71 (emphasis added).
+Analogizing them to valid restrictions on noise level that can be placed on announcements in residential areas and size and height limitations that can be placed on outdoor signs, the opinion upheld the color and size restrictions.
+21 Id. at 656 , 104 S.Ct. at 3271 ; see id. at 704 , 104 S.Ct. at 3296 (Stevens, J., concurring in part and dissenting in part) ("Time is free to publish the symbol it wishes to publish and to express the messages it wishes to convey by use of that symbol; it merely must comply with restrictions on the manner of printing that symbol which are reasonably related to the strong governmental interests in preventing counterfeiting and deceptive uses of likenesses of currency.").
+Examination of Section 533(b) in light of Regan establishes that the regulation here at issue is not content-based.
+Section 533(b) does not regulate speech differently based upon the content of the speech; rather, it distinguishes speech solely on the basis of whether the speech takes the form of "video programming," i.e. , on the basis of the mode of delivery of the speech.
+In short, Section 533(b) is not content-based because, in determining whether "video programming" is being transmitted, "the Government does not need to evaluate the nature of the message being imparted."
+22 Regan , 468 U.S. at 656 , 104 S.Ct. at 3271 ; see Turner Broadcasting Sys., Inc. , U.S. at , 114 S.Ct. at 2460 (finding that the "must-carry" rules are not content-based because they "distinguish between speakers in the television programming market based only upon the manner in which speakers transmit their messages, and not upon the messages they carry" (emphasis added)) 23 ; cf. City of Cincinnati v. Discovery Network, Inc. , U.S. , , 113 S.Ct. 1505, 1516 , 123 L.Ed.2d 99 (1993) ("sweeping ban on use of newsracks that distribute 'commercial handbills,' but not 'newspapers'" is content-based).
+Additionally, while Section 533(b) imposes burdens on speech according to the identity of the speaker, the Court in Turner specifically rejected "the broad assertion that all speaker-partial laws are presumed invalid," U.S. at , 114 S.Ct. at 2467 , 24 explaining instead that "speaker-based laws demand strict scrutiny when they reflect the Government's preference for the substance of what the favored speakers have to say (or aversion to what the disfavored speakers have to say)."
+Id. In other words, "laws favoring some speakers over others demand strict scrutiny when the legislature's speaker preference reflects a content preference."
+Id.
+We determine whether a speech regulation partial to certain speakers is content-based mindful of the "physical characteristics" and "economic incentives" inherent to the particular type of speech regulated.
+Turner Broadcasting Sys., Inc. , U.S. at , 114 S.Ct. at 2467 .
+Here, as described above, the FCC and Congress have regulated the telephone companies' provision of cable service in light of the physical "bottleneck," id. at , 114 S.Ct. at 2466 , peculiar to cable communications, see id. , and the perception that the telephone companies, absent regulation, would have the incentive and ability to dominate that bottleneck and establish themselves as sole "gatekeeper[s]", id. , thereof.
+Because Section 533(b) 's.
+speaker distinction is thus justifiable entirely on the basis of the peculiar economic and physical venue inherent to cable communications, we conclude that it is not an improper content-based distinction.
+25 b. That section 533(b) does not, on its face, "burden or benefit speech of a particular content does not end the inquiry," U.S. at , 114 S.Ct. at 2461 ; "a regulation neutral on its face may be content-based if its manifest purpose is to regulate speech because of the message it conveys," id. A review of Section 533(b) 's history, including the origins of the precursor FCC rule, discloses no illicit government motive; it instead confirms that the "manifest purpose" of the provision is to inhibit the telephone companies' exercise of monopolistic practices in the cable transport market and to preserve diversity of ownership of electronic means of access to homes and businesses, not to bar the telephone companies from transmitting programming of a particular content.
+It is true that Congress' decision to replace, in drafting Section 533(b) based upon the FCC rule, "CATV" with the phrase "video programming" is unexplained.
+However, in light of the discussion above, we discern no illicit content-discriminatory motive in this decision.
+Our content-neutrality analysis is still not at an end, as we have yet to examine Section 533(b) 's "design and operation," U.S. at , 114 S.Ct. at 2461 .
+The Turner Court, id. at , 114 S.Ct. at 2462 , identified certain "signs" that a content-based regulation will likely exhibit: such a regulation may confer benefits based upon content of speech, "require or prohibit the [expression] of certain ideas or points of view," id. , penalize speakers because of speech content, compel speakers to affirm points of view with which they disagree, or "produce any net decrease in the amount of available speech," id. All but one of these "signs" are clearly absent here.
+Section 533(b) does not benefit or burden speech based upon content, it does not require the telephone companies to express points of view with which they disagree or, for that matter, any point of view, and it does not prohibit telephone company expression of any point of view or on any subject.
+The question of whether Section 533(b) "produce[s a] net decrease in the amount of available speech" requires closer attention.
+A regulation that, in fact, decreases the amount of available speech may operate as a content-based regulation because, by limiting the amount of available speech, the likelihood that some point of view or discussion on a particular topic may not occur is enhanced.
+Along these lines, the Turner Court reaffirmed that "[r]egulations that discriminate among media, or among different speakers within a single medium, often present serious First Amendment concerns."
+Id. at , 114 S.Ct. at 2468 .
+The Court proceeded to clarify that the First Amendment does not mandate strict scrutiny "for any speech regulation that applies to one medium (or a subset thereof) but not others."
+Id. Leathers 499 U.S.], at 444 111 S.Ct. at 1442 Minneapolis Star and Tribune Co. v. Minnesota Commissioner of Revenue 460 U.S. 575, 581 103 S.Ct. 1365, 1369-70 75 L.Ed.2d 295 Arkansas Writers' Project, Inc. v. Ragland 481 U.S. 221, 231 107 S.Ct. 1722, 1728-29 95 L.Ed.2d 209 499 U.S., at 448 111 S.Ct. at 1444 Arkansas Writers' Project supra 481 U.S., at 228-29 107 S.Ct. at 1727-28 Minneapolis Star 460 U.S., at 585 103 S.Ct. at 1371-72 Ibid Id. Although common carriers are not members of "the press" insofar as 47 U.S.C. 202 precludes them from exercising editorial control over the communications they transmit, the foregoing would nevertheless seem applicable to Section 533(b) , which restricts a class of speakers from joining the press by operating, with editorial control and within certain areas, cable systems.
+Moreover, we see no reason why a government regulation which discriminates against a particular class of speakers behind which "there [is] no evidence [of] an illicit governmental motive," id .
+, but which is "structured in a manner that raise[s] suspicions that [its] objective was, in fact, the suppression of certain ideas," id .
+, would not similarly be subject to strict scrutiny.
+Here, because Section 533(b) affects, in any one given geographic area, only the local common carrier, Section 533(b) might be said to be "structured in a manner that raise[s] suspicions that [its] objective was, in fact, the suppression of certain ideas."
+Turner Broadcasting Sys., Inc. , U.S. at , 114 S.Ct. at 2468 ; cf. Arkansas Writers' Project, Inc. , 481 U.S. at 228 , 107 S.Ct. at 1727 ("[S]elective taxation of the press--either singling out the press as a whole or targeting individual members of the press--poses a particular danger of abuse by the State.
+"); Minneapolis Star and Tribune Co. , 460 U.S. at 592 , 103 S.Ct. at 1375 ("[W]hen [a tax] exemption [for which only certain members of the press qualify] selects a narrowly defined group to bear the burden of the tax, the tax begins to resemble more a penalty for a few of the largest newspapers than an attempt to favor struggling smaller enterprises.").
+Once again, however, the peculiar nature of cable service convinces us otherwise.
+As discussed above, Section 533(b) 's discrimination against telephone companies as speakers is justified entirely by the peculiar economic and physical characteristics inherent in the provision of cable service.
+Because, then, "the differential treatment [of speakers] is 'justified by some special characteristic of' the particular medium being regulated," U.S. at , 114 S.Ct. at 2468 (quoting Minneapolis Star and Tribune Co. , 460 U.S. at 585 , 103 S.Ct. at 1372 ), application of strict scrutiny is not warranted.
+The fact that the class of speakers affected adversely by Section 533(b) happens to be particularly small does not, in our opinion, change this result.
+It is true that the Court in Turner reached the conclusion that the speaker distinction imposed by the "must-carry" rules there at issue did not warrant strict scrutiny both because the speaker distinction was justified by the peculiar characteristics of the cable medium, see U.S. at , 114 S.Ct. at 2468 , and because the rules apply "to almost all cable systems in the country, rather than just a select few," id.
+We believe, however, that Turner , Arkansas Writers' Project , Minneapolis Star , and Leathers establish that concerns as to the size of the class of speakers adversely affected by a speech regulation arise only where membership in the class is not justified by the characteristics of the particular medium being subjected to regulation.
+26 The Turner Court exception to the presumption that a narrow speaker distinction is constitutionally suspect confirms our belief, for it makes no mention of the size of the speaker class adversely affected by the regulation: "[S]uch heightened scrutiny is unwarranted when the differential treatment [accorded different speakers] is 'justified by some special characteristic of the particular medium being regulated."
+U.S. at , 114 S.Ct. at 2468 (quoting Minneapolis Star and Tribune Co. , 460 U.S. at 585 , 103 S.Ct. at 1372 ).
+Thus, while a government regulation that "target[s] a small number of speakers [may] threaten[ ] to 'distort the market for ideas,'" Turner Broadcasting Sys., Inc. , U.S. at , 114 S.Ct. at 2468 (quoting Leathers , 499 U.S. at 448 , 111 S.Ct. at 1444 ), we do not think that a regulation can be said to "target" a group of speakers where the membership in the group is determined solely by the peculiar characteristics of the medium of speech being regulated.
+Section 533(b) cannot be said to "target" a small class of speakers; rather, Congress enacted Section 533(b) so as to preserve diversity of ownership of the "bottleneck" of the means of electronic access into homes and businesses.
+That Congress has determined that this goal is achieved by regulating what turns out, incidentally, to be a small class of speakers does not evince congressional intent to "target" those speakers.
+See Ward , 491 U.S. at 791 , 109 S.Ct. at 2754 ("A regulation that serves purposes unrelated to the content of expression is deemed neutral, even if it has an incidental effect on some speakers but not others.").
+In short, while it is true that, because of the small class of speakers it adversely affects, Section 533(b) bears some "resembl[ance to] a penalty for particular speakers or particular ideas," Leathers , 499 U.S. at 449 , 111 S.Ct. at 1445 , this apparent resemblance is dispelled by the logical, content-neutral explanation for Section 533(b) 's regulation of this class.
+Appellees further argue that the fact that Section 533(b) so severely limits the speech of such a small class of speakers requires application of strict scrutiny.
+We disagree.
+As just established, because the identity and size of the speaker class here adversely affected result solely from the peculiar characteristics of the cable medium, such considerations are not relevant to the content-neutrality inquiry.
+Putting the size of the class of regulated speakers aside, then, while Section 533(b) 's limitations on telephone companies' speech may aptly be described as "severe," at least in some sense of the word, we cannot say that the limitations imposed are "likely to stifle the free exchange of ideas."
+Leathers , 499 U.S. at 453 , 111 S.Ct. at 1447 .
+Section 533(b) 's operation is in no way content-based.
+Consequently, the telephone companies are free to engage in speech advancing any view with respect to any topic.
+Indeed, they may even transmit, with full editorial control, programming, other than "video programming" over their own common carrier networks.
+27 For these reasons, we reject appellees' argument in this regard.
+28 See Frisby v. Schultz , 487 U.S. 474 , 108 S.Ct. 2495 , 101 L.Ed.2d 420 (1988) (subjecting regulation which prohibited picketing "before or about" any residence to intermediate scrutiny); cf. Lovell v. City of Griffin , 303 U.S. 444, 451 , 58 S.Ct. 666, 669 , 82 L.Ed. 949 (1938) (ordinance which "comprehensive[ly]" banned distribution of pamphlets regardless of method was "invalid on its face").
+Accordingly, we will subject Section 533(b) to intermediate scrutiny and see if it passes muster.
+B. To pass intermediate scrutiny, a content-neutral speech regulation must be "'narrowly tailored to serve a significant governmental interest, and leave open ample alternative channels for communication of the information.'"
+Ward , 491 U.S. at 791 , 109 S.Ct. at 2753 (quoting Clark v. Community for Creative Non-Violence , 468 U.S. 288, 293 , 104 S.Ct. 3065, 3069 , 82 L.Ed.2d 221 (1984)).
+For ease of discussion, we isolate the following prongs which must be satisfied for constitutionality to be concluded: (1) the interests which Section 533(b) purports to serve must be "significant"; (2) Section 533(b) must be "narrowly tailored" to serve those interests; and (3) Section 533(b) must "leave open ample alternative channels for communication of the information" the transmission of which Section 533(b) regulates.
+We examine each of these prongs seriatim .
+1.
+As discussed above in Section III, dual goals underlie Section 533(b) : restricting telephone company exercise of cross-subsidization and pole-access discrimination (perhaps, now that technology allows the telephone companies to transmit video programming directly over their common carrier lines, more aptly described as network-access discrimination) in the cable medium, and preserving diversity of ownership of communications outlets and of the means of electronic access to homes and businesses.
+To determine whether these interests are "significant," we need not look beyond the Supreme Court's opinion in Turner .
+First, with respect to the restraint of unfair trade practices on the part of the telephone companies, Justice Kennedy explained, "[T]he government's interest in eliminating restraints on fair competition is always substantial, even where the individuals or entities subject to particular regulations are engaged in expressive activity protected by the First Amendment."
+U.S. at , 114 S.Ct. at 2470 .
+Second, with respect to diversity of ownership of communications outlets, Justice Kennedy explained: "[A]ssuring that the public has access to a multiplicity of information sources is a governmental purpose of the highest order, for it promotes values central to the First Amendment."
+Id. Also of great significance is the government's interest in "ensur[ing] that private interests not restrict, through physical control of [the] critical ['bottleneck'] of [cable] communication, the free flow of information and ideas," id. at , 114 S.Ct. at 2466 .
+See id.
+There can be no question, then, but that the interests Section 533(b) serves are "significant."
+2.
+For a remedy to be considered narrowly tailored, it "need not be the least-restrictive or least-intrusive means" of achieving the government's goal.
+Ward , 491 U.S. at 798 , 109 S.Ct. at 2757 .
+"Rather, the requirement of narrow tailoring is satisfied 'so long as the regulation promotes a substantial government interest that would be achieved less effectively absent the regulation.'"
+Id. at 799 , 109 S.Ct. at 2758 (footnote omitted) (quoting United States v. Albertini , 472 U.S. 675, 689 , 105 S.Ct. 2897, 2906 , 86 L.Ed.2d 536 (1985)).
+However, a regulation that "burden[s] substantially more speech than is necessary to further the government's legitimate interests" is not narrowly tailored.
+Id. In determining whether a statute is narrowly tailored, we generally "afford great weight to the decisions of Congress and the experience of the [FCC]."
+Columbia Broadcasting Sys., Inc. v. Democratic Nat'l Comm. , 412 U.S. 94, 102 , 93 S.Ct. 2080, 2086 , 36 L.Ed.2d 772 (1973).
+This deference is not without its bounds, however.
+In the context of intermediate scrutiny, we owe deference to the Congress only to the extent that it makes factual findings regarding the need for the particular measure enacted; "if there are numerous and obvious less-burdensome alternatives to the restriction," City of Cincinnati v. Discovery Network, Inc. , U.S. at & n. 13 , 113 S.Ct. at 1510 & n. 13, we will not accede to Congress' judgment, see id. 29 ; Sable Communications of Cal., Inc. v. FCC , 492 U.S. 115, 129 , 109 S.Ct. 2829, 2838 , 106 L.Ed.2d 93 (1989) (declining, in determining whether statute banning indecent interstate commercial telephone communications was narrowly-tailored, to accord deference to Congress where "the congressional record contains no legislative findings that would justify us in concluding that there is no constitutionally acceptable less restrictive means, short of a total ban, to achieve the Government's interest in protecting minors").
+See also Turner Broadcasting Sys., Inc. , U.S. at , 114 S.Ct. at 2471 (plurality opinion) ("Congress is not obligated, when enacting its statutes, to make a record of the type that an administrative agency or court does to accommodate juridical review."
+Nonetheless, courts retain an "obligation to exercise independent judgment when First Amendment rights are implicated to assure that, in formulating its judgments, Congress has drawn reasonable inferences based upon substantial evidence.").
+In order to determine whether Section 533(b) is "narrowly tailored" to serve the government's significant interests, it is necessary first to understand precisely how Section 533(b) has been tailored, i.e. , exactly how Section 533(b) purports to fulfill the goals to which it is dedicated.
+The theory behind Section 533(b) is far from apparent.
+As described above, it was feared that the telephone companies, as monopolists, would engage in the anti-competitive practices of cross-subsidization and pole-access discrimination, thereby threatening the maintenance of diversity of ownership of the means of communication, that prompted the FCC to enact the regulatory precursor to Section 533(b) .
+With respect to pole-access discrimination, as the district court aptly noted, 830 F.Supp.
+at 930 n. 29.
+We focus, then, on Section 533(b) 's effect on cross-subsidization.
+A telephone company will engage in cross-subsidization only if it has both the ability and the incentive to do so.
+Section 533(b) allows a telephone company, or an affiliate thereof to contract to transmit an unaffiliated entity's cable services over the telephone company's network.
+Thus, a telephone company may, consistent with Section 533(b) , lease to an unaffiliated cable operator "space" on its common carrier network to transmit video programming.
+Section 533(b) does not, then, prohibit the telephone companies from cross-subsidizing their entry into the cable transport leasing market; indeed, the appellants do not argue otherwise.
+30 At best, then, Section 533(b) achieves its goal of eliminating telephone company cross-subsidization by removing the telephone companies' incentive to engage in that practice.
+The government suggests that the goal which the telephone companies expect to result from the cross-subsidization which they undertake is domination of the video programming market.
+In particular, the government suggests that cross-subsidization will secure for the telephone companies domination over the cable transport market and domination over the electronic means of access to American homes and businesses; this positioning, in turn, would force video programmers wishing to have their programming transmitted over cable television to do business with the telephone companies.
+In short, say appellants, it is the promise of the green pastures of domination over the video programming market that provides an incentive, indeed an "irresistible" incentive, C & P , 830 F.Supp.
+at 927 , to establish control over the cable transport market.
+Absent this irresistible incentive, although the telephone companies could still establish domination over the video transport market, they will not act to do so. At this juncture, we assume, arguendo , (1) that ordinary regulatory oversight is insufficient to guard against telephone company use of cross-subsidization in the cable transport market; and (2) that the proffered explanation of how the possibility of domination over the video programming market provides an "irresistible" incentive to the telephone companies to engage in unfair competition in the cable transport market, without which they would not so act.
+We therefore assume that the possibility that a telephone company may engage in cross-subsidization in the cable transport market presents a problem 31 which may properly demand congressional or regulatory attention, and that the problem may properly be addressed by regulation of the video programming market.
+One problem with Section 533(b) remains: we are not convinced that Section 533(b) 's remedy is narrowly tailored to serve the goal of ameliorating this problem.
+The Congress did not buttress Section 533(b) with any underlying factual findings.
+Even the legislative history, to the extent that is relevant in this regard, compare Sable Communications of Cal., Inc. , 492 U.S. at 133 , 109 S.Ct. at 2840 (Scalia, J., concurring) ("Neither due process nor the First Amendment requires legislation to be supported by committee reports, floor debates, or even consideration, but only by a vote.
+"), offers only a broad statement about preserving diversity of ownership of communications outlets.
+32 While the FCC's development of the rule that preceded Section 533(b) is more fully documented, and while we may presume that Congress relied, at least to some degree, thereon, we note that the FCC's reasoning does not indicate that attention was devoted to the possibility of other, less drastic regulatory schemes that might achieve the substantial government interests enunciated above.
+33 Further, perhaps because the FCC's motivation for enacting the regulatory precursor to Section 533(b) was the threat to the cable transport market that telephone company engagement in pole-access discrimination and cross-subsidization posed, the FCC's contemporaneous discussions of its rule do not even hint at the complex of incentives and evils, outlined above, involving the cable transport and video programming markets.
+Moreover, we agree with the district court, 830 F.Supp.
+at 930-31 , that an "obvious less-burdensome alternative[ ]" to Section 533(b) readily presents itself (and indeed has been identified by the FCC as a possible alternative to Section 533(b) in its recommendation to Congress to repeal the provision): Congress could simply limit the telephone companies' editorial control over video programming to a fixed percentage of the channels available; the telephone companies would be required to lease the balance of the channels on a common carrier basis to various video programmers, without regard to content.
+See Video Dialtone Order , supra , 7 F.C.C.
+Rcd.
+5781 ¶¶ 141-143.
+34 At bottom, we conclude that Section 533(b) is not narrowly tailored because the government has failed to demonstrate why Section 533(b) does not, by removing the "irresistible" incentive which domination of that market provides, "burden substantially more speech than is necessary," Ward , 491 U.S. at 799 , 109 S.Ct. at 2758 .
+35 See Turner Broadcasting Sys., Inc. , U.S. at , 114 S.Ct. at 2470 (plurality opinion) ("When the Government defends a regulation on speech as a means to prevent anticipated harms, it must do more than simply 'posit the existence of the disease sought to be cured.'
+It must demonstrate that the recited harms are real, not merely conjectural, and that the regulation will in fact alleviate these harms in a direct and material way."
+(quoting Quincy Cable TV, Inc. , 768 F.2d at 1455 )).
+C. Having concluded that Section 533(b) is not "narrowly tailored" to serve the goals to which it is dedicated, we must find that the provision has not been able to withstand intermediate scrutiny.
+That Section 533(b) is not "narrowly tailored" is not its only infirmity to intermediate scrutiny, however; the provision also does not leave the telephone companies with ample alternative channels for communication.
+36 Whether a regulation leaves open ample alternative methods of communication is more than an inquiry as to whether the regulation "completely silences" the speaker.
+Rather, for a regulation to be constitutional, the ample alternative methods of communication must be sufficiently similar to the method foreclosed by the regulation.
+Cf. Clark , 468 U.S. at 295 , 104 S.Ct. at 3070 (upholding Park regulation limiting camping in park to certain areas, noting, "the Park Service neither attempts to ban sleeping generally nor to ban it everywhere in the parks").
+Section 533(b) does not meet this requirement.
+The statute bars absolutely the telephone companies from entering, with editorial discretion, the cable television market.
+Appellants argue that the telephone companies have numerous alternative avenues of communication open to them: they may "arrange" to have programming of their choice transmitted to their common carrier subscribers by unaffiliated cable systems or broadcast stations or newspapers.
+While this may in general be true, the fact remains that the telephone companies cannot guarantee that video programming they wish to transmit to their local audience via cable television, a protected form of speech, will reach their desired audience.
+Appellants' accurate observation that the telephone companies may own cable systems in areas outside their areas of common carrier service does not address the problem that the telephone companies remain unable to reach the audience of their common carrier subscribers should they so choose.
+While the First Amendment may tolerate speech regulations that "ban [a] particular manner or type of expression at a given time or place ," Ward , 491 U.S. at 802 , 109 S.Ct. at 2760 (emphasis added); cf. Frisby v. Schultz , supra , 487 U.S. at 483, 486 , 108 S.Ct. at 2502, 2503 (regulation which prohibits picketing "before or about" any residence allows for ample alternative channels of communication because "[g]eneral marching through residential neighborhoods, or even walking a route in front of an entire block of houses, is not prohibited by th[e] ordinance"; reasoned the Court: "The type of focused picketing prohibited by the ordinance is fundamentally different from more generally directed means of communication that may not be completely banned in residential areas.
+"); City of Renton v. Playtime Theatres, Inc. , 475 U.S. 41, 53 , 106 S.Ct. 925, 932 , 89 L.Ed.2d 29 (1986) (city ordinance which "leaves some 520 acres, or more than five percent of the entire land are of [the city], open to use as adult theater sites" allows for reasonable alternative avenues of communication); Clark , 468 U.S. at 295 , 104 S.Ct. at 3069-70 , it does not accommodate regulations which ban completely a particular manner of expression, see City of Ladue v. Gilleo , U.S. , , 114 S.Ct. 2038, 2046 , 129 L.Ed.2d 36 (1994) (even treating city ordinance which prohibits residents from placing signs on their property as a time, place or manner restriction, the ordinance did not leave open "adequate substitutes for the important medium of speech that [the city] ha[d] closed off").
+We conclude, therefore, that Section 533(b) does not afford the telephone companies "ample alternative channels for communication of the information" the transmission of which Section 533(b) regulates, Clark , 468 U.S. at 293 , 104 S.Ct. at 3068-69 .
+37 V. Judge Tilley and Judge Russell concur in the foregoing opinion; Judge Michael concurs in the judgment herein.
+Judge Michael, however, dissents from the inclusion in the opinion of Section IV.A.2., which, in his opinion, is unnecessary to the decision herein.
+AFFIRMED .

@@ -1,0 +1,237 @@
+ BREYER , Circuit Judge.
+The Internal Revenue Code requires employers to withhold from their employees' paychecks money representing employees' personal income taxes, unemployment insurance and social security taxes that those employees owe or will owe the government.
+26 U.S.C. 3102(a) , 3402(a) (1982).
+Because federal law requires employers to hold these funds in "trust for the United States," 26 U.S.C. 7501(a) (1982), these taxes are commonly referred to as "trust fund" taxes.
+Slodov v. United States , 436 U.S. 238, 242-43 , 98 S.Ct. 1778, 1783 , 56 L.Ed.2d 251 (1978).
+And, should employers fail to pay them, the government can collect an equivalent sum directly from the officers or employees of the employer who are responsible for their collection and payment.
+26 U.S.C. 6672 (1982).
+These individuals are commonly referred to as "responsible" individuals.
+Slodov , 436 U.S. at 244 n. 5, 98 S.Ct. at 1784 n. 5.
+An employer, of course, may also fail to pay the government its ordinary corporate income tax or other "non-trust fund" taxes ( i.e. , taxes owed directly by the corporation and not withheld or collected from third parties).
+These two cases involve corporations in Chapter 11 bankruptcy reorganizations.
+Each corporation owes the government both trust fund and ordinary (non-trust fund) taxes.
+In each instance, the reorganization plan says that the corporation must satisfy its total tax debt to the government by making partial payments each year for several years.
+In each instance, the bankruptcy judge specified that, as the reorganized corporation paid off its tax debts, the government should treat the payments as satisfying the corporation's trust fund tax debts first; only after it received enough money to satisfy all trust fund debts may the government apply the money received to the corporation's non-trust fund tax debts.
+This order of payment helps the "responsible" individuals associated with the corporation, for it diminishes the likelihood that they will end up having personally to pay the "trust fund" tax debts that the corporation owes.
+That fact also means that the government may find it harder to collect the entire tax debt (trust fund and non-trust fund).
+If, for example, the reorganized corporation were to run out of money a few years from now and "trust fund" debts were still owed, the government might collect them from "responsible" individuals.
+But, if all "trust fund" debts have been paid, and if the only debts are for, say, ordinary corporate income taxes, the government will be out of luck, for there are no personal guarantors of payment of a corporation's ordinary tax liabilities.
+The IRS has appealed these two bankruptcy court decisions.
+It wants to apply the debtors' payments to the ordinary, non-trust fund, tax debts first.
+It argues that it is entitled to do so because payments pursuant to a Chapter 11 reorganization plan are " involuntary " payments; and under a longstanding IRS policy, backed by case law authority, the IRS may designate the allocation of "involuntary" payments among a firm's various tax debts as the IRS sees fit.
+The IRS adds that to allocate Chapter 11 tax payments to "trust fund" tax debts will frustrate the congressional policy underlying Section 6672 of the Internal Revenue Code, 26 U.S.C. 6672 (1982), which holds "responsible" individuals personally liable for a corporation's "trust fund" tax debts.
+In Energy Resources , the district court rejected these arguments and affirmed the bankruptcy court's allocation of payments to "trust fund" debts first; in Newport Offshore the district court accepted these arguments and reversed the bankruptcy court's order for payment of "trust fund" tax debts first.
+The basic legal question that these two cases raise on appeal is whether the bankruptcy court has the legal authority to order the government to apply the tax payments made by the reorganized corporation to the corporation's "trust fund" debts first.
+We conclude that the bankruptcy court does possess that legal power, regardless of whether the payments are characterized as "voluntary" or "involuntary."
+Our result is consistent with that of the Eleventh Circuit in In re A & B Heating & Air Conditioning, Inc. , 823 F.2d 462 (11th Cir.1987), vacated and remanded for consideration of mootness , U.S. , 108 S.Ct. 1724 , 100 L.Ed.2d 189 (1988).
+Our result is not consistent with that reached by the Third Circuit in In re Ribs-R-Us, Inc. , 828 F.2d 199 (3rd Cir.1987) (tax payments made pursuant to a Chapter 11 reorganization are per se "involuntary" and "no provision of the Bankruptcy Code allows either the debtor or the bankruptcy court to direct" the allocation of such payments).
+Two other circuits have followed the Third Circuit.
+In re DuCharmes & Co. , 852 F.2d 194 (6th Cir.1988) (per curium); In re Technical Knockout Graphics, Inc. , 833 F.2d 797 (9th Cir.1987).
+I. Background The first case before us concerns a Chapter 11 debtor called Newport Offshore, Ltd. Newport Offshore failed to pay the government employee social security and unemployment withholding taxes ("trust fund" taxes) in 1985; it owes the government some ordinary, non-trust fund, taxes as well.
+On November 13, 1985, Newport Offshore filed a petition for reorganization under Chapter 11 of the Bankruptcy Act, 11 U.S.C. 101-1330 (1982).
+In June 1986, the bankruptcy court appointed a trustee to run Newport Offshore's business.
+See 11 U.S.C. 1104 (1982 & Supp. IV 1986).
+Subsequently, Allied Marine Associates, a Rhode Island partnership, agreed to pay all Newport Offshore's prepetition tax liability, to pay various other debts, and to invest additional money in the corporation; in return, it would receive 85 percent of the shares of the new, reorganized Newport Offshore.
+The reorganization plan provided that the reorganized Newport Offshore would pay its tax debts (totaling about $300,000) over a period of about six years and that the money would be applied to extinguish all "trust fund" tax debts "prior to the commencement of payment of the non-trust fund portion" of the tax debts owed.
+The IRS objected to the plan's tax debt payment designation provision.
+The bankruptcy judge, after hearing the IRS's objections, approved the plan.
+The IRS appealed to the district court, which reversed, following the Third Circuit in Rib-R-Us , supra .
+The debtor now appeals that decision here.
+The second case involves a debtor called Energy Resources Co., Inc. In January 1983, the debtor petitioned for reorganization under Chapter 11.
+In September 1984 the bankruptcy court confirmed a reorganization plan under which all of Energy Resources' assets, except those of its Environmental Division, would be placed in a special trust (called the ERCO Liquidation Trust) to pay debts owed, including about $1,000,000 in federal taxes, most of which were trust fund taxes.
+The ERCO Liquidation Trust was to pay the tax debt over a period of about five years.
+The plan also provided that a reorganized Energy Resources, Inc. would, upon merging with an independent company, continue to operate under the name Enseco, Inc. In November 1985 the trustee of ERCO Liquidation Trust sent checks to the IRS for about $280,000, which represented the scheduled payment and $78,000 in additional payments.
+The trustee asked the IRS to apply the money to Energy Resources' "trust fund" tax debt.
+The IRS refused to accept the trustee's designation.
+The trustee then asked the bankruptcy court to order the IRS to apply the money to the "trust fund" tax liabilities.
+After hearing argument, the bankruptcy court held that tax payments made pursuant to a Chapter 11 reorganization are "voluntary" payments, and it "ordered" the IRS "to apply tax payments under the Plan as designated by the Trustee."
+The IRS appealed this order to the District Court, which affirmed the bankruptcy court.
+The IRS now appeals that decision.
+II.
+The Law In our view, these cases require us to answer two legal questions.
+The first legal question concerns the scope of IRS policy.
+It is whether a payment made pursuant to a Chapter 11 reorganization plan is "voluntary" or "involuntary," as IRS rules and regulations use these terms.
+Our answer to that question is similar to that of the Third Circuit.
+We believe that the law permits the IRS to call tax payments within a Chapter 11 reorganization "involuntary," for purposes of applying its own regulations.
+We reach a result that differs from the Third Circuit, however, because we believe we must ask a second question: Does the law permit a bankruptcy court to order the IRS to allocate an "involuntarily" made payment to a debtor's "trust fund" tax liability first?
+We conclude that the law does authorize a bankruptcy court to order the IRS to allocate such "involuntary" payments to a taxpayer's "trust fund" liability first, provided that the court reasonably concludes that this allocation will likely increase the reorganization plan's chances for success.
+We shall analyze each of these two legal questions in turn.
+A. The "IRS Rule" Question: "Voluntary" or "Involuntary"?
+IRS policy has long permitted a taxpayer who " voluntarily " submits a payment to the IRS to designate the tax liability ( i.e. , "trust fund" or non-trust fund tax debts) to which the payment will apply.
+See Rev.Rul.
+79-284, 1979-2 C.B.
+83, modifying Rev.Rul.
+73-305, 1973-2 C.B.
+43, superseding Rev.Rul.
+58-239, 1958-1 C.B.
+94 ("partial payments of tax[es] are to be applied as the taxpayer designates where the taxpayer provides specific written instruction for the application of a voluntary partial payment"); Slodov , 436 U.S. at 252 n. 15, 98 S.Ct. at 1788 n. 15; In re Technical Knockout Graphics, Inc. , 833 F.2d at 801 ; In re Ribs-R-Us, Inc. , 828 F.2d at 201 ; In re A & B Heating & Air Conditioning , 823 F.2d at 463 ; Muntwyler v. United States , 703 F.2d 1030, 1032 (7th Cir.1983); O'Dell v. United States , 326 F.2d 451, 456 (10th Cir.1964); see also Wood v. United States , 808 F.2d 411, 416 (5th Cir.1987).
+However, where the taxpayer " involuntarily " makes the payment, the IRS has granted the taxpayer no such freedom to designate the allocation; the IRS will decide how to apply the payment; and it will almost always decide to apply the payment to a non-trust fund tax debt first.
+See IRS Policy Statement P-5-60, reprinted in 1 Administration, Internal Revenue Manual (CCH) 1305-15; Slodov , 436 U.S. at 252 n. 15, 98 S.Ct. at 1788 n. 15; In re Technical Knockout Graphics, Inc. , 833 F.2d at 801 ; In re Ribs-R-Us, Inc. , 828 F.2d at 201 ; In re A & B Heating & Air Conditioning , 823 F.2d at 463 ; Muntwyler , 703 F.2d at 1032 .
+These payment designation rules, says the IRS, are consistent with "the common law" policy, In re Energy Resources Co., Inc. , Brief for Appellants [IRS], at 18 n. 11.
+See O'Dell v. United States , 326 F.2d 451, 456 (10th Cir. 1964); see also Hewitt v. United States , 377 F.2d 921, 925 (5th Cir.1967).
+The IRS adds that the Tax Court defined the "voluntary"/"involuntary" distinction authoritatively in Amos v. Commissioner , 47 T.C. 65 (1966), where it said, Amos , 47 T.C. at 69 .
+But see also Muntwyler , 703 F.2d at 1033 ("The distinction between a voluntary and involuntary payment in Amos and all the other cases is not made on the basis of the presence of administrative action alone, but rather the presence of court action or administrative action resulting in an actual seizure of property or money, as in a levy.")
+(emphasis in the original).
+The IRS argues that payments made by compromise pursuant to a Chapter 11 reorganization plan fall within the (rearranged) literal words of Amos ("payment received as a result of a legal proceeding in which the government is seeking to file a claim for its delinquent taxes"); it sees a payment made pursuant to a Chapter 11 plan as a payment made pursuant to a court order; and it distinguishes Muntwyler on the ground that the trustee there did not act pursuant to a court order, or a bankruptcy proceeding, thus taking the case outside the scope of Amos's words "legal proceeding."
+In essence, the IRS sees the words "voluntary" and "involuntary" as defining polar opposite points on a spectrum.
+At the "voluntary" end, one finds the taxpayer who discharges a debt before the IRS brings a legal proceeding against him.
+At the "involuntary" end, one finds the taxpayer whose property the court has seized and transmitted to the IRS.
+The IRS believes that the court's control of the taxpayer's assets in a Chapter 11 proceeding, along with the court's power to confirm the plan, bring this case close enough to the "involuntary" end of the spectrum to warrant the finding that all payments made pursuant to a Chapter 11 reorganization plan are "involuntary."
+The debtor corporations, Energy Resources Co. and Newport Offshore, Ltd., counter that Muntwyler's phrase "resulting in an actual seizure " applies to court action as well as to administrative action, and that the "limited role of the court in confirming [a reorganization] plan demonstrate[s] that the action of a Chapter 11 court falls far short of the coercive power of a levy, execution or judicial sale."
+In re Energy Resources , Brief for Appellee, at 12.
+Therefore, they conclude, tax payments made subject to a Chapter 11 reorganization plan are not "involuntary" tax payments.
+The bankruptcy courts have split over the question of whether tax payments made pursuant to Chapter 11 reorganizations are "voluntary" or "involuntary."
+See cases collected in In re A & B Heating & Air Conditioning , 823 F.2d at 463 n. 2.
+As we pointed out above, at p. 226, supra , the circuit courts have also divided on the question.
+In In re Ribs-R-Us, Inc. , supra , the Third Circuit concluded that such payments are "most realistically classified as involuntary for purposes of the debtor's ability to designate to which taxes the payments should be allocated."
+Ribs-R-Us , 828 F.2d at 203 .
+The Ninth and Sixth Circuit have followed the Third Circuit's Ribs-R-Us reasoning.
+See In re Technical Knockout Graphics, Inc. , supra ; In re DuCharmes & Co. , supra .
+The Eleventh Circuit, however, in In re A & B Heating & Air Conditioning , supra , held that payments made pursuant to a Chapter 11 reorganization plan, at least sometimes, are "voluntary."
+In our view, the labeling question is a difficult one because a Chapter 11 proceeding has some characteristics that make one consider a related tax payment "involuntary," but it also has other characteristics that make a "voluntary" label seem more natural.
+The Third Circuit, in Ribs-R-Us , 828 F.2d at 202-03 , has pointed to those features of a Chapter 11 proceeding that make the payment seem "involuntary:" (1) Once a debtor files for reorganization under Chapter 11 all its assets vest in the bankruptcy estate, 11 U.S.C. 541 (1982 & Supp. IV 1986).
+(2) The debtor-in-possession (or other trustee) is no longer free to spend the debtor's money; rather, he must act as a "fiduciary" for the benefit of the creditor, 11 U.S.C. 1107 (1982 & Supp. IV 1986); see Wolf v. Weinstein , 372 U.S. 633, 649-50 , 83 S.Ct. 969, 979 , 10 L.Ed.2d 33 (1963), and, he must act in accordance with orders the bankruptcy court may issue, 11 U.S.C. 105(a) , 1141(a), 1142(b) (1982 & Supp. IV 1986).
+(3) The bankruptcy court will determine the extent of the debtor's tax liability, 11 U.S.C. 505 (1982 & Supp. IV 1986).
+(4) The debtor must produce a plan that will see that all tax claims (those enjoying what is now called a "seventh priority," 11 U.S.C. 507(a)(7) (Supp. IV 1986)) are paid in full "over a period not exceeding six years after the date of assessment of such claim[s]," 11 U.S.C. 1129(a)(9)(C) (Supp. IV 1986).
+(5) A bankruptcy court order confirming a plan is an order requiring the debtor (or trustee) to carry out the plan, 11 U.S.C. 1142 (Supp. IV 1986), including, of course, its payment schedule.
+(6) If the debtor fails to produce, or comply, with such a plan, the bankruptcy court may convert the proceeding, against the debtor's wishes, into a Chapter 7 liquidation, 11 U.S.C. 1112(b) (1982 & Supp. IV 1986), which invariably will involve a bankruptcy court order requiring the debtor (or the trustee), to pay assets to the government to satisfy tax liabilities.
+On the other hand, a Chapter 11 proceeding also has important features that favor application of a "voluntary" label.
+They include the following: (1) The debtor may choose "voluntarily" to enter a Chapter 11 reorganization proceeding.
+(2) The Chapter 11 proceeding offers the taxpayer protection from creditors, including the IRS; the debtor need not pay its tax debts for six years, 11 U.S.C. 1129(a)(9)(C) , and, as a practical matter, given that six year leeway, it may take the IRS longer to get its money from such a taxpayer than from delinquent taxpayers who are not in bankruptcy, against whom the IRS can demand immediate payment and pursue such legal action as a obtaining a levy on the debtor's property.
+(3) Chapter 11 gives the debtor many "options" for structuring payment and considerable "latitude" as to "how and when the IRS will be paid."
+In re Lifescape, Inc. , 54 B.R. 526, 528 (Bankr.D.Colo.
+1985).
+(4) Here, third parties (Allied Marines in Newport , and Enseco in In re Energy Resources ) provided the money (or much of the money) used to pay the IRS; no law nor any court order required these third parties to provide their money.
+Moreover, the bankruptcy judge in Newport wrote that this feature of these cases is not unusual.
+He said "in the real world of business reorganizations, most successful Chapter 11 plans depend, in part, at least, on the infusion of funds provided by outside investors."
+(5) If a debtor fails to produce an acceptable Chapter 11 plan, the bankruptcy court need not convert the proceeding into a Chapter 7 liquidation; the court may decide simply to dismiss the proceeding, 11 U.S.C. 1112(b) , leaving the debtor back where he started.
+(6) Under historic bankruptcy practice, a debtor can propose which of a creditor's several debts a particular payment shall satisfy.
+See National Bank of the Commonwealth v. Mechanics' National Bank , 94 U.S. 437, 439 , 24 L.Ed. 176 (1876) ("The rule settled by this court as to the application of payment is, that the debtor or party paying the money may, if he chooses to do so, direct its appropriation.")
+And, this practice is important considering the IRS suggestion that its "voluntary"/"involuntary" rule basically mimics ordinary debtor/creditor law.
+See p. 227, supra .
+Given the strength of both sets of competing considerations, we are not surprised to find a split in the circuits.
+We recognize, however, that when we evaluate these considerations, we must pay particular attention to an interpretation that a government agency offers of its own rules and regulations .
+Ford Motor Credit Co. v. Milhollin , 444 U.S. 555, 565-66 , 100 S.Ct. 790, 796-97 , 63 L.Ed.2d 22 (1980); Bowles v. Seminole Rock & Sand Co. , 325 U.S. 410, 413-14 , 65 S.Ct. 1215, 1217 , 89 L.Ed. 1700 (1945); LaFlower v. United States , 849 F.2d 8, 12 (1st Cir.1988); United States v. Franchi-Forlando , 838 F.2d 585, 588 (1st Cir.1988).
+Despite the strength of the arguments favoring a determination that these payments are voluntary, we cannot say that the IRS's view is clearly unreasonable.
+We therefore accept its view that payments made pursuant to a Chapter 11 plan are "involuntary" for purposes of its own rules.
+That conclusion only means, however, that the IRS's own rules and regulations do not compel it to accept the taxpayers' determinations as to how it must apply payments here at issue.
+See Arizona Grocery Co. v. Atchison, Topeka & Santa Fe Railway Co. , 284 U.S. 370, 389-90 , 52 S.Ct. 183, 186 , 76 L.Ed. 348 (1932) (an agency must follow its own rules).
+B. The Bankruptcy Court's Power to Allocate Tax Payments A central legal question remains: Does a bankruptcy court possess the legal power to order the IRS to apply a payment in a way that runs counter to the IRS's own internal policies?
+That is to say, may a bankruptcy court order the IRS to apply an "involuntary" payment made by a Chapter 11 debtor to "trust fund" tax liabilities first, and only later apply payments to ordinary, non-trust fund tax liabilities?
+Compare In re A & B Heating & Air Conditioning , 823 F.2d at 465 (noting tension between Internal Revenue Code's aim to "maximize the public fisc" and the Bankruptcy Code's "preference toward reorganization rather than liquidation").
+We conclude that the answer to this question is "yes," for several reasons.
+First, Congress has granted bankruptcy courts broad equitable powers, including those powers "expressly or by necessary implication conferred by Congress."
+Johnson v. First National Bank of Montevideo , 719 F.2d 270, 273 (8th Cir.1983), cert. denied , 465 U.S. 1012 , 104 S.Ct. 1015 , 79 L.Ed.2d 245 (1984); see also Pepper v. Litton , 308 U.S. 295, 304-05 , 60 S.Ct. 238, 244 , 84 L.Ed. 281 (1939) ("The bankruptcy courts have exercised these equitable powers in passing on a wide variety of problems arising out of the administration of bankrupt estates.
+"); In re Leasing Consultants, Inc. , 592 F.2d 103, 107 (2d Cir.1979) (bankruptcy court sits in equity); 11 U.S.C. 1129(b)(1) (court must ensure that reorganization plan is "fair and equitable").
+And historically, bankruptcy courts have been called upon to use their powers to promote the "twofold" (and often conflicting) purpose of the Bankruptcy Code: ensure fair payment to creditors and provide the bankrupt firm with an opportunity to make a "fresh start."
+Burlingham v. Crouse , 228 U.S. 459 , 33 S.Ct. 564 , 57 L.Ed. 920 (1913).
+The bankruptcy court may "issue any order, process, or judgment that is necessary or appropriate to carry out the provisions" of the Bankruptcy Code.
+11 U.S.C. 105 (emphasis added).
+At least on some occasions, an order allocating Chapter 11 tax payments to "trust fund" liabilities first would seem "appropriate."
+Suppose, for example, that certain third parties that included "responsible" individuals were willing to advance enough money to rehabilitate the corporation only if the court would assure them that the reorganized corporation would pay its "trust fund" tax debts first.
+That assurance would diminish the likelihood that the third parties would have to pay the debts personally; without it they might prefer immediate liquidation, which could mean total payment of all tax debt, and "a guarantee[ ] that no tax penalty will be assessed against them personally."
+Note, Bankruptcy Court Jurisdiction and the Power to Enjoin the IRS , 70 Minn.L.Rev.
+1279, 1299-1300 (1986).
+Of course, to give the "responsible" persons this assurance, and then allow the reorganized corporation to stretch out its tax payments over six years, might diminish the chances that the reorganizing firm will pay its entire tax debt, for no one can be absolutely certain that the reorganized corporation will still have money four or five years into the future.
+But, by giving this assurance, and thereby keeping the firm alive, the bankruptcy court would also increase the chances that the debtor will pay something to its general unsecured creditors.
+As the Eleventh Circuit pointed out, "[f]requently, the efforts put forth by these officers during the reorganization is the corporation's only hope for future viability."
+In re A & B Heating & Air Conditioning , 823 F.2d at 465 .
+Second, bankruptcy courts have long had the legal power to tell creditors against which of a debtor's several debts they are to apply a particular payment; see National Bank of the Commonwealth , 94 U.S. at 439 ; see also 60 Am.Jr.2d 103 (1987) ("A court applies involuntary payments according to principles of equity and justice, according to intrinsic justice or the equity of the case, according to the rights and priorities concerned, or ratably to all debts, and in such a way as will best maintain and protect the rights of all the parties.")
+(citations omitted).
+There is case law authority holding that courts may order the IRS to ignore its own "allocation" rules.
+See Commercial Credit Corporation v. Schwartz , 130 F.Supp.
+524, 530-31 (E.D.
+Ark.1955) (federal district court exercised its equitable powers to set aside IRS allocation of involuntary payment because allocation was unfair to other creditors); cf. Amos v. Commissioner , 47 T.C. 65, 70 n. 5 (1966) ("We expressly refrain from deciding whether the same right of application governs where the rights of other creditors may be adversely affected.").
+And, to the extent that courts have held to the contrary, they have simply assumed that the IRS's internal "voluntary"/"involuntary" categorization determined the matter without considering whether a bankruptcy court held the legal power to allocate tax payments over the IRS's objection.
+See cases cited at p. 227, supra .
+Third, nothing in the bankruptcy statute limits, in any relevant way, the bankruptcy court's power to allocate when the creditor is the IRS.
+To the contrary, Congress specifically granted the bankruptcy court the power to restructure tax debts, along with other debts, insisting, only by way of compromise, that a Chapter 11 plan must ensure that the debtor will pay all tax debts within six years (from the date of assessment.)
+We must read the absence of such restrictions in light of Congress' specific recognition of the compromise nature of Chapter 11's tax debt policy.
+The Senate wrote: S.Rep.
+No. 989, 95th Cong., 2d Sess.
+13-14, reprinted in 1978 U.S.Code Cong. & Admin. News 5787, 5799-800.
+We cannot assume that Congress automatically preferred the resolution of all such tension (illustrated by the issue before us) in favor of the IRS.
+Fourth, it makes administrative sense for the bankruptcy court to have the power to determine, in some cases, the debt allocation of Chapter 11 tax payments.
+It is unlikely that the IRS, charged with the duty to collect taxes rather than to worry about firms in bankruptcy, could easily balance on a case-by-case basis the increased "tax collection" risk against the increased likelihood of "rehabilitation."
+But, it is very likely that the bankruptcy court could and would do so; indeed, it is just this kind of work that it ordinarily performs.
+Of course, the statute requires the bankruptcy court to assure itself that reorganization will succeed, 11 U.S.C. 1129(a)(11) (1982), and that therefore, the IRS, in all likelihood, will collect the total tax debt owed; and that court has no more than a six year leeway within which to structure payments.
+11 U.S.C. 1129(a)(9)(C) .
+But, acting within that leeway, it would seem to make administrative sense to permit the court to structure not only times and amounts of payment, but also the particular tax debt to which each payment shall be allocated.
+Fifth, the IRS' policy of allocating payments first to a corporate debtor's non-trust fund tax liability is not a statutory policy.
+That policy, created by internal rule, is designed to preserve the liability of the "responsible" individuals.
+It thereby increases the likelihood that the IRS will ultimately collect the entire tax debt ("trust fund" and non-trust fund) owed by the corporation.
+This objective is understandable, even commendable, for an agency whose mission is to collect taxes.
+See Rev.Rul.
+79-284, 1979-2 C.B.
+83, modifying Rev.Rul.
+73-305, 1973-2 C.B.
+43, superseding Rev.Rul.
+58-239, 1958-1 C.B.
+94 ("[T]he Internal Revenue Service will allocate partial payments of withheld employment taxes in a manner serving [the IRS'] best interests .")
+(emphasis added).
+But, we can find no statute that attaches so overriding an importance to this tax objective as to circumscribe a court's statutorily granted powers to the contrary.
+As a general matter, the IRS cannot, in any obvious way, circumscribe, by using an internal rule, a court's statutory powers.
+See Dixon v. United States , 381 U.S. 68, 74 , 85 S.Ct. 1301, 1305 , 14 L.Ed.2d 223 (1965).
+Sixth, we can find no policy embodied in any specific statute, tax or otherwise, that either directly, or by manifesting a congressional intent, circumscribes a bankruptcy court's general powers in the respect at issue here.
+The IRS argues strongly that requiring the IRS to allocate tax payments in Chapter 11 proceedings to "trust fund" debts first would frustrate the congressional intent of 11 U.S.C. 6672 --the statute that permits the IRS to collect unpaid "trust fund" taxes directly from the personal assets of "responsible" individuals.
+But, we do not see how that is so.
+We agree with the IRS that Section 6672 reflects a strong congressional policy to collect "trust fund" tax liabilities.
+Such a policy reflects the fact that if a corporation is unable to pay its "trust fund" taxes, the United States Treasury suffers the loss because the employees from whose wages the taxes are withheld are still credited with those amounts as if they had in fact been paid to the government.
+United States v. Huckabee Auto Co. , 783 F.2d 1546, 1548 (11th Cir.1986); In re Avildsen Tools & Machine, Inc. , 794 F.2d 1248, 1251 n. 6 (7th Cir.1986).
+But, we do not agree that such a policy helps the IRS in its argument.
+Indeed, the IRS's argument seems to stand the policy of Section 6672 on its head: The IRS's Chapter 11 allocation policy and interpretation of Section 6672 does not assure that "trust fund" taxes are promptly turned over to the government.
+Rather, it ensures that "trust fund" money is paid over last , only after all non-trust fund taxes have been paid.
+The IRS seeks to use the personal liability of "responsible" persons, not to help collect "trust fund" tax debts, but to collect total tax debts.
+And, in order to help maximize that total collection, it is willing, by not crediting the "trust fund" debt first, to run a greater risk of not collecting the "trust fund" debt at all, as would be the case if the reorganized corporation ran out of money while paying the non-trust fund tax debt and there were no personal assets of "responsible" persons.
+In this way, the IRS's allocation policy gives ordinary, non -trust fund tax debts a special status; it places the payment of "trust fund" tax debts at risk; and it effectively forces the "responsible" persons to be liable for the last tax dollars due from the debtor, a liability which Congress did not say "responsible" persons ought to have.
+Section 6672 does refer to "responsible" person liability as a "penalty" but this characterization "does not alter their essential character as taxes."
+United States v. Sotelo , 436 U.S. 268, 275 , 98 S.Ct. 1795, 1800 , 56 L.Ed.2d 275 (1978); Huckabee Auto Co. , 783 F.2d at 1548 ("Although denoted a penalty in the statute, the liability imposed by section 6672 is not penal in nature, but is 'simply a means of ensuring that the tax is paid.'")
+(quoting Botta v. Scanlon , 314 F.2d 392, 393 (2d Cir.1963)) (citation omitted).
+And, the IRS collects the amount of the unpaid trust fund taxes only once , from the "responsible" individuals, the corporate debtor, or some combination thereof.
+Sotelo , 436 U.S. at 279 n. 12, 98 S.Ct. at 1802 n. 12; USLIFE Title Ins. Co. v. Harbison , 784 F.2d 1238, 1243 & n. 7 (5th Cir.1986) (citing IRS Policy Statement P-5-60, supra ).
+Indeed, the IRS itself has said that it would try to collect trust fund taxes from responsible individuals "'only when all other means of securing the delinquent taxes have been exhausted.'"
+Sotelo , 436 U.S. at 279-280 , 98 S.Ct. at 1802-03 (quoting Opinion B-137762 (May 3, 1977), reprinted in CCH 1977 Stand.Fed.Tax Rep.
+¶ 6614, at 71,438) (statement of Comptroller General of United States)).
+A simple example will help illustrate our problem with the IRS argument.
+Assume, for example, that a debtor owes the IRS $1 million in "trust fund" tax liabilities and $5 million in ordinary, non-trust fund tax liabilities.
+Assume further that the Chapter 11 reorganization plan schedules payments of $1 million per year for six years.
+Although the bankruptcy court will not approve such a schedule unless it is convinced that the debtor will pay the entire $6 million over the six years, we can understand the IRS's fear that risk of noncollection for later payments is greater than for earlier payments.
+We cannot, however, understand the IRS' argument that a bankruptcy court's insistence that the IRS apply the first $1 million payment to " trust fund " debts inhibits its collection of such debts.
+Such an allocation does indeed tend to prevent the IRS from pursuing "responsible" individuals for the money after Year One (or if the IRS has pursued them, they can obtain a refund, 26 U.S.C. 6511(a) (1982)); but that is only because the " trust fund" debts have been paid .
+If the IRS were anxious simply to check off the tax liabilities in its "trust fund" books, it would, as we have said, try to get this money in Year One, not Year Six (by which time the risk increases that both debtor corporation and "responsible" individuals will lack the assets to pay.)
+In fact, because money is fungible, the effect of the bankruptcy court's ruling is to iminish the IRS's ability (by looking to "guarantors" of the "trust fund" $1 million) to obtain the whole six million.
+But, that ruling releases the guarantor only to the extent that the IRS actually receives $1 million, the full "trust fund" liability; and as to the remaining $5 million, the IRS is no worse off than had the entire debt been an ordinary tax debt without a "trust fund" component.
+And, so long as there is a "trust fund" tax debt outstanding, nothing, including our opinion today, legally restrains the IRS from attempting to collect "trust fund" taxes from "responsible" individuals.
+See In re LaSalle Rolling Mills , 832 F.2d 390 (7th Cir.1987) (Anti-injunction Act prohibits courts from restraining IRS from collecting "trust fund" taxes from individuals under 6672 ); A to Z Welding & Manufacturing, Co. v. United States , 803 F.2d 932 (8th Cir.1986) (same); Huckabee Auto Co. , supra .
+As we have said, we can find no policy in any statute suggesting that Congress felt that bankruptcy courts must maximize the likelihood that the IRS will receive its entire tax debt, irrespective of all other goals, particularly the Bankruptcy Code's preference for rehabilitation over liquidation.
+We note that a bill introduced in the House of Representatives would give the IRS the very statutory power it seeks here.
+See H.R.
+3984, 100th Cong., 2d Sess.
+201 (1988) (proposing that Section 505 of title 11 of the United States Code be amended to include that "[p]ayments of taxes under this title to a governmental unit may be applied by the governmental unit in a manner that preserves alternative sources of collection, if any").
+But, Congress has not enacted that bill into law.
+Thus, in weighing the competing aims of the Bankruptcy Code and Internal Revenue Code, we reach the same result as the Eleventh Circuit in In re A & B Heating & Air Conditioning , supra .
+We hold that "'the allocation question in a Chapter 11 case under the Bankruptcy Code should be left to judicial discretion to be decided on a case-by-case basis.'"
+Id. at 465 (quoting In re B & P Enterprises, Inc. , 67 B.R. 179, 183 (Bankr.W.D.Tenn.1986)).
+Specifically, the bankruptcy court should make the following inquiry: upon consideration of the reorganization plan as a whole, in so far as the particular structure or allocation of payments increases the risk that the IRS may not collect the total tax debt, is that risk nonetheless justified by an offsetting increased likelihood of rehabilitation, i.e. , increased likelihood of payment to creditors who might otherwise lose their money?
+And, the standard for judging the lawfulness of any such bankruptcy court action should be similar to that applied to other bankruptcy court tax-related actions.
+See, e.g. , Darman v. Metropolitan Alarm Corp. , 528 F.2d 908 (1st Cir.1976) (findings of fact by bankruptcy judge entitled to stand unless "clearly erroneous").
+In applying this test, of course, the bankruptcy court must recognize the obvious importance of satisfying tax liabilities, but where this test is satisfied, we are convinced that the bankruptcy court has the legal power to order the allocation.
+III.
+The Result We have also considered whether or not we must remand these cases to the bankruptcy court for reconsideration in light of the appropriate standard.
+We should do so if these courts ordered the "trust fund" debt paid first simply because they thought the IRS rules so required, i.e. , if they did so simply because they thought these payments were "voluntary," and if they might have exercised their legal authority differently had they realized that their allocation orders ran contrary to IRS policy.
+Having examined the opinions of the bankruptcy courts and the records in these cases, we conclude that no remand is necessary.
+The bankruptcy judges in both cases clearly understood the IRS's opposition to their "trust fund" allocation orders.
+The bankruptcy judge in Newport Offshore considered that he had the legal "flexibility" to allocate payments to "trust fund" tax debt when bankruptcy related circumstances so required.
+He wrote that he considered the "totality of the circumstances," he noted the special circumstance that a "third party, Allied Marine Associates," provided funding for the plan, and he rejected as without "factual or practical support" the IRS claim that the allocation would do no more than benefit a particular individual who was a "responsible" person.
+Moreover, given the presence of the third party, the record offers adequate support for the reasonableness of a determination that the allocation order is both fair and will help to rehabilitate the company.
+Under these circumstances, we do not believe that remanding could serve any purpose.
+The bankruptcy court opinion in In re Energy Resources indicates less clearly that the court would reach the same conclusion had it been aware of our eventual conclusion about the law.
+The court seemed to base its result upon its "voluntary" versus "involuntary" analysis.
+Nonetheless, that court held a special hearing about whether it should order the IRS to accept the taxpayer's payment designation, it heard argument about the trustee's claim that the designation would not significantly hurt the IRS, and that it was "necessary" for the trustee to maximize the extent to which the IRS payments would "benefit the estate."
+In addition, the bankruptcy judge found that "the Plan in the instant case and the tax payments at issue were made possible, at least in part, by the infusion of capital" from a third party.
+And, in issuing the order it specifically rested its decision upon the "entire record of the case and the arguments of counsel."
+The record makes us reasonably certain that the court would not have reached a different result had it been fully aware that it was ordering the IRS to accept a designation contrary to IRS rules.
+And, the record provides adequate support for the court's conclusion.
+For these reasons, we conclude that the orders of the bankruptcy judges in both cases are lawful.
+Therefore, the judgment of the district court in In re Newport Offshore, Ltd. is Reversed .
+The judgment of the district court in In re Energy Resources Co. is Affirmed .

@@ -1,0 +1,119 @@
+ DAVID A. NELSON , Circuit Judge.
+Appellant Guernsey Memorial Hospital, a participant in the federal government's Medicare program, is entitled to reimbursement by the Department of Health and Human Services for reasonable costs incurred in providing services to Medicare patients.
+Such costs include the cost of money employed in financing hospital improvements.
+The particular costs at issue in this case are known technically as "advance refunding" or "defeasance" costs: costs incurred in connection with the refunding of bonded mortgage indebtedness ahead of schedule in order to obtain new financing.
+It is undisputed that the hospital is entitled to reimbursement for reasonable advance refunding costs.
+There is a dispute, however, as to when and how reimbursement is to be made--in a lump sum payable now, or in a series of payments stretched over the remaining life of the original bonds?
+Under generally accepted accounting principles (referred to in the accounting world as "GAAP"), advance refunding costs are not amortized over the life of the original bonds.
+Such costs must be recognized, in full, up front.
+Regulations promulgated by the Department strongly imply, if they do not say in so many words, that reimbursement will be made on the basis indicated by GAAP.
+A Department manual on reimbursement provides otherwise.
+The manual says that any loss incurred through advance refunding of existing debt must be amortized, as opposed to being recognized immediately.
+Unlike the regulations, the manual was not adopted in accordance with the notice and comment procedures mandated, for substantive rules, by the rulemaking section of the Administrative Procedure Act, 5 U.S.C. 553 .
+The dispositive question presented here is whether the manual provision constitutes a substantive rule, under the Administrative Procedure Act, or an "interpretative" rule to which the statutory notice and comment requirements do not apply.
+If substantive, the rule is void; if merely interpretive, it is not.
+See State of Ohio Dep't of Human Services v. U.S. Dep't of Health & Human Services , 862 F.2d 1228 (6th Cir.1988).
+We conclude that the manual's amortization requirement effects a substantive change in the regulations.
+It is not an interpretation, it is a stand-alone substantive rule.
+And it is void by reason of the agency's failure to comply with the Administrative Procedure Act in adopting it.
+The district court, in the decision now before us on appeal, impliedly held the manual to be interpretive; the court therefore upheld the validity of the amortization requirement.
+796 F.Supp.
+283 .
+We shall reverse the court's decision on this point.
+The decision will be affirmed on an unrelated point involving the proper treatment of income earned on funds placed in an account dedicated to the payment of interest on the newly issued bonds.
+I Guernsey Memorial Hospital, a not-for-profit acute care institution located in Cambridge, Ohio, paid for certain capital improvements with the proceeds of mortgage revenue bonds issued in 1972 and 1982.
+This bonded indebtedness was refinanced, on advantageous terms, in 1985.
+Most of the proceeds of the 1985 bond issue were used to purchase United States Treasury obligations that were escrowed for the benefit of the holders of the older bonds.
+This advance refunding arrangement permitted defeasance of the mortgages on the hospital property, and the liens of the 1972 and 1982 bond indentures were discharged and released in 1985.
+Prior to the 1985 advance refunding the hospital had been amortizing various costs (including legal and accounting fees, feasibility study costs, and underwriter discounts) incurred in connection with the earlier bond issues.
+When the earlier bonds were "defeased," the hospital--acting in accordance with GAAP, 1 as required by 42 C.F.R. 413.20 --took the unamortized balance of these costs as a charge against current income.
+A call premium advanced by the hospital in 1985 as part of the cost of defeasance was handled the same way, also in accordance with the requirements of GAAP.
+The advance refunding costs came to a net amount of $672,581.
+Of that sum, the hospital sought reimbursement of approximately $314,000.
+The request for reimbursement was denied by the "fiscal intermediary" to which such requests are routed initially.
+The hospital appealed to the Provider Reimbursement Review Board, a body established by the Secretary of HHS pursuant to 42 U.S.C. 1395oo .
+After an evidentiary hearing the Review Board issued a decision allowing reimbursement in full as of 1985.
+(The Review Board also decided in favor of the hospital on a debt service fund issue that will be discussed in Part III of this opinion.)
+Upon review by the Administrator of the Health Care Financing Administration, however, the decision of the Review Board was reversed.
+Under 42 C.F.R. 405.1875 the reversal represented the final decision of the Secretary.
+Insofar as reimbursement of advance refunding costs was concerned, the Administrator held, in accordance with a policy announced in 233 of the agency's Provider Reimbursement Manual, that the items in question had to be amortized over the life of the refunded debt.
+The Administrator said that the manual section was "interpretive" of the regulations.
+Pursuant to 1878(f) of the Social Security Act, 42 U.S.C. 1395oo (f) , the hospital sought judicial review in the United States District Court for the Southern District of Ohio. In a carefully considered decision published at 796 F.Supp.
+283 (S.D.Ohio 1992), that court denied a summary judgment motion of the hospital and granted summary judgment to the Secretary on both the amortization issue and the debt service fund issue.
+As to the former issue, the district court recognized that manual section 233 "does not have the force of regulation because it was not subject to the notice and comment procedure which precedes adoption of regulations codified in [the Code of Federal Regulations]."
+Id. at 286 .
+The district court nonetheless held that it was permissible for the agency to follow the manual in preference to GAAP.
+For the reasons stated in the part that follows, we disagree.
+II The amount the Department pays for services provided by hospitals such as Guernsey Memorial is fixed by statute at "the reasonable cost of such services, as determined under section 1395x(v) of [Title 42 of the United States Code]," if that cost does not exceed "the customary charges with respect to such services."
+42 U.S.C. 1395f(b)(1) .
+"The reasonable cost of any services shall be the cost actually incurred," 1395x(v) provides, "and shall be determined in accordance with regulations establishing the method or methods to be used " "In prescribing the regulations," 1395x(v) goes on to say, "the Secretary shall consider, among other things, the principles generally applied by national organizations " We can safely assume that "national organizations" keep their books in accordance with "generally accepted accounting principles."
+The fact that the Secretary must "consider" GAAP in prescribing her regulations does not mean that GAAP must be adopted in the regulations, of course.
+But when one turns to Part 413 of Title 42 of the Code of Federal Regulations--a part devoted in its entirety to "Principles of Reasonable Cost Reimbursement"--one finds what appears to be a flat statement that generally accepted accounting principles "are followed."
+See 42 C.F.R. 413.20 , which is contained in a sub-part dealing with "Accounting Records and Reports."
+"The principles of cost reimbursement," 413.20(a) says, "require that providers [hospitals, e.g. ] maintain sufficient financial records and statistical data for proper determination of costs payable [ i.e. , reimbursable by HHS] under the program."
+The regulation continues as follows: not Where a hospital keeps its books on the accrual basis and in accordance with an approved method of cost-finding, changes not only are not required by the regulations, they do not seem to be permitted: "The cost data must be based on an approved method of cost finding and on the accrual basis of accounting."
+42 C.F.R. 413.24(a) (emphasis supplied).
+Section 413.24(b) (2) goes on to give this explanation of the accrual basis of accounting: In general terms, the introduction to Part 413 explains, "the methods of reimbursement should result in current payment so that institutions will not be disadvantaged, as they sometimes are under other arrangements, by having to put up money for the purchase of goods and services well before they receive reimbursement."
+It is undisputed, in the case at bar, that Guernsey Memorial Hospital keeps its books on the accrual basis of accounting and in accordance with generally accepted accounting principles.
+It is undisputed that the hospital put up money in 1985 or before for all of the items at issue here, and it is undisputed that these costs were "incurred," under GAAP, in 1985.
+Were it not for 233 of the Provider Reimbursement Manual, any fair-minded person reading the regulations in the light of generally accepted accounting principles would have to conclude that Guernsey Hospital was entitled to reimbursement for its advance refunding costs in the year in which, under GAAP, the costs were deemed to have been incurred.
+But 233 , which deals specifically with advance refunding costs, calls for a departure from GAAP in this instance.
+"When a provider defeases or repurchases debt incurred for necessary patient care through an advance refunding," 233.3 provides, "[u]namortized discounts or premiums (reduction of debt cancellation costs) and debt issue costs of the refunded debt must be amortized over the period from the issue date of the refunding debt to the date the holders of the refunded debt will receive the principal payment " Summing up the effect of this accounting treatment, 233 explains that "[t]he effect of the above treatment is to implicitly recognize any gain or loss incurred as the result of an advance refunding over the period from the date the refunding debt is issued to the date the holders of the refunded debt receive the principal payment, rather than immediately."
+Although this treatment of advance refunding costs is in conflict with GAAP, there is nothing irrational about it.
+A respectable argument can be made that the treatment required by 233 of the manual squares with economic reality, and we do not doubt that the Secretary would have the power to promulgate an actual regulation embodying the substance of 233 .
+The Secretary's problem, of course, is that she has not done so. As the district court recognized in this case, the manual "does not have the force of regulation."
+796 F.Supp.
+at 286 .
+Issuance of the manual was not preceded by publication in the Federal Register of a notice of proposed rulemaking pursuant to 5 U.S.C. 553(b) .
+The public was not given advance notice of the terms or substance of any proposed rule on the treatment of advance refunding costs, or a description of the subjects and issues involved.
+See 5 U.S.C. 553(b)(3) .
+And interested persons were given no opportunity to submit written data, views, or arguments for consideration by the Secretary in advance of promulgation.
+See 5 U.S.C. 553(c) .
+If 233 of the manual were merely an "interpretative" rule, it would be valid without a formal rulemaking proceeding by reason of a statutory exception to the notice and comment requirements.
+See 5 U.S.C. 553(b)(A) .
+If the rule is substantive in character, however--if it is "legislative," in other words--the agency's failure to comply with the rulemaking requirements of the Administrative Procedure Act is fatal to its validity.
+See State of Ohio Dep't of Human Services v. U.S. Dep't of Health & Human Services , 862 F.2d 1228, 1233-37 (6th Cir.1988).
+A rule that works a substantive change in existing regulations is clearly a legislative rule that must be adopted in accordance with the Administrative Procedure Act.
+As one district court has noted, in holding against the Secretary in a case that is squarely in point here, See, e.g. National Medical Enters.
+[v. Bowen] 851 F.2d at 293 Vista Hill Found., Inc. v. Heckler 767 F.2d 556, 559-60 Fairfax Nursing Center, Inc. v. Califano 590 F.2d 1297, 1301 Mercy Hospital v. Sullivan Civil No. 90-0024 P 1991 WL 104090 Like the Mercy Hospital court, we believe that 233 of the Providers Reimbursement Manual impermissibly changes the meaning of validly adopted regulations.
+Accord : Baptist Hospital East v. Sullivan , 767 F.Supp.
+139 (W.D.Ky.1991); Ravenswood Hospital Medical Ctr. v. Schweiker , 622 F.Supp.
+338 (N.D.Ill.1985).
+Contra : Mother Frances Hospital of Tyler, Texas v. Shalala , 818 F.Supp.
+990 (E.D.Tex.1993).
+2 The Secretary's argument to the contrary is not persuasive.
+What the Secretary says, basically, is that the regulations relied on by the hospital deal only with the manner in which the hospital is to report its advance refunding costs.
+The regulations are silent as to the manner in which these costs are to be reimbursed , as we understand the argument; the manual simply clears up something that would otherwise have been ambiguous, according to the Secretary.
+But the sentence in 42 C.F.R. 413.20(a) that says standardized reporting practices "are followed" does not exist in a vacuum.
+The very first sentence of that section of the regulations begins with a reference to "[t]he principles of cost reimbursement ."
+(Emphasis supplied.)
+The sentence that comes immediately after the sentence prescribing use of standardized reporting practices says that changes in these standardized practices "will not be required in order to determine costs payable [by HHS] under the principles of reimbursement ."
+(Emphasis supplied.)
+The whole purpose of Part 413, as the introduction to that part explains, is to "set[ ] forth regulations governing Medicare payment" for services furnished, on a cost reimbursable basis, by hospitals and similar health care providers.
+42 C.F.R. 413.1(a) .
+The rule set forth in the manual ignores the structure of the regulations and assumes the existence of a regulatory ambiguity that we have not been able to detect.
+Insofar as the manual provision may represent an interpretation of the regulations, it is neither reasonable nor persuasive--and such interpretations are not binding on the courts.
+Ohio State University v. Secretary of HHS , 996 F.2d 122, 124 (6th Cir.1993).
+We find nothing to the contrary in Good Samaritan Hospital v. Shalala , U.S. , 113 S.Ct. 2151 , 124 L.Ed.2d 368 (1993), where the Supreme Court deferred to an agency interpretation which, while it was not the sole permissible interpretation of an ambiguous statute, gave "reasonable content to the statute's textual ambiguities."
+Id. at , 113 S.Ct. at 2162 , quoting Department of the Treasury, IRS v. FLRA , 494 U.S. 922, 933 , 110 S.Ct. 1623, 1629 , 108 L.Ed.2d 914 (1990).
+On July 13, 1992, subsequent to the district court's issuance of its opinion in the case at bar, the Provider Reimbursement Review Board considered another case concerning timing of Medicare reimbursement for an advance refunding loss.
+Fort Worth Osteopathic Medical Ctr. v. Blue Cross & Blue Shield Assn.
+, Board Dec.No.
+90-0543 .
+Over the dissent of one of the five members participating, the Board rejected the view (the view adopted, as the decision notes, by the district court in the instant case) that " 42 C.F.R. 413.20 pertain[s] only to record-keeping requirements and not to reimbursement."
+Slip Op. at 15 .
+We find the Board's reasoning instructive: 42 C.F.R. 413.20 Guernsey 42 C.F.R. 413.24 42 C.F.R. 413.24 Slip Op. at 16 The "nexus" that exists in the regulations between cost reporting and cost reimbursement is too strong, in our view, to be broken by a rule not adopted in accordance with the rulemaking requirements of the Administrative Procedure Act.
+Insofar as the decision issued by the district court in this case holds otherwise, the decision is reversed.
+III Guernsey Hospital's 1985 trust indenture created a debt service fund for payment of amounts due on the refunding bonds.
+Two separate accounts were established within that fund: one for the repayment of principal and one for the payment of interest.
+Guernsey began to deposit money into these accounts immediately upon the issuance of the 1985 bonds.
+From February 1 to December 31, 1985, the investment yield on the money in the interest account came to $24,874.
+The hospital did not offset this amount against its allowable interest expense.
+The fiscal intermediary took exception to this, reducing the reimbursement for interest expense in 1985 by about $12,000.
+The Provider Reimbursement Review Board decided this issue in favor of the hospital, holding that no offset was required.
+Reversing the Board's decision, the Administrator held that an offset was required.
+Upon review, the district court agreed with the Administrator.
+For reasons stated by the district court at 796 F.Supp.
+292-93 , we affirm the decision of the district court on this issue.
+IV In summary, we REVERSE the district court decision insofar as the issue discussed in Part II hereof is concerned, and we AFFIRM it insofar as the issue discussed in Part III is concerned.
+The case is REMANDED to the district court for entry of summary judgment in favor of the appellant hospital on the former issue.

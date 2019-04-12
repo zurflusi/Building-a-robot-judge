@@ -1,0 +1,370 @@
+ LEVAL , Circuit Judge: This appeal concerns the validity of restrictions imposed by Congress and the Legal Services Corporation ("LSC") on the professional activities of entities that receive funding from LSC ("LSC grantees").
+Plaintiffs are lawyers employed by New York City LSC grantees, their indigent clients, private contributors to LSC grantees, and state and local public officials whose governments contribute to LSC grantees.
+Plaintiffs sought a preliminary injunction against the enforcement of the restrictions, contending they violate various provisions of the U.S. Constitution.
+The district court denied a preliminary injunction, finding that plaintiffs had failed to establish a probability of success on the merits.
+We affirm in part and reverse in part.
+I. Background A. The Legal Services Corporation and the Challenged Statute .
+LSC is a non-profit government-funded corporation, created by the Legal Services Corporation Act of 1974 ("LSCA"), 42 U.S.C. 2996 et seq.
+, "for the purpose of providing financial support for legal assistance in noncriminal proceedings or matters to persons financially unable to afford legal assistance."
+42 U.S.C. 2996b(a) .
+LSC fulfills this mandate by making and administering grants to hundreds of local organizations that in turn provide free legal assistance to between 1,000,000 and 2,000,000 indigent clients annually.
+See Texas Rural Legal Aid v. Legal Services Corp. , 940 F.2d 685, 688 (D.C.Cir.1991); S.Rep.
+104-392 at 2-3 (1996).
+Many LSC grantees are funded by a combination of LSC funds and other public or private sources.
+S.Rep.
+104-392 at 3; A. 225, A. 297.
+LSC grantees are governed by local Boards of Directors who set policies and priorities in response to local conditions and client needs.
+LSC is empowered to implement the LSCA through the traditional administrative rulemaking process.
+Tex.
+Rural Legal Aid , 940 F.2d at 692 .
+From the outset of the LSC program, LSC grantees have been restricted in the use of LSC funds.
+See 42 U.S.C. 2996f(b)(1) -(10) (prohibiting use of LSC funds in, inter alia , most criminal proceedings, political activities, and litigation involving nontherapeutic abortion, desegregation, or military desertion).
+Recipient organizations are also barred from using most nonfederal funds for any activity proscribed by the LSCA.
+See 42 U.S.C. 2996i(c) .
+In 1996, Congress substantially expanded the restrictions on activities of LSC grantees.
+See Omnibus Consolidated Rescissions and Appropriations Act of 1996, Pub.L.
+No. 104-134, 504 , 110 Stat. 1321 , 1321-53-56 (1996) ("OCRAA," or "the 1996 Act"), reenacted in the Omnibus Consolidated Rescissions and Appropriations Act of 1997, Pub.L.
+104-208, 502 , 110 Stat. 3009 (1997).
+Section 504 of OCRAA, set forth below in pertinent part, 1 bars the use of LSC funds to aid entities that perform various activities including lobbying, participation in class actions, providing legal assistance to aliens in certain categories, supporting advocacy training programs, collecting attorneys' fees under fee shifting laws, litigating on behalf of prisoners, and seeking to reform welfare.
+2 Congress left no question of its intention to restrict grantees' use of non-federal and federal funds alike.
+The Act provides that while program recipients may "us[e] funds received from a source other than the Legal Services Corporation to provide legal assistance, such funds may not be expended by recipients for any purpose prohibited by this Act."
+504(d)(2) (B).
+Moreover, 504(d)(1) requires recipients to notify all non-federal donors that their contributions "may not be expended for any purpose prohibited by this title."
+In August 1996, LSC proposed regulations to implement the 1996 Revisions, which, inter alia , (1) prohibited a grantee from "us[ing] non-LSC funds for any purpose prohibited by the LSC Act," 61 Fed.Reg.
+41960 , 41962 (1996); (2) prohibited any organization controlled by a grantee from pursuing restricted activities (the "interrelated organizations prohibition"), see id .
+; 50 Fed.Reg.
+49276 , 49279 (1985) (defining "control" as "the ability to determine the direction of [or] influence the management or policies" of another organization); and (3) applied the OCRAA restrictions to any third party to whom a grantee transfers LSC funds, and to any private funds transferred from a grantee to a third party irrespective whether the funds were private or public (the "transfer of funds provision").
+61 Fed.Reg.
+63749 , 63752 (1996).
+The combined effect of the regulations was to prohibit LSC grantees from engaging in any restricted activity, even through a legally distinct affiliate organization.
+These regulations were promulgated in December 1996.
+See 45 C.F.R. 1610.3 , 1610.8 (1996).
+B. The Challenges to the Statute and Implementing Regulations .
+Plaintiffs filed this lawsuit in January 1997, alleging that the restrictions on the use of non-federal monies violate their rights under First, Fifth, and Tenth Amendments to the United States Constitution.
+They also claimed that the restrictions on the use of federal funds violate the First Amendment, the doctrine of Separation of Powers, and the Tenth Amendment.
+Plaintiffs sought a preliminary injunction only to enjoin restrictions on the use of non-federal funds.
+Soon after this suit was filed, and before the hearing on plaintiffs' application for a preliminary injunction, a federal district court in Hawaii issued an order partially granting a motion by a different set of plaintiffs to preliminarily enjoin enforcement of the OCRAA restrictions.
+See Legal Aid Society of Hawaii v. Legal Servs.
+Corp. , 961 F.Supp.
+1402 (D.Haw.1997) ( "LASH I" ).
+LASH I concluded that under Rust v. Sullivan , 500 U.S. 173 , 111 S.Ct. 1759 , 114 L.Ed.2d 233 (1991) and other Supreme Court decisions, congressional restrictions on the activities of federally-funded entities were permissible only so long as they "left open adequate channels for [protected] speech."
+3 961 F.Supp.
+at 1414 .
+Applying this standard, the court found that the LSC regulations unduly burdened grantees' protected First Amendment rights to lobby, to associate, and to have meaningful access to courts.
+Central to the court's analysis was its finding that the interrelated organizations prohibition barred LSC grantees from creating affiliate organizations that could engage in restricted activity.
+See LASH I , 961 F.Supp.
+at 1415-16 .
+The court held that as implemented, the 1996 restrictions denied to grantees not only the ability to undertake restricted activity directly, but also all alternative channels for exercise of these constitutionally protected activities.
+The court therefore determined that plaintiffs' constitutional challenge was likely to prevail on the merits and enjoined enforcement of portions of the OCRAA restrictions.
+See id. at 1421-22 .
+In order to cure these constitutional infirmities, LSC issued "interim regulations" in March 1997 modelled after the restrictions upheld by the Supreme Court in Rust .
+See 62 Fed.Reg.
+12101 , 12101-04 (1997) (interim regulations "are intended to address constitutional challenges raised by the previous rule"); Legal Aid Society of Hawaii v. Legal Services Corp. , 981 F.Supp.
+1288, 1290 (D.Haw.1997) ( "LASH II" ); Velazquez v. Legal Services Corp. , 985 F.Supp.
+323, 332-333 (E.D.N.Y.1997).
+The interim regulations modified the earlier rules in two important respects.
+LSC revised the transfer of funds rules so that, in most cases, non-federal funds transferred by a grantee to a controlled affiliate would cease to be subject to the restrictions.
+Compare 62 Fed.Reg.
+12101 , 12103, 1610.7 (1997) with 45 C.F.R. 1610.7 (1996)( 61 Fed.Reg.
+63749 , 63752).
+Equally important, a new section entitled "Program Integrity of Recipient," 62 Fed.Reg.
+12101 at 12103-04 , 1610.8 , provided that grantees could maintain a relationship with "affiliate" organizations, which could in turn engage in restricted activities so long as the association between the organizations met standards of "program integrity."
+The nonexclusive list of factors relevant to the determination of program integrity were (1) the existence of separate personnel; (2) the existence of separate accounting and timekeeping records; (3) the existence of separate facilities; and (4) the extent to which signage and identification distinguishes recipient from affiliate.
+Id. at 12104 .
+Ten days after the interim rules were promulgated, the court below held a hearing on the plaintiffs' motion for a preliminary injunction.
+See 985 F.Supp.
+at 332 .
+The district court found that "although based on the Rust program integrity requirements," the interim regulations differed from those approved in Rust in three ways.
+Id. at 333 .
+First, the LSC regulations, unlike Rust , included provisions that organizations under the "control" of a grantee would be subject to the statutory restrictions, unless the program integrity requirements were met.
+See id. Second, while the Rust regulations provided that "the 'degree of separation' of facilities would be considered," the interim regulations required the "existence" of separate facilities.
+Id. Third, the Rust regulations provided that the determination "whether a recipient and affiliate were sufficiently separate would be based on all 'facts and circumstances' whereas the interim regulations made no such statement, which arguably implied that [to satisfy the separation rules] a recipient would have to satisfy each and every program integrity factor."
+Id. at 333-34 .
+The district court expressed some doubt as to the constitutionality of the interim regulations but nevertheless delayed decision.
+Observing that "these are interim regulations," the district court determined that it might "be provident to withhold judgment until the final regulations were promulgated."
+Id. at 334 .
+The court speculated that "maybe after we have this argument today, there will be more regulations," and therefore undertook to "allow[ ] some period of time to let the dust settle until we get final regulations."
+Id. On May 21, 1997, LSC replaced the interim regulations with a "Final Rule" (the "final regulations").
+See id. As the district court noted, "[t]he revised program integrity section eliminates virtually every difference between the interim regulations and the Rust regulations in respect to program integrity requirements."
+Id. at 335 .
+The three differences between the LSC regulations and the Title X regulations approved in Rust noted by the court at the March hearing were eliminated.
+See id.
+Concluding that the final regulations represented a permissible construction of the 1996 Act, see id. at 338-39 , and were consistent with the First Amendment, the district court determined that the statute and regulations were not likely to be invalidated and therefore denied the motion for a preliminary injunction.
+See id. at 326-27 .
+4 This appeal followed.
+II.
+Discussion On appeal, plaintiffs object that the final regulations represent an unreasonable interpretation of the 1996 Act, and therefore fail under Chevron USA Inc. v. Natural Resources Defense Council , 467 U.S. 837 , 104 S.Ct. 2778 , 81 L.Ed.2d 694 (1984).
+Plaintiffs also challenge the constitutionality of the 1996 Act and the final regulations, arguing that they impermissibly burden grantees' exercise of First Amendment activities, contrary to the command of Rust v. Sullivan , and that they constitute a viewpoint-based restriction on expression.
+The posture of this appeal imposes upon plaintiffs a heavy burden.
+Because this is a facial challenge to legislative action, we need only determine whether there are "any circumstances under which the prohibitions of the Act are permissible in order to uphold the Act."
+Able v. United States , 88 F.3d 1280, 1290 (2d Cir.1996); see also Rust , 500 U.S. at 183 , 111 S.Ct. 1759 (plaintiffs "must establish that no set of circumstances exist under which the Act would be valid.
+The fact that the regulations might operate unconstitutionally under some conceivable set of circumstances is insufficient to render them wholly invalid.")
+(citation omitted).
+Plaintiffs' burden is also increased because the preliminary injunction they seek is against the government.
+Grant of a preliminary injunction normally requires a showing by the moving party of irreparable harm and either (1) a probability of success on the merits or (2) sufficiently serious questions going to the merits of the case to make them a fair ground for litigation, and a balancing of the hardships tipping decidedly in favor of the moving party.
+See Genesee Brewing Co. v. Stroh Brewing Co. , 124 F.3d 137, 142 (2d Cir.1997).
+But where a preliminary injunction is sought against the enforcement of governmental rules, the movant may not invoke the "fair ground for litigation standard" but must show "likelihood of success."
+See International Dairy Foods Ass'n v. Amestoy , 92 F.3d 67, 70 (2d Cir.1996).
+A. Statutory Claim We consider first plaintiffs' contention that the final regulations constitute an unreasonable interpretation of the 1996 Act.
+Plaintiffs claim that LSC's original rules, which precluded grantees from establishing or funding affiliates with the purpose of undertaking restricted activity, fairly reflected the statutory text.
+They maintain that the more lenient final rules, crafted after LASH I held the original rules unconstitutional, conflict with congressional command.
+Plaintiffs ask us to find that the final rules are unauthorized by the statute, and that the statute, without the flexibility provided by the final rules, is unconstitutional.
+See Appellants' Br. at 40.
+LSC enjoys "the full measure of interpretive authority under the [LSCA]" and its interpretations of the Act are entitled to deference under Chevron .
+See Texas Rural Legal Aid , 940 F.2d at 690 .
+Under this standard, LSC's regulations must be upheld unless "Congress has directly spoken to the precise question at issue" and LSC has resolved it contrary to statute, or unless the regulation cannot be termed a "permissible construction" of the statute or is arbitrary or capricious.
+See id. ; Chevron , 467 U.S. at 842-44 , 104 S.Ct. 2778 .
+Plaintiffs argue that Congress plainly intended to bar LSC grantees from undertaking restricted activities through affiliate organizations.
+This argument relies principally on 504(d)(2) (B) of the Act, which provides that LSC grantees may "use[ ] funds received from a source other than the Legal Services Corporation to provide legal assistance except that such funds may not be expended by recipients for any purpose prohibited by this Act or by the Legal Services Corporation Act."
+According to plaintiffs, this language plainly articulates Congress's desire to prohibit grantees from engaging in restricted activity through an affiliate, even with non-federal funds.
+By permitting grantees to fund affiliates who engage in restricted activity, argue plaintiffs, the final rules impermissibly allow non-LSC funds to be "expended by recipients" for prohibited purposes.
+Plaintiffs claim to find support in the legislative history, which explains that "[t]he legislation prohibits the use of alternative corporations to avoid or evade the provisions of the law."
+S.Rep.
+No. 104-392 at 13 (1996).
+Plaintiffs contend that the final rules--which authorize grantees to create affiliates and fund them with nonfederal moneys allowing them to conduct activity proscribed under the Act--facilitate a purpose expressly precluded by Congress, and thus fail under the first step of Chevron .
+We are not persuaded.
+Nowhere in the statute does Congress speak directly to the question whether grantees may create and support affiliate organizations.
+The Act does not indicate whether a transfer of non-federal funds by a grantee to an affiliate, or the affiliate's subsequent use of such transferred non-federal funds for a prohibited purpose, constitutes an "expend[iture] by [a] recipient[ ]" under the Act.
+We conclude that Congress has not spoken clearly regarding grantees' authority to design and fund affiliate organizations, so that the first prong of Chevron is inapplicable.
+We are also reluctant to accept plaintiffs' invitation to find that the final regulations are unauthorized, and that the statute without those regulations is unconstitutional, because of the rule favoring an interpretation of a statute that preserves its constitutionality.
+See Edward J. DeBartolo Corp. v. Florida Gulf Coast Bldg. & Constr. Trades Council , 485 U.S. 568, 575 , 108 S.Ct. 1392 , 99 L.Ed.2d 645 (1988); Hooper v. California , 155 U.S. 648, 657 , 15 S.Ct. 207 , 39 L.Ed. 297 (1895).
+We find, moreover, that the final rules represent a "permissible construction" of the Act and therefore survive the second Chevron inquiry.
+While the legislative history may give some support to the view that Congress intended to prevent grantees from creating affiliates to undertake restricted activity, the statutory text is silent on the point.
+We conclude that the LSC regulations are not inconsistent with or unauthorized by the terms of the Act.
+B. Constitutional Claims 1.
+Lawyer-Client Relationship .
+Plaintiffs contend that the First Amendment forbids Congress from interfering with the "intense associational bond" between lawyer and client, even when Congress funds the relationship.
+Appellants' Br. at 30.
+Plaintiffs allege that the welfare reform provision, the attorneys' fees provision, and the lobbying provisions encroach upon "the autonomy and professional judgments" of LSC lawyers, in violation of their First Amendment rights.
+Plaintiffs rely heavily on dictum drawn from Rust v. Sullivan .
+There, the Supreme Court remarked, "It could be argued that traditional relationships such as that between doctor and patient should enjoy protection under the First Amendment from Government regulation, even when subsidized by the Government."
+500 U.S. at 200 , 111 S.Ct. 1759 .
+Rather than address the argument, however, the Rust court found that "the doctor-patient relationship established by the Title X program [was not] sufficiently all encompassing so as to justify an expectation on the part of the patient of comprehensive medical advice."
+Id. Because Title X patients should be on notice that the scope of care received was subject to Congressional limitation, a "traditional" or "all-encompassing" doctor-patient relationship could not be said to exist.
+Id.
+Plaintiffs interpret this passage to extend constitutional protection to the doctor-patient relationship, and, by analogy, to the lawyer-client relationship.
+We find the argument unconvincing.
+As a preliminary matter, Rust did not confer constitutional protection on the doctor-patient relationship.
+The opinion only speculated that the relationship may be protected from government regulation and expressly declined to resolve the question.
+Id. The question was left open in Rust and remains open today.
+Nor need we resolve it here.
+Even if we assume that an "all-encompassing" lawyer-client relationship enjoys heightened protection from government regulation, the lawyer-client relationships funded by LSC are no more "all-encompassing" than the doctor-patient relationships funded under Title X, which were considered in Rust .
+As noted above, the LSCA has always limited the range of legal services available through LSC grantees.
+See 42 U.S.C. 2996i(c) .
+Indeed, grantees have historically limited their representations to selected issues, and are typically "able to meet only a fraction of the demand for their services."
+See Overview of LSC at 4 (1996)(http: //ltsi.ncs/lsc/about.html).
+Because grantee lawyers are bound to explain to prospective and actual clients the limitations imposed by the 1996 restrictions, and may refer clients to lawyers unencumbered by the restrictions, there is no reason to fear that clients will detrimentally rely on their LSC lawyers for a full range of legal services.
+The LSC lawyer-client relationship cannot, therefore, be considered "sufficiently all encompassing so as to justify an expectation on the part of the [client] of comprehensive [legal] advice."
+Rust , 500 U.S. at 200 , 111 S.Ct. 1759 .
+Accordingly, we need not decide whether the traditional lawyer-client relationship enjoys constitutional protection, because (as in Rust ) such a relationship does not exist for practitioners and clients operating under the challenged statutory scheme.
+Nor do plaintiffs provide any basis to question the validity of the scheme itself.
+Just as Congress is entitled to provide a limited range of medical services under Title X, it is free to offer a limited menu of legal services under the LSCA.
+We think it clear, for example, that Congress could fund a legal aid office but limit its practice to specific services such as representing the indigent in landlord-tenant disputes or in consumer fraud cases.
+The limitations of the 1996 Act are no more suspect simply because they are defined in terms of representations that are prohibited rather than those that are permitted.
+We find, therefore, that Congress was within its power to limit the scope of legal services available under the LSCA.
+2.
+Unconstitutional Conditions .
+Plaintiffs' second constitutional contention is that the program integrity rules contained in the final regulations unreasonably burden a grantee's ability to use nonfederal funds to engage in restricted activity.
+Because each of the provisions of the 1996 Act burdens protected rights of association and speech, say plaintiffs, the undue burden of the final rules amounts to an unconstitutional condition on the receipt of LSC subsidies.
+Three Supreme Court cases provide the framework for evaluating plaintiffs' unconstitutional conditions claim.
+In Regan v. Taxation With Representation , 461 U.S. 540 , 103 S.Ct. 1997 , 76 L.Ed.2d 129 (1983), Taxation With Representation (TWR), a non-profit organization devoted to studying tax issues and lobbying for tax reform, challenged Section 501(c)(3) of the Internal Revenue Code, which provided that organizations engaged in lobbying could not receive tax-deductible contributions.
+See I. R.C.
+501(c)(3) .
+TWR argued that 501(c)(3) impermissibly conditioned the benefit of contribution deductibility on the relinquishment of the First Amendment right to lobby.
+See Taxation With Representation , 461 U.S. at 545 , 103 S.Ct. 1997 .
+Because this was not an instance where "Congress [had] discriminate[d] invidiously in its subsidies in such a way as to aim at the suppression of dangerous ideas," the Court applied minimal scrutiny and upheld the law.
+Id. at 548 , 103 S.Ct. 1997 (alteration and internal quotation marks omitted).
+Nevertheless, Justice Rehnquist's majority opinion noted, and a concurring opinion relied upon, the fact that the I.R.C.
+allowed 501(c)(3) organizations to establish financially independent but wholly controlled lobbying affiliates under I. R.C.
+501(c)(4) without compromising their eligibility for deductible contributions.
+See id. at 544 , 103 S.Ct. 1997 (majority opinion); id. at 552-53 , 103 S.Ct. 1997 (Blackmun, J., concurring) (concluding that 501(c)(3) alone would be "constitutionally defect[ive]").
+The next Term, the Court invalidated a condition denying federal public broadcasting funds to public stations that engage in editorializing.
+See F.C.C.
+v. League of Women Voters , 468 U.S. 364 , 104 S.Ct. 3106 , 82 L.Ed.2d 278 (1984).
+The Court found that because a "noncommercial educational station that receives only 1% of its overall income" from the Corporation for Public Broadcasting (CPB) would be barred from editorializing, stations "ha[ve] no way of limiting the use of [their] federal funds to all noneditorializing activities, and, more importantly, [they are] barred from using even wholly private funds to finance editorial activity."
+Id. at 400 , 104 S.Ct. 3106 .
+The Court emphasized that Congress could cure the statute by amending it to allow stations "to establish 'affiliate' organizations which could then use the station's facilities to editorialize with nonfederal funds."
+Id. Finally, in Rust , 500 U.S. 173 , 111 S.Ct. 1759 (1991), recipients of family planning funds under Title X of the Public Health Services Act challenged regulations prohibiting Title X recipients from engaging in abortion counseling, referral, and any other activities advocating abortion as a means of family planning.
+In Rust , as in the instant case, "program integrity" regulations required separation of facilities, personnel and records between Title X providers and any medical provider dispensing abortion information.
+See id. at 180-81 , 111 S.Ct. 1759 .
+The Court observed that "[t]he Title X grantee can continue to perform abortions, provide abortion-related services, and engage in abortion advocacy; it simply is required to conduct those activities through programs that are separate and independent from the project that receives Title X funds."
+Id. at 196 , 111 S.Ct. 1759 (emphasis omitted).
+For their part, Title X "employees remain free to pursue abortion-related activities when they are not acting under the auspices of the Title X project."
+Id. at 198 , 111 S.Ct. 1759 .
+Because grantees were not "effectively prohibit[ed] from engaging in the protected conduct outside the scope of the federally funded program," this circumstance was different from that considered in League of Women Voters , and there was no unconstitutional conditions violation.
+Id. at 197 , 111 S.Ct. 1759 .
+Taking these cases together, we infer that, in appropriate circumstances, Congress may burden the First Amendment rights of recipients of government benefits if the recipients are left with adequate alternative channels for protected expression.
+Section 501(c)(3) 's prohibition on lobbying in Taxation With Representation was permissible because the organizations receiving the benefit of deductibility could undertake lobbying activities through a 501(c)(4) affiliate.
+In League of Women Voters , on the other hand, the prohibition on editorializing by CPB grantees was invalidated because the law left no adequate alternative avenue for the protected expression.
+Notwithstanding Rust 's considerable superficial similarity to this case, we think it is the least pertinent of these precedents.
+Without diminishing its potential importance to some grantees, the speech restriction in Rust was nonetheless very narrow; it was limited to speech at odds with the values Congress was seeking to advance through its grant program.
+As the Supreme Court noted in Rosenberger v. Rector and Visitors of University of Virginia , 515 U.S. 819, 833 , 115 S.Ct. 2510 , 132 L.Ed.2d 700 (1995), discussing Rust , "When the government disburses public funds to private entities to convey a governmental message, it may ensure that its message is neither garbled nor distorted by the grantee."
+In these respects, Rust is unlike the present case. The restrictions here placed on grantees are not narrow; they are extremely broad. Grantees are prohibited outright from engaging in attempts to influence government's adoption of laws.
+Nor does the justification that prevailed in Rust --avoiding the distortion or dilution of the very government message advanced by the program--have any bearing here.
+For this program, unlike Title X in Rust , is not advancing any particular set of values that might be diluted or distorted if the forbidden speech were permitted.
+Here Congress has simply chosen to rule that organizations which accept LSC funds to finance their activities shall not engage in other types of activities.
+We do not think Rust compels the conclusion that program integrity rules modelled on those governing Title X necessarily allow adequate avenues for protected expression in statutory or factual contexts where the burden on speech may be more significant or where the relationship between the burden and the government benefit may be more attenuated.
+Our conclusion that the First Amendment tolerates this restriction on speech is influenced more by Taxation With Representation's approval of the restriction in lobbying by 501(c)(3) organizations and by the suggestion in League of Women Voters that the prohibition in editorializing by CPB grantees would have been acceptable if the law allowed them adequate alternative avenues for expression through affiliates than by the holding of Rust .
+Nonetheless, Rust is consistent with these cases, and tends to support their suggestion that the program we consider here can withstand at least a facial challenge despite its broad restrictions on the speech of LSC grantees.
+Plaintiffs contend that, notwithstanding the authority of these cases, the 1996 Act is unlawful.
+They point to the "immensely wasteful" program integrity requirements of separate offices, equipment, libraries and personnel that grantees must meet in order to be able to speak through affiliates.
+Appellants' Br. at 37.
+Plaintiffs allege that the revised program integrity rules--although virtually identical to those approved in Rust 5 --impose "extraordinary" burdens that impermissibly impede grantees from exercising their First Amendment rights to associate with clients, to lobby, and to litigate.
+Id .
+The costs of compliance, they argue, are "so substantial" as to be prohibitive.
+Appellants' Reply Br. at 18.
+They argue further that the justification in Rust for requiring substantial separation between the program recipient and the affiliate--to avoid the risk of weakening or garbling the government's message--is not present here, as the government is not using its grantees to advocate a message.
+Thus, plaintiffs argue, there is no justification for requiring the degree of separation of affiliates that was upheld in Rust .
+We find that plaintiffs' allegations are insufficient to sustain a facial challenge.
+It may be, as plaintiffs urge, that the program integrity rules will, in the case of some recipients, prove unduly burdensome and inadequately justified, with the result that the 1996 Act and the regulations will suppress impermissibly the speech of certain funded organizations and their lawyers.
+And it may be, as plaintiffs contend, that the program integrity requirements may prove especially burdensome in the context of legal services.
+We are unable to assess these contentions on the sparse record before us, and we need not assess them to decide this appeal.
+Any grantee capable of demonstrating that the 1996 restrictions in fact unduly burden its capacity to engage in protected First Amendment activity remains free to bring an as-applied challenge to the 1996 Act.
+But plaintiffs present little evidence to support their predictions regarding how seriously the 1996 Act will affect grantees generally, and they provide no basis for concluding that the program integrity rules cannot be applied in at least some cases without unduly interfering with grantees' First Amendment freedoms.
+It appears likely that LSC grantees with substantial non-federal funding can provide the full range of restricted activity through separately incorporated affiliates without serious difficulty.
+Plaintiffs have therefore failed to "establish that no set of circumstances exists under which the Act would be valid," and so their facial challenge must be rejected.
+Rust , 500 U.S. at 183 , 111 S.Ct. 1759 (quoting United States v. Salerno , 481 U.S. 739, 745 , 107 S.Ct. 2095 , 95 L.Ed.2d 697 (1987)).
+3.
+Viewpoint Discrimination .
+We turn finally to plaintiffs' claim that the 1996 Act discriminates against certain speech on the basis of viewpoint and is therefore unconstitutional even as applied to the use of federal monies.
+It appears that plaintiffs direct this argument against the lobbying provisions and the welfare reform provision of the Act.
+6 With respect to the lobbying provisions, the claim is misplaced.
+The classification established by these provisions is based on subject matter, not viewpoint.
+We think it clear that Congress may discriminate on the basis of the subject matter of grantees' expression, because such discrimination properly "confine[s the LSC program] to the limited and legitimate purposes for which it was created."
+Rosenberger , 515 U.S. at 829 , 115 S.Ct. 2510 .
+We thus find that the lobbying restrictions constitute valid limitations on the scope of the LSC program.
+The legislation provision, for example, restricts LSC grantees from "attempt[ing] to influence the passage or defeat of any legislation, constitutional amendment, referendum, initiative, or any similar procedure of the Congress or a State or local legislative body."
+OCRAA, 504(a)(4) .
+While this language imposes a sweeping restriction on grantee activity, it burdens no particular viewpoint and favors neither speech in support of legislative action nor speech opposed.
+Because it prohibits the grantee from "attempt[ing] to influence the passage or defeat " of a legislative or constitutional initiative, the prohibition applies regardless whether the prohibited activity would have sought change or opposed change.
+The provision operates only to restrict LSC-funded entities from lobbying with respect to legislative decisions, regardless of viewpoint.
+The agency adjudication provision similarly restricts grantees from "attempt[ing] to influence any part of any adjudicatory proceeding of any Federal, State, or local agency if such part of the proceeding is designed for the formulation or modification of any agency policy of general applicability and future effect."
+Id .
+at 504(a)(3) .
+We perceive nothing in this language that burdens one viewpoint more than another; the restriction permits grantees to participate on neither side of a rule-creating adjudicatory proceeding.
+Rather, the provision permissibly channels grantee program activity away from adjudicatory policymaking in a viewpoint-neutral manner.
+The executive branch provision similarly forbids grantees from "attempt[ing] to influence the issuance, amendment, or revocation of any executive order, regulation, or other statement of general applicability and future effect by any Federal, State, or local agency."
+Id .
+at 504(a)(2) .
+We interpret this provision to define a limitation on program content, without favoring policy continuity over change or otherwise discriminating against any viewpoint.
+In the language of Rust , the provision does not suppress ideas but merely prohibits "a project grantee from engaging in activities outside the project's scope."
+500 U.S. at 194 , 111 S.Ct. 1759 .
+The welfare reform provision of 504(a)(16) is more obscure.
+It includes four categories of prohibited activities "involving an effort to reform a Federal or State welfare system"--initiating legal representation, and participating in litigation, lobbying, or rulemaking--with an exception relating to the legal representation or litigation prohibitions.
+Under the most natural reading of each of these provisions, three appear to prohibit the type of activity named regardless of viewpoint, while one might be read to prohibit the activity only when it seeks reform.
+The litigation prohibition is clearly viewpoint neutral.
+It denies grant funds to an entity that "participates in any way, in litigation involving an effort to reform a welfare system."
+504(a)(16) .
+Litigation by definition has at least two sides, and one "participates" in the litigation regardless of which side one is on.
+If litigation occurs "involving an effort to reform a welfare system," one "participates" in it whether one is on the side seeking reform or the side opposing it.
+Grantees are therefore prohibited not only from litigating in an effort to reform a welfare system, but also from intervening or filing amicus briefs in such litigation in opposition to proposed reforms.
+We therefore conclude that the basic prohibition on participating in litigation involving an effort to reform a welfare system is viewpoint neutral.
+The same considerations apply to the prohibition on "lobbying" and "rulemaking" "involving an effort to reform a welfare system."
+One "participates" in lobbying and rulemaking "involving an effort to reform" whether one's participation supports or opposes the reforms under consideration.
+The disqualification of an entity that "initiates legal representation involving an effort to reform a welfare system" is perhaps less clear.
+One reading of this clause seems to prohibit only efforts aimed at reform.
+A person who intended to oppose reform might not see himself as covered by a prohibition on activity "involving an effort to reform."
+On another interpretation, the statute could be read to cover both support and opposition to reform.
+Under this interpretation, if some other person is making an effort to reform the welfare system, one who initiates a legal representation intended to oppose that effort is engaging in activity that involves ( i.e. , concerns) an effort to reform the system.
+Even if it involves some linguistic strain to read the provision this way, two factors persuade us to do so. First, subsection (a)(16) on welfare reform is one of a long string of prohibitions on activity related to reform efforts.
+All the others are clearly expressed in a manner that bars activity on either side of the issue.
+It is unlikely that, with respect to welfare and welfare alone, Congress intended to bar only pro-reform activity and not opposition to reform.
+7 If the welfare provision were read to prohibit only activity that sought reform and not activity that opposed it, this would mean that Congress had acted with respect to welfare in a manner inexplicably at variance with the law's numerous parallel provisions.
+It makes far better sense, if the words of the statute permit, to interpret the welfare provision as consistent with those provisions.
+Second, to read the welfare provision as viewpoint biased would render it unconstitutional.
+As we noted above, see supra at 763 , courts should be reluctant to read statutes in a manner that renders them unconstitutional.
+If two readings are possible, the one that would preserve the statute is generally preferable.
+See Edward J. DeBartolo Corp. v. Florida Gulf Coast Bldg. & Constr. Trades Council , 485 U.S. 568, 575 , 108 S.Ct. 1392 , 99 L.Ed.2d 645 (1988); Hooper v. California , 155 U.S. 648, 657 , 15 S.Ct. 207 , 39 L.Ed. 297 (1895).
+We are therefore constrained to read the basic limitations of the welfare provision of 504(a)(16) as viewpoint neutral prohibitions on the specified activities, regardless whether the activities are undertaken to promote reform or to defeat it.
+There is, however, another specification in the welfare provision that is inescapably viewpoint-biased.
+Subsection (a)(16) expressly provides that its prohibitions do not prevent a grantee from representing "an eligible client who is seeking specific relief from a welfare agency if such relief does not involve an effort to amend or otherwise challenge existing law in effect on the date of the initiation of the representation" (the "suit-for-benefits exception").
+According to this exception, representation of a client seeking a welfare benefit is permitted, but only if the representation will not involve any challenge to the propriety of any previously existing rule that led to the denial of benefits.
+The grantee thus could not argue that the rule that led to the denial of the client's benefits was unauthorized by the governing regulation, that the regulation was unauthorized by the statute, or that the regulation or statute was unauthorized by the Constitution.
+Such representation is permitted only if it includes no challenge to the underlying law.
+It seems clear to us that this limitation on the suit-for-benefits exception is not viewpoint neutral.
+It accords funding to those who represent clients without making any challenge to existing rules of law, but denies it to those whose representation challenges existing rules.
+It clearly seeks to discourage challenges to the status quo.
+The provision thus discriminates on the basis of viewpoint, and requires us to decide whether this discrimination is permissible in the context of the LSCA.
+The government's "[d]iscrimination against speech because of its message" is suspect under the First Amendment.
+Rosenberger v. Rector and Visitors of University of Virginia , 515 U.S. 819, 828 , 115 S.Ct. 2510 , 132 L.Ed.2d 700 (1995) (noting that such discrimination is "presumed to be unconstitutional").
+Whether a subsidy that is dependent on viewpoint constitutes illegal discrimination presents a complex question, which is illuminated by three relevant recent Supreme Court holdings.
+In Rust v. Sullivan , 500 U.S. 173 , 111 S.Ct. 1759 , 114 L.Ed.2d 233 (1991), the Court upheld regulations forbidding recipients of government funds for family planning from counselling or advocacy related to abortion.
+See id. at 203 , 111 S.Ct. 1759 .
+In National Endowment for the Arts v. Finley , U.S. , 118 S.Ct. 2168 , 141 L.Ed.2d 500 (1998), the Court last term upheld a requirement that the NEA, in making grants for the arts based on excellence, also "tak[e] into consideration general standards of decency and respect for the diverse beliefs and values of the American people."
+Finley , 118 S.Ct. at 2171 .
+In Rosenberger , the Court struck down a provision in a program of governmental grants to support student publications that excluded from eligibility publications expressing a viewpoint on religion.
+See Rosenberger , 515 U.S. at 837 , 115 S.Ct. 2510 .
+We assess the relevance of these precedents differently from our dissenting colleague.
+Judge Jacobs argues that Rust and Finley together establish the government's broad entitlement to discriminate on the basis of viewpoint in making financial grants.
+Viewpoint discrimination, he argues, is suspect only where, as in Rosenberger , the government seeks to promote a diversity of private speech.
+Judge Jacobs relies heavily on explanatory language in the Rust opinion, which was quoted by the Supreme Court in Finley : Rust , 500 U.S. at 193 , 111 S.Ct. 1759 ; see also Finley , 118 S.Ct. at 2168 .
+Under Judge Jacobs's analysis, just as Congress may lawfully fund family planning services conditioned on the grantee's not counseling on the availability of abortion, so Congress also may fund the legal representation of a welfare applicant conditioned on the grantee's not raising arguments that question the validity of any statute, regulation or governmental procedure pertaining to welfare.
+We acknowledge that the words from Rust that Judge Jacobs cites seem on their face to support his view.
+But we doubt that these words can reliably be taken at face value.
+In seeking to understand how a judicial precedent in a relatively unexplored area of law bears on other undecided questions, it is often more instructive to look at what the Court has done, rather than at what the Court has said in explanation.
+Explanations that seem sound enough in the context of the facts for which they are devised often carry implications the court would never subscribe to if applied to other facts not in contemplation.
+See Cohens v. Virginia , 19 U.S. (6 Wheat.)
+264, 399 , 5 L.Ed. 257 (1821) (Marshall, C.J.)
+("It is a maxim, not to be disregarded, that general expressions, in every opinion, are to be taken in connection with the case in which those expressions are used.
+If they go beyond the case, they may be respected, but ought not to control the judgment in a subsequent suit when the very point is presented for decision.
+"); United States v. Rubin , 609 F.2d 51, 69 (2d Cir.1979) (Friendly, J., concurring) ("A judge's power to bind is limited to the issue that is before him; he cannot transmute dictum into decision by waving a wand and uttering the word 'hold.
+'"); cf. CBS, Inc. v. American Soc'y of Composers, Authors & Publishers , 620 F.2d 930, 934-35 (2d Cir.1980) (Newman, J.) ("[T]he safer course is to read judicial opinions as deciding only what they purport to decide.").
+The quotation from Rust , for example, seems on its face to imply that Congress could lawfully fund institutions to study the nation's foreign or domestic policies, conditioned on the grantee's not criticizing, or advocating change in, the policies of the government.
+That would fall within the parameters of choosing "to fund one activity to the exclusion of [an]other."
+Congress would be "selectively fund[ing] a program it believes to be in the public interest, without at the same time funding an alternative program which seeks to deal with the problem in another way."
+Nonetheless, we think it inconceivable that the Supreme Court that approved the Rust regulation would have intended its language to authorize grants funding support for, but barring criticism of, governmental policy.
+8 We think the resolution lies in the fact that different types of speech enjoy different degrees of protection under the First Amendment.
+"Expression on public issues 'has always rested on the highest rung of the hierarchy of First Amendment values.'"
+NAACP v. Claiborne Hardware Co. , 458 U.S. 886, 913 , 102 S.Ct. 3409 , 73 L.Ed.2d 1215 (1982) (quoting Carey v. Brown , 447 U.S. 455, 467 , 100 S.Ct. 2286 , 65 L.Ed.2d 263 (1980)).
+The strongest protection of the First Amendment's free speech guarantee goes to the right to criticism government or advocate change in governmental policy.
+"[E]xpression of dissatisfaction with the policies of this country [is] situated at the core of our First Amendment values."
+Texas v. Johnson , 491 U.S. 397, 411 , 109 S.Ct. 2533 , 105 L.Ed.2d 342 (1989).
+Criticism of official policy is the kind of speech that an oppressive government would be most keen to suppress.
+It is also speech for which liberty must be preserved to guarantee freedom of political choice to the people.
+For those reasons we think it clear that, notwithstanding Rust 's semantic endorsement of Congress's right to fund one activity to the exclusion of another, the Supreme Court would not approve a grant to study governmental policy, conditioned on the grantee's not criticizing the policy.
+In our view, a lawyer's argument to a court that a statute, rule, or governmental practice standing in the way of a client's claim is unconstitutional or otherwise illegal falls far closer to the First Amendment's most protected categories of speech than abortion counseling or indecent art.
+The fact that Congress can make grants that favor family planning over abortion, or that favor decency over indecency, in no way suggests that Congress may also make grants to fund the legal representation of welfare applicants under terms that bar the attorney from arguing the unconstitutionality or illegality of whatever rule blocks the client's success.
+Among the only directly effective ways to oppose a statute, regulation or policy adopted by government is to argue to a court having jurisdiction of the matter that the rule is either unconstitutional or unauthorized by law.
+The limitation on the suit-for-benefits exception prohibits a legal services organization that has received LSC grant funds from making such an argument on behalf of a client, even though that argument may be necessary to establish the client's rights in precisely the representation for which the funding was granted.
+9 Such a restriction is a close kin to those "calculated to drive 'certain ideas or viewpoints from the marketplace.'"
+Finley , 118 S.Ct. at 2179 (quoting Simon & Schuster, Inc. v. Members of New York State Crime Victims Bd. , 502 U.S. 105, 116 , 112 S.Ct. 501 , 116 L.Ed.2d 476 (1991)).
+If the idea in question is the unconstitutionality or illegality of a governmental rule, the courtroom is the prime marketplace for the exposure of that idea.
+Cf. Cooper v. Aaron , 358 U.S. 1, 18 , 78 S.Ct. 1401 , 3 L.Ed.2d 5 (1958) (stating the "basic principle that the federal judiciary is supreme in the exposition of the law of the Constitution").
+To forbid a lawyer from articulating that idea in the court proceeding effectively drives the idea from the marketplace where it can most effectively be offered.
+The Supreme Court's discussion in Finley underscores the suspect nature of the limitation on the suits-for-benefits exception for a further reason.
+In Finley , considerations of "decency and respect" were merely to be taken "into consideration."
+The Supreme Court stressed that the questioned provision offered "vague exhortation[s]" and "impose[d] no categorical requirement."
+Id. 118 S.Ct. at 2176, 2177 .
+The NEA might still make grants notwithstanding indecency.
+The Court, in fact, seemed to imply that an absolute prohibition, of the sort "calculated to drive 'certain ideas or viewpoints from the marketplace,'" would have required a different result.
+Id. at 2176, 2179 (internal citation omitted).
+The limitation on the suit-for-benefits exception is just such an absolute prohibition: It muzzles grant recipients from expressing any and all forbidden arguments.
+For these reasons, we believe that the suit-for-benefits exception is viewpoint discrimination subject to strict First Amendment scrutiny.
+Defendants offer no arguments why the provision can survive such scrutiny and we perceive none.
+We therefore conclude that the suit-for-benefits exception of 504(a)(16) unconstitutionally restricts freedom of speech, insofar as it restricts a grantee, seeking relief for a welfare applicant, from challenging existing law.
+The next question is which part of the statute should be found invalid as a result of the unconstitutionality of the viewpoint-based proviso to the suit-for-benefits exception.
+The four most likely candidates for invalidation are (1) the entire Act; (2) the entire subsection (a)(16) relating to welfare reform; (3) the entire suit-for-benefits exception; and (4) the proviso to the effect that an attorney suing for a client's benefits may not challenge existing law.
+We quickly conclude that the first and second possibilities go too far.
+"A court should refrain from invalidating more of [a] statute than is necessary."
+Alaska Airlines v. Brock , 480 U.S. 678, 683 , 107 S.Ct. 1476 , 94 L.Ed.2d 661 (1987) (internal quotation marks omitted).
+In our view, without this restriction, the 1996 Act will still "function in a manner consistent with the intent of Congress," id. at 685 , 107 S.Ct. 1476 (emphasis omitted).
+Our finding of unconstitutionality affects only one tiny restriction in the statute, which can otherwise continue to function as intended.
+Subsection (a)(16) can also continue to bar activities "involving an effort to reform a welfare system," as Congress intended, without the unconstitutional provision.
+The more troublesome question is whether the invalid viewpoint-based restriction should result in the invalidity of the entire suit-for-benefits exception, or only of the proviso that bars a grantee in the course of a legal representation of an eligible individual from arguing to amend or challenge any existing law.
+We recognize a reasonable argument that the overall intent of the Act is so opposed to challenges to law that the intent of Congress would be better served by striking down the entire suit-for-benefits exception than by allowing a grantee lawyer representing a client to argue the invalidity of any existing rule of law.
+On the other hand, because complex legislation represents an amalgam of different viewpoints and compromises, one might see the suit-for-benefits exception as an intentionally more measured provision, one recognizing that a lawyer engaged in the representation of a client must make the arguments necessary to secure the relief their client seeks.
+The proviso as drafted does not forbid grantee lawyers from challenging all laws--only those that were in existence at the time of the initiation of the representation.
+Thus, notwithstanding its hostility to litigation seeking legal reform, Congress intentionally permitted challenges to law in the context of individual representation so long as the challenge addressed a law passed after the initiation of the representation.
+Because it is unclear which alternative better carries out the intent of Congress, we think it best to invalidate the smallest possible portion of the statute, excising only the viewpoint-based proviso rather than the entire exception of which it is a part.
+This conclusion follows the Supreme Court's guidance that "[u]nless it is evident that the legislature would not have enacted those provisions which are within its power, independently of that which is not, the invalid part may be dropped if what is left is fully operative as a law."
+Buckley v. Valeo , 424 U.S. 1, 108 , 96 S.Ct. 612 , 46 L.Ed.2d 659 (1976) (citation and internal quotation marks omitted); see also Regan v. Time, Inc. , 468 U.S. 641, 653 , 104 S.Ct. 3262 , 82 L.Ed.2d 487 (1984) ("[T]he presumption is in favor of severability.").
+We thus conclude that the viewpoint-based proviso barring grantee lawyers representing individuals from contesting the legality of an existing rule is severable from the overall suit-for-benefits exception.
+The exception permitting a grantee to "represent[ ] an individual eligible client [w]ho is seeking specific relief from a welfare agency" will survive our holding that the viewpoint-based proviso to the suit-for-benefits exception is unconstitutional.
+We therefore direct the district court to enter a preliminary injunction barring enforcement of that part of the suit-for-benefits exception of 504(a)(16) that would make an entity ineligible for an LSC grant if, in the course of a representation of an individual client seeking specific relief from a welfare agency, that entity sought "to amend or otherwise challenge existing law in effect on the date of the initiation of the representation."
+In all other respects, the statute will continue to function as written.
+Grantees will be barred (on penalty of losing their entitlement to grantee status) from engaging in any of the activities prohibited by 504 .
+They will be prohibited under 504(a)(16) from initiating legal representation, or participating in any other way in litigation, lobbying, or rulemaking concerning "effort[s] [by anyone] to reform a Federal or State welfare system."
+On the other hand, grantees will be permitted to represent "an individual eligible client who is seeking specific relief from a welfare agency," regardless whether such representation includes arguments that seek "to amend or otherwise challenge existing law."
+504(a)(16) .
+Conclusion The district court's denial of a preliminary injunction is reversed solely with respect to the limitation on the suit-for-benefits exception of 504(a)(16) .
+In all other respects, the district court's order denying a preliminary injunction is affirmed.

@@ -1,0 +1,113 @@
+ PER CURIAM.
+The issue presented in this appeal is whether a Chapter 7 debtor may use 11 U.S.C. 506(d) of the Bankruptcy Code to void the undersecured portion of a lien on real property which has been abandoned by the bankruptcy estate.
+1 Facts Debtors Aletha and Lamar Dewsnup filed a Chapter 7 bankruptcy petition in 1984.
+Within that case, they commenced this adversary proceeding to determine the validity and extent of a note and trust deed held on real property they own in Millard County, Utah. The two parcels of land are used for farming and are not the debtors' primary residence.
+The various appellees are the secured creditors of the property.
+At the trial of this matter, debtors argued they could use section 506(d) to redeem this property.
+Specifically, they asserted this section allows them to void creditors' liens to the extent they exceed the fair market value of the parcels.
+At the time of trial, the bankruptcy court valued the land at $39,000.
+The note and trust deed held by creditors are far in excess of that amount.
+Debtors assert section 506(d) allows them to fully redeem the property by tendering the assessed market value to creditors in cash.
+Although it was not entirely clear at the time of trial, the bankruptcy trustee has abandoned this property pursuant to 11 U.S.C. 554(a) .
+2 The bankruptcy court dismissed debtors' argument, holding section 506(d) was not intended to be used in this manner.
+See In re Dewsnup , 87 B.R. 676, 683 (Bankr.D.Utah 1988).
+The district court affirmed.
+On appeal, debtors urge this court to reject the bankruptcy court's reasoning and join the majority of courts which have allowed avoidance under section 506(d) .
+Discussion Although courts are clearly divided on this issue, a majority have adopted the position which debtors urge.
+See In re Gaglia , 889 F.2d 1304, 1306-11 (3d Cir.1989); In re Brouse , 110 B.R. 539, 541 (Bankr.D.Colo.1990); In re Moses , 110 B.R. 962, 963-64 (Bankr.N.D.Okla.1990); In re Zlogar , 101 B.R. 1, 7 (Bankr.N.D.Ill.1989); In re Tanner , 14 B.R. 933, 939 (Bankr.W.D.Pa.1981).
+Included within this majority is the Third Circuit, which is the only circuit court to specifically address this issue.
+See Gaglia , 889 F.2d at 1306 .
+Two other circuit courts have addressed questions which are tangentially related, and have recognized a debtor's ability to void liens under section 506(d) .
+See In re Folendore , 862 F.2d 1537, 1539 (11th Cir.1989); In re Lindsey , 823 F.2d 189, 191 (7th Cir 1987).
+However, a strong minority of courts have rejected this approach, concluding it is inconsistent with the intended purpose of the section and is unfair to lienholders.
+See In re Shrum , 98 B.R. 995, 1002 (Bankr.W.D.Okla.1989); In re McLaughlin , 92 B.R. 913, 915 (Bankr.S.D.Cal.1988); Dewsnup , 87 B.R. at 683 ; In re Maitland , 61 B.R. 130, 134-35 (Bankr.E.D.Va.1986).
+Courts denying relief under this section have stated various reasons for doing so, including: 1) that abandoned property is not administered by the estate and therefore sections 506(a) and (d) have no application; 2) that allowing this relief inequitably gives debtors more in a Chapter 7 liquidation than they would receive in the reorganization chapters; and finally, 3) that allowing avoidance pursuant to section 506(d) renders the redemption provision found in Code section 722 meaningless.
+Because we agree with the district court's sound reasoning in this case, we reject the analysis of the Third Circuit in Gaglia and affirm.
+Code sections 506(a) and (d) provide the starting point for our analysis.
+Those sections state: section 553 section 502(b)(5) 502(e) section 501 11 U.S.C. 506(a) and (d) .
+These sections were included in the Code to govern the definition and treatment of secured claims.
+United States v. Ron Pair Enters., Inc. , 489 U.S. 235 , 109 S.Ct. 1026, 1029 , 103 L.Ed.2d 290 (1989).
+Application of subsection (a) results in a bifurcation of previously secured claims.
+It provides that a claim is secured only to the extent of the value of the property which serves as collateral.
+The remainder of the claim, up to the amount of the original obligation, is unsecured.
+Id. ; see also H.R.
+Rep.
+No. 95-595, 95th Cong., 1st Sess.
+5, reprinted in 1978 U.S.Code Cong. & Admin.News 5963, 6312.
+In interpreting these provisions, we begin by recognizing, as the bankruptcy court did, that the trustee abandoned this property pursuant to section 554 of the Code.
+That section allows abandonment of property that "is burdensome to the estate or that is of inconsequential value and benefit to the estate."
+11 U.S.C. 554(a) .
+Property abandoned under this section ceases to be part of the estate.
+See H.R.
+Rep.
+No. 95-595, 95th Cong., 1st Sess.
+5, reprinted in 1978 U.S.Code Cong. & Admin.News at 6299.
+("Property ceases to be property of the estate, such as by sale, abandonment, or exemption.").
+It reverts to the debtor and stands as if no bankruptcy petition was filed.
+See Brown v. O'Keefe , 300 U.S. 598, 602 , 57 S.Ct. 543, 546 , 81 L.Ed. 827 (1937); Wallace v. Lawrence Warehouse Co. , 338 F.2d 392, 394 n. 1 (9th Cir.1964); Dewsnup , 87 B.R. at 681 .
+Following abandonment, "whoever had the possessory right to the property at the filing of bankruptcy again reacquires that right."
+Dewsnup , 87 B.R. at 681 .
+Abandoned property is not property administered by the estate.
+Recognition of this principle is essential in considering whether debtors may void these liens.
+Pursuant to the plain language of section 506(a) , an allowed claim of a creditor is one in which the estate has an interest .
+It is "a secured claim to the extent of the value of such creditor's interest in the estate's interest in such property " Here, debtors argue that because an allowed secured claim is limited to the value of the collateral under 506(a), they may completely redeem the property and retain possession by paying creditors the property's fair market value.
+This analysis overlooks the fundamental premise of the language contained in this section.
+In order to apply section 506(a) , the estate must have an interest in the property.
+The estate has no interest in, and does not administer, abandoned property.
+In In re Maitland , the court stated: 506(a) 506(a) 61 B.R. 130, 132-33 (Bankr.E.D.Va.1986).
+Consequently, debtors cannot void these liens.
+This assessment is consistent with our examination of statutory language generally.
+As we have stated, when statutory language is clear, "it is conclusive 'absent a clearly expressed legislative intent to the contrary.'"
+Miller v. Commissioner , 836 F.2d 1274, 1283 (10th Cir.1988) (quoting Consumer Prod. Safety Comm'n v. GTE Sylvania, Inc. , 447 U.S. 102, 108 , 100 S.Ct. 2051, 2056 , 64 L.Ed.2d 766 (1980)).
+Because abandoned property is not property in which the estate has an interest, section 506(a) does not apply.
+In the Gaglia case, the Third Circuit rejected this reasoning, concluding: 506(a) 506(d) 889 F.2d at 1308 (citations and footnote omitted).
+We reject this approach for two reasons.
+First, we reject the notion that section 506(d) must be read in isolation.
+It is a fundamental precept of statutory construction that "[i]n expounding a statute, we must not be guided by a single sentence or member of a sentence, but look to the provisions of the whole law, and to its object and policy."
+Mastro Plastics Corp. v. NLRB , 350 U.S. 270, 285 , 76 S.Ct. 349, 359 , 100 L.Ed. 309 (1956) (quoting United States v. Boisdore's Heirs , 8 How. 113, 121 , 12 L.Ed. 1009 (1850)).
+Second, the Third Circuit's rationale does not adequately recognize the affect of abandonment with its resulting consequences, including reversion of the property to prebankruptcy status.
+The reasoning in Gaglia might apply if the language in the statute was "property of the estate" rather than "property in which the estate has an interest."
+It is true that pursuant to 11 U.S.C. 541 , all property in which the debtor has a legal or equitable interest becomes part of the bankruptcy case at the time a petition is filed.
+See In re Harvey , 3 B.R. 608, 609 (Bankr.M.D.Fla.1980).
+In this case, however, the operative phrase is "interest of the estate."
+Following abandonment, the estate no longer has an interest, even though it did at one time.
+To construe this section otherwise would defeat the purpose behind the abandonment provision and run counter to the plain language of the Code.
+In keeping with this analysis, we join those courts which have concluded that the language used in sections 506(a) and (d) was intended to facilitate valuation and disposition of property in the reorganization chapters of the Code.
+In Shrum , the court provides a cogent analysis of the intended purpose of section 506(a) .
+It states: 506(a) 506 98 B.R. at 1001 .
+The plain language of the statute, coupled with the abandonment provision of the code, indicate Congress did not intend to allow Chapter 7 debtors to use section 506(d) to retain abandoned property.
+Our assessment that 506(d) does not apply to debtors' property is bolstered further through review of the creditors rights provisions found in Chapters 12 and 13.
+Pursuant to 11 U.S.C. 1322(B)(2) , a Chapter 13 plan may not modify the rights of secured claim holders where the claim is secured only by a security interest in real property which is the debtor's primary residence.
+Likewise, in 11 U.S.C. 1111(b)(2) , the Code allows creditors in a Chapter 11 case to make an election which would result in allowing a secured lien to remain on the property to the full extent of the original obligation.
+Reconciliation of these provisions with the language of section 506 mandates the result which we reach in this case. Congress has manifested a strong preference for reorganization rather than liquidation in the bankruptcy setting.
+See Maitland , 61 B.R. at 135 (recent revisions to the Bankruptcy Code evidence Congress' intent to "steer debtors who are eligible for Chapter 13 away from Chapter 7").
+It is inconsistent with this preference to allow debtors more in a liquidation than they would receive in a reorganization.
+11 U.S.C. 722 , the Code's redemption provision, is also instructive.
+It states: 722 Redemption section 522 section 554 This section constitutes the only redemption provision provided for Chapter 7 debtors.
+Notably, it only pertains to personal property.
+In Maitland , the court correctly identified the problem when it stated: "In light of the exclusion of real property in 722 , and its express limitation to specific tangible personal property, it is obvious that Congress did not intend to permit a debtor to redeem his real property through the use of 506(d) ."
+61 B.R. at 135 .
+Here, debtors seek to do exactly what section 722 provides, except with respect to real property.
+In Gaglia , the court correctly noted that section 506 is not a redemption provision.
+889 F.2d at 1310 .
+However, the rationale of that case mandates that it become one.
+The Gaglia court distinguished section 506 from section 722 by stating, "the Gaglias will not own the property unencumbered.
+They will still be subject to First Federal's mortgage and the SBA's claim to the extent it is secured We do not believe any arguable redundancy in 506 and 722 precludes the application of 506 here."
+Id .
+Using the same rationale that Gaglia and its progeny embrace, debtors here would own their property outright.
+3 Under these circumstances, section 506 would be used as a redemption provision.
+This result is both inequitable and unfair and would constitute an expansion of debtors rights far beyond what is contemplated in the Code.
+Those courts allowing avoidance have generally dismissed this fairness argument by assuming that avoidance merely duplicates what would transpire in a liquidation.
+See Gaglia , 889 F.2d at 1308 .
+This assumption overlooks those situations where creditors can use an appreciation in land values to offset their losses at a forced sale following foreclosure.
+Outside the bankruptcy setting, it is highly unlikely that a debtor would retain his property in the circumstances presented here.
+Rather, creditors would probably foreclose and prompt a forced sale.
+At that sale, a senior lienholder could purchase the property and sell it at some later time in anticipation of a change in land values.
+If there were two or more claims or mortgages, the junior lienholder could purchase the property, pay the senior lienholder, then inventory the property for later sale in hope of decreasing the amount of loss.
+In today's real estate market, these are very real considerations.
+Allowing section 506 relief denies creditors these options.
+The flaw in the majority's position is the assumption that a third party unrelated to the transaction will purchase the property at a forced sale, thus prohibiting lienholders from reaping the benefits of an appreciation in land values.
+In today's complex real estate markets, this is not a valid assumption.
+Allowing lien avoidance under section 506(d) , or in this case, complete redemption, gives debtors much more than the "fresh start" to which they are entitled.
+We do not believe Congress intended such a result when it enacted these Code provisions.
+Consequently, the judgment of the United States District Court for the District of Utah is AFFIRMED.

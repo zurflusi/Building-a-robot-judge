@@ -1,0 +1,85 @@
+ PER CURIAM.
+This appeal and cross-appeal are from the December 14, 1990, judgment of the United [**1233] States District Court for the District of South Carolina, 6:83-889-OK.
+The patentee, Morton International, Inc., contends that the district court erred in finding its U.S.
+Patents 4,062,881 ('881) and 4,120,845 ('845) not infringed by Cardinal Chemical Company, et al.
+; and in concluding that both patents are invalid.
+Cardinal contends that the district court erred in failing to award attorney fees for an exceptional case under 35 U.S.C. 285 , and that this court should sanction Morton's appeal as frivolous.
+We affirm the court's judgment in all respects, except we vacate that part of the judgment holding the '881 and '845 patents invalid.
+We also reject Cardinal's assertion that this appeal is frivolous.
+BACKGROUND The patents in suit are directed to a family of compounds which are used as additives or heat stabilizers for polyvinyl chloride (PVC).
+The heat stabilizers protect the PVC from decomposition, discoloration, and loss of strength.
+The particular heat stabilizers disclosed in the '881 and '845 patents are directed to organotin compounds, in particular to organotin mercaptoalkyl carboxylic acid ester sulfides.
+Only Claim 1 of each patent is at issue.
+1 The key limitations of the claims are (1) the bonding of the organotin compound, referred to by the parties as "partial connectivity," wherein a tin atom is bonded to a sulfur atom, the sulfur atom is bonded to a second tin atom, and the second tin atom is bonded to a mercaptoalkyl ester (referred to by the parties as a "reverse ester"); and (2) "the organotin compound [has] an amount of tin within the range from 10 to 42% by weight and an amount of sulfur within the range from 8 to 42% by weight."
+The '881 and '845 patents have had considerable exposure to the courts, as Morton has filed infringement actions in three separate district courts against different defendants.
+In the first, Morton filed suit against Argus Chemical Corporation in the United States District Court for the Eastern District of Louisiana.
+After trial, the district court entered judgment, holding the patents invalid and not infringed.
+Morton Thiokol, Inc. v. Witco Chemical Corp., et al.
+No. 84-5685 (E.D.La., filed November 28, 1984).
+On appeal, we affirmed the district court's judgment of non-infringement and vacated the invalidity judgment, ruling that the affirmance made it unnecessary to review the issue of invalidity.
+Morton Thiokol, Inc. v. Argus Chemical Corp. , 873 F.2d 1451 , 11 USPQ2d 1152 (Fed.Cir.1989) (non-precedential).
+In the second action, the appeal of which is now before this court, Morton again filed suit, this time against Cardinal, alleging that Cardinal sold mixtures containing the claimed compounds.
+After trial, the district court made lengthy findings and conclusions and held that the claims were invalid under 35 U.S.C. 112 because the specification was not enabling and the claims were indefinite.
+It further held that Cardinal's heat stabilizer products did not infringe those claims, either literally or under the doctrine of equivalents.
+Morton and Cardinal now appeal and cross-appeal this judgment, requiring us to review once more the infringement and/or validity of the '881 and '845 patents.
+2 DISCUSSION I. A finding of literal infringement requires that the asserted claims, as properly construed, read on the accused product.
+Envirotech Corp. v. Al George, Inc. , 730 F.2d 753, 758 , 221 USPQ 473 , 477 (Fed.Cir.1984).
+[**1234] The patentee has the burden of proving infringement by a preponderance of the evidence.
+SmithKline Diagnostics, Inc. v. Helena Laboratories Corp. , 859 F.2d 878, 889 , 8 USPQ2d 1468 , 1477 (Fed.Cir.1988).
+The first step in determining infringement is thus to construe the claims.
+Fonar Corp. v. Johnson & Johnson , 821 F.2d 627, 631 , 3 USPQ2d 1109 , 1112 (Fed.Cir.1987), cert. denied , 484 U.S. 1027 , 108 S.Ct. 751 , 98 L.Ed.2d 764 (1988).
+The second step is to decide whether each limitation in the properly construed claims is found, either literally or equivalently, in the allegedly infringing compounds.
+Id. Although claim interpretation is a question of law, subject to de novo review on appeal, the district court's ultimate finding on infringement, as well as subordinate findings relating to proper claim construction, are issues of fact, reviewed under a clearly erroneous standard.
+See H.H.
+Robertson Co. v. United Steel Deck, Inc. , 820 F.2d 384, 389 , 2 USPQ2d 1926 , 1929 (Fed.Cir.1987) (interpretation of a claim may depend on evidentiary material about which there is a factual dispute); Moleculon Research Corp. v. CBS, Inc. , 793 F.2d 1261, 1269-70 , 229 USPQ 805 , 811 (Fed.Cir.1986) (determination of infringement is a question of fact), cert. denied , 479 U.S. 1030 , 107 S.Ct. 875 , 93 L.Ed.2d 829 (1987).
+Morton argues that the district court erred in interpreting Claim 1 and that the court's misinterpretation resulted in errors in the court's conclusions as to both infringement and invalidity.
+More particularly, Morton claims that the district court misconstrued the claims by restricting the type of evidence Morton could use to show the existence of the claimed compound in Cardinal's mixture to: (1) isolation and (2) nuclear magnetic resonance (NMR) data showing simultaneous tin-tin coupling and Carbon-13 splitting as the only method to prove the partial connectivity of Claim 1.
+We disagree.
+On review of the record, it is clear that the district court did not construe Claim 1 to require isolation.
+The court merely required Morton to identify the claimed compounds in Cardinal's mixtures to confirm their existence.
+The court specifically found that "[n]o amount of testing by equipment or methods available [ ] can identify, isolate or separate any compound claimed by the '881 or '845 patents."
+Morton's reliance on In re Breslow , 616 F.2d 516 , 205 USPQ 221 (CCPA 1980), to show error in the district court's finding is misplaced.
+In Breslow , the compound in question could not be isolated, but was conceded to exist.
+The court expressly recognized that the existence of the compound was not in question.
+Id. at 518 , 205 USPQ at 224.
+In the present case, however, the existence of the claimed partial connectivity in the Cardinal mixture is the essence of the dispute, and its existence has never been established.
+The court specifically acknowledged that under Breslow , "it is not imperative that the compounds be isolated in order to be claimed."
+The court, in determining whether the claims were infringed, used isolation as simply a possible means of such proof.
+At trial, one of the ways Morton suggested one could analytically prove the existence of the claimed partial connectivity in Cardinal's mixtures was high-resolution Tin-119 NMR.
+However, the court observed the conflicting testimony of Morton's expert, Dr. Mesch, and Cardinal's NMR expert, Dr. Ellis, and found Dr. Ellis's more credible.
+The court found Dr. Mesch's identification of "at least eight peaks in a spectrum of the Cardinal product as possibly having the claimed [partial connectivity]" discredited by Dr. Ellis's conclusions that some of Mesch's identified peaks did not indicate the partial connectivity, but were caused by other elements present in the sample.
+The court determined that: It further determined that there is "no objective support for the actual existence of the claimed connectivities."
+Therefore, the court had no reason to determine whether Cardinal's product contained the specified weight percentages of tin and sulfur claimed in the patents at issue.
+Morton also argues that its building block theory shows the existence of the claimed partial connectivity, and that the district court failed to consider it.
+This theory is essentially that the Cardinal stabilizers contain four moieties-butyltin, sulfide, mercaptoethyltallate, and mercaptoethanol--and that these structures or "building blocks" can combine to form particular compounds, at least some of which contain the claimed connectivity.
+The compounds containing the claimed connectivity are assumed to be indicated by certain portions of the NMR spectra.
+The record shows that the district court considered and rejected Morton's building block theory, concluding that the theory did "not demonstrate the existence of claimed compounds in Cardinal's product which is a complex mixture resulting from Cardinal's process."
+Even assuming Morton's position [**1235] that certain molecular fragments can be positively identified in the NMR spectra as being other compounds (non-claimed compounds and prior art stabilizers), our review of the record shows that it is mere speculation to assume that what remains is a claimed compound, i.e. , compounds that have the partial connectivity.
+Cardinal's evidence, based on expert testimony from Drs.
+Story and Eisch, showed that by performing the reactions allegedly taught in the '881 patent , one skilled in the art would not necessarily obtain the compounds containing the claimed partial connectivity.
+In fact, Dr. Story determined that a number of compounds within the claimed ranges of the tin and sulfur percentages are theoretically possible, but that they did not have the weight ranges of Claim 1.
+Morton's theory still results in a number of unknown compounds remaining in the spectra.
+Thus, there is only a possibility of the existence of the claimed compounds in the spectra, and that was not convincing enough to the court to prove infringement.
+In summary, to show infringement, Morton was required to prove that every limitation in the claims was met, including the limitation that the partial connectivity existed in Cardinal's stabilizers.
+The district court found that Morton failed to prove that Cardinal's products contained the claimed partial connectivity.
+This finding was not clearly erroneous.
+Since we have affirmed the district court's holding that the patents at issue have not been infringed, we need not address the question of validity.
+Vieau v. Japax, Inc. , 823 F.2d 1510, 1517 , 3 USPQ2d 1094 , 1100 (Fed.Cir.1987).
+Accordingly, we vacate the holding of invalidity.
+Cardinal asserts in its cross-appeal that the district court erred in failing to award attorney fees and in failing to find this case "exceptional" under 35 U.S.C. 285 , because, inter alia , Morton effectively retried a case that it earlier lost.
+Morton Thiokol, Inc. v. Witco Chemical Corp., et al.
+, No. 84-5685 (E.D.La., filed November 28, 1984).
+Whether a case is exceptional or not is a factual determination subject to appellate review under the clearly erroneous standard.
+Reactive Metals and Alloys Corp. v. ESM, Inc. , 769 F.2d 1578, 1583 , 226 USPQ 821 , 824 (Fed.Cir.1985).
+At the end of the trial, the district court acknowledged that "[t]his case is close"; then, in a lengthy and well-reasoned opinion, the court specifically found that "[d]espite having some serious reservations as to Morton in fact retrying the Argus case, this court does not find that this action constitutes an exceptional case under 35 U.S.C. 285 ."
+We find no clear error in this result.
+Based on reasoning similar to its arguments on the exceptional case issue, Cardinal also asks this court to sanction Morton for a frivolous appeal.
+We decline to do so. Even though we agree with the district court's finding against Morton on the question of infringement, we accept that Morton did have an argument that was new to this case, one that apparently it was not in a position to raise earlier.
+Thus, based on a review of the record, we determine that Morton had a basis in law and fact for filing suit and bringing this appeal.
+Cf. Connell v. Sears, Roebuck & Co. , 722 F.2d 1542, 1554-55 , 220 USPQ 193 , 203-04 (Fed.Cir.1983).
+Thus, we affirm the district court's denial of attorney fees and decline to impose sanctions for a frivolous appeal.
+We also see no merit in Cardinal's contention that the district court failed to consider evidence of Morton's inequitable conduct before the Patent and Trademark Office.
+The record reveals that the district court considered but rejected the evidence.
+CONCLUSION For the foregoing reasons, the district court's judgment is affirmed-in-part and vacated-in-part.
+COSTS Costs to cross-appellants.
+AFFIRMED-IN-PART and VACATED-IN-PART.

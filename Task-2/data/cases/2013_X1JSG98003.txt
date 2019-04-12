@@ -1,0 +1,243 @@
+ FLOYD, Circuit Judge: Reversed and remanded by published opinion.
+Judge FLOYD wrote the majority opinion, in which Judge DAVIS joined.
+Judge DAVIS wrote a separate concurring opinion.
+Judge THACKER wrote a dissenting opinion.
+In 2009, Appellants David Bradley and Renee Richardson received unwelcome news: Their well water contained concentrated levels of trichloroethylene (TCE) and cis-1, 2-dichloroethane (DCE), both solvents that have carcinogenic effects.
+Not surprisingly, Bradley and Richardson, and twenty-three other landowners (collectively, "the landowners"), brought a nuisance action against Appellee CTS Corporation (CTS), the alleged perpetrator.
+Concluding that North Carolina's ten-year limitation on the accrual of real property claims barred the suit, the district court granted CTS's Rule 12(b)(6) motion to dismiss.
+Having reviewed the dismissal de novo, assuming that the facts stated in the complaint are true, Lambeth v. Bd. of Commis.
+, 407 F.3d 266 , 268 (4th Cir.2005), we hold that the discovery rule articulated in 9658 of the Comprehensive Environmental Response, Liability, and Compensation Act (CERCLA), 42 U.S.C. 9601 9675 , preempts North Carolina's ten-year limitation.
+Thus, we reverse and remand.
+I. In the 1960s and '70s, the United States witnessed the repercussions of toxic waste dumping like it never had before.
+The Valley of the Drums [fn1] and Love Canal [fn2] disasters made headlines, urging Congress to pass legislation that granted some measure of redress.
+In response, in 1980, Congress [**2] passed CERCLA, an act aimed at promoting efficient and equitable responses to the fallout from hazardous waste.
+Burlington N. & Santa Fe Ry. Co. v. United States , 556 U.S. 599 , 602 , 129 S.Ct. 1870 , 173 L.Ed.2d 812 (2009).
+Because Congress passed the legislation during the closing hours of its ninety-sixth session, and only after it reached a compromise reflecting the "blending of three separate bills," CERCLA is often criticized for its lack of precision.
+See, e.g., State of New York v. Shore Realty Corp. , 759 F.2d 1032 , 1039-40 (2d Cir.1985) ("In 1980, while the Senate considered one early version of CERCLA, the House considered and passed another.
+The version passed by both Houses, however, was an eleventh hour compromise put together primarily by Senate leaders and sponsors of the earlier Senate versions."
+(citations omitted)); Artesian Water Co. v. New Castle Cnty. , 851 F.2d 643 , 648 (3d Cir.1988) ("CERCLA is not a paradigm of clarity or precision.
+It has been criticized frequently for inartful drafting and numerous ambiguities attributable to its precipitous passage.
+"); see also Rhodes v. Cnty. of Darlington , 833 F.Supp.
+1163 , 1172-76 (D.S.C.1992) (providing a thorough recounting of CERCLA's history).
+Regardless, it remains undisputed that CERCLA is a remedial statute designed to (1) "establish a comprehensive response and financing mechanism to abate and control the vast problems associated with abandoned and inactive hazardous waste disposal sites" and (2) "shift the costs of cleanup to the parties responsible for the contamination."
+Metro.
+Metropolitan Water Reclamation Dist. v. N. Am. Galvanizing & Coatings, Inc. , 473 F.3d 824 , 826-27 (7th Cir.2007) (quoting H.R.Rep.
+No. 96-1016, pt.
+1, at 22 (1980), reprinted in 1980 U.S.C.C.A.N.
+6119, 6120) (internal quotation marks omitted); see also Niagara Mohawk Pmver Corp. v. Chevron U.S.A., Inc. , 596 F.3d 112 , 120 (2d Cir.2010) ("Enacted in response to New York's Love Canal disaster, CERCLA was designed, in part, to '[ensure] that those responsible for any damage, environmental harm, or injury from chemical poisons bear the costs of their actions.'")
+(footnote omitted) (quoting S.Rep.
+No. 96-848, at 13 (1980)).
+Evidently wary about the effectiveness of the Act's final version, Congress immediately established a study group to examine the "adequacy of existing common law and statutory remedies in providing legal redress for harm .
+.
+.
+caused by the release of hazardous substances into the environment."
+42 U.S.C. 9651 (e)(1).
+The Group consisted of twelve members designated by the American Bar Association, the American Trial Lawyers Association, the Association of State Attorneys General, and the American Law Institute.
+Id. 9651(e)(2).
+Among other "[r]ecurring [i]ssues in [h]azardous [w]aste [l]itigation," it considered the effect that state limitations periods have on causes of action related to hazardous waste, noting that (1) injuries from such waste generally have "long latency periods, sometimes 20 years or longer" and (2) if a state decrees that a cause of action will accrue upon a defendant's last act or a plaintiffs exposure to harm, the statute of limitations often will fully run and defeat a lawsuit before a plaintiff is aware of his injury.
+Superfund Section 301(e) Study Group, 97th Cong., Injuries and Damages from Hazardous Wastes-Analysis and Improvement [**3] of Legal Remedies pt.
+1, at 28 (Comm. Print 1982).
+Purposing to "remove unreasonable procedural and other barriers to recovery in court .
+.
+., including rules relating to the time of accrual of actions," id. at 240, the Group issued the following recommendation: "that all states .
+.
+.
+clearly adopt the rule that an action accrues when the plaintiff discovers or should have discovered the injury or disease and its cause," id. at 241.
+Worth noting is that the Group did not confine its concerns simply to statutes of limitation: "The Recommendation is intended also to cover the repeal of statutes of repose which, in a number of states have the same effect as some statutes of limitation in barring [a] plaintiffs claim before he knows that he has one."
+Id. Instead of waiting for individual states to amend their respective statutes, in 1986 Congress chose to "address[] the problem identified in the .
+.
+.
+study," H.R.
+Conf.
+Rep.
+No. 99-962, at 261, reprinted in 1986 U.S.C.C.A.N.
+3276, 3354, by enacting 9658 of CERCLA: (a) State statutes of limitations for hazardous substance cases (1) Exception to State statutes In the case of any action brought under State law for personal injury, or property damages, which are caused or contributed to by exposure to any hazardous substance, or pollutant or contaminant, released into the environment from a facility, if the applicable limitations period for such action (as specified in the State statute of limitations or under common law) provides a commencement date which is earlier than the federally required commencement date, such period shall commence at the federally required commencement date in lieu of the date specified in such State statute.
+(2) State law generally applicable Except as provided in paragraph (1), the statute of limitations established under State law shall apply in all actions brought under State law for personal injury, or property damages, which are caused or contributed to by exposure to any hazardous substance, or pollutant or contaminant, released into the environment from a facility.
+42 U.S.C. 9658 .
+Per the section's definition section, "`applicable limitations period' means the period specified in a statute of limitations during which a civil action referred to in subsection (a)(1) .
+.
+.
+may be brought," id. 9658(b)(2), "`commencement date' means the date specified in a statute of limitations as the beginning of the applicable limitations period," id. 9658(b)(3), and "`federally required commencement date' means the date the plaintiff knew (or reasonably should have known) that the personal injury or property damages referred to in subsection (a)(1) .
+.
+.
+were caused or contributed to by the hazardous substance or pollutant or contaminant concerned."
+Id. 9658(b)(4)(A).
+Thus, if a state statute of limitations provides that the period in which an action may be brought begins to run prior to a plaintiffs knowledge of his injury, 9658 preempts the state law and allows the period to run from the time of the plaintiffs actual or constructive knowledge.
+And if a minor or incompetent plaintiff is involved, the period does not begin to run until the plaintiff [**4] reaches majority or competency or "has a legal representative appointed."
+Id. 9658(b)(4)(B).
+II.
+During the twenty-seven years since Congress passed 9658, the amendment has no doubt served the goal of preserving claims that otherwise would have been defeated by state statutes of limitations.
+But it has also generated controversy.
+We address one such area of dispute here — namely, whether 9658 preempts state statutes of repose.
+A. The site at issue in this case is in Asheville, North Carolina, where CTS formerly operated a fifty-four-acre plant.
+[fn3] CTS "manufactures" and "disposes of electronics and electronic parts, and from 1959 to 1985, it operated the Mills Gap Road Electroplating Facility (the Facility) in Asheville.
+At the Facility, CTS stored notable quantities of TCE and manufactured products using TCE, cyanide, chromium VI, and lead.
+In 1987, CTS sold the Facility to Mills Gap Road Associates.
+CTS had promised realtors that the property "ha[d] been rendered in an environmentally clean condition," that "[t]o the best of [its] knowledge, no on-site disposal or otherwise wanton disposal methods were practiced at [the] facility," and that as soon as "the existing inventory of materials contained in drums and other miscellaneous equipment within the plant [was] removed from the premises, no threat to human health or the environment [would] remain."
+Mills Gap Road Associates eventually sold portions of the land to Bradley, Richardson, and others, and as noted above, Bradley and Richardson learned subsequent to their purchases that their land was contaminated.
+Thus, they joined with others who "live in the vicinity of [their] residence" to bring a nuisance claim.
+The other property owners claim that they "have been and continue to be exposed to the CTS .
+.
+.
+toxins via contact from air, land and water."
+The landowners cite damages such as "diminution in the value of their real property" and fear "for their health and safety and that of their family members."
+They request (1) a "judgment against [CTS] requiring reclamation of the 1,000,000 pounds of the toxic chemical contaminants" that belong to the corporation, (2) "remediation of the environmental harm caused by [CTS's] toxic chemicals," and (3) "monetary damages in an amount that will fully compensate them for all the losses and damages they have suffered, or .
+.
+.
+will suffer in the future."
+B. In North Carolina, real property actions are subject to a three-year statute of limitations per the "Limitations, Other than Real Property" section of the General Statutes.
+See N.C. Gen.Stat.
+1-52 ; Crawford v. Boyette , 121 N.C.App.
+67 , 464 S.E.2d 301 , 303 (1995).
+A real property action accrues when "physical damage to [a claimant's] property becomes apparent or ought reasonably to have become apparent."
+N.C. Gen.Stat.
+1-52 (16).
+Notably, however, a claimant's actual or constructive knowledge of damage is not the only factor that regulates accrual.
+Nor does lack of such knowledge lend life to a claim indefinitely.
+Rather, 1-52(16) prohibits a "cause of action [from] .
+.
+.
+accru[ing] more than 10 years from the last act or omission of the defendant giving rise to the cause of action."
+Id.
+Accordingly, once ten years [**5] have passed since a defendant's last tortious act, claims for damages from such conduct become nonexistent, regardless of whether a claimant had knowledge of his harm within the ten-year window.
+Here, the last act or omission of CTS occurred in 1987, when it sold the Facility to Mills Gap Road Associates.
+Thus, when the landowners filed their nuisance action in 2011, CTS moved to dismiss, maintaining that North Carolina's ten-year limitation on the accrual of real property actions barred the claim.
+The landowners countered, citing 9658 of CERCLA as preemptive of North Carolina's limitation.
+The magistrate judge rejected the landowners' argument.
+The court reasoned that the ten-year limitation is a statute of repose and that because 9658 mentions only statutes of limitations, it is inapplicable here.
+Thus, it recommended dismissal, and the district court adopted the recommendation.
+III.
+Before analyzing the decision below, we briefly review the concepts of limitations and repose.
+Statutes of limitations and statutes of repose both operate as limits on the amount of time that a plaintiff has to bring a claim.
+A statute of limitations is a "law that bars claims after a specified period .
+.
+.
+based on the date when the claim accrued (as when the injury occurred or was discovered)."
+Black's Law Dictionary 1546 (9th ed.2009).
+As this Court has previously noted, such limitations serve defendants by "encourag[ing] prompt resolution of disputes by providing a simple procedural mechanism to dispose of stale claims."
+First United Methodist Church of Hyattsville v. U.S. Gypsum Co. , 882 F.2d 862 , 866 (4th Cir.1989).
+In contrast, a statute of repose "bar[s] any suit that is brought after a specified time since the defendant acted .
+.
+.
+even if this period ends before the plaintiff has suffered a resulting injury."
+Black's Law Dictionary 1546 (9th ed.2009).
+Where repose is concerned, "considerations of the economic best interests of the public as a whole" are at play, and "substantive grants of immunity based on a legislative balance of the respective rights of potential plaintiffs and defendants [are] struck by determining a time limit beyond which liability no longer exists."
+First United Methodist , 882 F.2d at 866 .
+Here, North Carolina's ten-year limitation bars lawsuits "brought after a specified time since the defendant acted," Black's Law Dictionary 1546 (9th ed.2009), without regard for the plaintiffs knowledge of his harm, N.C. Gen.Stat.
+1-52 (16).
+As such, although North Carolina does not explicitly identify the limitation as a statute of repose (or, for that matter, use the word "repose" anywhere in its statutes), we think the court below properly categorized it as such.
+Cf. Robinson v. Wadford , N.C.App.
+, 731 S.E.2d 539 , 541 (2012) (referring to the ten-year limitation in 1-52(16) as a statute of repose); Tipton & Young Constr. Co. v. Blue Ridge Structure Co. , 116 N.C.App.
+115 , 446 S.E.2d 603 , 604 (1994) (same).
+A. Determining whether 9658 affects the operation of North Carolina's ten-year limitation is an exercise in statutory interpretation.
+When we interpret statutes, our goal is to effectuate Congress's intent, United States v. Abdelshafi , 592 F.3d 602 , 607 (4th Cir.2010), and we accomplish [**6] this by first examining the text of the statute, Holland v. Big River Minerals Corp. , 181 F.3d 597 , 603 (4th Cir.1999).
+If we find the meaning of the text plain, we accord it that meaning "[a]bsent .
+.
+.
+clearly expressed legislative intent to the contrary."
+Abdelshafi , 592 F.3d at 607 (quoting United States v. Bell , 5 F.3d 64 , 68 (4th Cir.1993)) (internal quotation marks omitted).
+If we determine that its meaning is ambiguous, however, we "look beyond the language of the statute to the legislative history for guidance."
+Stiltner v. Beretta U.S.A.
+Corp. , 74 F.3d 1473 , 1482 (4th Cir.1996) (en banc).
+Moreover, we determine whether a statute's language is plain "by reference to the language itself, the specific context in which that language is used, and the broader context of the statute as a whole."
+Holland , 181 F.3d at 603 (quoting Robinson v. Shell Oil Co. , 519 U.S. 337 , 341 , 117 S.Ct. 843 , 136 L.Ed.2d 808 (1997)) (internal quotation marks omitted).
+B. Here, we interpret a statute that is ambiguous.
+As noted by the district court, 9658 uses the words "statute of limitations."
+Indeed, the phrase and its plural form appear five times.
+See 9658(a), (b)(2), (b)(3).
+Noticeably absent is the phrase "statutes of repose."
+Thus, a simple review of 9658's language could reasonably lead to a conclusion that its application is limited only to statutes of limitations.
+We agree with the court below that the text is susceptible to this interpretation.
+But we also think that the text lends itself to an alternate reading — one that includes repose limitations such as North Carolina's.
+Per the text of 9658, a state limitations period must meet two conditions before the federally required commencement date applies to a cause of action: (1) it must be an "applicable limitations period" that is "specified in the State statute of limitations or under common law" and (2) it must "provide[] a commencement date which is earlier than the federally required commencement date."
+Id. 9658(a)(1).
+For the following reasons, we think North Carolina's ten-year limitation meets these conditions here.
+First, the ten-year bar is located with the statutes of limitations periods in a section titled, "Limitations, Other than Real Property."
+N.C. Gen.Stat.
+1-52 .
+As such, it is a limitations period "specified in the State statute of limitations or under common law."
+See 42 U.S.C. 9658 (a)(1).
+Second, it is (1) a "period," (2) "specified in a statute of limitations," (3) "during which a civil action .
+.
+.
+may be brought"; thus, it comports with the definition of "applicable limitations period."
+See id. 9658(b)(2).
+Finally, because the period begins to run when the defendant commits his last act, rather than when the plaintiff has knowledge of harm, its "commencement date .
+.
+.
+is earlier than the federally required commencement date."
+See id. 9658(a)(1).
+Accordingly, we conclude that in spite of 9658's repeated use of the phrase "statute of limitations," the text is susceptible to an interpretation that includes repose limitations such as North Carolina's.
+In sum, we reckon 9658's text capable of at least two interpretations, preventing it from being straightforwardly categorized as "plain and unambiguous."
+Lest we seem to be stretching to find ambiguity in the text, we make two additional observations.
+First, the terms "statute of limitations" and " [**7] statute of repose" have seen considerable development in their usage and meaning.
+Indeed, a historical analysis reveals that both scholars and courts have often used the terms interchangeably.
+See McDonald v. Sun , 548 F.3d 774 , 781 & n. 3, n. 4 (9th Cir.2008) (collecting cases and academic articles that demonstrate a historical lack of distinction between the terms).
+Thus, in this context, Congress's choice to use "statute of limitations" is in no way dispositive as to whether it intended 9658 to apply to statutes of repose.
+Rather, given the inconsistent manner in which the term has been used, it is entirely probable that in 1986, when Congress added 9658 to CERCLA, it intended "statute of limitations" to include precisely the type of ten-year limitation that we are dealing with here.
+Second, 9658 manifests a lack of internal consistency in its reference to an "applicable limitations period."
+Subsection (a)(1) notes that such a period is "specified in the State statute of limitations or under common law," but the definition of "applicable limitations period" and "commencement date" make no reference to common law.
+Thus, to the extent that a limitations period is established only under common law, 9658 fails to manifest a plain meaning applicable in such a circumstance.
+C. When the text of a statute is ambiguous, we "look to other indicia of congressional intent such as the legislative history" to interpret the statute.
+CGM, LLC, v. BellSouth Telecomm's, Inc. , 664 F.3d 46 , 53 (4th Cir.2011).
+As explained in Part I, supra , 9658 was adopted by Congress to "address[] the problem identified in the .
+.
+.
+study [group report]," H.R.
+Conf.
+Rep.
+No. 99-962, at 261, reprinted in 1986 U.S.C.C.AN.
+3276, 3354.
+The study group report was equally concerned with statutes of repose and limitations, and with their effect of barring plaintiffs' claims before they are aware of them.
+Moreover, Congress's purpose in enacting CERCLA was remedial.
+Blake A. Watson, Liberal Construction of CERCLA Under the Remedial Purpose Canon: Have the Lower Courts Taken a Good Thing Too Far?
+, 20 Harv. Envtl. L.Rev.
+199, 286 (1996) ("CERLCA is not only more remedial than most legislative enactments, it is arguably the most remedial of all federal environmental statutes.
+.
+.
+.")
+.
+Indeed, [t]he Act is distinctive in the spectrum of federal environmental protection legislation in that the principal focus is remedial and corrective rather than regulatory.
+CERCLA does not set standards for prospective compliance by industry but essentially is a tort-like backward-looking statute designed to [clean up] expeditiously abandoned hazardous waste sites and respond to hazardous spills and releases of toxic wastes into the environment.
+Id. (quoting William Murray Tabb & Linda A. Malone, Environmental Law: Cases & Materials 637 (1992)).
+Moreover, 9658 resulted from Congress's additional attempts to ensure adequate remedies, and it furthers CERCLA's remedial goals by preempting state limitation periods that would otherwise bar causes of action when harms lie dormant.
+We have observed that "CERCLA, as all remedial statutes, must be given a broad interpretation to effect [**8] its ameliorative goals."
+First United Methodist , 882 F.2d at 867 .
+When faced with a remedial statute, our interpretive charge is simple: Employ a "standard of liberal construction [to] accomplish [Congress's] objects."
+Urie v. Thompson , 337 U.S. 163 , 180 , 69 S.Ct. 1018 , 93 L.Ed. 1282 (1949); see also Niagara Mohawk Power Corp. , 596 F.3d at 132 (recognizing the need to liberally construe CERCLA to accomplish congressional objectives); see also Axel Johnson, Inc. v. Carroll Carolina Oil Co., Inc. , 191 F.3d 409 , 416 (4th Cir.1999) (same).
+In light of this charge, we reject a reading of 9658 that excludes application of its provisions to North Carolina's ten-year limitation.
+Such an interpretation may seem to be textually sound under one possible reading of the statute, but it offers too narrow an approach and one that thwarts Congress's unmistakable goal of removing barriers to relief from toxic wreckage.
+Refusing to apply 9658 to statutes of repose allows states to obliterate legitimate causes of action before they exist.
+Because this is precisely the barrier that Congress intended 9658 to address, we will not read the statute in a manner that makes it inapplicable in such a circumstance.
+Doing so cannot be termed an honest attempt to "effectuate Congress's intent."
+Accordingly, we hold that the federally required commencement date in 9658 preempts North Carolina's ten-year limitation on the accrual of real property claims.
+In so holding, we join the view articulated by the Ninth Circuit in McDonald v. Sun , in which the plaintiffs found themselves in circumstances remarkably similar to those of the landowners in this case. See 548 F.3d at 777-78 , 783 ("[G]iven the ambiguity of the term 'statute of limitations at the time of the adoption of , taken alongside the only evidence of Congressional intent, it is evident that the term 'statute of limitations' in was intended by Congress to include statutes of repose.").
+Although the Fifth Circuit delineated an opposing view in Burlington Northern & Sante Fe Railway Co. v. Poole Chemical Co. , 419 F.3d 355 (5th Cir.2005), we are unpersuaded by its reasoning.
+There, the plaintiffs had knowledge of their claim prior to expiration of the state statute of repose.
+Id. at 359-60, 364-65.
+Thus, as recognized by that court, the "case [did] not involve the delayed discovery .
+.
+.
+which 9658 was intended to address."
+Id. at 364-65.
+D. Our decision here will likely raise the ire of corporations and other entities that wish to rest in the security of statutes of repose, free from the threat of being called to account for their contaminating acts.
+They likely will cite the well-known policies underlying such statutes and asseverate that we have ignored them.
+But we are not ignorant of these policies, nor have we turned a blind eye to their importance.
+Repose statutes do not exist simply to protect defendants; they also ensure that cases are processed efficiently.
+See United States v. Kubrick , 444 U.S. Ill. 117, 100 S.Ct. 352 , 62 L.Ed.2d 259 (1979) ("[S]tatutes of repose .
+.
+.
+protect defendants and the courts from having to deal with cases in which the search for truth may be seriously impaired by the loss of evidence, whether by death or disappearance of witnesses, fading memories, disappearance of documents, or otherwise.").
+[**9] And although our decision removes one potential time barrier to a plaintiffs claim, it does not relax his burden of proof.
+In cases with latent harms, necessary evidence will disappear as time passes, and intervening causes will complicate efforts to pin costs on one party.
+Even without the hindrance of an official repose statute, plaintiffs may not be able to establish a cause of action or recover damages.
+Furthermore, because our decision does nothing to diminish North Carolina's requirement that plaintiffs bring claims within three years of discovery, defendants will not necessarily be endlessly subjected to the possibility of litigation.
+Finally, our stance goes no further than that contemplated by the study group that Congress commissioned.
+The Group foresaw that the "legislative balance of the respective rights of potential plaintiffs and defendants," First United Methodist , 882 F.2d at 866 , reflected in statutes of repose might in this circumstance need to tip in favor of plaintiffs: "The policy of repose expressed in the statute of limitations may be outweighed by the policy of affording the plaintiff a just opportunity to vindicate his rights."
+Superfund Section 301(e) Study Group, 97th Cong., Injuries and Damages from Hazardous Wastes-Analysis and Improvement of Legal Remedies pt.
+2, at 14 (Comm. Print 1982).
+Accordingly, we reaffirm our conclusion that North Carolina's ten-year limitation on the accrual of actions is preempted by 9658 of CERCLA.
+In so holding, we simply further Congress's intent that victims of toxic waste not be hindered in their attempts to hold accountable those who have strewn such waste on their land.
+IV.
+For the foregoing reasons, we reverse the district court's order and remand the case so that the litigation can proceed.
+REVERSED AND REMANDED

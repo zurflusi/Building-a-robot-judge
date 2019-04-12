@@ -1,0 +1,304 @@
+ TALLMAN, Circuit Judge: This appeal highlights the tension between the public's right of access to government files under the Freedom of Information Act and the countervailing need to preserve sensitive information for efficient and effective government operations.
+Glen Scott Milner appeals the denial of a request he filed pursuant to the Freedom of Information Act ("FOIA"), 5 U.S.C. 552 .
+He sought information that would identify the locations and potential blast ranges of explosive ordnance stored at Washington's Naval Magazine Indian Island ("NMII").
+The district court granted summary judgment in favor of the Navy.
+We have jurisdiction under 28 U.S.C. 1291 , and we affirm.
+I Indian Island is a small island strategically located in Puget Sound near the towns of Port Hadlock and Port Townsend, Washington.
+The island is used to store and transship munitions, weapons, weapon components, and explosives for the Navy, U.S.
+Joint Forces, Department of Homeland Security, and other federal agencies and allied forces.
+The Navy is responsible for all operations on NMII.
+Magazine management and safety operations are conducted pursuant to a Navy manual entitled Ammunition and Explosives Ashore Safety Regulations for Handling, Storing, and Production Renovation and Shipping ("OP-5 manual").
+Though the Navy considers the OP-5 manual to be restricted information, Milner managed to purchase one section of the manual on the Internet.
+The portion of the OP-5 manual in the record of this case states: The purpose of this volume is to acquaint personnel engaged in operations involving ammunition, explosives, and other hazardous materials, and to prescribe standardized safety regulations for the production, renovation, care, handling, storage, preparation for shipment, and disposal of these items.
+The OP-5 manual also calls for development of technical drawings and specifications, which "should be consulted for additional, detailed requirements."
+The technical information developed pursuant to the OP-5 manual includes Explosive Safety Quantity Distance ("ESQD") data.
+The ESQD calculations measure the effects' of an explosion at a particular location.
+The information is expressed either as a mathematical formula or as an arc map, where the center of the arc is the source of an explosion and the arc's periphery is [**2] the maximum area over which the force of the explosion would reach.
+The Navy uses this information to design and construct NMII ammunition storage facilities in compliance with the safety guidelines spelled out in OP-5.
+The ESQD arcs indicate the maximum amounts of explosives that should be stored in any one storage facility, and minimum distances that various explosives should be stored from one another.
+This aids the Navy in storing ordnance in such a way that the risk of chain reactions, or "sympathetic detonations," is minimized if one storage facility suffers an attack or accident.
+The ESQD arcs are "designed to be a long term planning tool for the Navy."
+Milner is a Puget Sound resident and a member of the Ground Zero Center for Nonviolent Action, an organization dedicated to raising community awareness of the dangers of the Navy's activities.
+On December 7, 2003, and January 29, 2004, he submitted two FOIA requests to the Navy.
+[fn1] He requested three types of documents: 1.
+[A]ll documents on file regarding [ESQD] arcs or explosive handling zones at the ammunition depot at Indian Island.
+This would include all documents showing impacts or potential impacts of activities in the explosive handling zones to the ammunition depot and the surrounding areas; 2.
+[A]ll maps and diagrams of the ammunition depot at Indian Island which show ESQD arcs or explosive handling zones; and 3.
+[D]ocuments regarding any safety instructions or operating procedures for Navy or civilian maritime traffic within or near the explosive handling zones or ESQD arcs at the ammunition depot at Indian Island.
+The Navy identified 17 document packages totaling about 1,000 pages that met these parameters.
+The Navy compiled a thorough index of the relevant documents and disclosed most of them to Milner.
+It withheld only 81 documents, claiming that their disclosure could threaten the security of NMII and the surrounding community.
+Milner filed suit under FOIA to compel disclosure of the remaining documents related to ESQD information.
+Commander George Whitbred, Commanding Officer of NMII, and other officers filed detailed affidavits discussing the nature and uses of the ESQD information.
+The commander's affidavit specified his concern that the information, if disclosed, could be used to plan an attack or disrupt operations on NMII.
+Both parties moved for summary judgment.
+The Navy argued the documents were exempt from disclosure under 5 U.S.C. 552 (b)(2) ("Exemption 2") and (b)(7)(f) ("Exemption 7").
+The district court granted summary judgment in favor of the Navy under Exemption 2 .
+Milner v. U.S. Dep't of Navy , No. C06-1301-JCC, [ 2007 BL 137879 ], 2007 WL 3228049 (W.D.Wash.
+Oct.30, 2007).
+It did not reach the question whether the documents would also be exempt under Exemption 7 .
+Milner timely appealed.
+II We apply a two-step standard of review to summary judgment in FOIA cases.
+"The court first determines under a de novo standard whether an adequate factual basis exists to support the district court's decisions.
+If an adequate factual basis exists, then the district court's conclusions of fact are reviewed for clear error, while legal rulings, [**3] including its decision that a particular exemption applies, are reviewed de novo."
+Lane v. Dep't of Interior , 523 F.3d 1128 , 1135 (9th Cir. 2008) (internal citations omitted).
+Both parties agree that an adequate factual basis exists to support the district court's decision.
+They dispute only the applicability of the exemptions from disclosure.
+An agency bears the burden of proving it may withhold documents under a FOIA exemption.
+5 U.S.C. 552 (a)(4)(B); U.S. Dep't of State v. Ray , 502 U.S. 164 , 173 , 112 S.Ct. 541 , 116 L.Ed.2d 526 (1991).
+It may meet this burden by submitting affidavits showing that the information falls within the claimed exemption.
+Minier v. CIA , 88 F.3d 796 , 800 (9th Cir. 1996).
+"In evaluating a claim for exemption, a district court must accord substantial weight to [agency] affidavits, provided the justifications for nondisclosure are not controverted by contrary evidence in the record or by evidence of [agency] bad faith."
+Id .
+(internal quotations omitted).
+III A FOIA reflects "a general philosophy of full agency disclosure unless information is exempted under clearly delineated statutory language."
+Dep't of the Air Force v. Rose , 425 U.S. 352 , 360-61 , 96 S.Ct. 1592 , 48 L.Ed.2d 11 (1976) (quoting S.Rep.
+No. 813-89 , at 3 (1965)).
+An agency may withhold a document, or portions thereof, only if the material falls into one of the nine statutory exemptions delineated by Congress in 552(b) .
+Id. at 361 , 96 S.Ct. 1592 .
+These nine exemptions are "explicitly exclusive."
+U.S. Dep't of Justice v. Tax Analysts , 492 U.S. 136 , 151 , 109 S.Ct. 2841 , 106 L.Ed.2d 112 (1989) (quoting Adm'r FAA v. Robertson , 422 U.S. 255 , 262 , 95 S.Ct. 2140 , 45 L.Ed.2d 164 (1975)).
+The delineated exemptions "are to be interpreted narrowly."
+Lahr v. NTSB , 569 F.3d 964 , 973 (9th Cir. 2009) (quotation omitted).
+Our concern in this case is the scope of Exemption 2 .
+That section exempts from disclosure matters that are "related solely to the internal personnel rules and practices of an agency."
+5 U.S.C. 552 (b)(2).
+There are two categories of information that may fall within Exemption 2's ambit — "Low 2" and "High 2."
+Low 2 materials include rules and practices regarding mundane employment matters such as parking facilities, lunch hours, and sick leave, which are not of "genuine and significant public interest."
+See Rose , 425 U.S. at 363 , 96 S.Ct. 1592 (citing S.Rep.
+No. 813-89 , at 8 (1965)); id. at 369 , 96 S.Ct. 1592 ; Hardy v. Bureau of Alcohol, Tobacco & Firearms , 631 F.2d 653 , 655 (9th Cir. 1980).
+The High 2 exemption protects more sensitive government information.
+[fn2] This category applies to "internal personnel rules and practices," disclosure of which "may risk circumvention of agency regulation."
+Rose , 425 U.S. at 369 , 96 S.Ct. 1592 ; see, e.g., Schiller v. NLRB , 964 F.2d 1205 , 1208 (D.C. Cir. 1992) (holding an agency's litigation strategy "does qualify as `high 2' material because its disclosure would risk circumvention of statutes or agency regulations").
+Only the High 2 category is at issue here.
+B Information may be exempted as High 2 if it (1) fits within the statutory language and (2) would present a risk of circumvention if disclosed.
+See Morley v. CIA 508 F.3d 1108 , 1124 (D.C. Cir. 2007) (citing Schwaner v. Dep't of Air Force , 898 F.2d 793 , 794 (D.C. Cir. 1990)).
+The essential question in this case is what standard we employ to determine whether the requested information relates sufficiently to the "internal personnel rules and practices" of the agency, as required by the statute.
+The Navy argues we should apply the "predominantly internal" standard employed by the D.C.
+Circuit.
+Milner argues our prior caselaw forecloses this approach, and that our inquiry is limited [**4] to whether the information at issue is "law enforcement material."
+In Hardy v. Bureau of Alcohol, Tobacco & Firearms , we addressed the question of circumvention left open in Rose.
+631 F.2d at 656 .
+We considered FOIA requests for the ATF's Raids and Searches manual.
+We joined the Second Circuit in holding that "law enforcement materials, the disclosure of which may risk circumvention of agency regulation, are exempt under Exemption 2 ."
+Id .
+(citing Caplan v. Bureau of Alcohol, Tobacco & Firearms , 587 F.2d 544 (2d Cir. 1978)).
+Hardy concluded that the instructions contained in the manual "concern[ed] internal personnel practices" and were therefore exempt from disclosure under Exemption 2 .
+Id .
+Following our decision in Hardy , the D.C.
+Circuit decided Crooker v. Bureau of Alcohol, Tobacco & Firearms , 670 F.2d 1051 (D.C. Cir. 1981) (en banc).
+Like the plaintiff in Hardy , the plaintiff in Crooker sought disclosure of portions of the same ATF raid manual.
+Our sister circuit noted that the materials sought were "law enforcement" in nature, but went on to formulate a "predominantly internal" standard to determine which personnel materials could be withheld under Exemption 2 .
+Id. at 1072-74 .
+The D.C.
+Circuit undertook an extensive analysis of FOIA's structure and legislative history, its underlying policy, and the applicable caselaw.
+It concluded that "the words `personnel rules and practices' encompass not merely minor employment matters, but may cover other rules and practices governing agency personnel, including significant matters like job training for law enforcement personnel."
+Id. at 1056 .
+To balance the competing implications of the words "related" and "solely," the court settled on the modifier "predominantly."
+[fn3] Id. at 1056-57 ; see Schwaner , 898 F.2d at 795 .
+The court ultimately determined that documents related to personnel rules and practices should be exempt when the materials are "predominantly internal."
+The Navy argues that the Ninth Circuit's caselaw post Hardy has essentially adopted this standard, or, in the alternative, that we should do so explicitly.
+The district court granted summary judgment on this ground, reasoning that our cases take such a broad view of the term "law enforcement" that "the test they embody bears more than a passing resemblance" to the D.C.
+Circuit's "predominantly internal" standard.
+Milner , [ 2007 BL 137879 ], 2007 WL 3228049 at *7.
+We agree that Exemption 2 is not limited to "law enforcement" materials, and now take the opportunity to formally endorse the D.C.
+Circuit's analysis, as set forth in Crooker.
+We hold that Exemption 2 shields those personnel materials which are predominantly internal and disclosure of which would present a risk of circumvention of agency regulation.
+Our existing caselaw is consistent with the D.C.
+Circuit's approach.
+Hardy held that "law enforcement materials, the disclosure of which may risk circumvention of agency regulation, are exempt under Exemption 2 ."
+631 F.2d at 656 .
+It did not hold that only law enforcement materials are exempt under Exemption 2 .
+The shorthand descriptor "law enforcement materials" was apt in Hardy because the case concerned policies and procedures for executing search warrants.
+The Crooker court apparently understood that Hardy addressed law enforcement materials but did not limit [**5] Exemption 2 to such information, relying on Hardy without adopting or even considering the use of "law enforcement" as a generally applicable standard.
+670 F.2d at 72 .
+The Crooker court, like the Second Circuit in Caplan and our panel in Hardy , used `law enforcement" to describe the materials at issue.
+Id. at 1056 , 1057.
+It went on to determine that the manuals were "predominantly internal" and that their disclosure "significantly risks circumvention of the federal statutes or regulations."
+Id. at 1073-75 .
+Maricopa Audubon Society v. United States Forest Service , 108 F.3d 1082 (9th Cir. 1997), our most recent case examining Exemption 2 , also treated the "law enforcement" test as merely one way to meet Exemption 2's requirements.
+Maricopa first held generally that goshawk nesting site data does not "relate `solely,' or even predominantly, `to the internal personnel rules and practices of an agency.'"
+Id. at 1085 (quoting 5 U.S.C. 552 (b)(2)).
+It relied heavily on cases from the Tenth and D.C.
+Circuits, both of which cited Crooker.
+Id. at 1085-86 ; see Audubon Soc. v. U.S. Forest Serv. , 104 F.3d 1201 , 1203-04 (10th Cir. 1997); Schwaner , 898 F.2d at 794 .
+Only then did Maricopa proceed to consider, and reject, the more specific argument that the nest site data was exempt because it was "law enforcement" material.
+108 F.3d at 1086-87 .
+In sum, the instructive cases on Exemption 2 do not limit the class of exempt information to "law enforcement" materials alone.
+Therefore, finding information to be "law enforcement" material is a sufficient, but not necessary, condition to exemption under Exemption 2 .
+We adopt the "predominantly internal" standard for several reasons.
+First, limiting Exemption 2 to "law enforcement" materials has no basis in either Supreme Court precedent or the statute.
+The Supreme Court in Rose does not use the phrase except in a footnote relating to a different FOIA exemption.
+Nor does the phrase "law enforcement" appear in the text of 552(b)(2) , which exempts matters "related solely to the internal personnel rules and practices of an agency."
+A proper standard would combine Congress's requirement that the material be related to "internal personnel rules and practices" and the Supreme Court's focus on the risk of circumvention of the law.
+Crooker's standard properly reflects both.
+As a matter of statutory interpretation, a definition of "internal personnel rules and practices" that rests solely on whether the information is "law enforcement" material makes little sense in light of the entire list of FOIA exemptions.
+"Under accepted canons of statutory interpretation, we must interpret statutes as a whole, giving effect to each word and making every effort not to interpret a provision in a manner that renders other provisions of the same statute inconsistent, meaningless or superfluous."
+Boise Cascade Corp. v. EPA 942 F.2d 1427 , 1432 (9th Cir. 1991).
+First, other provisions of FOIA indicate Congress was concerned with the disclosure of sensitive materials.
+Such materials will usually be, by their nature, predominantly internal.
+Exemption 1 covers information with a particular legal status — classified information.
+5 U.S.C. 552 (b)(1).
+Exemptions 7(e) and (f) exempt law enforcement materials that, if disclosed, would risk circumvention of the law or place individuals in danger.
+Id .
+552(b)(7) .
+These exemptions reflect a concern that much of an [**6] agency's internal information could be used by individuals with ill intent.
+It would be incongruent if FOIA protected sensitive information when it is contained in a classified or law enforcement document, but not when it is contained in a document developed predominantly for use by agency personnel.
+Cf. Crooker , 670 F.2d at 1065 ("It would be inconsistent to no small degree to hold that Exemption 2 would not bar the disclosure of investigatory techniques when contained in a manual restricted to internal use, but that Exemption 7(E) would exempt the release of such techniques if contained in an `investigatory record.'").
+Second, Exemption 7 protects "records or information compiled for law enforcement purposes."
+5 U.S.C. 552 (b)(7).
+If Exemption 2 also covers only "law enforcement" materials, Exemption 7 is redundant.
+See, e.g., Gordon v. FBI , 388 F.Supp.2d 1028 , 1036 (N.D.Cal.
+2005) (discussing Exemptions 2 and 7 together, applying the same standards and reasoning to both).
+Moreover, Exemption 7 contains meaningful limitations on the use of law enforcement materials which are not present in Exemption 2 .
+Exemption 7 protects "records or information compiled for law enforcement purposes," but only in certain situations, such as when disclosure would be expected to interfere with enforcement proceedings, deprive someone of a fair trial, or expose a confidential source.
+5 U.S.C. 552 (b)(7).
+Applying a general "law enforcement materials" test under Exemption 2 renders meaningless the conditions that Congress has placed on non-disclosure of law enforcement materials under Exemption 7 .
+Congress has impliedly approved of Crooker's approach.
+The Freedom of Information Reform Act of 1986, Pub.L.
+No. 99-570 , subtit.
+N, 100 Stat. 3207 , 3207-48 (1986), codified part of Crooker into Exemption 7 .
+The legislative history of the Reform Act expressly states that the amended Exemption 7 was modeled after "the `circumvention of the law' standard that the D.C.
+Circuit established in its en banc decision in Crooker v. BATF , 670 F.2d 1051 (D.C. Cir. 1981) (en banc) (interpreting Exemption 2 )."
+S.Rep.
+No. 221-98 , at 25 (1983).
+As the Seventh Circuit concluded in Koganove v. EPA , "[b]ecause Congress saw fit to codify the very language of Crooker , and because nothing in the legislative history of the Reform Act suggests the slightest disagreement with that case's holding, we believe that Crooker accurately expresses congressional intentions."
+856 F.2d 884 , 889 (7th Cir. 1988), cert. denied , 488 U.S. 1011 , 109 S.Ct. 798 , 102 L.Ed.2d 789 (1989).
+Though this statutory history is not dispositive, it is certainly illustrative.
+Finally, we note two practical considerations that favor adoption of the "predominantly internal" test.
+First, narrowing Exemption 2 to only "law enforcement" materials forces our courts to strain the term "law enforcement."
+See, e.g., Dirksen v. U.S. Dep't of Health and Human Servs.
+, 803 F.2d 1456 , 1459 , 1461 (9th Cir. 1986) (Ferguson, J., dissenting) (accusing the panel majority of "judicial legislation" and "expand[ing] the concept of law enforcement" in holding that Medicare payment processing guidelines were "law enforcement" materials).
+Hardy did not define "law enforcement" and plainly contemplated a broad understanding of the term.
+631 F.2d at 657 (`"Law enforcement' materials involve methods of enforcing the laws, however interpreted.
+.
+.
+."
+(emphasis added)).
+Yet the term "law enforcement" must have some meaning and limit.
+See Maricopa , 108 F.3d at 1087 ("[N]o commonsense definition of the term suggests that goshawk nest [**7] site information can be deemed `law enforcement material'").
+Maricopa carefully applied Hardy and suggested the limits of the term: whether the information "tell[s] the [agency] how to catch lawbreakers; [or tells] lawbreakers how to avoid the [agency's] enforcement efforts."
+Id .
+Our existing cases lead our district courts to strain the logical limits of "law enforcement" to cover otherwise valid invocations of Exemption 2 .
+They regularly deny requests for disclosure of all kinds of internal documents, including those related to the military and national security, even if unrelated to investigations or prosecutions.
+See, e.g., Kelly v. FAA , No. 07-00634, 2008 WL 958037 (E.D.Cal.
+Apr.8, 2008) (magistrate judge recommending exemption of "grading sheet" for hiring of Designated Pilot Examiners); L.A.
+Times v. Dep't of Army , 442 F.Supp.2d 880 , 898 (C.D.Cal.
+2006) (holding data on insurgent and other attacks in Iraq are "law enforcement materials"); Gordon , 388 F.Supp.2d at 1036 (holding "no fly" and other aviation watch lists are "law enforcement materials"); Coastal Delivery Corp. v. U.S. Customs Serv. , 272 F.Supp.2d 958 , 965 (C.D.Cal.
+2003) (examining both Hardy and Crooker and holding data on the number of Customs inspections at a particular port constitute "law enforcement material").
+If judges must regularly labor to apply the standard in order to fit their intuitive understanding of congressional intent, there is something wrong with the standard.
+Our second practical concern stems from a preference for national uniformity.
+Crooker has become the authoritative case on Exemption 2 .
+It presents an extraordinarily comprehensive analysis of the statutory language, legislative history, and caselaw.
+At least four of our sister circuits have adopted or relied on Crooker.
+See Abraham & Rose, PLC v. United States , 138 F.3d 1075 , 1080 (6th Cir. 1998); Audubon Soc. , 104 F.3d at 1204 ; Massey v. FBI , 3 F.3d 620 , 622 (2d Cir. 1993); Kaganove , 856 F.2d at 889 .
+Bringing our circuit into alignment with the D.C.
+Circuit would create a more uniform standard for national agencies like the U.S. Navy.
+It would also allow our district courts to seek guidance from the D.C.
+Circuit's extensive case law in applying Exemption 2 , in the absence of authoritative Ninth Circuit or Supreme Court rulings.
+In short, FOIA "resolved two crucial but potentially conflicting interests: the right of the citizenry to know what the Government is doing, and the legitimate but limited need for secrecy to maintain effective operation of Government."
+Crooker , 670 F.2d at 1062 .
+The text and history of Exemption 2 indicate that Congress intended to prevent disclosure of personnel matters that are predominantly internal, regardless of whether they are "law enforcement" in nature.
+Limiting Exemption 2 to "law enforcement materials" would frustrate that policy while rendering Exemption 7 almost entirely superfluous.
+Adopting the "predominantly internal" standard gives due respect to Congress's policy choices.
+It also simplifies our approach to Exemption 2 and brings us into alignment with some of our sister circuits.
+Therefore, we hold that a personnel document is exempt as "High 2" if it is predominantly internal and its disclosure presents a risk of circumvention of agency regulation.
+Law enforcement materials, as defined in Hardy and Maricopa , satisfy these [**8] criteria.
+However, other sorts of materials — such as Navy data used for internal planning and safety purposes — may also meet the standard for exemption under Exemption 2 .
+We now turn to the question of whether the ESQD information requested here satisfies these criteria.
+IV A We first consider whether the ESQD arcs fit within the statutory language — that is, whether they are "predominantly internal" personnel rules or practices.
+The ESQD arcs at issue here are essentially an extension of the OP-5 manual, which governs operations on NMII.
+As noted above, the Foreword to the manual states that "[t]he purpose of this volume is to acquaint personnel engaged in operations" involving explosives with the relevant procedures.
+The Foreword further states that "[t]he instructions and regulations prescribed in [the] OP-5 [manual] .
+.
+.
+are considered minimum criteria.
+The specific items, technical manuals, drawings, and specifications referenced in this publication should be consulted for additional, detailed requirements."
+ESQD arcs are one of the "specific items" referenced in the OP-5 manual.
+Therefore, the ESQD arcs constitute one part of the internal policies and procedures that NMII personnel are bound to follow when handling and storing explosive ordnance.
+Our understanding comports with the Navy's declarations that ESQD arcs are used by its personnel to "design, array, and construct ammunition storage facilities, and to organize ammunitions operations for risk mitigation and enhanced safety" — the very subjects of the OP-5 personnel manual.
+The ESQD data is in-deed an integral part of the Navy's personnel practices.
+Like the ATF raid manual at issue in Hardy and Crooker , the information sought here is predominantly used for the internal purpose of instructing agency personnel on how to do their jobs.
+Milner and the dissent suggest that the Navy should classify this information in order to keep it internal.
+However, not all internal information can be classified, for legitimate reasons of personal and national security.
+Classifying such information may present logistical challenges that could actually impede safe and effective operations.
+For instance, the Navy has occasionally shared ESQD information with civilian first responders around Port Townsend whose fire, rescue, and police services would be needed in the event of an accident or attack on NMII.
+Milner further argues the decision to share the information with local officials means the information is not "internal."
+We disagree.
+The decision to share otherwise internal information with emergency responders does not necessarily place the information outside the bounds of Exemption 2 .
+First, we do not wish to discourage agencies from sharing internal information with local first responders.
+Such cooperation encourages coordinated and effective mutual aid that improves safety for both government employees and citizens.
+Agencies must be permitted to grant limited, confidential access to other federal and local agencies without risking broader disclosure.
+[**9] Second, limited disclosure for official purposes does not violate the standard that information must be " predominantly internal."
+Of course, if an agency regularly and publicly discloses its practices, it can no longer claim the information is predominantly internal.
+That is not the case here.
+The ESQD arcs are "predominantly internal," regardless of prior limited disclosure to local officials.
+Finally, FOIA's fundamental concern with the existence of "secret law" is not implicated here.
+See Hardy , 631 F.2d at 657 (stating that administrative materials, which "involve the definition of the violation and the procedures required to prosecute the offense, .
+.
+.
+contain the `secret law' which was the primary target of [FOIA's] broad disclosure provisions").
+When internal personnel practices are used as "a source of `secret law,' as important to the regulation of public behavior as if they had been codified," we cannot say the information is predominantly internal.
+Crooker , 670 F.2d at 1075 (discussing the guidelines for prosecutorial discretion at issue in Scott v. United States , 419 F.2d 264 , 277 (D.C. Cir. 1969)); Hardy , 631 F.2d at 657 .
+Even if the information sought was developed for purely internal uses, we could not permit invocation of Exemption 2 if the information had external legal effect.
+In this case, the personnel procedures derived from ESQD arcs are certainly not written to regulate the public.
+The ESQD arcs have absolutely no legal or enforcement ramifications whatsoever on the citizens of the Puget Sound region.
+Nothing about the data even could be codified in any logical way to regulate public behavior, and the Navy has not attempted to do so.
+We therefore hold the requested ESQD information is "predominantly internal."
+[fn4] B We next turn to the question whether disclosure of the ESQD information "may risk circumvention of agency regulation."
+Rose, 425 U.S. at 369 , 96 S.Ct. 1592 ; see Crooker , 670 F.2d at 1070 (exempting ATF raid manual because disclosure risked "circumvention of the law").
+In Rose , the Supreme Court surveyed the House and Senate reports related to Exemption 2 in considering the scope of the exemption.
+425 U.S. at 362-67 , 96 S.Ct. 1592 .
+[fn5] The Court noted the House Report's emphasis on preventing circumvention of agency regulation and discussed prior cases relying on this Report: Those cases relying on the House, rather than the Senate, interpretation of Exemption 2 , and permitting agency withholding of matters of some public interest, have done so only where necessary to prevent the circumvention of agency regulations that might result from disclosure to the subjects of regulation of the procedural manuals and guidelines used by the agency in discharging its regulatory function.
+Id. at 364 , 96 S.Ct. 1592 .
+However, because Rose was not a case "where knowledge of administrative procedures might help outsiders to circumvent regulations or standards," id .
+(quotation omitted), the Court left open the question whether Exemption 2 would apply "where disclosure may risk circumvention of agency regulation," id. at 369 , 96 S.Ct. 1592 .
+Building on this framework, Crooker addressed the general question whether " Exemption 2 might be construed to cover internal agency materials where disclosure might risk circumvention of the law."
+670 F.2d at 1067 .
+It concluded, "we hold that [**10] .
+.
+.
+if disclosure significantly risks circumvention of agency regulations or statutes, then Exemption 2 exempts the material from mandatory disclosure."
+Id. at 1074 .
+Five years later, the D.C.
+Circuit again summarized the scope of the circumvention requirement: [W]e have not limited the "high 2" exemption to situations where penal or enforcement statutes could be circumvented.
+Rather, we have held that "[w]here disclosure of a particular set of documents would render those documents operationally useless, the Crooker analysis is satisfied whether or not the agency identifies a specific statute or regulation threatened by disclosure."
+Schiller , 964 F.2d at 1208 (quoting Nat'l Treasury Employees Union v. U.S. Customs Serv. , 802 F.2d 525 , 530-31 (D.C. Cir. 1986)).
+In cases following Crooker , courts have exempted information that would aid individuals in thwarting various kinds of rules, procedures, and statutes.
+[fn6] See Massey , 3 F.3d at 622 (exempting "redacted] internal FBI notations containing the name of an FBI agent, the initials of other FBI employees, and certain administrative markings"); PHE, Inc. v. Dep't of Justice , 983 F.2d 248 , 251 (D.C. Cir. 1993) (exempting "specific documents, records and sources of information available to Agents investigating obscenity violations" because "release of FBI guidelines as to what sources of information are available to its agents might encourage violators to tamper with those sources of information"); Schiller , 964 F.2d at 1208 (exempting documents containing the National Labor Relations Board's litigation strategies in Equal Access to Justice Actions); Kaganove , 856 F.2d at 889-890 (exempting EPA document used to rate job candidates); Dirksen , 803 F.2d at 1458-59 (exempting guidelines used for processing Medicare payment claims); Nat'l Treasury Employees Union , 802 F.2d at 530-31 (exempting "crediting plans" used to evaluate job applicants); Founding Church of Scientology v. Smith , 721 F.2d 828 , 829 , 831 (D.C. Cir. 1983) (affirming district court's judgment that disclosure of "administrative handling instructions" "would risk circumvention of federal statutes").
+The record before us reveals that the ESQD information falls squarely within this class of cases.
+An agency must "submit to the district court a detailed affidavit describing how disclosure would risk circumvention of agency regulation."
+Hardy , 631 F.2d at 657 (reiving on Cuneo v. Schlesinger , 484 F.2d 1086 , 1092 (D.C. Cir. 1973)).
+"If the explanation is reasonable, the district court should find the materials exempt from disclosure, unless in camera examination shows that they contain secret law or that the agency has not fairly described the contents in its affidavit."
+Id .
+(citing Cox v. U.S. Dep't of Justice , 576 F.2d 1302 , 1311-12 (8th Cir. 1978)).
+The Navy has described in detailed affidavits precisely how public disclosure would risk circumvention of the law — the ESQD arcs sought here point out the best targets for those bent on wreaking havoc.
+The arcs indicate specific blast ranges for individual magazines within NMII.
+A terrorist who wished to hit the most damaging target or a protestor who wished to disrupt the Navy's monitoring and transportation protocols would be greatly aided by such information.
+[fn7] The dissent does not apparently dispute that this risk exists; it concludes [**11] only that risking sabotage of military explosives is not the sort of "circumvention of the law" that should concern us.
+As in National Treasury Employees Union , disclosure of the ESQD data "would quickly render those documents obsolete for the purpose for which they were designed."
+802 F.2d at 530 .
+The ESQD arcs are created as a planning tool to prevent catastrophic detonations; disclosing the arcs would make catastrophe more likely.
+The fact that requests for similar information from the Bangor nuclear submarine base have been granted is irrelevant to our analysis.
+"[T]he release of certain documents waives FOIA exemptions only for those documents released."
+Mobil Oil Corp. v. EPA , 879 F.2d 698 , 701 (9th Cir. 1989).
+Moreover, Commander Whitbred explicitly addressed this argument in his affidavit: "[NMII] is not a submarine base.
+The nature of its mission is completely different, as are its security parameters, and physical characteristics.
+Furthermore, [NMII] is not a single-weapon system facility such as the bases referenced where the risks are associated with a single program."
+Because the Navy's safety concern rests on the potential utility of the ESQD arcs in identifying the most hazardous target among many, these distinctions are significant.
+Hardy and Minier instruct us to accord substantial weight to these reasonable explanations.
+Hardy , 631 F.2d at 657 ; Minier , 88 F.3d at 800 .
+The Navy released roughly 1,000 documents responsive to Milner's requests.
+It withheld the narrow class of documents at issue here because, as Commander Whitbred put it, "I believe strongly that release of the sensitive ESQD information involved in this case would jeopardize the safety and security of the storage, transportation, and loading of ammunitions and explosives" (emphasis original).
+There is no basis to "suspect" that the Navy has ulterior, political motives for denying the requested information.
+See Dissent at 10385.
+The Navy has met its burden of describing how disclosure would risk circumvention of its regulations.
+Therefore, the district court properly exempted the requested ESQD information from disclosure.
+[fn8] V In conclusion, we reiterate our approach to Exemption 2 .
+First, the material withheld must fall within the terms of the statutory language.
+To determine whether a personnel document falls within the statutory language, we inquire whether it is "predominantly internal."
+Law enforcement material, as defined in Hardy and Maricopa , qualifies as predominantly internal, but it is not the only category of materials that may meet this test.
+Second, if the material is predominantly internal, the agency may defeat disclosure by proving that disclosure may risk circumvention of the law.
+The ESQD arcs requested here are predominantly internal personnel materials, and if disclosed would present a serious risk of circumvention of the law.
+The district court properly ruled that the information sought is exempt from FOIA disclosure.
+AFFIRMED.

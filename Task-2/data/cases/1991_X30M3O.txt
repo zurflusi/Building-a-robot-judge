@@ -1,0 +1,125 @@
+ McKAY , Circuit Judge.
+The parties agree to waive oral argument.
+See Fed.R.App.P.
+34(f) ; 10th Cir.R.
+34.1.2.
+The case is therefore ordered submitted on the briefs.
+This case requires us to decide whether, for purposes of establishing a voidable preference under the Bankruptcy Code, 11 U.S.C. 547(b) , the transfer of a check occurs when the check is delivered to the payee or when it is honored by the drawee bank.
+Because we hold that, for purposes of section 547(b) , a payment made by check is deemed to have occurred when the check is honored by the drawee bank, we reverse the district court.
+The parties do not dispute the facts of this case. The debtors, Alan J. and Mary Frances Antweil, Hobbs Pipe and Supply, and Morris R. Antweil ("debtors") filed a voluntary petition in bankruptcy under Chapter 11 of the Bankruptcy Code on February 18, 1986.
+On May 12, 1988, the trustee filed an adversary proceeding against William Barnhill, Bravo Energy Inc., the Estate of Murray Cash, and the Estate of Sol Litt IV (collectively "Barnhill") attempting to recover an alleged preferential transfer under section 547(b) of the Code.
+The trustee is attempting to recover a sum paid to Barnhill by a check from the debtor dated November 19, 1985.
+On October 11, 1988, the trustee moved to file a second amended complaint alleging that the debtor delivered the check to Barnhill on November 18, but postdated it to November 19.
+The drawee bank honored the check on November 20.
+Barnhill objected to the trustee's request to amend and moved for dismissal.
+The 90-day preference period began on November 20.
+The bankruptcy court held that the transfer occurred on the date the check was delivered, November 18.
+Thus, the bankruptcy court granted Barnhill's motion to dismiss and denied the trustee's motion to amend the complaint.
+Johnson v. Barnhill (In re Antweil) , 97 B.R. 69 (Bankr.D.N.M.1989).
+The United States District Court for the District of New Mexico affirmed the decision of the bankruptcy court, Johnson v. Barnhill (In re Antweil) , 111 B.R. 337 (D.N.M.1990), and this appeal followed.
+In reviewing this decision, the court applies the same standard of review as that used by the district court.
+See, e.g. , Bartmann v. Maverick Tube Corp. , 853 F.2d 1540, 1543 , (10th Cir.1988).
+The question of the sufficiency of a complaint is a question of law reviewed de novo .
+Morgan v. City of Rawlins , 792 F.2d 975, 978 (10th Cir.1986).
+In pertinent part, the Bankruptcy Code allows a trustee to avoid a transfer made to a creditor by the debtor if: (a) the transfer was made to or for the benefit of a creditor; (b) it was for or on account of an antecedent debt owed by the debtor before such transfer was made; (c) it was made while the debtor was insolvent; (d) it was made on or within the 90-day period prior to the filing of the bankruptcy petition; and (e) the transfer enabled the creditor to receive more than he would have otherwise received from the bankruptcy estate.
+11 U.S.C. 547(b) .
+The only issue in dispute here is whether the transfer by check occurred on or within the 90-day period prior to the filing of the petition.
+"What constitutes a 'transfer' under 547(b) and when it is complete is necessarily a federal question, since it arises under a federal statute designed to have uniform application " McKenzie v. Irving Trust Co. , 323 U.S. 365, 369-70 , 65 S.Ct. 405, 407-08 , 89 L.Ed. 305 (1945).
+The parties agree that any transfer taking place on or after November 20, 1985, falls within the 90-day preference period.
+I. THE DISTINCTION BETWEEN 547(b) AND 547(c) We previously held in another context that a transfer occurs on the date a check is delivered.
+Bernstein v. RJL Leasing (In re White River Corp.) , 799 F.2d 631, 633 (10th Cir.1986).
+In re White River applies to section 547(c)(2) , 1 the "ordinary course of business" exception to the preference provision.
+However, because the purpose and function of section 547(b) differ from those of section 547(c) , In re White River and the legislative history upon which it relies 2 do not govern here.
+See, e.g. , In re New York City Shoes, Inc. , 880 F.2d 679, 681 n. 2 (3d Cir.1989) (because purposes of sections 547(b) and 547(c) are completely different, definition of "transfer" need not be same for both sections); Newton Exploration Co. v. Fredman (In re Nucorp Energy, Inc.) , 92 B.R. 416, 417 (9th Cir.BAP 1988); Gold Coast Seed Co. v. Spokane Seed Co. (In re Gold Coast Seed Co.) , 30 B.R. 551, 553 (9th Cir.BAP 1983); Bonapfel v. LaSalle-Deitch Co. (In re All American of Ashburn, Inc.) , 95 B.R. 251, 252-53 (Bankr.N.D.Ga.1989); AMWC, Inc. v. General Elec. (In re AMWC, Inc.) , 94 B.R. 428, 432 (Bankr.N.D.Tex.1988); Laird v. Bartolameolli (In re Newman Cos.)
+, 83 B.R. 571, 572 (Bankr.E.D.Wis.1988); Chaitman v. Paisano Automotive Liquids, Inc. (In re Almarc Mfg., Inc.) , 62 B.R. 684, 687 (Bankr.N.D.Ill.1986); Lancaster v. Morristown Block & Concrete Products (In re Compton) , 55 B.R. 180, 182-83 (Bankr.E.D.Tenn.1985).
+See also 4 Collier on Bankruptcy ¶ 547.16 at 547-71 n. 27 (15th ed. 1990) (check not necessarily transferred at same time under subsections (b) and (c)(1) of section 547 ).
+The most important purpose of section 547(b) is to facilitate equal distribution of the debtor's assets among the creditors.
+H.R.Rep.
+No. 595, 95th Cong., 1st Sess.
+177-78, reprinted in 1978 U.S.Code Cong. & Admin.News 5963, 6138.
+To accomplish this purpose, Congress has created an arbitrary time period consisting of the 90 days immediately preceding the filing of the bankruptcy petition.
+11 U.S.C. 547(b)(4)(A) .
+Creditors who receive payments on pre-existing debts before this time period begins may keep those payments.
+However, creditors who receive payments on pre-existing debts within the 90-day period must disgorge those payments so that they may be shared equally with other creditors.
+In a preference action, "the contest is one between [the transferee] on the one hand, and all of the debtors' unsecured creditors on the other."
+Yellowhouse Machinery Co. v. Mack (In re Hughes) , 704 F.2d 820, 822 (5th Cir.1983).
+The general rules governing preferences are objective and technical.
+The intent or state of mind of the parties to a transfer is not material to the general question of whether that transfer is a preference.
+4 Collier on Bankruptcy, ¶ 547.01 at 547-12.
+The district court incorrectly reasoned that a date of delivery rule would effectuate the commercial expectations of the parties to the transfer.
+However, effectuating the commercial expectations of the parties is simply not a stated goal of the general preference provision, section 547(b) .
+Nor will protecting the expectations of the parties advance the goals of section 547(b) in any way.
+In re Nucorp , 92 B.R. at 418 .
+Rather, section 547(b) "is intended to promote the common good of all of an estate's creditors " In re Hughes , 704 F.2d at 822 (emphasis in original).
+The creditors who receive preferential payments are those who extended credit without structuring the transactions to protect themselves against possible bankruptcy.
+Payment on these debts usually is not made with an eye toward a possible bankruptcy filing 90 days in the future.
+Thus, the intent of the parties as to when the transfer is deemed completed is irrelevant.
+By contrast, the section 547(c) defenses carve out a group of exceptions to 547(b).
+The purpose of the section 547(c) defenses is to encourage trade creditors and other suppliers of goods and services to continue dealing with troubled businesses without fear of the trustee's avoidance powers.
+In re White River , 799 F.2d at 634 .
+In order to do this, it is important to protect the ordinary commercial expectations of the parties.
+For example, section 547(c)(1) prohibits the trustee from avoiding a transfer "intended by the debtor and the creditor to be a contemporaneous exchange for new value given to the debtor," and which is, in fact, substantially contemporaneous.
+The purchase of goods or services for cash falls within this exception.
+In this context, it is important to consider that most people view the giving of a check as a cash transaction.
+A date of delivery rule for a check given as a contemporaneous exchange for new value conforms to popular expectations and to the legislative history of this section quoted above.
+The legislative history makes clear, however, that this is an exception to the general rule: Normally, a check is a credit transaction H.R.Rep.
+No. 595, 95th Cong. 1st Sess.
+373, reprinted in 1978 U.S.Code Cong. & Admin.News 5963, 6329 (emphasis added).
+Similarly, section 547(c)(2) states that a trustee may not avoid a "payment of a debt incurred by the debtor in the ordinary course of business and made according to ordinary business terms."
+Under this section, a power company, for example, may continue to supply a financially troubled company on condition that the company continue to make regular and timely payments.
+In order to fit within this exception, a creditor must insist on "timeliness."
+The intent of a creditor as to when a transfer takes place should therefore be considered for purposes of this defense.
+It does not follow, however, that, because a date of delivery rule better serves the purposes of the section 547(c) defenses, such a rule should apply in all preference actions.
+Because, as we have discussed, a date of honor rule is consistent with the purposes of section 547(b) , and because a date of honor rule is more consistent with the Uniform Commercial Code and with judicial economy, we believe a date of honor rule should apply for purposes of section 547(b) .
+II.
+CONFORMITY WITH THE U.C.C.
+The legislative history of the Bankruptcy Code states that one purpose of the 1978 reforms was to make bankruptcy law generally more congruent with modern commercial practices, in particular the Uniform Commercial Code.
+H.R.
+No. 595, 95th Cong., 2d Sess.
+5, reprinted in 1978 U.S.Code Cong. & Admin.News 5963, 5966.
+Conformity with the Uniform Commercial Code was a particular goal of the revision of the preference provision.
+The legislative history states: Id. at 372 , U.S.Code Cong. & Admin.News at 6328.
+Furthermore, though the question of when a transfer is complete is a federal question, when there is no controlling federal statute "[t]he state standards which control the effectiveness of a transfer likewise determine the precise time when a transfer is deemed to have been made or perfected."
+McKenzie , 323 U.S. at 369-70 , 65 S.Ct. at 407-08 .
+While the legislative history indicates that, for purposes of the 547(c) defenses, Congress intended a transfer to be complete when a check is delivered, see In re White River , 799 F.2d at 633 ; Official Unsecured Creditors' Comm. of Belknap, Inc. (In re Belknap, Inc.) , 909 F.2d 879, 881-82 (6th Cir.1990), Congress has remained silent as to when a transfer occurs for 547(b) .
+Thus, we refer to the U.C.C., which has been virtually unanimously adopted by the states, when formulating our answer.
+The U.C.C.
+article governing commercial paper states in pertinent part, "A check or other draft does not of itself operate as an assignment of any funds in the hands of the drawee available for its payment, and the drawee is not liable on the instrument until he accepts it."
+U.C.C.
+3-409(1) , 2 U.L.A.
+176 (1968).
+3 Under this provision, no transfer of funds takes place when a check is given.
+Accord Klein v. Tabatchnick , 610 F.2d 1043, 1049 (2d Cir.1979) (check is merely request to drawee bank to pay funds to payee, not an assignment of funds); M. Bienenstock, Bankruptcy Reorganization 389 (1987) (uncertified check is not transfer of funds).
+As the Eleventh Circuit pointed out, until a check is actually accepted and paid by the drawee bank, another creditor could, for example, prevent the transfer by garnishing the bank account.
+Nicholson v. First Inv. Co. , 705 F.2d 410, 413 (11th Cir.1983).
+Likewise, a drawer could stop payment or have insufficient funds.
+The giving of a check does not ensure that a transfer will ever, in fact, be made.
+Thus, our holding that, for purposes of section 547(b) , a transfer does not occur until the drawee bank honors the check is consistent with the Uniform Commercial Code.
+III.
+EASE OF PROOF Finally, a date of honor rule is capable of easier proof than a date of delivery rule.
+The date of honor can usually be proven simply by producing a bank statement.
+By contrast, the date of delivery may not be documented.
+As in this case, the date of delivery may differ from the date of execution.
+A date of delivery rule will provide incentives to be untruthful about when delivery occurred.
+In reaching this holding, we differ with the Sixth Circuit, which recently adopted a date of delivery rule both for section 547(b) general preferences and the section 547(c) defenses.
+Official Unsecured Creditors' Committee of Belknap, Inc. v. Shaler Corp. (In re Belknap, Inc.) , 909 F.2d 879 (6th Cir.1990).
+The Sixth Circuit relied most heavily on the "simplicity" of having a uniform rule for all section 547 questions.
+Id. at 883 .
+However, because the date of honor is capable of much simpler proof, we believe that it serves the interests of judicial economy to use it whenever possible.
+In this manner, we need only require proof of the date of delivery when a section 547(c) defense is applicable.
+To date, the circuits have split evenly on this issue.
+Along with the Sixth Circuit, the Ninth Circuit has held that a date of delivery rule applies under section 547(b) .
+See Robert K. Morrow, Inc. v. Agri-Beef Co. (In re Kenitra, Inc.) , 797 F.2d 790, 791 (9th Cir.1986), cert. denied , 479 U.S. 1054 , 107 S.Ct. 928 , 93 L.Ed.2d 980 (1987).
+The Seventh and Eleventh Circuits have adopted a date of honor rule for section 547(b) .
+See Nicholson , 705 F.2d at 413 ; Fitzpatrick v. Philco Finance Corp. , 491 F.2d 1288, 1293 (7th Cir.1974).
+4 See also New York City Shoes , 880 F.2d at 681 n. 2 (suggesting in dictum that a date of honor rule should apply).
+By joining the Seventh and Eleventh Circuits in adopting a date of honor rule for section 547(b) , we also join the majority of bankruptcy and district courts which have decided this issue.
+See, e.g. , Chaitman v. Chicago Boiler Co. (In re Almarc Mfg., Inc.) , 52 B.R. 582, 583-84 (Bankr.N.D.Ill.1985); Kelley v. Citizens & Southern Nat'l Bank (In re Adams) , 102 B.R. 271, 273-74 (Bankr.M.D.Ga.1989); Putney v. Barnett Bank of Central Fla. (In re W & T Enters., Inc.) , 84 B.R. 838, 839 (Bankr.M.D.Fla.1988); In re All American of Ashburn , 95 B.R. at 252 ; In re AMWC , 94 B.R. at 432 ; In re Newman , 83 B.R. at 573 ; Cimmaron Oil Co. v. Schlumberger Well Services, Inc. (In re Cimmaron Oil Co., Inc.) , 88 B.R. 103, 104-05 (N.D.Tex.1987); Tolz v. Double Envelope Corp. (In re Sunup/Sundown, Inc.) , 65 B.R. 696, 697 (Bankr.S.D.Fla.1986); In re Compton , 55 B.R. at 182 ; LaBarge v. Tubular Steel, Inc. (In re Midwest Boiler & Erectors, Inc.) , 54 B.R. 793 (Bankr.E.D.Mo.1985); Remes v. Acme Carton Corp. (In re Fasano/Harriss Pie Co.) , 43 B.R. 871 (Bankr.W.D.Mich.1984), aff'd 71 B.R. 287 (W.D.Mich.1987); In re Video East, Inc. , 33 B.R. 61, 62-63 (Bankr.E.D.Pa.1983).
+IV.
+CONCLUSION Because we conclude that the transfer at issue here occurred when the check was honored by the drawee bank and was thus within the 90-day voidable preference period, we REVERSE the district court and hold that the trustee may avoid the transfer.
+The trustee attempted to amend his complaint to allege the three discrete dates of the transaction at issue.
+The bankruptcy court denied the motion to amend.
+The district court affirmed this denial because, having held that the transfer occurred upon delivery, any amendment of the complaint would have been futile.
+In re Antweil , 111 B.R. at 342 .
+Because of our disposition of this case, we also REVERSE the denial of the trustee's motion to amend.
+The judgment of the United States District Court for the District of New Mexico is REVERSED, and this case is REMANDED for proceedings consistent with this opinion.

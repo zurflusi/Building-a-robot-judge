@@ -1,0 +1,63 @@
+ EMILIO M. GARZA, Circuit Judge: EC Term of Years Trust ("the Trust") appeals from the district court's dismissal of its refund claim under 28 U.S.C. 1346 .
+The district court held that because the Trust's sole and exclusive remedy lay in a wrongful levy action under 26 U.S.C. 7426 , the Trust's refund claim must be dismissed for lack of subject matter jurisdiction.
+Appellant now argues that the district court erred when it determined that 7426 was the exclusive remedy available to the Trust.
+After assessing federal income taxes, penalties, and interest against Elmer and Dorothy Cullers, the Trust's creators, the Internal Revenue Service ("IRS") filed transferee tax liens against the Trust for the Cullers's tax liability.
+Ultimately, the IRS seized the total amount owed from an account created by the Trust for the purpose of dispatching the Cullers' debt.
+The Trust then sought to recover the funds under 26 U.S.C. 7426 (a)(1) [fn1] and 28 U.S.C. 1346 (a)(1).
+[fn2] Because the Trust brought suit after the statute of limitations had run on the wrongful levy action under 7426 , see 26 U.S.C. 6532 (c)(1) (providing a 9 month statute of limitations for suits brought under 7426 ), the district court dismissed that claim for lack of subject matter jurisdiction.
+[fn3] The Trust then brought suit a second time, again seeking a refund under 1346(a)(1) .
+After determining that the earlier decision had not been a decision on the merits for the purposes of res judicata, the district court directly addressed the question of whether a wrongful levy claim under 7426 remained the "sole and exclusive" remedy for third parties such as the Trust in light of the Supreme Court's decision in United States v. Williams, 514 U.S. 527 , 115 S.Ct. 1611 , 131 L.Ed.2d 608 (1995), which allowed a third party who had removed a lien on her property by paying the tax liability of another individual to bring a refund action under 1346(a)(1) .
+In a well-reasoned opinion, the district court distinguished Williams and held that a wrongful levy action remained the exclusive remedy for the Trust and dismissed the Trust's complaint for lack of subject matter jurisdiction.
+The Trust now appeals.
+We review a dismissal for lack of subject matter jurisdiction de novo.
+Bank One Texas, 157 F.3d at 403 .
+This appeal presents the straightforward question of whether a wrongful levy action under 7426 is the "exclusive remedy for an innocent third party whose property is confiscated by the IRS to satisfy another person's tax liability."
+See Tex.
+Commerce Bank, 896 F.2d at 156 .
+This court historically has held that if 7426 is available to an individual, then it is his sole and exclusive remedy.
+See id .
+; United Sand and Gravel Contractors, 624 F.2d at 739 ("When someone other than the taxpayer claims an interest in property or rights to property which the United States has levied upon, his exclusive remedy against the United States is a wrongful levy action under I. R.C.
+7426 .
+"); see also Oxford Capital Corp. v. United States, 211 F.3d 280 , 289 (5th Cir. 2000) (Dennis, J., concurring) ("[A] wrongful levy action under section 7426 is the exclusive remedy of a third person whose property has been seized without probable cause of a nexus between the property and the tax debtor.").
+7426 reflects the government's strong interest in resolving "doubts concerning the status of the taxpayer's account swiftly."
+United Sand and Gravel Contractors, 624 F.2d at 739 .
+The short statute of limitations governing claims under 7426 allows for the expeditious resolution of tax liability.
+See Gordon v. United States, 227 Ct.Cl.
+328 , 649 F.2d 837 , 844 (1981) (reviewing the legislative history of the nine month statute of limitations under 6532(c) ).
+Appellant now argues that the Supreme Court's decision in Williams has altered the landscape of recovery actions against the IRS and allows litigants to bring a refund action under 1346 , even if 7426 was available to them.
+In Williams, the Supreme Court held that 1346 authorized a refund suit by a third party who had paid a tax under protest to remove a federal tax lien from her property.
+514 U.S. at 529 , 115 S.Ct. 1611 .
+The Court parsed the language of 1346 and determined that the "provision does not say that only the person assessed may sue," and thus did not speak directly to the issue of whether a third party could bring suit under 1346 .
+Id. at 531, 115 S.Ct. 1611 (emphasis added).
+Ultimately, the Court determined that Williams had standing to sue under 1346 .
+Id. at 540, 115 S.Ct. 1611 .
+We disagree with appellants that Williams must be read to allow litigants who could bring suit under 7426 also to bring suit under 1346 .
+The Williams decision does not suggest that a refund action under 1346 is available in addition to a wrongful levy action under 7426 .
+The Supreme Court specifically noted that Williams could not have brought a claim under 7426 , and would have wholly lacked a remedy in the absence of a claim under 1346 .
+Williams, 514 U.S. at 536 , 115 S.Ct. 1611 .
+Indeed, the Court noted that by authorizing " some third-party suits .
+.
+.
+the levy .
+.
+.
+remed[y does not] become superfluous."
+Id. at 538 , 115 S.Ct. 1611 (emphasis added).
+The Williams opinion can fairly be read to apply when a remedy under 7426 is unavailable, a situation that does not exist in the instant case. To construe Williams to allow an alternative remedy under 1346 , with its longer statute of limitations period, see 26 U.S.C. 6511 (a), 6532 (a)(1), would undermine the surety provided by the clear avenue to recovery under 7426 .
+In the wake of Williams, several of our sister circuits have maintained that 7426 is the exclusive remedy for third party wrongful levy claims.
+See Dahn v. United States, 127 F.3d 1249 , 1253 (10th Cir. 1997) (holding that Williams did not "overturn, sub silentio, the separate and well-established principle that 7426 provides the exclusive remedy for a wrongful levy"); see also Becton Dickinson & Co. v. Wolckenhauer, 215 F.3d 340 , 352 (3d Cir. 2000) (discussing the exclusivity of the remedy available to third parties for wrongful levies under 7426 ); Miller v. Tony and Susan Alamo Found., 134 F.3d 910 , 916 (8th Cir. 1998) (" Section 7426(a)(1) is the exclusive remedy of third parties who seek to assert claims on IRS-levied property.
+"); Audio Investments v. Robertson, 67 Fed. Appx.
+795 , 797 (4th Cir. 2003) (per curiam) (unpublished) ("An action for wrongful levy under [ 7426 ] is the exclusive means for challenging a levy on property that `does not .
+.
+.
+belong to the taxpayer against whom the levy originated.'").
+The only exception is the Ninth Circuit, which has permitted third parties whose bank accounts were levied to bring refund actions under 1346 .
+See WWSM Investors v. United States, 64 F.3d 456 , 458-59 (9th Cir. 1995).
+But see Fidelity & Deposit Co. of Maryland v. City of Adelanto, 87 F.3d 334 , 335 (9th Cir. 1996) (holding that "where suit is by a nontaxpayer third party and 7426(a)(1) applies, and the alternative basis proffered for waiver of sovereign immunity is an action to quiet title under 2410(a)(1) .
+.
+.
+7426 is the exclusive remedy.").
+We conclude that the Supreme Court's decision in Williams does not alter our long-standing rule regarding the exclusivity of the remedy available under 7426 .
+See United Sand and Gravel Contractors, 624 F.2d at 739 .
+Therefore, we follow our prior holdings that when 7426 is available to an individual, then it is his sole and exclusive remedy.
+Accordingly, we AFFIRM the district court's decision to dismiss for lack of subject matter jurisdiction.

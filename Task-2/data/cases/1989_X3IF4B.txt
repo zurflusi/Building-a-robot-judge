@@ -1,0 +1,116 @@
+ BALDOCK , Circuit Judge.
+The Secretary of Labor (Secretary) appeals from a decision of the Occupational Safety and Health Review Commission (Commission) vacating a citation charging CF & I Steel Corporation (CF & I) with willfully violating 29 C.F.R. 1910.1029(g)(3) .
+That regulation governs employee exposure to coke oven emissions.
+The Secretary argues that CF & I violated the Occupational Safety and Health Act (OSHA) by failing to utilize atmospheric testing, as envisioned by OSHA regulations, to insure that respirators worn by its employees fit properly.
+The Secretary further contends that her interpretation of OSHA regulations is entitled to deference.
+In contrast, CF & I favors the Commission's interpretation of OSHA regulations, which holds that atmospheric testing is not required to insure respirator fit, and contends that the Commission's interpretation is entitled to deference.
+Our jurisdiction arises under 29 U.S.C. 660(b) .
+We hold that, in the face of conflicting regulatory interpretations, deference is properly accorded to the interpretation of the Commission.
+Finding the Commission's interpretation of coke oven respiratory regulations to be reasonable, we affirm.
+I. CF & I operated a steel plant near Pueblo, Colorado.
+As part of its steel-making operation, the company produced coke, a coal derivative, to fuel its blast furnaces.
+Coke production creates carcinogenic vapors which are dangerous to workers' health.
+Acting pursuant to OSHA, the Secretary promulgated regulations setting the maximum allowable emissions for coke ovens and mandating the use of respirators whenever that level was exceeded.
+See generally 29 C.F.R. 1910.1029 .
+These regulations were upheld following a challenge by CF & I and other coke producers.
+See American Iron & Steel Inst. v. OSHA , 577 F.2d 825 (3d Cir.1978), cert. dismissed , 448 U.S. 917 , 101 S.Ct. 38 , 65 L.Ed.2d 1180 (1980).
+In order to perform their protective function, respirators must be fitted properly on each employee.
+Although there are several ways to test a respirator for proper fit, two methods are relevant to this case: 1) positive/negative pressure testing whereby the employee places the respirator on his face, inhales or exhales, and checks for any leakage of air along the seal; and, 2) atmospheric testing in which the employee wears a respirator in a room filled with noxious vapors, commonly known as "banana oil" vapors, and tries to detect the odor.
+CF & I conducted a training program in respirator usage for its coke oven employees.
+A training film was produced and shown instructing employees how to perform the positive/negative pressure test.
+CF & I also conducted atmospheric testing for its employees, twenty-eight of whom detected the odor of banana oil.
+CF & I allowed these twenty-eight employees to return to work with the same respirator.
+The Secretary cited CF & I for failing to equip the twenty-eight employees who detected banana oil with respirators that fit.
+The ALJ affirmed the citation and, finding CF & I a willful violator, fined the corporation $10,000.
+On appeal, the Commission reversed the ALJ, holding that 29 C.F.R. 1910.1029(g)(3) only enunciates a training standard for respirator usage, not a testing standard for respirator fit.
+II.
+A. Normally, an administrative agency's interpretation of a statute is entitled to considerable deference and should be disturbed only if unreasonable.
+See Chapman v. Department of Health & Human Serv. , 821 F.2d 523, 527 (10th Cir.1987).
+Such deference is particularly appropriate where an agency interprets its own administrative regulations.
+See Edwards v. Califano , 619 F.2d 865, 868 (10th Cir.1980).
+Even when two equally reasonable interpretations are present, the reviewing court must defer to the interpretive choice of the administrative agency.
+Brennan v. OSHRC & Kesler , 513 F.2d 553, 554 (10th Cir.1975) ( Kesler ).
+In the instant case, the Secretary and Commission disagree over the proper interpretation of 29 C.F.R. 1910.1029(g)(3) .
+The Secretary contends that the regulation requires atmospheric testing to assure that each employee is properly fitted with a respirator while the Commission interprets the regulation as requiring atmospheric testing only in the course of training employees on the proper application of respirators.
+The question therefore arises: When the Secretary and Commission disagree over the interpretation of an OSHA regulation, which view prevails, i.e. , to whom is deference owed?
+Whether judicial deference under OSHA is accorded to the regulatory interpretations of the Secretary or the Commission is an issue upon which the federal circuits are split.
+The First, Fifth, and Seventh Circuits defer to the Secretary.
+See United Steelworkers of Am. v. Schuylkill Metals Corp. , 828 F.2d 314, 319-20 (5th Cir.1987); Brock v. Chicago Zoological Soc'y , 820 F.2d 909, 912 (7th Cir.1987); Donovan v. A. Amorello & Sons , 761 F.2d 61, 64-66 (1st Cir.1985).
+See also Brock v. Cathedral Bluffs Oil Co. , 796 F.2d 533, 537, 537 n. 2 (D.C.Cir.1986) (deferring to Secretary over Federal Mine Safety and Health Review Commission in case brought under Federal Coal Mine Safety and Health Act).
+In contrast, the Second, Fourth, Sixth, Eighth and Ninth Circuits defer to the Commission.
+See Brock v. Bechtel Power Corp. , 803 F.2d 999, 1000-01 (9th Cir.1986); Usery v. Hermitage Concrete Pipe Co. , 584 F.2d 127, 132 (6th Cir.1978); Marshall v. Western Electric , 565 F.2d 240, 244 (2d Cir.1977); Brennan v. OSHRC , 513 F.2d 713, 715-16 (8th Cir.1975); Brennan v. Gilles & Cotting, Inc. , 504 F.2d 1255, 1261-62 (4th Cir.1974).
+The Secretary cites our decision in Kesler , 513 F.2d at 553 , for the proposition that this circuit defers to the Secretary's regulatory interpretation over that of the Commission.
+In Kesler , we were faced with a dispute between the Secretary and Commission over the effective date of an abatement order under OSHA and concluded that the Secretary's regulatory interpretation was proper.
+Id. at 558 .
+However, contrary to the arguments advanced by the Secretary in the instant case, this court in Kesler did not reach its conclusion merely by adopting the Secretary's reasonable interpretation; we considered the respective views of the Secretary and Commission and found the Commission's interpretation unsupported by the regulatory language.
+The result of Kesler should not be mistaken as an endorsement of an approach which always defers to the Secretary over the Commission.
+For in the subsequent case of Marshall v. Cities Serv. Oil Co. , 577 F.2d 126, 131 (10th Cir.1978), we adopted the legal conclusions of the Commission over those proposed by the Secretary.
+Thus, the question of whether, in the face of conflicting regulatory interpretations, deference properly is accorded to the Secretary or Commission has not been addressed in this circuit.
+B. Statutory authorization for the Occupational Safety and Health Review Commission is provided in 29 U.S.C. 661 .
+Composed of persons specially qualified "by reason of training, education, or experience," 29 U.S.C. 661(a) , the Commission serves in an adjudicative capacity whenever an employer elects to challenge a citation issued by the Secretary.
+29 U.S.C. 659(c) .
+However, as evidenced by the split within the federal circuits, whether the Commission or Secretary is empowered with final interpretive authority over OSHA regulations remains unclear from the statutory language.
+We therefore consult the legislative history behind the Commission as a "secondary source" to help us determine the Commission's statutory powers vis-a-vis the Secretary.
+See Miller v. Commissioner , 836 F.2d 1274, 1282-84 (10th Cir.1988) (reliance on legislative history is more justifiable where statute is unclear and legislative history is consulted with specific question in mind).
+Because the legislative history concerning the Commission's enactment is relatively uniform and clear, such history provides a reliable indicator of Congressional intent and should be accorded weight by this court.
+See id. at 1282 .
+When first proposed, the Occupational Safety and Health Act vested the power to adjudicate alleged safety violations with the Secretary.
+See S. 2193, 91st Cong., 1st Sess.
+6 (1969), reprinted in Senate Comm. on Labor and Public Welfare, 92d Cong., 1st Sess., Legislative History of the Occupational Safety and Health Act of 1970 , at 11-13 (1971) ( Legislative History ).
+However, in response to business concerns that combining prosecutorial and adjudicative authority in the Secretary would produce decisions biased against employers, Congress created the Commission by adopting a floor amendment which withdrew adjudicative authority from the Secretary.
+See id. at 463-64 .
+Congress envisioned the Commission as an autonomous, independent and quasi-judicial body.
+Id. at 462 , 465.
+Subsequent judicial interpretation has emphasized that the prosecutorial power vested in the Secretary remains separate and distinct from the adjudicative power vested in the Commission.
+See, e.g. , Cuyahoga Valley Ry. v. United Transp. Union , 474 U.S. 3, 7 , 106 S.Ct. 286, 288 , 88 L.Ed.2d 2 (1985) (per curiam) (Commission's review of Secretary's decision to dismiss citation constituted an improper encroachment upon the Secretary's prosecutorial prerogative).
+Congress sought to endow the Commission with the normal complement of adjudicative powers possessed by traditional administrative agencies.
+Legislative History at 462, 465; Gilles & Cotting , 504 F.2d at 1262 .
+Such an adjudicative function necessarily encompasses the power to "declare" the law.
+Id. at 1261-62 .
+Accordingly, where the Secretary has failed to convey the meaning of an OSHA regulation to those charged with construing it, and where the Commission has given the regulation an interpretation well within the plain meaning of the terms of the regulation, we will defer to the interpretation of the Commission.
+See Brennan v. OSHRC , 513 F.2d at 715-16 .
+If the Secretary believes that the Commission has interpreted a regulation in a manner inconsistent with OSHA's goals, it may be necessary to amend or clarify that regulation.
+See id. at 716 .
+Two circuits rely upon a footnote in Potomac Electric Power Co. v. Director, OWCP , 449 U.S. 268, 278 n. 18, 101 S.Ct. 509, 514 n. 18, 66 L.Ed.2d 446 (1980), for the proposition that the Commission's interpretations are not entitled to deference because the Commission is only charged with adjudication.
+Schuylkill , 828 F.2d at 319 ; Chicago Zoological , 820 F.2d at 912 .
+Potomac Electric involved an injured worker's claim for benefits under the Longshoremen's and Harbor Workers' Compensation Act.
+33 U.S.C. 901-950 .
+The ALJ and the Benefits Review Board departed from the settled construction of the Act and determined that the injured claimant was entitled to an ongoing recovery.
+Potomac Electric , 449 U.S. at 272 , 101 S.Ct. at 511 .
+The Supreme Court held that the Board's interpretation contravened the plain language of the Act, its legislative history and all prior decisional authority and consequently reversed the D.C.
+Circuit's decision upholding the Board's interpretation.
+Id. at 279-80 , 101 S.Ct. at 515 .
+Included in footnote 18 of the Court's opinion was the following dicta: "It should also be noted that the Benefits Review Board is not a policymaking agency; its interpretation of the IHWCA thus is not entitled to any special deference from the courts."
+Id. at 278 n. 18, 101 S.Ct. at 514 n. 18.
+This language makes specific reference to the Benefits Review Board created under the Longshoremen's Compensation Act; it would be presumptuous for us to extend the Supreme Court's language outside the context in which it arose.
+Moreover, the structural, historical and theoretical differences between the Review Board and the Commission further distinguishes this case from Potomac Electric .
+The Longshoremen's Compensation Act mandates nonaccusatory adjudication of injured workers' claims whereas OSHA requires accusatory proceedings that may result in substantial penalties.
+While the Commission resulted from Congressional concern that the prosecutorial and adjudicative functions not be vested in one governmental entity, no such concerns are implicated by the Longshoremen's Compensation Act where the prosecutorial function is carried out by a private citizen.
+The need for a strict separation of prosecutorial and adjudicative functions is therefore far more acute in the case of OSHA than under the Longshoremen's Compensation Act.
+Compare Potomac Electric , 449 U.S. at 278 n. 18, 101 S.Ct. at 514 n. 18 (no deference to adjudicative agency in action brought by claimant under Longshoremen's Compensation Act) with Cuyahoga Valley , 474 U.S. at 7 , 106 S.Ct. at 288 (Secretary's prosecutorial function under OSHA must remain separate and distinct from Commission's adjudicative role).
+See generally Asimow, When the Curtain Falls: Separation of Functions in the Federal Administrative Agencies , 81 Colum.L.Rev.
+759 , 803 (1981).
+Although we hold that, under OSHA, deference is properly accorded to the regulatory interpretations of the Commission, we recognize that another result may prevail under a different statutory framework.
+We further stress that our holding not be construed as a carte blanche for the Commission to overturn settled regulatory interpretations of the Secretary.
+The Secretary's unique policy and rulemaking role requires that her regulatory interpretations be accorded substantial weight by the Commission and contravened only if clearly wrong or in the presence of genuine ambiguity.
+Because we find the regulations in the instant case to be ambiguous, we defer to the interpretation enunciated by the Commission, insofar as it is reasonable.
+III.
+Employee exposure to coke oven emissions is governed by 29 C.F.R. 1910.1029 .
+Generally, compliance with permissible exposure limits may not be achieved by the use of respirators except in limited cases where abatement is not technologically feasible.
+29 C.F.R. 1910.1029(g)(1) .
+Where respirators are necessary, however, the employer shall select, provide and assure the use of the appropriate respirator based upon the airborne concentration of coke oven emissions.
+Id .
+With respect to training and testing of respirators, OSHA regulations provide in pertinent part: Respirator program 1910.134 Respirator usage 29 C.F.R. 1910.1029(g)(3) , (4).
+The incorporated 1910.134 , entitled "Respiratory Protection," contains general regulations governing respirator use in all industries and includes a discussion of atmospheric testing: instructed instructed Training 29 C.F.R. 1910.134(e)(5) (emphasis supplied).
+The Secretary argues that the incorporation of 1910.134 into 1910.1029(g) (3) mandates atmospheric testing to insure the proper fit of each employee's respirator.
+Conversely, the Commission held that 1910.134(e) (5) is merely a training standard only applicable when teaching employees how to apply their respirators, not a testing standard to insure proper fit.
+Safety legislation is to be liberally construed to effectuate the congressional purpose of improving health and safety in the workplace.
+Whirlpool Corp. v. Marshall , 445 U.S. 1 , 13, 100 S.Ct. 883, 891 , 63 L.Ed.2d 154 (1980).
+Moreover, OSHA regulations provide that general standards supplement specific ones by filling those gaps remaining after the promulgation of specific standards.
+Texas E. Prod. Pipeline Co. v. OSHRC , 827 F.2d 46, 49 (7th Cir.1987); 29 C.F.R. 1910.5(c) .
+Nevertheless, it cannot be said that the Commission's interpretation of 1910.1029(g) (3) in this case was unreasonable.
+The plain wording of the incorporated 1910.134(e) (5) prescribes that atmospheric testing is mandated in the "training" of employees.
+The Commission therefore concluded reasonably that CF & I was not required to utilize ongoing atmospheric testing to insure the proper fit of each employee's respirator.
+While it is certainly possible to reach an alternate interpretation of the ambiguous regulatory language contained in 29 C.F.R. 1910.1029 , we defer to the interpretation chosen by the Commission.
+If the Secretary maintains that a different result should prevail under OSHA, she should amend or clarify these regulations through the rulemaking process.
+AFFIRMED.

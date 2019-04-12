@@ -1,0 +1,351 @@
+ FISHER, Circuit Judge: This case requires us to determine which federal statute governs "a maritime case about a train wreck," where the parties' agreement for carriage of goods from China into the United States by sea and then by rail included a Tokyo forum selection clause that would violate one federal law, but would be enforceable under another.
+See Norfolk S. Ry. Co. v. Kirby , 543 U.S. 14 , 18 , 125 S.Ct. 385 , 160 L.Ed.2d 283 (2004).
+Regal-Beloit and several other named plaintiffs contracted with defendant Kawasaki Kisen Kaisha, Ltd. ("K-line") to ship their goods from China to various American Midwestern destinations via the Port of Long Beach in California.
+[fn1] K-line issued a through bill of lading to each shipper to cover the shipment from China all the way to the inland destinations, designating the Carriage of Goods by Sea Act as the law to govern the carriers' responsibility during the entire shipment.
+Although K-line's own ocean liner carried the goods from China to Long Beach, its United States agent, K-line America ("KAM"), subcontracted with United Pacific Railroad Company ("UPRR") to transport these goods from Long Beach to the inland destinations.
+K-line is KAM's corporate parent, handling its domestic business dealings through KAM, including dispatching and receiving vessels and negotiating its inland shipping with domestic carriers like UPRR.
+Plaintiffs' cargo was allegedly damaged when UPRR's train derailed in Oklahoma.
+Plaintiffs filed a breach of contract suit against Defendants in California Superior Court.
+After UPRR removed the case to the district court, K-line and KAM moved to dismiss under the Tokyo forum selection clause in K-line's initial agreement with Plaintiffs.
+The district court granted the motion to dismiss, determining that the parties successfully avoided the strict venue limitations that apply by default to the rail portions of these shipments as a matter of [**2] federal law under the Carmack Amendment.
+The dismissal provides us jurisdiction under 28 U.S.C. 1291 .
+The outcome of this case turns on the answers to two questions, the first being which statutory framework should apply: the Carmack Amendment ("Carmack"), which provides the default rules governing the inland rail leg of a shipment between a foreign country and a point in the United States, or the Carriage of Goods by Sea Act ("COGSA"), which is what the parties contractually agreed would govern?
+[fn2] A reasonable forum selection clause typically is enforceable under COGSA, but such a clause is valid under Carmack only if the parties fulfill one of Carmack's two statutory methods for contracting out of the statute's venue restrictions.
+Applying this circuit's precedent dictates that contractually extending COGSA to the inland rail leg cannot trump the statutory force of Carmack's default responsibility regime unless the parties properly agree to opt out of Carmack and thereby remove the statutory barrier to choosing COGSA as the governing law.
+We therefore reach a second question: which of Carmack's two statutory opt out provisions applies to a contract for rail service that, like the contract here, has been exempted from regulation by the Surface Transportation Board?
+Unlike the district court, we conclude that the applicable requirements for opting out of Carmack are found in 49 U.S.C. 10502 , instead of 10709 .
+We thus reverse and remand to the district court to determine whether the parties contracted out of Carmack's venue restrictions under 10502 so as to make the Tokyo forum selection clause valid and enforceable.
+BACKGROUND To ship their goods, Plaintiffs each entered into an intermodal through bill of lading with K-line that covered the entire transport from China to the Midwest.
+[fn3] In pertinent part, the bills of lading included the following provisions: 1.
+( Definitions & Tariff ) .
+.
+.
+(b) `Carrier' means [K-line], her owners, operators and charterers whether acting as carrier or bailee.
+.
+.
+.
+(d) `Connecting Carrier' means carriers (other than Carrier), contracted by or acting on behalf of Carrier, participating in Carriage of Goods by land, water or air under this Bill of Lading.
+.
+.
+.
+(J) `Vessel' includes the vessel named on the face hereof, any vessel, lighter, barge, ship, watercraft or any other means of water transport and any other vessel owned, operated, chartered or employed (in whole or in part) by Carrier or any Connecting Carrier and used in whole or in part for carriage of Goods under this Bill of Lading.
+2.
+(Governing Law and Jurisdiction) The contract evidenced by or contained in this Bill of Lading shall be governed by Japanese law except as may be otherwise provided for herein, and any action thereunder or in connection with Carriage of Goods shall be brought before the Tokyo District Court in Japan, to whose jurisdiction Merchant irrevocably consents.
+.
+.
+.
+.
+4.
+(Responsibility for Shipments To, From or Through U.S.
+Territories) (1) With respect to Goods shipped to, from, or through U.S.
+Territories, Carrier's responsibilities during the entire period (and not just [**3] during Water Carriage) from the time of receipt of Goods to the time of delivery of Goods shall be governed by [COGSA] and [COGSA] shall be deemed incorporated herein during the entire aforesaid period.
+.
+.
+.
+[fn4] 5.
+(Sub-Contracting: Exemptions, Immunities, Limitations, etc. of Participant(s)) (1) Carrier shall be entitled to subcontract on any terms whatsoever Carriage, including without limitation, the loading, unloading, storing, warehousing, handling and any and all duties whatsoever undertaken by Carrier in relation to Goods by any of the following: (I) any Connecting Carrier.
+.
+.
+.
+(2) .
+.
+.
+[E]very such vessel and Such Participants) shall have the benefit of all provisions herein benefiting [sic] Carrier as if such provisions were expressly for their benefit; and, in entering into this contract, Carrier, to the extent of those provisions, does so not only on its own behalf, but also as agent and trustee for such vessel and Participant(s).
+[fn5] K-line's ocean carriers shipped the cargo from China to Long Beach.
+From there, the cargo was transferred to UPRR, with whom KAM had contracted to transport the cargo from the Port of Long Beach to the various inland destinations.
+This agreement was memorialized in the Exempt Rail Transportation Agreement ("ERTA"), which explicitly stated that "[l]iability for freight loss and damage to lading while under the control of [UPRR] shall be governed by MITA [the Master Intermodal Transportation Agreement]."
+The MITA provided that the MITA plus any bills of lading constituted the entire contract between the parties, and included its own forum selection clause that stated that "[a]II lawsuits for freight loss or damage must be filed in a court of competent jurisdiction in Omaha, Douglas County, Nebraska."
+The MITA also (1) prohibited the interpretation of its terms under foreign law; (2) explicitly provided that "[t]his MITA and any agreements, price documents or contracts that reference this MITA have been made under 49 U.S.C. 10709 "; and (3) expressly established that "Carmack liability coverage is not available for any Shipments that originate outside the borders of the United States of America."
+Unfortunately, the UPRR train carrying the aforementioned cargo derailed in Tyrone, Oklahoma.
+Based on the alleged damage to the cargo, Plaintiffs filed suits against Defendants in Los Angeles County Superior Court.
+UPRR removed the cases to the Federal District Court for the Central District of California.
+Once the cases were removed, Defendants moved to dismiss the actions, relying on the Tokyo forum selection clause in the bills of lading.
+The district court granted their motion.
+See Regal-Beloit Corp. v. Kawasaki Kisen Kaisha, Ltd. , 462 F.Supp.2d 1098 , 1105 (C.D.Cal.
+2006).
+The district court concluded that the Tokyo forum selection clause was reasonable, and that KAM and UPRR could enjoy its benefits under the Himalaya Clause.
+See id. at 1102-03 .
+It went on to determine that Carmack's venue restrictions applied neither to the overseas leg of the cargo shipment, which were instead governed by COGSA, nor to the inland leg of the cargo shipment.
+See id. at 1103-04 .
+With respect to the [**4] inland leg, the district court explained that although this transport would typically be subject to Carmack's restrictions, here the parties entered into the bills of lading under 49 U.S.C. 10709 , thereby enabling the parties to contract out of the Carmack Amendment's terms.
+See id .
+We disagree.
+Under our case law, Carmack — not COGSA — must govern Defendants' liability for the inland rail transport here.
+Therefore, Tokyo is an acceptable forum under the provisions of Carmack only if the parties satisfied the applicable requirements under either 10709 or 10502 for contracting out of Carmack's default venue restrictions.
+As we explain below, a careful reading of Carmack reveals that 10709 does not govern the kind of carriage at issue in this case and the district court therefore erred by applying that section instead of 10502 .
+Accordingly, we reverse and remand so the district court can determine in the first instance whether the parties complied with 10502 .
+STANDARD OF REVIEW We reject Defendants' argument that we must apply the abuse of discretion standard of review, which applies only to a district court's factual finding regarding a forum selection clause's reasonableness.
+See Kukje Hwajae Ins. Co. v. The "M/V HYUNDAI LIBERTY ," 408 F.3d 1250 , 1254 (9th Cir. 2005).
+Here, the parties concede that the forum selection clause is reasonable.
+Instead, the dispute turns on which statutory law applies and whether this body of law voids the forum selection clause regardless of its reasonableness.
+We review these issues of statutory interpretation de novo.
+See Chateau des Charmes Wines Ltd. v. Sabate USA Inc. , 328 F.3d 528 , 530 (9th Cir. 2003); Richards v. Lloyd's of London , 135 F.3d 1289 , 1292 (9th Cir. 1998) (en banc).
+DISCUSSION I. Statutory Provisions Because of their centrality to our analysis, we summarize the relevant provisions of Carmack and COGSA before turning to the question of which statute applies here.
+Congress added the Carmack Amendment to the Interstate Commerce Act in 1906.
+Carmack, which governs rail and motor carriers that are under the jurisdiction of the Surface Transportation Board ("the Board," previously referred to as the Interstate Commerce Committee, or "the ICC"), narrowly limits the venues in which a claim against carriers under the Board's jurisdiction may be brought.
+Carmack dictates that: [a] civil action under this section may only be brought (i) against the originating rail carrier, in the judicial district in which the point of origin is located; (ii) against the delivering rail carrier, in the judicial district in which the principal place of business of the person bringing the action is located if the delivering carrier operates a railroad or a route through such judicial district, or in the judicial district in which the point of destination is located; and (iii) against the carrier alleged to have caused the loss or damage, in the judicial district in which such loss or damage is alleged to have occurred.
+49 U.S.C. 11706 (d)(2)(A).
+A "judicial district" is defined as "a judicial district of the United States" or "the applicable geographic area over which [a state] court exercises jurisdiction."
+49 U.S.C. 11706 (d)(2)( [**5] B).
+Given these restrictions, forum selection clauses are generally forbidden under Carmack.
+Notably, however, Congress has since added a series of provisions designed to deregulate aspects of the railroad industry.
+See Tokio Marine & Fire Ins. Co. v. Amato Motors, Inc. , 996 F.2d 874 , 877 (7th Cir. 1993).
+Collectively referred to as the Staggers Rail Act, these provisions establish two mechanisms by which rail and motor carriers can contract out of Carmack's restrictions if they satisfy the applicable statutory requirements.
+See 49 U.S.C. 10502 (a), 10502 (e), 10709 (a), 10709 (c)(1).
+By its terms, COGSA covers transport only between a foreign and American port "from the time when the goods are loaded on to the time when they are discharged from the ship" — commonly referred to as "tackle-to-tackle."
+46 U.S.C. 30701 Notes Sec. 1(e).
+COGSA does, however, explicitly authorize sea carriers and shippers to extend its rules contractually to cover inland transportation or transportation between two American ports.
+See 46 U.S.C. 30701 Notes Sec. 7, 13.
+Unlike Carmack, COGSA does not include any venue restrictions that would prohibit the enforcement of a forum selection clause.
+II.
+The Carmack Amendment vs.
+COGSA It is undisputed that the responsibility clauses in the bills of lading purport to extend the application of COGSA to the entire period of transport, and that the Himalaya Clause extends the full benefits of the bills of lading to all of the carrier's subcontractors "as if such provisions were expressly for their benefit."
+Nevertheless, Plaintiffs argue that Carmack's venue restrictions should still govern because Carmack's statutory force "trumps" the parties' attempt to contractually extend COGSA.
+[fn6] Defendants respond that Carmack cannot apply to the inland rail carriage because the entire shipment was governed by through bills of lading, whereas a separate domestic bill of lading is necessary for Carmack to apply to inland transport.
+In the alternative, Defendants assert that even if the Carmack Amendment could apply in the absence of a separate bill of lading for the domestic carriage, in this case COGSA should govern in light of the parties' express agreement to extend COGSA's provisions to all subcontractors, as reflected in the bills of lading.
+Defendants fairly argue that policies recently endorsed by the Supreme Court — such as uniformity in the law of maritime contracts and contractual autonomy for sophisticated shippers and carriers — recommend applying COGSA here.
+See Kirby , 543 U.S. at 29 , 125 S.Ct. 385 .
+These policies notwithstanding, according to the statutory language and our holding in Neptune Orient Lines, Ltd. v. Burlington N. & Santa Fe Ry. Co. , 213 F.3d 1118 (9th Cir. 2000), Carmack supplies the default regime governing the inland rail shipment here.
+We therefore hold that COGSA applies only if the parties properly opted out of Carmack.
+A. Before we turn to Defendants' joint arguments, we reject the K-line defendants' threshold assertion that Carmack cannot apply to ocean carriers and their agents.
+To support their argument, however, K-line and KAM quote selectively from Carmack.
+By its terms, Carmack applies to "[a] rail carrier providing transportation [**6] or service subject to the jurisdiction of the Board under this part," 49 U.S.C. 11706 (a), where a "rail carrier" is "a person providing common carrier railroad transportation for compensation."
+49 U.S.C. 10102 (5).
+Critically, the statute goes on to define "railroad" as including "a bridge, car float, lighter, ferry, and intermodal equipment used by or in connection with a railroad. "
+49 U.S.C. 10102 (6)(A) (emphasis added).
+Moreover, the Board's jurisdiction, which is coextensive with Carmack's coverage, includes "transportation that is by railroad and water, when the transportation is under common control, management, or arrangement for a continuous carriage or shipment. "
+49 U.S.C. 10501 (a)(1)(B) (emphasis added).
+Here, K-line shipped the cargo from China to the Port of Long Beach on K-line's ocean liner, issued bills of lading that covered the cargo from its place of origin to the final destinations in the United States and contracted with UPRR to ship the cargo from the Port of Long Beach to the Midwest through its agent KAM, who acted on Kline's behalf in receiving its vessel and providing for the inland transport.
+The K-line defendants therefore provided "continuous carriage or shipment" that was "by railroad and water" via "intermodal equipment used by or in connection with a railroad."
+As a result, Carmack applies to K-line and its agent.
+Applying Carmack to K-line is also consistent with the purpose of Carmack's liability regime, which is "to relieve shippers of the burden of searching out a particular negligent carrier from among the often numerous carriers handling .
+.
+.
+goods."
+Reider v. Thompson , 339 U.S. 113 , 119 , 70 S.Ct. 499 , 94 L.Ed. 698 (1950).
+Because Plaintiffs dealt directly with Kline to arrange a shipment that included domestic rail carriage, we uphold Carmack's objectives by applying the statute to K-line and its agent.
+Few opinions have squarely addressed the potential application of Carmack to ocean carriers and their agents and no Supreme Court or Ninth Circuit precedent appears to address this issue.
+Nevertheless, most of the limited federal jurisprudence on this question either states that Carmack applies to an ocean carrier and its agent or implicitly suggests that it could.
+See United States v. Miss. Valley Barge Line Co. , 285 F.2d 381 , 391-94 (8th Cir. 1960) (Blackmun, J.) (holding that Carmack applied to a water carrier that was the contracting carrier when there was a common arrangement as indicated by a through bill of lading); Kyodo U.S.A., Inc. v. Cosco N. Am. Inc. , No. 01-CV-499 , 2001 WL 1835158 , at *3-5 (C.D.Cal.
+July 23, 2001) (holding that Carmack could apply to an ocean carrier); Canon USA, Inc. v. Nippon Liner System, Ltd. , No. 90 C 7350 , 1992 WL 82509 , at *5-8 (N.D.Ill.
+Apr.17, 1992) (applying Carmack to an ocean carrier); Nelson v. Agwilines, Inc. , 70 F.Supp.
+497 , 500 (S.D.N.Y.
+1946) (noting that although "[o]rdinarily a carrier that is wholly a carrier by water is not subject to regulation by [the Board,] [m]any carriers by water have through bill of lading arrangements with railroads, which make the carriers by water subject to regulation by [the Board]").
+Until recently, only two authorities, neither of which we find persuasive, explicitly held that Carmack does not apply to an ocean carrier: a decision from the Florida Supreme Court [**7] and a subsequent decision from the Federal District Court for the Southern District of Florida that relied on the previous state court decision.
+See King Ocean Cent. Am., S.A. v. Precision Cutting Servs., Inc., Ill So.2d 507 , 513 (Fla. 1998) (holding that "an ocean carrier's liability was not contemplated or covered under the Carmack Amendment"); PT Indonesia Epson Indus. v. Orient Overseas Container Line, Inc. , 219 F.Supp.2d 1265 , 1269 (S.D.Fla.
+2002) (following King Ocean's analysis and determining that "the Carmack Amendment does not necessarily apply to the through bill of lading issued by [the ocean carrier]"); contra, Kyodo , 2001 WL 1835158 at *4 (unpublished district court opinion in this circuit explicitly refusing to endorse King Ocean's analysis).
+Since this case was argued, however, the Second Circuit has construed Carmack's definition of a "rail carrier" not to reach two categories of common carriers: (1) an entity "that merely arranges" for goods to be transported by sea and then transferred to a railroad for inland transport, but never itself actually moves the goods; and (2) a common carrier, such as an ocean carrier, that does not conduct rail services or "`hold out' that service to the public."
+Rexroth Hydraudyne B.V.
+v. Ocean World Lines, Inc. , 547 F.3d 351 , 362 , 364 (2d Cir. 2008).
+K-line and KAM urge us to follow Rexroth and exempt them as well.
+We do not read Rexroth so broadly, and in any event decline to apply its limitation of Carmack to the intermodal transport arrangement here.
+In Rexroth , the plaintiff shippers contracted with a non-vessel-operating common carrier ("NVOCC") that acted as a middleman, arranging for ocean and inland rail carriage "from receipt to delivery."
+Id. at 356 .
+As the term implies, the NVOCC provided no services on any vessel it owned nor did it otherwise physically handle the shipment itself.
+See id. at 361-62 .
+Instead the NVOCC subcontracted with "an ocean carrier that provide[d] the ocean passage," who in turn subcontracted through its American agent to "arrange[] rail carriage for the inland leg."
+Id. at 356 .
+Nearly all the Second Circuit's reasoning addressed this middleman, emphasizing that an entity without "any contact with the shipped goods or any performance in the carrying of those goods" merely arranges for railroad transportation and therefore does not provide transportation as required for Carmack liability.
+Id. at 361-62 .
+Even if we were to accept this reasoning, it would not apply to K-line's arrangement because there was no middleman between K-line and Plaintiffs.
+Rather, Plaintiffs dealt directly with K-line, who actually transported the cargo on its ocean liner and had sustained contact with the shipped goods.
+Rexroth also summarily excluded the ocean carrier defendant whose services were most analogous to those K-line provided here, saying that the ocean carrier did "not own or operate rail lines or other equipment used in connection with a rail-road."
+Id. at 363 (emphasis added).
+The Second Circuit did not address the statutory definition of railroad transportation we have discussed above, but instead simply concluded without factual explanation that the [**8] ocean carrier neither conducted nor held itself out as conducting railroad transportation.
+See id. at 364 .
+Thus we do not know the nature or substance of the ocean carrier's direct interactions, if any, with the shipper.
+We do know that here, K-line held itself out to the public and contracted with Plaintiffs to transport their goods all the way from China to their inland destinations — by sea utilizing K-line's vessel and by rail utilizing UPRR.
+In so doing, K-line and its agent, KAM, engaged in rail-road transportation subject to the Board's jurisdiction by providing Plaintiffs with continuous carriage by water and rail, utilizing intermodal equipment in connection with a railroad.
+See 49 U.S.C. 10102 (6)(A), 10501 (a)(1)(B).
+In sum, we do not read Rexroth to categorically exclude ocean carriers from Carmack liability.
+The plain language of the statute and a careful application of the Second Circuit's reasoning support our conclusion that K-line and KAM provided railroad transportation covered by Carmack.
+[fn7] We therefore hold that Carmack applies to ocean carriers and their agents under the circumstances here.
+B. Defendants jointly argue that Carmack cannot apply to a shipment from a foreign country into the United States under a through bill of lading, and therefore the parties' contractual extension of COGSA, with its more liberal rules regarding venue, should control here.
+In support of their argument, Defendants highlight that four circuits have held that "the Carmack Amendment does not apply to a shipment from a foreign country to the United States (including an ocean leg and overland leg to the final destination in the United States) unless the domestic, overland leg is covered by a separate bill of lading."
+Altadis USA, Inc. ex. rel.
+Fireman's Fund Ins. Co. v. Star Line, LLC , 458 F.3d 1288 , 1291 (11th Cir. 2006) (emphasis added); see Am. Road Serv. Co. v. Consol.
+Rail Corp. , 348 F.3d 565 , 569 (6th Cir. 2003); Shao v. Link Cargo (Taiwan) Ltd. , 986 F.2d 700 , 703 (4th Cir. 1993); Capitol Converting Equip., Inc. v. LEP Transp., Inc. , 965 F.2d 391 , 394 (7th Cir. 1992); but see Sompo I , 456 F.3d at 57 , 60-69 (holding that Carmack applies to the domestic rail portion of a continuous intermodal shipment originating in a foreign country even where the transport was under a single through bill of lading that incorporated COGSA beyond the tackle-to-tackle phase).
+Despite this weight of authority, our own precedent expressly forecloses Defendants' argument in this circuit.
+In Neptune Orient Lines, Ltd. v. Burlington N. & Santa Fe Ry. Co. , 213 F.3d 1118 , 1119 (9th Cir. 2000), we held that "the language of [Carmack] also encompasses the inland leg of an overseas shipment conducted under a single `through' bill of lading.
+.
+.
+."
+See NIPPON YUSEN KAISHA v. Burlington & N. Santa Fe Ry. Co. , 367 F.Supp.2d 1292 , 1298 n. 4 (C.D.Cal.
+2005); Chubb Group of Ins. Cos.
+v. H.A.
+Transp. Sys., Inc. , 243 F.Supp.2d 1064 , 1068 n. 3 (C.D.Cal.
+2002).
+[fn8] Contrary holdings in the Fourth, Sixth, Seventh `and Eleventh Circuits rest on the notion that the Board lacks jurisdiction over intermodal shipments into the United States from a point in a foreign country under a through bill of lading.
+See, e.g., Am. Road Serv. Co. , 348 F.3d at 568 ("The [Board]'s jurisdiction does not extend to a shipment under a through bill of lading unless a domestic segment of the shipment is covered [**9] by a separate domestic bill of lading.").
+The Second Circuit has disagreed, holding that a plain reading of the Board's jurisdictional statute applies Carmack to any rail transportation in the United States, even if it originated in a foreign country under a through bill of lading.
+See Sompo I , 456 F.3d at 64 .
+As we noted above, Carmack's reach is coextensive with the Board's jurisdiction, see 49 U.S.C. 11706 (a); therefore our conclusions regarding the extent of the Board's jurisdiction, expressed in Neptune , determine Carmack's reach as well.
+Crucially, Neptune interpreted our precedent and Carmack's language to apply to "shipments to or from overseas ports" without any requirement for a separate domestic bill of lading for the inland carriage.
+Neptune , 213 F.3d at 1119 (citing F.J.
+McCarty Co. v. S. Pac. Co. , 428 F.2d 690 , 692 (9th Cir. 1970)).
+Defendants' attempt to relegate Neptune's interpretation of Carmack to the status of dictum is unavailing.
+There is no indication that Neptune "did not make a deliberate decision to adopt the rule of law it announced."
+United States v. Johnson , 256 F.3d 895 , 915 (9th Cir. 2001).
+Consequently, the absence of a separate bill of lading does not remove this shipment from Carmack's venue restrictions.
+C. Defendants next argue that even if the Carmack Amendment could apply to the inland leg of an international transport conducted under a single through bill of lading, here the parties' explicit contractual extension of COGSA inland should take precedence.
+Given COGSA's statutory language, Neptune's holding is fatal to this argument.
+Neptune's import becomes clear when analyzed in light of the distinctions and interactions between three sections of COGSA, currently codified at 46 U.S.C. 30701 Notes Sec. 7, 12 & 13.
+[fn9] In relevant part, the text of these sections is as follows: • Section 7 : Nothing contained in this chapter [this note] shall prevent a carrier or a shipper from entering into any agreement, stipulation, condition, reservation, or exemption as to the responsibility and liability of the carrier or the ship for the loss or damage to or in connection with the custody and care and handling of goods prior to the loading on and subsequent to the discharge from the ship on which the goods are carried by sea.
+46 U.S.C. 30701 Notes Sec. 7.
+• Section 12 : Nothing in this chapter [this note] shall be construed as superseding any part of [the Harter Act], or of any other law which would be applicable in the absence of this chapter [this note], insofar as they relate to the duties, responsibilities, and liabilities of the ship or carrier prior to the time when the goods are loaded on or after the time they are discharged from the ship.
+46 U.S.C. 30701 Notes Sec. 12 (emphasis added).
+• Section 13 : This chapter [this note] shall apply to all contract for carriage of goods by sea to or from ports of the United States in foreign trade.
+.
+.
+.
+The term `foreign trade' means the transportation of goods between the ports of the United States and ports of foreign countries.
+Nothing in this chapter [this note] shall be held to apply to contracts for carriage of goods by sea between any port of the United States or its possessions, and any other port of the United States or its possession: Provided, [**10] however , That any bill of lading or similar document of title which is evidence of a contract for the carriage of goods by sea between such ports, containing an express statement that it shall be subject to the provisions of this chapter [this note], shall be subjected hereto as fully as if subject hereto by the express provisions of this chapter [this note].
+46 U.S.C. 30701 Notes Sec. 13.
+Reading these three sections together reveals two interrelated reasons why the contractual extension of COGSA to the inland leg of an intermodal, international transport cannot supersede the requirements imposed by Carmack.
+First, although Section 7 "confirms that nothing in COGSA constrains the parties" from contractually extending COGSA's protections beyond the tackle-to-tackle period, it "leav[es] open the possibility that something else might constrain them."
+Michael F. Sturley, Freedom of Contract and the Ironic Story of Section 7 of the Carriage of Goods by Sea Act , 4 BENEDICT'S MARITIME BULL.
+201, 203 (Third/Fourth Quarter 2006) (emphasis added) [hereinafter Freedom of Contract ].
+Section 12 "completes the story that Section 7 merely begins," by explicitly confirming that this contractual autonomy is constrained by the presence of any other law that would govern the parties before loading or after discharge.
+Id. at 203 .
+In light of Neptune , the Carmack Amendment is just such an "other law" to which Section 12 mandates that the contractual inland extension of COGSA must yield.
+See Sompo I , 456 F.3d at 72-73 (relying in part on Section 12 to "hold that the contractual provision extending COGSA's terms inland must yield to Carmack").
+[fn10] Second, Section 13's language has an important negative implication for our interpretation of the legal force of a contractual extension of COGSA under Section 7 .
+See id. at 70 .
+Through Section 13 , "Congress explicitly provided that contracts extending [COGSA's] reach in ways other than over land — in particular, contractual extensions covering trade between United States ports (or `coastwide trade') — do have statutory force" and can "supersede prevailing federal statutes."
+Id. at 69-70 .
+[fn11] Congress did not include any comparable language with respect to a contractual extension of COGSA to inland transport under Section 7 , simply stating that nothing within COGSA prevents parties from doing so. "`[W]here Congress includes particular language in one section of a statute but omits it in another section of the same Act, it is generally presumed that Congress acts intentionally and purposely in the disparate inclusion or exclusion.'"
+Camacho v. Bridgeport Fin. Inc. , 430 F.3d 1078 , 1081 (9th Cir. 2005) (quoting Russello v. United States , 464 U.S. 16 , 23 , 104 S.Ct. 296 , 78 L.Ed.2d 17 (1983)).
+"Therefore, that Congress, in enacting [ Section 7 ], omitted language similar to the language in [ Section 13 ] is persuasive evidence that Congress did not wish for period of responsibility clauses [adopted under Section 7 ] to have the force of statute with the capability to supersede federal law."
+Sompo I , 456 F.3d at 71 ; see Freedom of Contract at 204 (noting this textual distinction "is compelling evidence that indirectly confirms what Section 12 says directly [**11] — that Section 7 was not intended to permit a private contract to override otherwise applicable law").
+[fn12] Read together, these provisions make clear that "contracts extending COGSA beyond the tackles must give way to conflicting law."
+Sompo I , 456 F.3d at 71 .
+[fn13] Per Neptune , Carmack is a conflicting law here.
+Although, as we have discussed, the Eleventh Circuit has allowed the contractual extension of COGSA inland, that court disagrees with ours about the reach of Carmack where the parties have used a through bill of lading.
+Compare Neptune , 213 F.3d at 1119 ("The language of [Carmack] also encompasses the inland leg of an overseas shipment conducted under a single `through' bill of lading.
+.
+.
+.")
+with Altadis , 458 F.3d at 1291 ("The case law has established that the Carmack Amendment does not apply to a shipment from a foreign country to the United States .
+.
+.
+unless the domestic, overland leg is covered by a separate bill of lading.").
+Because here Carmack is federal law conflicting with the parties' contractual extension of COGSA, we cannot follow the Eleventh Circuit by validating COGSA's inland reach.
+Defendants argue that policy considerations of contractual autonomy, efficiency and uniformity of maritime liability rules weigh in favor of allowing shippers and carriers to extend COGSA inland.
+The Supreme Court recently endorsed these policy objectives by emphasizing that "[c]onfusion and inefficiency will inevitably result if more than one body of law governs a given contract's meaning."
+Kirby , 543 U.S. at 29 , 125 S.Ct. 385 .
+The unanimous Court in Kirby further observed that an inability to extend COGSA's default rules to inland transport, so that entire shipments could be governed by the same liability regime, would defeat "the apparent purpose of COGSA[] to facilitate efficient contracting in contracts for carriage by sea."
+Id .
+; see Royal Ins. Co. of Am. v. Orient Overseas Container Line Ltd. , 525 F.3d 409 , 419 (6th Cir. 2008) (" Kirby's reasoning affirms the broader principle that courts should evaluate maritime contracts in their entirety rather than treating each of the multiple stages in multimodal transportation as subject to separate legal regimes, which would be an obstacle to uniform and efficient liability rules.").
+Ignoring a contractual provision incorporating COGSA seems particularly inappropriate where, as here, "the parties to the bill of lading were sophisticated business entities that should rarely be released from contractual obligations."
+Raymond T. Waid, Comment, Piloting in Post-Kirby Waters: Navigating the Circuit Split Over Whether the Carmack Amendment Applies to the Land Leg of an Intermodal Carriage of Goods on a Through Bill of Lading , 34 TRANSP. L.J. 113, 143 (Summer 2007).
+Nonetheless, and mindful of these policy considerations, Kirby does not control here.
+There, the Court held that state law did not apply to a bill of lading that extended COGSA inland, where COGSA and the state law conflicted.
+Kirby , 543 U.S. at 28-29 , 125 S.Ct. 385 .
+Focusing as it did on the need for state law to yield to federal law in the maritime context, the Court did not have occasion to consider which of two conflicting federal laws should govern a maritime shipment [**12] with an inland leg.
+See Sompo I , 456 F.3d at 75 ("We cannot interpret the Kirby Court's language concerning the policy underlying COGSA .
+.
+.
+as implying that a contract extending COGSA inland should supersede an otherwise applicable federal law.")
+(emphasis in original).
+The policy of uniformity in maritime shipping law, however compelling, must give way to controlling statutes and precedent.
+Given Neptune's , holding that Carmack applies and the conspicuous absence in COGSA of language allowing parties to give superseding statutory force to their contractual extensions of COGSA inland under Section 7 , we hold that a mere contractual extension of COGSA is not sufficient by itself to overcome Carmack.
+Nevertheless, Carmack — including its restrictive venue provisions — is merely a set of default rules.
+To the extent Carmack sanctions alternative provisions, a properly adopted alternative forum selection clause would eliminate Carmack as a conflicting "other law" superseding the parties' contractual extension of COGSA.
+Neptune did not reach this issue and does not hold otherwise.
+As explained above, COGSA's Section 7 cannot give such contracts statutory force.
+But Carmack itself does contain two provisions for avoiding the statutory defaults: 49 U.S.C. 10502 & 10709 .
+We next turn to these two possible Carmack opt-outs.
+III.
+Contracting for Alternative Terms under Carmack As discussed, whereas COGSA would allow a reasonable alternative forum selection clause, Carmack strictly limits the venues in which a party may bring a claim.
+See 49 U.S.C. 11706 (d)(2)(A).
+In this case, Tokyo does not fit into any of the categories to qualify as an acceptable forum under Carmack.
+See Regal-Beloit , 462 F.Supp.2d at 1103 .
+[fn14] Accordingly, the Tokyo forum selection clause's enforceability turns on whether the parties complied with the applicable requirements for opting out of Carmack.
+Congress created two different mechanisms" 10502 and 10709 — by which some rail services may be exempted from certain requirements usually imposed by Carmack.
+These dual provisions require us to resolve whether the parties entered into a 10502 or a 10709 contract and, relatedly, what each provision requires for avoiding Carmack.
+We conclude that 10502 is the only proviso the parties here could have followed to contract out of Carmack's venue restrictions.
+Because the district court instead analyzed the contracts under 10709 , we remand for an application of 10502 , the requirements of which we clarify below.
+A. Once again, we preface our analysis by looking to the relevant statutory language.
+Section 10502(f) authorizes the Board to exempt from Carmack "transportation that is provided by a rail carrier as part of a continuous intermodal movement."
+Here, "rail carrier" is subject to the same "Definitions" section we applied above to conclude that even an ocean carrier like K-line is a rail carrier when contracting to provide inland rail transportation.
+See 49 U.S.C. 10102 (providing definitions for "this part").
+[fn15] Thus, K-line is a rail carrier for purposes of determining whether it provides transportation that is exempt under the Board's 10502 [**13] authority.
+It is undisputed that the Board has exempted the transportation at issue here.
+See 49 C.F.R. 1090.2 ("[R]ail TOFC/COFC service and highway TOFC/COFC service provided by a rail carrier either itself or jointly with a motor carrier as part of a continuous intermodal freight movement is exempt from the requirements of 49 U.S.C. subtitle IV .
+.
+.
+.").
+[fn16] The Board's action relieves carriers providing such exempt transportation from certain regulatory burdens, such as rate regulation.
+See, e.g. , 49 U.S.C. 10701 .
+Carmack's liability and venue rules are not so plainly waived, however.
+The statute mandates that "[n]o exemption order issued pursuant to this section shall operate to relieve any rail carrier from an obligation to provide contractual terms for liability and claims which are consistent with the provisions of section 11706 of this title."
+49 U.S.C. 10502 (e).
+Nonetheless, 10502(e) also provides that carriers and shippers thus exempted are not unalterably bound by the liability and venue restrictions in Carmack's 11706 , because "[n]othing in this subsection or section 11706 of this title shall prevent rail carriers from offering alternative terms.
+.
+.
+."
+Id .
+These two clauses of 10502(e) are not inconsistent: carriers providing exempt transportation are obliged to provide terms consistent with Carmack's venue and liability protections to their shipper customers, but are ultimately free to contract for terms different from those in 11706 .
+Courts have concluded that the "combined effect" of 10502 and 11706 is to permit carriers providing exempt transportation to contract for terms that are different from Carmack's defaults so long as they first offer the shipper the option of full Carmack protections, presumably at a higher rate.
+See Sompo I , 456 F.3d at 60 (collecting authority).
+If the carrier fails to make this initial offer, however, "then the shipper may sue the carrier under Carmack."
+Id .
+[fn17] On the other hand, avoiding Carmack's default rules under 10709 is simpler: "[o]ne or more rail carriers providing transportation subject to the jurisdiction of the Board .
+.
+.
+may enter into a contract with one or more purchasers of rail services to provide specified services under specified rates and conditions."
+49 U.S.C. 10709 (a) (emphasis added).
+Under such an agreement for nonexempt transportation, carriers "have no duty in connection with services provided under such contract other than those duties specified by the terms of the contract."
+49 U.S.C. 10709 (b).
+Moreover, "[a] contract that is authorized by this section, and transportation under such contract, shall not be subject to this part , and may not be subsequently challenged before the Board or in any court on the grounds that such contract violates a provision of this part," 49 U.S.C. 10709 (c)(1) (emphasis added) — "this part" encompassing the Carmack Amendment.
+The terms of these two different provisions evidence a clear distinction between 10502 contracts and 10709 contracts.
+The distinction is based on whether the transportation at issue in the contract is exempt from Board regulation.
+Whereas 10502 requires carriers providing exempt transportation to offer Carmack protections before [**14] they can successfully contract for alternative terms, 10709 contains no such language — indeed, it explicitly contemplates that nonexempt carriers' contracts alone control.
+Defendants argued successfully before the district court that they entered into a 10709 contract with Plaintiffs, and thus were not required to offer Carmack protections as a prerequisite for their extension of COGSA to the inland segment of the transport.
+Defendants point to the MITA, which was incorporated by the ERTA and explicitly states "[t]his MITA and any agreements, price documents or contracts that reference this MITA have been made under 49 U.S.C. 10709 ."
+Plaintiffs argue on appeal that Defendants could not have entered into even a legitimate 10709 contract without first offering full Carmack protections.
+[fn18] We disagree with both parties' reasoning.
+Plaintiffs are incorrect that 10709 requires offering Carmack protections.
+See Sompo II , 540 F.Supp.2d at 494 (collecting district court cases); but see id. at 495-98 (discussing cases that "have varied wildly" on this issue).
+In any event, Defendants are mistaken that simply asserting in a contract that it was made under 10709 makes it so. The contract here had to be a 10502 contract because it concerned exempt transportation, and must therefore be analyzed on remand under the requirements of that section.
+B. The parties' confusion is understandable given the "muddled state of the law."
+Sompo II , 540 F.Supp.2d at 498 & n. 8 (citing "[s]everal courts [that] have noted that this issue has not been adequately addressed").
+Congress has not provided any guidance regarding how to read 10502 and 10709 in tandem, and very few courts have squarely confronted the question.
+[fn19] We cannot adopt either of the parties' arguments, however, as each would render one of the statutory provisions practically meaningless.
+Plaintiffs' argument that a carrier can form a 10709 contract only if it first offers the shipper full Carmack protections essentially converts all 10709 contracts into 10502 contracts.
+Cf. Sompo II , 540 F.Supp.2d at 494 ("Most courts have concluded that [the statutory] language indicates that 10709 contracts are not subject to Carmack, and need not offer a full Carmack liability option before properly limiting carrier liability.").
+Defendants' argument, however, effectively nullifies 10502 because it would allow any carrier — even those exempted under 10502 — to avoid 10502's prerequisites simply by stating that its contract was pursuant to 10709 .
+[fn20] It would be "nonsensical for .
+.
+.
+10502 to permit a certain category of rail contracts to offer specific rates and terms but require an initial offer of full Carmack liability and .
+.
+.
+10709 to permit the same category of rail contracts to offer specific rates and terms with no such requirement of an initial offer of full Carmack liability."
+Id .
+, at 499 (emphasis in original); see also id .
+(" Section 10709 simply cannot be used as a tool to extract contracts governing exempted rail carriers that operate one leg of a continuous intermodal movement from the regulatory demands of 10502 and Carmack.").
+When the Board exempted the category of transportation [**15] at issue here, the providers of that transportation, including Defendants, gained the benefits of deregulated rates.
+The Board's exemption removed this transportation "from the requirements of 49 U.S.C. subtitle IV ," 49 C.F.R. 1090.2 , which includes the provision setting standards for rates, see 49 U.S.C. 10701 .
+But Subtitle IV also includes 10709 .
+Consequently, carriers providing exempt transportation gain the benefits of deregulation, but lose the opportunity to contract for preferable terms under 10709 without first offering Carmack terms.
+In keeping with Congress' specification of two distinct methods for carriers to avoid the requirements imposed by Carmack, we therefore hold that a carrier providing nonexempt transportation may contract under 10709 without offering Carmack protections, but a carrier providing exempt transportation must proceed under 10502 , which does require such an offer.
+See Sompo II , 540 F.Supp.2d at 499 .
+Accordingly, Defendants here could not have entered into a 10709 contract notwithstanding the MITA's clause declaring otherwise.
+Defendants accept that 10502 covers exempt transportation, but argue that carriers providing exempt transportation could nevertheless still choose to contract under 10709 .
+Our interpretation of the relationship between 10502 and 10709 forecloses this argument.
+[fn21] C. In sum, 10502 provides the only acceptable method through which these parties might have agreed to the Tokyo forum selection clause.
+To comply with 10502 , K-line needed to offer Carmack's protections when contracting with Plaintiffs.
+Kline argues that it did so, pointing to a clause in the MITA that reads, "[o]n domestic shipments that originate in the United States, Shippers may, at their option, select the liability provisions set forth in 49 U.S.C. 11706 ."
+We are skeptical that reference to Carmack in connection with shipments originating in the United States , appearing in the MITA instead of in the bills of lading, could fulfill 10502's requirement that Carmack protections be offered.
+Perhaps more compellingly, Kline points to Clause 5(1) of the bills of lading, which allows K-line to subcontract with rail carriers "on any terms whatsoever."
+From this, it might be inferred that by making the choice to allow K-line to do all the subcontracting on "any terms whatsoever," Plaintiffs implicitly considered and rejected Carmack terms.
+Plaintiffs counter that no evidence of an offer of these terms exists and that another part of the MITA seems to preclude Carmack from applying.
+[fn22] It is improper for us, on this record, to decide in the first instance whether the parties' negotiation and acceptance of their numerous, cross-referenced agreements included an offer of Carmack terms or an understanding that Carmack terms were available but were rejected.
+Section 10502 (a) says only that the Carmack terms must be offered, not necessarily that they appear in the written agreement.
+Thus, on remand, the district court may develop the record with respect to the parties' understanding of whether Carmack terms were on the table when they executed the bills [**16] of lading.
+Conclusion As a matter of policy, it may be that sophisticated commercial entities should be able to freely decide by contract the liability regime that is to govern the shipment of goods from a foreign country to their ultimate destination in the United States, and do so utilizing a single bill of lading.
+Nonetheless, given the language of the relevant federal statutes and our own precedent, we hold that COGSA does not govern the inland transport at issue here unless the parties opted out of Carmack in accordance with the requirements of 49 U.S.C. 10502 .
+We further hold that 10709 cannot apply here given the exempt status of the transportation involved.
+Because the district court did not consider whether the parties opted out of Carmack's default rules under 10502 , thereby clearing the way for COGSA to apply by contractual extension, we remand for that determination.
+REVERSED and REMANDED.

@@ -1,0 +1,549 @@
+ JOSE A. CABRANES, Circuit Judge: Once again we consider a case brought under the Alien Tort Statute ("ATS"), 28 U.S.C. 1350 , [fn1] a jurisdictional provision unlike any other in American law and of a kind apparently unknown to any other legal system in the world.
+Passed by the first Congress in 1789, the ATS laid largely dormant for over 170 years.
+Judge Friendly called it a "legal Lohengrin" — "no one seems to know whence it came."
+[fn2] Then, in 1980, the statute was given new life, when our Court first recognized in Filartiga v. Pena-Irala [**2] that the ATS provides jurisdiction over (1) tort actions, (2) brought by aliens (only), (3) for violations of the law of nations (also called "customary international law" [fn3] ) including, as a general matter, war crimes and crimes against humanity — crimes in which the perpetrator can be called " hostis humani generis , an enemy of all mankind."
+[fn4] Since that time, the ATS has given rise to an abundance of litigation in U.S. district courts.
+For the first fifteen years after Filartiga — that is, from 1980 to the mid-1990s — aliens brought ATS suits in our courts only against notorious foreign individuals ; the first ATS case alleging, in effect, that a corporation (or "juridical" person) was an "enemy of all mankind" apparently was brought as recently as 1997.
+[fn5] Such civil lawsuits, alleging heinous crimes condemned by customary international law, often involve a variety of issues unique to ATS litigation, not least the fact that the events took place abroad and in troubled or chaotic circumstances.
+The resulting complexity and uncertainty — combined with the fact that juries hearing ATS claims are capable of awarding multi-billion-dollar verdicts [fn6] — has led many defendants to settle ATS claims prior to trial.
+[fn7] Thus, our Court has published only nine significant decisions on the ATS since 1980 (seven of the nine coming in the last decade), [fn8] and the Supreme Court in its entire history has decided only one ATS case. [fn9] Because appellate review of ATS suits has been so uncommon, there remain a number of unresolved issues lurking in our ATS jurisprudence — issues that we have simply had no occasion to address in the handful of cases we have decided in the thirty years since the revival of the ATS.
+This case involves one such unresolved issue: Does the jurisdiction granted by the ATS extend to civil actions brought against corporations under the law of nations?
+[fn10] Plaintiffs are residents of Nigeria who claim that Dutch, British, and Nigerian corporations engaged in oil exploration and production aided and abetted the Nigerian government in committing violations of the law of nations.
+They seek damages under the ATS, and thus their suit may proceed only if the ATS provides jurisdiction over tort actions brought against corporations under customary international law.
+A legal culture long accustomed to imposing liability on corporations may, at first blush, assume that corporations must be subject to tort liability under the ATS, just as corporations are generally liable in tort under our domestic law (what international law calls "municipal law").
+[fn11] But the substantive law that determines our jurisdiction under the ATS is neither the domestic law of the United States nor the domestic law of any other country.
+By conferring subject matter jurisdiction over a limited number of offenses defined by customary international law , the ATS requires federal courts to look beyond rules of domestic law — however well-established they may be — to examine the specific and universally accepted rules that the nations of the world treat as binding in their dealings [**3] with one another.
+[fn12] As Judge Friendly carefully explained, customary international law includes only "those standards, rules or customs (a) affecting the relationship between states or between an individual and a foreign state, and (b) used by those states for their common good and/or in dealings inter se. " [fn13] Our recognition of a norm of liability as a matter of domestic law , therefore, cannot create a norm of customary international law.
+In other words, the fact that corporations are liable as juridical persons under domestic law does not mean that they are liable under international law (and, therefore, under the ATS).
+Moreover, the fact that a legal norm is found in most or even all "civilized nations" does not make that norm a part of customary international law.
+As we explained in Filartiga : [ T]he mere fact that every nation's municipal [ i.e. , domestic] law may prohibit theft does not incorporate "the Eighth Commandment, `Thou Shalt not steal' .
+.
+.
+into the law of nations."
+It is only where the nations of the world have demonstrated that the wrong is of mutual, and not merely several, concern, by means of express international accords, that a wrong generally recognized becomes an international law violation within the meaning of the [ATS].
+[fn14] Accordingly, absent a relevant treaty of the United States — and none is relied on here — we must ask whether a plaintiff bringing an ATS suit against a corporation has alleged a violation of customary international law.
+The singular achievement of international law since the Second World War has come in the area of human rights, where the subjects of customary international law — i.e. , those with international rights, duties, and liabilities — now include not merely states , but also individuals.
+This principle was most famously applied by the International Military Tribunal at Nuremberg.
+As Justice Robert H. Jackson, chief prosecutor for the United States at Nuremberg, explained: [The Nurnberg trials] for the first time made explicit and unambiguous what was theretofore, as the Tribunal has declared, implicit in International Law, namely, that to prepare, incite, or wage a war of aggression .
+.
+.
+and that to persecute, oppress, or do violence to individuals or minorities on political, racial, or religious grounds in connection with such a war, or to exterminate, en-slave, or deport civilian populations, is an international crime, and that for the commission of such crimes individuals are responsible.
+Robert H. Jackson, Final Report to the President Concerning the Nurnberg War Crimes Trial (1946) (emphasis added), reprinted in 20 Temp. L.Q. 338, 342 (1946).
+[fn15] From the beginning, however, the principle of individual liability for violations of international law has been limited to natural persons — not "juridical" persons such as corporations — because the moral responsibility for a crime so heinous and unbounded as to rise to the level of an "international crime" has rested solely with the individual men and women who have perpetrated it.
+As the Nuremberg tribunal unmistakably set forth in explaining the rationale for individual [**4] liability for violations of international law: "Crimes against international law are committed by men, not by abstract entities, and only by punishing individuals who commit such crimes can the provisions of international law be enforced."
+The Nurnberg Trial (United States v. Goering ), 6 F.R.D. 69 , 110 (Int'l Military Trib.
+at Nuremberg 1946) (rejecting the argument that only states could be liable under international law).
+After Nuremberg, as new international tribunals have been created, the customary international law of human rights has remained focused not on abstract entities but on the individual men and women who have committed international crimes universally recognized by the nations of the world.
+This principle has taken its most vivid form in the recent design of the International Criminal Court ("ICC").
+Although there was a proposal at the Rome Conference to grant the ICC jurisdiction over corporations and other "juridical" persons, that proposal was soundly rejected, and the Rome Statute, the ICC's constitutive document, hews to the tenet set forth in Nuremberg that international norms should be enforced by the punishment of the individual men and women who violate them.
+[fn16] In short, because customary international law imposes individual liability for a limited number of international crimes — including war crimes, crimes against humanity (such as genocide), and torture — we have held that the ATS provides jurisdiction over claims in tort against individuals who are alleged to have committed such crimes.
+As we explain in detail below, however, customary international law has steadfastly rejected the notion of corporate liability for international crimes, and no international tribunal has ever held a corporation liable for a violation of the law of nations.
+We must conclude, therefore, that insofar as plaintiffs bring claims under the ATS against corporations, plaintiffs fail to allege violations of the law of nations, and plaintiffs' claims fall outside the limited jurisdiction provided by the ATS.
+We emphasize that the question before us is not whether corporations are "immune" from suit under the ATS: That formulation improperly assumes that there is a norm imposing liability in the first place.
+[fn17] Rather, the question before us, as the Supreme Court has explained, "is whether international law extends the scope of liability for a violation of a given norm to the perpetrator being sued, if the defendant is a private actor such as a corporation or individual."
+[fn18] Looking to international law, we find a jurisprudence, first set forth in Nuremberg and repeated by every international tribunal of which we are aware, that offenses against the law of nations ( i.e. , customary international law) for violations of human rights can be charged against States and against individual men and women but not against juridical persons such as corporations.
+As a result, although international law has sometimes extended the scope of liability for a violation of a given norm to individuals, it has never extended the scope [**5] of liability to a corporation.
+[fn19] We pause briefly to acknowledge and reply to the separate opinion of our colleague, Judge Leval.
+As an initial matter, we are perplexed by Judge Leval's repeated insistence that there is no "basis" for our holding because "[n]o precedent of international law endorses" it.
+See, e.g. , Concurring Op. 151.
+In an ATS suit, we may apply only those international norms that are "specific, universal, and obligatory."
+[fn20] As a result, the responsibility of establishing a norm of customary international law lies with those wishing to invoke it, and in the absence of sources of international law endorsing (or refuting) a norm, the norm simply cannot be applied in a suit grounded on customary international law under the ATS.
+Thus, even if there were, as Judge Leval claims, an absence of sources of international law addressing corporate liability, [fn21] that supposed lack of authority would actually support our holding.
+By contrast, to support Judge Leval's proposed rule, there would need to be not only a few, but so many sources of international law calling for corporate liability that the norm could be regarded as "universal."
+As it happens, no corporation has ever been subject to any form of liability under the customary international law of human rights, and thus the ATS, the remedy Congress has chosen, simply does not confer jurisdiction over suits against corporations.
+[fn22] Although Judge Leval condemns our holding, he in fact agrees with much of our opinion.
+He concedes, for example, that "[i]t is true that international law, of its own force, imposes no liabilities on corporations or other private juridical entities."
+Concurring Op. 186; see also id. (explaining that it "is entirely accurate" that "international law imposes no liabilities on private juridical persons"); id. ("[I]t is absolutely correct that the rules of international law .
+.
+.
+do not provide for any form of liability of corporations.").
+He similarly has "no quarrel" with the "premise[]" that international law is "the place to look" to determine whether corporations can be held liable for violations of international law.
+Id. at 174-175.
+He concludes, however, that international law does not supply an answer to that question.
+In his view, the question of corporate liability is merely a matter of "remedy" that "international law leaves .
+.
+.
+to the independent determination of each State."
+Id. at 176.
+We agree with Judge Leval that whether to enact a civil remedy for violations of international law is a matter to be determined by each State; the United States has done so in enacting the ATS.
+But the ATS does not specify who is liable; it imposes liability only for a "violation of the law of nations," 28 U.S.C. 1350 , and thus it leaves the question of the nature and scope of liability — who is liable for what — to customary international law.
+As we explain in detail below, therefore, whether a defendant is liable under the ATS depends entirely upon whether that defendant is subject to liability under international law.
+It is inconceivable that a defendant who is not liable under customary international law could be liable [**6] under the ATS.
+We will not embark on a lengthy tangent in response to Judge Leval's many "hypothetical cases," Concurring Op. 159, in which corporations would not, under our holding, be liable under the ATS.
+We note only that nothing in this opinion limits or forecloses suits under the ATS against the individual perpetrators of violations of customary international law — including the employees, managers, officers, and directors of a corporation — as well as anyone who purposefully aids and abets a violation of customary international law.
+Nor does anything in this opinion limit or foreclose criminal, administrative, or civil actions against any corporation under a body of law other than customary international law — for example, the domestic laws of any State.
+And, of course, nothing in this opinion limits or forecloses legislative action by Congress.
+Lastly, we wish to note that we do not take lightly the passion with which Judge Leval disagrees with our holding.
+We are keenly aware that he calls our reasoning "illogical" on nine separate occasions.
+See Concurring Op. 151, 152, 154, 165, 166 n. 18, 168, 164, 174, 185, 186.
+Nor is it lost on us that he calls our conclusions "strange," id. at 151, 179-80, 180-81, [fn23] or that he repeatedly criticizes our analysis as "internally inconsistent," id. at 152-53, 153, 174.
+[fn24] We must, however, leave it to the reader to decide whether any of Judge Leval's charges, individually or in combination, are a fair reading of our opinion.
+In so doing we are confident that if our effort is misguided, higher judicial authority is available to tell us so.
+BACKGROUND These cross-appeals come to us from the United States District Court for the Southern District of New York (Kimba M. Wood, Judge ).
+At this stage of the proceedings, we accept as true all nonconclusory factual allegations relevant to this decision.
+See Ashcroft v. Iqbal , U.S. , 129 S.Ct. 1937 , 1949-50 , 173 L.Ed.2d 868 (2009).
+I. Factual Background Plaintiffs, who are, or were, residents of the Ogoni Region of Nigeria, allege that defendants Royal Dutch Petroleum Company ("Royal Dutch") and Shell Transport and Trading Company PLC ("Shell"), through a subsidiary named Shell Petroleum Development Company of Nigeria, Ltd. ("SPDC"), aided and abetted the Nigerian government in committing human rights abuses directed at plaintiffs.
+Royal Dutch and Shell are holding companies incorporated respectively in the Netherlands and the United Kingdom.
+[fn25] SPDC is incorporated in Nigeria.
+All defendants are corporate entities — that is, "juridical" persons, rather than "natural" persons.
+SPDC has been engaged in oil exploration and production in the Ogoni region of Nigeria since 1958.
+In response to SPDC's activities residents of the Ogoni region organized a group named the "Movement for Survival of Ogoni People" to protest the environmental effects of oil exploration in the region.
+According to plaintiffs, in 1993 defendants responded by enlisting the aid of the Nigerian government to suppress the Ogoni resistance.
+Throughout 1993 and 1994, Nigerian military forces are alleged to have shot and killed Ogoni residents and attacked Ogoni villages [**7] — beating, raping, and arresting residents and destroying or looting property — all with the assistance of defendants.
+Specifically, plaintiffs allege that defendants, inter alia , (1) provided transportation to Nigerian forces, (2) allowed their property to be utilized as a staging ground for attacks, (3) provided food for soldiers involved in the attacks, and (4) provided compensation to those soldiers.
+Plaintiffs brought claims against defendants under the ATS for aiding and abetting the Nigerian government in alleged violations of the law of nations.
+Specifically plaintiffs brought claims of aiding and abetting (1) extrajudicial killing; (2) crimes against humanity; (3) torture or cruel, inhuman, and degrading treatment; (4) arbitrary arrest and detention; (5) violation of the rights to life, liberty, security, and association; (6) forced exile; and (7) property destruction.
+II.
+Procedural History Plaintiffs commenced this lawsuit by filing a putative class action complaint in September 2002, which was amended in May 2004.
+They alleged that defendants aided and abetted, or were otherwise complicit in, violations of the law of nations by the Nigerian government.
+Relying on the Supreme Court's June 2004 decision in Sosa v. Alvarez-Machain , 542 U.S. 692 , 124 S.Ct. 2739 , 159 L.Ed.2d 718 (2004), defendants moved to dismiss.
+In September 2006, the District Court dismissed plaintiffs' claims for aiding and abetting property destruction; forced exile; extrajudicial killing; and violations of the rights to life, liberty, security, and association.
+The District Court reasoned that customary international law did not define those violations with the particularity required by Sosa.
+See Kiobel v. Royal Dutch Petroleum Co. , 456 F.Supp.2d 457 , 464-65 , 467 (S.D.N.Y.
+2006).
+The District Court denied defendants' motion to dismiss with respect to the remaining claims of aiding and abetting arbitrary arrest and detention; crimes against humanity; and torture or cruel, inhuman, and degrading treatment.
+See id. at 465-67 .
+Recognizing the importance of the issues presented and the substantial grounds for difference' of opinion, the District Court certified its entire order for interlocutory appeal pursuant to 28 U.S.C. 1292 (b).
+See id. at 467-68 .
+DISCUSSION We review de novo a District Court's dismissal for failure to state a claim, see Fed.R.Civ.P. 12 (b)(6), assuming all well-pleaded, nonconclusory factual allegations in the complaint to be true.
+See Iqbal 129 S.Ct. at 1949-50 ; Selevan v. N.Y. Thruway Auth. , 584 F.3d 82 , 88 (2d Cir. 2009).
+We also review questions of subject matter jurisdiction de novo.
+See Bank of N.Y. v. First Millennium, Inc. , 607 F.3d 905 , 920 (2d Cir. 2010); Flores v. S. Peru Copper Corp. , 414 F.3d 233 , 241 (2d Cir. 2003).
+As we have explained above, this appeal presents a question that has been lurking for some time in our ATS jurisprudence.
+Since our first case upholding claims brought under the ATS in 1980, see Filartiga v. Pena-Irala , 630 F.2d 876 (2d Cir. 1980), our Court has never directly addressed whether our jurisdiction under the ATS extends to civil actions against corporations, see Presbyterian Church of Sudan v. Talisman Energy, Inc. , 582 F.3d 244 , 261 n. 12 (2d Cir. 2009) (assuming, without deciding, that corporations may be liable for violations of customary international [**8] law); Khulumani v. Barclay Nat'l Bank Ltd. , 504 F.3d 254 , 282-83 (2d Cir. 2007) (Katzmann, J., concurring) (noting that, because defendants did not raise the issue, the Court need not reach the question of whether corporations may be liable for violations of customary international law); id. at 321-25 (Korman, J., concurring in part and dissenting in part) (expressing the view that corporations cannot be held liable under the ATS).
+We have, in the past, decided ATS cases involving corporations without addressing the issue of corporate liability.
+See, e.g., Abdullahi v. Pfizer, Inc. , 562 F.3d 163 (2d Cir. 2009), cert. denied , U.S. , 130 S.Ct. 3541 , L.Ed.2d (2010); Flores , 414 F.3d 233 ; Wiwa v. Royal Dutch Petroleum Co. , 226 F.3d 88 (2d Cir. 2000).
+But that fact does not foreclose consideration of the issue here.
+As the Supreme Court has held, "when questions of jurisdiction have been passed on in prior decisions sub silentio ," the Court "has never considered itself bound when a subsequent case finally brings the jurisdictional issue before [it]."
+Hagans v. Lavine , 415 U.S. 528 , 533 n. 5, 94 S.Ct. 1372 , 39 L.Ed.2d 577 (1974) (emphasis added); see also Webster v. Fall , 266 U.S. 507 , 511 , 45 S.Ct. 148 , 69 L.Ed. 411 (1925) ("Questions which merely lurk in the record, neither brought to the attention of the court nor ruled upon, are not to be considered as having been so decided as to constitute precedents.
+"); Garay v. Slattery , 23 F.3d 744 , 745 n. 2 (2d Cir. 1994) (finding it necessary to address jurisdictional challenge despite prior cases assuming jurisdiction).
+The same rule applies here.
+In answering the question presented we proceed in two steps.
+First, we consider which body of law governs the question — international law or domestic law — and conclude that international law governs.
+[fn26] Second, we consider what the sources of international law reveal with respect to whether corporations can be subject to liability for violations of customary international law.
+We conclude that those sources lead inescapably to the conclusion that the customary international law of human rights has not to date recognized liability for corporations that violate its norms.
+I. Customary International Law Governs Our Inquiry The ATS grants federal district courts jurisdiction over claims "by an alien for a tort only, committed in violation of the law of nations or a treaty of the United States."
+28 U.S.C. 1350 .
+[fn27] In 2004, the Supreme Court held in Sosa that the ATS is a jurisdictional statute only; it creates no cause of action, Justice Souter explained, because its drafters understood that "the common law would provide a cause of action for the modest number of international law violations with a potential for personal liability at the time."
+542 U.S. at 724 , 124 S.Ct. 2739 .
+Indeed, at the time of its adoption, the ATS "enabled federal courts to hear claims in a very limited category defined by the law of nations and recognized at common law."
+Id. at 712 , 124 S.Ct. 2739 .
+These included "three specific offenses against the law of nations addressed by the criminal law of England [and identified by Blackstone]: violation of safe conducts, infringement of the rights of ambassadors, and piracy" — each a rule "binding individuals for the benefit of other individuals[, which] overlapped with the norms of state relationships."
+Id. at 715 , 124 S.Ct. 2739 (citing 4 W. Blackstone, Commentaries on the Laws of England 68 (1769)).
+The Supreme [**9] Court did not, however, limit the jurisdiction of the federal courts under the ATS to those three offenses recognized by the law of nations in 1789.
+Instead, the Court in Sosa held that federal courts may recognize claims "based on the present-day law of nations" provided that the claims rest on "norm[s] of international character accepted by the civilized world and defined with a specificity comparable to the features of the 18th-century paradigms [the Court had] recognized."
+Id. at 725 , 124 S.Ct. 2739 .
+The Supreme Court cautioned that "the determination whether a norm is sufficiently definite to support a cause of action should (and, indeed, inevitably must) involve an element of judgment about the practical consequences of making that cause available to litigants in the federal courts."
+Id. at 732-33 , 124 S.Ct. 2739 (footnote omitted).
+The Court also observed that "a related consideration is whether international law extends the scope of liability for a violation of a given norm to the perpetrator being sued, if the defendant is a private actor such as a corporation or an individual."
+Id. at 732 n. 20, 124 S.Ct. 2739 (emphasis added).
+We conclude — based on international law, Sosa , and our own precedents — that international law, and not domestic law, governs the scope of liability for violations of customary international law under the ATS.
+A. International Law Defines the Scope of Liability for Violations of Its Norms International law is not silent on the question of the subjects of international law — that is, "those that, to varying extents, have legal status, personality, rights, and duties under international law and whose acts and relationships are the principal concerns of international law."
+Restatement (Third) of the Foreign Relations Law of the United States ("Restatement (Third)"), pt.
+II, at 70 introductory note (emphasis added); see 1 Oppenheim's International Law 33, at 119 (Sir Robert Jennings & Sir Arthur Watts eds., 9th ed. 1996) ("An international person is one who possesses legal personality in international law, meaning one who is a subject of international law so as itself to enjoy rights, duties or powers established in international law, and, generally, the capacity to act on the international plane.
+.
+.
+."
+(emphasis added) (footnotes omitted)).
+Nor does international law leave to individual States the responsibility of defining those subjects.
+Rather, "[t]he concept of international person is .
+.
+.
+derived from international law."
+1 Oppenheim's International Law 33, at 120; see also Restatement (Third), pt.
+II, at 70 introductory note ("[Individuals and private juridical entities can have any status, capacity, rights, or duties given them by international law or agreement.
+.
+.
+."
+(emphasis added)).
+[fn28] That the subjects of international law are determined by international law, and not individual States, is evident from the International Military Tribunal at Nuremberg ("Tribunal") in the aftermath of the Second World War.
+The significance of the judgment of the Tribunal — and of the judgments of the tribunals established pursuant to Allied Control Council pusant to Council Control Law No. 10(Dec. 20, 1945), see Part II.A.1, post post — was [**10] not simply that it recognized genocide and aggressive war as violations of international law.
+The defining legal achievement of the Nuremberg trials is that they explicitly recognized individual liability for the violation of specific, universal, and obligatory norms of international human rights.
+In its judgment the Tribunal noted that the defendants had argued that "international law is concerned with the actions of sovereign states, and provides no punishment for individuals."
+The Nurnberg Trial (United States v. Goering ), 6 F.R.D. 69 , 110 (Int'l Military Trib.
+at Nuremberg 1946).
+The Tribunal rejected that view, however, declaring that " international law imposes duties and liabilities upon individuals as well as upon states" and that "individuals can be punished for violations of international law."
+Id .
+(emphasis added).
+The significance of that aspect of the Tribunal's judgment was not lost on observers at the time.
+Justice Jackson, who served as chief prosecutor for the United States for the trial before the Tribunal, explained in his final report to President Truman that "[the Nurnberg trials] for the first time made explicit and unambiguous what was theretofore, as the Tribunal has declared, implicit in International Law," namely, that the conduct of the leaders of Nazi Germany violated international law, " and that for the commission of such crimes individuals are responsible. "
+Robert H. Jackson, Final Report to the President Concerning the Nurnberg War Crimes Trial (1946) (emphasis added), reprinted in 20 Temp. L.Q. 338, 342 (1946) (emphasis added).
+General Telford Taylor, chief prosecutor for the United States for the trials conducted under Allied Control Council Law No. 10, similarly noted in his final report to the Secretary of the Army that "the major legal significance of the Law No. 10 judgments lies .
+.
+.
+in those portions of the judgments dealing with the area of personal responsibility for international law crimes."
+Brigadier General Telford Taylor, U.S.A., Chief of Counsel for War Crimes, Final Report to the Secretary of the Army on the Nuernberg War Crimes Trials Under Control Council Law No. 10, at 109 (1949); see also note 36, post.
+[fn29] B. Sosa and Our Precedents Require Us to Look to International Law to Determine the Scope of Liability In Sosa the Supreme Court instructed the lower federal courts to consider "whether international law extends the scope of liability for a violation of a given norm to the perpetrator being sued, if the defendant is a private actor such as a corporation or individual."
+Sosa , 542 U.S. at 732 n. 20, 124 S.Ct. 2739 (emphasis added).
+That language requires that we look to international law to determine our jurisdiction over ATS claims against a particular class of defendant, such as corporations.
+[fn30] That conclusion is reinforced by Justice Breyer's reformulation of the issue in his concurring opinion: "The norm [of international law] must extend liability to the type of perpetrator (e.g. , a private actor) the plaintiff seeks to sue."
+See id. at 760 , 124 S.Ct. 2739 (Breyer, J., concurring) (emphasis added) (citing id. at 732 n. 20, 124 S.Ct. 2739 majority opinion).
+The Supreme Court's instruction to look to international [**11] law to determine the scope of liability under the ATS did not involve a revolutionary interpretation of the statute — in fact, it had long been the law of this Circuit.
+In Filartiga , we had looked to international law to determine our jurisdiction and to delineate the type of defendant who could be sued.
+See 630 F.2d at 889 ("[T]he question of federal jurisdiction under the Alien Tort Statute .
+.
+.
+requires consideration of the law of nations.
+"); id. at 880 ("In light of the universal condemnation of torture in numerous international agreements, and the renunciation of torture as an instrument of official policy by virtually all of the nations of the world (in principle if not in practice), we find that an act of torture committed by a state official against one held in detention violates established norms of the international law of human rights, and hence the law of nations."
+(emphasis added)); see also Khulumani , 504 F.3d at 269 (Katzmann, J., concurring) ("We have repeatedly emphasized that the scope of the [ATS's] jurisdictional grant should be determined by reference to international law.").
+Likewise, in Kadic v. Karadzic , 70 F.3d 232 (2d Cir. 1995) (Newman, J.), and in Judge Harry T. Edwards's notable concurring opinion in Tel-Oren v. Libyan Arab Republic , 726 F.2d 774 , 775 (D.C. Cir. 1984) (Edwards, J., concurring) — both cited with approval by the Supreme Court in Sosa — international law provided the rules by which the court decided whether certain conduct violated the law of nations when committed by non-state actors.
+In Kadic , we held that a private actor could be liable under the law of nations for genocide, war crimes, and crimes against humanity, 70 F.3d at 239-241 , but in Tel-Oren , Judge Edwards expressed the view that a private actor could not be liable for torture under the ATS, 726 F.2d at 791-95 (Edwards, J., concurring); see also, e.g., Flores , 414 F.3d at 254-66 (looking to customary international law for the applicable norms).
+Since Sosa , we have continued to adhere to the method prescribed in Sosa footnote 20 by looking to customary international law to determine both whether certain conduct leads to ATS liability and whether the scope of liability under the ATS extends to the defendant being sued.
+As recently as our decision of 2009 in Presbyterian Church , this same panel (including Judge Leval) declared that "footnote 20 of Sosa , while nominally concerned with the liability of non-state actors, supports the broader principle that the scope of liability for ATS violations should be derived from international law."
+582 F.3d at 258 (footnote omitted); see also id. at 261 n. 12 (noting that the court "need not reach .
+.
+.
+the question of `whether international law extends the scope of liability' to corporations" (quoting Sosa , 542 U.S. at 732 n. 20, 124 S.Ct. 2739 )).
+In Presbyterian Church , we looked to international law to determine the circumstances in which aiders and abettors could be liable for violations of the customary international law of human rights.
+Id. at 258-59 .
+We did so because "[recognition of secondary liability is no less significant a decision than whether to recognize a whole new tort in the first place."
+Id. at 259 .
+Thus, our holding today is consistent with Presbyterian Church , where we looked to international law to determine not only what conduct is [**12] cognizable under the ATS, but also the identity of the persons to whom that conduct is attributable (in that case, aiders and abettors).
+[fn31] Our interpretation of Sosa is also consistent with Judge Katzmann's separate opinion in Khulumani 504 F.3d at 264 (Katzmann, J., concurring), which this same panel (including Judge Leval) adopted as the law of the Circuit in Presbyterian Church, see 582 F.3d at 258 ("This opinion draws substantially from Judge Katzmann's concurring opinion, and adopts his proposed rule as the law of this Circuit.").
+In Khulumani , Judge Katzmann observed that aiding and abetting liability — much like corporate liability — "`does not constitute a discrete criminal offense but only serves as a more particularized way of identifying the persons involved' in the underlying offense."
+504 F.3d at 280 (Katzmann, J., concurring) (quoting United States v. Smith , 198 F.3d 377 , 383 (2d Cir. 1999) (some internal quotation marks omitted)).
+Judge Katzmann further explained that "[w]hile [footnote 20 of Sosa ] specifically concerns the liability of non-state actors, its general principle is equally applicable to the question of where to look to determine whether the scope of liability for a violation of international law should extend to aiders and abettors."
+Id. at 269 .
+He therefore concluded that "to assure itself that it has jurisdiction to hear a claim under the [ATS], [a court] should first determine whether the alleged tort was in fact `committed in violation of the law of nations,' 28 U.S.C. 1350 , and whether this law would recognize the defendants' responsibility for that violation."
+Id. at 270 (emphasis added); see also id. at 281 ("Because aiding and abetting is a generally applicable means of identifying who should be held responsible for a particular act, .
+.
+.
+it is .
+.
+.
+reasonable to consider whether the theory is accepted as a general principle of customary international law.
+.
+.
+."
+(emphases added)).
+[fn32] Significantly, it was only because we looked to international law that we were able to recognize a norm of aiding and abetting liability under the ATS.
+In Khulumani Judge Katzmann declined to rely on the usual presumption against aiding and abetting liability that applies in the interpretation of domestic statutes.
+See Cent. Bank of Denver, N.A. v. First Interstate Bank of Denver, N.A. , 511 U.S. 164 , 182 , 114 S.Ct. 1439 , 128 L.Ed.2d 119 (1994) ("[W]hen Congress enacts a statute under which a person may sue and recover damages from a private defendant for the defendant's violation of some statutory norm, there is no general presumption that the plaintiff may also sue aiders and abettors.").
+Instead, Judge Katzmann concluded that Central Bank had no bearing on aiding and abetting liability under the ATS because, "[u]nder the [ATS] the relevant norm is provided not by domestic statute but by the law of nations , and that law extends responsibility for violations of its norms to aiders and abettors."
+504 F.3d at 282 (Katzmann, J., concurring) (emphases added).
+[fn33] In sum, we have little difficulty holding that, under international law, Sosa , and our three decades of precedent, we are required to look to international law to determine whether corporate liability for a "violation of the law of nations," 28 U.S.C. 1350 , is a norm "accepted by the civilized world and defined [**13] with a specificity" sufficient to provide a basis for jurisdiction under the ATS, Sosa , 542 U.S. at 725 , 124 S.Ct. 2739 .
+We have looked to international law to determine whether state officials, see Filartiga , 630 F.2d at 880 , private individuals, see Kadic , 70 F.3d at 239-41 , and aiders and abettors, see Presbyterian Church , 582 F.3d at 258-59 , can be held liable under the ATS.
+There is no principled basis for treating the question of corporate liability differently.
+Like the issue of aiding and abetting liability, whether corporations can be liable for alleged violations of the law of nations "is no less significant a decision than whether to recognize a whole new tort in the first place."
+Presbyterian Church , 582 F.3d at 259 .
+It is, therefore, a decision properly made only by reference to customary international law.
+Having concluded that international law controls our inquiry, we next consider what the sources of international law reveal with respect to the existence of a norm of corporate liability under customary international law.
+II.
+Corporate Liability Is Not a Norm of Customary International Law To attain the status of a rule of customary international law, a norm must be "specific, universal, and obligatory."
+Sosa , 542 U.S. at 732 , 124 S.Ct. 2739 (quoting with approval the statement of a lower court) (internal quotation marks omitted); see also Flores , 414 F.3d at 248 ("[Customary international law is composed only of those rules that States universally abide by, or accede to, out of a sense of legal obligation and mutual concern.
+"); Restatement (Third) 102(2) ("Customary international law results from a general and consistent practice of states followed by them from a sense of legal obligation.").
+Defining such norms "is no simple task," as "[c]ustomary international law is discerned from myriad decisions made in numerous and varied international and domestic arenas."
+Flores , 414 F.3d at 247 .
+The sources consulted are therefore of the utmost importance.
+As the Supreme Court re-emphasized in Sosa , we look to "those sources we have long, albeit cautiously, recognized": "[W]here there is no treaty, and no controlling executive or legislative act or judicial decision, resort must be had to the customs and usages of civilized nations ; and, as evidence of these, to the works of jurists and commentators, who by years of labor, research and experience, have made themselves peculiarly well acquainted with the subjects of which they treat.
+Such works are resorted to by judicial tribunals, not for the speculations of their authors concerning what the law ought to be, but for trustworthy evidence of what the law really is."
+542 U.S. at 733-34 , 124 S.Ct. 2739 (emphasis added) (quoting The Paquete Habana , 175 U.S. at 700 , 20 S.Ct. 290 ); see also United States v. Smith , 18 U.S. (5 Wheat.)
+153 , 160-61 , 5 L.Ed. 57 (1820) (Story, J.) (identifying "the general usage and practice of nations[;] .
+.
+.
+judicial decisions recognising and enforcing that law[;]" and "the works of jurists, writing professedly on public law" as proper sources of customary international law); cf. United States v. Yousef , 327 F.3d 56 , 100 n. 33 (2d Cir. 2003) (explaining that, "in the parlance of international law," "jurists" and "publicists" are used as synonyms for "scholars").
+Agreements or declarations that are merely aspirational, and that "do[] not of [their] own force impose obligations as [**14] a matter of international law," are of "little utility" in discerning norms of customary international law.
+Sosa , 542 U.S. at 734 , 124 S.Ct. 2739 (discussing the limited utility of the Universal Declaration of Human Rights, G.A.
+Res. 217A (III), U.N.
+Doc.
+A/810 (1948)).
+[fn34] In this Circuit we have long recognized as authoritative the sources of international law identified in Article 38 of the Statute of the International Court of Justice ("ICJ Statute").
+[fn35] See Filartiga , 630 F.2d at 880-81 & n. 8 (describing Article 38 as consistent with the Supreme Court's historical approach to sources of international law); see also J.L.
+Brierly, The Law of Nations 56 (Sir Humphrey Waldock ed., 6th ed. 1963) (referring to Article 38 as "a text of the highest authority"); Restatement (Third) 103 (describing similar sources as evidence of international law).
+Article 38 provides in relevant part: 1.
+The Court, whose function is to decide in accordance with international law such disputes as are submitted to it, shall apply: a. international conventions, whether general or particular, establishing rules expressly recognized by the contesting states; b. international custom, as evidence of a general practice accepted as law; c. the general principles of law recognized by civilized nations; d. subject to the provisions of Article 59, judicial decisions and the teachings of the most highly qualified publicists [ i.e. , scholars or "jurists"] of the various nations, as subsidiary means for the determination of rules of law.
+ICJ Statute, art.
+38, June 26, 1945, 59 Stat. 1055 , 1060 , 33 U.N.T.S.
+993 (emphasis added).
+With those principles in mind, we consider whether the sources of international law reveal that corporate liability has attained universal acceptance as a rule of customary international law.
+A. International Tribunals Insofar as international tribunals are established for the specific purpose of imposing liability on those who violate the law of nations, the history and conduct of those tribunals is instructive.
+We find it particularly significant, therefore, that no international tribunal of which we are aware has ever held a corporation liable for a violation of the law of nations. 1.
+The Nuremberg Tribunals The Charter of the International Military Tribunal, commonly known as the "London Charter," authorized the punishment of the major war criminals of the European Axis following the Second World War.
+See Agreement for the Prosecution and Punishment of the Major War Criminals of the European Axis (the "London Charter"), Aug. 8, 1945, 59 Stat. 1544 , 82 U.N.T.S.
+279.
+The London Charter and the trials at Nuremberg that followed are collectively the single most important source of modern customary international law concerning liability for violations of fundamental human rights.
+[fn36] As Justice Jackson explained, the London Charter "is a basic charter in the International Law of the future," and the Nuremberg trials took great strides in "ma[king] explicit and un-ambiguous" the human rights norms that had "theretofore .
+.
+.
+[been] implicit in International Law."
+Jackson, Final Report, ante , at 342.
+And as Judge Katzmann noted in Khulumani : "[C]ourts, international bodies, and scholars [**15] have recognized that the principles set out in the London Charter and applied by the International Military Tribunal are significant not only because they have garnered broad acceptance, but also because they were viewed as reflecting and crystallizing preexisting customary international law."
+504 F.3d at 271 (Katzmann, J., concurring).
+It is notable, then, that the London Charter, which established the International Military Tribunal at Nuremberg, granted the Tribunal jurisdiction over natural persons only.
+See London Charter, ante , art.
+6, 59 Stat, at 1547 (granting the tribunal jurisdiction to "try and punish persons .
+.
+.
+whether as individuals or as members of organizations" — i.e. , natural persons (emphases added)); see also Charter of the International Military Tribunal for the Far East, art.
+5, Jan. 19, 1946, amended Apr. 26, 1946, 4 Bevans 20, 22 (granting the tribunal jurisdiction over "war criminals who as individuals or as members of organizations are charged with offenses" (emphases added)).
+The London Charter also granted the International Military Tribunal the authority to declare organizations "criminal" — and several German government and military organizations, such as the SS and the Gestapo, were, in fact, indicted.
+London Charter, ante , art.
+9, 59 Stat, at 1548 ("At the trial of any individual member of any group or organization the Tribunal may declare .
+.
+.
+that the group or organization of which the individual was a member was a criminal organization.
+"); Ann Tusa & John Tusa, The Nuremberg Trial 425 (1983) (describing the indictment of six organizations).
+See generally The Nurnberg Trial , 6 F.R.D. at 136-43 (describing the structure of the SS and the Gestapo and the criminal activities of their members).
+Such a declaration following indictment, however, did not result in the organization being punished or having liability assessed against it.
+Rather, the effect of declaring an organization criminal was merely to facilitate the prosecution of individuals who were members of the organization.
+See London Charter, ante , art.
+10, 59 Stat, at 1548 ("In cases where a group or organization is declared criminal by the Tribunal, the competent national authority of any Signatory shall have the right to bring individuals to trial for membership therein before national, military or occupation courts.
+In any such case the criminal nature of the group or organization is considered proved and shall not be questioned. "
+(emphasis added)).
+Echoing the London Charter's imposition of liability on natural persons only, the subsequent United States Military Tribunals, established under Control Council Law No. 10, prosecuted corporate executives for their role in violating customary international law during the Second World War, but not the corporate entities themselves.
+See generally Control Council Law No. 10, Punishment of Persons Guilty of War Crimes, Crimes Against Peace and Against Humanity, in 1 Enactments and Approved Papers of the Control Council and Coordinating Committee, Allied Control Authority Germany 306 (1945), available at http://www.
+loc.gov/rr/frd/Military Law/Enactments/Volume-I.pdf.
+[fn37] This approach [**16] to liability can be seen most clearly in the tribunal's treatment of the notorious I.G.
+Farben chemical company ("I.G.
+Farben").
+The refusal of the military tribunal at Nuremberg to impose liability on I.G.
+Farben is not a matter of happenstance or oversight.
+This corporation's production of, among other things, oil, rubber, nitrates, and fibers was harnessed to the purposes of the Nazi state, and it is no exaggeration to assert that the corporation made possible the war crimes and crimes against humanity perpetrated by Nazi Germany, including its infamous programs of looting properties of defeated nations, slave labor, and genocide: The depth of the partnership [between the Nazi state and I.G.
+Farben] was reached at Auschwitz, the extermination center [in Poland], where four million human beings were destroyed in accordance with the "Final Solution of the Jewish Question," Hitler's plan to destroy an entire people.
+Drawn by the almost limitless reservoir of death camp labor, I.G.
+[Farben] chose to build a great industrial complex at Auschwitz for the production of synthetic rubber and oil.
+Joseph Borkin, The Crime and Punishment of I.G.
+Farben 2-3 (1978).
+Auschwitz was an I.G.
+Farben slave camp where millions were exterminated by Zyklon B, an insecticide knowingly and intentionally manufactured and provided by I.G.
+Farben and affiliated corporate entities for a new and lethal use as an asphyxiating agent in the gas chambers at Auschwitz.
+Id. at 122-23 .
+Twenty-four executives of Farben were charged, inter alia , with "Planning, Preparation, Initiation, and Waging of Wars of Aggression and Invasions of Other Countries"; "Plunder and Spoliation"; and "Slavery and Mass Murder."
+See 7 Trials of War Criminals Before the Nuernberg Military Tribunals Under Control Council Law No. 10 ("The Farben Case ") 11-60 (1952); see also Borkin, ante , at 137 (discussing the indictment of I.G.
+Farben executives).
+But the I.G.
+Farben corporate entity was not charged, nor was it named in the indictment as a criminal organization.
+In issuing its judgment, the tribunal pointedly observed that "the corporate defendant, Farben, is not before the bar of this Tribunal and cannot be subjected to criminal penalties in these proceedings."
+8 The Farben Case, ante , at 1153.
+The Tribunal emphasized: We have used the term "Farben" as descriptive of the instrumentality of cohesion in the name of which the enumerated acts of spoliation were committed.
+But corporations act through individuals and, under the conception of personal individual guilt .
+.
+.
+the prosecution, to discharge the burden imposed upon it in this case, must establish by competent proof beyond a reasonable doubt that an individual defendant was either a participant in the illegal act or that, being aware thereof, he authorized or approved it.
+Id .
+(emphases added).
+[fn38] Those statements parallel the oft-cited passage of the Nuremberg judgment, made in response to the argument that international law is concerned only with the actions of sovereign states: "Crimes against international law are committed by men, not by abstract entities, and only by punishing [**17] individuals who commit such crimes can the provisions of international law be enforced."
+The Nurnberg Trial , 6 F.R.D. at 110 .
+In declining to impose corporate liability under international law in the case of the most nefarious corporate enterprise known to the civilized world, while prosecuting the men who led I.G.
+Farben, the military tribunals established under Control Council Law No. 10 expressly defined liability under the law of nations as liability that could not be divorced from individual moral responsibility.
+It is thus clear that, at the time of the Nuremberg trials, corporate liability was not recognized as a "specific, universal, and obligatory" norm of customary international law.
+See Sosa , 542 U.S. at 732 , 124 S.Ct. 2739 (internal quotation marks omitted).
+We turn now to international tribunals convened since Nuremberg to determine whether there is any evidence that the concept corporate liability has coalesced into a "specific, universal, and obligatory" norm.
+2.
+International Tribunals Since Nuremberg Since Nuremberg, international tribunals have continually declined to hold corporations liable for violations of customary international law.
+For example, the charters establishing both the International Criminal Tribunal for the former Yugoslavia, or "ICTY," and the International Criminal Tribunal for Rwanda, or "ICTR," expressly confined the tribunals' jurisdiction to "natural persons."
+See International Criminal Tribunal for the Former Yugoslavia Statute, S.C. Res. 827, U.N.
+Doc.
+S/RES/827 (May 25, 1993), adopting The Secretary-General, Report Pursuant to Paragraph 2 of Security Council Resolution 808 ("Report of the Secretary-General"), art.
+6, U.N.
+Doc.
+S/25704 (May 3, 1993) ("The International Tribunal shall have jurisdiction over natural persons.
+.
+.
+.
+"); Statute of the International Tribunal for Rwanda, art.
+5, S.C. Res. 955, U.N.
+Doc.
+S/RES/955 (Nov. 8, 1994) (same); cf. Khulumani , 504 F.3d at 274 (Katzmann, J., concurring) ("[T]he ICTY Statute is particularly significant because the `Individual Criminal Responsibility' section of that statute was intended to codify existing norms of customary international law.").
+The commentary contained in the Report of the Secretary-General of the United Nations on the ICTY reveals that jurisdiction over corporations was considered but expressly rejected: "[T]he ordinary meaning of the term `persons responsible for serious violations of international humanitarian law would be natural persons to the exclusion of juridical persons. "
+Report of the Secretary-General, ante , ¶ 50.
+Moreover, unlike the International Military Tribunal at Nuremberg, the ICTY lacked the authority to declare organizations "criminal."
+Id. ¶ 51 ("The question arises .
+.
+.
+whether a juridical person, such as an association or organization, may be considered criminal as such and thus its members, for that reason alone, be made subject to the jurisdiction of the International Tribunal.
+The Secretary-General believes that this concept should not be retained in regard to the International Tribunal.
+The criminal acts set out in this statute are carried out by natural persons .
+.
+.
+.
+"); cf. London [**18] Charter, ante , art.
+9, 59 Stat, at 1548 .
+Thus, to the extent that the International Military Tribunal at Nuremberg possessed some limited authority to declare corporations criminal — which, as explained above, operated merely as an evidentiary rule for later trials imposing liability on individuals — subsequent tribunals have not retained that procedure.
+More recently, the Rome Statute of the ICC also limits that tribunal's jurisdiction to "natural persons."
+See The Rome Statute of the International Criminal Court ("Rome Statute") art.
+25(1), opened for signature July 17, 1998, 37 I.L.M.
+1002, 1016; see also Albin Eser, Individual Criminal Responsibility, in 1 The Rome Statute of the International Criminal Court 767, 778 (Antonio Cassese et al.
+eds., 2002) ("[W]hen reading paragraphs (1), (2), and (3) of Article 25 of the ICC Statute together, there can be no doubt that by limiting criminal responsibility to individual natural persons, the Rome Statute implicitly negates — at least for its own jurisdiction — the punishability of corporations and other legal entities.").
+Significantly, a proposal to grant the ICC jurisdiction over corporations and other "juridical" persons was advanced by the French delegation, but the proposal was rejected.
+See Eser, ante , at 779.
+As commentators have explained, the French proposal was rejected in part because "criminal liability of corporations is still rejected in many national legal orders" and thus would pose challenges for the ICC's principle of "complementarity."
+[fn39] Id.; see also Draft Report of the Intersessional Meeting from 19 to 30 January 1998 [Held] in Zuthphen, The Netherlands, in The Statute of the International Criminal Court: A Documentary History 221, 245 n. 79 (M. Cherif Bassiouni ed., 1998) ("There is a deep divergence of views as to the advisability of including criminal responsibility of legal [ i.e. , juridical] persons in the statute.
+"); Andrew Clapham, The Question of Jurisdiction Under International Criminal Law Over Legal Persons: Lessons from the Rome Conference on an International Criminal Court, in Liability of Multinational Corporations Under International Law 139, 157 (Menno T. Kamminga & Saman Zia-Zarifi eds., 2000) ("This proposal was finally withdrawn by the French delegation when it became clear that there was no possibility that a text could be adopted by consensus.
+.
+.
+.
+For some delegations the whole notion of corporate criminal responsibility was simply `alien', raising problems of complementarity."
+(emphasis added)).
+The history of the Rome Statute therefore confirms the absence of any generally recognized principle or consensus among States concerning corporate liability for violations of customary international law.
+In sum, modern international tribunals make it abundantly clear that, since Nuremberg, the concept of corporate liability for violations of customary international law has not even begun to "ripen[]" into a universally accepted norm of international law.
+Cf. The Paquete Habana , 175 U.S. at 686 , 20 S.Ct. 290 (explaining that a practice can "gradually ripen[] into a rule of international law" through "usage among civilized [**19] nations").
+B. International Treaties Treaties "are proper evidence of customary international law because, and insofar as, they create legal obligations akin to contractual obligations on the States parties to them."
+Flores , 414 F.3d at 256 .
+Although all treaties ratified by more than one State provide some evidence of the custom and practice of nations, "a treaty will only constitute sufficient proof of a norm of customary international law if an overwhelming majority of States have ratified the treaty, and those States uniformly and consistently act in accordance with its principles."
+Id .
+(second emphasis added).
+Moreover, as one distinguished scholar of international law has explained: The ordinary treaty by which two or more states enter into engagements with one another for some special object can very rarely be used even as evidence to establish the existence of a rule of general law ; it is more probable that the very reason of the treaty was to create an obligation which would not have existed by the general law, or to exclude an existing rule which would otherwise have applied.
+Brierly, ante , at 57 (emphases added).
+That a provision appears in one treaty (or more), therefore, is not proof of a well-established norm of customary international law.
+One district court in our Circuit erroneously overvalued the importance of a number of international treaties in finding that corporate liability has attained the status of customary international law.
+See Presbyterian Church of Sudan v. Talisman Energy, Inc. , 244 F.Supp.2d 289 , 316-17 (S.D.N.Y.
+2003) (denying defendants' motion to dismiss).
+But see Presbyterian Church of Sudan v. Talisman Energy, Inc. , 453 F.Supp.2d 633 (S.D.N.Y.
+2006) (granting summary judgment to defendants on different grounds), affirmed by 582 F.3d 244 (2d Cir. 2009).
+None of the treaties relied upon in the district court's 2003 Presbyterian Church opinion has been ratified by the United States, and most of them have not been ratified by other States whose interests would be most profoundly affected by the treaties' terms.
+[fn40] Cf. Flores , 414 F.3d at 256-57 (explaining that a treaty's evidentiary value is dependent, in part, on the number and "relative influence .
+.
+.
+in international affairs" of the States that have ratified it).
+Those treaties are therefore insufficient — considered either individually or collectively — to demonstrate that corporate liability is universally recognized as a norm of customary international law.
+Even if those specialized treaties had been ratified by an "overwhelming majority" of states, id. at 256 — as some recent treaties providing for corporate liability have been, see, e.g. , Convention Against Transnational Organized Crime, art.
+10(1), adopted Nov. 15, 2000, S. Treaty Doc.
+108-16; Convention on Combating Bribery of Foreign Public Officials in International Business Transactions, art.
+2, done Dec. 17, 1997, S. Treaty Doc.
+No. 105-43 — the fact that those treaties impose obligations on corporations in the context of the treaties' particular subject matter tells us nothing about whether corporate liability for, say, violations of human rights , which are not a subject of those treaties, is universally [**20] recognized as a norm of customary international law.
+Significantly, to find that a treaty embodies or creates a rule of customary international law would mean that the rule applies beyond the limited subject matter of the treaty and to nations that have not ratified it.
+See 1 Oppenheim's International Law 626, at 1261.
+To construe those treaties as so-called "law-making" treaties — that is, treaties that codify existing norms of customary international law or crystallize an emerging rule of customary international law — would be wholly inappropriate and without precedent.
+See id. 583, at 1203-04 (discussing "law-making" treaties).
+As noted above, there is no historical evidence of an existing or even nascent norm of customary international law imposing liability on corporations for violations of human rights.
+It cannot be said, therefore, that those treaties on specialized questions codify an existing, general rule of customary international law.
+Nor can those recent treaties, in light of their limited number and specialized subject matter, be viewed as crystallizing an emerging norm of customary international law.
+See id. 583, at 1204 (explaining that "relatively extensive participation in a treaty, coupled with a subject matter of general significance and stipulations which accord with the general sense of the international community, do establish for some treaties an influence far beyond the limits of formal participation in them" (footnote omitted)).
+Furthermore, even if, as a general rule, treaties on a specialized subject matter could be viewed as crystallizing a norm of customary international law (which they generally cannot), it would be inappropriate to do so in this case in light of the recent express rejection in major multilateral treaties of a norm of corporate liability in the context of human rights violations.
+See, e.g. , Rome Statute, ante , art.
+25.
+Finally, the few specialized treaties imposing liability on corporations have not had such influence that a general rule of corporate liability has become a norm of customary international law.
+The ICJ in 1969 described the process by which that might occur in the well-known North Sea Continental Shelf Cases.
+There, Denmark and the Netherlands had argued that the Federal Republic of Germany was bound by a particular provision of a treaty, which Germany had not ratified, because the rule embodied in the multilateral treaty had become a norm of customary international law.
+According to the ICJ, accepting that view would require treating [a particular provision of the 1958 Geneva Continental Shelf Convention] as a norm-creating provision which has constituted the foundation of, or has generated a rule which, while only conventional or contractual in its origin, has since passed into the general corpus of international law, and is now accepted as such by the opinio juris , so as to have become binding even for countries which have never, and do not, become parties to the Convention.
+There is no doubt that this process is a perfectly possible one [**21] and does from time to time occur: it constitutes indeed one of the recognized methods by which new rules of customary international law may be formed.
+At the same time this result is not lightly to be regarded as having been attained.
+Id. at 373-74.
+For a treaty provision to attain the status of a norm of customary international law, the ICJ explained, "[i]t would in the first place be necessary that the provision concerned should, at all events potentially, be of a fundamentally norm-creating character such as could be regarded as forming the basis of a general rule of law."
+Id. at 374 (emphasis added).
+Provisions on corporate liability in a handful of specialized treaties cannot be said to have a "fundamentally norm-creating character."
+Moreover, as the history of the Rome Statute demonstrates, "still unresolved controversies as to the exact meaning and scope of this notion" of corporate liability "raise further doubts as to the potentially norm-creating character of the rule."
+Id.
+Accordingly, provisions imposing corporate liability in some recent specialized treaties have not established corporate liability as a norm of customary international law.
+In reaching the contrary conclusion in Presbyterian Church , the judge to whom the case was originally assigned in the district court acknowledged that "most treaties do not bind corporations" but reasoned that "[i]f corporations can be liable for unintentional torts such as oil spills or nuclear accidents, logic would suggest that they can be held liable for intentional torts such as complicity in genocide, slave trading, or torture."
+Presbyterian Church , 244 F.Supp.2d at 317 (emphases added).
+In addition to the reasons discussed above, the district court's conclusion was flawed by its use of an improper methodology for discerning norms of customary international law: customary international law does not develop through the "logical" expansion of existing norms.
+Cf. Yousef , 327 F.3d at 103-04 ("The strictly limited set of crimes subject to universal jurisdiction cannot be expanded by drawing an analogy between some new crime .
+.
+.
+and universal jurisdiction's traditional subjects.").
+Rather, as the Supreme Court has explained, it develops, if at all, through the custom and practice "among civilized nations .
+.
+.
+gradually ripening into a rule of international law."
+Sosa , 542 U.S. at 715 , 124 S.Ct. 2739 (quoting The Paquete Habana , 175 U.S. at 686 , 20 S.Ct. 290 ).
+[fn41] It bears underscoring that the purpose of the ATS was not to encourage United States courts to create new norms of customary international law unilaterally.
+Sosa , 542 U.S. at 728 , 124 S.Ct. 2739 (explaining that federal courts have "no congressional mandate to seek out and define new and debatable violations of the law of nations").
+Instead, the statute was rooted in the ancient concept of comity among nations and was intended to provide a remedy for violations of customary international law that "threaten[] serious consequences in international affairs."
+Id. at 715 , 124 S.Ct. 2739 (noting that this concern "was probably on the minds of the men who drafted the ATS").
+Unilaterally recognizing new norms of customary international law — that is, norms that have not been universally [**22] accepted by the rest of the civilized world — would potentially create friction in our relations with foreign nations and, therefore, would contravene the international comity the statute was enacted to promote.
+[fn42] We conclude, therefore, that the relatively few international treaties that impose particular obligations on corporations do not establish corporate liability as a "specific, universal, and obligatory" norm of customary international law.
+Id. at 732 , 124 S.Ct. 2739 (internal quotation marks omitted).
+Although those treaties suggest a trend towards imposing corporate liability in some special contexts, no trend is detectable outside such narrow applications in specialized treaties, and there is nothing to demonstrate that corporate liability has yet been recognized as a norm of the customary international law of human rights.
+[fn43] C. Works of Publicists Although the works of publicists ( i.e. , scholars or "jurists") can be a relevant source of customary international law, "[s]uch works are resorted to by judicial tribunals, not for the speculations of their authors concerning what the law ought to be, but for trustworthy evidence of what the law really is."
+Sosa , 542 U.S. at 734 , 124 S.Ct. 2739 (quoting The Paquete Habana , 175 U.S. at 700 , 20 S.Ct 290 ); see also ICJ Statute, ante , art.
+38(1)(d), 59 Stat, at 1060 (directing the ICJ to apply "judicial decisions and the teachings of the most highly qualified publicists of the various nations, as subsidiary means for the determination of rules of law. "
+(emphasis added)); see note 47, post.
+[fn44] In light of the evidence discussed above, it is not surprising that two renowned professors of international law, Professor James Crawford [fn45] and Professor (now Judge) Christopher Greenwood, [fn46] forcefully declared in litigation argued before this panel on the same day as this case, that customary international law does not recognize liability for corporations that violate its norms.
+According to Professor Crawford, "no national court [outside of the United States] and no international judicial tribunal has so far recognized corporate liability, as opposed to individual liability, in a civil or criminal context , on the basis of a violation of the law of nations or customary international law."
+See Declaration of James Crawford ¶ 10, Presbyterian Church of Sudan v. Talisman Energy, Inc. , No. 07-0016 (2d Cir. Jan. 22, 2009) (emphasis added); see also Second Declaration of Christopher Greenwood ¶ 13, Presbyterian Church of Sudan v. Talisman Energy, Inc. , No. 01 Civ. 9882 (S.D.N.Y.
+July 10, 2002) ("[T]here is not, and never has been, any assertion of the criminal liability of corporations in international law.
+"); Michael Koebele, Corporate Responsibility Under the Alien Tort Statute 196 (2009) ("[D]espite trends to the contrary, the view that international law primarily regulates States and in limited instances such as international criminal law, individuals, but not [transnational corporations], is still the prevailing one among international law scholars.").
+[fn47] Even those who favor using the ATS as a means of holding corporations accountable for human rights violations reluctantly acknowledge that "the universe of international [**23] criminal law does not reveal any prosecutions of corporations per se." Ratner, note 43, ante , at 477.
+[fn48] Together, those authorities demonstrate that imposing liability on corporations for violations of customary international law has not attained a discernible, much less universal, acceptance among nations of the world in their relations inter se. Because corporate liability is not recognized as a "specific, universal, and obligatory" norm, see Sosa , 542 U.S. at 732 , 124 S.Ct. 2739 (internal quotation marks omitted), it is not a rule of customary international law that we may apply under the ATS.
+Accordingly, insofar as plaintiffs in this action seek to hold only corporations liable for their conduct in Nigeria (as opposed to individuals within those corporations), and only under the ATS, their claims must be dismissed for lack of subject matter jurisdiction.
+III.
+The Concurring Opinion Judge Leval concedes that "international law, of its own force, imposes no liabilities on corporations or other private juridical entities."
+Concurring Op. 186.
+In other words, despite his perplexing but forceful contentions otherwise, Judge Leval does not disagree with Part II of our opinion.
+What he disputes is our conclusion in Part I that customary international law supplies the rule of decision.
+Judge Leval admits that international law is "the place to look" to "determine whether a corporation can be held civilly liable for a violation of international law," id. at 173-74, but he maintains that we must accept corporate liability based on principles of domestic law unless "the law of nations [has] spoke[n] on the question [and] provid[ed] that acts of corporations are not covered by the law of nations," id. at 175.
+He then contends that the law of nations has not, in fact, spoken on the question and that corporate liability is therefore a matter of "remedy" that "international law leaves .
+.
+.
+to the independent determination of each State."
+Id. at 176.
+In doing so Judge Leval dismisses as a source of authoritative guidance the fact that no international tribunal has ever been accorded jurisdiction over corporations because those tribunals have been charged only with the prosecution of crimes.
+Id. at 165-70.
+Finally, Judge Leval accuses us of rejecting corporate civil liability under the ATS merely because there is no norm of corporate civil liability in customary international law, and he argues that this reasoning is inconsistent with our endorsement of individual liability under the ATS.
+Id. at 152-53.
+Judge Leval's criticisms distort our holding and betray several fundamental misunderstandings of customary international law.
+First, Judge Leval attempts to shift to us the burden of identifying a norm of customary international law that supports our "rule."
+But it is entirely inappropriate to begin, as Judge Leval apparently begins, with a presumption that a violation of customary international law can be attributed to any defendant unless, and until, a norm of customary international law declares otherwise.
+This reasoning turns customary international law on [**24] its head.
+Customary international law arises from the customs and practices "among civilized nations .
+.
+.
+gradually ripening into a rule of international law."
+Sosa , 542 U.S. at 715 , 124 S.Ct. 2739 (quoting The Paquete Habana , 175 U.S. at 686 , 20 S.Ct. 290 ).
+Accordingly, the responsibility lies with those who seek to demonstrate that "international law extends the scope of liability for a violation of a given norm to the perpetrator being sued."
+Id. at 732 n. 20, 124 S.Ct. 2739 .
+Judge Leval produces no evidence that international law extends the scope of liability to corporations, and, in fact, he concedes that it does not.
+Concurring Op. 186 ("It is true that international law, of its own force, imposes no liabilities on corporations or other private juridical entities.").
+In any event, although it is not our burden, we have little trouble demonstrating the absence of a norm of corporate liability in customary international law.
+See Part II, ante.
+Second, Judge Leval dismisses the fact that international tribunals have consistently declined to recognize corporate liability as a norm of customary international law; he does so by inventing a distinction between civil and criminal liability in customary international law that is contrary to our ATS jurisprudence.
+As Judge Katzmann explained in his separate opinion in Khulumani "[t]his distinction finds no support in our case law, which has consistently relied on criminal law norms in establishing the content of customary international law for purposes of the [ATS]."
+504 F.3d at 270 n. 5.
+Unlike U.S. domestic law, "international law does not maintain [a] kind of hermetic seal between criminal and civil law."
+Id .
+(citing Sosa, 542 U.S. at 762-63 , 124 S.Ct. 2739 (Breyer, J., concurring)).
+Indeed, Judge Katzmann was able to conclude that the scope of customary international law reaches those who aid and abet violations of international law only by looking to the charters of — and the law applied by — the very same international tribunals that Judge Leval ignores.
+Id. at 270 (observing that liability for aiders and abettors was "applied by the war crimes trials following the Second World War" and "has been repeatedly recognized in numerous international treaties, most notably the Rome Statute of the International Criminal Court, and in the statutes creating the International Criminal Tribunal for the Former Yugoslavia (`ICTY') and the International Criminal Tribunal for Rwanda (`ICTR')"); see also Presbyterian Church , 582 F.3d at 257 n. 7 ("[C]ustomary international law norms prohibiting genocide, war crimes, and crimes against humanity have been developed largely in the context of criminal prosecutions rather than civil proceedings."
+(internal quotation marks omitted)).
+Judge Leval explicitly endorsed Judge Katzmann's reasoning in Khulumani by joining the unanimous panel opinion in Presbyterian Church , which expressly adopted Judge Katzmann's rule as the law of our Circuit.
+Presbyterian Church , 582 F.3d at 258 .
+Apparently, Judge Leval would have us look to international criminal tribunals only when they supply a norm with which he agrees.
+Third, Judge Leval distorts our analysis by claiming that we hold "that the absence of a universal practice among nations of [**25] imposing civil damages on corporations for violations of international law means that under international law corporations are not liable for violations of the law of nations."
+Concurring Op. 152 (emphasis added).
+That is not our holding.
+We hold that corporate liability is not a norm that we can recognize and apply in actions under the ATS because the customary international law of human rights does not impose any form of liability on corporations (civil, criminal, or otherwise).
+Finally, and most importantly, Judge Leval incorrectly categorizes the scope of liability under customary international law — that is, who can be liable for violations of international law — as merely a question of remedy to be determined independently by each state.
+Id. at 175-76.
+As we explained above, see Part LA, ante , the subjects of international law have always been defined by reference to international law itself.
+Judge Leval is therefore wrong to suggest that "international law takes no position" on the question of who can be liable for violations of international law.
+Id. at 152.
+[fn49] Although international law does (as Judge Leval explains) leave remedial questions to States, id. at 175-76, the liability of corporations for the actions of their employees or agents is not a question of remedy.
+[fn50] Corporate liability imposes responsibility for the actions of a culpable individual on a wholly new defendant — the corporation.
+In the United States, corporate liability is determined by a body of rules determining which actions of an employee or agent are to be imputed to the corporation.
+[fn51] In this important respect, corporate liability is akin to accessorial liability, which is a subject of international law not left to individual States.
+See Presbyterian Church , 582 F.3d at 259 (holding that " Sosa and our precedents send us to international law to find the standard for accessorial liability" and rejecting the argument that international law relies on domestic law to supply the standard, as a means of enforcement).
+The potential for civil damages under the ATS arises only if customary international law recognizes that a particular class of defendant is a subject of international law in the first place.
+See 28 U.S.C. 1350 (providing jurisdiction over "torts .
+.
+.
+committed in violation of the law of nations " (emphasis added)).
+Contrary to Judge Leval's suggestion, therefore, individual liability under the ATS is wholly consistent with our holding today.
+Congress chose in the ATS to grant jurisdiction over torts committed "in violation of the law of nations," id .
+, and since the Nuremberg trials, customary international law has recognized individual liability for the violation of international human rights.
+Thus, the ATS merely permits courts to recognize a remedy (civil liability) for heinous crimes universally condemned by the family of nations against individuals already recognized as subjects of international law.
+To permit courts to recognize corporate liability under the ATS, however, would require, at the very least, a different statute — one that goes beyond providing [**26] jurisdiction over torts committed "in violation of the law of nations" to authorize suits against entities that are not subjects of customary international law.
+CONCLUSION The ATS provides federal district courts jurisdiction over a tort, brought by an alien only, alleging a "violation of the law of nations or a treaty of the United States."
+28 U.S.C. 1350 .
+When an ATS suit is brought under the "law of nations," also known as "customary international law," jurisdiction is limited to those cases alleging a violation of an international norm that is "specific, universal, and obligatory."
+Sosa v. Alvarez-Machain , 542 U.S. 692 , 732 , 124 S.Ct. 2739 , 159 L.Ed.2d 718 (2004) (quoting with approval the statement of a lower court); see also Flores v. S. Peru Copper Corp. , 414 F.3d 233 , 238 (2d Cir. 2003) ("[C]ustomary international law is composed only of those rules that States universally abide by, or accede to, out of a sense of legal obligation and mutual concern.").
+No corporation has ever been subject to any form of liability (whether civil, criminal, or otherwise) under the customary international law of human rights.
+Rather, sources of customary international law have, on several occasions, explicitly rejected the idea of corporate liability.
+Thus, corporate liability has not attained a discernable, much less universal, acceptance among nations of the world in their relations inter se , and it cannot not, as a result, form the basis of a suit under the ATS.
+Acknowledging the absence of corporate liability under customary international law is not a matter of conferring "immunity" on corporations.
+It is, instead, a recognition that the States of the world, in their relations with one another, see IIT v. Vencap, Ltd. , 519 F.2d 1001 , 1015 (2d Cir. 1975) (Friendly, J.), abrogated on other grounds by Morrison v. Nat'l Austl.
+Bank Ltd. , U.S. , 130 S.Ct. 2869 , 177 L.Ed.2d 535 (2010), have determined that moral and legal responsibility for heinous crimes should rest on the individual whose conduct makes him or her "` hostis humani generis , an enemy of all mankind.'"
+Sosa 542 U.S. at 732 , 124 S.Ct. 2739 (quoting Filartiga v. Pena-Irala , 630 F.2d 876 , 890 (2d Cir. 1980)).
+Nothing in this opinion limits or forecloses suits under the ATS against a corporation's employees, managers, officers, directors, or any other person who commits, or purposefully aids and abets, violations of international law.
+Moreover, nothing in this opinion limits or forecloses corporate liability under any body of law other than the ATS — including the domestic statutes of other States — and nothing in this opinion limits or forecloses Congress from amending the ATS to bring corporate defendants within our jurisdiction.
+Corporate liability, however, is simply not "accepted by the civilized world and defined with a specificity comparable to the features of the 18th-century paradigms" recognized as providing a basis for suit under the law prescribed by the ATS, customary international law.
+Sosa, 542 U.S. at 725 , 124 S.Ct. 2739 .
+We do not know whether the concept of corporate liability will "gradually ripen[] into a rule of international law."
+Id. at 715 , 124 S.Ct. 2739 (quoting The Paquete Habana , 175 U.S. 677 , 700 , 20 S.Ct. 290 , 44 L.Ed. 320 (1900)).
+It can do so, however, only by achieving universal recognition and acceptance as a norm in the relations of States inter se. For now, and for the foreseeable future, [**27] the Men Tort Statute does not provide subject matter jurisdiction over claims against corporations.
+To summarize, we hold as follows: (1) Since Filartiga , which in 1980 marked the advent of the modern era of litigation for violations of human rights under the Alien Tort Statute, all of our precedents — and the Supreme Court's decision in Sosa , 542 U.S. at 732 n. 20 [ 124 S.Ct. 2739 ] — require us to look to international law to determine whether a particular class of defendant, such as corporations, can be liable under the Alien Tort Statute for alleged violations of the law of nations.
+(2) The concept of corporate liability for violations of customary international law has not achieved universal recognition or acceptance as a norm in the relations of States with each other.
+See Vencap , 519 F.2d at 1015 .
+Inasmuch as plaintiffs assert claims against corporations only, their complaint must be dismissed for lack of subject matter jurisdiction.
+Accordingly, the September 29, 2006 order of the District Court is AFFIRMED insofar as it dismissed some of plaintiffs' claims against the corporate defendants and REVERSED insofar as it declined to dismiss plaintiffs' remaining claims against the corporate defendants.

@@ -1,0 +1,686 @@
+ KAREN NELSON MOORE, Circuit Judge.
+Lexmark International, Inc. ("Lexmark") is a major producer of laser printers and toner cartridges for its laser printers.
+Other companies, called remanufacturers, acquire used Lexmark toner cartridges, refill them, and sell them to owners of Lexmark printers at a lower cost.
+Lexmark developed microchips for both the toner cartridges and the printers so that Lexmark printers will reject any toner cartridges not containing a matching microchip, and over time Lexmark has patented certain aspects of the cartridges.
+Static Control Components, Inc. ("Static Control") has identified how to replicate the cartridge microchips and sells the microchips to the remanufacturers along with other parts to facilitate the repair and resale of Lexmark toner [**2] cartridges.
+Lexmark sued Static Control in 2002 (the "02 Action") for copyright violations related to its source code in making the duplicate microchips and was given a preliminary injunction by the district court.
+Static Control counterclaimed under federal and state antitrust and false-advertising laws.
+While that suit was pending, Static Control redesigned its microchips and sued Lexmark for declaratory judgment in 2004 (the "04 Action") to establish that the redesigned microchips did not infringe any copyright.
+[fn1] Lexmark counterclaimed again for copyright violations and this time added patent counterclaims against Static Control and eventually three of the remanufacturers.
+The two suits were consolidated into the 04 Action.
+On appeal of the preliminary injunction, the Sixth Circuit vacated and rejected Lexmark's copyright theories.
+Lexmark Int'l, Inc. v. Static Control Components, Inc. , 387 F.3d 522 (6th Cir.2004) (" Lexmark I ").
+On remand, Lexmark successfully moved to dismiss all of Static Control's counterclaims.
+The case proceeded to trial, and the only issues ultimately submitted to the jury were Lexmark's claim of patent inducement against Static Control and Static Control's defense of patent misuse.
+The district judge instructed the jury that its findings on patent misuse would be advisory; the jury held that Static Control did not induce patent infringement and advised that Lexmark misused its patents.
+Lexmark renewed its earlier request for a judgment as a matter of law and also filed a motion for a retrial, which the district court denied.
+Both parties timely appealed.
+For the following reasons, we AFFIRM the district court's dismissal of Static Control's federal antitrust claims, but REVERSE the dismissal of Static Control's claims under the Lanham Act and certain claims under state law.
+We AFFIRM the remainder of the judgment on appeal.
+I. BACKGROUND A. Factual Background Lexmark manufactures laser printers, which require toner cartridges to print.
+The market for printers and toner cartridges generally has many players, e.g., Xerox, Epson, Hewlett-Packard, and Canon, and Lexmark's share of the overall printer market is less than 15%.
+Second Appellee Br. at 4.
+Each company generally manufactures its printers to work with only its own style of cartridges, and each company's cartridges will work with only its brand of printers.
+Therefore, each company typically dominates the aftermarket for cartridges compatible with its brand of printers, although the primary market for printers is well populated.
+Remanufacturers are companies that participate in the toner-cartridge after-markets by acquiring used toner cartridges of all kinds of printers, repairing and refilling them, and selling them to owners of that kind of printer at a lower price.
+[fn2] First Appellant Br. at 11.
+Lexmark also acquires and repairs its used toner cartridges for resale.
+In the 1990s, Lexmark started a "Prebate" program with certain large customers whereby Lexmark would sell new toner cartridges at an upfront discount of around 20% if [**3] the end user agreed to (1) a single-use license and (2) a restriction that the cartridge be returned to Lexmark for remanufacturing or recycling and not to a third-party remanufacturer.
+Second Appellee Br. at 6.
+These terms were printed on several notices on the outside of the toner-cartridge box, which instructed the user that opening the box would indicate acceptance of the terms.
+Regular cartridges not subject to the Prebate terms are still sold, but at a higher price than the Prebate cartridges.
+According to Static Control, the price of Lexmark toner cartridges increased following the implementation of the program because of reduced competition from re-manufacturers.
+First Appellant Br. at 16.
+[fn3] Lexmark toner cartridges each contain a microchip that communicates with the printer once installed.
+Toner cartridges that are otherwise compatible with Lexmark printers will not function without the microchip.
+Lexmark obtains these microchips from a supplier that has allegedly agreed to sell microchips only to Lexmark.
+All Lexmark toner cartridges are initially manufactured with the necessary microchip, but the microchip for the Prebate cartridges is specifically designed to enforce the Prebate terms by disabling the cartridge for future use after the cartridge runs out of toner.
+To use the Prebate cartridge again, the microchip needs to be replaced.
+To use a non-Prebate cartridge again, the microchip does not need to be replaced unless it was damaged.
+Lexmark eventually obtained several patents relating to its toner cartridges.
+At issue on appeal are nine utility patents that the remanufacturers allegedly infringe (referred to as the "nine mechanical patents") and two design patents relating to seven different toner cartridges.
+Static Control developed a microchip that could replace the microchip on the Prebate toner cartridges, permitting a third party to re-manufacture and sell the toner cartridge again.
+Static Control also sent its customers a letter, referred to as an "Anti-Prebate kit," consisting of information from Static Control's general counsel regarding why the Prebate program is not valid under principles of contract law.
+Second Appellee Br. at 33.
+Remanufacturers buy these microchips from Static Control, along with other parts.
+Static Control does not manufacture, remanufacture, or sell toner cartridges of any kind, but it is the market leader on making and selling the components necessary to remanufacture Lexmark cartridges.
+First Appellant Br. at 11.
+Lexmark, on the other hand, sells toner cartridges but does not sell any of the component parts necessary to repair or remanufacture its toner cartridges, whether Prebate cartridges or not.
+B. Procedural Background Lexmark sued Static Control in December 2002 for violations of federal copyright laws and the Digital Millennium Copyright Act ("DMCA"), relating to two computer programs on its printer chips.
+Lexmark sought to halt Static Control's sale of the allegedly infringing chips.
+Static Control responded, ultimately [**4] counterclaiming under federal and state antitrust and false-advertising laws.
+Static Control claimed that Lexmark's Prebate program unlawfully excluded competition in the aftermarket for Lexmark-compatible cartridges, reducing competition and increasing prices, and that Lexmark falsely told remanufacturers that Static Control was infringing on Lexmark's patents.
+Lexmark then counter-claimed in reply, adding remanufacturers as defendants and making additional claims under the DMCA and various statelaw claims, but no patent claims.
+On January 8, 2003, Lexmark received a temporary restraining order in the 02 Action, and on January 24, 2003, the district court required Lexmark to post an injunction bond of $75,000.
+On February 7, 2003, the district court increased the bond to $250,000 and extended relief for 21 days.
+On February 27, 2003, district court granted the preliminary injunction.
+Static Control appealed both the injunction and the bond amount, and in October 2004 the Sixth Circuit reversed the preliminary in-junction, making no comment on the bond amount.
+Lexmark I , 387 F.3d at 551 .
+Static Control sought rehearing on the issue of the bond amount, which we denied in a one-sentence order.
+Lexmark Int'l, Inc. v. Static Control Components, Inc. , No. 03-5400 (6th Cir. Dec. 29, 2004) (unpublished order).
+In light of the ruling, the parties stipulated to summary judgment against Lexmark on its DMCA claims.
+R. 216 (D. Ct. Order 2/23/06).
+Before the Sixth Circuit ruled, however, Static Control initiated the 04 Action seeking declaratory judgment under federal copyright laws and the DMCA that its newly modified chips did not infringe Lexmark's copyrights.
+Lexmark counter-claimed raising patent infringement, DMCA violations, and tort claims, and added three remanufacturers as third-party defendants — Wazana, NER, and Pendl.
+Following the Sixth Circuit's remand, Lexmark moved to dismiss Static Control's counterclaims.
+The district court granted the motion in September 2006.
+During the course of the proceedings, which concluded in a jury trial, nine of Lexmark's mechanical patents were held valid, see R. 1008 (D. Ct. Order 4/24/07), and summary judgment was granted to Lexmark on its claims of direct patent infringement against Wazana, NER, and Pendl, see R. 1203 (D. Ct. Order 5/25/07); R. 1245 (D. Ct. Order 5/31/07).
+All three defendant remanufacturers ultimately settled with Lexmark at various points before the verdict.
+The district court also granted summary judgment to Lexmark on the validity of its single-use license for Prebate cartridges, which the district court concluded prevented Lexmark's patents from exhausting following the initial sale of the Prebate toner cartridges to end users.
+R. 1008 (D. Ct. Order 4/24/07).
+By the close of trial, the only remaining issues were Lexmark's patent-infringement-inducement claims against Static Control and Static Control's equitable defense of patent misuse.
+Because the district court had already ruled on summary judgment that three of the remanufacturers directly infringed, the jury was asked to decide whether the [**5] unnamed remanufacturers directly infringed as a class and whether Static Control induced any direct infringement.
+Because the district court determined that patent misuse was an equitable defense, the final jury instructions indicated that the jury's findings with respect to misuse would be merely advisory.
+R. 1365 (Jury Instructions).
+The jury returned a verdict that Lexmark had failed to show that the remanufacturers as a class directly infringed Lexmark's patents and failed to show that Static Control induced the direct infringement of the three named remanufacturers, Wazana, NER, and Pendl.
+R. 1366 (Special Verdict Format 1-3).
+The jury then advised that it found Static Control had proven by a preponderance of the evidence certain facts that supported Static Control's defense that Lexmark misused its patents.
+Id. at 11-19 ; see also R. 1365 (Jury Instructions at 35-41) (defining misuse).
+Lexmark moved for judgment as a matter of law both before and after the verdict and also filed a motion for a new trial on its patent inducement claim, arguing that the evidence was sufficient to establish direct infringement by Static Control's customers as a class and that, with respect to inducement, the district court erroneously excluded evidence at trial.
+The district court denied the motions.
+R. 1430 (D.Ct.Op.10/03/08); R. 1521 (D. Ct. Op. & Order 10/28/10).
+The district court subsequently reversed its prior ruling that Lexmark's patents were not exhausted in its Prebate cartridges in light of recent Supreme Court precedent.
+R. 1443 (D. Ct. Op. & Order 3/31/09).
+Both parties filed timely appeals.
+II.
+JURISDICTION The parties did not state in their initial briefs the basis for this court's appellate jurisdiction.
+We therefore asked the parties to submit letter briefs addressing whether we have jurisdiction over this appeal or whether the Federal Circuit has exclusive jurisdiction to review the case under 28 U.S.C. 1295 .
+After all, the entirety of Lexmark's appeal requires us to resolve substantive issues of patent law.
+Static Control responds that this court has jurisdiction; Lexmark maintains that the Federal Circuit has exclusive jurisdiction.
+On review, we determine that 28 U.S.C. 1295 does not require that the Federal Circuit hear this case on appeal.
+We have jurisdiction under 28 U.S.C. 1291 .
+The Federal Circuit has exclusive jurisdiction over appeals from final decisions of a district court "if the jurisdiction of that court was based, in whole or in part, on section 1338 of this title."
+28 U.S.C. 1295 (a)(1) (2000).
+Section 1338 gives federal district courts original jurisdiction exclusive of the state courts over "any civil action arising under any Act of Congress relating to patents."
+28 U.S.C. 1338 (a) (1999).
+Because Congress used the phrase "arising under," the Supreme Court has held that patent issues raised in relation to a defense or as counterclaims are insufficient to confer Federal Circuit jurisdiction.
+Holmes Grp., Inc. v. Vorrmdo Air Circulation Sys., Inc. , 535 U.S. 826 , 831 , 122 S.Ct. 1889 , 153 L.Ed.2d 13 (2002).
+Congress amended 28 U.S.C. 1295 and 1338 in the Leahy-Smith America Invents Act to provide additionally for exclusive Federal Circuit jurisdiction over "any civil [**6] action in which a party has asserted a compulsory counterclaim arising under[] any Act of Congress relating to patents," but the amendment is applicable only "to any civil action commenced on or after the date of the enactment of this Act."
+Pub.L.
+112-29 , 19(b) , (e), 125 Stat. 333 .
+The law was enacted on September 16, 2011.
+The civil actions here were commenced well before that date; therefore, the new provision does not apply.
+At first glance, this case appears clear cut: In both the 02 and the 04 Actions, the issues implicating patent law arose as counterclaims.
+However, the Supreme Court has suggested — but declined to decide — that the evolving circumstances of a case may create a situation wherein exclusive Federal Circuit appellate jurisdiction would follow.
+Holmes , 535 U.S. at 829 n. 1, 122 S.Ct. 1889 ("[ T]his case does not call upon us to decide whether the Federal Circuit's jurisdiction is fixed with reference to the complaint as initially filed or whether an actual or constructive amendment to the complaint raising a patent-law claim can provide the foundation for the Federal Circuit's jurisdiction.
+"); Christianson v. Colt Indus.
+Operating Corp. , 486 U.S. 800 , 814-15 , 108 S.Ct. 2166 , 100 L.Ed.2d 811 (1988) ("We need not decide under what circumstances, if any, a court of appeals could furnish itself a jurisdictional basis unsupported by the pleadings by deeming the complaint amended in light of the parties' `express or implied consent' to litigate a claim.").
+Whatever those evolving circumstances may be, however, they are not present in this case. Lexmark can point to no actual or constructive amendment of either complaint.
+Constructive amendments typically occur when a specific claim is not raised, but the parties by their actions act as if they consent to making the claim a part of the proceedings.
+See Torry v. Northrop Grumman Corp. , 399 F.3d 876 , 878 (7th Cir.2005) (Posner, J.); Sunbeam Prods., Inc. v. Wing Shing Prods. (BVI) Ltd. , 153 Fed.Appx.
+703, 706-07 (Fed.Cir.2005) (unpublished opinion), cert. denied , 546 U.S. 1095 , 126 S.Ct. 1085 , 163 L.Ed.2d 863 (2006) (holding Federal Circuit had jurisdiction because pretrial order that added patent issue debated by the parties constructively amended the complaint even though not raised as a claim).
+Here, the patent claims were raised ab initio by the interested party as counterclaims, and no amendment would be necessary to make them formally part of the suit.
+Furthermore, Lexmark sought actually to amend the complaint in the 02 Action to add its patent claims with the express purpose of assuring Federal Circuit jurisdiction.
+R. 456 (Lexmark's Mot.
+to Amend).
+Static Control objected, and Lexmark's motion was denied.
+R. 649 (D. Ct. Order 1/9/07).
+Constructive amendment typically requires express or implied consent of the parties, both of which are lacking.
+Lexmark's best argument is that its patent counterclaims in the 04 Action added new parties, and that the district court's jurisdiction over Lexmark's third-party complaint potentially "arose under" the patent laws.
+Unfortunately for Lex-mark, this too seems insufficient to make the case one "arising under" patent laws.
+Lexmark offers no law or case addressing whether a third-party complaint can render any part of the controversy "arising [**7] under" patent law.
+However, the Supreme Court in Holmes compared the "arising under" inquiry for 28 U.S.C. 1338 to the "arising under" inquiry for original jurisdiction under 28 U.S.C. 1331 .
+And we know that third-party defendants may not remove a controversy to federal court solely because the original defendant filed related federal claims against them.
+First Nat'l Bank of Pulaski v. Curry , 301 F.3d 456 , 461-67 (6th Cir.2002).
+Lexmark has presented no compelling reason to treat this case any differently.
+The district court's jurisdiction arose under 28 U.S.C. 1331 and 1367 , and not under 1338 .
+Therefore, we have appellate jurisdiction under 28 U.S.C. 1291 .
+III.
+INJUNCTION-BOND AMOUNT Static Control appeals the amount of the injunction bond entered by the district court when the district court issued the preliminary injunction in 2002.
+[fn4] The final bond amount entered by the district court was $250,000; Static Control sought estimated damages of over $17 million.
+When the preliminary injunction was entered in 2003, Static Control appealed both the injunction and the bond amount to the Sixth Circuit.
+We vacated the injunction, but we made no mention of the bond.
+Lexmark I , 387 F.3d 522 .
+Static Control sought rehearing from the Sixth Circuit specifically on the issue of the proper injunction-bond amount, which we summarily denied.
+In November 2009, only a few days after filing its notice of appeal, Static Control filed a Motion for Wrongful Injunction Damages in the district court, seeking actual damages of $7-10 million, well in excess of the $250,000 injunction-bond amount.
+R. 1473 (Static Control's Mot.
+to Vacate).
+Lexmark opposed, arguing that the bond amount should serve as the cap on damages.
+R. 1495 (Lexmark's Opp.
+to Mot.
+to Vacate).
+As late as January 29, 2010, Static Control was imploring the district court to "recalculate the bond to reflect the projected damages and set an evidentiary hearing to allow Static Control to prove its actual damages."
+R. 1503 (Static Control's Reply Mot, to Vacate at 14).
+After oral argument in this appeal and prompting from Lexmark, the district court recently denied this motion and ordered the clerk to release the security bond to Static Control.
+R. 1530 (D. Ct. Order 4/24/12).
+Static Control has sent us a letter brief asking us to ignore this order because the district court lacked jurisdiction to decide this amount following the filing of Static Control's notice of appeal, an argument which Static Control presented in its most recent papers before the district court but not in its initial motion seeking the very relief it now claims the district court lacks the jurisdiction to award.
+Lexmark contends that this panel should not consider this argument because the Sixth Circuit necessarily rejected Static Control's claim in declining to vacate the bond amount on the initial appeal.
+Static Control argues that this issue may be considered because it was never " squarely decided " on the first appeal.
+First Appellant Br. at 24 n.9 (internal quotation marks omitted).
+"Issues decided at an early stage of the litigation, either explicitly or by necessary inference from the disposition, constitute the law [**8] of the case." Hanover Ins. Co. v. Am. Eng'g Co. , 105 F.3d 306 , 312 (6th Cir.1997) (internal quotation marks omitted); see also Bowles v. Russell , 432 F.3d 668 , 676-77 (6th Cir.2005), aff'd , 551 U.S. 205 , 127 S.Ct. 2360 , 168 L.Ed.2d 96 (2007).
+Static Control appears to have the better of the argument, because we do not see how the prior panel's lack of commentary on the bond amount (and subsequent decision not to rehear the appeal on the bond amount) contains a necessary inference that we found the bond amount to be proper.
+Ultimately, however, whether our refusal to reconsider Static Control's appeal of the bond amount constitutes the law of the case does not matter because the bond amount was not improper.
+A bond amount shall be set "in an amount that the court considers proper to pay the costs and damages sustained by any party found to have been wrongfully enjoined or restrained."
+Fed.R.Civ.P. 65 (c).
+District courts have broad discretion in setting the bond amount.
+Div. No.
+I, Detroit, Bhd. of Locomotive Eng'rs v. Consol.
+Rail Corp. , 844 F.2d 1218 , 1226 (6th Cir.1988).
+"[T]he court may order a bond that does not completely secure the enjoined party or the court may decline to order a bond, if necessary for the purpose of effecting justice between the parties."
+Id. at 1227 n. 15 (internal quotation marks omitted).
+At the preliminary injunction hearing, Static Control's CEO testified that the company would lose $17,463,580 if forced to halt sales for two years.
+The CEO testified to the overall method his company used to calculate that number, but never presented any underlying calculations.
+Cross-examination revealed a number of assumptions underlying Static Control's estimate, including the assumption that it would take six years for Static Control to regain its previous market position if en-joined.
+The fact that the ultimate bond amount selected by the district court was only two percent of Static Control's claimed damages therefore carries little weight.
+The district court was not required to credit Static Control's testimony solely because Lexmark did not present evidence to the contrary.
+The district court received evidence from Static Control, weighed the evidence against the strength of Lexmark's claims, which were deemed strong at the time, and accordingly raised the initial bond from $75,000 to $250,000.
+We decline to hold that the district court abused its discretion in setting the bond amount under these circumstances.
+IV.
+STATIC CONTROL'S FEDERAL ANTITRUST COUNTERCLAIMS Static Control counterclaimed in the 02 Action under 4 and 16 of the Clayton Act, 15 U.S.C. 15 , 26 , for violations of 1 and 2 of the Sherman Act, 15 U.S.C. 1 , 2 , seeking damages and injunctive relief.
+02R.
+172 (2d Am. Answer & Counterclaim).
+The district court granted Lexmark's motion to dismiss on the basis that Static Control did not have standing to bring the federal antitrust claims for damages or injunctive relief.
+R. 392 (D. Ct. Order 9/28/06).
+A. Standard of Review We review de novo a district court's decision to dismiss a counterclaim for failure to state a claim under Federal Rule of Civil Procedure 12 (b)(6).
+United Ass'n of Journeymen & Apprentices of the Plumbing and Pipefitting Indus., Local No. 577 v. Ross Bros. Constr. Co. , 191 F.3d 714 , 716 (6th Cir.1999).
+[**9] In reviewing a motion to dismiss, we accept all non-conclusory allegations of fact as true and decide whether the claimant has stated a plausible claim for relief.
+Ashcroft v. Iqbal , 556 U.S. 662 , 678-79 , 129 S.Ct. 1937 , 173 L.Ed.2d 868 (2009).
+The pleading must state "enough facts to state a claim to relief that is plausible on its face"; failure to plead sufficient facts will lead to dismissal of the claim.
+Bell Atl. Corp. v. Twombly , 550 U.S. 544 , 570 , 127 S.Ct. 1955 , 167 L.Ed.2d 929 (2007).
+B. Antitrust Standing for Counter-claims with Money Damages Pursuant to the Clayton Act, 15 U.S.C. 15 (a), private parties may bring private actions for violations of the Sherman Act.
+Section 1 of the Sherman Act prohibits conspiracies to restrain trade.
+15 U.S.C. 1 .
+"A Section 1 conspiracy requires more than a manufacturer's unilateral refusal to deal.
+`There must be evidence that tends to exclude the possibility that the [conspirators] were acting independently.'"
+Watson Carpet & Floor Covering, Inc. v. Mohawk Indus., Inc. , 648 F.3d 452 , 457 (6th Cir.2011) (internal citation omitted) (quoting Monsanto Co. v. Spray-Rite Serv. Corp. , 465 U.S. 752 , 764 , 104 S.Ct. 1464 , 79 L.Ed.2d 775 (1984)).
+Section 2 of the Sherman Act prohibits the illegal monopolization of a market.
+15 U.S.C. 2 .
+To bring a claim under 2 , a claimant must show "`(1) possession of monopoly power in the relevant market; and (2) the willful acquisition or maintenance of that power as distinguished from growth or development as a consequence of a superior product, business acumen or historic accident.'"
+Tarrant Serv.
+Agency, Inc. v. Am.
+Standard, Inc. , 12 F.3d 609 , 613 (6th Cir.1993) (quoting United States v. Grinnell Corp. , 384 U.S. 563 , 570-71 , 86 S.Ct. 1698 , 16 L.Ed.2d 778 (1966)), cert. denied , 512 U.S. 1221 , 114 S.Ct. 2709 , 129 L.Ed.2d 836 (1994).
+To bring a private claim for damages under either section of the Sherman Act, the claimant must first demonstrate that it has standing.
+Although required in all cases, standing in an antitrust case is more onerous than the conventional Article III inquiry.
+"[A]ntitrust standing is a threshold, pleading-stage inquiry and when a complaint by its terms fails to establish this requirement we must dismiss it as a matter of law .
+.
+."
+NicSand, Inc. v. 3M Co. , 507 F.3d 442 , 450 (6th Cir.2007) (en banc).
+The district court decides whether a claimant has adequately pleaded antitrust standing by balancing five factors: (1) the causal connection between the antitrust violation and harm to the plaintiff and whether that harm was intended to be caused; (2) the nature of the plaintiffs alleged injury including the status of the plaintiff as consumer or competitor in the relevant market; (3) the directness or indirectness of the injury, and the related inquiry of whether the damages are speculative; (4) the potential for duplicative recovery or complex apportionment of damages; and (5) the existence of more direct victims of the alleged antitrust violation.
+Southaven Land Co., Inc. v. Malone & Hyde, Inc. , 715 F.2d 1079 , 1085 (6th Cir.1983) (citing Associated Gen. Contractors of Cat, Inc. v. Cal. State Council of Carpenters ('AGC "), 459 U.S. 519 , 537-45 , 103 S.Ct. 897 , 74 L.Ed.2d 723 (1983)).
+No one factor controls.
+Peck v. Gen.
+Motors Corp. , 894 F.2d 844 , 846 (6th Cir.1990).
+Static Control alleges that Lexmark conspired with unidentified microchip suppliers and resellers of Lexmark-manufactured printers to restrain trade and otherwise monopolize "the relevant markets," thereby reducing output, increasing prices, and maintaining Lexmark's monopoly.
+Static [**10] Control defines the "relevant markets" as including three distinct but related aftermarkets for Lexmark-specific products: (1) the market for Lexmark re-placement toner cartridges, (2) the market for component parts for Lexmark cartridges, and (3) the market for microchips for Lexmark cartridges.
+[fn5] 02R.
+172 (2d Am. Answer & Countercl.
+at ¶ 17-18).
+The allegations repeatedly refer to the "relevant markets" as a group when the specific facts relate only to the market for replacement cartridges.
+For example, Static Control alleges that Lexmark has "an 85% share in each of the relevant markets," id. at ¶ 18 , but on closer examination the counterclaim alleges that Lexmark competes only in the market for toner cartridges, id. at ¶ 12, 24.
+Static Control alleges that Lexmark's anticompetitive chips "exclude competition, restrict output, and increase end-user prices in the relevant markets," id. at ¶ 47, but the counterclaim never identifies any change in competition, output, or prices in the market for component parts or microchips as a result of Lexmark's conduct.
+The only specific allegations as to price and output relate to the market for toner cartridges.
+Id. at ¶¶ 50-52, 58.
+Therefore, although we read the allegations of the counterclaim in the light most favorable to Static Control, we must carefully consider the actual factual allegations underlying such conclusory allegations.
+Twombly , 550 U.S. at 556-57 , 127 S.Ct. 1955 .
+In its counterclaim, Static Control's allegations can be categorized into five practices by Lexmark that Static Control claims constitute anticompetitive conduct: (1) the Prebate program; [fn6] (2) using "lockout" microchip technology in its printers, causing them to disable when any non-Lexmark replacement cartridge is inserted; (3) requiring Lexmark's microchip supplier to refuse to sell replacement chips to anyone but Lexmark; (4) redesigning its microchips specifically to render cartridges that used Static Control's microchips incompatible; and (5) filing the 02 Action targeting Static Control.
+First Appellant Br. at 12-15; 02R.
+172 (2d Am. Answer & Countercl.
+at ¶ 32, 44-46, 54-56).
+When the allegations are read for specificity and plausibility, these actions target and affect the different markets in different ways.
+We therefore examine each of these alleged violations separately to see if Static Control has standing to pursue any of them. 1.
+Prebate Program Static Control alleges that the Prebate Program, through its lower prices and misleading statements that the end user committed to a license agreement when no such license existed, cajoled end users into purchasing fewer remanufactured cartridges and thereafter returning them primarily to Lexmark.
+As a result, Static Control was also harmed because it lost profits from the decline in sales of microchips and components for Lexmark-compatible cartridges following the decline in sales of remanufactured cartridges.
+First Appellant Br. at 16.
+As alleged, the Prebate Program targets only the market for remanufactured cartridges.
+No part of the Prebate Program relates to the market for microchips or [**11] components, even though the allegations support the Prebate Program's incidental effects in the other markets.
+Static Control itself states that "Lexmark specifically launched its Prebate program to intimidate and to exclude competition from re-manufacturers. "
+02R.
+172 (2d Am. Answer & Countercl.
+at ¶ 33) (emphasis added).
+And as discussed above, although Static Control's allegations often refer to the "relevant markets," the specific factual allegations explain only Prebate's impact on the market for remanufactured cartridges.
+For example, when Static Control alleges that Lexmark used Prebate to "effect[] its deliberate, unlawful, anticompetitive intent to raise prices and exclude competition," id .
+we can conclude only that this allegation relates to the market for toner cartridges because of the lack of any allegations that the prices were raised in other markets.
+Having identified the proper market, we easily conclude that all five of the AGC factors are lacking with respect to the Prebate program.
+Although causation in the traditional sense appears properly alleged — the implementation of the Prebate program decreased the number of remanufactured Lexmark cartridges, which in turn decreased Static Control's sales — Static Control fails to allege plausibly that the Prebate program was intended to harm Static Control.
+As the district court correctly held, the intended targets of Lexmark's Prebate Program were the end users and the remanufacturers, not Static Control.
+R. 392 (D. Ct. Order 9/28/06 at 9).
+Static Control asserts that these conclusions erroneously rely on factual averments and that the district court failed to accept its facts as alleged, but Static Control itself alleges this: "Lexmark specifically launched its Prebate program to intimidate and to exclude competition from remanufacturers."
+02R.
+172 (2d Am. Answer & Countercl.
+at ¶ 33); see also id. at ¶ 42 ("Lexmark's sole purpose for deceiving end-users to believe they are contractually bound by [the Prebate Program] is to preserve, maintain, and enhance its unlawful monopoly power in the relevant markets.").
+Static Control also fails sufficiently to identify its role in the relevant market for remanufactured cartridges.
+Traditionally, only claimants who are competitors or consumers within the injured market have standing to sue.
+Southaven , 715 F.2d at 1086 .
+However, claimants who are not direct players in the relevant market may nonetheless have standing if their injury is "`inextricably intertwined' with the injury sought to be inflicted upon the relevant market or participants therein."
+Id .
+The "inextricably intertwined" exception, however, is narrow.
+See Blue Shield of Va. v. McCready , 457 U.S. 465 , 483-84 , 102 S.Ct. 2540 , 73 L.Ed.2d 149 (1982).
+This exception was not designed to give standing to claimants whose injuries are a tangential byproduct of monopolistic conduct in a related market.
+Southaven , 715 F.2d at 1086 .
+To succeed, the claimant must show that the defendants "manipulated or utilized [the claimant] as a fulcrum, conduit or market force to injure competitors or participants in the relevant product and geographical markets."
+[**12] Id .
+Static Control must therefore have alleged that an injury in Lexmark's market — the market for replacement toner cartridges — is inextricably intertwined with the injuries Static Control claims to be suffering in the market for component parts and microchips.
+The district court rejected Static Control's argument, because Static Control failed adequately to allege that it was "manipulated or utilized by the defendant as a fulcrum, conduit or market force to injure competitors or participants in the relevant product and geo-graphical market."
+R. 392 (D. Ct. Order 9/28/06 at 10) (quoting Province v. Cleveland Press Publ'g Co. , 787 F.2d 1047 , 1052 (6th Cir.1986) (internal quotation marks and brackets omitted)).
+"If anyone is being manipulated according to [Static Control's] allegations, it is the end consumer."
+Id. at 10-11 .
+We agree.
+Static Control's counterclaim makes no mention of being used by Lexmark as a fulcrum, and Static Control does not allege that it was harmed because it was manipulated into harming the remanufacturers.
+Static Control on appeal argues that Lexmark used Static Control as a fulcrum to injure the remanufacturers by (1) falsely telling remanufacturers that using Static Control's products would constitute infringement; (2) redesigning its microchips, thus forcing Static Control to redesign its microchips to remain compatible; (3) threatening legal action against Static Control; (4) and suing Static Control for baseless copyright claims.
+First Appellant Br. at 39.
+But, although these specific allegations are sprinkled in various sections of the counterclaim to support other arguments, we can find no allegations in the counterclaim that Lexmark manipulated Static Control in any way to carry out its anticompetitive Prebate Program in the market for remanufactured cartridges.
+"An inextricably intertwined injury is one that results from the manipulation of the injured party as a means to carry out the restraint of trade in the product market."
+Province , 787 F.2d at 1052 .
+Static Control's allegations establish that it was negatively affected by Lexmark's manipulation of the end users into buying Prebate cartridges, but that Static Control itself was not used as a conduit to achieve the alleged anticompetitive effect in the remanufactured cartridge market.
+See Southaven , 715 F.2d at 1086 (harm from tangential effects of anticompetitive conduct not enough to convey standing).
+Indeed, the allegations make very clear that Lexmark is using the end users to obtain the desired anticompetitive effects, rather than using Static Control.
+Static Control specifically alleges that Lexmark "fraudulently induces customers' use of Prebate cartridges" and "exploit[s] consumers' lack of information about choices in replacement cartridges" to reduce the number of non-Prebate cartridges on the market.
+02R.
+172 (2d Am. Answer & Countercl.
+at ¶ 37); see also id. at ¶ 38 ("Lexmark's anticompetitive exploitation of consumers' and end-users' lack of adequate information increases prices and reduces output in the relevant markets.")
+(emphasis added).
+No such allegations of [**13] exploitation or manipulation exist with respect to Static Control.
+The level of manipulation of the claimant — and the necessity of the success of such manipulation to achieve the anticompetitive conduct — is simply not present in this case with respect to Static Control.
+See Peck , 894 F.2d at 847 .
+Even if we were to consider Static Control's injury in the market for components and microchips sufficiently related to the harm caused by the Prebate Program in the remanufactured cartridges market, Static Control still lacks standing due to its failure to satisfy the remaining AGC factors.
+See Fallis v. Pendleton Woolen Mills, Inc. , 866 F.2d 209 , 211 (6th Cir.1989) (holding no antitrust standing despite assuming claimant was used as a fulcrum in relevant market), abrogated on other grounds by Humphreys v. Bellaire Corp. , 966 F.2d 1037 (6th Cir.1992).
+Antitrust causation is much more limited than Article III standing.
+Here, Static Control's injury is too attenuated to qualify.
+"[Static Control's] injury is derivative; it is simply a side effect of [Lexmark's] alleged antitrust violations."
+Fallis , 866 F.2d at 210 .
+Static Control also fails to establish the final three AGC factors, which all relate to the directness of Static Control's injuries relative to potentially more-direct victims.
+Static Control's injuries as a result of the Prebate program are clearly a "byproduct" of the alleged antitrust violation.
+Province , 787 F.2d at 1053 ; Fallis , 866 F.2d at 211 .
+The more-direct victims are the end users, who according to the allegations had to pay more for their cartridges as a result of the allegedly anticompetitive conduct, and the remanufacturers, who were unable to compete in the market for Lexmark-compatible toner cartridges after Lexmark's Prebate program undercut their prices and reduced supply.
+Although the end users may have little incentive to sue, two of the remanufacturers raised (and ultimately settled) antitrust claims against Lexmark in the same action.
+R. 392 (D. Ct. Order 9/28/06 at 12).
+Where there are more-direct victims of the anticompetitive conduct, those victims have the standing to sue, rather than those affected indirectly.
+Southaven , 715 F.2d at 1087 ; Province , 787 F.2d at 1053-54 .
+The existence of this clear class of direct victims increases the danger of duplicative recovery should Static Control be given antitrust standing to pursue the Prebate Program and receive treble damages.
+[fn7] Static Control may seek only the damages from its own losses, but the concern of duplicative recovery relates more broadly to the issue of requiring a defendant to pay treble damages to parties both directly and indirectly injured from the same antitrust violation.
+See III.
+Brick Co. v. Illinois , 431 U.S. 720 , 731 n. 11, 97 S.Ct. 2061 , 52 L.Ed.2d 707 (1977) (discussing risk of duplicative recovery between direct and indirect purchasers).
+Finally, we agree with the district court that Static Control's calculation of over $18 million in damages is speculative.
+R. 392 (D. Ct. Order 9/28/06 at 11).
+Static Control's argument for directness of its injury relies heavily on the Second Circuit case Crimpers Promotions, Inc. v. Home Box Office, Inc. , 724 F.2d 290 , 294-95 (2d Cir.1983), cert. denied , 467 U.S. 1252 , 104 S.Ct. 3536 , 82 L.Ed.2d 841 (1984), as does much of its argument on standing.
+The plaintiff [**14] in Crimpers had standing because HBO and Showtime colluded to prevent his tradeshow from serving as a middleman between television show producers and cable operators, which was the only alternative forum for them to communicate.
+Crimpers had standing because "[i]njury to Crimpers was the precisely intended consequence of defendants' boycott," even more than the resulting injury to the tradeshow participants.
+Id. at 294.
+Here, the allegations of both intent and injury are less direct.
+The Prebate program reduced the number of cartridges available for remanufacture, which in turn reduced the number of microchips sold by Static Control to the remanufacturers.
+Static Control's allegations resemble a classic case of a supplier seeking standing to recover for indirect damages following anticompetitive conduct directed at its customers' market.
+Crimpers is simply inapposite.
+We agree that Static Control lacks standing to pursue its antitrust claims as they relate to the Prebate program.
+2.
+Restraints on Microchips in Lexmark Printers and Cartridges Static Control also argues that the existence of microchips in the cartridges in the first place and Lexmark's exclusive distribution agreement with its own microchip supplier are anticompetitive acts.
+These acts differ from the Prebate program because they directly target the microchip market in which Static Control is a competitor.
+Although Lexmark does not compete in the market for microchips, the allegations suggest that Lexmark uses its influence to restrain trade in the microchip market in order to restrain trade in the remanufactured cartridge market.
+Here, however, Static Control again lacks standing because it has failed to allege how Lexmark's actions caused any antitrust injury.
+Static Control objects to the initial creation of the "anticompetitive microchips," but fails to allege how the existence of a microchip requirement alone caused Static Control any injury.
+See 02R.
+172 (2d Am. Answer & Countercl.
+at ¶ 44).
+Static Control makes no allegations at all relating to the change in prices for components and microchips as a result of Lexmark's use of microchips in its toner cartridges, and Static Control makes no allegations regarding how a microchip requirement affected Static Control's share of the market for components and microchips.
+Indeed, Static Control fails to allege plausibly how the creation of a microchip requirement hurt Static Control's share of the microchip market, because without the requirement that market would not exist.
+It is possible that, without the microchips, Static Control would be able to sell more component parts, but Static Control does not make this allegation.
+Static Control has failed to allege how the existence of a microchip requirement injured Static Control or otherwise gave Lexmark a monopoly in the related market for Lexmark component parts.
+Static Control's allegations relating to Lexmark's microchip supplier's refusal to compete with third parties fares no better.
+As a self-proclaimed " [**15] leading supplier to toner cartridge remanufacturers," id. at ¶ 30 , Static Control fails to allege how the removal of one of its direct competitors from the components and microchips market following an exclusive distributorship agreement with a single customer caused any damage to Static Control's position within those markets or profits.
+See New Albany Tractor, Inc. v. Louisville Tractor, Inc. , 650 F.3d 1046 , 1052 (6th Cir.2011) ("Merely demonstrating the existence of an exclusive distributorship in a market area does not violate Robinson-Patman — or any other antitrust provision.").
+In general, the removal of a competitor increases (not decreases) the remaining suppliers' market; share, and Static Control has not alleged that Lexmark was a former customer or that absent the exclusive agreement Lexmark would have purchased from Static Control.
+"Antitrust injury does not arise for purposes of 4 of the Clayton Act until a private party is adversely affected by an anticompetitive aspect of the defendant's conduct."
+Atl. Richfield Co. v. USA Petroleum Co. , 495 U.S. 328 , 339 , 110 S.Ct. 1884 , 109 L.Ed.2d 333 (1990) (citation and emphasis omitted).
+Cases have routinely rejected claims of antitrust violations that may very well be violations when the claimants stood to gain from the anticompetitive conduct.
+Therefore, "[Static Control] cannot recover for a conspiracy to impose nonprice restraints that have the effect of either raising market price or limiting output."
+Matsushita Elec. Indus. Co. v. Zenith Radio Corp. , 475 U.S. 574 , 583 , 106 S.Ct. 1348 , 89 L.Ed.2d 538 (1986); Datagate, Inc. v. Hewlett-Packard Co. , 941 F.2d 864 , 868-69 (9th Cir.1991) ("As an existing competitor, [claimant] would have benefitted from any chilling of new entry into the market.
+Therefore, [claimant] can claim no injury as a result of such chilling.")
+(citation omitted), cert. denied , 503 U.S. 984 , 112 S.Ct. 1667 , 118 L.Ed.2d 388 (1992).
+Static Control has failed plausibly to allege any antitrust injury stemming from Lexmark's decision to use microchips in its cartridges and to remove its own supplier from the market for microchips.
+3.
+Redesigning Microchips to Circumvent Static Control's product Once the market for microchips was created, however, the issue becomes whether Lexmark can engage in a conspiracy to eliminate that market or stifle competition within that market.
+If Lexmark were able to maintain a monopoly on remanufactured toner cartridges by making cartridge parts wholly unavailable, Static Control might have standing to pursue an antitrust violation.
+See Eastman Kodak Co. v. Image Technical Servs., Inc. , 504 U.S. 451 , 463-64 , 112 S.Ct. 2072 , 119 L.Ed.2d 265 (1992).
+The allegations, however, do not sufficiently allege such behavior.
+Static Control does not specifically allege a tying scheme under 1 of the Sherman Act, as was the case in Eastman Kodak , nor does Static Control allege any facts to suggest that the prices for parts increased as a result of being illegally tied to the market for cartridges.
+Static Control alleges that Lexmark continuously redesigned its microchips "to exclude competitors from the relevant markets, restrict output, and increase end-user prices."
+02R.
+172 (2d Am. Answer & Countercl.
+at ¶ 45).
+But Static Control does not allege how Lexmark's redesign decreased competition [**16] in the markets in which Static Control competes, the market for microchips or parts.
+Static Control does not even identify in its pleading who competes in the microchip or parts markets, what their market share is, whether they are controlled by Lexmark, what their prices were, or how their prices were affected by Lexmark's redesign (or any of Lexmark's conduct for that matter).
+See CBC Companies, Inc. v. Equifax, Inc. , 561 F.3d 569 , 572 (6th Cir.2009) (holding allegations insufficient to establish antitrust injury in part due to failure to identify other market players).
+The counterclaim lacks other supporting allegations such as the nature and frequency of Lexmark's redesigns and how quickly replacement products were able to adapt to the changes.
+Nor does Static Control make any non-conclusory allegations to refute the possible business explanation that Lexmark, like most companies, continuously updates its products over the years for legitimate competitive reasons.
+Tivombly , 550 U.S. at 553 , 127 S.Ct. 1955 .
+Static Control's allegations with respect to the microchip redesign therefore also fail to establish antitrust standing for any cognizable antitrust injury.
+4.
+Filing Suit Lexmark further correctly observes that the act of filing suit generally does not constitute an antitrust injury under the Noerr-Pennington doctrine.
+[fn8] Second Appellee Br. at 47; see E.R.R.
+Presidents Conference v. Noerr Motor Freight, Inc. , 365 U.S. 127 , 81 S.Ct. 523 , 5 L.Ed.2d 464 (1961); United Mine Workers v. Pennington , 381 U.S. 657 , 85 S.Ct. 1585 , 14 L.Ed.2d 626 (1965).
+Although exceptions are made when the filing is a sham for interfering with competition, the first inquiry for identifying sham litigation is objective reasonableness: "Only if challenged litigation is objectively meritless may a court examine the litigant's subjective motivation."
+Prof'l Real Estate Investors, Inc. v. Columbia Pictures Indus., Inc. , 508 U.S. 49 , 60 , 113 S.Ct. 1920 , 123 L.Ed.2d 611 (1993).
+We cannot say that Static Control has plausibly alleged that the 02 Action was "objectively meritless."
+See 02R.
+172 (2d Am. Answer & Countercl.
+at ¶ 56).
+Static Control's allegations focus solely on Lexmark's intent behind bringing the copyright action; Static Control does not offer any allegations upon which we can plausibly conclude that the copyright action was "objectively meritless."
+The Sixth Circuit's ultimate conclusion that Lexmark lacked a valid copyright claim is not determinative of whether the initial suit was reasonable.
+Prof'l Real Estate , 508 U.S. at 60 n. 5, 113 S.Ct. 1920 .
+We agree with Lexmark that its efforts in federal court, as alleged, should be immune from antitrust suit.
+C. Antitrust Standing for Counter-claims Seeking Injunctive Relief The Clayton Act also permits a private party to obtain injunctive relief "against threatened loss or damage by a violation of the antitrust laws."
+15 U.S.C. 26 .
+The district court did not distinguish between Static Control's request for injunctive relief and its request for monetary damages when dismissing the counterclaim for lack of standing.
+See R. 392 (D. Ct. Order 9/28/06 at 12).
+Static Control argues that the district court separately erred in dismissing its claim for equitable relief because the last three AGC factors are inapplicable [**17] to whether a claimant has standing to seek injunctive relief.
+First Appellant Br. at 51.
+Lexmark argues that the standing requirements for obtaining injunctive relief are no different from the standing requirements for obtaining monetary relief when, as here, Static Control also seeks money damages.
+Second Appellant Br. at 56 ("The requirements for antitrust standing are the same whether the antitrust plaintiff seeks damages only or damages and injunctive relief).
+The Clayton Act does not "authorize a private plaintiff to secure an in-junction against a threatened injury for which he would not be entitled to compensation if the injury actually occurred."
+Cargill, Inc. v. Monfort of Colo., Inc. , 479 U.S. 104 , 112 , 107 S.Ct. 484 , 93 L.Ed.2d 427 (1986).
+The only difference between a claim for equitable relief and one for damages is that equitable relief is available at the mere threat of antitrust injury.
+Because we have held that Static Control has failed to plead an antitrust injury, we affirm the dismissal of Static Control's claim for equitable relief.
+See Valley Prods. Co. v. Landmark , 128 F.3d 398 , 402 (6th Cir.1997).
+V. STATIC CONTROL'S LANHAM ACT COUNTERCLAIM Static Control contends that Lexmark violated the Lanham Act by engaging in false advertising.
+Static Control alleges that Lexmark "falsely informed customers that SCC's products infringe Lexmark's purported intellectual property," and "misled .
+.
+.
+customers of SCC's products that license agreements prohibit remanufacturing Lexmark toner cartridges, when no license agreements actually exist," causing Static Control's customers to believe that Static Control is engaging in illegal conduct and thereby damaging Static Control's business and reputation.
+[fn9] 02R.
+172 (2d Am. Answer & Countercl.
+at ¶¶ 2, 84-90).
+The district court dismissed Static Control's counter-claim for lack of Lanham Act standing because Static Control lacked antitrust standing, holding that "[m]ultiple courts have held that the factors" for antitrust standing are the same as for Lanham Act standing.
+R. 392 (D. Ct. Order 9/28/06 at 13) (citing Fifth and Third Circuit cases).
+Static Control maintains that the test "[i]n this Circuit" is "not the same as the .
+.
+.
+test for antitrust standing.
+"First Appellant Br. at 53 (citing Frisch's Rests., Inc. v. Elby's Big Boy of Steubenville, Inc. , 670 F.2d 642 , 649-50 (6th Cir.), cert. denied , 459 U.S. 916 , 103 S.Ct. 231 , 74 L.Ed.2d 182 (1982)).
+Frisch's Restaurants held that a Lanham Act claimant need not demonstrate actual losses as a result of the defendant's misleading use of the claimant's trademarks in its advertisements, only a "`likelihood of injury and causation.'"
+Id. at 650 (quoting Johnson & Johnson v. Carter-Wallace, Inc. , 631 F.2d 186 , 190 (2d Cir.1980)).
+Since Frisch's Restaurants , the Second Circuit has further described its approach, called the "reasonable interest" approach, as finding that the claimant has standing if the claimant can demonstrate "(1) a reasonable interest to be protected against the alleged false advertising and (2) a reasonable basis for believing that the interest is likely to be damaged by the alleged false advertising."
+Famous Horse, Inc. v. 5th Ave. Photo Inc. , 624 F.3d 106 , 113 (2d Cir.2010).
+We have not addressed Lanham Act standing since Frisch' [**18] s Restaurants.
+Lexmark urges us to follow one of the narrower approaches adopted by our sister circuits.
+The Seventh, Ninth, and Tenth use a categorical test, permitting Lanham Act suits only by an actual competitor making an unfair-competition claim.
+L.S.
+Heath & Son, Inc. v. AT & T Info. Sys., Inc. , 9 F.3d 561 , 575 (7th Cir.1993); Waits v. Frito-Lay, Inc. , 978 F.2d 1093 , 1108-09 (9th Cir.1992), cert. denied , 506 U.S. 1080 , 113 S.Ct. 1047 , 122 L.Ed.2d 355 (1993); Stanfield v. Osborne Indus., Inc. , 52 F.3d 867 , 873 (10th Cir.), cert. denied , 516 U.S. 920 , 116 S.Ct. 314 , 133 L.Ed.2d 217 (1995).
+These circuits, however, have distinguished the standing inquiry between claims of false association under 15 U.S.C. 1125 (a)(1)(A) and false advertising under 1125(a)(1)(B) and do not require direct competition for claims of false association.
+See e.g., Waits , 978 F.2d at 1108-09 .
+Static Control's claim is for false advertising and would fail under this stricter standard, because Static Control and Lexmark are not actual competitors.
+The Third, Fifth, Eighth, and Eleventh Circuits all reference antitrust standing or the AGC factors in deciding Lanham Act standing.
+Conte Bros. Auto., Inc. v. Quaker State-Slick 50, Inc. , 165 F.3d 221 , 233-34 (3d Cir.1998) (Alito, J., authoring); Procter & Gamble Co. v. Am/way Corp. , 242 F.3d 539 , 562-63 (5th Cir.), cert. denied , 534 U.S. 945 , 122 S.Ct. 329 , 151 L.Ed.2d 243 (2001); Gilbert/Robinson, Inc. v. Carrie Beverage-Missouri, Inc. , 989 F.2d 985 , 990-91 (8th Cir.), cert. denied , 510 U.S. 928 , 114 S.Ct. 338 , 126 L.Ed.2d 282 (1993); Phoenix of Broward, Inc. v. McDonald's Corp. , 489 F.3d 1156 , 1162-64 (11th Cir.2007), cert. denied , 552 U.S. 1275 , 128 S.Ct. 1647 , 170 L.Ed.2d 385 (2008).
+The Third Circuit nominally uses a "reasonable interest" approach, but applies it by looking to the five AGC factors.
+Conte Bros. , 165 F.3d at 233-34 .
+The Third Circuit has also rejected any distinction in standing between the two types of Lanham Act claims.
+Id. at 232 .
+The Second Circuit's more recent cases reject the Third Circuit's conflation of the reasonable-interest test with the AGC factors as "unnecessarily complicat[ing] the inquiry," Famous Horse , 624 F.3d at 115 n. 3, setting its approach apart.
+Therefore, Lexmark's statement that the reasonable interest test and the AGC test are not "conceptually different," Second Appellee Br. at 60, is not correct.
+Although the claimant in Frisch's Restaurants brought a claim under 15 U.S.C. 1125 (a)(1)(A) for false association of trademark, not under 1125(a)(1)(B) for false advertising, we agree with the Third Circuit's reasoned analysis rejecting a distinction between these two types of claims for purposes of standing.
+Conte Bros. , 165 F.3d at 232-33 .
+Because we have already addressed the appropriate level of standing for claims brought under 15 U.S.C. 1125 (a), even if we were to prefer the approach taken by our sister circuits, we cannot overturn a prior published decision of this court absent inconsistent Supreme Court precedent or an en banc reversal.
+[fn10] Geiger v. Tower Auto. , 579 F.3d 614 , 622 (6th Cir.2009).
+Static Control has therefore sufficiently alleged a Lanham Act claim.
+Static Control alleged a cognizable interest in its business reputation and sales to remanufacturers and sufficiently alleged that these interests were harmed by Lexmark's statements to the remanufacturers that Static Control was engaging in illegal conduct.
+This is sufficient to state a claim under the Lanham Act.
+We therefore REVERSE the district court's dismissal of this claim and REMAND with instructions to reinstate the Lanham Act claim.
+VI.
+STATE-LAW COUNTERCLAIMS The district court dismissed Static [**19] Control's counterclaims for unfair competition and false advertising under North Carolina law for lack of standing.
+Static Control appeals and agrees that substantively the state law claims all "substantially mirror" the federal claims.
+First Appellant Br. at 54.
+[fn11] The parties dispute whether standing under the North Carolina Unfair Deceptive Trade Practices Act ("NCUDTPA"), N.C. Gen.Stat.
+75-1 , et seq., which is the state-law equivalent of the Sherman, Clayton, and Lanham Acts, is identical to the standing requirements of the federal acts.
+The district court held that North Carolina had not yet decided the question, and applying "North Carolina's general rule that federal case law is persuasive and instructive in construing North Carolina's own antitrust statutes," the district court dismissed the state-law counterclaims "for the same reasons that it dismissed [Static Control's] federal claims above."
+R. 392 (D. Ct. Order 9/28/06 at 16).
+Static Control disagrees that the North Carolina standard is the same.
+North Carolina has held that the AGC factors "do not apply in determining which indirect purchasers have standing to sue under the North Carolina antitrust statutes."
+Teague v. Bayer AG , 195 N.C.App.
+18 , 671 S.E.2d 550 , 557 (2009).
+Static Control is a supplier rather than an indirect purchaser, but Static Control argues that Teague supports the general proposition that North Carolina antitrust standing diverges from federal antitrust standing.
+Although ruling before Teague came down, the district court rejected the relevance of a similar case upon which Teague relied — Hyde v. Abbott Labs., Inc. , 123 N.C.App.
+572 , 473 S.E.2d 680 , 681-82 , rev. denied , 344 N.C. 734 , 478 S.E.2d 5 (1996) — precisely because the present case did not involve an indirect purchaser.
+Teague does not state, as Static Control suggests, that antitrust standing under North Carolina law is generally more flexible than the equivalent federal law.
+We must therefore closely examine North Carolina's departure from federal law on the question of standing for indirect purchasers to determine whether North Carolina would similarly depart on the question of standing for suppliers.
+In deciding to reject the federal test for standing for indirect purchasers, the North Carolina Court of Appeals examined the standing landscape when the North Carolina statute governing standing, N.C. Gen.Stat.
+75-16 , was most recently substantively amended in 1969.
+Hyde , 473 S.E.2d at 684-85 (citing III, Brick Co. v. Illinois , 431 U.S. 720 , 97 S.Ct. 2061 , 52 L.Ed.2d 707 (1977), and Hanover Shoe, Inc. v. United Shoe Mack Corp. , 392 U.S. 481 , 88 S.Ct. 2224 , 20 L.Ed.2d 1231 (1968)).
+Because the amendments expanded the class of persons who could recover under the Act to all consumers, and indirect purchasers were frequently consumers, the court found it "unlikely" that the legislature intended to exclude indirect purchasers as a class.
+Id. at 684.
+Although acknowledging federal law as "persuasive authority" in interpreting North Carolina antitrust provisions, id. at 685 , the court observed that most federal circuits permitted suit by indirect purchasers in 1969 when the amendments were passed.
+The Supreme Court's decision in Illinois Brick that indirect purchasers lacked standing to bring antitrust claims [**20] was not issued until 1977.
+Id. at 683 .
+Applying the same considerations to the circumstances at hand, we believe North Carolina would grant standing to suppliers such as Static Control.
+Prior to 1969, the law, at least in the Sixth Circuit, was that suppliers like Static Control lacked standing.
+See Volasco Prods. Co. v. Lloyd A. Fry Roofing Co. , 308 F.2d 383 , 395 (6th Cir.1962) ("It is well established in the law that a supplier is too remote and too far removed from the direct injury to recover damages resulting from violation of the antitrust laws directed against the supplier's customer.
+"), cert. denied , 372 U.S. 907 , 83 S.Ct. 721 , 9 L.Ed.2d 717 (1963).
+However, the Fourth Circuit had declined to say that no supplier could bring a claim and followed what was previously known as the "target area" test for antitrust standing.
+S.C. Council of Milk Producers, Inc. v. Newton , 360 F.2d 414 , 418 (4th Cir.), cert. denied , 385 U.S. 934 , 87 S.Ct. 295 , 17 L.Ed.2d 215 (1966).
+The "target area" test gave antitrust standing to anyone who was within the zone of economic harm caused by the anticompetitive conduct whose harm was proximately caused by such conduct.
+Id. In ruling that indirect purchasers were not subject to the AGC factors, the court in Teague emphasized the differences between cases involving indirect purchasers and those, such as AGC itself, that did not.
+Teague , 671 S.E.2d at 556 (rejecting analogies to AGC and other state cases applying AGC factors to state-law claims because they did not involve indirect purchasers).
+However, the Hyde court independently rejected many of the concerns identified in Illinois Brick (and later repeated in AGC ) as simply inapplicable to state-law antitrust statutes.
+Hyde , 473 S.E.2d at 687-88 (addressing issues of multiple liability, incentives to sue, and complexity of damages).
+Because the state of the law in 1969 in the Fourth Circuit appears more consistent with North Carolina's reasoning in Hyde than the Sixth Circuit's position on supplier standing in 1969, we conclude that North Carolina would not apply the AGC factors to cases like this one.
+As a result, Static Control's counterclaims under state law were incorrectly dismissed for lack of standing.
+We REVERSE and REMAND for further proceedings on these claims.
+VII.
+IMPACT OF JURY VERDICT ON REMAND Because we have reinstated some of Static Control's counterclaims, Static Control requests that we instruct the district court on remand to treat retroactively the advisory jury's findings that Lexmark misused its patents as binding jury findings.
+Lexmark unsurprisingly objects to this.
+The Seventh Amendment provides that "no fact tried by a jury, shall be otherwise reexamined in any Court of the United States."
+U.S. CONST.
+amend.
+VII .
+Static Control claims that presenting the reinstated antitrust claims now to a binding jury would violate this prohibition because these issues were already presented once to a jury, albeit an advisory one.
+Because those claims must be decided by a jury if reinstated, Static Control suggests that the only remedy to this problem is retroactively to call the advisory jury's findings of fact binding, as opposed to proceeding with a new trial before a new, binding jury.
+[fn12] The differences between [**21] the defense of patent misuse and affirmative state-law antitrust claims or a Lanham Act claim notwithstanding, we decline to deem an advisory jury's findings binding retroactively.
+See Hildebmnd v. Bd. of Trs.
+of Mich. State Univ. , 607 F.2d 705 , 710 (6th Cir.1979) ("To convert a trial from a jury trial to a bench trial (or vice-versa) in the middle of the proceedings is to interfere with counsel's presentation of their case and, quite possibly, to prejudice one side or the other.
+"); Fischer Imaging Corp. v. Gen. Elec. Co. , 187 F.3d 1165 , 1174 (10th Cir.1999) (rejecting argument by claimant that advisory jury's verdict should retroactively become binding); Pradier v. Elespuru 641 F.2d 808 , 811 (9th Cir.1981) (noting significant tactical differences in litigating before an advisory jury).
+Although here the tactical differences are minimal given that the change to an advisory jury occurred when the district court gave the final jury instructions, we decline to speculate as to whether the change in the jury's instruction altered the jury's analysis of the issue Static Control now seeks to treat as binding.
+Cf. Romano v. Oklahoma , 512 U.S. 1 , 8-9 , 114 S.Ct. 2004 , 129 L.Ed.2d 1 (1994) (holding that court may not "mislead the jury as to its role in the sentencing process in a way that allows the jury to feel less responsible than it should for the sentencing decision.")
+(internal quotation marks omitted).
+We therefore decline Static Control's request.
+VIII.
+LEXMARK'S PATENT COUNTERCLAIMS Lexmark counterclaimed in the 04 Action that Static Control induced the remanufacturers to infringe several patents relating to Lexmark's toner cartridges.
+At trial, the jury determined that Lexmark had failed to meet its burden of showing direct infringement by Static Control's customers as a class and its burden of showing Static Control induced infringement by the three named remanufacturers already held to be direct infringers.
+Following the trial, Lexmark renewed a motion for judgment as a matter of law and filed a motion for a new trial on whether the jury's verdict was unreasonable in light of the evidence of direct infringement by the class, which the district court denied.
+Lexmark also sought a new trial on the issue of inducement after the district court excluded questions at trial relating to the procurement of opinion-of-counsel letters, which the district court also denied.
+Lexmark appeals these rulings, and we affirm.
+Lexmark also appeals an earlier ruling by the district court on summary judgment that Lexmark's design patents were invalid as a matter of law, which we also affirm.
+A. Standards of Review We review de novo a district court's decision to deny a motion for a judgment as a matter of law under Federal Rule of Civil Procedure 50 .
+Mike's Train House, Inc. v. Lionel, L.L.C.
+, 472 F.3d 398 , 405 (6th Cir.2006).
+A renewed motion for a judgment as a matter of law following an adverse jury verdict "may only be granted if, when viewing the evidence in a light most favorable to the non-moving party, giving that party the benefit of all reasonable inferences .
+.
+.
+reasonable minds could come to but one conclusion in favor of the moving party."
+Barnes v. City of Cincinnati 401 F.3d 729 , 736 (6th Cir.), cert. denied [**22] , 546 U.S. 1003 , 126 S.Ct. 624 , 163 L.Ed.2d 506 (2005).
+Judgment as a matter of law is appropriate only where there is no "legally sufficient evidentiary basis" for a reasonable jury "to find for the [non-moving] party on that issue."
+Fed. R.Civ.P.
+50 (a)(1).
+We will not substitute our interpretation of the evidence for the jury's, even if we would have reached a different conclusion.
+Barnes , 401 F.3d at 738 .
+We review for abuse of discretion a district court's decision to deny a motion for a new trial under Federal Rule of Civil Procedure 59 .
+Mike's Train House , 472 F.3d at 405 .
+A new trial is warranted after a jury verdict "for any reason for which a new trial has heretofore been granted in an action at law in federal court."
+Fed.R.Civ.P. 59 (a).
+We have previously held that a new trial is appropriate when the jury reaches a "seriously erroneous result as evidenced by (1) the verdict being against the [clear] weight of the evidence; (2) the damages being excessive; or (3) the trial being unfair to the moving-party in some fashion, i.e., the proceedings being influenced by prejudice or bias."
+Mike's Train House , 472 F.3d at 405 (internal quotation marks and alterations omitted) (quoting Holmes v. City of Massillon , 78 F.3d 1041 , 1045-16 (6th Cir.), cert. denied , 519 U.S. 935 , 117 S.Ct. 312 , 136 L.Ed.2d 228 (1996)); see also Barnes v. Owens-Coming Fiberglas Corp. , 201 F.3d 815 , 820 (6th Cir.2000) (new trial appropriate only if "verdict is against the clear weight of the evidence").
+Lexmark's argument relies on the first and third of these potential errors.
+We review de novo a district court's grant of summary judgment.
+Int'l Union v. Cummins, Inc. , 434 F.3d 478 , 483 (6th Cir.2006).
+The moving party is entitled to summary judgment when there is no genuine issue of material fact and the issue may be resolved as a matter of law.
+Fed.R.Civ.P. 56 (a).
+The evidence on summary judgment must be construed in the light most favorable to the non-moving party.
+Matsushita , 475 U.S. at 587 , 106 S.Ct. 1348 .
+When genuine issues of material fact remain, the proper course of action is to submit such questions to the finder of fact.
+B. Evidence of Direct Infringement by Static Control's Customers as a Class Lexmark argues on appeal that the evidence established as a matter of law that Static Control's customers as a class directly infringed Lexmark's patents.
+Lexmark seeks to overturn the jury's verdict to the contrary.
+To establish a claim for patent inducement under 35 U.S.C. 271 (b), Lexmark bore the burden of showing by a preponderance of the evidence that (1) Static Control's customers directly infringed Lexmark's patents; (2) Static Control took active steps that induced the customers' infringement; (3) Static Control intended the customers to take the infringing acts; and (4) Static Control knew or willfully disregarded the risk that those actions by its customers would constitute direct infringement.
+See Global-Tech Appliances, Inc. v. SEB S.A. , U.S. , 131 S.Ct. 2060 , 2065-67 , 179 L.Ed.2d 1167 (2011).
+Patent infringement by a third-party is therefore a necessary predicate to inducement to infringe.
+A plaintiff can establish the first element of inducement to infringe either by demonstrating "specific instances of direct infringement or a finding that the accused products necessarily infringe."
+Lucent Techs., Inc. v. Gateway, Inc. , 580 F.3d 1301 , 1322 (Fed.Cir.2009), cert. denied , U.S. , 130 S.Ct. 3324 , 176 L.Ed.2d 1240 (2010); see also Dynacore Holdings Corp. v. U.S. Philips Corp. , 363 F.3d 1263 , 1275-76 (Fed.Cir.2004) ( [**23] citing Sony Corp. of Am. v. Universal City Studios, Inc. , 464 U.S. 417 , 441 , 104 S.Ct. 774 , 78 L.Ed.2d 574 (1984)); 5 Donald S. Chisum, Chisum on Patents 17.04 (2011).
+When the plaintiff can show only individual instances of direct infringement, the plaintiff may recover only for the damages from those individual acts.
+Dynacore , 363 F.3d at 1274 .
+If the plaintiff can show an entire class of customers necessarily infringed, damages can be sought more broadly across the entire class.
+Id .
+Direct patent infringement occurs under 35 U.S.C. 271 (a) when someone "(1) without authority (2) makes, uses, offers to sell, sells, or imports (3) the patented invention (4) within the United States, its territories, or its possessions (5) during the term of the patent."
+HERBERT F. SCHWARTZ & ROBERT J. GOLDMAN, PATENT LAW AND PRACTICE 163-64 (6th ed.2008); see also Global-Tech , 131 S.Ct. at 2065 n. 2 ("Direct infringement has long been understood to require no more than the un-authorized use of a patented invention.").
+Determining whether someone is making, using, or selling a patented invention "requires a finding that the patent claim covers the alleged infringer's product or process," Markman v. Westview Instruments, Inc. , 517 U.S. 370 , 374 , 116 S.Ct. 1384 , 134 L.Ed.2d 577 (1996) (internal quotation marks omitted).
+The determination that a patent's claims cover a specific device is often referred to as "literal infringement."
+CHWARTZ, supra , at 174.
+Literal infringement alone is not enough to support a claim for inducement, because the predicate to inducement is a violation of 35 U.S.C. 271 (a), which requires more than that the accused devices literally infringe.
+For example, a party could not be liable for inducing infringement if an accused device literally infringed a patent claim but the literal infringer had authority to use the patent or a patent had otherwise expired, thereby defeating a determination of direct patent infringement.
+See, e.g., Aro Mfg. Co. v. Convertible Top Replacement Co. , 377 U.S. 476 , 483 , 84 S.Ct. 1526 , 12 L.Ed.2d 457 (1964) (sustaining claim for contributory infringement upon determining that user of patented item lacked authorization, thereby directly infringing).
+An accused device will necessarily infringe, permitting a finding of direct infringement by a class of customers and an inference that the inducer intended the infringement, if the "customers can only use the [defendant's] products in an infringing way."
+Symantec Corp. v. Computer Assocs.
+Int'l, Inc. , 522 F.3d 1279 , 1293 (Fed.Cir.2008) (reversing summary judgment on inducement because plaintiff did not need to show specific instances of direct infringement when defendants' product could not be used in a non-infringing way); see also Metro-Goldwyn-Mayer Studios Inc. v. Grokster, Ltd. , 545 U.S. 913 , 932 , 125 S.Ct. 2764 , 162 L.Ed.2d 781 (2005) ("[W]here an article is good for nothing else but infringement, there is no injustice in presuming or imputing an intent to infringe") (internal quotation marks and citation omitted).
+When an accused device could be used in either an infringing or a non-infringing way, a claim of direct infringement based on necessary infringement fails and cannot sustain an inducement claim.
+ACCO Brands, Inc. v. ABA Locks Mfi: Co. , 501 F.3d 1307 , 1313-14 (Fed.Cir.2007) (reversing jury verdict of inducement to infringe patented method because no evidence of direct infringement and accused [**24] product could be used in either an infringing or a non-infringing way); CHISUM, supra , 17.04 .
+Prior to the jury's verdict, the district court granted summary judgment to Lexmark on whether the three named remanufacturers — Wazana, NER, and Pendl — directly infringed Lexmark's nine valid mechanical patents.
+R. 1245 (D. Ct. Order 5/31/07) (holding direct infringement); R. 1008 (D. Ct. Order 4/24/07 at 48-49) (holding mechanical patents valid).
+Lexmark had therefore established the necessary predicate to inducement, but could recover only for those three remanufacturers' infringement unless Lexmark could demonstrate that all of Static Control's customers as a class necessarily in-fringed.
+The question of direct infringement by Static Control's customers as a class was submitted to the jury, which held that Lexmark had failed to meet its burden.
+R. 1366 (Special Verdict Form at 1).
+The district court denied Lexmark's renewed motion for a judgment as a matter of law and also Lexmark's motion for a new trial on this issue, finding that the evidence in support of Lexmark did not compel a different result.
+The district court upheld the jury's verdict because [t]hough Lexmark presented evidence of infringement by Static Control's customers, that evidence was not so overwhelming that reasonable people could come to but one conclusion."
+R. 1430 (D. Ct. Order 10/03/08 at 9).
+Lexmark argues that the district court erroneously conflated the direct-infringement inquiry, which Lexmark must establish, with the affirmative defense of patent exhaustion, which Static Control must establish.
+Lexmark offered as circumstantial evidence of infringement by the class the testimony of an expert establishing that the toner cartridges remanufactured by Wazana, NER, and Pendl all literally infringed the claims present in the nine mechanical patents.
+Although Lexmark offered no testimony regarding specific cartridges from other remanufacturers, Static Control has not argued or even suggested that the unidentified remanufacturers' cartridges did not literally infringe at least some of the more than one hundred patent claims that cover the original cartridges.
+Instead, Static Control argues that Lexmark confuses literal infringement with direct infringement, and, as the district court held, some of the toner cartridges could not sustain a claim for direct infringement because they were sold domestically first, thereby exhausting Lexmark's patent rights.
+Third Appellant Br. at 40-41.
+Lexmark has conceded that its patent rights were exhausted in the non-Prebate cartridges sold first in the United States and certain cartridges sold to IBM customers.
+Part of the problem here is that the jury instructions never defined what it means for a party to "directly infringe" a patent.
+Lexmark maintains that when the jury was asked to decide whether Static Control's customers as a class "directly infringed," the question must have related solely to whether the remanufactured toner cartridges as a class literally infringed, because Static Control's [**25] sole arguments against direct infringement related to patent exhaustion, which was delineated as a separate question on the jury's special-verdict form.
+R. 1366 (Special Verdict Form at 1, 4).
+Lexmark is theoretically correct — exhaustion of a patentee's rights is a defense to direct infringement and is not the same as establishing a non-infringing use of a patented device, which would defeat a finding that Static Control's customers necessarily infringed the patents.
+However, this distinction was never clearly made to the jury.
+Lexmark's claim fails upon closer examination of the jury's instructions.
+The jury instructions explicitly suggested that patent exhaustion would defeat a finding of "direct" infringement, as opposed to operating only as a defense following a showing of direct infringement: I instruct you that there are at least two kinds of uses of microchips made by Static Control that are lawful and do not directly infringe any Lexmark patent.
+.
+.
+.
+The first non-infringing use of Static Control's microchips is in the remanufacture of Non-Prebate Lexmark cartridges that were first sold by Lexmark in the United States.
+Static Control has no liability for active inducement of infringement when its microchips are used in those cartridges because those cartridges may be lawfully remanufactured by anyone without directly infringing any patent rights of Lexmark.
+R. 1365 (Jury Instructions at 18) (emphasis added).
+The district court then gave the same instruction with respect to the IBM cartridges.
+Although Lexmark is correct that exhaustion should be an affirmative defense, [fn13] at no point did Lexmark object to the district court's statement that exhausted cartridges could not "directly infringe" Lexmark's patents.
+See R. 1119 (Lexmark's Objections to Proposed Jury Instructions); R. 1171 (Jury Instructions Hr'g Tr.); R. 1361 (Joint Proposed Corrections to Final Instructions).
+Jurors are presumed to be "diligent in following the precise instructions given to them."
+United States v. Tosh , 330 F.3d 836 , 842 (6th Cir.2003).
+The evidence presented by Lexmark was not so strong as to prevent a reasonable juror from concluding that some members of the class remanufactured cartridges in a non-infringing manner, as defined by the district court.
+With two categories of cartridges that categorically did not "directly infringe," according to the jury instructions, the jury reasonably could have concluded Lexmark had not met its burden of showing that the remanufacturers as a class "necessarily infringed" Lexmark's patents by remanufacturing exhausted cartridges.
+See ACCO Brands , 501 F.3d at 1313 ("Because the accused device can be used at any given time in a non-infringing manner, the accused device does not necessarily infringe the [plaintiffs] patent").
+Nor was Lexmark's circumstantial evidence of literal infringement sufficient to compel a conclusion that all of Static Control's customers literally infringed, even if this were an appropriate inquiry.
+Lexmark's own expert, Dr. Reinholtz, stated that he examined remanufactured cartridges from only [**26] the three named companies and did not know if other companies' remanufactured cartridges literally infringed.
+R. 1216 (Trial Tr. 5/25/07 at 42-43).
+Although this may have been sufficient circumstantial evidence to sustain a jury verdict of infringement, the evidence certainly does not compel one.
+As a result, Lexmark was not entitled to judgment as a matter of law or a new trial on the issue of whether Static Control's customers directly infringed as a class.
+Barnes , 401 F.3d at 736 (holding post-trial judgment as a matter of law improper unless "reasonable minds could come to but one conclusion in favor of the moving party"); Owens-Corning , 201 F.3d at 821 (holding new trial improper "if a reasonable juror could have reached the challenged verdict").
+C. Excluded Evidence Relating to Intent to Induce Infringement Lexmark claims that it was entitled to a new trial on the issue of inducement of the three direct infringers because the district court erroneously excluded certain questions relating to opinion-of-counsel letters at trial, rendering the proceedings unfair.
+We review for abuse of discretion.
+[fn14] At trial, Lexmark was not allowed to ask Static Control's CEO explicitly whether Static Control had ever obtained a legal opinion regarding potential patent or antitrust violations.
+R. 1269 (Trial Tr. at 108-09).
+Static Control objected to the presentation of evidence relating to Static Control's failure to obtain advice of counsel, even though Static Control had made available to third parties advice of counsel on the issue of whether Prebate violated contract law.
+[fn15] R. 1269 (Trial Tr. 06/04/07 at 108-09).
+The district court agreed and instructed the witness not to answer.
+Lexmark claims that it was "manifestly unfair" to permit the CEO to testify regarding the procurement of exculpatory advice from counsel but not permit Lexmark "to identify failures to procure such advice as circumstantial evidence of intent to infringe."
+Second Appellee Br. at 34 (quoting Broadcom Corp. v. Qualcomm Inc. , 543 F.3d 683 , 699 (Fed.Cir.2008)).
+Lexmark's argument on appeal relies heavily on Broadcom , 543 F.3d 683 , a Federal Circuit case issued after trial but before the district court ruled on Lexmark's motion.
+Broadcom held that "[i]t would be manifestly unfair to allow opinion-of-counsel evidence to serve an exculpatory function .
+.
+.
+and yet not permit patentees to identify failures to procure such advice as circumstantial evidence of intent to infringe."
+Broadcom , 543 F.3d at 699 .
+Although Broadcom appears to support Lexmark's position, the district court ruled against Lexmark, see R. 1521 (D. Ct. Op. & Order at 1(5-19), after reading Broadcom in the context of the Federal Circuit's prior ruling in Knorr-Bremse Systeme Fuer Nutzfahrzeuge GmbH v. Dana Corp. , 383 F.3d 1337 (Fed.Cir.2004) (en banc), which held that it would be "inappropriate to draw a[n] .
+.
+adverse inference from failure to consult counsel" when an accused infringer was under no obligation in the first place to obtain advice of counsel on whether it was infringing.
+Id. at 1345 .
+We need not decide whether a party's failure to obtain an opinion-of-counsel letter may ever constitute circumstantial evidence [**27] of the requisite intent to induce infringement.
+Even if we assume that this evidence was wrongly excluded, the best-case scenario for Lexmark — a negative answer to the forbidden question — would not have changed the jury's verdict on this issue.
+Lexmark bore the burden of establishing by a preponderance of the evidence that Static Control had the requisite intent to induce infringement.
+The Supreme Court has recently clarified that this means that the alleged inducer must intend the customers to take the acts that ultimately constituted infringement and the inducer must know or willfully disregard the risk that those actions by its customers would constitute direct infringement.
+See Global-Tech , 131 S.Ct. at 2065 .
+By way of analogy, the Supreme Court compared a used-car salesman who encouraged a customer to buy a car that later turned out to be damaged to a used-car salesman who encouraged a customer to buy a car knowing it was damaged; we fault the latter more than the former.
+Lexmark correctly explains that "advertising infringing uses, instructing how to engage in infringing uses, demonstrating infringing uses, and recommending infringing uses is strong evidence of specific intent to cause the actions that constitute direct infringement."
+Second Appellee Br. at 31 (citing Grokster , 545 U.S. at 936 , 125 S.Ct. 2764 ).
+But, given the jury instructions that delineated certain cartridges as non-infringing, Lexmark's evidence needed to show that Static Control advertised, instructed, or otherwise recommended the remanufacture of infringing cartridges, which at the time of trial were the Prebate cartridges and the cartridges first sold outside the United States.
+Lexmark's proof, however, is not compelling enough for us to find that the district court abused its discretion in upholding the jury verdict.
+Lexmark argues that it presented specific evidence demonstrating that Static Control encouraged and instructed remanufacturers to remanufacture Prebate cartridges and cartridges first sold overseas, the two categories not deemed "non-infringing" at trial.
+But the testimony primarily indicated that Static Control encouraged and instructed its customers to remanufacture cartridges generally and such instructions did not distinguish between foreign or domestic-sold cartridges or Prebate cartridges.
+See, e.g. , R. 1242 (Trial Tr. 5/30/07 at 37-38) (testimony from Static Control that instructions would enable remanufacture of cartridges, including Prebate); id. at 121-22 (testimony from NER that Static Control did not differentiate between Prebate and non-Prebate at tradeshows).
+However, Static Control offered testimony that its instructions contained explicit warnings not to use the Static Control chips on Prebate cartridges unless they were first sold in North Carolina after October 1, 2003, [fn16] and not for resale in the United States.
+See, e.g. , J.A.
+at 657 (Instructions for Replacement Chip).
+And employees of Static Control were under strict instructions to repeat those conditions to any customer who called to inquire about the microchips.
+[**28] R. 1285 (Trial Tr. 6/6/07 at 88-89).
+Although Lexmark offered testimony that there was simply no way for a remanufacturer to distinguish between a foreign-sold cartridge and a United States cartridge just by looking at the cartridge, id. at 155 , Static Control offered testimony that the remanufacturers could determine origin by inquiring at the time of acquisition, id. at 88 .
+The jury was best situated to weigh the competing evidence and determine whether Static Control had the requisite intent to induce the infringing acts.
+The evidence offered by Lexmark may have been sufficient to sustain a jury finding of inducement; however, this evidence certainly does not compel such a finding when the jury has rejected it.
+The excluded question during Static Control's CEO's testimony does not change this calculus.
+Lexmark inflates the significance of the exclusion.
+Static Control's CEO was asked if he "ever had an outside patent attorney .
+.
+.
+give you advice on the issue of single-use patent licenses," to which the CEO responded in the negative.
+R. 1269 (Trial Tr. 6/4/07 at 94).
+He was then asked explicitly whether he sought out legal counsel relating to Prebate, and the CEO answered affirmatively that he "sought advice about prebate cartridges that had been either put into the landfill or were on the way to the landfill."
+Id. at 95 .
+When asked if that was all he sought advice on, he unequivocally said "Yes."
+Id .
+It was only when counsel later asked specifically whether Static Control sought advice relating to patent or antitrust law that Static Control objected and the district court instructed the witness not to answer.
+Id. 108-09 .
+And despite this exclusion in the CEO's testimony, Static Control's general counsel was asked about and specifically discussed concerns over patent-law issues, including whether or not Static Control's actions could constitute inducement to infringe.
+R. 1242 (Trial Tr. 5/30/07 at 249-50, 263-65, 272-73).
+Lexmark bore the burden of establishing Static Control's knowledge or willful blindness to the underlying infringing acts.
+Based on the related evidence already on the record, we cannot conclude that the jury would have reached a different conclusion had the jury been told that Static Control failed to obtain an opinion-of-counsel letter specifically on issues of patent law.
+The exclusion of this potential evidence was harmless in light of the other elements that Lexmark failed to establish by a preponderance of the evidence.
+See Bridgeport Music, Inc. v. Justin Combs Publ'g , 507 F.3d 470 , 481 (6th Cir.2007), cert. denied , 555 U.S. 818 , 129 S.Ct. 85 , 172 L.Ed.2d 29 (2008).
+D. Exhaustion of Prebate Cartridges Lexmark also challenges the district court's post-trial ruling holding that Lexmark's sale of Prebate cartridges exhausted its patent rights in their cartridges.
+The relief Lexmark seeks on this issue, however, is unclear.
+Whether the Prebate agreement prevented the exhaustion of Lexmark's patent rights as a matter of law does not change the outcome of the jury trial, because at the time of trial the district court had ruled favorably to Lexmark that Prebate cartridges prevented [**29] exhaustion.
+R. 1008 (D. Ct. Order 4/24/07).
+Thus, unlike the non-Prebate cartridges sold in the United States and the IBM cartridges, the jury was never instructed that Prebate cartridges could not serve the basis for direct infringement by Static Control's customers as a class.
+Nor does the question of exhaustion bear in any way on the jury's verdict that Static Control did not induce the direct infringement by Wazana, Pendl, and NER.
+We therefore decline to resolve this extremely complex and unsettled question, because it would have no relevance to the outcome of this appeal.
+E. Design-Patent Invalidity The district court held on summary judgment that two of Lexmark's design patents relating to the appearance of its toner cartridges — D399,249 and D458,-300 — were invalid.
+R. 1008 (D. Ct. Order 4/24/07).
+Patent invalidity is a defense to a claim for patent infringement.
+35 U.S.C. 282 .
+As a result of this ruling, the issue of whether any party directly infringed Lexmark's design patents or induced someone else to infringe was never decided.
+Lexmark appeals, and we affirm.
+All patents are presumed valid, and the burden of overcoming this presumption rests on the party seeking invalidity.
+35 U.S.C. 282 ; Campbell v. Spectrum Automation Co. , 513 F.2d 932 , 935-36 (6th Cir.1975).
+Invalidity must be established by clear and convincing evidence.
+Microsoft Corp. v. i4i Ltd. P'ship , U.S. , 131 S.Ct. 2238 , 2243 , 180 L.Ed.2d 131 (2011).
+Patent validity is a question of law.
+Schnadig Corp. v. Gaines Mfg. Co. , 494 F.2d 383 , 387-88 (6th Cir.1974).
+However, where legal analysis rests on factual findings, we will not reverse such findings absent clear error.
+Id. at 388 .
+Design patents are issued to whoever "invents any new, original and ornamental design for an article of manufacture."
+35 U.S.C. 171 ; Schnadig , 494 F.2d at 387 ("To be patentable a design must be new, original, ornamental and nonobvious.").
+A design patent is not ornamental if the design serves only functional purposes.
+In other words, "[a] design patent cannot be obtained to protect a mechanical function or cover an article whose configuration affects its utility alone."
+Kwik-Site Corp. v. Clear View Mfg. Co. , 758 F.2d 167 , 171 (6th Cir.1985) (internal quotation marks and emphasis omitted) (holding design patent for rifle scope mount invalid because configuration served solely functional purposes); Fuji Kogyo Co. v. Pacific Bay Int'l, Inc. , 461 F.3d 675 , 683 (6th Cir.2006) ("[I]f the particular design is essential to the use of the article, it can not be the subject of a design patent") (internal quotation marks omitted), cert. denied , 549 U.S. 1252 , 127 S.Ct. 1373 , 167 L.Ed.2d 160 (2007).
+An article is less likely to be ornamental if it is not observed, and the Federal Circuit looks not just to whether the article is ever seen but whether the appearance of the article may become a "matter of concern" at any point during the article's "normal and intended use."
+In re Webb , 916 F.2d 1553 , 1558 (Fed.Cir.1990) (holding design of hip implants could be patented because even though not seen during normal use the "design [was] clearly intended to be noticed during the process of sale.").
+The district court held that Lexmark's design patents were invalid because the design of Lexmark's toner cartridges was primarily functional and "the appearance of Lexmark's printer cartridges in question are [sic] of no matter [**30] of concern during those cartridges' entire existence."
+R. 1008 (D. Ct. Order 4/24/07 at 10-11).
+The design of the cartridges was primarily functional because the design of the printer dictated the exact design of the cartridge.
+Id. at 13-14 (citing Best Lock Corp. v. Ilco Unican Corp. , 94 F.3d 1563 , 1566 (Fed.Cir.1996) (holding design of key not patentable because dictated by function, i.e., the design of the corresponding lock)).
+And even though the cartridges may be seen at some point during their lifetime, at no point was their appearance a matter of concern to the end-user.
+Id. at 11 (citing In re Stevens , 36 CCPA 1017, 1019-20, 173 F.2d 1015 (1949)).
+Lexmark claims that the district court improperly shifted the burden of proof onto Lexmark to show validity and improperly credited disputed issues of fact in Static Control's favor.
+Lexmark does not dispute the general proposition that to establish invalidity, the infringer must show "that consumers do not consider [the patented design] to be significant."
+Second Appellee Br. at 36 (quoting Int'l Seaway Trading Corp. v. Walgreens Corp. , 589 F.3d 1233 , 1242 (Fed.Cir.2009)).
+Lexmark objects to the lack of survey evidence showing consumers do not consider Lexmark's cartridge appearance to be a matter of concern and argues that the district court ignored the presence of photographs of the cartridges on the website where the cartridges were sold and on the cartridge boxes.
+Lexmark argues that this determination is an issue of fact subject to genuine dispute and therefore inappropriate on summary judgment.
+The district court applied the correct standard and evaluated the undisputed facts offered by Static Control establishing that the design of the cartridges was functional and not ornamental.
+[fn17] The toner cartridges are visible to users at some points, but are generally hidden from view inside the printer.
+Their design is dictated solely by the printer with which they are compatible.
+Lexmark itself explained that the advertisements containing photographs were primarily to assist the customer in selecting the cartridge that was compatible with the printer they owned.
+R. 506 (Lexmark's Opp.
+to Summ.
+J. at 10).
+The cartridges' appearance had no other role in the purchaser's decision of which cartridge to purchase.
+"[T]he purpose of the statute is to give encouragement to the decorative arts.
+It contemplates not so much utility as appearance."
+Cavu Clothes, Inc. v. Squires, Inc. , 184 F.2d 30 , 32 (6th Cir.1950) (citing Gorham Mfg. Co. v. White , 81 U.S. 511 , 524 , 14 Wall. 511, 20 L.Ed. 731 (1871)).
+On appeal, Lexmark does not attempt to dispute any of these material facts, arguing instead that Static Control should have presented more evidence, such as consumer surveys, and suggesting that the presence of photographs of the product should be enough to create a dispute over whether appearance matters.
+Second Appellee Br. at 36-37.
+Although we make all inferences in favor of Lexmark on this issue, Static Control has demonstrated by undisputed clear and convincing evidence that the design patents were invalid.
+Lexmark has not pointed to any genuine fact disputes that would undermine this conclusion.
+We therefore AFFIRM [**31] the district court's holding that Lexmark's design patents are invalid.
+IX.
+CONCLUSION For the aforementioned reasons, we AFFIRM the district court on all claims except the dismissal of some of Static Control's counterclaims under the Lanham Act and North Carolina state law, which we REVERSE and REMAND for further proceedings consistent with this opinion.

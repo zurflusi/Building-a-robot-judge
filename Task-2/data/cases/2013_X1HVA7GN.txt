@@ -1,0 +1,355 @@
+ DRONEY, Circuit Judge: Aereo, Inc. ("Aereo") enables its subscribers to watch broadcast television programs over the internet for a monthly fee.
+Two groups of plaintiffs, holders of copyrights in programs broadcast on network television, filed copyright infringement actions against Aereo in the United States District Court for the Southern District of New York.
+They moved for a preliminary injunction barring Aereo from transmitting programs to its subscribers while the programs are still airing, claiming that those transmissions infringe their exclusive right to publicly perform their works.
+The district court (Nathan, J. ) denied the motion, concluding that the plaintiffs were unlikely to prevail on the merits in light of our prior decision in Cartoon Network LP, LLLP v. CSC Holdings, Inc. , 536 F.3d 121 (2d Cir.2008) (" Cablevision").
+We agree and affirm the order of the district court denying the motion for a preliminary injunction.
+1 BACKGROUND The parties below agreed on all but one of the relevant facts of Aereo's system, namely whether Aereo's antennas operate independently or as a unit.
+The district court resolved that issue, finding [***3] that Aereo's antennas operate independently.
+The Plaintiffs do not appeal that factual finding.
+Thus the following facts are undisputed.
+I. Aereo's System Aereo transmits to its subscribers broadcast television programs over the internet for a monthly subscription fee.
+Aereo is currently limited to subscribers living in New York City and offers only New York area channels.
+It does not have any license from copyright holders to record or transmit their programs.
+The details of Aereo's system are best explained from two perspectives.
+From its subscribers' perspective, Aereo functions much like a television with a remote Digital Video Recorder ("DVR") and Slingbox.
+2 Behind the scenes, Aereo's system uses antennas and a remote hard drive to create individual copies of the programs Aereo users wish to watch [**1343] while they are being broadcast or at a later time.
+These copies are used to transmit the programs to the Aereo subscriber.
+A. The Subscriber's Perspective Aereo subscribers begin by logging on to their account on Aereo's website using a computer or other internet-connected device.
+They are then presented with a programming guide listing broadcast television programs now airing or that will air in the future.
+If a user selects a program that is currently airing, he is presented with two options: "Watch" and "Record."
+If the user selects "Watch," the program he selected begins playing, but the transmission is briefly delayed relative to the live television broadcast.
+3 Thus the user can watch the program nearly live, that is, almost contemporaneously with the over-the-air broadcast.
+While the user is watching the program with the "Watch" function, he can pause or rewind it as far back as the point when the user first began watching the program.
+4 This may result in the user watching the program with the "Watch" feature after the over-the-air broadcast has ended.
+At any point while watching the program with the "Watch" feature, the user can select the "Record" button, which will cause Aereo's system to save a copy of the program for later viewing.
+The recorded copy of the program will begin from the point when the user first began watching the program, not from the time when the user first pressed the "Record" button.
+5 If a user in "Watch" mode does not press "Record" before the conclusion of the program, the user is not able to watch that program again later.
+An Aereo user can also select a program that is currently airing and press the "Record" button.
+In that case, a copy of the program will be saved for later viewing.
+However, the "Record" function can also be used to watch a program nearly live, because the user can begin playback of the program being recorded while the recording is being made.
+Thus the difference between selecting the "Watch" and the "Record" features for a program currently airing is that the "Watch" feature begins playback and a copy of the program is not retained for later viewing, while the "Record" feature saves a copy for later viewing but does not begin playback without further action by the user.
+If an Aereo user selects a program that [***4] will air in the future, the user's only option is the "Record" function.
+When the user selects that function, Aereo's system will record the program when it airs, saving a copy for the user to watch later.
+An Aereo user cannot, however, choose either to "Record" or "Watch" a program that has already finished airing if he did not previously elect to record the program.
+The final notable feature of Aereo's system is that users can watch Aereo programing on a variety of devices.
+Aereo's primary means of transmitting a program to a user is via an internet browser, which users can access on their computers.
+Aereo users can also watch programs on mobile devices such as tablets or smart phones using mobile applications.
+Finally, Aereo subscribers can watch Aereo on an internet-connected TV or use a stand-alone device to connect their non-internet TVs to Aereo.
+Aereo's system thus provides the functionality of three devices: a standard TV antenna, a DVR, and a Slingbox-like device.
+These devices allow one to watch live television with the antenna; pause and record live television and watch recorded programing using the DVR; and use the Slingbox to watch both live and recorded programs on internet-connected mobile devices.
+B. The Technical Aspects of Aereo's System Aereo has large antenna boards at its facility in Brooklyn, New York.
+Each of these boards contains approximately eighty antennas, which consist of two metal loops roughly the size of a dime.
+These boards are installed parallel to each other in a large metal housing such that the antennas extend out of the housing and can receive broadcast TV signals.
+Aereo's facility thus uses thousands of individual [**1344] antennas to receive broadcast television channels.
+6 When an Aereo user selects a program to watch or record, a signal is sent to Aereo's antenna server.
+The antenna server assigns one of the individual antennas and a transcoder to the user.
+The antenna server tunes that antenna to the broadcast frequency of the channel showing the program the user wishes to watch or record.
+The server transcodes the data received by this antenna, buffers it, and sends it to another Aereo server, where a copy of the program is saved to a large hard drive in a directory reserved for that Aereo user.
+If the user has chosen to "Record" the program, the Aereo system will create a complete copy of the program for that user to watch later.
+When the user chooses to view that program, Aereo's servers will stream the program to the user from the copy of the program saved in the user's directory on the Aereo server.
+If the user instead has chosen to "Watch" the program, the same operations occur, except that once six or seven seconds of programming have been saved in the hard drive copy of the program in the user's directory on the Aereo server, the Aereo system begins streaming the program to the user from this copy.
+Thus even when an Aereo user is watching a program using the "Watch" feature, he is not watching the feed directly or immediately from the antenna assigned to him.
+Rather the feed from that antenna is used to create [***5] a copy of the program on the Aereo server, and that copy is then transmitted to the user.
+If at any point before the program ends, the user in "Watch" mode selects "Record," the copy of the program is retained for later viewing.
+If the user does not press "Record" before the program ends, the copy of the program created for and used to transmit the program to the user is automatically deleted when it has finished playing.
+Three technical details of Aereo's system merit further elaboration.
+First, Aereo assigns an individual antenna to each user.
+No two users share the same antenna at the same time, even if they are watching or recording the same program.
+7 Second, the signal received by each antenna is used to create an individual copy of the program in the user's personal directory.
+Even when two users are watching or recording the same program, a separate copy of the program is created for each.
+Finally, when a user watches a program, whether nearly live or previously recorded, he sees his individual copy on his TV, computer, or mobile-device screen.
+Each copy of a program is only accessible to the user who requested that the copy be made, whether that copy is used to watch the program nearly live or hours after it has finished airing; no other Aereo user can ever view that particular copy.
+II.
+The Present Suits Two groups of plaintiffs (the "Plaintiffs") filed separate copyright infringement actions against Aereo in the Southern District of New York.
+They asserted multiple theories, including infringement of the public performance right, infringement of the right of reproduction, and contributory infringement.
+ABC and its co-plaintiffs moved for a preliminary injunction barring Aereo from transmitting television programs to its subscribers while the programs were still being broadcast.
+The two sets of plaintiffs agreed to proceed before the district court in tandem, and the motion for preliminary injunction was pursued in both actions simultaneously.
+Following expedited briefing and discovery and an evidentiary hearing, the district court denied the Plaintiffs' motion.
+Am. Broad.
+Cos., Inc. v. Aereo , 874 F.Supp.2d 373, 405 (S.D.N.Y.2012).
+The district court began its analysis with the first factor relevant to granting a preliminary injunction: whether the Plaintiffs have demonstrated a likelihood of success on the merits.
+Id. at 381 (citing Salinger v. Colting , 607 F.3d 68, 80 (2d Cir.2010)).
+The district court found that this factor was determined by our prior decision in Cablevision , 536 F.3d 121 [**1345] .
+Aereo , 874 F.Supp.2d at 381-82 .
+After a lengthy discussion of the facts and analysis of that decision, the district court concluded that Aereo's system was not materially distinguishable from Cablevision's Remote Storage Digital Video Recorder system, which we held did not infringe copyright holders' public performance right.
+Id. at 385-86 .
+The district court found unpersuasive each of the Plaintiffs' arguments attempting to distinguish Cablevision.
+See id. at 386-96 .
+Thus the court concluded that the Plaintiffs were unlikely to prevail on the merits.
+Id. at 396 .
+The district court then considered the other three preliminary injunction factors.
+First, the court concluded that the Plaintiffs had demonstrated a likelihood that they would suffer [***6] irreparable harm in the absence of a preliminary injunction.
+Id. at 396-402 .
+But second, the district court found that an injunction would severely harm Aereo, likely ending its business.
+Id. at 402-03 .
+As such, the balance of hardships did not tip "decidedly" in favor of the Plaintiffs.
+Id. at 403 .
+Finally, the district court concluded that an injunction "would not disserve the public interest."
+Id. at 403-04 .
+Because the Plaintiffs had not demonstrated a likelihood of success on the merits or a balance of hardship tipping decidedly in their favor, the district court denied their motion for a preliminary injunction.
+Id. at 405 .
+The Plaintiffs promptly filed an interlocutory appeal, and this case was briefed on an expedited schedule.
+DISCUSSION We review a district court's denial of a preliminary injunction for abuse of discretion.
+WPIX, Inc. v. ivi, Inc. , 691 F.3d 275, 278 (2d Cir.2012).
+A district court abuses its discretion when its decision rests on legal error or a clearly erroneous factual finding, or when its decision, though not the product of legal error or a clearly erroneous factual finding, cannot be located within the range of permissible decisions.
+Id. Our decisions identify four factors relevant to granting a preliminary injunction for copyright infringement.
+First, a district court may issue a preliminary injunction "only if the plaintiff has demonstrated either (a) a likelihood of success on the merits or (b) sufficiently serious questions going to the merits to make them a fair ground for litigation and a balance of hardships tipping decidedly in the plaintiff's favor."
+Salinger v. Colting , 607 F.3d 68, 79 (2d Cir.2010) (internal citation and quotation marks omitted).
+Second, a plaintiff seeking a preliminary injunction must demonstrate " 'that he is likely to suffer irreparable injury in the absence of' " an injunction.
+Id. at 79-80 (quoting Winter v. Natural Res. Def. Council , 555 U.S. 7, 20 , 129 S.Ct. 365 , 172 L.Ed.2d 249 (2008)).
+A court may not presume irreparable injury in the copyright context; rather the plaintiff must demonstrate actual harm that cannot be remedied later by damages should the plaintiff prevail on the merits.
+Id. at 80 (citing eBay Inc. v. MercExchange, L.L.C.
+, 547 U.S. 388, 391 , 126 S.Ct. 1837 , 164 L.Ed.2d 641 (2006)).
+Third, a district court "must consider the balance of hardships between the plaintiff and defendant and issue the injunction only if the balance of hardships tips in the plaintiff's favor."
+Id. Fourth and finally, "the court must ensure that 'the public interest would not be disserved' by the issuance of a preliminary injunction."
+Id. (quoting eBay , 547 U.S. at 391 , 126 S.Ct. 1837 ).
+The outcome of this appeal turns on whether Aereo's service infringes the Plaintiffs' public performance right under the Copyright Act.
+The district court denied the injunction, concluding, as mentioned above, that (1) Plaintiffs were not likely to prevail on the merits given our prior decision in Cablevision and (2) the balance of hardships did not tip "decidedly" in the Plaintiffs' favor.
+Aereo , 874 F.Supp.2d at 405 .
+Plaintiffs' likelihood of success on the merits depends on whether Aereo's service infringes Plaintiffs' copyrights.
+And, as we discuss further below, the balance of hardships is largely a function of whether the harm Aereo would suffer from the issuance of an injunction is legally cognizable, which in turn depends on whether Aereo is infringing the Plaintiffs' copyrights.
+See ivi , 691 F.3d at 287 .
+As a result, a preliminary injunction can only [***7] be granted if Plaintiffs can show that Aereo infringes their public performance right.
+We now turn to that issue.
+I. The Public Performance Right The 1976 Copyright Act (the "Act") gives copyright owners several exclusive rights and then carves out a number of exceptions.
+The fourth of these rights, at issue in this appeal, is the copyright owner's exclusive right "in the case of literary, musical, dramatic, and choreographic works, pantomimes, and motion pictures and other audiovisual works, to perform the copyrighted work publicly."
+17 U.S.C. 106(4) [**1346] .
+The Act defines "perform" as "to recite, render, play, dance, or act [a work], either directly or by means of any device or process or, in the case of a motion picture or other audiovisual work, to show its images in any sequence or to make the sounds accompanying it audible."
+17 U.S.C. 101 .
+The Act also states: 17 U.S.C. 101 .
+This appeal turns on the second clause of this definition (the "Transmit Clause" or "Clause").
+The relevant history of the Transmit Clause begins with two decisions of the Supreme Court, Fortnightly Corp. v. United Artists Television, Inc. , 392 U.S. 390 , 88 S.Ct. 2084 , 20 L.Ed.2d 1176 (1968), and Teleprompter Corp. v. Columbia Broadcasting System, Inc. , 415 U.S. 394 , 94 S.Ct. 1129 , 39 L.Ed.2d 415 (1974).
+These decisions held that under the then-current 1909 Copyright Act, which lacked any analog to the Transmit Clause, a cable television system that received broadcast television signals via antenna and retransmitted these signals to its subscribers via coaxial cable did not "perform" the copyrighted works and therefore did not infringe copyright holders' public performance right.
+Teleprompter , 415 U.S. at 408 , 94 S.Ct. 1129 ; Fortnightly , 392 U.S. at 399-401 , 88 S.Ct. 2084 .
+Even before these cases were decided, Congress had begun drafting a new copyright act to respond to changes in technology, most notably, cable television.
+These efforts resulted in the 1976 Copyright Act.
+The Act responded to the emergence of cable television systems in two ways.
+First, it added the Transmit Clause.
+The legislative history shows that the Transmit Clause was intended in part to abrogate Fortnightly and Teleprompter and bring a cable television system's retransmission of broadcast television programming within the scope of the public performance right.
+H.R.
+Rep.
+94-1476 , 1976 U.S.C.C.A.N.
+5659, at 63 (1976) ("House Report") ("[A] sing[er] is performing when he or she sings a song; a broadcasting network is performing when it transmits his or her performance (whether simultaneously or from records); a local broadcaster is performing when it transmits the network broadcast; a cable television system is performing when it retransmits the broadcast to its subscribers; and any individual is performing when he or she plays a phonorecord embodying the performance or communicates it by turning on a receiving set.").
+Second, Congress recognized that requiring [***8] cable television systems to obtain a negotiated license from individual copyright holders may deter further investment in cable systems, so it created a compulsory license for retransmissions by cable systems.
+8 See 17 U.S.C. 111(d) .
+Plaintiffs claim that Aereo's transmissions of broadcast television programs while the programs are airing on broadcast television fall within the plain language of the Transmit Clause and are analogous to the retransmissions of network programing made by cable systems, which the drafters of the 1976 Copyright Act viewed as public performances.
+They therefore believe that Aereo is publicly performing their copyrighted works without a license.
+9 In evaluating their claims, we do not work from a blank slate.
+Rather, this Court in Cablevision , 536 F.3d 121 , closely analyzed and construed the Transmit Clause in a similar factual context.
+Thus the question of whether Aereo's transmissions are public performances under the [**1347] Transmit Clause must begin with a discussion of Cablevision.
+II.
+Cablevision's Interpretation of the Transmit Clause In Cablevision , 536 F.3d 121 , we considered whether Cablevision's Remote Storage Digital Video Recorder ("RS-DVR") infringed copyright holders' reproduction and public performance rights.
+Cablevision, a cable television system, wished to offer its customers its newly designed RS-DVR system, which would give them the functionality of a stand-alone DVR via their cable set-top box.
+536 F.3d at 124-25 .
+Before the development of the RS-DVR system, Cablevision would receive programming from various content providers, such as ESPN or a local affiliate of a national broadcast network, process it, and transmit it to its subscribers through coaxial cable in real time.
+Id. With the RS-DVR system, Cablevision split this stream into two.
+One stream went out to customers live as before.
+The second stream was routed to a server, which determined whether any Cablevision customers had requested to record a program in the live stream with their RS-DVR.
+If so, the data for that program was buffered, and a copy of that program was created for that Cablevision customer on a portion of a Cablevision remote hard drive assigned solely to that customer.
+Thus if 10,000 Cablevision customers wished to record the Super Bowl, Cablevision would create 10,000 copies of the broadcast, one for each customer.
+A customer who requested that the program be recorded could later play back the program using his cable remote, and Cablevision would transmit the customer's saved copy of that program to the customer.
+Only the customer who requested that the RS-DVR record the program could access the copy created for him; no other Cablevision customer could view this particular copy.
+10 See 536 F.3d at 124-25 .
+Copyright holders in movies and television programs sued, arguing that Cablevision's RS-DVR system infringed their reproduction right by creating unauthorized copies of their programs and their public performance right by transmitting these copies to Cablevision customers who previously requested to record the programs using their RS-DVRs.
+The district court granted the plaintiffs' motion for [***9] summary judgment and issued an injunction against Cablevision.
+See Twentieth Century Fox Film Corp. v. Cablevision Sys. Corp. , 478 F.Supp.2d 607 (S.D.N.Y.2007).
+The court found that the RS-DVR infringed the plaintiffs' reproduction right in two ways: (1) by creating temporary buffer copies of programs in order to create a permanent copy for each of its customers on its hard drives and (2) by creating a permanent copy of the program for each customer.
+Id. at 617-22 .
+The court also found that Cablevision's transmission of a recorded program to the customer who had requested to record the program was a public performance under the Transmit Clause and therefore was infringing on that basis as well.
+Id. at 622-23 .
+This Court reversed on all three issues.
+Cablevision , 536 F.3d at 140 .
+Because the Plaintiffs in the present cases did not pursue their claim that Aereo infringes their reproduction right in the injunction application before the district court, we need not discuss the two reproduction right holdings of Cablevision except where relevant to the public performance issue.
+Instead, we will focus on Cablevision's interpretation of the public performance right and the Transmit Clause, which the court below found determinative of the injunction application.
+The Cablevision court began by discussing the language and legislative history of the Transmit Clause.
+536 F.3d at 134-35 .
+Based on language in the Clause specifying that a transmission may be "to the public whether the members of the public capable of receiving the performance receive it in the same place or in separate places and at the same time or at different times," 17 U.S.C. 101 , this Court concluded that "it is of no moment that the potential recipients of the transmission are in different places, or that they may receive the transmission at different times."
+536 F.3d at 134 .
+As the language makes plain, in determining whether a transmission is to the public it is important "to discern who is 'capable of receiving' the performance being transmitted."
+Id. (quoting 17 U.S.C. 101 ).
+Cablevision then decided that "capable of receiving the performance" refers [**1348] not to the performance of the underlying work being transmitted but rather to the transmission itself, since the "transmission of a performance is itself a performance."
+Id. The Court therefore concluded that "the transmit clause directs us to examine who precisely is 'capable of receiving' a particular transmission of a performance ."
+536 F.3d at 135 (emphasis added).
+In adopting this interpretation of the Transmit Clause, Cablevision rejected two alternative readings.
+First, it considered the interpretation accepted by the district court in that case. According to that view, a transmission is "to the public," not based on the "potential audience of a particular transmission" but rather based on the "potential audience of the underlying work (i.e., 'the program') whose content is being transmitted."
+Id. at 135 .
+The Cablevision court rejected this interpretation of the Transmit Clause.
+Given that "the potential audience for every copyrighted audio-visual work is the general public," this interpretation would render the "to the public" language of the Clause superfluous and contradict the Clause's obvious contemplation of non-public transmissions.
+Id. at 135-36 .
+Second, the Cablevision court considered "a slight variation of this interpretation" [***10] offered by the plaintiffs.
+Id.
+Plaintiffs argued that "both in its real-time cablecast and via the RS-DVR playback, Cablevision is in fact transmitting the 'same performance' of a given work: the performance that occurs when the programming service supplying Cablevision's content transmits that content to Cablevision and the service's other licensees."
+Id. In this view, the Transmit Clause requires courts to consider "not only the potential audience [of a particular] transmission, but also the potential audience of any transmission of the same underlying 'original' performance."
+Id.
+This interpretation of the Transmit Clause would aggregate all transmissions of the same underlying performance, and if these transmissions enabled the performance to reach the public, each transmission, regardless of its potential audience, should be deemed a public performance.
+Cablevision rejected this view because it would make a seemingly private transmission public by virtue of actions taken by third parties.
+Id. For example, if a person records a program and then transmits that recording to a television in another room, he would be publicly performing the work because some other party, namely the original broadcaster, had once transmitted the same performance to the public.
+Id. The Cablevision court concluded that Congress could not have intended "such odd results"; instead, the Transmit Clause directed courts to consider only the potential audience of the "performance created by the act of transmission."
+Id. The Cablevision court found this interpretation consistent with prior opinions of this Court construing the Clause.
+Id. ; see Nat'l Football League v. PrimeTime 24 Joint Venture , 211 F.3d 10 (2d Cir.2000).
+Finally, the Cablevision court considered Columbia Pictures Industries, Inc. v. Redd Horne, Inc. , 749 F.2d 154 (3d Cir.1984).
+In Redd Horne, the defendant operated a video rental store that utilized private booths containing individual televisions.
+Customers would select a movie from the store's catalog and enter a booth.
+A store employee would then load a copy of the movie into a VCR hard-wired to the TV in the customer's booth and transmit the content of the tape to the television in the booth.
+See 749 F.2d at 156-57 .
+The Third Circuit, following an interpretation of the Transmit Clause first advanced by Professor Nimmer, held that this was a public performance because the same copy of the work, namely the individual video cassette, was repeatedly "performed" to different members of the public at different times.
+Id. at 159 (quoting 2 Melville B. Nimmer & David Nimmer, Nimmer on Copyright 8.14[C] , at 8.192.8(1) (Matthew Bender rev. ed.)).
+The Cablevision court endorsed this conclusion 11 ; whether a transmission originates [**1349] from a distinct or shared copy is relevant to the Transmit Clause analysis because "the use of a unique copy may limit the potential audience of a transmission and is therefore relevant to whether that transmission is made 'to the public.'
+" 536 F.3d at 138 .
+Applying this interpretation of the Transmit Clause to the facts of the RS-DVR, the Cablevision court concluded that Cablevision's transmission of a recorded program to an individual subscriber was not a public performance.
+Id. Each transmission of a program could be received by only one Cablevision customer, namely the customer who requested that the copy be [***11] created.
+No other Cablevision customer could receive a transmission generated from that particular copy.
+The "universe of people capable of receiving an RS-DVR transmission is the single subscriber whose self-made copy is used to create that transmission."
+Id. at 137 .
+The transmission was therefore not made "to the public" within the meaning of the Transmit Clause and did not infringe the plaintiffs' public performance right.
+Id. at 138 .
+We discuss Cablevision's interpretation of the Transmit Clause in such detail because that decision establishes four guideposts that determine the outcome of this appeal.
+First and most important, the Transmit Clause directs courts to consider the potential audience of the individual transmission.
+See id. at 135 .
+If that transmission is "capable of being received by the public" the transmission is a public performance; if the potential audience of the transmission is only one subscriber, the transmission is not a public performance, except as discussed below.
+Second and following from the first, private transmissions—that is those not capable of being received by the public—should not be aggregated.
+It is therefore irrelevant to the Transmit Clause analysis whether the public is capable of receiving the same underlying work or original performance of the work by means of many transmissions.
+See id. at 135-37 .
+Third, there is an exception to this no-aggregation rule when private transmissions are generated from the same copy of the work.
+In such cases, these private transmissions should be aggregated, and if these aggregated transmissions from a single copy enable the public to view that copy, the transmissions are public performances.
+See id. at 137-38 .
+Fourth and finally, "any factor that limits the potential audience of a transmission is relevant" to the Transmit Clause analysis.
+Id. at 137 .
+III.
+Cablevision's Application to Aereo's System As discussed above, Cablevision's holding that Cablevision's transmissions of programs recorded with its RS-DVR system were not public performances rested on two essential facts.
+First, the RS-DVR system created unique copies of every program a Cablevision customer wished to record.
+536 F.3d at 137 .
+Second, the RS-DVR's transmission of the recorded program to a particular customer was generated from that unique copy; no other customer could view a transmission created by that copy.
+Id.
+Given these two features, the potential audience of every RS-DVR transmission was only a single Cablevision subscriber, namely the subscriber who created the copy.
+12 And because the potential audience of the transmission was only one Cablevision subscriber, the transmission was not made "to the public."
+The same two features are present in Aereo's system.
+When an Aereo customer elects to watch or record a program using either the "Watch" or "Record" features, Aereo's system creates a unique copy of that program on a portion of a hard drive assigned only to that Aereo user.
+And when an Aereo user chooses to watch the recorded program, whether (nearly) live or days after the program has aired, the transmission sent by Aereo and received by that user is generated from that unique [***12] copy.
+No other Aereo user can ever receive a transmission from that copy.
+Thus, just as in Cablevision, the potential audience of each Aereo transmission is the single user who requested that a program be recorded.
+Plaintiffs offer various arguments attempting to distinguish Cablevision from the Aereo [**1350] system.
+First, they argue that Cablevision is distinguishable because Cablevision had a license to transmit programming in the first instance, namely when it first aired the programs; thus the question was whether Cablevision needed an additional license to retransmit the programs recorded by its RS-DVR system.
+Aereo, by contrast, has no license.
+This argument fails, as the question is whether Aereo's transmissions are public performances of the Plaintiffs' copyrighted works.
+If so, Aereo needs a license to make such public performances; if they are not public performances, it needs no such license.
+Thus whether Aereo has a license is not relevant to whether its transmissions are public and therefore must be licensed.
+This argument by the Plaintiffs also finds no support in the Cablevision opinion.
+Cablevision did not hold that Cablevision's RS-DVR transmissions were licensed public performances; rather it held they were not public performances.
+It does not appear that the Cablevision court based its decision that Cablevision's RS-DVR transmissions were non-public transmissions on Cablevision's license to broadcast the programs live.
+Indeed, such a conclusion would have been erroneous, because having a license to publicly perform a work in a particular instance, such as to broadcast a television program live, does not give the licensee the right to perform the work again.
+That Cablevision had a license to transmit copyrighted works when they first aired thus should have no bearing on whether it needed a license to retransmit these programs as part of its RS-DVR system.
+Indeed, if this interpretation of Cablevision were correct, Cablevision would not need a license to retransmit programs using video-on-demand and there would have been no reason for Cablevision to construct an RS-DVR system employing individual copies.
+Second, Plaintiffs argue that discrete transmissions should be aggregated to determine whether they are public performances.
+This argument has two aspects.
+Plaintiffs first argue that because Aereo's discrete transmissions enable members of the public to receive "the same performance (i.e., Aereo's retransmission of a program)" they are transmissions made "to the public."
+Br. of Pls.-Appellants Am. Broad.
+Cos., et al.
+at 19.
+But this is nothing more than the Cablevision plaintiffs' interpretation of the Transmit Clause, as it equates Aereo's transmissions with the original broadcast made by the over-the-air network rather than treating Aereo's transmissions as independent performances.
+See 536 F.3d at 136 .
+This approach was explicitly rejected by the Cablevision court.
+See id.
+Plaintiffs also argue that the Copyright Act requires that all of Aereo's discrete transmissions "be aggregated and viewed collectively as constituting a public performance."
+Br. of Pls.-Appellants WNET, Thirteen, et al.
+at 34.
+This is not contrary [***13] to Cablevision, they argue, because Cablevision only held that transmissions of the same performance or work made by different entities should not be aggregated.
+On their view, discrete transmissions of the same performance or work made by the same entity should be aggregated to determine whether a public performance has occurred.
+This argument is also foreclosed by Cablevision.
+First, Cablevision made clear that the relevant inquiry under the Transmit Clause is the potential audience of a particular transmission, not the potential audience for the underlying work or the particular performance of that work being transmitted.
+See 536 F.3d at 135 .
+But the only reason to aggregate Aereo's discrete transmissions along the lines suggested by Plaintiffs is that they are discrete transmissions of the same performance or work .
+Thus Plaintiffs are asking us to adopt a reading of the Transmit Clause that is contrary to that adopted by Cablevision because it focuses on the potential audience of the performance or work being transmitted, not the potential audience of the particular transmission.
+Second, Plaintiffs provide no reason why Aereo's multiple, audience-of-one transmissions of unique copies of the same underlying program should be aggregated but not Cablevision's multiple, audience-of-one transmissions of unique copies of the same underlying program.
+Both Aereo and Cablevision are making multiple private transmissions of the same work, so adopting the Plaintiffs' approach and aggregating all transmissions made by the same entity would require us to find that both are public performances.
+While it does not appear that Cablevision explicitly rejected this view, interpreting the Transmit Clause as the Plaintiffs urge so as to aggregate Aereo's transmissions would, if fairly applied to the facts of Cablevision, require us to aggregate Cablevision's distinct RS-DVR transmissions.
+For these reasons, we cannot accept Plaintiffs' arguments that Aereo's transmissions to a [**1351] single Aereo user, generated from a unique copy created at the user's request and only accessible to that user, should be aggregated for the purposes of determining whether they are public performances.
+Plaintiffs' third argument for distinguishing Cablevision is that Cablevision was decided based on an analogy to a typical VCR, with the RS-DVR simply an upstream version, but Aereo's system is more analogous to a cable television provider.
+While it is true that the Cablevision court did compare the RS-DVR system to the stand-alone VCR, these comparisons occur in the section of that opinion discussing Cablevision's potential liability for infringing the plaintiffs' reproduction right.
+See 536 F.3d at 131 .
+No part of Cablevision's analysis of the public performance right appears to have been influenced by any analogy to the stand-alone VCR.
+Moreover, this Court has followed Cablevision's interpretation of the Transmit Clause in the context of internet music downloads.
+See United States v. Am. Soc'y of Composers, Authors & Publishers , 627 F.3d 64, 73-76 (2d Cir.2010) (" ASCAP"); see also United States v. Am. Soc'y of Composers, Authors & Publishers (Application of Cellco P'Ship) , 663 F.Supp.2d 363, 371-74 (S.D.N.Y.2009) (following Cablevision's analysis of the Transmit Clause in the context of cellphone ringtones).
+Thus we see no support in Cablevision or in this Court's subsequent decisions for the Plaintiffs' argument that Cablevision's interpretation of the Transmit [***14] Clause is confined to technologies similar to the VCR.
+13 Plaintiffs' fourth argument for distinguishing Cablevision is that Cablevision's RS-DVR copies "broke the continuous chain of retransmission to the public" in a way that Aereo's copies do not.
+Br. of Pls.-Appellants Am. Broad.
+Cos., et al.
+at 39.
+Specifically, they argue that Aereo's copies are merely a device by which Aereo enables its users to watch nearly live TV, while Cablevision's copies, by contrast, could only serve as the source for a transmission of a program after the original transmission, that is the live broadcast of the program, had finished.
+As a result, Aereo's copies lack the legal significance of Cablevision's RS-DVR copies and are no different from the temporary buffer copies created by internet streaming, a process that this Court has assumed produces public performances.
+See, e.g. , ivi , 691 F.3d at 278 ; ASCAP , 627 F.3d at 74 .
+This argument fails for two reasons.
+First, Aereo's copies do have the legal significance ascribed to the RS-DVR copies in Cablevision because the user exercises the same control over their playback.
+The Aereo user watching a copy of a recorded program that he requested be created, whether using the "Watch" feature or the "Record" feature, chooses when and how that copy will be played back.
+The user may begin watching it nearly live, but then pause or rewind it, resulting in playback that is no longer concurrent with the program's over-the-air broadcast.
+Or the user may elect not to begin watching the program at all until long after it began airing.
+This volitional control over how the copy is played makes Aereo's copies unlike the temporary buffer copies generated incident to internet streaming.
+A person watching an internet stream chooses the program he wishes to watch and a temporary buffer copy of that program is then created, which serves as the basis of the images seen by the person watching the stream.
+But that person cannot exercise any control over the manner in which that copy is played—it cannot be paused, rewound, or rewatched later.
+As a result, the imposition of a temporary buffer copy between the outgoing stream and the image seen by the person watching it is of no significance, because the person only exercises control before the copy is created in choosing to watch the program in the first place.
+By contrast, the Aereo user selects what program he wishes a copy to be made of and then controls when and how that copy is played.
+14 This second [**1352] layer of control, exercised after the copy has been created, means that Aereo's transmissions from the recorded copies cannot be regarded as simply one link in a chain of transmission, giving Aereo's copies the same legal significance as the RS-DVR copies in Cablevision.
+15 Second, Plaintiffs' argument fails to account for Aereo's user-specific antennas.
+Each user-associated copy of a program created by Aereo's system is generated from a unique antenna assigned only to the user who requested that the copy be made.
+The feed from that antenna is not used to generate multiple copies of each program for different Aereo users but rather only one copy: the copy that can be watched by the [***15] user to whom that antenna is assigned.
+Thus even if we were to disregard Aereo's copies, it would still be true that the potential audience of each of Aereo's transmissions was the single user to whom each antenna was assigned.
+It is beyond dispute that the transmission of a broadcast TV program received by an individual's rooftop antenna to the TV in his living room is private, because only that individual can receive the transmission from that antenna, ensuring that the potential audience of that transmission is only one person.
+Plaintiffs have presented no reason why the result should be any different when that rooftop antenna is rented from Aereo and its signals transmitted over the internet: it remains the case that only one person can receive that antenna's transmissions.
+16 Thus even without the creation of user-associated copies, which under Cablevision means that Aereo's transmissions are not public, there is significant reason to believe that Aereo's system would not be creating public performances, since the entire chain of transmission from the time a signal is first received by Aereo to the time it generates an image the Aereo user sees has a potential audience of only one Aereo customer.
+17 Finally, Plaintiffs argue that holding that Aereo's transmissions are not public performances exalts form over substance, because the Aereo system is functionally equivalent to a cable television provider.
+Plaintiffs also make much of the undisputed fact that Aereo's system was designed around the Cablevision holding, because it creates essentially identical copies of the same program for every user who wishes to watch it in order to avoid copyright liability, instead of using a perhaps more efficient design employing shared copies.
+However, that Aereo was able to design a system based on Cablevision's holding to provide its users with nearly live television over the internet is an argument that Cablevision was wrongly decided; it does not provide a basis for distinguishing Cablevision.
+Moreover, Aereo is not the first to design systems to avoid copyright liability.
+The same is likely true of Cablevision, which created separate user-associated [**1353] copies of each recorded program for its RS-DVR system instead of using more efficient shared copies because transmissions generated from the latter would likely be found to infringe copyright holders' public performance right under the rationale of Redd Horne , 749 F.2d 154 .
+Nor is Aereo alone in designing its system around Cablevision, as many cloud computing services, such as internet music lockers, discussed further below, appear to have done the same.
+See Br. of the Computer & Commc'ns Indus.
+Ass'n & the Internet Ass'n as Amicus Curiae at 5-8.
+Perhaps the application of the Transmit Clause should focus less on the technical details of a particular system and more on its functionality, but this Court's decisions in Cablevision and NFL , 211 F.3d 10 , held that technical architecture matters.
+IV.
+The Legislative Intent Behind the 1976 Copyright Act Plaintiffs also contend that the legislative history of the 1976 Copyright Act shows that Aereo's transmissions should be deemed public [***16] performances of the Plaintiffs' copyrighted works.
+They argue that cable retransmissions are public performances under the Transmit Clause and Aereo is functionally equivalent to a cable system.
+However, this reading of the legislative history is simply incompatible with the conclusions of the Cablevision court.
+This view of the legislative history also ignores a contrary strand of the history behind the 1976 Copyright Act.
+Congress recognized when it drafted the 1976 Act that its broad definition of "performance" could create unintended results.
+The House Report states that under this definition, "any individual is performing whenever he or she plays a phonorecord embodying the performance or communicates the performance by turning on a receiving set."
+House Report at 63.
+But because Congress did not wish to require everyone to obtain a license from copyright holders before they could "perform" the copyrighted works played by their television, Congress was careful to note that a performance "would not be actionable as an infringement unless it were done 'publicly,' as defined in section 101 ."
+id. "Private" performances are exempted from copyright liability.
+Id.
+This limitation also applies to performances created by a "transmission," since, as the Cablevision court noted, if Congress intended all transmissions to be public performances, the Transmit Clause would not have contained the phrase "to the public."
+18 Cablevision , 536 F.3d at 135-36 .
+In the technological environment of 1976, distinguishing between public and private transmissions was simpler than today.
+New devices such as RS-DVRs and Slingboxes complicate our analysis, as the transmissions generated by these devices can be analogized to the paradigmatic example of a "private" transmission: that from a personal roof-top antenna to a television set in a living room.
+As much as Aereo's service may resemble a cable system, it also generates transmissions that closely resemble the private transmissions from these devices.
+Thus unanticipated technological developments have created tension between Congress's view that retransmissions of network programs by cable television systems should be deemed public performances and its intent that some transmissions be classified as private.
+Although Aereo may in some respects resemble a cable television system, we cannot disregard the contrary concerns expressed by Congress in drafting the 1976 Copyright Act.
+And we certainly cannot disregard the express language Congress selected in doing so. That language and its legislative history, as interpreted by this Court in Cablevision, compels the conclusion that Aereo's transmissions are not public performances.
+V. Stare Decisis Though presented as efforts to distinguish Cablevision, many of Plaintiffs' arguments really urge us to overrule Cablevision.
+One panel of this Court, however, "cannot overrule a prior decision of another panel."
+Union of Needletrades, Indus. & Textile Employees, AFL-CIO, CLC v. U.S. I.N.S.
+, 336 F.3d 200, 210 (2d Cir.2003).
+We are "bound by the decisions of prior panels until such time as they are overruled either by an en banc panel of our Court or by the Supreme Court."
+United States v. Wilkerson , 361 F.3d 717, 732 (2d Cir.2004).
+There is an exception when an intervening [***17] [**1354] Supreme Court decision "casts doubt on our controlling precedent," Union of Needletrades , 336 F.3d at 210 , but we are unaware of any such decisions that implicate Cablevision.
+Plaintiffs have provided us with no adequate basis to distinguish Cablevision from the Aereo system.
+19 We therefore see no error in the district court's conclusion that Plaintiffs are unlikely to prevail on the merits.
+VI.
+The Other Preliminary Injunction Factors We now turn to the remaining preliminary injunction factors.
+See Salinger , 607 F.3d at 79-80 .
+Because the Plaintiffs are not likely to prevail on the merits, we consider whether the Plaintiffs have demonstrated "sufficiently serious questions going to the merits to make them a fair ground for litigation and a balance of hardships tipping decidedly in the plaintiff's favor."
+Id. at 79 .
+Given our conclusion that Aereo's service does not infringe Plaintiffs' public performance right when it transmits a program still airing on broadcast television, we do not believe the Plaintiffs have demonstrated "sufficiently serious questions going to the merits to make them a fair ground for litigation."
+Id. Moreover, we find no abuse of discretion in the district court's determination that the balance of hardships does not tip decidedly in the Plaintiffs' favor.
+The district court reached this decision based on its conclusions (1) that the Plaintiffs were likely to suffer irreparable harm in the absence of an injunction and (2) that Aereo would suffer significant hardship if an injunction should issue, since this would likely be the end of its business.
+See Am. Broad.
+Cos., Inc. v. Aereo , 874 F.Supp.2d at 397-403 .
+The parties do not appear to contest the district court's factual determinations supporting these conclusions and we see no clear error in them.
+Plaintiffs do argue that any harm suffered by Aereo should be disregarded in the balance of hardships analysis because Aereo's business is illegal and "[i]t is axiomatic that an infringer of copyright cannot complain about the loss of ability to offer its infringing product."
+ivi , 691 F.3d at 287 .
+But this argument hinges on the conclusion that Aereo's business infringes the Plaintiffs' copyrights.
+Because we conclude that it does not—at least on the limited question before us of whether Aereo's transmissions of unique copies of recorded programs to the Aereo users who directed that they be created are public performances—the harms Aereo would suffer from an injunction are legally cognizable and significant.
+There is thus no reason to disturb the district court's conclusion that the balance of hardships does not tip "decidedly" in the Plaintiffs' favor.
+CONCLUSION We conclude that Aereo's transmissions of unique copies of broadcast television programs created at its users' requests and transmitted while the programs are still airing on broadcast television are not "public performances" of the Plaintiffs' copyrighted works under Cablevision.
+As such, Plaintiffs have not demonstrated that they are likely to prevail on the merits on this claim in their copyright infringement action.
+Nor have they demonstrated serious questions as to the merits and a balance of hardships that tips decidedly in their favor.
+We [***18] therefore affirm the order of the district court denying the Plaintiffs' motion.

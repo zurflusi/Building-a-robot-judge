@@ -1,0 +1,204 @@
+ IRVING R. KAUFMAN, Chief Judge: The draftsmen of our nation's securities laws, rejecting the philosophy of caveat emptor , created a system providing equal access to the information necessary for reasoned and intelligent investment decisions.
+It is apodictic that betting on a "sure thing" is anathema to the ideal of "fair and honest markets" established as the foundation of this statutory edifice.
+1 The present case requires us to apply these principles in the context of a criminal prosecution for trading on advance knowledge of stock market events.
+Vincent Chiarella used confidential information obtained through his job in a financial printing house to anticipate impending tender offers.
+He bought cheap and, soon after, sold dear.
+For these activities, he stands convicted of willfully violating 10(b) of the Securities Exchange Act of 1934 and Rule 10b-5 .
+On appeal, he contends that his operations, however nefarious, do not fit the statutory definition of criminal conduct and, moreover, that the trial judge erred in instructing the jury on the crucial issue of intent.
+He also challenges numerous other aspects of Judge Owen's charge and a host of his rulings on evidentiary matters.
+We affirm.
+I. Hostile tender offers are the high drama of Wall Street, but they have their tedious aspects.
+Chief among the latter is the vast amount of paper they generate even before the offer is made.
+Offering and transmittal letters, newspaper announcements, and disclosure statements to be filed in Washington must be prepared before the offeror may invite tenders.
+These documents are produced by the specialized printing firms that cluster around our centers of finance.
+Appellant was a "markup man" in the composing room of one such establishment, Pandick Press.
+Located in downtown Manhattan, Pandick was readily accessible to law firms and banking houses.
+When copy from a customer arrived in the shop, it went first to Chiarella.
+He selected type fonts and page layouts and then passed the manuscript on to be set into type.
+Between September 1975 and November 1976, in addition to preparing more mundane documents such as annual reports and proxy statements, Chiarella handled the raw material for five separate takeover bids.
+2 To preserve confidentiality for as long as possible--and, most particularly, to avoid an anticipatory rise in the market price of the target company's stock should news of the impending tender offer become public--the type was initially set with certain vital information absent or in code.
+Thus, when Emhart Corp. sought to purchase control of USM Corp., the documents originally delivered to Pandick read "Arabia Corp." and "USA Corp." Not until the final press run on the night before release were the true names inserted.
+The lawyers and investment bankers who coded the documents, however, reckoned without Chiarella.
+Appellant was not merely an ordinary printer, but a knowledgeable stock trader who spoke with his broker as often as ten or fifteen times a day.
+In each of the five cases, he was able to deduce the name of the target company from other information in the documents--price histories, par values, and the number of letters in the mock corporate names.
+Then, disregarding notices posted throughout Pandick that use of customer information for personal gain was both illegal and against company rules, he would call his broker and buy shares of the target's stock.
+Of course, when each tender offer was publicly announced, the market price of Chiarella's recently purchased shares increased sharply.
+Chiarella quickly sold out and turned a handsome profit.
+In the Emhart tender offer, for example, Emhart's lawyers brought the first set of documents to Pandick on September 3, 1975.
+By September 5, Chiarella had concluded that "Arabia" was Emhart and "USA" was USM.
+On that day, he bought 200 shares of USM common stock for his own account and 100 shares for his father's.
+On September 9, after the tender offer was announced, he sold all the stock at a profit of $1019.11.
+Over the five takeover bids covered by the indictment, Chiarella netted more than $30,000.
+3 Unfortunately for Chiarella, this "sure bet" did not last forever.
+In early 1977, the SEC initiated an investigation into Chiarella's activities.
+In May, he agreed in a consent decree to disgorge his profits to those who had sold him target stock 4 and, the same day, was discharged by Pandick.
+Finally, on January 4, 1978, he was indicted on seventeen counts of willful misuse of material 5 nonpublic information in connection with the purchase and sale of securities, purportedly in violation of 10(b) and Rule 10b-5 .
+6 After moving unsuccessfully to dismiss the indictment on the ground that it did not charge a crime, he was convicted by the jury on every count.
+7 This appeal followed.
+II.
+Chiarella admits to the activities outlined above.
+He recognizes, moreover, that since SEC v. Texas Gulf Sulphur Co. , 401 F.2d 833 (2d Cir. 1968) ( en banc ), cert. denied , 394 U.S. 976 , 89 S.Ct. 1454 , 22 L.Ed.2d 756 (1969), it has been black letter law that Id. at 848 But because he was not an insider of the target corporations, he argues, he did not owe a fiduciary duty to target shareholders who sold before the tender offer was announced.
+Thus, he claims, he was not subject to the "disclose or abstain" rule of Texas Gulf Sulphur , and, consequently, the indictment fails to charge a violation of Rule 10b-5 .
+We disagree.
+A. That appellant was not an insider of the companies whose securities he traded is true, but irrelevant.
+A financial printer such as Chiarella is as inside the market itself as one could be.
+In practical terms, the services of a financial printing firm are a prerequisite for the successful execution of a tender offer.
+These auxiliaries of the securities industry are a central, though generally unheralded, cog in the vital machinery for disseminating information to investors.
+From his vantage point in the composing room of Pandick Press, Chiarella had access on a regular basis to the most confidential information in the world of finance.
+Five times in less than fifteen months he obtained knowledge of facts that, when released, would have an immediate and dramatic effect "on the Street."
+For the securities markets to function properly, it is essential that those who occupy such strategic places in the market mechanism be forbidden to reap personal gains from information received by virtue of their position.
+Indeed, Rule 10b-5 prohibits corporate insiders from trading on nonpublic corporate information only because their ready access to the intimate details of their companies' problems and prospects gives them an unfair advantage over persons with whom they deal.
+See, e. g. , Texas Gulf Sulphur , supra , 401 F.2d at 848 ("[T]he Rule is based in policy on the justifiable expectation of the securities marketplace that all investors trading on impersonal exchanges have relatively equal access to material information.
+"); Speed v. Transamerica Corp. , 99 F.Supp.
+808, 829 (D.Del.1951); Fleischer, Mundheim & Murphy, An Initial Inquiry into the Responsibility to Disclose Market Information , 121 U.Pa.L.Rev.
+798, 818 (1973).
+Yet even the most unscrupulous officer or director could scarcely have a greater opportunity to reap sure profits than market insider Chiarella had by virtue of the market information at his disposal.
+8 Accordingly, we believe that the principle underlying Texas Gulf Sulphur is not so narrow as Chiarella contends.
+In enacting the securities laws, Congress did not limit itself to protecting shareholders from the peculations of their officers and directors.
+A major purpose of the anti-fraud provisions was to "protect the integrity of the marketplace in which securities are traded."
+United States v. Brown , 555 F.2d 336, 339 (2d Cir. 1977).
+Anyone --corporate insider or not--who regularly receives material nonpublic information may not use that information to trade in securities without incurring an affirmative duty to disclose.
+And if he cannot disclose, 9 he must abstain from buying or selling.
+The American Law Institute's Federal Securities Code has suggested a category of "quasi-insiders" that bears a strong resemblance to the concept of market insider developed above.
+See id. 1603, comment 3(d), at 538-39 (Proposed Official Draft 1978).
+In rejecting a per se disclose-or-abstain rule for quasi-insiders, the ALI appeared primarily concerned with defining the scope of the category.
+Id.
+It therefore chose not to include these individuals in the "insider trading" section of the Code ( 1603).
+But the Institute specifically indicated that "egregious" cases would fall under the proscription of 1602, its recodification of Rule 10b-5 .
+Code , supra , at 539.
+Compare Fleischer, Mundheim & Murphy, supra , 121 U.Pa.L.Rev.
+at 819-24 .
+A test of "regular access to market information" appears to us to provide a workable rule.
+There should be no greater difficulty in resolving close cases than is inherent in determining who is a "corporate insider" under Texas Gulf Sulphur .
+See Code , supra , 1603, comment 3(e), at 540.
+In any event, we believe Chiarella's conduct was sufficiently egregious to fit the most restrictive definition of a quasi-insider who would be barred from trading by the general provisions of 1602.
+A duty to disclose arising out of regular access to market information is not a stranger to the world of 10b-5 .
+In Affiliated Ute Citizens v. United States , 406 U.S. 128 , 92 S.Ct. 1456 , 31 L.Ed.2d 741 (1972), the First Security Bank of Utah acted as transfer agent for shares of the Ute Development Corporation, which was created by the federal government to hold assets for a group of mixed-blood Ute Indians.
+There were effectively two separate markets for the shares--a primary market consisting of Indians selling to whites through the Bank, and a resale market consisting entirely of whites.
+The price per share was significantly higher in the resale market, but the Indians did not know of the existence of the resale market nor, of course, of the price differential.
+Gale and Haslem, two employees of the Bank, bought from Indians and sold to whites, thereby realizing substantial profits.
+The Supreme Court held that the employees' position at the center of the two markets gave rise to a Rule 10b-5 affirmative duty to disclose.
+406 U.S. at 153 , 92 S.Ct. 1456 .
+10 B. We are not to be understood as holding that no one may trade on nonpublic market information without incurring a duty to disclose.
+Indeed, as Chiarella has persistently reminded us, a would-be tender offeror may purchase up to 5% of the stock of its prospective target without making any disclosure at all.
+General Time Corp. v. Talley Industries, Inc. , 403 F.2d 159, 164 (2d Cir. 1968), cert. denied , 393 U.S. 1026 , 89 S.Ct. 631 , 21 L.Ed.2d 570 (1969); see 15 U.S.C. 78m(d) ; Kennecott Copper Corp. v. Curtiss-Wright Corp. , 584 F.2d 1195, 1205-1207 (2d Cir. 1978).
+Because offerors may trade, and because he obtained his information from them, appellant would have us conclude that he, too, could purchase target stock before the tender offer is announced, subject only to the 5% limitation of the Williams Act, 15 U.S.C. 78m(d) , 78n(d) .
+But the offerors and Chiarella occupy entirely different positions with respect to trading on news of an impending tender offer.
+It is clear, at the outset, that an offeror is not a "market insider" as this term has been defined above.
+It does not regularly receive nonpublic information concerning any stock but its own.
+11 Indeed, with respect to tender offers, it does not receive information but creates it.
+Moreover, in making a tender offer at a premium above the pre-offer market price, the offeror is undertaking a substantial economic risk that his tempting target will prove to be a "white elephant."
+Although it knows that the price of the target stock will rise when the takeover bid is announced, the offeror has no alchemic power to transform this knowledge into a certain profit.
+The only reason it can be confident that its purchases will soon appreciate in value is that it will soon place a much greater sum of money at risk.
+When the price goes up, the offeror will be buying , not selling.
+The offeror's pre-offer market purchases thus represent its willingness to back its judgment that target stock is undervalued by the market.
+This course of action is entirely consistent with the principles underlying the securities laws.
+The legislative history of the 1934 Act emphasizes H.R.Rep.No.
+1383, 73d Cong., 2d Sess.
+11 (1934); accord , S.Rep.No.
+1455, 73d Cong., 2d Sess.
+81 (1934).
+Nor are these principles in any way diminished by the 5% limit on pre-offer market purchases established by the Williams Act, 15 U.S.C. 78m(d) , 78n(d) .
+That legislation was not designed to interfere with an offeror's exercise of its economic judgment.
+Rather, its principal purpose was to prevent the "stampede effect" that the publicity associated with tender offers has on target shareholders.
+See, e. g. , Rondeau v. Mosinee Paper Co. , 422 U.S. 49, 58 & n.8, 95 S.Ct. 2069 , 45 L.Ed.2d 12 (1975); E. Aranow, H. Einhorn & G. Berlstein, Developments in Tender Offers for Corporate Control 10-16 (1977).
+Let us now consider Chiarella.
+In stark contrast to the offerors, he has taken no economic risk whatsoever.
+Indeed, his "investments" were less speculative than those of the defendants in A. T. Brod & Co. v. Perlow , 375 F.2d 393 (2d Cir. 1967).
+The Perlows ordered stock from their broker but refused to pay when the price had not gone up by settlement date.
+Chiarella, however, had virtually certain knowledge that he could sell out at a substantial profit.
+12 Moreover, as in Perlow , Chiarella's market activity created an artificial demand for target stock that had a distorting effect on the free play of market forces envisioned by the securities laws.
+See id. at 397 ; Schotland, Unsafe at Any Price: A Reply to Manne , Insider Trading and the Stock Market, 53 Va.L.Rev.
+1425, 1448-52 (1967).
+Viewed in this light, Chiarella's reliance upon General Time Corp. v. Talley Industries, Inc. , supra , is ironic.
+To support his assertion that General Time limits the affirmative duty to disclose to outsiders of the issuer, Chiarella misuses Judge Friendly's comment that: circumstances that might raise a seller's demands and thus abort the sale 403 F.2d at 164 13 Appellant would place himself in the shoes of the offerors, but the shoes do not fit.
+Chiarella was not a "tippee" of Pandick's clients, with liability derivative only through them.
+In clear violation of his duties as agent, Restatement (2d) Agency 395, he converted to his personal use confidential information entrusted to him in the course of his employment.
+He may not relieve himself of his market insider's duty of disclosure by claiming the protection of persons he has defrauded.
+14 Indeed by entering the market for target stock on the basis of advance knowledge of a tender offer, Chiarella exerted upward pressure on the price of the stock.
+In this manner, he achieved precisely the result Judge Friendly so assiduously sought to avoid in General Time .
+See E. Aranow, H. Einhorn & G. Berlstein, supra , at 20 ; Fleischer, Mundheim & Murphy, supra , 121 U.Pa.L.Rev.
+at 815 .
+15 We conclude, therefore, that Chiarella's conduct violated Rule 10b-5 , and the indictment accordingly charges a crime.
+16 Congress enacted 10(b) to prohibit conduct that destroyed confidence in the securities markets.
+See, e. g. , 15 U.S.C. 78b ; United States v. Brown , supra .
+The section was specifically designed to prohibit "those manipulative and deceptive practices which have been demonstrated to fulfill no useful function."
+S.Rep.No.
+792, 73d Cong., 2d Sess.
+6 (1934).
+It is difficult to imagine conduct less useful, or more destructive of public confidence in the integrity of our securities markets, than Chiarella's.
+C. Appellant contends that interpreting Rule 10b-5 to impose an affirmative duty of disclosure on a person other than a corporate insider would be so novel a construction of the Rule as to violate the fair notice element of due process.
+We believe, however, that today's holding is but a logical application of the congressional policies underlying the rule of Texas Gulf Sulphur .
+That no prior litigated case has involved the precise fact pattern at issue here is not dispositive.
+United States v. Brown , supra , 555 F.2d at 339-40 ; United States v. Charnay , 537 F.2d 341, 349-50 (9th Cir.), cert. denied , 429 U.S. 1000 , 97 S.Ct. 527 , 50 L.Ed.2d 610 (1976).
+All that is necessary is that "a clear and definite statement of the conduct proscribed" antedate the actions alleged to be criminal.
+United States v. Persky , 520 F.2d 283, 288 (2d Cir. 1975).
+Under this principle, Chiarella manifestly had adequate notice that his trading in target stock could subject him to criminal liability.
+He was not the first printer to have felt the wrath of the SEC. On August 12, 1974, the Commission filed a complaint alleging that various employees of Sorg Printing Co. had engaged in activities identical to Chiarella's.
+The employees eventually consented to entry of preliminary injunctions against them.
+SEC v. Sorg Printing Co., [1974-1975 Transfer Binder] Fed.Sec.L.Rep.
+(CCH) ¶ 95,034 (S.D.N.Y.
+March 28, 1975).
+17 The Sorg decree was well publicized and aroused widespread concern in the financial printing industry.
+Pandick undertook to notify its employees that trading on the basis of information contained in customers' copy could violate the securities laws.
+It prepared 8" × 10" signs, in large, boldface type, reading: These signs were posted on bulletin boards throughout the Pandick shop before September 5, 1975, when Chiarella made his first purchase of target stock.
+During the entire fifteen-month period covered by the indictment, the prominent sign over the timeclock where Chiarella punched in and out glared at him daily.
+On cross-examination, appellant admitted passing the sign at least 640 times.
+The jury need not have believed his testimony that he never read it.
+18 Few malefactors receive such explicit warning of the consequences of their conduct.
+III.
+We turn now to the second major issue raised on this appeal--the level of intent necessary to support a conviction for criminal violations of Rule 10b-5 .
+Chiarella's state of mind was the only significant issue at trial.
+Judge Owen charged the jury that it could not convict Chiarella unless it found that he had acted "knowingly" and "willfully," and defined these terms to mean that "the defendant must be aware of what he was doing and what he was not doing" and that he must be acting deliberately, and not as a result of "innocent mistakes, negligence, or inadvertence or other innocent conduct."
+He concluded: This language has been specifically approved for prosecutions brought, like this one, under 32(a) of the 1934 Act, 15 U.S.C. 78ff(a) , which punishes willful violations of the Act's substantive provisions or of rules promulgated under it.
+United States v. Peltz , 433 F.2d 48, 54-55 (2d Cir. 1970), cert. denied , 401 U.S. 955 , 91 S.Ct. 974 , 28 L.Ed.2d 238 (1971); United States v. Dixon , 536 F.2d 1388, 1395-97 (2d Cir. 1976).
+Chiarella does not dispute that Judge Owen's charge adequately defines the level of intent required by 32(a) itself.
+Rather, he contends that when the substantive provisions are 10(b) and Rule 10b-5 , the Government must prove the additional element of specific intent to defraud.
+In advancing this proposition he cites the statement in Ernst & Ernst v. Hochfelder , 425 U.S. 185 , 96 S.Ct. 1375 , 47 L.Ed.2d 668 (1976), that a civil action for damages under the antifraud provisions of the 1934 Act must fail absent proof of "'scienter'--intent to deceive, manipulate, or defraud," id. at 193 , 96 S.Ct. at 1381 .
+Courts and commentators alike have noticed, however, that, read as a whole, the Hochfelder opinion does not yield such a clear and ineluctable explication of the meaning of "scienter."
+See, e. g. , Rolf v. Blyth, Eastman Dillon & Co. , 570 F.2d 38, 44-47 (2d Cir. 1978), petition for cert. filed , 47 U.S.L.W.
+3266 (U.S. Oct. 2, 1978) (No. 78-560) ; United States v. Charnay , supra , 537 F.2d at 357-59 ; Bucklo, The Supreme Court Attempts to Define Scienter Under Rule 10b-5 , 29 Stan.L.Rev.
+213, 216-17 (1977).
+The Court was primarily concerned with rejecting Hochfelder's contention that mere negligent omissions sufficed to establish a claim under Rule 10b-5 , and it did not settle fine points of definition.
+In particular it left open whether reckless conduct is sufficient, 425 U.S. at 193 n. 12, 96 S.Ct. 1375 , and variously described its holding as requiring "some element of scienter," id. at 201 , 96 S.Ct. 1375 , and "knowing or intentional misconduct," id. at 197 , 96 S.Ct. 1375 .
+A fair reading of Hochfelder indicates that the Court used the term "scienter" only to contrast negligence and not to establish a standard of specific intent to defraud.
+Indeed, such fraudulent intent was not required by any of the cases or commentators cited by the Hochfelder Court as favoring a scienter requirement in 10b-5 actions, see Bucklo, supra , at 219 & nn.30 & 31 , nor was it generally required at common law, see id. at 228-30.
+And, since Hochfelder , we have held that, under some circumstances, reckless disregard of the truth will satisfy the scienter requirement in a private civil action for damages.
+Rolf v. Blyth, Eastman Dillon & Co. , supra .
+Finally, the only court to reach the issue has held the Peltz-Dixon charge to be consistent with Hochfelder .
+United States v. Charnay , supra , 537 F.2d at 357-59 (on petition for rehearing in light of Hochfelder ).
+In the case before us, Chiarella was convicted under a charge requiring the jury to find beyond a reasonable doubt that he engaged in "knowingly wrongful" misconduct.
+19 We do not believe that Hochfelder requires more than this.
+Accordingly, Judge Owen correctly refused to charge the jury that the Government must prove specific intent to defraud.
+20 IV.
+Chiarella's arguments on the issues of intent, however, are not limited to his claim under Hochfelder .
+He asserts that numerous errors in Judge Owen's evidentiary rulings and jury instructions, individually and cumulatively, prevented the jury from fairly considering his contention that he did not have a culpable state of mind.
+Our examination of the record convinces us that the trial court acted properly in all respects.
+For example, the district judge refused to permit Chiarella to testify that he had never heard of anyone being prosecuted for what he had done.
+But under the Peltz-Dixon test, the willfulness requirement of 32(a) , is satisfied by a general awareness of wrongful conduct, Peltz , supra , at 55 , which may exist even if a defendant believes his chicanery is in technical compliance with the law, Dixon , supra , at 1396 .
+Chiarella's proffered testimony, therefore, was at best tangentially relevant.
+Considering the prejudice to the Government that might arise from a suggestion that Chiarella was unfairly singled out for prosecution, Judge Owen did not abuse his broad discretion under Fed.R.Evid.
+403 by barring the testimony.
+See, e. g. , United States v. King , 560 F.2d 122, 128 (2d Cir.), cert. denied , 434 U.S. 925 , 98 S.Ct. 404 , 54 L.Ed.2d 283 (1977).
+Similarly, the trial judge did not err in excluding, as irrelevant and prejudicial, evidence that appellant disgorged his profits to the sellers of his target securities.
+It is difficult to see how Chiarella's state of mind during the operation of his scheme would be illuminated by evidence that afterwards he agreed to an SEC decree requiring restitution.
+Post v. United States , 132 U.S.App.D.C.
+189, 196-98 , 407 F.2d 319, 326-28 (1968), cert. denied , 393 U.S. 1092 , 89 S.Ct. 863 , 21 L.Ed.2d 784 (1969).
+21 V. Finally, Chiarella challenges a series of other rulings below, each of which he claims constituted reversible error.
+Only one of these contentions requires extended discussion.
+Shortly after he was discharged by Pandick, appellant sought unemployment benefits from the New York State Department of Labor.
+In connection with the application, he signed a statement admitting that he was discharged for misusing confidential information and that "the allegation is true."
+When the Government subpoenaed the Labor Department file for use at trial, Chiarella moved to suppress the statement on the ground that it was privileged under N.Y. Labor Law 537 (McKinney 1977).
+The statute provides that statements made in applying for unemployment benefits "shall not be .
+.
+.
+used in any court in any action or proceeding pending therein unless the commissioner [of labor] is a party to such action or proceeding."
+We believe Judge Owen correctly denied the suppression motion and admitted the statement.
+State-created privileges 22 are not controlling in federal criminal cases except to the extent they reflect "the principles of the common law as they may be interpreted by the courts of the United States in the light of reason and experience," Fed.R.Evid.
+501 .
+E. g. , United States v. Craig , 7 Cir., 528 F.2d 773, 776 (majority), 781 (Tone, J., concurring on point), aff'd en banc per curiam on panel concurrence , 537 F.2d 957 (7th Cir.), cert. denied , 425 U.S. 973 , 96 S.Ct. 2171 , 48 L.Ed.2d 796 , 429 U.S. 999 , 97 S.Ct. 526 , 50 L.Ed.2d 609 (1976).
+To the extent 537 does create a privilege under New York law, an issue we need not decide, it is one unknown to the common law.
+In view of the strong federal policy favoring admissibility in criminal cases, see, e. g. , United States v. Nixon , 418 U.S. 683, 708-13 & n. 18, 94 S.Ct. 3090 , 41 L.Ed.2d 1039 (1974), the district court properly held the statement admissible.
+See United States v. DiCarlo , 565 F.2d 802, 806 (1st Cir. 1977), cert. denied , 435 U.S. 924 , 98 S.Ct. 1487 , 55 L.Ed.2d 517 (1978); United States v. Schoenheinz , 548 F.2d 1389 (9th Cir. 1977) (per curiam); In re Grand Jury , 541 F.2d 373, 378-83 (3d Cir. 1976); Craig , supra .
+We have carefully considered appellant's remaining contentions and find them to be without merit.
+The judgment is affirmed.

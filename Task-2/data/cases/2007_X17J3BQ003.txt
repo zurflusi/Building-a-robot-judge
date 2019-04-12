@@ -1,0 +1,490 @@
+ POOLER, Circuit Judge.
+Fox Television Stations, Inc., along with its affiliates FBC Television Affiliates Association (collectively "Fox"), petition for review of the November 6, 2006, order of the Federal Communications Commission ("FCC") issuing notices of apparent liability against two Fox broadcasts for violating the FCC's indecency and profanity prohibitions.
+[fn2] Fox, along with other broadcast networks and numerous amici, raise administrative, statutory, and constitutional challenges to the FCC's indecency regime.
+The FCC, also supported by several amici, dispute each of these challenges.
+We find that the FCC's new policy regarding "fleeting expletives" represents a significant departure from positions previously taken by the agency and relied on by the broadcast industry.
+We further find that the FCC has failed to articulate a reasoned basis for this change in policy.
+Accordingly, we hold that the FCC's new policy regarding "fleeting expletives" is arbitrary and capricious under the Administrative Procedure Act.
+The petition for review is therefore granted, the order of the FCC is vacated, and the matter is remanded to the Commission for further proceedings consistent with this opinion.
+Because we vacate the FCC's order on this ground, we do not reach the other challenges to the FCC's indecency regime raised by petitioners, intervenors, and amici.
+BACKGROUND The FCC's policing of "indecent" speech stems from 18 U.S.C. 1464 , which provides that "[w]hoever utters any obscene, indecent, or profane language by means of radio communication shall be fined under this title or imprisoned not more than two years, or both."
+The FCC's authority to regulate the broadcast medium is expressly limited by Section 326 of the Communications Act, which prohibits the FCC from engaging in censorship.
+See 47 U.S.C. 326 .
+In 1960, Congress authorized the FCC to impose forfeiture penalties for violations of Section 1464 .
+See 47 U.S.C. 503 (b)(1)(D).
+The FCC first exercised its statutory authority to sanction indecent (but non-obscene) speech in 1975, when it found Pacifica Foundation's radio broadcast of comedian George Carlin's "Filthy Words" monologue indecent and subject to forfeiture.
+See Citizen's Complaint Against Pacifica Found Station WBAI(FM), N.Y, N.Y. , 56 F.C.C.2d 94 (1975).
+True to its title, the "Filthy Words" monologue contained numerous expletives in the course of a 12-minute monologue broadcast on the radio at 2:00 in the afternoon.
+In ruling on this complaint, the FCC articulated the following description of "indecent" content: [T]he concept of `indecent' is intimately connected with the exposure of children to language that describes, in terms patently offensive as measured by contemporary community standards for the broadcast medium, sexual or excretory activities and organs, at times of the day when there is a reasonable risk that children may be in the audience.
+Obnoxious, gutter language describing these matters has the effect of debasing and brutalizing human beings by reducing them to their mere bodily functions, and we believe that such words are indecent within the meaning of the statute and have no place on radio when children are in the audience.
+Id. at ¶ 11 (internal footnote omitted).
+Pacifica appealed the FCC's order to the Court of Appeals for the D.C.
+Circuit.
+While that appeal was pending, the FCC issued a "clarification" order in which it specifically noted that its prior order was intended to address only the particular facts of the Carlin monologue as broadcast, and acknowledged the concern that "in some cases, public events likely to produce offensive speech are covered live, and there is no opportunity for journalistic editing."
+`Petition for Clarification or Reconsideration' of a Citizen's Complaint against Pacifica Foundation, Station WBAI(FM), N.Y., N.Y. , 59 F.C.C.2d 892, at ¶ 4 n. 1 (1976) ("Pacifica Clarification Order").
+The FCC stated that in such a situation, "we believe that it would be inequitable for us to hold a licensee responsible for indecent language."
+Id. Although acknowledging the FCC's additional clarification, the D.C.
+Circuit nevertheless concluded that the FCC's indecency regime was invalid.
+See Pacifica Found, v. FCC , 556 F.2d 9 (D.C. Cir. 1977).
+Labeling the Commission's actions censorship, the court found the FCC's order both vague and overbroad, noting that it would prohibit "the uncensored broadcast of many of the great works of literature including Shakespearian plays and contemporary plays which have won critical acclaim, the works of renowned classical and contemporary poets and writers, and passages from the Bible."
+Id. at 14 .
+The Commission appealed this decision to the Supreme Court, which reversed in a plurality opinion.
+In its brief to the Supreme Court, the FCC stressed that its ruling was a narrow one applying only to the specific facts of the Carlin monologue.
+See Br. of FCC at 41-49, FCC v. Pacifica Found. , No. 77-528 (U.S. Mar. 3, 1978), available at 1978 WL 206838 .
+The Court took the Commission at its word and confined its review to the specific question of whether the Commission could find indecent the Carlin monologue as broadcast.
+See FCC v. Pacifica Found. , 438 U.S. 726 , 732-35 , 98 S.Ct. 3026 , 57 L.Ed.2d 1073 (1978).
+The Court first rejected Pacifica's statutory argument that "indecent" in Section 1464 could not be read to cover speech that admittedly did not qualify as obscenity.
+Id. at 739 , 98 S.Ct. 3026 .
+Finding that obscene, indecent, and profane have distinct meanings in the statute, the Court held that the FCC is permitted to sanction speech without showing that it satisfied the elements of obscenity.
+Id. at 739 41 , 98 S.Ct. 3026 .
+The Court then rejected Pacifica's constitutional challenges.
+The Court stated that "of all forms of communication, it is broadcasting that has received the most limited First Amendment protection" because the broadcast medium is a "uniquely pervasive presence in the lives of all Americans" that extends into the privacy of the home and is "uniquely accessible to children, even those too young to read."
+Id. at 748-749 , 98 S.Ct. 3026 .
+The Court therefore found that the FCC could, consistent with the First Amendment , regulate indecent material like the Carlin monologue.
+The Court then once again "emphasize[d] the narrowness of our holding .
+.
+.
+We simply hold that when the Commission finds that a pig has entered the parlor, the exercise of its regulatory power does not depend on proof that the pig is obscene."
+Id. at 750-51 , 98 S.Ct. 3026 .
+Justices Powell and Blackmun, who concurred in the judgment and supplied two of the votes necessary for the 5-4 majority, [fn3] also emphasized in their concurring opinion that the Court's holding was a narrow one limited to the facts of the Carlin monologue as broadcast.
+Id. at 755-56 , 98 S.Ct. 3026 (Powell J., concurring).
+Foreshadowing the question now before us, they explicitly noted that "[t]he Commission's holding, and certainly the Court's holding today, does not speak to cases involving the isolated use of a potentially offensive word in the course of a radio broadcast, as distinguished from the verbal shock treatment administered by respondent here."
+Id. at 760-61 , 98 S.Ct. 3026 (Powell J., concurring).
+Furthermore, citing the FCC's brief to the Court, Justice Powell stated that he did not foresee an undue chilling effect on broadcasters by the FCC's decision because "the Commission may be expected to proceed cautiously, as it has in the past."
+Id. at 761 n. 4, 98 S.Ct. 3026 (Powell J., concurring).
+The FCC took the Pacifica Court's admonitions seriously in its subsequent decisions.
+[fn4] Shortly after the Pacifica ruling, the FCC stated the following in an opinion rejecting a challenge to a broadcaster's license renewal on the basis that the broadcaster had aired indecent programming: With regard to `indecent' or `profane' utterances, the First Amendment and the `no censorship' provision of Section 326 of the Communications Act severely limit any role by the Commission and the courts in enforcing the proscription contained in Section 1464 .
+The Supreme Court's decision in FCC v. Pacified Foundation , 46 U.S.L.W.
+5018 (1978), No. 77-528 , decided July 3, 1978, affords this Commission no general prerogative to intervene in any case where words similar or identical to those in Pacifica are broadcast over a licensed radio or television station.
+We intend strictly to observe the narrowness of the Pacifica holding.
+In this regard, the Commission's opinion, as approved by the Court, relied in part on the repetitive occurrence of the `indecent' words in question.
+The opinion of the Court specifically stated that it was not ruling that `an occasional expletive .
+.
+.
+would justify any sanction .
+.
+.'
+Further, Justice Powell's concurring opinion emphasized the fact that the language there in issue had been `repeated over and over as a sort of verbal shock treatment.'
+He specifically distinguished `the verbal shock treatment [in Pacifica]' from `the isolated use of a potentially offensive word in the course of a radio broadcast.'
+Application of WGBH Educ. Found. , 69 F.C.C.2d 1250 , at 110 (1978) (emphasis added) (ellipses in original; internal footnotes and citations omitted).
+The FCC also specifically held that the single use of an expletive in a program that aired at 5:30pm "should not call for us to act under the holding of Pacifica."
+Id. at ¶ 10 n. 6.
+A few years later, the Commission again rejected a challenge to a license renewal that complained the broadcaster had aired indecent programming in violation of Section 1464.
+The FCC acknowledged the complaint that the broadcaster on three separate occasions had aired programming during the morning hours containing language such as "motherfucker," "fuck," and "shit," but nevertheless concluded that "it is clear that the petitioner has failed to make a prima facie case that [the broadcaster] has violated 18 U.S.C. 1464 " since the language did not amount to "verbal shock treatment" and the complainant had failed to show this was more than "isolated use."
+Application of Pacifica Found. , 95 F.C.C.2d 750 , at ¶¶ 16, 18 (1983).
+It was not until 1987 that the FCC would find another broadcast "indecent" under Section 1464 .
+See Infinity Broad. Corp., et al.
+, 3 F.C.C.R.
+930 (1987) ("Infinity Order").
+The Commission explained: In cases decided subsequent to the Supreme Court's ruling [in Pacifica ], the Commission took a very limited approach to enforcing the prohibition against indecent broadcasts.
+Unstated, but widely assumed, and implemented for the most part through staff rulings, was the belief that only material that closely resembled the George Carlin monologue would satisfy the indecency test articulated by the FCC in 1975.
+Thus, no action was taken unless material involved the repeated use, for shock value, of words similar or identical to those satirized in the Carlin "Filthy Words" monologue .
+.
+.
+As a result, the Commission, since the time of its ruling in 1975, has taken no action against any broadcast licensee for violating the prohibition against indecent broadcasts.
+Id. at ¶ 4 (internal footnotes omitted).
+The Infinity Order affirmed on reconsideration three decisions issued simultaneously by the FCC in April 1987 that found certain programs indecent.
+See Pacifica Found., Inc. , 2 F.C.C.R.
+2698 (1987); The Regents of the Univ. of Cal. , 2 F.C.C.R.
+2703 (1987); Infinity Broad. Corp. , 2 F.C.C.R.
+2705 (1987).
+The FCC explained in the Infinity Order that it would no longer take the narrow view that a finding of indecency required the use of one of the seven "dirty words" used in Carlin's monologue.
+See Infinity Order , at ¶ 5.
+The FCC instead would use the generic definition of indecency it had articulated in connection with its prior decision in Pacifica.
+Id .
+Under the Commission's definition, "indecent speech is language that describes, in terms patently offensive as measured by contemporary community standards for the broadcast medium, sexual or excretory activities and organs.
+Such indecent speech is actionable when broadcast at times of the day when there is a reasonable risk that children may be in the audience."
+Regents of the Univ. of Cal. , 2 F.C.C.R.
+2703 , at ¶ 3 (internal footnote omitted).
+The FCC also reaffirmed, however, the prevailing view that a fleeting expletive would not be actionable.
+See id. ("Speech that is indecent must involve more than an isolated use of an offensive word.
+"); Pacifica Found., Inc. , 2 F.C.C.R.
+2698 , at ¶ 13 ("If a complaint focuses solely on the use of expletives, we believe that under the legal standards set forth in Pacifica, deliberate and repetitive use in a patently offensive manner is a requisite to a finding of indecency.").
+Notably, in Pacifica Foundation , the Commission declined to make a finding of indecency against a radio broadcast of the program "Shock-time America," which had contained words and phrases such as "eat shit," "motherfucker" and "fuck the U.S.A," in part because, without a transcript or tape of the program, the FCC was unable to determine "whether the use of patently offensive speech was isolated."
+Id. at ¶¶ 3, 17.
+Broadcasters appealed the Infinity Order to the D.C.
+Circuit, challenging the FCC's definition of indecency as unconstitutionally vague.
+See Action for Children's Television v. FCC , 852 F.2d 1332 (D.C. Cir. 1988) ("ACT I"), superseded in part by Action for Children's Television v. FCC , 58 F.3d 654 (D.C. Cir. 1995) (in banc).
+The D.C.
+Circuit rejected this argument on the basis that the definition at issue was "virtually the same definition the Commission articulated in the order reviewed by the Supreme Court in the Pacifica case." Id. at 1338 .
+The court concluded that Pacifica implicitly rejected any vagueness challenge to the FCC's definition of "indecent," which therefore foreclosed its ability to revisit any such argument.
+Id. at 1339 .
+The court then invited correction from "Higher Authority" if its reading of Pacifica was incorrect.
+Id. Before leaving the First Amendment issue, however, the court explicitly noted that the "FCC has assured this court, at oral argument, that it will continue to give weight to reasonable licensee judgments when deciding whether to impose sanctions in a particular case.
+Thus, the potential chilling effect of the FCC's generic definition of indecency will be tempered by the Commission's restrained enforcement policy."
+Id. at 1340 n. 14 (citing Pacifica , 438 U.S. at 761 , 98 S.Ct. 3026 (Powell J., concurring)).
+This restrained enforcement policy would continue.
+In 2001, pursuant to a settlement agreement by which the FCC agreed to clarify its indecency standards, the Commission issued a policy statement to "provide guidance to the broadcast industry regarding our case law interpreting 18 U.S.C. 1464 and our enforcement policies with respect to broadcast indecency."
+Industry Guidance on the Commission's Case Law Interpreting 18 U.S.C. 1464 , 16 F.C.C.R.
+7999 , at ¶ 1 & ¶ 30 n. 23 (2001) ("Industry Guidance").
+The FCC first noted that "indecent speech is protected by the First Amendment , and thus, the government must both identify a compelling interest for any regulation it may impose on indecent speech and choose the least restrictive means to further that interest."
+Id. at ¶ 3.
+The FCC then explained that an indecency finding involves the following two determinations: (1) whether the material falls within the "subject matter scope of [the] indecency definition — that is, the material must describe or depict sexual or excretory organs or activities"; and (2) whether the broadcast is " patently offensive as measured by contemporary community standards for the broadcast medium."
+Id. at ¶¶ 7-8.
+The FCC considers the following three factors in determining whether the material is patently offensive: "(1) the explicitness or graphic nature of the description or depiction of sexual or excretory organs or activities; (2) whether the materials dwells on or repeats at length descriptions of sexual or excretory organs or activities; (3) whether the material appears to pander or is used to titillate , or whether the material appears to have been presented for its shock value."
+Id. at ¶ 10.
+The policy statement contained numerous examples of prior FCC decisions evaluating whether certain material was indecent in an attempt to provide guidance to broadcasters.
+In discussing the second factor in the "patently offensive" analysis, the FCC cited examples distinguishing between material that "dwells" on the offensive content (indecent) and material that was "fleeting and isolated" (not indecent).
+Id. at ¶¶ 17-18.
+This restrained enforcement policy would soon change.
+During NBC's January 19, 2003, live broadcast of the Golden Globe Awards, musician Bono stated in his acceptance speech "this is really, really, fucking brilliant.
+Really, really, great."
+Complaints Against Various Broadcast Licensees Regarding Their Airing of the "Golden Globe Awards" Program , 19 F.C.C.R.
+4975 , at ¶ 3 n. 4 (2004) ( "Golden Globes" ).
+Individuals associated with the Parents Television Council filed complaints that the material was obscene and indecent under FCC regulations.
+Id. at ¶ 3.
+The FCC's Enforcement Bureau, however, denied the complaints on the basis that the expletive as used in context did not describe sexual or excretory organs or activities and that the utterance was fleeting and isolated.
+See Complaints Against Various Broadcast Licensees Regarding Their Airing of the "Golden Globe Awards" Program , 18 F.C.C.R.
+19859 , at ¶¶ 5-6 (Enforcement Bureau 2003) ("Golden Globes (Bureau Decision)").
+The Bureau accordingly found that the speech "does not fall within the scope of the Commission's indecency prohibition," and reaffirmed FCC policy that "fleeting and isolated remarks of this nature do not warrant Commission action."
+Id. at ¶ 6.
+Five months later, the full Commission reversed the Bureau's decision.
+First, the FCC held that any use of any variant of "the F-Word" inherently has sexual connotation and therefore falls within the scope of the indecency definition.
+Golden Globes , at ¶ 8.
+The FCC then held that "the `F-Word' is one of the most vulgar, graphic, and explicit descriptions of sexual activity in the English language" and therefore the use of that word was patently offensive under contemporary community standards.
+Id. at ¶ 9.
+The Commission found the fleeting and isolated use of the word irrelevant and overruled all prior decisions in which fleeting use of an expletive was held not indecent.
+Id. at ¶ 12 ("While prior Commission and staff action have indicated that isolated or fleeting broadcasts of the `F-Word' such as that here are not indecent or would not be acted upon, consistent with our decision today we conclude that any such interpretation is no longer good law.").
+The FCC then held that the material in question was also "profane" under Section 1464.
+Id. at ¶ 13.
+The Commission acknowledged that prior decisions interpreting "profane" had defined that term as blasphemy, but found that nothing in its prior decisions limited the definition of profane in such a manner.
+Id. at ¶ 14.
+The Commission, however, declined to impose a forfeiture because "existing precedent would have permitted this broadcast" and therefore NBC and its affiliates "necessarily did not have the requisite notice to justify a penalty."
+Id. at ¶ 15.
+The Commission emphasized, though, that licensees were now on notice that any broadcast of the "F-Word" could subject them to monetary penalties and suggested that implementing delay technology would ensure future compliance with its policy.
+Id. at ¶ 17.
+NBC, along with several other parties including Fox, filed petitions for reconsideration of the Golden Globes order, raising statutory and constitutional challenges to the new policy.
+NBC, Fox, and Viacom Inc. also filed a joint petition to stay the effect of the Golden Globes order.
+These petitions have been pending for more than two years without any action by the FCC.
+Nevertheless, the FCC has applied the policy announced in Golden Globes in subsequent cases.
+On February 21, 2006, the FCC issued an order resolving various complaints against several television broadcasts.
+See Complaints Regarding Various Television Broadcasts Between February 2, 2002 and March 8, 2005 , 21 F.C.C.R.
+2664 (2006) ("Omnibus Order").
+Through this order, the FCC intended to "provide substantial guidance to broadcasters and the public about the types of programming that are impermissible under our indecency standard."
+Id. at ¶ 2.
+In Section III.B of the Omnibus Order, the Commission found four programs — Fox's broadcast of the 2002 Billboard Music Awards, Fox's broadcast of the 2003 Billboard Music Awards, various episodes of ABC's NYPD Blue, and CBS's The Early Show — indecent and profane under the policy announced in Golden Globes.
+The factual situations at issue are as follows: • 2002 Billboard Music Awards: In her acceptance speech, Cher stated: "People have been telling me I'm on the way out every year, right?
+So fuck `em."
+• 2003 Billboard Music Awards: Nicole Richie, a presenter on the show, stated: "Have you ever tried to get cow shit out of a Prada purse?
+It's not so fucking simple."
+• NYPD Blue: In various episodes, Detective Andy Sipowitz and other characters used certain expletives including "bullshit," "dick," and "dickhead."
+• The Early Show: During a live interview of a contestant on CBS's reality show Survivor: Vanuatu, the interviewee referred to a fellow contestant as a "bullshitter."
+Id. at ¶¶ 101, 112 n. 64, 125, 137.
+In finding these programs indecent and profane, the FCC reaffirmed its decision in Golden Globes that any use of the word "fuck" is presumptively indecent and profane.
+Id. at ¶¶ 102, 107.
+The Commission then concluded that any use of the word "shit" was also presumptively indecent and profane.
+Id. , at ¶¶ 138, 143.
+Turning to the second part of its indecency test, the FCC found that each of the programs were "patently offensive" because the material was explicit, shocking, and gratuitous.
+Id. at ¶¶ 106, 120, 131, 141.
+Citing Golden Globes , the Commission dismissed the fact that the expletives were fleeting and isolated and held that repeated use is not necessary for a finding of indecency.
+Id. at ¶¶ 104, 116, 129, 140.
+The FCC, however, declined to issue a forfeiture in each case for the express reason that the broadcasts in question occurred before the decision in Golden Globes , and thus "existing precedent would have permitted this broadcast."
+Id. at ¶¶ 111, 124, 136, 145.
+Fox and CBS filed a petition for review of the Omnibus Order in this court.
+ABC filed a petition for review in the D.C.
+Circuit, which was then transferred to this court and consolidated with the petition for review filed by Fox and CBS.
+Before any briefing took place, however, the FCC moved for a voluntary remand in order to give the Commission the first opportunity to address petitioners' arguments and "ensure that all licensees are afforded a full opportunity to be heard before the Commission issues a final decision."
+See FCC Mot.
+for Voluntary Remand at 2, No. 06-1760 (July 6, 2006).
+On September 7, 2006, this court granted the FCC's request for remand and stayed enforcement of the Omnibus Order.
+The Commission was given sixty days to issue a final or appealable order, at which time the pending appeal would be automatically reinstated.
+The FCC promptly issued a public notice soliciting comments on its decision in the Omnibus Order.
+Numerous parties, including those who have participated in the briefing in this appeal, submitted comments raising various statutory and constitutional arguments against the FCC's indecency regime.
+The FCC then issued a new order on November 6, 2006.
+See Complaints Regarding Various Television Broadcasts Between February 2, 2002 and March 8 , 2005, FCC 06-166 (Nov. 6, 2006) ("Remand Order").
+The Remand Order vacated Section III.B of the Omnibus Order in its entirety and replaced it with the Remand Order.
+Id. at ¶ 11.
+In the Remand Order, the FCC reaffirmed its finding that the 2002 and 2003 Billboard Music Award programs were indecent and profane, but reversed its finding against The Early Show.
+It also dismissed on procedural grounds the complaint against NYPD Blue.
+[fn5] With regard to the 2003 Billboard Music Awards, the Commission found that it would have been actionably indecent even prior to the decision in Golden Globes because the potentially offensive material was "repeated," since Nicole Richie used "two extremely graphic and offensive words," and was "deliberately uttered" because of "Ms. Richie's confident and fluid delivery of the lines."
+Id. at ¶ 22.
+With regard to the 2002 Billboard Music Awards, the Commission "acknowledge[d] that it was not apparent that Fox could be penalized for Cher's comment at the time it was broadcast."
+Id. at ¶ 60.
+In both cases, the FCC rejected Fox's argument that fleeting expletives were not actionable, now characterizing its prior decisions on that issue as "staff letters and dicta."
+Id. at ¶ 20.
+The Commission, however, declined to impose a forfeiture for either broadcast.
+Id. at ¶¶ 53, 66.
+Turning to The Early Show, the FCC reversed its finding that the expletive used was indecent or profane because it occurred in the context of a " bona fide news interview."
+Id. at ¶ 68.
+The Commission stated that in light of First Amendment concerns, "it is imperative that we proceed with the utmost restraint when it comes to news programming," and found it "appropriate .
+.
+.
+to defer to CBS's plausible characterization of its own programming" as a news interview.
+Id. at ¶ 71-72.
+Given this context, the FCC declined to find the comment indecent or profane.
+Id. at ¶ 73.
+In accordance with our September 6th order, this appeal was automatically reinstated on November 8, 2006.
+Fox then filed a petition for review of the Remand Order and moved to consolidate that appeal with the one already pending before this court.
+We granted the motion for consolidation as well as motions to intervene by CBS Broadcasting Inc. ("CBS") and NBC Universal Inc. and NBC Telemundo License Co. (collectively, "NBC").
+We have also received several briefs from various amici.
+DISCUSSION Fox, CBS, and NBC (collectively, "the Networks"), supported by several amici, raise a variety of arguments against the validity of the Remand Order, including: (1) the Remand Order is arbitrary and capricious because the Commission's regulation of "fleeting expletives" represents a dramatic change in agency policy without adequate explanation; (2) the FCC's "community standards" analysis is arbitrary and meaningless; (3) the FCC's indecency findings are invalid because the Commission made no finding of scienter; (4) the FCC's definition of "profane" is contrary to law; (5) the FCC's indecency regime is unconstitutionally vague; (6) the FCC's indecency test permits the Commission to make subjective determinations about the quality of speech in violation of the First Amendment; and (7) the FCC's indecency regime is an impermissible content-based regulation of speech that violates the First Amendment.
+The FCC, also supported by several amici, dispute each of these contentions.
+We agree with the first argument advanced by the Networks, and therefore do not reach any other potential problems with the FCC's decision.
+I. Scope of Review Before turning to the merits of the Networks' arguments, we first note that we reject the FCC's contention that our review here is narrowly confined to the specific question of whether the two Fox broadcasts of the Billboard Music Awards were indecent and/or profane.
+The Remand Order applies the policy announced in Golden Globes.
+If that policy is invalid, then we cannot sustain the indecency findings against Fox.
+Thus, as the Commission conceded during oral argument, the validity of the new "fleeting expletive" policy announced in Golden Globes and applied in the Remand Order is a question properly before us on this petition for review.
+As the D.C.
+Circuit explained in rejecting this precise argument in another proceeding, "the agency may not resort to adjudication as a means of insulating a generic standard from judicial review."
+ACT I , 852 F.2d at 1337 .
+II.
+Administrative Procedure Act Courts will set aside agency decisions found to be "arbitrary, capricious, an abuse of discretion, or otherwise not in accordance with law."
+5 U.S.C. 706 (2)(A).
+As the Supreme Court has explained: "The scope of review under the `arbitrary and capricious' standard is narrow and a court is not to substitute its judgment for that of the agency.
+Nevertheless, the agency must examine the relevant data and articulate a satisfactory explanation for its action including a `rational connection between the facts found and the choice made.'"
+Motor Vehicle Mfrs.
+Ass'n of U.S., Inc. v. State Farm Mut. Auto. Ins. Co. , 463 U.S. 29 , 43 , 103 S.Ct. 2856 , 77 L.Ed.2d 443 (1983).
+Agency action is arbitrary and capricious "if the agency has relied on factors which Congress has not intended it to consider, entirely failed to consider an important aspect of the problem, offered an explanation for its decision that runs counter to the evidence before the agency, or is so implausible that it could not be ascribed to a difference in view or the product of agency expertise."
+Id. Reviewing courts "may not supply a reasoned basis for the agency's action that the agency itself has not given."
+Id. (quoting SEC v. Chenery Corp. , 332 U.S. 194 , 196 , 67 S.Ct. 1575 , 91 L.Ed. 1995 (1947)).
+The Networks contend that the Remand Order is arbitrary and capricious because the FCC has made a 180-degree turn regarding its treatment of "fleeting expletives" without providing a reasoned explanation justifying the about-face.
+We agree.
+First, there is no question that the FCC has changed its policy.
+As outlined in detail above, prior to the Golden Globes decision the FCC had consistently taken the view that isolated, non-literal, fleeting expletives did not run afoul of its indecency regime.
+See, e.g., Pacifica Clarification Order , 59 F.C.C.2d 892 , at ¶ 4 n. 1 (advising broadcasters that "it would be inequitable for us to hold a licensee responsible for indecent language" that occurred during a live broadcast without an opportunity for journalistic editing); Application of WGBH Educ. Found. , 69 F.C.C.2d 1250 , at ¶ 10 & n. 6 (distinguishing between the "verbal shock treatment" of the George Carlin monologue and "the isolated use of a potentially offensive word" and finding that the single use of an expletive in a program "should not call for us to act under the holding of Pacifica"); Pacifica Foundation, Inc. , 2 F.C.C.R.
+2698 , at ¶ 13 ("If a complaint focuses solely on the use of expletives, we believe that under the legal standards set forth in Pacifica, deliberate and repetitive use in a patently offensive manner is a requisite to a finding of indecency."
+(emphasis added)); Industry Guidance , 16 F.C.C.R.
+7999 , at ¶¶ 17-18 (distinguishing between material that is repeated or dwelled on and material that is "fleeting and isolated") (citing L.M.
+Communications of S.C., Inc. , 7 F.C.C.R.
+1595 (Mass Media Bureau 1992) (finding the single utterance of "mother-fucker" not indecent because it was a "fleeting and isolated utterance which, within the context of live and spontaneous programming, does not warrant a Commission sanction"); Lincoln Dellar, For Renewal of the Licenses of Stations KPRL(AM) and KDDB(FM) , 8 F.C.C.R.
+2582 (Audio Serv. Div. 1993) (news announcer's remark that he "fucked that one up" not indecent because the "use of a single expletive" did not warrant further review "in light of the isolated and accidental nature of the broadcast")).
+This consistent enforcement policy changed with the issuance of Golden Globes: While prior Commission and staff action have indicated that isolated or fleeting broadcasts of the "F-Word" such as that here are not indecent or would not be acted upon, consistent with our decision today we conclude that any such interpretation is no longer good law.
+.
+.
+.
+The staff has since found that the isolated or fleeting use of the "F-Word" is not indecent in situations arguably similar to that here.
+We now depart from this portion of the Commission's 1987 Pacifica decision as well as all of the cases cited in notes 31 and 32 and any similar cases holding that isolated or fleeting use of the "F-Word" or a variant thereof in situations such as this is not indecent and conclude that such cases are not good law to that extent.
+Golden Globes , 19 F.C.C.R.
+4975 , at ¶ 12 (internal footnote omitted); see also id. at ¶ 14 (providing new definition of "profane" speech).
+The Commission declined to issue a forfeiture in Golden Globes precisely because its decision represented a departure from its prior rulings.
+See id. at ¶ 15 ("Given, however, that Commission and staff precedent prior to our decision today permitted the broadcast at issue , and that we take a new approach to profanity , NBC and its affiliates necessarily did not have the requisite notice to justify a penalty."
+(emphasis added)).
+The Omnibus Order similarly declined to issue a forfeiture because "existing precedent would have permitted this broadcast."
+Omnibus Order , 21 F.C.C.R.
+2664 , at ¶¶ 111, 124, 136, 145.
+Although the Remand Order backpedals somewhat on this clear recognition that the Commission was departing from prior precedent, [fn6] in its brief to this court, the FCC now concedes that Golden Globes changed the landscape with regard to the treatment of fleeting expletives.
+See Br. of Respondent FCC at 33 ("In the Golden Globe Order , the Commission made clear that it was changing course with respect to the treatment of isolated expletives.
+"); see also Br. of Amici Curiae Former FCC Officials at 9 (noting that the "extraordinary and unprecedented" decision in Golden Globes represented a radical change in policy that "greatly expanded the scope of what constituted indecency").
+Agencies are of course free to revise their rules and policies.
+See Chevron, U.S.A., Inc. v. Natural Res. Def. Council, Inc. , 467 U.S. 837 , 863 , 104 S.Ct. 2778 , 81 L.Ed.2d 694 (1984) ("An initial agency interpretation is not instantly carved in stone.").
+Such a change, however, must provide a reasoned analysis for departing from prior precedent.
+As this court has explained: [W]hen an agency reverses its course, a court must satisfy itself that the agency knows it is changing course, has given sound reasons for the change, and has shown that the rule is consistent with the law that gives the agency its authority to act.
+In addition, the agency must consider reasonably obvious alternatives and, if it rejects those alternatives, it must give reasons for the rejection, sufficient to allow for meaningful judicial review.
+Although there is not a "heightened standard of scrutiny .
+.
+.
+the agency must explain why the original reasons for adopting the rule or policy are no longer dispositive. "
+Even in the absence of cumulative experience, changed circumstances or judicial criticism, an agency is free to change course after reweighing the competing statutory policies.
+But such a flip-flop must be accompanied by a reasoned explanation of why the new rule effectuates the statute as well as or better than the old rule.
+N.Y. Council, Ass'n of Civilian Technicians v. Fed. Labor Relations Auth. , 757 F.2d 502 , 508 (2d Cir. 1985) (second emphasis added; internal citations omitted); see also State Farm , 463 U.S. at 41-42 , 103 S.Ct. 2856 ("A settled course of behavior embodies the agency's informed judgment that, by pursuing that course, it will carry out the policies committed to it by Congress.
+There is, then, at least a presumption that those policies will be carried out best if the settled rule is adhered to."
+(internal quotation marks omitted)); Huntington Hosp. v. Thompson , 319 F.3d 74 , 79 (2d Cir. 2003) ("While an agency is not locked into the first interpretation of a statute it embraces, it cannot simply adopt inconsistent positions without presenting `some reasoned analysis.
+'"); Mr.
+Sprout, Inc. v. United States , 8 F.3d 118 , 129 (2d Cir. 1993) ("When the Commission departs from its own settled precedent, as here, it must present a `reasoned analysis' that justifies its change of interpretation so as to permit judicial review of its new policies.").
+An agency's "failure to come to grips with conflicting precedent constitutes an inexcusable departure from the essential requirement of reasoned decision making."
+Ramaprakash v. FAA.
+, 346 F.3d 1121 , 1125 (D.C. Cir. 2003) (internal quotation marks omitted).
+Accordingly, agency action will be set aside as arbitrary and capricious if the agency fails to provide a reasoned explanation for its decision.
+See, e.g., Massachusetts v. EPA , U.S. , 127 S.Ct. 1438 , 1463 , 167 L.Ed.2d 248 (2007) ("EPA has offered no reasoned explanation for its refusal to decide whether greenhouse gases cause or contribute to climate change.
+Its action was therefore arbitrary, capricious, .
+.
+.
+or otherwise not in accordance with law.")
+(ellipses in original; internal quotation marks omitted); State Farm , 463 U.S. at 34 , 103 S.Ct. 2856 (agency's rescinding of rule requiring passive restraints in automobiles was arbitrary and capricious for failure to provide a reasoned explanation justifying revocation); see also Yale-New Haven Hosp. v. Leavitt , 470 F.3d 71 , 72 (2d Cir. 2006) (agency action based on new rule governing Medicare reimbursement was arbitrary and capricious "because the Secretary did not satisfactorily explain his reasons" for changing historical practice); ANR Pipeline Co. v. Fed Energy Regulatory Comm'n , 71 F.3d 897 , 901 (D.C. Cir. 1995) ("[W]here an agency departs from established precedent without a reasoned explanation, its decision will be vacated as arbitrary and capricious.").
+Our evaluation of the agency's reasons for its change in policy is confined to the reasons articulated by the agency itself.
+See State Farm , 463 U.S. at 50 , 103 S.Ct. 2856 ("[C]ourts may not accept appellate counsel's post hoc rationalizations for agency action.
+It is well-established that an agency's action must be upheld, if at all, on the basis articulated by the agency itself."
+(internal citation omitted)); Yale-New Haven Hosp. , 470 F.3d at 81 ("Generally speaking, after-the-fact rationalization for agency action is disfavored.").
+The primary reason for the crackdown on fleeting expletives advanced by the FCC is the so-called "first blow" theory described in the Supreme Court's Pacifica decision.
+In Pacifica , the Supreme Court justified the FCC's regulation of the broadcast media in part on the basis that indecent material on the airwaves enters into the privacy of the home uninvited and without warning.
+438 U.S. at 748 , 98 S.Ct. 3026 .
+The Court rejected the argument that the audience could simply tune-out: "To say that one may avoid further offense by turning off the radio when he hears indecent language is like saying that the remedy for an assault is to run away after the first blow."
+Id. at 748-49 , 98 S.Ct. 3026 .
+Relying on this statement in Pacifica , the Commission attempts to justify its stance on fleeting expletives on the basis that "granting an automatic exemption for `isolated or fleeting' expletives unfairly forces viewers (including children) to take `the first blow.'"
+Remand Order , at ¶ 25.
+We cannot accept this argument as a reasoned basis justifying the Commission's new rule.
+First, the Commission provides no reasonable explanation for why it has changed its perception that a fleeting expletive was not a harmful "first blow" for the nearly thirty years between Pacifica and Golden Globes.
+More problematic, however, is that the "first blow" theory bears no rational connection to the Commission's actual policy regarding fleeting expletives.
+As the FCC itself stressed during oral argument in this case, the Commission does not take the position that any occurrence of an expletive is indecent or profane under its rules.
+[fn7] For example, although "there is no outright news exemption from our indecency rules," Remand Order , at ¶ 71, the Commission will apparently excuse an expletive when it occurs during a " bona fide news interview," id. at ¶ 72-73 (deferring to CBS's "plausible characterization" of a segment of The Early Show interviewing a contestant on its reality show Survivor: Vanuatu as news programming and finding expletive uttered during that part of the show not indecent or profane).
+Certainly viewers (including children) watching the live broadcast of The Early Show were "force[d] .
+.
+.
+to take the `first blow'" of the expletive uttered by the Survivor: Vanuatu contestant.
+Yet the Commission emphasized during oral argument that its news exception is a broad one and "the Commission has never found a broadcast to be indecent on the basis of an isolated expletive in the face of some claim that the use of that language was necessary for any journalistic or artistic purpose."
+The Commission further explained to this court that a broadcast of oral argument in this case, in which the same language used in the Fox broadcasts was repeated multiple times in the courtroom, would "plainly not" be indecent or profane under its standards because of the context in which it occurred.
+The Commission even conceded that a re-broadcast of precisely the same offending clips from the two Billboard Music Award programs for the purpose of providing background information on this case would not result in any action by the FCC, even though in those circumstances viewers would be subjected to the same "first blow" that resulted from the original airing of this material.
+Furthermore, the Commission has also held that even repeated and deliberate use of numerous expletives is not indecent or profane under the FCC's policy if the expletives are "integral" to the work.
+See Complaints Against Various Television Licensees Regarding Their Broadcast on November 11, 2004 of the ABC Television Network's Presentation of the Film "Saving Private Ryan ", 20 F.C.C.R.
+4507 , at ¶ 14 (2005) ("Saving Private Ryan") (finding numerous expletives uttered during film Saving Private Ryan not indecent or profane because deleting the expletives "would have altered the nature of the artistic work and diminished the power, realism and immediacy of the film experience for viewers").
+In all of these scenarios, viewers, including children who may have no understanding of whether expletives are "integral" to a program or whether the interview of a contestant on a reality show is a " bona fide news interview," will have to accept the alleged "first blow" caused by use of these expletives.
+Thus, the record simply does not support the position that the Commission's new policy was based on its concern with the public's mere exposure to this language on the airwaves.
+[fn8] The "first blow" theory, therefore, fails to provide the reasoned explanation necessary to justify the FCC's departure from established precedent.
+[fn9] The Remand Order makes passing reference to other reasons that purportedly support its change in policy, none of which we find sufficient.
+For instance, the Commission states that even non-literal uses of expletives fall within its indecency definition because it is "difficult (if not impossible) to distinguish whether a word is being used as an expletive or as a literal description of sexual or excretory functions."
+Remand Order , at ¶ 23.
+This defies any commonsense understanding of these words, which, as the general public well knows, are often used in everyday conversation without any "sexual or excretory" meaning.
+Bono's exclamation that his victory at the Golden Globe Awards was "really, really fucking brilliant" is a prime example of a non-literal use of the "F-Word" that has no sexual connotation.
+See Golden Globes (Bureau Decision) , 18 F.C.C.R.
+19859 , at ¶ 5 ("As a threshold matter, the material aired during the `Golden Globe Awards' program does not describe or depict sexual and excretory activities and organs.
+.
+.
+.
+Rather, the performer used the word `fucking' as an adjective or expletive to emphasize an exclamation.
+"), rev'd by Golden Globes , 19 F.C.C.R.
+4975 (2004).
+Similarly, as NBC illustrates in its brief, in recent times even the top leaders of our government have used variants of these expletives in a manner that no reasonable person would believe referenced "sexual or excretory organs or activities."
+See Br. of Intervenor NBC at 31-32 & n. 3 (citing President Bush's remark to British Prime Minister Tony Blair that the United Nations needed to "get Syria to get Hezbollah to stop doing this shit" and Vice President Cheney's widely-reported "Fuck yourself comment to Senator Patrick Leahy on the floor of the U.S. Senate).
+[fn10] Similarly, the Commission's warning that a per se exemption for fleeting expletives would "permit broadcasters to air expletives at all hours of the day so long as they did so one at a time," Remand Order , at ¶ 25, is equally divorced from reality because the Commission itself recognizes that broadcasters have never barraged the airwaves with expletives even prior to Golden Globes, see Remand Order , at ¶ 29.
+[fn11] Finally, the Commission's claim that "categorically requiring repeated use .
+.
+.
+is inconsistent with our general approach to indecency enforcement, which stresses the critical nature of context," Remand Order , at ¶ 23, also does not provide sufficient justification for its departure from prior precedent.
+First, the Commission's own policy of treating all variants of certain expletives as presumptively indecent and profane, whether used in a literal or non-literal sense, also fails to comport with this "general approach" that "stresses the critical nature of context."
+See, e.g., Golden Globes , 19 F.C.C.R.
+4975 , at ¶ 8 (declaring that "any use of [the F-Word] or a variation, in any context , inherently has a sexual connotation, and therefore falls within the first prong of our indecency definition") (emphasis added).
+In addition, the Commission's indecency test itself remains unchanged, but the Commission fails to provide a reasoned explanation for why a single, isolated expletive now should fit within the articulation of that test set forth in Golden Globes, see Pacifica Found., Inc. , 2 F.C.C.R.
+2698 , at ¶ 13 ("If a complaint focuses solely on the use of expletives, we believe that under the legal standards set forth in Pacifica, deliberate and repetitive use in a patently offensive manner is a requisite to a finding of indecency.").
+For decades broadcasters relied on the FCC's restrained approach to indecency regulation and its consistent rejection of arguments that isolated expletives were indecent.
+The agency asserts the same interest in protecting children as it asserted thirty years ago, but until the Golden Globes decision, it had never banned fleeting expletives.
+While the FCC is free to change its previously settled view on this issue, it must provide a reasoned basis for that change.
+Cf. State Farm , 463 U.S. at 42 , 103 S.Ct. 2856 ("[A]n agency changing its course by rescinding a rule is obligated to supply a reasoned analysis for the change beyond that which may be required when an agency does not act in the first instance.")
+(emphasis added).
+The FCC's decision, however, is devoid of any evidence that suggests a fleeting expletive is harmful, let alone establishes that this harm is serious enough to warrant government regulation.
+Such evidence would seem to be particularly relevant today when children likely hear this language far more often from other sources than they did in the 1970s when the Commission first began sanctioning indecent speech.
+Yet the Remand Order provides no reasoned analysis of the purported "problem" it is seeking to address with its new indecency policy from which this court can conclude that such regulation of speech is reasonable.
+See, e.g., United States v. Playboy Enter.
+Group, Inc. , 529 U.S. 803 , 822-23 , 120 S.Ct. 1878 , 146 L.Ed.2d 865 (2000) (rejecting indecency regulation of cable television in part because "[t]he question is whether an actual problem has been proved in this case.
+We agree that the Government has failed to establish a pervasive, nationwide problem justifying its nationwide daytime speech ban.
+"); Turner Broad. Sys. v. FCC , 512 U.S. 622 , 664 , 114 S.Ct. 2445 , 129 L.Ed.2d 497 (1994) (remanding for additional fact finding to determine whether speech regulation justified because government had failed to demonstrate "that the recited harms are real, not merely conjectural, and that the regulation will in fact alleviate these harms in a direct and material way"); Quincy Cable TV, Inc. v. FCC , 768 F.2d 1434 , 1463 (D.C. Cir. 1985) (invalidating FCC regulation because "the Commission has failed entirely to determine whether the evil the rules seek to correct `is a real or merely a fanciful threat'"); Home Box Office, Inc. v. FCC , 567 F.2d 9 , 36 (D.C. Cir. 1977) ("[A]regulation perfectly reasonable and appropriate in the face of a given problem may be highly capricious if that problem does not exist."
+(internal quotation marks omitted)).
+The Commission has similarly failed to explain how its current policy would remedy the purported "problem" or to point to supporting evidence.
+The Commission's new approach to profanity is supported by even less analysis, reasoned or not.
+The Commission sets forth no independent reasons that would justify its newly-expanded definition of "profane" speech, aside from merely stating that its prior precedent does not prevent it from setting forth a new definition, see Golden Globes , 19 F.C.C.R.
+4975 , at ¶ 14.
+To the extent the Commission believes its arguments for expanding its indecency enforcement support its new policy regarding profanity, those arguments are rejected for the reasons stated above.
+Furthermore, the Commission fails to provide any explanation for why this separate ban on profanity is even necessary.
+Prior to 2004, the Commission never attempted to regulate "profane" speech.
+In fact, the Commission took the view that a separate ban on profane speech was unconstitutional.
+See 122 Cong. Rec.
+33359, 33359, 33364-65 (1976) ( recommending Congress delete "profane" from Section 1464 "[b]ecause of the serious constitutional problems involved"); FCC, The Public and Broadcasting , 1999 WL 391297 (June 1999) ("Profanity that does not fall under one of the above two categories [indecent or obscene] is fully protected by the First Amendment and cannot be regulated.").
+The Commission again has not provided this court with a reasoned analysis of why it has undertaken this separate regulation of speech.
+Finally, the Commission provides no explanation of what harm this separate enforcement against profane speech addresses that is not already addressed by the FCC's indecency and obscenity enforcement.
+Particularly considering that the scope of the FCC's new profanity definition appears to be largely (if not completely) redundant with its indecency prohibition, see infra Part IV, this would seem to be an important question for the Commission to consider.
+The Remand Order, however, provides no indication that the Commission has engaged in any such analysis.
+Accordingly, we find that the FCC's new policy regarding "fleeting expletives" fails to provide a reasoned analysis justifying its departure from the agency's established practice.
+For this reason, Fox's petition for review is granted, the Remand Order is vacated, and the matter is remanded to the FCC for further proceedings consistent with this opinion.
+Because we have found that the FCC's new indecency regime, announced in Golden Globes and applied in the Remand Order, is invalid under the Administrative Procedure Act, the stay of enforcement previously granted by this court in our September 6th order is vacated as moot.
+[fn12] III.
+Constitutional Challenges " A fundamental and longstanding principle of judicial restraint requires that courts avoid reaching constitutional questions in advance of the necessity of deciding them."
+Lyng v. N.W. Indian Cemetery Protective Ass'n , 485 U.S. 439 , 445 , 108 S.Ct. 1319 , 99 L.Ed.2d 534 (1988).
+Thus, we refrain from deciding the various constitutional challenges to the Remand Order raised by the Networks.
+We note, however, that in reviewing these numerous constitutional challenges, which were fully briefed to this court and discussed at length during oral argument, we are skeptical that the Commission can provide a reasoned explanation for its "fleeting expletive" regime that would pass constitutional muster.
+Because we doubt that the Networks will refrain from further litigation on these precise issues if, on remand, the Commission merely provides further explanation with no other changes to its policy, in the interest of judicial economy we make the following observations.
+As an initial matter, we note that all speech covered by the FCC's indecency policy is fully protected by the First Amendment .
+See Sable Commons v. FCC , 492 U.S. 115 , 126 , 109 S.Ct. 2829 , 106 L.Ed.2d 93 (1989) (noting that speech "which is indecent but not obscene is protected by the First Amendment"); Industry Guidance , 16 F.C.C.R.
+7999 , at ¶ 3 ("[I]ndecent speech is protected by the First Amendment, and thus, the government must both identify a compelling interest for any regulation it may impose on indecent speech and choose the least restrictive means to further that interest.").
+With that backdrop in mind, we question whether the FCC's indecency test can survive First Amendment scrutiny.
+For instance, we are sympathetic to the Networks' contention that the FCC's indecency test is undefined, indiscernible, inconsistent, and consequently, unconstitutionally vague.
+Although the Commission has declared that all variants of "fuck" and "shit" are presumptively indecent and profane, repeated use of those words in "Saving Private Ryan," for example, was neither indecent nor profane.
+And while multiple occurrences of expletives in "Saving Private Ryan" was not gratuitous, Saving Private Ryan , 20 F.C.C.R.
+4507 , at ¶ 14, a single occurrence of "fucking" in the Golden Globe Awards was "shocking and gratuitous," Golden Globes , 19 F.C.C.R.
+4975 , at ¶ 9.
+Parental ratings and advisories were important in finding "Saving Private Ryan" not patently offensive under contemporary community standards, Saving Private Ryan , 20 F.C.C.R.
+4507 , at ¶ 15, but irrelevant in evaluating a rape scene in another fictional movie, see Omnibus Order , 21 F.C.C.R.
+2664 , at ¶ 38 (issuing maximum forfeiture penalty against NBC Telemundo for movie "Conel Corazón en la Mano").
+The use of numerous expletives was "integral" to a fictional movie about war, Saving Private Ryan , 20 F.C.C.R.
+4507 , at ¶ 14, but occasional expletives spoken by real musicians were indecent and profane because the educational purpose of the documentary "could have been fulfilled and all viewpoints expressed without the repeated broadcast of expletives," Omnibus Order , 21 F.C.C.R.
+2664 , at ¶ 82 (finding Martin Scorsese's PBS documentary "The Blues: Godfathers and Sons" indecent).
+The "S-Word" on The Early Show was not indecent because it was in the context of a " bona fide news interview," but "there is no outright news exemption from our indecency rules," Remand Order , at ¶¶ 68, 71-73.
+We can understand why the Networks argue that the FCC's "patently offensive as measured by contemporary community standards" indecency test coupled with its "artistic necessity" exception fails to provide the clarity required by the Constitution, creates an undue chilling effect on free speech, and requires broadcasters to "steer far wider of the unlawful zone," Speiser v. Randall , 357 U.S. 513 , 526 , 78 S.Ct. 1332 , 2 L.Ed.2d 1460 (1958).
+The Networks' position is further buttressed by the Supreme Court's decision in Reno v. ACLU , 521 U.S. 844 , 117 S.Ct. 2329 , 138 L.Ed.2d 874 (1997), which struck down as unconstitutionally vague a similarly-worded indecency regulation of the Internet.
+[fn13] The Court found that the statute's use of the "general, undefined terms `indecent' and `patently offensive' cover large amounts of nonpornographic material with serious educational or other value.
+Moreover, the `community standards' criterion as applied to the Internet means that any communication available to a nation wide audience will be judged by the standards of the community most likely to be offended by the message."
+Id. at 877-78 , 117 S.Ct. 2329 .
+Because of the "vague contours" of the regulation, the Court held that "it unquestionably silences some speakers whose messages would be entitled to constitutional protection," and thus violated the First Amendment .
+Id. at 874 , 117 S.Ct. 2329 .
+Because Reno holds that a regulation that covers speech that "in context, depicts or describes, in terms patently offensive as measured by contemporary community standards, sexual or excretory activities or organs" is unconstitutionally vague, we are skeptical that the FCC's identically-worded indecency test could nevertheless provide the requisite clarity to withstand constitutional scrutiny.
+Indeed, we are hard pressed to imagine a regime that is more vague than one that relies entirely on consideration of the otherwise unspecified "context" of a broadcast indecency.
+We also note that the FCC's indecency test raises the separate constitutional question of whether it permits the FCC to sanction speech based on its subjective view of the merit of that speech.
+It appears that under the FCC's current indecency regime, any and all uses of an expletive is presumptively indecent and profane with the broadcaster then having to demonstrate to the satisfaction of the Commission, under an unidentified burden of proof, that the expletives were "integral" to the work.
+In the licensing context, the Supreme Court has cautioned against speech regulations that give too much discretion to government officials.
+See, e.g., Forsyth County, Go, v. Nationalist Movement , 505 U.S. 123 , 130 , 112 S.Ct. 2395 , 120 L.Ed.2d 101 (1992) ("A government regulation that allows arbitrary application is inherently inconsistent with a valid time, place, and manner regulation because such discretion has the potential for becoming a means of suppressing a particular point of view.
+"); City of Lakewood v. Plain Dealer Publ'g Co. , 486 U.S. 750 , 758 , 108 S.Ct. 2138 , 100 L.Ed.2d 771 (1988) (finding a permit scheme facially unconstitutional because " post hoc rationalizations by the licensing official and the use of shifting or illegitimate criteria are far too easy, making it difficult for courts to determine in any particular case whether the licensor is permitting favorable, and suppressing unfavorable, expression").
+In succeeding on this challenge, the Networks need not prove that the FCC "has exercised [its] discretion in a content-based manner, but whether there is anything in [its policy] preventing [it] from doing so." Forsythe , 505 U.S. at 133 n. 10, 112 S.Ct. 2395 ("It is not merely the sporadic abuse of power by the censor but the pervasive threat inherent in its very existence that constitutes the danger to freedom of discussion.").
+Finally, we recognize there is some tension in the law regarding the appropriate level of First Amendment scrutiny.
+In general, restrictions on First Amendment liberties prompt courts to apply strict scrutiny.
+FCC v. League of Women Voters , 468 U.S. 364 , 376 , 104 S.Ct. 3106 , 82 L.Ed.2d 278 (1984).
+Outside the broadcasting context, the Supreme Court has consistently applied strict scrutiny to indecency regulations.
+See, e.g., Playboy , 529 U.S. at 811-813 , 120 S.Ct. 1878 (holding that regulation proscribing indecent content on cable television was content-based restriction of speech subject to strict scrutiny); Sable , 492 U.S. at 126 , 109 S.Ct. 2829 (holding that indecency regulation of telephone messages was content-based restriction subject to strict scrutiny); Reno , 521 U.S. at 868 , 117 S.Ct. 2329 (holding that indecency regulation of Internet was a content-based restriction subject to strict scrutiny).
+At the same time, however, the Supreme Court has also considered broad-cast media exceptional.
+"[B]ecause broad-cast regulation involves unique considerations, our cases .
+.
+.
+have never gone so far as to demand that such regulations serve `compelling' governmental interests."
+League of Women Voters , 468 U.S. at 376 , 104 S.Ct. 3106 .
+Restrictions on broadcast "speech" have been upheld "when we [are] satisfied that the restriction is narrowly tailored to further a substantial governmental interest."
+Id. at 380 , 104 S.Ct. 3106 .
+The Networks contend that the bases for treating broadcast media "different[ly]" have "eroded over time," particularly because 86 percent of American households now subscribe to cable or satellite services, Remand Order , at ¶ 49.
+As the Networks argue, this and other realities have "eviscerated" the notion that broadcast content is, as it was termed in Pacifica , 438 U.S. at 748-49 , 98 S.Ct. 3026 , "uniquely pervasive" and "uniquely accessible to children."
+Whatever merit these arguments may have, they cannot sway us in light of Supreme Court precedent.
+See, e.g., Reno , 521 U.S. at 867 , 117 S.Ct. 2329 (noting that "as a matter of history" broadcast television has enjoyed less First Amendment protection than other media, including the internet); Pacifica , 438 U.S. at 748-50 , 98 S.Ct. 3026 .
+Nevertheless, we would be remiss not to observe that it is increasingly difficult to describe the broadcast media as uniquely pervasive and uniquely accessible to children, and at some point in the future, strict scrutiny may properly apply in the context of regulating broadcast television.
+In light of this possibility, the Networks rightly rest their constitutional argument in part on the holding of Playboy , which involved a challenge to a statute requiring cable operators who provide channels primarily dedicated to sexually explicit or otherwise indecent programming to either fully scramble these channels or limit their transmission to the 10pm to 6am safe harbor period.
+529 U.S. at 806 , 120 S.Ct. 1878 .
+The Supreme Court, applying strict scrutiny, invalidated the statute because a less restrictive alternative to the prohibition existed: "One plausible, less restrictive alternative could be found in another section of the [Telecommunications] Act [of 1996]: 504, which requires a cable operator, `upon request by a cable service subscriber .
+.
+.
+without charge, [to] fully scramble or otherwise fully block' any channel the subscriber does not wish to receive."
+Id. at 809-10 , 120 S.Ct. 1878 .
+The Court held: This "targeted blocking is less restrictive than banning, and the Government cannot ban speech if targeted blocking is a feasible and effective means of furthering its compelling interests."
+Id. at 815 , 120 S.Ct. 1878 .
+In so holding, the Court suggested its decision might go beyond the mechanistic application of strict scrutiny, and rely in part on a notional pillar of free speech — namely, choice: When a student first encounters our free speech jurisprudence, he or she might think it is influenced by the philosophy that one idea is as good as any other, and that in art and literature objective standards of style, taste, decorum, beauty, and esthetics are deemed by the Constitution to be inappropriate, indeed unattainable.
+Quite the opposite is true.
+The Constitution no more enforces a relativistic philosophy or moral nihilism than it does any other point of view.
+The Constitution exists precisely so that opinions and judgments, including esthetic and moral judgments about art and literature, can be formed, tested, and expressed.
+What the Constitution says is that these judgments are for the individual to make, not for the Government to decree, even with the mandate or approval of a majority.
+Technology expands the capacity to choose; and it denies the potential of this revolution if we assume the Government is best positioned to make these choices for us.
+Id. at 818 , 120 S.Ct. 1878 .
+The Court specifically rejected the arguments that parents' ignorance of this option, its underutilization, or its inability to be 100% effective rendered targeted blocking an ineffective alternative: "It is no response that voluntary blocking requires a consumer to take action, or may be inconvenient, or may not go perfectly every time.
+A court should not assume a plausible, less restrictive alternative would be ineffective; and a court should not presume parents, given full information, will fail to act."
+Id. at 824 , 120 S.Ct. 1878 .
+The Networks argue that the advent of the V-chip and parental ratings system [fn14] similarly provide a less restrictive alternative to the FCC's indecency ban.
+The FCC counters that the V-chip is an ineffective alternative because, in its view, few televisions feature a V-chip, most parents do not know how to use it, programs are often inaccurately rated, and fleeting expletives, such as those witnessed at the programs at issue here, could elude V-chip blocking even if the show during which they occurred was otherwise accurately labeled.
+See Remand Order , at ¶ 51 & n. 162.
+The FCC's arguments are not without merit, but they must be evaluated in the context of today's realities.
+The proliferation of satellite and cable television channels — not to mention internet-based video outlets — has begun to erode the "uniqueness" of broadcast media, while at the same time, blocking technologies such as the V-chip have empowered viewers to make their own choices about what they do, and do not, want to see on television.
+Playboy distinguished Pacifica on the grounds that "[c]able systems have the capacity to block unwanted channels on a household-by-household basis" and thus "[t]he option to block reduces the likelihood, so concerning to the Court in Pacifica , that traditional First Amendment scrutiny would deprive the Government of all authority to address this sort of problem."
+529 U.S. at 815 , 120 S.Ct. 1878 (internal citation omitted).
+The FCC is free to regulate indecency, but its regulatory powers are bounded by the Constitution.
+If the Playboy decision is any guide, technological advances may obviate the constitutional legitimacy of the FCC's robust oversight.
+IV.
+The FCC's Construction of Profane The Networks also argue that the FCC employed an improper definition of "profane" under Section 1464 .
+Although we need not reach this argument to dispose of this appeal, on remand, the FCC may desire to explain its gloss on the definition of "profane."
+In the Remand Order , the FCC applied its new definition of "profane" as set forth in Golden Globes.
+The FCC now defines "profane" as "those personally reviling epithets naturally tending to provoke violent resentment or denoting language which under contemporary community standards is so grossly offensive to members of the public who actually hear it as to amount to a nuisance."
+Golden Globes , 19 F.C.C.R.
+4975 , at ¶ 13 (quoting Tallman v. United States , 465 F.2d 282 , 286 (7th Cir. 1972)), The FCC, noting that "shit" and "fuck" fall within this definition, ruled that Cher's and Nicole Richie's fleeting expletives were "profane," as well as indecent.
+Most dictionaries interpret the term "profane" to denote something that pertains to the irreligious, and since 1927, courts — as well as the FCC itself — have assumed that "profane" in the broadcast context refers to sacrilege, and nothing more.
+See, e.g. Duncan v. United States , 48 F.2d 128 , 134 (9th Cir. 1931) (collecting cases and holding defendant "was properly convicted of using profane language" where he "referred to an individual as `damned,' .
+.
+.
+used the expression `By God' irreverently, and .
+.
+.
+announced his intention to call down the curse of God"); Gagliardo v. United States , 366 F.2d 720 , 725 (9th Cir. 1966) ("the only words attributed to appellants which could even remotely be considered as being `profane' .
+.
+.
+were `God damn it'"); In re Complaint by Warren B. Appleton, Brockton, Mass. , 28 F.C.C.2d 36 (1971) (analyzing the word "damn" as a matter of profanity).
+As the FCC notes, the Seventh Circuit's 1972 Tollman decision, 465 F.2d at 286 , suggested an alternate definition for this term, but we do not believe the FCC can find refuge in this case. Tollman concerned a prosecution for obscenity, not profanity, and thus the Tollman court had no occasion to determine conclusively how profane should be interpreted.
+See id. ("The trial judge did not undertake to define the terns `indecent' and `profane,' but he had no occasion to do so because he determined that petitioner's utterances were properly classifiable as `obscene.'").
+The Tollman court's brief reference to "profane" served only to demonstrate that there may be a construction of "profane" that could pass constitutional scrutiny.
+But the FCC's definition of "profane" here, would substantially overlap with the statutory term "indecent."
+This overlap would be so extensive as to render the statutory term "indecent" superfluous.
+Because our canons of statutory construction do not permit such an interpretation, see TRW Inc. v. Andrews , 534 U.S. 19 , 31 , 122 S.Ct. 441 , 151 L.Ed.2d 339 (2001), we do not believe the FCC has proffered a reasonable construction of the term "profane."
+While we may owe Chevron deference to the FCC's construction, the FCC must still demonstrate that its construction is reasonable, particularly in light of Congressional intent, the canons of statutory construction, and the historical view of the plain meaning of this term.
+CONCLUSION As the foregoing indicates, we are doubtful that by merely proffering a reasoned analysis for its new approach to indecency and profanity, the Commission can adequately respond to the constitutional and statutory challenges raised by the Networks.
+Nevertheless, because we can decide this case on this narrow ground, we vacate and remand so that the Commission can set forth that analysis.
+While we fully expect the Networks to raise the same arguments they have raised to this court if the Commission does nothing more on remand than provide additional explanation for its departure from prior precedent, we can go no further in this opinion.
+Accordingly, we grant the petition for review, vacate the order of the FCC, and remand the case for further proceedings consistent with this opinion.
+The stay previously granted by this court is vacated as moot.

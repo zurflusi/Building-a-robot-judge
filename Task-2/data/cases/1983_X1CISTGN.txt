@@ -1,0 +1,70 @@
+ Per curiam.
+Appellant Lawrence Scott appeals from a summary judgment invalidating claims 5 and 6 of U.S.
+Patent No. 4,016,616 .
+(Hereinafter, these two claims will be referred to as "Walters" or as "the Walters patent".)
+1 The district court invalidated the Walters patent on two grounds: 1) the court found that the Walters patent was anticipated by an earlier patent, U.S. Pat.
+No. 3,436,777 (hereinafter "Greenwood" or "the Greenwood patent"); 2) the court found that the Walters patent was obvious under 35 U.S.C. 103 .
+We hold that summary judgment was improvidently granted.
+We reverse the summary judgment and remand for trial on the merits.
+Summary Judgment In this circuit, summary judgment is generally disfavored in patent actions.
+Continuous Curve Contact Lenses v. Rynco Scientific, 680 F.2d 605 , 606 , 607 (9th Cir. 1982 ).
+Summary judgment may nevertheless be appropriate 1) where there are no genuine issues of material fact ( Fed.R.Civ.P. 56(e) ); and 2) where the court, without the aid of expert testimony, can understand the prior art and the claims of the patent in issue.
+Penn International Industries v. Pennington Corp., 583 F.2d 1078 , 1082 , 200 USPQ 651 , 654-55 (9th Cir. 1978).
+The moving party has the burden of showing the absence of any genuine issues of material fact, and evidence to support the motion must be viewed in the light most favorable to the party against whom the motion is directed.
+Schroeder v. Owens-Corning Fiberglas Corp., 514 F.2d 901 , 904 , 185 USPQ 723 , 725-26 (9th Cir. 1975).
+Anticipation Anticipation is a technical defense which must meet strict standards.
+Schroeder v. Owens-Corning Fiberglas Corp., 514 F.2d 901 , 904 , 185 USPQ 723 , 725-26 (9th Cir. 1975).
+"Unless all of the same elements are found in exactly the same situation and united in the same way to perform the identical function in a single prior art reference, there is no anticipation."
+Walker v. General Motors Corp., 362 F.2d 56 , 68 (9th Cir. 1966 ).
+The district court found that the Walters patent was anticipated by Greenwood, since "each and every element" of claims 5 and 6 was shown in the Greenwood patent.
+However, appellant, through the affidavits of his experts, raised material issues of fact concerning the anticipation issue, issues which should not have been resolved on summary judgment.
+First, appellant introduced affidavits which asserted that comparable elements in Greenwood and Walters did not function in the same way or achieve the same result.
+The affidavit of Stan Sanders, for example, asserted that the location of the buoyancy bladder in the two patents was "radically different" and that this resulted in a "totally different functioning" of the two devices.
+Sanders contended that the "buoyancy force" achievable by the two devices was significantly different: that as a result of the relatively low buoyancy force that can be provided by the Greenwood device, the Greenwood device could not float the diver's head entirely out of water or place the diver at a satisfactory angle in the water, as can the Walters device.
+Sanders' affidavit was corroborated by that of Robert Pike, who constructed and tested a model of the device described in the Greenwood patent.
+Appellant also raised a material issue of fact as to whether "the same" elements are found in the Greenwood and Walters patents.
+Appellant introduced a number of affidavits which contended that the structure "over the back of the wearing diver" recited in the Walters patent is completely absent in Greenwood.
+Sanders, for example, asserted that a buoyancy compensator located "over the back" of the diver is "totally absent" in Greenwood, because the buoyancy compensator system in Greenwood is located around the diver's waist and neck and down his chest.
+Appellant's expert Pike similarly asserted that "Greenwood does not show any back buoyancy over the back of the diver," as does the Walters patent.
+Appellee introduced affidavits which vigorously contested this claim, which asserted that "a portion" of the buoyancy system in Greenwood is located "over the back" of the diver.
+2 Appellant's affidavits to the contrary, however, were sufficient to raise a material issue of fact on the question.
+Neither of these issues should have been resolved on summary judgment.
+Finally, two of appellant's affidavits claimed, in essence, that the Greenwood patent produced an inoperable and unmarketable buoyancy compensator.
+Robert Pike, after constructing a compensator according to the Greenwood patent, determined that the compensator "is not capable of providing adequate surface buoyancy, which is an important requirement for any satisfactory buoyancy compensator."
+Sanders, appellant's other expert, examined the Greenwood patent and concluded that "the jacket system of Greenwood is impractical" because it could not provide adequate surface buoyancy, despite the fact that the specifications in Greenwood recite this as a sanction of the invention.
+An inoperable invention, or one which fails to achieve its intended result, does not negate novelty because it is not effective as an anticipation.
+United States v. Adams, 383 U.S. 39 , 50 , 148 USPQ 479 , 483 (1966).
+Appellant's affidavits have raised an issue of fact as to whether the Greenwood patent was able to achieve its intended result, and hence whether it could effectively function as an anticipation of Walters.
+This issue should not have been resolved on summary judgment.
+Obviousness As an alternative ground supporting its judgment, the district court apparently found that the Walters patent was obvious under 35 U.S.C. 103 in view of the Greenwood patent.
+Because the appellant raised material issues of fact concerning the obviousness of the Walters patent, however, the question of obviousness should not have been resolved on summary judgment.
+While the ultimate question of obviousness is one of law, it must be resolved against the background of the three factual inquiries set forth in the landmark case of Graham v. John Deere Co., 383 U.S. 1 , 17, 148 USPQ 459 , 466-67 (1966).
+Under Graham, the court must determine the scope and content of the prior art, the differences between the prior art and the claims in suit, and the level of ordinary skill in the pertinent art.
+It is only on the basis of these factual findings that the question of obviousness can be determined.
+In this case, affidavits submitted by the appellant raised material issues of fact both as to the level of skill in the prior pertinent art as well as to the differences between the prior art and the Walters patent.
+The district court was presented, for example, with conflicting affidavits as to the differences between the prior art and the Walters patent.
+John Ryde, expert for the appellee, asserted in his affidavit that the only difference between the Greenwood patent and the Walters patent involved an immaterial detail of the filling and vent valves on the two devices.
+Appellant's experts, on the other hand, argued that there were numerous, significant differences in the construction and design of the two devices, differences significant enough to make the two devices function in a completely different manner and achieve distinct results.
+Appellant's expert Pike, for example, asserted that the Greenwood device, because of its location on the diver's body and the materials used in its construction, could not achieve sufficient buoyancy force to float a diver with his head out of water or to enable him to swim easily in a horizontal position, as can the Walters device.
+Similarly, appellant presented affidavits which raised material issues of fact as to the level of skill in the relevant art at the time Walters' invention was made.
+Appellant's expert Sanders contended in his affidavit that the level of skill in the art was such that it would not have been obvious to combine elements in prior art devices into the structure shown in the Walters patent.
+Sanders claimed that any such alteration would require "extensive modifications" of these prior art devices, and that "neither patent offers any suggestion as to how this could be done."
+Sanders' affidavit, which was uncontroverted by any affidavit from appellee, certainly raised a material issue of fact as to the level of ordinary skill in the pertinent art, an issue which was resolved against the appellant in the motion for summary judgment.
+See Inter-mountain Research & Engineering Co. v. Hercules Incorporated, 406 F.2d 133 , 136 , 160 USPQ 515 , 518 , (9th Cir. 1969).
+In light of these factual disputes, we conclude that summary judgment should not have been granted on this issue.
+There is an additional reason to conclude that summary judgment was improvidently granted on the issue of obviousness.
+On this record we are unable to conclude that the statutory presumption of patent validity was dissipated.
+See Houston v. Polymer Corp., 637 F.2d 617 , 619-20 , 209 USPQ 31 , 32-33 (9th Cir. 1980).
+Under 35 U.S.C. 282 a patent is presumed valid; we have held that this presumption can be overcome only by clear and convincing evidence.
+Saf-Gard Products, Inc. v. Service Parts, Inc., 532 F.2d 1266 , 1271 , 190 USPQ 455 , 458-59 (9th Cir.), cert. denied , 429 U.S. 896 (1976 ).
+To rebut the presumption of validity, the court must compare prior art references not cited by the patent office with references cited by the patent examiner, and conclude that the newly cited prior art references are more pertinent than those considered when the patent was issued.
+See Penn International Industries v. Pennington Corp., 583 F.2d 1078 , 1082 , 200 USPQ 651 , 654-55 (9th Cir. 1978).
+In this case, it is not clear that this was done.
+The district court may have had patents before it which were not cited by the patent examiner as references.
+Even if it did, the record does not indicate whether the court compared any such references to those considered by the patent office, or whether the court concluded that these references were more pertinent than those considered when the patent was issued.
+Our perusal of the record, moreover, suggests that the court's primary focus was on the Greenwood and Brecht patents, which were before the patent examiner when the Walters patent was issued.
+As a result of this uncertainty, we are unable to conclude that the statutory presumption of validity was overcome here.
+The operation of the presumption may be particularly crucial in this case, since the patent in suit was apparently invalidated on the basis of a prior art reference which had been considered extensively by the patent examiner who granted the patent.
+Expert Testimony We are not persuaded, on our review of the entire record before us, that the claims of the Walters patent and of the prior art can be readily understood without the aid of expert testimony.
+Expert testimony is both desirable and necessary in this case on the factual issues raised by the appellant.
+Reversed and Remanded .

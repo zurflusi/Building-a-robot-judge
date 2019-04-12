@@ -1,0 +1,459 @@
+ KATZMANN, Circuit Judge: The Vietnam Era Veterans Readjustment Assistance Act ("VEVRAA"), 38 U.S.C. 4212 , requires contractors doing business with federal government entities to submit annual reports to the Secretary of Labor providing information about the number of veterans employed by the contractor (the "VETS-100 reports").
+Plaintiff-Appellant Daniel Kirk brought this quitam action on behalf of the United States government under the False Claims Act ("FCA"), 31 U.S.C. 3729 et seq.
+, alleging that his former employer, Defendant-Appellee Schindler Elevator Corp. ("Schindler"), obtained government contracts while representing that it had filed the required VETS-100 reports, when in fact it either had failed to file a report or had filed a false report for the relevant years.
+Kirk based his allegations in large part on information he obtained after submitting requests under the Freedom of Information Act ("FOIA"), 5 U.S.C. 552 .
+This case calls on us to decide a question of first impression in this Circuit: whether the FCA's jurisdictional bar, 31 U.S.C. 3730 (e)(4)(A), which provides that "[n]o court shall have jurisdiction over an action under this section based upon the public disclosure of allegations or transactions in .
+.
+.
+a congressional, administrative, or Government Accounting Office report, hearing, audit, or investigation," applies when the plaintiffs allegations are based on materials produced in response to a FOIA request.
+Our sister Circuits are divided on this issue.
+If the jurisdictional bar does not apply, this case also presents the question whether Schindler [**2] may be held liable under the FCA for (1) failing to file VETS-100 reports, and (2) filing false VETS-100 reports.
+We hold that the answer to the question whether a document obtained in response to a FOIA request qualifies as an enumerated source under 31 U.S.C. 3730 (e)(4)(A) depends on the nature of the document itself; the FCA's jurisdictional bar applies only when the document is a "congressional, administrative, or Government Accounting Office report, hearing, audit, or investigation."
+We further hold that Kirk stated valid claims under the FCA when he alleged that (1) Schindler had failed to file VETS-100 reports for certain years, and (2) Schindler had filed false VETS-100 reports for certain years.
+We vacate the judgment of the district court and remand for further proceedings consistent with this opinion.
+BACKGROUND The FCA is designed to help combat fraud against the federal government by persons who provide goods and services to it.
+See United States ex rel.
+Doe v. John Doe Corp. , 960 F.2d 318 , 319 (2d Cir. 1992).
+It establishes liability for persons who submit false claims for payment to the government, 31 U.S.C. 3729 (a)(1), and it contains a variety of measures designed to enhance deterrence and enforcement.
+These include, for example, a treble damages provision, id .
+, and — central to this case — qui tam provisions that allow private citizens who learn of fraud to bring suit in the name of the government and to share in any recovery, id .
+3730(b) -(d).
+Plaintiff-relator Daniel Kirk brought such an action based on his belief that his employer, Schindler, had obtained contracts and payments from the federal government while failing to comply with the requirements of VEVRAA.
+Kirk served in the United States Army from 1969 to 1971, performing part of his service in Vietnam.
+In 1978, he took a job at Millar Elevator Industries, Inc. ("Millar").
+Millar was bought by Schindler in 1989, but the two companies operated separately until 2002.
+In the years preceding 2002, Kirk was promoted several times, eventually (in 2001) becoming Vice President responsible for the Modernization, Repair, and Maintenance Support Departments of Millar.
+After Schindler integrated Millar's operations into its own in 2002, Kirk was initially named Schindler's Regional Modernization Manager for New York City and Long Island, in which capacity he managed over 100 employees.
+In July 2003, however, Kirk discovered, apparently without being informed directly, that he was being demoted to the non-managerial position of Field Superintendent.
+He resigned from Schindler in August 2003.
+In April 2004, Kirk filed a complaint with the Office of Federal Contract Compliance Programs ("OFCCP") at the Department of Labor ("DOL"), claiming that he had been improperly demoted and constructively terminated by Schindler despite the fact that he was a Vietnam veteran in violation of VEVRAA.
+The OFCCP provided Schindler with a copy of Kirk's complaint and began an investigation of Schindler's compliance with VEVRAA.
+In February 2005, OFCCP found that there was insufficient evidence to support Kirk's claim.
+Kirk appealed this finding, and in November [**3] 2009, the DOL affirmed the OFCCP's finding that Schindler had not violated VEVRAA when it took an adverse employment action against him.
+In March 2005, meanwhile, Kirk filed the instant case under the FCA in the name of the U.S. government.
+As provided for by the FCA, see 31 U.S.C. 3730 (b), the case was initially filed under seal; in June 2007, after the government had decided not to intervene, the action was unsealed and Kirk was permitted to pursue it as relator.
+He then filed the Amended Complaint.
+Before turning to the factual allegations in the Amended Complaint, it is useful to review the relevant requirements of VEVRAA.
+VEVRAA and its accompanying regulations impose several specific requirements on contracts "entered into by any department or agency of the United States for the procurement of personal property and nonpersonal services (including construction)," when the value of the contract exceeds a certain monetary threshold.
+[fn1] 38 U.S.C. 4212 (a)(1).
+Contracts subject to VEVRAA must contain provisions obligating the contractor (1) to "take affirmative action to employ and advance in employment qualified covered veterans," [fn2] 38 U.S.C. 4212 (a)(1); (2) to invite eligible veterans to identify themselves voluntarily to their employer, 48 C.F.R. 22.1310(b), 52.222-37(e); and (3) to submit annual reports to the Secretary of Labor (the "VETS-100 reports") providing data about the qualified covered veterans in the contractor's workforce, including the number of qualified covered veterans in each job category and hiring location and the number of new employees who are qualified covered veterans, 38 U.S.C. 4212 (d); 48 C.F.R. 22.1310(b), 52.222-37(c).
+In 1998, Congress passed the Veterans Employment Opportunities Act, 31 U.S.C. 1354 , which provides that "no agency may obligate or expend funds .
+.
+.
+to enter into a contract [covered by VEVRAA] with a contractor from which a [VETS-100] report was required .
+.
+.
+if such contractor did not submit such report," id .
+1354(a)(1) .
+In turn, 48 C.F.R. 52.222-38 provides that "[b]y submission of its offer, the offeror represents that, if it is subject to the reporting requirements [of VEVRAA] .
+.
+.
+it has submitted the most recent VETS-100 Report required by [the Act]."
+This regulation issued in October 2001 and became effective December 21, 2001.
+See 66 Fed.Reg.
+53, 487 -01, 53, 487 (Oct. 22, 2001).
+Kirk's Amended Complaint alleges that Schindler, while entering into numerous contracts with the federal government that were subject to the requirements of VEVRAA, failed to comply with it in several salient ways.
+Because the district court dismissed the complaint under Fed.R.Civ.P. 12 (b)(6) and 12(b)(1) , we accept as true the material facts alleged in the complaint and draw all reasonable inferences in Kirk's favor.
+Sharkey v. Quarantillo , 541 F.3d 75 , 83 (2d Cir. 2008); Freedom Holdings, Inc. v. Spitzer , 363 F.3d 149 , 151 (2d Cir. 2004).
+Kirk alleges that from 1998 to the present, he was never asked to identify himself as a veteran and that when Schindler integrated its operations with Millar's, the approximately 400 former Millar employees were not given an opportunity to self-identify as veterans.
+He further alleges that as a manager of 100 employees at Schindler with responsibility for firings, firings, and promotions, he was never informed of any affirmative action program [**4] aiding veterans.
+A copy of Schindler's employee manual makes no reference to an affirmative action program for veterans.
+In addition, Kirk alleges that Schindler failed to submit VETS-100 reports from 1998 until late 2004 and that the reports it did file in 2004, 2005, and 2006 are false.
+These latter allegations are based in significant part on the results of several FOIA requests submitted to the DOL by his wife, Linda Kirk.
+In November 2004, Mrs. Kirk submitted a FOIA request seeking copies of any VETS-100 reports filed by Schindler for the years 2002, 2003, or 2004.
+In a letter dated February 11, 2005, the Office of the Assistant Secretary for Veterans Employment and Training informed Mrs. Kirk that the DOL had located no VETS-100 reports from 2002 or 2003 and enclosing copies of three VETS-100 reports filed by Schindler in 2004.
+In January 2005, Mrs. Kirk submitted a second FOIA request seeking copies of any VETS-100 reports filed by Schindler for the years 1998, 1999, 2000, and 2001.
+By letter dated September 29, 2005, the Office of the Assistant Secretary for Veterans Employment and Training informed her that the DOL had located no VETS-100 reports for 1998, 1999, or 2000, but enclosed copies of 28 VETS-100 reports filed by Schindler for the 12-month period ending September 30, 2002.
+[fn3] Finally, in April 2007, Mrs. Kirk submitted a third FOIA request to the DOL, this time seeking copies of any VETS-100 reports filed by Schindler for the years 2005 and 2006.
+Under cover of a letter dated May 14, 2007, the Office of the Assistant Secretary for Veterans Employment and Training provided copies of 19 VETS-100 reports filed in 2005 and 49 filed in 2006.
+On the basis of these facts, Kirk alleged that Schindler was not in compliance with VEVEAA in that it (1) did not offer its employees the opportunity to identify themselves as Vietnam-era veterans, (2) failed to implement an affirmative action program aiding covered veterans, and (3) failed to file VETS-100 reports for the years 1998 through 2003, and filed false VETS-100 reports for 2002, 2004, 2005, and 2006.
+Kirk based his allegation that Schindler did not file VETS-100 reports in 1998-2003 on the responses Mrs. Kirk received to her FOIA requests; with regard to the 2002 reports, Kirk alleged that the fact that these reports were not produced in response to Mrs. Kirk's November 2004 request but were eventually produced in response to her January 2005 request indicates that the 2002 reports were belatedly filed.
+Kirk also alleged that the 2002 reports were, in any event, false.
+Kirk's allegation that Schindler's 2002, 2004, 2005, and 2006 VETS-100 reports were false was based on his comparison of the information contained in the reports produced pursuant to Mrs. Kirk's FOIA request with his personal knowledge of Schindler's operations.
+For example, he alleged that while the 2004 reports cover only eighteen unspecified locations, Schindler has more than eighteen locations in the United States.
+He also alleged that while the 2004, 2005, and 2006 reports listed no covered veterans who are technicians or [**5] craft workers in New York, he personally knows (and named in the complaint) a number of covered veterans working for Schindler in those job categories.
+Moreover, he alleged, the filed reports must be false because, as his personal experience demonstrated, Schindler never asked Vietnam-era veterans to self-identify.
+During the years in which Schindler was not in compliance with VEVRAA, Kirk alleged, it entered into hundreds of contracts with the federal government that were subject to VEVRAA's requirements.
+Appended to the Amended Complaint are lists of specific contracts between Schindler and various agencies of the U.S. government dating from 1999 to the time the Amended Complaint was filed in 2007, all of which exceed VEVRAA's minimum value.
+Kirk charged that each claim for payment submitted by Schindler under one of these contracts was a false claim within the terms of the FCA.
+In September 2007, Schindler filed a motion to dismiss the Amended Complaint.
+The three stated grounds for Schindler's motion were (1) that under the jurisdictional provision of the FCA, 31 U.S.C. 3730 (e)(4), the district court lacked jurisdiction over Kirk's suit because the information on which his allegations were based — specifically, the information garnered through Mrs. Kirk's FOIA requests — had been publicly disclosed, (2) that Kirk had failed to plead his fraud claims with adequate specificity under Fed.R.Civ.P. 9 (b), and (3) that in light of Kirk's pending complaint before the OFCCP, the district court should defer to the agency and dismiss the action under the doctrine of "primary jurisdiction."
+The district court granted Schindler's motion to dismiss.
+First, the district court found that there could be no liability for those of Kirk's allegations that were based on Schindler's filing of false or inaccurate VETS-100 reports because Schindler never certified the accuracy of the reports.
+Second, the district court assessed the applicability of the FCA's jurisdictional bar to Kirk's remaining claims.
+Recognizing that it faced a question that had not been decided in this Circuit, the district court found that the FOIA reports constituted a "public disclosure" via one of the sources enumerated in 31 U.S.C. 3730 (e)(4)(A).
+It concluded, accordingly, that it lacked jurisdiction to consider Kirk's claims based on Schindler's failure to file VETS-100 reports because all of the material information on which these claims were based was contained in the DOL's responses to Mrs. Kirk's FOIA requests.
+This appeal followed, DISCUSSION While the district court addressed the question of subject matter jurisdiction only after concluding that Kirk's claims with respect to the allegedly false or inaccurate VETS-100 reports were not viable under the FCA, "the first question for an appellate court ordinarily is that of its jurisdiction and the jurisdiction of the lower court in the cause under review."
+Monegasque De Reassurances S.A.M.
+v. Nak Naftogaz of Ukraine , 311 F.3d 488 , 497 (2d Cir. 2002); see also United States ex rel.
+Kreindler & Kreindler v. United Techs.
+Corp. , 985 F.2d 1148 , 1155-56 (2d Cir. 1993) (citing Rhulen Agency, Inc. v. Ala. Ins. [**6] Guar.
+Ass'n , 896 F.2d 674 , 678 (2d Cir. 1990)) (stating, in the context of a suit under the FCA, that "[w]here .
+.
+.
+the defendant moves for dismissal under Rule 12(b)(1) , .
+.
+.
+as well as on other grounds, the court should consider the Rule 12(b)(1) challenge first since if it must dismiss the complaint for lack of subject matter jurisdiction, the accompanying defenses and objections become moot and do not need to be determined" (internal quotation marks omitted)).
+Accordingly, we first analyze whether the FCA's jurisdictional bar is applicable here.
+I. Subject Matter Jurisdiction We review a district court's determination of subject matter jurisdiction de novo.
+DiTolla v. Doral Dental IP A of N. Y. , 469 F.3d 271 , 275 (2d Cir. 2006).
+Title 31, Section 3730 (e)(4)(A) of the United States Code provides that No court shall have jurisdiction over an action under [the FCA] based upon the public disclosure of allegations or transactions in a criminal, civil, or administrative hearing, in a congressional, administrative, or Government Accounting Office report, hearing, audit, or investigation, or from the news media, unless the action is brought by the Attorney General or the person bringing the action is an original source of the information.
+[fn4] As we have previously explained, in order for the FCA's jurisdictional bar to apply there must be "public disclosure" of the information on which the allegation of fraud rests, and this "public disclosure" must occur through one of the sources enumerated in the statute.
+Doe , 960 F.2d at 322-23 .
+In addition, the statute indicates that the public disclosure (via an enumerated source) must be of the material elements of the "allegations or transactions" on which the claim is based.
+31 U.S.C. 3730 (e)(4)(A); see United States ex rel.
+Fowler v. Caremark RX, L.L.C.
+, 496 F.3d 730 , 736 (7th Cir. 2007) (stating that "[a] `public disclosure' exists under 3730(e)(4)(A) when the critical elements exposing the transaction as fraudulent are placed in the public domain" (internal quotation marks omitted)), overruled on other grounds by Glaser v. Wound Care Consultants , 570 F.3d 907 (7th Cir. 2009); United States ex rel.
+Grynberg v. Praxair, Inc. , 389 F.3d 1038 , 1049-51 (10th Cir. 2004) (finding that "allegations or transactions" have been disclosed when "[a]ll of the material elements of the fraudulent transaction were already in the public domain"); United States ex rel.
+Springfield Terminal Ry. Co. v. Quinn , 14 F.3d 645 , 654 (D.C. Cir. 1994) ("The language employed in 3730(e)(4)(A) suggests that Congress sought to prohibit qui tam actions only when either the allegation of fraud or the critical elements of the fraudulent transaction themselves were in the public domain.").
+If it is established that the allegations or transactions at issue were publicly disclosed through an enumerated source, a qui tam plaintiff may avoid dismissal under the jurisdictional bar by establishing that she was an "original source" of the relevant information.
+Kreindler , 985 F.2d at 1158-59 .
+The statute defines an "original source" as one who "has direct and independent knowledge of the information on which the allegations are based and has voluntarily provided the information to the Government before filing an action under this section which is based on the information."
+31 U.S.C. 3730 (e)(4)(B).
+Kirk does not concede that the information [**7] contained in the responses Mrs. Kirk received to her FOIA requests was "publicly disclosed."
+However, every circuit to have considered this issue has determined that information produced in response to a FOIA request becomes public once it is received by the requester.
+United States ex rel.
+Ondis v. City of Woonsocket , 587 F.3d 49 , 55 (1st Cir. 2009); United States ex rel.
+Reagan v. E. Tex. Med. Cir.
+Reg'l Healthcare Sys. , 384 F.3d 168 , 175-76 (5th Cir. 2004); United States ex rel.
+Mistick PBT v. Hous. Auth. of Pittsburgh , 186 F.3d 376 , 383 (3d Cir. 1999); United States ex rel.
+Burns v. A.D.
+Roe Co., Inc. , 186 F.3d 717 , 723-24 (6th Cir. 1999); United States ex rel.
+Schumer v. Hughes Aircraft Co. , 63 F.3d 1512 , 1519-20 (9th Cir. 1995), vacated on other grounds , 520 U.S. 939 , 117 S.Ct. 1871 , 138 L.Ed.2d 135 (1997).
+Moreover, in the context of construing the term "public disclosure" in the Consumer Product Safety Act, 15 U.S.C. 2055 (b)(1), the Supreme Court has held that the term encompasses materials released in response to a FOIA request.
+Consumer Prod. Safety Comm'n v. GTE Sylvania, Inc. , 447 U.S. 102 , 109 , 100 S.Ct. 2051 , 64 L.Ed.2d 766 (1980).
+Finally, this conclusion is consistent with our own prior discussions of what constitutes a "public disclosure" under the FCA.
+In Doe , we found that once innocent employees of a company being investigated for fraud were informed of the allegations, public disclosure of those allegations had occurred.
+960 F.2d at 323 .
+We rejected the contention that, in order for public disclosure to have taken place, the information must be more broadly disseminated.
+Id .
+Doe therefore undermines Kirk's argument that the information contained in the FOIA materials was not public because it had been disclosed only to the Kirks.
+Accordingly, we find that the information produced to Mrs. Kirk in response to her FOIA requests, once she had received it, was "publicly disclosed" within the meaning of 31 U.S.C. 3730 (e)(4)(B).
+However, the question remains whether any or all of the FOIA materials qualify as an enumerated source under the statute. "
+Section, 3730(e)(4)(A) furnishes an exclusive list of the ways in which a public disclosure must occur for the jurisdictional bar to apply."
+Id .
+Here, the potentially applicable categories are "administrative .
+.
+.
+report .
+.
+.
+or investigation."
+31 U.S.C. 3730 (e)(4)(A).
+Our sister Circuits have come to differing conclusions regarding whether materials produced by a government agency pursuant to a FOIA request are administrative reports or investigations within the meaning of the FCA's jurisdictional bar.
+The Third Circuit, in Mistick , concluded that they are.
+Relying largely on dictionary definitions of the terms of the statute, the Third Circuit held that when a relator's claim was based on files released by the Department of Housing and Urban Development ("HUD") in response to a FOIA request, including letters submitted to HUD containing allegedly false claims, the FCA's jurisdictional bar applied.
+Mistick , 186 `F.3d at 383-84 .
+After finding that the word "administrative" refers "only to those administrative reports that originate with the federal government," id. at 383 , the court reasoned, [a] "report" is defined as, among other things, "something that gives information" or a "notification," Webster's Third New International Dictionary 1925 (1971), and an "official or formal statement of facts or proceeding."
+Black's Law Dictionary 1300 (6th ed. 1990).
+[**8] A response to a FOIA request falls within these definitions.
+Such a response provides information and notification regarding the results of the agency's search for the requested documents and constitutes an official and formal statement concerning those results.
+Id. at 383-84 .
+The court continued, [w]e also believe that this response occurred "in a[n] .
+.
+.
+administrative .
+.
+.
+investigation."
+31 U.S.C. 3730 (e)(4)(A).
+For the reasons already explained, HUD's search for the documents sought under the FOIA and its decision to disclose them clearly satisfied our court's interpretation of the term "administrative," and we believe that these processes should be viewed as constituting an "investigation" within the meaning of 31 U.S.C. 3730 (e)(4)(A).
+Accepted definitions of the term "investigation" include "a detailed examination," Webster's Third New International Dictionary 1189 (1971), and the "making of a search."
+1 The Compact Edition of the Oxford English Dictionary 457 (1971).
+When an agency receives a FOIA request, it is obligated to conduct a search that is reasonably calculated to uncover all relevant documents.
+Id. at 384 .
+Accordingly, the Mistick court found that jurisdiction was barred by the statute.
+Id. at 382-84 .
+Mistick's analysis has since been followed by the First and Fifth Circuits.
+[fn5] Ondis , 587 F.3d at 56-57 ; Reagan , 384 F.3d at 175-76 .
+The Ninth Circuit, in United States ex rel.
+Haight v. Catholic Healthcare West , 445 F.3d 1147 (9th Cir. 2006), took a different approach.
+Rather than relying on the dictionary definition of the words "report" and "investigation," the Haight court looked at the words in the context of 3730(e)(4)(A) as a whole.
+The court reasoned that a FOIA request is a mechanism for duplicating records that are in the possession of the federal government and that are not otherwise excludable from members of the public.
+In contrast, reports and investigations generally involve independent work product.
+"Report" denotes a document that includes an analysis of findings; "investigation" implies independent governmental leg-work.
+Moreover, the FCA's jurisdictional bar groups "report" and "investigation" with a series of other enumerated sources that each involve extensive governmental work product and involvement.
+Because responding to a FOIA request requires little more than duplication, labeling any response to a FOIA request a "report" or "investigation" would ignore the way in which each of the enumerated sources [in the statute] involves governmental work product.
+Id. at 1153 (internal quotation marks and citation omitted).
+The Ninth Circuit also reviewed the legislative history of the FCA's jurisdictional provisions: The original version of the Act, enacted in 1863, allowed qui tam suits with no limitations based on how the relator came to know of the false claim, even if the government was already in possession of the relevant information.
+Id. at 1154 .
+In 1943, in United States ex rel.
+Marcus v. Hess , 317 U.S. 537 , 63 S.Ct. 379 , 87 L.Ed. 443 (1943), the Supreme Court found that a qui tam suit was permitted even when the allegations in the complaint were copied directly from a publicly filed criminal indictment.
+See Haight , 445 F.3d at 1154 .
+In response to Marcus , Congress enacted a strict jurisdictional provision prohibiting [**9] qui tam suits "based upon evidence or information in the possession of the United States, or any agency, officer or employee thereof, at the time" the case was brought.
+Pub.L.
+No. 78-213 , 57 Stat. 608 , 609 (1943) (superseded 1986); see also Haight , 445 F.3d at 1154 .
+Under this provision, even if the relator had obtained the information through independent effort and then submitted it to the government, the fact that the government then possessed the information would bar a qui tam action.
+The high water mark of this restrictive approach was United States ex rel.
+Wisconsin v. Dean , 729 F.2d 1100 (7th Cir. 1984), in which the Seventh Circuit found that the state of Wisconsin was barred from pursuing a qui tam action to recover the proceeds of a Medicaid fraud that the state had discovered through its own investigation when Wisconsin had previously, as required by federal law, submitted information concerning the fraud to the U.S. government.
+See Haight , 445 F.3d at 1154 .
+In 1986, Congress again took action, this time to relax the jurisdictional bar, and the current language was instituted.
+Pub.L.
+No. 99-562 , 100 Stat. 3153 , 3157 (1986).
+Summing up the lesson to be taken from this history, the Haight court stated, "the jurisdictional bar provisions must be analyzed in the context of these twin goals of rejecting suits which the government is capable of pursuing itself, while promoting those which the government is not equipped to bring on its own."
+445 F.3d at 1154 (internal quotation marks omitted); see also Doe , 960 F.2d at 321-22 (reviewing the same legislative history and concluding that "[t]he 1986 amendments attempt to strike a balance between encouraging private citizens to expose fraud and avoiding parasitic actions by opportunists who attempt to capitalize on public information without seriously contributing to the disclosure of the fraud").
+The Ninth Circuit concluded that construing the terms "report" and "investigation" to refer to work product that represents governmental analysis or leg-work rather than the mechanistic production of documents that follows upon a FOIA request is in keeping with the goals of the FCA's jurisdictional provision, as demonstrated by this history: Congress sought to bar suits in which the government could already be expected to be on notice of the fraud.
+.
+.
+.
+[W]hen responding to a FOIA request, the government need not assimilate the information contained in the requested documents.
+The duplication of FOIA-requested documents does not require the degree of familiarity and cognizance that the drafting of a report or the conducting of an investigation would.
+Accordingly, prohibiting qui tam relators from basing their allegations on any information obtained in a FOIA response would damage the fraud-detection purpose of the FCA while failing to serve its twin goal of preventing opportunism.
+Haight , 445 F.3d at 1154-55 .
+The Haight court therefore held that the question whether a document obtained through a FOIA request qualifies as one of the enumerated sources under the FCA's jurisdictional bar should be answered by assessing the nature of the document itself.
+Id. at 1156 .
+If the document obtained via FOIA request is a public disclosure of a "criminal, [**10] civil, or administrative hearing, .
+.
+.
+a congressional, administrative, or [General] Accounting Office report, hearing, audit, or investigation, or [is] from the news media," then the jurisdictional bar is applicable.
+If, as was the case here, the document obtained via FOIA does not itself qualify as an enumerated source, its disclosure in response to the FOIA request does not make it so. Id .
+After undertaking our own review of the statute and its legislative history, as well as considering the analyses undertaken by our sister Circuits, we agree with the Ninth Circuit that whether a document obtained through a FOIA request is an enumerated source within the meaning of 3730(e)(4)(A) depends on the nature of the document itself.
+Our conclusion is compelled, first, by the language of the provision.
+The specific question we face is whether a document produced in response to a FOIA request is always an "administrative .
+.
+.
+report .
+.
+.
+or investigation."
+In order to ascertain the import of these potentially broad terms, however, we do not focus on them in isolation; rather, their "meaning[] [is] narrowed by the commonsense canon of noscitur a sociis — which counsels that a word is given more precise content by the neighboring words with which it is associated."
+United States v. Williams , 553 U.S. 285 , 128 S.Ct. 1830 , 1839 , 170 L.Ed.2d 650 (2008).
+All of the other terms in the list of enumerated sources connote the synthesis of information in an investigatory context.
+"[C]riminal, civil, [and] administrative hearings," for instance, all entail a government inquiry into a given subject, here into an alleged case of fraud.
+Similarly, government "hearing[s and] audit[s]" are processes by which information is compiled with the concerted aim of deepening a government entity's knowledge of a given subject or, often, determining whether a party is in compliance with applicable law.
+Given this company of "neighboring words," we find that it strains the natural meaning of the statute to construe the terms "report" and "investigation" as broadly as some of our sister Circuits have done, so that they include any and all materials produced in response to a FOIA request.
+In this context, the term "report" most readily bears a narrower meaning than simply "something that gives information."
+Ondis , 587 F.3d at 56 (citing Webster's Third New Int'l Diet.
+1925 (2002)); see also Mistick , 186 F.3d at 383 (finding that a response to a FOIA request is a "report" because it "provides information and notification regarding the results of the agency's search").
+Rather, it connotes the compilation or analysis of information with the aim of synthesizing that information in order to serve some end of the government, as in a "hearing" or "audit."
+It does not naturally extend to cover the mechanistic production of documents in response to a FOIA request made by a member of the public.
+Similarly, the term "investigation," in the context of the statute, must be construed more narrowly than simply a "detailed examination" or "search."
+Mistick , 186 F.3d at 384 .
+Instead, an "investigation" here implies a more focused and sustained inquiry directed toward a government end — for example, uncovering possible noncompliance or assembling [**11] information relevant to a problem of particular concern to the government.
+[fn6] Those of our sister Circuits who have come to the opposite conclusion have emphasized that an agency responding to a FOIA request conducts a review of its records and compiles all responsive documents before providing them to the requester.
+See Ondis , 587 F.3d at 56 ; Mistick , 186 F.3d at 383-84 .
+But what the agency does not do in such a case is synthesize the documents or their contents with the aim of itself gleaning any insight or information, as, in contrast, it necessarily would in conducting a "hearing" or "audit."
+FOIA is simply a mechanism for granting the public access to information in the possession of an agency.
+[fn7] See FBI v. Abramson , 456 U.S. 615 , 641-42 , 102 S.Ct. 2054 , 72 L.Ed.2d 376 (1982) ("[T]he principal purpose of the FOIA was to establish a general philosophy of full agency disclosure, in order to permit access to official information long shielded unnecessarily from public view .
+.
+.
+."
+(internal quotation marks and citation omitted)); Mistick , 186 F.3d at 393 (Becker, C.J.
+, dissenting) ("[FOIA] does not compel an agency to `investigate' a request, in the sense that an agency of the federal government normally investigates such things as allegations of fraud, crimes, or other wrongdoing.
+Rather, the Act simply forces agencies to `make [their] records promptly available,' upon request."
+(citing 5 U.S.C. 552 (a)(3)(A))).
+Our reading of the statute is buttressed by the legislative history of 3730(e)(4)(A) .
+Although, as the Supreme Court recently noted, the legislative history does not indicate the drafters' reasons for adopting the specific language contained in the final version of the bill, Graham County Soil and Water Conservation District v. United States ex rel.
+Wilson , U.S. , 130 S.Ct. 1396 , 1407-10 , L.Ed.2d (2010), the history does make clear that the 1986 amendments to the FCA's jurisdictional provision were a reaction against the previous version of the statute, which had barred any qui tam action that was based on information in the possession of the government, id. at 1406 ; see also Haight , 445 F.3d at 1154-55 ; United States ex rel.
+Findley v. FPC-Boron Employees' Club , 105 F.3d 675 , 684 (D.C. Cir. 1997) ("When Congress amended the Act in 1986, .
+.
+.
+the focus of the jurisdictional bar [changed] from evidence of fraud inside the government's overcrowded file cabinets to fraud already exposed in the public domain.").
+Congress's avowed goal was, generally, to "encourage more private enforcement" of the FCA through expansion of its qui tam provisions, S.Rep.
+No. 99-345, at 23-24 (1986), as reprinted in 1986 U.S.C.C.A.N.
+5266 , 5288-89, and, more specifically, to "correct[] restrictive interpretations of the act's .
+.
+.
+qui tam jurisdiction," id. at 4, as reprinted in 1986 U.S.C.C.A.N.
+at 5269 .
+As the D.C.
+Circuit noted in Findley , the legislators Sought "to prod the government into action" by allowing qui tam suits when "evidence or information of fraud was buried somewhere in a government file."
+Findley , 105 F.3d at 684 n. 4.
+What we find most problematic about an interpretation that construes FOIA materials as "administrative reports" or the product of an "administrative investigation" within the meaning of 3730(e)(4)(A) is that it would essentially resurrect, in a significant subset of cases, the government possession standard that Congress repudiated in 1986.
+As a practical matter, it is likely [**12] that in a substantial number of cases involving fraud against the government, some key piece of information — such as a contract, a record of orders placed, etc. — will be in the government's possession.
+Under the approach adopted in Mistick , the moment a motivated individual seeking to uncover fraud receives such a document through FOIA, it becomes a publicly disclosed "administrative report" or the product of an "administrative investigation," triggering the FCA's jurisdictional bar.
+Such an individual would then be barred from bringing an FCA claim when any of the pertinent information is possessed solely in the governments files, a result that is counterproductive to Congress's goal of "strik[ing] a balance between encouraging private citizens to expose fraud and avoiding parasitic actions by opportunists who attempt to capitalize on public information without seriously contributing to the disclosure of the fraud," Doe , 960 F.2d at 321 .
+[fn8] Certainly, in some cases a qui tam plaintiff will herself possess all of the relevant information, and in such cases the mere fact that some or all of the information was also possessed by the government would not be a bar to a suit.
+Similarly, in some cases a qui tam plaintiff will qualify as an "original source" under 31 U.S.C. 3730 (e)(4)(B), in which case the jurisdictional bar's exception applies and the status of FOIA documents under the provision becomes irrelevant, id. 3730(e)(4)(A) .
+See Graham County , 130 S.Ct. at 1410-11 (noting that even under the Court's broader reading of the FCA's jurisdictional bar the rights of "original source" qui tam plaintiffs are preserved).
+But the facts of this case belie the assertion that individuals who are not original sources and who obtain information through FOIA requests will generally not be persons with firsthand knowledge of fraud but rather will be opportunistic litigators.
+See Ondis , 587 F.3d at 56 .
+The facts also illustrate how an overbroad reading of the jurisdictional bar would prevent an individual with independent but partial knowledge of a possible fraud would be barred from bringing a lawsuit that is neither parasitic nor frivolous.
+Here, Kirk became suspicious, based on his own experience as a Vietnam veteran employed by Schindler, that Schindler was not in compliance with VEVRAA.
+To confirm this suspicion, however, he needed copies of Schindler's VETS-100 reports, and the readiest lawful means through which he could obtain them was a FOIA request.
+Once he had received copies of the existing reports, and learned that no reports had been filed for certain years, he was able to put the pieces of his lawsuit together.
+The assumption that such a case will be a rare exception is questionable.
+Finally, we note that our interpretation of 3730(e)(4)(A) accords with that urged by the government as amicus curiae.
+The government states that the "more limited" jurisdictional bar enacted in 1986 is "predicated upon the public disclosure of allegations in specific categories demonstrating that the government is either actively investigating the alleged fraud or that there is sufficient public awareness of the allegations [**13] to pressure the government to start an investigation."
+Brief for Amicus Curiae the United States of America in Support of Appellant at 24-25.
+In other words, the government advocates an interpretation of the statute under which citizen relators will be able to bring suit in those instances in which the government itself is not pursuing, or considering the pursuit of, an investigation.
+[fn9] See Findley , 105 F.3d at 688 (finding that a qui tam action was barred where the complaint was based on publicly disclosed information that "already enable[d] the government to adequately investigate the case and to make a decision whether to prosecute"); Springfield Terminal Ry. , 14 F.3d at 655 (finding that the FCA's jurisdictional bar is best understood as applying when the government is already, or can reasonably be expected to be, "on the trail" of fraud); see also United States ex rel.
+Fine v. Sandia Corp. , 70 F.3d 568 , 571 (10th Cir. 1995) (quoting Springfield Terminal Railway ).
+While the "public disclosure" standard that Congress enacted is distinct from an actual notice standard, see Graham County , 130 S.Ct. at 1410 (noting that "[t]he statutory touchstone .
+.
+.
+is whether the allegations of fraud have been `publicly disclosed,' not whether they have landed on the desk of a DOJ lawyer" (brackets and citation omitted)), we note that the forms of public disclosure that trigger the jurisdictional bar are all forms that can reasonably be expected to indicate that some branch of government has turned its attention to the potential fraud in question, such as a hearing, audit, report, or investigation.
+Under this reading, qui tam relators would not duplicate government efforts to crack down on fraud but would bring their own resources to bear where the government was not in a position to act.
+This division of labor will maximize efficient enforcement of the FCA in the manner envisioned by the authors of the 1986 amendments.
+See S.Rep.
+No. 99-345 , at 2, as reprinted in 1986 U.S.C.C.A.N.
+at 5267 ("In the face of sophisticated and widespread fraud, the Committee believes only a coordinated effort of both the Government and the citizenry will decrease this wave of defrauding public funds.").
+For all of the foregoing reasons, we hold that a document obtained in response to a FOIA request qualifies as an enumerated source under 31 U.S.C. 3730 (e)(4)(A) only when the document itself is a "congressional, administrative, or Government Accounting Office report, hearing, audit, or investigation," reflecting the government's efforts to compile or synthesize information to serve its own investigative or analytic ends.
+The mere fact that a government agency has assembled and duplicated records, or noted the absence of records, in responding to a FOIA request does not itself render the material produced an "administrative .
+.
+.
+report .
+.
+.
+or investigation" within the meaning of 3730(e)(4)(A) .
+In this case, the materials produced to the Kirks by the DOL in response to Mrs. Kirk's FOIA requests consisted only of Schindler's VETS-100 filings as well as letters indicating that for certain years no responsive records had been found, neither of which constitutes an "administrative .
+.
+.
+report .
+.
+.
+or investigation" under the statute.
+[**14] Accordingly, the materials are not enumerated sources, and the FCA's jurisdictional bar does not apply.
+[fn10] II.
+The Validity of Kirk's Claims Under the FCA We next address whether Kirk stated valid claims under the FCA when he alleged that (1) Schindler did not file, or did not timely file, any VETS-100 reports for the years 1998 through 2003, and (2) Schindler filed false VETS-100 reports for 2002, [fn11] 2004, 2005, and 2006.
+[fn12] We review de novo a district court's decision to dismiss a plaintiffs claims for failure to state a claim.
+Gregory v. Daly , 243 F.3d 687 , 691 (2d Cir. 2001).
+In doing so, we accept as true all factual allegations contained in the complaint and draw all inferences in favor of the plaintiff.
+Id .
+As an initial matter, the parties each make arguments that we either should not or need not reach this issue.
+Schindler argues, for the first time on appeal, that the provisions of VEVRAA on which Kirk relies are not applicable to its contracts with the government because the applicable regulations exempt "contracts for commercial items" from the requirement of filing VETS-100 reports.
+See 48 C.F.R. 22.1302(b) (exempting "contracts for commercial items" from filing VETS-100 reports and other VEVRAA filing requirements); 66 Fed.Reg.
+53, 487 , 53, 487 (Oct. 22, 2001) (noting that 31 U.S.C. 1354 , which prohibits the government from entering into contracts with contractors who have not filed their VETS-100 reports, does not apply to "acquisitions of commercial items").
+Because this argument was not raised before the district court, however, it is waived.
+Allianz Ins. Co. v. Lerner , 416 F.3d 109 , 114 (2d Cir. 2005).
+We further observe that the question of whether Schindler's contracts to install and maintain elevators and escalators are properly considered "contracts for commercial items" rather than contracts for construction, which are not exempted from the VETS-100 filing requirements, is fact-specific and therefore does not present an appropriate occasion for us to exercise our discretion to consider an argument that has been waived.
+See id .
+Kirk, for his part, argues that it was improper for the district court to consider the substantive validity of his FCA claims because Schindler did not move to dismiss these claims under Fed.R.Civ.P. 12 (b)(6) and asserted instead that the action should be dismissed on jurisdictional and Rule 9(b) grounds.
+Kirk characterizes the district court's dismissal of certain of his claims as a sua sponte dismissal for failure to state a claim on which relief can be granted, and asks that, if we do not reinstate his dismissed claims on substantive grounds, we vacate this aspect of the district court's decision in order to afford him an opportunity to be heard.
+It is true that "[providing a plaintiff with notice and an opportunity to be heard is often necessary to establish the fairness and reliability of a dismissal," Abbas v. Dixon , 480 F.3d 636 , 639 (2d Cir. 2007), and failure to afford plaintiff an opportunity to be heard can be grounds for reversal, see Square D Co. v. Niagara Frontier Tariff Bureau, Inc. , 760 F.2d 1347 , 1365 (2d Cir. 1985).
+Because, for the reasons explained below, we reverse the district court's determination that certain of Kirk's claims were substantively [**15] invalid and reinstate those claims, however, we need not address this alternative argument.
+We therefore draw no conclusions as to whether the district court's dismissal is properly characterized as sua sponte or whether it is in fact the case that Kirk did not receive a meaningful opportunity to be heard below.
+Turning, then, to the validity of Kirk's claims, we first review the elements of liability under the FCA.
+At the time Kirk filed his claim, the potentially applicable provisions of the FCA were 31 U.S.C. 3729 (a)(1) [fn13] and (a)(2).
+[fn14] In 2009, Congress passed the Fraud Enforcement and Recovery Act ("FERA"), Pub.L.
+No. 111-21 , 123 Stat. 1617 (2009), which amended and renumbered these provisions as 3729(a)(1)(A) and (a)(1)(B), respectively, see FERA 4(a) , 123 Stat, at 1621 .
+The amendment to 3729(a)(2) , but not the amendment to 3729(a)(1) , was made retroactive to June 7, 2008, applicable to "all claims under the False Claims Act .
+.
+.
+that [were] pending on or after that date," FERA 4(f) , 123 Stat, at 1625 .
+Because Kirk's claim was filed in March 2005, and was pending as of June 7, 2008, the potentially applicable provisions in this case are former 3729(a)(1) , establishing liability for "knowingly presenting], or caus[ing] to be presented, to an officer or employee of the United States Government .
+.
+.
+a false or fraudulent claim for payment or approval," and current 3729(a)(1)(B) , establishing liability for "knowingly mak[ing], us[ing], or caus[ing] to be made or used, a false record or statement material to a false or fraudulent claim," see FERA 4(a) , 123 Stat, at 1621 .
+We first address Kirk's claims based on Schindler's alleged failure to file VETS-100 reports for the years 1998 through 2003.
+We will begin our analysis, as the district court did, with an assessment of whether liability arises under former 3729(a)(1) , employing the analysis set forth in Mikes v. Straus , 274 F.3d 687 (2d Cir. 2001).
+As we construed former 3729(a)(1) in Mikes , in order to establish liability a plaintiff must show "that defendants (1) made a claim, (2) to the United States government, (3) that is false or fraudulent, (4) knowing of its falsity, and (5) seeking payment from the federal treasury."
+Id. at 695 .
+The central dispute with regard to Kirk's claims based on Schindler's failure to file VETS-100 reports is whether its subsequent claims for payment were "false" within the meaning of the statute, as construed by Mikes.
+[fn15] In some cases, a claim made to the government is "factually false," meaning that a contractor supplies "an incorrect description of goods or services provided or a request for reimbursement for goods or services never provided," id. at 697 — in other words, the contractor bills for something it did not provide.
+In such a case, application of the FCA is fairly straight-forward.
+More difficult to assess, however, are cases in which a contractor falsely represents that it is in compliance with a particular federal statute or regulation or an applicable contractual term.
+See id. at 696 .
+Because "[t]he language of [the FCA] plainly links the wrongful activity to the government's decision to pay," id .
+, the statute "does not encompass those instances of regulatory noncompliance that are irrelevant to the government's disbursement decisions," id. at 697 .
+In other words, not every instance in which a false representation of compliance with a regulatory regime is made will lead [**16] to liability.
+Mikes extensively addressed the "legally false certification theory" of liability under the FCA, as distinct from a "factually false" claim.
+Id. at 696-97 .
+Legally false certification occurs "where a party certifies compliance with a statute or regulation as a condition to governmental payment."
+Id. at 697 .
+In some cases, there will be an "express false certification," where "a claim .
+.
+.
+falsely certifies compliance with a particular statute, regulation or contractual term, where compliance is a prerequisite to payment."
+Id. at 698 .
+In other cases, however, where no express certification is required, there may still be liability under an "implied certification theory": implied false certification is appropriately applied .
+.
+.
+when the underlying statute or regulation upon which the plaintiff relies expressly states the provider must comply in order to be paid.
+.
+.
+.
+Liability under the Act may properly be found therefore when a defendant submits a claim for [payment] while knowing .
+.
+.
+that payment expressly is precluded because of some noncompliance by the defendant.
+Id. at 700 .
+In other words, the contractor itself need not certify compliance for a legally false certification to have occurred, although when it does so there will be an express false certification.
+An implied false certification takes place where a statute expressly conditions payment on compliance with a given statute or regulation, and the contractor, while failing to comply with the statute or regulation (and while knowing that compliance is required), submits a claim for payment.
+Title 31, Section 1354 (a)(1) of the United States Code provides that "no agency may obligate or expend funds appropriated for the agency for a fiscal year to enter into a contract [covered by VEVRAA] with a contractor from which a [VETS-100] report was required .
+.
+.
+with respect to the preceding fiscal year if such contractor did not submit such report."
+In addition, 48 C.F.R. 52.222-38 provides that "[b]y submission of its offer, the offeror represents that, if it is subject to the reporting requirements of [VEVRAA], it has submitted the most recent VETS-100 Report required by that [Act]."
+This regulation was adopted in October 2001 and became effective December 21, 2001.
+See 66 Fed.Reg.
+53, 487 (Oct. 22, 2001).
+The district court found that Kirk stated a valid claim under the FCA when he alleged that Schindler submitted bids covered by 48 C.F.R. 52.222-38 without having submitted a VETS-100 report for the preceding fiscal year and then won a contract.
+We agree.
+The effect of the regulation is that any contractor covered by VEVRAA certifies that it has submitted its most recent VETS-100 report when it makes a bid for government business.
+If it has not submitted the report, such a certification would be false.
+In the terms of the Mikes analysis, then, such a contractor would have made an express false certification (albeit by operation of the regulation rather than by making the certification directly).
+The district court also, however, dismissed those of Kirk's claims based on contracts awarded before the regulation's effective date, implicitly holding that liability cannot be predicated on 31 U.S.C. 1354 (a) alone.
+[**17] We respectfully disagree with this aspect of the district court's holding.
+As Mikes explained, implied false certification takes place "when the underlying statute or regulation upon which the plaintiff relies expressly states the provider must comply in order to be paid" and the defendant, while not in compliance, submits a claim for payment.
+274 F.3d at 700 .
+Our discussion, in Mikes , of a provision of the Medicare statute offers a useful illustration: Section 1395(a)(1)(A) of the Medicare statute states that "no payment may be made under the Medicare statute for any expenses incurred for items or services which .
+.
+.
+are not reasonable and necessary for the diagnosis or treatment of illness or injury or to improve the functioning of a malformed body member."
+42 U.S.C. 1395y (a)(1)(A) (emphasis added).
+Because this section contains an express condition of payment — that is, "no payment may be made" — it explicitly links each Medicare payment to the requirement that the particular item or service be "reasonable and necessary."
+.
+.
+.
+Since 1395y(a)(1)(A) expressly prohibits payment if a provider fails to comply with its terms, defendants' submission of the claim forms implicitly certifies compliance with its provision.
+Id. at 700-01 (brackets omitted).
+Similarly, 31 U.S.C. 1354 (a)(1) provides that "no agency may obligate or expend funds" to enter a contract covered by VEVRAA when the contractor has not submitted the requisite VETS-100 report.
+Because the statute expressly states that the contractor must have submitted the report in order to be paid, a contractor that requests payment under such a contract "implicitly certifies compliance" with the VETS-100 reporting requirement.
+Kirk therefore states a valid claim under the FCA when he alleges that Schindler submitted bids and won contracts without having filed the requisite report, even before 48 C.F.R. 52.222-38 became effective.
+Next, we address the validity of Kirk's claims based on Schindler's filing of allegedly false VETS-100 reports.
+Here, the district court, relying on former 3729(a)(1) and (2) as construed by Mikes , found that there could be no liability for filing allegedly false VETS-100 reports because none of the applicable statutes or regulations makes filing an accurate report a precondition to payment or provides that a contractor, by submitting a bid or a request for payment, certifies the accuracy , as opposed to the submission, of its reports.
+We need not determine whether this analysis is correct, however, because we find that Kirk states a valid claim under the new 3729(a)(1)(B) .
+[fn16] The new provision establishes liability when a party "knowingly makes, uses, or causes to be made or used, a false record or statement material to a false or fraudulent claim."
+31 U.S.C. 3729 (a)(1)(B).
+Accepting as true all of the factual allegations set forth in the complaint and drawing all inferences in the light most favorable to plaintiff, see Gregory 243 F.3d at 691 , in 2002, 2004, 2005, and 2006 Schindler filed false VETS-100 reports, necessarily knowing that they were false because Schindler in fact had no mechanism in place to identify covered veterans.
+It did so in order to procure contracts or obtain payment under existing contracts, as it could do neither [**18] without filing the reports.
+See 31 U.S.C. 1354 (a)(1); 48 C.F.R. 52.222-38.
+Accordingly, it knowingly used a false record in order to obtain payment from the government.
+See S.Rep.
+No. 99-345 at 9, as reprinted in 1986 U.S.C.C.A.N.
+at 5274 ("[A] false claim may take many forms, [including] a claim for goods or services .
+.
+.
+provided in violation of contract terms, specification, statute, or regulation.
+.
+.
+.
+[C]laims may be false even though the services are provided as claimed if, for example, the claimant is ineligible to participate in the program.")
+Schindler argues that the materiality requirement of 3729(a)(1)(B) is not met here.
+It notes that the government does not require, before entering into a contract or making payment under an existing contract, that some threshold number of Vietnam veterans be employed by any given contractor.
+Because the government's funding decisions are not predicated on the content of the reports, Schindler reasons, the allegedly false statements in the reports were not "material" as defined by 3729(b)(4) — i.e. , "having a natural tendency to influence, or be capable of influencing, the payment or receipt of money or property."
+Schindler maintains that it does not take the position that the government is entirely indifferent to the accuracy of VETS-100 reports; rather, Congress simply did not contemplate using the FCA to ensure the accuracy of the reports.
+Instead, according to Schindler, their accuracy is best monitored through existing administrative mechanisms.
+[fn17] We are not persuaded by Schindler's arguments.
+While it is clear that the statute imposes a materiality requirement, we find that that requirement is met under the circumstances alleged in the complaint.
+Kirk does not merely allege that Schindler filed inaccurate reports, he alleges that Schindler failed to take any steps what-so-ever to monitor the number of covered veterans in its workforce and instead fabricated the numbers it supplied in its VETS-100 reports, essentially plucking them out of thin air.
+[fn18] We need not now define the precise contours of the materiality requirement in order to hold that in such a case, the VETS-100 reports constitute "false .
+.
+.
+statement[s] material to a false .
+.
+.
+claim."
+31 U.S.C. 3729 (a)(1)(B).
+The reporting requirements of VEVRAA are sufficiently important to Congress that it made fulfillment of them a precondition to payment.
+See id .
+1354(a)(1) .
+Schindler allegedly submitted VETS-100 reports that gave the impression that it was complying with these requirements while in fact it was entirely disregarding them.
+Such a false statement would certainly have a tendency to "influence, or be capable of influencing, the payment or receipt of money or property."
+[fn19] Id .
+3729(b)(4) .
+[fn20] Cf. United States ex rel.
+Longhi v. Lithium Power Technologies, Inc. , 575 F.3d 458 , 470 (5th Cir. 2009) (construing the materiality requirement, as defined in 3739(b)(4) , as "requir[ing] only that the false or fraudulent statements either (1) make the government prone to a particular impression, thereby producing some sort of effect, or (2) have the ability to I affect the government's actions, even if this is a result of indirect or intangible actions on the part of the Defendants").
+Kirk's FCA claims based on Schindler's filing [**19] of allegedly false reports are thus valid.
+CONCLUSION We have considered the other arguments made by Schindler and find them to be without merit.
+We hold that whether documents produced in response to a FOIA request are enumerated sources under 31 U.S.C. 3730 (e)(4)(A) is to be determined by assessing the nature of the documents themselves; they are not "administrative .
+.
+.
+report[s] .
+.
+.
+or investigation[s]" simply by virtue of having been gathered by an agency responding to a FOIA request.
+We further hold that Kirk stated valid claims under the FCA when he asserted (1) that Schindler had failed to file VETS-100 reports in certain years, and (2) that Schindler had filed false VETS-100 reports in certain years because it had filed reports that purported to detail the number of covered veterans in its workforce while in fact the company took no measures to identify such veterans.
+We therefore VACATE the judgment of the district court and REMAND the case for further proceedings consistent with this opinion.

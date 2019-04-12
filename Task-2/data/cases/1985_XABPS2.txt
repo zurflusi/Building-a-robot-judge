@@ -1,0 +1,94 @@
+ JERRE S. WILLIAMS , Circuit Judge: The case before us raises the question of whether the Employee Retirement Income Security Act (ERISA), 29 U.S.C. 1001-1381 (1982), preempts an employee's common law breach of contract and tort claims against the insurance company that issued his employer's group insurance policy.
+The district court concluded that ERISA preempted the employee's claims.
+We reverse on the authority of Metropolitan Life Insurance Co. v. Massachusetts , U.S. , 105 S.Ct. 2380 , 85 L.Ed.2d 728 (1985), decided after the decision of the District Court.
+I. In March, 1975, Everate W. Dedeaux, an employee of Entex, Inc. 1 in Gulf Port, Mississippi, injured his back in a work-related accident.
+At the time of the accident, a long term disability benefits plan (Plan) Entex had established for its employees was in effect and purported to afford coverage for work-related injuries such as Dedeaux's.
+Entex established the Plan by purchasing a group insurance policy from Pilot Life Insurance Co. 2 Entex collected and matched its employees' contributions to the Plan and forwarded those funds to Pilot Life.
+Entex also bore responsibility for providing its employees with the necessary forms and documents for processing disability claims and forwarding those completed forms and documents to Pilot Life.
+Entex, however, possessed no discretion nor authority to determine who would receive disability benefits.
+Pilot Life alone possessed that authority.
+Entex's role was predominantly a ministerial one.
+Dedeaux sought permanent disability benefits for the injuries he sustained in the March 1975 accident.
+Pilot Life provided Dedeaux with benefits for the first two years after the accident but thereafter terminated benefits.
+For the next three years, Pilot Life repeatedly reinstated and then terminated benefits.
+Because of his frustration with Pilot Life, Dedeaux instituted this diversity action in 1980.
+Dedeaux sought $750,000 in compensatory and exemplary damages for Pilot Life's conduct and asserted claims under the Mississippi common law for breach of contract, breach of fiduciary duty, and fraud.
+Unlike the typical plaintiff litigating the status of his disability benefits, however, Dedeaux did not assert any claim under ERISA.
+3 See, e.g. , 29 U.S.C. 1132 (1982) (identifying myriad causes of action for a fiduciary's failure to pay benefits).
+After the close of discovery, Pilot Life moved for summary judgment, asserting that the group insurance policy it issued to Entex was an employee benefit plan governed exclusively by ERISA.
+4 According to Pilot Life, ERISA therefore preempted any common law claim for its failure to pay disability benefits.
+The district court found that section 514(a) of ERISA expressly preempted Dedeaux's causes of action and accordingly granted Pilot Life's motion for summary judgment.
+II.
+A. The narrow question in this appeal is whether Dedeaux's tort and contract claims are saved from preemption by section 514(b)(2) (A), 29 U.S.C. 1144(b)(2)(A) .
+Answering this question necessarily requires us to interpret the delicate balance between several critical provisions of section 514 .
+In pertinent part, Section 514 provides: section 4(a) 29 U.S.C. 1003(a) section 4(b) 29 U.S.C. 1003(b) section 4(a) 29 U.S.C. 1003(a) section 4(b) 29 U.S.C. 1003(b) Section 514(a) , the "preemption" clause, embodies the general rule of preemption and speaks in sweeping terms.
+Section 514(b)(2) (A), or the so-called "saving" clause, limits the scope of the preemption clause and essentially states that ERISA does not preempt any state law that regulates "insurance, banking, or securities."
+Section 514(b)(2) (B), the "deemer" clause states, in part, that no benefit plan shall be construed to be an insurance company or engaged in the business of insurance for the purpose of any state law regulating insurance matters.
+Dedeaux asserts that his causes of action against Pilot Life constitute laws "which regulate[ ] insurance" and therefore are saved from the general rule of preemption.
+5 Pilot Life answers with five separate but related arguments supporting its conclusion that preemption is mandated in this case. First is Congress's preeminent intent to maintain national uniformity in the maintenance and administration of ERISA plans.
+It is argued that permitting plan participants and beneficiaries to assert state-created claims instead of or in addition to their causes of action under ERISA subjects insurers and the plans they insure to additional exposure to liability as well as a variety of duplicative, inconsistent, or conflicting state regulations.
+The varied panoply of rights, it is urged, defeats Congress's stated desire to ensure that plans are administered on a uniform, nationwide basis.
+Second, it is asserted that Congress sought to have the exceptions to the otherwise broad rule of preemption construed narrowly.
+Under such a reading, Pilot Life asserts that common law causes of action such as Dedeaux's simply cannot be construed to be "law[s] which regulate[ ] insurance."
+Pilot Life views this count as a natural corollary to its first claim.
+In its third argument, Pilot Life urges that to hold otherwise would create an irrational and indefensible distinction between plans that are self-insured and those that are insurance-funded.
+See supra n. 2.
+This result occurs if Dedeaux's claims fall within the saving clause.
+There is no question that because of the deemer clause, which limits the effect of the saving clause, Dedeaux would have no claims outside of the ERISA scheme if Entex self-insured the Entex Plan.
+Why, Pilot Life asks, should plan beneficiaries and participants be afforded additional rights and remedies merely because Entex purchased an insurance policy to create the Entex Plan?
+Pilot Life's fourth argument is that the deemer clause substantially limits the scope of the saving clause and operates to save from preemption only so-called "traditional" insurance laws.
+Pilot Life defines traditional insurance laws as including those governing the sale of stock, the licensing of agents, or the maintenance of minimum capital reserves.
+Non-traditional insurance laws and those that would be preempted are any laws that mandate the inclusion of substantive benefits in policies sold to plans or those that create separate rights or a remedial scheme outside ERISA.
+Pilot Life's fifth argument merits particular attention as later analysis reveals.
+In this final argument, Pilot Life asserts that ERISA specifically proscribes and creates a cause of action for the conduct in which Dedeaux alleges Pilot Life engaged.
+It is urged, therefore, that Congress certainly did not intend to enable states to enact separate laws proscribing the same conduct.
+B. Our holding on this appeal turns upon the Supreme Court's recent decision in Metropolitan Life Insurance Co. v. Massachusetts , U.S. , 105 S.Ct. 2380 , 85 L.Ed.2d 728 (1985).
+In Metropolitan Life , the Court for the first time interpreted the meaning and scope of the saving clause.
+Metropolitan Life involved the challenge mounted by two insurance companies against a Massachusetts statute that required all insurers, including those who sold policies to employee benefit plans, to provide insurance coverage for mental health care services.
+The insurer attacked the validity of the so-called mandated benefit law by raising the same arguments Pilot Life raises here.
+A unanimous Supreme Court rejected the insurers' arguments and upheld the validity of the statute.
+In so doing, the Court clearly and unequivocally repudiated the first four arguments Pilot Life raises here.
+The Court began its analysis of the preemption question with the following aphorisms--(1) the ordinary meaning of the language of the statute expresses congressional intent, (2) unless the statute explicitly and clearly states otherwise, Congress does not intend to preempt areas which states traditionally have regulated, (3) federal statutes are not presumed to preempt state laws, and (4) courts should not read limitations into a statute to enlarge the statute's preemptive scope.
+The opinion then noted that the Massachusetts statute appeared to be a law that regulated "insurance" and therefore would fall squarely within the saving clause.
+The Court proceeded to analyze the statute and its legislative history and found nothing in either supporting a narrowing of the saving clause.
+The Court led itself to conclude that the insurers' interpretation of the statute would render the saving clause meaningless.
+The Court, however, went beyond the mere lack of legislative or statutory support for the insurers' arguments.
+It analyzed by way of comparison the McCarran-Ferguson Act, 15 U.S.C. 1011-1015 (1982).
+That statute, which was enacted originally in 1945, states in pertinent part: 15 U.S.C. 1012 .
+The Supreme Court on numerous occasions has interpreted the McCarran-Ferguson Act and emphasized that the primary concern of that act was to "ensure that the States would continue to have the ability to tax and regulate the business of insurance."
+Group Life and Health Insurance Co. v. Royal Drug Co. , 440 U.S. 205, 217-218 , 99 S.Ct. 1067, 1076-1077 , 59 L.Ed.2d 261 (1979).
+The latter act and the interpretations thereof were seen to provide support for the opinion's conclusion that state laws regulating the substantive terms of insurance policies sold to ERISA-authorized benefit plans are saved from preemption by the saving clause.
+See Metropolitan Life , U.S. at & n. 21, 105 S.Ct. at 2391 & 2392 n. 21.
+The Court explicitly rejected the insurers' argument that the deemer clause operated to limit the saving clause and save from preemption only "traditional" state insurance laws.
+U.S. at & , 105 S.Ct. at 2390 & 2391 .
+And the opinion paid short shrift to several of the insurers' remaining arguments favoring preemption.
+The Court recognized and quoted statements made in the floor debate about the "narrow" exceptions to the preemption clause, but found that these references were "far too frail a support" for the insurers' interpretation of the saving clause.
+U.S. at , & n. 24, 105 S.Ct. at 2392, 2393 & n. 24.
+The opinion additionally noted: U.S. at , 105 S.Ct. at 2393 .
+And finally the Court said: whether it be the Supreme Judicial Court's attempt to save only state regulations unrelated to the substantive provisions of ERISA U.S. at , 105 S.Ct. at 2393 (emphasis added).
+In summary, the Court read the saving clause broadly and the preemption and deemer clauses narrowly.
+The Supreme Court's disposition of similar issues in Metropolitan Life makes it unnecessary to analyze in detail Pilot Life's first four arguments favoring preemption.
+Pilot Life, however, raises as its fifth argument one that the Supreme Court did not consider expressly.
+Pilot Life asserts that since Congress proscribed the conduct which Dedeaux alleges Pilot Life committed--wrongful failure to pay insurance benefits--and created causes of action for the commission of that conduct, 6 Congress did not intend state laws proscribing the same conduct to survive.
+We must disagree.
+The plain language of the statute supports the contrary result.
+Pilot Life does not argue seriously that state law causes of action for the nonpayment of insurance benefits are not laws "which regulate[ ] insurance."
+In interpreting the similar phrase, "regulation [of] the business of insurance," the Supreme Court in SEC v. National Securities, Inc. , 393 U.S. 453 , 89 S.Ct. 564 , 21 L.Ed.2d 668 (1969), concluded that laws affecting the "relationship between the insurer and the insured [are] the core of 'the business of insurance.'"
+Id. at 460 , 89 S.Ct. at 568 , cited with approval in Metropolitan Life , U.S. at , 105 S.Ct. at 2391 .
+The instant causes of action unquestionably affect the relationship between the insurer, the insured, and the beneficiaries and therefore are laws which regulate insurance.
+Under the plain language of the statute, therefore, Dedeaux's causes of action for Pilot Life's failure to pay insurance benefits rely upon laws "which regulate[ ] insurance and fall squarely within the saving clause."
+Pilot Life answers with the ipsi dixit argument that "Congress could not have intended to permit states to do the same thing as it did in ERISA."
+Nothing in the statute or its legislative history, however, supports Pilot Life's argument.
+Indeed, the Court in Metropolitan Life held that "[i]f a state law 'regulates insurance' it is not preempted."
+U.S. at , 105 S.Ct. at 2393 .
+The analysis of whether a particular law is saved from preemption ends once it is determined that a law falls within the saving clause and is not exempt by the narrow deemer clause.
+U.S. , 105 S.Ct. at 2393 .
+And given the repeated reaffirmance and application of the forty year old McCarran-Ferguson Act, which in essence states that insurance matters are areas of state concern absent a clear congressional statement to the contrary, clear and precise words by Congress would be required to disgorge states of their long-held ability to proscribe and create a cause of action for an insurer's failure to pay insurance benefits.
+We are left with the unavoidable conclusion that state laws proscribing the same conduct as ERISA may provide a cause of action in place of, in addition to, or coequal with any cause of action available under ERISA.
+See Eversole v. Metropolitan Life Insurance Co. , 500 F.Supp.
+1162, 1170 (C.D.Cal.1980).
+Dedeaux's common law causes of action for Pilot Life's failure to pay disability benefits, therefore, are not preempted.
+We are not unmindful of the practical consequences of this decision.
+As the Supreme Court stated in Metropolitan Life , however, those concerns must be directed to Congress.
+The district court's order granting Pilot Life's motion for summary judgment must be set aside.
+REVERSED AND REMANDED.

@@ -1,0 +1,116 @@
+ BOWNES , Senior Circuit Judge.
+This appeal asks us to decide whether a foreign arbitration clause in a maritime bill of lading governed by the Carriage of Goods by Sea Act, 46 U.S.C. 1300 et seq.
+(COGSA), is invalid under that statute, or whether such a clause is enforceable under the Federal Arbitration Act, 9 U.S.C. 1 et seq.
+(FAA).
+We conclude that the FAA controls, and that the arbitration clause is valid.
+Accordingly, the order of the district court staying this action pending arbitration in Tokyo is affirmed.
+I .
+BACKGROUND Plaintiff-appellant Bacchus Associates is a wholesale fruit distributor in the Northeast United States.
+Bacchus was the owner of a shipment of oranges travelling from Agadir, Morocco to New Bedford, Massachusetts, in February 1991 aboard the SKY REEFER, 1 a vessel owned by M.H.
+Maritima, S.A. Maritima had time-chartered the vessel to Honma Senpaku Co., Ltd., who in turn time-chartered it to Nichiro Corp. Bacchus entered into a voyage charter with Nichiro for the February 1991 voyage.
+The oranges were shipped under a bill of lading issued in Morocco by Nichiro.
+The bill of lading constitutes the contract of carriage between Bacchus and Maritima.
+En route to New Bedford, numerous boxes of oranges were crushed.
+Bacchus filed an action in the United States District Court for the District of Massachusetts, in rem against the SKY REEFER, and in personam against Maritima, seeking to recover approximately $1 million in damages.
+Maritima moved to stay the action and compel arbitration in Tokyo pursuant to a clause in the bill of lading: Governing Law and Arbitration The district court held that the arbitration clause contained in subsection (2) was enforceable, granted Maritima's motion for a stay pending arbitration, and certified the following question for interlocutory appeal pursuant to 28 U.S.C. 1292(b) : "[W]hether 46 U.S.C. 1303(8) [ 3(8) of COGSA] nullifies an arbitration clause contained in a bill of lading governed by COGSA."
+With this question in mind, we begin our journey through unsettled statutory waters.
+II .
+DISCUSSION COGSA was passed in 1936 as the American enactment of the Hague Rules, and was part of an international effort to achieve uniformity and simplicity in bills of lading used in foreign trade.
+Union Ins. Soc'y of Canton, Ltd. v. S.S. Elikon , 642 F.2d 721, 723 (4th Cir.1981).
+COGSA was also intended to reduce uncertainty concerning the responsibilities and liabilities of carriers, responsibilities and rights of shippers, and liabilities of insurers.
+State Establishment for Agric. Prod.
+Trading v. M/V Wesermunde , 838 F.2d 1576, 1580 (11th Cir.), cert. denied , 488 U.S. 916 , 109 S.Ct. 273 , 102 L.Ed.2d 262 (1988) ( "Wesermunde" ); S.S. Elikon , 642 F.2d at 723 ; see generally Grant Gilmore & Charles L. Black, The Law of Admiralty 3-25 at 145 (2d ed. 1975).
+COGSA applies to "[e]very bill of lading which is evidence of a contract for the carriage of goods by sea to or from parts of the United States, in foreign trade " 46 U.S.C. 1300 .
+The parties agree that the bill of lading at issue here is covered by COGSA ex proprio vigore , in other words, as a matter of law.
+The bill of lading also contains the following provision: Local Law Bacchus argues that the Tokyo arbitration clause is invalid under 3(8) of COGSA which prohibits the "lessening" of the carrier's obligation as imposed by COGSA's other sections.
+2 In Indussa Corp. v. S.S. Ranborg , 377 F.2d 200 (2d Cir.1967) (en banc), the Second Circuit held that all foreign forum selection clauses in bills of lading governed by COGSA are necessarily invalid under 3(8) because they tend to lessen the carrier's liability.
+Id. at 204 .
+The court reasoned as follows: Id. at 203 .
+3 Moreover, "[a] clause making a claim triable only in a foreign court would almost certainly lessen liability if the law which the court would apply was not [COGSA]."
+Id. Furthermore, might Id. at 203-04 (emphasis in original) (citations omitted) (footnote omitted).
+Since Indussa , 3(8) has been consistently used by federal courts to invalidate forum selection clauses in bills of lading governed by COGSA.
+See, e.g. , Conklin & Garrett, Ltd. v. M/V Finnrose , 826 F.2d 1441, 1442-44 (5th Cir.1987) (forum selection clause designating Finland invalid even where bill of lading provided for application of COGSA in Finland); Union Soc'y of Canton, Ltd. , 642 F.2d at 723-25 (choice of forum clause requiring litigation in Germany invalid under 3(8) ); cf.
+Fireman's Fund Amer.
+Ins. Cos.
+v. Puerto Rican Forwarding Co. , 492 F.2d 1294 (1st Cir.1974) (distinguishing Indussa and upholding New York City forum selection clause).
+Indussa has also been approved by commentators.
+See Gilmore & Black, supra 3-25 at 145-46 n. 23; Schoenbaum, supra 9-18 at 327; Charles L. Black, The Bremen, COGSA and the Problem of Conflicting Interpretation , 6 Vand.J.Trans.L.
+365, 368-69 (1973).
+But see Note, Kenneth M. Klemm, Forum Selection in Maritime Bills of Lading Under COGSA , 12 Fordham Int'l L.J. 459 (1989); Stephen M. Denning, Choice of Forum Clauses in Bills of Lading , 2 J.Mar.L.
+& Com.
+17 (Oct.1970).
+While we need not fully explore the issue, we note that the Supreme Court's recent decision in Carnival Cruise Lines, Inc. v. Shute , 499 U.S. 585 , 111 S.Ct. 1522 , 113 L.Ed.2d 622 (1991), in which the Court held that the Limitation of Vessel Owners' Liability Act did not invalidate forum selection agreements, casts some doubt upon Indussa's continuing viability.
+See Fabrica De Tejidos La Bellota S.A. v. M/V MAR , 799 F.Supp.
+546, 560-61 (D.Virgin Islands 1992); see also Patrick J. Borchers, Forum Selection Agreements in the Federal Courts After Carnival Cruise: A Proposal for Congressional Reform , 67 Wash.L.Rev.
+55, 77 (1992) ( Carnival Cruise , implicitly overruled Indussa and its progeny).
+But see Underwriters at Lloyd's of London v. M/V Steir , 773 F.Supp.
+523, 526-27 (D.P.R.1991) (invalidating forum selection clause under 3(8) of COGSA, holding that Indussa survives Carnival Cruise ).
+Moreover, in Fireman's Fund we questioned whether Indussa even survived the Supreme Court's decision in The Bremen v. Zapata Off-Shore Co. , 407 U.S. 1 , 92 S.Ct. 1907 , 32 L.Ed.2d 513 (1972).
+In The Bremen , the Supreme Court enforced a foreign forum selection clause in a maritime contract not covered by COGSA.
+In doing so, the Court focused on whether the clause was "unreasonable" under the circumstances.
+The Bremen , 407 U.S. at 10 , 92 S.Ct. at 1913 .
+We remarked as follows: Indussa see The Bremen v. Zapata Off-Shore Co. 407 U.S. 1, 10 92 S.Ct. 1907 [1913 32 L.Ed.2d 513 Indussa See, e.g. 407 U.S. at 9 92 S.Ct. at 1912 Fireman's Fund , 492 F.2d at 1296 n. 2.
+Because The Bremen is not a COGSA case, however, it is easily distinguishable from Indussa and its progeny.
+See S.S. Elikon , 642 F.2d at 724-25 (holding that The Bremen did not involve COGSA and therefore did not disturb Indussa ).
+Notwithstanding the arguably tremulous ground on which Indussa and its progeny currently sit, we will assume, arguendo , that, for the reasons set forth in Indussa , foreign forum selection clauses are invalid under 3(8) of COGSA.
+The other statute implicated in this case is the FAA.
+Section 2 of that act provides: 9 U.S.C. 2 .
+"[B]ills of lading of water carriers" are explicitly included as "maritime transactions" under the statute.
+9 U.S.C. 1 .
+Furthermore, the FAA requires a federal district court, on the application of one of the parties, to stay litigation and grant an order compelling arbitration of any issue referable to arbitration under the agreement.
+Id .
+3, 4.
+Where there is an agreement to arbitrate, the FAA reflects a strong, well-established, and widely recognized federal policy in favor of arbitration.
+Shearson/American Express, Inc. v. McMahon , 482 U.S. 220, 226 , 107 S.Ct. 2332, 2337 , 96 L.Ed.2d 185 (1987); Mitsubishi Motors Corp. v. Soler Chrysler-Plymouth, Inc. , 473 U.S. 614, 625 , 105 S.Ct. 3346, 3353 , 87 L.Ed.2d 444 (1985); Securities Indus.
+Ass'n v. Connolly , 883 F.2d 1114, 1118-19 (1st Cir.1989), cert. denied , 495 U.S. 956 , 110 S.Ct. 2559 , 109 L.Ed.2d 742 (1990).
+Arbitration agreements are unenforceable under 2 of the FAA only where the agreement would be revocable under state contract law.
+Southland Corp. v. Keating , 465 U.S. 1, 11 , 104 S.Ct. 852, 858 , 79 L.Ed.2d 1 (1984) (party may assert general contract defenses, such as fraud and duress, to avoid enforcement of arbitration agreement); McAllister Bros., Inc. v. A & S Transp. Co. , 621 F.2d 519, 524 (2d Cir.1980) (same).
+4 Although this court has never decided whether a foreign arbitration clause in a bill of lading governed by COGSA is invalid under 3(8) of that statute, courts that have reached the question are divided.
+A handful of courts, including the Eleventh Circuit, have employed the reasoning articulated in Indussa to invalidate foreign arbitration clauses.
+See, e.g. , Wesermunde , 838 F.2d at 1580-82 ; M/J Khalij Frost , 1989 A.M.C.
+at 1462-66; Siderius v. M.V.
+Ida Prima , 613 F.Supp.
+916, 920-21 (S.D.N.Y.1985); Star Shipping A/S , 464 F.Supp.
+at 1314-15 ; see also Gilmore & Black, supra , 3-25 at 146 n. 23; Schoenbaum, supra 9-19 at 329.
+In Wesermunde , the Eleventh Circuit declined to enforce a foreign arbitration agreement contained in a bill of lading governed by COGSA.
+Relying on Indussa , the court explained as follows: per se 9 U.S.C. 1-14 foreign Wesermunde , 838 F.2d at 1581 (footnote omitted).
+Some courts have gone one step further, holding that foreign arbitration clauses in bills of lading are per se invalid under COGSA because "[t]he considerations [stated in Indussa ] are substantially similar where the bill of lading requires the consignee to arbitrate in a foreign country."
+Siderius , 613 F.Supp.
+at 920 ; accord Khalij Frost , 1989 A.M.C.
+at 1462 ( Indussa rationale "appl[ies] with equal force in the case of a foreign arbitration clause in a bill of lading").
+On the other side of the coin, numerous federal courts have upheld foreign arbitration clauses in bills of lading subject to COGSA.
+See, e.g. , Nissho Iwai Amer.
+Corp. v. M/V Sea Bridge , 1991 A.M.C.
+2070, 1991 WL 182117 (D.Md.1991); Citrus Mktg. Bd. v. M/V Ecuadorian Reefer , 754 F.Supp.
+229 (D.Mass.1990); Travelers Indem., Co. v. M/V Mediterranean Star , 1988 A.M.C.
+2483, 1988 WL 78363 (S.D.N.Y.1988); Mid South Feeds, Inc. v. M/V Aqua Marine , 1988 A.M.C.
+437 (S.D.Ga.1986); Midland Tar Distillers, Inc. v. M/T Lotos , 362 F.Supp.
+1311, 1315 (S.D.N.Y.1973); Mitsubishi Shoji Kaisha Ltd. v. MS Galini , 323 F.Supp.
+79, 83-84 (S.D.Tex.1971); Kurt Orban Co. v. S/S Clymenia , 318 F.Supp.
+1387, 1390 (S.D.N.Y.1970).
+We join those courts upholding the validity of foreign arbitration clauses in bills of lading subject to COGSA.
+In reaching this result, we are guided by our belief that the FAA alone governs the validity of arbitration clauses, both foreign and domestic, and consequently removes them from the grasp of COGSA.
+5 We begin with two canons of statutory interpretation.
+First, a later enacted statute generally limits the scope of an earlier statute if the two laws conflict.
+Davis v. United States , 716 F.2d 418, 428 (7th Cir.1983); Tennessee Gas Pipeline Co. v. Federal Energy Regulatory Comm'n , 626 F.2d 1020, 1022 (D.C.Cir.1980); Indussa , 377 F.2d at 204 n. 4; 6 see generally 2B Norman J. Singer, Sutherland Statutory Construction 51.03 at 141 (5th ed. 1992).
+Second, where two statutes conflict, regardless of the priority of enactment, the specific statute ordinarily controls the general.
+See Watson v. Fraternal Order of Eagles , 915 F.2d 235, 240 (6th Cir.1990); see generally 2B Sutherland Statutory Construction , 51.05 at 174.
+With respect to the former canon, the FAA must be given priority over COGSA in light of the FAA's reenactment in 1947, eleven years after COGSA was passed.
+Similarly, the latter canon suggests that the FAA be given effect.
+Section 3(8) of COGSA, which voids any clause in a bill of lading that "lessens" the carrier's liability, makes no reference to arbitration, or for that matter, forum selection clauses.
+7 Conversely, the FAA specifically validates arbitration clauses contained in maritime bills of lading.
+See 9 U.S.C. 1 , 2.
+Next, and perhaps of paramount importance, we believe that the strong federal policy favoring arbitration supports the primacy of the FAA over COGSA where arbitration agreements are concerned.
+See Ecuadorian Reefer , 754 F.Supp.
+at 233-34 .
+The existence of this policy distinguishes the present case from foreign choice-of-forum cases because in those cases "there was no compelling congressional mandate in favor of giving effect to agreements to litigate before foreign tribunals."
+MS Galini , 323 F.Supp.
+at 83 .
+Furthermore, American courts' mistrust of foreign courts, a driving force in the Indussa court's decision to invalidate foreign choice-of-forum clauses, is an inappropriate consideration in the context of arbitration.
+See Mitsubishi Motors , 473 U.S. at 626-27 , 105 S.Ct. at 3354 (We are "well past the time when judicial suspicion of arbitration and of the competence of arbitral tribunals inhibited the development of arbitration as an alternative means of dispute resolution.
+"); Connolly , 883 F.2d at 1119 ("[C]ourts must be on guard for artifices in which the ancient suspicion of arbitration might reappear.").
+Finally, unlike a foreign forum selection clause, an agreement to arbitrate does not deprive a federal court of its jurisdiction over the underlying dispute.
+S/S Clymenia , 318 F.Supp.
+at 1390 ; MS Galini , 323 F.Supp.
+at 83 .
+For the foregoing reasons, the order of the district court is Affirmed .

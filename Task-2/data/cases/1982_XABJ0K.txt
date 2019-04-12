@@ -1,0 +1,226 @@
+ FRIENDLY , Circuit Judge: The question on this appeal is whether a debtor in possession under Chapter 11 of the Bankruptcy Code of 1978 is entitled to an order, under 542 or 543 of the Code, requiring the Internal Revenue Service (IRS) to turn over tangible assets of the debtor on which the IRS had levied pursuant to 6331 et seq.
+of the Internal Revenue Code (IRC).
+This question has created much conflict among bankruptcy judges and district courts throughout the nation.
+1 The only other court of appeals that has considered the issue has answered it in the negative, Cross Electric, Inc. v. United States , 664 F.2d 1218 (4 Cir. 1981).
+The issue is of importance to the successful reorganization of debtors, on the one hand, and to the interest of the United States in the quick collection of tax revenues, on the other.
+We find the issue more difficult than did the Court of Appeals for the Fourth Circuit and, conceding the question to be a close one, reach an opposite result.
+Whiting Pools, Inc. (Whiting), the debtor, was in the business of selling, installing and servicing swimming pool equipment and supplies.
+On January 14, 1981, the IRS, acting pursuant to IRC 6331 , seized all of Whiting's tangible property, including equipment, vehicles, inventory, office equipment and supplies, at its place of business in the Western District of New York.
+The estimated worth of the seized property in the hands of Whiting as a going concern was $162,876.
+The lien of the IRS was for some $92,000, plus interest, in unpaid withholding and Federal Insurance Contributions Act taxes.
+Testimony taken before the bankruptcy judge indicated that sale of the property by the IRS would net a maximum of $30,000 to $35,000, with a more probable recovery in the neighborhood of $20,000.
+On the day following the IRS levy Whiting filed a petition under Chapter 11 of the Bankruptcy Code and was continued as a debtor in possession, 1101(1) .
+A month later the United States initiated an adversary proceeding under 362(d) of the Code in which it sought a determination that the automatic stay provisions of 362 were inapplicable to it or, in the alternative, for relief from the stay to permit it to sell the property.
+It alleged that storing the property was costing $2,500 per month.
+Whiting's answer contained a counterclaim asking that the IRS be required to turn over the property pursuant to 542 of the Bankruptcy Code.
+Bankruptcy Judge Hayes, after holding hearings, delivered an opinion, 10 B.R. 755 (Bkrtcy.W.D.N.Y.1981), in which he concluded that the automatic stay provided in 362 was applicable to the IRS--a conclusion which is not disputed here.
+Examining 362(d) , which directs the bankruptcy court to grant relief from such a stay under certain circumstances, 2 the judge found that such relief could not be granted under 362(d)(2) since the debtor had an equity in the property and the property was "absolutely necessary to an effective reorganization of the debtor."
+Id. at 757 .
+Turning back to 362(d)(1) , the judge concluded that while the best interests of the United States would be served by a reorganization, for which he thought there was a reasonable chance, and the Government could be adequately protected while the reorganization proceeding was pending, it made "little sense to continue the stay unless a turnover of property", id .
+, could lawfully be directed.
+He thus reached what both parties concede to be the crucial issue, namely, whether it could be.
+We set forth in the margin the sections of the Bankruptcy Code which must be construed in deciding that question.
+3 Although Whiting had sought a turnover under 542 , the bankruptcy judge was precluded from granting relief under that section by the decision of District Judge Elfvin in the Western District of New York in In re Avery Health Center, Inc. , 8 B.R. 1016 (D.C.W.D.N.Y.1981), with which he seemingly disagreed.
+Believing that the turnover powers formerly provided in proceedings under Chapter X of the Bankruptcy Act by the last sentence of 257 , 4 see Reconstruction Finance Corp. v. Kaplan , 185 F.2d 791, 795 (1 Cir. 1950), must have gone somewhere, he found them in 543(b) , reading the definition of "custodian" in 101(10) , more particularly the reference to an "agent", as including the IRS, 10 B.R. at 759 .
+After noting the anomaly that 543 seems to permit a turnover without providing for the protection that would be required by reading 363(e) and 542 together, he directed the turnover on the conditions set forth in the margin.
+5 The district court, 15 B.R. 270 , reversed.
+It adhered to its previous decision in In re Avery Health Center, Inc. , supra , concerning 542 , and rejected the bankruptcy judge's theory that the IRS was an "agent" under 101(10)(C) and thus a "custodian" under 543 .
+It considered that "the concept of agency entails a fiduciary relationship arising out of an express or implied contract between the principal and the agent," and that the IRS, when making a levy under IRC F 6331, did not fill such a role.
+The court remanded the case to the bankruptcy court to determine whether the stay of the IRS's proposed sale should be lifted.
+Whiting appealed to this court, and the bankruptcy court declined to take action upon the remand pending our decision.
+I. Section 543 The definition of "custodian" in 101(10) finds an antecedent in 2(a)(21) of the former Bankruptcy Act, which required, under certain circumstances, delivery of property by "receivers or trustees appointed in proceedings not under this Act, assignees for the benefit of creditors, and agents authorized to take possession of or to liquidate a person's property."
+The definition of custodian in 101(10) appears in H.R.
+8200, 95th Cong., 1st Sess., as reported by the House Committee on the Judiciary on September 8, 1977, H.R.Rep.
+No. 95-595, U.S.
+Code Cong. & Admin.News 1978, p. 5787, with a comment which we reproduce in the margin.
+6 The same definition and comment can be found in S. 2266, 95th Cong.2d Sess.
+and in S.Rep.No.
+95-989, p. 23, U.S.Code Cong. & Admin.News 1978, pp.
+5787, 5809.
+These shed little light on the meaning of the phrase "or agent under applicable law, or under a contract" etc. Since 101(10)(A) and (B) include two of the categories described in 2(a)(21) of the previous Act, 101(10)(C) must have been intended to include and possibly broaden what had been covered by 2(a)(21) 's phrase, "agents authorized to take possession of or to liquidate a person's property".
+Seemingly it embraces the case of an agent appointed or authorized by a debtor to take charge of property for the purpose of enforcing a lien of a particular creditor, but see, contra , In re Lewis , 12 B.R. 106, 108-09 (Bkrtcy.M.D.Ga.1981), which may not have been true under 2(a)(21) of the previous Act.
+Compare 1 Collier on Bankruptcy ¶ 2.78, at 390.23 n.35 (14th ed.) with In re Rosenberg , 128 F.2d 924 (7 Cir. 1942).
+Here there is no doubt that the IRS is "authorized to take charge of property of the debtor for the purpose of enforcing a lien against property" of the debtor.
+However, the definition of "custodian" does not include anyone who is so authorized but only a person who acts as a trustee, receiver, or agent.
+Admittedly the IRS is not a trustee or receiver.
+No one would characterize it as the taxpayer's agent as a matter of ordinary English speech.
+The Restatement of Agency 2d, 1 (1958) defines agency as "the fiduciary relation which results from the manifestation of consent by one person to another that the other shall act on his behalf and subject to his control, and consent by the other so to act."
+See also Restatement of Agency 2d, 1 , Comment, at pp.
+8-9 (1958).
+Seizure of property by the IRS under IRC 6331 is not pursuant to a consensual relationship but is imposed by law irrespective of and generally contrary to the taxpayer's desires.
+It is true that a person may be an agent under 101(10)(C) when the relationship is created by law rather than by contract, but it would be a strained reading to interpret this as including the IRS, the archetypical "adverse claimant", see Phelps v. United States , 421 U.S. 330, 334 , 95 S.Ct. 1728, 1731 , 44 L.Ed.2d 201 (1975).
+7 It is thus immaterial that the IRS has certain responsibilities, such as giving notice of seizure and sale and accounting for any surplus.
+Beyond this, in determining the meaning of "custodian" as used, in 543 , it is necessary to consider the other provisions of the Code.
+One of these is 543(c) , which requires the bankruptcy court to provide a custodian with "reasonable compensation for services rendered and costs and expenses incurred."
+We can think of no reason why Congress would have chosen to provide the IRS with reasonable compensation, as distinguished from reimbursement of expenses, see IRC 6342(a)(1) , for its efforts to dismember the debtor's estate in its own interest.
+Moreover, as Bankruptcy Judge Hayes noted below, 10 B.R. at 760 , 542 's explicit reference to 363 , and thereby to the adequate protection requirements of 361 , suggests that 542 is a "more appropriate section", 10 B.R. at 760 , than 543 for resolving turnover disputes involving secured creditors.
+We therefore conclude that the district judge correctly decided that 543 afforded no basis for a turnover order, and must consider whether he was also correct in his earlier ruling in In re Avery Health Center, Inc. , supra , 8 B.R. 1016 , to which he adhered in this case, that no basis was furnished by 542 .
+II.
+Section 542--Turnover Generally Determination whether 542 is here applicable requires consideration of several sections of the Code.
+Section 542 requires the turnover "of property that the trustee may use, sell or lease under section 363 " Section 363(c)(1) directs that in a Chapter 11 proceeding the trustee, without notice or a hearing, may use, sell or lease "property of the estate" in the ordinary course of business, but 363(e) requires that "on request of an entity that has an interest in property used, sold, or leased, or proposed to be used, sold, or leased, by the trustee, the court shall prohibit or condition such use, sale, or lease as is necessary to provide adequate protection of such interest."
+Section 541(a)(1) provides that, with exceptions not here relevant, an estate is comprised of "all legal or equitable interests of the debtor in property as of the commencement of the case." The Government argues that the plain meaning of these sections mandates an answer in its favor.
+Relying on several decisions in the district and bankruptcy courts, see footnote 1, supra , the Government finds in 541 's definition of "property of the estate" a distinction between a debtor's interests in property and property in which the debtor has an interest .
+The Government, Brief at 17, then advances the following general interpretation of the Code's turnover provision: "the 'property of the estate' which must be delivered to the trustee by virtue of Section 542(a) consists only of any interests in property belonging to the debtor as of the time of its filing of a petition" in bankruptcy.
+The Government concludes that, at the commencement of the case, the debtor's only interests in the property seized by the IRS were those explicitly set forth in 6331 et seq.
+of the IRC, 8 that therefore only these interests became part of the "property of the estate", and that turnover of these interests would be inappropriate since the debtor cannot "use, sell, or lease" them.
+Brief at 7, 18-19.
+All other interests in the seized property, in particular the right to possession, are argued to be held by the IRS.
+The Government draws on several general statements in the Code's legislative history to support its contention.
+9 Although there is some force in the Government's construction of 542, 541 and 363, we ultimately must reject it.
+Justice Cardozo, interpreting one of the predecessors of the Code in Duparquet Huot & Moneuse Co. v. Evans , 297 U.S. 216, 218 , 56 S.Ct. 412, 413 , 80 L.Ed. 591 (1936), said, "To fix the meaning of these provisions there is need to keep in view the background of their history.
+There is need to keep in view also the structure of the statute, and the relation, physical and logical, between its several parts."
+The mechanical interpretation of 541(a)(1) urged by the Government would require us to violate that admonition.
+10 The Government's general interpretation of the interplay of 542 and 541(a)(1) 's definition of "property of the estate" would have a far-reaching effect on reorganizations by denying to debtors or trustees in reorganization not only the power to obtain the turnover of property of the debtor levied upon by the IRS, but also that repossessed prior to bankruptcy by secured creditors or held by pledgees after a default.
+In all these instances the secured creditor would have rightful possession of the property.
+Typical statutes recognize the debtor as having only limited "rights" in the property--notice of sale, redemption prior to sale, and receipt of surplus proceeds, see pp.
+157-158 infra and note 8 supra .
+Thus, under the Government's reading of the statute, only these limited interests in property would constitute "property of the estate".
+The trustee therefore could obtain turnover only of these interests, which he has without benefit of a turnover order, not the property itself.
+The results dictated by the Government's interpretation of 542 would be a significant departure from the treatment of reorganization proceedings under the former Bankruptcy Act.
+In Chapter X reorganization cases under that Act a bankruptcy court had broad power to order secured creditors in possession following the debtor's default to turn over their collateral.
+In the leading case of Reconstruction Finance Corporation v. Kaplan , 185 F.2d 791 (1 Cir. 1950), a pledgee seized the debtor's plant, equipment and inventory following default on a loan, thereby precipitating the filing of a Chapter X reorganization petition later in the day.
+Following approval of the debtor's reorganization plan, the bankruptcy court ordered the pledgee to turn over the repossessed property to the debtor's trustee.
+The First Circuit, speaking through Chief Judge Magruder, upheld the order, on the ground that such authority was necessary if Chapter X reorganizations were to have a realistic possibility for success: 77B 185 F.2d at 794 .
+The court also wrote that: But there is no need to rest on the second sentence of 257, which is not the broad basic section conferring upon the court jurisdiction over all the debtor's property wherever located; Tuttle v. Harris 297 U.S. 225 56 S.Ct. 416 80 L.Ed. 654 77B Id. at 795 .
+11 The First Circuit's conclusion in RFC v. Kaplan , supra , was also reached in a number of other cases, some preceding and others following it.
+See Grand Boulevard Investment Co. v. Strauss , 78 F.2d 180 (8 Cir. 1935) (under 77B ); In re Prudence-Bonds Corp. , 77 F.2d 328 (2 Cir.) (under 77B ), cert. denied , 296 U.S. 584 , 56 S.Ct. 95 , 80 L.Ed. 413 (1935); John Hancock Mutual Life Insurance Co. v. Casey , 134 F.2d 162 (1 Cir.) (per curiam), cert. denied , 319 U.S. 757 , 63 S.Ct. 1176 , 87 L.Ed. 1709 (1943); In re Franklin Garden Apartments, Inc. , 124 F.2d 451 (2 Cir. 1941); In re Third Avenue Transit Co. , 198 F.2d 703, 706 (2 Cir. 1952) (affirming bankruptcy court's authority to order turnover, but refusing to exercise discretion to do so).
+See also 6A Collier ¶ 14.03, at 741 (14th ed. 1977).
+The validity of Chief Judge Magruder's observation that this power of the bankruptcy court to order the turnover of property in the lawful possession of secured creditors did not depend solely on 257 is demonstrated by the fact that two of these decisions were rendered under 77B , the predecessor of Chapter X which included 257 .
+A principal basis of these decisions was that the reorganization statutes, 77B(a) , 111 (Chapter X) and 411 (Chapter XII), unlike the provisions applying in ordinary bankruptcy, but like 77(a) , see Continental Illinois National Bank & Trust Co. v. Chicago, R. I. & P. Ry. Co. , 294 U.S. 648 , 55 S.Ct. 595 , 79 L.Ed. 1110 (1935), gave the bankruptcy court jurisdiction of all the property of the debtor, whether or not it was in the debtor's possession. 12 The Government's reading of 541 would have the effect of reversing this settled law in reorganization proceedings under Chapter 11 of the Code.
+We see no evidence that any such drastic change was intended.
+As Justice Douglas put it, in interpreting the old Bankruptcy Act in Emil v. Hanley , 318 U.S. 515, 521 , 63 S.Ct. 687, 690 , 87 L.Ed. 954 (1943), "We cannot help but think that if Congress had set out to make such a major change, some clear and unambiguous indication of that purpose would appear."
+We find no such indication in the new Code or its legislative history.
+And, like Justice Douglas, we do not believe that nearly fifty years of the law of reorganization under the Bankruptcy Act would have been changed without some clear statement to that effect.
+This is particularly true because the Government's reading of the Bankruptcy Code would seriously affect the chances of success in many reorganizations: "It is generally vital to the success of a reorganization that all the debtor's property be included, that the continuation of the debtor's business be not unduly hampered by dissipation of the property to particular creditors " 6 Collier on Bankruptcy ¶ 3.05, at 431 (14th ed. 1977).
+In light of legislative history indicating that reorganizations were to be encouraged under the new Code, we doubt that Congress intended such a result.
+13 Indeed an examination of the legislative history antedating 1977 compels a broad view of 542 's turnover power.
+Section 542 was a relatively late addition to the Code.
+It did not appear in the early drafts of the proposed legislation, 14 and was first included in H.R.
+6, which was introduced on Jan. 4, 1977.
+H.R.
+6 was the product of the House Judiciary Committee, which prepared the bill after the Subcommittee on Civil and Constitutional Rights had conducted extensive hearings on earlier drafts.
+15 H.R.
+6 was prepared with the intent of resolving problems that had been identified during these hearings.
+124 Cong.Rec.
+H 11690, 11701; Klee, Legislative History of the New Bankruptcy Code , 54 Am.Bankr.L.J.
+275, 280 (1980).
+Since 542 first appeared in H.R.
+6, it is important to consider what was said at those hearings regarding the turnover of collateral from secured creditors in possession.
+The House and Senate subcommittee hearings contain a number of statements regarding the bankruptcy court's turnover power.
+The following pattern emerges from the testimony: Witnesses said it was clear that the bankruptcy courts were intended to have (and should have) the authority to order the turnover of collateral from secured creditors in possession.
+Concern was expressed, however, that the language of early drafts of the proposed legislation failed to set forth the basis for such a turnover power in sufficiently explicit detail; consequently, redrafting of the legislation on this point was urged.
+Witnesses also suggested that turnover be preceded by the provision of adequate protection for secured creditor's interests.
+We are not aware that any witness opposed a broad turnover power if this was accompanied by proper provisions for protection.
+The following excerpts from the congressional hearings illustrate the above summary.
+One witness told the House subcommittee: and under adequate safeguards to compel the surrender of collateral for use in the rehabilitation process.
+While recognizing the wish of this Committee that witnesses not comment on the specific language of the proposed legislation at this time I note that the power of the court to compel the surrender of collateral has been left largely to inference in both of the Bills presently before Congress.
+Leaving this issue to case by case development is, in my opinion, undesirable in light of the present judicial uncertainty on the point and I believe that the legislation should expressly deal with the question of when and under what standards displacement of the secured creditor or its agent should be permitted Subcommittee on Civil and Constitutional Rights of the House Committee on the Judiciary, Bankruptcy Act Revision, 94th Cong., 1st Sess., Hearings on H.R.
+31 and 32, Part I, at 439 (1976) [hereinafter House Hearings] (prepared statement of Patrick A. Murphy, Esq.) (emphasis added).
+See also id. at 489-93 .
+Another witness, testifying on behalf of the American Bankers Association, said: RFC v. Kaplan Id. at 1023 (prepared statement of Walter W. Vaughn).
+The National Bankruptcy Conference expressed the same view of the matter: Section 257 Section 5-203 Section 7-203 Id. at 1838-39 .
+16 See also id. at 1756-57 (prepared statement of Robert J. Grimmig, Vice-President, Chemical Bank); Subcommittee on Improvements in Judicial Machinery of the Senate Committee on the Judiciary, The Bankruptcy Reform Act, Hearings on S. 235 and S. 236, Part I, at 125 (statement of Walter Vaughn) and 464 (statement of Robert Grimmig) (1976).
+Commentary on the proposed bankruptcy legislation reflected the same understanding.
+One article, Murphy, Use of Collateral in Business Rehabilitation: A Suggested Redrafting of Section 7-203 of the Bankruptcy Reform Act , 63 Calif.L.Rev.
+1483 (1975), said: Section 7-203 Section 2-201 section 4-501 stay recovery Id. at 1497 (footnotes omitted).
+The article continued: section 2-201 section 4-601 Id. at 1497-98 .
+See also Coogan, Comments on Some Reorganization Provisions of the Pending Bankruptcy Bills , 30 Bus.Law.
+1149, 1169-78 (1975); Murphy, Restraint and Reimbursement: The Secured Creditor in Reorganization and Arrangement Proceedings , 30 Bus.Law 15 (1974).
+Shortly after the uncontradicted statements regarding the bankruptcy court's turnover power, cited above, were made to the House and Senate subcommittees, 542 , the Code's general turnover provision, was added to the proposed legislation.
+Following this addition, the provision was incorporated in all later drafts of the bill, and the turnover question, which had attracted substantial attention in the 1975 and 1976 hearings, was not mentioned in subsequent legislative history.
+This sequence of events compels the inference that 542 was added to the Code to make clear--as a number of witnesses had explicitly urged--that the turnover power approved in RFC v. Kaplan was to be incorporated in the new statute.
+This inference becomes all the more compelling when one considers that if 542 did not authorize compelling turnovers by secured creditors in possession, apparently its only use would be to authorize obtaining property from persons in wrongful possession following theft or conversion.
+Given the circumstances surrounding the inclusion of the section in the Code, the more natural reading of 542 is that it was intended to codify RFC v. Kaplan , and possibly, although we need not decide the question, also extend the turnover power to straight bankruptcy cases.
+For the foregoing reasons, we reject the Government's reading of 542 , 541 and 363 in the present context of a Chapter 11 proceeding, and hold that in such a case the bankruptcy court generally has power under 542 to order the turnover of property repossessed or executed upon by a secured creditor or held by a pledgee following the debtor's default and prior to his bankruptcy, if the property has not yet been sold.
+We thus pass on to the Government's further argument that, even if the bankruptcy court can compel a turnover by a repossessing or executing lender under 542 in a Chapter 11 proceeding, this cannot be done in the case of property upon which the IRS has levied.
+III.
+Federal Tax Levies On the basis of a mere reading of the IRC provisions, the argument is unpersuasive.
+Comparison of relevant statutes indicates that an IRS levy on tangible property pursuant to 6331 et seq.
+is virtually indistinguishable from the ordinary repossession and foreclosure procedures followed by secured creditors, except for the fact that the IRS can make its own levy without need of the assistance of a sheriff, marshal or similar officer.
+Compare 6331 et seq.
+of the IRC with 9-207, 9-501 to 507 of the UCC and with N.Y.Lien Law 200-05 (public sales), N.Y.Lien Law 206-210 (levy) and with 1301 et seq.
+of the New York Real Property Actions and Proceedings Law.
+In these instances as under IRC 6331 et seq.
+, the statutes give the debtor the right, and only the right, to notice, an opportunity for redemption, and surplus proceeds.
+The Government's argument for a sharp distinction between an IRS levy and a secured creditor's repossession is based primarily on Phelps v. United States , 421 U.S. 330 , 95 S.Ct. 1728 , 44 L.Ed.2d 201 (1975).
+In Phelps , a taxpayer had transferred its assets to an assignee for the benefit of creditors, who had converted them into some $38,000 in cash.
+The Government filed a notice of tax lien in the amount of $140,831.59 and levied upon the $38,000 in the assignee's hands.
+An involuntary petition in bankruptcy was then filed against the taxpayer, and a receiver in bankruptcy petitioned the bankruptcy court to require the assignee to turn over the proceeds.
+The Seventh Circuit ruled against the receiver, 495 F.2d 1283 (1974), on the ground that the assignee was holding for the benefit of the United States as an adverse claimant, thereby implicating the rule that in ordinary bankruptcy such a holder is not subject to summary jurisdiction.
+It disagreed with the Ninth Circuit's decision in In re General Wood Products Corp. , 483 F.2d 975 (1973), that an assignee's disclaimer of interest brought similarly seized property within the summary jurisdiction of the bankruptcy court under language in Taubel-Scott-Kitzmiller Co. v. Fox , 264 U.S. 426, 432-33 , 44 S.Ct. 396, 398-99 , 68 L.Ed. 670 (1924), and that the possession of the bankrupt necessary to support exercise of summary jurisdiction in ordinary bankruptcy existed "where the property is held by some other person who makes no claim to it."
+The Supreme Court granted certiorari to resolve the conflict.
+The Supreme Court agreed with the Seventh Circuit.
+It reasoned that, following the levy, the assignee held the $38,000 on behalf of the United States as an adverse claimant.
+The Court then applied the settled rule that "where possession is assertedly held not for the bankrupt, but for others prior to bankruptcy the holder is not subject to summary jurisdiction."
+Phelps , supra , 421 U.S. at 335-36 , 95 S.Ct. at 1731-32 (quoting 2 Collier on Bankruptcy ¶ 23.06 , at 506.2-506.3 (14th ed. 1975)).
+The receiver's case was not aided by 2(a)(21) of the Bankruptcy Act which authorized bankruptcy courts to require turnovers by assignees for the benefit of creditors since, as a result of the levy, the assignee was holding not for creditors generally but as a custodian for the United States.
+It is plain that the holding in Phelps does not assist the Government here.
+Phelps was one in the line of cases applying the distinction between summary and plenary jurisdiction that had evolved under the 1898 Act with respect to ordinary bankruptcy, see Taubel-Scott-Kitzmiller Co. v. Fox , supra , 264 U.S. 426 , 44 S.Ct. 396 , 68 L.Ed. 670 , where decision hinged on whether or not the trustee had actual or constructive possession of the debtor's property.
+Under the Code this distinction no longer exists, as the legislative history makes clear, see, e.g., Senate Report No. 95-989 (1978) at 153, reprinted in , U.S.Code Cong. & Ad.News 5939; House Report No. 95-595 (1978) at 445, reprinted in , U.S.Code Cong. & Ad.News 6400.
+Instead, Congress adopted a broad jurisdictional provision which states, in language modeled on 111 of Chapter X of the former Act, "The bankruptcy court shall have exclusive jurisdiction of all of the property, wherever located, of the debtor, as of the commencement of [the] case." 28 U.S.C. 1471(e) .
+Hence it is far from clear that under the Code a bankruptcy court would not have power to order a turnover on the same facts as in Phelps .
+17 Moreover Phelps did not decide that a bankruptcy court would not have had power in a Chapter X proceeding under the former Act to direct a turnover on facts such as there presented.
+As we have previously developed, the constraints against a bankruptcy court's exercising summary jurisdiction with respect to property of the bankrupt not in the debtor's actual or constructive possession had never applied under the reorganization provisions, 77 and 77B, and Chapters X and XII.
+Rather, "the reorganization court [could] bring its authority to bear upon creditors in situations not possible in ordinary bankruptcy."
+6 Collier on Bankruptcy ¶ 3.03, at 412 (14th ed. 1977).
+In such cases 6 Collier on Bankruptcy ¶ 3.05, at 431 (14th ed. 1977).
+See Reconstruction Finance Corporation v. Kaplan , supra , and cases cited at pp.
+151-152, supra .
+As shown above the framers of the Code intended to preserve this jurisdiction.
+The Government is thus forced to argue that after an IRS levy, as distinguished from levies by other secured creditors, a debtor loses not only possession but ownership.
+This position finds scant support in the language of IRC 6331 et seq.
+Looking only at the statute, we would see no basis for doubt that at the commencement of the Chapter 11 proceeding Whiting had title to the goods the IRS had seized.
+Under the statute ownership is extinguished not by the levy and seizure but only by a subsequent sale.
+Thus, 6335(a) requires that written notice of seizure be given "to the owner of the property (or, in the case of personal property, the possessor thereof)" or be left at his usual place of abode or business.
+Section 6335(b) requires that, as soon as practicable after the seizure, notice of sale be given to "the owner".
+Section 6336 , relating to perishable goods, again requires notice to the "owner of the property".
+The IRS's certificate of sale of personal property shall "transfer to the purchaser all right, title, and interest of the party delinquent in and to the property sold", 6339(a)(2) , and its deed of real property "shall be considered and operate as a conveyance of the right, title and interest the party delinquent had in and to the real property thus sold at the time the lien of the United States attached thereto."
+6339(b)(2) .
+By the very language of the statute, it is the delinquent party's interest, not an interest already acquired by the Government as a result of the levy, that is conveyed.
+Nothing in these sections prohibits the delinquent party, after the levy and pending the sale, from exercising the most fundamental right of ownership, namely, to transfer title, subject, of course, to the continuing right of the United States to proceed with the sale unless the property has been redeemed under 6337(a) .
+Such a transfer could well occur when the taxpayer's equity was substantial.
+It thus is not surprising that in Bennett v. Hunter , 76 U.S. (9 Wall.)
+326, 336-37 , 19 L.Ed. 672 (1870), addressing itself to a statutory scheme essentially the same as IRC 6331 et seq.
+, the Court had said: The title was "forfeited" by the levy only in the sense that "it became subject to be vested in the United States, and upon public sale, became actually vested in the United States or in any other purchaser, but not before such public sale."
+In the face of all this the Government relies on two statements in the Phelps opinion.
+One, 421 U.S. at 337 , 95 S.Ct. at 1732 , is that "The levy, therefore, gave the United States full legal right to the $38,000 levied upon as against the claim of the petitioner receiver".
+The statement that the United States had "full legal right" to the $38,000 levied upon for a much larger tax liability is not equivalent to saying that where, as here, the debtor has an equity in the property, that also passes to the Government.
+Any such statement--and, we repeat, none was made--not only would have been unnecessary to the decision but would have run directly counter to Bennett v. Hunter , supra , which was not called to the Court's attention either in the briefs or in oral argument and was not cited by it.
+The other statement in Phelps on which the Government relies is in footnote 8, 421 U.S. at 337 , 95 S.Ct. at 1732 .
+The footnote dealt with an argument by the receiver based on 70(a)(8) , which vested a trustee in bankruptcy "with the title of the bankrupt as of the date of the filing of the petition to property held by an assignee for the benefit of creditors."
+The Court's first answer was the receiver's admission that at the date of the filing of the petition, the bankrupt had no title to property it had previously conveyed to the assignee.
+The footnote then added: 70(a)(8) The footnote cited no authority for the proposition that the levy as distinguished from the sale "displaced" the title of Chicagoland, which the receiver had conceded to be nonexistent because of the prior conveyance to the assignee, and any such view, if applied generally, would run directly counter to Bennett v. Hunter , supra .
+The remark just quoted must be read as addressed to the particular circumstances of the Phelps case, where the tax claim vastly exceeded the amount of the levy and the seizure was of cash which did not need to be sold.
+See United States v. Pittman , 449 F.2d 623, 627 (7 Cir. 1971).
+18 In deciding this case it is appropriate for us to look, as the Supreme Court would equally be obliged to look, not only to the two statements in Phelps but to the legislative history of the Bankruptcy Code.
+Both the House and the Senate Reports, H.R.
+Rep.No.95-595, 95th Cong. 1st Sess.
+at 367 (1977); S.Rep.No.95-989, 95th Cong.2d Sess.
+at 82 (1978), U.S.Code Cong. & Admin.News 1978, pp.
+5787, 5868, 6323, said that 541(a) included section 542 and that Despite the Government's assertions to the contrary, our conclusion that an IRS levy on tangible property in which the debtor has an equity does not strip the debtor of all property interests and transfer full title to the Government is entirely consistent with the statements in the House and Senate Reports, H.R.Rep.No.95-595, supra , at 367-68; Sen.Rep.No.95-989, supra , at 82, U.S.
+Code Cong. & Admin.News pp.
+5787, 5868, 6323, see also 124 Cong.Rec.
+H 11096 (daily ed. Sept. 28, 1978), that the Code was "not intended to expand the debtor's rights against others more than they exist at the commencement of the case" and that the trustee "could take no greater rights than the debtor himself had."
+Whiting has not asked us to invalidate the tax lien.
+It has asked only to have the use of the property, on which the IRS had levied but which it had not yet sold, in what Whiting believed and the bankruptcy judge found might be a successful rehabilitation, to the advantage of the Government as well as other interested parties.
+Here we must give some weight to the purpose of the Code, announced by Representative Edwards, a member of the Commission on the Bankruptcy Laws of the United States, who presented the bill to the House, 124 Cong.Rec.
+H 11089 (daily ed. Sept. 28, 1978): There can be no doubt that allowing the government to strip a failing company of all its tangible property would impact seriously on this goal.
+19 We recognize that, as said in Bull v. United States , 295 U.S. 247, 259-60 , 55 S.Ct. 695, 699 , 79 L.Ed. 1421 (1935), "taxes are the life-blood of government, and their prompt and certain availability an imperious need.
+Time out of mind, therefore, the sovereign has resorted to more drastic means of collection.
+The assessment is given the force of a judgment, and if the amount assessed is not paid when due, administrative officials may seize the debtor's property to satisfy the debt."
+Such considerations are of peculiar force when, as here, a debtor has simply helped itself to amounts withheld from employees.
+The framers of the Code sought to reconcile the possibly conflicting goals of enhancing the prospects for rehabilitation and protecting the revenue by the provision in 363(e) for adequate protection of the subject of a turnover order to which we have already referred, supra , note 3.
+The nature of what 363(e) means by "adequate protection" is spelled out in 361 , quoted at note 3, supra .
+If a plan of reorganization is ultimately effectuated, the United States, as holder of a perfected lien, would be entitled to the protections afforded by 1129(b)(2) (A); it could not be treated, over its objection, simply as an unsecured priority creditor.
+However, a successful reorganization is by no means assured; there have been all too many instances where creditors, even secured creditors, have seen their interests whittled away while the debtor and its counsel endlessly pursue some will of the wisp after all real hope has faded.
+A bankruptcy judge acting on a request like that made here should therefore give serious consideration to forms of protection other than that ultimately obtainable in a reorganization plan.
+20 Here the bankruptcy judge purported to do just that, see note 5, supra , and we would have little doubt that the conditions he developed would be sufficient except for one point not apparent on the face of his opinion.
+The opinion of the district court reveals that, in addition to the turnover order of April 28, 1981, here before us, the bankruptcy judge made an order on April 30, 1981, directing Bankers Trust Company to pay certain levied funds to the IRS and further directing that such funds 21 be considered as partial payment of the $20,000 which Whiting was required to pay the IRS under the order here under review.
+The district judge vacated the April 30 order and directed the bankruptcy court to reconsider it.
+We are not clear what the effect of this was.
+There is nothing to indicate whether Whiting had appealed from the April 30 order, and the direction that the Bankers Trust funds be considered as partial payment of the $20,000 on the turnover of the tangibles would fade away if the April 28 order were vacated as the district court directed.
+The April 30 order is not before us and perhaps may never be.
+We also have no idea what has been happening in the year since the levy and the filing of the Chapter 11 petition.
+Under the circumstances we think it best simply to reverse the order of the district court insofar as it held that the tangible assets were not subject to a turnover order, and remand to it with instructions to vacate its own order to that effect and remand to the bankruptcy court for further proceedings consistent with this opinion.
+In such proceedings the bankruptcy court should consider whether a turnover order is appropriate under present circumstances and, if it decides in the affirmative, what protection should be afforded to the United States.
+It is so ordered.

@@ -1,0 +1,342 @@
+ TJOFLAT , Circuit Judge: The petitioner in this case, Charles W. Steadman, is the president, chairman of the board, and sole beneficial owner of all the voting stock in Steadman Security Corporation (SSC), an investment adviser registered with the Securities and Exchange Commission (SEC or the Commission).
+SSC, either directly or through wholly-owned subsidiaries, is the adviser to and manager of several mutual funds known collectively as the Steadman Funds.
+Steadman petitions for review of the SEC's decision of June 29, 1977, In re Steadman Security Corp. , S.E.C.
+, [1977-1978 Transfer Binder] Fed.Sec.L.Rep.
+(CCH) ¶ 81,243 (1977), which found Steadman, SSC, and the subsidiaries in violation of several provisions of the securities laws.
+1 Because of these violations, the Commission entered an order that would (1) bar Steadman permanently from associating with any investment adviser, (2) prohibit his affiliation with any registered investment company, and (3) suspend him for one year from associating with any broker or dealer.
+No sanctions were ordered against the corporate respondents, and they do not join in this appeal.
+Steadman raises several points of error in his petition, most of which we find to be without merit.
+We grant the petition in part, however, and remand the case to the Commission for reconsideration of the sanctions.
+The violations found by the Commission relate to several different aspects of Steadman's management of the mutual funds through the corporations he controlled.
+See note 1 supra .
+The violations we shall discuss concern Steadman and SSC's loan relationships with the banks used by the funds, the method of repayment to the funds of advisory fee overcharges, the retention by a broker-dealer subsidiary of tender solicitation fees paid for the tender of shares held by the funds, and the failure of Steadman and SSC to file timely reports with the Commission.
+We shall also examine the burden of proof to be applied in SEC disciplinary proceedings and the factual showing necessary to support the harsh sanctions in this case. As we review each of these areas, the relevant facts will be presented.
+I. THE BANKING RELATIONSHIPS Between 1965 and 1968, Steadman and SSC borrowed substantial amounts of money from the Riggs Bank of Washington, D.C., 2 the same bank where the Steadman Funds kept their checking accounts.
+3 In 1968, SSC began an expansion program to acquire the management rights to additional mutual funds.
+To finance these acquisitions, SSC applied to the Riggs Bank for a $2 million unsecured loan.
+The bank turned down the request, finding that the additional debt load on SSC, whose operations had not been profitable, would be too large.
+Steadman then retained two prominent investment bankers to aid his quest for capital; one of them successfully arranged a $3 million loan to SSC from the Chase Manhattan Bank in New York.
+At about the time the Chase loan was negotiated, Steadman and SSC recommended to the directors of several of the mutual funds that the funds transfer their bank accounts to Chase.
+The directors were told that the New York bank's custodial fees were lower, that it would be advantageous to be closer to the New York securities market, and that there had been problems with the Riggs Bank.
+They were not told about the loan to SSC.
+The transfer of accounts was approved.
+Riggs called its personal loans to Steadman when the accounts were transferred (SSC had no loans outstanding from this bank at the time).
+Steadman obtained a collateralized loan from the First National Bank of Washington to repay the Riggs loans.
+The First National loan was called in 1970 when the value of the collateral declined, but Steadman received a 90-day extension.
+Two days later, one of the funds purchased a 90-day certificate of deposit from First National in an amount in excess of the loan.
+To repay his First National loan, Steadman obtained a loan from yet another bank, the National Bank of Washington.
+Soon afterwards, the custodial accounts for one of the Steadman funds were transferred from St. Louis to the National Bank.
+The fund's directors were not told about the loan to Steadman when they approved the transfer.
+Neither Steadman's nor SSC's loans were disclosed in the mutual funds' prospectuses.
+The Commission found that this was material information that Steadman had a duty to reveal.
+His failure to do so was in willful violation of section 17(a) of the Securities Act of 1933 (Securities Act), 15 U.S.C. 77q(a) (1976), section 10(b) of the Securities Exchange Act of 1934 (Exchange Act), 15 U.S.C. 78j(b) (1976), rule 10b-5, 17 C.F.R. 240.10b-5 (1978), and sections 206(1) and (2) of the Investment Advisers Act of 1940 (IAA), 15 U.S.C. 80b-6(1), (2) (1976).
+Steadman contends that the Commission erred in finding the omitted information material, and that even if it were material, he cannot be held in violation of these statutes absent a finding that he acted with scienter, i. e. , an intent to deceive or defraud.
+A. Materiality Steadman agrees that TSC Industries, Inc. v. Northway, Inc. , 426 U.S. 438 , 96 S.Ct. 2126 , 48 L.Ed.2d 757 (1976), defines the applicable standard of materiality but argues that the Commission misapplied that standard in this case. The TSC case states: "An omitted fact is material if there is a substantial likelihood that a reasonable shareholder would consider it important in deciding [the matter before him]" Id. at 449 , 96 S.Ct. at 2132 .
+The Commission concluded that Steadman's practice of borrowing heavily, for himself and SSC, from the same banks where the funds had accounts created a potential for subordinating the funds' interests to his own.
+Deposits are the source of money that banks lend out for interest.
+Steadman needed large loans.
+His self-interest in currying the good favor of the banks might have led him, the Commission speculated, to keep unduly large amounts idle in the funds' non-interest-bearing accounts to the benefit of the banks but the detriment of the funds' shareholders.
+The SEC made no finding that this had in fact occurred and specifically declined to find that the funds' custodial accounts were a quid pro quo for the loans.
+Regardless of whether there was a connection between the loans and the accounts, the Commission decided that "Steadman had disabled himself from looking at the funds' checking account balances in a wholly disinterested way, with an eye single to the funds' best interest.
+Investors had a right to know this."
+S.E.C.
+at , [1977-1978 Transfer Binder] Fed.Sec.L.Rep.
+(CCH) ¶ 81,243, at 88,339-7 (footnote omitted).
+Therefore, the loans were material under the TSC standard.
+Id. at , [1977-1978 Transfer Binder] Fed.Sec.L.Rep.
+(CCH) ¶ 81,243, at 88,339-9.
+Steadman argues that the SEC found only a potential conflict of interest, and TSC requires an actual conflict before liability may be imposed.
+This misreads TSC .
+The relevant part of the TSC opinion involved the nondisclosure of facts that may have indicated possible market manipulation in the context of a proxy solicitation, a completely different context than what is involved here.
+More importantly, the Court was addressing the sufficiency of the plaintiff's case for summary judgment, i. e. , whether the omission was material as a matter of law.
+The Court was not called upon to decide the quantum of evidence necessary to establish a material omission at trial.
+The Court reaffirmed in TSC that the issue of materiality is a mixed question of law and fact and that divining the significance of the inferences a reasonable investor would draw from a given set of facts is peculiarly within the competence of the trier of fact.
+Turning again to the facts of the case before it, the Court said that facts suggesting that one corporation controls another may be material even though in actuality there is no control; the influence of the one company over the affairs of the other would be of importance to shareholders.
+426 U.S. at 453 & n.15, 96 S.Ct. at 2134-35 .
+Here, the Commission is the trier of fact.
+It decided that, under the circumstances of this case, the potential for Steadman's abuse of his influence over where the funds did their banking was sufficiently great that shareholders would want to know about the loans.
+That finding is not wrong as a matter of law, and we affirm it.
+4 B. Scienter Steadman strenuously urges that scienter--an intent to deceive, manipulate, or defraud--is a necessary element of any enforcement action by the SEC under the antifraud provisions of the securities laws.
+Since the Commission failed to find that Steadman acted with the requisite intent, he would have us set aside its decision and order.
+There is some support for this position.
+In Ernst & Ernst v. Hochfelder , 425 U.S. 185, 214 , 96 S.Ct. 1375, 1391 , 47 L.Ed.2d 668 (1976), the Supreme Court decided that scienter must be proved in a private damage action under rule 10b-5.
+Whether that holding should be extended to Commission enforcement actions under the statutes that Steadman was found to have violated is the question before us.
+We turn to an examination of each relevant section.
+1.
+Section 10(b) of the Exchange Act.
+The Commission found that Steadman violated section 10(b) of the Exchange Act and rule 10b-5, section 17(a) of the Securities Act, and sections 206(1) and (2) of the IAA.
+In SEC v. Blatt , 583 F.2d 1325, 1333 (5th Cir. 1978), we held that the Commission must prove scienter in an injunctive action under section 10(b).
+Steadman contends that this holding compels the conclusion that scienter also is required in a disciplinary enforcement action such as this one.
+5 Because the Commission failed to indicate whether it considered the other violations independent and sufficient bases for the sanctions imposed, the argument continues, we should reverse the decision.
+We need not decide what state of mind must be shown in a disciplinary action for a violation of section 10(b), for the Commission has indicated to our satisfaction that the section 10(b) violation is mere surplusage in this case. In its opinion, in the context of distinguishing the Hochfelder case, the Commission stated: Hochfelder 30 Indeed, it does not turn on 10b-5 at all 30 Section 17(a) of the Securities Act and the provisions of the Investment Company Act .
+.
+.
+are independent bases for liability.
+S.E.C.
+at , [1977-1978 Transfer Binder] Fed.Sec.L.Rep.
+(CCH) ¶ 81,243, at 88,339-10 (three footnotes omitted) (emphasis added).
+The clear import of these words is that section 10(b) and rule 10b-5 are not essential to the opinion and order.
+2.
+Section 17(a) of the Securities Act.
+Section 17(a) of the Securities Act provides: 15 U.S.C. 77q (1976).
+In Hochfelder the Court noted that the language of rule 10b-5 appears to have been derived in significant part from this section.
+6 Hochfelder held that scienter is required under rule 10b-5.
+Petitioner argues that this indicates strongly that scienter also is required under section 17(a).
+Hochfelder exposes the sophistry in this argument.
+The Court imposed a scienter element on rule 10b-5 because the rule can be no broader than its parent statute, section 10(b) of the Exchange Act, whose language the Court interpreted to require an intent to defraud.
+7 Section 17(a) is, of course, a congressional enactment, not an administrative rule, and its language is quite different from that of section 10(b).
+Indeed, in a passage that cuts against Steadman's position, the Court stated: subsection (b) subsection (c) whether the wrongdoing was intentional or not 425 U.S. at 212 , 96 S.Ct. at 1390 (emphasis added).
+Subsections (b) and (c) of rule 10b-5 are nearly word-for-word identical with subsections (2) and (3) of section 17(a), respectively.
+We think that the Court would regard these subsections of section 17(a) as requiring no intent to defraud.
+Steadman responds that the Securities Act and the Exchange Act have traditionally been construed in pari materia, and that to impose a scienter requirement under one but not the other would disrupt the "single comprehensive scheme of regulation" that these statutes form.
+Globus v. Law Research Service, Inc. , 418 F.2d 1276, 1286 (2d Cir. 1969), cert. denied , 397 U.S. 913 , 90 S.Ct. 913 , 25 L.Ed.2d 93 (1970).
+But Hochfelder observes that Congress fashioned standards of fault under these acts on a particularized basis.
+"Ascertainment of congressional intent with respect to the standard of liability created by a particular section of the Acts must therefore rest primarily on the language of that section."
+425 U.S. at 200 , 96 S.Ct. at 1384 .
+We turn then to an examination of the language of section 17(a).
+We are not the first to travel this road.
+In SEC v. Coven , 581 F.2d 1020 (2d Cir. 1978), cert. denied , 440 U.S. 950 , 99 S.Ct. 1432 , 59 L.Ed.2d 640 (1979), the Second Circuit, in a well-reasoned opinion that included a canvass of the legislative history, concluded that scienter is not required in an SEC injunctive action under subsection 17(a)(2) .
+We adopt that conclusion for the reasons given in the Coven opinion.
+Accord , SEC v. American Realty Trust , 586 F.2d 1001, 1005-06 (4th Cir. 1978); SEC v. Southwest Coal & Energy Co. , 439 F.Supp.
+820, 826 (W.D.La.1977), appeal docketed , No. 78-1130 (5th Cir. Jan. 17, 1978).
+Moreover, we adopt the further suggestion in Coven that "the clear import of the critical phrase in subsection (3), 'operates as a fraud,' is to focus attention on the effect of potentially misleading conduct on the public, not on the culpability of the person responsible."
+581 F.2d at 1026 (emphasis in original) (footnote omitted).
+When construing identical language in section 206(2) of the IAA, see note 10 infra , language which was undoubtedly copied from subsection 17(a)(3), the Supreme Court said: "Congress, in empowering the courts to enjoin any practice which operates 'as a fraud or deceit' upon a client, did not intend to require proof of intent to injure.
+.
+.
+."
+SEC v. Capital Gains Research Bureau, Inc. , 375 U.S. 180, 195 , 84 S.Ct. 275, 284 , 11 L.Ed.2d 237 (1963).
+8 Steadman objects that Coven is distinguishable as an injunctive action in which the Commission need only prove that the defendant is about to engage in unlawful conduct, i. e. , not every element of a section 17(a) violation need be proved.
+We think that Coven 's analysis of the statutory language does not depend on the character of relief sought; the words used by Congress carry the same meaning regardless of whether the SEC seeks an injunction or a stronger sanction.
+As we shall discuss, the severity of the sanctions affects the factual showing necessary to support them, but it does not affect the basic elements of the offense.
+Accordingly, we hold that scienter need not be proved to establish violations of subsections 17(a)(2) and (3) .
+9 We come now to subsection 17(a)(1) .
+This clause contains the word "device" that the Supreme Court in Hochfelder found to be suggestive of intentional conduct when read together with "manipulative" and "deceptive."
+425 U.S. at 197 , 96 S.Ct. at 1383 .
+The latter two words do not appear in subsection 17(a)(1), but the three words of that section--device, scheme, and artifice--must each be read in conjunction with the words "to defraud."
+The resulting phrases--device to defraud, scheme to defraud, artifice to defraud--carry strong implications of intentional conduct.
+We do not think Congress would have used such language if it meant to reach merely negligent actions.
+The use of the term "employ" further supports our reading of the section.
+See Hochfelder , 425 U.S. at 199 n.20, 96 S.Ct. at 1384 .
+In adjudicating a violation of section 17(a), the Commission failed to find that Steadman acted with an intent to defraud, and thus an essential element of a subsection 17(a)(1) violation is missing.
+There is an indication in a footnote to the Commission's opinion that the section 17(a) infraction rests only on subsections (2) and (3).
+See S.E.C.
+at n.31, [1977-1978 Transfer Binder] Fed.Sec.L.Rep.
+¶ 81,243, at 88,339-10.
+Perhaps this oblique footnote sufficiently conveys the SEC's intent to disclaim reliance upon subsection 17(a)(1).
+To the extent that the SEC relied upon subsections (2) and (3) of section 17(a), under which scienter is not a requirement, the violations are supported by substantial evidence and we would affirm; nevertheless, since we find other reasons to send this case back for reconsideration, the Commission on remand can clarify its opinion with regard to the subsections of section 17(a) that it considers were violated.
+3.
+Sections 206(1) and (2) of the IAA.
+What we have said in discussing section 17(a) of the Securities Act applies equally to the language of subsections (1) and (2) of section 206 of the IAA.
+10 The wording of these provisions, which make it unlawful for an investment adviser "(1) to employ any device, scheme, or artifice to defraud any client or prospective client; (2) to engage in any transaction, practice, or course of business which operates as a fraud or deceit upon any client or prospective client," is drawn from subsections 17(a)(1) and (3) , respectively.
+As we already have noted, the Supreme Court has ruled that scienter is not required under section 206(2).
+SEC v. Capital Gains Research Bureau, Inc. , 375 U.S. at 195 , 84 S.Ct. at 284 .
+The Court in that case said nothing about part (1) of section 206.
+We think that the language of this subsection must be construed to have the same meaning as subsection 17(a)(1) , for to do otherwise would produce a serious anomaly; language copied directly from the Securities Act would have a different meaning under the IAA.
+We are aware that in Capital Gains , the Court emphasized that the intent of the IAA was to impose fiduciary standards on investment advisers.
+This general purpose for the statute argues in favor of liability for negligence alone, but "[a]scertainment of congressional intent with respect to the standard of liability created by a particular section .
+.
+.
+must .
+.
+.
+rest primarily on the language of that section."
+Hochfelder , 425 U.S. at 200 , 96 S.Ct. at 1384 .
+The language of section 206(1) clearly connotes intentional conduct and nothing in either the House or Senate Committee reports indicates that this phrase in the IAA is to be interpreted differently than the same phrase in the Securities Act.
+See H.R.Rep.No.2639, 76th Cong., 3d Sess.
+(1940); S.Rep.No.1775, 76th Cong., 3d Sess.
+(1940).
+Although the violation of section 206(2) can be supported without a showing of scienter, here the Commission found a violation of section 206(1) without finding the requisite scienter.
+Because the Commission's findings do not support some of the violations, we remand so that the Commission can reconsider whether it would impose the same sanctions under the violations we uphold.
+II.
+ADVISORY FEES SSC's management contract with at least two of the mutual funds limited SSC's annual advisory fee to one percent of each fund's average net assets.
+Apparently the fee was paid in installments throughout the year based on estimates of the assets under management.
+At the end of the fiscal year, 11 because of a sharp decline in value of these funds' assets, it became clear that payments to SSC had exceeded the contractual maximum.
+Thus SSC owed the two funds a total of $260,000.
+SSC did not refund the money immediately.
+Instead, it suggested, and the funds' directors agreed, that the overrun would be repaid in installments at six percent interest.
+On these facts the Commission found that SSC had received "compensation" within the meaning of subsection 15(a)(1) of the Investment Company Act of 1940 (ICA), 15 U.S.C. 80a-15(a)(1) (1976), because the obligation to refund the fees arose as soon as the fiscal-year-end computations were made, and SSC reaped an economic benefit by stretching out the repayments.
+Subsection 15(a)(1) prohibits an adviser from receiving "compensation" not "precisely" described in the advisory contract.
+12 Because SSC's contracts did not provide for extended payment terms for fee overruns, the Commission held SSC in willful violation of the section and found that Steadman had aided and abetted the violations.
+Steadman attacks these conclusions on several bases.
+He first argues that the arrangements made between SSC and the funds for repayment of the advisory fee overruns cannot reasonably be considered compensation to SSC.
+He cites as authority In re Imperial Financial Service, Inc. , 42 S.E.C.
+717, [1964-1966 Transfer Binder] Fed.Sec.L.Rep.
+(CCH) ¶ 77,287 (1965), in which the SEC refused to hold that a loan, repaid at seven percent interest, constituted compensation to an affiliated borrower.
+The Commission responds that it explicitly noted in Imperial that in a given case an interest-bearing loan could be treated as compensation under the ICA, but because seven percent was a very generous rate at the time, the Commission did not decide whether that loan was compensation.
+Here, it points out, six percent was a very low rate for the time, and even if the interest were at market rate, 13 the funds' forbearance to demand immediate payment of the amount due was a substantial economic benefit to SSC.
+We think the Commission has the better argument.
+In Imperial , it did not foreclose itself from treating as compensation the type of repayment schedule involved here.
+The question presented is a rather technical one, and substantial deference is due the construction of a statute made by those charged with its execution.
+E. I. du Pont de Nemours & Co. v. Collins , 432 U.S. 46, 54 , 97 S.Ct. 2229, 2234 , 53 L.Ed.2d 100 (1977).
+The Commission's construction is not unreasonable, and we uphold it.
+Steadman fares no better with his other contentions.
+That the arrangement was approved by the funds' directors and on the advice of counsel does not render the violation any less willful, for "willful" in this context simply means that the act constituting the violation was done intentionally; "[t]here is no requirement that the actor also be aware that he is violating one of the Rules or Acts."
+Arthur Lipper Corp. v. SEC , 547 F.2d 171, 180 (2d Cir. 1976) (footnote omitted) (quoting Tager v. SEC , 344 F.2d 5, 8 (2d Cir. 1965)), cert. denied , 434 U.S. 1009 , 98 S.Ct. 719 , 54 L.Ed.2d 752 (1978).
+As to the finding that Steadman aided and abetted the violation, his control of SSC is a substantial ground for the inference that he was involved in every important activity of that company, and there is independent evidence in the record to support this inference.
+Finally, Steadman points out that in finding that the failure to disclose the installment repayment arrangement was a violation of the antifraud provisions, see footnote 1, paragraph 3, supra , the Commission failed to find that the omitted facts were material.
+It is true that the Commission did not explicitly state in its opinion that these facts were material, but it adopted the Administrative Law Judge's findings that the antifraud statutes had been violated, and we think it sufficiently clear that the SEC also adopted the finding that these facts were material.
+III.
+TENDER SOLICITATION FEES In 1969, tender offers were made for securities held by three of the Steadman funds.
+In accordance with the custom in the industry, the offerors paid tender solicitation fees to brokers who successfully solicited their clients to tender their shares.
+The funds' shares were tendered through Republic Securities Corporation (RSC), a wholly owned broker-dealer subsidiary of SSC.
+RSC collected tender solicitation fees equal to two percent of the value of the securities tendered--about $32,000.
+RSC kept half of this amount and paid the other half to the tendering funds.
+Subsection 17(e)(1) of the ICA, 15 U.S.C. 80a-17(e)(1) (1976), prohibits an affiliated person of an investment company from receiving compensation for the sale of the company's property except in the course of his business as a broker.
+14 The Commission found that RSC was not acting as a broker in this transaction and therefore should have paid all of the fees it received to the tendering funds: S.E.C.
+at , [1977-1978 Transfer Binder] Fed.Sec.L.Rep.
+(CCH) ¶ 81,243, at 88,339-15 (footnotes omitted).
+In support, the SEC cites its decision in In re Provident Management Corp. , 44 S.E.C.
+442, [1970-`1971 Transfer Binder] Fed.Sec.L.Rep.
+(CCH) ¶ 77,937 (1970), 15 where it found improper the retention of tender solicitation fees by an affiliated broker who performed no "compensable services."
+There is no dispute that RSC is an affiliated person of the tendering funds.
+Steadman contends, however, that RSC performed substantial services for the funds in gathering the shares and effecting the transfers and that these were brokerage services for which it could collect a fee.
+Steadman attacks the conclusion that "where no brokerage is needed, no fee may be collected" as novel and unsupported.
+He also argues that the funds accrued a net benefit on the transaction since the whole two percent fee would have been lost to them if they had used an unaffiliated broker, whereas by using RSC they collected half the fee.
+We think that we must defer to the Commission's expertise on this issue also.
+Its argument that the services performed by RSC were part of what the funds were paying their manager, SSC, to do is not unreasonable.
+Section 17(e) was intended to prohibit conflicts of interest between a fund and affiliated persons advising it on portfolio transactions.
+United States v. Deutsch , 451 F.2d 98, 109 (2d Cir. 1971), cert. denied , 404 U.S. 1019 , 92 S.Ct. 682 , 30 L.Ed.2d 667 (1972).
+SSC faced such a conflict in advising the funds whether to tender, knowing that its subsidiary would pocket a fee if they did.
+That the funds might also gain is no answer.
+Accordingly, the Commission's finding of section 17(e) violations by RSC is affirmed.
+There is substantial evidence to support the conclusion that Steadman aided and abetted the violations.
+He personally reviewed the accounting treatment given the transaction and ordered the splitting of the fees between RSC and the funds.
+Hence, we also affirm the Commission's finding that Steadman violated section 17(e).
+IV.
+REPORTING VIOLATIONS By the terms of its management contracts with the funds, SSC undertook to see that the funds filed with the SEC reports required by law.
+The annual reports for at least three funds were filed late for three consecutive years, 1970 to 1972, and the annual reports for Steadman's four broker-dealer companies were late in both 1971 and 1972.
+In the Commission's view, the principal problem involved the 1971 reports.
+These were filed more than a year late, "'so late as to be of minimal value in serving the purposes intended by the requirements for filing the reports.'"
+S.E.C.
+at , [1977-1978 Transfer Binder] Fed.Sec.L.Rep.
+(CCH) ¶ 81,243, at 88,339-16 (quoting from Administrative Law Judge's Initial Decision).
+Steadman does not deny that the reports were late.
+He does not dispute that the applicable statutes were thus violated, see note 1, paragraph 5, supra ; he simply contends that there is no evidence that the violations were willful.
+He points out that it is uncontested that it took seven months to replace SSC's controller after he resigned in 1971, that SSC's independent auditor was changed in the same year, and that SSC sought but was denied extensions for at least some of the reports.
+The Commission responds that these facts in mitigation do not excuse the violations or render them less willful.
+We agree.
+The record discloses that as early as 1969, SSC's auditors were advising Steadman of serious deficiencies in the accounting procedures and internal organization, including the lack of sufficient personnel, of SSC and its subsidiaries.
+They warned that the growth in assets under management had not been matched by changes necessary to handle the increased workload.
+In 1970, under pressure from the banks to meet his loan payments, Steadman implemented a stringent cost-cutting drive that included a significant reduction in personnel.
+His problems were thus of his own making.
+On these facts, the Commission was justified in concluding that Steadman was more interested in economizing than in maintaining the organization necessary to manage the funds properly.
+V. SANCTIONS AND BURDEN OF PROOF Steadman's principal argument for reversal of the Commission's order is that the wrong burden of proof was used in the administrative proceedings.
+We have reserved treatment of this issue for discussion in conjunction with his attack on the severity of the sanctions imposed upon him because, in our view, the two are closely related.
+We conclude that when the Commission chooses to order the most drastic remedies at its disposal, it has a greater burden to show with particularity the facts and policies that support those sanctions and why less severe action would not serve to protect investors.
+A. Burden of Proof The Commission applied a "preponderance of the evidence" standard in this case. Steadman cites Collins Securities Corp. v. SEC , 183 U.S.App.D.C.
+301 , 562 F.2d 820 (D.C.Cir.
+1977), for the proposition that a "clear and convincing evidence" standard is required.
+In Collins , the defendant was charged with manipulating the market for the shares of a particular company in violation of various antifraud provisions of the securities laws.
+The court acknowledged that the traditional standard of proof in administrative proceedings is the preponderance of the evidence.
+It expressed concern, however, that in a securities case involving allegations of fraud the evidence is often circumstantial in nature and requires to a significant degree the drawing of inferences to establish the violation.
+In addition, on the basis of this inferential proof the administrative agency may impose sanctions amounting in effect to a deprivation of livelihood.
+Thus the court discerned "a need to subject such evidence to a standard which will ensure that any remedial sanctions are imposed only in those circumstances where the evidence is of such a quality as to make the sanctions appear just and reasonable."
+Id. at 304 , 562 F.2d at 823 .
+After noting that the clear and convincing evidence standard has been imposed in certain other types of cases, most notably those involving civil fraud, the court concluded that, for SEC disciplinary proceedings in fraud cases, this standard drew the necessary "realistic correlation between the burden of persuasion and the available remedies."
+Id. at 307 , 562 F.2d at 826 .
+Other cases cited by petitioner are relevant but not directly on point.
+In Addington v. Texas , U.S. , 99 S.Ct. 1804 , 60 L.Ed.2d 323 (1979), the Supreme Court decided that the fourteenth amendment requires at least the clear and convincing evidence standard in civil involuntary commitment proceedings.
+In a general discussion of the function of a standard of proof, the Court noted: Id. at , 99 S.Ct. at 1808 .
+The case before the Court did not, of course, involve allegations of fraud, and no holding was made respecting such cases.
+In requiring more than a mere preponderance of evidence for civil commitment, the Court focused primarily on the deprivation of liberty entailed in confinement; it also noted that "adverse social consequences" can result from involuntary commitment to a mental hospital.
+Id. at , 99 S.Ct. at 1809 .
+Spevack v. Klein , 385 U.S. 511 , 87 S.Ct. 625 , 17 L.Ed.2d 574 (1967), and In re Ruffalo , 390 U.S. 544 , 88 S.Ct. 1222 , 20 L.Ed.2d 117 (1968), also cited by Steadman, both hold that disbarment from the practice of law is a penalty that triggers the minimum protections of due process--notice, a hearing, and the right not to testify against oneself.
+Steadman does not suggest that he was denied these protections in this case; rather, he argues that due process also requires a heightened standard of proof before he may be barred permanently from his profession.
+To the extent that Collins rests on a concern that there are particular risks for a respondent in a fraud proceeding because the proof is necessarily circumstantial and inferential, we are not persuaded.
+In this proceeding, the only fact to which Steadman points as being based on disputed inferences is his state of mind--whether he acted with an intent to defraud.
+But we have held that scienter is not an element of a violation of subsections (2) and (3) of section 17(a) of the Securities Act or of section 206(2) of the IAA, statutes on which the Commission relies to a significant degree in this case. These are commonly called "antifraud" provisions, but the offenses they define are fraud in the broadest "remedial" sense of that term and require no showing of intent to injure or injury.
+See SEC v. Capital Gains Research Bureau, Inc. , 375 U.S. 180, 195 , 84 S.Ct. 275, 284 , 11 L.Ed.2d 237 (1963).
+The facts necessary to establish a violation of these sections--nondisclosure of a material fact--are capable of proof by ordinary direct or circumstantial evidence as in any other administrative proceeding.
+We are more impressed by Steadman's argument that the potential for severe sanctions that results from violation of these sections demands a higher burden of proof.
+Before the Commission, Steadman faced indefinite exclusion from the investment advisory business and the forced sale of all his interest in SSC.
+The order the Commission rendered is indistinguishable in its effect on the respondent from disbarment from the practice of law.
+While many jurisdictions use a preponderance standard in disbarment proceedings, many others apply a higher standard.
+See 7 C.J.S.
+Attorney & Client 33a(3) (1937 & Supp.1979); 7 Am.Jur.2d Attorneys at Law 67 (1963 & Supp.1979) (collecting cases).
+The higher standard rests in large part on the concern that disbarment means deprivation of livelihood.
+See, e. g. , In re Fisher , 179 F.2d 361, 369-70 (7th Cir.), cert. denied , 340 U.S. 825 , 71 S.Ct. 59, 95 L.Ed. 606 (1950).
+We are reluctant to say, however, that in all disciplinary proceedings under the securities antifraud provisions the Commission must prove its case by clear and convincing evidence.
+Debarment from the industry is not the only sanction the SEC can impose.
+The available remedies also include mere censure, limitation of the respondent's activities, or suspension for up to twelve months.
+15 U.S.C. 80b-3(f) (1976).
+16 Thus, the stakes are not as high for every respondent in a Commission proceeding as they came to be for Steadman.
+The burden of proof serves to allocate between the litigants the risk of erroneous decision in a proceeding.
+Addington v. Texas , U.S. at , 99 S.Ct. at 1808 .
+Balanced against the risk to Steadman is the risk that the investing public will be inadequately protected.
+The public interest in high standards of conduct in the securities business is a great one.
+If the burden of proof imposed on the Commission is too high, its ability to police the industry is impaired.
+We cannot say here, as the Court could in Addington v. Texas , id. at , 99 S.Ct. at 1810 , that "the possible injury to the individual is significantly greater than any possible harm to the state."
+Accordingly, we do not see why they should not bear the risk of error equally.
+We do not wish to minimize the seriousness of the sanctions laid upon Steadman.
+From his perspective, exclusion from the industry is clearly a penalty.
+See Arthur Lipper Corp. v. SEC , 547 F.2d 171, 180 n. 6 (2d Cir. 1976), cert. denied , 434 U.S. 1009 , 98 S.Ct. 719 , 54 L.Ed.2d 752 (1978); cf. In re Ruffalo , 390 U.S. at 550 , 88 S.Ct. at 1226 (disbarment is a penalty).
+But see Blaise D'Antoni & Associates v. SEC , 289 F.2d 276, 277 (5th Cir.) (revocation of broker registration not a penalty), cert. denied , 368 U.S. 899 , 82 S.Ct. 178 , 7 L.Ed.2d 95 (1961).
+But imposing a high burden of proof to establish the facts of a securities-laws violation is not the only means to protect a respondent.
+We are empowered to set aside Commission orders that are arbitrary and capricious.
+5 U.S.C. 551, 702 , 706 (1976).
+We subscribe to the common-sense notion that the greater the sanction the Commission decides to impose, the greater is its burden of justification.
+Where, as here, the most potent weapon in the Commission's "arsenal of flexible enforcement powers," Ernst & Ernst v. Hochfelder , 425 U.S. 185, 195 , 96 S.Ct. 1375, 1382 , 47 L.Ed.2d 668 (1976), is used, the Commission has an obligation to explain why a less drastic remedy would not suffice.
+We have not lost sight of the limitations on our power to review administrative sanctions.
+Our role is to decide only whether, under the applicable statute and the facts as found, the agency has made "an allowable judgment in its choice of the remedy."
+Jacob Siegel Co. v. FTC , 327 U.S. 608, 612 , 66 S.Ct. 758, 760 , 90 L.Ed. 888 (1946), quoted in Butz v. Glover Livestock Commission Co. , 411 U.S. 182, 189 , 93 S.Ct. 1455, 1459 , 36 L.Ed.2d 142 (1973).
+The fashioning of an appropriate and reasonable remedy is for the Commission, not this court, and the Commission's choice of sanction may be overturned only if it is found "unwarranted in law or .
+.
+.
+without justification in fact."
+American Power & Light Co. v. SEC , 329 U.S. 90, 112-13 , 67 S.Ct. 133, 146 , 91 L.Ed. 103 (1946), quoted in Butz v. Glover Livestock Commission Co. , 411 U.S. at 185-86 , 93 S.Ct. at 1458 .
+In our view, however, permanent 17 exclusion from the industry is "without justification in fact" unless the Commission specifically articulates compelling reasons for such a sanction.
+For example, the facts of a case might indicate a reasonable likelihood that a particular violator cannot ever operate in compliance with the law, see SEC v. Blatt , 583 F.2d 1325, 1334 (5th Cir. 1978), or might be so egregious that even if further violations of the law are unlikely, the nature of the conduct mandates permanent debarment as a deterrent to others in the industry, see p. 1142 infra .
+We do not intend to limit the Commission by indicating these possible grounds for debarment, but rather give them as examples of the type of situation that would seem to justify that penalty.
+18 With this in mind, we proceed to examine the sanctions imposed upon Steadman.
+B. The Sanctions In its brief, the Commission has candidly conceded that Steadman's status as a fiduciary to the funds was "vitally significant" in assessing the seriousness of his conduct.
+Respondent's Brief at 67.
+The opinion under review concludes that Steadman was "egregiously faithless" in that role because of (1) his intentional and protracted concealment of his banking relationships and (2) his causing flagrant and intentional breaches of his companies' contractual and fiduciary duties to see that the funds fulfilled their reporting obligations.
+S.E.C.
+at & n.90, [1977-1978 Transfer Binder] Fed.Sec.L.Rep.
+(CCH) ¶ 81,243, at 88,339-20.
+Harsh sanctions were imposed because the misconduct in this case was particularly serious, and past misconduct gives rise to an inference of probable future misconduct.
+Leniency in this case, it was felt, would pollute the ethical climate in the industry and encourage others to act irresponsibly.
+We do not agree with Steadman that the Commission has unconstitutionally made a conclusive presumption of future wrongdoing on the basis of past misconduct, but we do agree that a fuller explanation of the need for these sanctions is required.
+At least the Commission specifically ought to consider and discuss with respect to Steadman the factors that have been deemed relevant to the issuance of an injunction: SEC v. Blatt , 583 F.2d at 1334 n.29.
+To say that past misconduct gives rise to an inference of future misconduct is not enough.
+What is required is a specific enumeration of the factors in Steadman's case that merit permanent exclusion.
+We heartily endorse the Commission's view that while scienter is not required to make out violations of several of the statutory sections involved here, the respondent's state of mind is highly relevant in determining the remedy to impose.
+It would be a gross abuse of discretion to bar an investment adviser from the industry on the basis of isolated negligent violations.
+More than that was shown here, however.
+The Commission found that the concealment of Steadman's collateral banking relations was "systematic, calculated and protracted," S.E.C.
+at , [1977-1978 Transfer Binder] Fed.Sec.L.Rep.
+(CCH) ¶ 81,243, at 88,339-11; accordingly, it found that he and his corporate instrumentalities intended to deceive.
+This conclusion is markedly undercut, though, by the Commission's refusal to adopt the Administrative Law Judge's finding that the funds' custodial accounts were intentionally offered to the banks as an inducement to make the loans.
+19 Such a finding by the Commission would have significantly strengthened its conclusion that the failure to disclose the loans was intended to deceive.
+Use of the funds' custodial accounts as leverage to obtain loans for the adviser and its president would be an obvious and serious breach of fiduciary duty, the concealment of which clearly would have been fraudulent.
+In the absence of such a finding, we have only the coincidence that Steadman and SSC borrowed from the funds' custodians.
+We do not retreat from our affirmation that these facts were material, but they are less supportive of an intent to deceive than other conclusions the record arguably permits.
+We do not say there is a lack of substantial evidence to support the finding of scienter--there is such support--but in considering what sanctions the Commission's opinion will justify, we think the Commission has not articulated a sufficient justification for expulsion from the industry.
+We also are troubled by the Commission's position that it may consider violations of section 36(a) of the ICA, 15 U.S.C. 80a-35(a) (1976), 20 in assessing sanctions for violations of other sections of the securities laws.
+21 Section 36(a) permits the Commission to apply to a federal district court for an injunction against an officer of an investment adviser who has engaged or is about to engage in acts constituting "a breach of fiduciary duty involving personal misconduct."
+It gives no power to the Commission, an administrative agency, to adjudicate such breaches, and the Commission has held that it cannot do so. In re Carl L. Shipley , S.E.C.
+, [1973-1974 Transfer Binder] Fed.Sec.L.Rep.
+(CCH) ¶ 79,833 (1974).
+Here, the Commission reaffirms a position it took in dicta in Shipley : in a proceeding where it finds willful violations of other provisions of the securities laws, on the issue of sanctions it may consider whether the respondent has also violated section 36(a).
+We agree that section 36(a) is a "reservoir of fiduciary obligations imposed upon affiliated persons to prevent gross misconduct or gross abuse of trust not otherwise specifically dealt with in the Act."
+Brown v. Bullock , 194 F.Supp.
+207, 238-39 n.1 (S.D.N.Y.
+), aff'd , 294 F.2d 415 (2d Cir. 1961).
+But responsibility for its enforcement is vested in the courts, not the Commission.
+The statutory distinction between the functions of the agency and the courts would be effectively read out of the law if the Commission could bring section 36(a) into its own enforcement proceedings through the back door by professing reliance upon it only at the stage of assessing sanctions.
+We are aware that SEC v. Capital Gains Research Bureau, Inc. , 375 U.S. at 191-92 , 84 S.Ct. at 282-83 , emphasizes that the purpose of the IAA (and, by implication, the ICA, see note 21 supra ) was to regulate the "delicate fiduciary nature of an investment advisory relationship."
+SEC v. Capital Gains Research Bureau, Inc. , 375 U.S. at 191 , 84 S.Ct. at 283 (quoting 2 L. Loss, Securities Regulation 1412 (2d ed. 1961)).
+We do not think this overall purpose is a warrant to read sections 206(1) and (2) of the IAA, the sections found to have been violated here, as the vehicle to reach all breaches of fiduciary trust.
+The Court in Capital Gains relied on the broad purpose of the statute to hold that section 206(2) does not require a showing of scienter, but that is far from adopting the position the Commission takes here.
+The Commission may impose sanctions only for violations of the statutes assigned to its jurisdiction, and that does not include section 36(a).
+This is not to say that in imposing sanctions, the Commission may not consider violations occurring in the context of a fiduciary relationship to be more serious than they otherwise might be.
+This is not due to any contribution from section 36(a), however, but because the "public interest" the Commission is required to consider in fashioning its orders must be construed liberally to effectuate the prophylactic purpose of the securities laws.
+See SEC v. Capital Gains Research Bureau, Inc. , 375 U.S. at 195 , 84 S.Ct. at 284-85 .
+As we have indicated, see p. 1139 supra , the Commission also may consider the likely deterrent effect its sanctions will have on others in the industry.
+22 Permanent debarment, however, is not the only remedy at the Commission's disposal that acts as a deterrent; each of the remedies has that capacity to varying degrees.
+The Commission should articulate why a lesser sanction would not sufficiently discourage others from engaging in the unlawful conduct it seeks to avoid.
+We remand this case to the Commission for reconsideration of its order in light of our holdings.
+We do not hold that the Commission abused its discretion here; we simply say that it impermissibly considered section 36(a) relevant to the issue of sanctions and failed to explain its reasoning in sufficient detail for us to assess the reasonableness of the remedies it ordered.
+23 V. CONCLUSION We summarize here our holdings adverse to the Commission, which will affect the proceedings on remand: The petition for review is therefore granted in part and denied in part; the order is set aside and the cause is remanded for reconsideration consistent with this opinion.
+REMANDED.

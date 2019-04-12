@@ -1,0 +1,106 @@
+ FERGUSON , Circuit Judge: Blue Fox appeals from a summary judgment in favor of the Small Business Administration and the Department of the Army.
+Blue Fox was a subcontractor which worked on a construction project at an Army Depot.
+After the prime contractor failed to pay Blue Fox in full, Blue Fox sought an equitable lien against funds held by the Army and Small Business Administration which has since been distributed to the prime contractor.
+Contrary to the district court, we hold that the Administrative Procedure Act permits Blue Fox's equitable lien claim against the Army because an action for specific performance for the payment of money is not an action for money damages.
+We affirm the district court's decision that a lien cannot be enforced against the Small Business Administration because that agency never possessed nor controlled the contract fund.
+I. FACTUAL BACKGROUND Section 8(a) of the Small Business Act, 15 U.S.C. 637(a) , established a business development program for firms deemed to be socially and economically disadvantaged.
+The purpose of the 8(a) program is to help small businesses owned and controlled by socially and economically disadvantaged individuals and economically disadvantaged Indian tribes "to compete on an equal basis in the mainstream of the American economy."
+13 C.F.R. 124.1(a) .
+This is accomplished by setting aside certain government procurement contracts to be awarded by the Administrator of the SBA to firms determined by the SBA to be socially and economically disadvantaged.
+The Small Business Act also authorizes SBA to provide financial assistance to support such small business concerns with regard to costs and technical and management assistance.
+13 C.F.R. 124.1(b) .
+In September, 1993, pursuant to Section 8(a) of the Small Business Act, 15 U.S.C. 637(a) , the United States Department of the Army awarded a contract to the United States Small Business Administration.
+The contract involved the installation and testing of a telephone switching system and the construction of a facility to house the switching system at the Umatilla Army Depot, Oregon.
+SBA agreed to furnish the supplies and services requested by the Army by subcontracting with Verdan Technology, Inc. The Army, SBA, and Verdan then signed a tripartite agreement.
+Under the terms of the contract, SBA delegated responsibility for administering the contract back to the Army.
+Thus, Verdan was to be paid directly by the Army.
+The SBA did not receive any funds in connection with the contract, the total amount of which was $432,392.13.
+The original solicitation issued by the Army required the contractor to furnish payment and performance bonds if the contract exceeded $25,000.
+However, the Army later amended the solicitation, deleting the bond requirements.
+Defendants now concede that the Verdan contract was subject to the Miller Act, 40 U.S.C. 270a-270d .
+1 However, SBA did not grant an exemption to Verdan from Miller Act bond requirements under 13 C.F.R. 124.305 (1990), which enumerated requirements concerning SBA control of contract funds and notice to subcontractors in the event that SBA granted an exemption to the Miller Act bond requirement.
+2 Verdan entered into a subcontract with Blue Fox, Inc., whereby Blue Fox agreed to construct a concrete block building to house the switching system and install several other specific items of the contract.
+The total cost of the work to be performed by Blue Fox was $186,347.80.
+Blue Fox did not know until it had completed its performance under the contract that Verdan had not furnished a payment or performance bond.
+Verdan failed to pay Blue Fox its full contract price--the sum of $46,586.14 remained due.
+Blue Fox informed the Army and SBA in writing on May 26, 1994, and again on June 15, 1994, that it had not been fully paid.
+The Army disbursed a total of $86,132.33 to Verdan between July 5, 1994 and October 11, 1994.
+On January 3, 1995, the Army terminated the contract for default because Verdan failed to adhere to the contract's delivery schedule and to submit required contractor Data Requirement Lists.
+In its notice of intention to terminate the contract, the Army indicated that one of its "most severe items of concern" was Verdan's failure to pay Blue Fox.
+After the termination of the Verdan contract, the Army chose Dynamic Concepts, Inc. to finish the uncompleted portion of the work, under an existing contract between the Army and Dynamic.
+This contract did not include the SBA as a party.
+The modification contract with Dynamic was for $126,772.78 and was partially funded with the undisbursed balance on the Verdan contract, $84,910.52.
+3 Blue Fox obtained a default judgment in the Tribal Court of the Yakima Indian Nation against Verdan and its officers.
+Blue Fox asserts that it is unlikely to collect on these judgments because existing liens against Verdan precede Blue Fox's judgment and the judgment exceeds the officers' individual net worths.
+In this litigation, the district court denied Plaintiff's motion for summary judgment and granted Defendant's motion for summary judgment.
+The court held that it did not have jurisdiction over Blue Fox's claim against the Army because the Administrative Procedure Act did not constitute a waiver of sovereign immunity in this case. Additionally, the court held that it could not grant an equitable lien against SBA because there had been no res in SBA's possession and control to which an equitable lien could attach.
+II.
+DISCUSSION We review questions involving principles of sovereign immunity de novo .
+United States v. Woodley , 9 F.3d 774, 781 (9th Cir.1993).
+A grant of summary judgment is reviewed de novo .
+Bagdadi v. Nazar , 84 F.3d 1194, 1197 (9th Cir.1996).
+A. Equitable Lien Claim Against the Army The district court held that Blue Fox's suit against the Army is barred by the doctrine of sovereign immunity.
+However, sovereign immunity against federal agencies has been waived as to suits "seeking relief other than money damages," under the Administrative Procedure Act, 5 U.S.C. 702 ("APA").
+The Supreme Court has held that monetary relief is available under the APA when it takes the form of specific relief rather than compensatory damages.
+Bowen v. Massachusetts , 487 U.S. 879, 893 , 108 S.Ct. 2722, 2731 , 101 L.Ed.2d 749 (1988).
+In Bowen , the Supreme Court quoted from Judge Bork's opinion in Maryland Department of Human Resources v. Department of Health and Human Services , 763 F.2d 1441, 1446 (D.C.Cir.1985), to explain the scope of the APA waiver of immunity for suits seeking other than money damages: 5 U.S.C. 702 substitute Handbook on the Law of Remedies Id .
+Bowen , 487 U.S. at 895 , 108 S.Ct. at 2732 .
+Here, Blue Fox seeks an equitable lien only for the very thing to which it is entitled under the contract.
+Blue Fox does not seek any consequential damages to compensate losses suffered beyond the contract price.
+Therefore, the district court had jurisdiction to consider its claim under the APA.
+1.
+APA Waiver Not Limited to Statutory Rights The district court erred in assuming that because Blue Fox sought monetary relief and its right was not statutorily derived, such relief constituted "money damages" and was excluded from the waiver of sovereign immunity contained in the Administrative Procedure Act.
+The district court characterized the issue as a choice between an action for damages or an action for payment of money to which Blue Fox was statutorily entitled.
+Because the Miller Act does not provide a remedy for subcontractors against the government, the district court held that nonstatutory remedies were barred and the APA could not apply to waive immunity.
+However, there is no requirement in Bowen or the APA that the specific relief requested be statutorily granted.
+That is, a party need not rely upon a statute in order to obtain federal court jurisdiction under the APA.
+See Aetna Casualty and Surety Co. v. United States , 71 F.3d 475 (2nd Cir.1995) (APA waived sovereign immunity against subrogation claim because surety's right to subrogation, arising by operation of law, was equitable and therefore included in APA waiver).
+Although Bowen itself was concerned with funds to which Massachusetts was entitled by statute, there is nothing in that opinion that suggests the APA's waiver of immunity is limited to suits brought under another statute.
+Thus, the district court erred in assuming that because Blue Fox was not entitled to relief under the Miller Act, its equitable lien claim was impermissible under the APA.
+2.
+An Equitable Lien Claim is Not an Action for Damages This circuit has recognized subcontractors' equitable rights against the government where the subcontractor was not paid by the prime contractor, the government had notice, and the government did not pay the subcontractor or withhold payment to the prime contractor.
+Wright v. United States Postal Service , 29 F.3d 1426 (9th Cir.1994).
+The Army has conceded that Blue Fox would have an equitable lien claim, i.e. a non-damages claim, if a private party, rather than a government agency had contracted with Verdan.
+The fact that the Army is the defendant does not change the nature of the claim, but only requires analysis of the Army's immunity.
+Since the APA waives immunity for equitable actions, the district court had jurisdiction under the APA.
+Below we reconstruct a brief history of the right asserted by Blue Fox in order to trace its roots in equity.
+The Suretyship Cases--Equitable Right of Subrogation In Henningsen v. United States Fidelity & Guaranty Co. , 208 U.S. 404 , 28 S.Ct. 389 , 52 L.Ed. 547 (1908), the Court held that a surety had an equitable right of subrogation against the United States because it had "paid the laborers and material-men, and thus released the contractor from his obligations to them, and to the same extent released the Government from all equitable obligations to see that the laborers and supplymen were paid."
+Id. at 410 , 28 S.Ct. at 391 .
+The surety's right of subrogation was found to be superior to that of a bank which had loaned money to the contractor to finish the project because the surety was bound by contract to pay the subcontractor.
+The equitable right of subrogation by a surety has been extended in a number of cases.
+See e.g. Pearlman v. Reliance Ins. Co. , 371 U.S. 132 , 83 S.Ct. 232 , 9 L.Ed.2d 190 (1962) (Miller Act does not alter surety's equitable right of subrogation which arose out of surety's payment of laborers and materialmen in accordance with bond agreement); Aetna Casualty , 71 F.3d 475 (APA waived sovereign immunity against subrogation claim because surety's right to subrogation, arising out of payments to coal mine employees suffering from black lung disease, was equitable and therefore included in APA waiver).
+Extension to Equitable Rights in Subcontractors The Henningsen line of cases decree that the doctrine of subrogation is an equitable one.
+Blue Fox does not assert a right of subrogation against the Army.
+However, following the suretyship cases, courts have recognized subcontractors' equitable rights against government agencies in situations where a surety who paid the subcontractor would have had a equitable right of subrogation against the government.
+See e.g. Wright , 29 F.3d 1426 ; Active Fire Sprinkler Corp. v. United States Postal Service , 811 F.2d 747 (2d Cir.1987); Kennedy Electric Co. v. United States Postal Service , 508 F.2d 954 (10th Cir.1974).
+The question presented in this appeal is whether these equitable rights are enforceable under the APA.
+In Wright , we held that subcontractors could institute actions to establish equitable liens against the U.S. Postal Service.
+It was clear in Wright that such equitable liens are properly characterized as equitable remedies, rather than money damages.
+In recognizing that the Miller Act's provision of a remedy to sue on the bond did not preclude the assertion of an equitable lien, we quoted approvingly from a Second Circuit case that presented a similar question: Any equitable rights held by subcontractors as against [the] USPS, which may have been unenforceable where sovereign immunity existed, became enforceable upon immunity being waived Wright , 29 F.3d at 1430 (quoting Active Fire , 811 F.2d at 754 ).
+The Army claims the Postal Service cases are inapposite because they rely on the Postal Reorganization Act, 39 U.S.C. 401(a) (1982), which authorized the U.S. Postal Service to "sue and be sued," and therefore did not speak to the ability of subcontractors to sue under the APA.
+However, the Postal Service Cases are relevant because although the waiver of sovereign immunity is found in the Postal Reorganization Act, they recognize non-Miller Act claims against federal agencies for equitable liens as equitable in nature.
+Since such equitable liens are not actions for "money damages," they are allowed by the APA's waiver of sovereign immunity as well.
+4 3.
+Equitable Lien Attached Upon Notice to Army of Blue Fox's Non Payment "An equitable lien can be established and enforced only if there is some property which is subject to the lien."
+Restatement of Restitution 161 , comment e (1937).
+Blue Fox gave notice to the Army on May 26, 1994 and June 15, 1994 that it had not been fully paid.
+The Army subsequently paid Verdan $86,132.33 before terminating the contract.
+Thus, at the time the Army received notice from Blue Fox, it retained funds to which the equitable lien attached.
+The fact that the Army has since paid out the monies to which the lien attached does not thwart Blue Fox's equitable lien claim.
+In the suretyship context, the Federal Claims Court has noted: Transamerica Premier Ins. Co. v. U.S. , 32 Fed. Cl.
+308, 314 (1994).
+The Army cannot escape Blue Fox's equitable lien by wrongly paying out funds to the prime contractor when it had notice of Blue Fox's unpaid claims.
+B. Equitable Claim Against SBA The district court granted the SBA's motion for summary judgment because it found that, as the Army had sole possession and control over the contract and made all payments to Verdan, there was no res or fund which the SBA controlled or possessed.
+Because an equitable lien may only exist where there is a res to which it attaches, and because SBA did not have possession or control of any contract funds, we affirm the district court.
+This is a somewhat atypical case. The Small Business Act provides opportunities for socially and economically disadvantaged businesses through SBA recruitment, support, and loans.
+15 U.S.C. 636 .
+Thus, the SBA usually plays a protective and supportive role to the small business which is awarded a contract with a governmental agency.
+5 However, in this case, the SBA delegated nearly all responsibility for the contract administration to the Army, and abdicated any protective role toward Verdan and the subcontractors.
+Thus, while the SBA ordinarily would have at least constructive possession of contract funds to which an equitable lien could attach, SBA's delegation of responsibility to the Army, another government agency which itself may be held liable, requires a different result.
+Blue Fox argues that the SBA had the opportunity, authority, and duty to intervene, and therefore should be liable for an equitable lien.
+Blue Fox correctly observes that SBA was largely responsible for the Army's withdrawal of its Miller Act requirement in the tripartite contract.
+6 In addition, SBA did not conform to regulations in place at the time of the contract which would have required the SBA to administer a special bank account upon the waiver of Miller Act requirements.
+Although these actions show SBA's responsibility and culpability for the harm Blue Fox suffered in this case, the fact remains that SBA did not have possession of a res to which an equitable lien could attach.
+Thus, although we agree with Blue Fox that SBA did not fulfill its statutory duties, an equitable lien theory cannot provide Blue Fox with relief against the SBA.
+CONCLUSION For the foregoing reasons, the district court decision is REVERSED IN PART and AFFIRMED IN PART and REMANDED for further proceedings consistent with this opinion.
+Blue Fox is entitled to its costs on appeal.

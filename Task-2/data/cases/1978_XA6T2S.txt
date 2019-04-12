@@ -1,0 +1,275 @@
+ CHARLES CLARK , Circuit Judge: This case presents consolidated petitions for review 1 of a new health standard limiting occupational exposure to benzene 2 promulgated by the Occupational Safety and Health Administration of the Department of Labor (OSHA), pursuant to the Occupational Safety and Health Act, 29 U.S.C.A. 651 et seq.
+(1975) (the Act).
+The basis for the standard is OSHA's determination that benzene is a carcinogen for which there is no known safe level of exposure.
+Briefly, the standard requires employers to assure that no employee is exposed to an airborne concentration of benzene in excess of one part benzene per million parts of air (1 ppm) averaged over an eight-hour day; 3 it requires employers to assure that no employee is exposed to dermal contact with liquid benzene; 4 and it requires employers to assure that caution labels are affixed to all containers of products containing benzene and that the labels remain affixed when the product leaves the employer's workplace.
+5 In addition, the standard imposes numerous compliance requirements for "each place of employment where benzene is produced, reacted, released, packaged, repackaged, stored, transported, handled, or used," with certain exceptions.
+These requirements include initial and continual exposure monitoring, engineering and work practice controls to reduce and maintain exposure below the permissible level, respiratory protection to prevent excessive exposure in limited situations, protective clothing and equipment to prevent dermal contact with liquid benzene, initial and continual medical surveillance, employee training programs, and retention of records regarding exposure monitoring and medical surveillance.
+The petitioning producers and users of benzene and benzene-containing products principally attack the reduction of the permissible exposure limit to 1 ppm, 6 the prohibition of dermal contact with liquids containing benzene, and the labeling requirements for such liquids.
+The petitioners also attack several of the ancillary provisions of the standard, including its broad scope, the monitoring and medical surveillance requirements, and the specification of mandatory engineering and work practice controls.
+I. The Act authorizes the Secretary of Labor 7 to promulgate occupational safety and health standards.
+29 U.S.C.A. 655 .
+An "occupational safety and health standard" is defined as "a standard which requires conditions, or the adoption or use of one or more practices, means, methods, operations, or processes, reasonably necessary or appropriate to provide safe or healthful employment and places of employment" 29 U.S.C.A. 652(8) .
+In promulgating standards dealing with toxic materials, such as benzene, the Secretary is required to 29 U.S.C.A. 655(b)(5) .
+When necessary or appropriate, standards may prescribe labels or other forms of warning, protective equipment, control or technological procedures, exposure monitoring, and medical examinations.
+29 U.S.C.A. 655(b)(7) .
+Judicial review of occupational safety and health standards is authorized by 29 U.S.C.A. 655(f) , and on review "[t]he determinations of the Secretary shall be conclusive if supported by substantial evidence in the record considered as a whole."
+Several courts, including this one, have pointed out the problems involved in attempting to apply the traditional substantial evidence test in assessing OSHA standards resulting from informal rulemaking.
+E. g. , Associated Industries of New York State, Inc. v. United States Department of Labor , 487 F.2d 342, 347-50 (2d Cir. 1973); Florida Peach Growers Association, Inc. v. United States Department of Labor , 489 F.2d 120, 127-29 (5th Cir. 1974); Industrial Union Department, AFL-CIO v. Hodgson , 162 U.S.App.D.C.
+331, 336-340 , 499 F.2d 467, 472-76 (1974); Synthetic Organic Chemical Manufacturers Association v. Brennan , 503 F.2d 1155, 1158-60 (3d Cir. 1974).
+The problem centers not on how to apply the test to factual findings subject to evidentiary development, but rather on how to review legislative-like policy judgments.
+With respect to the former, the substantial evidence standard provided in the statute clearly is applicable.
+See, e. g. , Industrial Union Department, AFL-CIO v. Hodgson , supra , 499 F.2d at 474 ; American Iron & Steel Institute, et al.
+v. OSHA , 577 F.2d 825 , No. 76-2358 et al.
+(3d Cir., filed March 28, 1978).
+Policy choices, though not so susceptible to verification or refutation by the record, must be scrutinized nevertheless.
+See Associated Industries of New York, Inc. v. United States Department of Labor , supra , 487 F.2d at 348 .
+Although the courts have differed in their articulation of the standard of review of these policy judgments, they have required the Secretary's action to be consistent with the statutory language and purpose.
+Synthetic Organic Chemical Manufacturers Association v. Brennan , supra , 503 F.2d at 1159 .
+As this court stated in assessing an emergency temporary standard in Florida Peach Growers , "it seems clear that even with the required substantial evidence test, our review basically must determine whether the Secretary carried out his essentially legislative task in a manner reasonable under the state of the record before him."
+489 F.2d at 129 .
+This includes, of course, a review of whether the Secretary exercised his decisionmaking power within the limits imposed by Congress.
+II.
+Benzene is a ubiquitous hydrocarbon compound (C 6 H 6 ) that is manufactured for a wide variety of industrial uses.
+8 The petrochemical and petroleum refining industries are responsible for 94 percent of the total domestic production of benzene, and the steel industry produces the remaining 6 percent primarily as a by-product of the coking process.
+The primary use of benzene is as a feedstock in the manufacture of other organic chemicals; it is also used in the manufacture of detergents, pesticides, solvents, and paint, and as a solvent and reactant in chemical laboratories.
+Industries currently using benzene include the chemical, printing, lithograph, rubber cements, rubber fabricating, 9 paint, varnish, stain removers, adhesives, and petroleum industries.
+Among the products that contain benzene are motor fuels such as gasoline, which contain up to 2 percent benzene.
+Benzene has been recognized since 1900 as a toxic substance capable of producing acute and chronic nonmalignant effects in humans.
+When benzene vapors are inhaled, the benzene diffuses rapidly through the lungs and is quickly absorbed into the blood.
+Acute circulatory failure resulting in death within minutes often accompanies exposure to benzene concentrations as high as 20,000 ppm.
+Other acute effects of exposure to milder, though still high (250-500 ppm), concentrations of benzene include vertigo, nervous excitation, headache, nausea, and breathlessness.
+When exposure is stopped, rapid recovery from these symptoms usually occurs.
+The most common nonmalignant effects of chronic exposure to low 10 benzene concentration levels are a non-functioning bone marrow and deficiencies in the formed elements of the blood.
+11 The degree of severity of such disorders ranges from mild and transient episodes to severe and fatal effects.
+Chromosomal aberrations have also been associated with chronic benzene exposure, and dermatitis or other dermal infections can be caused by direct bodily contact with liquid benzene.
+As a result of its toxicity, benzene's history has been one of regulation.
+In 1946, the American Conference of Governmental Industrial Hygienists recommended a threshold limit value for benzene exposure of 100 ppm.
+This value was reduced to 50 ppm in 1947, to 35 ppm in 1948, to 25 ppm in 1963, and to 10 ppm in 1974.
+The American National Standards Institute adopted a threshold limit value of 10 ppm in 1969, which OSHA adopted in 1971 without rulemaking under the authority of 29 U.S.C.A. 655(a) .
+12 This standard, codified at 29 C.F.R. 1910.1000 Table Z-2 (1977) and still in effect, was based on the nonmalignant toxic effects of benzene exposure and not on any possible leukemia hazard.
+Widely scattered through the benzene literature are studies suggesting a link between benzene exposure and leukemia, a usually fatal cancer of the blood-forming organs.
+During the 1970's several additional studies reported a statistically significant increased risk of leukemia among workers occupationally exposed to high levels of benzene and concluded benzene was a leukemogen.
+13 As a result of this new evidence, OSHA began procedures which culminated with the present proposal, among other things, to reduce the permissible exposure level from 10 ppm to 1 ppm.
+In January 1977 OSHA issued voluntary Guidelines for Control of Occupational Exposure to Benzene recommending exposure not to exceed an eight-hour time-weighted average of 1 ppm.
+An Emergency Temporary Standard for Occupational Exposure to Benzene also providing for a reduction in the permissible exposure limit to 1 ppm 14 was issued in May 1977, but this standard never went into effect because of judicial challenges.
+The proposed permanent benzene standard, which was based on OSHA's determination that the available scientific evidence established that employee exposure to benzene presents a leukemia hazard and that exposure therefore should be limited to the lowest feasible level, was published on May 27, 1977.
+This proposal provided for a reduction in the permissible exposure limit from 10 ppm to 1 ppm and established requirements relating to dermal and eye contact, 15 exposure monitoring, medical surveillance, methods of compliance, labeling, and recordkeeping.
+Public hearings were held July 19 through August 10, 1977, at which 95 witnesses testified.
+In addition, numerous exhibits and documents were submitted to OSHA as part of the rulemaking record.
+The resulting permanent benzene standard was promulgated on February 3 and published on February 10, 1978, with a March 13, 1978 effective date.
+III.
+The American Petroleum Institute on behalf of itself and member companies filed petitions for review of the standard in this court on February 2 and February 3, 1978.
+The American Iron and Steel Institute, the Independent Petroleum Association of America, the Manufacturing Chemists Association, the Rubber Manufacturers Association, the Armstrong Rubber Company and Uniroyal, Inc., E. I. Du Pont de Nemours and Company, and the Chemical Specialties Manufacturers Association subsequently either intervened on behalf of the American Petroleum Institute or filed original petitions for review in other circuits that were transferred to this circuit and consolidated with the American Petroleum Institute case. In addition, the Industrial Union Department, AFL-CIO, intervened on behalf of OSHA in support of the standard.
+16 The petitioners filed motions for a stay of the standard pending review on March 10, 1978, and on March 13 a judge of this court issued a temporary stay of the standard pending a hearing before a three-judge panel.
+The issues concerning the stay were fully briefed by the parties on an expedited basis, and after hearing oral argument a panel of the court on April 18, 1978, ordered a stay of the standard to be continued pending disposition of the petitions for review.
+17 The principal argument of the petitioning producers of benzene and benzene-containing products is that substantial evidence and the best available evidence do not show that the reduction of the permissible exposure limit from 10 ppm to 1 ppm is reasonably necessary or appropriate to provide safe or healthful employment and places of employment.
+These petitioners also attack several of the ancillary provisions of the standard, including its broad scope, the monitoring and medical surveillance requirements, and the specification of mandatory primary means of compliance, as not being supported by substantial evidence that they are reasonably necessary or appropriate to provide safe or healthful employment.
+The attack of the petitioning users of benzene and benzene-containing products is two-fold: (i) They contend that substantial evidence and the best available evidence do not show that the dermal contact prohibition is reasonably necessary or appropriate to provide safe or healthful employment, and that the dermal contact prohibition is not feasible; and (ii) they contend that substantial evidence does not show the labeling requirement to be reasonably necessary or appropriate to provide safe or healthful employment, that the labeling requirement is not feasible, and that the labeling requirement is beyond OSHA's jurisdiction.
+OSHA, in addition to arguing that substantial evidence, the best available evidence, feasibility considerations, and its statutory mandate to protect workers justify the standard in its entirety, contends that Congress imposed on it no substantive requirement to promulgate only standards that are reasonably necessary or appropriate to provide safe or healthful employment and places of employment.
+On June 21, 1978, the day before oral argument, OSHA promulgated an amended standard to exempt from the scope of the benzene standard work operations where the only exposure to benzene is from liquid mixtures containing 0.5 percent (0.1 percent after June 28, 1981) or less of benzene by volume, and to exempt from the labeling requirements liquid mixtures containing 5.0 percent or less benzene by volume which were packaged before June 27, 1978.
+43 Fed.Reg.
+27 ,971 (1978).
+Although the proposed emergency temporary standard and the proposed permanent standard had exempted work operations where exposure to benzene resulted only from liquid mixtures containing 1 percent or less of benzene by volume, 18 the permanent standard that was promulgated contained no such exemption.
+As a result, the permanent standard prohibited all dermal contact with liquids containing any amount of benzene and it imposed the labeling requirements on all such liquids.
+Several industry groups petitioned OSHA for a stay of the dermal contact prohibition and labeling requirements as they applied to liquids containing small amounts of benzene.
+19 OSHA subsequently granted a stay as to work operations where the sole exposure to benzene was from mixtures containing 0.1 percent or less of benzene and instituted a new rulemaking proceeding which resulted in the June 21, 1978 amendment.
+The court called for supplemental briefing to address the effect of this amendment on the issues already briefed and argued.
+This briefing has been completed, and it appears that the major effect of the amendment is on the arguments regarding the feasibility of the dermal contact and labeling provisions.
+Since the considerations associated with the feasibility of those provisions have been significantly changed by the amendments, we do not address the merits of the feasibility arguments in this opinion.
+IV.
+OSHA justifies the reduction of the permissible exposure limit for benzene from 10 ppm to 1 ppm by coupling two factual findings, which it contends are supported by substantial evidence in the record, with a regulatory policy which OSHA contends is required by its mandate to protect workers.
+The factual findings are that benzene causes leukemia and that there presently exists no known safe level for benzene exposure.
+The regulatory policy is to limit employee exposure to carcinogens to the lowest feasible level.
+The producer petitioners, in addition to attacking the factual finding that no known safe level for benzene exposure exists, 20 contend that OSHA has failed to meet a burden which the Act imposes of determining that the reduction of the permissible exposure limit from 10 ppm to 1 ppm is "reasonably necessary" to provide a safe workplace.
+In support of the latter contention, these petitioners point to this circuit's recent decision in Aqua Slide 'N' Dive Corp. v. Consumer Product Safety Commission , 569 F.2d 831 (5th Cir. 1978), and assert that OSHA failed to assess benefits expected to be achieved by the standard in light of the expected costs of compliance.
+The petitioners argue that by defining an "occupational safety and health standard" as one requiring conditions "reasonably necessary" to provide safe or healthful places of employment, 29 U.S.C.A. 652(8) , Congress recognized that safety and health resources are not unlimited and required OSHA somewhere in its decisionmaking process to (1) attempt to determine the extent to which its standards will benefit workers, and (2) decide whether the projected benefits justify the costs of compliance with the standard.
+Only if all standards are subjected to such assessment, argue the petitioners, can OSHA assure maximum benefit from the finite amount industry can expend on safety and health and thus carry out Congress' overriding policy "to assure so far as possible every working man and woman in the Nation safe and healthful working conditions."
+29 U.S.C.A. 651(b) .
+Since OSHA has not made a valid determination that reducing the permissible exposure level of benzene from 10 ppm to 1 ppm is reasonably necessary to protect workers from a risk of leukemia, the producers ask us to set that part of the standard aside.
+21 OSHA denies that the "reasonably necessary" language imposes any substantive obligation on it in promulgating standards.
+OSHA would distinguish Aqua Slide , which dealt with the Consumer Product Safety Act, on the basis that the "reasonably necessary" language in that Act appeared as a part of the sections which dealt with the agency's process of setting standards, 15 U.S.C.A. 2056(a) , 2058(c)(2)(A), whereas the "reasonably necessary" counterpart in the act it administers appears only in the section which defines the type of standard it may promulgate.
+In authorizing the Consumer Product Safety Commission to promulgate safety standards, Congress provided that "[a]ny requirement of such a standard shall be reasonably necessary to prevent or reduce an unreasonable risk of injury associated with such product."
+15 U.S.C.A. 2056(a) .
+It also required the Consumer Product Safety Commission to make a specific finding that its rules were "reasonably necessary to eliminate or reduce an unreasonable risk of injury."
+15 U.S.C.A. 2058(c)(2)(A) .
+Rather than following this format, the Occupational Safety and Health Act defines the occupational safety and health standard it authorizes as one "which requires conditions, or the adoption or use of one or more practices, means, methods, operations, or processes, reasonably necessary or appropriate to provide safe or healthful employment and places of employment."
+29 U.S.C.A. 652(8) .
+We decline to construe the precisely similar requirements of these two Acts differently or to read words out of the OSHA legislation.
+The Act imposes on OSHA the obligation to enact only standards that are reasonably necessary or appropriate to provide safe or healthful workplaces.
+If a standard does not fit in this definition, it is not one that OSHA is authorized to enact.
+OSHA next argues that even if the conditions required by occupational safety and health standards must be reasonably necessary to provide safe or healthful places of employment, the Act still imposes on OSHA no obligation to undertake a cost-benefit analysis with respect to the standards it promulgates.
+OSHA argues that 29 U.S.C.A. 655(b)(5) defines when conditions imposed by a standard dealing with toxic materials are reasonably necessary.
+It urges that the emphasis of that section on making of a standard "which most adequately assures .
+.
+.
+that no employee will suffer material impairment of health .
+.
+.
+[from] regular exposure .
+.
+.
+for the period of his working life," overcomes any requirement to make a cost-benefit analysis.
+Nevertheless, OSHA contends that it did undertake economic analyses of both costs and benefits associated with the standard as required by Aqua Slide , and that after assessing those analyses it promulgated the standard.
+Although 29 U.S.C.A. 655(b)(5) requires the goal of attaining the highest degree of health and safety protection for the employee, it does not give OSHA the unbridled discretion to adopt standards designed to create absolutely risk-free workplaces regardless of cost.
+To the contrary, that section requires standards to be feasible, and it contains a number of pragmatic limitations in the form of specific kinds of information OSHA must consider in enacting standards dealing with toxic materials.
+Those include "the best available evidence," "research, demonstrations, experiments, and such other information as may be appropriate," "the latest available scientific data in the field," and "experience gained under this and other health and safety laws."
+Moreover, in standards dealing with toxic materials, just as with all other occupational safety and health standards, the conditions and other requirements imposed by the standard must be "reasonably necessary or appropriate to provide safe or healthful employment and places of employment."
+29 U.S.C.A. 652(8) .
+Since the purpose of the Act to protect workers from dangerous conditions of employment is parallel to the purpose of the Consumer Product Safety Act to protect consumers from dangerous products, we must be guided by Aqua Slide in determining whether OSHA has met its burden of showing that the benzene standard is reasonably necessary to protect workers from a leukemia hazard.
+There we said: 569 F.2d at 844 ; see also D. D. Bean & Sons v. Consumer Product Safety Commission , 574 F.2d 643 (1st Cir. 1978).
+Before it regulates, the agency must show that a hazard exists and that its regulation will reduce the risk from the hazard, for "no [occupational safety and health] standard would be expected to impose added costs or inconvenience .
+.
+.
+unless there is reasonable assurance that the frequency or severity of injuries or illnesses will be reduced."
+569 F.2d at 839 .
+More importantly for today's case, Aqua Slide also requires the agency to assess the expected benefits in light of the burdens to be imposed by the standard.
+Although the agency does not have to conduct an elaborate cost-benefit analysis, 569 F.2d at 840 , it does have to determine whether the benefits expected from the standard bear a reasonable relationship to the costs imposed by the standard.
+569 F.2d at 842 .
+The only way to tell whether the relationship between the benefits and costs of the benzene standard is reasonable is to estimate the extent of the expected benefits and costs.
+See 569 F.2d at 843 .
+OSHA did this with respect to costs by engaging a consulting firm to assess the expected compliance costs and economic feasibility of the proposed standard.
+43 Fed.Reg.
+5934-39 .
+Based on this study and other evidence, OSHA estimated compliance costs for all affected industries to be $187-205 million first year operating costs, $266 million engineering control costs, and $34 million recurring annual costs.
+22 OSHA determined these costs to be feasible since they would not threaten the financial welfare of the affected firms or the general economy.
+However, OSHA disclaimed any obligation to balance these costs against expected benefits.
+43 Fed.Reg.
+5940-41 .
+Rather than attempting to measure the extent to which the leukemia hazard of benzene exposure would be reduced by lowering the permissible exposure limit from 10 ppm to 1 ppm, OSHA merely assumed that benefits from the reduction "may be appreciable."
+It based this assumption on a finding that benzene was unsafe at any level and its conclusion that exposures to lower levels of toxic materials would be safer than exposure to higher levels.
+OSHA's fall-back position attempts to justify its standard as being reasonably necessary within the meaning of Aqua Slide .
+It contends the standard promises appreciable benefits at a cost which industry can absorb.
+This justification is deficient in one crucial way: substantial evidence does not support OSHA's conclusion that benefits are likely to be appreciable.
+Without an estimate of benefits supported by substantial evidence, OSHA is unable to justify a finding that the benefits to be realized from the standard bear a reasonable relationship to its one-half billion dollar price tag.
+OSHA's assumption that the standard is likely to result in benefits is not unsupported.
+The divided opinion in the scientific community over the existence or not of safe threshold levels of exposure to carcinogens provides substantial evidence which would support the finding that exposure to benzene at the present level of 10 ppm poses some leukemia risk.
+The general agreement in the scientific community that exposure to carcinogens at low levels is safer than exposure at higher levels permits the further factual deduction that reducing the permissible exposure limit from 10 ppm to 1 ppm will result in some benefit.
+This finding and deduction, however, does not yield the conclusion that measurable benefits will result, and OSHA is unable to point to any studies or projections supporting such a finding.
+As we noted in Aqua Slide , mere rationality is not equivalent to substantial evidence that conditions required by standards are reasonably necessary.
+569 F.2d at 841 .
+The lack of substantial evidence of discernable benefits is highlighted when one considers that OSHA is unable to point to any empirical evidence documenting a leukemia risk at 10 ppm even though that has been the permissible exposure limit since 1971.
+OSHA's assertion that benefits from reducing the permissible exposure limit from 10 ppm to 1 ppm are likely to be appreciable, an assumption based only on inferences drawn from studies involving much higher exposure levels rather than on studies involving these levels or sound statistical projections from the high-level studies, does not satisfy the reasonably necessary requirement limiting OSHA's action.
+Aqua Slide requires OSHA to estimate the extent of expected benefits in order to determine whether those benefits bear a reasonable relationship to the standard's demonstrably high costs.
+We are not persuaded by OSHA's argument that this standard should be upheld since the lack of knowledge concerning the effects of exposure to benzene at low levels makes an estimate of benefits expected from reducing the permissible exposure level impossible.
+23 The statute requires all conditions imposed by a standard to be reasonably necessary to provide safe or healthful employment, and it requires decisions to be based on "the best available evidence," "research, demonstrations, experiments, and such other information as may be appropriate," "the latest scientific data in the field," and "experience gained under this and other health and safety laws."
+By requiring the consideration of such kinds of information, Congress provided that OSHA regulate on the basis of knowledge rather than on the unknown.
+But see Society of Plastics Industry, Inc. v. OSHA , 509 F.2d 1301, 1308 (2d Cir. 1975).
+Until OSHA can provide substantial evidence that the benefits to be achieved by reducing the permissible exposure limit from 10 ppm to 1 ppm bear a reasonable relationship to the costs imposed by the reduction, it cannot show that the standard is reasonably necessary to provide safe or healthful workplaces.
+This does not mean that OSHA must wait until deaths occur as a result of exposure at levels below 10 ppm before it may validly promulgate a standard reducing the permissible exposure limit.
+See Florida Peach Growers Association, Inc. v. United States Department of Labor , 489 F.2d 120, 132 (5th Cir. 1974).
+Nevertheless, OSHA must have some factual basis for an estimate of expected benefits before it can determine that a one-half billion dollar standard is reasonably necessary.
+For example, when studies of the effects of human exposure to benzene at higher concentration levels in the past are sufficient to enable a dose-response curve 24 to be charted that can reasonably be projected to the lower exposure levels, or when studies of the effects of animal exposure to benzene 25 are sufficient to make projections of the risks involved with exposure at low levels, then OSHA will be able to make rough but educated estimates of the extent of benefits expected from reducing the permissible exposure level from 10 ppm to 1 ppm.
+Until such estimates are possible, OSHA does not have sufficient information to determine that a standard such as the one under review which it can only say might protect some worker from a leukemia risk is reasonably necessary.
+We will not attempt to reconcile our decision with the cases from other circuits which uphold other standards regulating exposure to carcinogens.
+See Industrial Union Department, AFL-CIO v. Hodgson , 162 U.S.App.D.C.
+331 , 499 F.2d 467 (1974) (asbestos dust standard); Society of Plastics Industry, Inc. v. OSHA , 509 F.2d 1301 (2d Cir. 1975) (vinyl chloride standard); American Iron & Steel Institute et al.
+v. OSHA , 577 F.2d 825 , No. 76-2358 et al.
+(3d Cir., filed March 28, 1978) (coke oven emission standard).
+Those opinions did not address what Congress meant by requiring the conditions imposed by standards to be reasonably necessary to provide safe or healthful places of employment.
+In this circuit, under our Aqua Slide decision, substantial evidence must support a finding that those conditions are reasonably necessary, a showing that OSHA has not made.
+In addition, those cases were decided on their own records.
+Without critical analysis of what was established in those proceedings, we hold in today's case that Congress intended for OSHA to regulate on the basis of more knowledge and fewer assumptions than this record reflects.
+OSHA's failure to provide an estimate of expected benefits for reducing the permissible exposure limit, supported by substantial evidence, makes it impossible to assess the reasonableness of the relationship between expected costs and benefits.
+This failure means that the required support is lacking to show reasonable necessity for the standard promulgated.
+Consequently, the reduction of the permissible exposure limit from 10 ppm to 1 ppm and all other parts of the standard geared to the 1 ppm level must be set aside.
+V. OSHA's prohibition of dermal contact with benzene is based on "OSHA's policy that, in dealing with a carcinogen, all potential routes of exposure ( i. e. , inhalation, ingestion, and skin absorption) be limited to the extent feasible."
+43 Fed.Reg.
+5948 .
+OSHA, while acknowledging that the record evidence on the effect of benzene on the skin is "extremely limited" and that the few studies in the area "are not definitive as to the extent of benzene that is absorbed through the intact skin or as to the comparative rate of absorption through damaged skin," 43 Fed.Reg.
+5948-49 , nevertheless decided to prohibit dermal contact with liquids containing benzene.
+In arriving at this decision OSHA relied on animal studies and one human study suggesting that benzene is absorbed through intact skin, on the assumption that benzene would more readily be absorbed through damaged skin than undamaged skin, and on the belief that substances containing benzene are readily absorbed through the skin and act as vehicles for absorption of benzene.
+OSHA now seeks in part to justify this prohibition as an adjunct to the permissible exposure limit for airborne concentrations of benzene and because of a concern for dermatitis.
+To the extent that the dermal contact prohibition is an adjunct of the permissible exposure limit, it would have to be set aside along with the permissible exposure limit.
+The concern for dermatitis, on the other hand, appears to be a post hoc rationalization for the dermal contact prohibition since it was not a significant part of OSHA's reasoning process that led to this provision.
+26 The requirements of this standard were based on the possible leukemia hazard associated with exposure to benzene, 43 Fed.Reg.
+5918 , 5948, and our review must be of the reasoning process of the agency at the time it promulgated the standard based on the record before it.
+Dry Color Manufacturers' Association, Inc. v. Department of Labor , 486 F.2d 98, 104 n.8 (3d Cir. 1973).
+The user petitioners contend that substantial evidence and the best available evidence do not support a finding that the dermal contact provisions are reasonably necessary to provide safe or healthful employment, and in addition they contend that the dermal contact prohibition is not feasible since it is impossible for certain industries to operate without some dermal contact with liquids containing small amounts of benzene.
+Since the amendment to the standard on June 21, 1978, significantly affects the feasibility issue, we will not address that issue in this opinion.
+We agree with the users, however, that OSHA has not shown the dermal contact prohibition to be reasonably necessary to protect workers from contracting benzene-related leukemia since readily available evidence of the kind Congress required OSHA to consider was neglected.
+The record therefore fails to support the finding that benzene is absorbed through the skin.
+Since entry to the body by dermal contact was not established, the record will not support a finding that the prohibition of all dermal contact with benzene will result in quantifiable benefits in terms of a reduced risk of leukemia justifying the costs of the provision.
+Thus reasonable necessity is lacking here too.
+Studies of whether benzene is absorbed by the skin of animals, conducted in the first half of this century, are referred to in this record during the course of expert testimony and as background material in later studies of whether benzene can be absorbed by human skin.
+Though these studies reached different conclusions, their relevance with respect to the issue of absorption of benzene by human skin has been questioned since there are important differences between the permeability of the skins of animals and humans.
+The studies concluding that benzene penetrates skin of certain animals have also been criticized since the possibility of benzene inhalation was not excluded and since there was no guarantee that the skin remained intact through the course of the experiment.
+Between 1946 and 1961, experiments were conducted to determine whether human skin absorbed benzene.
+Although the first several of these studies conducted in the late 1940's and mid-1950's had negative results, one study published in 1961 found that some absorption had occurred and concluded that "the absorption of benzene throughout the skin must not be neglected."
+The record reveals problems in the interpretation of all of these studies, however.
+In particular, the 1961 study reporting positive results used a technique, compressing benzene-soaked cotton against the skin with a glass plate for prolonged periods, that is recognized today as an efficient way to drive molecules into the skin.
+The oral testimony on the issue of skin absorption of benzene is very limited.
+Representatives of the National Institute of Occupational Safety and Health testified that they were of the opinion that benzene can be absorbed through the skin, and that absorption is more likely when the skin is damaged or when the benzene is contained in a solvent which itself is absorbed.
+Except for a passing reference to what appears to be the 1961 positive study, these witnesses did not attempt to support their opinions by reference to empirical data.
+The one expert dermatologist who testified in depth on the issue of skin absorption of benzene, Dr. Howard Maibach of the University of California Medical Center, after summarizing and discussing critically the studies that have been conducted to date, concluded that "in 1977 it is extremely difficult, if not impossible, to balance all of the information that is available.
+Admittedly, the overwhelming majority of the observations suggest that benzene does not penetrate the skin.
+One observation suggests that it does."
+Dr. Maibach testified that he did not know whether benzene is absorbed through the skin; that he did not know whether benzene would be more readily absorbed through damaged skin than intact skin, although the assumption, unsupported by any data, is that it would be; and that he did not know whether benzene would be absorbed more readily if it is in another solvent.
+Were this the extent of the record on the issue of skin absorption, OSHA's finding that dermal contact with benzene poses a cancer risk could pass muster.
+When available evidence of equivalent quality is conflicting, a finding in accordance with one view or the other should be considered to be supported by substantial evidence.
+See Universal Camera Corp. v. NLRB , 340 U.S. 474, 488 , 71 S.Ct. 456, 465 , 95 L.Ed. 456 (1951).
+This record speaks further on the issue of skin absorption, however, and in light of OSHA's statutory command this additional evidence removes the support for OSHA's actions.
+Dr. Maibach, following his conclusion that the studies conducted to date were not definitive on the issue of whether human skin absorbed benzene, stated: Dr. Maibach testified that this experimental technique can answer a number of questions other than whether any benzene penetrates the skin, including demonstrating any differences in existence and extent of absorption of various parts of the body which may be exposed; whether benzene applied to the skin has the same toxic potential as benzene inhaled; whether multiple exposures result in correspondingly greater absorption than a single exposure; whether it is possible for one to protect himself by wearing protective clothing; whether and to what extent the amount of benzene absorbed through the skin is dependent upon benzene concentration; whether, because of its volatility, benzene splashed onto the skin evaporates more rapidly or goes through the skin more rapidly; and whether benzene is absorbed more readily if it is in another solvent.
+Dr. Maibach testified that the experiment would be relatively short term in length (six to twelve weeks), that the techniques are straightforward and reliable, and that the experiment could be done by anybody having the analytic facilities available.
+This testimony about the availability and reliability of modern experimental techniques is unrefuted in the record.
+OSHA's decision to regulate on the basis of dated, inconclusive data when modern experimental methods can quickly and efficiently provide reliable information contravenes the directive from Congress to promulgate standards on the basis of the "best available evidence," "research, demonstrations, experiments, and such other information as may be appropriate," and "the latest available scientific data in the field."
+29 U.S.C.A. 655(b)(5) .
+This is not a case where there is testimony that additional sophisticated research could be attempted, but might not shed new light on a subject.
+To the contrary, unrefuted testimony reveals the existence of simple experimental techniques, tried and proved effective for over 100 organic compounds, that can provide accurate information on the factual issues OSHA admits are unresolved by the past studies.
+27 When such factual information is so readily available, 29 U.S.C.A. 655(b)(5) requires OSHA to acquire that information before promulgating regulations which would require an established industry to change long-followed work processes that are not demonstrably unsafe.
+In light of unrefuted testimony on the ready availability of conclusive evidence on the subject, OSHA's choice to rely on old and inconclusive evidence that there is a possibility of absorption of benzene through the skin which might cause cancer is in clear disregard of the congressional directive as to the kinds of evidence OSHA is required to consider.
+Therefore, the provision of the standard prohibiting dermal contact with liquid benzene cannot stand on the present record.
+VI.
+The reduction of the permissible exposure limit and the prohibition of dermal contact are the provisions of the benzene standard to which all the standard's other requirements are tied.
+Since neither of these provisions can be upheld on the present record, it follows that the standard as a whole must be set aside.
+Although we vacate the labeling provision in conjunction with the rest of the standard, this or some similar requirement is sure to be considered by OSHA on remand.
+Therefore, we address the user petitioners' jurisdictional attack on one aspect of that provision.
+The labeling provision generally requires the employer to assure that caution labels are affixed to all containers of benzene and benzene-containing products.
+In the aspect of the provision under attack, OSHA further requires each employer to "assure that the caution labels remain affixed when the benzene or products containing benzene are sold, distributed or otherwise leave the employer's workplace."
+By requiring caution labels to remain affixed when benzene products leave an employer's workplace, OSHA intended to assure that all employees along the product's distribution chain are apprised of the hazardous nature of benzene exposure.
+43 Fed.Reg.
+5960 .
+It relied on the authority given to it by 29 U.S.C.A. 655(b)(7) to require the use of warning labels in standards, and it concluded that this authority was not limited to requiring an employer to warn his own employees of the hazardous products he manufactures.
+Since the manufacturer of a product containing a toxic substance (and subsequent employers who have been informed of the hazard) is in the best position to know of the hazard and warn others down the distribution chain, OSHA concluded that the protective purposes of the Act would best be served by requiring the manufacturers to refrain from taking steps designed to withhold information concerning the dangers of the products from downstream workers.
+The petitioners contend that the Act gives OSHA the jurisdiction to regulate workplaces, not products.
+They argue that OSHA here is claiming the authority to regulate finished products leaving the workplace, an authority that would transform what was intended to be a federal workplace safety code into a federal product safety code.
+The petitioners contend that Congress intended to place the responsibility for protecting each employee on his or her own employer, an allocation of responsibility that has proved workable in all but unusual circumstances such as the multiemployer construction worksite; and that, since all employers would be required to assure that benzene-containing products in their own workplaces are labeled, and the usual allocation of responsibility for labeling would be workable and effective.
+Cases involving multiemployer construction worksites have recognized a duty on an employer to comply with OSHA standards in order to protect the employees of another employer.
+See Brennan v. Occupational Safety & Health Review Commission and Underhill Construction Corp. , 513 F.2d 1032 (2d Cir. 1975) ( Underhill ); Marshall v. Knutson Construction Co. , 566 F.2d 596 (8th Cir. 1977); Beatty Equipment Leasing, Inc. v. Secretary of Labor , 577 F.2d 534 (9th Cir. 1978).
+These cases involved citations for violations of 29 U.S.C.A. 654(a) , which imposes two duties on employers: In holding that the 654(a)(2) duty could be violated even though the cited employer's employees were not shown to have been exposed to the hazard created by the violation, the Underhill court emphasized that the 654(a)(2) duty, unlike the 654(a)(1) duty, was "in no way limited to situations where a violation of a standard is linked to exposure of his employees to the hazard."
+513 F.2d at 1038 (emphasis in original).
+In reaching its conclusion, the court relied on the broad remedial purpose of the Act and on the fact that the cited employer had created the hazard and maintained the area where it was located.
+In agreeing with this analysis, the Beatty court stated: 29 U.S.C.A. 651 577 F.2d at 537 .
+The duty on one employer to comply with OSHA standards for the benefit of employees of another employer, however, has only been expressly recognized in the multiemployer construction worksite context.
+In deciding whether an OSHA standard can require an employer to assure that a warning label remains affixed when a benzene-containing product leaves his workplace in order to protect downstream employees, we too must keep in mind the Act's overall purpose "to assure so far as possible every working man and woman in the Nation safe and healthful working conditions."
+29 U.S.C.A. 651(b) .
+In this light the provision of the statute requiring OSHA to prescribe labeling of hazards is broad in scope: 29 U.S.C.A. 655(b)(7) .
+Unlike some sections of the Act, this provision does not expressly limit the employer's obligation of informing employees of hazardous conditions to the employer's own employees.
+The ability of downstream employers to protect their own employees is also an appropriate consideration in determining where the duty to warn should lie.
+Cf. Anning-Johnson Co. v. Occupational Safety and Health Review Commission , 516 F.2d 1081, 1086-91 (7th Cir. 1975).
+This record reveals that the presence of benzene in a workplace is often a hidden hazard.
+Some industries refer to benzene under code or trade names, and many products containing benzene are sold only under trade names with no listing of contents.
+Under such circumstances it is apparent that the manufacturer of a benzene-containing product is in a far better position to warn downstream employees in operations using the benzene-containing product of the benzene hazard than is a downstream employer.
+Considering the purpose of the Act to protect every working person in the nation, the express and broad statutory authorization for OSHA to prescribe warning labels in standards, and the fact that the presence of benzene in a product is often a concealed hazard, we agree with OSHA that it has the authority to prohibit an employer from removing the warning labels from containers of benzene and benzene products when those containers leave his workplace.
+This is not a situation where OSHA is imposing a heavy regulatory burden on an employer solely for the benefit of the employees of another.
+Rather, the regulation says no more than that an upstream employer may not take affirmative steps to withdraw from downstream employees a protection that he must furnish to his own employees.
+The obvious reluctance of the maker of a product to intimate or suggest to his consumers that his product is less than totally desirable is understandable.
+Such a consideration may even be shown to have such deleterious effect on sales that it affects the reasonable necessity for this feature of the regulation.
+See , Aqua Slide , 569 F.2d at 840-43 .
+In such a case, OSHA may choose to eliminate the requirement altogether.
+It may also choose to moderate the label's description to more precisely describe the nature or extent of the hazard.
+Placing the responsibility to warn downstream employees of concealed hazards on those upstream employers who create the hazards and know of the hazards is consistent with the remedial purpose of the Act and is within OSHA's broad authority to prescribe warning labels.
+If on remand OSHA decides to promulgate a new benzene standard which includes warning labels, OSHA may require an employer in the chain of distribution of those products to assure that such warning labels remain affixed when the product leaves the employer's workplace, provided, of course, the labeling requirement as a whole is shown to be reasonably necessary to provide safe workplaces.
+The user petitioners also contend that OSHA's authority to require labeling of products containing benzene has been preempted under 29 U.S.C.A. 653(b)(1) 28 by the Consumer Product Safety Commission, which has promulgated regulations under the Federal Hazardous Substances Act, 15 U.S.C.A. 1261 et seq.
+, 29 requiring the labeling of products containing benzene.
+See 16 C.F.R. 1500.14(a)(3) , (b)(3) (1977).
+We reject this argument.
+The preemption provision was intended to avoid the "duplication that would result where another federal agency was also providing for the occupational safety of a class of workers."
+Organized Migrants in Community Action, Inc. v. Brennan , 172 U.S.App.D.C.
+147, 153 , 520 F.2d 1161, 1167 (1975).
+It applies only when the preempting regulation is "directed at a working condition," Southern Pacific Transportation Co. v. Usery , 539 F.2d 386, 391 (5th Cir. 1976), which the promulgating agency has authority to regulate.
+The Consumer Product Safety Commission's regulation is not designed to protect a class of workers and it is not directed at the working conditions of employees.
+Although an existing requirement for labeling under another act may affect the reasonable necessity for an OSHA requirement, 29 U.S.C.A. 653(b)(1) does not prohibit OSHA from requiring containers of benzene products to bear the warning labels authorized by 29 U.S.C.A. 655(b)(7) .
+Conclusion The petitions for review are granted.
+The reduction of the airborne permissible exposure limit from 10 ppm to 1 ppm is set aside since the present record does not show that such a reduction is reasonably necessary to provide safe or healthful employment.
+The dermal contact prohibition is set aside since this provision was not based on the best available evidence or the latest available scientific data in the field.
+The remaining provisions of the standard are also vacated since they are ancillary to the permissible exposure limit reduction and the dermal contact prohibition.

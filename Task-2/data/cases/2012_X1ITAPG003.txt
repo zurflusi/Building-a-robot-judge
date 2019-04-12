@@ -1,0 +1,144 @@
+ E. GRADY JOLLY, Circuit Judge: Appellants, manufacturers and distributors of liquid crystal display ("LCD") panels, jointly removed this case to federal district court on the grounds that (1) the action was a "class action" under the Class Action Fairness Act ("CAFA"), 28 U.S.C. 1832(d)(1)(B) , or (2) the action was a "mass action" under the CAFA, 1332(d)(11)(B) .
+The State of Mississippi, Appellee, then moved to remand the case to state court, and the district court granted the motion.
+Because we find that the suit qualifies as a mass action under the CAFA, we find removal to be proper.
+Accordingly, we REVERSE the district court's remand order and REMAND for further proceedings.
+I. Ordinarily, a district court's remand order is not appealable, see 28 U.S.C. 1447 (d); however, there is a statutory exception to this rule that grants federal appellate courts discretionary jurisdiction to review remand orders in actions that are removed under the CAFA.
+See 28 U.S.C. 1453 (c).
+We review de novo a district court's order remanding an action that was removed pursuant to the CAFA.
+Admiral Ins. Co. v. Abshire , 574 F.3d 267 , 272 (5th Cir.2009).
+II.
+Under the CAFA, removal of a suit to federal court is proper if the suit qualifies as a "class action" or a "mass action."
+See 28 U.S.C. 1453 (b); 28 U.S.C. 1332 (d)(11)(A).
+Our analysis begins by considering whether Mississippi's suit against the LCD manufacturers qualifies as a "class action," a question that can be answered quickly in the negative.
+Under the relevant provision, a class action is defined as "any civil action filed under Rule 23 of the Federal Rules of Civil Procedure or similar State statute or rule of judicial procedure authorizing an action to be brought by 1 or more representative persons as a class action."
+28 U.S.C. 1332 (d)(1)(B).
+Because Mississippi did not bring this suit under Rule 23 or a rule of judicial procedure and because Mississippi state law explicitly prohibits class actions, see Am.
+Bankers Ins. Co. of Flcu v. Booth , 830 So.2d 1205 , 1214 (Miss.2002) ("[T]he rule is that Mississippi does not permit class actions, even equitable class actions in chancery court.
+"), the only question is whether the suit is brought under a state statute "similar" to Rule 23 .
+This suit was brought under the Mississippi Consumer Protection Act ("MCPA"), Miss.
+Code Ann. 75-24-1 et seq.
+, and the Mississippi Antitrust Act ("MAA"), Miss.Code Ann. 75-21-1 et seq.
+The MCPA explicitly forbids class actions, see Miss.Code Ann. 75-24-15(4) , and the MAA does not require that suits brought by the State satisfy any requirements that resemble the adequacy, numerosity, commonality, and typicality requirements of class action law-suits under Rule 23 , see Miss.Code Ann. 75-21-7 .
+It is thus clear that neither the MCPA nor the MAA, the statutes under which Mississippi brings the present suit, are "similar" to Rule 23 .
+Accordingly, we hold that the district court did not err in finding that the suit does not qualify as a "class action" under the CAFA.
+III.
+This conclusion brings us to the more difficult question: whether this suit qualifies as a "mass action" under the CAFA.
+Under the terms of the statute, a mass action is defined as a civil action in which (1) monetary relief claims of (2) 100 or more persons (3) are proposed to be tried jointly on the ground that the plaintiffs' claims involve common questions of law or fact and (4) include an amount in controversy exceeding $75,000.
+28 U.S.C. 1332 (d)(11)(B)(i).
+It is undisputed that the present suit involves "monetary relief claims, see Compl.
+54, ¶¶ 2, 3, and that the relief sought satisfies the amount in controversy requirement.
+Therefore, the decisive question is whether the suit involves the claims of "100 or more persons."
+If so, the suit is a mass action, and removal is proper.
+In Louisiana ex rel.
+Caldwell v. Allstate Insurance Company , we first considered the application of the mass action provision to a suit filed by a state attorney general on behalf of a subset of injured citizens.
+536 F.3d 418 , 429-30 (5th Cir.2008).
+Caldwell instructs us to pierce the pleadings and look at the real nature of a state's claims so as to prevent jurisdictional gamesmanship.
+See id. at 424-25 , 429 ("It is well-established that in determining whether there is jurisdiction, federal courts look to the substance of the action and not only at the labels that the parties may attach.
+.
+.
+.
+This court has recognized that defendants may pierce the pleadings to show that the claim has been fraudulently pleaded to prevent removal."
+(citations and inset quotation marks omitted)).
+The Caldwell claim-by-claim approach contrasts with other circuits that look to a state's complaint "as a whole" and then subjectively determine if the state alone is the real party in interest.
+See, e.g., Nevada v. Bank of Am. Corp. , 672 F.3d 661 , 670 (9th Cir.2012); LG Display Co., Ltd. v. Madigan , 665 F.3d 768 , 774 (7th Cir.2011).
+Caldwell , binding precedent on this court, effectively defined "persons" in the mass action context to be the real parties in interest as to the respective claims.
+See Caldwell , 536 F.3d at 424-25 , 429 .
+We follow its approach.
+The real parties in interest in Mississippi's suit are those more than 100 persons who, "by substantive law, possess[] the right sought to be enforced, and not necessarily the person who will ultimately benefit from the recovery."
+Richards v. Reed , 611 F.2d 545 , 546 n. 2 (5th Cir.1980) (inset quotations omitted); Charles Alan Wright & Mary Kay Lane, LAW OF FEDERAL COURTS 492 (6th ed.2002).
+We find that the real parties in interest are numerous — far in excess of 100.
+Contrary to the State's assertions, Mississippi is thus not the sole party in interest.
+Instead, the State (as a purchaser of LCD products) and individual citizens who purchased the products within Mississippi possess "rights sought to be enforced."
+We have several bases for this conclusion.
+First, the complaint: When the State sued the LCD manufacturers, its claim was that the manufacturers had engaged in a conspiracy to fix prices for LCD panels and that their conduct artificially inflated prices, which harmed the consumers who were forced to pay higher prices.
+In its complaint, the State includes a series of diverse statements about the nature of the injury involved.
+At times, it seems to be arguing the injury is "generalized harm" to the State as a whole.
+See Compl.
+2, ¶ 1 ("[T]he State of Mississippi has a quasi-sovereign interest in the direct and indirect effect of defendants' illegal conspiracy on the state's economy and the citizens' economic condition.
+"); Compl.
+51, ¶ 194(g) ("The economy of the state of Mississippi has been damaged.").
+At other times, the Complaint indicates the injury it seeks to remedy with money damages is the injury suffered by the purchaser consumer.
+See Compl.
+38, ¶ 145 ("Defendants' conspiracy to raise .
+.
+.
+the price of LCD panels at artificial levels resulted in harm to Plaintiff and other indirect-purchaser consumers in Mississippi .
+.
+.")
+(emphasis added); Compl.
+44, ¶ 169 ("[D]efendants have passed through .
+.
+.
+to their customers 100% of the supra -competitive price increases that resulted from the defendants' conspiracy .
+.
+.")
+(emphasis added); Compl.
+51, ¶ 194(f) ("Plaintiff and other Mississippi indirect purchasers have paid supra -competitive, artificially inflated prices for LCD products.")
+(emphasis added); Compl.
+54, ¶ 3 (Plaintiff is bringing this action " on behalf of Mississippi residents .
+.
+. ")
+(emphasis added).
+We think the variety of allegations demonstrate that the real parties in interest include not only the State, but also individual consumers residing in Mississippi.
+Second, the state statutes: Neither the MCPA nor the MAA, the statutory bases of the State's suit, give the State sole authority to recover for particularized injuries suffered by consumers.
+The MCPA gives the State authority to seek injunctive relief and civil penalties, see Miss.Code Ann. 75-24-9 ; 75-24-19(1)(b) , and may indeed be interpreted as giving the State authority to seek restitution for its own injury, see Miss.Code Ann. 75-24-11 .
+However, no provision of the MCPA gives the State authority to enforce claims for injuries suffered by others.
+In other words, the statute does not authorize public collection of private damages.
+Similarly, the MAA allows the State to sue for injunctive relief and civil penalties, see Miss.Code Ann. 75-21-1 ; 75-21-7 , but not for restitution for injuries suffered by parties other than the State, see 75-21-9 ; 75-21-37 .
+To be sure, there is one unpublished Mississippi state case (from a chancery trial court) that lends support, under 75-24-11 , for the proposition that a court may "restore" damages to an individual for a particularized injury, and also to the state on the basis of some generalized harm.
+See Miss, ex rel.
+Hood v. BASF Corp. , No. 56863 , 2006 WL 308378 (Miss.Ch.
+Jan. 17, 2006).
+But even if BASF Corporation were a more authoritative precedent, it cannot be denied that the case before us is distinguishable; the crucial question before us was not dealt with by the BASF Corporation court — namely, who are the real parties in interest?
+Our case involves generalized and individual harms, which demonstrate the real parties in interest are both the State and consumers.
+In short, BASF Corporation does not provide the State with the power it seeks to assert "ownership" over all individualized claims in the name of the State.
+Third and finally, common law parens patriae authority: Even assuming arguendo that the State has parens patriae standing to bring the claims here (an issue that we do not decide), that standing does not change the fact that Mississippi is acting, not in its parens patriae capacity, but essentially as a class representative.
+Although the relevant statutory provision does not appear on the face of the complaint, we note that Mississippi law gives the state attorney general "powers at common law."
+Miss.Code Ann. 7-5-1 .
+The State argues that parens patriae authority under common law allows the attorney general to bring the current suit, which, as we have seen, involves alleged state injury based on harm suffered by individual claimants.
+This argument fails to account for the precise nature of the injury in this case and thus also fails to establish the State as the sole party in interest.
+As a general background principle, Caldwell reminds us that there are limitations on states' parens patriae authority.
+536 F.3d at 425-28 ("[I]t is clear that .
+.
+.
+there are some limitations [on parens patriae actions], particularly when a state is seeking to recover damages for alleged injuries to its economy.").
+The Supreme Court, for example, has stated that when a state pursues the interests of a private party, the state is not asserting its sovereign interest, and the state remains only a nominal party.
+Snapp v. Puerto Rico , 458 U.S. 592 , 602 , 102 S.Ct. 3260 , 73 L.Ed.2d 995 (1982).
+That directive may apply here, where Mississippi is pursuing the interests of LCD purchasers.
+And even ignoring the Supreme Court and Caldwell 's caveats regarding the over-extension of parens patriae to suits to which that concept should not attach, two additional considerations demonstrate that the State is not the sole party in interest.
+Mississippi law clearly prohibits double recovery for the same harm to respective class members.
+See City of Jackson v. Estate of Stewart ex rel.
+Womack , 908 So.2d 703 , 711 (Miss.2005).
+Thus, the state cannot recover for the injury to the consumers and still preserve the right of the consumers to recover, a right that the consumers clearly have under the statutes pursuant to which the suit is brought.
+See Miss.Code Ann. 75-24-15 ; 75-21-9 .
+In short, we have been directed to no statutory or common law that permits the State to extinguish the right and remedy the consumer has for his injury.
+There is, finally, the all too troubling suggestion by the plaintiff that Mississippi could obtain restoration for harm to individual citizens, yet keep that money for itself.
+We think that consideration, coupled with the reasons provided above, is enough to find against the State having carte blanche to recover for others' injuries under common law parens patriae authority.
+After analyzing the complaint, the relevant statutes, and the parens patriae authority of the State, we hold that the real parties in interest in this suit include both the State and individual consumers of LCD products.
+Because it is undisputed that there are more than 100 consumers, we find that there are more than 100 claims at issue in this case. The suit therefore meets the CAFA definition of a "mass action."
+See 28 U.S.C. 1332 (d)(11)(B)(i).
+IV.
+This conclusion alone, however, does not yield a final result.
+The CAFA contains a number of disqualifying exceptions to the term "mass action."
+Of these, the "general public" exception is relevant here.
+It provides that a suit is not a mass action if "all of the claims in the action are asserted on behalf of the general public (and not on behalf of individual claimants or members of a purported class) pursuant to a State statute specifically authorizing such action."
+28 U.S.C. 1332 (d)(11)(B)(ii)(III).
+But this public exception does not exempt this case from the CAFA and federal jurisdiction.
+The requirement that "all of the claims" be asserted on behalf of the public is not met here.
+As discussed above, individual consumers, in addition to the State, are real parties in interest, so there is no way that "all of the claims" are "asserted on behalf of the general public."
+Accord Mississippi ex re I. Hood v. Entergy Mississippi, Inc. , No. 3:08cv780 , [ 2012 BL 219320 ], 2012 WL 3704935, at *15 (S.D.Miss.
+Aug. 25, 2012) (A "finding that the State has brought [an] action in its representative capacity to recoup restitution for individual[s] .
+.
+.
+precludes application of the general public exception.").
+We do, however, acknowledge the concern that finding the general public exception inapplicable here may render such statutory exception a dead letter (because finding a suit to be a mass action negates the possibility of the exception applying), and we welcome congressional clarification of this issue.
+[fn1] Nevertheless, the argument that our finding vitiates the application of the exception must yield to our responsibility to apply the unambiguous, express language of a statute as written.
+Davis v. Johnson , 158 F.3d 806 , 810 (5th Cir.1998).
+Here, doing precisely that (i.e., finding a suit to be a mass action because "monetary relief claims of 100 or more persons" are at issue) precludes us from finding that the general public exception applies.
+V. At its core, this case practically can be characterized as a kind of class action in which the State of Mississippi is the class representative.
+By proceeding the way it has, the plaintiff class and its attorneys seek to avoid the rigors associated with class actions (and avoid removal to federal court).
+See generally, Waltzing through a Loophole: How Parens Patriae Suits Allow Circumvention of the Class Action Fairness Act , 83 U. Colo. L.Rev.
+549 (2012).
+Because this suit is a mass action under the terms of the CAFA, removal is proper.
+[fn2] The judgment of the district court is therefore REVERSED, and the case is REMANDED for further proceedings.
+REVERSED and REMANDED.

@@ -1,0 +1,186 @@
+ KEARSE , Circuit Judge: Plaintiff Carolyn Robinson, convicted of larceny in state court and ordered, as a condition of the probation to which she was sentenced, to repay the amount wrongfully received to the Connecticut Office of Adult Probation ("COAP"), appeals from a judgment of the United States District Court for the District of Connecticut, T.F.
+Gilroy Daly, Chief Judge , declaring that her obligation to make the criminal restitution payments to COAP was not discharged by the order of discharge granted Robinson in her subsequent bankruptcy proceeding under Chapter 7 of the Bankruptcy Code, 11 U.S.C. 701-766 (1982).
+The court ruled that criminal restitution obligations are not "debts" within the meaning of the Bankruptcy Code, 11 U.S.C. 101 et seq.
+(1982), and that, even if such obligations are debts, they are "penalties" excepted from discharge by 523(a)(7) of the Code, 11 U.S.C. 523(a)(7) .
+For the reasons below, we disagree with the court's interpretations of the Code, and we reverse and remand.
+I. BACKGROUND The material facts are not in dispute.
+In 1980, Robinson was convicted of larceny in the second degree for wrongfully receiving $9,932.95 in Public Assistance benefits from the Connecticut Department of Income Maintenance ("CDIM") while simultaneously receiving Social Security benefits.
+On November 14, 1980, she was sentenced by the Connecticut Superior Court to, inter alia , a five-year term of probation; as one of the conditions of that probation, the Connecticut court ordered Robinson to make restitution of the Public Assistance benefits wrongfully received by paying $9,932.95 to the predecessor of COAP (also referred to hereinafter as "COAP"), in monthly installments of $100 beginning January 16, 1981.
+Robinson complied through May 4, 1981, making payments totaling $450.
+On February 5, 1981, Robinson filed a voluntary petition under Chapter 7 in the United States Bankruptcy Court for the District of Connecticut.
+Part of that petition was a schedule of creditors which listed, inter alios , CDIM as having a claim of $6,000 for "public assistance" and COAP as having a claim of $9,932.95 for "restitution."
+On February 20, 1981, the bankruptcy court notified both COAP and CDIM of Robinson's Chapter 7 petition, and informed them that April 27, 1981, was the last day for the filing of objections to discharge and "complaints to determine the dischargeability of any debt pursuant to 11 U.S.C. section 523(c) ."
+Neither COAP nor CDIM filed a proof of claim, or an objection to discharge, or a complaint to determine the dischargeability of its claim.
+On May 14, 1981, the bankruptcy court issued an order (the "Discharge Order") discharging Robinson "from all dischargeable debts," declaring "null and void" all existing or future judgments that purported to hold Robinson personally liable with respect to any such dischargeable debts, and enjoining all creditors whose debts were thereby discharged from thereafter endeavoring to collect such debts.
+On May 20, 1981, Robinson's attorney wrote COAP, stating that the Discharge Order discharged Robinson's obligation to make restitution payments to COAP and that Robinson had been advised by the attorney that she need make no further restitution payments.
+The letter urged COAP, if it disagreed with the view that Robinson's obligation had been discharged, to contact the attorney immediately.
+COAP apparently did not respond, and Robinson ceased making restitution payments.
+Nearly three years later, in February 1984, COAP informed Robinson that its policy was "that the condition of probation concerning restitution is valid and not dischargeable," that it "intend[ed] to enforce the [restitution] order to the fullest extent possible," and that it was requesting that Robinson resume payment.
+Robinson responded by filing the present adversary proceeding in bankruptcy court against COAP, CDIM, and other state officials, seeking a judgment, inter alia , declaring that the Discharge Order had discharged her restitution obligations to COAP and CDIM, enjoining defendants from taking any steps to obtain further restitution payments, and awarding her compensatory and punitive damages and attorney's fees.
+Robinson moved for preliminary injunctive relief against defendants' taking steps to enforce payment, revoke probation, or report a violation of probation.
+Following a brief trial on the merits, the bankruptcy court, Alan H.W.
+Shiff, Judge , entered a brief Memorandum and Proposed Order, reported at 45 B.R. 423 (Bankr.D.Conn.1984), denying all of the relief sought by Robinson.
+The court concluded that 101(11) arguendo 523(a)(7) Id. at 424-25 (footnotes omitted).
+The court based its ruling on its prior, more fully explicated, decision in In re Pellegrino , 42 B.R. 129 (Bankr.D.Conn.1984), which the court viewed as virtually identical to the present case. The bankruptcy court's proposed order was adopted by the district court, and judgment was entered in favor of the defendants, declaring that Robinson's restitution obligation had not been discharged by the Discharge Order and denying her any other relief.
+On this appeal, Robinson contends that her restitution obligation was a debt within the meaning of 101(11) of the Code, 11 U.S.C. 101(11) , that it was not excepted from discharge by any of the exceptions set forth in 11 U.S.C. 523 , and that it was, therefore, under 11 U.S.C. 727 , discharged by the Discharge Order.
+We agree with this interpretation of the Code, and we therefore reverse the district court's judgment and remand for entry of declaratory and injunctive relief in favor of Robinson, and for further proceedings on her claims for other relief.
+II.
+DISCUSSION Chapter 7 of the Bankruptcy Code allows an individual debtor who meets certain criteria, not in issue here, to obtain a discharge in bankruptcy which, "[e]xcept as provided in section 523 of [the Code], discharges the debtor from all debts that arose before the date of the order for relief under this chapter [here, the date of the filing of the voluntary petition, see 11 U.S.C. 301 (1982)] " 11 U.S.C. 727(b) .
+The effect of a discharge is to section 727 11 U.S.C. 524(a) .
+The applicability of 727(b) and 524(a) to Robinson depends, first, on whether her obligation to make restitution to COAP is properly construed as a "debt" within the meaning of those sections, and, second, if it is such a "debt," on whether any provision of 523 makes that debt nondischargeable.
+A. The Restitution Obligation as a Debt "Debt" is defined in the Code as "liability on a claim."
+11 U.S.C. 101(11) .
+A "claim" is defined as a 11 U.S.C. 101(4) .
+Focusing on the "right to payment" part of the definition, we see that a debt, within the meaning of the Code, is a liability as to which someone has a right of payment.
+In ruling that Robinson's criminal restitution obligation was not a debt, the bankruptcy court adopted the opinion in In re Pellegrino , 42 B.R. 129 , in which the court had concluded that a similar obligation was not a debt for two reasons.
+First, the Pellegrino court concluded, as a matter of statutory interpretation, that the obligation to make criminal restitution was not within the Code's definition of debt because the victim of the crime had no right to payment: "Under the [Connecticut] penal code, a victim cannot enforce a court's order of restitution if the criminal defendant fails to make payments to [COAP]."
+Id. at 132 .
+Second, the Pellegrino court ruled as a matter of policy that criminal restitution obligations should not be construed as falling within the Code's definition of debts because "'[t]he bankruptcy laws are not a haven for criminal offenders, but are designed to give relief from financial over-extension.'"
+Id. at 134 (quoting H.R.Rep.
+No. 595, 95th Cong., 2d Sess.
+("House Report") 342, reprinted in 1978 U.S.Code Cong. & Ad.News 5963, 6299).
+The court reasoned that In re Pellegrino , 42 B.R. at 134 .
+A majority of the courts that have considered this issue have adopted the same line of reasoning and held a criminal restitution obligation not a debt under the Code.
+See, e.g. , In re Button , 8 B.R. 692 (Bankr.W.D.N.Y.1981); In re Oslager , 46 B.R. 58 (Bankr.M.D.Pa.1985); In re Vik , 45 B.R. 64 (Bankr.N.D.Iowa 1984); In re Cornell , 44 B.R. 528 (Bankr.D.Conn.1984); In re Mead , 41 B.R. 838 (Bankr.D.Conn.1984); In re Cox , 33 B.R. 657 (Bankr.M.D.Ga.1983); In re Johnson , 32 B.R. 614 (Bankr.D.Colo.1983); In re Magnifico , 21 B.R. 800 (Bankr.D.Ariz.1982).
+We disagree with the reasoning and the conclusions of the Pellegrino line of cases.
+First, the literal terms of 101(4)(A) are sufficiently broad--apparently by congressional design--to define as a debt a restitution obligation as to which any person or entity, not just the crime victim, has a right to payment.
+Since, as we discuss below, COAP has a right to enforce the judgment of restitution, Robinson's restitution obligation falls within the Code's definition of debt.
+Second, the congressional statement quoted by the Pellegrino line of cases to the effect that the bankruptcy laws were not intended to be a haven for criminals is taken out of context, and the injection of that thought into the definition of "debt" ignores other facets of the statutory scheme that give evidence that Congress did not intend to exclude financial obligations arising out of crimes from its definition of debt. 1.
+The Breadth of the Definition of "Claim" The legislative history of the Code reveals that in enacting 101(4) , Congress sought the "broadest possible definition" of a claim, House Report at 309, reprinted in 1978 U.S.Code Cong. & Ad.News 5963, 6266, intending that virtually all obligations to pay money be amenable to treatment in bankruptcy proceedings.
+The present language of 101(4)(A) first appeared in H.R.
+8200, 95th Cong., 1st Sess.
+101(4)(A) , 123 Cong.Rec.
+35 ,644, 35,644 (1977).
+In the report accompanying that bill, the House of Representatives Committee on the Judiciary explained the intent of its new definition of claim as follows: Section 101(4) broadest possible definition all legal obligations of the debtor, no matter how remote or contingent, will be able to be dealt with in the bankruptcy case House Report at 180, 309 (emphasis added; footnotes omitted), reprinted in 1978 U.S.Code Cong. & Ad.News 5963, 6141, 6266.
+The Senate Report that accompanied S.2266, reprinted in Bankruptcy Reform Act of 1978: Hearings on S.2266 and H.R.
+8200 Before the Subcomm. on Improvements in Judicial Machinery of the Senate Comm. on the Judiciary , 95th Cong., 1st Sess.
+3 (1977), a bill with language identical to that of 101(4)(A) , contained an explanation of the new definition of claim identical to that contained in the House Report.
+See S.Rep.
+No. 989, 95th Cong., 2d Sess.
+("Senate Report") 21-22, reprinted in 1978 U.S.Code Cong. & Ad.News 5787, 5807-08.
+Consistent with the congressional intent evinced by the legislative history, courts construing 101(4) in a variety of contexts not involving restitutionary debts have acknowledged the breadth of the definition of claim, characterizing it as, inter alia , "broad," Ohio v. Kovacs , U.S. , 105 S.Ct. 705, 709 , 83 L.Ed.2d 649 (1985); "very broad," In re M. Frenville Co. , 744 F.2d 332, 336 (3d Cir.1984), cert. denied , U.S. , 105 S.Ct. 911 , 83 L.Ed.2d 925 (1985); "extremely broad[ ]," In re Kennise Diversified Corp. , 34 B.R. 237, 244 n. 6 (Bankr.S.D.N.Y.1983); "could not be broader," In re Thomas , 12 B.R. 432, 433 (Bankr.S.D.Iowa 1981); "broadest possible," Kallen v. Litas , 47 B.R. 977, 982 (N.D.Ill.1985); In re Vasu Fabrics, Inc. , 39 B.R. 513, 517 (Bankr.S.D.N.Y.1984); In re Johns-Manville Corp. , 36 B.R. 743, 754 n. 6 (Bankr.S.D.N.Y.1984); "all-encompassing," In re Baldwin-United Corp. , 48 B.R. 901, 903 (Bankr.S.D.Ohio 1985); In re Barnett , 42 B.R. 254, 257 (Bankr.S.D.N.Y.1984); and "sufficiently broad to cover any possible obligation," In re Smith Jones, Inc. , 26 B.R. 289, 293 (Bankr.D.Minn.1982).
+Nonetheless, as indicated above, the majority of courts that have considered whether an obligation to make criminal restitution is a debt within the meaning of the Code have concluded that it is not.
+The lone exception, so far as we are aware, is In re Brown , 39 B.R. 820 (Bankr.M.D.Tenn.1984).
+In Brown , the debtor had been placed on probation following his plea of guilty to "driving under the influence" and ordered to pay restitution to a person whose property had been damaged by the debtor's faulty driving.
+The Brown court noted that although the restitution order required the debtor to pay the victim directly, the victim himself had no right to enforce the restitution obligation and could only urge the district attorney to place pressure on the debtor by threatening the revocation of probation.
+The court reasoned, however, that since the record established that the restitution order was designed solely to compensate the victim for his damages, and since any civil judgment recovered by the victim to compensate him for those damages would result in a debt that was dischargeable in bankruptcy, the restitution obligation must likewise be construed as a debt within the meaning of the Code.
+Id. at 822-23 .
+The Brown court rejected the reasoning of the courts that had ruled that criminal restitution obligations were not debts under the Code, concluding that "'[d]ebt' is not restricted to obligations incurred in consumer or business transactions, but includes all obligations [to pay], however[ ] incurred."
+Id. at 822 (emphasis in original).
+We agree with the general principle enunciated in Brown --although our analysis proceeds along somewhat different lines--and disagree with the majority view that an obligation to make criminal restitution payments is not a debt under the Code unless it is enforceable by the victim of the crime.
+As we read the language of 101(4)(A) and the legislative history of its adoption, Congress intended "claim" to encompass any right held by any person or entity to enforce any money obligation of the debtor.
+Thus, as discussed above, Congress intended the term "claim" to have the broadest possible scope.
+There appears to be no basis, for example, for any supposition that Congress intended an interpretation of "claim" that would exclude rights to restitution in general from the definition of "claim."
+Since only "claims" are allowable in bankruptcy, see 11 U.S.C. 502 , and only holders of allowed claims are entitled to distributions from the bankruptcy estate, see 11 U.S.C. 726 , such an interpretation would produce the anomalous result that no holder of a right to restitution could participate in the bankruptcy proceeding or receive any distributions of the debtor's assets in liquidation.
+There is no evidence that Congress intended such a result.
+Indeed, a judgment ordering restitution of a stated sum was a provable claim under 57 of the Bankruptcy Act of 1898 ("1898 Act"), 11 U.S.C. 93 (1976) (repealed); see id. 63 , 11 U.S.C. 103(a) (1976) (repealed) (defining provable debts), and the holder of such a claim would have been entitled under the 1898 Act to participate in the distribution of the debtor's assets.
+Since Congress intended its definition of "claim" in the Code to expand the class of obligations that would be dischargeable, it is hardly conceivable that it thought that a right to restitution provable under the 1898 Act would now be construed as outside of the Code's broad definition of claim.
+Nor do we see any indication that Congress intended some rights to restitution but not others to be within the definition of claim.
+There is no suggestion in the language of 101(4) that the definition of claim is limited in terms of the identity of the person or entity who has the right to be paid.
+Nor do we see any such suggestion in the legislative history.
+We likewise see no indication in the language or the legislative history that the definition is limited in terms of the provenance of the right to restitution.
+Rather, it would appear, for example, that whether the right arose from a cause of action for fraud or mistake, or was granted as a condition for the remedy of rescission, or was ordered in the context of criminal probation, if it is a right to payment it is a claim within the meaning of the Code.
+Finally, we note that, by giving "claim" the broadest possible definition and defining "debt" in terms of a "claim," Congress also sought to give the term "debt" its broadest possible scope.
+Thus, the congressional reports accompanying the proposed section that became 101(11) of the Code, stated that the concepts of debt and claim were "coextensive: a creditor has a 'claim' against a debtor; the debtor owes a 'debt' to the creditor."
+Senate Report at 23, reprinted in 1978 U.S.Code Cong. & Ad.News 5787, 5809; House Report at 310, reprinted in 1978 U.S.Code Cong. & Ad.News 5963, 6267.
+And we have held that the terms claim and debt are "coterminous."
+In re Villarie , 648 F.2d 810, 812 (2d Cir.1981); see also In re Vasu Fabrics, Inc. , 39 B.R. at 516-17 .
+In sum, we see no support in the language, the legislative history, or the statutory scheme as a whole for the view adopted by the Pellegrino line of cases that unless the victim of the crime has a right of payment, a criminal restitution obligation is not a debt within the meaning of the Code.
+We think the interpretation that more faithfully reflects Congress's intent is the one we adopt here: that any right to the payment of restitution is a claim within the meaning of the Code; and that if any person or entity has a right to receive a payment of restitution from the bankruptcy debtor, the obligor has a debt within the meaning of the Code.
+The court of appeals cases cited to us by defendants in support of their position that a criminal restitution obligation is not a debt within the meaning of the Bankruptcy Code are inapposite.
+In United States v. Brown , 744 F.2d 905 (2d Cir.), cert. denied , U.S. , 105 S.Ct. 599 , 83 L.Ed.2d 708 (1984), a sentence of restitution imposed under 18 U.S.C. 3579 and 3580 (1982) was challenged on the ground that its imposition by the sentencing court sitting without a jury violated the Seventh Amendment's guarantee of the right to jury trial "[i]n Suits at common law, where the value in controversy shall exceed twenty dollars," U.S. Const.
+amend.
+VII .
+The court's holding that the sentencing hearing was not a "Suit[ ] at common law" for Seventh Amendment purposes provides no insight into whether the restitution order that emerges from such a hearing constitutes a debt within the meaning of the Bankruptcy Code.
+Nor do In re Davis , 691 F.2d 176 (3d Cir.1982), or Barnette v. Evans , 673 F.2d 1250 (11th Cir.1982), support the proposition that criminal restitution obligations are not debts.
+Each involved a debtor in a pending bankruptcy proceeding who had not yet had a restitution obligation imposed on him in a pending criminal case. In each, the appellate court simply ruled that the bankruptcy court could not enjoin the state criminal prosecution that might result in a restitution order.
+In a similar vein, United States v. Carson , 669 F.2d 216 (5th Cir.1982) and United States v. Alexander , 743 F.2d 472 (7th Cir.1984), held that the discharge of a debt in bankruptcy did not prevent the district court from imposing a restitution obligation upon the debtor's subsequent conviction of a crime involving that debt.
+The latter four decisions merely reflect (1) the courts' analytical distinction between the obligation that arose upon the occurrence of the event and the obligation that would arise upon entry of a criminal restitution order, and (2) the requirement of 727(b) of the Code that the obligation sought to be discharged as a debt--there the criminal restitution obligation--must have been in existence at the time of the bankruptcy proceeding.
+These cases do not purport to hold that a restitutionary obligation that was in existence at the time of the bankruptcy proceeding is not a debt because it is in the nature of criminal restitution.
+2.
+"A Haven for Criminal Offenders" Nor are we persuaded by the reasoning in the Pellegrino line of cases that because Congress stated that it did not intend the bankruptcy laws to provide a haven for criminals the Code's definition of "debt" must be read as excluding an obligation to make restitution of unlawfully gained funds.
+The quotation from the legislative history upon which those cases rely as evidence of Congress' concern in this area is drawn not from Congress' discussion of the definitions of debt and claim, but from a discussion of the automatic stay of pending actions provided for in 11 U.S.C. 362 .
+The quoted statement is given as an explanation of the exception to that stay, created by 362(b)(1) , for "criminal action[s] or proceeding[s] against the debtor."
+See House Report at 342, reprinted in 1978 U.S.Code Cong. & Ad.News 5963, 6299; Senate Report at 51, reprinted in 1978 U.S.Code Cong. & Ad.News 5787, 5837; 2 Collier on Bankruptcy ¶ 362.05 , at 362-38 to 362-39 (L. King 15th ed. 1983).
+Nowhere in the lawmakers' discussion of the definitions of "debt" and "claim" is there any mention of an intention to restrict those definitions to exclude obligations arising out of criminal activities.
+Indeed, the scheme devised by Congress to prevent the bankruptcy laws from providing a haven for criminals reveals that Congress did not intend so to restrict its deliberately broadened definitions of those terms.
+Thus, one of the methods chosen to deny criminals a bankruptcy ploy was the provision in 523 of the Code that a "debt for a fine, penalty, or forfeiture payable to and for the benefit of a governmental unit" (to the extent it is not compensation for actual loss, see Part II.B.
+below) is not dischargeable.
+11 U.S.C. 523(a)(7) .
+But the very provision for such an exclusion makes clear that Congress did not intend to restrict its definitions of claim and debt, for, under 727(b) , only "debt[s]" are dischargeable, and 523 deals only with "debt[s]".
+If the obligation to pay a criminal fine, penalty, or forfeiture were not within the Code's definition of "debt," presumably 523 would not refer to it as a debt, and indeed there would be no need for 523 to state that it is not dischargeable.
+Since it is thus clear that Congress did not believe that the inclusion of fines, penalties, and forfeitures within the Code's definition of debt would provide an unwarranted haven for criminals, there is no reason to suppose that it sub silentio believed that including a criminal restitution obligation within that definition would give such haven.
+Finally, it is plain that Congress was attentive to the possibility that the bankruptcy laws might be invoked by criminals in an effort to retain their unlawful gains, and it enacted both provisions that thwart those efforts and provisions that, despite those efforts, give precedence to the bankruptcy laws' aim to provide relief for financial overextension.
+Thus, as noted, 362(b)(1) makes the automatic stay of pending proceedings inapplicable to criminal proceedings against the debtor; 523(a)(7) makes certain obligations to pay moneys to governmental bodies nondischargeable.
+On the other hand, as discussed in Part II.B.
+below, 523(c) of the Code provides that debts for crimes such as larceny and fraud "shall be discharged" unless the creditor to whom such a debt is owed files an objection with the court and the court thereafter determines that the debt is excepted from discharge.
+"If the creditor does not act, the debt is discharged."
+House Report at 365, reprinted in 1978 U.S.Code Cong. & Ad.News 5963, 6321.
+Thus, Congress drew such lines as it thought appropriate to grant or deny criminals the benefits of the bankruptcy laws.
+Where Congress has carefully considered a particular policy and, in a complex and carefully drawn statute, has established a balance between that policy and other competing legislative goals, it is inappropriate for a court, based on its own view as to the relative importance of that policy, to create judicial exceptions to the clear language of the statute that are warranted neither by that language nor by the legislative history.
+See Central Trust Co. v. Official Creditors' Committee of Geiger Enterprises, Inc. , 454 U.S. 354, 357-60 , 102 S.Ct. 695, 696-98 , 70 L.Ed.2d 542 (1982) (per curiam); Caminetti v. United States , 242 U.S. 470, 485 , 37 S.Ct. 192, 194 , 61 L.Ed. 442 (1917).
+In our view, the courts in Pellegrino , et al.
+, in holding that policy reasons should prevent a criminal restitution obligation from being construed as a debt within the meaning of the Bankruptcy Code, have impermissibly reordered the priorities established by Congress.
+We decline to join them. 3.
+COAP's Right to Payment Having concluded that if any entity has a right to payment of a criminal restitution obligation that obligation is a debt within the meaning of the Code, the only remaining question in our analysis of whether or not Robinson's obligation was such a debt is the question of whether COAP has such a right.
+We conclude that it does.
+The Connecticut sentencing court, acting pursuant to Conn.Gen.Stat.Ann.
+53a-30(a) (4) (West Supp.1981) (amended in a manner not material to this case by Public Act 82-298, 8 , 1982 Conn.Legis.Serv.
+1076, 1080 (West)), ordered Robinson to make restitution of the wrongfully received Public Assistance benefits, and to make the restitutionary payments to COAP.
+In accordance with the statutory scheme, the amount of the restitution obligation was fixed by the sentencing court, see Conn.Gen.Stat.Ann.
+53a-30(a) (4) (West Supp.1985), and the enforcement of the obligation became the responsibility of both the sentencing court and the state probation officers, id .
+53a-32(a) (West 1972); id .
+54-108 (West Supp.1985).
+Those officers, who are agents of COAP, are authorized to cause any probationer who violates any condition of his probation to be arrested, detained, and brought before the court on charges of probation violation.
+Id .
+53a-32(a) (West 1972).
+If a violation is established, the court may revoke the sentence of probation and order the probationer incarcerated.
+Id .
+53a-32(b) .
+Plainly, then, COAP has the right to receive payment from Robinson and the power to seek enforcement of its right.
+The fact that the amount of money it has the right to receive has been fixed by the court is irrelevant to the existence of the right.
+Nor is it relevant that the right is enforceable by the threat of revocation of probation and incarceration rather than by the threat of levy and execution on the debtor's property.
+The right is not the less cognizable because the obligor must suffer loss of freedom rather than loss of property upon failure to pay.
+In sum, we conclude that since the judgment creating Robinson's obligation to make restitution to COAP created a concomitant right in COAP to payment of that obligation, Robinson's obligation to make those restitution payments was a debt within the meaning of the Bankruptcy Code.
+B. The Dischargeability of the Restitution Debt The final question is whether Robinson's restitution debt to COAP was dischargeable.
+Section 523 of the Code, 11 U.S.C. 523 , excludes from discharge several categories of debts that would otherwise be discharged under 727(b) , and three of these categories have arguable relevance to the present case.
+Section 523(a) provides, in pertinent part, as follows: section 727 11 U.S.C. 523 .
+While at first glance all three subsections seem to have at least potential applicability to Robinson's debt, only subsection (a)(7) need concern us on this appeal.
+Although Robinson's obtaining Public Assistance benefits to which she was not entitled may well have occurred as a result of false representations within the meaning of subsection (a)(2) , and although she was convicted of larceny, which is covered by subsection (a)(4) , the Code does not exclude debts within these subsections from discharge if the creditor does not object to discharge.
+Thus, 523(c) of the Code provides that subsection (a) sic subsection (a) 11 U.S.C. 523(c) .
+See Bankruptcy Rule 409(a) ( reprinted in 11 U.S.C. app. 217 (1982)); Senate Report at 80, reprinted in 1978 U.S.Code Cong. & Ad.News 5787, 5865-66; House Report at 365, reprinted in 1978 U.S.Code Cong. & Ad.News, 5963, 6321; 3 Collier on Bankruptcy ¶ 523.21 (L. King 15th ed. 1983).
+In the present case, the bankruptcy court gave COAP and CDIM notice in February 1981 that their claims were listed in Robinson's petition; that April 27, 1981, was the last day for filing objections to discharge or complaints to determine dischargeability under 523(c) ; and that the failure by that date to file a complaint as to the dischargeability of a debt under 523(a)(2) or (4) might result in discharge of the debt.
+COAP and CDIM did not file such objections or complaints.
+We suspect that had objection been made on the ground that the debt was for an established larceny, the court would have excepted it from discharge, and the case would not be before us now.
+COAP and CDIM waived their rights under subsections (a)(2) and (a)(4) , however, and we turn, therefore, to their contention that the debt was nondischargeable under subsection (a)(7) .
+Subsection (a)(7) makes a debt nondischargeable "to the extent" that (1) it is for a "fine, penalty, or forfeiture," (2) it is "payable to and for the benefit of a governmental unit," and (3) it is "not compensation for actual pecuniary loss."
+11 U.S.C. 523(a)(7) .
+There is no question that Robinson's restitution debt is in a sense a penalty for her crime.
+See, e.g. , United States v. Brown , 744 F.2d at 909 ; United States v. Carson , 669 F.2d at 217-18 ; In re Vik , 45 B.R. at 67-68 ; In re Johnson , 32 B.R. at 616 ; In re Magnifico , 21 B.R. at 803 ; see also 18 U.S.C. 3579(a)(1) , which empowers a federal court sentencing a defendant for an offense under title 18 to order the defendant to make restitution "in addition to or in lieu of any other penalty" (emphasis added).
+Nor is there any question that Robinson's debt is payable to and for the benefit of a governmental unit.
+We do not believe it can be said, however, that the debt is "not," "to [some] extent," "compensation for actual pecuniary loss."
+Under the Connecticut probation scheme, the state court is given discretion to order an offender to "make restitution of the fruits of his offense or make restitution, in an amount he can afford to pay or provide in a suitable manner, for the loss or damage caused thereby ".
+Conn.Gen.Stat.Ann.
+53a-30(a) (4) (West Supp.1985) (emphasis added).
+Thus, the amount of restitution to be assessed against a defendant, though it may be adjusted to account for his ability to pay, is measured by the fruits of the debtor's offense or by the victim's resulting loss or damage.
+These criminal restitution payments, though initially paid to COAP, are ultimately remitted to the victim of the defendant's crime.
+See In re Mead , 41 B.R. at 840 ; In re Pellegrino , 42 B.R. at 132 .
+In the present case, the amount of money wrongfully received by Robinson from CDIM was $9,932.95.
+The amount of restitution that Robinson was ordered to pay was precisely $9,932.95.
+Thus, defendants admit on this appeal, as they must, that "the restitution [to be paid by Robinson] also had compensatory consequences " The conclusion is inescapable that Robinson's obligation to make restitution payments to COAP in the exact amount lost by CDIM, which COAP would then remit to CDIM, was designed to be, among other things, compensation for CDIM's actual pecuniary loss.
+The fact that Connecticut's probation scheme includes possible conditions of probation that are not compensatory does not detract from the conclusion that criminal restitution, to the extent that it does not exceed the amount of the loss and eventually goes to the victim of the loss, is compensatory.
+Neither are we persuaded that because the restitutionary condition itself, like other probationary conditions, is intended in part to punish the defendant and to foster his rehabilitation, it may not also be "compensation for actual pecuniary loss" within the meaning of 523(a)(7) .
+Cf. United States v. Dudley , 739 F.2d 175, 177 (4th Cir.1984) ("[A]n order of restitution, even if in some respects penal, also[ ] has the predominantly compensatory purpose of reducing the adverse impact on the victim.").
+Certainly nothing in the section or its legislative history suggests that 523(a)(7) excludes from discharge only debts to governmental units that are exclusively compensation for actual pecuniary loss.
+Such a restrictive interpretation is contraindicated by the very words used to introduce the subsection: the thought that "to the extent" that a debt is of one sort or another different consequences follow means that the draftsmen recognized that the debt itself may fit into more than one category.
+We conclude that a debt that has compensation for actual pecuniary loss as at least one of its purposes is not, to the extent that it does not exceed the amount of the loss, excepted from discharge by 523(a)(7) .
+Given the facts that the Connecticut statutory scheme allows the criminal restitution obligation to be fixed with reference to "the loss or damage caused [by the offense]," that the order here fixed Robinson's debt at precisely the amount she had wrongfully received from CDIM, and that the restitution payments by Robinson to COAP are forwarded by COAP to CDIM, we conclude that Robinson's debt cannot be classified as one that is "not compensation for actual pecuniary loss."
+Robinson's debt therefore was not excepted from discharge by 523(a)(7) .
+There being no properly invoked provision that prevented the discharge of Robinson's restitution debt, that debt was discharged by the Discharge Order.
+C. Relief on Remand In addition to requesting a judgment declaring that her restitution obligation had been discharged by the Discharge Order, Robinson sought an order enjoining defendants from taking any steps to recover further restitution payments and an order adjudging defendants in contempt of the Discharge Order and the automatic injunction imposed by 524 of the Code for having attempted to collect restitution payments from her after the entry of the Discharge Order.
+As noted above, 524(a)(2) provides that a valid discharge 727 Robinson also sought an award of compensatory and punitive damages, costs, and attorney's fees.
+Since we have determined that Robinson's restitution debt was discharged by the Discharge Order, that Discharge Order automatically operated as an injunction against defendants' taking any steps to recover further restitution payments from Robinson.
+Thus, Robinson's claim for an injunction may be viewed as a request for clarification and particularization of the 524(a)(2) injunction with respect to her restitution obligation.
+Given the position taken by COAP and the other defendants in this, and other recent cases, see In re Cornell , 44 B.R. 528 ; In re Mead , 41 B.R. 838 ; In re Pellegrino , 42 B.R. 129 , we believe that such clarification is warranted to ensure that Robinson is accorded the relief to which the Discharge Order entitled her.
+Because defendants have raised various defenses and claims of immunity with respect to Robinson's other claims, none of which has been addressed by the district court, we remand to the district court for consideration of those claims.
+CONCLUSION We reverse the judgment of the district court declaring that Robinson's restitution obligation was not discharged and remand to the district court for (1) an order declaring Robinson's restitution obligation discharged, (2) an order enjoining defendants from taking any steps to recover further restitution payments, and (3) further proceedings not inconsistent with this opinion.

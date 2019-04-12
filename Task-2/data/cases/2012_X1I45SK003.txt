@@ -1,0 +1,709 @@
+ LOURIE, Circuit Judge.
+Opinion for the court filed by Circuit Judge LOURIE.
+Opinion concurring in part filed by Circuit Judge MOORE.
+Opinion concurring in part and dissenting in part filed by Circuit Judge BRYSON.
+Myriad Genetics, Inc. and the Directors of the University of Utah Research Foundation (collectively, "Myriad") appeal from the decision of the United States District Court for the Southern District of New York holding that an assortment of medical organizations, researchers, genetic counselors, and patients (collectively, "Plaintiffs") have standing under the Declaratory Judgment Act to challenge Myriad's patents.
+Ass'n for Molecular Pathology v. U.S.
+Patent & Trademark Office , 669 F.Supp.2d 365 (S.D.N.Y.2009) (" DJ Op. ").
+Myriad also appeals from the district court's decision granting summary judgment that all of the challenged claims are drawn to non-patentable subject matter under 35 U.S.C. 101 .
+Ass'n for Molecular Pathology v. U.S.
+Patent & Trademark Office , 702 F.Supp.2d 181 (S.D.N.Y.
+2010) (" SJ Op. ").
+We affirm in part and reverse in part.
+This appeal has returned to us as, a petition for certiorari having been filed from our decision of July 29, 2011, the Supreme Court of the United States granted the petition, vacated our decision, and remanded the case to us for further consideration in light of its decision in Mayo Collaborative Services v. Prometheus, Inc. , 566 U.S. , 132 S.Ct. 1289 , 182 L.Ed.2d 321 (2012).
+Ass'n for Molecular Pathology v. Myriad Genetics, Inc. , U.S. , 132 S.Ct. 1794 , 182 L.Ed.2d 613 (2012).
+We invited and received briefing by the parties and interested amici and held oral argument on July 20, 2012.
+Our decision on remand follows.
+It both decides the issues that were before us in the original appeal and evaluates the effect of Mayo on those issues.
+On the threshold issue of jurisdiction, we affirm the district court's decision to exercise declaratory judgment jurisdiction because we conclude that at least one plaintiff, Dr. Harry Ostrer, has standing to challenge the validity of Myriad's patents.
+On the merits, we reverse the district court's decision that Myriad's composition claims to "isolated" DNA molecules cover patent-ineligible products of nature under 10.1 because each of the claimed molecules represents a nonnaturally occurring composition of matter.
+We also reverse the district court' [***4] s decision that Myriad's method claim to screening potential cancer therapeutics via changes in cell growth rates of transformed cells is directed to a patent-ineligible scientific principle.
+We affirm the court's decision, however, that Myriad's method claims directed to "comparing" or "analyzing" DNA sequences are patent ineligible; such claims include no transformative steps and cover only patent-ineligible abstract, mental steps.
+BACKGROUND Plaintiffs brought suit against Myriad, challenging the patentability of certain composition and method claims relating to human genetics.
+See DJ Op. , 669 F.Supp.2d at 369-76 .
+Specifically, Plaintiffs sought a declaration that fifteen claims from seven patents assigned to Myriad are drawn to patent-ineligible subject matter under 35 U.S.C. 101 : claims 1, 2, 5, 6, 7, and 20 of U.S.
+Patent 5,747,282 ("the ′ 282 patent "); claims 1, 6, and 7 of U.S.
+Patent 5,837,492 ("the ′ 492 patent "); claim 1 of U.S.
+Patent 5,693,473 ("the ′ 473 patent "); claim 1 of U.S.
+Patent 5,709,999 ("the ′ 999 patent "); claim 1 of U.S.
+Patent 5,710,001 ("the ′ 001 patent "); claim 1 of U.S.
+Patent 5,753,441 ("the ′ 441 patent "); and claims 1 [**1685] and 2 of U.S.
+Patent 6,033,857 ("the ′ 857 patent ").
+The challenged composition claims cover two "isolated" human genes, BRCA1 and BRCA2 (collectively, " BRCA½ " or " BRCA "), and certain alterations, or mutations, in these genes associated with a predisposition to breast and ovarian cancers.
+Representative composition claims include claims 1, 2, and 5 of the ′ 282 patent : 1.
+An isolated DNA coding for a BRCA1 polypeptide, said polypeptide having the amino acid sequence set forth in SEQ ID NO:2.
+2.
+The isolated DNA of claim 1, wherein said DNA has the nucleotide sequence set forth in SEQ ID NO:1.
+5.
+An isolated DNA having at least 15 nucleotides of the DNA of claim 1.
+′ 282 patent col.
+153 1.55 — col.
+154 1.56.
+[fn1] SEQ ID NO:2 depicts the amino acid sequence of the BRCA1 protein, and SEQ ID NO:1 depicts the nucleotide sequence of the BRCA1 DNA coding region; the latter sequence is colloquially referred to as cDNA.
+Id .
+col.
+19 ll.48-50.
+All but one of the challenged method claims cover methods of "analyzing" or "comparing" a patient's BRCA sequence with the normal, or wild-type, sequence to identify the presence of cancer-predisposing mutations.
+Representative method claims include claims 1 of the ′ 999 and ′ 001 patents: 1.
+A method for detecting a germline alteration in a BRCA1 gene, said alteration selected from the group consisting of the alterations set forth in Tables 12A, 14, 18 or 19 in a human which comprises analyzing a sequence of a BRCA1 gene or BRCA1 RNA from a human sample or analyzing a sequence of BRCA1 cDNA made from mRNA from said human sample with the proviso that said germline alteration is not a deletion of 4 nucleotides corresponding to base numbers 4184-4187 of SEQ ID NO: 1.
+′ 999 patent col.
+161 ll.17-25 (emphases added).
+1.
+A method for screening a tumor sample from a human subject for a somatic alteration in a BRCA1 gene in said tumor which comprises [] comparing a first sequence selected from the group consisting of a BRCA1 gene from said tumor sample, BRCA1 RNA from said tumor sample and BRCA1 cDNA made from mRNA from said [***5] tumor sample with a second sequence selected from the group consisting of BRCA1 gene from a nontumor sample of said subject, BRCA1 RNA from said nontumor sample and BRCA1 cDNA made from mRNA from said nontumor sample, wherein a difference in the sequence of the BRCA1 gene, BRCA1 RNA or BRCA1 cDNA from said tumor sample from the sequence of the BRCA1 gene, BRCA1 RNA or BRCA1 cDNA from said nontumor sample indicates a somatic alteration in the BRCA1 gene in said tumor sample.
+′ 001 patent col.155 ll.2-17 (emphasis added).
+[fn2] The final method claim challenged by Plaintiffs is directed to a method of screening potential cancer therapeutics.
+Specifically, claim 20 of the ′ 282 patent reads as follows: 20.
+A method for screening potential cancer therapeutics which comprises: growing a transformed eukaryotic host cell containing an altered BRCA1 gene causing cancer in the presence of a compound suspected of being a cancer therapeutic, growing said transformed eukaryotic host cell in the absence of said compound, determining the rate of growth of said host cell in the presence of said compound and the rate of growth of said host cell in the absence of said compound and comparing the growth rate of said host cells, wherein a slower rate of growth of said host cell in the presence of said compound is indicative of a cancer therapeutic.
+′ 282 patent col.
+156 ll.13-24 (emphases added).
+The challenged claims thus relate to isolated gene sequences and diagnostic methods of identifying mutations in these sequences.
+To place this suit in context, we take a step back to provide background on the science involved, including the identification of the BRCA genes, and the Plaintiffs' connections to the invention and to Myriad.
+[**1686] I. Human genetics is the study of heredity in human beings.
+[fn3] The human genome, the entirety of human genetic information, contains approximately 22,000 genes, which form the basis of human inheritance.
+The majority of genes act by guiding the production of polypeptide chains that form proteins.
+Proteins in turn make up having matter and catalyze a variety of cellular processes.
+Chemically, the human genome is composed of deoxyribonucleic acid ("DNA").
+Each DNA molecule is made up of repeating units of four nucleotide bases — adenine ("A"), thymine ("T"), cytosine ("C"), and guanine ("G") — which are covalently linked, or bonded, [fn4] together via a sugarphosphate, or phosphodiester, backbone.
+DNA generally exists as two DNA strands intertwined as a double helix in which each base on a strand pairs, or hybridizes, with a complementary base on the other strand: A pairs with T, and C with G. Figure 1 below depicts the structure of a DNA double helix and the complementary pairing of the four nucleotide bases, represented by A, T, C, and G. Exhibit The linear order of nucleotide bases in a DNA molecule is referred to as its "sequence."
+The sequence of a gene is thus denoted by a linear sequence of As, Ts, Gs, and Cs.
+"DNA sequencing" or "gene sequencing" refers to the process by which the precise linear order of nucleotides in a DNA segment or gene is determined.
+A gene's nucleotide sequence [***6] in turn encodes for a linear sequence of amino acids that comprise the protein encoded by the gene, e.g. , the BRCA1 gene encodes for the BRCA1 protein.
+Most genes have both "exon" and "intron" sequences.
+Exons are DNA segments that are necessary for the creation of a protein, i.e. , that code for a protein.
+Introns are segments of DNA interspersed between the exons that, unlike exons, do not code for a protein.
+The creation of a protein from a gene comprises two steps: transcription and translation.
+First, the gene sequence is "transcribed" into a different nucleic acid called ribonucleic acid ("RNA").
+RNA has a chemically different sugar-phosphate backbone than DNA, and it utilizes the nucleotide base uracil ("U") in place of thymine ("T").
+During transcription, the DNA double helix is unwound and each nucleotide on the non-coding, or template, DNA strand is used to make a complementary, single-stranded RNA molecule that mirrors the coding DNA strand, i.e. , adenine on the template DNA strand results in uracil in the RNA molecule, thymine results in adenine, guanine in cytosine, and cytosine in guanine.
+The resulting "pre-RNA," like the DNA from which it was generated, contains both exon and intron sequences.
+Next, the introns are [**1687] physically excised from the pre-RNA molecule, followed by "splicing" the exons to produce a messenger RNA ("mRNA").
+Figure 2 below shows the steps of transcribing a gene that contains three exons (exon 1-3) and two introns (intron 1 and 2) into a pre-RNA, followed by RNA excising the introns and splicing of the exons to produce an mRNA containing only exon sequences.
+Exhibit Following transcription and splicing, the resulting mRNA is "translated" into the encoded protein.
+Genes, and their corresponding mRNAs, encode proteins via three-nucleotide combinations called co-dons.
+Each codon triplet corresponds to one of the twenty amino acids that make up all proteins or a "stop" signal that terminates protein translation.
+For example, the codon adenine-thymine-guanine (ATG, or AUG in the corresponding mRNA), encodes the amino acid methionine.
+The relationship between the sixty-four possible codon sequences and their corresponding amino acids is known as the genetic code.
+Figure 3 below represents an mRNA molecule that translates into a protein of six amino acids (Codon 1, AUG, methionine; Codon 2, ACG, threonine; Codon 3, GAG, glutamic acid; Codon 4, CUU, leucine; Codon 5, CGG, arginine; Codon.
+6, AGC, serine), and ends with one of the three stop codons, UAG.
+Exhibit Changes, or mutations, in the sequence of a human gene can alter the production, structure, and/or function of the resulting protein.
+Small-scale changes include point mutations in-which a change to a single nucleotide alters a single amino acid in the encoded protein.
+For example, a base change in the codon GCU to CCU changes an alanine in the encoded protein to a proline.
+Larger scale variations include the deletion, rearrangement, or duplication of larger DNA segments — ranging from several hundreds to over a million nucleotides — and can result in the elimination, misplacement, or duplication of an entire gene [***7] or genes.
+While some mutations have little or no effect on the body's processes, others result in disease or an increased risk of developing a particular disease.
+DNA sequencing is used in clinical diagnostic testing to determine whether a gene contains mutations associated with a particular disease or disease risk.
+Nearly every cell in, the human body contains an individual's entire genome.
+DNA in the cell, called "native", or "genomic" DNA, is packaged into twenty-three pairs of chromosomes.
+Chromosomes are complex structures comprising a single extended DNA molecule wrapped around proteins called histones, as shown in Figure 4 below.
+[**1688] Exhibit Each chromosome contiguously spans millions of bases and encompasses many discrete genes.
+Humans have twenty-two pairs of autosomal chromosomes, numbered one to twenty-two according to size from largest to smallest, and one pair of sex chromosomes, two X chromosomes in females and one X and one Y chromosome in males.
+Genomic DNA can be extracted from its cellular environment using a number of well-established laboratory techniques.
+A particular segment of DNA, such as a gene, can then be excised or amplified from the DNA to obtain the isolated DNA segment of interest.
+DNA molecules can also be synthesized in the laboratory.
+One type of synthetic DNA molecule is complementary DNA ("cDNA").
+cDNA is synthesized from mRNA using complementary base pairing in a manner analogous to RNA transcription.
+The process results in a double-stranded DNA molecule with a sequence corresponding to the sequence of an mRNA produced by the body.
+Because it is synthesized from mRNA, cDNA contains only the exon sequences, and thus none of the intron sequences, from a chromosomal gene sequence.
+II.
+Certain mutations in the BRCA genes correlate with an increased risk of breast and ovarian cancer.
+The average woman in the United States has around a twelve to thirteen percent risk of developing breast cancer in her lifetime.
+Women with BRCA mutations, in contrast, face a cumulative risk of between fifty to eighty percent of developing breast cancer and a cumulative risk of ovarian cancer of between twenty to fifty percent.
+Diagnostic genetic testing for the existence of BRCA mutations [**1689] is therefore an important consideration in the provision of clinical care for breast or ovarian cancer.
+This testing provides a patient with information on her risk for hereditary breast and ovarian cancers, and thus aids in the difficult decision regarding whether to undertake preventive options, including prophylactic surgery.
+Diagnostic results can also be an important factor in structuring an appropriate course of cancer treatment, since certain forms of therapy are more effective in treating cancers related to BRCA mutations.
+The inventors of the patents in suit identified the genetic basis of BRCA1 and BRCA2-related cancers using an analysis called positional cloning.
+Relying on a large set of DNA samples from families with inherited breast and ovarian cancers, the inventors correlated [***8] the occurrence of cancer in individual family members with the inheritance of certain marker DNA sequences.
+This allowed the inventors to identify, or "map," the physical location of the BRCA genes within the human genome and to isolate the BRCA genes and determine their exact nucleotide sequences.
+This in turn allowed Myriad to provide BRCA diagnostic testing services to women.
+[fn5] III.
+Myriad, however, was not the only entity to implement clinical BRCA testing services.
+Starting in 1996, the University of Pennsylvania's Genetic Diagnostic Laboratory ("GDL"), co-directed by plaintiffs Haig H. Kazazian, Jr., M.D. and Arupa Ganguly, Ph.D., provided BRCA½ diagnostic services to women.
+By 1999, however, accusations by Myriad that GDL's BRCA testing services infringed its patents forced the lab to stop providing such services.
+The first sign of a dispute came in early 1998.
+At that time, Dr. Kazazian recalls a dinner with Dr. Mark Skolnick, inventor and Chief Science Officer at Myriad.
+At the dinner, Skolnick informed Kazazian that Myriad was planning to stop GDL from providing clinical BRCA testing in light of Myriad's patents.
+A month or two later, in May 1998, Kazazian received a letter from William A. Hockett, Director of Corporate Communications at Myriad.
+The letter stated that Myriad knew that Kazazian was currently providing BRCA1 diagnostic testing services, and that Myriad, as patent holder of five U.S. patents covering the isolated BRCA1 gene and diagnostic testing, was making available to select institutions a collaborative license.
+Attached to the letter was a copy of Myriad's collaborative agreement, which proposed severely limiting GDL's testing services to certain tests for patients of Ashkenazi Jewish descent.
+Plaintiff Harry Ostrer, M.D., a researcher at New York University ("NYU") School of Medicine, received the same letter and collaborative agreement in May 1998, although his laboratory did not, at the time, provide such testing services.
+Rather, Ostrer sent patient samples to GDL for BRCA genetic testing.
+Months later, in August 1998, Dr. Kazazian received a second letter, this time from George A. Riley of the law firm O'Melveny & Myers LLP.
+The letter identified by number five Myriad patents "covering, among other things, the BRCA1 gene sequence .
+.
+.
+and methods for detecting alterations in the BRCA1 sequence."
+J.A.
+1145.
+The letter also indicated that it "has come to Myriad's attention that you are engaged in commercial testing activities that infringe Myriad's patents," and that "[u]nless and until a licensing arrangement is completed .
+.
+.
+you should cease all infringing testing activity."
+Id .
+The letter noted, however, that the cease-and-desist notification did not apply to research testing "for the purpose of furthering non-commercial research programs, the results of which are not provided to the patient and for which no money is received from the patient or the" patient's insurance."
+Id .
+In June 1999, Robert Terrell, the General Counsel for the University of Pennsylvania, received a similar cease-and-desist letter from Christopher [***9] Wight, Myriad's General Counsel.
+The letter stated, "It has come to our attention that Dr. Haig H. Kazazian, Jr.
+of the University of Pennsylvania is continuing to willfully engage in commercial BRCA1 and BRCA2 genetic testing activities, in violation of the University of Pennsylvania's previous assurances that such commercial testing activities would be discontinued."
+J.A.
+2890.
+Terrell responded to Wight by letter on September 10, 1999, stating that "the University agrees that it will not accept samples for BRCA1 research testing from third parties."
+J.A.
+2891.
+Kazazian thus informed Dr. Ostrer that GDL would no longer be accepting patient [**1690] samples for BRCA testing from him or anyone else as a result of the patent infringement assertions made by Myriad.
+As a result, Ostrer started sending patient samples for BRCA genetic testing to Myriad, which became (and remains today) the only provider of such services in the United States.
+During this period, Myriad also initiated several patent infringement suits against entities providing clinical BRCA testing.
+Myriad filed suit against Oncormed Inc. in 1997 and again in 1998, Myriad Genetics v. Oncormed , Nos.
+2:97-cv-922, 2:98-cv-35 (D.Utah), and the University of Pennsylvania in 1998, Myriad Genetics v. Univ. of Pa. , No. 2:98-cv-829 (D.Utah).
+Both lawsuits were later dismissed without prejudice after each defendant agreed to discontinue all allegedly infringing activity.
+None of the plaintiffs besides Drs.
+Kazazian, Ganguly, and Ostrer, allege that Myriad directed any letters or other communications regarding its patents at them.
+Rather, the other researchers and medical organization members state simply that knowledge of Myriad's vigorous enforcement of its patent rights against others stopped them from engaging in clinical BRCA genetic testing, although they have the personnel, expertise, and facilities as well as the desire to provide such testing.
+The patient plaintiffs state that they have been unable to obtain any BRCA genetic testing or their desired BRCA testing, either covered by their insurance or at a price that they can afford, because of Myriad's patent protection.
+Like the other researchers, Dr. Kazazian states that if Myriad's patents were held invalid, he and Dr. Ganguly would be able to resume BRCA testing within a matter of a few weeks.
+He notes, however, that this is only if they "decided to resume BRCA testing."
+J.A.
+2852.
+Ganguly concurs, stating that if the patents were invalidated, "I would immediately consider resuming BRCA testing in my laboratory."
+J.A.
+2892.
+Dr. Ostrer [fn6] also indicates that his lab has all the personnel, facilities, and expertise necessary to undertake clinical BRCA testing and emphatically states that his lab "would immediately begin to perform BRCA½-related genetic testing upon invalidation of the Myriad patents."
+J.A.
+2936-38.
+IV.
+After Plaintiffs filed suit, Myriad moved to have the case dismissed, alleging that the Plaintiffs lacked standing to bring a declaratory judgment suit challenging the validity of its patents.
+The district court disagreed, [***10] however, holding that the Plaintiffs had established Article III standing under the "all the circumstances" test articulated by the Supreme Court in MedImmune, Inc. v. Genentech, Inc. , 549 U.S. 118 , 127 , 127 S.Ct. 764 , 166 L.Ed.2d 604 (2007).
+DJ Op. , 669 F.Supp.2d at 385-92 .
+The court first found that Myriad had engaged in sufficient "affirmative acts" based on the company's assertion of its "right to preclude others from engaging in BRCA½ genetic testing through personal communications, cease-and-desist letters, licensing offers, and litigation," the result of which was "the widespread understanding that one may engage in BRCA½ testing at the risk of being sued for infringement liability by Myriad."
+Id. at 390 .
+Myriad's actions, the court concluded, had placed "the Plaintiffs in precisely the situation that the Declaratory Judgment Act was designed to address: the Plaintiffs have the ability and desire to engage in BRCA½ testing as well as the belief that such testing is within their rights, but cannot do so without risking infringement liability."
+Id .
+In so holding, the court rejected Myriad's argument that there must be some act directed toward the Plaintiffs, noting that Myriad had, in fact, taken affirmative acts toward plaintiffs Dr. Kazazian and Dr. Ganguly.
+Id. at 387-88 .
+The court also rejected Myriad's arguments that the cease-and-desist letter sent to plaintiff Kazazian was too old to support declaratory judgment jurisdiction and that the legal actions brought against third parties could not be considered in the jurisdictional analysis.
+Id. at 388-89 .
+The court concluded that rigid adherence to either of these requirements would be inconsistent with MedImmune's mandate that the court assess the facts alleged under all the circumstances.
+Id .
+[**1691] The district court also found that the Plaintiffs had alleged sufficient meaningful preparations for infringement to establish declaratory judgment jurisdiction.
+Id. at 390-92 .
+With respect to the researchers, the court held it was sufficient that they were all "ready, willing, and able" to begin BRCA½ testing within the normal course of their laboratories' research, rejecting Myriad's argument that they needed to allege specific preparatory activities.
+Id. at 390-91 .
+The court also rejected Myriad's argument that plaintiffs Kazazian and Ganguly testified only that they would "consider" engaging in allegedly infringing activities, concluding that the proper focus of the inquiry is whether they are meaningfully prepared, not whether they have made a final, conclusive decision to engage in such activities.
+Id. at 391 n. 18.
+The parties then moved for summary judgment on the merits of Plaintiffs' 101 challenge to Myriad's patent claims.
+The district court held for Plaintiffs, concluding that the fifteen challenged claims were drawn to non-patentable subject matter and thus invalid under 101 .
+SJ Op. , 702 F.Supp.2d at 220-37 .
+Regarding the composition claims, the court held that isolated DNA molecules fall within the judicially created "products of nature" exception to 101 because such isolated DNAs are not "markedly different" from native DNAs.
+Id. at 222 , 232 ( [***11] quoting Diamond v. Chakrabarty , 447 U.S. 303 , 100 S.Ct. 2204 , 65 L.Ed.2d 144 (1980)).
+The court relied on the fact that, unlike other biological molecules, DNAs are the "physical embodiment of information," and that this information is not only preserved in the claimed isolated DNA molecules, but also essential to their utility as molecular tools.
+Id. at 228-32.
+Turning to the method claims, the court held them patent ineligible under this court's then-definitive machine-or-transformation test.
+Id. at 233 (citing In re Bilski , 545 F.3d 943 (Fed.Cir.2008) (en banc), aff'd on other grounds, Bilski v. Kappos , U.S. , 130 S.Ct. 3218 , 3225 , 177 L.Ed.2d 792 (2010)).
+The court held that the claims covered "analyzing" or "comparing" DNA sequences by any method, and thus covered mental processes independent of any physical transformations.
+Id. at 233-35 .
+In so holding, the court distinguished Myriad's claims from those at issue in Mayo based on the "determining" step in the latter being construed to include the extraction and measurement of metabolite levels from a patient sample.
+SJ Op :, 702 F.Supp.2d at 234-35 (citing Prometheus Labs., Inc. v. Mayo Collaborative Servs.
+, 628 F.3d 1347 , 1350 (Fed. Cir.2010), rev'd , U.S. , 132 S.Ct. 1289 , 182 L.Ed.2d 321 (2012)).
+Alternatively, the court continued, even if the claims could be read to include the transformations associated with isolating and sequencing human DNA, these transformations would constitute no more than preparatory data-gathering steps.
+Id. at 236 (citing In re Grams , 888 F.2d 835 , 840 (Fed.Cir.1989)).
+Finally, the court held that the one method claim to "comparing" the growth rate of cells claimed a basic scientific principle and that the transformative steps amounted to only preparatory data gathering.
+Id. at 237 .
+Myriad appealed.
+We have jurisdiction pursuant to 28 U.S.C. 1295 (a)(1).
+DISCUSSION I. Declaratory Judgment Jurisdiction A. The first question we must address is whether the district court correctly exercised declaratory judgment jurisdiction over this suit.
+The Declaratory Judgment Act provides that, "In a case of actual controversy within its jurisdiction .
+.
+.
+any court of the United States .
+.
+.
+may declare the rights and other legal relations of any interested party seeking such declaration, whether or not further relief is or could be sought."
+28 U.S.C. 2201 (a).
+The phrase "a case of actual controversy" in the Act refers to the types of "cases" and "controversies" that are justiciable under Article III of the U.S. Constitution.
+Aetna Life Ins. v. Haworth , 300 U.S. 227 , 239-40 , 57 S.Ct. 461 , 81 L.Ed. 617 (1937).
+Although no bright-line rule exists for determining whether a declaratory judgment action satisfies Article Ill's case-or-controversy requirement, the Supreme Court has held that the dispute must be "definite and concrete, touching the legal relations of parties having adverse legal interests," "real and substantial," and "admi[t] of specific relief through a decree of a conclusive character, as distinguished from an opinion advising what the law would be upon a hypothetical state of facts."
+MedImmune , 549 U.S. at 127 , 127 S.Ct. 764 (quoting Aetna Life , 300 U.S. at 240-41 , 57 S.Ct. 461 ).
+"Basically, the question in each case is whether the facts alleged, under all the circumstances, show that there is a substantial controversy, between parties having adverse legal interests, of sufficient immediacy and reality to warrant the issuance of a declaratory [***12] judgment."
+Id .
+(quoting [**1692] Md. Cas. Co. v. Pac.
+Coal & Oil Co. , 312 U.S. 270 , 273 , 61 S.Ct. 510 , 85 L.Ed. 826 (1941)).
+In applying MedImmune's all-the-circumstances test to a declaratory judgment action, we are guided by the Supreme Court's three-part framework for determining whether an action presents a justiciable Article III controversy: standing, ripeness, and mootness.
+See Caraco Pharm.
+Labs., Ltd. v. Forest Labs., Inc. , 527 F.3d 1278 , 1291 (Fed.Cir.2008).
+In this case, the parties have framed the jurisdictional issue as one of standing.
+See MedImmune , 549 U.S. at 128 n. 8, 127 S.Ct. 764 .
+("The justiciability problem that arises, when the party seeking declaratory relief is himself preventing the complained-of injury from occurring, can be described in terms of standing .
+.
+.
+or .
+.
+.
+ripeness."
+(internal citations omitted)).
+"[T]he irreducible constitutional minimum of standing contains three elements."
+Lujan v. Defenders of Wildlife , 504 U.S. 555 , 560 , 112 S.Ct. 2130 , 119 L.Ed.2d 351 (1992).
+"First, the plaintiff must have suffered an injury in fact — an invasion of a legally protected interest which is (a) concrete and particularized, and (b) actual or imminent, not conjectural or hypothetical."
+Id .
+(internal citations and quotations omitted).
+"Second, there must be a causal connection between the injury and the conduct complained of — the injury has to be 'fairly .
+.
+.
+trace [able] to the challenged action of the defendant.
+.
+.
+.'"
+Id. (quoting Simon v. E. Ky.
+Welfare Rights Org. , 426 U.S. 26 , 41-42 , 96 S.Ct. 1917 , 48 L.Ed.2d 450 (1976)).
+"Third, it must be 'likely,' as opposed to merely 'speculative,' that the injury will be 'redressed by a favorable decision.'"
+Id. at 561 , 112 S.Ct. 2130 (quoting Simon , 426 U.S. at 38 , 43 , 96 S.Ct. 1917 ).
+"Whether an actual case or controversy exists so that a district court may entertain an action for a declaratory judgment of non-infringement and/or invalidity is governed by Federal Circuit law."
+MedImmune, Inc. v. Centocor, Inc. , 409 F.3d 1376 , 1378 (Fed.Cir.2005), overruled on other grounds, MedImmune , 549 U.S. at 130-31 , 127 S.Ct. 764 .
+Following MedImmune , this court has held that, to establish an injury in fact traceable to the patentee, a declaratory judgment plaintiff must allege both (1) an affirmative act by the patentee related to the enforcement of his patent rights, SanDisk Corp. v.
+STMicroelecs., Inc. , 480 F.3d 1372 , 1380-81 (Fed.Cir.2007), and (2) meaningful preparation to conduct potentially infringing activity, Cat Tech LLC v. TubeMaster, Inc. , 528 F.3d 871 , 880 (Fed.Cir.2008).
+We review the exercise of declaratory judgment jurisdiction in light of a particular set of facts de novo.
+SanDisk Corp. , 480 F.3d at 1377 .
+B. Myriad challenges the district court's jurisdictional decision on the grounds that Myriad and the Plaintiffs do not have adverse legal interests and that Plaintiffs have failed to allege a controversy of sufficient immediacy and reality to warrant the issuance of a declaratory judgment.
+Specifically, Myriad argues that Plaintiffs have failed to allege any "affirmative acts" by Myriad within the past ten years relating to the patents in suit or directed at any Plaintiff.
+According to Myriad, the district court erred by relying on "stale communications" directed at Drs.
+Kazazian, Ganguly, and Ostrer over a decade ago, as well as ten-year-old licensing and litigation activities directed at third parties, and thus exercised jurisdiction based solely on Plaintiffs' subjective fear of suit, arising from rumor and innuendo [***13] in the research community.
+Plaintiffs respond that they have standing under MedImmune's all-the-circumstances test because, not only are they undisputedly prepared to immediately undertake potentially infringing activities, but also Myriad took sufficient affirmative acts with respect to the patents in suit.
+Regarding the latter, Plaintiffs assert that Myriad sued, threatened to sue, or demanded license agreements from every known institution offering BRCA clinical testing, including university labs directed by plaintiffs Kazazian, Ganguly, and Ostrer, forcing each to cease such testing.
+And, according to Plaintiffs, the awareness of Myriad's vigorous assertion of its patent rights still continues to suppress their ability to perform clinical BRCA testing, placing Plaintiffs in the very dilemma the Declaratory Judgment Act was intended to address: they must either proceed with BRCA-related activities and risk liability for patent infringement, or refrain from such activities despite believing Myriad's patents are invalid.
+Under the facts alleged in this case, we conclude that one Plaintiff, Dr. Ostrer, has established standing to maintain this declaratory judgment suit.
+All Plaintiffs claim standing under the Declaratory Judgment Act based on the same alleged injury: that they cannot undertake the BRCA-related activities that they desire because of Myriad's enforcement of its [**1693] patent rights covering BRCA½.
+[fn7] Only three plaintiffs, however, allege an injury traceable to Myriad; only Drs.
+Kazazian, Ganguly, and Ostrer allege affirmative patent enforcement actions directed at them by Myriad.
+Of these three, Dr. Ostrer clearly alleges a sufficiently real and imminent injury because he alleges an intention to actually and immediately engage in allegedly infringing BRCA-related activities.
+We address each in turn.
+Although MedImmune relaxed this court's more restrictive "reasonable apprehension of suit" test for declaratory judgment jurisdiction, SanDisk , 480 F.3d at 1380 , it did not alter "the bedrock rule that a case or controversy must be based on a real and immediate injury or threat of future injury that is caused by the defendants," Prasco, LLC v. Medicis Pharm. Corp. , 537 F.3d 1329 , 1339 (Fed.Cir.2008).
+Accordingly, following MedImmune , this court has continued to hold that declaratory judgment jurisdiction will not arise merely on the basis that a party learns of the existence of an adversely held patent, or even perceives that such a patent poses a risk of infringement, in the absence of some affirmative act by the patentee.
+SanDisk , 480 F.3d at 1380-81 .
+Thus, without defining the outer boundaries of declaratory judgment jurisdiction, we have held that "where a patentee asserts rights under a patent based on certain identified ongoing or planned activity of another party, and where that party contends that it has the right to engage in the accused activity without license, an Article III case or controversy will arise.
+.
+.
+."
+Id. at 1381 ; see also Prasco , 537 F.3d at 1338 ("A patentee can cause .
+.
+.
+an injury [sufficient to create an actual controversy] in a variety [***14] of ways, for example, by creating a reasonable apprehension of an infringement suit, [or] demanding the right to royalty payments."
+(internal citations omitted)).
+In this case, Myriad demanded a royalty under its patents from Dr. Ostrer based on his clinical BRCA-related activities.
+In May 1998, Myriad's Director of Corporate Communications sent Ostrer a letter proposing a collaborative license.
+The letter stated that Myriad was aware that Ostrer was either currently providing, or was interested in initiating, BRCA1 diagnostic testing services and that Myriad, as holder of U.S. patents covering the BRCA1 gene and diagnostic testing of BRCA1 , was making available to his institution, NYU Medical Center, a limited collaborative license.
+The collaborative license required NYU to make a payment to Myriad for each non-research BRCA test performed.
+At the same time, as Ostrer was aware, Myriad was asserting its patent rights against other similarly situated parties, a fact to be considered in assessing the existence of an actual controversy under the totality of circumstances.
+See Micron Tech., Inc. v. Mosaid Techs., Inc. , 518 F.3d 897 , 901 (Fed.Cir.2008).
+Soon after Ostrer received Myriad's letter, Dr. Kazazian informed him that, because of Myriad's assertion of its patent rights against him, GDL would no longer be accepting patient samples for BRCA genetic testing.
+Myriad's assertion of its patent rights against Kazazian escalated into a patent infringement suit by Myriad against the University of Pennsylvania, which was later dismissed without prejudice after the University agreed to cease all accused BRCA testing services.
+Myriad also sued Oncormed for patent infringement based on its BRCA genetic testing services.
+As a result of Myriad's patent enforcement actions, Dr. Ostrer was forced to send all patient samples to Myriad, now the sole provider of BRCA diagnostic testing services.
+Dr. Ostrer, on the other hand, maintains that he could have proceeded with his BRCA-related clinical activities without taking a license from Myriad.
+This assertion is based on his belief that the patents Myriad claims cover such activities are invalid because genes are patent-ineligible products of nature.
+Acting on his belief, Ostrer seeks in this lawsuit a declaration of his right to undertake BRCA-related clinical activities without a license.
+Accordingly, Myriad and Dr. Ostrer have taken adverse legal positions regarding whether or not Ostrer can engage in BRCA genetic testing without infringing any valid claim to "isolated" BRCA DNAs or methods of "analyzing" or "comparing" BRCA sequences, as recited in Myriad's patents.
+See Aetna Life , 300 U.S. at 242 , 57 S.Ct. 461 (holding declaratory judgment jurisdiction existed when "the parties had taken adverse positions with respect to their existing obligations" on an insurance contract).
+[**1694] Dr. Ostrer has also alleged a controversy of sufficient reality and immediacy, MedImmune , 549 U.S. at 127 , 127 S.Ct. 764 ; he has alleged a concrete and actual injury traceable to Myriad's assertion of its patent rights, see Lujari , 504 U.S. at 560 , 112 S.Ct. 2130 .
+First, Ostrer seeks to undertake specific [***15] BRCA-related activities — BRCA diagnostic testing — for which Myriad has demanded a license under specific patents — those that cover the isolated BRCA genes and BRCA diagnostic testing.
+Thus, Ostrer does not request "an opinion advising what the law would be upon a hypothetical state of facts," Aetna Life , 300 U.S. at 241 , 57 S.Ct. 461 , but rather whether his proposed BRCA testing services are covered by valid patent claims to "isolated" BRCA genes and methods of "comparing" the genes' sequences.
+Second, Ostrer not only has the resources and expertise to immediately undertake clinical BRCA testing, but also states unequivocally that he will immediately begin such testing.
+In contrast to Ostrer, who alleges an actual and imminent injury for purposes of standing, Drs.
+Kazazian and Ganguly allege only that they will "consider" resuming BRCA testing.
+These "'some day' intentions" are insufficient to support an "actual or imminent" injury for standing "without .
+.
+.
+any specification of when the some day will be."
+Lujan , 504 U.S. at 564 , 112 S.Ct. 2130 .
+As a result, Drs.
+Kazazian and Ganguly do not have standing.
+Myriad seeks to avoid this result based on the timing of its enforcement actions.
+Specifically, Myriad argues that time has extinguished the immediacy and reality of any controversy, relying on language that hearkens back to our pre MedImmune reasonable apprehension of suit test.
+See, e.g. , Appellants' Br., 2010 WL 4600106 , at 26 ("[A] patentee's ten-year silence presumptively extinguishes any reasonable objective fear of suit.").
+We disagree.
+In many cases a controversy made manifest by a patentee's affirmative assertion of its patent rights will dissipate as market players and products change.
+In this case, however, the relevant circumstances surrounding Myriad's assertion of its patent rights have not changed despite the passage of time.
+[fn8] Myriad's active enforcement of its patent rights forced Dr. Ostrer, as well as every other similarly situated researcher and institution, to cease performing the challenged BRCA testing services, leaving Myriad as the sole provider of BRCA clinical testing to patients in the United States.
+Since that time, neither the accused activities nor the parties' positions have changed.
+First, Myriad does not allege that genetic testing technology has changed in any way that renders its past assertions of its patent rights irrelevant to Ostrer's currently proposed BRCA testing.
+Rather, the patents cover, as Myriad asserted in the late 1990s, the basic components of any such test: the isolated BRCA genes and the diagnostic step of comparing the genes' sequences.
+Second, ever since Myriad's enforcement efforts eliminated all competition, Myriad and Ostrer have not altered their respective positions.
+Ostrer, still laboring under Myriad's threat of infringement liability, has not attempted to provide BRCA testing; yet, as a researcher, he remains in the same position with respect to his ability and his desire to provide BRCA testing as in the late 1990s.
+Furthermore, nothing in the record suggests that any researcher or institution has successfully attempted [***16] to compete with Myriad, or that Myriad has in any way changed its position with regard to its patent rights.
+Just as active enforcement of one's patent rights against others can maintain a real and immediate controversy despite the passage of time, see Micron , 518 F.3d at 901 , so too can the successful assertion of such rights when the relevant circumstances remain unchanged.
+Thus, consistent with the purpose of the Declaratory Judgment Act, Ostrer need not risk liability and treble damages for patent infringement before seeking a declaration of his contested legal rights.
+See MedImmune , 549 U.S. at 134 , 127 S.Ct. 764 .
+Myriad also argues that the record refutes Ostrer's claim that he has been restrained from engaging in BRCA-related gene sequencing.
+Specifically, Myriad argues that since Myriad published its discoveries of the BRCA1 and BRCA2 genes in October 1994 and March 1996, respectively, over 18,000 scientists have conducted research on the BRCA genes and over 8,600 research papers have been published.
+Furthermore, according to Myriad, plaintiff Wendy Chung concedes that her lab currently conducts sequencing of BRCA genes.
+Yet, both Drs.
+Chung and Ostrer state that, although they conduct gene sequencing, they are forbidden from informing their research subjects of the results of their BRCA tests without first sending the samples to Myriad.
+Accordingly, Ostrer is restrained [**1695] from the BRCA-related activity that he desires to undertake: clinical diagnostic testing.
+Myriad's communications with Dr. Ostrer confirm this understanding.
+The licensing letter Myriad sent to Ostrer proposed a collaborative agreement giving NYU the right to perform "Research Tests" without payment to Myriad.
+J.A.
+2967.
+"Research Tests" are defined as tests that further "non-commercial research programs, the results of which are not provided to the patient and for which no money is received."
+J.A.
+2965 (emphasis added).
+In contrast, the agreement requires payment to Myriad for each "Testing Service" performed, with "Testing Services" defined as "medical laboratory testing .
+.
+.
+for the presence or absence of BRCA1 mutations for the purpose of determining or predicting predisposition to, or assessing the risk of breast or ovarian cancer in humans."
+J.A.
+2966-67.
+Thus, Myriad's patent enforcement actions never targeted the non-clinical BRCA research now cited by Myriad, and Ostrer's ability to perform such research does not address the injury asserted here.
+Finally, Myriad argued in its reply brief and at oral argument that Plaintiffs' declaratory action will not afford them the relief they want, a requirement for standing.
+Lujan , 504 U.S. at 560-61 , 112 S.Ct. 2130 ; see also MedImmune , 549 U.S. at 127 n. 7, 127 S.Ct. 764 ("[A] litigant may not use a declaratory-judgment action to obtain piecemeal adjudication of defenses that would not finally and conclusively resolve the underlying controversy.").
+Specifically, Myriad asserts that because Plaintiffs have challenged just fifteen composition and method claims, while admitting that other unchallenged claims to BRCA probes and primers will still prevent them from engaging in BRCA sequencing, [***17] a favorable decision will not redress the Plaintiffs' alleged injury.
+Again, we disagree.
+The Supreme Court has required only that it is "likely," rather than "merely 'speculative,'" that the alleged injury will be "redressed by a favorable decision."
+Lujan , 504 U.S. at 561 , 112 S.Ct. 2130 .
+The Court has not required certainty.
+For example, in Village of Arlington Heights v. Metropolitan Housing Development Corp. , the Court held that the plaintiffs had standing to challenge a suburb's exclusionary zoning ordinance, as the ordinance stood as "an absolute barrier" to the housing development Metropolitan Housing Development Corp. ("MHDC") had contracted to provide in the village.
+429 U.S. 252 , 261 , 97 S.Ct. 555 , 50 L.Ed.2d 450 (1977).
+The Court noted that injunctive relief, while removing the "barrier" of the ordinance, would not "guarantee" that the housing would be built since MHDC still had to secure financing, qualify for federal subsidies, and carry through with construction.
+Id. The Court nevertheless recognized that "all housing developments are subject to some extent to similar uncertainties," and concluded that it was sufficient that there was a "substantial probability" that the housing development would be built.
+Id. at 261 , 264 , 97 S.Ct. 555 .
+In this case, Myriad's challenged composition and method claims undisputedly provide "an absolute barrier" to Dr. Ostrer's ability to undertake BRCA diagnostic testing activities, and a declaration of those claims' invalidity would remove that barrier.
+See id. at 261 , 97 S.Ct. 555 .
+Moreover, while there may be other patent claims directed to BRCA probes and primers that prevent Ostrer from performing BRCA diagnostic testing free of infringement liability, Myriad has failed to direct us to any specific unchallenged claim that will have that effect.
+And Plaintiffs' counsel stated at the first oral argument in this case that his clients can sequence the BRCA genes without using BRCA probes and primers.
+Oral Arg.
+at 34:07-25, 34:53-35:29 available at http://www.cafc.
+uscourts.gov/oral-argument-recordings/2010-1406/all.
+Accordingly, we decline to construe the asserted claims and decline to hold on this record that Dr. Ostrer's proposed BRCA-related activities would infringe unchallenged claims to primers and probes.
+We thus conclude that it is likely, not merely speculative, that Dr. Ostrer's injury will be redressed by a favorable decision.
+Although we affirm the district court's decision to exercise declaratory judgment jurisdiction over this case, we do so on narrower grounds.
+The district court failed to limit its jurisdictional holding to affirmative acts by the patentee directed at specific Plaintiffs, see SanDisk , 480 F.3d at 1380-S1, erroneously holding all the Plaintiffs had standing based on "the widespread understanding that one may engage in BRCA½ testing at the risk of being sued for infringement liability by Myriad," DJ Op. , 669 F.Supp.2d at 390 .
+We disagree, and thus we reverse the district court's holding that the various plaintiffs other than Dr. Ostrer have standing to maintain this declaratory judgment action.
+Simply disagreeing with the existence of a patent on isolated DNA sequences or even suffering [***18] an attenuated, non-proximate, effect from the existence of a patent does not meet the Supreme Court's requirement for an adverse legal controversy of sufficient immediacy and reality to warrant [**1696] the issuance of a declaratory judgment.
+See MedImmune , 549 U.S. at 127 , 127 S.Ct. 764 .
+The various organizational plaintiffs in this suit in particular were not the target of any enforcement action or offered license agreements by Myriad and had made no preparation to undertake potentially infringing activities.
+They accordingly suffered no injury and thus lack standing to bring this action.
+See Prasco , 537 F.3d at 1338-42 ; Cat Tech , 528 F.3d at 880-81 .
+Having found one plaintiff with standing to maintain this declaratory judgment action, see Horne v. Flores , 557 U.S. 433 , 129 S.Ct. 2579 , 2592-93 , 174 L.Ed.2d 406 (2009), we may turn now to the merits of Myriad's appeal of the district court's summary judgment decision, which held all fifteen challenged composition and method claims invalid under 101 .
+II.
+Subject Matter Eligibility Under the Patent Act, "Whoever invents or discovers any new and useful process, machine, manufacture, or composition of matter, or any new and useful improvement thereof, may obtain a patent therefor, subject to the conditions and requirements of this title."
+35 U.S.C. 101 .
+The Supreme Court has consistently construed 101 broadly, explaining that "[i]n choosing such expansive terms .
+.
+.
+modified by the comprehensive 'any,' Congress plainly contemplated that the patent laws would be given wide scope."
+Bilski v. Kappos , U.S. , 130 S.Ct. 3218 , 3225 , 177 L.Ed.2d 792 (2010) (quoting Chakrabarty , 447 U.S. at 308 , 100 S.Ct. 2204 ).
+The Supreme Court, however, has also consistently held that 101 , although broad, is not unlimited.
+Id .
+The Court's precedents provide three judicially created exceptions to 101 's broad patent-eligibility principles: "'Laws of nature, natural phenomena, and abstract ideas' are not patentable."
+Mayo , 132 S.Ct. at 1293 (quoting Diamond v. Diehr , 450 U.S. 175 , 185 , 101 S.Ct. 1048 , 67 L.Ed.2d 155 (1981)).
+The Court has also referred to those exceptions as precluding the patenting of mental processes, Gottschalk v. Benson , 409 U.S. 63 , 67 , 93 S.Ct. 253 , 34 L.Ed.2d 273 (1972), and products of nature, Chakrabarty , 447 U.S. at 313 , 100 S.Ct. 2204 ("[T]he relevant distinction for purposes of 101 is .
+.
+.
+between products of nature .
+.
+.
+and human-made inventions.").
+The Court has explained that, although not required by the statutory text, "[t]he concepts covered by these exceptions are 'part of the storehouse of knowledge of all men .
+.
+.
+free to all men and reserved exclusively to none.'"
+Bilski , 130 S.Ct. at 3225 (quoting Funk Bros. Seed Co. v. Kalo Inoculant Co. , 333 U.S. 127 , 130 , 68 S.Ct. 440 , 92 L.Ed. 588 (1948)).
+Plaintiffs challenge under 101 Myriad's composition claims directed to "isolated" DNA molecules, its method claims directed to "analyzing" or "comparing" DNA sequences, and its claim to a method for screening potential cancer therapeutics.
+We address each in turn.
+Before reviewing the applicability of the Supreme Court's Mayo holding to the claims of the Myriad patents, however, it is important to state what this appeal is not about.
+It is not about whether individuals suspected of having an increased risk of developing breast cancer are entitled to a second opinion.
+Nor is it about whether the University of Utah, the owner of the instant patents, or Myriad, the exclusive licensee, has acted improperly in its licensing or enforcement policies [***19] with respect to the patents.
+The question is also not whether is it desirable for one company to hold a patent or license covering a test that may save people's lives, or for other companies to be excluded from the market encompassed by such a patent — that is the basic right provided by a patent, i.e. , to exclude others from practicing the patented subject matter.
+It is also not whether the claims at issue are novel or nonobvious or too broad. Those questions are not before us.
+It is solely whether the claims to isolated BRCA DNA, to methods for comparing DNA sequences, and to a process for screening potential cancer therapeutics meet the threshold test for patent-eligible subject matter under 35 U.S.C. 101 in light of various Supreme Court holdings, particularly including Mayo.
+The issue is patent eligibility, not patentability.
+We would further note, in the context of discussing what this case is not about, that patents on life-saving material and processes, involving large amounts of risky investment, would seem to be precisely the types of subject matter that should be subject to the incentives of exclusive rights.
+But disapproving of patents on medical methods and novel biological molecules are policy questions best left to Congress, and other general questions relating to patentability and use of patents are issues not before us.
+As will be seen, on the limited questions before us, we conclude that the composition claims and the screening claim involving growing a transformed host cell meet the standards for patent eligibility, while the claimed methods for "analyzing" or "comparing" do not.
+[**1697] A. Composition Claims: Isolated DNA Molecules i. The principal claims of the patents before us on remand relate to isolated DNA molecules.
+Mayo does not control the question of patent-eligibility of such claims.
+They are claims to compositions of matter, expressly authorized as suitable patent-eligible subject matter in 101 .
+As to those claims, the issue of patent-eligibility remains, as it was on the first appeal to this court, whether they claim patent-ineligible products of nature.
+We hold that they do not.
+The isolated DNA molecules before us are not found in nature.
+They are obtained in the laboratory and are man-made, the product of human ingenuity.
+While they are prepared from products of nature, so is every other composition of matter.
+All new chemical or biological molecules, whether made by synthesis or decomposition, are made from natural materials.
+For example, virtually every medicine utilized by today's medical practitioners, and every manufactured plastic product, is either synthesized from natural materials (most often petroleum fractions) or derived from natural plant materials.
+But, as such, they are different from natural materials, even if they are ultimately derived from them.
+The same is true of isolated DNA molecules.
+ii.
+Myriad argues that its challenged composition claims to "isolated" DNAs cover patent-eligible compositions of matter within the meaning of 101 .
+According to Myriad, the district court [***20] came to a contrary conclusion by (1) misreading Supreme Court precedent as excluding from patent eligibility all "products of nature" unless "markedly different" from naturally occurring ones; and (2) incorrectly focusing not on the differences between isolated and native DNAs, but on one similarity: their informational content.
+Rather, Myriad argues, an isolated DNA molecule is patent eligible because it is, as claimed, "a nonnaturally occurring manufacture or composition of matter" with "a distinctive name, character, and use."
+Appellants' Br., 2010 WL 4600106 , at 41-42 (quoting Chakrabarty , 447 U.S. at 309-10 , 100 S.Ct. 2204 ).
+Myriad contends that isolated DNA does not exist in nature and that isolated DNAs, unlike native DNAs, can be used as primers and probes for diagnosing cancer.
+Moreover, Myriad asserts that an ultimately-derived-from "products of nature" exception not only would be unworkable, as every composition of matter is, at some level, composed of natural materials, but also would be contrary to this court's precedents, the PTO's 2001 Utility Examination Guidelines , and Congress's role in enacting the patent laws.
+Regarding Mayo , Myriad argues that the Supreme Court's decision did not address or alter the established patent-eligibility test for composition claims, such that the standards announced in Chakrabarty still govern this appeal.
+To the extent that the general principles discussed in Mayo bear on the DNA claims, Myriad maintains that isolated DNA represents a nonnatural, man-made invention distinct from the lack of human ingenuity underlying the method claims there at issue.
+Plaintiffs respond that claims to isolated DNA molecules fail to satisfy 101 because such claims cover natural phenomena and products of nature.
+According to Plaintiffs, Supreme Court precedent establishes that a product of nature is not patent eligible even if, as claimed, it has undergone some highly useful change from its natural form.
+Rather, Plaintiffs assert, to be patent eligible a composition of matter must also have a distinctive name, character, and use, making it "markedly different" from the natural product.
+In this case, Plaintiffs conclude that because isolated DNAs retain part of the same nucleotide sequence as native DNAs, they do not have any "markedly different" characteristics.
+Furthermore, according to Plaintiffs, the isolated DNA claims preempt products and laws of nature, excluding anyone from working with the BRCA genes and the genetic information they convey.
+Under Mayo , Plaintiffs assert that any structural differences relative to the chromosomal BRCA genes do not add "enough" to the underlying natural genetic sequences to render Myriad's isolated DNA molecules patentable under 101 .
+The government as amicus curiae does not defend the longstanding position of the PTO, a government agency, that isolated DNA molecules are patent eligible, arguing instead for a middle ground.
+Specifically, the government argues that DNA molecules engineered by man, including cDNAs, [fn9] are patent-eligible compositions of matter because, [***21] with rare exceptions, they do not occur in nature, either in isolation or as contiguous sequences within a chromosome.
+In contrast, the government asserts, [**1698] isolated and unmodified genomic DNAs are not patent eligible, but rather patent-ineligible products of nature, since their nucleotide sequences exist because of evolution, not man.
+At the first oral argument, the government illustrated its position by way of a so-called "magic microscope" test (an invention in and of itself, although probably not patent-eligible).
+Oral Arg.
+at 46:50-47:50.
+According to the government's test then, if an imaginary microscope could focus in on the claimed DNA molecule as it exists in the human body, the claim covers ineligible subject matter.
+The government thus argued that because such a microscope could focus in on the claimed isolated BRCA1 or BRCA2 sequences as they exist in the human body, the claims covering those sequences are not patent eligible.
+In contrast, the government contended, because an imaginary microscope could not focus in vivo on a cDNA sequence, which is engineered by man to splice together non-contiguous coding sequences ( i.e. , exons), claims covering cDNAs are patent eligible.
+In sum, although the parties and the government appear to agree that isolated DNAs are compositions of matter, they disagree on whether and to what degree such molecules fall within the exception for products of nature.
+As set forth below, we conclude that the challenged claims to isolated DNAs, whether limited to cDNAs or not, are directed to patent-eligible subject matter under 101 .
+iii.
+While Mayo and earlier decisions concerning method claim patentability provide valuable insights and illuminate broad, foundational principles, the Supreme Court's decisions in Chakrabarty and Funk Brothers set out the primary framework for deciding the patent eligibility of compositions of matter, including isolated DNA molecules.
+[fn10] In Chakrabarty , the Court addressed the question whether a man-made, living microorganism is a patent-eligible manufacture or composition of matter within the meaning of 101 .
+447 U.S. at 305 , 307 , 100 S.Ct. 2204 .
+The microorganisms were bacteria genetically engineered with four naturally occurring DNA plasmids, each of which enabled the breakdown of a different component of crude oil.
+Id. at 305 , 305 n. 1, 100 S.Ct. 2204 .
+The bacteria, as a result, could break down multiple components of crude oil, a trait possessed by no single naturally occurring bacterium and of significant use in more efficiently treating oil spills.
+Id. at 305 , 305 n. 2, 100 S.Ct. 2204 .
+The Court held that the bacteria qualified as patent-eligible subject matter because the "claim is not to a hitherto unknown natural phenomenon, but to a non-naturally occurring manufacture or composition of matter — a product of human ingenuity 'having a distinctive name, character [and] use.'"
+Id. at 309-10 , 100 S.Ct. 2204 (quoting Hartranft v. Wiegmann , 121 U.S. 609 , 615 , 7 S.Ct. 1240 , 30 L.Ed. 1012 (1887)).
+To underscore the point, the Court compared Chakrabarty's engineered bacteria with the mixed bacterial cultures found unpatentable in Funk Brothers , again casting this case, more relating [***22] to obviousness, in terms of 101.
+See Parker v. Flook , 437 U.S. 584 , 591 , 98 S.Ct. 2522 , 57 L.Ed.2d 451 (1978); Benson , 409 U.S. at 67 , 93 S.Ct. 253 .
+In Funk Brothers , the patentee discovered that certain strains of nitrogen-fixing bacteria associated with leguminous plants do not mutually inhibit each other.
+333 U.S. at 129-30 , 68 S.Ct. 440 .
+Based on that discovery, the patentee produced (and claimed) mixed cultures of nitrogen-fixing species capable of inoculating a broader range of leguminous plants than single-species cultures.
+Id .
+The Court held that the bacteria's cooperative qualities were, "like the heat of the sun, electricity, or the qualities of metals," the "work of nature," and thus not patentable.
+Id. at 130 , 68 S.Ct. 440 .
+The Court also held that applying the newly discovered bacterial compatibility to create a mixed culture was not a patentable advance because no species acquired a different property or use.
+Id. at 131 , [**1699] 68 S.Ct. 440 .
+The Chakrabarty Court thus concluded that what distinguished Chakrabarty's oil-degrading bacteria from the mixed cultures claimed in Funk Brothers , and made the former patent-eligible, was that Chakrabarty's bacteria had "markedly different characteristics from any [bacterium] found in nature" based on the efforts of the patentee.
+Chakrabarty , 447 U.S. at 310 , 100 S.Ct. 2204 .
+One distinction, therefore, between products of nature and human-made invention for purposes of 101 turns on a change in the claimed composition's identity compared with what exists in nature.
+Specifically, the Supreme Court has drawn a line between compositions that, even if arrayed in useful combinations or harnessed to exploit newly discovered properties, have similar characteristics as in nature, and compositions that human intervention has given "markedly different," or "distinctive," characteristics.
+Id .
+(citing Hartranft , 121 U.S. at 615 , 7 S.Ct. 1240 ); see also Am.
+Fruit Growers v. Brogdex Co. , 283 U.S. 1 , 11 , 51 S.Ct. 328 , 75 L.Ed. 801 (1931).
+Applying this test to the isolated DNAs in this case, the challenged claims are drawn to patent-eligible subject matter because the claims cover molecules that are markedly different — have a distinctive chemical structure and identity — from those found in nature.
+It is undisputed that Myriad's claimed isolated DNAs exist in a distinctive chemical form — as distinctive chemical molecules — from DNAs in the human body, i.e. , native DNA.
+Natural DNA exists in the body as one of forty-six large, contiguous DNA molecules.
+Each of those DNA molecules is condensed and intertwined with various proteins, including histones, to form a complex tertiary structure known as chromatin that makes up a larger structural complex, a chromosome.
+See supra , Figure 3.
+Inside living cells, the chromosomes are further encapsulated within a series of membranes and suspended in a complex intracellular milieu.
+Isolated DNA, in contrast, is a free-standing portion of a larger, natural DNA molecule.
+Isolated DNA has been cleaved ( i.e. , had covalent bonds in its backbone chemically severed) or synthesized to consist of just a fraction of a naturally occurring DNA molecule.
+For example, the BRCA1 gene in its native state resides on chromosome 17, a DNA molecule of around eighty million nucleotides.
+Similarly, BRCA2 in its native [***23] state is located on chromosome 13, a DNA of approximately 114 million nucleotides.
+In contrast, isolated BRCA1 and BRCA2 , with introns, each consists of just 80,000 or so nucleotides.
+And without introns, BRCA2 shrinks to approximately 10,200 nucleotides and BRCA1 to just around 5,500 nucleotides.
+Furthermore, claims 5 and 6 of the ′ 282 patent cover isolated DNAs, e.g. , primers or probes, having as few as fifteen nucleotides of a BRCA sequence.
+Accordingly, BRCA1 and BRCA2 in then-isolated states are different molecules from DNA that exists in the body; isolated DNA results from human intervention to cleave or synthesize a discrete portion of a native chromosomal DNA, imparting on that isolated DNA a distinctive chemical identity as compared to native DNA.
+As the above description indicates, isolated DNA is not just purified DNA.
+Purification makes pure what was the same material, but was combined, or contaminated, with other materials.
+Although isolated DNA is removed from its native cellular and chromosomal environment, it has also been manipulated chemically so as to produce a molecule that is markedly different from that which exists in the body.
+Accordingly, this is not a situation, as in Parke-Davis & Co. v. H.K.
+Mulford Co. , in which purification of adrenaline resulted in the identical molecule, albeit being "for every practical purpose a new thing commercially and therapeutically."
+189 F. 95 , 103 (C.C.S.D.N.Y.1911).
+Judge Learned Hand's opinion for the district court in that oft-cited case held the purified "Adrenalin" to be patent-eligible subject matter.
+Id .
+The In re Marden cases are similarly inapposite, directed as they are to the patent ineligibility of purified natural elements — ductile uranium, 18 CCPA 1046 , 47 F.2d 957 (1931), and vanadium, 18 CCPA 1057, 47 F.2d 958 (1931) — that are inherently ductile in purified form.
+While purified natural products thus may or may not qualify for patent under 101 , the isolated DNAs of the present patents constitute an a fortiori situation, where they are not only purified; they are different from the natural products in "name, character, and use."
+Chakrabarty , 447 U.S. at 309-10 , 100 S.Ct. 2204 .
+[fn11] [**1700] Parke-Davis and Marden address a situation in which claimed compound A is purified from a physical mixture that contains compound A. In this case, the claimed isolated DNA molecules do not exist in nature within a physical mixture to be purified.
+They have to be chemically cleaved from their native chemical combination with other genetic materials.
+In other words, in nature, the claimed isolated DNAs are covalently bonded to such other materials.
+Thus, when cleaved, an isolated DNA molecule is not a purified form of a natural material, but a distinct chemical entity that is obtained by human intervention.
+See Chakrabarty , 447 U.S. at 313 , 100 S.Ct. 2204 ("the relevant distinction [is] between products of nature .
+.
+.
+and human-made inventions").
+In fact, some forms of isolated DNA may require no purification at all, because DNAs can be chemically synthesized directly as isolated molecules.
+The above analysis holding the isolated DNA molecules to be patent-eligible subject matter applies to all of the asserted composition [***24] claims on appeal in this case.
+However, as the government has pointed out, claim 2 of the ′ 282 patent is narrower than claim 1 and reads only on cDNAs, which lack the non-coding introns present in the genomic BRCA1 gene.
+[fn12] While, as we have held, all of the claimed isolated DNAs are eligible for patent as compositions of matter distinct from natural DNA, the claimed cDNAs are especially distinctive, lacking the non-coding introns present in naturally occurring chromosomal DNA.
+They are even more the result of human intervention into nature and are hence patent-eligible subject matter.
+The government, as noted earlier, has agreed with that conclusion.
+Br. United States, 2010 WL 4853320 , at 14-17.
+The dissent disparages the significance of a "chemical bond," presumably meaning a covalent bond, in distinguishing structurally between one molecular species and another.
+But a covalent bond is the defining boundary between one molecule and another, and the dissent's citation of Linus Pauling's comment that covalent bonds "make it convenient for the chemist to consider [the aggregate] as an independent molecular species" underlines the point.
+The covalent bonds in this case connect different chemical moieties to one another.
+Plaintiffs argue that because the claimed isolated DNAs retain the same nucleotide sequence as native DNAs, they do not have any "markedly different" characteristics.
+This approach, however, looks not at whether isolated DNAs are markedly different — have a distinctive characteristic — from naturally occurring DNAs, as the Supreme Court has directed, but at one similarity, albeit a key one: the information content contained in isolated and native DNAs' nucleotide sequences.
+Adopting this approach, the district court disparaged the patent eligibility of isolated DNA molecules because their genetic function is to transmit information.
+We disagree, as it is the distinctive nature of DNA molecules as isolated compositions of matter that determines their patent eligibility rather than their physiological use or benefit.
+Uses of chemical substances may be relevant to the nonobviousness of these substances or to method claims embodying those uses, but the patent eligibility of an isolated DNA is not negated because it has similar informational properties to a different, more complex natural material.
+The claimed isolated DNA molecules are distinct from their natural existence as portions of larger entities, and their informational content is irrelevant to that fact.
+We recognize that biologists may think of molecules in terms of their uses, but genes are in fact materials having a chemical nature and, as such, are best described in patents by their structures rather than by their functions.
+In fact, many different materials may have the same function ( e.g. , aspirin, ibuprofen, and naproxen).
+The district court in effect created a categorical rule excluding isolated genes from patent eligibility.
+See SJ Op. , 702 F.Supp.2d at 228-29 .
+But the Supreme Court has "more than once cautioned that courts 'should not read [***25] into the patent laws limitations and conditions which the legislature has not expressed,'" Bilski 130 S.Ct. at 3226 (quoting Diehr , 450 U.S. at 182 , 101 S.Ct. 1048 ), and has repeatedly rejected new categorical exclusions from 101 's scope, see id. at 3227-28 (rejecting the [**1701] argument that business method patents should be categorically excluded from 101 ); Chakrabarty , 447 U.S. at 314-17 , 100 S.Ct. 2204 (same for living organisms).
+Contrary to the conclusions of the district court and the suggestions of Plaintiffs and some amici, 101 applies equally to all putative inventions, and isolated DNA is not and should not be considered a special case for purposes of patent eligibility under existing law.
+See, e.g., SJ Op. , 702 F.Supp.2d at 185 ("DNA represents the physical embodiment of biological information, distinct in its essential characteristics from any other chemical found in nature.
+"); Appellees' Suppl.
+Br. at 4-5 ("Unlike other chemicals, the information encoded by DNA reflects its primary biological function.
+.
+.
+.").
+Under the statutory rubric of 101, isolated DNA is a tangible, man-made composition of matter defined and distinguished by its objectively discernible chemical structure.
+Whether its unusual status as a chemical entity that conveys genetic information warrants singular treatment under the patent laws as the district court did is a policy question that we are not entitled to address.
+Cf. Nat'l Fed'n of Indep. Bus. v. Sebelius , U.S. , 132 S.Ct. 2566 , 2579 , 183 L.Ed.2d 450 (2012) ("[W]e possess neither the expertise nor the prerogative to make policy judgments.
+Those decisions are entrusted to our Nation's elected leaders, who can be thrown out of office if the people disagree with them.").
+Congress is presumed to have been aware of the issue, having enacted a comprehensive patent reform act during the pendency of this case, and it is ultimately for Congress if it wishes to overturn case law and the long practice of the PTO to determine that isolated DNA must be treated differently from other compositions of matter to account for its perceived special function.
+We therefore reject the district court's unwarranted categorical exclusion of isolated DNA molecules.
+Because isolated DNAs, not just cDNAs, have a markedly different chemical structure compared to native DNAs, we reject the government's earlier proposed "magic microscope" test, as it misunderstands the difference between science and invention and fails to take into account the existence of molecules as separate chemical entities.
+The ability to visualize a DNA molecule through a microscope, or by any other means, when it is bonded to other genetic material, is worlds apart from possessing an isolated DNA molecule that is in hand and usable.
+It is the difference between knowledge of nature and reducing a portion of nature to concrete form, the latter activity being what the patent laws seek to encourage and protect.
+The government's microscope could focus in on a claimed portion of any complex molecule, rendering that claimed portion patent ineligible, even though that portion never exists as a separate molecule in the body or anywhere else in nature, and may have an entirely different utility.
+[***26] That would discourage innovation.
+One cannot visualize a portion of a complex molecule, including a DNA containing a particular gene, and will it into isolation as a unique entity.
+Visualization does not cleave and isolate the particular DNA; that is the act of human invention.
+The Supreme Court in Mayo focused on its concern that permitting patents on particular subject matter would prevent use by others of, in Mayo , the correlation recited in the method claims.
+Plaintiffs argue here that they are preempted from using the patented DNA molecules.
+The answer to that concern is that permitting patents on isolated genes does not preempt a law of nature.
+A composition of matter is not a law of nature.
+Moreover, as indicated earlier, a limited preemption is inherent in every patent: the right to exclude for a limited period of time.
+35 U.S.C. 154 (a)(1) ("Every patent shall contain .
+.
+.
+a grant to the patentee, his heirs or assigns, of the right to exclude others from making, using, offering for sale, or selling the invention throughout the United States.
+.
+.
+.").
+When the patent expires, the public is entitled to practice the invention of the patent.
+That is true of all inventions; during the term of the patent, unauthorized parties are "preempted" from practicing the patent, but only for its limited term.
+The seven patents being challenged here all expire by December 18, 2015.
+[fn13] Any preemption thus is limited, very limited in the case of the present patents.
+Moreover, patents are rarely enforced against scientific research, even during their terms.
+The remand of this case for reconsideration in light of Mayo might suggest, as Plaintiffs and certain amici state, that the composition claims are mere reflections of a law of nature.
+Respectfully, they are not, any more than any product of man reflects and is consistent with a law of nature.
+Everything and everyone comes from nature, following its laws.
+But the [**1702] compositions here are not natural products.
+They are the products of man, albeit following, as all materials do, laws of nature.
+The dissent indicates that "elemental lithium (like other elements) would not be patentable subject matter, even if it could only be extracted from nature through an isolation process."
+But the isolation here is not a simple separation from extraneous materials, but conversion to a different molecular entity.
+And again, these facts are not before us, so we do not attempt to evaluate the patentability of one form of lithium over another.
+Courts decide cases; they do not draft comprehensive legal treatises.
+Suffice it to say, however, that if lithium is found in the earth as other than elemental lithium because it reacts with air and water to form, for example, lithium oxide or lithium hydroxide, it is a different material.
+A lithium compound is not elemental lithium.
+It is also important to dispute the dissent's analogy to snapping a leaf from a tree.
+With respect, no one could contemplate that snapping a leaf from a tree would be worthy of a patent, whereas isolating genes to provide useful diagnostic tools and medicines is surely what the [***27] patent laws are intended to encourage and protect.
+Snapping a leaf from a tree is a physical separation, easily done by anyone.
+Creating a new chemical entity is the work of human transformation, requiring skill, knowledge, and effort.
+See Mayo , 132 S.Ct. at 1294 ("While a scientific truth .
+.
+.
+is not a patentable invention, a novel and useful structure created with the aid of knowledge of scientific truth may be.")
+(quoting Mackay Radio & Tel. Co. v. Radio Corp. of Am. , 306 U.S. 86 , 94 , 59 S.Ct. 427 , 83 L.Ed. 506 (1939)).
+The dissent also mentions several times in its opinion the "breathtaking[]" breadth of certain claims as grounds for objecting to their patentability.
+However, we do not have here any rejection or invalidation on the various grounds relating to breadth, such as in 35 U.S.C. 112 .
+The issue before us is patent eligibility under 101 , not the adequacy of the patents' disclosure to support particular claims.
+Nor is it lack of patentability for obviousness, as the dissent intimates, that is before us.
+The dissent finally attempts to analogize the creation of the isolated DNAs in this case to the removal of a kidney from the human body, indicating that the latter does not create patent-eligible subject matter, hence the claimed isolated DNAs also do not.
+Such an analogy is misplaced.
+Extracting a kidney from a body does not result in a patent-eligible composition, as an isolated gene has been and should be.
+A kidney is an organ, not a well defined composition of matter or an article of manufacture specified by 101 .
+No one could confuse extensive research needed to locate, identify, and isolate a gene with the extraction of an organ from a body.
+One is what patents are intended to stimulate research on and hence are properly patent eligible, and the other, while obviously essential to human wellbeing, is not what patents are understood to cover under the patent statute.
+An isolated DNA is properly characterized as a composition of matter under 101 ; no one would so characterize an isolated body organ.
+Finally, our decision that isolated DNA molecules are patent eligible comports with the longstanding practice of the PTO and the courts.
+The Supreme Court has repeatedly stated that changes to longstanding practice should come from Congress, not the courts.
+In J.E.M.
+Ag Supply, Inc. v. Pioneer Hi-Bred International, Inc. , the Court rejected the argument that plants did not fall within the scope of 101 , relying in part on the fact that "the PTO has assigned utility patents for plants for at least 16 years and there has been no indication from either Congress or agencies with expertise that such coverage is inconsistent with [federal law]."
+534 U.S. 124 , 144-15 , 122 S.Ct. 593 , 151 L.Ed.2d 508 (2001); see also Festo Corp. v. Shoketsu Kinzoku Kogyo Kabushiki Co. , 535 U.S. 722 , 739 , 122 S.Ct. 1831 , 152 L.Ed.2d 944 (2002) ("[C]ourts must be cautious before adopting, changes that disrupt the settled expectations of the inventing community."
+(citing Warner-Jenkinson Co. v. Hilton Davis Chem. Co. , 520 U.S. 17 , 28 , 117 S.Ct. 1040 , 137 L.Ed.2d 146 (1997))); Ariad Pharms., Inc. v. Eli Lilly & Co. , 598 F.3d 1336 , 1347 (Fed.Cir.2010) (en banc) (upholding a written description requirement separate from enablement based in part on stare decisis ).
+In this case, the PTO has issued patents relating to DNA molecules for almost thirty years.
+[***28] In the early 1980s, the Office granted the first human gene patents.
+See Eric J. Rogers, Can You Patent Genes?
+Yes and No , 93 J. Pat.
+& Trademark Off.
+Soc'y 19 (2010).
+It is estimated that the PTO has issued 2,645 patents claiming "isolated DNA" over the past twenty-nine years, J.A.
+3710, and that by 2005, had granted 40,000 DNA-related patents relating to, in non-native form, genes in the human genome, Rogers, supra at 40 .
+In 2001, the PTO issued Utility Examination Guidelines , which reaffirmed the agency's position that isolated DNA molecules are patent [**1703] eligible, 66 Fed.Reg.
+1092-94 (Jan. 5, 2001), and Congress has not indicated that the PTO's position is inconsistent with 101 .
+If the law is to be changed, and DNA inventions excluded from the broad scope of 101 , contrary to the settled expectation of the inventing and investing communities, the decision must come, not from the courts, but from Congress.
+The dissent mentions possible "adverse effects" that may occur if isolated DNAs are held to be patent eligible.
+But, respectfully, it is the adverse effects on innovation that a holding of ineligibility might cause.
+Patents encourage innovation and even encourage inventing around; we must be careful not to rope off far-reaching areas of patent eligibility.
+Accordingly, we once again conclude that claims 1, 2, 5, 6, and 7 of the ′ 282 patent ; claims 1, 6, and 7 of the ′ 492 patent ; and claim 1 of the ′ 473 patent directed to isolated DNA molecules recite patent-eligible subject matter under 101 .
+Mayo does not change that result.
+In so doing, we reiterate that the issue before us is patent eligibility , not patentability , about which we express no opinion.
+III.
+Method Claims We turn next to Myriad's challenged method claims.
+This court in its now-vacated decision of July 29, 2011, had held method claims 1 of the ′999, ′001, and ′441 patents, as well as method claims 1 and 2 of the ′ 857 patent — all of which consist of analyzing and comparing certain DNA sequences — not to be patent-eligible subject matter on the ground that they claim only abstract mental processes.
+In light of the Supreme Court's decision in Mayo , we reaffirm that prior holding.
+The Court made clear that such diagnostic methods in that case essentially claim natural laws that are not eligible for patent.
+Without expressly analyzing the instant method claims in the context of the Court's reasoning, but in light of the Court's holding, and in view of our own prior reasoning, set forth herein below, those method claims cannot stand.
+In our prior decision, however, we reversed the district court's holding that claim 20 of the ′ 282 patent was not eligible for patent.
+We did so on the ground, inter alia , that, in addition to the step of comparing the cells' growth rates, the claim also recites the steps of growing transformed cells and determining those growth rates.
+We relied on the fact that those steps were transformative.
+Although the Court has now held that certain transformative steps are not necessarily sufficient under 101 if the recited steps only rely on natural laws, we once again, even in light of Mayo , arrive at the same conclusion [***29] of patent-eligibility because at the heart of claim 20 is a transformed cell, which is made by man, in contrast to a natural material.
+A. Methods of "Comparing" or "Analyzing" Sequences Myriad argued that its claims to methods of "comparing" or "analyzing" BRCA sequences satisfy the machine-or-transformation test because each requires a transformation — extracting and sequencing DNA molecules from a human sample — before the sequences can be compared or analyzed.
+According to Myriad, the district court failed to recognize the transformative nature of the claims by (1) misconstruing the claim term "sequence" as merely information, rather than a physical molecule; and (2) erroneously concluding, in the alternative, that Myriad's proposed transformations were mere data-gathering steps, rather than central to the purpose of the claims.
+Plaintiffs responded that these method claims are drawn to the abstract idea of comparing one sequence to a reference sequence and preempt a phenomenon of nature — the correlation of genetic mutations with a predisposition to cancer.
+And, according to the Plaintiffs, limiting the claims' application to a specific technological field, i.e., BRCA gene sequences, is insufficient to render the claims patent eligible.
+Plaintiffs also assert that the claims do not meet the machine-or-transformation test because the claims' plain language includes just the one step of "comparing" or "analyzing" two gene sequences.
+We renew our conclusion that Myriad's claims to "comparing" or "analyzing" two gene sequences fall outside the scope of 101 because they claim only abstract mental processes.
+See Benson , 409 U.S. at 67 , 93 S.Ct. 253 ("Phenomena of nature, .
+.
+.
+mental processes, and abstract intellectual concepts are not patentable, as they are the basic tools of scientific and technological work.").
+The claims recite, for example, a "method for screening a tumor sample," by "comparing" a first BRCA1 sequence from a tumor sample and a second BRCA1 sequence from a non-tumor sample, wherein a difference in sequence indicates an alteration in the tumor sample.
+′ 001 patent claim 1.
+This claim thus recites nothing more than the abstract mental steps necessary to compare two different nucleotide sequences: one looks at the first position in a first sequence; [**1704] determines the nucleotide sequence at that first position; looks at the first position in a second sequence; determines the nucleotide sequence at that first position; determines if the nucleotide at the first position in the first sequence and the first position in the second sequence are the same or different, wherein the latter indicates an alteration; and repeats the process for the next position.
+Limiting the comparison to just the BRCA genes or, as in the case of claim 1 of the ′ 999 patent , to just the identification of particular alterations, fails to render the claimed process patent-eligible.
+As the Supreme Court has held, "the prohibition against patenting abstract ideas 'cannot be circumvented by attempting to limit the use of the formula to a particular technological environment.'"
+[***30] Bilski 130 S.Ct. at 3230 (quoting Diehr , 450 U.S. at 191-92 , 101 S.Ct. 1048 ); see also id. at 3231 (" Flook established that limiting an abstract idea to one field of use .
+.
+.
+did not make the concept patentable.").
+Although the application of a formula or abstract idea in a process may describe patent-eligible subject matter, id. at 3230 , Myriad's claims do not apply the step of comparing two nucleotide sequences in a process.
+Rather, the step of comparing two DNA sequences is the entire process that is claimed.
+To avoid this result, Myriad attempts to read into its method claims additional, allegedly transformative steps.
+As described above, Myriad reads into its claims the steps of (1) extracting DNA from a human sample, and (2) sequencing the BRCA DNA molecule, arguing that both steps necessarily precede the step of comparing nucleotide sequences.
+The claims themselves, however, do not include either of these steps.
+The claims do not specify any action prior to the step of "comparing" or "analyzing" two sequences; the claims recite just the one step of "comparing" or "analyzing."
+Moreover, those terms' plain meaning does not include Myriad's proposed sample-processing steps; neither comparing nor analyzing means or implies "extracting" or "sequencing" DNA or otherwise "processing" a human sample.
+Myriad claims that "comparing" and "analyzing" take on such meaning when read in light of the patent specifications.
+Specifically, Myriad argues that the specifications show that the claim term "sequence" refers not to information, but rather to a physical DNA molecule, whose sequence must be determined before it can be compared.
+That may be true, but the claims only recite mental steps, not the structure of physical DNA molecules.
+Accordingly, Myriad's challenged method claims are indistinguishable from the claims the Supreme Court found invalid under 101 in Mayo.
+In Mayo , the patents claimed methods for optimizing the dosage of thiopurine drugs administered to patients with gastrointestinal disorders.
+132 S.Ct. at 1295 .
+As written, the claimed methods included the steps of (a) "administering" a thiopurine drug to a subject, and/or (b) "determining" the drug's metabolite levels in the subject, wherein the measured metabolite levels are compared with predetermined levels to optimize drug dosage.
+Id .
+In holding that the claims satisfied 101 , this court concluded that, in addition to the "administering" step being transformative, the "determining" step was both transformative and central to the purpose of the claims.
+Prometheus , 628 F.3d at 1357 .
+However, the Supreme Court held that the steps of administering and determining, combined with a correlative "wherein" clause, were not sufficiently transformative of what was otherwise a claim to a natural law.
+That holding governs Myriad's claims to methods of "comparing" and "analyzing" DNA sequences.
+Myriad's other claims do not even include a Mayo-like step of "determining" the sequence BRCA genes by, e.g. , isolating the genes from a blood sample and sequencing them, or any other putatively transformative step.
+Rather, the comparison between the two sequences can be accomplished by mere [***31] inspection alone.
+Accordingly, Myriad's claimed methods of comparing or analyzing nucleotide sequences are only directed to the abstract mental process of comparing two nucleotide sequences.
+As such, we hold claims 1 of the ′ 999 patent , ′ 001 patent , and ′ 441 patent and claims 1 and 2 of the ′ 857 patent invalid under 101 for claiming patent-ineligible processes.
+B. Method of Screening Potential Cancer Therapeutics Lastly, we turn to claim 20 of the ′ 282 patent , directed to a method for screening potential cancer therapeutics via changes in cell growth rates of transformed cells.
+The parties agree that those transformed cells arose from human effort; i.e. , they are not natural products.
+Plaintiffs nonetheless challenge claim 20 as directed to the abstract idea of comparing the growth rates of two cell populations and as preempting a basic scientific principle — that a slower growth rate in the presence of a potential therapeutic compound suggests that the compound is a cancer therapeutic.
+Plaintiffs [**1705] therefore contend that claim 20 is indistinguishable from the claims held ineligible in Mayo.
+We disagree.
+Claim 20 recites a method that comprises the steps of (1) growing host cells transformed with an altered BRCA1 gene in the presence or absence of a potential cancer therapeutic, (2) determining the growth rate of the host cells with or without the potential therapeutic, and (3) comparing the growth rate of the host cells.
+Claim 20 thus recites a screening method premised on the use of "transformed" host cells.
+Those cells, like the patent-eligible cells in Chakrabarty , are not naturally occurring.
+Rather, they are derived by altering a cell to include a foreign gene, resulting in a man-made, transformed cell with enhanced function and utility.
+See ′ 282 patent col.27 ll.28-33.
+The claim thus includes more than the abstract mental step of looking at two numbers and "comparing" two host cells' growth rates.
+In Mayo , the Supreme Court invalidated claims directed to the relationship between concentrations of certain metabolites in the blood and the likelihood that a particular dosage of a thiopurine drug will be optimum, stating that steps of "administering" and "determining," coupled with a correlative "wherein" clause, were insufficient to differentiate the claimed method from the natural laws encompassed by the claims.
+In short, "to transform an unpatentable law of nature into a patent-eligible application of such a law, one must do more than simply state the law of nature while adding the words 'apply it'."
+132 S.Ct. at 1294 .
+Here, claim 20 does do more; it does not simply apply a law of nature.
+Of course, all activity, whether chemical, biological, or physical, relies on natural laws.
+But, more to the point here is that claim 20 applies certain steps to transformed cells that, as has been pointed out above, are a product of man, not of nature.
+The Court, in its evaluation of the Mayo method claims, found that the additional steps of those claims were not sufficient to "transform" the nature of the claims from mere expression of natural laws to patent-eligible [***32] subject matter.
+By definition, however, performing operations, even known types of steps, on, or to create, novel, i.e. , transformed subject matter is the stuff of which most process or method invention consists.
+All chemical processes, for example, consist of hydrolyzing, hydrogenating, reacting, etc. In situations where the objects or results of such steps are novel and nonobvious, they should be patent-eligible.
+It is rare that a new reaction or method is invented; much process activity is to make new compounds or products using established processes.
+Thus, once one has determined that a claimed composition of matter is patent-eligible subject matter, applying various known types of procedures to it is not merely applying conventional steps to a law of nature.
+The transformed, man-made nature of the underlying subject matter in claim 20 makes the claim patent-eligible.
+The fact that the claim also includes the steps of determining the cells' growth rates and comparing growth rates does not change the fact that the claim is based on a man-made, non-naturally occurring transformed cell — patent-eligible subject matter.
+Furthermore, the claim does not cover all cells, all compounds, or all methods of determining the therapeutic effect of a compound.
+Rather, it is tied to specific host cells transformed with specific genes and grown in the presence or absence of a specific type of therapeutic.
+Accordingly, we hold that claim 20 of the ′ 282 patent recites patent-eligible subject matter under 101 .
+Whether such processes, including claim 20, meet other tests for patentability, such as novelty or nonobviousness, is not before us.
+CONCLUSION For the foregoing reasons, we affirm the district court's decision to exercise declaratory judgment jurisdiction over this case, we reverse the district court's grant of summary judgment with regard to Myriad's composition claims to isolated DNAs, including cDNAs, we affirm the district court's grant of summary judgment with regard to Myriad's method claims directed to comparing or analyzing gene sequences, and we reverse the district court's grant of summary judgment with regard to Myriad's method claim to screening potential cancer therapeutics via changes in cell growth rates of novel, man-made transformed cells.
+AFFIRMED IN PART and REVERSED IN PART COSTS Costs to Myriad.

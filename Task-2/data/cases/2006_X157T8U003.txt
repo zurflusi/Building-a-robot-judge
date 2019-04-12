@@ -1,0 +1,178 @@
+ WILKINSON, Circuit Judge: The plaintiff in this case alleges that defendant fiduciaries breached their duty to him by failing to implement the investment strategy he had selected for his employee retirement account.
+Relying on two separate provisions of the Employee Retirement Income Security Act of 1974 (ERISA), 29 U.S.C. 1132(a)(2) and 1132(a)(3) (2000), he seeks recovery of the amount by which his account would have appreciated had defendants followed his instructions.
+The district court concluded that his complaint did not request a form of relief available under ERISA, and it therefore granted defendants' motion for judgment on the pleadings.
+We affirm.
+Section 1132(a)(2) provides remedies only for entire plans, not for individuals.
+And while 1132(a)(3) does in some cases furnish individualized remedies, the Supreme Court's decisions in Mertens v. Hewitt Associates, 508 U.S. 248 , 113 S.Ct. 2063 , 124 L.Ed.2d 161 (1993), and Great-West Life & Annuity Insurance Co. v. Knudson, 534 U.S. 204 , 122 S.Ct. 708 , 151 L.Ed.2d 635 (2002), compel the conclusion that it does not supply one here.
+Plaintiff has alleged no unjust enrichment, unlawful possession, or self-dealing on the part of defendants, and the remedy he seeks falls outside the scope of the "equitable relief" that 1132(a)(3) authorizes.
+I. DeWolff, Boberg & Associates, Inc. is a nationwide management consulting firm organized under the laws of South Carolina.
+It administers, and is thus a fiduciary of, an ERISA-regulated 401(k) retirement savings plan in which its current and former employees participate.
+The plan permits participants who so desire to manage their own accounts by selecting from a menu of various investment options.
+Plaintiff James LaRue has participated in this 401(k) plan since 1993.
+He alleges that in 2001 and 2002, he directed DeWolff to make certain changes to the investments in his plan account, but that these directions were never carried out.
+In 2004, he brought suit against DeWolff and the plan, claiming that this omission amounted to a breach of fiduciary duty.
+[fn*] According to the complaint, his "interest in the plan ha[d] been depleted approximately $150,000.00" as a result of defendants' failure to follow his instructions.
+To recover for this loss, the complaint sought "appropriate `make whole' or other equitable relief pursuant to [ 29 U.S.C. 1132(a)(3) ]."
+Defendants subsequently filed a Rule 12(c) motion for judgment on the pleadings, contending that plaintiff's requested remedy was not available under 1132(a)(3).
+The district court agreed, and thereafter dismissed the case with prejudice.
+Plaintiff appeals.
+We review de novo a district court's decision to grant judgment on the pleadings.
+See Burbach Broad. Co. of Del. v. Elkins Radio Corp., 278 F.3d 401 , 405-06 (4th Cir. 2002).
+II.
+In enacting ERISA, Congress sought to uniformly regulate the wide universe of employee benefit plans.
+See Aetna Health Inc. v. Davila, 542 U.S. 200 , 208 , 124 S.Ct. 2488 , 159 L.Ed.2d 312 (2004).
+A salient feature of this effort was the careful delineation of civil remedies available to litigants seeking to enforce their rights under such plans.
+See id. at 208-09 , 124 S.Ct. 2488 .
+Congress broadly preempted previously available state-law causes of action, see 29 U.S.C. 1144 (a), and set forth in a single section of ERISA the exclusive list of civil actions available to parties aggrieved by a statutory violation, see id .
+1132(a) ; see also Ingersoll-Rand Co. v. McClendon, 498 U.S. 133 , 144 , 111 S.Ct. 478 , 112 L.Ed.2d 474 (1990).
+Section 1132(a) stops short of providing ERISA complainants with a full arsenal of relief.
+ERISA is "an enormously complex and detailed statute that resolve[s] innumerable disputes between powerful competing interests — not all in favor of potential plaintiffs."
+Mertens v. Hewitt Assocs., 508 U.S. 248 , 262 , 113 S.Ct. 2063 , 124 L.Ed.2d 161 (1993).
+Its civil enforcement provision in particular attempts to settle "a tension between the primary ERISA goal of benefiting employees and the subsidiary goal of containing pension costs."
+Id. at 262-63 , 113 S.Ct. 2063 (internal quotation marks and alterations omitted).
+Congress has consequently made various "policy choices" resulting in "the inclusion of certain remedies and the exclusion of others."
+Pilot Life Ins. Co. v. Dedeaux, 481 U.S. 41 , 54 , 107 S.Ct. 1549 , 95 L.Ed.2d 39 (1987).
+Interpretation of 1132(a) is therefore no easy task.
+As the Supreme Court's ERISA decisions have repeatedly cautioned, "vague notions of a statute's `basic purpose' are .
+.
+.
+inadequate to overcome the words of its text regarding the specific issue under consideration."
+Great-West Life & Annuity Ins. Co. v. Knudson, 534 U.S. 204 , 220 , 122 S.Ct. 708 , 151 L.Ed.2d 635 (2002) (internal quotation marks omitted); Mertens, 508 U.S. at 261 , 113 S.Ct. 2063 (same).
+Section 1132(a) represents an "interlocking, interrelated, and interdependent remedial scheme" that "provide[s] strong evidence that Congress did not intend to authorize other remedies that it simply forgot to incorporate expressly."
+Mass. Mut. Life Ins. Co. v. Russell, 473 U.S. 134 , 146 , 105 S.Ct. 3085 , 87 L.Ed.2d 96 (1985).
+With these constraints in mind, we consider whether the statute's text provides the particular relief at issue here.
+III.
+Plaintiff first suggests that remuneration of his plan account finds express authorization in the text of 29 U.S.C. 1132(a)(2).
+That subsection allows for a civil action "by a participant, beneficiary or fiduciary for appropriate relief under section 1109 of this title."
+Section 1109 , in turn, provides that [a]ny person who is a fiduciary with respect to a plan who breaches any of the responsibilities, obligations, or duties imposed upon fiduciaries by this subchapter shall be personally liable to make good to such plan any losses to the plan resulting from each such breach, and to restore to such plan any profits of such fiduciary which have been made through use of assets of the plan by the fiduciary, and shall be subject to such other equitable or remedial relief as the court may deem appropriate.
+.
+.
+.
+29 U.S.C. 1109 (a).
+Plaintiff's argument regarding the applicability of 1132(a)(2) is made for the first time on appeal.
+Even if the argument were not therefore waived, see, e.g., Jones v. Liberty Mut. Ins. Co. ( In re Wallace & Gale Co. ), 385 F.3d 820 , 835 (4th Cir. 2004), he could not succeed on the merits.
+Recovery under this subsection must "inure□ to the benefit of the plan as a whole, " not to particular persons with rights under the plan.
+Russell, 473 U.S. at 140 , 105 S.Ct. 3085 (emphasis added); see also Coyne & Delany Co. v. Blue Cross & Blue Shield of Va., Inc., 102 F.3d 712 , 714 (4th Cir. 1996).
+"A fair contextual reading of the statute makes it abundantly clear that its draftsmen were primarily concerned with the possible misuse of plan assets, and with remedies that would protect the entire plan, rather than with the rights of an individual beneficiary."
+Russell, 473 U.S. at 142 , 105 S.Ct. 3085 (footnote omitted).
+It is difficult to characterize the remedy plaintiff seeks as anything other than personal.
+He desires recovery to be paid into his plan account, an instrument that exists specifically for his benefit.
+The measure of that recovery is a loss suffered by him alone.
+And that loss itself allegedly arose as the result of defendants' failure to follow plaintiff's own particular instructions, thereby breaching a duty owed solely to him.
+We are therefore skeptical that plaintiff's individual remedial interest can serve as a legitimate proxy for the plan in its entirety, as 1132(a)(2) requires.
+To be sure, the recovery plaintiff seeks could be seen as accruing to the plan in the narrow sense that it would be paid into plaintiff's personal plan account, which is part of the plan.
+But such a view finds no license in the statutory text, and threatens to undermine the careful limitations Congress has placed on the scope of ERISA relief.
+This case is much different from a 1132(a)(2) action in which an individual plaintiff sues on behalf of the plan itself or on behalf of a class of similarly situated participants.
+See Smith v. Sydnor, 184 F.3d 356 , 363 (4th Cir. 1999); see also In re Schering-Plough Corp. ERISA Litig., 420 F.3d 231 , 233 , 235 (3d Cir. 2005); Kuper v. Iovenko, 66 F.3d 1447 , 1452-53 (6th Cir. 1995).
+In such a case, the "remedy will undoubtedly benefit [the plaintiff] and other participants in the [p]lan," but "it does not solely benefit the individual participants."
+Smith, 184 F.3d at 363 (emphasis added); see also Roth v. Sawyer-Cleator Lumber Co., 61 F.3d 599 , 605 (8th Cir. 1995) (permitting recovery for losses to the plan but not losses to the individual plaintiff beneficiaries for defendants' alleged breach of fiduciary duty).
+Here, by contrast, plaintiff seeks to particularize the recovery to himself.
+Section 1132(a)(2) is not a proper avenue for him to obtain such relief.
+IV.
+We thus turn to plaintiff's second theory of relief, which relies on a different ERISA remedial provision, 29 U.S.C. 1132(a)(3) .
+That section authorizes a civil action by a participant, beneficiary, or fiduciary (A) to enjoin any act or practice which violates any provision of this subchapter or the terms of the plan, or (B) to obtain other appropriate equitable relief (i) to redress such violations or (ii) to enforce any provisions of this subchapter or the terms of the plan.
+Plaintiff contends that the "make whole" relief he seeks constitutes one of the forms of "other appropriate equitable relief" that the provision authorizes.
+A. In construing the scope of 1132(a)(3), the Supreme Court has stressed that the term "equitable" is one of limitation.
+In Mertens v. Hewitt Associates, the Court held that the phrase "equitable relief" refers only to "those categories of relief that were typically available in equity" in the days of the divided bench.
+508 U.S. at 256 , 113 S.Ct. 2063 ; see also Sereboff v. Mid Atl. Med.
+Servs., Inc., U.S. , , 126 S.Ct. 1869 , 1873 , 164 L.Ed.2d 612 , (2006).
+The Court reasoned that other sections of ERISA expressly refer to "equitable or remedial relief," 29 U.S.C. 1109 (a), and "legal or equitable relief," e.g., id .
+1132(g)(2)(E) , thereby demonstrating that "equitable relief" connotes only a subset of the full palliative spectrum.
+See Mertens, 508 U.S. at 258 , 113 S.Ct. 2063 .
+The Court refused to "read the statute to render the modifier superfluous," id ., a construction that would undermine Congress's exclusive remedial scheme by opening a back door through which uninvited remedies might enter, id. at 257 , 113 S.Ct. 2063 .
+The particular definition of "equitable" that the Court has adopted finds support in a well-known principle of statutory construction.
+"The maxim noscitur a sociis, that a word is known by the company it keeps, while not an inescapable rule, is often wisely applied where a word is capable of many meanings in order to avoid the giving of unintended breadth to the Acts of Congress."
+Jarecki v. G.D.
+Searle & Co., 367 U.S. 303 , 307 , 81 S.Ct. 1579 , 6 L.Ed.2d 859 (1961).
+Section 1132(a)(3) expressly mentions the right to "enjoin" certain acts or practices " or .
+.
+.
+to obtain other appropriate equitable relief" (emphasis added).
+The understanding of what "equitable" means in this context is necessarily informed by its association with injunctive relief, the quintessential exemplar of a remedy that equity alone would typically provide.
+Determining the applicability of 1132(a)(3) therefore requires a court to examine whether the form of relief a plaintiff seeks is, like an injunction, historically one that a court of equity rather than a court of law would have granted.
+See Sereboff, 126 S.Ct. at 1874 .
+The Supreme Court has, in addition to injunctions, listed mandamus and restitution as examples of traditional equitable remedies.
+See Mertens, 508 U.S. at 256 , 113 S.Ct. 2063 .
+Subsequent decisions of both the Supreme Court and this court have been wary of expanding the list beyond these archetypes and their closely related kin.
+See, e.g. Varity Corp. v. Howe, 516 U.S. 489 , 495 , 515 , 116 S.Ct. 1065 , 134 L.Ed.2d 130 (1996) (reinstatement to a plan); Griggs v. E.I.
+Dupont de Nemours & Co., 385 F.3d 440 , 449 (4th Cir. 2004) (rescission); Denny's, Inc. v. Cake, 364 F.3d 521 , 526 n. 6 (4th Cir. 2004) (declaratory relief incident to an injunction).
+B. Mertens and its progeny compel the conclusion that the remedy plaintiff desires falls outside the scope of 1132(a)(3) .
+As in Mertens, although he "often dance[s] around the word," what plaintiff "in fact seek[s] is nothing other than compensatory damages — monetary relief for all losses .
+.
+.
+sustained as a result of the alleged breach of fiduciary duties."
+508 U.S. at 255 , 113 S.Ct. 2063 .
+"Money damages are, of course, the classic form of legal relief," id ., and have therefore remained conspicuously absent from the list of traditional equitable remedies available under 1132(a)(3) , id. at 256 .
+While that list does include "restitution," id ., this form of recovery is not so broad as to include the compensatory relief that plaintiff seeks.
+As the Supreme Court explained in Great-West Life & Annuity Insurance Co. v. Knudson, "not all relief falling under the rubric of restitution is available in equity."
+534 U.S. at 212 , 122 S.Ct. 708 .
+In particular, "for restitution to lie in equity," as opposed to at law, "the action generally must seek not to impose personal liability on the defendant, but to restore to the plaintiff particular funds or property in the defendant's possession."
+Id. at 214 , 122 S.Ct. 708 ; see also id. at 214 , 122 S.Ct. 708 n. 2 (noting a single "limited exception" applicable to "an accounting of profits").
+The Supreme Court's most recent 1132(a)(3) decisions demonstrate how the absence of unjust possession is fatal to an equitable restitution claim.
+In Knudson, the Court denied a restitutionary remedy under 1132(a)(3) where "`the funds to which petitioners claimed an entitlement' were not in Knudson's possession, but had instead been placed in a `Special Needs Trust' under California law."
+Sereboff, 126 S.Ct. at 1874 (quoting Knudson, 534 U.S. at 207 , 214 , 122 S.Ct. 708 ) (internal alterations omitted).
+More recently in Sereboff v. Mid Atlantic Medical Services, Inc., the Court allowed a claim for equitable restitution to proceed where "Mid Atlantic sought specifically identifiable funds that were within the possession and control of the Sereboffs."
+Id .
+(internal quotation marks omitted).
+The Court in Sereboff reaffirmed the possession requirement it had announced in Knudson, but found that the "impediment to characterizing the relief in Knudson as equitable [was] not present" in the Sereboffs' case. Id .
+The impediment is, however, present in this case, and it precludes plaintiff from recovering under an equitable restitution theory.
+Plaintiff does not allege that funds owed to him are in defendants' possession, but instead that these funds never materialized at all.
+He therefore gauges his recovery not by the value of defendants' nonexistent gain, but by the value of his own loss — a measure that is traditionally legal, not equitable.
+See, e.g., Kerr v. Charles F. Vatterott & Co., 184 F.3d 938 , 944 (8th Cir. 1999); see also Sereboff, 126 S.Ct. at 1874 (claim may be characterized as legal if plaintiff does not "seek to recover a particular fund from the defendant").
+Thus, at core, he seeks "to obtain a judgment imposing a merely personal liability upon the defendant[s] to pay a sum of money."
+Knudson, 534 U.S. at 213 , 122 S.Ct. 708 (internal quotation marks omitted).
+As Knudson explained, historically "[s]uch claims were viewed essentially as actions at law," and they are therefore unavailable under 1132(a)(3) .
+Id .
+C. Plaintiff attempts to avoid this conclusion by arguing that his requested "make whole" relief represents something entirely different from the types of remedies that we or the Supreme Court have here-to-fore considered in the context of 1132(a)(3) .
+In particular, he emphasizes that this case involves a situation where a participant or beneficiary is suing a fiduciary for a breach of fiduciary duty.
+In his view, the scope of "equitable" remedies available in such a case is broader than when a fiduciary sues a beneficiary (as was the case in Knudson and Sereboff ) or when a beneficiary sues a non-fiduciary (as was the case in Mertens ).
+Unlike either of those scenarios, the argument goes, this case can be analogized to a common law breach-of-trust action by a beneficiary seeking to recover lost trust profits, a remedy that trust treatises have labeled "equitable."
+See Restatement (Second) of Trusts 197 , 205(c) (1959); see also George Gleason Bogert & George Taylor Bogert, The Law of Trusts & Trustees 861 (rev.2d ed. 1995).
+The governing precedent, however, does not point as plaintiff suggests.
+In fact, Mertens squarely "rejected the claim that the special equity-court powers applicable to trusts define the reach of [ 1132(a)(3) ]."
+Knudson, 534 U.S. at 219 , 122 S.Ct. 708 ; see Mertens, 508 U.S. at 256-57 , 113 S.Ct. 2063 .
+While the generally exclusive jurisdiction of equity courts over breach-of-trust suits renders all remedies in such cases "equitable" in the sense that a court of equity has power to grant them, "equitable" in the context of 1132(a)(3) has a narrower meaning.
+Mertens, 508 U.S. at 256 , 113 S.Ct. 2063 .
+Under Mertens, "the relevant question is .
+.
+.
+whether a given type of relief was available in equity courts as a general rule," Rego v. Westvaco Corp., 319 F.3d 140 , 145 (4th Cir. 2003) (emphasis added), rather than merely in the context of " the particular case at issue," Mertens, 508 U.S. at 256 , 113 S.Ct. 2063 .
+"Equitable relief" therefore does not encompass the "many situations — not limited to those involving enforcement of a trust — in which an equity court could," by virtue of its jurisdiction over the claim at issue, "grant legal remedies which would otherwise be beyond the scope of its authority."
+Id .
+(internal quotation marks omitted).
+That plaintiff can analogize this suit to a common law breach of trust action therefore proves of no avail in characterizing the relief he seeks as equitable.
+Plaintiff admits that he lacks support for the notion that "make whole" relief was available in equity outside the context of trusts.
+It is therefore impossible for us to conclude that such relief "was available in equity courts as a general rule," Rego, 319 F.3d at 145 .
+The Sixth Circuit has reached a similar conclusion in a case presenting facts nearly identical to those before us here.
+In Helfrich v. PNC Bank, Kentucky, Inc., 267 F.3d 477 (6th Cir. 2001), a beneficiary of an employee 401(k) plan sued a plan fiduciary for failing to comply with written directions to roll over his assets into a specific set of mutual funds.
+Id. at 479-80 .
+The plaintiff asserted an entitlement to the difference between the "amount he would have earned" had the fiduciary followed his instructions and "the amount he in fact earned" as a result of the fiduciary's alleged breach of duty.
+Id. at 480 .
+The court concluded that his requested remedy was unavailable under 1132(a)(3) .
+Id. at 481-83 .
+It found that the plaintiff could not style his relief as "restitution" when he was measuring recovery by his own losses rather than the defendant's gains, id. at 482-83 , and it rejected a strict congruence between 1132(a)(3) and the common law of trusts, id. at 482 (citing Mertens, 508 U.S. at 256 , 113 S.Ct. 2063 ).
+It therefore dismissed the suit because "ERISA does not permit plan beneficiaries to claim money damages from plan fiduciaries."
+Id. at 482 .
+As Helfrich shows, the fact that a plaintiff happens to be a participant or beneficiary suing a fiduciary is entirely beside the point in the 1132(a)(3) inquiry; the status of the parties does not determine the nature of the relief.
+Many other circuits, both before and after Knudson, have likewise rejected the notion that whether a particular form of relief is "equitable" depends on the identity of the parties.
+See Pereira v. Farace, 413 F.3d 330 , 340 (2d Cir. 2005); Calhoon v. Trans World Airlines, Inc., 400 F.3d 593 , 598 (8th Cir. 2005); Callery v. U.S. Life Ins. Co. in the City of N.Y., 392 F.3d 401 , 409 (10th Cir. 2004); McLeod v. Oregon Lithoprint Inc., 102 F.3d 376 , 378 (9th Cir. 1996); Armstrong v. Jefferson Smurfit Corp., 30 F.3d 11 , 13 (1st Cir. 1994); see also Brosted v. Unum Life Ins. Co. of Am., 421 F.3d 459 , 466 (7th Cir. 2005) (noting that compensatory damages are unavailable under 1132(a)(3) in suit for breach of fiduciary duty); D'Amico v. CBS Corp., 297 F.3d 287 , 289 , 292 n. 5 (3d Cir. 2002) (same).
+The teachings of Mertens and Knudson obligate us to agree, and plaintiff's contrary argument therefore fails to cast doubt upon our conclusion that the compensatory relief he seeks is legal, not equitable.
+V. Though Congress may one day take the remedial step plaintiff desires, it has not yet done so.
+It is not difficult to imagine why.
+In crafting ERISA, Congress sought a careful balance between the goals of "ensuring fair and prompt enforcement of rights under a plan" on the one hand and "encourag[ing] .
+.
+.
+the creation of such plans" on the other.
+Aetna Health, 542 U.S. at 215 , 124 S.Ct. 2488 (internal quotation marks omitted).
+It would certainly be reasonable for Congress to have concluded that imposing personal financial liability on fiduciaries under circumstances such as this — where there was no unjust enrichment, unlawful possession, or self-dealing — would seriously deter plan formation and the service of qualified individuals and institutions as fiduciaries.
+Compare, e.g., Mertens, 508 U.S. at 262-63 , 113 S.Ct. 2063 (discussing negative effects of expansive ERISA liability).
+Congress's decision to omit such liability hardly leaves a plan participant or beneficiary in plaintiff's position without recourse.
+He could, for example, seek an injunction compelling compliance with his investment instructions, see 29 U.S.C. 1132(a)(3), or, under appropriate circumstances, bring suit on the plan's behalf to remove the fiduciary, see 29 U.S.C. 1109 (a).
+In Congress's view, such alternative remedies are sufficient to keep fiduciaries from breaches of fiduciary duty that result in no benefit whatsoever to themselves.
+We possess no authority "to adjust the balance .
+.
+.
+that the text adopted by Congress has struck."
+Mertens, 508 U.S. at 263 , 113 S.Ct. 2063 .
+Accordingly, we affirm the judgment.
+AFFIRMED [fn*] Accepting the allegations as pled, as we must, we shall assume without deciding that defendants' alleged conduct amounted to a breach of their fiduciary duties.

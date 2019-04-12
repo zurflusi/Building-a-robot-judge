@@ -1,0 +1,136 @@
+ THOMAS, Circuit Judge.
+OPINION SUMMARY Labor Law The panel affirmed in part and reversed in part the district court's dismissal of warehouse workers' claims for unpaid wages under the Fair Labor Standards Act and Nevada state law.
+The panel reversed the dismissal of state law claims on the basis that they would be certified using different class certification procedures than the federal wage-and-hour claims.
+Agreeing with other circuits, the panel held that a FLSA collective action and a state law class action are not inherently incompatible as a matter of law even though plaintiffs must opt into a collective action under the FLSA but must opt out of a class action under Federal Rule of Civil Procedure 23 .
+The panel held that the workers stated an unpaid wages claim under the FLSA for undergoing a security screening meant to prevent employee theft.
+The panel concluded that the workers sufficiently alleged that this "postliminary" activity was "integral and indispensable" to their principal activities.
+The panel affirmed the dismissal of a claim under the FLSA for shortened lunch periods.
+It remanded for the district court to consider the argument that the workers stated a state law claim regarding lunch periods because Nevada defines "work" differently than federal law.
+In this appeal, we consider whether the district court erred in dismissing the plaintiffs' state law claims for unpaid wages because those claims would be certified using different class certification procedures than their federal wage and hour claims.
+We also consider whether the plaintiffs have alleged plausible claims for unpaid wages under federal and Nevada law for undergoing a security screening meant to prevent employee theft and for unpaid lunch periods shortened by five-minute walks to the cafeteria.
+We affirm the district court in part, reverse in part, and remand for further proceedings.
+I Plaintiffs Jesse Busk and Laurie Castro are former employees of Integrity Staffing Solutions, Inc., which provides warehouse space and staffing to clients such as Amazon.com.
+1 Busk and Castro worked as hourly employees at warehouses in Las Vegas and Fernley, Nevada, respectively, filling [**2] orders placed by Amazon.com customers.
+In 2010, Busk and Castro sued Integrity on behalf of a putative class of workers in both warehouses, claiming violations of the Fair Labor Standards Act (FLSA) and Nevada labor laws.
+Busk and Castro alleged Integrity violated federal and state labor laws by requiring them to pass through a security clearance at the end of each shift, for which they were not compensated.
+Employees waited up to 25 minutes to be searched; removed their wallets, keys, and belts; and passed through metal detectors.
+The plaintiffs alleged the clearances were "necessary to the employer's task of minimizing 'shrinkage' or loss of product from warehouse theft."
+The plaintiffs also sought compensation under FLSA and Nevada law for their entire 30-minute unpaid lunch periods because they spent up to 10 minutes of the meal period "walking to and from the cafeteria and/or undergoing security clearances."
+They said it took them about five minutes after punching out "to walk to the facility cafeteria and/or pass through security clearances" and "approximately five minutes to walk from the cafeteria to the time keeping system to clock back in."
+Additionally, managers would frequently "remind" workers to "finish their meal period quickly so that they would clock back in on time."
+The district court granted Integrity's motion to dismiss the amended complaint for failure to state a claim under Federal Rule of Civil Procedure 12(b)(6) .
+The court held that the time spent clearing security was not compensable under FLSA, relying on out-of-circuit cases finding the time employees spent passing through security screenings noncompensable.
+The court also held that the plaintiffs' allegations about shortened meal periods did not state a claim under FLSA because the plaintiffs did not allege that they performed "any duty related to their job as warehouse workers" during their lunch breaks.
+The district court also held that the state law claims "must be dismissed" due to "conflicting" class certification mechanisms, namely that while plaintiffs must opt into a collective action under FLSA, plaintiffs must opt out of a class action under Federal Rule of Civil Procedure 23 .
+Alternatively, the court dismissed the state claims on the merits.
+It held that since the claims were based entirely on the security clearance and lunch allegations, the "Plaintiffs have failed to allege fact scenarios that would support a valid claim" under Nevada law.
+II We review de novo the district court's conclusion that a FLSA collective action and state law class action are inherently incompatible as a matter of law.
+See Miranda v. Anchondo, 684 F.3d 844 , 849 (9th Cir. 2011) (questions of statutory construction and interpretation reviewed de novo ).
+We agree with all other circuits to consider the issue that such actions can peacefully coexist.
+Therefore, the district court erred in dismissing the state law claims based on a perceived conflict.
+Under FLSA, a potential plaintiff does not benefit from (and is not bound by) a judgment unless he or she "affirmatively 'opts [**3] in'" to the lawsuit.
+Kinney Shoe Corp. v. Vorhes, 564 F.2d 859 , 862 (9th Cir. 1977), overruled on other grounds by Hoffman-La Roche Inc. v. Sperling, 493 U.S. 165 (1989); see also 29 U.S.C. 216(b) ("No employee shall be a party plaintiff to any such action unless he gives his consent in writing to become such a party and such consent is filed in the court in which such action is brought.").
+This rule is in contrast to a typical Rule 23 class action, where a potential plaintiff must opt out to be excluded from the class.
+See Fed. R. Civ. P. 23(c)(2)(B)(v) ("the court will exclude from the class any member who requests exclusion").
+Although some district courts have held that a FLSA collective action cannot be brought in the same lawsuit as a state-law class action based on the same underlying allegations, 2 all circuit courts to consider the issue have held that the different opting mechanisms do not require dismissal of the state claims.
+Knepper v. Rite Aid Corp., 675 F.3d 249 , 253-62 (3d Cir. 2012); Ervin v. OS Rest.
+Servs., Inc., 632 F.3d 971 , 976-79 (7th Cir. 2011); Shahriar v. Smith & Wollensky Rest. Grp., 659 F.3d 234 , 247-49 (2d Cir. 2011); Lindsay v. Gov't Emps.
+Ins. Co., 448 F.3d 416 , 424 (D.C. Cir. 2006).
+Our sister circuits have correctly reasoned that FLSA's plain text does not suggest that a district court must dismiss a state law claim that would be certified using an opt-out procedure.
+Its opt-in requirement extends only to "any such action"-that is, a FLSA claim.
+See 29 U.S.C. 216(b) ; Knepper, 675 F.3d at 259-60 (noting Section 216(b) "explicitly limits its scope to the provisions of the FLSA, and does not address state-law relief"); Ervin, 632 F.3d at 977 ("Nothing" about FLSA's text "suggests that the FLSA is not amenable to state-law claims for related relief in the same federal proceeding.").
+FLSA also expressly permits more protective state labor laws.
+See 29 U.S.C. 218(a) ("No provision of this chapter shall excuse noncompliance with any Federal or State law or municipal ordinance establishing a minimum wage higher than the minimum wage established under this chapter or a maximum work week lower than the maximum workweek established under this chapter ").
+This savings clause provides further evidence that a federal lawsuit combining state and federal wage and hour claims is consistent with FLSA.
+See Ervin, 632 F.3d at 977 ; Shahriar, 659 F.3d at 247-48 .
+Nor does the legislative history of Section 216(b) support the view of some district courts that allowing both actions to proceed simultaneously "would essentially nullify Congress's intent in crafting Section 216(b) and eviscerate the purpose of Section 216(b) 's opt-in requirement."
+Otto v. Pocono Health Sys., 457 F. Supp. 2d 522 , 524 (M.D. Pa. 2006), overruled by Knepper, 675 F.3d at 253-62 .
+We agree with the Third Circuit that the "full legislative record casts doubt" on the contention that Section 216(b) was intended to eliminate opt-out class actions.
+Knepper, 675 F.3d at 260 ; see also Ervin, 632 F.3d at 977-78 ; Shahriar, 659 F.3d at 248 .
+When Congress created Section 216(b) 's opt-in requirement as part of the Portal-to-Portal Act of 1947, it was responding to concerns about third parties filing "representative" FLSA actions on behalf of disinterested employees.
+See Hoffman-La Roche, 493 U.S. at 173 .
+Accordingly, it amended FLSA "for the purpose of limiting private FLSA plaintiffs to employees who asserted claims in their own right and freeing employers of the burden of representative actions."
+[**4] See id .
+This purpose does not evince an intent to eliminate opt-out class actions for state wage and hour claims brought in federal court.
+Even if it did, Congress has expressed a contrary intent in the Class Action Fairness Act of 2005, which confers federal jurisdiction over class actions where certain diversity and amount-in-controversy requirements are met.
+See Class Action Fairness Act of 2005, Pub. L. No. 109-2 , 119 Stat. 4 .
+Because the Class Action Fairness Act provides that federal courts should exercise jurisdiction over certain class actions (including those alleging violations of state wage and hour laws), and these class actions are certified pursuant to Rule 23's opt-out procedure, we cannot conclude that Congress intended such claims be dismissed simply because they were brought in conjunction with FLSA claims.
+3 Integrity argues that allowing both classes to proceed simultaneously would cause "unnecessary confusion" for potential class members who would receive notices "stating both that they must opt in to have their compensation issues adjudicated and that they must opt out to avoid having their compensation issues adjudicated."
+While we do not minimize this practical concern, we agree with the Seventh Circuit that district courts should be able to "work[] out an adequate notice in this type of case." Ervin, 632 F.3d at 978 .
+Furthermore, "if these actions were to proceed separately the FLSA in federal court and the state-law class action in state court an entirely different and potentially worse problem of confusion would arise, with uncoordinated notices from separate courts peppering the employees."
+Id .
+In sum, we agree with the other circuits to consider the issue that the fact that Rule 23 class actions use an opt-out mechanism while FLSA collective actions use an opt-in mechanism does not create a conflict warranting dismissal of the state law claims.
+III Turning to the merits, we review de novo a district court's dismissal of a complaint for failure to state a claim under Rule 12(b)(6) .
+N.M. State Inv. Council v. Ernst & Young LLP, 641 F.3d 1089 , 1094 (9th Cir. 2011).
+Accepting the plaintiffs' allegations as true and construing them in the light most favorable to plaintiffs, we may affirm a dismissal only if the complaint fails to state a claim for relief that is plausible on its face.
+Id .
+Applying this standard, we hold that the district court erred in holding that the plaintiffs failed to state a claim under FLSA for passing through security clearances at the end of the day.
+But, under the facts alleged, we affirm its dismissal of the claim for shortened lunch periods.
+A FLSA, as amended by the Portal-to-Portal Act of 1947, generally precludes compensation for activities that are "preliminary" or "postliminary" to the "principal activity or activities" that the employee "is employed to perform."
+29 U.S.C. 254(a) .
+But preliminary and postliminary activities are still compensable under the Portal-to-Portal Act if they are "integral and indispensable" to an employee's principal activities.
+Steiner v. Mitchell, 350 U.S. 247 , 332 (1956) (changing clothes and showering were "integral and indispensable" [**5] to producing batteries).
+To be "integral and indispensable," an activity must be (1) "necessary to the principal work performed" and (2) "done for the benefit of the employer."
+Alvarez v. IBP, Inc., 339 F.3d 894 , 902-03 (9th Cir. 2003), aff'd on other grounds, 546 U.S. 21 (2005).
+In Alvarez, we held that putting on and taking off protective gear was necessary to the principal work of employees at a meat packing plant because the gear was required by the employer's rules, by federal regulators, and by the "'nature of the work.'"
+339 F.3d at 903 (quoting 29 C.F.R. 790.8(c) n.65).
+Moreover, the donning and doffing benefited the employer by preventing "workplace injury and contamination."
+Id .
+; see also Ballaris v. Wacker Siltronic Corp., 370 F.3d 901 , 911 (9th Cir. 2004) (donning and doffing uniforms was compensable when company required employees to change on premises to avoid contaminating silicon chips manufactured there).
+But in Bamonte v. City of Mesa, 598 F.3d 1217 (9th Cir. 2010), we held that donning and doffing police uniforms was not necessary to police officers' principal work because they could change at home and chose to do so at work for their own benefit.
+Id. at 1225-26 .
+Here, Busk and Castro have alleged that Integrity requires the security screenings, which must be conducted at work.
+They also allege that the screenings are intended to prevent employee theft-a plausible allegation since the employees apparently pass through the clearances only on their way out of work, not when they enter. As alleged, the security clearances are necessary to employees' primary work as warehouse employees and done for Integrity's benefit.
+Assuming, as we must, that these allegations are true, the plaintiffs have stated a plausible claim for relief.
+In holding otherwise, the district court relied upon out-ofcircuit cases holding that time spent clearing security was not compensable under the Portal-to-Portal Act.
+But these cases are distinguishable because, in these cases, everyone who entered the workplace had to pass through a security clearance.
+In Gorman v. Consolidated Edison Corp., 488 F.3d 586 (2d Cir. 2007), the Second Circuit held that security procedures at a nuclear power plant were part of noncompensable travel time under 29 U.S.C. 254(a)(1) in part because the "security measures at entry are required (to one degree or another) for everyone entering the plant," including visitors.
+Id. at 594 .
+In Bonilla v. Baker Concrete Construction Co., 487 F.3d 1340 (11th Cir. 2007), the Eleventh Circuit held that construction workers employed by a subcontractor to work on an airport construction project were not entitled to compensation for passing through a security clearance.
+Id. at 1345 .
+Because the Federal Aviation Administration mandated the security process, the court held that the screening did not benefit the employer.
+Id .
+Gorman and Bonilla do not concern a security screening put in place because of the nature of the employee's work.
+But here Integrity allegedly requires the screening to prevent employee theft, a concern that stems from the nature of the employees' work (specifically, their access to merchandise).
+Therefore, the district court erred in assuming Gorman and Bonilla created a blanket [**6] rule that security clearances are noncompensable instead of assessing the plaintiffs' claims under the "integral and indispensable" test.
+Because we hold that the plaintiffs have stated a valid claim for relief under FLSA for the time spent passing through security clearances, we also reverse the district court's dismissal of the parallel state law claim.
+B The district court also held that the plaintiffs failed to state a claim under FLSA for their shortened lunch periods.
+Under the facts as alleged, we agree.
+FLSA does not require compensation for an employee's lunch period, but an "employee cannot be docked for lunch breaks during which he is required to continue with any duties related to his work."
+Brennan v. Elmer's Disposal Serv., Inc., 510 F.2d 84 , 88 (9th Cir. 1975); see also 29 C.F.R. 785.19 (providing that an employee must be "completely relieved from duty for the purposes of eating regular meals").
+4 An "employee is not relieved if he is required to perform any duties, whether active or inactive, while eating."
+29 C.F.R. 785.19 .
+For example, "an office employee who is required to eat at his desk or a factory worker who is required to be at his machine is working while eating."
+Id .
+Here, Busk and Castro alleged they were not "completely relieved from duty" because by placing the time clocks far from the lunchroom, Integrity forced upon them the "duty to walk to the lunch room in order to eat lunch."
+But the district court correctly held that walking to the lunchroom is not a work duty.
+Walking to the lunchroom is not necessary to the plaintiffs' principal work as warehouse employees.
+Moreover, though the Portal-to-Portal Act does not clearly preclude compensation for walking to the lunchroom, as it only expressly applies to walking before the workday starts and after it ends, 5 it would be incongruous to preclude compensation for walking into work on the employer's premises, but require it for walking to the lunchroom.
+6 Busk and Castro also argue they are entitled to compensation for their entire 30-minute lunch periods because supervisors would frequently "remind" workers to "finish their meal period quickly so that they would clock back in on time."
+They rely upon cases noting that "very frequent interruptions" might make meal periods compensable.
+See Roy v. Cnty. of Lexington, 141 F.3d 533 , 546 (4th Cir. 1998).
+But these cases concern whether employees are entitled to compensation for lunch periods when they remain "on call."
+They use the term "interruptions" to refer to instances where the employee has to resume a work duty for instance, when emergency medical service employees fielded emergency calls, id ., or maintenance workers responded to maintenance problems, Bernard v. IBP, Inc. of Neb., 154 F.3d 259 , 265 (5th Cir. 1998).
+That supervisors may ha ve "interrupted" Busk and Castro in another sense of the word does not make their lunch periods compensable absent any claim that they performed a work duty.
+Finally, the first amended complaint alleges that employees had to pass through a security clearance on their way to the lunchroom.
+Assuming that the time passing through the security clearance on the way to lunch constitutes [**7] compensable work, the time alleged in this case is de minimis.
+See Lindow v. United States, 738 F.2d 1057 , 1062-64 (9th Cir. 1984) (discussing de minimis exception).
+As alleged in the first amended complaint, the walk to and from the cafeteria takes "approximately five minutes" each way, though employees pass through security only on their way to the cafeteria, not on the return trip.
+The relatively minimal time expended on the clearance in this context differs from the 25-minute delay alleged for employees passing through security at day's end.
+Therefore, the district court correctly dismissed this claim under Rule 12(b)(6) .
+7 The plaintiffs also argue that even if the district court correctly dismissed their FLSA claim relating to the shortened lunch periods, it should not have dismissed their state law claim because Nevada law would require compensation even when federal law does not.
+Nevada law requires that an employer provide a half-hour meal break if it employs a worker for a continuous eight-hour period.
+Nev. Rev. Stat. 608.019 .
+The law provides, "No period of less than 30 minutes interrupts a continuous period of work for the purposes of this subsection."
+Id .
+But there is no private right of action to enforce this section.
+The Nevada Legislature has entrusted the enforcement of this statute to the state Labor Commissioner by expressly providing that the "Labor Commissioner or the representative of the Labor Commissioner shall cause the provisions of NRS 608.005 to 608.195 , inclusive, to be enforced."
+Nev. Rev. Stat. 608.180 ; see also Baldonado v. Wynn Las Vegas, LLC, 194 P.3d 96 , 102 (Nev. 2008) (holding there was no implied private right of action to enforce Nev. Rev. Stat. 608.160 when the "Legislature has expressly ordered the Labor Commissioner to enforce that statute").
+Nevada Revised Statute 608.140 does provide a private right of action to recoup unpaid wages.
+Baldonado, 194 P.3d at 104 n.33.
+Thus, the district court correctly focused on whether Busk and Castro alleged they were required to "work" during their lunch periods.
+However, the plaintiffs raised for the first time on appeal their argument that Nevada defines "work" differently than federal law, such that their lunch periods might be compensable under state law even if they were not compensable under federal law.
+Because the district court has not considered this argument, we remand for it to do so in the first instance.
+Cf. Sun v. Taiwan, 201 F.3d 1105 , 1110 (9th Cir. 2000) (remanding for district court to consider new theory of negligence raised for first time on appeal).
+AFFIRMED IN PART; REVERSED IN PART; REMANDED.
+Each party shall bear its own costs on appeal.

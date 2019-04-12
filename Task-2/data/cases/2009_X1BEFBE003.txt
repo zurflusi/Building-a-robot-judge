@@ -1,0 +1,302 @@
+ WILKINSON, Circuit Judge: A state agency known as the Virginia Office for Protection and Advocacy, or "VOPA," brought this action in federal court against three Virginia officials in their official capacities.
+VOPA claims that the defendant state officials are violating federal law and seeks declaratory and injunctive relief.
+We hold that sovereign immunity bars VOPA's suit.
+While Congress could seek to provide a federal forum for this action through its abrogation power or by requiring a waiver of the states' sovereign immunity in exchange for federal funds, Congress has attempted neither of those options here.
+And we decline to expand the doctrine of Ex parte Young , 209 U.S. 123 , 28 S.Ct. 441 , 52 L.Ed. 714 (1908), to lift the bar of sovereign immunity in federal court when the plaintiff is a state agency.
+VOPA may pursue its claims in state court, but it would be inconsistent [**2] with our system of dual sovereignty for a federal court to rely on Ex parte Young to adjudicate an intramural state dispute like this one.
+Accordingly, we reverse the judgment of the district court and remand this case with directions to dismiss it.
+I. VOPA is an "independent state agency" in Virginia that protects and advocates for the rights of persons with mental illnesses and developmental disabilities.
+See Va.
+Code Ann. 51.5-39.2 (A); Va. Office for Prot. & Advocacy v. Reinhard , 405 F.3d 185 , 187 (4th Cir. 2005).
+Congress encourages the states to create entities like VOPA by providing federal funding to protection and advocacy systems that meet the requirements of two federal statutes: the Developmental Disabilities Assistance and Bill of Rights Act of 2000, 42 U.S.C. 15001 15115 ("DD Act"), and the Protection and Advocacy for Individuals with Mental Illness Act, 42 U.S.C. 10801 10851 ("PAIMI Act").
+Under those acts, states may choose to make their protection and advocacy systems either public agencies or private, nonprofit entities.
+See 42 U.S.C. 15044 (a), 10805 (c)(1)(B); 45 C.F.R. 1386.20 .
+Virginia chose the public option.
+In accordance with the requirements for receiving federal funds, Virginia law authorizes VOPA to engage in various pursuits on behalf of the mentally ill and the disabled, such as investigating complaints of discrimination, abuse, and neglect.
+See Va.
+Code Ann. 51.5-39.2 (A); 42 U.S.C. 15043 , 10805 .
+Two features of VOPA's authority under Virginia law are particularly relevant in this case. First, VOPA operates independently of the Office of the Attorney General in Virginia and employs its own legal counsel.
+Va.
+Code Ann. 2.2-510 (5), 51.5-39.2 (A).
+Second, VOPA has the authority, consistent with the requirements of the DD and PAIMI Acts, to access "the records of an individual with a disability" in certain circumstances, including the situation in which VOPA has probable cause to believe that a person has been abused or neglected.
+Va.
+Code Ann. 51.5-39.4 (5); see 42 U.S.C. 15043 (a)(2)(I) (J) , 10805 (a)(4).
+VOPA claims in this action that Virginia is denying VOPA access to certain records in violation of the DD and PAIMI Acts.
+In particular, VOPA seeks declaratory and injunctive relief providing it access to "peer review" records relating to three persons who died or were injured in facilities for the mentally ill. The facilities in question are operated by another state agency in Virginia, the Department of Mental Health, Mental Retardation and Substance Abuse Services.
+The defendants are three officials in that department, named in their official capacities ("the state officials").
+Before the district court, the state officials moved to dismiss VOPA's complaint on two grounds.
+First, they argued that VOPA had failed to state a claim on which relief could be granted because the state officials were not violating federal law.
+Specifically, the state officials argued that peer review records were privileged under Virginia law and that federal regulations under the DD Act and the PAIMI Act left that state-law privilege intact.
+See 42 C.F.R. 51.41 (c)(4); 45 C.F.R. 1386.22 (c)(1).
+Second, the state officials argued that Virginia's sovereign immunity barred VOPA's suit in any event.
+The district court denied the state officials' motion to dismiss on both grounds.
+First, the court [**3] held that VOPA had stated a claim that the state officials were violating federal law and that the state officials' argument based on the peer review privilege was inappropriate for resolution on a Rule 12(b)(6) motion because it was an "affirmative defense to the merits."
+And second, the court held that sovereign immunity did not bar VOPA's suit.
+The district court agreed with the state officials that Congress had not abrogated Virginia's sovereign immunity, nor had Virginia waived its sovereign immunity against this action.
+However, the court agreed with VOPA that this suit satisfied the sovereign immunity exception of Ex parte Young , 209 U.S. 123 , 28 S.Ct. 441 , 52 L.Ed. 714 (1908), because VOPA had sued the state officials for prospective relief from an ongoing violation of federal law.
+In reaching that conclusion, the district court rejected the state officials' argument that the doctrine of Ex parte Young did not permit a suit in federal court by one state agency against officials of another agency of the same state.
+The state officials immediately appealed the district court's sovereign immunity decision (and only that decision) under the collateral order doctrine; our review is de novo.
+Antrican v. Odom , 290 F.3d 178 , 184 (4th Cir. 2002).
+II.
+State sovereign immunity is a bedrock principle of "Our Federalism."
+Younger v. Harris , 401 U.S. 37 , 44 , 91 S.Ct. 746 , 27 L.Ed.2d 669 (1971).
+Indeed, the "central purpose" of the sovereign immunity doctrine "is to `accord the States the respect owed them as' joint sovereigns."
+Fed. Mar. Comm'n v. S.C. State Ports Auth. , 535 U.S. 743 , 765 , 122 S.Ct. 1864 , 152 L.Ed.2d 962 (2002) (quoting P.R.
+Aqueduct & Sewer Auth. v. Metcalf & Eddy, Inc. , 506 U.S. 139 , 146 , 113 S.Ct. 684 , 121 L.Ed.2d 605 (1993)).
+When the Constitution "split the atom of sovereignty," U.S.
+Term Limits, Inc. v. Thornton , 514 U.S. 779 , 838 , 115 S.Ct. 1842 , 131 L.Ed.2d 881 (1995) (Kennedy, J., concurring), the states "did not consent to become mere appendages of the Federal Government," Fed. Mar. Comm'n , 535 U.S. at 751 , 122 S.Ct. 1864 .
+Rather, they consented to a system of dual sovereignty, and the states therefore "entered the Union `With their sovereignty intact.'"
+Id .
+(quoting Blatchford v. Native Vill. of Noatak , 501 U.S. 775 , 779 , 111 S.Ct. 2578 , 115 L.Ed.2d 686 (1991)).
+Along with their status as sovereigns, the states retained "the dignity and essential attributes inhering in that status."
+Alden v. Maine , 527 U.S. 706 , 714 , 119 S.Ct. 2240 , 144 L.Ed.2d 636 (1999).
+And one of those essential attributes of sovereignty retained by the states is immunity from suit absent their consent.
+See Fed. Mar. Comm'n , 535 U.S. at 751-52 , 122 S.Ct. 1864 ; Alden , 527 U.S. at 715-19 , 119 S.Ct. 2240 ; Seminole Tribe of Fla. v. Florida , 517 U.S. 44 , 54 , 116 S.Ct. 1114 , 134 L.Ed.2d 252 (1996).
+While the Eleventh Amendment reflects this foundational principle of sovereign immunity, the Amendment does not define the immunity's scope.
+See, e.g., Alden , 527 U.S. at 727-30 , 119 S.Ct. 2240 .
+Exceptions to the states' sovereign immunity do exist, however.
+See, e.g., Bragg v. W. Va.
+Coal Ass'n , 248 F.3d 275 , 291-92 (4th Cir. 2001).
+Three of those exceptions are pertinent here.
+First, "Congress may abrogate a State's immunity pursuant to its enforcement power under 5 of the Fourteenth Amendment."
+Id. at 291 (citing Seminole Tribe , 517 U.S. at 59 , 116 S.Ct. 1114 ).
+Second, a state may waive its sovereign immunity if it consents to suit in federal court.
+Id. at 292 .
+Third, the states' sovereign immunity "does not preclude private individuals from bringing suit against State officials for prospective injunctive or declaratory relief designed to remedy ongoing violations of federal law."
+Id .
+(citing Ex parte Young , 209 U.S. 123 , 28 S.Ct. 441 , 52 L.Ed. 714 ).
+The parties correctly agree that Virginia's sovereign immunity [**4] bars VOPA's suit against the state officials in their official capacities unless one of these exceptions to sovereign immunity applies.
+See, e.g., Edelman v. Jordan , 415 U.S. 651 , 94 S.Ct. 1347 , 39 L.Ed.2d 662 (1974); Bragg , 248 F.3d at 289-92 .
+We therefore examine each of the three relevant exceptions in turn.
+III.
+We begin with abrogation.
+To abrogate the states' sovereign immunity, Congress must both "unequivocally express[] its intent to abrogate" and "act[] pursuant to a valid grant of constitutional authority."
+Kimel v. Fla. Bd. of Regents , 528 U.S. 62 , 73 , 120 S.Ct. 631 , 145 L.Ed.2d 522 (2000).
+We agree with the state officials and the district court that Congress has not unequivocally expressed its intent to abrogate Virginia's sovereign immunity in this case. Indeed, VOPA does not argue that Congress has made any effort, much less a clear one, to abrogate the states' immunity in the DD Act or the PAIMI Act.
+Thus, the abrogation exception does not permit VOPA's suit against state officials.
+We do not hold, however, that Congress is powerless to abrogate in the circumstances presented by this case. Indeed, the Supreme Court and this court have upheld Congress's authority to abrogate sovereign immunity under Section 5 of the Fourteenth Amendment in certain actions involving the rights of disabled persons under Title II of the Americans with Disabilities Act.
+See United States v. Georgia , 546 U.S. 151 , 159 , 126 S.Ct. 877 , 163 L.Ed.2d 650 (2006); Tennessee v. Lane , 541 U.S. 509 , 533-34 , 124 S.Ct. 1978 , 158 L.Ed.2d 820 (2004); Constantine v. Rectors & Visitors of George Mason Univ. , 411 F.3d 474 , 490 (4th Cir. 2005).
+Moreover, the Lane decision specifically referenced "unconstitutional treatment of disabled persons by state agencies in a variety of settings, including .
+.
+.
+the abuse and neglect of persons committed to state mental health hospitals."
+Lane , 541 U.S. at 524-25 , 124 S.Ct. 1978 (citing Youngberg v. Romeo , 457 U.S. 307 , 102 S.Ct. 2452 , 73 L.Ed.2d 28 (1982)).
+That sort of "unconstitutional treatment" would be relevant to an effort by Congress to abrogate the states' immunity against a suit by an entity like VOPA.
+Of course, Congress's power to abrogate sovereign immunity is not unlimited.
+See Bd. of Trs.
+of Univ. of Ala v. Garrett , 531 U.S. 356 , 360 , 374 , 121 S.Ct. 955 , 148 L.Ed.2d 866 (2001) (invalidating Congress's attempt to abrogate in actions under Title I of the ADA).
+But Congress could at least attempt to exercise its abrogation authority under the DD Act or the PAIMI Act if it believed that suits like this one belong in federal court.
+As of now, however, Congress has not even tried.
+IV.
+We turn next to the issue of waiver.
+VOPA claims that Virginia waived its sovereign immunity against this action by choosing to receive federal funding under the DD Act and the PAIMI Act because Congress conditioned that funding on the Commonwealth's consent to be sued in federal court.
+In particular, VOPA argues that the following provision of the DD Act placed Virginia on notice that it was waiving its sovereign immunity: "Nothing in this subchapter shall preclude a system from bringing a suit on behalf of individuals with developmental disabilities against a State, or an agency or instrumentality of a State."
+42 U.S.C. 15044 (b)(1).
+VOPA's waiver argument is not persuasive.
+The Supreme Court has held repeatedly that the waiver of a state's sovereign immunity requires an explicit, emphatic statement.
+That is, a state waives its immunity from suit in federal court [**5] only where that waiver is "stated by the most express language or by such overwhelming implications from the text as will leave no room for any other reasonable construction."
+Edelman v. Jordan , 415 U.S. 651 , 673 , 94 S.Ct. 1347 , 39 L.Ed.2d 662 (1974) (internal quotations and alteration omitted).
+The purpose of this "stringent" test is "to be certain that the State in fact' consents to suit."
+Coll. Sav. Bank v. Fla. Prepaid Postsecondary Educ. Expense Bd. , 527 U.S. 666 , 675 , 680 , 119 S.Ct. 2219 , 144 L.Ed.2d 605 (1999).
+Thus, we will not find "consent by implication or by use of ambiguous language."
+Library of Cong. v. Shaw , 478 U.S. 310 , 318 , 106 S.Ct. 2957 , 92 L.Ed.2d 250 (1986) (quoting United States v. N.Y. Rayon Importing Co. , 329 U.S. 654 , 659 , 67 S.Ct. 601 , 91 L.Ed. 577 (1947)).
+A state does not waive its sovereign immunity through its mere receipt of federal funds or participation in a federal program.
+Atascadero State Hosp. v. Scanlon , 473 U.S. 234 , 246-47 , 105 S.Ct. 3142 , 87 L.Ed.2d 171 (1985).
+Instead, Congress must also express "a clear intent to condition participation .
+.
+.
+on a State's consent to waive its constitutional immunity."
+Id. at 247 , 105 S.Ct. 3142 ; Litman v. George Mason Univ. , 186 F.3d 544 , 554 (4th Cir. 1999) (recognizing that Congress must "codify a clear, unambiguous, and unequivocal condition of waiver").
+These strict requirements reflect both the importance of sovereign immunity in our federal system and the fact that a waiver of sovereign immunity is "an exercise, rather than a limitation of, State sovereignty."
+Madison v. Virginia , 474 F.3d 118 , 129 (4th Cir. 2006); Litman , 186 F.3d at 550 .
+Applying these principles, we agree with the district court that the provision of the DD Act cited by VOPA is not sufficiently explicit to waive Virginia's sovereign immunity.
+Indeed, the language in that provision is far from the emphatic, "express," and "unequivocal" statement that is necessary to constitute a waiver.
+The district court correctly observed that Section 15044(b)(1) "simply indicates an intent not to abrogate any preexisting rights to sue."
+That section does not, however, provide states with the necessary notice that they are consenting to suits in federal court that their sovereign immunity would otherwise bar.
+The insufficiency of Section 15044(b)(1) as a waiver provision is particularly apparent in comparison to other provisions in which we have found a valid waiver of sovereign immunity.
+In Constantine , for example, we held that a state had consented to suit under the Rehabilitation Act based on "an unambiguous and unequivocal condition requiring waiver of Eleventh Amendment immunity."
+Constantine v. Rectors & Visitors of George Mason Univ. , 411 F.3d 474 , 492 (4th Cir. 2005).
+The waiver section in that case provided: A State shall not be immune under the Eleventh Amendment of the Constitution of the United States from suit in Federal court for a violation of section 504 of the Rehabilitation Act of 1973, title IX of the Education Amendments of 1972, the Age Discrimination Act of 1975, title VI of the Civil Rights Act of 1964, or the provisions of any other Federal statute prohibiting discrimination by recipients of Federal financial assistance.
+42 U.S.C. 2000d-7 (citations omitted); see also Litman , 186 F.3d at 554 (holding that Section 2000d-7 also constituted a waiver of sovereign immunity for suits under Title IX).
+Unlike Section 2000d-7 , the provision of the DD Act cited by VOPA does not refer to immunity, does not refer to the Eleventh Amendment, and does not even refer to suit in federal court.
+Finding a waiver of sovereign [**6] immunity in these circumstances would only dilute the clear statement requirement for waiver and would do away with the established rule against consent through ambiguous language.
+We note again, however, that we do not question Congress's authority — recognized in decisions like Constantine — to extract a waiver of the states' sovereign immunity in a case like this one.
+We hold only that Congress has not provided a sufficiently explicit statement to produce a waiver here.
+V. A. We turn finally to the doctrine of Ex parte Young , 209 U.S. 123 , 28 S.Ct. 441 , 52 L.Ed. 714 (1908).
+VOPA argues, and the district court held, that the Ex parte Young exception to sovereign immunity permits VOPA's suit against the state officials in federal court.
+To support that argument, VOPA points to Verizon Maryland, Inc. v. Public Service Commission of Maryland , 535 U.S. 635 , 122 S.Ct. 1753 , 152 L.Ed.2d 871 (2002).
+There, the Supreme Court held that "[i]n determining whether the doctrine of Ex parte Young avoids an Eleventh Amendment bar to suit" against state officials in their official capacities, "a court need only conduct a `straightforward inquiry into whether [the] complaint alleges an ongoing violation of federal law and seeks relief properly characterized as prospective.'"
+Id. at 645 , 122 S.Ct. 1753 (alteration in original) (quoting Idaho v. Coeur d'Alene Tribe of Idaho , 521 U.S. 261 , 296 , 117 S.Ct. 2028 , 138 L.Ed.2d 438 (1997) (O'Connor, J., concurring in part and concurring in the judgment)).
+VOPA argues that this action satisfies Ex parte Young under Verizon Maryland's "straightforward inquiry" because VOPA, in seeking access to peer review records to which it is allegedly entitled under the DD and PAIMI Acts, is pursuing injunctive relief from an ongoing violation of federal law by state officials.
+And, VOPA contends, that should be the end of the matter.
+But it is hardly so simple.
+While VOPA's reliance on a straightforward application of Ex parte Young may have superficial appeal, this case differs from Ex parte Young in a critical respect: the plaintiff there was not a state agency.
+Instead, the plaintiffs in Ex parte Young were private parties.
+See 209 U.S. at 143 , 28 S.Ct. 441 .
+And while no subsequent decision has expressly limited the application of Ex parte Young to suit by a private plaintiff, many decisions have recognized this basic element of the doctrine.
+See, e.g., Seminole Tribe of Fla. v. Florida , 517 U.S. 44 , 71 n. 14, 116 S.Ct. 1114 , 134 L.Ed.2d 252 (1996) (" [A]n individual can bring suit against a state officer in order to ensure that the officer's conduct is in compliance with federal law.
+.
+.
+."
+(emphasis added) (citing Ex parte Young , 209 U.S. 123 , 28 S.Ct. 441 , 52 L.Ed. 714 )); Bd. of Trs.
+of Univ. of Ala. v. Garrett , 531 U.S. 356 , 374 n. 9, 121 S.Ct. 955 , 148 L.Ed.2d 866 (2001) (referring to Ex parte Young suits by "private individuals"); Antrican v. Odom , 290 F.3d 178 , 184 (4th Cir. 2002) (suits by "private citizens").
+Moreover, VOPA has cited no case, nor have we found any, holding that — or even analyzing whether — the Ex parte Young doctrine applies equally when the plaintiff is a state agency.
+Cf. Verizon Md. , 535 U.S. at 639-40 , 122 S.Ct. 1753 (suit by a private corporation).
+This lack of historical support for VOPA's suit is important in light of the Supreme Court's presumption that the states are immune from proceedings that were "anomalous and unheard of when the constitution was adopted."
+Alden v. Maine , 527 U.S. 706 , 727 , 119 S.Ct. 2240 , 144 L.Ed.2d 636 (1999) (quoting Hans v. Louisiana , 134 U.S. 1 , 18 , 10 S.Ct. 504 , 33 L.Ed. 842 (1890)).
+[fn1] VOPA argues, however, that its [**7] status as a state agency should not affect our Ex parte Young analysis.
+Indeed, VOPA claims that the identity of the plaintiff is wholly irrelevant to the doctrine of Ex parte Young.
+But VOPA cites no authority for that proposition either — likely because VOPA's argument for an indiscriminate application of Ex parte Young cannot be reconciled with the guidance of the Supreme Court in Idaho v. Coeur d'Alene Tribe of Idaho , 521 U.S. 261 , 117 S.Ct. 2028 , 138 L.Ed.2d 438 (1997).
+In that case, the Court held that the Ex parte Young exception did not permit a suit that was equivalent to a quiet title action and thereby implicated "special sovereignty interests" — even though the suit otherwise satisfied the requirements of Ex parte Young.
+521 U.S. at 281 , 117 S.Ct. 2028 .
+The Court warned against a "reflexive reliance" on Ex parte Young and the "empty formalism" of allowing any and all federal claims for injunctive relief against state officials to proceed in federal court.
+Id., at 270 , 117 S.Ct. 2028 .
+And the Court held that "[a]pplication of the Young exception must reflect a proper understanding of its role in our federal system," as well as a recognition that sovereign immunity "represents a real limitation on a federal court's federal-question jurisdiction."
+Id .
+VOPA is therefore incorrect to argue for what amounts to a "reflexive reliance" on Ex parte Young.
+Instead, we confront a novel question: whether to expand the Ex parte Young exception to allow a suit, in federal court, by a state agency against officials of the same state.
+See Coeur d'Alene Tribe , 521 U.S. at 296-97 , 117 S.Ct. 2028 (O'Connor, J., concurring in part and concurring in the judgment) ("I would not narrow our Young doctrine, but I would not extend it to reach this case.").
+The state officials concede that Ex parte Young would permit this action if the plaintiff were a private person, or even a private protection and advocacy system.
+The limited question we face, therefore, is "whether the Eleventh Amendment bar should be lifted, as it was in Ex parte Young ," when the plaintiff is a state agency.
+Seminole Tribe , 517 U.S. at 74 , 116 S.Ct. 1114 .
+B. When we consider the sovereign interests and federalism concerns at stake, we are convinced that the Ex parte Young exception should not be expanded beyond its traditional scope to permit a suit by a state agency against state officials in federal court.
+"The preeminent purpose of state sovereign immunity is to accord States the dignity that is consistent with their status as sovereign entities."
+Fed. Mar. Comm'n v. S.C. State Ports Auth. , 535 U.S. 743 , 760 , 122 S.Ct. 1864 , 152 L.Ed.2d 962 (2002).
+And federal court adjudication of an "intramural contest" between a state agency and state officials encroaches more severely on the dignity and sovereignty of the states than an Ex parte Young action brought by a private plaintiff.
+Va. Office for Prot. & Advocacy v. Reinhard , 405 F.3d 185 , 191 (4th Cir. 2005) (Wilson, J., concurring).
+[fn2] The Ex parte Young doctrine rests on the well-established fiction that a private party's suit to enjoin state officials from violating federal law is not a suit against the state.
+See Antrican , 290 F.3d at 184 .
+An action by a state agency against state officials in federal court, by contrast, has no similar historical pedigree, and it would be a more obvious affront to a state's sovereign interests.
+[**8] Indeed, the infringement on a state's sovereign dignity would be substantial if a state agency, acting unilaterally, could force other state officials to appear before a federal tribunal.
+We therefore see no reason to extend the Ex parte Young doctrine to allow such a suit.
+Splintering a state's internal authority in this manner would be antithetical to our system of dual sovereignty.
+After all, "[t]he Framers split the atom of sovereignty" — they did not shatter it.
+U.S.
+Term Limits, Inc. v. Thornton , 514 U.S. 779 , 838 , 115 S.Ct. 1842 , 131 L.Ed.2d 881 (1995) (Kennedy, J., concurring).
+In contrast to the expansion of Ex parte Young proposed by VOPA, the interest of the states in avoiding excessive federal meddling with their internal authority is well recognized in the Supreme Court's sovereign immunity jurisprudence.
+In Alden v. Maine , for example, the Supreme Court held that Congress did not have the power under Article I to abrogate the states' sovereign immunity in their own courts.
+527 U.S. at 712 , 119 S.Ct. 2240 .
+The Court recognized that if Congress had such a power, the federal government would be able "to turn the State against itself and ultimately to commandeer the entire political machinery of the State against its will."
+Id. at 749 , 119 S.Ct. 2240 .
+The Court renounced "[s]uch plenary federal control of state governmental processes" because it would "denigrate[] the separate sovereignty of the States."
+Id .
+Moreover, Alden recognized that for the federal government to "assert[] authority over a State's most fundamental political processes" would "strike[] at the heart of the political accountability so essential to our liberty and republican form of government."
+Id. at 751 , 119 S.Ct. 2240 .
+For similar reasons, the Supreme Court held in Pennhurst State School & Hospital v. Halderman , 465 U.S. 89 , 104 S.Ct. 900 , 79 L.Ed.2d 67 (1984), that Ex parte Young did not permit suits in federal court to enjoin state officials from violating state law.
+The Supreme Court in Pennhurst sought to avoid the significant "intrusion on state sovereignty" that would result "when a federal court instructs state officials on how to conform their conduct to state law."
+Id. at 106 , 104 S.Ct. 900 .
+That is, the Court recognized that federal court resolution of internal state disputes would "conflict[] directly with the principles of federalism that underlie the Eleventh Amendment."
+Id .
+The reasoning of Alden and Pennhurst is persuasive here.
+VOPA seeks to expand Ex parte Young to allow a federal court, without the imprimatur of Congress or the consent of the state, to resolve a dispute between a state agency and state officials.
+Recognizing an inherent power in the federal courts to settle this sort of internecine feud — "to turn the State against itself — would disparage the status of the states as sovereigns.
+Alden , 527 U.S. at 749 , 119 S.Ct. 2240 .
+Moreover, just as Pennhurst observed that states and their officials have an interest against appearing in federal court over issues of state law, states have a similar interest in not having a federal court referee contests between their agencies.
+Further, allowing a state agency to decide on its own accord to sue officials of another state agency and to obtain relief from an Article III judge would create difficult questions of political accountability.
+Cf. Alden [**9] , 527 U.S. at 751 , 119 S.Ct. 2240 .
+Where exactly could citizens dissatisfied with the outcome of such a federal court case turn for political redress?
+The answer is not obvious.
+For these reasons, granting a federal forum to "a state's warring factions" based on alleged violations of federal law would be an unwarranted extension of Ex parte Young.
+VOPA , 405 F.3d at 191 (Wilson, J., concurring).
+The matter would be different, on the other hand, if Congress sanctioned this sort of suit.
+If Congress validly exercised its power under Section 5 of the Fourteenth Amendment to authorize an action like this one, the states would have no proper basis for complaint about the infringement on their sovereign dignity.
+Nor would states have a rightful grievance if Congress required the states' informed consent to this type of action in exchange for federal funds.
+And in those cases, citizens could hold Congress or the states politically accountable for the results.
+But based on the concerns expressed in the Supreme Court's sovereign immunity decisions — as well as the evident historical paucity of this sort of action and the Supreme Court's presumption against permitting "anomalous and unheard — of proceedings" against the states,' Alden , 527 U.S. at 727 , 119 S.Ct. 2240-to allow this suit to proceed under Ex parte Young would go too far.
+C. VOPA insists, however, that this action does not actually implicate any special sovereign interests on the part of Virginia.
+Instead, VOPA argues that this suit, like all Ex parte Young actions, is primarily about enforcing federal law.
+VOPA points out that Virginia accepted federal funds under the DD Act and the PAIMI Act and created VOPA to enforce the accompanying requirements of those statutes.
+And VOPA argues that Virginia and its officials therefore have no sovereign interest in avoiding VOPA's use of Ex parte Young.
+In other words: "This is not, as the state officials mischaracterize it, simply an intramural contest between state agencies.
+.
+.
+.
+[T]he question is whether the state officials are required to comply with federal law."
+Brief for Appellee at 7-8.
+These arguments are unpersuasive as well.
+As an initial matter, VOPA's emphasis on the enforcement of federal law proves too much.
+The Supreme Court in Alden specifically rejected the "contention that substantive federal law by its own force necessarily overrides the sovereign immunity of the States."
+527 U.S. at 732 , 119 S.Ct. 2240 .
+Instead, the Court held that even federal law must be applied "in a manner consistent with the constitutional sovereignty of the States."
+Id .
+Indeed, if a federal claim alone were enough to invoke Ex parte Young , many of the Supreme Court's cases, including Coeur d'Alene Tribe , would have been wrongly decided.
+Moreover, the Supreme Court has recognized in cases related to the political subdivisions of the states that alleging a violation of federal law does not itself override the states' interest in maintaining their sovereignty with respect to internal state conflicts.
+These cases demonstrate that the parties to a dispute matter in deciding whether a federal forum is available.
+To be specific, the Supreme Court has held repeatedly that political [**10] subdivisions of states could not obtain relief under federal law against the application of state statutes, even where the political subdivisions claimed that the state laws in question violated the federal constitution.
+See, e.g., Williams v. Mayor of Balt , 289 U.S. 36 , 53 S.Ct. 431 , 77 L.Ed. 1015 (1933); City of Trenton v. New Jersey , 262 U.S. 182 , 43 S.Ct. 534 , 67 L.Ed. 937 (1923); Stewart v. City of Kansas City , 239 U.S. 14 , 36 S.Ct. 15 , 60 L.Ed. 120 (1915); Hunter v. City of Pittsburgh , 207 U.S. 161 , 28 S.Ct. 40 , 52 L.Ed. 151 (1907); see also Rogers v. Brockette , 588 F.2d 1057 , 1067-68 (5th Cir. 1979) (collecting additional cases).
+In City of Trenton , for example, Trenton challenged — under the Contract Clause and the Fourteenth Amendment — a New Jersey statute imposing a fee on the city for withdrawing water from the Delaware River.
+See 262 U.S. at 183-54 , 43 S.Ct. 534 .
+The Supreme Court rejected the challenge because Trenton, as a "creature of the State .
+.
+.
+subject to the sovereign will" could not "invoke such restraints upon the power of the State."
+Id. at 187-88 , 43 S.Ct. 534 .
+And in Williams , the Supreme Court rejected a challenge brought by the cities of Baltimore and Annapolis on constitutional grounds against a Maryland statute, holding that "[a] municipal corporation, created by a state for the better ordering of government, has no privileges or immunities under, the federal constitution which it may invoke in opposition to the will of its creator."
+289 U.S. at 40 , 53 S.Ct. 431 .
+Sovereign immunity was not at issue in these political subdivision cases.
+See, e.g., City of Trenton , 262 U.S. at 183 , 43 S.Ct. 534 (suit brought by state against city in state court); Williams , 289 U.S. at 39 , 53 S.Ct. 431 (state itself not a party).
+But these decisions are nonetheless relevant to our sovereign immunity inquiry because the Court made clear that, even in the presence of an alleged violation of federal law, the nature of the party making the federal claim implicated the state's interest in keeping its internal authority intact.
+Moreover, the Court demonstrated, consistently and emphatically, its unwillingness to override the states' control of their own internal disputes.
+In keeping with this line of decisions, numerous circuit courts have heeded the Supreme Court's reluctance to adjudicate intramural state conflicts and have therefore rejected federal suits by political subdivisions against their states.
+These cases further demonstrate that the parties to an action, not merely the nature of the claim, affect the state interests involved.
+In Stanley v. Darlington County School District , 84 F.3d 707 (4th Cir. 1996), for example, we held that a local school district could not bring a contribution claim under the Fourteenth Amendment against the state because such an exercise of federal court jurisdiction would be "an unfathomable intrusion into a state's affairs."
+Id. at 716-17 (citing City of Trenton , 262 U.S. at 186 , 188 , 43 S.Ct. 534 ; Hunter , 207 U.S. at 178-79 , 28 S.Ct. 40 ); see also, e.g., DeKalb County Sch. Dist. v. Schrenko , 109 F.3d 680 , 689-90 (11th Cir. 1997); Harris v. Angelina County , 31 F.3d 331 , 339-40 & n. 10 (5th Cir. 1994).
+And at least one circuit court has extended this reasoning to suits brought by state entities, holding that a state university lacked standing to sue a state board of education under the Fourteenth Amendment.
+United States v. Alabama , 791 F.2d 1450 , 1455-56 (11th Cir. 1986); see also Tex.
+Catastrophe Prop. Ins.
+Ass'n v. Morales , 975 F.2d 1178 , 1181 (5th Cir. 1992) (observing that "a state agency has no constitutional rights to assert against the state that created it").
+[fn3] D. VOPA [**11] also argues that denying it access to federal court will lead to inconsistent application of substantive protections for persons with disabilities.
+For example, VOPA claims that "federal law [will] apply differently" in different jurisdictions because private protection and advocacy systems in other states, unlike VOPA, will be able to sue state officials in federal court.
+Brief for Appellee at 13.
+VOPA also argues that, within Virginia, disabled persons in public facilities will "not enjoy the same protections under federal law" as disabled persons in private facilities if VOPA cannot sue the state officials in federal court.
+Id. These concerns are illusory.
+The state officials concede, and VOPA does not dispute, that VOPA may bring this suit in state court and obtain the same relief that it seeks here.
+Specifically, the parties agree that at a minimum Virginia's sovereign immunity would not bar an original action by VOPA for a writ of mandamus brought in the Virginia Supreme Court.
+And in such a suit, the Supremacy Clause requires Virginia courts to enforce federal law.
+U.S. Const.
+art.
+VI , cl.
+2 ; Testa v. Katt , 330 U.S. 386 , 389 , 391 , 394 , 67 S.Ct. 810 , 91 L.Ed. 967 (1947); Printz v. United States , 521 U.S. 898 , 928-29 , 117 S.Ct. 2365 , 138 L.Ed.2d 914 (1997).
+VOPA is therefore incorrect to argue that our decision will cause any discrepancies in the application of substantive federal law.
+Moreover, the Supreme Court has the authority to review decisions by state courts on matters of federal law without regard to sovereign immunity.
+McKesson Corp. v. Div. of Alcoholic Beverages & Tobacco , 496 U.S. 18 , 30-31 , 110 S.Ct. 2238 , 110 L.Ed.2d 17 (1990).
+VOPA suggested at oral argument that it would be more expedient to seek relief in federal rather than state court.
+But the purpose of our federal system is not "administrative convenience."
+Fed. Mar. Comm'n v. S.C. State Ports Auth. , 535 U.S. 743 , 769 , 122 S.Ct. 1864 , 152 L.Ed.2d 962 (2002).
+Rather, dual sovereignty is meant to protect our "fundamental liberties," and sovereign immunity serves to maintain the essential federal-state balance.
+Id .
+(quoting Atascadero , 473 U.S. at 242 , 105 S.Ct. 3142 ).
+E. Finally, VOPA argues that denying it access to federal court based on Virginia's sovereign interests is inconsistent with state law.
+VOPA points out that Virginia law designates VOPA as an independent agency.
+For example, VOPA operates independently of the Office of the Attorney General in Virginia and can retain its own legal counsel.
+Because Virginia has exercised its sovereignty in making VOPA an independent entity under state law, VOPA suggests that Virginia cannot invoke its sovereign interests to complain when VOPA uses that independence to sue Virginia's officials in federal court under Ex parte Young.
+This argument is erroneous.
+While Virginia did grant VOPA some independence under state law, that limited independence in no way implies that Virginia granted VOPA the authority to sue the Commonwealth or its officials in federal court.
+Indeed, VOPA does not point to any provision of state law to that effect.
+"A State's constitutional interest in immunity encompasses not merely whether it may be sued, but where it may be sued."
+Pennhurst State Sch. & Hosp. v. Halderman , 465 U.S. 89 , 99 , 104 S.Ct. 900 , 79 L.Ed.2d 67 (1984).
+Thus, we interpret VOPA's independence to suggest only what the [**12] state officials have conceded in this case — that VOPA can bring this suit in state court.
+Furthermore, VOPA's argument based on its independence has the problem of being potentially limitless.
+Many other state entities have features of independence.
+For example, the State Corporation Commission in Virginia is a state agency that also has the authority to hire its own legal counsel outside of the Attorney General's office.
+See Va.
+Code Ann. 12.1-18 .
+And public universities in Virginia are governed by boards that have the same powers as corporations and that are subject to the control of the General Assembly.
+See, e.g. , Va.
+Code Ann. 23-69 (University of Virginia); Litman v. George Mason Univ. , 186 F.3d 544 , 547 (4th Cir. 1999).
+If we were to adopt VOPA's position, these state entities and countless others might suddenly possess the authority to pursue Ex parte Young actions against other state officials.
+After all, nearly every state agency receives federal funding and must comply with federal law of some sort, so under VOPA's argument, nearly every state agency would be subject to an Ex parte Young suit by another supposedly independent arm of the state.
+As we have learned from experience, an exception like the one VOPA proposes, given time, tends to expand far beyond its original scope.
+There is no telling where that expansion might end here, and we are not disposed to find out.
+VI.
+VOPA's argument ultimately boils down to the claim that, if VOPA is to maximize its effectiveness in representing the federal rights of persons with disabilities and mental illnesses, VOPA should be able to bring this suit in federal court.
+We express no view on that claim.
+We hold only that, because VOPA is a state agency, Ex parte Young is the improper vehicle for VOPA to gain access to a federal forum.
+This holding in no way limits the scope of Ex parte Young for private plaintiffs.
+We also do not hold that Congress lacks the authority to grant VOPA access to federal court — indeed, Congress could attempt to abrogate the states' immunity from suit or seek a waiver of that immunity in return for federal funds.
+And for now, VOPA can enforce federal law in state court, where we have no reason to think that VOPA will not find a just resolution of its claims.
+However, allowing a state's officials to be called before a federal court by one of the state's own agencies, without notice or consent, cannot be reconciled with the separate sovereignty of the states.
+And expanding Ex parte Young to permit a suit in these circumstances cannot be reconciled with the "real limitation[s]" of the doctrine of sovereign immunity.
+Idaho v. Coeur d'Alene Tribe of Idaho , 521 U.S. 261 , 270 , 117 S.Ct. 2028 , 138 L.Ed.2d 438 (1997).
+The judgment of the district court is therefore reversed, and the case is remanded with directions to dismiss it.
+REVERSED AND REMANDED

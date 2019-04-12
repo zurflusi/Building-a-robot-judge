@@ -1,0 +1,352 @@
+ McLAUGHLIN , Circuit Judge: Defendants Mario Cuomo et al.
+("the State") and intervenors-defendants New York Conference of Blue Cross and Blue Shield Plans et al.
+appeal from a judgment of the United States District Court for the Southern District of New York (Louis J. Freeh, Judge ), granting plaintiffs' motions for summary judgment in part and denying defendants' motions and cross-motions for summary judgment.
+Travelers Ins. Co. v. Cuomo , 813 F.Supp.
+996 (S.D.N.Y.1993).
+The district court held that certain components of New York's inpatient hospital reimbursement system are preempted by the Employee Retirement Income Security Act of 1974 ("ERISA"), 29 U.S.C. 1001-1461 (1988 & Supp. IV 1992), and the Federal Employees Health Benefits Act ("FEHBA"), 5 U.S.C. 8901-8914 (1988 & Supp. IV 1992).
+In particular, the district court invalidated three subsections of New York Public Health Law 2807 -c (McKinney Supp.1993) imposing surcharges on the hospital rates for certain categories of payors, and not others.
+The district court also held that ERISA preempts ¶¶ 1, 2, 3, and 5 of Actuarial Letter No. 5, issued by New York's Department of Insurance.
+The Travelers Insurance Company ("Travelers") cross-appeals, contending that the district court should also have granted its motion for summary judgment as to ¶ 4 of the Actuarial Letter, as well.
+We agree with Travelers and reverse that portion of the judgment which held that ¶ 4 is not preempted by ERISA.
+In all other respects, we affirm.
+BACKGROUND Eighty-eight percent of non-elderly Americans have private health care insurance through their employee welfare benefit plans.
+ERISA is the governing statute.
+ERISA plans provide health coverage to employees in various ways, including: (1) the purchase of commercial health insurance from an insurer; (2) self-insurance, whereby the plan is directly responsible for health care bills and usually carries excess liability coverage known as "stop-loss" coverage; (3) subscription to a health maintenance organization ("HMO"); and (4) coverage through nonprofit health service corporations, such as Blue Cross/Blue Shield plans (the "Blues").
+Whereas ERISA regulates employee benefit plans of private employers, FEHBA establishes a comprehensive program to provide federal employees, their families, and federal retirees (collectively, "enrollees") with subsidized health care benefits.
+Under FEHBA, the United States does not act as an insurer, but, through the Office of Personnel Management ("OPM"), contracts with various insurance carriers to develop health care plans with varying coverages and costs.
+5 U.S.C. 8902 .
+Prospective enrollees can select coverage from any one of the participating carriers in their region.
+5 U.S.C. 8905 .
+Among the numerous plaintiffs in this action, only Mutual of Omaha Insurance Company underwrites and administers a FEHBA health benefit plan covering federal enrollees who receive inpatient hospital care in New York.
+Any patient entering a hospital is placed in a category known as a diagnosis-related group ("DRG"), based on his symptoms and probable cost of treatment.
+The amount the hospital may charge for the patient's care is based on the DRG, not the actual cost of treatment.
+New York law provides that the DRG amount charged to a particular patient is then increased by a "payor factor," depending on the type of health care coverage the patient has.
+This, of course, results in a "differential" in the charges, depending on which type of health care coverage the patient has.
+Since its enactment in 1988, New York Public Health Law 2807-c(1) (b) has required that insurance carriers of patients covered by any form of health plan other than the Blues, an HMO, or government insurance such as Medicaid must pay 13% above the DRG rate.
+The 13% differential, which is kept by the hospital, was enacted to contain hospital costs and to increase the availability of hospital insurance coverage to needy New Yorkers.
+In particular, the differential was meant to "'level [the] playing field'" for the Blues "in their competition with commercial insurers."
+Joint Appendix at 649; Clyne Aff.
+¶ 15.
+The hope was that this would encourage more employers and ERISA plans to subscribe to the Blues.
+The New York Omnibus Revenue Act of 1992 imposed two more surcharges: (1) an additional 11% surcharge on DRG payment rates charged to patients covered by commercial insurance, 1992 N.Y.Laws, ch.
+55, 348 (codified as amended at N.Y.Pub.Health Law 2807-c(11)(i) (McKinney Supp.1993)); and (2) an assessment of up to 9% on HMOs which fail to enroll a target number of Medicaid-eligible persons.
+1992 N.Y.Laws, ch.
+55, 346 (codified as amended at N.Y.Pub.Health Law 2807-c(2-a)(a) (McKinney Supp.1993)).
+Unlike the basic 13% differential, the proceeds of the 11% surcharge are not kept by the hospital, but are paid into a statewide pool, which is then deposited into the State's general fund.
+HMOs, in contrast, must pay their 9% assessment directly into a statewide HMO pool, but it too ultimately winds up in the State's coffers.
+The obvious effect of the 11% surcharge is to increase commercial insurers' costs of providing health care, thus making them less competitive with the Blues.
+Unlike the 11% surcharge, however, the primary purpose of the 9% assessment is to encourage HMOs to enroll Medicaid recipients, thereby lowering the costs of the Medicaid program.
+Besides imposing surcharges, New York's Department of Insurance has issued "Actuarial Information Letter No. 5," regulating how self-insured plans obtain "stop-loss" insurance.
+The Letter: (1) permits a self-insured to obtain stop-loss insurance only if the plan provides its members with statutorily mandated services; (2) requires that self-insured plans provide beneficiaries with the right to a statutory conversion policy; and (3) requires self-insured plans to afford members various protections in case the plan becomes insolvent.
+In separate actions, several commercial insurers and insurance industry trade associations, including Travelers and the Health Insurance Association of America ("HIAA"), sued various New York State authorities for declaratory and injunctive relief, complaining that all three surcharges and the Actuarial Letter are preempted by ERISA, and the 13% and 11% surcharges are also preempted by FEHBA.
+The New York State Conference of Blue Cross and Blue Shield Plans, Empire Blue Cross and Blue Shield (collectively, the "Blues Conference"), and the Hospital Association of New York State ("HANYS") intervened as defendants; the New York State Health Maintenance Organization Conference and several HMOs intervened as plaintiffs.
+Thereafter, the parties cross-moved for summary judgment, and the district judge then consolidated the various actions.
+The district court granted most of the relief that plaintiffs sought, holding that: (1) the Tax Injunction Act does not preclude an injunction against the 11% and 9% surcharges; (2) ERISA preempts all three surcharges; (3) FEHBA preempts the 13% and 11% surcharges; (4) plaintiffs' claims as to the 13% surcharge are not barred by the doctrine of laches; and (5) ¶¶ 1, 2, 3, and 5 of the Actuarial Letter are also preempted by ERISA.
+The court enjoined the defendants from enforcing the surcharges and the Actuarial Letter against the appropriate payors, but then stayed its ruling insofar as it enjoined the State from enforcing the 13% surcharge.
+Defendants appeal and plaintiff Travelers cross-appeals.
+DISCUSSION To promote clarity, we divide our analysis into four segments: (1) whether the district court had jurisdiction over these actions; (2) whether the equitable defense of laches raised by intervenor HANYS has merit; (3) whether FEHBA preempts the 13% and 11% surcharges; and (4) finally, we address the chief argument advanced in support of reversal, ERISA preemption.
+I. Jurisdiction The Tax Injunction Act ("TIA") provides that federal district courts "shall not enjoin, suspend, or restrain the assessment of any tax under State law where a plain, speedy and efficient remedy may be had in the courts of such State."
+28 U.S.C. 1341 (1988); see Kraebel v. New York City Dep't of Hous.
+Preservation & Dev. , 959 F.2d 395, 400 (2d Cir.) (TIA "bars federal injunctive challenges to state tax laws in federal courts.
+"), cert. denied , U.S. , 113 S.Ct. 326 , 121 L.Ed.2d 245 (1992).
+This prohibition includes "declaratory as well as injunctive relief."
+Barringer v. Griffes , 964 F.2d 1278, 1280 (2d Cir.1992).
+The district court held that the TIA did not apply to the 11% and 9% surcharges, and therefore, it had jurisdiction.
+Two conditions must be satisfied to invoke the protection of the TIA: first, the surcharges must constitute "taxes," 1 and second, the state remedies available to plaintiffs must be "plain, speedy and efficient."
+See Kraebel , 959 F.2d at 400 .
+A. Taxes The district court "assumed" that the 11% and 9% surcharges were "taxes" under the TIA, stating "to the extent that [these] [s]urcharges are paid into New York's General Fund, they appear to be taxes."
+813 F.Supp.
+at 1000 & n. 1 (citation omitted).
+Although there is no bright line between assessments that are taxes and those that are not, most courts agree that "[a]ssessments which are imposed primarily for revenue-raising purposes are 'taxes,' while levies assessed for regulatory or punitive purposes, even though they may also raise revenues, are generally not 'taxes.'"
+Butler v. Maine Supreme Judicial Court , 767 F.Supp.
+17, 19 (D.Me.1991) (collecting cases).
+In general, courts "have tended to emphasize the revenue's ultimate use, asking whether it provides a general benefit to the public, of a sort often financed by a general tax, or whether it provides more narrow benefits to regulated companies or defrays the agency's costs of regulation."
+San Juan Cellular Tel. Co. v. Public Serv. Comm'n , 967 F.2d 683, 685 (1st Cir.1992).
+It is apparent that the 11% and 9% surcharges are taxes.
+Notwithstanding the primary purposes ascribed to the surcharges by the State, both raise revenue which is ultimately paid into the State's general fund.
+Thus, because the contested surcharges serve general revenue-raising purposes, they constitute "taxes" for purposes of the TIA.
+See, e.g. , Keleher v. New England Tel. & Tel. Co. , 947 F.2d 547, 549 (2d Cir.1991) (the word "tax" under the TIA "encompasses any state or local revenue collection device," including a city-assessed public utility "franchise fee" because the money raised was treated as part of the city's "general revenue"); Butler , 767 F.Supp.
+at 19 (nonrefundable jury fee required in Maine state courts "fits comfortably, within [the] definition of a 'tax' under section 1341 " because "the fees collected will be funneled into Maine's general fund, rather than being applied directly to the costs of jury trials.").
+B. State Remedy The district court found that plaintiffs did not have a "plain, speedy and efficient remedy" in New York state court "[b]ecause ERISA generally confers exclusive jurisdiction on the federal courts."
+813 F.Supp.
+at 1001 (relying upon National Carriers' Conference Comm. v. Heffernan , 440 F.Supp.
+1280, 1283 (D.Conn.1977)).
+Plaintiffs sued here as plan fiduciaries to enjoin a practice violating ERISA.
+Congress has divested the state courts of jurisdiction over such claims.
+See 29 U.S.C. 1132(e)(1) (1988); see also Shofer v. Hack Co. , 970 F.2d 1316, 1319 (4th Cir.1992) (where ERISA claims are within the exclusive jurisdiction of the federal courts, state courts are plainly without jurisdiction).
+Thus, "[b]ecause the [New York] courts lack the jurisdiction to decide the plaintiffs' injunctive and declaratory ERISA claims, the plaintiffs are without a 'plain, speedy and efficient' remedy at state law."
+Thiokol Corp. v. Department of Treasury, Revenue Div. , 987 F.2d 376, 380 (6th Cir.1993); accord E-Systems, Inc. v. Pogue , 929 F.2d 1100, 1102 (5th Cir.) (TIA is "inapplicable" in an ERISA setting), cert. denied , U.S. , 112 S.Ct. 585 , 116 L.Ed.2d 610 (1991).
+Accordingly, we conclude that the district court did not err in finding that the state remedies available to plaintiffs were inadequate, and thus it had jurisdiction over plaintiffs' claims.
+II.
+Laches New York's complex reimbursement system has had a differential among various payors since the late 1970s.
+A statutory differential has existed since 1983.
+Hence, intervenor HANYS contends that plaintiffs' current challenge to the 13% differential is barred by laches.
+Laches is an equitable defense that applies when "a plaintiff unreasonably delayed in initiating an action and a defendant was prejudiced by the delay."
+Robins Island Preservation Fund, Inc. v. Southold Dev. Corp. , 959 F.2d 409, 423 (2d Cir.) (citations omitted), cert. denied , U.S. , 113 S.Ct. 603 , 121 L.Ed.2d 539 (1992).
+We review a district court's application of the laches doctrine for an abuse of discretion, see King v. Innovation Books, Div. of Innovative Corp. , 976 F.2d 824, 832 (2d Cir.1992), and we find no abuse here.
+In our view, there was a legitimate reason for plaintiffs' delay in mounting this challenge.
+See Stone v. Williams , 873 F.2d 620, 624 (2d Cir.) ("[I]t is the reasonableness of the delay rather than the number of years that elapsed which is the focus of the [laches] inquiry.
+"), cert. denied , 493 U.S. 959 , 110 S.Ct. 377 , 107 L.Ed.2d 362 , and vacated on other grounds , 891 F.2d 401 (2d Cir.1989), cert. denied , 496 U.S. 937 , 110 S.Ct. 3215 , 110 L.Ed.2d 662 (1990).
+Almost ten years ago, in Rebaldo v. Cuomo , 749 F.2d 133 (2d Cir.1984), cert. denied , 472 U.S. 1008 , 105 S.Ct. 2702 , 86 L.Ed.2d 718 (1985), we rejected a claim that ERISA preempted New York's regulatory scheme governing hospital rates.
+Rebaldo , while probably distinguishable, created little hope for the success of future challenges to New York's reimbursement system.
+Prospects of success improved only recently because of Supreme Court cases which, as will be discussed infra , undermine Rebaldo .
+Immediately after Rebaldo , instead of challenging the 13% differential in court, plaintiffs changed their tactics and sought a legislative remedy, instead.
+Only when these legislative efforts failed in 1992 with the enactment of an additional 11% surcharge did they sue the State.
+This is not a tableau of unreasonable delay.
+Accordingly, we find no error in the district court's rejection of the laches defense.
+III.
+FEHBA Preemption Adopted as part of the Omnibus Budget Reconciliation Act of 1990 ("OBRA"), Pub.L.
+No. 101-508, 7002(c) , 104 Stat. 1388 , 1388-330 (1990) (codified without title of 7002(c) at 5 U.S.C. 8909(f) (Supp. IV 1992) (amending 5 U.S.C. 8909 (1988)), FEHBA's preemption provision is contained in 8909(f)(1) : The district court found this provision ambiguous.
+Finding the statute's legislative history equally unenlightening, it invoked the teachings of Chevron, U.S.A., Inc. v. Natural Resources Defense Council, Inc. , 467 U.S. 837, 842-43 , 104 S.Ct. 2778, 2781 , 81 L.Ed.2d 694 (1984) (absent clear congressional intent, district courts should defer to implementing agency's interpretation of a federal statute, as long as that interpretation is reasonable).
+Thus, the court turned to OPM for guidance.
+It concluded that OPM's determination that the surcharges are preempted under 8909(f)(1) was a reasonable construction of the statute and deferred to that interpretation by holding FEHBA preempted the 13% and 11% surcharges.
+On appeal, defendants renew the argument that "the language of the statute as well as its legislative history are unambiguous, and reflect Congress' clear intent that FEHBA preemption apply only to state premium taxes."
+813 F.Supp.
+at 1010 ; see 48 C.F.R. 1652.216-71 (1992) (defining "premium taxes" as those "imposed on FEHB premiums by any State, the District of Columbia, or the Commonwealth of Puerto Rico").
+They point to the statute's legislative history and the title of 7002(c) --"EXEMPTION FROM STATE PREMIUM TAXES"--and conclude that 8909(f)(1) is targeted only at premium taxes, and not the surcharges here.
+We are not persuaded.
+We start by looking at the plain language of a statute to interpret its ordinary common meaning.
+See Connecticut Nat'l Bank v. Germain , U.S. , , 112 S.Ct. 1146, 1149 , 117 L.Ed.2d 391 (1992) ("courts must presume that a legislature says in a statute what it means and means in a statute what it says").
+"If the words of a statute are unambiguous, judicial inquiry should end, and the law interpreted according to the plain meaning of its words."
+Aslanidis v. United States Lines, Inc. , 7 F.3d 1067, 1073 (2d Cir.1993).
+In our view, the language of 8909(f)(1) is sufficiently clear to reveal congressional intent.
+See Ardestani v. INS , U.S. , , 112 S.Ct. 515, 520 , 116 L.Ed.2d 496 (1991) (strong presumption that plain language of statute expresses legislative intent).
+By its terms, 5 U.S.C. 8909(f)(1) prohibits every state or local "tax, fee, or other monetary payment" imposed, "directly or indirectly," on a "carrier or an underwriting or plan administration subcontractor of an approved [FEHBA] health benefits plan," "with respect to any payment made from the Fund."
+Defendants do not dispute that the 13% and 11% surcharges satisfy the first two requirements for preemption: the surcharges are a state-imposed "tax, fee, or other monetary payment," and they are imposed "directly or indirectly" on carriers offering FEHBA plans.
+The controversy, therefore, is over the third one--the requirement that the tax is imposed "with respect to any payment made from the Fund."
+Under FEHBA, the federal government and individual enrollees make "contributions" which are then deposited into the Employees Health Benefits Fund (the "Fund") in the United States Treasury.
+5 U.S.C. 8906 , 8909 (1988 & Supp. IV 1992).
+The Fund is administered by OPM.
+Id .
+OPM contracts with various insurance carriers, and through various health benefit plans the carriers provide, pay for, or reimburse the cost of health services for enrollees.
+5 U.S.C. 8901(6) , 8901(7) , and 8902(a) (1988).
+In turn, OPM creates a letter of credit ("LOC") account for each experience-rated plan, 2 and the LOC is maintained in the Treasury as part of the Fund.
+Each carrier draws against its LOC account on a "checks-presented" basis for amounts paid by the carrier as FEHBA claims or expenses.
+5 U.S.C. 8909(a) (Supp. IV 1992); 48 C.F.R. 1632.170(b)(2) (1992).
+This requires carriers to pay for covered hospital treatment from their own resources, and then get reimbursed by drawing against their LOC.
+Cf. 48 C.F.R. 1632.170(b)(2) ("[D]rawdown on the LOC is delayed until the checks issued for FEHB Program disbursements are presented to the carrier's bank for payment.").
+Given this scheme of payment and reimbursement, and mindful of how the two reserves required for each experience-rated plan work, see 5 U.S.C. 8909(b)(2) (Supp. IV 1992); 5 C.F.R. 890.503(c)(1)-(2) (1993) ("contingency" reserve); 5 C.F.R. 890.503(c)(3) (1993) ("carrier" reserve), the preemption issue is not a difficult one.
+The 13% and 11% surcharges are, indeed, imposed "with respect to any payment made from the Fund" because the amount drawn by experience-rated carriers from their LOC accounts, which are part of the Fund, is based in part on the amount of the surcharge.
+As already noted, carriers first pay hospital bills from their own funds, then draw from their LOC accounts to replenish their depleted funds.
+Because payments from the Fund are directly affected by what the hospitals charge for their services, and because the surcharges increase the amounts carriers draw from the Fund, the surcharges are clearly imposed "with respect to payment[s] made from the Fund."
+Accordingly, they are preempted.
+Despite this straightforward construction of 8909(f)(1) , defendants urge us to reject it because our interpretation is repugnant to the general aims of FEHBA.
+They believe that there is a clearly expressed legislative intention that is contrary to the language of the statute.
+Cf. United States v. Ron Pair Enters., Inc. , 489 U.S. 235, 242 , 109 S.Ct. 1026, 1030 , 103 L.Ed.2d 290 (1989) ("The plain meaning of legislation should be conclusive, except in the 'rare cases [in which] the literal application of a statute will produce a result demonstrably at odds with the intentions of its drafters.'"
+(citation omitted)).
+In plumbing the legislative history of 8909(f)(1) , defendants selectively ignore legislative policies that run counter to their interpretation of the statute.
+Section 8909(f)(1) was enacted as part of OBRA, the central purpose of which was to reduce government expenditures.
+See H.Rep.
+No. 101-881, 101st Cong., 2d Sess.
+169 (1990), reprinted in 1990 U.S.C.C.A.N.
+2017, 2177.
+For its part, 8909(f)(1) was designed to reduce expenditures from the Fund by preventing states from charging taxes on health care reimbursements drawn by carriers from the Fund.
+Id. at 173 , reprinted in 1990 U.S.C.C.A.N.
+at 2181.
+To adopt defendants' crabbed view of preemption would undermine this revenue-saving purpose.
+Defendants cite numerous excerpts from congressional committee reports where 8909(f)(1) is characterized as a restriction on "premium taxes."
+This exercise is singularly unenlightening, however, because it remains obscure what the various members of Congress meant when they referred to "premium taxes" in discussing 8909(f)(1) .
+We also note that defendants' reliance on the title to 7002(c) of OBRA containing 8909(f) as an amendment to FEHBA is misplaced.
+Defendants simply ignore that the focal point of this controversy is FEHBA 8909(f)(1) , and not OBRA 7002(c) .
+Finally, defendants are piqued that the district court deferred to OPM's current interpretation of the preemption issue.
+(This interpretation is set forth in the government's amicus brief and affidavits, and was first solicited by the State from OPM (in opinion letters) before this action even began.)
+Defendants argue that the district court ignored an earlier OPM regulation limiting the scope of 8909(f) to "premium taxes," 48 C.F.R. 1631.205-41 (1992), and instead improperly deferred to OPM's current interpretation which defendants characterize as "'agency litigating positions that are wholly unsupported by regulations, rulings, or administrative practice.'"
+State's Brief at 44 (quoting Bowen v. Georgetown University Hospital , 488 U.S. 204, 212 , 109 S.Ct. 468, 473 , 102 L.Ed.2d 493 (1988)).
+Even if we agreed that the language of 8909(f)(1) is ambiguous and its legislative history unilluminating, we would still affirm the district court's judgment, with its reliance on OPM's amicus position.
+As a preliminary matter, the district court did not defer to an "agency litigating position"; rather, it deferred to OPM's administrative interpretation of 8909(f)(1) , made before the government entered this litigation and offered in response to a request from New York itself.
+OPM in its amicus brief to this Court asserts that 48 C.F.R. 1631.205-41 uses "premium taxes" as a shorthand description of the taxes covered by 5 U.S.C. 8909(f)(1) , not in the narrow sense urged by defendants.
+The regulation stresses, in OPM's view, the broad sweep of 8909(f) , interpreting it to apply to " all payments directed by States or municipalities, regardless of how they may be titled, to whom they must be paid, or the purpose for which they are collected," including " all forms of direct and indirect measurement of FEHBP premiums, however modified " 48 C.F.R. 1631.205-41 (emphasis added).
+Like the district court, we too will defer to OPM's interpretation of its own regulation unless it "is plainly erroneous or inconsistent with the language of the regulation."
+Federal Labor Relations Auth. v. United States Dept.
+of Veterans Affairs , 958 F.2d 503, 514 (2d Cir.1992) (citing Robertson v. Methow Valley Citizens Council , 490 U.S. 332, 359 , 109 S.Ct. 1835, 1850 , 104 L.Ed.2d 351 (1989)).
+We cannot say it is unreasonable to interpret 1631.205-41 as OPM does.
+Accordingly, the New York statutes imposing the 13% and 11% surcharges are preempted by FEHBA.
+IV.
+ERISA Preemption Whether a particular state statute is preempted by ERISA is a question of statutory interpretation, as informed by congressional intent.
+With understated irony, the Supreme Court has described the ERISA section at issue here as "not a model of legislative drafting."
+Metropolitan Life Ins. Co. v. Massachusetts , 471 U.S. 724, 739 , 105 S.Ct. 2380, 2388 , 85 L.Ed.2d 728 (1985).
+In truth, it is a veritable Sargasso Sea of obfuscation: (a) Supersedure; effective date relate to section 1003(a) section 1003(b) (b) Construction and application regulates insurance section 1003(a) section 1003(b) deemed 29 U.S.C. 1144(a) -(b)(2)(B) (1988) (emphasis added).
+The opening paragraph is the preemption clause.
+The next paragraph [(b)(2)(A)] is the saving clause.
+And the final paragraph [(b)(2)(B)] has come to be known as the deemer clause.
+See FMC Corp. v. Holliday , 498 U.S. 52, 57-58 , 111 S.Ct. 403, 407-408 , 112 L.Ed.2d 356 (1990).
+Setting sail, we begin with the observation that ERISA is a comprehensive federal statutory scheme regulating "private employee benefits plans, including both pension and welfare plans."
+District of Columbia v. Greater Wash. Bd. of Trade , U.S. , , 113 S.Ct. 580, 582 , 121 L.Ed.2d 513 (1992).
+"A 'welfare plan' is defined to include, inter alia , any 'plan, fund, or program' maintained for the purpose of providing medical or other health benefits for employees or their beneficiaries 'through the purchase of insurance or otherwise.'"
+Id. (quoting 29 U.S.C. 1002(1) ).
+While the statute does not mandate particular benefits, it "'sets various uniform standards, including rules concerning reporting, disclosure, and fiduciary responsibility, for welfare plans.'"
+Ingersoll-Rand Co. v. McClendon , 498 U.S. 133, 137 , 111 S.Ct. 478, 482 , 112 L.Ed.2d 474 (1990) (quoting Shaw v. Delta Air Lines, Inc. , 463 U.S. 85, 91 , 103 S.Ct. 2890, 2896 , 77 L.Ed.2d 490 (1983) (citation omitted)).
+ERISA expressly preempts "any and all State laws insofar as they may now or hereafter relate to any employee benefit plan" covered by the statute.
+29 U.S.C. 1144(a) (the preemption clause).
+This sweeping provision is not without qualification and, pertinent to this case, excepts from preemption those state laws that "regulate insurance," 29 U.S.C. 1144(b)(2)(A) (the saving clause), except as further provided in the deemer clause, stating that an employee benefit plan governed by ERISA shall not be "deemed" an insurance company, an insurer, or "engaged in the business of insurance for purposes of any [state law] purporting to regulate" insurance companies or insurance contracts.
+29 U.S.C. 1144(b)(2)(B) ; see FMC Corp. , 498 U.S. at 58 , 111 S.Ct. at 407 .
+The district court concluded that all the surcharges, as well as ¶¶ 1, 2, 3, and 5 of the Actuarial Letter "relate to" employee benefit plans within the meaning of ERISA's preemption clause.
+The court also found that the surcharges are not preserved by the saving clause as laws that "regulate insurance;" and, without considering whether the Actuarial Letter regulates insurance, the court also concluded that the deemer clause precluded any state regulation of self-funded plans.
+Accordingly, the district court held that ERISA preempted the three surcharges and also ¶¶ 1, 2, 3, and 5 of the Actuarial Letter.
+For the reasons set forth below, we substantially agree.
+The Supreme Court has "repeatedly stated that a law 'relate[s] to' a covered employee benefit plan for purposes of [the preemption clause] 'if it has a connection with or reference to such a plan.'"
+Greater Wash. Bd. of Trade , U.S. at , 113 S.Ct. at 583 (quoting Shaw , 463 U.S. at 97 , 103 S.Ct. at 2900 ) (citations omitted).
+The term "relate to" is to be accorded "its broad commonsense meaning," Pilot Life Ins. Co. v. Dedeaux , 481 U.S. 41, 47 , 107 S.Ct. 1549, 1553 , 95 L.Ed.2d 39 (1987), thereby giving "effect to the 'deliberately expansive' language chosen by Congress."
+Greater Wash. Bd. of Trade , U.S. at , 113 S.Ct. at 583 (quoting Pilot Life , 481 U.S. at 46 , 107 S.Ct. at 1552 ).
+"Under this 'broad common-sense meaning,' a state law may 'relate to' a benefit plan, and thereby be pre-empted, even if the law is not specifically designed to affect such plans or the effect is only indirect," Ingersoll-Rand , 498 U.S. at 139 , 111 S.Ct. at 483 , and even if the law is "consistent with ERISA's substantive requirements."
+Metropolitan Life Ins. , 471 U.S. at 739 , 105 S.Ct. at 2388 .
+Accordingly, we have held that "a state law of general application, with only an indirect effect on a pension plan, may nevertheless be considered to 'relate to' that plan for preemption purposes."
+Smith v. Dunham-Bush, Inc. , 959 F.2d 6, 9 (2d Cir.1992).
+On the other hand, the Court has also recognized that "[s]ome state actions may affect employee benefit plans in too tenuous, remote, or peripheral a manner to warrant a finding that the law 'relates to' the plan," Shaw v. Delta Air Lines, Inc. , 463 U.S. at 100 n. 21, 103 S.Ct. at 2901 n. 21 (1983), "as is the case with many laws of general applicability."
+Greater Wash. Bd. of Trade , U.S. at n. 1 , 113 S.Ct. at 583 n. 1.
+See, e.g. , Mackey v. Lanier Collection Agency & Serv., Inc. 486 U.S. 825 , 108 S.Ct. 2182 , 100 L.Ed.2d 836 (1988) (generally applicable garnishment law under which creditors can garnish ERISA welfare benefits not preempted); Fort Halifax Packing Co. v. Coyne , 482 U.S. 1 , 107 S.Ct. 2211 , 96 L.Ed.2d 1 (1987) (law requiring companies to make lump-sum severance payments when closing a plant not preempted); Aetna Life Ins. Co. v. Borges , 869 F.2d 142 (2d Cir.) (application of escheat law to ERISA-covered benefit checks and drafts issued but not collected or presented for payment by beneficiaries not preempted), cert. denied , 493 U.S. 811 , 110 S.Ct. 57 , 107 L.Ed.2d 25 (1989).
+On appeal, defendants contend that "the [s]urcharges do not 'relate to' ERISA plans within the meaning of ERISA's preemption clause because they are laws of general application, which have only a peripheral impact on the plans."
+813 F.Supp.
+at 1005 .
+In making this argument, defendants rely on Rebaldo v. Cuomo , 749 F.2d 133 (2d Cir.1984), cert. denied , 472 U.S. 1008 , 105 S.Ct. 2702 , 86 L.Ed.2d 718 (1985) and fault the district court for its conclusion that Rebaldo "has been abrogated by later Supreme Court cases."
+813 F.Supp.
+at 1005 .
+Rebaldo held that ERISA did not preempt certain New York regulations governing the right of self-insured employee benefit plans to negotiate discounts with hospitals.
+In rejecting this challenge, we initially found that "a state law must ' purport [ ] to regulate, the terms and conditions of employee benefit plans' to fall within the preemption provision" of ERISA.
+Rebaldo , 749 F.2d at 137 (quoting 29 U.S.C. 1144(c)(2) ) (emphasis added).
+Rebaldo went on to hold that the impact of New York's regulations on ERISA benefit plans was too tenuous, remote, and peripheral to require preemption.
+Id. at 138 .
+Six years later, in Ingersoll-Rand , 498 U.S. at 141 , 111 S.Ct. at 484 , the Supreme Court expressly rejected the notion that Congress intended to limit ERISA's preemptive effect to state laws purporting to regulate plan terms and conditions.
+See Smith , 959 F.2d at 9 & n. 3 (following Ingersoll-Rand , rejecting "purports to regulate" standard).
+Despite Ingersoll-Rand , defendants continue to argue that Rebaldo 's analysis of what triggers ERISA preemption is still controlling.
+We have little difficulty agreeing with the district court that Rebaldo 's fundamental premise was rejected by the Supreme Court.
+In our view, Rebaldo 's entire analysis is poisoned by its discredited belief that ERISA's preemption clause is targeted only at state laws that "purport to regulate" plan terms and conditions.
+Therefore, we conclude that defendants' reliance on Rebaldo is misplaced.
+A. The Surcharges: Preemption Defendants maintain that the district court erred in concluding that the challenged statutes' indirect economic impact upon ERISA plans was substantial and impermissibly affected the structure, the administration, or the type of benefits furnished by a plan.
+We disagree.
+While the challenged statutes do not refer to ERISA plans, see Mackey , 486 U.S. at 831 , 108 S.Ct. at 2186 (statute need not specifically mention ERISA plans to be preempted), our examination of the surcharges indicates that they satisfy the less stringent "connection with" standard embraced in Ingersoll-Rand .
+The 13% and 11% surcharges are designed to increase hospital costs for patients covered by health plans other than the Blues, and thus make these competing plans less attractive than the Blues.
+Obviously, the surcharges will affect ERISA plans' health care benefits.
+Likewise, the 9% assessment imposed on HMOs will interfere with a plan's selection of the most effective method to provide benefits.
+Thus, the surcharges purposely interfere with the choices that ERISA plans make for health care coverage.
+Such interference is sufficient to constitute "connection with" ERISA plans.
+See, e.g. , National Elevator Indus., Inc. v. Calhoon , 957 F.2d 1555, 1561 (10th Cir.) (ERISA preempts administrative interpretation of Oklahoma's prevailing wage statute insofar as it determines rates of pay and "may be used to effect change in the administration, structure and benefits of an ERISA plan"), cert. denied , U.S. , 113 S.Ct. 406 , 121 L.Ed.2d 331 (1992); In re Michigan Carpenters Council Health & Welfare Fund , 933 F.2d 376, 382-83 (6th Cir.) (ERISA preempts Michigan state corporate reorganization statute that allows employers unilaterally to alter their obligation to ERISA plans), cert. denied , U.S. , 112 S.Ct. 585 , 116 L.Ed.2d 610 (1991); National Carriers' Conference Comm. v. Heffernan , 440 F.Supp.
+1280 (D.Conn.1977) (Connecticut tax on ERISA benefits preempted since it may encourage use of traditional insurance rather than ERISA-covered plans); Morgan Guar. Trust Co. v. Tax Appeals Tribunal of Dep't of Taxation & Finance , 80 N.Y.2d 44, 51 , 587 N.Y.S.2d 252, 256 , 599 N.E.2d 656, 660 (1992) (New York real estate gains tax preempted as applied to sale of ERISA property because tax will influence plans' investment strategy).
+The surcharges substantially increase the cost to ERISA plans of providing beneficiaries with a given level of health care benefits.
+Under similar circumstances, the Fifth Circuit held that a state statute imposing a 2.5% tax on administrative and service fees was preempted by ERISA.
+E-Systems, Inc. v. Pogue , 929 F.2d 1100 (5th Cir.), cert. denied , U.S. , 112 S.Ct. 585 , 116 L.Ed.2d 610 (1991).
+The court found that the tax was related to ERISA plans because: "The cost of the plan must therefore increase for the employer and/or employees or the benefits must be adjusted downwards to offset the tax bite.
+This is the type of impact Congress intended to avoid when it enacted the ERISA legislation."
+Id. at 1103 .
+As in E-Systems , the surcharges here force ERISA plans to increase either plan costs or reduce plan benefits.
+Therefore, they have the requisite connection to ERISA.
+See also General Electric Co. v. New York State Dep't of Labor , 891 F.2d 25, 28 (2d Cir.1989) (New York Labor Law governing wage requirements was preempted where it required employers to pay certain benefits, because "'private parties, not the Government, control the level of benefits'" under ERISA) (quoting Alessi v. Raybestos-Manhattan, Inc. , 451 U.S. 504, 511 , 101 S.Ct. 1895, 1900 , 68 L.Ed.2d 402 (1981)), cert. denied , 496 U.S. 912 , 110 S.Ct. 2603 , 110 L.Ed.2d 283 (1990); cf. Arkansas Blue Cross & Blue Shield v. St. Mary's Hosp., Inc. , 947 F.2d 1341, 1348 (8th Cir.1991) ("Like all the factors considered, simply because the existence of some economic impact is not dispositive of the preemption issue does not make this factor irrelevant to the preemption inquiry.
+"), cert. denied , U.S. , 112 S.Ct. 2305 , 119 L.Ed.2d 227 (1992).
+In making its finding that the surcharges are related to ERISA, the district court focused on plaintiffs' claims that they would pass along the higher costs associated with the surcharges, which might in turn lead plans to reduce their level of service or benefits.
+Defendants and the Department of Labor as amicus contend that the indirect and inevitably speculative economic impact of the challenged statutes alone does not justify a finding of preemption.
+They argue that the Supreme Court has never held that indirect economic impact, standing alone, is sufficient to justify a finding of preemption.
+See, e.g. , Mackey , 486 U.S. at 830-41 , 108 S.Ct. at 2185-91 (indirect economic effect of state garnishment law not enough to warrant preemption); see also Aetna Life , 869 F.2d at 146 ("where a state statute of general application 'does not affect the structure, the administration, or the type of benefits provided by an ERISA plan, the mere fact that the statute has some economic impact on the plan does not require that the statute be invalidated.'"
+(quoting Rebaldo , 749 F.2d at 139 )).
+The Blues Conference, in particular, relies on NYSA-ILA Medical & Clinical Servs.
+Fund v. Axelrod , No. 92 Civ. 2779 (JSM), 1993 WL 51146 , at *4 (S.D.N.Y.
+Feb. 23, 1993) ("The tax is not great enough to pose a serious economic threat to the plan which might trigger preemption.").
+There, Judge Martin rejected an ERISA plan's challenge to New York's Health Facility Assessment ("HFA") because its economic impact on the plan was de minimis .
+The court distinguished Morgan Guaranty Trust , 80 N.Y.2d 44 , 587 N.Y.S.2d 252 , 599 N.E.2d 656 , on the ground that the New York case involved a "substantial" tax of 10% of the consideration received for the realty sold therein, as opposed to the HFA of 0.6% of gross receipts to which the HFA was applicable.
+Further, Judge Martin in NYSA-ILA explicitly compared the result Judge Freeh reached in this case, with its surcharges of 13%, 11%, and 9% on hospital DRGs.
+See NYSA-ILA , 1993 WL 51146 , at *4.
+Thus, the NYSA-ILA court recognized that a substantial economic impact, standing alone, could be enough to bring ERISA's preemption clause into play.
+In sum, Judge Freeh properly found that the three surcharges "relate to" ERISA because they impose a significant economic burden on commercial insurers and HMOs.
+They therefore have an impermissible impact on ERISA plan structure and administration.
+3 Accordingly, the statutes at issue here are preempted--unless they are salvaged by ERISA's saving clause as a law that regulates insurance.
+29 U.S.C. 1144(b)(2)(A) .
+B. The Surcharges: Saving Clause To determine whether a state law regulates insurance within the meaning of the saving clause, a court must first "consider the 'common-sense view' of the term 'regulates insurance' which suggests that 'in order to regulate insurance, a law must not just have an impact on the insurance industry, but must be specifically directed toward that industry."
+Howard v. Gleason Corp. , 901 F.2d 1154, 1158 (2d Cir.1990) (quoting Pilot Life Ins. Co. v. Dedeaux , 481 U.S. 41, 50 , 107 S.Ct. 1549, 1554 , 95 L.Ed.2d 39 (1987)).
+The court must next assess whether the law satisfies the three criteria developed for determining whether a practice constitutes "the business of insurance" within the meaning of the McCarran-Ferguson Act, 15 U.S.C. 1011-1015 (1988 & Supp. IV 1992).
+4 See Pilot Life , 481 U.S. at 48 , 107 S.Ct. at 1553 .
+Those criteria are: "' First , whether the practice has the effect of transferring or spreading a policyholder's risk; second , whether the practice is an integral part of the policy relationship between the insurer and the insured; and third , whether the practice is limited to entities within the insurance industry.'"
+Id. at 48-49 , 107 S.Ct. at 1553 (quoting Union Labor Life Ins. Co. v. Pireno , 458 U.S. 119, 129 , 102 S.Ct. 3002, 3008 , 73 L.Ed.2d 647 (1982)).
+Applying these tests, we conclude, first of all, that the 13% and 11% surcharges do not "regulate insurance" within the meaning of the saving clause.
+5 Our common-sense inquiry reveals that these surcharges are not specifically directed toward the insurance industry; rather, they aim to regulate hospital rates.
+Although the surcharge laws provide for different payment rates based on whether a patient is uninsured, covered by an HMO, a commercial insurer or a self-insured health plan, they do not address matters typically within the purview of state insurance regulations such as: the solvency and qualification of an insurance company's management, the sale and advertising of insurance, rates and the content of insurance policies.
+See Metropolitan Life Ins. Co. v. Massachusetts , 471 U.S. 724, 727-28 & n. 2, 105 S.Ct. 2380, 2382-83 & n. 2, 85 L.Ed.2d 728 (1985).
+Defendants argue that the 13% and 11% surcharges are designed to affect the insurance marketplace by giving the Blues a competitive advantage over commercial insurers, self-insured funds, and a number of other players in the marketplace--and thus may be characterized as the regulation of insurance.
+This argument, however, confuses laws regulating the "business of insurance" with laws regulating hospital rates that have an effect on the "insurance marketplace."
+Although the surcharge laws clearly have some impact on insurance companies, this alone is not enough.
+As the Supreme Court has made clear in interpreting 2(b) of the McCarran-Ferguson Act, there is a difference between the "business of insurance" and the "business of insurers."
+See Group Life & Health Ins. Co. v. Royal Drug Co. , 440 U.S. 205, 210-17 , 99 S.Ct. 1067, 1071-76 , 59 L.Ed.2d 261 (1979).
+In our view, defendants' arguments proceed from an impermissibly broad reading of the saving clause.
+Congress intended that ERISA's preemption provision would clear the field of any state law interfering with benefit plans, see, e.g. , FMC Corp. v. Holliday , 498 U.S. 52, 58 , 111 S.Ct. 403, 407 , 112 L.Ed.2d 356 (1990); Pilot Life , 481 U.S. at 47-48 , 107 S.Ct. at 1552-53 , and installed the saving clause to preserve only those state laws precisely directed at the insurance business.
+The more expansively the saving clause is read, the more deeply it cuts into the preemption, a result that would render the entire scheme unworkable.
+Nor do the McCarran-Ferguson factors suggest otherwise.
+The Blues--unlike commercial carriers--offer health insurance to anybody, no matter who they are or what physical shape they are in.
+As the insurer of last resort, the Blues insure persons and groups that are, on the whole, older and less healthy, and therefore constitute unacceptably high risks for other insurers.
+Most high risk policyholders, therefore, are insured under the Blues.
+Because the 13% and 11% surcharges are designed to encourage ERISA plans--with generally healthier persons--to shift to the Blues, the State's reimbursement system would help spread the risk of health care costs.
+Group Life & Health Insurance Co. v. Royal Drug Co. , 440 U.S. 205 , 99 S.Ct. 1067 , 59 L.Ed.2d 261 (1979), does not alter this conclusion.
+There, the Supreme Court ruled that Blue Shield's arrangement with certain pharmacies to charge Blue Shield's insureds only $2 for every prescription drug did not constitute the "business of insurance" under McCarran-Ferguson.
+As noted by the district court here, "[t]he Supreme Court held that the agreements between Blue Shield and the participating pharmacies did not spread any risk because those agreements merely reduced Blue Shield's costs for fulfilling an obligation which Blue Shield had already assumed."
+813 F.Supp.
+at 1008 n. 15 (citing Royal Drug , 440 U.S. at 212-14 , 99 S.Ct. at 1073-74 ).
+Here, the challenged surcharges do not merely raise the cost of inpatient hospital services, but play a significant role in encouraging ERISA plans to shift to the Blues.
+Thus, unlike Royal Drug , the surcharges here can be said to have "the effect of transferring or spreading a policyholder's risk."
+Pilot Life , 481 U.S. at 48 , 107 S.Ct. at 1553 (quoting Union Labor Life Ins. , 458 U.S. at 129 , 102 S.Ct. at 3008 ).
+The 13% and 11% surcharges, however, fail to satisfy the remaining two McCarran-Ferguson factors.
+These surcharges do not regulate any practice that is integral to the insurer-insured relationship.
+As we noted on an earlier occasion, the essence of the second McCarran-Ferguson factor is whether a statute "dictate[s] any of the terms of the insurance contract itself, the principal embodiment of the insurer-insured relationship."
+Howard , 901 F.2d at 1159 .
+True, the surcharges here were designed to induce ERISA plans to switch their hospital coverage from commercial insurers to the Blues; but they do not directly change any of the terms, conditions or scope of coverage in commercial insurance contracts.
+Rather, because the surcharges expressly regulate hospital rates, they relate only to the contractual obligations between hospitals and insurers or insureds, but do not directly implicate the policy relationship between insurers and their insureds.
+Finally, the surcharges are not "limited to entities within the insurance industry."
+Pilot Life , 481 U.S. at 49 , 107 S.Ct. at 1553 (quoting Union Labor Life Ins. , 458 U.S. at 129 , 102 S.Ct. at 3008 ).
+In Howard , a provision of the New York Insurance Law required that either the insurer or the employer (in certain circumstances) give notice of conversion privileges upon termination of employment.
+Id. at 1156 .
+We found that this provision was not a regulation of insurance.
+Id. at 1159 .
+We noted that since the notice could be given by either the employer or the insurer, the law was not limited to entities within the insurance industry.
+Id. Here, the surcharges set rates that hospitals must charge patients, and thus involve entities beyond the insurance industry, including: the State, hospitals, patients, HMOs, and self-insured funds.
+Thus, the third McCarron-Ferguson factor is not satisfied.
+Accordingly, because of our common-sense determination that the surcharges do not regulate insurance, and because two of the three McCarran-Ferguson factors are not satisfied, we agree with the district court that the 13% and 11% surcharges are not preserved by the saving clause.
+Accordingly, the New York statutes imposing the surcharges are preempted by ERISA.
+6 C. The Actuarial Letter Self-insured employee benefit plans and their employer sponsors, including the Sheridan Catheter Plan (on whose behalf Travelers challenges the Actuarial Letter), often purchase stop-loss insurance to protect themselves against excess or catastrophic losses.
+Unlike traditional group-health insurance, stop-loss insurance is akin to reinsurance in that it does not provide coverage directly to plan members or beneficiaries.
+Rather, most stop-loss policies (and the policy issued to the Sheridan Catheter Plan here) provide coverage to the plan itself if the total amount of claims paid by the plan exceeds the amount of anticipated claims by a specified sum.
+The Actuarial Letter under attack purports to regulate the terms of such stop-loss insurance contracts.
+Its relevant provisions follow: The district court properly found that ¶¶ 1, 2, 3, and 5 of the Actuarial Letter "relate to" an employee benefit plan for purposes of ERISA's preemption clause.
+Paragraphs 1 and 5 on their face make specific "reference to" an employee benefit plan, and ¶¶ 2 and 3 clearly have a "connection with" such plans.
+See Greater Wash. Bd. of Trade , U.S. at , 113 S.Ct. at 583 (quoting Shaw , 463 U.S. at 97 , 103 S.Ct. at 2900 ).
+ERISA therefore preempts ¶¶ 1, 2, 3, and 5 of the Actuarial Letter unless they find salvation in ERISA's saving clause as a law that regulates insurance, and even that salvation will be denied unless the employee benefit plan can escape the orbit of 1144(b)(2) (B) refusing to deem such a plan "to be an insurance company or other insurer."
+The district court concluded that ¶¶ 1, 2, 3, and 5 were preempted and the saving clause for insurance regulations did not save them because, under the deemer clause, self-insured employee benefit plans are not deemed to be "an insurance company or other insurer " FMC Corp. v. Holliday , 498 U.S. 52, 61 , 111 S.Ct. 403, 409 , 112 L.Ed.2d 356 (1990).
+The Department of Labor and Travelers, while agreeing with this result, suggest that the district court should not have reached the deemer clause without first considering whether ¶¶ 1, 2, 3, and 5 regulate insurance at all, within the meaning of the saving clause.
+We agree.
+Accordingly, we affirm the district court's holding on a different ground: ¶¶ 1, 2, 3, and 5 are not saved from preemption because those paragraphs do not regulate insurance within the meaning of the saving clause.
+As already discussed, in order to fall within the saving clause, the state law must constitute the regulation of insurance from a common-sense point of view and must also satisfy the McCarran-Ferguson factors.
+See Pilot Life , 481 U.S. at 48-49 , 107 S.Ct. at 1553 .
+The challenged provisions of the Actuarial Letter do neither.
+Pilot Life 's common-sense test does not validate every conceivable restriction on the sale of insurance contracts under the rubric of regulation of insurance.
+See Howard , 901 F.2d at 1158 .
+We conclude that ¶¶ 1, 2, 3, and 5 of the Actuarial Letter use the regulation of stop-loss coverage as a pretext to regulate the terms of self-funded ERISA plans.
+In ¶ 1 of the Actuarial Letter, the State permits a self-insured plan to obtain stop-loss coverage only if the plan provides its members and beneficiaries with the full panoply of benefits mandated by New York's Insurance Law.
+Paragraph 2 requires the plan to provide its beneficiaries with the right to a statutory conversion policy.
+Paragraphs 3 and 5 require the plan to afford its members a host of protections in case the plan becomes insolvent.
+Because the conditions imposed by the Actuarial Letter are not limited just to the stop-loss layer of insurance but apply generally to the entire plan, we conclude that ¶¶ 1, 2, 3, and 5 of the Letter do not, as a practical matter, regulate just insurance.
+Furthermore, the challenged provisions of the Actuarial Letter do not satisfy the McCarran-Ferguson criteria.
+First of all, ¶¶ 1, 2, 3, and 5 do not have the effect of transferring or spreading risk between a self-funded plan and its stop-loss insurer but, instead, require the self-insured plan to provide additional benefits and protections to the plan's members and beneficiaries.
+Second, the challenged provisions are not an integral part of a self-funded plan's relationship with its stop-loss insurer.
+Paragraph 1, for example, focuses squarely on the self-funded plan's relationship with its participants, not with the stop-loss insurer.
+Because employees are not insured under the terms of the stop-loss policy, requiring the stop-loss insurer to notify such individuals, as ¶ 3 does, is not an integral part of the insurance relationship.
+Likewise, because ¶ 5's purpose is to protect employees, who are not insured under the stop-loss contract, that paragraph is not an integral part of the insurance relationship between the plan and its stop-loss insurer.
+Finally, ¶¶ 1, 2, 3, and 5 are not limited to insurance entities.
+Paragraph 1 is aimed directly at sponsors of self-funded plans.
+By requiring the sponsoring employer to provide conversion rights through another insurer if the stop-loss insurer does not provide such rights, ¶ 2 is aimed directly at employers who are not part of the insurance industry.
+See Howard , 901 F.2d at 1159 (state law requiring either insurer or employer to notify covered employees of conversion rights was not "limited to entities within the insurance industry").
+Likewise, ¶ 3 states specifically that the Department of Insurance "will accept a policy provision which requires the employer to pass along [the notice] material."
+Thus, it too is not "limited to entities within the insurance industry."
+See id. In sum, the challenged provisions of the Actuarial Letter satisfy neither the common-sense test nor the McCarran-Ferguson factors.
+Consequently, they do not fall within the saving clause and are preempted.
+The district court also held that ¶¶ 4, 6, and 7 of the Actuarial Letter do not "relate to" ERISA plans and, accordingly, did not reach the saving clause argument as to those paragraphs.
+On cross-appeal, Travelers argues that the district court erred to the extent it found that ¶ 4 does not "relate to" ERISA plans.
+7 We agree and therefore reverse that part of the district court's decision holding that ¶ 4 is not preempted.
+Paragraph 4, like ¶¶ 1, 2, 3, and 5 of the Actuarial Letter, is directed at the purchasers of stop-loss coverage which are primarily ERISA plans.
+It effectively requires the "policyholder"--which is an ERISA plan--either to purchase insurance for "run-off claims" or maintain significant reserves of its own.
+This alone merits a finding that ¶ 4 has a "connection with" employee benefit plans and, therefore, is "relate[d] to" such plans for purposes of ERISA's preemption clause because stop-loss protection will guarantee that benefits are paid to employees even if the carrier suffers catastrophic losses.
+Reaching the saving clause argument, we conclude that ¶ 4 does not "regulate insurance" and therefore is not saved from ERISA preemption.
+In our view, ¶ 4 attempts to regulate, through the self-loss insurer, the benefits offered by and the administrative functioning of self-funded ERISA plans.
+Paragraph 4 is similar to the other challenged paragraphs.
+Like ¶¶ 1, 2, 3, and 5 of the Actuarial Letter, ¶ 4 does not fall within the saving clause and is, therefore, preempted.
+We hold, therefore, that the five challenged paragraphs do not regulate insurance within the meaning of the saving clause and, accordingly, are preempted.
+We affirm the district court's ruling as to ¶¶ 1, 2, 3, and 5 of the Actuarial Letter, and reverse as to ¶ 4.
+CONCLUSION To sum up: We find that the district court properly found that plaintiffs' challenges to the 11% and 9% surcharges are not barred by the TIA.
+Nor is their challenge to the 13% differential barred by laches.
+Further, the district court properly held that the three surcharges are preempted by ERISA, and the 13% and 11% surcharges are also preempted by FEHBA.
+Finally, we affirm the court's decision as to ¶¶ 1, 2, 3, and 5 of the Actuarial Letter, and reverse as to ¶ 4.
+Accordingly, the judgment of the district court is affirmed in part, reversed in part, and the district court is directed to enter judgment consistent with this opinion.

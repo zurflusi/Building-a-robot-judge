@@ -1,0 +1,472 @@
+ OPINION OF THE COURT GARTH, Circuit Judge.
+This case comes before us on vacatur and remand from the Supreme Court's decision in Ashcrqft v. ACLU , 535 U.S. 564 , 122 S.Ct. 1700 , 152 L.Ed.2d 771 (2002), in which the Court held that our decision affirming the District Court's grant of a preliminary injunction against the enforcement of the Child Online Protection Act ("COPA") 1 could not be sustained because "COPA's reliance on community standards to identify 'material that is harmful to minors' does not by itself render the statute substantially overbroad for purposes of the First Amendment ."
+Id. at 1713 (emphasis in original).
+Pursuant to the Supreme Court's instructions in Ashcroft, we have revisited the question of COPA's constitutionality in light of the concerns expressed by the Supreme Court.
+Our present review of the District Court's decision and the analysis on which that decision was based does not change the result that we originally had reached, albeit on a ground neither decided nor discussed by the District Court.
+See ACLU v. Reno , 217 F.3d 162 (3d Cir.2000) (" Reno III "), vacated and remanded , 535 U.S. 564 , 122 S.Ct. 1700 , 152 L.Ed.2d 771 (2002).
+We had affirmed the District Court's judgment granting the plaintiffs a preliminary injunction against the enforcement of COPA because we had determined that COPA's reliance on "community standards" to identify material "harmful to minors" could not meet the exacting standards of the First Amendment .
+On remand from the Supreme Court, with that Court's instruction to consider the other aspects of the District Court's analysis, we once again will affirm.
+I. COPA, Pub.L.
+No. 105-277 , 112 Stat. 2681 (1998) (codified at 47 U.S.C. 231 ), is Congress's second attempt to regulate pornography on the Internet.
+The Supreme Court struck down Congress's first endeavor, the Communications Decency Act, ("CDA"), on First Amendment grounds.
+See Reno v. ACLU , 521 U.S. 844 , 117 S.Ct. 2329 , 138 L.Ed.2d 874 (1997) (" Reno I ").
+To place our COPA discussion in context, it is helpful to understand its predecessor, the CDA, and the opinion of the Supreme Court which held it to be unconstitutional.
+A. In Reno I , the Supreme Court analyzed the CDA, which prohibited any person from posting material on the Internet that would be considered either indecent or obscene.
+See Reno I , 521 U.S. at 859 , 117 S.Ct. 2329 .
+Like COPA, the CDA provided two affirmative defenses to prosecution: (1) the use of a credit card or other age verification system, and (2) any good faith effort to restrict access by minors.
+See id. at 860 , 117 S.Ct. 2329 .
+The Court, in a 7-2 decision, and speaking through Justice Stevens, held that the CDA violated many different facets of the First Amendment .
+The Court held that the use of the term "indecent," without definition, to describe prohibited content was too vague to withstand constitutional scrutiny.
+2 Justice Stevens further determined that "[u]nlike the regulations upheld in Ginsberg and Pacifica , the scope of the CDA is not limited to commercial speech or commercial entities [Rather, i]ts open-ended prohibitions embrace all nonprofit entities and individuals posting indecent messages or displaying them on their own computers."
+Id. at 877 , 117 S.Ct. 2329 .
+3 In holding that "the breadth of the CDA's coverage is wholly unprecedented," the Court continued by noting that "the 'community standards' criterion as applied to the Internet means that any communication available to a nationwide audience will be judged by the standards of the community most likely to be offended by the message."
+Id. at 877-78 , 117 S.Ct. 2329 .
+The Court also discussed the constitutional propriety of the credit card/age verification defenses authorized by the CDA.
+Utilizing the District Court's findings, the Court held that such defenses would not be feasible for most noncommercial Web publishers, and that even with respect to commercial publishers, the technology had yet to be proven effective in shielding minors from harmful material.
+See id. at 881 , 117 S.Ct. 2329 .
+As a result, the Court determined that the CDA was not narrowly tailored to the Government's purported interest, and "lacks the precision that the First Amendment requires when a statute regulates the content of speech."
+Id. at 874 , 117 S.Ct. 2329 .
+B. COPA, by contrast, represents an attempt by Congress, having been informed by the concerns expressed by the Supreme Court in Reno I, to cure the problems identified by the Court when it had invalidated the CDA.
+Thus, COPA is somewhat narrower in scope than the CDA.
+COPA provides for civil and criminal penalties for an individual who, or entity that, knowingly and with knowledge of the character of the material, in interstate or foreign commerce by means of the World Wide Web , makes any communication for commercial purposes that is available to any minor and that includes any material that is harmful to minors .
+47 U.S.C. 231(a)(1) (emphasis added).
+Unfortunately, the recited standard for liability in COPA still contains a number of provisions that are constitutionally infirm.
+True, COPA, in an effort to circumvent the fate of the CDA, expressly defines most of these key terms.
+For instance, the phrase "by means of the World Wide Web" is defined as the "placement of material in a computer server-based file archive so that it is publicly accessible, over the Internet, using hypertext transfer protocol or any successor protocol."
+Id. 231(e)(1) .
+4 As a result, and as is detailed below, COPA does not target all of the other methods of online communication, such as e-mail, newsgroups, etc. that make up what is colloquially known as the "Internet."
+See ACLU v. Reno , 31 F.Supp.2d 473, 482-83 (Finding of Fact ¶ 7 ) (E.D.Pa.1999) (" Reno II ").
+1.
+Further, only "commercial" publishers of content on the World Wide Web can be found liable under COPA.
+The statute defines "commercial purposes" as those individuals or entities that are "engaged in the business of making such communications."
+47 U.S.C. 231 (e)(2)(A) .
+In turn, a person is "engaged in the business" under COPA if that person who makes a communication, or offers to make a communication, by means of the World Wide Web, that includes any material that is harmful to minors, devotes time, attention, or labor to such activities, as a regular course of such person's trade or business, with the objective of earning a profit as a result of such activities (although it is not necessary that the person make a profit or that the making or offering to make such communications be the person's sole or principal business or source of income).
+Id. 231(e)(2)(B) (emphasis added).
+Individuals or entities therefore can be found liable under COPA if they seek to make a profit from publishing material on the World Wide Web-thus, individuals who place such material on the World Wide Web solely as a hobby, or for fun, or for other than commercial profiteering are not in danger of either criminal or civil liability.
+2.
+Furthermore, and of greater importance, is the manner in which the statute defines the content of prohibited material; that is, what type of material is considered "harmful to minors."
+The House Committee Report that accompanied COPA explains that the statute's definition of the "harmful to minors" test constitutes an attempt to fuse the standards upheld by the Supreme Court in Ginsberg v. New York , 390 U.S. 629 , 88 S.Ct. 1274 , 20 L.Ed.2d 195 (1968), and Miller v. California , 413 U.S. 15 , 93 S.Ct. 2607 , 37 L.Ed.2d 419 (1973).
+5 See H.R.
+REP.
+No. 105-775, at 12-13 (1998).
+In particular, whether material published on the World Wide Web is "harmful to minors" is governed by a three-part test, each prong of which must be satisfied before one can be found liable under COPA: (A) the average person, applying contemporary community standards, would find, taking the material as a whole and with respect to minors, is designed to appeal to, or is designed to pander to, the prurient interest; (B) depicts, describes, or represents, in a manner patently offensive with respect to minors, an actual or simulated sexual act or sexual contact, an actual or simulated normal or perverted sexual act, or a lewd exhibition of the genitals or post-pubescent female breast; and (C) taken as a whole, lacks serious literary, artistic, political, or scientific value for minors.
+47 U.S.C. 231(e)(6) .
+6 This definition follows a formulation similar to that which the Supreme Court articulated in Miller .
+Importantly, however, whereas Miller applied such standards as related to the average adult, the "harmful to minors" test applies them with respect to minors.
+7 COPA, as earlier noted, also provides a putative defendant with affirmative defenses.
+If an individual or entity "has restricted access by minors to material that is harmful to minors" through the use of a "credit card, debit account, adult access code, or adult personal identification number a digital certificate that verifies age or by any other reasonable measures that are feasible under available technology," the individual will not be liable if a minor should access this restricted material.
+Id. 231(c)(1) .
+The defense also applies if an individual or entity attempts "in good faith to implement a defense" listed above.
+Id. 231(c)(2) .
+C. On October 22, 1998, the day after President Clinton signed COPA into law, the American Civil Liberties Union, as well as a number of individuals and entities that publish information on the World Wide Web (collectively, the "plaintiffs" or "ACLU"), brought an action in the United States District Court for the Eastern District of Pennsylvania, challenging the constitutionality of the Act.
+After five days of testimony, the District Court rendered sixty-eight separate findings of fact concerning the Internet and COPA's impact on speech activity.
+See Reno II , 31 F.Supp.2d at 481-92 (Findings of Fact ¶¶0-67).
+These findings were detailed in our original opinion.
+See Reno III , 217 F.3d at 168-69 .
+We recite only those relevant findings in this opinion when we discuss and analyze the constitutionality of COPA.
+These findings bind us in this appeal unless found to be clearly erroneous.
+See Lackawanna County Dist. Attorney v. Coss , 532 U.S. 394, 406 , 121 S.Ct. 1567 , 149 L.Ed.2d 608 (2001).
+None of the parties dispute the accuracy of the findings, and as we recited in Reno III , 217 F.3d at 170 , "none of the parties dispute the District Court's findings (including those describing the Internet and Web), nor are any challenged as clearly erroneous."
+The District Court granted the plaintiffs' motion for a preliminary injunction against the enforcement of COPA on the grounds that COPA is likely to be found unconstitutional on its face for violating the First Amendment rights of adults.
+Reno II , 31 F.Supp.2d at 495 .
+8 In so doing, the District Court applied the familiar four-part test in connection with the issuance of a preliminary injunction.
+See Allegheny Energy, Inc. v. DQE, Inc. , 171 F.3d 153, 158 (3d Cir.1999) (explaining that a preliminary injunction is appropriate where the movant can show (1) a likelihood of success on the merits; (2) irreparable harm without the injunction; (3) a balance of harms in the movant's favor; and (4) the injunction is in the public interest).
+In evaluating the likelihood of the plaintiffs' success, the District Court first determined that COPA, as a contentbased restriction on protected speech (in this case, nonobscene sexual expression), violated the strict scrutiny test.
+More specifically, it found that although COPA addressed a compelling governmental interest in protecting minors from harmful material online, it was not narrowly tailored to serve that interest, nor did it provide the least restrictive means of advancing that interest.
+See Reno II , 31 F.Supp.2d at 493 (citing Sable Communications of Cal, Inc. v. FCC , 492 U.S. 115, 126 , 109 S.Ct. 2829 , 106 L.Ed.2d 93 (1989)).
+The District Court then addressed the remaining prongs of the preliminary injunction standard, concluding that a failure to enjoin enforcement of COPA would result in irreparable harm, that the balance of harms favored the plaintiffs because the Government does not have "an interest in the enforcement of an unconstitutional law," and that the public interest was "not served by the enforcement of an unconstitutional law.
+Indeed, [held the District Court,] .
+the interest of the public is served by preservation of the status quo until such time that this Court may ultimately rule on the merits of plaintiffs' claims at trial."
+Reno II , 31 F.Supp.2d at 498 .
+As a result, the District Court held that the plaintiffs had satisfied the requirements for a preliminary injunction which enjoined the enforcement of COPA.
+D. We affirmed the District Court's holding, but on different grounds.
+9 See Reno III .
+We held that the reference to "community standards" in the definition of "material that is harmful to minors" resulted in an overbroad statute.
+Because the Internet cannot, through modern technology, be restricted geographically, we held that the "community standards" language subjected Internet providers in even the most tolerant communities to the decency standards of the most puritanical.
+As a result, we held that even if we were to assign a narrow meaning to the language of the statute or even if we would sever or delete a portion of the statute that is unconstitutional, we could not remedy the overbreadth problems created by the community standards language.
+Hence, we affirmed the District Court's preliminary injunction.
+See id. at 179-81 .
+E. The Supreme Court vacated our judgment and remanded the case for further proceedings.
+The majority opinion, consisting of Parts I, II, and IV of the principal opinion authored by Justice Thomas, was joined by Chief Justice Rehnquist and Justices O'Connor, Scalia, and Breyer.
+It addressed the "narrow question whether the Child Online Protection Act's use of 'community standards' to identify 'material that is harmful to minors' violates the First Amendment ."
+Ashcroft, 122 S.Ct. at 1703 .
+After reviewing its decision in Reno I and the two prior decisions in this case, the Supreme Court referred to the "contemporary community standards" language from Miller , as representative of the primary concern in evaluating restrictions on speech: "to be certain that [material] will be judged by its impact on an average person, rather than a particularly susceptible or sensitive person-or indeed a totally insensitive one."
+Miller , 413 U.S. at 33 , 93 S.Ct. 2607 .
+As a result, the Court merely held "that COPA's reliance on community standards to identify 'material that is harmful to minors' does not by itself render the statute substantially overbroad for purposes of the First Amendment ."
+Ashcroft , 122 S.Ct. at 1713 (emphasis in original).
+The Court was careful, however, not to "express any view as to whether the statute is unconstitutionally vague, or whether the District Court correctly concluded that the statute likely will not survive strict scrutiny analysis once adjudication of the case is completed below."
+Id. The Court did not vacate the District Court's preliminary injunction.
+Id. at 1713-14 .
+In addition to the limited Opinion of the Court, the Ashcroft Court issued a number of other opinions authored and joined by other Justices, each of which is instructive to us on remand.
+For example, Part III-B of Justice Thomas' opinion was joined only by Chief Justice Rehnquist and Justices O'Connor and Scalia.
+That portion of Justice Thomas' opinion explained that we relied too heavily on the Reno I Court's criticism that "the 'community standards' criterion [in the CDA] as applied to the Internet means that any communication available to a nationwide audience will be judged by the standards of the community most likely to be offended by the message," Ashcroft , 122 S.Ct. at 1709 (opinion of Thomas, J.) (quoting Reno I , 521 U.S. at 877-78 , 117 S.Ct. 2329 ), particularly in light of the fact that COPA was drafted to cover a smaller category of communication than the CDA-namely, communication that appeals to the prurient interest and lacks "serious literary, artistic, political or scientific value to minors."
+47 U.S.C. 231(e)(6)(C) .
+Moreover, Parts III-A, III-C, and IIID of Justice Thomas' opinion were joined only by Chief Justice Rehnquist and Justice Scalia.
+Those Parts explained that the consideration of community standards was not invalid simply because providers of material on the Internet are unable to limit the availability of their speech on a geographic basis.
+He instead pointed out that jurors in different communities are likely to apply their own sensibilities to any consideration of community standards, even national ones.
+Justice Thomas then concluded that no meaningful distinction existed between the instant case and prior Supreme Court decisions upholding the use of a community standards test with respect to speech transmitted by phone or mail, see Sable (phone); Handing v. United States , 418 U.S. 87 , 94 S.Ct. 2887 , 41 L.Ed.2d 590 (1974) (mail), stating that speakers bear the burden of determining their audience, and that those who find themselves disadvantaged by the fact that Internet communications cannot be limited geographically can simply choose a different, more controllable, medium for their communication.
+See Ashcroft , 122 S.Ct. at 1711-12 (opinion of Thomas, J.).
+Justice O'Connor filed an opinion concurring in part and in the judgment.
+Although she agreed that COPA is not overbroad solely because of its reliance on community standards, she acknowledged the possibility that "the use of local community standards will cause problems for regulation of obscenity on the Internet in future cases."
+Id. at 1714 (O'Connor, J., concurring).
+She also disagreed with Justice Thomas' argument in Parts III-C and III-D that the Internet may be treated the same as telephone or mail communications: "[G]iven Internet speakers' inability to control the geographic location of their audience, expecting them to bear the burden of controlling the recipients of their speech may be entirely too much to ask."
+Id. As a result, Justice O'Connor advocated the adoption of a national standard for regulating Internet obscenity.
+She noted that Supreme Court precedents do not forbid such a result, and argued that such a standard would be no more difficult or unrealistic to implement than the standard created for the entire state of California in Miller .
+Id. at 1715 .
+Justice Breyer filed an opinion concurring in part and in the judgment in which he argued that "Congress intended the statutory word 'community' to refer to the Nation's adult community taken as a whole."
+Id. (Breyer, J., concurring).
+This standard would serve the purpose, argued Justice Breyer, of avoiding the difficult question of constitutionality under the First Amendment while experiencing no more "regional variation" than is "inherent in a system that draws jurors from a local geographic area."
+Id. at 1716 .
+Justice Kennedy filed an opinion concurring in the judgment, in which he was joined by Justices Souter and Ginsburg.
+Although Justice Kennedy agreed with us that a community standards factor when applied to the Internet is a greater burden on speech than when applied to the mails or to telephones, he did not agree that the extent of that burden could be ascertained without analyzing the scope of COPA's other provisions.
+See id. at 1719-20 (Kennedy, J., concurring).
+More specifically, Justice Kennedy felt that we should consider the effect of the provisions limiting COPA's scope to speech used for commercial purposes and to speech that is harmful to minors when taken "as a whole."
+See id. at 1720-21 .
+Only after these provisions are analyzed, argued Justice Kennedy, can the true effect of varying community standards be evaluated, and the question of overbreadth be properly addressed.
+Finally, Justice Stevens authored a dissenting opinion, in which he reiterated our concerns expressed in Reno III that COPA's community standards factor was itself sufficient to render the statute constitutionally overbroad because communication on the Internet (unlike that through the mails or telephones) may not be restricted geographically.
+This fact, Justice Stevens claimed, was sufficient to invalidate COPA, particularly in light of the fact that many of the "limiting provisions" (i.e., the prurient interest, the patently offensive and the serious value prongs of the statute) mentioned by Justices Thomas and Kennedy apply only to minors, thereby burdening protected material which should be available to adults.
+See id. at 1726-27 (Stevens, J., dissenting).
+Accordingly, on remand, we must again review the District Court's grant of a preliminary injunction in favor of the plaintiffs.
+This time, however, we must do so in light of the Supreme Court's mandate that the community standards language is not by itself a sufficient ground for holding COPA constitutionally overbroad.
+This direction requires an independent analysis of the issues addressed by the District Court in its original opinion.
+To assist us in this task, we asked the parties for additional submissions addressed to the opinion of the Supreme Court and to authorities filed subsequent to that opinion and since we last addressed COPA in Reno III .
+II.
+As mentioned above, in order to grant a motion for a preliminary injunction, a district court must address the following four factors: (1) whether the movant has shown a reasonable probability of success on the merits; (2) whether the movant will be irreparably harmed by denial of the relief; (3) whether granting preliminary relief will result in even greater harm to the nonmoving party; and (4) whether granting the preliminary relief will be in the public interest.
+Allegheny Energy , 171 F.3d at 158 (citing ACLU v. Black Horse Pike Reg'l Bd. of Educ. , 84 F.3d 1471, 1477 n. 2 (3d Cir. 1996) (en banc)).
+We review the District Court's grant of a preliminary injunction in favor of the ACLU to determine "whether the court abused its discretion, committed an obvious error in applying the law, or made a clear mistake in considering the proof."
+In re Assets of Martin , 1 F.3d 1351, 1357 (3d Cir. 1993) (citing Philadelphia Marine Trade Ass'n v. Local 1291 , 909 F.2d 754, 756 (3d Cir.1990), cert, denied , 498 U.S. 1083 , 111 S.Ct. 953 , 112 L.Ed.2d 1041 (1991)).
+10 The most significant and, indeed, the dispositive prong of the preliminary injunction analysis in the instant appeal is whether the plaintiffs bore their burden of establishing that they had a reasonable probability of succeeding on the meritsthat is, whether COPA runs afoul of the First Amendment to the United States Constitution.
+11 We hold that the District Court did not abuse its discretion in granting the preliminary injunction, nor did it err in ruling that the plaintiffs had a probability of prevailing on the merits of their claim inasmuch as COPA cannot survive strict scrutiny.
+By sustaining that holding, as we do, we would not then be obliged to answer the question of whether COPA is overly broad or vague.
+However, in order to "touch all bases" on this remand, we will nevertheless address the overbreadth doctrine with respect to COPA and the related doctrine of vagueness.
+See infra Part IIB.
+12 In doing so, we hold that COPA is similarly deficient in that aspect as well.
+A. Strict Scrutiny We turn first, however, to the question of whether COPA may withstand strict scrutiny.
+Strict scrutiny requires that a statute (1) serve a compelling governmental interest; (2) be narrowly tailored to achieve that interest; and (3) be the least restrictive means of advancing that interest.
+Sable , 492 U.S. at 126 , 109 S.Ct. 2829 .
+1.
+Compelling Interest The Supreme Court has held that "there is a compelling interest in protecting the physical and psychological well-being of minors."
+Id. (citing Ginsberg , 390 U.S. at 639-40 , 88 S.Ct. 1274 ).
+The parties agree that the Government's stated interest in protecting minors from harmful material online is compelling.
+This being so, we proceed to the next question of whether COPA is narrowly tailored to meet that interest.
+2.
+Narrowly Tailored We hold that the following provisions of COPA are not narrowly tailored to achieve the Government's compelling interest in protecting minors from harmful material and therefore fail the strict scrutiny test: (a) the definition of "material that is harmful to minors," which includes the concept of taking " as a whole " material designed to appeal to the "prurient interest" of minors; and material which (when judged as a whole) lacks "serious literary" or other "value" for minors ; (b) the definition of "commercial purposes," which limits the reach of the statute to persons " engaged in the business " (broadly defined) of making communications of material that is harmful to minors; and (c) the " affirmative defenses " available to publishers, which require the technological screening of users for the purpose of age verification.
+(a) "Material Harmful to Minors" We address first the provision defining "material harmful to minors."
+13 Because COPA's definition of harmful material is explicitly focused on minors, it automatically impacts non-obscene, sexually suggestive speech that is otherwise protected for adults.
+14 The remaining constitutional question, then, is whether the definition's subsets of "prurient interest" and lacking "serious value for minors" are sufficiently narrowly tailored to satisfy strict scrutiny in light of the statute's stated purpose.
+We address each of these subsets.
+COPA limits its targeted material to that which is designed to appeal to the "prurient interest" of minors.
+It leaves that judgment, however, to "the average person, applying contemporary community standards" and "taking the material as a whole."
+As discussed in our initial opinion on the matter, when contemporary community standards are applied to the Internet, which does not permit speakers or exhibitors to limit their speech or exhibits geographically, the statute effectively limits the range of permissible material under the statute to that which is deemed acceptable only by the most puritanical communities.
+This limitation by definition burdens speech otherwise protected under the First Amendment for adults as well as for minors living in more tolerant settings.
+See Reno III , 217 F.3d at 173-80 .
+This burden becomes even more troublesome when those evaluating questionable material consider it "as a whole" in judging its appeal to minors' prurient interests.
+As Justice Kennedy suggested in his concurring opinion, it is "essential to answer the vexing question of what it means to evaluate Internet material 'as a whole,' when everything on the Web is connected to everything else."
+Ashcroft , 122 S.Ct. at 1721 (internal citation omitted).
+We agree with Justice Kennedy's suggestion, and consider this issue here.
+While COPA does not define what is intended to be judge "as a whole," the plain language of COPA's "harmful material" definition describes such material as " any communication, picture, image file, article, recording, writing, or other matter of any kind" that satisfies the three prongs of the "material harmful to minors" test: prurient interest, patently offensive, and serious value.
+47 U.S.C. 231(e)(6) (emphasis added).
+In light of the particularity and specificity of Congress's language, Congress had to mean that each individual communication, picture, image, exhibit, etc. be deemed "a whole" by itself in determining whether it appeals to the prurient interests of minors, because that is the unmistakable manner in which the statute is drawn.
+The taken "as a whole" language is crucial because the First Amendment requires the consideration of context.
+As Justice Kennedy observed in his concurring opinion in Ashcroft , the application of the constitutional taken "as a whole" requirement is complicated in the Internet context: "It is unclear whether what is to be judged as a whole is a single image on a Web page, a whole Web page, an entire multipage Web site, or an interlocking set of Web sites."
+Ashcroft, 122 S.Ct. at 1717 .
+As the Supreme Court has recently noted: [It is] an essential First Amendment rule [that t]he artistic merit of a work does not depend on the presence of a single explicit scene Under Miller , the First Amendment requires that redeeming value be judged by considering the work as a whole.
+Where the scene is part of the narrative, the work itself does not for this reason become obscene, even though the scene in isolation might be offensive.
+Ashcroft v. Free Speech Coalition , 535 U.S. 234 , 122 S.Ct. 1389, 1401 , 152 L.Ed.2d 403 (2002) (citation omitted).
+Yet, here the plain meaning of COPA's text mandates evaluation of an exhibit on the Internet in isolation, rather than in context.
+As such, COPA's taken "as a whole" definition surely fails to meet the strictures of the First Amendment .
+By limiting the material to individual expressions, rather than to an expanded context, we would be hard-pressed to hold that COPA was narrowly tailored to achieve its designed purpose.
+For example, one sexual image, which COPA may proscribe as harmful material, might not be deemed to appeal to the prurient interest of minors if it were to be viewed in the context of an entire collection of Renaissance artwork.
+However, evaluating just that one image or picture or writing by itself rules out a context which may have alleviated its prurient appeal.
+As a result, individual communications that may be a integral part of an entirely non-prurient presentation may be held to violate COPA, despite the fact that a completely different result would obtain if the entire context in which the picture or communication was evaluated "as a whole."
+Because we view such a statute, construed as its own text unquestionably requires, as pertaining only to single individual exhibits, COPA endangers a wide range of communications, exhibits, and speakers whose messages do not comport with the type of harmful materials legitimately targeted under COPA, i.e., material that is obscene as to minors.
+See Ginsberg , 390 U.S. at 639-43 , 88 S.Ct. 1274 .
+Accordingly, while COPA penalizes publishers for making available improper material for minors, at the same time it impermissibly burdens a wide range of speech and exhibits otherwise protected for adults.
+Thus, in our opinion, the Act, which proscribes publication of material harmful to minors, is not narrowly tailored to serve the Government's stated purpose in protecting minors from such material.
+Lastly, COPA's definition of "material that is harmful to minors" only permits regulation of speech that when "taken as a whole, lacks serious literary, artistic, political, or scientific value for minors ."
+47 U.S.C. 231(e)(6)(C) (emphasis added).
+COPA defines the term minor as "any person under 17 [seventeen] years of age."
+Id. 231(e)(7) .
+15 The statute does not limit the term minor in any way, and indeed, in its briefing, the Government, in complete disregard of the text, contends that minor means a "normal, older adolescent."
+Orig.
+Gov't Br. at 32; Gov't Br. on Remand at 27-28; Gov't Reply Br. on Remand at 4-5.
+We need not suggest how the statute's targeted population could be more narrowly defined, because even the Government does not argue, as it could not, that materials that have "serious literary, artistic, political or scientific value" for a sixteenyear-old would have the same value for a minor who is three years old.
+Nor does any party argue, despite Congress's having targeted and included all minors seventeen or under, that pre-adolescent minors (i.e., ages two, three, four, etc.) could be patently offended by a "normal or perverted sexual act" or have their "prurient interest" aroused by a "post-pubescent female breast," or by being exposed to whatever other material may be designed to appeal to prurient interests.
+The term "minor," as Congress has drafted it, thus applies in a literal sense to an infant, a five-year old, or a person just shy of age seventeen.
+In abiding by this definition, Web publishers who seek to determine whether their Web sites will run afoul of COPA cannot tell which of these "minors" should be considered in deciding the particular content of their Internet postings.
+Instead, they must guess at which minor should be considered in determining whether the content of their Web site has "serious value for [those] minors."
+47 U.S.C. 231(e)(6)(C) .
+Likewise, if they try to comply with COPA's "harmful to minors" definition, they must guess at the potential audience of minors and their ages so that the publishers can refrain from posting material that will trigger the prurient interest, or be patently offensive with respect to those minors who may be deemed to have such interests.
+The Government has argued that "minors" should be read to apply only to normal, older adolescents.
+We realize as a pragmatic matter that some pre -adolescent minors may, by definition, be incapable of possessing a prurient interest.
+It is not clear, however, that the Government's proffered definition meets Congress's intended meaning for the term "minor" with respect to the "patently offensive" and "serious value" prongs.
+Furthermore, Congress has identified as objects of its concern children who cannot be described as "older" adolescents: Moreover, because of sophisticated, yet easy to use navigating software, minors who can read and type are capable of conducting Web searches as easily as operating a television remote.
+While a four-year old may not be as capable as a thirteen year old , given the right tools (e.g., a child trackball and browser software) each has the ability to 'surf the Net and will likely be exposed to harmful material.
+H.R.
+REP.
+No. 105-775, at 9-10 (emphasis added).
+Moreover, the statute, if meant to pertain only to normal, older adolescents (as the Government claims it does), does not by its own definition restrict its application to older adolescents, although we assume that Congress could have defined that universe in that manner.
+Because the plain meaning of the statute's text is evident, we decline to rewrite Congress's definition of "minor."
+16 We would note, however, that even if we accepted the Government's argument, the term "minors" would not be tailored narrowly enough to satisfy strict scrutiny.
+Regardless of what the lower end of the range of relevant minors is, Web publishers would face great uncertainty in deciding what minor could be exposed to its publication, so that a publisher could predict, and guard against, potential liability.
+Even if the statutory meaning of "minor" were limited to minors between the ages of thirteen and seventeen, Web publishers would still face too much uncertitude as to the nature of material that COPA proscribes.
+We do not suggest how Congress could have tailored its statute-that is not our function.
+We do no more than conclude that the use of the term "minors" in all three prongs of the statute's definition of "material harmful to minors" is not narrowly drawn to achieve the statute's purpose-it is not defended by the Government in the exact terms of the statute, and does not lend itself to a commonsense meaning when consideration is given to the fact that minors range in age from infants to seventeen years.
+Therefore, even if we were to accept the narrowing construction that the Government proposes-and we do not-COPA's definition of the term "minor," viewed in conjunction with the "material harmful to minors" test, is not tailored narrowly enough to satisfy the First Amendment's requirements.
+(b) "Commercial Purposes" COPA's purported limitation of liability to persons making communications "for commercial purposes" does not narrow the reach of COPA sufficiently.
+Instead, COPA's definitions subject too wide a range of Web publishers to potential liability.
+As the District Court observed, "There is nothing in the text of COPA that limits its applicability to so-called commercial pornographers only."
+Reno II , 31 F.Supp.2d at 480 .
+Indeed, as we read COPA, it extends to any Web publisher who makes any communication "for commercial purposes."
+47 U.S.C. 231(a)(l) .
+The statute includes within "commercial purposes" any Web publisher who meets COPA's broad definition of being "engaged in the business" of making such communications.
+Id. 231(e)(2)(A) .
+The definition of "engaged in the business" applies to any person whose communication "includes any material that is harmful to minors" and who "devotes time to such activities, as a regular course of such person's trade or business, with the objective of earning a profit," if that person "knowingly causes [or solicits] the material that is harmful to minors to be posted on the World Wide Web."
+Id. 231(e)(2)(B) (emphasis added).
+Based on this broad definition of "engaged in the business," we read COPA to apply to Web publishers who have posted any material that is "harmful to minors" on their Web sites, even if they do not make a profit from such material itself or do not post such material as the principal part of their business.
+Under the plain language of COPA, a Web publisher will be subjected to liability if even a small part of his or her Web site displays material "harmful to minors."
+17 Moreover, the definition of "commercial purposes" further expands COPA's reach beyond those enterprises that sell services or goods to consumers, including those persons who sell advertising space on their otherwise noncommercial Web sites.
+See Reno II , 31 F.Supp.2d at 487 (Finding of Fact 1133).
+Thus, the "engaged in the business" definition would encompass both the commercial pornographer who profits from his or her online traffic, as well as the Web publisher who provides free content on his or her Web site and seeks advertising revenue, perhaps only to defray the cost of maintaining the Web site.
+18 See also Ashcroft , 122 S.Ct. at 1721 (Kennedy, J., concurring) ("Indeed, the plain text of the Act does not limit its scope to pornography that is offered for sale; it seems to apply even to speech provided for free, so long as the speaker merely hopes to profit as an indirect result.")
+The latter model is a common phenomenon on the Internet.
+See Reno II , 31 F.Supp.2d at 484 (Findings of Fact 11123, 30).
+This expansive definition of "engaged in the business" therefore includes a large number of Web publishers.
+Indeed, the District Court in its findings of fact cited to testimony that approximately one-third of the 3.5 million global Web sites (existing at that time) are "commercial," or "intend[ed] to make a profit."
+Id. at 486 (Finding of Fact 1127).
+Contrary to our reading and understanding of COPA, the Government contends that COPA's definition of "engaged in the business" limits liability to those persons who publish material that is harmful to minors "as a regular course of such person's business or trade," 47 U.S.C. 231(e)(2)(B) , claiming that this qualification limits the coverage of COPA.
+Based on this language, the Government argues that "COPA by its terms covers only those 'harmful to minors' communications that are made by a person as a normal part of his or her for-profit business."
+Gov't Br. on Remand at 36 (internal quotation marks added).
+Indeed, the Government contends that COPA "covers only those communications that have a substantial connection to the regular online marketing of material that is harmful to minors."
+Id. at 36-37 (emphasis added).
+We do not find the Government's argument persuasive.
+COPA's use of the phrase "regular course" does not narrow the scope of speech covered because it does not place any limitations on the amount, or the proportion, of a Web publisher's posted content that constitutes such material.
+Thus, even if posted material that is harmful to minors constitutes only a very small, or even infinitesimal, part of a publisher's entire Web site, the publisher may still be subject to liability.
+For example, if a Web site whose content deals primarily with medical information, but also "regularly" publishes a bi-weekly column devoted to sexual matters which could be deemed "harmful to minors," the publisher might well be subject to criminal liability under COPA.
+Although such a Web site primarily publishes medical information that is not "harmful to minors," the biweekly column, according to the Government's reading of COPA, would be a publication in "regular course."
+In sum, while the "commercial purposes" limitation makes the reach of COPA less broad than its predecessor, inasmuch as the Communications Decency Act (CDA) was not limited to commercial entities, see Reno I , 521 U.S. at 877 , 117 S.Ct. 2329 , COPA's definition of "commercial purposes" nevertheless imposes content restrictions on a substantial number of "commercial," non-obscene speakers in violation of the First Amendment .
+We are satisfied that COPA is not narrowly tailored to proscribe commercial pornographers and their ilk, as the Government contends, but instead prohibits a wide range of protected expression.
+(c) Affirmative Defenses The Government argues that COPA's burdens are limited and reasonable, and points to COPA's affirmative defenses in support of the statute's constitutionality.
+We examine whether the affirmative defenses in COPA serve to tailor the statute narrowly, as the Government asserts.
+COPA's affirmative defenses shield Web publishers from liability under the statute if they, in good faith, restrict access to material deemed harmful to minors.
+COPA provides as follows: It is an affirmative defense to prosecution under this section that the defendant, in good faith, has restricted access by minors to material that is harmful to minors (A) by requiring use of a credit card, debit account, adult access code, or adult personal identification number; (B) by accepting a digital certificate that verifies age; or (C) by any other reasonable measures that are feasible under available technology.
+47 U.S.C. 231(c)(l) .
+19 The District Court held that COPA's affirmative defenses burdened otherwise protected adult speech in a way that prevented the statute from surviving strict scrutiny.
+In determining that the application of these defenses would unduly burden protected adult speech, the District Court concluded that Evidence presented to this Court is likely to establish at trial that the implementation of credit card or adult verification screens in front of material that is harmful to minors may deter users from accessing such materials and that the loss of users of such material may affect the speakers' economic ability to provide such communications.
+The plaintiffs are likely to establish at trial that under COPA, Web site operators and content providers may feel an economic disincentive to engage in communications that are or may be considered to be ' harmful to minors and thus, may selfcensor the content of their sites.
+Further, the uncontroverted evidence showed that there is no way to restrict the access of minors to harmful materials in chat rooms and discussion groups, which the plaintiffs assert draw traffic to their sites, without screening all users before accessing any content, even that which is not harmful to minors, or editing all content before it is posted to exclude material that is harmful to minors.
+I conclude that based on the evidence presented to date, the plaintiffs have established a substantial likelihood that they will be able to show that COPA imposes a burden on speech that is protected for adults.
+Reno II , 31 F.Supp.2d at 495 (citations omitted).
+The Government maintains that the District Court overstated the burdens on protected speech created by utilization of COPA's affirmative defenses.
+The record and our own limited standard of review, however, belie that claim.
+First, the actual effect on users as a result of COPA's affirmative defenses, which the Government minimizes, was determined by the District Court in its factual findings, after hearing testimony from both parties.
+Both the expert offered by the plaintiffs and one of the experts proffered by the Government testified that users could be deterred from accessing the plaintiffs' Web sites as a result of COPA's affirmative defenses.
+The plaintiffs' expert went on to testify that "economic harm would result from loss of traffic."
+Id. at 491 (Finding of Fact ¶ 61).
+Although the Government presented its own expert who testified that "COPA would not impose an unreasonable economic burden on the seven Web sites of the plaintiffs," the District Court, in exercising its fact-finding function, determined that "plaintiffs have shown that they are likely to convince the Court that implementing the affirmative defenses in COPA will cause most Web sites to lose some adult users to the portions of the sites that are behind screens."
+Id. at 492 (Findings of Fact ¶¶ 61-62).
+We cannot say, nor has the Government claimed, that the District Court's factual determination is clearly erroneous.
+COPA's restrictions on speech, as the District Court has found and as we agree, are not, as the Government has argued, analogous to the incidental restrictions caused by slow response times, broken links, or poor site design that "already inhibit a user's .
+experience."
+Orig.
+Gov't Br. at 42 (citation omitted); Gov't Br. on Remand at 40-41 (citation omitted).
+Requiring a user to pay a fee for use of an adult verification service or to enter personal information prior to accessing certain material constitutes a much more severe burden on speech than any technical difficulties, which are often repairable and cause only minor delays.
+We agree with the District Court's determination that COPA will likely deter many adults from accessing restricted content, because many Web users are simply unwilling to provide identification information in order to gain access to content, especially where the information they wish to access is sensitive or controversial.
+20 People may fear to transmit their personal information, and may also fear that their personal, identifying information will be collected and stored in the records of various Web sites or providers of adult identification numbers.
+21 The Supreme Court has disapproved of content-based restrictions that require recipients to identify themselves affirmatively before being granted access to disfavored speech, because such restrictions can have an impermissible chilling effect on those would-be recipients.
+22 Second, the affirmative defenses do not provide the Web publishers with assurances of freedom from prosecution.
+As the Supreme Court noted in Free Speech Coalition , "The Government raises serious constitutional difficulties by seeking to impose on the defendant the burden of proving his speech is not unlawful."
+Free Speech Coalition , 122 S.Ct. at 1404 .
+Although the criminal penalties under the federal statute concerning virtual child pornography, at issue in Free Speech Coalition , were more severe than the penalties under COPA, the logic is applicable: "An affirmative defense applies only after prosecution has begun, and the speaker must himself prove that his conduct falls within the affirmative defense."
+Id.
+Lastly, none of the display-restriction cases relied on by the Government are apposite here, as each involved the use of blinder racks to shield minors from viewing harmful material on display.
+Orig.
+Gov't Br. at 43-44; Gov't Br. on Remand at 44-45; Gov't Reply Br. on Remand at 13-14.
+23 The use of "blinder racks," or some analogous device, does not create the same deterrent effect on adults as would COPA's credit card or adult verification screens.
+Blinder racks do not require adults to compromise their anonymity in their viewing of material harmful to minors, nor do they create any financial burden on the user.
+Moreover, they do not burden the speech contained in the targeted publications any more than is absolutely necessary to shield minors from its content.
+We cannot say the same with respect to COPA's affirmative defenses.
+The effect of the affirmative defenses, as they burden "material harmful to minors" which is constitutionally protected for adults, is to drive this protected speech from the marketplace of ideas on the Internet.
+This type of regulation is prohibited under the First Amendment .
+As the Supreme Court has recently said, "[Sjpeech within the rights of adults to hear may not be silenced completely in an attempt to shield children from it."
+Free Speech Coalition , 122 S.Ct. at 1402 (citation omitted).
+COPA, though less broad than the CDA, "effectively resembles [a] ban," on adults' access to protected speech; the chilling effect occasioned by the affirmative defenses results in the "unnecessarily broad suppression of speech addressed to adults."
+Reno I , 521 U.S. at 875 , 117 S.Ct. 2329 .
+3.
+Least Restrictive Means As we have just explained, COPA is not narrowly tailored and as such fails strict scrutiny.
+We are also satisfied that COPA does not employ the "least restrictive means" to effect the Government's compelling interest in protecting minors.
+The Supreme Court has stated that "[i]f a less restrictive alternative would serve the Government's purpose, the legislature must use that alternative."
+United States v. Playboy Entertainment Group , 529 U.S. 803, 813 , 120 S.Ct. 1878 , 146 L.Ed.2d 865 (2000); see also Reno I , 521 U.S. at 874 , 117 S.Ct. 2329 ("[The CDA's Internet indecency provisions'] burden on adult speech is unacceptable if less restrictive alternatives would be at least as effective in achieving the legitimate purpose that the statute was enacted to serve"); Sable , 492 U.S. at 126 , 109 S.Ct. 2829 .
+The District Court determined, based on its findings of fact, that COPA would be of limited effectiveness in achieving its aim.
+See Reno II , 31 F.Supp.2d at 496 (COPA has "problems with efficaciously meeting its goal.").
+To reach that conclusion, the District Court relied on its findings that (1) under COPA children may still be able to access material deemed harmful to them on "foreign Web sites, non-commercial sites, and via protocols other than http," id. at 496 ; see also id. at 482-84 , 492 (Findings of Fact ¶¶ 7-8, 19-20, 66); and (2) that children may be able to obtain credit cards-either their parents' or their own-legitimately and so circumvent the screening contemplated by COPA's affirmative defenses.
+See id. at 489 (Finding of Fact ¶ 48).
+We first examine the alternative of blocking and filtering technology.
+The District Court described this technology as follows: [Blocking or filtering software may be used to block Web sites and other content on the Internet that is inappropriate for minors.
+Such technology may be downloaded and installed on a user's home computer at a price of approximately $40.00.
+Alternatively, it may operate on the user's ISP [ (Internet Service Provider) ].
+Blocking technology can be used to block access by minors to whole sites or pages within a site.
+Id. at 492 (Finding of Fact ¶ 65).
+24 The District Court concluded that blocking and filtering technology, although imperfect, "may be at least as successful as COPA would be in restricting minors' access to harmful material online without imposing the burden on constitutionally protected speech that COPA imposes on adult users."
+Id. at 497 .
+Indeed, the District Court found that blocking and filtering technology, if installed by parents, would shield minors from harmful Internet communication occurring within a broader range of venues than that covered by COPA: "Blocking and filtering software will block minors from accessing harmful to minors materials posted on foreign Web sites, non-profit Web sites, and newsgroups, chat, and other materials that utilize a protocol other than HTTP."
+Id. at 492 (Finding of Fact 11 65).
+The Government, however, argues that filtering software is not a viable means of protecting children from harmful material online because it is not nearly as effective as COPA at protecting minors.
+The Government offers the following three reasons for this conclusion: (1) filtering software is voluntary-it transfers the burden of protecting children from the source of the harmful material, i.e., the Web publishers, to the potential victims and their parents; (2) filtering software is often both over-and underinclusive of targeted material; and (3) it is more effective to screen material "prior to it being sent or posted to minors" on the Internet.
+See Gov't Br. on Remand at 47.
+25 The Government makes much of the notion that the voluntary use of blocking and filtering software places an onus on parents.
+Id. (noting "the concern that the expense of purchasing and updating such software programs might 'discourage adults or schools from using them.'
+") (quoting H.R.REP.
+No. 105-775, at 19-20).
+But the Supreme Court has effectively answered this contention.
+The Court stated in Playboy , "A court should not assume a plausible, less restrictive alternative would be ineffective; and a court should not presume parents, given full information, will fail to act."
+Playboy , 529 U.S. at 805 , 120 S.Ct. 1878 .
+The Playboy Court held unconstitutional a federal statutory provision that required cable operators who provide channels primarily dedicated to sexually-oriented programming to scramble or block those channels completely, or to "time channel" their transmission, i.e., limit their availability to hours between 10 p.m. and 6 a.m., when, in Congress's view, children are unlikely to be viewing television.
+By this provision Congress sought to prevent children's exposure to content contained on such channels as a result of "signal bleed."
+26 The Court determined that this provision constituted a "significant restriction of [protected] communication between speakers and willing adult listeners."
+Id. at 812 , 120 S.Ct. 1878 .
+The Court held that this provision failed strict scrutiny because Congress had available to it an effective, less restrictive means of achieving its ends.
+In particular, Congress had provided for an "opt-out" provision whereby a cable subscriber could request the cable company to scramble fully or block completely the receipt of sexually explicit channels.
+The Court explained that the voluntary nature of the "opt-out" provision rendered it less restrictive: "It is no response that voluntary blocking requires a consumer to take action, or may be inconvenient, or may not go perfectly every time."
+Id. at 824 , 120 S.Ct. 1878 .
+Instead, the Court explained that reliance upon "informed and empowered parents," id. at 825 , 120 S.Ct. 1878 , was the preferable alternative: The regulatory alternative of a publicized ["opt-out" provision], which has the choice of an effective blocking system, would provide parents the information needed to engage in active supervision.
+The government has not shown that this alternative, a regime of added communication and support, would be insufficient to secure its objective, or that any overriding harm justifies its intervention.
+Id. at 825-26 , 120 S.Ct. 1878 .
+In Fabulous Associates Inc. v. Pennsylvania Public Utility Commission , 896 F.2d 780 (3d Cir.1990), we had held unconstitutional a Pennsylvania law that required adults to obtain nine-digit access codes in order to listen to dial-a-porn messages on their telephones.
+We held that the statute was not the least restrictive means of achieving the state's interest in protecting minors from such messages because it required a loss of anonymity on the part of adults.
+Although we recognized that pre-blocking would not protect minors in homes where adult residents had unblocked the lines, we held that the "responsibility for making such choices [between individually accessing such speech and protecting minor dependents from that speech] is where our society has traditionally placed it-on the shoulders of the parent."
+Id. at 788 (citing Bolger v. Youngs Drug Prods. Corp. , 463 U.S. 60, 73-74 , 103 S.Ct. 2875 , 77 L.Ed.2d 469 (1983)).
+As with the "opt-out" alternative available in Playboy , which would allow parents to block sexually-oriented cable channels effectively, and as with the pre-blocking alternative described in Fabulous Associates , here filtering software is a less restrictive alternative that can allow parents some measure of control over their children's access to speech that parents consider inappropriate.
+27 The Government also argues that the blocking and filtering software is not as effective as COPA in that it is both overand underinclusive.
+To be sure, blocking and filtering software may sometimes block too little and sometimes block too much Internet speech.
+As the District Court found, blocking and filtering technology is not perfect in that "some Web sites that may be deemed inappropriate for minors may not be blocked while some Web sites that are not inappropriate for minors may be blocked."
+Reno II , 31 F.Supp.2d at 492 (Finding of Fact ¶ 66).
+The District Court found, however, that no evidence had been presented "as to the percentage of time that blocking and filtering technology is over or underinclusive."
+Id .
+Moreover, the District Court, as noted above, determined that blocking and filtering software could be at least as effective as COPA, because COPA does not reach "foreign Web sites, noncommercial sites, and [materials available online] via protocols other than http."
+Reno II , 31 F.Supp.2d at 496 .
+28 A three-judge court has recently held that a federal law requiring the use of filtering and blocking software on computers at libraries that received federal funding violates the First Amendment .
+See American Library Ass'n v. United States , 201 F.Supp.2d 401, 406 (E.D.Pa.)
+(threejudge court), prob, juris, noted , — U.S. — , 123 S.Ct. 551 , 154 L.Ed.2d 424 (2002).
+This decision does not compel a different result here.
+In that case, the American Library court noted that blocking and filtering technology overblocks and underblocks Internet content.
+29 That decision, however, is distinguishable because, whereas the Act at issue in American Library involved Government-mandated use of blocking and filtering software, here we only consider the voluntary use of such software by parents who have chosen to use this means to protect their children.
+We also note that, in American Library , the Government sought to defend the legislation at issue by reference to the statute's "disabling provision," which required adults to identify themselves to librarians in order to disable the filtering software on library computers, and thus gain unfettered access to the wide range of speech on the Internet.
+The court held that this "disabling provision" created a chilling effect on adult library patrons' access to protected speech, 30 just as we have determined that COPA's affirmative defenses, by requiring the use of a credit card or adult identification number, similarly place an impermissible burden on adult users.
+We agree with the District Court that the various blocking and filtering techniques which that Court discussed may be substantially less restrictive than COPA in achieving COPA's objective of preventing a minor's access to harmful material.
+We are influenced further in this conclusion by our reading of the Report of the House Committee on Commerce, which had advocated the enactment of COPA.
+See H.R.
+REP.
+No. 105-775 (1998).
+That Report described a number of techniques and/or alternatives to be used in conjunction with blocking and filtering software, although the techniques were not adopted at that time.
+In each instance, these techniques would appear to constitute a less restrictive alternative than COPA's prescriptions.
+Moreover, we are at least four years beyond the technology then considered by the Committee, and as we had initially observed, "in light of rapidly developing technological advances, what may now be impossible to regulate constitutionally may, in the not-too-distant future, become feasible."
+Reno III , 217 F.3d at 166 .
+Because the techniques and/or alternatives considered by the Committee (i.e., "tagging," "domain name zoning," etc.), see H.R.
+REP.
+No. 105-775, at 16-20, were not addressed either by the parties or the District Court, we do not rely upon them here.
+We do no more than draw attention to the fact that other possibly less restrictive alternatives existed when COPA was enacted and more undoubtedly will be available in the future-many of which might well be a less restrictive alternative to COPA.
+31 The existence of less restrictive alternatives renders COPA unconstitutional under strict scrutiny.
+As the Supreme Court has said: "Precision of regulation must be the touchstone in an area so closely touching our most precious freedoms."
+If the State has open to it a less drastic way of satisfying its legitimate interests, it may not choose a legislative scheme that broadly stifles the exercise of fundamental personal liberties and the benefit gained must outweigh the loss of constitutionally protected rights.
+Elrod v. Burns , 427 U.S. 347, 363 , 96 S.Ct. 2673 , 49 L.Ed.2d 547 (1976) (quoting Kusper v. Pontikes , 414 U.S. 51, 59 , 94 S.Ct. 303 , 38 L.Ed.2d 260 (1973)).
+In sum, the District Court did not abuse its discretion in granting the plaintiffs a preliminary injunction on the grounds that COPA, in failing to satisfy strict scrutiny, had no probability of success on the merits.
+COPA is clearly a content-based restriction on speech.
+Although it does purport to serve a compelling governmental interest, it is not narrowly tailored, and thus fails strict scrutiny.
+COPA also fails strict scrutiny because it does not use the least restrictive means to achieve its ends.
+The breadth of the "harmful to minors" and "commercial purposes" text of COPA, especially in light of applying community standards to a global medium and the burdens on speech created by the statute's affirmative defenses, as well as the fact that Congress could have, but failed to employ the least restrictive means to accomplish its legitimate goal, persuade us that the District Court did not abuse its discretion in preliminarily enjoining the enforcement of COPA.
+B. Overbreadth Though the Supreme Court held in Ashcroft that COPA's reliance on community standards did not alone render the statute overbroad, the Court specifically declined to "express any view as to whether COPA suffers from substantial overbreadth for other reasons [or] whether the statute is unconstitutionally vague," instead explaining that "prudence dictates allowing the Court of Appeals to first examine these difficult issues."
+Ashcroft , 122 S.Ct. at 1713 .
+In this Part, therefore, we discuss whether COPA is substantially overbroad, and hold that it is.
+32 In Broadrick v. Oklahoma , 413 U.S. 601 , 93 S.Ct. 2908 , 37 L.Ed.2d 830 (1973), the Supreme Court ruled that a statute that burdens otherwise protected speech is facially invalid if that burden is not only real, but "substantial as well, judged in relation to the statute's plainly legitimate sweep."
+Id. at 615 , 93 S.Ct. 2908 .
+As the Court has recently stated, "The overbreadth doctrine prohibits the Government from banning unprotected speech if a substantial amount of protected speech is prohibited or chilled in the process."
+Free Speech Coalition , 122 S.Ct. at 1404 .
+33 Our analysis of whether COPA is overbroad is akin to the portion of the strict scrutiny analysis we have conducted in which we concluded that COPA is not narrowly tailored.
+Overbreadth analysislike the question whether a statute is narrowly tailored to serve a compelling governmental interest-examines whether a statute encroaches upon speech in a constitutionally overinclusive manner.
+We conclude that the statute is substantially overbroad in that it places significant burdens on Web publishers' communication of speech that is constitutionally protected as to adults and adults' ability to access such speech.
+In so doing, COPA encroaches upon a significant amount of protected speech beyond that which the Government may target constitutionally in preventing children's exposure to material that is obscene for minors.
+See Ginsberg , 390 U.S. at 639-43 , 88 S.Ct. 1274 ; see also, e.g. , Sable , 492 U.S. at 126 , 109 S.Ct. 2829 ; Erznoznik v. City of Jacksonville , 422 U.S. 205, 212-14 , 95 S.Ct. 2268 , 45 L.Ed.2d 125 (1975).
+1.
+"Material Harmful to Minors" First, COPA's definition of "material harmful to minors" impermissibly places at risk a wide spectrum of speech that is constitutionally protected.
+As we have discussed in our strict scrutiny analysis, two of the three prongs of the "harmful to minors" test-the "serious value" and "prurient interest" prongs-contain requirements that material be "taken as a whole."
+See 47 U.S.C. 231(e)(6)(C) .
+We have earlier explained that the First Amendment requires the consideration of context.
+COPA's text, however, as we have interpreted it, see Part II.A.2(a), supra , calls for evaluation of "any material" on the Web in isolation.
+Such evaluation in isolation results in significant overinclusiveness.
+Thus, an isolated item located somewhere on a Web site that meets the "harmful to minors" definition can subject the publisher of the site to liability under COPA, even though the entire Web page (or Web site) that provides the context for the item would be constitutionally protected for adults (and indeed, may be protected as to minors).
+An examination of the claims of certain amici curiae that COPA threatens their speech illustrates this problem.
+For example, amicus California Museum of Photography/University of California at Riverside, maintains a Web site that, among other things, displays artwork from the museum's collection.
+The Web site contains a page that introduces the "photographers" section of the Web site.
+See California Museum of Photography/University of California at Riverside, UCR/CMP Photographers , at http://www.cmp.ucr.edu/photos/photographers.html (last visited Feb. 6, 2003).
+34 This Web page contains several photographs, each which serves as a link to that museum's on-line exhibit on a particular photographer.
+One of these photographs on the introductory page, by Lucien Clergue, links to the museum's exhibit of his work.
+This photograph is of a naked woman whose "post-pubescent female breast," 47 U.S.C. 231(e)(6)(B) , is exposed.
+Viewing this photograph "as a whole," but without reference to the surrounding context, as per COPA's definition of "material," the photograph arguably meets the definition of "harmful to minors."
+Yet, this same photograph, when treated in context as a component of the entire Web page, cannot be said to be "harmful to minors."
+In the context of the Web page, which displays several art exhibits, none of which are even arguably "harmful to minors," the Clergue photograph and its surroundings would have "serious [artistic] value."
+Of course, it would also be protected speech as to adults.
+35 As another example, amicus Safer Sex Institute publishes a Web site that contains sexual health and educational materials.
+On one page of this Web site is a textual description of how to use a condom with accompanying graphic drawings.
+See Safer Sex Institute, safersex I a journal of safer sex, http://safersex.org/condoms/ how.to.use/ (last visited Feb. 6, 2003).
+The page lists six steps for properly using a condom.
+Next to this text are four drawings that detail how to place a condom on the penis and how to remove it after sex.
+Three of these drawings each "exhibit[ ] the genitals."
+47 U.S.C. 231(e)(6)(B) .
+An evaluation of any of these three drawings alone, all of which depict an erect penis "as a whole," might lead to the conclusion that they fit the "harmful to minors" standard.
+Yet, these same drawings, viewed in the larger context of the Web page, which provides instruction on the proper use of a condom, is protected speech as to adults.
+36 We also note that the same Web page provides links to other information within the same Web site of potential importance to adults (and possibly certain minors) regarding safe sex.
+As these examples illustrate-and they are but a few of the very many produced by the plaintiffs and the amici-the burden that COPA would impose on harmless material accompanying such single images causes COPA to be substantially overinclusive.
+2.
+"Minor" As we have earlier explained, the term "minor" appears in all three prongs of the statute's modified-for-minors Miller test.
+COPA's definition of a "minor" as any person under the age of seventeen serves to place at risk too wide a range of speech that is protected for adults.
+The type of material that might be considered harmful to a younger minor is vastly differentand encompasses a much greater universe of speech-than material that is harmful to a minor just shy of seventeen years old.
+Thus, for example, sex education materials may have "serious value" for, and not be "patently offensive" as to, sixteen-year-olds.
+The same material, however, might well be considered "patently offensive" as to, and without "serious value" for, children aged, say, ten to thirteen, and thus meet COPA's standard for material harmful to minors.
+Because COPA's definition of "minor" therefore broadens the reach of "material that is harmful to minors" under the statute to encompass a vast array of speech that is clearly protected for adults-and indeed, may not be obscene as to older minors-the definition renders COPA significantly overinclusive.
+37 3.
+"Commercial Purposes" COPA's purported limitation of liability to persons making communications "for commercial purposes" does not narrow the sweep of COPA sufficiently.
+Instead, the definition subjects too wide a range of Web publishers to potential liability.
+As we have explained, under the plain language of COPA, a Web publisher will be subjected to liability due to the fact that even a small part of his or her Web site has material "harmful to minors."
+Furthermore, because the statute does not require that a Web publisher seek profit as a sole or primary objective, COPA can reach otherwise non-commercial Web sites that obtain revenue through advertising.
+We have explored this subject in greater detail in the strict scrutiny section of this opinion.
+The conclusion we reach there is every bit as relevant here.
+4.
+Affirmative Defenses The affirmative defenses do not save the statute from sweeping too broadly.
+First, the affirmative defenses, if employed by Web publishers, will result in a chilling effect upon adults who seek to view, and have a right to access, constitutionally pro tected speech.
+Compliance with COPA's affirmative defenses requires that Web publishers place obstacles in the way of adults seeking to obtain material that may be considered harmful to minors under the statute.
+As the District Court found, these barriers, which would require adults to identify themselves as a precondition to accessing disfavored speech, are likely to deter many adults from accessing that speech.
+Second, the affirmative defenses impose a burden on Web publishers, and as such, do not alleviate the chilling effect that COPA has on their speech.
+Web publishers will be forced to take into account the chilling effect that COPA's affirmative defenses have on adult Web users.
+Consequently, COPA will cause Web publishers to recoil from engaging in such expression at all, rather than availing themselves of the affirmative defenses.
+Additionally, the financial costs of implementing the barriers necessary for compliance with COPA may further deter some Web publishers from posting protected speech on their Web sites.
+Moreover, because the affirmative defenses are not included as elements of the statute, Web publishers are saddled with the substantial burden of proving that their "conduct falls within the affirmative defense."
+Free Speech Coalition , 122 S.Ct. at 1404 .
+Thus, the affirmative defenses do not cure nor diminish the broad sweep of COPA sufficiently.
+5.
+"Community Standards" As the Supreme Court has now explained, community standards by itself did not suffice to render COPA substantially overbroad.
+Justice Kennedy's concurring opinion, however, explained that community standards, in conjunction with other provisions of the statute, might render the statute substantially overbroad.
+See Ashcroft , 122 S.Ct. at 1720 (Kennedy, J., concurring) ("We cannot know whether variation in community standards renders the Act substantially overbroad without first assessing the extent of the speech covered and the variations in community standards with respect to that speech.").
+As we have just discussed earlier, the expansive definitions of "material harmful to minors" and "for commercial purposes," as well as the burdensome affirmative defenses, likely render the statute substantially overbroad.
+COPA's application of "community standards" exacerbates these constitutional problems in that it further widens the spectrum of protected speech that COPA affects.
+As we said in our original decision, "COPA essentially requires that every Web publisher subject to the statute abide by the most restrictive and conservative state's community standards in order to avoid criminal liability."
+Reno III , 217 F.3d at 166 ; see also Ashcroft , 122 S.Ct. at 1719 (Kennedy, J., concurring) ("if an eavesdropper in a more traditional, rural community chooses to listen in, there is nothing the publisher can do.
+As a practical matter, COPA makes the eavesdropper the arbiter of propriety on the Web.").
+The "community standards" requirement, when viewed in conjunction with the other provisions of the statute-the "material harmful to minors" provision and the "commercial purposes" provisions, as well as the affirmative defenses-adds to the already wide range of speech swept in by COPA.
+Because the community standards inquiry further broadens the scope of speech covered by the statute, the limitations that COPA purports to place on its own reach are that much more ineffective.
+6.
+Unavailability of Narrowing Construction Before concluding that a statute is overbroad, we are required to assess whether it is subject to "a narrowing construction that would make it constitutional."
+Virginia v. American Booksellers Ass'n , 484 U.S. 383, 397 , 108 S.Ct. 636 , 98 L.Ed.2d 782 (1988).
+We may impose such a narrowing construction, however, "only if it is readily susceptible to such a construction," Reno I , 521 U.S. at 884 , 117 S.Ct. 2329 , because courts "will not rewrite a law to conform it to constitutional requirements."
+American Booksellers , 484 U.S. at 397 , 108 S.Ct. 636 .
+As the Supreme Court once noted, "It would certainly be dangerous if the legislature could set a net large enough to catch all possible offenders, and leave it to the courts to step inside and say who could be rightfully detained, and who should be set at large.
+This would, to some extent, substitute the judicial for the legislative department of the government."
+United States v. Reese , 92 U.S. 214, 221 , 23 L.Ed. 563 (1875).
+We originally declined to redraw COPA when we held that the "contemporary community standards" rendered the statute overbroad; we certainly decline to perform even more radical surgery here.
+In order to satisfy the constitutional prerequisites consistent with our holding today, we would be required, inter alia , to redraw the text of "commercial purposes" and redraw the meaning of "minors" and what is "harmful to minors," including the reach of "contemporary community standards."
+We would also be required to redraw a new set of affirmative defenses.
+Any attempt to resuscitate this statute would constitute a "serious invasion of the legislative domain."
+United States v. National Treasury Employees Union , 513 U.S. 454, 479 n. 26, 115 S.Ct. 1003 , 130 L.Ed.2d 964 (1995).
+Accordingly, we hold that the plaintiffs will more probably prove at trial that COPA is substantially overbroad, and therefore, we will affirm the District Court on this independent ground as well.
+III.
+This appeal concerns the issuance of a preliminary injunction pending the resolution of the merits of the case. Because the ACLU will likely succeed on the merits in establishing that COPA is unconstitutional because it fails strict scrutiny and is overbroad, we will affirm the issuance of a preliminary injunction.

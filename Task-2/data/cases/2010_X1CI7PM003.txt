@@ -1,0 +1,165 @@
+ REAVLEY, Circuit Judge: The Archdiocese of Milwaukee Supporting Fund, Inc. filed this putative securities fraud class action as lead plaintiff against Halliburton Company and David Lesar, the Chief Operating Officer and then CEO during the class period, alleging violations of sections 10(b) and 20(a) of the Securities Exchange Act of 1934 and Securities Exchange Commission Rule 10(b)-5 .
+The district court denied the Plaintiff's motion for class certification under FED.R.CIV.P. 23 , and Plaintiff appeals that order.
+Finding no abuse of discretion by the district court, we AFFIRM the denial of class certification.
+I. This is a private securities fraud-on-the-market case. Under the fraud-on-the-market theory, it is assumed that in an efficient, well-developed market all public information about a company is known to the market and is reflected in the stock price.
+When a company has publicly made material misrepresentations about its business, we may presume that a person who buys the company's stock has relied on the false information.
+The stockholder then suffers losses if the falsity becomes known and the stock price declines.
+See Basic Inc. v. Levinson.
+[fn1] It is the response of the market to the correction that proves the effect of the false information and measures the plaintiff stockholder's loss.
+Plaintiff here claims that Halliburton made false statements about three areas of its business: (1) Halliburton's potential liability in asbestos litigation, (2) Halliburton's accounting of revenue in its engineering and construction business, and (3) the benefits to Halliburton of a merger with Dresser Industries.
+It contends that investors lost money when Halliburton issued subsequent disclosures correcting the false statements and the market declined following the negative news.
+In order to obtain class certification on its claims, Plaintiff was required to prove loss causation, i.e., that the corrected truth of the [**2] former falsehoods actually caused the stock price to fall and resulted in the losses.
+[fn2] The district court denied class certification because it found that Plaintiff failed to prove this causal relationship.
+We review the district court's certification decision for an abuse of discretion, but we review de novo the legal standards employed by the district court.
+Fener v. Operating Eng'rs Constr. Indus. & Miscellaneous Pension Fund (Local 66) [fn3] Plaintiff contends that the district court applied an erroneous standard for loss causation and required it to prove more than is required under law.
+Our review of the district court's order and the evidence leads us to conclude, however, that the district court fully understood loss causation under our precedent and correctly applied the legal standard.
+As we explain, the district court's decision was well supported and was not an abuse of discretion.
+II.
+Before discussing the Plaintiff's specific allegations against Halliburton, we first set forth the appropriate framework for a private securities fraud case and consider the district court's application of that framework.
+A securities fraud claim under 10(b) of the Securities Exchange Act and Rule 10b-5 requires a plaintiff to show (1) a material misrepresentation (or omission); (2) scienter; (3) a connection with the purchase or sale of a security; (4) reliance; (5) economic loss; and (6) loss causation.
+Dura Pharms., Inc. v. Broudo.
+[fn4] In the case of a putative class, a plaintiff may create a rebuttable presumption of reliance under the fraud-on-the-market theory by showing "that (1) the defendant made public material misrepresentations, (2) the defendant's shares were traded in an efficient market, and (3) the plaintiff's traded shares between the time the misrepresentations were made and the time the truth was revealed."
+Greenberg v. Crossroads Sys., Inc. [fn5] A defendant may rebut the presumption "by `[a]ny showing that severs the link between the alleged misrepresentation and either the price received (or paid) by the plaintiff, or his decision to trade at fair market price[.]'"
+[fn6] Here, the parties contest only the alleged misrepresentations and do not dispute the efficiency of the market or Plaintiff's trading activity.
+In order to take advantage of the fraud-on-the-market presumption of reliance, Plaintiff must prove that the complained-of misrepresentation or omission "materially affected the market price of the security."
+Alaska Elec. Pension Fund v. Flowserve Corp. [fn7] In other words, Plaintiff must show that an alleged misstatement "actually moved the market."
+[fn8] Thus, "we require plaintiff's to establish loss causation in order to trigger the fraud-on-the-market presumption."
+[fn9] And we require this showing "at the class certification stage by a preponderance of all admissible evidence."
+[fn10] The district court explicitly recognized the need for Plaintiff to establish a causal link between the alleged falsehoods and its losses in order to invoke the fraud-on-the market presumption.
+See Nathenson v. Zonagen, Inc. [fn11] The court also correctly recognized that the causal connection [**3] between an allegedly false statement and the price of a stock may be proved either by an increase in stock price immediately following the release of positive information, or by showing negative movement in the stock price after release of the alleged "truth" of the earlier falsehood.
+[fn12] Plaintiff here relies only on stock price decreases following allegedly corrective disclosures by Halliburton.
+That being the case, the district court correctly noted that Plaintiff has an added burden because it is not enough merely to show that the market declined after a statement reporting negative news.
+[fn13] We must bear in mind that the main concern when addressing the fraud-on-the-market presumption of reliance is whether allegedly false statements actually inflated the company's stock price.
+[fn14] By relying on a decline in price following a corrective disclosure as proof of causation, a plaintiff need prove that its loss resulted directly because of the correction to a prior misleading statement; otherwise there would be no inference raised that the original, allegedly false statement caused an inflation in the price to begin with.
+[fn15] In other words, the decline in price following a corrective disclosure must raise an inference that the price was actually affected by earlier alleged misrepresentations.
+[fn16] We therefore require plaintiffs to show that a loss occurred from the decline in stock price because the truth "`ma[de] its way into the marketplace,'" rather than for some other reason, such as "a result of `changed economic circumstances, changed investor expectations, new industry-specific or firm-specific facts, conditions,' or other factors independent of the fraud."
+[fn17] Similarly, if a company releases multiple items of negative information on the same day, the plaintiff must establish a reasonable likelihood that a subsequent decline in stock price is due to the revelation of the truth of the earlier misstatement rather than to the release of the unrelated negative information.
+[fn18] In this way, the plaintiff must satisfy the court that its loss likely resulted from the specific correction of the fraud and not because of some independent reason.
+A subsequent disclosure that does not correct and reveal the truth of the previously misleading statement is insufficient to establish loss causation.
+[fn19] Causation therefore requires the Plaintiff to demonstrate the joinder between an earlier false or deceptive statement, for which the defendant was responsible, and a subsequent corrective disclosure that reveals the truth of the matter, and that the subsequent loss could not otherwise be explained by some additional factors revealed then to the market.
+[fn20] This requirement that the corrective disclosure reveal something about the deceptive nature of the original false statement is consistent with liability in a securities fraud action, where it is those who affirmatively misrepresent a material fact affecting the stock price that are held responsible for losses.
+[fn21] It is also necessary "that the earlier [**4] positive misrepresentation not be confirmatory."
+[fn22] Confirmatory information is already known to the market and, having been previously digested by the market, will not affect the stock price.
+[fn23] After surveying our precedent, the district court correctly summed up Plaintiff's burden in this case by stating that because Plaintiff presented no evidence that a false, non-confirmatory positive statement caused a positive effect on the stock price, Plaintiff would have to show "(1) that an alleged corrective disclosure causing the decrease in price is related to the false, non-confirmatory positive statement made earlier, and (2) that it is more probable than not that it was this related corrective disclosure, and not any other unrelated negative statement, that caused the stock price decline."
+[fn24] This was the correct standard.
+[fn25] III.
+Plaintiff argues that the district court misapplied our precedent, however, because it incorrectly required Plaintiff to prove actual fraud at the class certification stage.
+Plaintiff asserts that this requirement runs afoul of our recent decision in Flowserve.
+[fn26] We do not agree with the Plaintiff's reading of Flowserve or its characterization of the district court's opinion.
+In Flowserve , certain alleged misstatements by the defendant concerned projected earnings guidance released in October 2001 for the company's fiscal year 2002.
+The subsequent alleged corrective disclosures were downward revisions to the earnings guidance released in July and September 2002.
+The defendant argued that the standard for loss causation required plaintiff's to show a "fact-for-fact" disclosure that fully corrected prior misstatements, which had not occurred in either of the alleged corrective disclosures.
+[fn27] We rejected that approach, but we also insisted that plaintiff's need to show more than that a subsequent disclosure reveals the defendant's true financial condition.
+[fn28] We held that the disclosure "must reflect part of the `relevant truth'-the truth obscured by the fraudulent statements."
+[fn29] The Flowserve court found erroneous the district court's belief that the defendant's revised earnings guidance in July and September 2002 was not relevant to any prior alleged misrepresentations, and we therefore reversed the district court's denial of class certification.
+[fn30] But Flowserve did not eliminate the requirement at class certification that plaintiff's must prove the corrective disclosure shows the misleading or deceptive nature of the prior positive statements.
+[fn31] We have previously explained that the "relevant truth" necessary in an alleged corrective disclosure is such that "the truth disclosed must simply make the existence of the actionable fraud more probable than it would be without that alleged fact (taken as true)."
+Lormand v. U.S. Unwired, Inc. [fn32] When confronted with allegedly false financial predictions and estimates, the district court must decide whether the corrective disclosure more probably than not shows that the original estimates or predictions were designed [**5] to defraud.
+As we held in Flowserve , "[i]f [Plaintiff] cannot prove by a preponderance of the evidence that the market learned more than that [Defendant's] earnings guidance was lower and so its business seemed less valuable, it cannot establish that its loss was caused by [Defendant's] misstatements .
+.
+.
+. "
+[fn33] Thus, the truth revealed by the corrective disclosure must show that the defendant more likely than not misled or deceived the market with earnings misstatements that inflated the stock price and are actionable.
+Otherwise, the misstatements would do little more than "touch upon" the alleged loss rather than cause the loss.
+[fn34] We are satisfied that the district court here understood the need for the corrective disclosures to reveal the actionable truth about prior misstatements.
+[fn35] The district court correctly stated that "[i]mportantly, it is the misrepresentations themselves, not the corrective disclosures, which form the basis of a valid securities fraud claim .
+.
+.
+.
+Unless actionable statements, which were later corrected, are identified, Plaintiff's cannot establish loss causation."
+[fn36] The court went on to conclude that Plaintiff largely failed to identify disclosures that had a corrective effect linked to a specific misrepresentation, as opposed to simply a negative effect, and that many of the alleged corrective disclosures constituted confirmatory information.
+We therefore conclude that the district court did not apply an incorrect legal standard, and we turn to the specific statements and corrective disclosures alleged in Plaintiff's complaint.
+IV.
+Plaintiff contends that it has identified specific misrepresentations by Halliburton and linked those misrepresentations to partial corrective disclosures.
+It asserts that the allegations of its complaint together with the report of its expert, Jane Nettesheim, demonstrated that those disclosures are related to the misrepresentations and proximately caused its losses.
+Upon examining the alleged corrective disclosures and the evidence, we remain unpersuaded.
+Plaintiff relies on three general categories of alleged misstatements by Halliburton made during a class period of June 3, 1999. to December 7, 2001.
+The first category of statements concerns Halliburton's exposure to liability in asbestos litigation and the company's stated reserves for such litigation.
+The allegedly corrective statements were made in press releases and SEC filings on June 28, 2001, August 9, 2001, October 30, 2001, and December 4-7, 2001.
+Halliburton's asbestos liability derived from its 1998 merger with Dresser Industries and from a former subsidiary of Dresser known as Harbison-Walker Refractories Company.
+As of May 2001, Halliburton reported that its reserves were approximately $30 million to cover asbestos-related liability.
+On June 28, 2001, Halliburton reported in a press release that Harbison-Walker had asked Halliburton to provide financial assistance for asbestos claims that Harbison-Walker had previously agreed to assume when it spun off from [**6] Dresser in 1992.
+The release reported that this was a new development, as Harbison-Walker had previously reaffirmed its responsibility for those claims.
+Halliburton reported in the press release that in response it would need to increase its asbestos reserves by $50 million to $60 million, after tax.
+On August 9, 2001, Halliburton filed a Form 10-Q with the SEC reporting that its asbestos reserves were $124 million.
+On October 30, 2001, Halliburton announced in a press release that a Mississippi jury had returned a plaintiff's verdict in an asbestos suit on October 26, 2001, for which Halliburton was responsible for $21.3 million.
+Then on December 4 and 7, 2001, Halliburton reported in a SEC filing and press release additional judgments against Dresser in other asbestos cases.
+Halliburton's stock price declined following each of these statements.
+Plaintiff contends that the filings and press releases related directly to and corrected Halliburton's previous misrepresentations that its asbestos reserves were adequate.
+We find no merit to this contention.
+The June 28, 2001, press release does not correct any specific misrepresentation by revealing a previously obscured truth.
+[fn37] Nowhere in the release is there any mention of prior asbestos reserve estimates, and Plaintiff makes no argument that Halliburton made prior statements about exposure from claims related to Harbison-Walker.
+[fn38] At most, the release relates to prior estimates that asbestos reserve levels were adequate generally, but it does not correct a specific prior alleged misstatement.
+[fn39] Just as merely lowering earnings estimates does not reveal that a defendant previously misrepresented those estimates, merely raising the asbestos reserves does not show that those prior reserve estimates were intentionally misleading — the market must learn more than that Halliburton's business was potentially less valuable because of erroneous estimates of asbestos liability.
+[fn40] We agree with the district court that the situation could be different if Plaintiff had alleged that Halliburton previously stated it was including Harbison-Walker claims in its asbestos reserve estimates but actually did not do so, or if Halliburton had previously stated it had no exposure from Harbison-Walker claims and that it would not cover them, when in fact that was not true.
+Instead, Plaintiff asks us to draw an inference that the June 28, 2001 press release corrected prior allegedly false estimates of asbestos reserves merely because those reserves changed.
+But a company is allowed to be proven wrong in its estimates, and we can discern no indication from the June 28, 2001 press release that Halliburton's prior asbestos reserve estimates were misleading or deceptive.
+[fn41] It follows that the June 28, 2001 press release was not an actionable corrective disclosure.
+The same is true for the August 9, October 30, and December 4-7, 2001 SEC filings and press releases.
+Although Halliburton reported a much larger reserve for the asbestos litigation on August 9, this information [**7] was actually confirmatory because Halliburton had previously reported that it would need to increase its reserves by an additional amount of approximately $60 million, after tax.
+The August 9, 2001 Form 10-Q reported, consistent with Halliburton's prior statements, that the company "recorded as discontinued operations .
+.
+.
+an accrual of $92 million ($60 million, after tax)."
+The announcements of various jury verdicts were also not actionable corrections.
+As noted by the district court, Halliburton actually repeated in a series of public filings the warning about "the uncertainties of litigation and the possibility that a series of adverse court rulings could materially impact the expected resolution of asbestos claims."
+We are not moved by Plaintiff's suggestion that these warnings, which appeared in at least five of Halliburton's 10-K and 10-Q filings, constituted mere boilerplate disclaimers of the risks associated with litigation.
+[fn42] Neither the announcement of the Mississippi verdict nor the verdicts in other states demonstrated that Halliburton's previous estimates of asbestos liability obscured the relevant truth about the asbestos estimates.
+[fn43] While Plaintiff cites news reports about the asbestos verdicts and has shown that Halliburton's stock price reacted to the negative news, a decline in price following negative news does not prove loss causation.
+[fn44] We see in the evidence concerning the asbestos litigation a pattern of Halliburton keeping the market abreast of asbestos developments as they occurred and its necessary adjustments to the litigation reserves.
+We think this undermines any conclusion that the asbestos-related statements corrected prior misrepresentations or that the company acted with deception.
+V. We reach a similar conclusion with respect to the second and third group of alleged public misrepresentations by Halliburton.
+These alleged misrepresentations concern the benefits to Halliburton of its merger with Dresser Industries, and the company's accounting of revenue from cost-overruns on fixed-price construction and engineering contracts (so-called unapproved claims).
+The alleged corrective disclosures occurred on October 4, 1999, January 5, 2000, October 24, 2000, and December 21, 2000.
+Halliburton announced on October 4, 1999, that it was selling its interest in two Dresser joint ventures and that it expected its third quarter earnings to be less than previously expected, due in part to lower than expected profits from joint ventures and other business units of the Dresser group.
+On January 5, 2000, two analysts reduced their earnings estimates for Halliburton after discussions with company executives.
+According to Plaintiff, the October announcement and the analyst reports exposed the inaccuracy of Halliburton's previous positive statements about merging with Dresser, particularly statements in July and September 1999 that Halliburton expected annualized cost savings of $500 million from the merger.
+Even if it were possible to say that [**8] the prior statements were more than erroneous expectations, both the October 4, 1999 announcement and the analyst reports contained multiple pieces of negative news.
+This required Plaintiff to "demonstrate that there is a reasonable likelihood that the cause of the decline in price is due to the revelation of the truth and not the release of the unrelated negative information."
+[fn45] This showing of loss causation is a "rigorous process" and requires both expert testimony and analytical research or an event study that demonstrates a linkage between the culpable disclosure and the stock-price movement.
+[fn46] Plaintiff's expert failed to do this.
+The October 4, 1999 announcement reported that the Dresser Equipment Group was experiencing lower than expected profits; that there had been a decline in the downstream engineering and construction business segment; and that the earnings of the energy services group would be flat or only slightly higher because of low spending levels by energy industry customers.
+As a result of these items, the release then reported lower guidance on Halliburton's third quarter earnings per share.
+Nettesheim indicated in her expert report that the decline in Halliburton's stock price following the October 4, 1999 release was due to the reduction in the earnings guidance and recognized that the lower guidance in turn was based on more than one factor.
+When questioned about the report, however, Nettesheim testified that she did not perform any statistical or econometrical analyses of the three different pieces of information in the release because she was not asked to do so. Nettesheim's report indicated that her conclusions were based on statements from "news commentary and analysts."
+We have characterized such evidence as merely "well-informed speculation.'"
+[fn47] Similarly, the January 2000 analyst reports indicated that the earnings estimate was reduced because of "less powerful synergies from the Dresser merger" and because of reduced expectations for offshore construction and a reduced growth estimate for oilfield spending.
+Although she recognized that the reports included non-culpable information, especially the decline in oilfield spending, Nettesheim presented no empirically-based evidence to show that news related to Dresser more probably affected the stock price than the other negative information.
+[fn48] Plaintiff also argues generally that several alleged corrective disclosures demonstrated the falsity of former CEO Dick Cheney's statement about Dresser that "[t]he merger with Dresser Industries is now behind us" and "[t]he potential rewards to our shareholders are vast."
+We think, however, that this statement, appearing in a letter in Halliburton's 1999 Annual Report, is the kind of "generalized positive statement about a company's progress [that is] not a basis for liability."
+[fn49] Turning to alleged misstatements about Halliburton's accounting methodology, Plaintiff contends that Halliburton improperly recorded cost-overruns in fixed-price construction [**9] contracts as revenue by misleadingly deeming the cost-overruns "probable" of collection, even if a customer had not agreed to pay the additional amount.
+Plaintiff argues that Halliburton revealed the falsity of its previous accounting methods when (1) it announced on October 24, 2000, that it would undertake a massive restructuring of its construction business and (2) it announced on December 21, 2000, that it would take a fourth quarter charge of $120 million as a result of the restructuring.
+Plaintiff fails to show these announcements corrected any prior misleading statements and revealed deceptive practices in Halliburton's accounting assumptions.
+The October 24 press release does not mention fixed price contracts, unapproved claims, or the method for recognition of revenue from such claims.
+Rather than revealing the truth about unapproved claims, the release attributes a large drop in the group's revenue to a decline in customer spending.
+Nettesheim's expert opinion that the October 24 disclosure concerned the company's booking of unapproved claims is also conclusory.
+She admitted in her deposition testimony that she did not match the October 24 statements to any particular prior misrepresentations by Halliburton.
+Nettesheim's report shows that she relied for her conclusions on her examination of news reports and statements from analysts and the subsequent stock price movement.
+But the news reports Nettesheim cited discuss only problems and weak results generally in Halliburton's engineering and construction business.
+Nettesheim makes too great a leap in her conclusion that because analysts reduced earnings estimates based on weakness in Halliburton's construction business as a whole, the downgrades to estimates were due to Halliburton improperly recognizing revenue from unapproved claims.
+We see no such relationship evident in the statements.
+Finally, we find no loss causation evident from the December 21, 2000 announcement, which indicated that the $120 million fourth quarter charge would include $25 million for reorganization costs, leaving approximately $95 million for project specific matters.
+[fn50] As with other alleged corrective disclosures, the December 21 announcement included clearly non-culpable negative information.
+For example, the release informed the market about "the poor near term market outlook for the downstream engineering and construction business," which Halliburton attributed to a "consolidating customer base, difficult relationships with certain customers, and some financially stressed competitors and a fiercely competitive environment."
+The negative information constituted non-culpable changes in market conditions and the competitive environment that Halliburton faced, which Plaintiff's expert failed to differentiate from any allegedly culpable information.
+The market recognized that Halliburton's business faced general economic difficulties and industry-wide pressures.
+One reporting service, CIBC World [**10] Markets, noted the following after the December 21 release: The customer base for [engineering and construction] is consolidating and financially pressured competitors have intensified competition and pricing in the marketplace.
+As a result, HAL is restructuring its company into two operating segments .
+.
+.
+Labor disturbances in Venezuela and West Africa caused significant costs to be incurred on several large fixed-fee E&C contracts .
+.
+.
+.
+General industry-wide issues are also impacting the E&C business.
+Despite high oil and natural gas prices, spending for engineering and construction projects remains depressed.
+The difficult operating environment has forced some of Halliburton's E&C competition to cut prices and increase competitiveness.
+We think the consolidating customer base, increased competition, and other "industry-wide issues," like depressed customer spending, are the kind of economic circumstances and industry-specific facts that are not actionable and must be proven by Plaintiff to have played a much lesser role in the stock price movement than alleged culpable disclosures.
+[fn51] Nettesheim's conclusion that the December 21 disclosure related to cost-overruns in construction projects was based on news commentary.
+But the commentary shows reaction only to "the entire bundle of negative information," including the general downturn in Halliburton's construction business.
+By failing to provide empirical data to account for other negative news in the disclosure that was also part of the problem with Halliburton's engineering and construction business (e.g., increased labor costs, consolidated customer base, fiercely competitive environment), Nettesheim failed to provide the necessary linkage between the change in stock price and the allegedly culpable information (cost-overruns).
+Plaintiff therefore seeks to prove loss causation from the December 21 release by improperly relying only on evidence of a decrease in stock price following the negative disclosure of a fourth quarter charge.
+[fn52] Plaintiff has failed to prove loss causation with respect to the December 21, 2000 disclosure.
+VI.
+After reviewing the alleged misrepresentations and corrective disclosures, we conclude that Plaintiff has failed to meet this court's requirements for proving loss causation at the class certification stage.
+Therefore, the district court's judgment denying the Plaintiff's motion for class certification is AFFIRMED.

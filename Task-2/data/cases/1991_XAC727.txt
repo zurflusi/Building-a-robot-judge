@@ -1,0 +1,605 @@
+ OPINION OF THE COURT STAPLETON , Circuit Judge: Five abortion clinics and one physician (the "clinics") raise a facial constitutional challenge to certain 1988 and 1989 amendments to the Pennsylvania Abortion Control Act of 1982 (the "Act").
+See 18 Pa.Cons.Stat.Ann.
+3201 3220 (1983 & Supp.1991).
+The United States District Court for the Eastern District of Pennsylvania held that 3205 (informed consent), 3206 (parental consent), 3209 (spousal notice), 3214(a) (reporting requirements), and 3207(b) and 3214(f) (public disclosure of clinics' reports) violate the Due Process Clause of the Fourteenth Amendment to the United States Constitution.
+The Commonwealth defendants (the "Commonwealth") appeal.
+Because we find unconstitutional only 3209 , which requires notice to a spouse of a planned abortion, we will affirm in part and reverse in part.
+I. The clinics filed a complaint alleging that certain 1988 amendments to the Pennsylvania Abortion Control Act of 1982 were facially unconstitutional.
+The district court issued a preliminary injunction.
+Thereafter, the court stayed all proceedings pending the Supreme Court's decision in Webster v. Reproductive Health Services in the summer of 1989.
+After the Webster decision, the Pennsylvania legislature passed further amendments to the Act.
+The clinics filed an amended complaint to include the 1989 amendments within the scope of their challenge, and the district court extended the preliminary injunction to include the 1989 amendments.
+The district court then conducted a three-day trial and issued an opinion holding several sections of the Act unconstitutional.
+744 F.Supp.
+1323 .
+The Commonwealth filed this timely appeal.
+The clinics have not cross-appealed on the provisions upheld by the district court.
+The district court had subject matter jurisdiction pursuant to 28 U.S.C. 1331 , 1343 .
+We have appellate jurisdiction pursuant to 28 U.S.C. 1291 .
+II.
+In Webster v. Reproductive Health Services , 492 U.S. 490 , 109 S.Ct. 3040 , 106 L.Ed.2d 410 (1989), the Supreme Court declined to reconsider Roe v. Wade , 410 U.S. 113 , 93 S.Ct. 705 , 35 L.Ed.2d 147 (1973), because the Missouri abortion regulations at issue in Webster did not conflict with Roe , which held that a statute which "criminalized the performance of all abortions, except when the mother's life was at stake unconstitutionally infringed the right to an abortion."
+Webster , 492 U.S. at 521 , 109 S.Ct. at 3058 (opinion of Rehnquist, C.J.).
+Like Webster , this appeal does not directly implicate Roe ; this case involves the regulation of abortions rather than their outright prohibition.
+The threshold question is whether the standard of review of abortion regulations promulgated by the Court in Roe and in later cases such as Akron v. Akron Center for Reproductive Health, Inc. , 462 U.S. 416 , 103 S.Ct. 2481 , 76 L.Ed.2d 687 (1983), and Thornburgh v. American College of Obstetricians and Gynecologists , 476 U.S. 747 , 106 S.Ct. 2169 , 90 L.Ed.2d 779 (1986), has survived Webster and the Court's subsequent decision in Hodgson v. Minnesota , U.S. , 110 S.Ct. 2926 , 111 L.Ed.2d 344 (1990).
+As Justice O'Connor cogently observed in an equal protection case alleging racial discrimination, a "dispute regarding the appropriate standard of review may strike some as a lawyers' quibble over words, but it is not.
+The standard of review establishes when the Court and Constitution allow the Government to employ racial classifications.
+A lower standard signals that the Government may resort to racial distinctions more readily."
+Metro Broadcasting, Inc. v. FCC , U.S. , 110 S.Ct. 2997, 3033 , 111 L.Ed.2d 445 (1990) (O'Connor, J., dissenting).
+Similarly, the standard of review used for abortion legislation establishes the degree to which the government may regulate abortion.
+Because of its importance to the resolution of the issues before us, we discuss at some length our reasons for selecting the standard we will subsequently use in analyzing the challenged provisions of the Pennsylvania Act.
+We will first examine the different standards of review that have been suggested by various Justices as appropriate for reviewing abortion regulations.
+Then we will consider the rules of stare decisis that must be employed in determining which of these standards we must apply in this case. A. The choice of a standard of review in a substantive due process case turns on whether a "fundamental right" is implicated.
+The Justices of the Supreme Court were divided in Roe v. Wade and have continued to be divided over whether the right to an abortion is a fundamental right under the Due Process Clause.
+1 Accordingly, they have disagreed over the proper standard to apply in reviewing abortion regulations.
+The majority in Roe concluded that abortion was a fundamental right and, therefore, applied strict scrutiny review, the standard of review generally applied in fundamental rights cases.
+See Roe , 410 U.S. at 155 , 93 S.Ct. at 728 .
+The dissenters in Roe contended that abortion was not a fundamental right and thus judicial review of abortion regulations under the Due Process Clause should be no different from review of any social or economic legislation implicating a liberty interest.
+Therefore, they urged that the Court apply the deferential rational basis test traditionally used to review social and economic legislation.
+See id. at 173 , 93 S.Ct. at 737 (Rehnquist, J., dissenting).
+2 Justice O'Connor has referred to the right to abortion as a "limited" fundamental right and adopted a middle ground between these two positions.
+She uses the strict scrutiny standard if the regulation at issue causes an "undue burden" on a woman's abortion decision and the rational basis standard if it does not.
+See Akron , 462 U.S. at 453, 465 n. 10, 103 S.Ct. at 2504, 2511 n. 10 (O'Connor, J., dissenting).
+1.
+In Roe , the Court held that the fundamental right of privacy protected by the Due Process Clause of the Fourteenth Amendment was "broad enough to encompass a woman's decision whether or not to terminate her pregnancy."
+Roe , 410 U.S. at 153 , 93 S.Ct. at 727 .
+Thus, the Court stated that a regulation limiting that fundamental right must meet the strict scrutiny test; it must be justified by a "compelling state interest" and "must be narrowly drawn" to serve that interest.
+Id. at 155 , 93 S.Ct. at 728 .
+The Court held that the state's interests in maternal health and in the potential life of the fetus become compelling at different points in a woman's pregnancy.
+The state's interest in maternal health is compelling during the second and third trimesters; the state's interest in potential life is compelling when the fetus is viable, that is, during the third trimester.
+Id. at 162-64 , 93 S.Ct. at 731-32 .
+In dissent in Hodgson , the most recent abortion case, Justice Marshall, joined by Justices Brennan and Blackmun, summarized the approach of cases such as Roe , Doe v. Bolton , 410 U.S. 179 , 93 S.Ct. 739 , 35 L.Ed.2d 201 (1973), Akron , and Thornburgh : "we have subjected state laws limiting [the abortion] right to the most exacting scrutiny, requiring a State to show that such a law is narrowly drawn to serve a compelling interest.
+Only such strict judicial scrutiny is sufficiently protective of a woman's right to make the intensely personal decision whether to terminate her pregnancy."
+Hodgson , 110 S.Ct. at 2952 (Marshall, J., dissenting) (citations omitted).
+2.
+A statute is struck down under rational basis review only if it is not rationally related to a legitimate state interest.
+The test is a deferential one, and state legislation is rarely invalidated as not rationally related to a legitimate state interest.
+See Williamson v. Lee Optical , 348 U.S. 483, 487 , 75 S.Ct. 461, 464 , 99 L.Ed. 563 (1955); Ferguson v. Skrupa , 372 U.S. 726, 730 , 83 S.Ct. 1028, 1031 , 10 L.Ed.2d 93 (1963).
+In Roe , Justice White and then-Justice Rehnquist dissented and, applying rational basis review, would have upheld Texas' criminal prohibition of abortion.
+In dissent in Thornburgh , Justice White, joined by Justice Rehnquist, stated his reasoning: Thornburgh , 476 U.S. at 789-90 , 106 S.Ct. at 2193-94 (White, J., dissenting) (citations omitted).
+In Webster , the plurality of Chief Justice Rehnquist, Justice White, and Justice Kennedy asked whether the challenged regulation "permissibly furthers the State's interest in protecting potential human life," Webster , 492 U.S. at 519-20 , 109 S.Ct. at 3057-58 , a standard that, at least for present purposes, we equate with rational basis review.
+See also Hodgson , 110 S.Ct. at 2969 (Kennedy, J., concurring and dissenting) (two-parent notification requirement represents "permissible, reasoned" attempt to further parents' rights).
+3.
+Justice O'Connor has taken middle ground between these two positions.
+She has consistently stated that she would subject an abortion regulation to strict scrutiny review only if the regulation "unduly burdens" a woman's freedom to decide whether to terminate her pregnancy; otherwise, she would employ rational basis review.
+See Akron , 462 U.S. at 453 , 103 S.Ct. at 2504 (O'Connor, J., dissenting) (citation omitted) ("If the particular regulation does not 'unduly burden' the fundamental right, then our evaluation of that regulation is limited to our determination that the regulation rationally relates to a legitimate state purpose.
+"); Thornburgh , 476 U.S. at 828 , 106 S.Ct. at 2214 (O'Connor, J., dissenting) (repeating undue burden standard and citing dissent from Akron ); Webster , 492 U.S. at 530 , 109 S.Ct. at 3063 (O'Connor, J., concurring) (same); Hodgson , 110 S.Ct. at 2949-50 (O'Connor, J., concurring) (same).
+Justice O'Connor has adopted the undue burden standard because of the "limited nature of the fundamental right that has been recognized in the abortion cases."
+Akron , 462 U.S. at 465 n. 10, 103 S.Ct. at 2511 n. 10 (O'Connor, J., dissenting).
+In support of her position, she has referenced both previous abortion cases and other fundamental rights cases.
+3 With respect to the concept of "undue burden," Justice O'Connor explained in Akron that an undue burden occurs when a regulation imposes an "absolute obstacle[ ] or severe limitation[ ] on the abortion decision," not merely when a regulation "may 'inhibit' abortions to some degree."
+Akron , 462 U.S. at 464 , 103 S.Ct. at 2510 (O'Connor, J., dissenting).
+She repeated this definition in other cases.
+In Thornburgh , she stated that "an undue burden will generally be found in situations involving absolute obstacles or severe limitations on the abortion decision."
+Thornburgh , 476 U.S. at 828 , 106 S.Ct. at 2214 (O'Connor, J., dissenting).
+And in Hodgson , she observed that "the 'primary constitutional deficiency lies in [the notification statute's] imposition of an absolute limitation on the minor's right to obtain an abortion.'"
+Hodgson , 110 S.Ct. at 2950-51 (O'Connor, J., concurring) (emphasis added) (quoting Planned Parenthood v. Danforth , 428 U.S. 52, 90 , 96 S.Ct. 2831, 2850 , 49 L.Ed.2d 788 (1976)).
+Also in Hodgson , Justice O'Connor approved the judicial bypass procedure for the two-parent notification requirement on the grounds that it "would not impose parental approval as an absolute condition upon the minor's right."
+Id .
+110 S.Ct. at 2951 (quoting Danforth , 428 U.S. at 91 , 96 S.Ct. at 2851 ) (emphasis added).
+4 B. Having identified the three approaches that the Justices have suggested for reviewing abortion regulations, we must now decide which standard is presently the law of the land.
+As we have noted, the Court applied strict scrutiny review in Roe , Doe , Akron and Thornburgh .
+We thus must review Webster and Hodgson to determine if the standard of review used in those cases displaced strict scrutiny as the standard binding on lower courts.
+In making that determination, we will apply several principles of law that constrain lower courts in their decisionmaking.
+1.
+Decisions of the Supreme Court regarding federal law and the Constitution are binding on the lower courts.
+There is no room in our system for departure from this principle, for if it were otherwise, the law of the land would quickly lose its coherence.
+See Hutto v. Davis , 454 U.S. 370, 375 , 102 S.Ct. 703, 706 , 70 L.Ed.2d 556 (1982).
+The Supreme Court with its limited docket would become irrelevant in all but the handful of cases that reached it.
+To say that such decisions are binding, however, does not suffice in the current context.
+We must determine what components of a Supreme Court decision constitute precedent binding on lower courts.
+In constitutional cases, the Court's opinions usually include two major aspects.
+First, the Court provides the legal standard or test that is applicable to laws implicating a particular constitutional provision.
+This is part of the reasoning of the decision, the ratio decidendi .
+5 Second, the Court applies that standard or test to the particular facts of the case that the Court is confronting--in other words, it reaches a specific result using the standard or test.
+See, e.g. , Barnes v. Glen Theatre, Inc. , U.S. , 111 S.Ct. 2456 , 115 L.Ed.2d 504 (1991) (applying four-part O'Brien test and holding ban on nude dancing constitutional); Employment Division, Dept.
+of Human Resources v. Smith , 494 U.S. 872 , 110 S.Ct. 1595 , 108 L.Ed.2d 876 (1990) (applying new Free Exercise Clause standard to uphold state ban on peyote use).
+As a lower court, we are bound by both the Supreme Court's choice of legal standard or test and by the result it reaches under that standard or test.
+As Justice Kennedy has stated, courts are bound to adhere not only to results of cases, but also "to their explications of the governing rules of law."
+County of Allegheny v. ACLU, Greater Pittsburgh Chapter , 492 U.S. 573, 668 , 109 S.Ct. 3086, 3141 , 106 L.Ed.2d 472 (1989) (Kennedy, J., dissenting); see also Marks v. United States , 430 U.S. 188, 194 , 97 S.Ct. 990, 994 , 51 L.Ed.2d 260 (1977) (previous case provided "governing standards").
+Our system of precedent or stare decisis is thus based on adherence to both the reasoning and result of a case, and not simply to the result alone.
+This distinguishes the American system of precedent, sometimes called "rule stare decisis," from the English system, which historically has been limited to following the results or disposition based on the facts of a case and thus referred to as "result stare decisis."
+See Note, The Precedential Value of Supreme Court Plurality Decisions , 80 Colum.L.Rev.
+756 , 757 n. 7 (1980) ("The American system of precedent places substantially greater reliance on the reasoning component of judicial decisions than, for example, the British system, where the House of Lords issues individual opinions with the understanding that only the specific result will have precedential force.
+"); see generally R. Aldisert, The Judicial Process 618-35, 777-801 (1976).
+6 2.
+Like lower courts, the Supreme Court applies principles of stare decisis and recognizes an obligation to respect both the standard announced and the result reached in its prior cases.
+Unlike lower courts, the Supreme Court is free to change the standard or result from one of its earlier cases when it finds it to be "unsound in principle [or] unworkable in practice."
+Garcia v. San Antonio Metropolitan Transit Authority , 469 U.S. 528, 546 , 105 S.Ct. 1005, 1015 , 83 L.Ed.2d 1016 (1985).
+Accordingly, when a majority of the Justices announce in the course of deciding a case that they are substituting a new standard or result for that used in a prior case, the substitution is effected, and the lower courts are thereafter bound to follow the new standard or result.
+See, e.g. , Employment Division, Dept.
+of Human Resources v. Smith , 494 U.S. 872 , 110 S.Ct. 1595 , 108 L.Ed.2d 876 (1990); Vandiver v. Hardin County Board of Education , 925 F.2d 927 (6th Cir.1991) (applying new Smith test).
+Occasionally, the Supreme Court's decision in a case reveals that a standard established in an earlier case no longer commands the allegiance of a majority of the Justices, but also reveals that no single substitute is endorsed by that majority of the Justices.
+Thereafter, the lower courts must determine whether to apply the old standard or, if not, what standard to apply.
+Fortunately, the Supreme Court has instructed the lower courts on how to resolve these issues.
+Marks v. United States , 430 U.S. 188 , 97 S.Ct. 990 , 51 L.Ed.2d 260 (1977), was a criminal prosecution under a statute barring the interstate transportation of obscene materials.
+The Court had previously established that the statute was to be interpreted in accordance with the definition of obscenity fashioned by the Supreme Court under the Free Speech Clause of the First Amendment .
+In response to a contention based on the Ex Post Facto Clause, the Supreme Court in Marks had to determine what the law of the land regarding obscenity had been at the time of the defendant's alleged offense.
+It therefore reviewed its more recent obscenity jurisprudence.
+In Roth v. United States , 354 U.S. 476, 489 , 77 S.Ct. 1304, 1311 , 1 L.Ed.2d 1498 (1957), the Court had declared the test to be "whether to the average person, applying contemporary community standards, the dominant theme of the material taken as a whole appeals to the prurient interest."
+Some years later in Memoirs v. Massachusetts , 383 U.S. 413 , 86 S.Ct. 975 , 16 L.Ed.2d 1 (1966), a plurality opinion joined only by three Justices announced that a work is not obscene unless "three elements coalesce:" 383 U.S. at 418 , 86 S.Ct. at 977 .
+The plurality opinion in Memoirs decided that Fanny Hill was not obscene when judged by this standard and, accordingly, that the defendants' conviction had to be overturned.
+Three additional Justices concurred in this result but did so utilizing different rules of law: two stated that the First Amendment shields all speech including obscenity; one stated that the First Amendment protects all but "hard core pornography."
+Three Justices dissented.
+The Marks Court was required to determine whether the legal standard announced in Roth had remained the law of the land after Memoirs or whether it had been superseded by a new standard in Memoirs .
+Despite the fact that no new legal standard had commanded the allegiance of a majority of the Justices in Memoirs , the Marks Court held that Roth 's standard did not survive Memoirs because a majority of Justices in Memoirs rejected the Roth standard.
+Marks thus stands for a very important proposition: a legal standard endorsed by the Court ceases to be the law of the land when a majority of the Court in a subsequent case declines to apply it, even if that majority is composed of Justices who disagree on what the proper standard should be.
+Having decided that the Roth standard had ceased to control, the Marks Court also determined what standard had taken its place.
+The Court concluded that the Memoirs plurality opinion had become the law of the land.
+The court explained that "[w]hen a fragmented court decides a case and no single rationale explaining the result enjoys the assent of five Justices, 'the holding of the Court may be viewed as that position taken by those Members who concurred in the judgments on the narrowest grounds.'"
+Marks , 430 U.S. at 193 , 97 S.Ct. at 993 (quoting Gregg v. Georgia , 428 U.S. 153, 169 n. 15, 96 S.Ct. 2909, 2923 n. 15, 49 L.Ed.2d 859 (1976) (opinion of Stewart, Powell, and Stevens, JJ.)).
+The Justices in the plurality in Memoirs were those who concurred on the narrowest grounds.
+Thus, Marks stands for a second important proposition: the controlling opinion in a splintered decision is that of the Justice or Justices who concur on the "narrowest grounds."
+The principal objective of this Marks rule is to promote predictability in the law by ensuring lower court adherence to Supreme Court precedent.
+This objective requires that, whenever possible, there be a single legal standard for the lower courts to apply in similar cases and that this standard, when properly applied, produce results with which a majority of the Justices in the case articulating the standard would agree.
+In a run-of-the-mill case where a majority of the Justices endorse a single legal standard, see, e.g. , Lemon v. Kurtzman , 403 U.S. 602 , 91 S.Ct. 2105 , 29 L.Ed.2d 745 (1971), lower courts simply follow that standard.
+In splintered decisions such as Memoirs where no single rationale "enjoys the assent of five Justices," the situation becomes more complex, but the controlling principle is the same.
+Where a Justice or Justices concurring in the judgment in such a case articulates a legal standard which, when applied, will necessarily produce results with which a majority of the Court from that case would agree, that standard is the law of the land.
+In a constitutional case where (1) there is a 5-4 decision or where there are only two opinions in the majority and (2) the majority votes to uphold a law as constitutional, the "narrowest grounds" principle will identify as authoritative the standard articulated by a Justice or Justices that would uphold the fewest laws as constitutional.
+Conversely, in a constitutional case where (1) there is a 5-4 split or there are only two opinions in the majority and (2) the majority strikes down a law as unconstitutional, the authoritative standard will be that which would invalidate the fewest laws as unconstitutional.
+7 In splintered Supreme Court decisions where there has been a common denominator standard that would necessarily produce results with which a majority of the Justices from the controlling case would agree, the Supreme Court and the lower courts have consistently identified as binding precedent the opinion setting forth that standard.
+See Gregg v. Georgia , 428 U.S. 153, 169 n. 15, 96 S.Ct. 2909, 2923 n. 15, 49 L.Ed.2d 859 (1976) (identifying three-Justice plurality opinion from Furman v. Georgia , 408 U.S. 238 , 92 S.Ct. 2726 , 33 L.Ed.2d 346 (1972), as binding); S.J.
+Groves & Sons Co. v. Fulton County , 920 F.2d 752 (11th Cir.1991) (following Chief Justice Burger's opinion from Fullilove v. Klutznick , 448 U.S. 448 , 100 S.Ct. 2758 , 65 L.Ed.2d 902 (1980)); Lundblad v. Celeste , 874 F.2d 1097 (6th Cir.1989) (following Justice Stewart's opinion in Elrod v. Burns , 427 U.S. 347 , 96 S.Ct. 2673 , 49 L.Ed.2d 547 (1976)); Stegmaier v. Trammell , 597 F.2d 1027 (5th Cir.1979) (same); Islamic Center of Mississippi, Inc. v. City of Starksville , 876 F.2d 465 (5th Cir.1989) (following Justice O'Connor's opinion in Pennsylvania v. Delaware Valley Citizens Council for Clean Air , 483 U.S. 711 , 107 S.Ct. 3078 , 97 L.Ed.2d 585 (1987) ( "Delaware Valley II" ); Student Public Interest Research Group of New Jersey, Inc. v. AT & T Bell Laboratories , 842 F.2d 1436 (3d Cir.1988) (same).
+8 The binding opinion from a splintered decision is as authoritative for lower courts as a nine-Justice opinion.
+While the opinion's symbolic and perceived authority, as well as its duration, may be less, that makes no difference for a lower court.
+This is true even if only one Justice issues the binding opinion.
+In Blum v. Witco Chemical Corp. , 888 F.2d 975, 981 (3d Cir.1989), for example, we concluded, as has every other court of appeals to address the issue, that Justice O'Connor's concurring opinion in Delaware Valley II governed subsequent counsel fee cases even though no other Justice joined that opinion.
+We acknowledged that, "[a]lthough there is some awkwardness in attributing precedential value to an opinion of one Supreme Court justice to which no other justice adhered, it is the usual practice when that is the determinative opinion."
+Blum , 888 F.2d at 981 .
+In sum, the effect of following the wrong opinion from a splintered decision is the same as affirmatively declaring that a Supreme Court majority opinion is not binding.
+By following the opinion that comports with the Marks principle, we respect the decision of a majority of the Court and thus fulfill our obligation to comply with decisions of the Supreme Court.
+3.
+With this background, we turn to the Supreme Court's abortion jurisprudence to determine whether the strict scrutiny legal standard endorsed by the Court in Roe , Akron , and Thornburgh remains the applicable standard after Webster and Hodgson .
+The primary issue in Webster was the constitutionality of Missouri's viability testing provision.
+The five Justices in the majority issued three opinions in upholding that viability testing provision.
+Chief Justice Rehnquist's opinion, joined by Justices White and Kennedy, upheld the provision under the "permissibly furthers" standard, the equivalent of rational basis review.
+Justice Scalia concurred, similarly rejecting strict scrutiny review of abortion regulations and arguing that Roe should be explicitly overruled.
+The four Justices in dissent would have applied the traditional strict scrutiny test.
+9 In her concurring opinion, Justice O'Connor used the undue burden standard that she had articulated in past dissents.
+She concluded that Missouri's viability testing requirement was constitutional because it did not impose an undue burden on a woman's abortion decision and was rationally related to a legitimate state interest.
+She stated: On this ground alone 188.029 Webster , 492 U.S. at 530 , 109 S.Ct. at 3063 (O'Connor, J., concurring) (emphasis added).
+10 Hodgson was decided in a similar manner.
+There the Court addressed the constitutionality of a two-parent notification requirement without a judicial bypass option and a two-parent notification requirement with a judicial bypass option.
+Five Justices--Justices O'Connor, Brennan, Marshall, Blackmun, and Stevens--held that a two-parent notification statute without a judicial bypass procedure was unconstitutional.
+Justice O'Connor found that the regulation caused an undue burden and failed to survive strict scrutiny review.
+She articulated the standard as follows: Akron v. Akron Center for Reproductive Health 462 U.S. 416, 453 103 S.Ct. 2481, 2511 76 L.Ed.2d 687 Webster v. Reproductive Health Services 492 U.S. 490, 522-23 109 S.Ct. 3040, 3059 106 L.Ed.2d 410 Hodgson , 110 S.Ct. at 2949-50 (O'Connor, J., concurring).
+Three of the other four Justices in the majority applied strict scrutiny review without determining as a threshold matter whether the regulation caused an undue burden.
+Justice Stevens agreed that the statute was unconstitutional, noting that "[u]nder any analysis, the Minnesota statute cannot be sustained if the obstacles it imposes are not reasonably related to legitimate state interests."
+Id. at 2937 (opinion of Stevens, J.).
+He concluded both that the state had no legitimate interest in assuring that a particular individual parent participate in the child's abortion decision and that requiring the minor to notify both parents did not further the state's interest in seeing that a minor's abortion decision be informed.
+Id. at 2937, 2945 .
+The four dissenters would have applied rational basis review and upheld the provision.
+Also in Hodgson , five Justices--Justice O'Connor, Chief Justice Rehnquist, and Justices White, Scalia, and Kennedy--held that a two-parent notification requirement with a judicial bypass option was constitutional.
+Justice O'Connor concluded that it did not cause an undue burden and passed rational basis review: unduly burdening Danforth absolute limitation Hodgson , 110 S.Ct. at 2950-51 (O'Connor, J., concurring) (emphasis added) (citations omitted).
+The other four Justices in the majority on this issue in Hodgson found that the statute passed rational basis review without first deciding if it caused an undue burden.
+The dissenters would have used strict scrutiny and struck down the provision.
+Justice O'Connor thus concurred in Webster and on one issue in Hodgson by holding that an abortion regulation that imposes no undue burden on a woman's decision to have an abortion does not violate the Due Process Clause so long as it is rationally related to a legitimate state interest.
+While the views of the other Justices concurring in the judgment on those issues differed from those of Justice O'Connor, all of them would uphold as constitutional any regulation meeting that standard.
+Moreover, Justice O'Connor concurred in the Court's judgment on the other issue in Hodgson on the ground that an abortion regulation that imposes an undue burden on the decision to abort violates the Due Process Clause if does not meet the strict scrutiny standard.
+Here also, the other Justices concurring in the judgment on this issue did not join her opinion, but they would strike down as unconstitutional any regulations struck down under the undue burden standard.
+In these circumstances, we conclude that it would be inconsistent with the teachings of Marks for lower courts to apply the strict scrutiny test of Roe , Akron , and Thornburgh to all abortion regulations.
+We also conclude that only by applying the undue burden standard of review, that is, only by applying strict scrutiny review to regulations that impose an undue burden and rational basis review to those which do not, can we remain faithful to Marks .
+Only by following the rationale of Justice O'Connor's concurring opinions will the lower courts decide abortion regulation cases in a way consistent with the way the Court decided them in Webster and Hodgson .
+4.
+Having concluded that the undue burden standard is binding on us, one issue of stare decisis remains: Are we required to follow results reached by the Supreme Court in cases prior to Webster and Hodgson even though we are not bound by the rationale which produced those results?
+In the instant case, this issue is relevant because the Supreme Court, engaging in strict scrutiny review in Akron and Thornburgh , struck down informed consent provisions almost identical to the provisions at issue here.
+If we were constrained to follow the results reached in Akron and Thornburgh , we would hold unconstitutional the informed consent provisions of the Pennsylvania Act.
+We are convinced, however, that such a course would be improper.
+It would be anomalous if the results reached under a constitutional standard remained binding after the standard or test was repudiated.
+To take a variation 11 of a familiar constitutional story, suppose that the Court in Brown v. Board of Education , 347 U.S. 483 , 74 S.Ct. 686 , 98 L.Ed. 873 (1954), had required that states no longer run segregated school systems by repudiating the Plessy separate but equal doctrine and stating that the Equal Protection Clause forbids invidious racial classifications by government.
+Although Brown of course involved schools, a lower court in the aftermath would apply that principle to all racial classifications by government, regardless of whether before Brown the Supreme Court had upheld racial classifications in the particular context at issue.
+Thus, if pre Brown , the Court had stated that state-segregated public pools did not violate the Equal Protection Clause, a lower court faced with a challenge to state-segregated pools after the Brown decision would apply the new principle to pools rather than upholding the segregated pools on the basis of the result reached by the Supreme Court under the discarded standard.
+In order to change course in a particular area, it simply is unnecessary for the Supreme Court to go case-by-case through fact patterns that the Court had previously addressed under a repudiated standard.
+If the standard is replaced, decisions reached under the old standard are not binding.
+12 We thus conclude that a change in the legal test or standard governing a particular area is a change binding on lower courts that makes results reached under a repudiated legal standard no longer binding.
+13 In sum, Justice O'Connor's undue burden standard is the law of the land, and we will apply that standard to all provisions of the Pennsylvania Act at issue in this appeal.
+III.
+An abortion regulation can infringe upon the abortion right in at least seven ways: (1) causing a delay before the abortion is performed; (2) raising the monetary cost of an abortion; (3) reducing the availability of an abortion by directly or indirectly causing a decrease in the number of legal abortion providers; (4) causing or forcing the woman to receive information she has not sought; (5) causing the woman to find the person or persons whom the state has required that she notify or obtain consent from; (6) causing the woman to endure any negative or hostile response from a person whom the state has required the woman to notify or obtain consent from; and (7) taking away the power to decide whether to have an abortion by giving another person, usually a parent or spouse, a veto power on the abortion decision.
+Almost all abortion regulations implicate the first three of these; informed consent requirements also involve the fourth; and notice and consent statutes also implicate the fifth, sixth, and seventh.
+A review of the abortion case law, and Webster and Hodgson in particular, suggest that no undue burden is caused by abortion regulations that do not have a "severe" or "drastic" impact upon time, cost, or the number of legal providers of abortions.
+Webster , 492 U.S. at 529-30 , 109 S.Ct. at 3062-63 (O'Connor, J., concurring); Thornburgh , 476 U.S. at 827-33 , 106 S.Ct. at 2213-16 (O'Connor, J., dissenting); Akron , 462 U.S. at 464-67, 472-74 , 103 S.Ct. at 2510-12, 2515-16 (O'Connor, J., dissenting).
+Similarly, the case law indicates that a state's requirement that abortion providers communicate information to a woman, which is typically in the form of an informed consent requirement, will not constitute an undue burden if the information that the abortion provider must give is relevant, accurate, and non-inflammatory.
+Thornburgh , 476 U.S. at 830-32 , 106 S.Ct. at 2215-16 (O'Connor, J., dissenting).
+14 The primary manner in which an abortion regulation can constitute an undue burden, other than by banning some or all previability abortions, is by taking away the woman's unilateral power to decide whether to have a previability abortion.
+Thus, a regulation in which the state gives a veto power to the woman's husband or, for a minor woman, to a parent constitutes an undue burden.
+See Hodgson , 110 S.Ct. at 2949-50 (O'Connor, J., concurring); Akron , 462 U.S. at 464 , 103 S.Ct. at 2510 (O'Connor, J., dissenting); Bellotti II , 443 U.S. at 646-48 , 99 S.Ct. at 3049-51 ; Danforth , 428 U.S. at 67-72 , 96 S.Ct. at 2840-43 .
+However, a parental consent or notice provision combined with an adequate judicial bypass procedure does not constitute an undue burden.
+See Hodgson , 110 S.Ct. at 2950-51 (O'Connor, J., concurring).
+With this overall orientation, we turn now to the individual provisions of the Act.
+We may overrule the district court's factual findings based on the evidence before it only when clearly erroneous.
+We exercise plenary review, however, over the district court's determination of constitutionality and thus over whether the facts found regarding the effect of a particular statutory provision constitute an "undue burden."
+We also exercise plenary review over the question whether a provision passes strict scrutiny or rational basis review.
+A. The Medical Emergency Exception We first address an issue that would affect virtually all of our later analysis if not resolved at the outset.
+Section 3203 of the Act defines the term medical emergency.
+A medical emergency is: 18 Pa. Cons.Stat.Ann.
+3203 (1983 & Supp.1991).
+When a medical emergency exists, the Act permits doctors and women to forego a number of the Act's requirements, including the waiting period, parental consent, and spousal notice requirements.
+The district court declared the definition in 3203 unconstitutionally narrow and struck down all provisions of the Act that contained this medical emergency exception; for certain provisions, this was only an alternative basis for the district court's holding of unconstitutionality.
+The Supreme Court indicated in Roe and subsequent cases that the state's interest in the fetus is not sufficient to prevent a woman: (1) from having a previability abortion; or (2) from having an abortion at any point during the pregnancy, immediately if necessary, to prevent a serious threat to her life or health.
+In Roe , the Court stated that third trimester abortions may be banned except where "necessary to preserve the life or health of the mother."
+410 U.S. at 164 , 93 S.Ct. at 732 (emphasis added); see also Harris v. McRae , 448 U.S. 297, 316 , 100 S.Ct. 2671, 2687 , 65 L.Ed.2d 784 (1980) ("it could be argued that the freedom of a woman to decide whether to terminate her pregnancy for health reasons does in fact lie at the core of the constitutional liberty identified in [ Roe ].").
+From Roe and subsequent cases, it thus appears that any abortion regulation which might delay or prevent an abortion must contain a medical emergency exception.
+The Commonwealth does not dispute that its abortion regulations would be constitutionally deficient if they did not contain an exception for those situations in which compliance would pose a serious risk to the life or health of the woman.
+The clinics acknowledge that the Act's medical emergency exception is intended to protect the life and health of the woman, but they seek to demonstrate that it is deficient by pointing to three conditions encountered by pregnant women with some frequency: preeclampsia, inevitable abortion, and prematurely ruptured membrane.
+In the clinics' view, these conditions are not covered by the medical emergency exception because each "could pose a serious threat to a woman's health without immediately creating a serious risk of substantial and irreversible impairment to a major bodily function."
+Brief for Appellees at 16.
+The clinics insist that this renders the Commonwealth's regulations unconstitutional.
+The Commonwealth does not challenge the assertion that its regulations would be unconstitutional if women having preeclampsia, inevitable abortion, or prematurely ruptured membrane were required to satisfy all of the requirements of the Act before having an abortion.
+Rather, the Commonwealth responds that preeclampsia, inevitable abortion, and prematurely ruptured membrane are "medical emergencies" as defined in the Act because "all of these conditions, if left untreated, could progress to such a point that death or substantial and irreversible impairment of a major bodily function will occur."
+Reply Brief for Appellants at 4 n. 2.
+It is thus apparent that our initial issue for resolution is one of statutory interpretation and is governed by Pennsylvania law.
+There is no helpful Pennsylvania case law construing the medical emergency provision of the Act.
+There are, however, Pennsylvania cases indicating that statutes of the Commonwealth should be construed to sustain their constitutionality.
+See Commonwealth v. Blystone , 519 Pa. 450 , 549 A.2d 81, 87 (1988) ("Any doubts are to be resolved in favor of sustaining the legislation.
+"); Hughes v. Commonwealth Dept.
+of Transportation , 514 Pa. 300 , 523 A.2d 747, 750-51 (1987) ("We must presume that an Act of the legislature is intended to be constitutional and wherever a legislative act can be preserved from unconstitutionality it must be preserved.
+"); see also Webster , 492 U.S. at 514 , 109 S.Ct. at 3054 (statutes should be interpreted to avoid constitutional difficulty); Frisby v. Schultz , 487 U.S. 474, 483 , 108 S.Ct. 2495, 2501 , 101 L.Ed.2d 420 (1988) (same).
+With this case law in mind, we turn to the symptoms and the risks of each of the conditions identified by the clinics.
+Preeclampsia is a combination of symptoms related to an immunological disorder.
+When diagnosed as having preeclampsia, "the patient develops hypertension, she can have destruction of the liver, hemorrhage into the liver, she can have destruction of the kidneys and she may go on to have clampsia, which is a seizure disorder of the brain."
+Trial Testimony of Dr. Bolognese, Witness for the Clinics ("Bolognese Testimony"), App. at 614.
+Both Dr. Bolognese for the clinics and the doctor who testified for the Commonwealth agreed that preeclampsia requires an abortion.
+Trial Testimony of Dr.
+Bowes, Witness for the Commonwealth ("Bowes Testimony"), App. at 889.
+The symptoms of inevitable abortion are bleeding from the uterus and cramps in the lower abdominal area.
+The failure to terminate the pregnancy immediately when this condition exists can lead to extensive blood loss, shock, infection, and, if there is serious hemorrhaging and shock, even death. 744 F.Supp.
+at 1346-47 .
+The Commonwealth's expert at trial agreed with the clinics' expert that the universally recommended treatment of an inevitable abortion is immediate termination of the pregnancy.
+Bowes Testimony, App. at 888.
+The major risk from a prematurely ruptured membrane is that an infection will occur.
+If an infection occurs, a woman can be exposed to spread of the infection, an overwhelming septic infection, hemorrhaging, shock, and even death.
+Bolognese Testimony, App. at 611.
+There is no dispute between the parties that preeclampsia, inevitable abortion and prematurely ruptured membrane can lead to a substantial and irreversible impairment of a major bodily function.
+The record is clear that a failure to obtain an abortion when a woman is diagnosed with preeclampsia can lead to irreversible damage to the liver, kidneys and more; that failure to perform an abortion when a woman is diagnosed with inevitable abortion can eventually lead to death; and that a failure to obtain an abortion when a woman is diagnosed with prematurely ruptured membrane can eventually lead to death.
+The dispute between the parties concerns the meaning of the phrase "serious risk."
+The Commonwealth insists that whenever these conditions exist, there is a "serious risk" of substantial and irreversible impairment of a major bodily function.
+The clinics argue that no such "serious risk" exists until the woman has actually experienced shock or contracted an infection.
+We conclude that the clinics' interpretation is unduly restrictive.
+The word "risk" necessarily implies an event that may or may not happen in the future.
+Neither "risk" nor the addition of the adjective "serious" implies that the probability assessed is the probability of the hypothesized event occurring immediately following the time of assessment.
+Accordingly, we do not believe the risk that prematurely ruptured membrane, if untreated, will lead to substantial and irreversible injury only after progressing through shock or infection necessarily means that there is no "serious risk" at the onset of the condition.
+We assume that the risk of substantial and irreparable impairment of a major bodily function will be quantitatively less at the onset of a prematurely ruptured membrane than after shock has occurred, but this does not mean the risk at onset is not "serious."
+The Pennsylvania legislature did not choose the wording of its medical emergency exception in a vacuum, and we do not believe the words chosen should be interpreted in one.
+In the case of all three conditions pointed to by the clinics, the treatment uniformly prescribed by the medical profession at the time of the legislature's choice was an immediate abortion.
+This was the recommended treatment in all pregnancies in which these conditions arose, including planned and desired pregnancies.
+This medical consensus that the risk occasioned is sufficiently serious to call for an immediate abortion was a part of the context in which the medical emergency provision was fashioned.
+Moreover, we read the medical emergency exception as intended by the Pennsylvania legislature to assure that compliance with its abortion regulations would not in any way pose a significant threat to the life or health of a woman.
+We believe it should be interpreted with that objective in mind.
+While the wording seems to us carefully chosen to prevent negligible risks to life or health or significant risks of only transient health problems from serving as an excuse for noncompliance, we decline to construe "serious" as intended to deny a woman the uniformly recommended treatment for a condition that can lead to death or permanent injury.
+The essence of the definition in 3203 is that it allows a woman and her doctors to forego many of the Act's requirements when there is a medical emergency to the woman's physical health, and that includes where a woman has symptoms of preeclampsia, inevitable abortion, or prematurely ruptured membrane.
+We interpret 3203 to allow women and doctors to forego the Act's requirements when a woman is diagnosed as having one of these conditions.
+If the Commonwealth were to choose, in contradiction to its representations to this court, to prevent doctors and women from foregoing the Act's requirements when a woman has been so diagnosed, that application would almost certainly be unconstitutional under present Supreme Court law.
+Any doubt on our interpretation of 3203 is resolved by the procedural posture of the case.
+This is a facial challenge.
+The Supreme Court has instructed on numerous occasions that a court is not to strike down a law as unconstitutional on the basis of "a worst-case analysis that may never occur."
+Ohio , 110 S.Ct. at 2981 .
+The Supreme Court recently applied this principle in a very similar context in Rust v. Sullivan , U.S. , 111 S.Ct. 1759 , 114 L.Ed.2d 233 (1991).
+There, the regulations at issue did not contain an explicit exception for cases where a woman's pregnancy placed her life in imminent peril, but the Court rejected a facial claim that the regulations would not allow abortion referral in such circumstances.
+The Court stated that on a facial challenge without "any application by the Secretary to a specific fact situation," it would not read the regulations to bar referral in such cases.
+Id .
+111 S.Ct. at 1773 .
+Similarly presented with a facial challenge, we uphold the medical emergency exception defined in 3203 .
+In an alternative challenge, the clinics argue that the medical emergency definition is void for vagueness.
+The district court did not consider this issue; we do so here and reject it.
+The Act provides criminal and civil sanctions against doctors who violate the Act's provisions.
+However, the Act allows doctors and women to forego the Act's requirements when, "on the basis of the physician's good faith clinical judgment," a condition exists that meets the definition of medical emergency in 3203 .
+The Commonwealth argues that the terms of 3203 are not vague.
+They also contend that the subjective standard of "good faith clinical judgment" saves the statute from any problem of vagueness.
+In United States v. Vuitch , 402 U.S. 62, 69-72 , 91 S.Ct. 1294, 1298-99 , 28 L.Ed.2d 601 (1971), the Supreme Court upheld against a vagueness challenge a requirement that an abortion be "necessary for the preservation of the mother's life or health."
+In Doe v. Bolton , the Court upheld against a vagueness challenge a requirement that the physician determine, on the basis of his or her "best clinical judgment," that an abortion is "necessary."
+410 U.S. at 191-92 , 93 S.Ct. at 747-48 .
+In contrast, in Colautti v. Franklin , 439 U.S. 379, 390-97 , 99 S.Ct. 675, 683-87 , 58 L.Ed.2d 596 (1979), the Court struck down on vagueness grounds a requirement that the physician determine if the fetus "is viable" or "may be viable" before performing an abortion.
+The Court stated that it was unclear whether the Act incorporated a subjective or objective standard.
+In addition, the definition of "may be viable" was elusive and did not provide sufficient notice.
+In this case, the statute requires a physician to violate his or her own good faith clinical judgment in order to be criminally liable.
+This is a subjective, not an objective standard, thus making the case more similar to Vuitch and Doe than to Colautti .
+We fail to see how any physician practicing in good faith could fear conviction under the Act.
+Moreover, as we have already concluded, the language of 3203 , apart from the "good faith clinical judgment" language, does not prohibit doctors from foregoing the Act's requirements when what are commonly perceived to be medical emergencies exist.
+The clinics here came up with three medical emergencies that they argued were not covered by the statute.
+We have held that they are.
+Physically threatening emergencies are covered; determining whether, in a physician's good faith clinical judgment, one of those emergencies is present is the type of "judgment[ ] that physicians are obviously called upon to make routinely whenever surgery is considered."
+Doe , 410 U.S. at 192 , 93 S.Ct. at 748 .
+Section 3203 provides the fair warning required by the Due Process Clause; it is not void for vagueness.
+B. The Informed Consent Requirement Section 3205(a) contains the informed consent provisions of the Act.
+Three aspects of that section are at issue in this appeal: two information disclosure requirements and a requirement that the woman wait 24 hours between the time she receives this information and the time the abortion is performed.
+15 We address these provisions in turn.
+1.
+Physician-Disclosed Information Section 3205(a)(1) requires that the referring or performing physician inform a woman contemplating an abortion of: (i) the nature of the abortion procedure and of those risks and alternatives to the procedure or treatment that a reasonable patient would consider material to the decision whether or not to obtain an abortion; (ii) the probable gestational age of the fetus; and (iii) the medical risks associated with carrying a child to term.
+Such a provision can be expected to cause four types of burdens: time delay, higher cost, reduced availability, and forcing the woman to receive information she has not sought.
+We conclude, however, that none of these potential burdens can be characterized as an undue burden.
+The time required to provide medical risk information of this kind is acknowledged to be insignificant.
+While the district court found that higher costs would be occasioned by 3205(a)(1) 's requirement that physicians rather than counselors provide this information, the district court did not quantify the increase, and this record would not support a finding of an increase of sufficient size to constitute an absolute obstacle or severe limitation on the abortion right.
+See Webster , 492 U.S. at 530 , 109 S.Ct. at 3963 (O'Connor, J., concurring); Akron , 462 U.S. at 467, 473 , 103 S.Ct. at 2512, 2516 (O'Connor, J., dissenting).
+Similarly, this requirement will not cause abortion providers to stop providing any or all abortions and, accordingly, will not cause a drastic or severe reduction in the availability of abortion.
+Finally, the information provided is accurate and necessary for a woman to make an assessment for her abortion decision.
+Indeed, the record shows that the clinics, without exception, insist on providing this information to women before an abortion is performed.
+Thus, the "burden" of forcing a woman to listen to it is not an absolute obstacle or severe limitation.
+In sum, we agree with Justice O'Connor's characterization of nearly identical requirements in Akron : such requirements "impose no undue burden or drastic limitation on the abortion decision."
+Akron , 462 U.S. at 472 , 103 S.Ct. at 2515 (O'Connor, J., dissenting).
+We also have no difficulty concluding that 3205(a)(1) is rationally related to a legitimate state interest.
+In Akron , all nine Justices agreed that the state may require a woman contemplating an abortion to receive information about the nature and risks of the abortion procedure.
+This type of information "clearly is related to maternal health and to the State's legitimate purpose in requiring informed consent."
+Akron , 462 U.S. at 446 , 103 S.Ct. at 2501 .
+The Court in Akron also found that the state has a legitimate interest in requiring that an abortion provider inform the woman of the probable gestational age of the fetus.
+Finally, there is nothing irrational about a requirement that the provider inform the woman of the medical risks of carrying the pregnancy to term since this is obviously the only medical alternative to abortion.
+See Thornburgh , 476 U.S. at 830 , 106 S.Ct. at 2215 (O'Connor, J., dissenting) (such a requirement provides "the kind of balanced information I would have thought all could agree is relevant to a woman's informed consent").
+16 Turning from the content of the required advice to the manner of its presentation, we think it patent that a state may rationally decide that physicians are better qualified than counselors to impart this information and answer questions about the medical aspects of the available alternatives.
+While the record contains evidence that counselors at the clinics are often capable of informing women about the abortion procedure, that is not the issue; the issue is whether the state may rationally conclude that physicians as a class are better equipped to provide such medical information and answer questions about the abortion procedure and the alternative.
+We believe the Commonwealth could rationally so conclude and, accordingly, that 3205(a)(1) is a constitutionally valid regulation.
+Cf. Williamson v. Lee Optical , 348 U.S. 483, 487 , 75 S.Ct. 461, 464 , 99 L.Ed. 563 (1955).
+2.
+Counselor-Disclosed Information Section 3205(a)(2) requires that a physician or counselor ("any qualified agent of the physician") inform a woman: (i) that medical assistance benefits may be available for prenatal, childbirth, and neonatal care and that more information about the benefits is available in state-printed materials; (ii) that the father of the child is liable to assist in support of the child (this information is not required to be given in rape cases); and (iii) that the Pennsylvania Department of Health publishes printed materials which describe the fetus at various intervals and list agencies which offer alternatives to abortion and that such materials are available free of charge.
+17 Applying the threshold undue burden standard, we conclude that this provision does not cause an undue burden; in addition, we find it rationally related to a legitimate state interest.
+Therefore, we uphold it against the clinics' challenge.
+Once again, the time required to provide the required information is minimal.
+While requiring that a physician or counselor impart this information will add some cost to the pre-abortion procedure at those clinics that do not already provide options counseling, nothing in the record suggests that the increase will be drastic or even substantial.
+Similarly, there is no evidence that any abortion provider will stop providing abortions because of this requirement.
+Indeed, the record indicates that most clinics already require that a counselor consult in person with the woman about alternatives to abortion before the abortion is performed.
+Justice O'Connor stated in Thornburgh that informed consent requirements could constitute an undue burden if the information required to be given was irrelevant, inaccurate, or inflammatory.
+See Thornburgh , 476 U.S. at 830-31 , 106 S.Ct. at 2215-16 (O'Connor, J., dissenting).
+The information that 3205 requires a physician or counselor to impart is relevant, accurate, and non-inflammatory.
+The information regarding the financial assistance to which the woman may be entitled is relevant in that it provides a woman with information necessary to make an informed choice.
+There is nothing on the face of the statute that suggests that this information is inaccurate.
+Nor do we see any threat that such information is inflammatory.
+Moreover, the printed materials concerning the fetus and alternatives to abortion are not forced on the woman; the woman is merely told that such information is available to her if she desires it.
+As Justice O'Connor stated in Thornburgh , "If the materials were sufficiently inflammatory and inaccurate the fact that the woman must ask to see them would not necessarily preclude finding an undue burden, but there is no indication that this is true of the description of fetal characteristics [or alternatives to abortion] the statute contemplates."
+Id. at 831 , 106 S.Ct. at 2215 (O'Connor, J., dissenting).
+For these reasons, we conclude that this provision causes nowhere near the kind of burden that must result for a regulation to constitute an undue burden.
+We further conclude that this provision is rationally related to a legitimate state interest.
+Roe recognized that the state has a legitimate interest in the potential life of the fetus throughout pregnancy, and a state may rationally conclude that this interest will be served by assuring that a pregnant woman have knowledge of the resources available to her should she elect to carry to term.
+3.
+First Amendment Implications of Section 3205(a) The clinics claim that 3205(a) requires that a physician or counselor act as an instrument for the dissemination of an ideological message in violation of their First Amendment rights.
+We find the argument unpersuasive.
+This case involves commercial speech, and the clinics do not dispute this point.
+The First Amendment limits on compelled disclosure requirements for commercial speech were explained by the Court in Zauderer v. Office of Disciplinary Counsel , 471 U.S. 626 , 105 S.Ct. 2265 , 85 L.Ed.2d 652 (1985).
+18 There, the Court rejected an attorney's challenge to a state requirement that he include certain information in an advertisement.
+The Court stressed that the attorney overlooked "material differences between disclosure requirements and outright prohibitions on speech."
+Id. at 650 , 105 S.Ct. at 2281 .
+Disclosure requirements are permissible so long as they are not a state attempt to prescribe what is "orthodox in politics, nationalism, religion, or other matters of opinion or force citizens to confess by word or act their faith therein."
+Id. at 651 , 105 S.Ct. at 2282 .
+The Court then held that First Amendment rights "are adequately protected so long as disclosure requirements are reasonably related to the state's interest in preventing deception of consumers."
+Id. Here, none of the information that 3205 requires that physicians and counselors provide, including the information offered in the printed materials, has been shown to be false or unverifiable.
+It is not an attempt to prescribe an orthodoxy in matters of opinion, and the information involved is reasonably related to the state's interest in ensuring that women have relevant information before having an abortion.
+19 We thus hold that the informed consent requirements do not violate the First Amendment .
+4.
+The 24-Hour Waiting Period Section 3205(a) of the Act requires a mandatory 24-hour waiting period between the time that the physician and counselor provide the required information to a woman and the time that a physician performs the abortion.
+The woman's consent to the abortion may be given at any time during that period, including right before the abortion.
+As the clinics stress, a 24-hour waiting period may result in delays considerably longer than 24 hours because most clinics do not perform abortions every day of the week.
+Moreover, such a waiting period may require a woman to make two visits to a clinic rather than one.
+Where the woman has no clinic immediately available and must travel to obtain an abortion, this means that the overall cost of an abortion to her may increase by a significant percentage.
+And as the district court pointed out, the burden of an additional trip to the clinic falls most heavily on battered wives who often find it difficult to free themselves of their husband's surveillance.
+Despite these adverse consequences from the 24-hour waiting period, however, we conclude that this requirement does not constitute an undue burden.
+In Hodgson , the Supreme Court concluded that a two-parent notification requirement with a judicial bypass was rationally related to a legitimate state interest and, therefore, was constitutional.
+Justice O'Connor noted that the Court had "explicitly approved judicial bypass as a means of tailoring a parental consent provision so as to avoid unduly burdening the minor's limited right to obtain an abortion."
+Hodgson , 110 S.Ct. at 2950 (O'Connor, J., concurring).
+The Court reached this conclusion despite the trial court's findings that "scheduling practices in Minnesota courts typically require minors to wait two or three days between their first contact with the court and the hearing on their petitions" and that this delay "may combine with other facts to result in a delay of a week or more."
+Hodgson v. State of Minnesota , 648 F.Supp.
+756 (D.Minn.1986).
+Given the Court's conclusion in Hodgson that the length of the delays and the increased costs occasioned by the judicial bypass did not impose an undue burden on the right to an abortion or otherwise require strict scrutiny, we decline to reach a different result with respect to the Commonwealth's imposition of a 24-hour delay for considering the information required by the informed consent requirements.
+20 Accordingly, we now inquire whether the 24-hour waiting period passes rational basis.
+21 All parties agree that choosing to have an abortion is an important decision.
+The state's interest in ensuring that such a decision is both informed and well-considered is rationally related to the state's legitimate interest in the life and health of the mother as well as its interest in the potential life of the fetus.
+The waiting period "reasonably relates to the State's interest in ensuring that a woman does not make this serious decision in undue haste."
+Akron , 462 U.S. at 474 , 103 S.Ct. at 2516 (O'Connor, J., dissenting).
+In sum, we believe the waiting period is "a small cost to impose to ensure that a woman's decision is well considered in light of its certain and irreparable consequences on fetal life, and the possible effects on her own."
+Akron , 462 U.S. at 474 , 103 S.Ct. at 2516 (O'Connor, J., dissenting).
+We fully recognize that many women contemplating an abortion will have seriously considered their decision before the required consultations with physician and counselor take place.
+The waiting period may not for those women serve any purpose.
+But the wait does not prevent any women from having an abortion, and the possible overinclusiveness of the provision does not render it irrational, especially given the serious and irreversible consequences of a hasty and ill-considered abortion decision.
+C. Parental Consent with Judicial Bypass For women under 18 who desire an abortion, 3206 of the Act requires the informed consent of at least one parent, but provides a judicial bypass option if a woman does not wish to or cannot obtain a parent's consent.
+22 An absolute parental consent requirement with no exceptions would cause an undue burden on a minor woman's abortion decision because it would impose an absolute veto and take the decisionmaking power from the woman contemplating an abortion.
+Cf. Hodgson , 110 S.Ct. at 2949-50 (O'Connor, J., concurring); Akron , 462 U.S. at 464 , 103 S.Ct. at 2510 (O'Connor, J., dissenting).
+The Pennsylvania statute, however, provides a judicial bypass option, and the Supreme Court, including Justice O'Connor, has consistently held that any undue burden caused by a parental notification or consent statute is alleviated if it provides a judicial bypass option that comports with the requirements outlined in Bellotti v. Baird , 443 U.S. 622, 663-64 , 99 S.Ct. 3035, 3063-64 , 61 L.Ed.2d 797 (1979) ( "Bellotti II" ).
+See Hodgson , 110 S.Ct. at 2950-51 (O'Connor, J., concurring); id. at 2970 (opinion of Kennedy, J.); Ohio , 110 S.Ct. at 2978-81 ; see also Planned Parenthood v. Miller , 934 F.2d 1462, 1475-82 (11th Cir.1991).
+Thus, so long as an adequate judicial bypass procedure existed, the Court has upheld many different forms of parental consent and parental notification laws, including two-parent consent and two-parent notification.
+See Bellotti II , 443 U.S. at 643 , 99 S.Ct. at 3048 ("We therefore conclude that if the State decides to require a pregnant minor to obtain one or both parents' consent to an abortion, it also must provide an alternative procedure whereby authorization for the abortion can be obtained.
+"); Hodgson , 110 S.Ct. at 2970 (opinion of Kennedy, J.) ("The simple fact is that our decision in Bellotti II stands for the proposition that a two-parent consent law is constitutional if it provides for a sufficient judicial bypass alternative.").
+23 Bellotti II set out the constitutional requirements for a bypass procedure that the Court has followed in a number of subsequent cases: Bellotti II , 443 U.S. at 622 , 99 S.Ct. at 3037 .
+The Pennsylvania Act's bypass procedure complies with each of the four requirements set forth in Bellotti II .
+Under 3206 , if a minor woman does not wish to or cannot obtain the consent of a parent, she may file a motion or petition with the court of common pleas in the district where she lives or in which the abortion is sought.
+A judge of the court of common pleas must hold a hearing, at which the woman has a right to court-appointed counsel.
+At the hearing, the judge must determine if the woman is mature and able to make her own decision and has in fact consented to the abortion.
+If so, the judge must allow the abortion.
+Furthermore, if the judge finds that the woman is not mature and able to make her own decision, the judge must decide if an abortion would nevertheless be in her best interests.
+18 Pa. Cons.Stat.Ann.
+3206(c) (d) (1983 & Supp.1991).
+This statutory language mirrors the Bellotti II requirements for the factors that must guide a judge in making this decision.
+In accordance with Bellotti II , the statute requires that the proceedings be confidential.
+Id. 3206(f) .
+Initials must be used to identify the woman in all documents.
+The hearing before the common pleas judge must be closed, and the appeals procedure must also be confidential.
+The record of the proceedings must be sealed.
+Section 3206 also meets the promptness requirement of Bellotti II .
+Section 3206 requires that the court hold the hearing and render a decision within three business days of the application by the woman.
+The woman has a right to appeal to the Superior Court if the court of common pleas does not grant her permission.
+The Superior Court decision must be rendered within five business days of the filing of an appeal.
+Id. 3206(f) , (h) .
+This entire procedure should last no longer than eight business days.
+In Ohio , the Supreme Court upheld Ohio's bypass procedure, which required the trial court to make its decision within five business days and required the court of appeals to decide within nine days after the filing of a notice of appeal.
+110 S.Ct. at 2980 .
+The Pennsylvania statute requires a quicker decision than did Ohio's, and the Supreme Court held that Ohio's procedure was sufficiently prompt.
+The Commonwealth's bypass procedure thus meets the Bellotti II requirements and alleviates the undue burden that would be caused by a parental consent statute with no judicial bypass.
+Cf. Glick v. McKay , 937 F.2d 434 (9th Cir.1991) (striking down parental consent statute because bypass provision did not specify time in which judge had to render decision).
+We further conclude that requiring parental consent in combination with a judicial bypass procedure passes rational basis review.
+It is not irrational for the state to require adult guidance for a minor woman, eleven or twelve years old in some cases, see 744 F.Supp.
+at 1343 , in deciding whether to obtain an abortion.
+See Hodgson , 110 S.Ct. at 2950-51 (O'Connor, J., concurring); Ohio , 110 S.Ct. at 2983-84 ; H.L.
+v. Matheson , 450 U.S. 398, 411 , 101 S.Ct. 1164, 1172 , 67 L.Ed.2d 388 (1981); Bellotti II , 443 U.S. at 634-37, 640-41 , 99 S.Ct. at 3943-45, 3046-47 ; Danforth , 428 U.S. at 91 , 96 S.Ct. at 2851 (Stewart, J., concurring).
+D. Spousal Notice Next, we address the issue in this case that presents the most difficult application of the undue burden standard.
+Section 3209 of the Act requires that, before a physician may perform an abortion on a married woman, the woman must sign a statement that she has notified her husband of her intended abortion.
+The Commonwealth is to provide the forms for these statements, and each form must bear a notice that false statements are punishable by law.
+Besides the standard medical emergency exception, 3209 contains four other important exceptions.
+A woman is not required to notify her husband if: (1) her husband is not the father; (2) her husband, after diligent effort, cannot be located; (3) the pregnancy is a result of spousal sexual assault which has been reported to a law enforcement agency; or (4) the woman has reason to believe that notifying her husband is likely to result in the infliction of bodily injury by her spouse or by another individual.
+24 If the woman provides a false statement on the form, she may be liable for a misdemeanor of the third degree.
+Any physician who performs an abortion without complying with this section may be subject to civil penalties.
+First, we must consider whether 3209 imposes an undue burden on the woman's abortion decision.
+At this point, it is important to emphasize that we do not consider the countervailing interest of the husband; we consider only the burden imposed on the woman.
+After we conduct this threshold analysis, as we must, then we will address the Commonwealth's interest in furthering the husband's interest.
+A spousal notice requirement does not cause a drastic or severe time delay, increase in costs, or decrease in the number of abortion providers.
+Nor does it give a state-sanctioned veto power over the woman's abortion decision to another person.
+But as Justice O'Connor noted in Hodgson , a provision requiring a woman to notify another person before obtaining an abortion can impose an undue burden in two other ways.
+First, the act of finding the person to whom notice must be given may constitute an undue burden.
+In Hodgson , so many parents in Minnesota were divorced that it would have been a great burden in many cases for the child to track down the other parent.
+This is not a problem with the Commonwealth's spousal notification requirement, however, since it allows a woman to certify that her husband, after diligent effort, could not be notified.
+Second, the giving of notice and the consequences thereof may constitute a severe limitation on the woman's abortion decision.
+The notified person, for example, may effectively prevent the abortion or may severely penalize the woman in other ways if she exercises her right to obtain an abortion.
+Cf. Hodgson , 110 S.Ct. at 2939 .
+Such consequences were found to constitute undue burdens on a woman's right to an abortion in both Bellotti II and Hodgson .
+In Bellotti v. Baird ( "Bellotti I" ), 428 U.S. 132, 145 , 96 S.Ct. 2857, 2865 , 49 L.Ed.2d 844 (1976), the Court noted that one proffered interpretation of the Massachusetts statute requiring parental consent would allow minor women to obtain permission for abortion in a bypass proceeding, thus avoiding the "undue burden" caused by forced "consultation."
+Then, in Bellotti II , the Court held that the statute did not meet constitutional standards because, as construed by the courts of Massachusetts, the bypass procedure was available only after the minor had notified, and unsuccessfully sought consent from, her parents.
+The Court concluded: 12S Baird III [v. Bellotti 450 F. Supp. Bellotti II , 443 U.S. at 647 , 99 S.Ct. at 3050 .
+In Hodgson , the Court rejected a two-parent notice requirement that did not provide a judicial bypass option.
+As we have noted, Justice O'Connor, the fifth vote necessary for the majority, found that a two-parent notification requirement was an "undue burden" on the abortion decision.
+110 S.Ct. at 2950 .
+25 Justice Stevens, writing for a majority of the Justices, including Justice O'Connor, described the burden imposed by the notice requirement in the following terms: id. at 466 id id. at 462 id. at 120-121 Id. at 204 Hodgson , 110 S.Ct. at 2945 & n. 36.
+The Supreme Court has thus been attuned to the real-world consequences of forced notification in the context of minor child/parent relationships and has found an undue burden to exist where there is a realistic likelihood either of parents preventing the abortion or of parents causing serious physical or psychological trauma for the pregnant child.
+In this case, we conclude that the real-world consequences of forced notification in the context of wife/husband relationships impose similar kinds of undue burdens on a woman's right to an abortion.
+Most married women will discuss the abortion decision with their husbands.
+As Justice Stevens noted in Hodgson , a notification requirement is unnecessary and serves no state interest in those instances.
+110 S.Ct. at 2945 .
+The relevant burdens to be assessed are those imposed by 3209 on women who would choose not to notify their husbands in the absence of state compulsion to do so. The district court found that 3209's notification requirement creates a substantial risk that women who would otherwise have an abortion will be prevented from having one.
+Abortion is a matter about which individuals have deeply held and strongly felt convictions, often rooted in moral or religious commitment.
+In those situations where a husband is sufficiently opposed to abortion or sufficiently desirous of having a child that the wife will not voluntarily share the fact of her pregnancy and her intention to abort with him, the clinics' experts testified that coerced notification will predictably result in an effort to prevent the abortion.
+That testimony showed that the husband's response will frequently take a variety of forms other than persuasive discourse.
+Many husbands are capable of violence in circumstances of this kind and will use physical force and the threat thereof to keep the wife from access to the clinic.
+But physical force is not the only means at the disposal of a husband who seeks to prevent an abortion.
+In the numerous households where the husband alone holds the economic power, the wife is in as vulnerable a position as the pregnant minor discussed in Bellotti II .
+The husband can simply decline to pay for the abortion and/or threaten to withhold future economic support unless the woman decides to forego the abortion.
+Finally, the record reveals that the forms of effective psychological coercion available to a husband are potentially unlimited and include the ultimate threat of a dissolution of the marriage.
+One form of psychological coercion warrants special note because of the potential toll it may take on the wife and its resulting effectiveness as a deterrent.
+We have often spoken about the value placed by our society on the right of each individual to privacy concerning personal health information.
+See, e.g. , United States v. Westinghouse Electric Corp. , 638 F.2d 570, 577 (3d Cir.1980); see also Whalen v. Roe , 429 U.S. 589, 599-600 , 97 S.Ct. 869, 876-77 , 51 L.Ed.2d 64 (1977).
+The only thing we can think of more personal and intimate than the fact that one is carrying a child is the fact that one intends to seek an abortion.
+When the state forces spousal notification on a wife in a seriously troubled marriage, or even a wife in an untroubled marriage with a husband unalterably opposed to abortion, it compels disclosure of very intimate information with no assurance of confidentiality to someone highly motivated to make a public disclosure.
+As the district court found, the threat of exposure of the abortion decision to family, friends, and the community at large is likely to be a very substantial deterrent to a woman's pursuing her decision to abort.
+Prevention of a planned abortion is not the only foreseeable consequence of coerced notification, however.
+Even if the woman is not deterred from pursuing an abortion, the same arsenal of physical, economic, and psychological abuse is available to the notified husband to penalize the wife for exercising her constitutionally bestowed right.
+Nor is the effect of 3209 limited to those situations in which the wife gives notice pursuant to the statute.
+Just as the principal power of Damocles' sword is in its hanging rather than its fall, the primary effect of 3209 may well be on those women who desire an abortion but who choose to carry to term because of the feared consequences of giving notice to their husbands.
+The Pennsylvania legislature has not been unmindful of the burdens imposed on pregnant wives by 3209 and has attempted to ease or avoid a number of them by including exceptions.
+Section 3209 , for example, speaks to the dilemma of a woman who "has reason to believe that the furnishing of notice to her spouse is likely to result in the infliction of bodily injury upon her by her spouse or by another individual."
+A woman with such a fear may avoid notification by certifying her fear to her physician on a form provided by the Commonwealth.
+While ameliorative, this exception does not save 3209 from being unduly burdensome in the constitutional sense.
+The district court found, with appropriate record support, that battered spouses are psychologically incapacitated from making the assertion required by the statute even when there is ample objective basis for the required fear.
+Many other women who have never before been the victims of "bodily injury" at the hands of their husband, may subjectively fear that notice may occasion "the first time," but conclude that they lack the requisite "reason to believe."
+Moreover, it is not clear to us that the "fear of bodily injury" exception was intended to aid those women whose access to an abortion is blocked by physical constraints or who reasonably fear physical abuse and the attendant suffering, but cannot conscientiously represent that injury to their bodies is likely to occur.
+If physical violence were the only burden reasonably predictable from coerced spousal notification we might be inclined in this facial challenge to hold that the fear of bodily injury exception was sufficient to avoid an undue burden, at least until the effects of the Act in practice are known.
+But as we have previously stressed, physical violence is not the only burden reasonably predictable.
+The record reveals and the district court found that if 3209 is allowed to go into effect, abortions can and will be prevented by economic and psychological duress and wives can and will be penalized by such duress for electing abortions.
+One other of 3209 's exceptions warrants comment in our assessment of the burdens imposed by that section.
+The record demonstrates and the district court found that many women consent to sexual intercourse with their husbands solely to avoid greater physical or psychological abuse.
+Section 3209 provides that when a child is conceived in the course of coerced sex, notification need not be given, if, but only if, the wife reports her husband to law enforcement authorities having jurisdiction over the matter.
+While this limitation on the exception is understandably imposed to discourage misrepresentations at the time an abortion is sought, its motivation does not ease the impact of the notification requirement on a woman who finds herself pregnant as a result of a sexual assault by her spouse.
+Given the devastating effect that a report to law enforcement authorities is likely to have on the marital relationship and the economic support provided the wife by the marriage, we believe it would be unrealistic to find that such a woman's right to choose an abortion is not severely burdened by 3209 .
+Cf. Hodgson , 110 S.Ct. at 2950 (O'Connor, J., concurring).
+Because of the nature of the marriage relationship and the emotional character of human response to pregnancy and abortion, the number of different situations in which women may reasonably fear dire consequences from notifying their husbands is potentially limitless.
+26 Because fear of those consequences is likely to dissuade many from seeking an abortion if such notification is required and because the consequences themselves are an undue burden, we hold that 3209 constitutes an undue burden on a woman's abortion decision.
+Accordingly, we must apply strict scrutiny to determine if 3209 is narrowly tailored to serve a compelling state interest.
+Section 3209 expressly states that the spousal notice requirement is designed to further three state interests: promoting the integrity of the marital relationship, protecting a spouse's interests in having children within marriage, and protecting a spouse's interest in the prenatal life of that spouse's child.
+We turn first to marital integrity.
+It is not entirely clear what the Commonwealth means when it speaks of the integrity of a marriage.
+If the interest is in honesty and full disclosure between married individuals, Hodgson indicates that this interest does not rise to the level of a legitimate state interest, much less a compelling one.
+In the course of striking down Minnesota's two-parent notice requirement without a judicial bypass, Justice Stevens there wrote for a majority of the court: Hodgson , 110 S.Ct. at 2946 .
+If the state's alleged interest in the integrity of the marriage refers to the state's interest in keeping married individuals together in wedlock, we agree that this is a legitimate state interest.
+It is not an interest that the Supreme Court has recognized as a compelling one, however.
+Moreover, even if we were to assume that it does constitute a compelling state interest, we could not conclude that the Commonwealth has carried its burden of demonstrating that 3209 is narrowly tailored to promote that interest.
+As we have noted, the only effect of 3209 is to require notice in those instances in which the wife would not otherwise share with her husband the fact of the pregnancy and her intention to abort.
+In such situations, an across-the-board requirement of coerced disclosure is an altogether arbitrary approach to a difficult and complex problem of human relations.
+Nothing in this record suggests that replacing the wife's judgment regarding disclosure with such an arbitrary rule will save more marriages than it destroys.
+The Commonwealth asserts that 3209 furthers its interests in furthering the husband's interest both in having children within the marriage and in the fetus.
+To the extent that these interests are distinct, the abstract interest in having children within the marriage is not more substantial than the interest in the fetus.
+Therefore, we will now turn to the most difficult issue: the state's interest in furthering the husband's interest in the individual fetus.
+In Danforth , in discussing a spousal consent requirement, the Court recognized the state's legitimate interest in the husband's interest in the fetus.
+Justice Blackmun for the Court stated that the Court was "not unaware" of the "deep and proper concern and interest" that a husband has in his wife's pregnancy and in the growth and development of the fetus she is carrying.
+Danforth , 428 U.S. at 69 , 96 S.Ct. at 2840 .
+Nevertheless, the Court struck down the spousal consent requirement in Danforth , finding that the state's interest in supporting the husband's interest in the fetus was insufficient to override the wife's right to an abortion: See Eisenstadt v. Baird 405 U.S. 438, 453 92 S.Ct. 1029, 1038 31 L.Ed.2d 349 Eisenstadt v. Baird individual 405 U.S., at 453 92 S.Ct. at 1038 Danforth , 428 U.S. at 70 & n. 11, 96 S.Ct. at 2841 & n. 11.
+Danforth can be read to stand for the proposition that the state's interest in protecting a husband's interest in a previable fetus within his marriage is not a compelling one.
+It must be read at least to hold that that interest must yield to the wife's right to have an abortion.
+Thus, the state cannot vindicate the husband's interest in a fetus, and 3209 was enacted with that realization.
+Section 3209 , despite its preamble, does not protect the husband's interest in the fetus; under Danforth , as we have noted, a state statute cannot constitutionally protect that interest.
+What 3209 seeks to preserve for the husband is something considerably more modest: the possibility of participating in a decision his wife is constitutionally privileged to make on her own for her own reasons.
+While promoting the possibility of spousal participation is undoubtedly a legitimate state interest, we conclude in light of Danforth that it is not the kind of compelling state interest that can justify the very substantial burdens imposed by 3209 on the wife's right to choose an abortion.
+In sum, we hold that 3209 is unconstitutional because it imposes an undue burden on a woman's abortion decision and does not serve a compelling state interest.
+27 E. Confidential Medical Reports An abortion provider must file a report with the Department of Health for every abortion performed at its facility.
+18 Pa.Cons.Stat.Ann.
+3214(a) (1983 & Supp.1991).
+Each report must include a variety of information about the abortion.
+28 Because these reports are not open for public inspection and are subject to various safeguards against disclosure, id. 3214(b) , the district court concluded--and the clinics do not challenge the conclusion--that the Commonwealth had adequately assured the confidentiality of these reports.
+In Danforth , the Court held that recordkeeping and reporting requirements are permissible so long as they are not used to accomplish "through the sheer burden of recordkeeping detail, what [the Court has] held to be an otherwise unconstitutional restriction," and so long as the reports are confidential.
+Danforth , 428 U.S. at 81 , 96 S.Ct. at 2846 .
+Furthermore, the reports must be rationally related to a legitimate state interest.
+Id. The district court concluded that the Commonwealth could not constitutionally require of a doctor or clinic four of the many items of information listed in the statute: (1) the basis for the physician's determination of gestational age; (2) in a third trimester abortion, the basis for the physician's decision that a third trimester abortion was necessary for the life or health of the mother; (3) in a medical emergency case, the basis for the physician's decision that a medical emergency suspended the statute's requirements; and (4) the identity of the referring physician.
+29 744 F.Supp.
+at 1391-95 .
+First, we address the three reporting requirements relating to the physician's medical judgments for particular types of abortions.
+The abortion provider must file one report for every abortion.
+The report will not cause by the "sheer burden of recordkeeping detail" a drastic increase in delay or cost, or a drastic decrease in availability.
+The district court's only relevant finding on this point was that compliance with this section had cost $12,000 per year for a clinic that performed 7,000 abortions per year.
+744 F.Supp.
+at 1337, 1372 .
+An added cost of at most a few dollars per abortion that the clinics may pass on to patients is not the kind of "drastic" increase necessary to constitute an undue burden.
+In addition, the reports are concededly confidential, and the reporting requirement does not constitute an undue burden on that basis.
+The reports are also rationally related to preservation of maternal health; they will enable the Commonwealth to discover how often and under what circumstances women obtain medically necessary abortions.
+Finally, the reports will confirm that clinics and physicians are complying with the Act's requirements.
+The district court concluded that such a report would have a "chilling effect" on the exercise of the physician's judgment.
+We fail to perceive a chilling effect, however, other than on a physician who is not complying with the other provisions of the Act for medical emergencies, determination of gestational age, and third trimester abortions.
+Because those provisions themselves are constitutional, it seems unremarkable and not unduly burdensome that the Commonwealth requires this information in a report concerning an abortion.
+With respect to the requirement of 3214(a)(1) that the report concerning an abortion include the name of the performing and referring physicians, the district court concluded that the record was devoid of any evidence that a performing physician would be deterred from performing abortions by the requirement that the report include his or her name. 744 F.Supp.
+at 1391-92 .
+Nevertheless, the district court concluded that some physicians might stop referring women for abortions if their names were included in the confidential report.
+Id. at 1392 .
+The testimony at trial established that referring physicians zealously protect their anonymity, and we would face a different and more difficult case if there were a significant risk that such information would be disclosed.
+But given the district court's conclusions about the safeguards that will ensure confidentiality, we decline to conclude that referring physicians will be deterred in sufficient number that the availability of an abortion will be drastically reduced.
+Accordingly, we conclude that the requirement of disclosure of the identity of the names of the referred and performing physicians need only satisfy rational basis review.
+As to rational basis, the district court found that the performing physician's name was properly included because he or she could answer questions that might arise about information contained in the reports.
+However, the district court felt that no similar reason existed for the referring physician's name.
+Id.
+This conclusion ignores the fact that the referring physician can perform some of the Act's requirements; the Act allows referring physicians both to obtain the woman's informed consent and to determine gestational age.
+We thus conclude that this requirement is rationally related to a legitimate state interest.
+We hold that the confidential reporting requirements of 3214(a) are constitutional.
+F. Publicly Available Reports Abortion facilities must file with the Department of Health a report supplying the name and address of the facility and the name and address of affiliated organizations, such as parent or subsidiary corporations.
+18 Pa.Cons.Stat.Ann.
+3207(b) (Supp.1991).
+30 Every abortion facility must also file a report showing the total number of abortions performed, broken down by trimester, at the facility during the preceding quarter year.
+18 Pa.Cons.Stat.Ann.
+3214(f) (1991 Supp.).
+31 If a facility has received public funds during the preceding year, the reports must be made available to the public.
+The clinics do not attack these reporting requirements; they challenge only the mandate that reports of clinics receiving public funds be available to the public.
+More specifically, the argument presented by the clinics--and accepted by the district court--is that public disclosure of these reports will cause protests in front of clinics to proliferate and intensify, and that this will eventually reduce the number of abortion providers and the availability of abortions.
+Like the district court, we recognize that substantial public protest, directed toward both the clinics and the women entering them, occurs in front of abortion clinics.
+See, e.g. , Northeast Women's Center v. McMonagle , 939 F.2d 57 (3d Cir.1991).
+In its opinion, the district court detailed much of this activity and then concluded that the clinics had reasonable fears of increased protest from the public disclosure of these reports.
+The district court also concluded that some clinics might refuse the funds they receive for medically necessary abortions in order to avoid having their reports made available to the public.
+744 F.Supp.
+at 1390-91 .
+We have considered this issue before in addressing nearly the same reporting requirements.
+American College of Obstetricians v. Thornburgh , 737 F.2d 283, 297-98 (3d Cir.1984) ( "ACOG " ), aff'd on other grounds , 476 U.S. 747 , 106 S.Ct. 2169 , 90 L.Ed.2d 779 (1986).
+Unless the clinics show a clear nexus between the disclosure requirement and increased private harassment, any attempt to argue that this requirement constitutes an undue burden fails.
+ACOG , 737 F.2d at 297-98 .
+Here, the clinics have not shown that the public disclosure requirement will so enlarge the number or escalate the severity of protests that they will become an absolute obstacle or severe limitation on a woman's abortion right.
+The clinics are publicly advertised and listed in the phone book, and many, if not all, encounter protests and demonstrations without this requirement.
+On the record as we review it--at a time before this provision has been implemented--we cannot conclude that the public disclosure requirement will result in an absolute obstacle or severe limitation on a woman's abortion decision.
+We thus conclude, as we did in the previous incarnation of this challenge, that 3207(b) and 3214(f) do not constitute an undue burden because the clinics have not "demonstrated a nexus between the disclosure of such information and the chilling of constitutional rights."
+Id. at 297 .
+The next question is whether this provision is rationally related to a legitimate state interest.
+Records relating to public expenditures and disbursements are generally available to the public under Pennsylvania law. 65 Pa.Stat.Ann.
+66.1 , 66.2 (1959 & Supp.1991).
+When a state provides money to a private commercial enterprise, there is a legitimate public interest in informing taxpayers who the funds are benefiting and what services the funds are supporting.
+Thus, this requirement does not lack a rational basis.
+The clinics also argue that the public disclosure requirement is an unconstitutional condition on the receipt of public funds.
+Under the doctrine of unconstitutional conditions, "government may not grant a benefit on the condition that the beneficiary surrender a constitutional right, even if the government may withhold that benefit altogether."
+Sullivan, Unconstitutional Conditions , 102 Harv.L.Rev.
+1415 , 1415 (1989).
+There are two major elements of a successful unconstitutional conditions challenge.
+The first is that "the constitutional interest at issue rise to the level of a recognized right--indeed a preferred right normally recognized by strict judicial review."
+Id. at 1427 .
+In this case, the constitutional right to abortion is implicated by these requirements; however, as we concluded above, this right is not unduly burdened by these disclosure requirements and thus strict scrutiny is not triggered.
+Therefore, it is not an unconstitutional conditions problem in the way that it would be if the Commonwealth prohibited a recipient of public funds from performing abortions at all.
+Cf. Babbitt v. Planned Parenthood , 479 U.S. 925 , 107 S.Ct. 391 , 93 L.Ed.2d 346 (1986), aff'g 718 F.2d 938 (9th Cir.1983).
+32 Having concluded that this requirement does not unduly burden the abortion right, rationally relates to a legitimate state interest, and does not present an unconstitutional condition on the receipt of public funds, we uphold 3207(b) and 3214(f) .
+IV.
+We conclude that the undue burden standard adopted by Justice O'Connor was the narrowest grounds in the majority in Webster and Hodgson and is at present the law of the land.
+Applying the undue burden standard, we conclude that 3209 , the spousal notice provision, constitutes an undue burden.
+Since the state does not have a compelling interest in ensuring spousal notice, we hold 3209 unconstitutional.
+However, none of the other provisions at issue here constitutes an undue burden, and each is rationally related to a legitimate state purpose.
+Thus, we uphold them against the clinics' challenge.
+We will affirm in part and reverse in part the judgment of the district court.

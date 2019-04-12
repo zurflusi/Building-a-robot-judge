@@ -1,0 +1,169 @@
+ JACOBS, Circuit Judge.
+This case returns to us on remand from the United States Supreme Court.
+See Meacham v. Knolls Atomic Power Lab., 381 F.3d 56 , 62 (2d Cir. 2004) ("Meacham"), vacated and remanded by KAPL, Inc. v. Meacham, 544 U.S. 957 , 125 S.Ct. 1731 , 161 L.Ed.2d 596 (2005).
+Originally, we had reviewed this case on appeal from a judgment of the United States District Court for the Northern District of New York (Homer, M.J.
+), inter alia, denying the motion of defendants-appellants ("defendants") seeking judgment as a matter of law pursuant to Fed.R.Civ.
+81 Cal. 588 , 23 P. 50(b) after a jury verdict awarding damages to plaintiffs-appellees ("plaintiffs").
+[fn1] See Meacham v. Knolls Atomic Power Lab., 185 F.Supp.2d 193 (N.D.N.Y.
+2002).
+Plaintiffs are former employees of defendant Knolls Atomic Power Laboratories ("KAPL"), which designs advanced nuclear propulsion systems; trains sailors in their use; and oversees their maintenance, repair, refueling and decommissioning.
+Plaintiffs lost their jobs at the Knolls Atomic Power Laboratory (the "Lab") in an involuntary reduction in force ("IRIF"), and sued under the Age Discrimination in Employment Act, 29 U.S.C. 631 (a), ("ADEA") and the New York Human Rights Law, N.Y. Exec. Law 296(3-a) (a) , ("HRL").
+The jury verdict rested on a disparate-impact theory of liability.
+Previously, we held that (i) plaintiffs had established a prima facie case under the ADEA by demonstrating the disparate impact on older workers of the subjective decision-making involved in the IRIF; and (ii) notwithstanding defendants' facially legitimate business justification for the IRIF and its constituent parts, there was sufficient evidence of an equally effective alternative to the subjective components of the IRIF to support liability.
+See Meacham, 381 F.3d at 71-76 .
+The Supreme Court vacated our judgment affirming the judgment of the district court and remanded for reconsideration in light of Smith v. City of Jackson, 544 U.S. 228 , 125 S.Ct. 1536 , 161 L.Ed.2d 410 (2005), which issued while defendants' petition for a writ of certiorari was pending.
+See KAPL, 544 U.S. 957 , 125 S.Ct. 1731 , 161 L.Ed.2d 596 .
+We have considered City of Jackson and the parties' supplemental briefing, and we now vacate the judgment of the district court and remand with instructions to enter judgment as a matter of law in favor of defendants on all claims and to dismiss the case. I. The Lab is funded by the United States Navy's Nuclear Propulsion Program ("NR") (jointly with the Department of Energy), which sets annual staffing limits for the facility in consultation with KAPL.
+[fn2] In fiscal year 1996, the NR imposed a more stringent limit on annual staffing levels and (at the same time) assigned additional work to the Lab that required new hires.
+Among the compliance measures adopted by KAPL was an IRIF in which plaintiffs, all of whom are over forty years of age, lost their jobs.
+Meacham, 381 F.3d at 62-63 .
+KAPL provided a guide for implementing the IRIF to participating ( i.e., overbudget) managers.
+The guide instructed managers to select employees for the IRIF by listing "all employees in [their] group[s] on [a] matrix"; ranking them between zero and ten for performance, flexibility, and criticality of their skills; and giving up to ten points for company service.
+Managers were to rate performance based on an average of the two most recent performance appraisals.
+The tests for making a flexibility determination were whether the employee's "documented skills [could] be used in other assignments that [would] add value to current or future Lab work" and whether the employee was "retrainable for other Lab assignments."
+Critical skills were those skills that were critical to continuing work in the Lab as a whole.
+In addition, KAPL directed managers to consider whether the "individual's skill [was] a key technical resource for the NR program" and whether "the skill [was] readily accessible within the Lab or generally 23 available from the external market."
+Id. at 63-64 (brackets and emphasis in original).
+Once employees were thus ranked, managers were instructed to identify for layoff employees at the bottom as necessary to achieve the required staff reduction and then to perform an adverse impact analysis to determine whether the layoffs "might have a disparate impact on a protected class of employees."
+Id. at 64 .
+To ensure compliance with the ADEA, managers were instructed to perform an analysis "similar" to the EEOC's "four-fifths" rule, by which (according to the guide) a "serious discrepancy" would exist "if the selection rate for a protected group is greater than 120% of the rate for the total population."
+Id .
+Once this process was completed, a review board was to assess the manager's selections "to assure adherence to downsizing principles as well as minimal impact on the business and employees."
+Finally, KAPL's general manager, John Freeh, and its [general] counsel, Richard Correa, were to review the final IRIF selections and the impact analyses.
+Id .
+In the end, 245 out of an estimated 2,063 eligible employees were placed on the matrices; thirty-one employees on the matrices were selected for layoff, thirty of whom were over forty years of age.
+II.
+In Meacham, we held that plaintiffs adduced evidence sufficient to establish a prima facie case for disparate-impact liability under the ADEA.
+Id. at 71-74 .
+Plaintiffs identified a specific employment practice KAPL's "unaudited and heavy reliance on subjective assessments of `criticality' and `flexibility'" in implementing the IRIF and presented evidence supporting a reasonable inference that the practice caused the "startlingly skewed results."
+Meacham, 381 F.3d at 75 n. 8.
+We see nothing in City of Jackson that casts doubt on this holding.
+City of Jackson reiterated the requirement that disparate-impact plaintiffs under the ADEA are "`responsible for isolating and identifying the specific employment practices that are allegedly responsible for any observed statistical disparities,'" 544 U.S. at 241 , 125 S.Ct. 1536 (quoting Wards Cove Packing Co. v. Atonio, 490 U.S. 642 , 656 , 109 S.Ct. 2115 , 104 L.Ed.2d 733 (1989)) (emphasis in City of Jackson ); in Meacham, we held that plaintiffs had satisfied that specificity requirement, see Meacham, 381 F.3d at 74 .
+A. The matrix for adjudicating disparate-impact claims, once a plaintiff has made out a prima facie case, was first authoritatively established in Wards Cove Packing Co. v. Atonio, in the context of Title VII of the Civil Rights Act of 1964, 42 U.S.C. 2000e et seq.
+("Title VII").
+490 U.S. 642 , 109 S.Ct. 2115 , 104 L.Ed.2d 733 (1989).
+The employer assumes the burden of producing evidence that the challenged employment practice has a legitimate business justification, see id. at 658-59 , 109 S.Ct. 2115 ; see also Watson v. Fort Worth Bank & Trust, 487 U.S. 977 , 998 , 108 S.Ct. 2777 , 101 L.Ed.2d 827 (1988); however, "`the ultimate burden of proving that discrimination against a protected group has been caused by a specific employment practice remains with the plaintiff at all times,'" Wards Cove, 490 U.S. at 659 , 109 S.Ct. 2115 (quoting Watson, 487 U.S. at 997 , 108 S.Ct. 2777 ).
+Thus, after the employer has proffered a legitimate business justification, the plaintiff bears the burden of persuading the jury that the employer's justification does not pass the test of "business necessity" i.e., either that the challenged practice does not serve, in a significant way, the legitimate employment goals of the employer or that "`other tests or selection devices, without a similarly undesirable .
+.
+.
+effect, would also serve the employer's legitimate [hiring] interest[s].'"
+Id. at 659-60 , 109 S.Ct. 2115 (quoting Albemarle Paper Co. v. Moody, 422 U.S. 405 , 425 , 95 S.Ct. 2362 , 45 L.Ed.2d 280 (1975)); see also Watson, 487 U.S. at 998-99 , 108 S.Ct. 2777 ; City of Jackson, 544 U.S. at 243 , 125 S.Ct. 1536 (referencing "business necessity test").
+In Smith v. Xerox Corp., we extended this burden-shifting approach to disparate-impact claims under the ADEA.
+196 F.3d 358 , 365 (2d Cir. 1999).
+We held in Meacham that KAPL had advanced "a facially legitimate business justification for the IRIF and its constituent parts [] `to reduce its workforce while still retaining employees with skills critical to the performance of KAPL's functions.'"
+Meacham, 381 F.3d at 74 (quoting Meacham v. Knolls Atomic Power Lab., 185 F.Supp.2d 193 , 213 (N.D.N.Y.
+2002)).
+While such a justification, unchallenged, "would preclude a finding of disparate impact [liability]," id ., we ruled following the precedent established in Xerox that plaintiffs could prevail nevertheless by demonstrating that KAPL's justification failed the test of "business necessity," i.e., by challenging the justification head-on or by showing "`that another practice would achieve the same result at a comparable cost without having a disparate impact on the protected group,'" id. at 74 (quoting Xerox, 196 F.3d at 365 ).
+We concluded that plaintiffs had discharged their burden because "[a]t least one suitable alternative is clear from the record: KAPL could have designed an IRIF with more safeguards against subjectivity, in particular, tests for criticality and flexibility that are less subject to managerial bias."
+[fn3] Id. at 75 .
+That analysis is untenable on this remand because, in City of Jackson, the Supreme Court held that the "business necessity" test is not applicable in the ADEA context; rather, the appropriate test is for "reasonableness," such that the employer is not liable under the ADEA so long as the challenged employment action, in relying on specific non-age factors, constitutes a reasonable means to the employer's legitimate goals.
+See City of Jackson, 544 U.S. at 243 , 125 S.Ct. 1536 ("Unlike the business necessity test, which asks whether there are other ways for the employer to achieve its goals that do not result in a disparate impact on a protected class, the reasonableness inquiry includes no such requirement.
+"); see also id. at 239 , 125 S.Ct. 1536 (stating that there is no liability under the ADEA if the adverse impact of the challenged employment action is "attributable to a nonage factor that [i]s `reasonable'").
+The "reasonableness" test in City of Jackson is derived primarily from wording in the ADEA "that significantly narrows its coverage by permitting any `otherwise prohibited' action `where the differentiation is based on reasonable factors other than age.'"
+City of Jackson, 544 U.S. at 233 , 125 S.Ct. 1536 (quoting ADEA 4(f)(1) , 29 U.S.C. 623 (f)(1)).
+[fn4] The Court emphasized that (i) Congress had refrained from addressing the ADEA in the Civil Rights Act of 1991, even though the Act had amended Title VII to expand the narrow construction of an "employer's exposure to liability on a disparate-impact theory" established in Wards Cove, see City of Jackson, 544 U.S. at 240 , 125 S.Ct. 1536 ; see also Civil Rights Act of 1991, 105 Stat. 1071 ; and (ii) "age, unlike race or other classifications protected by Title VII, not uncommonly has relevance to an individual's capacity to engage in certain types of employment," City of Jackson, 544 U.S. at 240 , 125 S.Ct. 1536 .
+While "as a general rule, one panel of this Court cannot overrule a prior decision of another panel[,] .
+.
+.
+an exception to this general rule arises where there has been an intervening Supreme Court decision that casts doubt on our controlling precedent."
+Union of Needletrades, Indus. & Textile Employees v. INS, 336 F.3d 200 , 210 (2d Cir. 2003).
+In light of City of Jackson, it is clear that Xerox is no longer good law insofar as it holds that the "business necessity" test governs ADEA disparate-impact claims.
+[fn5] B. It remains to apply the "reasonableness" test to plaintiffs' disparate-impact claims, which survived application of the "business necessity" test in Meacham.
+First, we consider who bears the burden of persuasion with respect to the "reasonableness" of the employer's proffered business justification under the ADEA disparate-impact framework.
+The best reading of the text of the ADEA in light of City of Jackson and Wards Cove is that the plaintiff bears the burden of persuading the factfinder that the employer's justification is unreasonable.
+See Pippin v. Burlington Res. Oil & Gas Co., 440 F.3d 1186 , 1200 (10th Cir. 2006) (holding that under City of Jackson, once employer has satisfied burden of producing evidence of legitimate business justification, to prevail "employee must ultimately persuade the factfinder that the employer's asserted basis for the neutral policy is unreasonable").
+The following considerations lead us to that conclusion: 1.
+In substituting the "reasonableness" test for the "business necessity" test, City of Jackson nowhere suggested that the burden of persuasion with respect to the legitimacy of the business justification was being shifted to the employer.
+That is not dispositive, however: the facts raised no close question as to the reasonableness of the employer's proffered business justification.
+See City of Jackson, 544 U.S. at 241-43 , 125 S.Ct. 1536 .
+2.
+City of Jackson says that " Wards Cove's pre-1991 interpretation of Title VII's identical language remains applicable to the ADEA."
+Id. at 240 , 125 S.Ct. 1536 .
+Wards Cove explained that the plaintiff bears the burden of persuasion to defeat the employer's "business necessity" justification because the plaintiff bears the ultimate burden under Title VII to "prove that it was `because of [his] race, color,' etc., that he was denied a desired employment opportunity."
+Wards Cove, 490 U.S. at 660 , 109 S.Ct. 2115 (quoting 42 U.S.C. 2000e-2 (a)).
+The analogous 4(a) of the ADEA, 29 U.S.C. 623 (a), is identical to that of Title VII "[e]xcept for substitution of the word `age' for the words `race, color, religion, sex, or national origin.'"
+City of Jackson, 544 U.S. at 233 , 125 S.Ct. 1536 .
+City of Jackson thus applies the reasoning and analysis of Wards Cove to disparate-impact claims under the ADEA, with the effect that an employer defeats a plaintiff's prima facie case by producing a legitimate business justification, unless the plaintiff is able to discharge the ultimate burden of persuading the factfinder that the employer's justification is unreasonable.
+Any other interpretation would compromise the holding in Wards Cove that the employer is not to bear the ultimate burden of persuasion with respect to the "legitimacy" of its business justification.
+Wards Cove, 490 U.S. at 659-60 , 109 S.Ct. 2115 .
+3.
+City of Jackson reasoned that the "narrower" scope of disparate-impact liability under the ADEA (as compared with Title VII) is justified because "age, unlike race or other classifications protected by Title VII, not uncommonly has relevance to an individual's capacity to engage in certain types of employment," and that as a result, "certain employment criteria that are routinely used may be reasonable despite their adverse impact on older workers as a group."
+City of Jackson, 544 U.S. at 240-41 , 125 S.Ct. 1536 .
+It would seem redundant to place on an employer the burden of demonstrating that routine and otherwise unexceptionable employment criteria are reasonable.
+In dissent, Judge Pooler argues that the "reasonable factors other than age" ("RFOA") provision, ADEA 4(f)(1), 29 U.S.C. 623 (f)(1), is in the nature of an affirmative defense for which the employer should bear the burden of persuasion.
+See Dissenting Op. at 148-152.
+In support of this argument, Judge Pooler observes that the provision (i) permits conduct that is "otherwise prohibited" language that suggests an affirmative defense, see id. at 139; and (ii) is listed in the statute after the bona fide occupational qualification ("BFOQ") exception an affirmative defense for which the Supreme Court has strongly suggested the employer bears the burden of persuasion, see id. at 139-140 (citing City of Jackson, 544 U.S. 228 , 233 n. 3, 125 S.Ct. 1536 , 161 L.Ed.2d 410 (2005)); see also Western Air Lines, Inc. v. Criswell, 472 U.S. 400 , 416 n. 24, 105 S.Ct. 2743 , 86 L.Ed.2d 321 (1985); Air Line Pilots Ass'n v. TWA, 713 F.2d 940 , 954 (2d Cir. 1983) (establishing that BFOQ provision "may be invoked only if an employer proves `plainly and unmistakably' that its employment practice meets the `terms and spirit' of the remedial legislation"), aff'd in part & rev'd in part on other grounds sub nom TWA v. Thurston, 469 U.S. 111 (1985).
+[fn6] There is some force to this argument, but it does not withstand City of Jackson, which emphasized that there are reasonable and permissible employment criteria that correlate with age.
+(This case is a fine example of the phenomenon.)
+It is therefore hard to see how an ADEA plaintiff can expect to prevail on a showing of disparate impact based on a factor that correlates with age without also demonstrating that the factor is unreasonable.
+[fn7] Our conclusion is reinforced by the history of the development of the "business necessity" test.
+The Supreme Court established the "business necessity" test in Griggs v. Duke Power Co., explaining that "Congress has placed on the employer the burden of showing that any given requirement must have a manifest relationship to the employment in question."
+401 U.S. 424 , 432 , 91 S.Ct. 849 , 28 L.Ed.2d 158 (1971).
+Although Griggs failed to locate the source of the test in any particular statutory provision of Title VII, Wards Cove later clarified that the "burden" referred to in Griggs was the burden of production, not persuasion, see supra ; and Albemarle Paper Co. v. Moody, 422 U.S. 405 , 425 , 95 S.Ct. 2362 , 45 L.Ed.2d 280 (1975), located the source of the "business necessity" test in Title VII 703(h) , 42 U.S.C. 2000e-2 (h), which provides that it shall not be an unlawful employment practice for an employer to give and to act upon the results of any professionally developed ability test provided that such test, its administration or action upon the results is not designed, intended or used to discriminate because of race, color, religion, sex or national origin.
+This section, like the RFOA provision in the ADEA, lends itself to interpretation as an affirmative defense, with the burden of persuasion on the employer; but the Supreme Court has determined that it is not, and we are convinced that there is insufficient reason to depart from that analysis in interpreting the ADEA.
+Applying the Wards Cove burden shifting framework as modified in the ADEA context by City of Jackson to the facts before us, we reaffirm our conclusion in Meacham that KAPL satisfied its burden of producing evidence suggesting that a legitimate business justification motivated the challenged components of the IRIF.
+See supra .
+But we must revisit that question because we followed the district court in characterizing KAPL's legitimate justification as the reduction of KAPL's "`workforce while still retaining employees with skills critical to the performance of KAPL's functions.'"
+Meacham, 381 F.3d at 74 (quoting Meacham v. Knolls Atomic Power Lab., 185 F.Supp.2d 193 , 213 (N.D.N.Y.
+2002)).
+Evidence supports that business objective, but our characterization did not conform to the specific employment practice identified by the plaintiffs: the IRIF's "unaudited and heavy reliance on subjective assessments of `criticality' and `flexibility,'" supra .
+Defendants' burden was to advance a justification for these features of the IRIF, and it was plaintiffs' burden to demonstrate that that justification is unreasonable.
+The record demonstrates that defendants discharged their burden, and plaintiffs did not.
+At trial, defendants' expert witness a specialist in industrial psychology with substantial corporate downsizing experience testified that the criteria of "criticality" and "flexibility" were ubiquitous components of "systems for making personnel decisions," and that the subjective components of the IRIF were appropriate because the managers conducting the evaluations were knowledgeable about the requisite criteria and familiar with the capabilities of the employees subject to evaluation.
+KAPL's staffing manager testified to the importance of criticality and flexibility to ensuring that KAPL could carry on operations with a shrinking workforce.
+This evidence unquestionably discharged defendants' burden of production it suggested that the specific features of the IRIF challenged by plaintiffs were routinely used components of personnel decisionmaking systems in general, and were appropriate to the circumstances that provoked KAPL's IRIF.
+The next question is whether plaintiffs discharged their burden of demonstrating that the justification was unreasonable.
+"Unlike the business necessity test, which asks whether there are other ways for the employer to achieve its goals that do not result in a disparate impact on a protected class, the reasonableness inquiry includes no such requirement."
+City of Jackson, 544 U.S. at 243 , 125 S.Ct. 1536 ; see also id. at 240 , 125 S.Ct. 1536 ("[T]he scope of disparate-impact liability under ADEA is narrower than under Title VII.").
+In determining whether plaintiffs have demonstrated that KAPL's relatively subjective and unaudited procedures for measuring "criticality" and "flexibility" were unreasonable, we keep in mind that "we are not a super-personnel department."
+Byrnie v. Town of Cromwell Bd. of Educ., 243 F.3d 93 , 106 (2d Cir. 2001); see also Furnco Constr. Corp. v. Waters, 438 U.S. 567 , 578 , 98 S.Ct. 2943 , 57 L.Ed.2d 957 (1978) ("Courts are generally less competent than employers to restructure business practices.").
+"It would be a most radical interpretation of Title VII for a court to enjoin use of an historically settled process and plainly relevant criteria largely because they lead to decisions which are difficult for a court to review."
+Zahorik v. Cornell Univ., 729 F.2d 85 , 96 (2d Cir. 1984); but see Albemarle Paper, 422 U.S. at 433 , 95 S.Ct. 2362 (expressing concern over "a `standard' that was extremely vague and fatally open to divergent interpretations").
+The range of reasonable personnel systems is wide in a fluid and adaptive economy.
+As we observed in Meacham, plaintiffs presented probative evidence tending to show that: (i) KAPL's criteria were subjective (and "imprecise at best"); (ii) "the subjectivity disproportionately impacted older employees"; (iii) KAPL "observed that the disproportion was gross and obvious"; and (iv) KAPL "did nothing to audit or validate the results."
+Meacham, 381 F.3d at 75 & n. 7.
+Moreover, even though KAPL implemented some of its established guidelines for the IRIF, see supra , compliance was uneven.
+Managers were trained to ensure that they understood the matrix criteria definitions and the process for analyzing the completed matrices.
+But the company's only disparate-impact analysis of the employees selected for layoff was done by a human resources manager who lacked training or serious preparation, and whose technique was to compare the average age of the workforce before and after the IRIF, see Meacham, 381 F.3d at 64 ; given the size of KAPL's workforce, this technique was inadequate to identify age-related discrepancies resulting from a personnel action that affected only thirty-one employees.
+See id .
+Per the guide instructions, KAPL's review board assessed the design and execution of the IRIF including the process for constructing matrices and the final layoff decisions to ensure that they conformed to KAPL's business needs; but the review board did not assess age discrimination issues.
+See id .
+KAPL's general counsel conducted a legal review of the IRIF after its completion, consulting with the company's human resources representatives and some managers about employee scoring and placement on the matrices, as well as about individual layoff decisions.
+See id .
+The general counsel was familiar with the ADEA and apparently aware of the viability of the disparate-impact theory in the Second Circuit at the time; however, he did not analyze the results of the IRIF, explaining that he was only concerned with whether "[I]RIF decisions were properly made" and "legitimate."
+Id .
+Plaintiffs, who bear the burden of demonstrating that KAPL's action was unreasonable, did not directly challenge the testimony of KAPL principals regarding the planning and execution of the IRIF.
+However, Dr. Janice Madden, an employment discrimination expert and experienced statistician, testified for plaintiffs that (i) the probability of the age disparities at various stages of the IRIF happening by chance was so low as to suggest to a high degree of statistical significance that the disparities were not the result of chance; [fn8] (ii) "criticality" and "flexibility" were the criteria most responsible statistically for the selection of individuals to be laid off; and (iii) the procedures established for review of the decisions made by individual managers "did not offer adequate protections to keep the prejudices of managers from influencing the outcome."
+Id. at 65 .
+Have plaintiffs discharged their burden?
+It is important to distinguish between evidence that KAPL's IRIF resulted in an unlikely, "startlingly skewed" age distribution of laid-off employees which is relevant to plaintiffs' prima facie case and evidence that KAPL's business justification for the specific design and execution of the IRIF was "unreasonable."
+The fact that the IRIF resulted in a skewed age distribution of laid-off employees is not itself necessarily probative of whether KAPL's business justification for particular features of its IRIF was "reasonable."
+As the Supreme Court observed in City of Jackson, age is often highly correlated with legitimate employment needs.
+See City of Jackson, 544 U.S. at 240 , 125 S.Ct. 1536 ("[A]ge, unlike race or other classifications protected by Title VII, not uncommonly has relevance to an individual's capacity to engage in certain types of employment.").
+To draw a negative inference from the ex post age distribution of laid-off employees would inhibit reliance on reasonable and useful employment criteria that are highly correlated with age.
+The probative record evidence suggests that the factors used in KAPL's IRIF could have been better drawn and that the process could have been better scrutinized to guard against a skewed layoff distribution.
+However, KAPL set standards for managers constructing matrices and selecting employees for layoff, and it did monitor the implementation of the IRIF.
+The IRIF restricted arbitrary decision-making by individual managers, and the measures that KAPL put in place to prevent such arbitrary decision-making and ensure that the layoffs satisfied KAPL's business needs while not foolproof were substantial.
+Any system that makes employment decisions in part on such subjective grounds as flexibility and criticality may result in outcomes that disproportionately impact older workers; but at least to the extent that the decisions are made by managers who are in day-to-day supervisory relationships with their employees, such a system advances business objectives that will usually be reasonable.
+"[T]here may have been other reasonable ways for [KAPL] to achieve its goals" (as we held in Meacham, 381 F.3d at 75 ), but "the one selected was not unreasonable."
+City of Jackson, 544 U.S. at 243 , 125 S.Ct. 1536 .
+III.
+"[S]ince claims under the HRL are analyzed identically to claims under the ADEA[,] .
+.
+.
+the outcome of an employment discrimination claim made pursuant to the HRL is the same as it is under the ADEA.
+.
+.
+."
+Xerox, 196 F.3d at 363 ; see also Leopold v. Baccarat, Inc., 174 F.3d 261 , 264 n. 1 (2d Cir. 1999).
+Moreover, the HRL contains a RFOA exception identical to that contained in the ADEA.
+See N.Y. Exec. L. 296(3-a) (d) .
+Therefore, we have no reason to think that, in analyzing the HRL, New York will reject our interpretation of the impact of City of Jackson on analysis of the ADEA.
+Plaintiffs' HRL claims therefore fail for the same reason as their ADEA claims: plaintiffs have not satisfied their burden of demonstrating that defendants' business justification was unreasonable.
+[fn9] IV.
+Because we conclude that plaintiffs' ADEA and HRL claims fail, we reach plaintiffs' cross-appeal challenging the decisions of the district court (i) to strike the report of plaintiffs' expert, Madden, at the end of the liability phase of the trial, and (ii) to exclude from evidence the document entitled "Eligibility Requirement Options for [Voluntary Separation Plan]."
+We review a district court's evidentiary rulings "only for manifest error because the decision of which evidence is admissible is one that is committed to the district judge's discretion."
+Barrett v. Orange County Human Rights Comm'n, 194 F.3d 341 , 346 (2d Cir. 1999).
+The district court committed no manifest error, because (i) Madden testified at length as to the contents of her report and (ii) the document relating to the voluntary separation plan was immaterial because as we held in Meacham the plan was not a suitable alternative to the challenged employment practice.
+See Meacham, 381 F.3d at 75 .
+For the reasons set forth above, we vacate the judgment of the district court, and remand with instructions to enter judgment as a matter of law in favor of defendants on all claims and to dismiss the case. Judge POOLER dissents in a separate opinion.

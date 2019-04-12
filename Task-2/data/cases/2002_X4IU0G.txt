@@ -1,0 +1,74 @@
+ OPINION DAVID A. NELSON , Circuit Judge.
+The question here is whether a Chapter 7 bankruptcy trustee was entitled to a court order setting aside as a voidable preference a loan repayment made by an insolvent debtor to his wholly-owned corporation's profit sharing/pension plan only three weeks before an involuntary bankruptcy petition was filed against the debtor.
+Both the bankruptcy court and the district court determined that the trustee in bankruptcy was entitled to have the repayment set aside, thereby increasing the amount of money available for creditors.
+Pursuant to the Employee Retirement Income Security Act (ERISA), the profit sharing/pension plan contained a spendthrift clause providing that except for loans to participants, no interest available under the plan would be subject to voluntary or involuntary alienation or assignment.
+The plan and its trustee (the debtor wearing a fiduciary hat) contend that this restraint on alienation was enforceable under both ERISA (see 29 U.S.C. 1132(a)(3) and (5) ) and a Tennessee statute, Tenn.
+Code Ann. 26-2-105(b).
+Therefore, argue the appellants, the money in question was not subject to recapture by the trustee in bankruptcy, given the Bankruptcy Code provision (11 U.S.C. 541(c)(2)) that says a restraint on alienation of a debtor's beneficial interest in a trust is enforceable in a bankruptcy case if enforceable under applicable nonbankruptcy law.
+We conclude that neither ERISA nor the Tennessee statute was applicable on the facts presented.
+Accordingly, we shall affirm the decision entered in favor of the trustee in bankruptcy.
+I The debtor, Dr. Raymond B. Yates, was the sole owner of a corporation known as Raymond B. Yates, M.D., P.C.
+The corporation maintained a profit sharing/pension plan that was tax-qualified under 401 of the Internal Revenue Code.
+Dr. Yates was the plan's administrator and trustee.
+As of June 30, 1996, four people had been designated as participants in the plan.
+Dr. Yates was one of the four.
+In December of 1989 Dr. Yates borrowed $20,000 from the plan at 11 percent interest.
+The loan was supposed to be repaid in monthly installments over a five year period, but Dr. Yates failed to make the monthly payments.
+In June of 1992 the term of the loan was extended for five years.
+Still no monthly installments were paid.
+In mid-November of 1996, however, at a time when he must be presumed to have been insolvent (see 11 U.S.C. 547(f)), Dr. Yates used proceeds of a house sale to make payments to the plan in amounts totaling $50,467.46.
+This figure represented repayment of the loan in full, with accrued interest.
+On December 2, 1996--three weeks after the repayment--an involuntary bankruptcy petition was filed against Dr. Yates under Chapter 7, Title 11 , of the United States Code.
+Eight months later the trustee in bankruptcy commenced an adversary proceeding against the plan and its trustee under 11 U.S.C. 547(b) and 550 .
+The complaint asked the court to (a) set the repayment aside as a preferential transfer and (b) order that the money be paid over to the bankruptcy trustee.
+It is undisputed that the $50,467.46 transfer made to the plan in November, 1996, qualified as a preference under 11 U.S.C. 547.
+On cross-motions for summary judgment the bankruptcy court entered a judgment granting the relief sought in the bankruptcy trustee's complaint.
+The district court affirmed, and this appeal followed.
+II The Bankruptcy Code provides that, as a general rule, all property interests of a bankrupt debtor must be turned over to the trustee in bankruptcy for the benefit of creditors.
+11 U.S.C. 541(a)(1).
+Cf. In re Wilcox , 233 F.3d 899, 901 (6th Cir.2000).
+As we have seen, 11 U.S.C. 541(c)(2) carves out an exception to the general rule.
+Section 541(c)(2) reads as follows: The Yates profit sharing/pension plan is a trust that contains a restriction on the transfer of participants' beneficial interests.
+The restriction, captioned "Spendthrift Clause," is couched in the following terms: no benefit or interest available hereunder will be subject to assignment or alienation, either voluntarily or involuntarily Is this spendthrift clause "enforceable under applicable nonbankruptcy law" within the meaning of that phrase as used in 11 U.S.C. 541(c)(2)?
+If it is, the courts below erred in requiring that the money Dr. Yates put into the plan on the eve of his bankruptcy be assigned to the bankruptcy trustee for the benefit of Dr. Yates' creditors.
+If the clause is not enforceable under applicable nonbankruptcy law, however, the courts below did not err in holding that the trustee in bankruptcy was entitled to the money.
+Dr. Yates cites two separate bodies of nonbankruptcy law that are, in his submission, applicable: ERISA and the Tennessee Code.
+We consider each in turn.
+A ERISA contains a provision stating that "[e]ach pension plan shall provide that benefits provided under the plan may not be assigned or alienated."
+29 U.S.C. 1056(d)(1).
+This provision "clearly imposes a 'restriction on the transfer' of a debtor's 'beneficial interest' in the trust."
+Patterson v. Shumate , 504 U.S. 753, 759 , 112 S.Ct. 2242 , 119 L.Ed.2d 519 (1992).
+The Yates plan contained a restriction of the sort prescribed, and one might suppose that Dr. Yates would be entitled to bring a civil action under ERISA to enforce its terms.
+See 29 U.S.C. 1132(a)(3)(B)(ii), which provides that "[a] civil action may be brought by a participant, beneficiary, or fiduciary to obtain appropriate equitable relief to enforce the terms of the plan."
+If one supposed that Dr. Yates could obtain judicial enforcement of the terms of the plan under ERISA in the Sixth Circuit, however, one would be wrong.
+Our published caselaw teaches that "a sole proprietor or sole shareholder of a business must be considered an employer and not an employee of the business for purposes of ERISA."
+Fugarino v. Hartford Life & Accident Ins. Co. , 969 F.2d 178, 186 (6th Cir.1992).
+As an "employer," a sole shareholder cannot qualify as a "participant or beneficiary" in an ERISA pension plan.
+Id. ; Agrawal v. Paul Revere Life Ins. Co. , 205 F.3d 297 (6th Cir.2000).
+The sole shareholder "is not an ERISA entity," in other words, and "does not have standing under the ERISA enforcement mechanisms."
+Agrawal , 205 F.3d at 302 .
+In their opening brief on appeal, the appellants argue that the Fugarino decision departs from a plain reading of ERISA, conflicts with advisory opinions of the Department of Labor, and is contradicted by the caselaw of eight other circuits.
+But these arguments belong in a petition for rehearing en banc; the three judge panel before which this appeal is currently pending has no authority to overrule Fugarino .
+See 6th Cir. R. 206(c) , which reads as follows: To the same effect see Valentine v. Francis , 270 F.3d 1032, 1035 (6th Cir.2001); United States v. Dunlap , 209 F.3d 472, 481 (6th Cir.2000); United States v. Washington , 127 F.3d 510, 516-17 (6th Cir.1997); and United States v. Smith , 73 F.3d 1414, 1418 (6th Cir.1996).
+Finally, the appellants argue that Fugarino was overruled by the Health Insurance Portability and Accounting Act of 1996, which enacted 29 U.S.C. 1191a.
+That section, captioned "Special rules relating to group health plans," provides among other things that "[i]n the case of a group health plan, the term 'participant' also includes [a] self employed individual, if such individual is, or may become, eligible to receive a benefit under the plan " 29 U.S.C. 1191a(d)(3) .
+The appellants' 1191a(d)(3) argument has at least two obvious flaws: Agrawal Fugarino Securities and Exchange Commission v. Johnston 143 F.3d 260, 262 Under circuit precedent by which this panel is bound, in short, it is clear that the spendthrift clause in the Yates profit sharing/pension plan is not enforceable by Dr. Yates under ERISA.
+B Neither is the spendthrift clause enforceable under Tennessee statutory law.
+The Tennessee Personal Property Owner's Rights and Garnishment Act of 1978, on which the appellants rely, contains a section providing (subject to an exception not relevant here) as follows: 401(a) 403(a) 403(b) 408 408A By its terms, this is an exemption statute; that is, it purports to make property exempt from the claims of creditors.
+The statute contains no direct reference to any retirement plan language imposing a restriction on the transfer of a beneficial interest in the plan, and it does not purport to make any provision of the plan enforceable as such.
+Like the Pennsylvania exemption statute considered by the court in In re Lowenschuss , 171 F.3d 673 (9th Cir.1999), the Tennessee exemption statute "operates without regard to a transfer restriction that may be contained in the trust instrument."
+Id. at 682 .
+Nonbankruptcy law that does not purport to provide for the enforcement of a restriction contained in the trust instrument is not the sort of nonbankruptcy law of which the Bankruptcy Code speaks in 11 U.S.C. 541(c)(2).
+The text of 541(c)(2) is notable for its "clarity," see Patterson v. Shumate , 504 U.S. at 760 , 112 S.Ct. 2242 , and "[w]e must enforce the statute according to its terms."
+Id. at 759 , 112 S.Ct. 2242 .
+The appellants would have us go well beyond the literal terms of 541(c)(2); this we decline to do.
+We readily acknowledge that caselaw from two of our sister circuits, the Third and the Eleventh, suggests that those circuits would make the opposite call here.
+See In re Yuhas , 104 F.3d 612, 614 (3d Cir.1997), and In re Meehan , 102 F.3d 1209, 1211-12 (11th Cir.1997).
+With respect, however, it seems to us, for reasons already suggested, that we would be usurping a legislative role were we to read 541(c)(2) as meaning anything other than what it plainly says.
+The power to claim an exemption, after all, is personal to the debtor.
+See In re Noblit , 72 F.3d 757, 758 (9th Cir.1995), In re Everhart , 11 B.R. 770, 772 (Bkrtcy.
+N.D.Ohio 1981), and In re Sanders , 213 B.R. 324, 329 (BkrtcyM.D.Tenn.1997).
+As debtor, Dr. Yates has not claimed the exemption.
+Dr. Yates as trustee of the plan would like to claim an exemption on behalf of Dr. Yates as beneficiary/debtor, but he is not entitled to do so. See In re Ross , 18 B.R. 364 (N.D.N.Y.1982).
+The appellants have not argued that the spendthrift clause in the Yates plan is enforceable at common law or in equity, under Tennessee jurisprudence, so it is not incumbent on us to opine on that question.
+AFFIRMED .

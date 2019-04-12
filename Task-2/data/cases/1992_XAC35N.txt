@@ -1,0 +1,134 @@
+ LOGAN , Circuit Judge.
+This consolidated case involves the interplay between 11 U.S.C. 506(b) (as construed by United States v. Ron Pair Enterprises, Inc. , 489 U.S. 235 , 109 S.Ct. 1026 , 103 L.Ed.2d 290 (1989)), 11 U.S.C. 1325(a)(5)(B), and 11 U.S.C. 1322(b).
+1 The issue before us is whether debtors under a Chapter 13 bankruptcy plan who cure a default on the mortgage of their principal residence may be required to pay interest on the arrearage to an oversecured creditor.
+This issue has been considered by five other circuits, which have split four to one.
+2 The issue has also divided the district and bankruptcy courts in this circuit.
+3 Section 506(b) of the Bankruptcy Code, 11 U.S.C. 506(b), which is applicable to Chapter 13, see id .
+103(a), provides that an oversecured creditor is entitled to "interest on such claim," as well as any reasonable fees, costs, or charges provided under the agreement from which the claim arose.
+In Ron Pair , the Supreme Court held that an oversecured lienholder who has no agreement with the debtor--a nonconsensual secured creditor such as the government with a lien for unpaid taxes--is entitled, under a plain reading of 506(b), to postpetition interest on its claim.
+The "cramdown" provisions of 11 U.S.C. 1325(a)(5) provide that Chapter 13 plans must protect secured creditors' liens and give them "the value [that] is not less than the allowed amount of such claim."
+Id .
+1325(a)(5)(B)(i) and (ii) .
+The cramdown provisions have been construed to require the payment of postpetition interest on a secured claim to prevent economic diminution of the value of that claim.
+See, e.g. , Memphis Bank & Trust Co. v. Whitman , 692 F.2d 427 (6th Cir.1982).
+On the other hand, a Chapter 13 plan may not "modify" a claim secured only by a security interest in the debtor's principal residence.
+11 U.S.C. 1322(b)(2).
+A following subsection, however, provides that notwithstanding that a residential mortgage claim may not be modified the plan may "provide for the curing of any default within a reasonable time and maintenance of payments while the case is pending."
+Id .
+1322(b)(5).
+I In the case before us, debtors filed for protection under Chapter 13 of the Bankruptcy Code in three separate actions.
+They had mortgages on their principal residences that were in default.
+Each of these mortgages was oversecured.
+In each case, the debtors' Chapter 13 plan called for the debtors to make all future monthly payments of principal and interest in the amount specified in the loan documents.
+In addition the debtors were to cure the default by making payments over time to compensate for the missed monthly payments--the arrearages--and attorney's fees and default penalties owing under the respective mortgage instruments.
+The mortgage instruments provided for a five dollar late payment charge but did not provide for interest to be paid on arrearages or on costs and attorney's fees; the instruments provided only that these items should become due and payable immediately.
+4 In each case, relying on 11 U.S.C. 506(b) and 1325(a)(5) , the mortgagee requested interest on the arrearage, attorney's fees and costs created by the debtors' default before cure, and in each case the bankruptcy court declined to order such interest.
+On appeal to the district court the cases were consolidated, and the district court affirmed, holding that 506(b) and 1325(a)(5) did not apply to these cases because of the provisions of 11 U.S.C. 1322(b).
+Thus, under the district court's judgment, when approving a Chapter 13 plan to cure the default on an oversecured mortgage of a debtor's primary residence, the mortgagee is not to be awarded interest on arrearages or other amounts owed absent provision for such interest in the mortgage documents.
+This appeal followed.
+We review this question of law de novo.
+Heins v. Ruti-Sweetwater, Inc. (In re Ruti-Sweetwater, Inc.) , 836 F.2d 1263, 1266 (10th Cir.1988).
+II In the first circuit court decision to consider this interest-on-arrearages issue, Cardinal Fed. Sav. & Loan Ass'n v. Colegrove (In re Colegrove) , 771 F.2d 119 (6th Cir.1985), the Sixth Circuit ruled that interest is payable, holding that "[b]y ordering that interest be paid on the arrearage, there is no modification of the loan agreement.
+Instead, the interest requirement is merely incidental to the 'cure,' which is excepted from the rule of section 1322(b)(2)."
+771 F.2d at 122 .
+The court relied upon the fact that secured creditors (and in one of its prior cases an unsecured creditor) received such interest under 1325; it reasoned that it would be "anomalous" to hold that 1322(b) was intended to prohibit allowing such interest to a mortgagee on a principal residence.
+Id.
+Denying interest would prevent the creditor from realizing the "full present value of the amount owed."
+Id. at 121 .
+Judge Celebrezze, dissenting in Colegrove , would have denied interest, 771 F.2d at 123 , and the four other circuits addressing the issue since have held that no interest is payable on arrearages and other charges paid over time in these Chapter 13 "cure" plans absent language requiring it in the underlying mortgage contract or under state law.
+See Shearson Lehman Mortgage Corp. v. Laguna (In re Laguna) , 944 F.2d 542 (9th Cir.1991), cert. denied , U.S. , 112 S.Ct. 1577 , 118 L.Ed.2d 219 (1992); Landmark Fin. Servs.
+v. Hall , 918 F.2d 1150 (4th Cir.1990); Appeal of Capps , 836 F.2d 773 (3d Cir.1987); Foster Mortgage Corp. v. Terry (In re Terry) , 780 F.2d 894 (11th Cir.1986).
+We think it important to review the analysis in those opinions.
+Dissenting in Colegrove , Judge Celebrezze reasoned that interest on arrearages is not part of "curing" the mortgage default unless an interest provision is in the mortgage contract; therefore allowing interest when there is no interest provision in the contract modifies the contract in contravention of 1322(b)(2).
+771 F.2d at 123-24 .
+Judge Celebrezze thought that Congress did not intend to place the mortgagee in a better position under Chapter 13 than it would be under the mortgage contract.
+He asserted that the analogies to 506(b) and 1325 missed the point, because the mortgagee does not have a "claim," instead it has a "security interest" governed by 1322(b)(2) and (5) .
+Id. at 124 .
+He acknowledged that as "a matter of economics" interest might be necessary to permit the creditor to realize the full value of the debt.
+Id. at 125 .
+But, reviewing the legislative history, Judge Celebrezze was convinced Congress intended "to treat security interests in principal residences different from all other claims."
+Id. The opinion in the next circuit court case, In re Terry , acknowledged the lender's argument about the "time value of money and the loss of income to lenders if interest is not allowed on arrearages," and declared there is "simply no right or wrong" to the argument.
+780 F.2d at 895 .
+The Eleventh Circuit panel stated that the issue turns on the language of the Code sections and what Congress intended.
+The Terry court mentioned that the statute "modified" mortgage contracts, which otherwise would allow the lender to declare the entire debt due, to permit curing the default and reinstatement of regular installment payments.
+Id. at 896 .
+The court held 1325 inapplicable to residential mortgages based on legislative intent of 1322(b) "to create a special exception to 1325(a)(5)(B)," and reasoned that to allow interest on arrearages would constitute a "modification" prohibited by 1322(b)(2).
+Id. at 896-97 .
+"In any event, the benefits for the special treatment of home mortgages which both prohibits discharge of the long term portion of the mortgage debt and prevents modification except as to cure and reinstatement, and the reasons therefor militate against permitting the mortgagee to receive more cash from the debtors than is provided in the contract."
+Id. at 897 .
+The court declared that lenders could protect themselves by specific provisions in their contracts.
+The Third Circuit in Appeal of Capps , relying upon legislative history and analogous Code provisions, concluded that Congress intended to distinguish between "cure" and "modification."
+836 F.2d at 775-76 .
+The Capps court considered 1325 as involving modification, because under cramdown provisions secured creditors' rights can be "'modified by reductions in payments, interest charges or the total amount due,'" id. at 776 (quoting 5 Collier on Bankruptcy ¶ 1322.09 (15th ed. 1986) (hereinafter Collier )), as long as the present value is maintained.
+The opinion acknowledged that under the cure of 1322(b) the secured creditor's position is "adversely affected," id. , because the Chapter 13 plan abrogates contract limitations on the cure period and eliminates the creditor's right to collect arrearages by foreclosure.
+But the Capps panel believed Congress regarded these "incidental adverse effects" as "insignificant when compared with the adverse effects of modifications."
+Id. The court declared that Id. at 777 (footnote omitted).
+Landmark Financial Services was the first post Ron Pair decision at the circuit level.
+This Fourth Circuit panel distinguished cure under 1322(b) from 1325 cramdown because a cramdown requires that the secured creditor receive the present value of its claim within the life of the plan.
+918 F.2d at 1153-54 .
+In contrast, a "cure" reinstates the prebankruptcy agreement of the parties; a "cure under 1322(b)(5) is not a modification of the mortgagee's rights."
+Id. at 1154 .
+The Landmark opinion stated that "[d]espite some broad language in Ron Pair ," 506(b) was inapplicable.
+Id. The court reasoned that 506(b) provides the means to establish the "extent" of a creditor's secured claim.
+But, Id. at 1155 (citations omitted).
+The court went on to hold that if state law required interest on arrearages it would control; but the court found no convincing authority that Virginia law would provide interest when the mortgage agreement did not.
+The most recent circuit court decision on the issue is from the Ninth Circuit, In re Laguna .
+Laguna relied heavily upon Landmark , and adopted Landmark 's distinction between modification and cure.
+See 944 F.2d at 544-45 .
+Laguna also relied upon the Collier bankruptcy treatise's criticism of Colegrove .
+Id. Collier 's reasoning is essentially as follows: Colegrove Collier ¶ 1322.09 at 1322-23 and 1322-24.
+III We are reluctant to disagree with thirteen of the fifteen judges who have decided this issue at the circuit level, and with the writer of the principal treatise on bankruptcy law.
+Nevertheless, with respect, we find their reasoning incongruous and at odds with the Supreme Court's recent admonitions to us on how we are to read and construe statutes.
+See Patterson v. Shumate , U.S. , 112 S.Ct. 2242 , 119 L.Ed.2d 519 (1992).
+There seem to be three core elements in the reasoning of the courts that have rejected interest on arrearages that are to be paid off over time under the Chapter 13 plan: (1) cure under the auspices of the bankruptcy court does not modify the mortgagee's rights under the mortgage contracts; (2) cure occurs under the contracts themselves, outside of bankruptcy law; and (3) legislative history indicates Congress intended to treat mortgages on principal residences different from other oversecured creditors' claims.
+We consider these points in turn.
+A Contrary to point one, the cure contemplated by 1322(b) in fact does modify the mortgagee's rights under the mortgage contract by (1) denying effect to acceleration clauses in mortgages--allowing cure within a "reasonable time"; (2) denying the mortgagees the right to foreclose; and (3) abridging the contract provisions that all payments in default are immediately due and payable.
+The opinion in In re Terry expressly acknowledged that the statute "modified" mortgage contracts, 780 F.2d at 896 , while at the same time it declared that allowing interest on arrearages would constitute a "modification" prohibited by 1322(b)(2).
+780 F.2d at 896-97 .
+The Capps court acknowledged that abrogating contract limitations on the cure period and prohibiting foreclosure "adversely affected" the mortgagees, 836 F.2d at 776 , but thought the changes were insignificant when compared to the adverse affects of the "modification" that would be involved in giving interest on arrearages.
+Id. at 777 .
+By acknowledging that the Bankruptcy Code adversely affects the mortgagee's rights under the contract, but denying that such an application of the Code is a "modification," the cases must be using modification as a term of art.
+The opinions do not explain the basis for creating or defining this term of art.
+Furthermore, they do not explain why granting interest on arrearages is a modification while abrogating cure periods, acceleration clauses, and foreclosure rights under a contract is not.
+B The circuits denying interest admit that under their holdings mortgagees, unlike all other oversecured creditors in bankruptcy, may not receive the full economic value of their secured claims.
+According to this view, the mortgagees are responsible for their losses because they did not protect themselves by adding a provision in the contracts requiring interest on arrearages.
+These decisions indicate that the "cure" occurs under nonbankruptcy law, the contract terms remain in force, and hence the time value of the creditor's money is irrelevant.
+We do not agree with this reasoning.
+First, 1322(b)(5) cannot contemplate merely cure under the contract; in these situations the mortgage contract is not enforced according to its own terms, but as modified by the Bankruptcy Code.
+These modifications alter material terms of the contractual cure, changing the very essence of the cure, including extension of time for making up defaults to whatever is "reasonable," permitting arrearages to be paid over time instead of as one lump sum, and denying the foreclosure remedy the mortgagees typically would use to recover their money quickly or as a lever in negotiating for a catch up on mortgage payments.
+It seems wholly unreasonable to eviscerate the contract provisions of acceleration and foreclosure and then find binding the absence of a term regarding interest on arrearages.
+Second, stating that the cure is under the contract, somehow outside of bankruptcy, assumes that the mortgagee does not have a "claim" in the same sense as other secured creditors, but only a "security interest."
+See Colegrove , 771 F.2d at 124 (Celebrezze, J., dissenting).
+But 1322(b) itself treats the mortgagee's interest as a claim; it says a Chapter 13 plan may modify rights of holders of secured "claims" except "a claim" secured only by a security interest in a debtor's principal residence.
+11 U.S.C. 1322(b)(2).
+Section 1322(b)(5) permits curing of defaults on " any unsecured claim or secured claim" on which the payments extend beyond the time of the Chapter 13 plan.
+11 U.S.C. 1322(b)(5) (emphasis added).
+Thus, the Code clearly contemplates that when a mortgagor is in default on payments on a home mortgage the mortgagee has a "claim" in bankruptcy the same as any other creditor.
+We concede that the cramdown provisions of 1325(a)(5) are distinguishable, in as much as they contemplate full payment during the term of the Chapter 13 plan and may involve reducing payments, interest rates, or other changes in the creditor's claim.
+But a plain reading of the Code requires the application of 506 .
+As Landmark acknowledged, 506 determines the "extent" of an oversecured creditor's claim.
+918 F.2d at 1154 .
+In Ron Pair the Supreme Court interpreted 506(b) to require payment of postpetition interest on an oversecured creditor's claim even though there is no contractual right to such interest.
+See 489 U.S. at 241 , 109 S.Ct. at 1030 .
+Only by holding that Congress intended a different result for home mortgages can we escape the conclusion that the mortgagee is entitled to postpetition interest on arrearages and other charges that are to be paid off over time under a Chapter 13 plan.
+C The courts denying interest resort to legislative history to find congressional intent to treat home mortgages differently from other oversecured claims.
+They review legislative history and presumed congressional intent without making any express finding that the Bankruptcy Code is ambiguous on the interest question.
+As a threshold matter, we do not perceive any ambiguity in the statute that permits resort to legislative history.
+Cf. Toibb v. Radloff , U.S. , 111 S.Ct. 2197, 2200 , 115 L.Ed.2d 145 (1991).
+That Congress intended to permit mortgagors to preserve the equity in their homes and to restore and maintain currency on long-term home mortgage debt is apparent on the face of 1322(b), of course.
+Subsection (b)(2) of 1322 states that the rights of holders of home mortgage claims, unlike the rights of other secured claimants, may not be modified.
+Yet defaults on home mortgages may be cured, id .
+1322(b)(5), as defaults on claims generally can be cured, id .
+1322(b)(3).
+Reading these provisions together, we think the no-modification provision obviously means that the Chapter 13 plan may not reduce the amounts of the payments, the interest rates, or extend the term of the mortgage note.
+The cure provision on the other hand obviously relates to paying of amounts past due.
+Here, clearly the Code itself alters or abrogates the terms of the mortgage, and the cure is under the Chapter 13 plan rather than the mortgage instrument.
+That Congress mandated no modifications of future payments on home mortgages in Chapter 13, we believe in no way indicates that Congress intended to deny oversecured home mortgage creditors interest for the delay in payment of the arrearages or other charges.
+Even if resort to the legislative history is justified, we find no reference to interest or arrearages, or anything that would require these creditors to be treated less charitably than other oversecured creditors.
+Cf. Ron Pair , 489 U.S. at 243 n. 6, 109 S.Ct. at 1031 n. 6 (legislative history of Bankruptcy Code does not shed light on question of postpetition interest).
+We acknowledge that members of the home mortgage lending industry could protect themselves by explicit provisions in the mortgages that anticipate the situation before us.
+But that does not convince us that 506(b), as interpreted by Ron Pair , is inapplicable; it does not convince us that these mortgage lenders had to anticipate Chapter 13 bankruptcy to be entitled to the interest that all other oversecured creditors receive in bankruptcy proceedings.
+Thus, although we reason somewhat differently, we join the Sixth Circuit in holding that in Chapter 13 plans an oversecured mortgagee of the debtor's personal residence is entitled to postpetition interest on arrearages and other charges even if the mortgage instruments are silent on the subject and state law would not require interest to be paid.
+We do not decide whether current market rate or some other measure is the appropriate method for determining the interest payable.
+That issue was not briefed in this appeal and should be addressed in the first instance by the district court.
+REVERSED and REMANDED for further proceedings consistent herewith.

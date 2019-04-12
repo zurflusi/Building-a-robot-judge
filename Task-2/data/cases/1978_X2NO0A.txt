@@ -1,0 +1,163 @@
+ LUMBARD, Circuit Judge: In this appeal, rising out of the insolvency and liquidation of the brokerage firm of Weis Securities, Inc. ["Weis"], we are presented with the question whether a private cause of action exists under section 17 of the Securities Exchange Act of 1934 1 against accountants who prepare misleading statements of a broker's financial affairs, and if so, who may maintain such an action.
+The district court dismissed the claims herein of the Securities Investor Protection Corp. ["SIPC"] 2 and of Edward S. Redington, Weis' Trustee in Liquidation ["Trustee"], believing that no claim for relief was stated because no cause of action could be implied from section 17 .
+3 Redington v. Touche Ross & Co. , 428 F.Supp.
+483 (S.D.N.Y.1977).
+We conclude that customers of a broker have a right of action against an accountant whose audits of the brokerage firm are false or misleading.
+Because we believe that SIPC and the Trustee are appropriate parties to seek (between them) total recovery of the customers' damages, we reverse and remand.
+I Touche Ross & Co. ["Touche Ross"] served as Weis' independent certified public accounting firm from 1969 to 1973.
+In that capacity, Touche Ross prepared annual audits of Weis' affairs as required by section 17 and regulations thereunder.
+The complaint herein alleged that during fiscal 1972, certain of Weis' officers conceived and executed a scheme to conceal from the regulatory authorities and the public Weis' dire financial condition.
+4 The elements of this scheme appear in great detail in the complaint; for example, although Weis had suffered a loss for fiscal 1972 of greater than $1.5 million, its pre-tax earnings for that year were stated as being around $1.7 million.
+When Weis' fiscal 1972 ended on May 26, 1972, Touche Ross proceeded to prepare and certify Weis' financial statements, and to answer the financial questionnaire required by the New York Stock Exchange of its member firms.
+In four opinion letters, dated July 7, July 7, July 21 and July 21 (all of 1972), Touche Ross represented that it had examined (i) the statement of Weis' current financial condition; (ii) Weis' answers to the financial questionnaire; (iii) Weis' consolidated balance sheet for the past year; and (iv) Weis' consolidated statement of earnings for the past five years, and found that each presented fairly and accurately the financial picture of Weis, in conformity with generally accepted accounting procedures.
+In fact, Weis' financial condition was not as stated in the above four documents, but was far more precarious.
+As no steps were taken to attempt to remedy Weis' situation, it continued to deteriorate.
+5 On May 24, 1973, the SEC sought an injunction preventing Weis and its officers from continuing to violate the '34 Act, and SIPC applied for a decree, pursuant to 15 U.S.C. 78eee(a)(2) , adjudging Weis' customers in need of protection under SIPA.
+Accordingly, Weis' liquidation was ordered by (then) District Judge Gurfein on May 30, 1973, and Edward Redington was appointed Trustee for the liquidation.
+SIPC and the Trustee jointly began an action against Touche Ross in New York state court on July 3, 1975.
+Redington v. Touche Ross & Co., No. 13996/76 (Sup.Ct.N.Y.County).
+The common allegations of the plaintiffs in the state court complaint were the same as those in the instant case, except that three paragraphs dealing with claims under section 17 of the '34 Act were omitted.
+Five of the Trustee's six present "causes of action" appear in identical form in the state action, as do four of SIPC's eight present claims.
+The additional claims in this action are the federal securities law claims.
+The instant suit was commenced on April 30, 1976.
+Under federal law and state common law, SIPC seeks to recover $14 million, either as subrogee of Weis' customers whose claims it has paid under SIPA, or as a member of the group directly injured by Touche Ross' delicts.
+Likewise under federal law and state common law, the Trustee is claiming $51 million; he contends that he may recover either by standing in the shoes of Weis' customers, since under SIPA, his is the responsibility to marshal and return their property, 6 or by standing in the shoes of Weis itself, since, he alleges, Weis--as an entity distinct from its conniving officers--was directly damaged by Touche Ross' unsatisfactory audit.
+SIPC and the Trustee appeal from Judge Wyatt's order dismissing the complaint for failure to state a claim on which relief could be granted (with respect to the section 17 counts).
+Touche Ross asks us, in the event we reverse, to stay the federal action in favor of the state court suit.
+7 This last issue, evidently, is one which Judge Wyatt has never had cause to consider.
+II The first question we address is whether customers of a brokerage firm are given any remedy by the '34 Act against accountants whose section 17 reports are false or misleading.
+There are two major considerations involved in this decision: the criteria laid down by the Supreme Court in Cort v. Ash , 422 U.S. 66 , 95 S.Ct. 2080 , 45 L.Ed.2d 26 (1975), for finding an implied right of action in a statute which is silent on the issue; and the "purchase or sale" requirement reaffirmed by the Court in Blue Chip Stamps v. Manor Drug Stores , 421 U.S. 723 , 95 S.Ct. 1917 , 44 L.Ed.2d 539 (1975).
+One preliminary matter must be dealt with.
+Judge Wyatt held that section 17 "was designed to supply administrative guidance in the bookkeeping area and not to create rights in anybody," and that it "does not impose any duty on accountants."
+428 F.Supp.
+at 489, 491 .
+We believe that, even if no right of action were implied, to see nothing but "administrative guidance" in a provision as crucial to the regulation of brokers as section 17 is to take far too narrow a view of the statute.
+Certified public accountants play a significant role in the scheme created by the '34 Act for the regulation of securities trading, as is recognized by the regulations promulgated by the SEC. 8 See, e. g. , 17 C.F.R. 240.17a-5(b), (f), (g), (h), (i), (m) .
+It is well established that section 10(b) of the '34 Act and rule 10b-5 thereunder impose a duty on accountants, for breach of which they may be sued.
+See Ernst & Ernst v. Hochfelder , 425 U.S. 185 , 96 S.Ct. 1375 , 47 L.Ed.2d 668 (1976).
+We hold that section 17 of the '34 Act likewise imposes a duty on accountants.
+A The factors cited in Cort v. Ash , supra , 422 U.S. at 78 , 95 S.Ct. 2080 , familiar through much repetition, which bear on the propriety of finding an implied right of action in a statute are: A consideration of these four factors convinces us that implication of a right of action in favor of Weis' customers is appropriate.
+1.
+The language of section 17 , the SEC rules in the 17a-5 series, and an analysis of the role played by accountants' reports in the regulation of brokers make clear the extent to which Weis' customers are members of a class peculiarly protected by section 17 .
+The documents and reports that the SEC is empowered to require of brokers must be "necessary or appropriate in the public interest or for the protection of investors ."
+15 U.S.C. 78q(a) (emphasis added).
+The same is true of the examinations that the SEC is empowered to conduct.
+Id. 9 In order to provide a complete and accurate picture of a broker's financial condition, the SEC requires that the broker enlist an independent accountant to audit and certify its statements, list any matters to which the accountant takes exception, and provide certain additional financial data.
+Rule 17a-5(b), (i), (k) .
+Furthermore, a notice of any "material inadequacies" found by the accountant in the broker's procedures must be sent to the broker's customers.
+Rule 17a-5(m)(3) .
+10 The function of this arsenal of financial reports is to protect the broker's customers.
+One of the main methods adopted by the SEC to shield customers is the net capital rule, in either the form promulgated by the SEC, rule 15c3-1 , or the stricter version enforced by the New York Stock Exchange, Exchange Rule 325 .
+The net capital rule is a requirement that a broker maintain a certain minimum ratio of liquid assets to aggregate indebtedness; its "principal purpose .
+.
+.
+is to require that the capital position of a broker .
+.
+.
+will always be sufficiently liquid to cover his current indebtedness, in order to be able at all times to promptly meet [sic] the demands of customers."
+Exchange Act Release No. 8024 , 6 Fed.Sec.L.Rep.
+(CCH) ¶ 72,129 (1967).
+As amended in order to take into account the creation of SIPC, the rule serves particularly to "protect customers prior to the time when the broker's .
+.
+.
+assets would be sufficient to satisfy customers in the event of liquidation."
+Exchange Act Release No. 11,497 , [1975-76 Transfer Binder] Fed.Sec.L.Rep.
+(CCH) ¶ 80,212.
+It is the reporting system created by section 17 that provides the SEC and other regulatory authorities with the information needed to enforce the net capital rule.
+Thus, a failure to supply accurate reports will leave the customers without protection until the broker's insolvency can no longer be concealed, and liquidation follows.
+2.
+We find no indication, either in the statute itself or in its legislative history, of any congressional intent either to create a private remedy under section 17 or to deny one.
+11 The legislative history of the section is mute on the issue, leading to the conclusion that Congress never explicitly considered the question.
+Nor can it be said that Congress implicitly chose to deny a private right of action; section 17 is distinctly different in an important respect from statutes as to which such implicit intent has been found. In SIPC v. Barbour , 421 U.S. 412 , 95 S.Ct. 1733 , 44 L.Ed.2d 263 (1975), the Supreme Court noted that SIPA manifested a specific legislative intent to restrict enforcement to the SEC. Id. at 420, 425 .
+In National Railroad Passenger Corp. v. National Association of Railroad Passengers , 414 U.S. 453, 458 , 94 S.Ct. 690 , 38 L.Ed.2d 646 (1974), a similar exclusivity was found to rest with the Attorney General; in Cort v. Ash itself, supra , 422 U.S. at 74-76 , 95 S.Ct. 2080 , the Federal Election Commission was held to be the agency charged with exclusive enforcement.
+We have recently indicated that an intent to commit enforcement of the securities statutes exclusively to the SEC will not readily be implied.
+Abrahamson v. Fleschner , 568 F.2d 862, 874 n. 19 (2d Cir. 1977).
+Nothing in section 17 induces us to treat it as an exception to this rule.
+3.
+"Absent specific statements of legislative intent, we must examine the legislative purposes underlying the Act."
+Abrahamson v. Fleschner , supra , 568 F.2d at 874 , conclude that a private right of action under section 17 is consistent with those purposes.
+A partial list of the many sections of the securities acts under which private remedies have been implied appears in Franklin National Bank v. L. B. Meadows & Co. , 318 F.Supp.
+1339, 1341-42 (E.D.N.Y.1970).
+See III L. Loss, Securities Regulation 1785 (2d ed. 1961).
+At least since J. I. Case Co. v. Borak , 377 U.S. 426 , 84 S.Ct. 1555 , 12 L.Ed.2d 423 (1964) ( section 14(a) ), it has been accepted in securities law that when a statutory provision imposes a duty on someone in favor of a class of protected persons, those persons may sue for the 'statutory tort' committed when the duty is breached.
+We have held that section 17 imposes a duty on accountants in favor of brokers' customers.
+We note that--just as in Borak --the SEC was not meant to, and does not have the resources to examine and audit all the documents that it receives (in Borak , proxy statements; here, section 17 reports).
+12 Both it and SIPC, as well as the broker's customers, must rely on the certification by the accountants.
+Neither SEC injunctive actions nor criminal prosecutions will restore, to customers the money they have lost.
+Indeed, the cases cited by Judge Wyatt in support of the proposition that there exists injunctive and criminal relief for violations of section 17 do not involve accountants.
+See 428 F.Supp.
+at 490 , and cases cited.
+Accordingly, we rule that a private remedy is an essential supplement to the scheme of enforcement of section 17 .
+4.
+Finally, it is evident that just as the problems caused by insolvent brokers are national in scope, so must be the standards governing their reporting.
+Section 17 is part of a statute as to which federal courts have exclusive jurisdiction; state law protection of brokers' customers varies widely.
+There is no reason to believe that the remedy sought herein is one traditionally relegated to state law.
+B The court below found a particularly high barrier to plaintiffs in section 18 and the judicially created purchaser-seller doctrine. 428 F.Supp.
+at 489-90 .
+Section 18 creates private remedy for "misleading statements" in "any application, report, or document filed pursuant to this chapter," in favor of "any person .
+.
+.
+who .
+.
+shall have purchased or sold a security at a price which was affected by such statement .
+. "
+15 U.S.C. 78r .
+Applying this language, and the holding of Blue Chip Stamps , supra , 421 U.S. at 736 , 95 S.Ct. 1917 , Judge Wyatt ruled that the remedy provided by section 18 was exclusive, and that thus no remedy existed for brokers' customers injured as a result of an accountant's misleading statements, absent a purchase or sale of an affected security.
+We disagree.
+Since any misstatement in a section 17 report would not affect the price of the shares of the various issuers in the hands of a broker's customers, a strict application of section 18 's limiting language would leave customers without any remedy whatsoever, no matter how egregious the fraud or how grievous their loss.
+Yet it is plain that brokers' customers are favored wards of section 17 .
+We cannot agree that Congress simultaneously sought to protect a class and deprived the class of the means of protection.
+Our holding is not inconsistent with either the purchaser-seller limitation or section 18 , which will continue to apply to all investors in market securities who seek relief qua investors.
+That is, the Blue Chip doctrine would bar a suit by an investor who claimed to have been induced not to purchase or sell by a misstatement.
+We do not believe, however, that the doctrine applies to brokers' customers, protection of whom is wholly independent of protection of investors per se. III In light of the foregoing analysis, we decide that brokers' customers have a right of action against accountants for certifications that violate the standard set by section 17 and rule 17a-5 .
+This does not, however, resolve the question whether the plaintiffs in the instant case, SIPC and the Trustee, are proper parties to bring the action.
+A SIPC asserts a right to bring this action both in its own right and as subrogee of the customers whose claims it has paid.
+We hold that SIPC may maintain the action as subrogee.
+13 SIPA provides expressly that SIPC, upon reimbursing a customer's losses, shall be subrogated to that customer's claims against the debtor's (here Weis') estate.
+15 U.S.C. 78fff(f)(1) .
+Touche Ross contends that SIPC's statutory right of subrogation against the debtor's estate is its exclusive remedy, precluding any rights against third parties such as Touche Ross.
+We disagree.
+Section 78fff is a detailed blueprint for the distribution of the liquidated debtor's estate, and it is to be expected that SIPC's rights against the estate would be included in that section.
+However, there is no reason to believe that this was meant to destroy SIPC's general common-law right of equitable subrogation.
+31 N.Y.Jur., Insurance 1620, at 510.
+See Ackerman v. Motor Vehicle Accident Indemnification Corp. , 18 A.D.2d 307 , 239 N.Y.S.2d 463 (1st Dept.
+1963) (explicit statutory provision did not destroy MVAIC's broader common-law right to subrogation).
+Moreover, we believe that it is more in keeping with the intent of Congress that wrongdoers not receive a windfall benefit from the existence of SIPC, and that SIPC be able to recoup its losses from solvent wrongdoers.
+Accordingly, we find that SIPC is subrogated to the right of action implied in section 17 in favor of brokers' customers against third parties such as accountants.
+See SEC v. Albert Maguire Securities Co., [Current] Fed.Sec.L.Rep.
+(CCH) ¶ 96,129, at 92,076 (3d Cir. July 27, 1977).
+B The Trustee contends that he is a proper plaintiff herein, both as the representative of Weis' estate and as bailee of Weis' customers' property.
+We hold that he may maintain this action on behalf of such customers as have not been fully reimbursed by SIPC.
+The barriers to a right of action on Weis' behalf are insurmountable.
+It is apparent that brokers, such as Weis, were not included in the class of those protected by section 17 ; indeed, brokers are the very entities regulated by section 17 .
+Two recent cases in point are Piper v. Chris-Craft Industries, Inc. , 430 U.S. 1 , 97 S.Ct. 926 , 51 L.Ed.2d 124 (1977), and Lank v. New York Stock Exchange , 548 F.2d 61 (2d Cir. 1977).
+In each, a member of the class sought to be regulated by Congress attempted to claim the benefit of an implied right of action under the very statute that regulated it.
+Chris-Craft held that a defeated tender offeror could not enforce the Williams Act, 15 U.S.C. 78 o (e) , against a successful tender offeror, because "a party whose .
+.
+.
+conduct was purposefully brought under federal control by the statute .
+.
+.
+can scarcely lay claim to the status of 'beneficiary' whom Congress considered in need of protection."
+430 U.S. at 37 , 97 S.Ct. at 947 .
+In Lank , we decided, in a case not unlike the instant case, that the receiver of a liquidated brokerage firm could not--because the firm itself could not--sue a securities exchange for failure to force the firm to comply with the exchange's rules.
+We pointed out that the '34 Act did not afford protection "to the very members of the stock exchanges whose conduct was being regulated."
+548 F.2d at 66 .
+The extent to which Lank parallels the instant case precludes our holding that the Trustee may maintain this action on Weis' behalf.
+However, none of the above considerations apply to an action brought by the Trustee as bailee of the property of Weis' customers.
+He is responsible for marshalling and returning their property; to the extent that he is unable to do so, he argues, he may sue on behalf of the customer/bailors any wrongdoer whom they could sue themselves.
+Rule 17(a) of the Federal Rules of Civil Procedure reads, in part: "[A] .
+.
+.
+bailee .
+.
+.
+may sue in his own name without joining with him the party for whose benefit the action is brought . "
+The Advisory Committee Notes to this section, added in 1966, 14 point out by way of illustration that the "owner of a warehouse in which household furniture is stored is equally entitled to sue on behalf of the numerous owners of the furniture stored."
+39 F.R.D. 69, 85 (1966).
+See generally 5 N.Y.Jur., Bailments 118, 119.
+To the extent that customers have claims that have not been satisfied either by Weis in liquidation, see note 6 supra , or by SIPC, they retain rights of action against Touche Ross.
+We hold that the Trustee, as bailee, is an appropriate real party in interest to maintain this action on their behalf.
+IV Since we hold that both SIPC and the Trustee may maintain this action against Touche Ross, we remand to the district court for further proceedings consistent with this opinion.
+We leave to it in the first instance a number of questions that will now arise: whether to stay the federal action pending determination of the state action; 15 whether to exercise pendent jurisdiction over the plaintiffs' common-law claims; and what the appropriate standard is for accountant liability in actions under section 17 , cf. Ernst & Ernst v. Hockfelder , 425 U.S. 185 , 96 S.Ct. 1375 , 47 L.Ed.2d 668 (1976).
+Reversed and remanded.

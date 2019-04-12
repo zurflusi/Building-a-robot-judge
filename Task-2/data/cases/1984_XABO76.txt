@@ -1,0 +1,521 @@
+ BOWNES , Circuit Judge.
+On appeal to this court a second time, all parties urge that the district court committed reversible errors in a case arising under the Education for All Handicapped Children Act (EAHCA or Act), 20 U.S.C. 1401-1461 .
+The first appeal generally involved motions for preliminary injunctions concerning the interim educational placement and funding for a learning disabled child, there referred to as John Doe, Jr., 1 see Town of Burlington v. Department of Education , 655 F.2d 428 (1st Cir.1981) (hereinafter Burlington I ).
+The current appeal presents a wide variety of novel issues under the Act.
+These include: the choice of law to be utilized in the state due process hearings; the impact of a school system's regulatory violations on the validity of a child's IEP; the weight to be accorded to the state administrative record and the hearing officer's findings upon appeal; the meaning of the term "additional evidence" as used in the Act; the appropriate burden of proof at trial for the years subsequent to the contested IEP; and the significance of a diagnostic determination by the trial judge.
+Reimbursement issues include the effect of a unilateral parental transfer of the child to a school not authorized by the individualized educational program (IEP) formulated by the school system; the impact of parental reliance on and implementation of a state administrative decision; and bad faith as a bar to reimbursement.
+In view of the protracted procedural background of the case which has included two published opinions, see id. and Doe v. Anrig , 561 F.Supp.
+121 (D.Mass.1983) (Aldrich, J., sitting by designation) (consolidated case including Burlington I on remand), we will first recount its procedural history.
+The factual background may be found in the above-cited opinions.
+We shall then review the alleged errors according to the chronological progression of the case beginning with those alleged to have occurred at the state administrative level.
+Prior Proceedings John had completed the third grade at a regular public school when his parents invoked the administrative appeals process in July 1979 to review an IEP and placement the Town of Burlington (Town) proposed to implement the following September.
+Mediation failed and in August the parents placed the child in a private school, the Carroll School.
+A state due process hearing was held by the Massachusetts Bureau of Special Education Appeals (BSEA) over four days in the autumn of 1979.
+The BSEA hearing officer rendered a decision in January 1980 in favor of the private school placement, holding the Town's IEP to be inadequate and inappropriate for the child's special needs.
+The Town then commenced a two-count action in the district court against the State and the Does, seeking to reverse the BSEA order on the basis of both the federal Act, 20 U.S.C. 1415(e)(2) , and the corollary state Act, Mass.Gen.Laws Ann. ch.
+71B, 1 et seq.
+The federal and state acts have different standards of review.
+The district court denied the Town's request for a stay of the BSEA order that the Town fund the child's education at the Carroll School, and on the state count found in favor of the defendants on a motion for summary judgment.
+On appeal to this court we, inter alia , vacated the grant of summary judgment and directed that the pendent state count be dismissed, holding that the "federal specification for review, when invoked, seems to us designed to occupy the field over an inconsistent state provision."
+Burlington I , 655 F.2d at 431 .
+The federal claim was remanded for trial.
+At the conclusion of a four-day trial, the district court, Zobel, J., reversed the State BSEA finding and held that the Town's IEP was adequate and appropriate.
+The case was then transferred and consolidated with two others to determine whether the Town's remedies included reimbursement for tuition and travel expenses.
+The district court, Aldrich, J., sitting by designation, determined that reimbursement was available to the Town as the prevailing party.
+2 The case was transferred back to the original district court and an order issued requiring the parents to repay the Town the tuition, transportation costs, and other expenses related to the child's education at the Carroll School for the prior three years.
+This appeal ensued with the Department and the parents alleging both legal and factual errors in the district court.
+The Town cross-appeals on the limited issue of the method used to calculate the appropriate reimbursement and the amount thereby awarded.
+It must be emphasized that the State is not, as is usually the case, aligned with the Town on this appeal.
+The State's position parallels that of the Does.
+It urges that the district court erred in reversing the decision of the state educational agency as to the appropriate educational placement for the child.
+Statutory Overview Since our opinion focuses on 20 U.S.C. 1415 , which is reproduced in its entirety as an appendix, some basic observations are in order.
+This section of the Act requires state and local educational agencies to establish and maintain certain procedural safeguards for handicapped children and their parents or guardians.
+1415(a) .
+Subsection (b)(1) sets forth the required procedures, which "shall include, but shall not be limited to Subsection (b)(2) Subsection (c) gives "any party aggrieved by the findings and decision rendered" in the hearing under (b)(2) the right of an "appeal to the State educational agency which shall conduct an impartial review of such hearing."
+Subsection (d) enumerates the rights accorded parties to hearings.
+Subsection (e)(2) opens the courtroom doors to any party aggrieved by the decisions rendered under subsections (b) and (c) by providing that such party Subsection (e)(3) is addressed to the placement of the child during the pendency of the section 1415 proceedings.
+Subsection (e)(4) vests jurisdiction in the district courts of the United States.
+For the reasons set forth in detail in the main part of our opinion, we find that 1415 gives the federal court the authority to enforce both federal and relevant state law.
+"Relevant" state law is law which is not inconsistent with the federally-mandated requirements--both substantive and procedural--of the Act.
+"Relevant" state law includes, inter alia , procedural safeguards which are more stringent than the required procedures set forth in subsection (b) .
+This is made evident by the first sentence of the subsection: "The procedures required by this section shall include, but shall not be limited to ," 1415(b)(1) (emphasis added).
+State law that is inconsistent with the federally-mandated procedures cannot, of course, be enforced by a federal court; it is not within 1415(e)(2) jurisdiction.
+In this case, we deal with state statutes and regulations that are consistent with but higher than the federally-mandated standards.
+Section 1415 mandates that the federal court enforce such statutes and regulations.
+We now turn to an exegesis of the federal Act and an analysis of the specific issues.
+I. THE STATE ADMINISTRATIVE PROCEEDINGS In Board of Education of the Hendrick Hudson Central School District v. Rowley , 458 U.S. 176 , 102 S.Ct. 3034 , 73 L.Ed.2d 690 (1982), the Supreme Court discussed the proper scope of judicial review in actions brought under 20 U.S.C. 1415(e)(2) : "First, has the State complied with the procedures set forth in the Act?
+And second, is the individualized educational program developed through the Act's procedures reasonably calculated to enable the child to receive educational benefits?"
+Id. at 206-07 , 102 S.Ct. at 3051 (footnotes omitted).
+In view of the state hearing officer's findings that the Town violated numerous state and federal laws in handling the child's special educational plans, the State and the Does--appellants here--challenge the failure of the district court to determine whether the Town complied with the procedures mandated by the federal Act and the corollary state Act.
+The Town responds by arguing that the hearing officer's findings were essentially ultra vires .
+The resolution of this question requires us to determine whether the state due process hearing, a central feature of the federal Act, was defective.
+The appellants urge as error the district court's refusal to give any weight to the hearing officer's determination that the Town violated numerous state substantive and procedural regulations plus several federal provisions in its handling of the child's special education.
+The Town's response is that findings concerning past practices regarding compliance with state educational standards and procedures were irrelevant to the question appropriately before the hearing officer, viz.
+, is the IEP proposed by the Town adequate and appropriate?
+Thus, in the Town's view, the district court properly ignored those findings.
+The Town raises two other objections to the findings.
+First, it argues that it was not given fair notice of the procedural or reimbursement issues in violation of the due process clause of the fourteenth amendment, U.S. Const.
+amend.
+XIV, 1 , and the Massachusetts Administrative Procedure Act, Mass.Gen.Laws Ann. ch.
+30A, 11(1) (West 1979), and, second, that the hearing officer's consideration of the prior years of the boy's education was unnecessary and erroneous.
+We first address the question of notice.
+A. Fair Notice We note at the outset that the impartial due process hearings authorized by the Act are to be conducted in accordance with state law. 20 U.S.C. 1415(a) .
+3 This principle is limited only where the federal Act and regulations mandate different or more stringent procedural protection on a given point than does state law.
+See 20 U.S.C. 1415(b)(1) ("The procedures required by this section shall include, but shall not be limited to ").
+In regard to notice, the federal Act speaks only to "written prior notice to the parents or guardian of the child" regarding certain actions a state or local educational agency might take in relation to a disabled child, see 1415(b)(1) (C).
+We find no federal procedural provision preempting state law on the question of fair notice of issues to be decided at the due process hearing.
+We turn, then, to state law.
+The Massachusetts Administrative Procedure Act in pertinent part provides: Mass.Gen.Laws Ann. ch.
+30A, 11(1) .
+The Town's claim of inadequate notice of the procedural issues is disingenuous.
+In a memorandum dated November 28, 1979, submitted by the Town to the state hearing officer, one section is entitled "There is no proof of procedural irregularity and no harm or prejudice to the [Does]."
+Additionally, uncontroverted testimony and exhibits submitted at the administrative hearing indicate that Mr.
+Doe met with the Town's School Committee in executive session to alert it to what he viewed as substantive and procedural irregularities in the handling of his child's special education.
+Adequate notice was provided to the Town on the procedural issues.
+We also find that the Town had adequate notice under 11(1) of the reimbursement issues.
+While the corroborating documents were not put into evidence until the last day of the hearing, testimony from Mr.
+Doe on the first day of the hearing (September 26, 1979) and from Mrs.
+Doe on the last day (November 1) was directed to whether the Town had provided them with the information regarding their right to an independent evaluation of their son, as required by 20 U.S.C. 1415(b)(1)(A) ; 34 C.F.R. 300.503 ; and Mass.Admin.Code tit. 603, 328 , and what independent evaluations the parents actually had obtained.
+We believe that the natural implication of the Does' testimony that the Town denied them notice of their right to and payment for independent evaluations is that they would expect to be reimbursed for the expenditures the law required of the Town.
+This inference is reasonable in view of the Massachusetts Supreme Judicial Court's decision in Amherst-Pelham Regional School Committee v. Department of Education , 376 Mass. 480 , 381 N.E.2d 922 (1978), which validated the Department's power to order reimbursement to parents who obtained necessary services for their child because of the school committee's failure to provide them.
+The hearing officer, moreover, provided an opportunity to both parties to submit rebuttal evidence as well as argument in written closing statements.
+At the request of both parties, the deadline was extended an additional three weeks.
+The Town did not utilize this evidentiary opportunity but claimed that procedural due process required that they be given an opportunity to cross-examine witnesses regarding the bills.
+The hearing officer found, however, and we agree, that all the submitted bills corresponded to testimony given at the hearing by witnesses examined and cross-examined by the Town.
+We find no authority for construing the provision "reasonable opportunity to prepare and present argument respecting the issues," Mass.Gen.Laws ch.
+30A, 11(1) , to require that a second opportunity for cross-examination of witnesses must be provided.
+Nor do we construe 20 U.S.C. 1415 to mandate such an opportunity.
+Rather, we think that the hearing officer provided the procedural due process required by the statute and, in any event, no prejudice has been shown.
+We discern no basis for a constitutional claim of denial of due process on either issue.
+B. Extent of the Hearing Officer's Consideration of Prior Years The hearing officer took into consideration all years of John's education because she found that the Town had provided the parents with an incomplete notice of their appeal rights in June 1977, at the close of John's first year, and no written transmission of any information about parents' rights subsequent to that time.
+The hearing officer therefore concluded that "the parents cannot be held responsible for any delay in requesting appeal and that the matter is legitimately before the Bureau 4 at this time."
+In Re BSEA # 2867 at 12 (Jan. 20, 1980).
+The Town challenges the consideration by the Bureau of prior years as well as the relevance of past alleged illegalities to a judgment regarding a prospective IEP.
+The cases on which it relies are inapposite, however.
+In both New Bedford Gas and Edison Light Co. v. Board of Assessors of Dartmouth , 368 Mass. 745 , 335 N.E.2d 897, 899 (1975), and Canron, Inc. v. Board of Assessors of Everett , 366 Mass. 634 , 322 N.E.2d 83, 85 (1975), the Supreme Judicial Court undertook to interpret Mass.Gen.Laws Ann. ch.
+59, 59 , regarding the timeliness of tax abatement petitions; no rulings were made interpreting the Massachusetts Administrative Procedure Act, Mass.Gen.Laws Ann. ch.
+30A, 10 , 11 , which governed this case at the state hearings.
+Moreover, the state Act, consistent with the requirements of the federal Act, expressly charges the school system with the responsibility of notifying parents of their procedural and appellate rights.
+Compare Mass.Gen.Laws Ann. ch.
+71B, 3 with 20 U.S.C. 1415(b)(1)(D) .
+See also Scokin v. Texas , 723 F.2d 432 (5th Cir.1984).
+In Rowley , the Court commented on the importance of the procedural safeguards in 1415 : 1415 see, e.g. 1415(a) d) Rowley 458 U.S. at 205-6 , 102 S.Ct. at 3050-1 .
+The Court further noted that "adequate compliance with the procedures described would assure much of what Congress wished in the way of substantive content in an IEP."
+Id.
+Lack of notice to the parents, then, regarding their procedural rights drives a stake into the very heart of the Act.
+Since the Town failed to give the parents proper notice, and since such notice might have led them to appeal earlier, it was reasonable for the State to hear those appeals despite their falling outside of the specified time frame, and to view the Town's lack of notice as a waiver of any time bar objection that might otherwise apply.
+Here, complete procedural information should have been provided to the parents in June 1977.
+Although the federal Act was not yet effective on that date, the state Act's provisions were in force.
+The hearing officer was, therefore, empowered to take into consideration the events the parents could have appealed on that date.
+The practical effect of examining the entire course of events is limited.
+No hearing officer or court can turn back the clock and provide a disabled child an appropriate education for prior years; prospective relief, except for reimbursement under certain circumstances, Doe v. Brookline , 722 F.2d at 919-21 , generally comprises the remedy under the Act.
+Anderson v. Thompson , 658 F.2d 1205, 1210-13 (7th Cir.1981).
+The value of considering a broader period of time, therefore, is basically evidentiary, to show procedural bad faith or a history of nonimplementation of IEPs.
+Further, while we do not reach the question, certain prospective relief, such as compensatory education, may arguably be ordered on the basis of prior defaults in the provision of a free appropriate public education.
+See Timms v. Metropolitan School District of Wabash County , 722 F.2d 1310, 1314-15 (7th Cir.1983); see also Milliken v. Bradley , 433 U.S. 267, 289-90 , 97 S.Ct. 2749, 2761-62 , 53 L.Ed.2d 745 (1977).
+We conclude that interpreting the reach of the hearing officer in this manner comports with the court's responsibility to do substantial justice.
+Doe v. Brookline , 722 F.2d at 917 .
+C. The Hearing Officer's Findings The "cooperative federalism" that has been identified as a central hallmark of the Act, Georgia Association of Retarded Citizens v. McDaniel , 716 F.2d 1565, 1569 (11th Cir.1983); Battle v. Commonwealth of Pennsylvania , 629 F.2d 269, 278 (3d Cir.1980), cert. denied , 452 U.S. 968 , 101 S.Ct. 3123 , 69 L.Ed.2d 981 (1981); see also King v. Smith , 392 U.S. 309, 316 , 88 S.Ct. 2128, 2133 , 20 L.Ed.2d 1118 (1968); Abrahamson v. Hershman , 701 F.2d 223, 231 (1st Cir.1983), is specifically reflected in 20 U.S.C. 1415(a) .
+That section, as already noted, indicates that the procedures governing the "impartial due process hearing[s]," including the procedures due parties, are to be determined on the basis of state law unless more stringent federal provisions control.
+Here, in order to determine whether the state hearing officer was permitted to consider the Town's alleged violations of state special education regulations, we must decide whether the federal Act requires any differentiation in the choice of substantive law to be applied in state administrative hearings.
+Under the federal Act, a state is free to accept or reject the participation of the federal government in its educational programs for the disabled.
+See Doe v. Brookline , 722 F.2d at 916 n. 4.
+For states that contract for inclusion, the Act expressly authorizes and requires a state and local administrative apparatus to effectuate both its substantive and procedural guarantees in the first instance.
+See, e.g. , 20 U.S.C. 1412-1415 ; 34 C.F.R. 300.122 , 300.128 -.
+130, 300.220 -.
+227 , 300.300 , 300.304 .
+While compliance with the minimum standards set out by the federal Act is mandatory for the receipt of federal financial assistance, Smith v. Cumberland , 703 F.2d 4, 7 (1st Cir.1983), cert. granted , U.S. , 104 S.Ct. 334 , 78 L.Ed.2d 304 (1983), the Act does not presume to impose nationally a uniform approach to the education of children with any given disability; it requires only that a "free appropriate education," 20 U.S.C. 1412(1) , in conformity with the state's educational standards, 20 U.S.C. 1401(18) 5 , 1412(6) 6 , be provided to each disabled child upon individualized evaluation and planning.
+See 20 U.S.C. 1401(18) -( 19) and Rowley 458 U.S. at 200-04 , 102 S.Ct. at 3047-50 .
+"Cooperative federalism" in this context, then, allows some substantive differentiation among the states in the determination of which educational theories, practices, and approaches will be utilized for educating disabled children with a given impairment.
+Rowley at 207-08 , 102 S.Ct. at 3051-52 .
+7 This approach also permits substantive variations in the level of remedial educational services states provide, once the federal minimum standard of a "free appropriate public education" is met.
+See 20 U.S.C. 1412(6) .
+We find no indication in either the statutory language or the legislative history of the Act that Congress intended to create either a substantive or procedural ceiling regarding the rights of the disabled child.
+Thus, under our reading of the Act, states are free to elaborate procedural and substantive protections for the disabled child that are more stringent than those contained in the Act.
+Accord Eberle v. The Board of Public Education of the School District of Pittsburgh, Pennsylvania , 444 F.Supp.
+41, 43 (W.D.Pa.1977).
+We believe that under the "cooperative federalism" approach the proper construction of 1415 is that state substantive law supplements the federal Act in prescribing the determinations to be made at the due process hearing.
+It seems plain that the Congress drew the procedural and substantive contours of education for disabled children, but left the shading and tinting of the details largely to the states.
+States are responsible for filling in the numerous interstices within the federal Act through their own statutes and regulations.
+Congress provided for federal executive oversight through states' annual plans to assure basic compliance with the federal minimum standards but the states supply the machinery necessary to effectuate the guarantees provided by the federal Act on a daily basis.
+8 Given the crucial role Congress has assigned to the states in effectuating a "free appropriate public education" for all disabled children, we hold that states have the right to enforce their own laws and regulations at the due process hearings authorized by 1415 , 9 and not merely those skeletal federal provisions designed as minimum standards.
+10 Any other construction would render the states powerless to effectuate the federal Act fully or to provide greater protection and services for disabled children than the Act requires.
+We find no support in the legislative history of a congressional intention to supplant the states' historic direction of education within their boundaries.
+11 We now evaluate the Town's claim that the hearing officer deviated from the only question properly before her and allowed extraneous considerations to taint her decision that the Town's IEP was inadequate for John's needs.
+The hearing officer framed the issues at the outset of her opinion: The Town does not object to issue one, nor to the correlative inquiry contained in issue three; it concentrates its attack on issue two.
+13 The hearing officer's inquiry, however, is mandated by the crucial role of state regulations in effectuating the guarantees of the federal Act.
+Further, the officer did not merely enumerate the state and federal regulations she found the Town to have violated, but discussed how many of those illegalities seriously compromised John's right to an appropriate education.
+Since there is no claim of federal preemption here, the only question remaining is whether the hearing officer properly applied state substantive law.
+In Isgur v. School Committee of Newton , 9 Mass.App.
+290 , 400 N.E.2d 1292 at 1292 (1980), the court posed the pertinent question: "[D]oes the failure to comply with the regulation[s identified] go to the essence of rights granted by c. 766 [and the federal Act]?"
+14 We have no difficulty in finding that the hearing officer properly answered this question affirmatively.
+Accordingly, we hold that the hearing officer did not err in linking the Town's violations of John's essential rights to the conclusion that the Town lacked the capacity to implement the IEP as written.
+II.
+THE SCOPE OF THE DISTRICT COURT'S REVIEW The parties present several questions regarding the scope of the district court's review of the state administrative proceedings.
+The Act provides in pertinent part: 20 U.S.C. 1415(e)(2) .
+The district court's review raises the following issues: the proper interplay between the federal and state Acts; the weight to be accorded the administrative record and the deference due the administrative findings; the construction and application of the "additional evidence" provision; and the omission of a diagnostic determination.
+Our resolution of these issues follows the spirit of "cooperative federalism."
+We must strive for an interpretation of the federal Act that does not limit the states to the federal floor, but allows them to achieve greater aspirations by higher commitments.
+A. Procedural Violations We first turn our attention to the district court's treatment of the state administrative finding that the Town violated numerous statutory and regulatory provisions governing procedures in special education, some federal and some state.
+The hearing officer found that the Town had violated, inter alia: the extensive regulations of both bodies of law regarding parental notification and written consent to evaluations which are, or may be, used to determine classroom placement and program; both federal and state regulations regarding the writing of an educational plan in 1977; the state regulation requiring that an evaluation team issue an educational plan or a finding of no special needs at the conclusion of an evaluation; regulations requiring that all members of an evaluation team meet together to discuss the child's educational needs, rather than in smaller groups seriatim; and the regulations mandating parental notification prior to modifications of an IEP already in force.
+The district court did not take these findings into consideration.
+Instead, the court framed the procedural question before it as "whether the state had complied with the procedures set forth in the Act."
+Town of Burlington v. Department of Education and Doe , Memorandum of Decision at 9 (August 13, 1982).
+That issue, in the district court's view, required it not only to "'satisfy itself that the State has adopted the State plan, policies, and assurances required by the Act,' but also [to] determine that the State has created an IEP for the child in question which conforms with the requirements of 1401(19) ."
+Id .
+(quoting Rowley ).
+The district court then found that "Massachusetts has conformed with all of the Act's procedural requirements" 15 and that the "parents have been afforded the right to complain" and appeal.
+We believe that the district court framed the procedural inquiry too narrowly by looking only to the State's procedural compliance.
+Here, the Town, not the State, was alleged to have violated the Does' procedural rights.
+Both federal and state regulations extensively govern the responsibilities of towns or local educational agencies (LEAs) under the Act, as well as those of States.
+See, e.g. , 34 C.F.R. 300.180 300.240 ; 300.452 ; 300.530 -.
+534 ; Mass.Admin.Code tit. 603, 200.0 211.0 ; 300.0 328.4 .
+The federal statute itself places obligations upon the LEAs and designates the states as the enforcers of compliance with the federal laws.
+See 20 U.S.C. 1412(6) ; 1414(a)(5) -( 7) .
+See also Senate Committee on Labor and Public Welfare Report No. 94-168, 1975 U.S.Code Cong. & Ad.News 1425, 1448 (Act designed to "assure a single line of responsibility with regard to the education of handicapped children").
+The Supreme Court in Rowley emphasized the crucial significance of the procedural protections and enumerated some of the very provisions the state hearing officer held the Town to have violated.
+See Rowley 458 U.S. at 205 , 102 S.Ct. at 3050 .
+Finally, under the federal statute, the complaint may concern "any matter relating to the identification, evaluation, or educational placement of the child, or the provision of a free appropriate public education of such child."
+1415(b)(1) (E).
+This language obviously includes complaints about Town or LEA procedural violations of the Act and not merely those of the states.
+We, therefore, believe that the Court's directive to determine whether the "State complied with the procedures set forth in the Act," Rowley at 206 , 102 S.Ct. at 3051 , should be interpreted to open inquiry into the procedural compliance of the Town, LEA, or other agency supervised by the State where noncompliance is alleged.
+The district court should have expanded its review to include the Town's procedural violations.
+This conclusion raises the question whether the Town can be held accountable in district court only for violations of federal law or for violations of state regulations as well.
+In Burlington I , we held that it was error for the district court to grant summary judgment on the basis of state law because "the federal specification for review, when invoked, seems to us to occupy the field over an inconsistent state provision."
+655 F.2d at 431 (footnote omitted).
+That case dealt with the judicial review provision in section 1415(e)(2) which establishes jurisdiction over disputes in both the federal and state courts, and provides for review under a rigorous preponderance of the evidence standard.
+We concluded that the inconsistent state review provision, which requires a deferential "substantial evidence" standard, is inconsistent with the federal standard and therefore does not apply in suits under the federal Act.
+Although state law cannot provide a separate basis for relief via a pendent state claim, it would be wrong to interpret our earlier decision as holding that state law is irrelevant to resolving the federal question before the court.
+Because of the cooperative federalism approach and the provisions for states to supply the interstitial detail so essential for effectuating the Act, it is hardly appropriate for federal courts to enforce only the skeletal federal framework; this would greatly undermine the provisions for substantive and procedural protection to the beneficiaries of the Act.
+The ultimate question for a court under the Act is whether a proposed IEP is adequate and appropriate for a particular child at a given point in time.
+As noted, this inquiry has both procedural and substantive components.
+Rowley at 206-07 , 102 S.Ct. at 3051 .
+We do not think the question can be answered properly unless the district court takes into consideration the federal minimum requirements and consistent state interstitial regulations.
+While a separate state claim for violation of state regulations will not lie, they are material and relevant to the determination of whether the federal right to a free appropriate public education has been provided under the IEP.
+B. State Substantive Standards The next question is whether state substantive standards which guarantee a higher level of educational quality and benefits for disabled children than the federal minimum will be given effect in federal courts.
+The Rowley Court, in interpreting the federal Act, found it "generates no additional requirement that the services so provided be sufficient to maximize each child's potential 'commensurate with the opportunities provided other children.'"
+Rowley at 198 , 102 S.Ct. at 3046 .
+But the Court also held the Act to contain a federal minimum standard, a "basic floor," of beneficial education.
+Rowley at 201, 102 S.Ct. at 3048 .
+16 While the Court did not articulate "one test for determining the adequacy of educational benefits conferred upon all children covered by the Act," Rowley at 202, 102 S.Ct. at 3049 , it did identify some basic guidelines.
+It construed the federal standard to require, inter alia , personalized instruction based on a determination of the unique needs of the disabled child with sufficient support services to permit the child to benefit educationally from that instruction.
+It also found that the plan must be "reasonably calculated to enable the [specific] child to receive educational benefits," id. at 207 , 102 S.Ct. at 3051 .
+It seems clear that 1401(16) , which states "'special education' means specially designed instruction to meet the unique needs of a handicapped child," and 1401(18) , which specifies the formal requirements of a "free appropriate public education," require that all of a child's special needs must be addressed in the educational plan.
+The objective of the federal floor, then, is the achievement of effective results--demonstrable improvement in the educational and personal skills identified as special needs--as a consequence of implementing the proposed IEP.
+See 20 U.S.C. 1401(19)(E) .
+Cf.
+Helms v. McDaniel , 657 F.2d 800, 802 (5th Cir.1981); Kruelle v. New Castle County Schools , 642 F.2d 687, 691 (3d Cir.1981).
+While the federal Act establishes a basic floor of education, it may provide a lesser standard of educational services and procedural protection than state law mandates.
+17 See, e.g. , Cothern v. Mallory , 565 F.Supp.
+701, 706-08 (W.D.Mo.1983) (state statute requires special education to "meet the needs and maximize the capabilities" of the disabled child); Isgur v. School Committee of Newton , 9 Mass.App.
+290 , 400 N.E.2d at 1298 (state statute directs reassignment if, after subsequent evaluation, "another program may benefit the child more," and if "program does not benefit child to the maximum extent feasible").
+The federal Act also specifies that a federal "free appropriate public education" must "meet the standards of the State educational agency," 20 U.S.C. 1401(18)(B) ; see also Rowley 458 U.S. at 203 , 102 S.Ct. at 3049 .
+We hold, therefore, that the Act incorporates by reference state standards, be they substantive or procedural, that exceed the federal basic floor of meaningful, beneficial educational opportunity.
+18 Thus a district court's inquiry must include a determination whether the state substantive standard exceeds the protection and services required by the federal Act.
+If it does, the state standard will operate to determine what an appropriate education requires for a particular child in a given state.
+19 Here, the district court disposed of the hearing officer's decision summarily: This ruling ignores the requirement of 1401(18) , which specifies that a disabled child's education must "meet the standards of the State educational agency."
+Application of the Rowley principles reveals two additional problems with the district court's decision.
+First, the hearing officer provided considerably more content to John's "unique needs" than the district court acknowledged in its opinion.
+She found that John did not work well independently, was painfully aware of his learning deficits, and had lost self-esteem because his reading skills had not allowed him to keep pace with his peers.
+In the Town's proposed placement, John's reading skills would have been lower than those of five of the six students and he would have been one of the older students in the class.
+The hearing officer was concerned that insufficient group work was possible in the class for John's needs, and that "the skill variance among students might have the effect of increasing [John's] frustration.
+I am additionally concerned that a highly individualized program may not be appropriate for a student who does not work well independently."
+In its opinion, the district court did not discuss these findings at all.
+Instead, the court appears to have taken as its point of reference a learning disabled child generally and how the Town's placement would provide a beneficial education.
+Nor did the district court address the hearing officer's findings that the Town exceeded the maximum thirty-six months chronological age span in the classroom proposed for John and failed to request a waiver from the department for this deficiency, and that the proposed school day was shortened by fifteen to twenty minutes without state approval.
+In reviewing the administrative decision, the court simply concluded that the proposed IEP complied with the "definitional checklist" of an appropriate education and met the state's educational standards.
+The court, in effect, ignored the state's substantive standards.
+This was error.
+C. The Evidentiary Issues Defendants contend that the district court erroneously interpreted and applied the Act's provision for "additional evidence."
+They also question the weight the court gave the administrative record and the deference accorded the administrative findings.
+Because we consider these questions interrelated, we discuss them together.
+The only statutory language directly addressed to these evidentiary matters directs that "the court shall receive the records of the administrative proceedings, shall hear additional evidence at the request of a party , and, basing its decision on the preponderance of the evidence, shall grant such relief as the court determines is appropriate."
+20 U.S.C. 1415(e)(2) (emphasis added).
+This court has described the judicial review proceedings under the Act as "something short of a trial de novo ."
+Colin K. By John K. v. Schmidt , 715 F.2d 1, 5 (1st Cir.1983).
+The district court, however, which did not have the benefit either of the Supreme Court's decision in Rowley or of ours in Colin K. prior to trial, joined other courts in interpreting the Act to require a trial de novo .
+Pretrial Order at 6 (March 18, 1982).
+Consonant with this, it ruled that it was "bound to receive additional evidence offered by the parties, provided it is relevant."
+Id.
+We believe that the key to the review authorized by the Act lies in the additional evidence clause.
+We construe "additional" in the ordinary sense of the word, Perrin v. United States , 444 U.S. 37, 42 , 100 S.Ct. 311, 314 , 62 L.Ed.2d 199 (1980), to mean supplemental.
+20 Thus construed, this clause does not authorize witnesses at trial to repeat or embellish their prior administrative hearing testimony; this would be entirely inconsistent with the usual meaning of "additional."
+We are fortified in this interpretation because it structurally assists in giving due weight to the administrative proceeding, as Rowley requires.
+Rowley 458 U.S. at 206 , 102 S.Ct. at 3051 .
+A trial court must make an independent ruling 21 based on the preponderance of the evidence, but the Act contemplates that the source of the evidence generally will be the administrative hearing record, with some supplementation at trial.
+The reasons for supplementation will vary; they might include gaps in the administrative transcript owing to mechanical failure, unavailability of a witness, an improper exclusion of evidence by the administrative agency, and evidence concerning relevant events occurring subsequent to the administrative hearing.
+The starting point for determining what additional evidence should be received, however, is the record of the administrative proceeding.
+We decline to adopt the rule urged by defendants that the appropriate construction is to disallow testimony from all who did, or could have, testified before the administrative hearing.
+We believe that, although an appropriate limit in many cases, a rigid rule to this effect would unduly limit a court's discretion and constrict its ability to form the independent judgment Congress expressly directed.
+A salient effect of defendants' proposed rule would be to limit expert testimony to the administrative hearing.
+Our review of the cases involving the Act reveals that in many instances the district court found expert testimony helpful in illuminating the nature of the controversy and relied on it in its decisional process.
+22 There could be some valid reasons for not presenting some or all expert testimony before the state agency.
+Experts are expensive--the parties at the state level may feel that their cases can be adequately made with less backup, especially since the administrative hearing in Massachusetts is conducted by an expert.
+We also recognize that in many instances experts who have testified at the administrative hearing will be bringing the court up to date on the child's progress from the time of the hearing to the trial.
+It would be difficult to draw a sharp line between what had or could have been testified to at the administrative hearing and the trial testimony.
+The determination of what is "additional" evidence must be left to the discretion of the trial court which must be careful not to allow such evidence to change the character of the hearing from one of review to a trial de novo .
+A practicable approach, we believe, is that an administrative hearing witness is rebuttably presumed to be foreclosed from testifying at trial.
+A motion may then be made to allow such a witness to testify within specified limits stating the justification for the testimony.
+In ruling on motions for witnesses to testify, a court should weigh heavily the important concerns of not allowing a party to undercut the statutory role of administrative expertise, the unfairness involved in one party's reserving its best evidence for trial, the reason the witness did not testify at the administrative hearing, and the conservation of judicial resources.
+The court should look with a critical eye on a claim, such as made here, that the credibility of a witness is a central issue.
+The claim of credibility should not be an "open sesame" for additional evidence.
+Such an approach followed by a pretrial order that identifies who may testify and limits the scope of the testimony will enable the court to avoid a trial de novo .
+A further question remains: whether any special deference is to be accorded the administrative findings.
+The statute requires the reviewing court to " receive the records of the administrative proceedings," 1415(e)(2) (emphasis added), and Rowley mandates that "due weight" shall be accorded to the "proceedings."
+No direct reference, in either the Act or Rowley , is made to the administrative findings.
+The district court's initial solution was to accord them the " prima facie effect of a Master's findings."
+The applicable rule, Fed.R.Civ.P. 53(e)(2) , states: "In an action to be tried without a jury, the court shall accept the Master's findings of fact unless clearly erroneous."
+In view of the Act's requirement of the preponderance of the evidence standard of review, applying the clearly erroneous test to administrative findings would be contradictory and confusing.
+If the district court meant to place its emphasis on the prima facie effect to be given such findings, the result would be a plethora of motions to submit additional evidence in an attempt to overcome the prima facie effect of the findings and a trial de novo would seem inevitable.
+Cf.
+Helms v. McDaniel , 657 F.2d 800, 805 (5th Cir.1981) (administrative findings cannot be treated as master's findings).
+Because Congress intended courts to make bounded, independent decisions--bounded by the administrative record and additional evidence, and independent by virtue of being based on a preponderance of the evidence before the court--the question of the weight due the administrative findings of facts must be left to the discretion of the trial court.
+The traditional test of findings being binding on the court if supported by substantial evidence, or even a preponderance of the evidence, does not apply.
+This does not mean, however, that the findings can be ignored.
+The court, in recognition of the expertise of the administrative agency, must consider the findings carefully and endeavor to respond to the hearing officer's resolution of each material issue.
+After such consideration, the court is free to accept or reject the findings in part or in whole.
+There is a corollary to this rule.
+Where a state administrative decision rules a proposed IEP invalid because it has not met the state's substantive or procedural requirements pertaining to a free appropriate public education for a particular disabled child, a federal court should accord the findings deference.
+In such a situation, as here, a federal court continues to have the power of review on both federal and state grounds but should be more circumspect about its intrusion.
+It is hard to locate a significant federal interest in displacing a state agency's supportable ruling 23 that one of its school systems has not complied with state standards.
+In turn, where a state agency holds an IEP to have met state standards, the federal court has a continuing obligation to ensure that the state standards themselves and as applied are not below the federal minimums.
+This important obligation persists despite any state administrative rulings on federal law or on state recodifications of federal law.
+This asymmetrical approach is based upon the principles and policy of federalism which ground the Act, and more specifically, on the pivotal role of the state--historically and as expressly recognized in the Act--in setting and enforcing the educational standards for its citizens.
+The local education agencies are subject to the state's legal authority, both as a general matter and per the operation of the federal Act.
+See 20 U.S.C. 1431(a)(2) ; see also 20 U.S.C. 1412(6) .
+As already discussed, a federal minimum floor of beneficial education is provided in the Act but a state is free to exceed, both substantively and procedurally, the protection and services to be provided to its disabled children.
+The local educational agencies are then required to meet the state-mandated level of protection in the IEPs they propose and implement.
+We may conclude, then, that school systems have a set of affirmative obligations that are to be discharged under the scrutiny of state educational agencies, and only as a last resort, the federal and state courts.
+This approach to IEP appeals from state educational agencies will augment states' abilities to enforce their substantive and procedural requirements regarding protection for disabled children where they exceed the federal minimum floor, and to require of local educational agencies full performance of state interstitial regulations.
+24 The achievement of the federal Act's goal--free appropriate public education for disabled children--will occur primarily via state efforts.
+We believe this approach properly locates the federal interest at stake and limits federal intrusion into the relations between states and their political subdivisions.
+In this case, the district court did not follow its initial intention of giving the findings prima facie effect; nor did it give them careful consideration.
+It ruled the numerous findings of the state hearing officer regarding procedural and substantive violations of state law to be "irrelevant."
+Under the approach we have outlined, these findings by the state hearing officer must be reviewed as bearing on the federal right to an appropriate education and must receive the court's specific consideration.
+Further, because the hearing officer found the Town's proposed IEP invalid as a matter of state law, the district court should have circumscribed its review and accorded the state findings deference.
+A final evidentiary issue remains.
+The Does assert as error the district court's omission of a diagnostic determination of John's disability.
+In its Memorandum of Decision, the district court stated: "Because the experts are in substantial agreement as to the manner in which [John] should be helped, I need not resolve the differences in their diagnoses, if indeed they are anything other than differences in emphasis."
+The Town endorses the district court's position.
+We cannot agree.
+The Congress indicated its concern regarding the misclassification of disabled children and ordered the establishment of special evaluation procedures.
+See 20 U.S.C. 1412(5)(C) ; 34 C.F.R. 300.530 -.
+534 .
+Even more exacting procedures were required for the evaluation of children suspected of having specific learning disabilities.
+See 20 U.S.C. 1411 (Note); 34 C.F.R. 300.540 543 .
+We do not read the experts' testimony and reports as being in substantial agreement.
+They and other witnesses sharply disagreed over the nature of John's learning difficulties.
+One expert identified a severe neurologically based visual processing problem, often known as dyslexia, as the basis of John's learning problems, and noted a secondary attention deficit disorder.
+Another expert expressly and repeatedly excluded dyslexia as the source of John's problems and gave a diagnosis of both hyperactivity and attention deficit disorder.
+We recognize that the medical and educational definitions of dyslexia are in flux and that the term is being replaced in favor of more precise diagnostic terminology.
+See J. Lerner, Learning Disabilities 295 (1981).
+We also are aware that hyperactivity and specific learning disabilities flowing from visual processing problems may be present concurrently but have no necessary conjunction.
+See S. Smith, No Easy Answers: Teaching the Learning Disabled Child 20 (1979).
+Because adequate educational remediation is dependent upon the analysis of the nature of the learning difficulties, the district court should make a finding regarding these divergent assessments of John's problems.
+Cf. Colin K. v. Schmidt , 536 F.Supp.
+1375, 1387 (D.R.I.1982), aff'd , 715 F.2d 1 (1st Cir.1983) (district court enters a finding regarding diagnostic conflict between school system and plaintiffs).
+III.
+SUCCEEDING YEARS--JURISDICTION AND PROOF In a pretrial order, the district court ruled that under its authority to grant appropriate' relief, 20 U.S.C. 1415(e)(2) , it would hear evidence and rule upon the appropriate educational placement for the years 1980-81 and 1981-82 for which there was no IEP and therefore no state agency decision.
+Subsequently, Rowley rejected a school system's claim that a court review proceeding is moot when the challenged IEP has lapsed and IEPs for subsequent years have not been developed.
+The Court stated: Rowley 458 U.S. at 186-87 n. 9, 102 S.Ct. at 3040-41 n. 9 (citations omitted).
+Thus Rowley makes it clear that the status of the 1979-80 IEP is not now moot, and the court may proceed to adjudicate its correctness and the question of who must bear the ultimate expense of John's placement in 1979-80.
+It is much more difficult to determine the court's powers with respect to allocating the cost of John's schooling in 1980-81, 1981-82 and any subsequent years up to the date of the court's final decree.
+25 The Town did not prepare IEPs for these years, and no appeal was lodged with the state agency.
+Accordingly, there were no reviewable "findings and decision," 20 U.S.C. 1415(e)(2) , before the district court for those years.
+With inexplicit statutory guidance, the district court ruled that for the year 1979-80, the Town had the burden of proving by a preponderance of the evidence that the plan it formulated was appropriate for John and that the defendants Doe had the burden of proving the appropriateness of the relief they sought for years after 1979-80.
+26 This allocation of the burden of proof is questioned on appeal.
+Section 1415(e)(2) contains no provision which specifically assigns the burden of proof to a particular party in the appeal of an agency decision.
+As a general principle, however, in such appeals the burden of proof is on the party who seeks to overturn the findings and decision of the agency.
+Mazaleski v. Treusdell , 562 F.2d 701, 717 n. 38 (D.C.Cir.1977).
+But see Grymes v. Madden , 672 F.2d 321, 322 (3d Cir.1982) (EAHCA appeal).
+This allocation of proof is justified because it structurally assists courts in according the administrative agency's expertise the respect it is owed, an approach Rowley implicitly encourages.
+Here, the state agency ruled the Town's IEP was inadequate only for 1979-80; it made no findings or decision regarding the appropriateness of the IEP for subsequent years.
+Thus, neither party can be assigned the burden for later years on the basis of its posture on an appeal from a state agency decision.
+The Town claims that it attempted to discharge its responsibilities for a ten-month review, Mass.Admin.Code tit. 603, 330 , but that the Does refused to make John available.
+It submits that such a review might have convinced the Town special education administrators that they were in error and that the Carroll School was the appropriate placement.
+By implication, the Town suggests that it then could have prepared revised IEPs, which it would prove appropriate in district court.
+The federal Act omits any reference to whether IEPs are to be revised during the pendency of review.
+We, therefore, must fashion a rule to facilitate implementation of the Act.
+We think that pending review of an earlier IEP, local educational agencies should continue to review and revise IEPs in accordance with applicable law, at least in the absence of a stipulation between the parties providing for how the outcome of the suit will affect later years.
+Without an IEP as a starting point, the court is faced with a mere hypothesis of what the Town would have proposed and effectuated during the subsequent years, an hypothesis which at the time of trial would have the unfair benefit of hindsight.
+Such a rear view proposal could not comply with the statutory requirements for drafting IEPs, could not have been submitted in a timely fashion to the parents, and cannot constitute evidence at trial.
+IEPs for subsequent years could be appealed to the state agency; and appeals from the state agency's "findings and decisions" on the subsequent IEPs could be consolidated with the original appeal to the district court.
+The continuation of the IEP process during the pendency of litigation may assist in promoting settlements.
+Also, subsequent IEPs that have not been appealed to the state agency may still provide useful evidence for the district court in fashioning "appropriate" relief, see infra .
+Here, despite the Town's claim that it attempted to review and revise John's IEP in accord with his progress at the Carroll School, it failed to comply with the legal requirements for triggering such a review.
+The Town had the responsibility of providing the parents with appropriate notice of its intention to review John's educational placement under the provisions of 34 C.F.R. 300.504 , of scheduling and conducting the review meeting per 34 C.F.R. 300.343 and Mass.Adm.Code tit. 603, 330.0 333.3 , and of determining at that meeting whether a reevaluation of John himself was desirable.
+The Town mistakes, therefore, the difference between the mandatory review of the child's IEP and progress, id .
+333.0 , and the permissive reevaluation of the child , id .
+333.2(d) and 333.3 .
+These are separate responsibilities.
+In the ten-month review, the parents and, where appropriate, the child, may attend and participate in the IEP review meeting.
+When a reevaluation of the child is sought, the regulation expressly states that parental consent must be obtained prior to reevaluation.
+Id .
+The regulations plainly prescribe that IEP review shall occur regardless of whether parents participate or whether a reevaluation of the child occurs.
+The Town's IEP responsibilities were therefore not excused by the parents' refusal to make John available, 27 and accordingly no advantage should accrue to the Town by dint of its failure to prepare IEPs during the subsequent years of this litigation.
+Despite the absence of any reviewable "findings and decision" by the state agency for subsequent years, the district court has authority with respect to those years under its power to grant appropriate relief incident to its determination concerning the contested IEP for the initial year, 1979-80.
+If on remand the district court finds in accordance with the BSEA holding that the Town's 1979-80 IEP was improper and that the Carroll School was then the correct placement, we believe it could order the Town also to pay for John's attendance at the Carroll School in 1980-81 and in later years up through the end of the school year in which the court's ruling is made--unless the court finds that other factual circumstances not now apparent warrant a different result.
+In the alternative, if the district court should again uphold the Town's 1979-80 IEP, then the district court could order the Town to cease paying for the Carroll School at an appropriate time.
+28 When the district court turns to formulating appropriate relief for the subsequent years, the losing party in the dispute over the 1979-80 IEP will have the burden of producing evidence and persuading the court of changed circumstances that render the district court's determination as to the initial year inappropriate for guiding its order of relief for subsequent years. 29 The court will hear evidence regarding the subsequent years' appropriate placement from both parties prior to ordering "appropriate" relief, per 1415(e)(2) .
+IV.
+REIMBURSEMENT Since it is obvious that there must be a remand, it is necessary to discuss reimbursement.
+The factual background is essential because the claim of estoppel from reimbursement has been made by all parties.
+30 In the spring of 1979, per his IEP, John was attending a regular third grade class at the Town's Memorial School, supplemented by special reading assistance of one hour daily in the school's resource room.
+At the IEP review meeting in May, the parents learned that John's reading skills had regressed over the year, that he was showing little progress in school generally, and that his self-esteem had plummeted.
+On the basis of these negative reports, the Town and parents agreed that John's educational placement at Memorial School was not beneficial and might be detrimental; the only disagreement was over the placement to which John should be moved.
+The Town proposed to transfer him to another school, Pine Glen, and assign him to a self-contained classroom for children with special needs; it was not a class solely or chiefly comprised of learning disabled students.
+On the basis of expert opinion from specialists at Massachusetts General Hospital who had evaluated John's learning and perceptual difficulties, the parents rejected the Town's proposed placement and IEP.
+After invoking the administrative appeals process in July, they enrolled John in the Carroll School in August.
+This private school, which specializes in teaching the seriously learning disabled, enrolls new students only in the fall of each school year.
+The state due process hearing was held during the fall and the BSEA decision issued in late January 1980.
+The hearing officer determined that the Town's Pine Glen proposal was inappropriate for John and the Carroll School was the correct placement.
+The hearing officer ordered the Town to reimburse the Does, inter alia , "for costs related to the [Carroll] placement dating from the [parents'] rejection" of the Town's proposed IEP and pay for the expenses of the placement for the 1979-80 school year.
+The Town filed an appeal in the district court on February 26, 1980, and thereafter requested a stay of the BSEA order.
+As of December 15, 1980, the Town had not paid any money for John's tuition or transportation expenses and the parents protested that they could no longer afford to maintain John at the Carroll School.
+On February 9, 1981, at a hearing in the district court, the Town agreed to pay for John's education for 1980-81 and prospectively, but refused to reimburse the Does for expenses related to the 1979-80 academic year.
+The district court ordered the Town to repay the Does for their outlay.
+This court vacated the district court's interim reimbursement order and held that interim relief could be granted only on a showing of irreparable harm, which was not made.
+Burlington I , 655 F.2d 433-34 .
+This preliminary injunction approach was reaffirmed in Doe v. Brookline , 722 F.2d at 916-17 .
+In evaluating the parties' competing claims, we recognize four significant sets of events: first, the Does' rejection of the IEP, their initiation of the state administrative appeals process, and their placement of the child in a private school; second, the hearing officer's decision finding the Town's IEP inadequate and inappropriate; third, the commencement of the district court's jurisdiction via the Town's filing of its complaint; and fourth, the yet-to-come final decision in the case. A. The Parents' Transfer of John to the Carroll School The Town argues that we should affirm the district court's ruling in its favor on the basis of the parents' conduct in September 1979.
+Specifically, it urges that because John's parents enrolled him in the private Carroll School prior to the conclusion of the state administrative proceedings, they violated 1415(e)(3) , and are therefore barred from any reimbursement relief.
+That section provides in pertinent part: 20 U.S.C. 1415(e)(3) .
+In support of its position, the Town cites two Fourth Circuit cases, Rowe v. Henry County School Board , 718 F.2d 115 (4th Cir.1983); Stemple v. Board of Education , 623 F.2d 893 (4th Cir.1980), cert. denied , 450, U.S. 911 , 101 S.Ct. 1348 , 67 L.Ed.2d 334 (1981), and one Eighth Circuit case, Monahan v. Nebraska , 645 F.2d 592, 598 (8th Cir.1980).
+31 The State and Does argue that the child had no current educational placement and that the State and parents had "otherwise agree[d]."
+We have already departed from Stemple and joined the Seventh Circuit in ruling that 1415(e)(3) "establishes a strong preference, but not a statutory duty, for maintenance of the status quo."
+Doe v. Brookline , 722 F.2d at 918 .
+We expressly reserved opinion on whether parental "self-help" constitutes a bar to a reimbursement remedy at final judgment.
+That question is now squarely before us, and we respectfully decline to follow the Fourth Circuit.
+The rule the Fourth Circuit adumbrated in Stemple and Rowe was an interpretation of 1415(e)(3) in opinions which did not rely on either the Act's legislative history or the structure and purposes of the Act as a whole.
+In Stemple , the court held that a statutory duty for the parents not to alter the child's educational placement arose "as soon as school authorities make identification, evaluation, and placement of a handicapped child and continues until a decision not to contest it is reached or, if a contest ensues, until that contest is finally determined."
+623 F.2d at 898 .
+In Brookline we quoted the only legislative history directed to (e)(3) , wherein a Conference Committee Senator explained that the Committee felt that "a placement or change of placement should not be unnecessarily delayed while long and tedious administrative appeals were being exhausted.
+Thus the conference adopted a flexible approach."
+121 Cong.Rec.
+37412 (Nov. 19, 1975).
+Accordingly, we concluded (e)(3) appropriate 1412(1) Brookline at 918 .
+A number of cases have indicated Congress' prescience regarding the need for flexibility in applying the Act.
+Sometimes cases are brought because the parents expect too much from the school system, and the parents deem even extraordinary efforts on the part of the system insufficient for the child.
+See, e.g. , Rettig v. Kent City School District , 539 F.Supp.
+768 (N.D.Ohio 1981), aff'd in pertinent part, vacated in part , 720 F.2d 463 (6th Cir.1983).
+By all reports, the child is in an appropriate, and indeed, an excellent placement, and there is no reason for the child to be moved during the pendency of review, or even after review.
+At the other extreme, as we observed in Brookline , there are cases in which the school system is plainly not handling the child's special education in an appropriate manner.
+These cases might involve a school system which refuses to complete the diagnostic and placement process authorized by the Act, see, e.g. , Quackenbush v. Johnson City School District , 716 F.2d 141 (2d Cir.1983), cert. denied , U.S. , 104 S.Ct. 1426 , 79 L.Ed.2d 750 (1984); Williams v. Overture , No. 83-C-897-S (W.D.Wisc.
+Feb. 24, 1984); Blazejewski v. Board of Education of Allegany , 560 F.Supp.
+701 (W.D.N.Y.1983), or which declines to provide an appropriate private placement where a public placement is plainly lacking, see, e.g. , Parks v. Pavkovic , 536 F.Supp.
+296 (N.D.Ill.1982).
+In Brookline , we implicitly recognized in these circumstances the validity of parents making a unilateral move to fund private educational services pending review and of the parents' right to receive reimbursement at final judgment if they are held to have acted appropriately.
+See Brookline at 916 ; cf. Blomstrom v. Massachusetts Department of Education , 532 F.Supp.
+at 713-14 (parents to be reimbursed only for the appropriate educational services they enlisted after rejection of an inadequate IEP).
+We believe this approach is authorized by the Act.
+The Congress repeatedly enunciated as its primary goal a "free appropriate public education" for disabled children, see, e.g. , 20 U.S.C. 1412(1) , 1412(2)(B) , 1415(a) , 1415(b)(1)(A) .
+We have found that 1415(e)(3) is directory rather than mandatory, see Brookline at 918 , and thus where there is an irreconcilable conflict between achieving the Act's primary goal and maintaining the "current educational placement," the "appropriate education" goal must prevail.
+We believe the Fourth Circuit's rule exalts form over substance because parents are barred from reimbursement if they change the child's placement at all prior to the termination of all proceedings, regardless of whether they rely on expert advice or a state agency decision in their favor, and even though the school system is held not to have proposed an appropriate education for the child.
+In Rowe v. Henry County School Board , No. 80-0149(D) , slip op. (W.D.Va.
+July 15, 1982), aff'd in pertinent part, vacated in part , 718 F.2d 115 , the school system had not proposed an Individualized Educational Program for a child with severe learning disabilities and offered only vague generalizations regarding the education of disabled children.
+The district court found that the school system had "wholly failed to demonstrate that it can provide an appropriate free education" to the child, id. at 4 , and pointed out that the county's five high schools were serviced by only one certified learning disability instructor.
+The court concluded that the child did not have a few years to wait for the learning disability program the system hoped to develop.
+Id. at 6 .
+Although the Rowe parents had obtained specialized learning disability instruction for the child in the face of plainly inadequate services offered by the school system, the Fourth Circuit barred them from any reimbursement relief.
+See Rowe v. Henry County , 718 F.2d at 116 .
+The effect of such a rule is that a child must remain in an arguably inappropriate placement until a district court properly has jurisdiction and can issue a preliminary injunction.
+32 Not only is this rule contrary to the explicit legislative history of the (e)(3) provision, but treats these special needs children as though they were nonperishable commodities able to be warehoused until the termination of in rem proceedings.
+Current research indicates that full development of reading and other skills will more likely occur with learning disabled children, like the child at issue here, if adequate remedial services are provided in the early primary grades.
+Later intervention generally appears to require special services over a longer period of time to achieve a similar rate of remediation.
+Some skills must be learned early in the brain's maturation process for them to be learned well, or in some cases, at all.
+Delay in remedial teaching is therefore likely to be highly injurious to such children.
+See 121 Cong.Rec.
+37412 , 37416 (Nov. 19, 1975).
+In Brookline we concluded that Brookline at 921 (footnote and citation omitted).
+Permitting reimbursement allows the child to receive the education thought to be appropriate by his or her parents, the party normally vested with the power to make such decisions.
+Barring reimbursement or forbidding transfer would compromise this parental right, a right sought to be encouraged by the Act.
+But, as we held in Brookline , reimbursement will not be available to parents if it turns out that the school system had proposed and had the capacity to implement an appropriate IEP.
+This financial risk is a sufficient deterrent to a hasty or ill-considered transfer; a complete bar to reimbursement should not be imposed on the parents for acting unilaterally.
+Some courts have made a distinction between a unilateral parental transfer made after consultation with the school system, yet still an action without the system's agreement, and transfers made truly unilaterally, bereft of any attempt to achieve a negotiated compromise and agreement on a private placement.
+See, e.g. , Blomstrom v. Massachusetts Department of Education , 532 F.Supp.
+at 713 .
+We believe this to be a reasonable distinction, one which may be taken into account in a district court's computation of an award of equitable reimbursement.
+The Act envisions a cooperative IEP process and prefers a change in placement of a child to occur as a result of agreements between parties.
+See 1415(e)(3) .
+The Does and the State also argue that they "otherwise agree[d]" within the meaning of the statute, 1415(e)(3) , and their agreement retroactively cured any taint of a unilateral parental transfer.
+The agreement the defendants point to is the BSEA decision in accord with the parents' choice of the Carroll School.
+We need not rule on this claim, however, because we do not find either a statutory duty for the child to remain in one placement for the pendency of all proceedings, or that a parental move after an attempted negotiated settlement with the school system constitutes "unclean hands."
+Even were we to utilize the parties' approach that the child was moved from the "current placement" per 1415(e)(3) , we could not reach the Town's conclusion that such action contravened the Act.
+The Town and parents agreed that the current placement was inappropriate; they only disagreed as to which school and program the child should be moved.
+We cannot in good faith condemn the parents for moving the child from the "current placement" all parties had agreed to be insufficient.
+As we have emphasized, Congress valued consistency in a disabled child's education, but not foolish consistency.
+33 To summarize, we do not agree that a unilateral parental move constitutes a bar to reimbursement of the parents if their actions are held to be appropriate at final judgment.
+Reimbursement must be denied to the parents if the school system proposed and had the capacity to implement an appropriate IEP.
+Because the Act envisions cooperatively discussed and negotiated IEPs and placements, whether parents made a specific proposal for a private placement and attempted in good faith to gain an agreement with the school system before moving the child may be taken into account as a factor in determining the amount of reimbursement.
+B. The Parents' Right to Rely on the State Administrative Decision The State and Does argue that where the parents have relied on a final state administrative decision in their favor, a town or local educational agency should be estopped from obtaining retrospective reimbursement even though it prevails at final judgment.
+The Town maintains it is entitled to recover all monies it expended for John's education at the private school, should it prevail.
+This court has affirmed the availability of equitable reimbursement to a prevailing party as a general matter in Doe v. Brookline , 722 F.2d at 919-21 .
+34 The posture of that case, however, was markedly different from this one.
+In Brookline , the state hearing officer ruled that the Town's proposed IEP, under which it planned to transfer the child from the private school he had been attending for two years at public expense, and reenroll him in a public school with special services, was adequate and appropriate.
+The parents then rejected the BSEA's decision and appealed to federal court.
+By contrast, here the parents maintained John in the Carroll School consistent with a state agency order in their favor.
+It was the Town that brought suit to reverse the State agency decision.
+The Does argue that unless parents are of considerable means, few will be able or willing to implement a state agency decision in their favor if they stand liable to reimburse a town or local school system at final judgment.
+Cognizant of other situations, the State points out that where a state agency orders a town to fund a private placement, after ruling against a town's IEP, parents will be placed in the difficult position of having to choose between the state directive to maintain the child in the private placement at the risk of ultimately using their own funds, or of moving the child to the town's placement which the state agency has determined to be inadequate.
+Choosing the latter option would contravene the express congressional policy of consistency and adequacy in a disabled child's education during an IEP contest; should the judicial decision uphold the State and parents, the child will have spent two and possibly three years in an inappropriate school.
+In sum, the State and Does argue that in order for the Act to provide appropriate education for disabled children from wealthy and poor families alike, parents must be entitled to rely on a state administrative decision in their favor, and not be put at risk for reimbursement by a judicial judgment which reverses that decision.
+Considering the Act as a whole and the interests it seeks both to protect and to further, we conclude that appellants' contentions must be sustained in part in the present case. Retroactive reimbursement by parents is not "appropriate" relief within the meaning of 1415(e)(2) where they relied on and implemented a state administrative decision in their favor ordering a particular placement.
+We emphasize again that our interpretation is guided by the cooperative federalism Rowley elaborated.
+The states are the chief arms of the federal Act's enforcement; their decisions should not be disregarded because of potential parental financial liability.
+Implementation of a state agency's determination of the appropriate education for a disabled child should not be delayed until the statute of limitations on an appeal has run or until a final judicial decision has been rendered where an appeal has been taken.
+Congress, through the principal author of the Act, has spoken unequivocally in this regard: "I cannot emphasize enough that delay in resolving matters regarding the educational program of a handicapped child is extremely detrimental to his development.
+The interruption or lack of the required special education and related services can result in a substantial setback to the child's development."
+121 Cong.Rec.
+37416 (Nov. 19, 1975) (remarks of Sen.
+Williams, explaining Conference Committee bill to the Senate).
+Cooperative federalism also requires the federal courts to accommodate state laws and regulations that place greater duties on towns than those imposed by the federal Act, see supra , Part II.
+The governing Massachusetts regulations require that "whenever a placement is ordered [by the state agency] such placement shall be made forthwith, without any unnecessary delay."
+Mass.Admin.Code tit. 603, 409.0 .
+Further, "[n]o parents shall be required to bear any part of the cost of the instruction and support actually rendered or furnished to their child by a private school in which such child is placed pursuant to an order under Chapter 4 [by the state agency]."
+Mass.Admin.Code tit. 603, 504.5(e) .
+Thus the State's procedures contemplate immediate implementation of the state agency's orders without risk of reimbursement on the part of parents.
+We think such an arrangement does not contravene the federal Act, and is a question of state-town relations in which the federal courts need not interfere.
+We hold, therefore, that where the final state administrative decision rules a town's proposed IEP inappropriate and orders the town to fund placement, and the parents have complied with and implemented that decision, a town or local educational agency is estopped from obtaining reimbursement for the time period, usually one year, covered by the state agency decision and order.
+Here, however, the parents could not have relied on a state agency decision until January 1980, the middle of John's first year at the Carroll School.
+Although the enrollment of John in the Carroll School in August may have been a wise course of action, the parents had no basis for relying on a decision that had not yet been made.
+Accordingly, should the Town again prevail on remand, the parents can claim a "safe-harbor" estoppel from reimbursement only for that portion of the school year subsequent to the BSEA decision.
+35 We cannot, however, endorse the defendants' proposed rule that the Town automatically be estopped from obtaining reimbursement for any and all expenditures during the entire period encompassed by judicial review proceedings.
+Their view is that parents are entitled to rely on the last state agency decision throughout the case, not just for the one year to which the decision was addressed, regardless of which party prevails.
+This smacks more of a penalty against the Town for bringing suit as an "aggrieved party," 1415(e)(2) , than appropriate equitable estoppel.
+Moreover, the congressional policies of cooperative federalism and minimal delay in implementation of a state agency decision are not served where no applicable state agency decision exists.
+Because, in addition, we recognize that the needs of disabled children change over time, Brookline , 722 F.2d at 918 , we hold that parents do not have an absolute right to rely on a state order subsequent to the time period for which it was issued.
+36 To be sure, in the present case the State ordered the Town to continue funding the Carroll School placement after 1979-80, despite the lack of IEPs or state substantive reviews for those years.
+Because of the unusual posture of this case, we think the relevance of this state action on behalf of the Does to the question of reimbursement for the years after 1979-80 is properly left for the district court to resolve in accord with the concerns we have expressed, supra .
+The relation of Brookline to our rulings on reimbursement here should be made explicit.
+In Brookline , we recognized the availability of reimbursement to a prevailing party, 722 F.2d at 921 ; see also Doe v. Anrig II , 728 F.2d 30 at 31 but did not hold that reimbursement was automatically to be awarded as a result of prevailing on the merits.
+We viewed it then, as now, to be a matter of equitable relief, committed to the sound discretion of the district court.
+In Brookline , as noted infra , we found that serious procedural errors could foreclose the availability of reimbursement to a town.
+In the instant case, we hold additionally that parental reliance on a state order of relief forecloses the availability of reimbursement for the period of reliance and requires that where parents have paid the bill for the period, they must be reimbursed.
+We conclude this section by stating what we hope is by now obvious in situations where reimbursement is an issue; whether to order reimbursement, and at what amount, is a question determined by balancing the equities.
+Factors that should be taken into account include the parties' compliance or noncompliance with state and federal regulations pending review, the reasonableness of the parties' positions, and like matters.
+C. Bad Faith as a Bar to Reimbursement The State and Does argue that the range, frequency, and gravity of the Town's procedural violations amount to "bad faith" as adumbrated by Judge Swygert in Anderson v. Thompson , 658 F.2d at 1214 , and therefore should bar reimbursement to the Town by the parents.
+We applied the Seventh Circuit's reasoning in Doe v. Brookline , 722 F.2d at 921 , where we held that "serious procedural errors are grounds for denial of reimbursement."
+If the district court finds that the procedural violations were serious, and thus constitute bad faith, then reimbursement can be denied the Town.
+D. Other Reimbursement Issues The final question on reimbursement for tuition and related services is the appropriate method of calculating the measure of reimbursement if the Town prevails.
+We do not accept the defendants' argument that the parents are entitled to offset the Town's average cost per student.
+We agree with the offset made by the district court following Judge Aldrich's ruling that the parents had the burden of showing "the town's actual savings, such as marginal costs it would have incurred in any case, and the funds received from the state for [John's] education."
+Doe v. Anrig , 561 F.Supp.
+at 130 .
+The issue of reimbursement for medical and other evaluations of John is not dependent upon who prevails, as the district court rightly observed.
+Defendants' contention that the district court erroneously left some of these costs to be borne by the parents cannot be sustained.
+We affirm the district court's decision on this issue.
+V. CONCLUSION We are fully aware of the time and effort that has gone into this case by two very able judges as well as the attorneys and parties, but a remand is necessary.
+This is, to put it mildly, a difficult Act to interpret and effectuate.
+Congress has combined elements of a number of different statutory schemes and visited on the judiciary the task of making them mesh.
+We have done our best to follow the intent and purpose of the Act to ensure "a free appropriate public education" for all handicapped children, but the path has not been easy.
+Summary On remand, the district court must review the state administrative proceedings in accord with the standards set forth herein giving due consideration to the Town's procedural violations and the state's substantive standards.
+In determining whether additional evidence should be received, the court starts with the record of the administrative proceedings.
+From there on, the question of the admission of evidence is for the discretion of the district court within the guidelines set forth.
+The district court must give the state administrative findings careful consideration bearing in mind that the state agency's decision that the Town did not meet the state's substantive and procedural requirements is entitled to deference.
+The district court must make a finding as to the nature of the child's learning disabilities in order to evaluate properly the IEP.
+The burden of proof as to subsequent years falls on the losing party in the dispute over the 1979-80, IEP.
+Once the district court reaches it decision, it may order reimbursement in accordance with the principles discussed in section IV, supra .
+Reversed in part.
+Affirmed in part.
+Remanded for further proceedings consistent herewith .
+Costs awarded in favor of defendants-appellants.

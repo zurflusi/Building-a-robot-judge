@@ -1,0 +1,137 @@
+ STEPHEN F. WILLIAMS , Circuit Judge: This case arises out of a grand jury investigation into the firing of White House travel office employees.
+The Office of Independent Counsel obtained grand jury subpoenas for notes of a conversation between a now-deceased White House official and his private attorney.
+The attorney and his law firm moved in district court to quash the subpoenas, claiming successfully that the notes were protected by the attorney-client privilege and by the work-product privilege.
+Because we think the district court read both privileges too broadly, we reverse and remand for further proceedings.
+Attorney-Client Privilege The attorney-client privilege applies to grand jury proceedings.
+Fed.R.Evid.
+501, 1101(c) & (d) .
+The parties agree that the communications at issue would be covered by the privilege if the client were still alive.
+The Independent Counsel, however, argues that the client's death calls for a qualification of the privilege.
+We agree.
+Rule 501 provides that "the privilege of a witness shall be governed by the principles of the common law as interpreted by the courts in the light of reason and experience."
+Fed.R.Evid.
+501; see also Jaffee v. Redmond , U.S. , , 116 S.Ct. 1923, 1927 , 135 L.Ed.2d 337 (1996).
+We take this to be a mandate to the federal courts to approach privilege matters in the way that common law courts have traditionally addressed any issue--observing precedent but at the same time trying, where precedents are in conflict or not controlling, to find answers that best balance the purposes of the relevant doctrines.
+Courts have generally assumed that the privilege survives death.
+See Simon J. Frankel, "The Attorney-Client Privilege After the Death of the Client," 6 Geo. J. Legal Ethics 45, 47 (1992) (citing cases).
+Modern evidence codes often provide that the personal representative of a deceased client may assert the privilege.
+See Restatement (Third) of the Law Governing Lawyers 127 Reporter's Note, comment c (Proposed Final Draft, March 29, 1996) ("Restatement").
+And courts have applied the privilege after death in both grand jury proceedings and criminal trials.
+See, e.g., John Doe Grand Jury Investigation , 408 Mass. 480 , 562 N.E.2d 69 (1990); People v. Pena , 151 Cal.App.3d 462 , 198 Cal.Rptr.
+819, 829 (1984); State v. Doster , 276 S.C. 647 , 284 S.E.2d 218 (1981).
+Yet most judicial references to the persistence of the privilege after death appear to have occurred only as the prelude to application of a well recognized exception--for disputes among the client's heirs and legatees.
+1 See Frankel, supra , at 58 n. 65 (95% of cases examined (380 out of 400) were [**319] testamentary disputes).
+Thus holdings actually manifesting the posthumous force of the privilege are relatively rare.
+See McCormick on Evidence 94, at 348 ("the operation of the privilege has in effect been nullified in the class of cases where it would most often be asserted after death.").
+And such cases as do actually apply it give little revelation of whatever reasoning may have explained the outcome.
+The Supreme Court's decision in Glover v. Patten , 165 U.S. 394 , 17 S.Ct. 411 , 41 L.Ed. 760 (1897), is cited for the proposition that the privilege survives death.
+See, e.g., Baldwin v. Commissioner of Internal Revenue , 125 F.2d 812, 814 (9th Cir.1942).
+In fact, however, Glover is simply a typical case that asserts the general principle of the privilege's survival after death, but finds it inapplicable to disputes among persons "claiming under the client."
+165 U.S. at 407 , 17 S.Ct. at 416 .
+Even the Court's endorsement of the privilege's survival in ordinary circumstances was rather tepid.
+It observed that "such communications might be privileged if offered by third persons to establish claims against an estate," id. at 406 , 17 S.Ct. at 416 , and quoted Russell v. Jackson , 9 Hare 387, 393 , 68 Eng.
+Rep.
+558, 560 (1851), which stated only that "the privilege does not in all cases terminate with the death of the party," and belongs to "parties claiming under the client as against parties claiming adversely to him."
+Id. , quoted in Glover , 165 U.S. at 407 , 17 S.Ct. at 416 .
+Compare Cal. Evid.Code 954, comment (1997) ("[T]here is little reason to preserve secrecy at the expense of excluding relevant evidence after the estate is wound up and the representative is discharged.").
+In short, there is little by way of judicial holding that affirms the survival of the privilege after death, and the framing of the posthumous privilege as belonging to the client's estate or personal representative both suggests that the privilege may terminate on the winding up of the estate and reflects a primary focus on civil litigation.
+2 Although courts often cite as axiomatic the proposition that the privilege survives death, commentators have, with one distinguished exception, generally supported some measure of post-death curtailment.
+The exception, Wigmore, proclaimed that there was "no limit of time beyond which the disclosures might not be used to the detriment of the client or of his estate."
+8 Wigmore on Evidence 2323, at 630-31 (McNaughton Rev.1961).
+But others have sharply criticized his view.
+The most emphatic statement is that of Wright & Graham, who wrote, "One would have to attribute a Pharaoh-like concern for immortality to suppose that the typical client has much concern for how posterity may view his communications."
+24 Charles A. Wright & Kenneth W. Graham, Federal Practice and Procedure: Evidence 5498, at 484 (1986); see also Restatement 127, comment d ("Permitting such disclosure would do little to inhibit clients from confiding in their lawyers") 3 ; 1 McCormick on Evidence 94, at 350 (4th ed.1992) (terminating the privilege at death "could not to any substantial degree lessen the encouragement for free disclosure"); 2 Mueller & Kirkpatrick 199, at 380 ("Few clients are much concerned with what will happen sometime after the death that everyone expects but few anticipate in an immediate or definite sense").
+Presumably depending on their confidence in their judgments as to the residual chilling effect on clients, commentators have proposed a range of substitute rules.
+Some have embraced Learned Hand's view that the privilege should not apply at all after death, see, e.g., ALI Proceedings, 1942, quoted in 24 Wright & Graham 5498, at 485; 1 McCormick on Evidence 94, at 350, [**320] while the American Law Institute has suggested a general balancing test, proposing that Restatement 127, comment d. The justification for the attorney-client privilege has largely been an instrumental one, resting on a belief that it greatly facilitates--perhaps is essential to--the provision of legal advice.
+Such assistance "can only be safely and readily availed of when free from the consequences or the apprehension of disclosure."
+Hunt v. Blackburn , 128 U.S. 464, 470 , 9 S.Ct. 125, 127 , 32 L.Ed. 488 (1888).
+In addition, some have spoken of privacy concerns, see Frankel, supra , at 53-54 & nn.41-45 (citing commentators), but it seems fair to say that these have played at best a secondary role.
+In any event, because the privilege obstructs the truth-finding process, it is, we have said, to be narrowly construed.
+In re Grand Jury Investigation of Ocean Transp. , 604 F.2d 672, 675 (D.C.Cir.1979).
+The object, presumably, is to maximize the sum of the benefits of confidential communications with attorneys and those of finding the truth through our judicial processes.
+Even if the focus were solely on truth-seeking, dispensing with the privilege altogether would presumably have negative results.
+Any rule qualifying the privilege may in at least some cases (once it is adopted) cause some clients to confide less in their attorneys; the communication that is stillborn can never be disclosed.
+And abrogation of the privilege would clearly impair the provision of legal services.
+Except to the extent that limits on the privilege actually chill the hoped-for communications, however, its application renders judicial proceedings less accurate.
+Wright & Graham's supposition that favoring survival of the privilege after death requires imputing a "Pharaoh-like concern" to clients may be a bit of an exaggeration.
+But it is surely true that the risk of post-death revelation will typically trouble the client less than pre-death revelation.
+The question is how much less, and the answer seems likely to depend on the context.
+On one side, criminal liability will have ceased altogether.
+Civil liability, on the other hand, characteristically continues, and the same impulses that drive people to provide for their families in life clearly create a motive to preserve their estates thereafter.
+4 In the middle are reputational concerns.
+To the extent that concern over reputation arises from an interest in the sort of treatment a person will receive from others--ranging from mundane matters such as extension of credit to more subtle ones such as how one will be greeted at social events--it ends with death.
+But there are aspects of after-death reputation that will concern a person while alive--the value to surviving family of being related to (say) an honorable and distinguished person, and the value of one's posthumous reputation simpliciter (the pure Pharaoh effect).
+In the sort of high-adrenalin situation likely to provoke consultation with counsel, however, we doubt if these residual interests will be very powerful; and against them the individual may even view history's claims to truth as more deserving.
+To the extent, then, that any post-death restriction of the privilege can be confined to the realm of criminal litigation, we should expect the restriction's chilling effect to fall somewhere between modest and nil.
+The costs of protecting communications after death are high.
+Obviously the death [**321] removes the client as a direct source of information; indeed, his availability has been conventionally invoked as an explanation of why the privilege only slightly impairs access to truth.
+American Bar Association's Committee on the Improvement of the Law of Evidence, quoted in 8 Wigmore 2299, at 579.
+Thus the fewer, and the more questionable the remaining sources (e.g., because of witnesses' interest or bias), the greater the relative value of what the deceased has told his lawyer.
+Although witness unavailability alone would not justify qualification of the privilege, we think that unavailability through death, coupled with the non-existence of any client concern for criminal liability after death, creates a discrete realm (use in criminal proceedings after death of the client) where the privilege should not automatically apply.
+We reject a general balancing test in all but this narrow circumstance.
+In rejecting two rather ambiguous limitations for privileges--the so-called "control-group" qualification of the attorney-client privilege, Upjohn Co. v. United States , 449 U.S. 383 , 101 S.Ct. 677 , 66 L.Ed.2d 584 (1981), and a "balancing" test for the psychotherapist-patient privilege, Jaffee v. Redmond , U.S. , 116 S.Ct. 1923 , 135 L.Ed.2d 337 (1996)--the Supreme Court observed, "An uncertain privilege, or one which purports to be certain but results in widely varying applications by the courts, is little better than no privilege at all."
+Upjohn , 449 U.S. at 393 , 101 S.Ct. at 684 ; Jaffee , U.S. at , 116 S.Ct. at 1932 .
+Accordingly, to the extent that the commentators may be read as urging some sort of generalized balancing test for posthumous limitation of the privilege, we disagree.
+We thus embrace the arguments for such an exception only within the discrete zone of criminal litigation.
+While we believe that a case-by-case balancing is appropriate within that realm, we see no basis for any further exception (apart of course from the long-established exception for litigation among those claiming under the decedent).
+Even such a discrete exception, of course, complicates what the lawyer must tell an anxious client about the confidentiality of a prospective conversation.
+But in assessing that incremental complication, we recognize that even now any belief in an absolute attorney-client privilege is illusory.
+See Edna S. Epstein, The Attorney-Client Privilege and the Work-Product Doctrine 3 (1997) ("Many communications that clients and lawyers mistakenly believe are privileged in fact are not.").
+First, even communications made in confidence in the search for legal advice are unprotected if they relate to future illegality (the "crime-fraud exception").
+See Wright & Graham 5501.
+The dissent contends that a client can be certain whether his communications will fall under the crime-fraud exception, but this underestimates its slipperiness.
+We have acknowledged that "there may be rare cases in which the attorney's fraudulent or criminal intent defeats a claim of privilege even if the client is innocent," In re Sealed Case , 107 F.3d 46, 49 n. 2 (D.C.Cir.1997), citing In re Impounded Case (Law Firm) , 879 F.2d 1211, 1213-14 (3d Cir.1989), which indeed applies the exception in the face of client innocence.
+And the exception applies not only to crimes and fraud, but to other intentional torts.
+See In re Sealed Case , 754 F.2d 395, 399 (D.C.Cir.1985) (applies to "crime, fraud or other misconduct"); see also Irving Trust Co. v. Gomez , 100 F.R.D. 273, 277 (S.D.N.Y.1983) (communications unprotected where client who wrongfully deprived another of use of his bank funds reasonably should have known that such conduct constituted "fraud or any other intentional tort"); Diamond v. Stratton , 95 F.R.D. 503 , 505 (S.D.N.Y.1982) (no protection where communication in furtherance of intentional infliction of emotional distress).
+There is also the ubiquitous exception for litigation between persons claiming under the decedent--although in many contexts (including most imaginable conversations about the White House travel office firings) the improbability of its application would be readily apparent at the outset of the client-lawyer communication.
+Although this exception is sometimes justified as reflecting the decedent's likely intent, see note 1 supra , it does not perfectly track that idea; a decedent might want to provide for an illegitimate child but at the same time much prefer that the relationship go undisclosed.
+Further, in some states the privilege does not [**322] survive the winding up of an estate, Cal. Evid.Code 954, and in others it may not do so, see Restatement 127, Reporter's Note, comment c; 24 Wright & Graham 5498, at 485.
+5 Finally, even courts applying the privilege to bar statements of a decedent from a criminal trial have acknowledged that a defendant might in some cases have a constitutional right to offer statements that exonerate him.
+John Doe Grand Jury Investigation , 562 N.E.2d at 71-72 (privilege survives death except where mandated by constitutional considerations); State v. Doster , 276 S.C. 647 , 284 S.E.2d 218, 220 (1981) (court upholds exclusion of communications, saying that the defendant was denied not the right to establish his defense but merely "the license to fish into privileged communications").
+Compare Davis v. Alaska , 415 U.S. 308, 319 , 94 S.Ct. 1105, 1111-12 , 39 L.Ed.2d 347 (1974) (state interest in anonymity for juvenile offender cannot trump defendant's right of confrontation).
+While some of these exceptions are within the client's control, that cannot be said of all.
+Thus a lawyer who tells his client that the expected communications are absolutely and forever privileged is oversimplifying a bit.
+(Given the likely impatience of the client with what may seem legalistic detail, the oversimplification may be justifiable; we need not say.)
+Accordingly the incremental uncertainty introduced by this exception is hardly devastating.
+And admission of an exception limited to post-death use in criminal proceedings produces none of the murkiness that persuaded the Court in Upjohn and Jaffee to reject the limitations proposed there.
+Even in the realm of criminal proceedings (including grand jury proceedings), this exception should apply only to communications whose relative importance is substantial.
+Thus, the statements must bear on a significant aspect of the crimes at issue, and an aspect as to which there is a scarcity of reliable evidence.
+Where there is an abundance of disinterested witnesses with unimpaired opportunities to perceive and unimpaired memory, there would normally be little basis for intrusion on the intended confidentiality.
+This should limit release to contexts where not only is the risk of chilling effect slight but keeping the communications secret would be quite costly.
+Cf. In re Sealed Case , 116 F.3d 550, 577 (D.C.Cir.1997) (need shown where "it is likely that the subpoenaed materials contain important evidence and this evidence, or equivalent evidence, is not practically available from another source").
+Review by the district court in camera may play a role in application of this exception.
+Where the proponent has offered facts supporting a good faith reasonable belief that the materials may qualify for the exception (a standard plainly met here by the Independent Counsel), the district court should in its sound discretion examine the communications to see whether they in fact do.
+See United States v. Zolin , 491 U.S. 554, 570-72 , 109 S.Ct. 2619, 2629-31 , 105 L.Ed.2d 469 (1989).
+To the extent that the court finds an interest in confidentiality, it can take steps to limit access to these communications in a way that is consonant with the analysis justifying relaxation of the privilege.
+6 See 2 Mueller & Kirkpatrick 199, at 380-81.
+Work-Product Privilege The work-product privilege created by Hickman v. Taylor , 329 U.S. 495 , 67 S.Ct. 385 , 91 L.Ed. 451 (1947), may in some cases protect more material than the attorney-client privilege, because it "protects both the attorney-client relationship and a complex of individual interests particular to attorneys that their clients may not share."
+In re Sealed Case , 676 F.2d 793, 809 (D.C.Cir.1982).
+The "opinions, judgments, and thought processes of counsel" are generally protected, and the person seeking them must show extraordinary justification.
+Id. at 809-10 .
+For relevant, nonprivileged facts, however, [**323] their being embodied in work product merely shifts the standard presumption in favor of discovery, so that they are discoverable where the person seeking discovery satisfies the standard of Rule 26(b)(3) of the Federal Rules of Civil Procedure, which requires a showing of "substantial need" and "the inability to obtain the substantial equivalent of the information from other sources without 'undue hardship.'"
+Id. at 809 n. 59 (identifying that language as an expression of Hickman 's "adequate reasons" formula).
+7 The district court found that the notes were protected by the work-product privilege because they "reflect the mental impressions" of the attorney.
+In Upjohn Co. v. United States , 449 U.S. 383 , 101 S.Ct. 677 , 66 L.Ed.2d 584 (1981), the Court observed that "[f]orcing an attorney to disclose notes and memoranda of witnesses' oral statements is particularly disfavored because it tends to reveal the attorney's mental processes."
+Id. at 399 , 101 S.Ct. at 687 .
+But the Court did not decide whether factual elements embodied in such notes should be accorded the virtually absolute protection that the privilege gives to the attorney's mental impressions.
+Id. at 401 , 101 S.Ct. at 688 .
+Indeed, its reasoning seems to presuppose that such notes are analytically divisible; in refraining from formulation of a specific test, the Court said that the notes in question represented either communications protected by the attorney-client privilege (which was applicable, in contrast to the present case) or mental impressions protected by work-product privilege.
+Id. ; see also United States v. Paxson , 861 F.2d 730, 736 (D.C.Cir.1988) (noting that Upjohn did not formulate a test for factual matter embodied in lawyer's notes on conversations with witnesses and finding in the case before it no "strong showing" of necessity).
+In In re Sealed Case , 856 F.2d 268 (D.C.Cir.1988), a party asked Securities and Exchange Commission lawyers on deposition for their recollections of witness interviews.
+Citing Upjohn , 449 U.S. at 401-02 , 101 S.Ct. at 688-89 , we said that "[a]s the work product sought here is based on oral statements from witnesses, a far stronger showing is required than the 'substantial need' and 'without undue hardship' standard applicable to discovery of work-product protected documents and other tangible things."
+Sealed Case , 856 F.2d at 273 .
+And in Better Government Bureau, Inc. v. McGraw , 106 F.3d 582, 607-08 (4th Cir.1997), the court upheld the privilege as to the contested portion of an attorney's memo of an interview, observing that those portions "tend[ed] to indicate the focus of [the lawyer's] investigation, and hence, her theories and opinions regarding this litigation."
+See also Cox v. Administrator, U.S.
+Steel , 17 F.3d 1386, 1422 (11th Cir.1994).
+All three of the above cases involved interviews conducted as part of a litigation-related investigation.
+(Our Sealed Case , 856 F.2d 268 , in addition involves unrecorded recollections of interviews and was thus not within the coverage of Rule 26(b)(3) .)
+Accordingly, as Allen reasoned, the facts elicited necessarily reflected a focus chosen by the lawyer.
+Here the interview was a preliminary one initiated by the client.
+Although the lawyer was surely no mere potted palm, one would expect him to have tried to encourage a fairly wide-ranging discourse from the client, so as to be sure that any nascent focus on the lawyer's part did not inhibit the client's disclosures.
+Accordingly, unless the general possibility that purely factual material may reflect the attorney's mental processes (either in questioning or in recording) is enough to shroud all lawyers' notes in the super-protective envelope reserved by Rule 26(b)(3) for "mental impressions," we think such material should be reachable when true necessity is shown.
+Where the context suggests that the lawyer has not sharply focused or weeded the materials, the ordinary Rule 26(b)(3) standard should apply.
+Our brief review of the documents reveals portions containing factual material that [**324] could be classified as opinion only on a virtually omnivorous view of the term.
+We cannot therefore accept the district court's conclusion that they are protected in their entirety.
+We reverse and remand the case to the district court to reexamine the documents in light of this opinion.
+The documents may be redacted so that the grand jury receives only those portions that are protected by neither the attorney-client nor the work-product privilege.
+So ordered .

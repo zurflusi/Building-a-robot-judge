@@ -1,0 +1,850 @@
+ WESLEY, Circuit Judge: Plaintiffs allege an epic Wall Street conspiracy.
+They charge that the nation's leading underwriting firms entered into illegal contracts with purchasers of securities distributed in initial public offerings ("IPOs").
+Through these contracts and by other illegal means, the underwriting firms allegedly executed a series of manipulations that grossly inflated the price of the securities after the IPOs in the so-called aftermarket.
+Plaintiffs contend that the firms capitalized on this artificial inflation, profiting at the expense of the investing public.
+Plaintiffs tell a compelling story and are not the first to tell it.
+Similar allegations have appeared in a separate class action, see In re Initial Pub. Offering Sec. Litig., 241 F. Supp. 2d 281 , 293-94 (S.D.N.Y.
+2003), in a report of the New York Stock Exchange ("NYSE") and the National Association of Securities Dealers ("NASD"), see NYSE/NASD IPO ADVISORY COMMITTEE, NYSE/NASD, REPORT AND RECOMMENDATIONS 1-2 (May 2003) ("IPO ADVISORY COMMITTEE REPORT"), available at http://www.nasd.com/web/groups/rules regs/documents/ rules regs/nasdw 010373.pdf, and in complaints filed by the Securities and Exchange Commission (the "SEC" or "Commission").
+[fn1] What most immediately distinguishes the present charges from prior ones is that the earlier allegations were made in the context of the laws governing securities — laws and regulations arising primarily from the Securities Act of 1933, Pub.L.
+No. 73-22 , 48 Stat. 74 ("the Securities Act" or "the 1933 Act"), and the Securities Exchange Act of 1934, Pub.L.
+No. 73-290 , 48 Stat. 881 ("the Securities Exchange Act," "the Exchange Act," or "the 1934 Act").
+By contrast, the present actions arise under the antitrust laws — specifically, section 1 of the Sherman Act, ch.
+647, 26 Stat. 209 (1890) (codified as amended at 15 U.S.C. 1 ), section 2(c) of the Robinson-Patman Act, Pub.L.
+No. 74-692 , 49 Stat. 1526 , 1527 (1936) (codified as amended at 15 U.S.C. 13 (c)), and various state antitrust provisions.
+[fn2] The question on appeal is whether these antitrust claims can stand.
+Defendants argue that, assuming plaintiffs' allegations are true, only securities laws can provide a remedy.
+The district court agreed.
+See In re Initial Pub. Offering Antitrust Litig., 287 F. Supp. 2d 497 , 499 , 523-25 (S.D.N.Y.
+2003) (" IPO Antitrust Litig. ").
+It held that, regarding the alleged conduct, the securities laws impliedly repealed federal antitrust laws and preempted state antitrust laws.
+See id .
+It therefore dismissed the complaints.
+Id. at 525 .
+The district court's decision goes too far.
+The heart of the alleged anticompetitive behavior finds no shelter in the securities laws.
+Accordingly, we vacate and remand for further proceedings.
+I Essential to this appeal is a basic understanding of the securities underwriting process and certain manipulations of the process, most particularly the practice of tying excess consideration to an IPO securities allocation.
+A An underwriting firm provides underwriting services to issuers of securities.
+The most common delivery of those services is by firm-commitment agreements.
+1 THOMAS LEE HAZEN, THE LAW OF SECURITIES REGULATION 2.1 [B] , at 156 (5th ed. 2005).
+The appeal of this type of agreement is certainty for the issuer: "The underwriting investment banker agrees that on a fixed date the corporation will receive a fixed sum for a fixed amount of its securities."
+Statement of the Commission on the Problem of Regulating the "Pegging, Fixing and Stabilizing" of Security Prices Under Sections 9(a)(2) , 9(a)(6) , and 15(c)(1) of the Securities Exchange Act, Exchange Act Release No. 2446 (March 18, 1940), 11 Fed. Reg. 10,971 , 10,972 (Sept. 27, 1946) ("1940 Statement").
+The underwriting agreement thus removes "factors of uncertainty" for the issuer, see id ., and transfers to the underwriter the risk of any inability to sell an issue, see GOING PUBLIC AND LISTING ON THE U.S.
+SECURITIES MARKETS, NASD 167.
+Syndicates emerged in the first half of the twentieth century as an essential means by which underwriters could manage the risks inherent in underwriting.
+See generally United States v. Morgan, 118 F. Supp. 621 , 635-55 (S.D.N.Y.
+1953).
+At that time, "[n]o single underwriter could have borne alone the underwriting risk involved in the purchase and sale of a large security issue," and "[n]o single underwriter could have effected a successful public distribution of the issue."
+[fn3] Id. at 640 .
+The syndicate was a group typically "consisting of from a few to well over one hundred underwritten houses, [that bought] the entire new issue of securities from the issuing corporation at a predetermined fixed price" — the "purchase" price — "and immediately reoffer[ed] it to the public at a slightly higher price which is also a predetermined fixed price (the `offering' or `issue' price)."
+1940 Statement, 11 Fed. Reg. at 10 ,972.
+"The issue [wa]s typically resold to the public both by the underwriters and by a so-called `selling group' .
+.
+.
+who act[ed] as retailers for the underwriting syndicate."
+Id .
+The syndicate system remains a prominent feature of the modern underwriting industry.
+See IPO Antitrust Litig., 287 F. Supp. at 507 .
+[fn4] A lead underwriter in a syndicate must assess the appropriate issue quantity and pricing for the IPO.
+See Commission Guidance Regarding Prohibited Conduct in Connection with IPO Allocations; Final Rule, Securities Act Release No. 8565, Exchange Act Release No. 51,500 (Apr. 7, 2005), 70 Fed. Reg. 19,672 , 19,674 & n. 30 (Apr. 13, 2005) ("2005 Guidance Statement").
+This is a difficult task, see 2 HAZEN, supra 6.3 , at 23-24, in which the lead underwriter is aided in part by "book-building": When used, the IPO book-building process begins with the filing of a registration statement with an initial estimated price range.
+Underwriters and the issuer then conduct "road shows" to market the offering to potential investors, generally institutions.
+The road shows provide investors, the issuer, and underwriters the opportunity to gather important information from each other.
+Investors seek information about a company, its managements and its prospects, and underwriters seek information from investors that will assist them in determining particular investors' interest in the company, assessing demand for the offering, and improving pricing accuracy for the offering.
+Investors' demand for an offering necessarily depends on the value they place, and the value they expect the market to place, on the stock, both initially and in the future.
+In conjunction with the road shows, there are discussions between the underwriter's sales representatives and prospective investors to obtain investors' views about the issuer and the offered securities, and to obtain indications of the investors' interest in purchasing quantities of the underwritten securities in the offering at particular prices.
+.
+.
+.
+By aggregating information obtained during this period from investors with other information, the underwriters and the issuer will agree on the size and pricing of the offering, and the underwriters will decide how to allocate the IPO shares to purchasers.
+2005 Guidance Statement, 70 Fed. Reg. at 19 ,674-75 (footnote omitted).
+Underwriters thus use this process to collect indications of interest regarding the IPO, as well as potential investors' views on the value of the proposed security.
+See id. at 19 ,675.
+B The SEC has noted that the book-building process can become a locus of IPO and IPO-aftermarket manipulation by syndicate members.
+[fn5] See 2005 Guidance Statement, 70 Fed. Reg. at 19 ,675.
+Underwriters have strong incentives to manipulate the IPO process to facilitate the complete distribution and sale of an issue.
+Underwriting is a business; competitive forces dictate that underwriters associated with successful IPOs will attract future issuers.
+Moreover, because underwriters assume a large measure of risk in the event an IPO fails, they have a direct interest in the IPO's success.
+See Amendments to Regulation M: Anti-Manipulation Rules Concerning Securities Offerings, Securities Act Release No. 8511, Exchange Act Release No. 50,831 (Dec. 9, 2004), 69 Fed. Reg. 75,774 , 75,783-84 (Dec. 17, 2004) ("2004 Proposed Amendments").
+Underwriters also have incentives to manipulate the price of securities in the aftermarket.
+Again, competition is one force at play: "Underwriters have an incentive to artificially influence aftermarket activity because they have underwritten the risk of the offering, and a poor aftermarket performance could result in reputational and subsequent financial loss."
+[fn6] Staff Legal Bulletin No. 10: Prohibited Solicitation and "Tie-in" Agreements for Aftermarket Purchases, Division of Market Regulation (Aug. 25, 2000), available at http://www.sec.gov/interps/legal/ slbmr10.htm ("Staff Legal Bulletin No. 10").
+Another incentive arises from underwriters' control over the allocation of securities.
+Persons or entities receiving allocations can make quick profits from an artificial rise in the immediate aftermarket during a "hot issue," [fn7] and underwriters might "desire to allocate at least some shares to their best customers in order to maintain client relationships."
+IPO ADVISORY COMMITTEE REPORT 10.
+Not all underwriter manipulations are prohibited: the securities regime tolerates "a little price manipulation" in order to further other goals.
+Strobl v. New York Mercantile Exch., 768 F.2d 22 , 28 (2d.
+Cir. 1985).
+The SEC has traditionally recognized certain types of manipulations, deemed "stabilizing" activities, as legitimate and permissible under section 9(a)(6) of the Exchange Act, 48 Stat. at 890 (codified at 15 U.S.C. 78i (a)(6)), and SEC Rule 10b-1 , 17 C.F.R. 240.10b-1 .
+Section 9(a)(6) makes it unlawful [t]o effect either alone or with one or more other persons any series of transactions for the purchase and/or sale of any security registered on a national securities exchange for the purpose of pegging, fixing, or stabilizing the price of such security in contravention of such rules and regulations as the Commission may prescribe as necessary or appropriate in the public interest or for the protection of investors.
+48 Stat. at 890 (codified at 15 U.S.C. 78i (a)(6)).
+In 1948, the SEC incorporated the prohibitions arising under section 9 and the rules and regulations thereunder into the definition of "manipulation" of section 10(b) of the Exchange Act, 48 Stat. at 891 (codified as amended at 15 U.S.C. 78j (b)), thereby extending section 9 's "stabilization" rules to securities not traded on exchanges.
+See Manipulative and Deceptive Devices and Contrivances, 13 Fed. Reg. 8183 (Dec. 22, 1948); 17 C.F.R. 240.10b-1 .
+Stabilization in the context of exchange trading and non-exchange trading has been continuously regulated and, to some extent, recognized as legitimate and permissible.
+[fn8] Significantly, from its earliest statements on stabilization, the SEC has recognized that permissible forms of stabilization are limited to those attempts to maintain price levels of a security or to retard a decline in a security's price.
+In 1954, for instance, the Commission proposed new stabilization regulations that it viewed as "a formulation of principles which historically have been applied in considering questions relating to manipulative activity and stabilization in connection with a distribution."
+Manipulative and Deceptive Devices and Contrivances, 19 Fed. Reg. 2986 , 2986 (May 22, 1954) ("1954 Proposed Rules").
+These regulations limited permissible stabilizing bids to those with "the purpose of preventing or retarding a decline in the open market price of [a] security."
+Id .
+; see Manipulative and Deceptive Devices and Contrivances, 20 Fed. Reg. 5075 (July 15, 1955) (adopting the 1954 Proposed Rules as 17 C.F.R. 240.10b-6 , 240.10b-7 , and 240.10b-8 ).
+Likewise, in 1959, while issuing proposed amendments, the Commission commented, "The term `stabilizing' has generally been accepted to mean the placing of any bid or the effecting of any purchase .
+.
+.
+for the purpose of preventing or retarding a decline in the open market price of a security."
+Manipulative and Deceptive Devices and Contrivances, Notice of Proposed Rule Making, 24 Fed. Reg. 9946 , 9947 (Dec. 9, 1959) ("1959 Proposed Rules").
+And, alongside a 1991 proposed rule, the Commission cautioned that "stabilization does not contemplate transactions in excess of those required to prevent or retard a decline in the market price, or those which raise the market price of a security.
+.
+.
+."
+Stabilizing to Facilitate a Distribution, Securities Act Release No. 6880, Exchange Act Release No. 28,732 (Jan. 3, 1991), 56 Fed. Reg. 815 (Jan. 9, 1991) ("1991 Proposed Rules").
+Permissible stabilization activities are often contrasted with activities raising prices, which are prohibited under section 9(a)(2) of the Exchange Act, 48 Stat. at 889 (codified as amended at 15 U.S.C. 78i (a)(2)).
+For instance, in 1994, the SEC engaged in a comprehensive review of its rules governing manipulation in securities offerings.
+See Review of Antimanipulation Regulation of Securities Offerings, Securities Act Release No. 7057, Securities Exchange Act Release No. 33,924 (Apr. 25, 1994), 59 Fed. Reg. 21,681 , 21,681 (Apr. 26, 1994) ("1994 Review").
+One section of the review dealt with stabilization and expressed the Commission's "concept" that "[s]tabilization of offerings should be restricted in order to minimize its manipulative impact."
+Id. at 21 ,689.
+The 1994 Review explained that underwriters engage in various activities in the aftermarket — although the particular activities are not defined — and that some of those activities "may support, or even raise, the market price of the security."
+Id .
+The 1994 Review also recounted in its appendix that "Congress enacted the Exchange Act to put an end to the practices that it found had contributed to the economic problems facing the Nation."
+Id. at 21 ,694.
+"One of the `chief evils,'" prohibited by section 9(a)(2) , "was the operation of `pools,' which were agreements among several persons to trade actively in a security, generally to raise the price of a security by concerted activity, in order to sell their holdings at a profit to the public, which is attracted by the activity or by information disseminated about the stock."
+[fn9] Id. at 21 ,694 n. 3.
+The Commission expressly distinguished between section 9(a)(2) , which covered absolutely prohibited manipulations, and section 9(a)(6) , which covered manipulations that the SEC could choose to permit.
+Id. at 21 ,694-95 & nn.
+3, 14.
+The Commission noted that the prohibitions in section 9(a)(2) represented the "heart" of the Act.
+Id. at 21 ,694.
+The SEC currently regulates stabilization practices with SEC Rule 104, which is part of Regulation M. See 17 C.F.R. 242.104 .
+That rule, consistent with historic SEC regulations, prohibits stabilization "except for the purpose of preventing or retarding a decline in the market price of a security."
+Id .
+242.104(b) .
+Among the impermissible manipulative practices regulated by the SEC is a general category of relationships between underwriters and prospective purchasers termed "tie-ins." "A `tie-in agreement' in the securities offering context generally refers to requiring either implicitly or explicitly that customers give consideration in addition to the stated offering price of any security in order to obtain an allocation of the offered shares."
+2004 Proposed Amendments, 69 Fed. Reg. at 75 ,783 n. 95.
+Thus, the broadest category of tie-in arrangements includes all agreements requiring consideration from purchasers above the offering price.
+These have been termed quid pro quo arrangements.
+See, e.g., Self-Regulatory Organizations, Notice of Filing of Proposed Rule Changes, Exchange Act Release No. 50,896 (Dec. 20, 2004), 69 Fed. Reg. 77,804 , 77,805-06, 77,807, 77,810 (Dec. 28, 2004) ("2004 SRO Notice").
+The quid pro quo consideration could, for instance, require customers to participate in another offering, including an offering in which supply exceeds demand, a "cold" offering.
+[fn10] See 2004 Proposed Amendments, 69 Fed. Reg. at 75 ,783.
+"The Commission has long considered tying the award of allocations of offered shares to additional consideration to be fraudulent and manipulative, and such practices have always been actionable under Section 17(a) of the Securities Act and Section 10(b) and Rule 10b-5 of the Exchange Act."
+Id. at 75 ,784; see also id. at 75 ,785 n. 104.
+In exchange for receiving an IPO allocation, certain tie-in arrangements require customers to place orders for aftermarket shares of the same security offered in the IPO.
+See 2005 Guidance Statement, 70 Fed. Reg. at 19 ,672-73.
+These sorts of arrangements — sometimes described as arrangements to "pre-sell the aftermarket" [fn11] — can create artificial demand.
+They "generate□ additional aftermarket buying activity that is manipulative, in that it is designed to push the price higher once the security comes to the market."
+2 HAZEN, supra 6.3 [A] , at 1.
+Buying pressure created by pre-selling the aftermarket spills over into the IPO.
+See Staff Legal Bulletin No. 10.
+For some time, the SEC has specifically recognized these arrangements as prohibited.
+[fn12] See, e.g., 2005 Guidance Statement, 70 Fed. Reg. at 19 ,674.
+A variation on tie-in agreements effectuating a pre-sale of the aftermarket are arrangements called "laddering."
+See, e.g., 2005 Guidance Statement, 70 Fed. Reg. at 19 ,674 & n. 29; "NASD Board Approves Proposed Conduct Rules for IPO Activities," NASD Press Room (NASD July 25, 2002), available at http://www.nasd.com/web/idcplg?IdcService SS GET PAGE&ssDocName NASDW 002921.
+Laddering has been defined "as inducing investors to give orders to purchase shares in the aftermarket at pre-arranged, escalating prices in exchange for receiving IPO allocations.
+.
+.
+."
+2005 Guidance Statement, 70 Fed. Reg. at 19 ,674 n. 29 (emphasis added).
+Even more than pre-sales of the aftermarket, laddering agreements "stimulate□ demand for a hot issue in the aftermarket, thereby facilitating the process by which stock prices rise to a premium."
+REPORT OF THE SEC CONCERNING THE HOT ISSUESMARKETS 37-38 (Aug. 1984) ("Hot Issues Markets"); see also 2 HAZEN, supra 6.0 , 2005 supp. at 31.
+"This conduct distorts the offering and the aftermarket."
+2005 Guidance Statement, 70 Fed. Reg. at 19 ,674 n. 29 (quotation marks, alterations, and citations omitted).
+The SEC has identified laddering agreements as a serious and harmful means of manipulation that "violates the antifraud and antimanipulation provisions of the federal securities laws."
+Hot Issues Markets 37-38; [fn13] see also 2005 Guidance Statement, 70 Fed. Reg. at 19,674.
+II With this background in mind, we turn to plaintiffs' complaints.
+The present appeal is the product of repeated consolidation.
+By an order entered November 1, 2001, the district court consolidated nine separate actions into a proceeding captioned "In re Initial Public Offering Antitrust Litigation" and appointed five law firms to lead the litigation.
+The resulting complaint (the "consolidated complaint") alleged violations of the Sherman Act and state antitrust laws.
+Along with that consolidated class action, the district court considered a separate class action captioned "Pfeiffer v. Credit Suisse First Boston Corp." See IPO Antitrust Litig., 287 F. Supp. 2d at 499 .
+The Pfeiffer action alleged violations of the Robinson-Patman Act.
+The district court dismissed both actions in a single judgment, and we review that dismissal in this consolidated appeal.
+A The plaintiffs in the consolidated complaint represent two groups of injured parties: direct IPO purchasers and aftermarket purchasers.
+The direct IPO purchasers claim to have paid anticompetitive charges for the securities of certain technology-related companies (the "class securities").
+[fn14] The complaint outlines a conspiracy among ten underwriting firms alleged to be leading underwriters of equity IPOs generally and, more specifically, leading underwriters of IPOs of technology-related companies.
+[fn15] The firms dominated or had market power in the markets of general equity IPOs and technology-related IPOs.
+According to the consolidated complaint, these firms agreed to exact anticompetitive consideration from direct IPO purchasers of the class securities in the form of tie-in arrangements.
+The tie-in agreements would require purchasers either: (1) to pay inflated commissions on trades of other securities, (2) to purchase the issuer's shares in follow-up or secondary public offerings, (3) to purchase less attractive securities, or (4) to execute laddering transactions.
+[fn16] "[T]he amount of the required consideration was frequently based upon a percentage of the profits obtained by the customer in connection with the purchase of IPO shares."
+Consolidated Am. Compl.
+¶ 6.
+The direct IPO purchasers claim they were injured by the conspiracy to impose these arrangements because, presumably, the conspiracy forced them to pay above-market consideration for securities.
+The aftermarket purchasers claim to have purchased the class securities at prices intentionally "inflated" by defendants.
+Defendants allegedly inflated aftermarket prices by executing laddering agreements with direct purchasers, pre-committing their analysts to issue positive reports following the offering ("booster shots"), and "other overt acts which furthered the conspiracy's objectives by inflating the prices of [c]lass [s]ecurities in the aftermarket."
+Consolidated Am. Compl.
+¶ 61.
+The aftermarket purchasers claim injury from the purchase of artificially inflated securities.
+Both groups of plaintiffs attribute their injuries to violations of section 1 of the Sherman Act and various state antitrust provisions.
+B The class action complaint in Pfeiffer asserts that certain underwriter and institutional defendants violated section 2(c) of the Robinson-Patman Act.
+[fn17] The complaint alleges that the underwriter defendants paid bribes to, or accepted bribes from, the institutional defendants, in a course of conduct designed to inflate the price of particular securities.
+The plaintiff class claims injury from the aftermarket purchase of inflated securities.
+The purported "bribes" consisted of underwriter promises to make "exceptionally large" allocations of IPO securities in return for the institutional defendants' promises to comply with rules set by the underwriter defendants for the resale of the securities and to divide profits with them.
+Pfeiffer Compl.
+¶¶ 74-75.
+The institutional defendants allegedly made several agreements: (1) that they would not sell the securities until ordered to do so by the underwriter defendants; (2) that they would give a third of profits made from the allocation to the underwriter who made the allocation; and (3) that they would make additional large aftermarket purchases of the securities and not sell those additional purchases until ordered to do so by the syndicate.
+Defendants — both the underwriter and institutional defendants — agreed that their research departments would issue continuous "strong buy," "buy" or "outperform" recommendations for the securities.
+Pfeiffer Compl.
+¶ 91-101.
+The complaint alleges that these actions had the effect of sustaining prices and driving them upwards.
+"When the market price for the .
+.
+.
+security had reached a high level and been sustained at the high level as long as it could, the syndicate departments for the Underwriter Defendants notified the Institutional Defendants that they were free to sell."
+Pfeiffer Compl.
+¶ 108.
+The underwriter defendants then calculated the share of the profit due and collected those profits by receiving major business from the institutional defendants regarding unrelated securities and by charging the institutional defendants unusually large commissions.
+C Defendants moved to dismiss the complaints pursuant to Rule 12 (b)(6) of the Federal Rules of Civil Procedure.
+They argued that dismissal was proper because federal securities laws repealed the federal antitrust laws by implication and, moreover, preempted state antitrust laws.
+Defendants presented the immunity question as a choice between two regimes.
+The first, the antitrust laws, operate under a "competition-only standard."
+Tr. 12.
+The operation of the second, the securities laws, is reflected in the SEC's mandate to consider competition with the protection of investors, efficiency, and capital formation.
+[fn18] Defendants reminded the court that "the IPO allocation process is .
+.
+.
+at the very heart of what the SEC regulates in promoting the capital raising function of the market" and that a syndicate making "a fixed price offering can be regarded as a per se antitrust violation unless it has the umbrella of regulatory protection."
+Tr. 7-8, 17.
+They argued that, because "[e]xactly how far that umbrella extends is precisely the question of what the defendants can do in the capital raising function," antitrust immunity should cover the alleged conduct and the court should thus reserve the question of appropriate capital raising activities for the expert agency, the SEC. Tr. 17.
+The SEC submitted an amicus curiae memorandum in support of defendants' immunity argument and noted "its past and continuing regulation of the IPO process, the syndicate system and various normally anticompetitive price stabilization techniques."
+IPO Antitrust Litig., 287 F. Supp. 2d at 506 .
+The plaintiffs viewed defendants' arguments as "all red herrings."
+Tr. 31.
+They urged that the district court did not have to usurp the policy position of the SEC or engage in rulemaking or line-drawing because defendants' misconduct had always been prohibited by the securities laws, was prohibited by the SEC, and, moreover, could never be permitted by the Commission.
+They argued that Congress created no express exemption to the application of the antitrust laws to defendants' anticompetitive behavior; finding implied immunity would be inappropriate since a repeal of the antitrust laws was not "necessary to make [the securities laws] work," Silver v. New York Stock Exch., 373 U.S. 341 , 357 (1963).
+The United States (via the Department of Justice) and the State of New York (through the Office of the Attorney General) made amicus curiae submissions in support of plaintiffs' position.
+See IPO Antitrust Litig., 287 F. Supp. 2d at 506 .
+The district court granted the motion to dismiss.
+See id. at 499 , 524-25 .
+The court noted that the SEC explicitly permits much of the background conduct alleged in the complaints, including, most clearly, the syndicate system, id. at 506-08 , the "road show" process, id. at 508-09 , and communications among underwriters via the NASD and securities exchanges, id. at 509-10 .
+The court thoroughly canvassed the SEC's relevant regulatory authority — including its exemptive powers — and the Commission's prior consideration of rules targeting the type of misconduct alleged.
+Id. at 510-21 .
+The court held that implied immunity was appropriate because "the SEC, both directly and through its pervasive oversight of the NASD and other SROs [self-regulatory organizations], [fn19] either expressly permits the conduct alleged in [the complaints] or has the power to regulate the conduct such that a failure to find implied immunity would `conflict with an overall regulatory scheme that empowers the [SEC] to allow conduct that the antitrust laws would prohibit.'"
+Id. at 523 (quoting In re Stock Exchs.
+Options Trading Antitrust Litig., 317 F.3d 134 , 149 (2d Cir. 2003) (second alteration in original)); see also id. at 524 .
+The court dismissed the state claims on the theory that "reason and common sense compel the conclusion that the same conduct that is immune from Sherman Act antitrust scrutiny must also be immune from state antitrust scrutiny."
+Id. at 524 ; see also IPO Antitrust Litig., Nos.
+01 Civ. 2014(WHP) , 01 Civ. 11420(WHP) , 2004 WL 789770 (S.D.N.Y.
+Apr. 13, 2004) (denying motion to reconsider dismissal of state claims).
+Plaintiffs appeal.
+III The focus of this appeal is defendants' assertion of implied immunity.
+Thus, a review of the law of implied immunity is in order.
+A The basic contours of implied antitrust immunity jurisprudence are well-established.
+The analysis begins with the "cardinal principle of construction that repeals by implication are not favored."
+Silver, 373 U.S. at 357 (quoting United States v. Borden Co., 308 U.S. 188 , 198 (1939)); see Gordon v. New York Stock Exch., 422 U.S. 659 , 682 (1975); California v. Fed. Power Comm'n, 369 U.S. 482 , 485 (1962).
+"The antitrust laws represent a `fundamental national economic policy,'" Nat'l Gerimedical Hosp. & Gerontology Ctr. v. Blue Cross of Kansas City, 452 U.S. 378 , 388 (1981) (quoting Carnation Co. v. Pac. Westbound Conference, 383 U.S. 213 , 218 (1966)), and though, "[t]o be sure, where Congress did intend to repeal the antitrust laws, that intent governs, .
+.
+.
+this intent must be clear," id. at 389 (citations omitted).
+Implied immunity will be found only in the face of a "plain repugnancy between the antitrust and regulatory provisions," Gordon, 422 U.S. at 682 (quoting United States v. Philadelphia Nat'l Bank, 374 U.S. 321 , 350-51 (1963)); see Wood v. United States, 41 U.S. (16 Pet.)
+343 , 363 (1842), only if the repeal is necessary to make the regulatory provisions work, see Silver, 373 U.S. at 357 , "and even then only to the minimum extent necessary," id .
+See In re Stock Exchs.
+Options Trading Antitrust Litig., 317 F.3d at 145 , 148 .
+Despite these undisputed first principles, "[t]he implied immunity cases resist definitive harmonization."
+1A PHILLIP E. AREEDA & HERBERT HOVENKAMP, ANTITRUSTLAW 39 (2d ed. 2000); see Phonetele, Inc. v. Am. Tel. & Tel. Co., 664 F.2d 716 , 727 (9th Cir. 1981).
+[fn20] Our starting point is Silver v. New York Stock Exchange, a decision resolving an action by Harold Silver against the NYSE.
+373 U.S. at 343 , 345 ; see Gordon, 422 U.S. at 683 ("The starting point .
+.
+.
+[is] Silver.
+").
+Silver founded two non-member firms that sought wire connections with NYSE members.
+Silver, 373 U.S. at 343-44 .
+The NYSE constitution provided the Exchange with the power to approve or disapprove any application for wire connections with any non-member and the ability to require the discontinuance of any connections.
+Id. at 354 , 355 n. 11.
+The NYSE granted certain member firms "temporary approval" to establish wire connections with Silver's companies but later decided to withdraw that approval.
+Id. at 344 .
+The Exchange did not give notice prior to its decision to either Silver or his firms, and Silver sued the NYSE for violating the Sherman Act by conspiring with members to deprive Silver's firms of their private wire connections.
+See id. at 344-45 .
+The Supreme Court presented the fundamental issue as "whether the Securities Exchange Act ha[d] created a duty of exchange self-regulation so pervasive as to constitute an implied repealer of our antitrust laws, thereby exempting the Exchange from liability.
+.
+.
+."
+Id. at 347 .
+The Silver Court examined the tension between the free competition principles animating the antitrust statutes and "the public policy of self-regulation," id. at 367 , created by the Securities Exchange Act, a policy that, "beginning with the idea that the Exchange may set up barriers to membership, contemplates that the Exchange will engage in restraints of trade.
+.
+.
+."
+[fn21] Id. at 360 .
+This tension, while problematic, did not imply that the Exchange should be totally exempt from the antitrust laws.
+See id .
+Specifically, in Silver's case, the SEC lacked the ability to review the challenged Exchange order.
+See id. at 358 & n. 12, 360 .
+The Court declined to find an implied repeal in the absence of anything "built into the regulatory scheme which performs the antitrust function of insuring that an exchange will not in some cases apply its rules so as to do injury to competition which cannot be justified as furthering legitimate self-regulative ends."
+Id. at 358 .
+It explained that "[s]ome form of review of exchange self-policing .
+.
+.
+[is] not at all incompatible with the fulfillment of the aims of the Securities Exchange Act," id. at 359 , and that, at least in the absence of SEC review, the Court would apply the antitrust laws.
+Id. at 359-60 .
+In a footnote, the Court stated that "a different case would arise" if the Commission had the power to review a challenged exchange action.
+See id. at 358 n. 12.
+Silver might be read to suggest the general principle that agency power to review — or, more specifically, to approve — private conduct immunizes that conduct from the antitrust laws, especially, perhaps, when the reviewing agency is concerned with competition.
+But Supreme Court precedents following Silver — in particular, United States v. Philadelphia National Bank, 374 U.S. 321 (1963) and Otter Tail Power Co. v. United States, 410 U.S. 366 (1973) — are to the contrary.
+See 1A AREEDA & HOVENKAMP, supra , at 11 ("[T]he courts have made clear that even an express statutory mandate that an agency consider and give weight to preserving competition does not mean that a transaction approved by the agency confers an antitrust immunity.
+"); cf. Md. & Va.
+Milk Producers Assoc. v. United States, 362 U.S. 458 , 462-68 (1960); United States v. Borden Co., 308 U.S. 188 , 205-06 (1939).
+Philadelphia National Bank, decided the same year as Silver, most clearly refutes this attractively simple reading of Silver.
+There, the Court refused to find implied antitrust immunity in a provision of the Bank Merger Act directing the Comptroller of the Currency to review and approve certain mergers in the public interest and, in so doing, to consider "the effect of the transaction on competition (including any tendency toward monopoly)."
+[fn22] Philadelphia Nat'l Bank, 374 U.S. at 332 n. 8 (quoting the Bank Merger Act, Pub.L.
+No. 86-463 , 74 Stat. 129 , 129 (1960), amended by Act of Feb. 21, 1966, Pub.L.
+No. 89-356 , 80 Stat. 7 (1966)).
+Specifically, the Court rejected the argument that the Bank Merger Act immunized Comptroller-approved mergers from section 7 of the Clayton Act.
+[fn23] Id. at 351 .
+The Court declined to adopt the view of dissenting Justice Harlan that, because the commercial banking industry occupied a crucial role in the economy and had intimate connections to government operations, Congress had decided to remove antitrust issues from the courts and "place the responsibility for approval squarely on the banking agencies" for whom "competition was not to be the controlling factor in determining whether to approve a bank merger."
+Id. at 380 , 382-83 (Harlan, J., dissenting).
+Instead, Justice Brennan, writing for the Court, explained that the Bank Merger Act did not give rise to a sufficiently strong implication of repeal.
+The Court emphasized that Congress in other settings had expressly given agencies the power to grant immunity from the antitrust laws.
+See id. at 350 & n. 27 ("No express immunity is conferred by the Act.
+.
+.
+.
+Contrast this with the express exemption provisions of, e.g., the Federal Aviation Act, Federal Communications Act, Interstate Commerce Act, Shipping Act, Webb-Pomerene Act, and the Clayton Act itself."
+(citations omitted)).
+It also noted that the approval process did not require a factfinding process and that the Comptroller, although required to consider the effect of the merger on competition, was not required to give a particular weight to that consideration.
+Lastly, the legislative history failed to support or compel antitrust immunity: Although the Comptroller was required to consider effect upon competition in passing upon appellees' merger application, he was not required to give this factor any particular weight; he was not even required to (and did not) hold a hearing before approving the application; and there is no specific provision for judicial review of his decision.
+.
+.
+.
+Nor did Congress, in passing the Bank Merger Act, embrace the view that federal regulation of banking is so comprehensive that enforcement of the antitrust laws would be either unnecessary, in light of the completeness of the regulatory structure, or disruptive of that structure.
+.
+.
+.
+The fact that the banking agencies maintain a close surveillance of the industry with a view toward preventing unsound practices that might impair liquidity or lead to insolvency does not make federal banking regulation all-pervasive, although it does minimize the hazards of intense competition.
+Id. at 351-52 .
+Whereas Silver suggested that an agency's attention to competitive concerns might weigh in favor of implied repeal, Philadelphia National Bank found the opposite: "[T]hat there are so many direct public controls over unsound competitive practices in the industry refutes the argument that private controls of competition are necessary in the public interest and ought therefore to be immune from scrutiny under the antitrust laws."
+Id. at 352 (emphasis added).
+The Court left open the possibility that implied repeal might operate in other regulated industries, noting, for instance, that "bank regulation is in most respects less complete than public utility regulation."
+Id .
+Yet, the Court refused to find implied antitrust immunity when a case concerning public utility regulation arose.
+See Otter Tail Power Co., 410 U.S. at 372-75 .
+In Otter Tail Power, the United States charged that Otter Tail Power had, inter alia, refused to interconnect its facilities with municipal utilities and to sell power to those utilities at wholesale.
+Id. at 368 , 371 .
+Section 202(b) of the Federal Power Act, 74 Pub.L.
+No. 333, ch.
+687, Title II, 213 (1935), 49 Stat. 848 (codified as amended at 15 U.S.C. 824a(b) ), authorized the Federal Power Commission ("FPC") to order Otter Tail Power to make a physical connection with, and to sell to or exchange power with, certain municipal utilities.
+See Otter Tail Power, 410 U.S. at 371 , 373 , 375-76 n. 7.
+The FPC had actively considered the question of whether to permit Otter Tail Power to refuse to connect or whether to order interconnection and dealing, asking whether an order would be "necessary or appropriate in the public interest."
+Otter Tail Power, 410 U.S. at 371-73 , 377 .
+The Court explained that antitrust considerations could be relevant, though not determinative, to this "public interest" decision.
+Id. at 373 .
+However, the Otter Tail Power Court found "no basis for concluding that the limited authority of the Federal Power Commission to order interconnections was intended to be a substitute for, or to immunize Otter Tail from, antitrust regulation for refusing to deal with municipal corporations."
+Id. at 374-75 .
+In reaching this conclusion, the Court first noted that FPC's authority to order interconnections was insufficient to oust antitrust laws: "Activities which come under the jurisdiction of a regulatory agency nevertheless may be subject to scrutiny under the antitrust laws."
+Id. at 372 .
+Then, like the Philadelphia National Bank Court, the Court looked to legislative history.
+Id. at 373-74 .
+It found "nothing in the legislative history which reveals a purpose to insulate electric power companies from the operation of the antitrust laws."
+[fn24] Id. at 373-74 .
+Thus, in two cases involving agency review of private behavior — in which neither, unlike Silver, involved the actions of a registered exchange — the Court declined to find implied immunity despite agency considerations of competition.
+Both cases turned, at least in part, on the Court's stated inability to conclude that Congress had intended to immunize the reviewed acts.
+The "different case" that Silver predicted finally came in Gordon v. New York Stock Exchange, an action concerning, like Silver, registered exchanges and specifically challenging the fixed-rate commissions of the NYSE and the American Stock Exchange ("AMEX").
+[fn25] Gordon, 422 U.S. at 660-61 , 685 ; cf. Kaplan v. Lehman Bros., 389 U.S. 954 , 954-56 (1967) ( Warren, C.J., dissenting from denial of petition for certiorari).
+The Court noted that the practice of setting fixed commission rates on stock exchanges began with the Buttonwood Trade Agreement of 1792 that created the NYSE.
+Gordon, 422 U.S. at 663 .
+Congress was aware of the anticompetitive nature of that practice immediately prior to the passage of the Securities Exchange Act but, instead of prohibiting the practice, "gave the SEC the power to fix and insure `reasonable' rates" in section 19(b)(9) of the Act.
+[fn26] Id. at 665-66 .
+The Gordon Court granted defendants immunity.
+The case represents the Court's first major decision finding implied antitrust immunity in the securities context; to a great degree it forms the foundation of subsequent implied immunity jurisprudence.
+Gordon of course began its appellate journey in the Second Circuit.
+See Gordon v. New York Stock Exch., 498 F.2d 1303 (2d Cir. 1974).
+When this Court, like the Supreme Court, found implied immunity appropriate, we declined to rely on the existence of the SEC's review power alone.
+Id. at 1305 .
+Rather, Judge Kaufman, writing for the Court, looked to "the language and the history of the 1934 Act, [which,] together with the sound policy behind supervised exchange self-regulation, mandate[d] the conclusion that Congress intended to exempt from the antitrust laws the exchange practice of fixing commission rates."
+Id. at 1305-06 .
+Of particular significance to us was "the congressional awareness that th[e] provision would permit the Commission to fix rates," an awareness made manifest by the long tradition of fixing rates and the fact that this practice "was repeatedly acknowledged both in committee hearings and in the debates on the Act."
+Id. at 1307 (quotation marks and citations omitted); see also id. at 1309 (noting "Congress's expressed declaration").
+Judge Kaufman distinguished Philadelphia National Bank on the basis of this legislative history.
+[fn27] See id. at 1310-11 n. 11.
+He also noted that without implied immunity the SEC and antitrust courts could erect "conflicting standards," id. at 1307 , that a specific provision of the Exchange Act expressly empowered the SEC to regulate rate-fixing, id. at 1307, 1310-11 & n. 11, and that there was a robust history of "wide-reaching and systematic .
+.
+.
+recent SEC action regarding rate regulation," id. at 1308.
+[fn28] The Supreme Court adopted this approach.
+Though the Court began by distinguishing Silver, it refused to equate SEC review over the challenged exchange conduct with implied immunity.
+See Gordon, 422 U.S. at 685 ("Having determined that this case is, in fact, the `different case,' we must then make inquiry as to the proper reconciliation of the regulatory and antitrust statutes involved here.
+.
+.
+.
+"); see also id. at 692 (Stewart, J., concurring).
+It thus acknowledged the fact of SEC regulation and then asked "whether antitrust immunity, as a matter of law, must be implied in order to permit the Exchange Act to function as envisioned by the Congress."
+Id. at 688 ; see also id. at 691 (citing rationales for immunity).
+Four interrelated insights informed the Gordon Court's conclusion that the Exchange Act "was intended by the Congress to leave the supervision of the fixing of reasonable rates of commission to the SEC." Id. at 691 .
+First, the legislative history of the Exchange Act indicated that Congress specifically intended a repeal of the antitrust laws with regard to fixed rates.
+The Exchange Act, which expressly contemplates fixed commission rates, came seven years after the Court announced that price fixing was a per se violation of the Sherman Act, id. at 682 ; see id. at 693 (Stewart, J., concurring); Phonetele, 664 F.2d at 728 ; Jacobi v. Bache & Co., 520 F.2d 1231 , 1237 (2d Cir. 1975) (Friendly, J.), and the legislative history established that Congress deliberately granted the SEC the express, specific power to fix rates, despite the obvious anticompetitive nature of such a power, Gordon, 422 U.S. at 663-67 , 681 .
+Second, in the absence of implied immunity, the exchanges might be left between the rock of antitrust liability and the hard place of specific SEC regulations — the exchanges "might find themselves unable to proceed without violation of the mandate of the courts or of the SEC." [fn29] Id. at 689 .
+Third, precluding fixed commission rates "would render nugatory the legislative provision for regulatory agency supervision of exchange commission rates" of section 19(b)(9) by effectively mooting that subsection's provision of SEC review over rates.
+Id. at 691 .
+Finally, the Court linked a history of regulatory approval of fixed rates to the possibility of congressional acquiescence, noting that "continued congressional approval" of the "long regulatory practice" of reviewing and authorizing fixed rates conflicted with any interpretation of the Act that did not imply antitrust immunity, id. at 690-91 ; cf. id. at 691-92 (Douglas, J., concurring): Since the Exchange Act's adoption, and primarily in the last 15 years, the SEC has been engaged in thorough review of exchange commission rate practices.
+The committees of the Congress, while recently expressing some dissatisfaction with the progress of the SEC in implementing competitive rates, have generally been content to allow the SEC to proceed without new legislation.
+Id. at 682 .
+In light of these circumstances, repeal by implication was appropriate because it was possible to say that Congress had "unmistakably determined that, until such time as the Commission ruled to the contrary, exchange rules fixing minimum commission rates would further the policies of the 1934 Act."
+Id. at 693 (Stewart, J., concurring).
+On the same day that Gordon was decided, the Court handed down the final opinion in its trilogy of implied immunity securities cases, United States v. National Ass'n of Securities Dealers (NASD), 422 U.S. 694 (1975), a case involving the conduct of a self-regulatory organization, the NASD, and private anticompetitive conduct.
+See id. at 697 .
+The defendants in NASD were the NASD, certain mutual fund companies, mutual fund underwriting firms, and securities broker-dealers trading in mutual fund shares.
+Id. at 700 .
+The United States charged vertical and horizontal restraints of trade.
+[fn30] The vertical restraints included various restrictions on the trading of mutual fund shares in the "secondary market" — the market arising outside the "primary market" of the initial distribution of mutual fund shares.
+Id. at 698-703 .
+The Investment Company Act of 1940, Pub.L.
+No. 76-768 , 54 Stat. 789 , "require[d] broker-dealers to maintain a uniform price in sales in th[e] primary market to all purchasers except the fund, its underwriters and other dealers."
+Id. at 699 .
+The parties agreed that implied immunity therefore existed with regard to fixed sales in the primary market.
+[fn31] Id .
+But the United States charged that various agreements between principal underwriters and broker-dealers, as well as a single agreement between a fund and its underwriter, violated the antitrust laws by requiring maintenance of the public offering price in brokerage transactions and by prohibiting interdealer transactions.
+Id. at 702-03 .
+The defendants agreed that the agreements were aimed at controlling the secondary market but argued they were immune under section 22(f) of the Act.
+That section provided that mutual fund companies could not restrict the transferability or negotiability of its issued securities "except in conformity with the statements with respect thereto contained in its registration statement nor in contravention of such rules and regulations as the Commission may prescribe.
+.
+.
+."
+Id. at 721 n. 33.
+The Supreme Court agreed that immunity was implied in section 22(f) .
+Id. at 720-22 , 729-30 .
+The Court first found that the section gave the SEC the express authority to regulate and permit restrictions of mutual fund sales in the secondary market, see id. at 722-27 , and then concluded that this authority implied antitrust immunity, see id. at 721-22 , 727-30 .
+This conclusion was informed by at least two of the insights made by the Gordon Court.
+First, congressional intent, as reflected in the legislative history and the structure of section 22 of the Investment Company Act, revealed "a clear congressional determination that, subject to Commission oversight, mutual funds should be allowed to retain the initiative in dealing with the potentially adverse effects of disruptive trading practices."
+Id. at 727 .
+The Court found that "Congress ha[d] made a judgment that these restrictions on competition might be necessitated by the unique problems of the mutual fund industry," id. at 729 ; see id. at 705-11 , 722-27 , [fn32] and concluded that therefore "the antitrust laws [had to] give way if the regulatory scheme established by the Investment Company Act [was] to work," id. at 729-30 .
+[fn33] Second, passage of the Investment Company Act was followed by what the Court characterized as a long history of SEC acceptance of the anticompetitive behavior.
+[fn34] See id. at 727-28 ; see also Phonetele, 664 F.2d at 730 .
+This regulatory practice was "precisely the kind of administrative oversight of private practices that Congress contemplated when it enacted 22(f) ."
+NASD, 422 U.S. at 728 .
+A separate count in NASD charged a horizontal conspiracy between the NASD and its members to prevent the growth of a secondary market in mutual fund shares.
+Id. at 701-02 , 730 .
+In the count as filed, the United States challenged three particular actions: (1) NASD rules encouraging restrictions on secondary market activities; (2) NASD interpretations of its rules, similarly encouraging restrictions; and (3) activities of the NASD membership in encouraging the vertical restraints described in the other seven counts.
+Id. at 730-33 .
+The Supreme Court recognized that section 22(f) of the Investment Company Act did not "authorize□" these horizontal activities.
+Id. at 730 .
+The Government withdrew its challenges on the NASD rules but asserted that "various unofficial NASD interpretations" and "extension[s] of the rules" inhibited a secondary market.
+Id. at 731-32 .
+The Court, separating its analysis between the first two acts (the rules and their interpretations by the NASD) and the third (involving only NASD members), found the entirety of the challenged activities immune.
+Id. at 733-35 .
+The SEC's exercise of regulatory authority was "sufficiently pervasive" to confer an implied immunity over both groups of horizontal activities within the count.
+Id. at 730 .
+The Court noted that the Government's withdrawal of its challenge to the NASD rules was "prudent."
+Id. at 732 .
+It explained that the NASD's rules were impliedly immune due to the "extensive" "supervisory authority" of the SEC over the NASD.
+Id. at 732 .
+The SEC had the power to determine if the NASD qualified for self-regulation, to review and approve any proposed NASD rules, and to request and order changes in or supplementation of those rules.
+Moreover, the SEC weighed competitive concerns in reviewing NASD rules and practices: Not only does the Maloney Act [( i.e., the legislation that supplemented the SEC's regulation of the over-the-counter markets by providing a system of cooperative self-regulation through voluntary associations of brokers and dealers, such as the NASD)] require the SEC to determine whether an association satisfies the strict statutory requirements of that Act and thus qualifies to engage in supervised regulation of the trading activities of its membership, it requires registered associations thereafter to submit for Commission approval any proposed rule changes.
+The Maloney Act additionally authorizes the SEC to request changes in or supplementation of association rules, a power that recently has been exercised with respect to some of the precise conduct questioned in this litigation.
+If such a request is not complied with, the SEC may order such changes itself.
+The SEC, in its exercise of authority over association rules and practices, is charged with the protection of the public interest as well as the interests of shareholders, and it repeatedly has indicated that it weighs competitive concerns in the exercise of its continued supervisory responsibility.
+Id. at 732-33 (citations omitted).
+The Court concluded that "the investiture of such pervasive authority in the SEC suggests that Congress intended to lift the ban of the Sherman Act from association activities approved by the SEC." [fn35] Id. at 733 .
+Furthermore, because the Court could "see no meaningful distinction between the Association's rules and the manner in which it construes and implements them," that is, because "[e]ach [wa]s equally a subject of SEC oversight," the Court found immunity over the challenged NASD interpretations of its rules as well.
+Id .
+Finally, the NASD Court turned to the alleged horizontal agreements between the membership by which members sought to encourage restrictions on the secondary market.
+Id .
+The activities involved — although not authorized by the Investment Company Act, id. at 730 — included actions to further the restrictions immunized under section 22(f) , precisely the restrictions that the SEC had consistently approved pursuant to that section.
+Id. at 733 ; see Phonetele, Inc., 664 F.2d at 729 & n. 35.
+The "conspiracy" did not have the purpose or effect of restraining competition between funds.
+NASD, 422 U.S. at 733 .
+Rather, as one court has explained, "the defendants' horizontal conduct was logically necessary to carry out the legitimate agreements and the sanctioned vertical restraints, if not directly responsive to a regulatory command."
+Phonetele, 664 F.2d at 729 .
+"This close relationship [wa]s fatal" to the Government's position.
+NASD, 422 U.S. at 733 .
+The Supreme Court noted that "maintainence of an antitrust action for activities so directly related to the SEC's responsibilities poses a substantial danger that [members] would be subjected to duplicative and inconsistent standards," NASD, 422 U.S. at 735 , and held the challenge "likewise .
+.
+.
+precluded by the regulatory authority vested in the SEC by the Maloney and Investment Company Acts," id. at 733 .
+NASD was the Supreme Court's last case on implied antitrust immunity.
+[fn36] B Much of the remaining judicial action in this area has been here at Foley Square.
+In addition to our opinion in NYSE, we have faced the question of implied immunity primarily in five cases.
+The first was Northeastern Telephone Co. v. American Telephone and Telegraph Co. [("AT&T")], 651 F.2d 76 (2d Cir. 1981).
+Northeastern Telephone Company was a small Connecticut company that entered the "interconnect industry" created in the wake of a 1965 Federal Communications Commission ("FCC") ruling.
+See id. at 79-80 .
+That ruling required AT&T to permit customers to connect their own terminal equipment.
+See id .
+; see also In re Use of Carterfone Device, 13 F.C.C.2d 420, recons.
+denied, 14 F.C.C.2d 571 (1968).
+AT&T filed a proposed "tariff" [fn37] with the FCC requiring that all terminal equipment be interconnected through a "protective coupler arrangement" provided and serviced by local operating companies.
+Northeastern Tel. Co., 651 F.2d at 80-81 .
+The FCC allowed the tariffs to take effect without giving any specific approval to them, but, years later, the FCC invalidated the tariff.
+Id .
+at 81.
+Northeastern Telephone Company sued AT&T under the Sherman Act, alleging that the protective couplers had been "intentionally overdesigned, making them unnecessarily expensive and subject to break down."
+Id .
+AT&T claimed that, because the tariff was subject to review by the FCC, AT&T was immune from antitrust liability.
+Id .
+at 82.
+We rejected this defense.
+Id .
+Writing for the panel, Judge Kaufman recognized the "conflict between the Sherman Act's mandate of robust competition and the `public interest' standard underlying governmental regulation of business activity."
+Id .
+That conflict triggered, but did not resolve, an implied immunity analysis.
+"The touchstone of this analysis," he emphasized, "is Congressional intent."
+Id. The Court made several important observations.
+First, the enabling act and its legislative history gave no indication of an intent to repeal.
+Id. at 83 .
+Second, the Sherman Act did not "expressly authorize the FCC to approve protective coupler designs that unreasonably restrict competition" and thus was distinguishable from the provision of the Exchange Act considered in Gordon that was precisely targeted at fixing commission rates, an anticompetitive activity.
+Id .
+Expanding on this point, the Court stated, "While this observation is unsurprising, since protective couplers were unknown [at the time the enabling act was passed], it does rebut appellants' argument that immunity may be inferred on the basis of specific Congressional authorization."
+Id .
+Third, the Court reviewed the history of FCC regulation and emphasized that, although the agency clearly could have approved the couplers, the FCC had never granted its approval.
+Id. at 83-84 .
+Therefore, we refused to immunize the tariff.
+We considered implied antitrust immunity again in Strobl v. New York Mercantile Exchange, 768 F.2d 22 (2d Cir. 1985).
+Joseph Strobl asserted antitrust claims against defendants alleged to have fixed the market for potato prices.
+Id. at 23 , 26 .
+Defendants argued that their conduct, which violated the Commodity Exchange Act ("CEA"), was immune under that Act from antitrust liability.
+Id. at 29 .
+We easily rejected this defense because, as we explained, there was no conflict between the antitrust laws and the regulatory scheme erected by the CEA.
+Id. at 27 .
+Moreover, the legislative history did not support an implied repeal.
+Id. at 28-29 .
+The anticompetitive conduct alleged — price manipulation — was specifically forbidden by the CEA, and it was impossible to say that the two regimes were "repugnant" to one another.
+Id. at 27-28 .
+A more difficult question arose in Finnegan v. Campeau Corp., 915 F.2d 824 (2d Cir. 1990).
+There, Michael Finnegan, a shareholder of Federated Department Stores, Inc., sued R.H.
+Macy & Co. ("Macy's") and Campeau Corp. under section 1 of the Sherman Act.
+Id. at 825-26 .
+He alleged that, after Federated Department Stores was "put into play" ( i.e., "offered for sale to the highest bidder"), Macy's and Campeau began bidding for the company.
+Id. at 826 .
+However, as the bids climbed, the two companies made a mutually beneficial agreement to end the bidding war, enter a single bid, and split the company upon purchase.
+Id .
+Although Finnegan claimed that section 1 of the Sherman Act barred the conduct, the defendants asserted antitrust immunity, id. at 828 , citing section 14 of the Exchange Act, which had been amended by the Williams Act, Pub. Law No. 90-439 , 82 Stat. 454 (1968) (codified as amended at 15 U.S.C. 78n ).
+Finnegan, 915 F.3d at 828 .
+We explained that the Williams Act was directed at the "twin aims" of, first, maintaining neutrality between bidders and target companies and, second, protecting target shareholders by requiring that bidders make certain disclosures.
+Id. at 829 .
+The Williams Act created disclosure requirements by amending section 14(d) of the Exchange Act.
+Id .
+These requirements were imposed on "person[s]," and the Act defined "person" to include any "group" acting with the purpose of acquiring securities.
+Williams Act 3 , 82 Stat. 456 (amending Exchange Act 14(d)(1) (2) (codified as amended at 15 U.S.C. 78n (d)(1) (2))).
+The Williams Act also included an antifraud provision, allowing the SEC to regulate tender offers.
+See Finnegan, 915 F.2d at 830 ; Williams Act 3 , 82 Stat. 457 (amending Exchange Act 14(e) (codified as amended at 15 U.S.C. 78n (e))).
+We concluded that the Williams Act impliedly repealed the antitrust laws with regard to the group bidding engaged in by Macy's and Campeau.
+Id. at 828 .
+Three types of considerations informed our holding.
+The first centered on the structure of the Williams Act.
+Concentrating on amended section 14(d) of the Exchange Act, we found that "the logical implication" of the Act's definition of person to include a group was that the Act "contemplate[d] agreements between bidders" — the very sort of agreement which, according to Finnegan's complaint, created antitrust problems.
+Id. at 829-30 .
+Thus, we concluded, "[i]n order for 14(d) .
+.
+.
+to function as intended, such agreements [could not] be subject to suit under the antitrust laws.
+.
+.
+."
+Id. at 830 .
+We then turned to legislative history.
+We found that permitting joint bids, as long as they were disclosed, comported with the Williams Act's posture of neutrality between bidders, shareholders, and target company management.
+Id. at 831-32 .
+Finally, we looked at the regulatory history.
+Joint bids were a common practice, and the SEC had permitted such bids so long as they were disclosed.
+Id. at 830-31 .
+In light of all these considerations, we stated that, although the Williams Act would "not foreclose all antitrust claims arising in the context of market manipulation," it had implicitly repealed the Sherman Act in Finnegan's case. Id. at 828 .
+Our next case concerning antitrust immunity was Friedman v. Salomon/Smith Barney, Inc., 313 F.3d 796 (2d Cir. 2002).
+The class action plaintiffs in Friedman were retail investors who had purchased securities in public offerings and who contended that defendants had conspired to discourage the "flipping" [fn38] of stocks in an alleged violation of section 1 of the Sherman Act.
+Id. at 797-98 .
+Plaintiffs asserted that defendants discriminated against retail investors with a history of flipping but did not hold institutional investors to the same standard.
+Id .
+"Although [the] plaintiffs allege[d] that the conspiracy ha[d] given rise to a host of improprieties, the only injury for which they [were] actually suing [wa]s the `inflated' price they paid when they purchased the shares at the offering price."
+Friedman v. Salomon/Smith Barney, Inc., No. 98 Civ. 5990(NRB) , 2000 WL 1804719 , at *3 (S.D.N.Y.
+Dec. 8, 2000) (citations omitted).
+Defendants argued that the anti-flipping criteria — their implementation being a form of price stabilization permitted by the SEC — were impliedly immune.
+Friedman, 313 F.3d at 799 .
+Importantly, section 9(a)(6) of the Exchange Act, 48 Stat. at 890 (codified at 15 U.S.C. 78i (a)(6)), provided the SEC with the express authority to regulate stabilization, permitting or prohibiting stabilizing practices at its discretion.
+Friedman, 313 F.3d at 802-03 .
+We agreed with the defendants that the Exchange Act had impliedly repealed section 1 of the Sherman Act with regard to the alleged conduct.
+Id. at 803 .
+As we noted, section 9(a)(6) expressly provided for regulation of stabilization practices.
+Id. at 802 .
+Moreover, the SEC had long recognized certain stabilization practices as legitimate, including anti-flipping restrictions, and the restrictions were still permissible under SEC regulations.
+Id. at 801-03 .
+Although the SEC had published a comprehensive review of its trading practice rules and posed certain questions about flipping, it did not choose to prohibit the anti-flipping restrictions in question.
+Id. at 801-02 .
+This reflected a regulatory approach stretching back to 1940 when an SEC release indicated that anti-competitive stabilization practices would be lawful in the absence of Commission regulation.
+Id. at 802 .
+In these circumstances, we found immunity implied in the Exchange Act.
+[fn39] Id. at 803 .
+The most recent implied immunity case in this circuit is In re Stock Exchanges Options Trading Antitrust Litigation, 317 F.3d 134 (2d Cir. 2003).
+The plaintiffs in that case were purchasers of equity options who claimed that the defendants, various exchanges and exchange members, had unlawfully restrained trade in violation of section 1 of the Sherman Act by conspiring to restrict the listing and trading of particular options, so as to limit each listing of the option to a single stock exchange at a time.
+Id. at 138 .
+In response, the defendants claimed immunity from the antitrust laws.
+Id. at 139 .
+We accepted the defendants' claim of immunity.
+Id. at 150 .
+Our opinion highlighted the regulatory history and extensive interplay between the SEC and the exchanges with regard to the exclusivity of options listing.
+We noted that the SEC had "at times encouraged multiple listing and at times disapproved of that practice," id. at 150 ; see id. at 148 ("[T]he Commission has taken varied positions with respect to the appropriateness of multiplicity.
+.
+.
+.
+"), including, for a time, approving exchange plans "for the single, or exclusive, listing of any new equity option," id. at 140 .
+Cf. Gordon, 422 U.S. at 689 n. 13 ("[T]his degree of scrutiny and approval by the SEC is not significantly different .
+.
+.
+than an affirmative order to the exchanges to follow fixed rates.").
+Presumably, just as the SEC had approved exchange rules calling for exclusive listings, it could also have compelled such rules.
+Compare 15 U.S.C. 78s (b)(1) ("No proposed rule change shall take effect unless approved by the Commission.
+.
+.
+.
+"), with 15 U.S.C. 78s (c) ("The Commission, by rule, may .
+.
+.
+add to .
+.
+.
+the rules of a self-regulatory organization.
+.
+.
+.").
+The Court concluded that antitrust principles directly conflicted with the SEC's encouragement and affirmative approval of exchange plans for exclusive listings.
+[fn40] In re Stock Exchs.
+Options Trading Antitrust Litig., 317 F.3d at 150 .
+The central question in the case was whether antitrust immunity was an available defense when the SEC changed its position to no longer permit exclusive listings.
+Importantly, we recognized the principle — consistent with the idea that antitrust repeal depends on congressional intent — that it was entirely possible for a practice to be currently prohibited by the SEC even though Congress impliedly repealed the antitrust laws with regard to it.
+Id. at 149 .
+An SEC decision to prohibit certain activities could not logically strip those activities of immunity; if Congress intended to repeal the antitrust laws with regard to exclusive options listings, the SEC's eventual prohibition of that practice would not alter the original intent.
+Id. at 148-50 .
+C The cases from the Supreme Court and this Court on implied antitrust immunity yield several principles.
+As an initial matter, we can parse the operation of immunity into "two narrowly-defined situations."
+Id. at 147 (quoting Northeastern Tel. Co., 651 F.2d at 82 ).
+The first situation involves "pervasive regulation," while the second involves potential specific conflicts.
+1 The first ground on which a court might find an implied repeal of the antitrust laws is "the vague ground of pervasive regulation."
+Northeastern Tel. Co., 651 F.2d at 83 ; see Mid-Texas Commc'ns Sys., Inc. v. Am. Tel. & Tel. Co., 615 F.2d 1372 , 1378 n. 4 (5th Cir. 1980).
+An implied repeal of the antitrust laws in this situation may arise "when the regulatory scheme is so pervasive that Congress must be assumed to have forsworn the paradigm of competition."
+In re Stock Exchs.
+Options Trading Antitrust Litig., 317 F.3d at 147 (quoting Northeastern Tel. Co., 651 F.2d at 82 (citing NASD, 422 U.S. at 730 )).
+This category of repeal is limited by the "guiding principle that, where possible, `the proper approach .
+.
+.
+is an analysis which reconciles the operation of both statutory schemes with one another rather than holding one completely ousted.'"
+Nat'l Gerimedical Hosp. & Gerontology Ctr., 452 U.S. at 392 (quoting Silver, 373 U.S. at 357 (alteration in original)).
+Few cases have found an implied repeal on this "vague ground."
+Northeastern Tel. Co., 651 F.2d at 83 .
+The primary illustration of possible pervasive regulation is the situation where the activities of an SRO, extensively regulated by the SEC, are challenged as anticompetitive.
+See NASD, 422 U.S. at 730-33 ; see also Austin Mun. Sec., Inc. v. Nat'l Assoc. of Sec.
+Dealers, Inc., 757 F.2d 676 , 694-95 (5th Cir. 1985); cf. In re Stock Exchs.
+Options Trading Antitrust Litig., 317 F.3d at 148-49 .
+But "pervasive regulation" may also be derivative.
+For instance, in NASD the Supreme Court concluded that horizontal agreements among competing NASD members to encourage vertical restraints in the mutual fund secondary market were entitled to implied immunity because the vertical restraints imposed by these horizontal agreements — which did not have the purpose or effect of restraining competition among funds — had been consistently approved by the SEC. See NASD, 422 U.S. at 733 .
+As then-Judge Kennedy explained, the Supreme Court had "reasoned the concerted activity acquired a kind of derivative immunity by virtue of its relation to the immune restraints implemented by the concerted action."
+Phonetele, 664 F.2d at 729 (footnote omitted).
+The purpose of the challenged conspiracy actually coincided with the aims of the SEC, NASD, 422 U.S. at 733 , and after the Court determined that the underlying restraints on the secondary market were immune it could then conclude that conduct enforcing those restraints was also immune, id .
+To ascertain whether the underlying vertical restraints were immune, however, the NASD Court had to employ the more common immunity analysis described below.
+See id .
+; cf. Friedman, 313 F.3d at 797-98 , 803 .
+2 The context in which implied immunity most often operates is best seen as one of potential specific conflict.
+It has been defined broadly as "when an agency, acting pursuant to a specific Congressional directive, actively regulates the particular conduct."
+In re Stock Exchs.
+Options Trading Antitrust Litig., 317 F.3d at 147 (quoting Northeastern Tel. Co., 651 F.2d at 82 (citing Gordon, 422 U.S. at 685-86 , 688-89 )).
+The most prominent examples of this type of immunity include the situation in Gordon and the immunity applied under section 22(f) of the Investment Company Act to the vertical restraints considered in NASD.
+All of our cases finding immunity have focused on a potential specific conflict of this nature.
+See, e.g., id. at 150 ; Friedman, 313 F.3d at 802-03 ; Finnegan, 915 F.2d at 828-32 ; cf. Strobl, 768 F.2d at 29 ; Northeastern Tel. Co., 651 F.2d at 83-84 .
+As suggested by our label — potential specific conflict — precedents have established that a potential conflict between the antitrust laws prohibiting a specific activity on the one hand and a regulatory regime compelling or permitting that activity on the other is a necessary component of implied immunity of this sort.
+Conflict will often arise because a regulatory regime operates by standards distinct from those of the antitrust laws.
+See, e.g., In re Stock Exchs.
+Options Antitrust Litig., 317 F.3d at 148 ; Friedman, 313 F.3d at 800 (noting that the Exchange Act allows "`a little price manipulation' to further goals such as efficiently raising capital through new issues"); Finnegan, 915 F.2d at 829 .
+But an agency's power to review, if coupled with an obligation to prohibit particular anticompetitive conduct, will not create conflict.
+See Strobl, 768 F.2d at 27-28 ; see also Gordon, 422 U.S. at 692 (Stewart, J., concurring); 1A AREEDA & HOVENKAMP, supra , at 58 ("Ordinarily, the mere power to prevent anticompetitive conduct will not immunize that conduct from the antitrust laws.").
+Rather, a conflict may arise when the agency has the discretion to permit [fn41] the activity by accepting or endorsing it as conforming with statutes or regulations particularly within the agency's sweep.
+See Strobl, 768 F.2d at 27-28 .
+Our decision in In re Stock Exchanges Options Trading Antitrust Litigation establishes that it does not matter whether the agency currently permits the activity; conflict is possible so long as there is "potential" for the agency to permit it under its regulatory regime.
+See In re Stock Exchs.
+Options Trading Antitrust Litig., 317 F.3d at 149 ; see also Friedman, 313 F.3d at 799 .
+Conflict, however, is simply the essential starting point, and cases regarding potential specific conflicts have remained wedded to the idea that the touchstone of our analysis is, quite necessarily, inquiry into whether there is any evidence of an implicit congressional intent to repeal the antitrust laws.
+See Northeastern Tel. Co., 651 F.2d at 82 .
+In discerning that intent, courts examining potential specific conflicts have repeatedly turned to the four insights of the Gordon opinion.
+As noted above, the first is that legislative history or statutory structure may demonstrate that Congress contemplated repealing the antitrust laws with regard to specific anticompetitive conduct.
+See Gordon, 422 U.S. at 681-82 ; see also NASD, 422 U.S. at 705-11 , 722-27 .
+Thus, in Friedman, where we found implied immunity for stabilization practices, we noted that Congress was aware of similar practices when it passed the Exchange Act in 1934.
+[fn42] Friedman, 313 F.3d at 801 ; Friedman v. Salomon/Smith Barney, Inc., No. 98 Civ. 5990(NRB) , 2000 WL 1804719 , at *6, *11 (S.D.N.Y.
+Dec. 8, 2000); see also Finnegan, 915 F.2d at 829-30 ; Phonetele, 664 F.2d at 729-30 .
+The second insight is that a regulatory structure empowering an agency to compel action prohibited by the antitrust laws may imply that the antitrust laws are repealed with regard to that particular action.
+See Gordon, 422 U.S. at 689-90 ; see also NASD, 422 U.S. at 735 ; In re Stock Exchs.
+Options Trading Antitrust Litig., 317 F.3d at 150 ; Harding v. Am.
+Stock Exch., 527 F.2d 1366 , 1369-70 (5th Cir. 1976); cf. Otter Tail Power Co., 410 U.S. at 374 ("When these relationships are governed in the first instance by business judgment and not regulatory coercion, courts must be hesitant to conclude that Congress intended to override the fundamental national policies embodied in the antitrust laws.").
+"In other words, implied immunity exists where allowing parallel proceedings on antitrust and SEC tracks would subject defendants to conflicting mandates."
+[fn43] Friedman, 313 F.3d at 801 .
+This insight sometimes overlaps with the doctrine of "conduct-based instrumentality immunity," which provides that actions compelled by a government agency's directives and policies are immune from the antitrust laws.
+See Name.Space, Inc. v. Network Solutions, Inc., 202 F.3d 573 , 580-84 (2d Cir. 2000).
+The third recurring insight is that immunity may be appropriate if applying the antitrust laws would moot a statutory provision and rob the SEC of some grant of discretion.
+See Gordon, 422 U.S. at 689-90 ; see also Finnegan, 915 F.2d at 830 .
+Compare Gordon, 422 U.S. at 689-90 , with Northeastern Tel. Co., 651 F.2d at 83 .
+This principle builds upon two modest assumptions about Congress: (1) that Congress was familiar with federal law, particularly the antitrust laws; and (2) that Congress would not write legislation without any effect.
+In other words, we do not "assume that Congress was so muddled that it gave with the right hand of securities regulation that which it then took away with the left hand of antitrust law."
+Finnegan, 915 F.2d at 826 .
+Finally, our cases have consistently looked to a regulatory history permitting, at some point, the challenged anticompetitive conduct.
+See, e.g., In re Stock Exchs.
+Options Trading Antitrust Litig., 317 F.3d at 139-42 ; Friedman, 313 F.3d at 800 , 802-03 ; Finnegan, 915 F.2d at 831 ; Northeastern Tel. Co., 651 F.2d at 83-84 .
+The Gordon Court cited historical SEC review of fixed commission rates as evidence of continued congressional acquiescence, [fn44] see Gordon, 422 U.S. at 690-91 , and a pattern of Commission approval of anticompetitive conduct supports the premise that Congress contemplated agency permission of the particular conduct.
+[fn45] The acquiescence argument is strengthened where the anticompetitive behavior is commonly accepted.
+See, e.g., NASD, 422 U.S. at 727-28 ; Finnegan, 915 F.2d at 830 .
+Without fully explaining our underlying rationale, we have nonetheless consistently stressed that "implied immunity analysis requires a fairly fact-specific inquiry into the nature and extent of regulatory action that allegedly conflicts with antitrust law."
+Friedman, 313 F.3d at 799 ; see id. at 801-02 (reviewing regulatory history); see also Phonetele, 664 F.2d at 729 (stating that immunity "depend[s] particularly on the specific regulatory history preceding a given lawsuit").
+At the close of this arduous review of the law, it is important to recall that an implied immunity analysis always begins with the notion that repeal by implication is disfavored.
+See Silver, 373 U.S. at 357 .
+Nonetheless, implied repeal may arise in the face of a clear repugnancy between antitrust and regulatory provisions but, importantly, only to the extent necessary to make the regulatory provisions work.
+Id. at 357 .
+Thus, in the absence of the rare regulatory scheme pervasive enough to indicate that Congress forswore the paradigm of competition, see NASD, 422 U.S. at 730-33 , immunity can arise only when there is a potential specific conflict between the antitrust laws and a regulatory regime, see Northeastern Tel. Co., 651 F.2d at 82 ; see also Strobl, 768 F.2d at 27-28 .
+In resolving that conflict, we will apply immunity if we determine that Congress contemplated the specific conflict and intended for the antitrust laws to be repealed.
+That determination is informed by considering (1) congressional intent as reflected in legislative history and a statute's structure; (2) the possibility for conflicting mandates; (3) the possibility that application of the antitrust laws would moot a regulatory provision; (4) the history of agency regulation of the anticompetitive conduct; and (5) any other evidence indicating that the statute implies a repeal.
+[fn46] The mere power to "permit" an act as not violating a regulatory mandate does not alone immunize that act.
+See Otter Tail Power, 410 U.S. at 371-76 ; Philadelphia Nat'l Bank, 374 U.S. at 321-33 ; Northeastern Tel. Co., 651 F.2d at 83-84 .
+D One additional note is in order.
+Silver teaches that the securities statutes may alter the antitrust analysis in an antitrust defendant's favor even when those statutes imply no repeal of the antitrust laws.
+After the Silver Court denied the NYSE the defense of implied immunity, see 373 U.S. at 360-61 , it did not apply the traditional per se rules of antitrust law, see id. at 347 (explaining that NYSE's actions would normally "constitute a per se violation of 1 of the Sherman Act"); id. at 360-61 .
+Applying "the rule of reason," the Court opined that "particular instances of exchange self-regulation which fall within the scope and purposes of the Securities Exchange Act may be regarded as justified in answer to the assertion of an antitrust claim," and asked whether the conduct before it was so justified.
+Id. at 360-61 , 364 ; see Merrill Lynch, Pierce, Fenner & Smith, Inc. v. Ware, 414 U.S. 117 , 126 (1973).
+We applied the same analysis to subsequent cases related to exchange regulation, asking whether anticompetitive exchange rules were nonetheless "germane" to the purposes of the securities laws and therefore permissible under the antitrust laws.
+See Jacobi v. Bache & Co., 520 F.2d 1231 , 1237-40 (2d Cir. 1975) (Friendly, J.); see also Drayer v. Krasner, 572 F.2d 348 , 356-58 (2d Cir. 1978) (Friendly, J.).
+Thus,"[j]ust as regulatory context may in [some] cases serve as a basis for implied immunity, it may also be a consideration" in the application of antitrust law.
+Verizon Commc'ns, 540 U.S. at 412 (citation omitted); see Jack Faucett Assoc., Inc. v. Am. Tel. & Tel. Co., 744 F.2d 118 , 127 (D.C. Cir. 1984); S. Pac. Commc'ns Co. v. Am. Tel. & Tel. Co., 740 F.2d 980 , 999 , 1009-10 (D.C. Cir. 1984); MCI Commc'ns Corp. v. Am. Tel. & Tel. Co., 708 F.2d 1081 , 1138 (7th Cir. 1983); Phonetele, 664 F.2d at 735 , 737-38 , 740-43 ; cf. Litton Sys., Inc. v. Am. Tel. & Tel. Co., 700 F.2d 785 , 819 (2d Cir. 1983); Mid-Texas Commc'ns Sys., Inc. v. Am. Tel. & Tel. Co., 615 F.2d 1372 , 1378-81 , 1389-91 (5th Cir. 1980).
+Then-Circuit Judge Kennedy recognized in Phonetele that, "[w]hile a given regulatory scheme may not amount to the degree of necessity required to confer implied immunity on all activities of a regulated entity, some degree of necessity may be established as a matter of fact in individual cases."
+664 F.2d at 737 .
+The Phonetele decision also stated, "If a defendant can establish that .
+.
+.
+it had a reasonable basis to conclude that its actions were necessitated by concrete factual imperatives recognized as legitimate by the regulatory authority, then its actions did not violate the antitrust laws."
+Id. at 737-38 ; see id. at 740-41 & n. 63 (discussing Silver and Jacobi ); Jack Faucett Assoc., 744 F.2d at 127 ; S. Pac. Commc'ns Co., 740 F.2d at 1009 .
+We need not expound on the extent to which any of these or analogous principles would here preclude or qualify antitrust liability in the absence of implied immunity; the issue is not before us.
+But we highlight the principle endorsed elsewhere that, as a general matter, "the antitrust laws are not so inflexible as to deny consideration of governmental regulation," Mid-Texas Commc'ns Sys., 615 F.2d at 1385 , and that, as a leading treatise has put it: [A]ntitrust courts can and do consider the particular circumstances of an industry and therefore adjust their usual rules to the existence, extent, and nature of regulation.
+Just as the administrative agency must consider the competitive premises of the antitrust laws, the antitrust court must consider the peculiarities of an industry as recognized in a regulatory statute.
+1A AREEDA & HOVENKAMP, supra , at 12.
+These authorities " are not saying either that the antitrust laws do not apply in th[e particular] regulatory context, or that they somehow apply less stringently [t]here than elsewhere.
+Rather, [they] are saying that, in light of regulatory rules, constraints, and practices," certain behavior classically deemed anticompetitive might not violate the antitrust laws.
+Town of Concord v. Boston Edison Co., 915 F.2d 17 , 22 (1st Cir. 1990) (Breyer, C.J.
+); see Mid-Texas Commc'ns Sys., 615 F.2d at 1389-90 ; Drayer v. Krasner, 572 F.2d at 356-58 ; Jacobi, 520 F.2d at 1237-40 .
+Thus, it is possible that where a regulatory regime is "an effective steward of the antitrust function," the federal courts — in their considered application of the principles of antitrust law, rather than through an ousting of that law by statutory implication — may decline to intervene in private conduct because the benefits of intervention could be slight against a realistic assessment of costs.
+Verizon Commc'ns, 540 U.S. at 413-14 .
+We make this note because the flexibility reflected in cases like Silver, Phonetele, and Verizon Communications lowers the stakes of any implied immunity evaluation.
+Tension may often develop between traditional antitrust analysis and the operation of a regulatory regime, even where the statute creating the regime carries no implication of a repeal of the antitrust laws.
+See, e.g., id. at 411-15 ; Silver, 373 U.S. at 360-61 ; Mid-Texas Commc'ns Sys., Inc., 615 F.2d at 1378-81 , 1389-91 .
+But a complete ousting of the antitrust laws is not the only means of resolving that tension.
+As one treatise has commented, although the doctrine of implied immunity is "not broad enough to eliminate every potential conflict between antitrust and regulatory policies," 1A AREEDA & HOVENKAMP, supra , at 98, "the antitrust laws are flexible enough to take into account the peculiarities of a regulated industry," id. at 7 .
+See Verizon Commc'ns, 540 U.S. at 411-12 .
+In light of the flexibility of the antitrust laws, it is possible to maintain the focus of an implied immunity analysis on the question at issue: whether, and to what extent, a statute implies repeal of the antitrust laws.
+IV Against this backdrop of implied antitrust immunity jurisprudence, defendants advance two theories of implied immunity.
+First, they argue that immunity should be implied because the SEC has jurisdiction over the alleged conduct, the SEC has actively exercised its authority to regulate the misconduct, and application of the antitrust laws would interfere with the Commission's ability to administer and refine the regulatory scheme.
+Second, they contend that the SEC's regulatory authority over the challenged conduct is sufficiently pervasive to oust the antitrust laws.
+[fn47] Plaintiffs dispute both theories.
+Plaintiffs' primary claim is that immunity is improper because there is no potential conflict with the securities laws.
+According to them, defendants cannot establish that the alleged conduct could ever be authorized under those laws.
+A We begin with defendants' argument that a potential specific conflict necessitates immunity.
+1 At the threshold, we are presented with a question of appellate practice.
+The issue of an implied immunity of this sort was the focal point of the briefing and argument in these cases, but plaintiffs have presented primarily an interpretation of the case law extending antitrust immunity over a broader set of conduct than we find supported by logic and precedent.
+Specifically, they suggest that immunity applies to whatever conduct the SEC could permit under its regulatory regime and therefore that immunity is inappropriate here because the SEC lacks the power to approve the alleged tie-in arrangements and conspiracies.
+Thus, they would have us resolve the question of the exact scope of the SEC's authority.
+We do not find it necessary to do so. Although we would agree with plaintiffs that the SEC must have authority to permit conduct before immunity of this sort attaches to it, we do not agree that, in the common case, the authority to permit, alone, will establish that a statute has impliedly repealed the antitrust laws.
+Hence, we would turn to a legal framework more favorable to plaintiffs than the doctrine they have pressed.
+Our initial concern is whether it is proper to look past plaintiffs' apparent concession as to the operative doctrinal framework and in turn whether to apply the proper principles of law.
+It is.
+First, this Court unquestionably has the power to do so.
+It is well-established that "once an issue or claim is properly before a court, the court is not limited to the particular legal theories advanced by the parties, but rather retains the independent power to identify and apply the proper construction of governing law."
+Kamen v. Kemper Fin.
+Servs., Inc., 500 U.S. 90 , 99 (1991); see United States Nat'l Bank of Oregon v. Indep. Ins. Agents of Am., Inc., 508 U.S. 439 , 447 (1993).
+Accordingly, a concession on a question of law will not bind us.
+See United States v. Tortorello, 533 F.2d 809 , 812 (2d Cir. 1976); see also Squires v. Town of Islip, 697 F.2d 66 , 69 n. 5 (2d Cir. 1982).
+Second, ignoring plaintiffs' arguable concession is particularly apt here.
+To apply the immunity doctrine properly would not introduce a separate legal issue, see, e.g., Virgilio v. City of New York, 407 F.3d 105 , 116 (2d Cir. 2005); Indep. Ins. Agents of Am., Inc. v. Clarke, 955 F.2d 731 , 733-34 , 741-42 (D.C. Cir. 1992), rev'd on other grounds, United States Nat'l Bank of Oregon, 508 U.S. 439 , or even require that we turn to separate precedent.
+Moreover, resolving the immunity question in the manner the parties propose would require that we delineate what may be the periphery of the SEC's powers, a task we hesitate to undertake.
+And, by resolving the question of immunity posed by the parties in our own manner, we could in no way be said to be transforming ourselves into a "self-directed board□ of legal inquiry and research," but, rather, would quite clearly act "as arbiters of legal questions presented and argued by the parties before [us]."
+Carducci v. Regan, 714 F.2d 171 , 177 (D.C. Cir. 1983) (Scalia, J.).
+We simply find that the arguments on both sides proceed from fundamental, if understandable, misinterpretations of applicable precedents.
+In these circumstances, we refuse to apply the parties' false premises and to engage in the delicate task of setting the contours of SEC power.
+For us, it would be inappropriate to allow implied immunity — a quite complicated issue with few guiding precedents in this Circuit — to "vary from case to case depending on concessions."
+Snider v. Melindez, 199 F.3d 108 , 114 (2d Cir. 1999); see Mojias v. Johnson, 351 F.3d 606 , 609 (2d Cir. 2003).
+Thus, we approach the question of immunities arising from potential specific conflicts with the framework established by precedent, not from that arguably stipulated to by the parties.
+2 The parties' dispute, as has been suggested, centers on the scope of SEC power.
+Defendants forcefully argue, and the district court's opinion masterfully demonstrates, that the SEC has unquestionable jurisdiction over the tie-in agreements underlying plaintiffs' complaints.
+See IPO Antitrust Litig., 287 F. Supp. 2d at 506-23 .
+Plaintiffs, however, assert that the SEC is unable to permit the alleged manipulation under the securities laws.
+Defendants vigorously challenge that assertion.
+This presents a much more difficult question, and the SEC proceeds with caution.
+Instead of joining defendants to say that the Commission could permit the charged conduct, it offers a qualified double negative — that, in its view, "[c]urrent precedent does not .
+.
+.
+foreclose [its] ability in response to future developments to authorize conduct by underwriters that could be characterized as a tie-in or laddering."
+Letter from Amicus Curiae SEC, at 3 (emphasis added).
+We need not resolve the bounds of SEC authority.
+Even if a specific potential conflict could be established, the crux of the implied immunity claim would remain: demonstration that Congress clearly intended a repeal of the antitrust laws.
+See Nat'l Gerimedical Hosp. & Gerontology Ctr., 452 U.S. at 389 ; see also Otter Tail Power, 410 U.S. at 374-75 ; Philadelphia Nat'l Bank, 374 U.S. at 351-52 ; see also Northeastern Tel. Co., 651 F.2d at 82 ; cf. Gordon, 422 U.S. at 688 , 691 .
+Here, there is no evidence of that intent.
+First, there is no legislative history indicating that Congress intended to immunize anticompetitive tie-in arrangements.
+That fact alone is not determinative, but it does rebut any argument that immunity could be inferred from a specific congressional authorization.
+Cf. Northeastern Tel. Co., 651 F.2d at 82 .
+In both of the Supreme Court's cases finding implied immunity in the securities context, Congress had contemplated immunizing the specific anticompetitive activity from the antitrust laws.
+In Gordon, Congress was aware of fixed rates and granted the SEC power to regulate them, see 422 U.S. at 685 , and in NASD, the legislative history revealed that Congress had authorized the SEC to regulate restrictions imposed on trading in the secondary market for mutual funds in order to combat abuses caused by free competition, see 422 U.S. at 733 .
+There is no similar legislative history in the case before us.
+Second, this is not a case, like Gordon or In re Stock Exchanges Options Trading Antitrust Litigation, where the securities regime creates the potential for irreconcilable mandates.
+Quite simply, neither defendants nor the SEC contend that the Commission could compel the anticompetitive conduct the antitrust laws would prohibit.
+Whereas the Commission might have the power to impose fixed commission rates, see Gordon, 422 U.S. at 689-90 , or to limit securities options listings to particular exchanges, see In re Stock Exchs.
+Antitrust Litig., 317 F.3d at 148-50 , defendants wisely do not insist upon the Commission's power to force tie-in conspiracies or to force underwriters to offer tie-in agreements linked to IPO allocations.
+Third, defendants fail to identify a single provision, sentence, phrase, or word within the securities laws that would be "render[ed] nugatory" by application of the antitrust laws.
+See Gordon, 422 U.S. at 689-90 .
+As this Court noted in Gordon, "the 1934 Act explicitly provide[d] for the fixing of reasonable rates of commission."
+498 F.2d at 1307 (quotation marks omitted).
+Application of the antitrust laws would have conflicted with that particularized grant of power to the Commission.
+Likewise, in Finnegan we found that using the antitrust laws to forbid joint bidding would conflict with the Williams Act's instruction that the SEC regulate "group" bids.
+915 F.2d at 829-30 .
+Here, by contrast, defendants acknowledge that the laws bringing tie-in agreements under the SEC's jurisdiction "concern general, undefined subjects like fraud, deception, misrepresentation, and manipulation."
+[fn48] Defendants simply cannot identify any power or provision of the securities laws that will be mooted or even significantly curtailed by applying the antitrust laws to the conduct alleged in plaintiffs' complaints.
+Finally, in every case in the securities context in which this Court or the Supreme Court has ever found implied antitrust immunity, the courts have done so in the wake of SEC authorization — whether past or present — of the specific anticompetitive behavior.
+Here, however, it is undisputed that "the Commission has never authorized tying and laddering .
+.
+.
+[or] even considered doing so." Letter from Amicus Curiae Department of Justice, at 2.
+Defendants argue that the SEC might be able to define "stabilization" under section 9(a)(2) of the Exchange Act to include these arrangements, but the Commission has never done so; rather, it has consistently limited the definition of "stabilization" to stabilizing activities that maintain securities prices or retard their decline, not manipulations that raise prices.
+See Stabilizing to Facilitate a Distribution, Proposed Rulemaking, Securities Act Release No. 6880, Exchange Act Release No. 23,732 (Jan. 3, 1991), 56 Fed. Reg. 814 , 814-15 (Jan. 9, 1991) ("Stabilization consists of [conduct] .
+.
+.
+with a view to maintaining the price, or retarding the decline in price, of the security for the purpose of inducing the purchase by other persons of the offered security.
+"); 1940 Statement, 11 Fed. Reg. at 10 ,973 ("[Stabilization] is, of course, a negative type of manipulation since it seeks to retard and not to create affirmative market movements.
+"); id. at 10 ,976.
+See generally Friedman, 313 F.3d at 801-03 .
+Moreover, the SEC "has long considered tying the award of allocations of offered shares to additional consideration to be fraudulent and manipulative, and such practices have always been actionable under Section 17(a) of the Securities Act and Section 10(b) and Rule 10b-5 of the Exchange Act."
+2004 Proposed Amendments, 69 Fed. Reg. at 75 ,783; see id. at 75 ,784 n. 104.
+The Commission submitted to this Court that "it is difficult to envision the circumstances in which" conduct similar to that alleged in the complaint might be permitted.
+Letter from Amicus Curiae SEC, at 3.
+Indeed, when asked by this Court whether application of the antitrust laws could "impede the SEC's ability to regulate or exempt from regulation any underwriters, securities, or transactions," the SEC noted only that "other cases could involve conduct presenting closer questions."
+Id. at 4 .
+The conduct alleged in this case, clearly, is not permitted under SEC regulations.
+We find no other indication of congressional intent to repeal the antitrust laws and immunize IPO tie-in agreements.
+Accordingly, we reject defendants' argument that implied antitrust immunity arises from a potential specific conflict between the antitrust laws and the securities laws.
+B Defendants also press a "pervasiveness" claim as a route to implied immunity.
+The district court characterized the SEC's authority over the anticompetitive conduct alleged in the complaint as "pervasive" but declined to hold that implied immunity was proper "under the NASD scenario."
+IPO Antitrust Litig., 287 F. Supp. 2d at 506 .
+Defendants urge us to transform that characterization by the district court into our holding.
+In essence, they contend that immunity is proper here for the same reasons as in NASD.
+They assert that the SEC has the authority, capacity, and willingness to eliminate the misconduct, and that the SEC would weigh competitive concerns in doing so.
+Defendants misread NASD.
+As we have explained, the Court's "pervasiveness" holding in NASD included two immunity considerations: one arising directly from the particular "pervasive" regulatory relationship between the SEC and the NASD, NASD, 422 U.S. at 732-33 , and the other arising derivatively from the "fatal," "close relationship" between the alleged conspiracy and conduct the Court had already concluded was not only impliedly immune but actively encouraged by the SEC, id. at 733 .
+Pervasive immunity of the second, derivative sort is impossible here, as the securities statutes do not specifically immunize the underlying tie-in arrangements.
+The only consideration, therefore, is whether the regulations here are "pervasive" like the SEC's regulations of the NASD were held to be in NASD.
+Furthermore, defendants' attempt to analogize their relationship with the SEC to that at play in NASD falls far short.
+While it is true that both cases present extensive SEC regulation over the alleged misconduct, there is a significant distinction between who is being regulated and why.
+The NASD Court noted that the delegation of "pervasive supervisory authority" to the SEC suggested that Congress intended to lift the ban of the Sherman Act for association activities approved by the SEC. See NASD, 422 U.S. at 733 (citing Socony-Vacuum Oil Co., 310 U.S. at 227 n. 60).
+The NASD is a self-regulatory organization enjoying a special status that defendants cannot claim.
+Indeed, the NASD and the SEC share a relationship that is quite different from SEC regulation of private business activities.
+The NASD itself serves as a semi-private regulator over the complex and unique securities industry but does so under the ever-watchful and omnipresent eye of the SEC. The SEC's authority over the NASD allows the Commission to review, approve, and order changes in the organization's rules.
+Id. at 732-33 .
+Pervasiveness in this context in NASD revealed that the decisions of the regulated ( i.e., the NASD) could be seen as the acts of the regulator.
+Defendants have no such relationship with the SEC. While their conduct may be subject to regulation and control by the SEC in great detail, that does not mean that the SEC approved those acts as it did in NASD.
+At its core, defendants' pervasiveness argument is really that the law of antitrust must yield to the complexities of securities regulation in light of the SEC's substantial powers to regulate underwriter misconduct.
+The district court implicitly adopted this position, stating: [T]he SEC, through application of its broad regulatory authority over the spectrum of conduct related to securities offerings, is empowered to regulate the conduct alleged by .
+.
+.
+[p]laintiffs.
+It is this sweeping power to regulate that spawns the potential conflict with the antitrust laws that, under Friedman and Stock Exchanges Options, requires a finding of implied immunity.
+IPO Antitrust Litig., 287 F. Supp. 2d at 506 .
+But the teaching of NASD is not that sweeping regulatory powers over private conduct render a regulatory scheme so "pervasive" as to immunize that conduct.
+If so, the vertical agreements charged in NASD would have been immunized under the rubric of pervasiveness as well.
+They were not.
+Instead, apart from the derivative immunity extended to private conduct pursued in accord with SEC policies, the Court limited pervasiveness to "association activities approved by the SEC." NASD, 422 U.S. at 733 .
+Extensive regulation over the private conduct alleged here simply highlights the danger that anticompetitive conduct poses to the securities markets.
+Cf. Philadelphia Nat'l Bank, 374 U.S. at 352 ("The fact that the banking agencies maintain a close surveillance of the industry with a view toward preventing unsound practices that might impair liquidity or lead to insolvency does not make federal banking regulation all-pervasive, although it does minimize the hazards of intense competition.").
+We will not halt operation of the antitrust laws on the rationale that the misconduct equally threatens the markets for trading securities.
+C The claim of implied immunity in this case is, in many ways, unlike any we have seen.
+Tie-in agreements are recognized as means of dangerous manipulation, and there is no indication that Congress contemplated repealing the antitrust laws to protect them.
+Thus, defendants insist that the SEC could exercise powers — powers the agency refuses to recognize — to immunize conduct that neither Congress nor the agency has ever contemplated permitting.
+There may be reasons why Congress might choose to immunize such conduct.
+The SEC and defendants have vigilantly reminded us that the securities markets in toto might be better entrusted to an expert agency than to the federal courts.
+While we might agree, we do not have the responsibility for making national policy.
+Congress knows how to immunize regulated conduct from the antitrust laws.
+To date, it has not done so here either expressly or impliedly.
+Construing the statutes as written, we find no repeal.
+V One issue remains.
+The district court determined that "reason and common sense compel the conclusion that the same conduct that is immune from Sherman Act antitrust scrutiny must also be immune from state antitrust scrutiny."
+IPO Antitrust Litig., 287 F. Supp. 2d at 524 .
+In light of our conclusion that the doctrine of implied antitrust immunity does not shield the alleged misconduct from antitrust scrutiny, this ruling cannot stand.
+While defendants forward alternate grounds to support the district court's dismissal, we decline to reach them and instead remand for consideration in the first instance by the district court.
+VI For the reasons stated above, the district court's judgment of November 6, 2003 is vacated, and the case is remanded for further proceedings consistent with this opinion.

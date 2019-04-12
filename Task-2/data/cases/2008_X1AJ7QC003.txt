@@ -1,0 +1,105 @@
+ BOUDIN, Circuit Judge.
+The question posed by this appeal is whether, under a statute forbidding the carrying and use of guns in connection with a federal crime, the nature of the weapon is to be found by the judge as a sentencing matter or by the jury as an element of the crime.
+Most circuits have said the former; believing ourselves largely constrained by a Supreme Court decision interpreting a prior version of the statute, we reach the opposite result, albeit with some misgivings.
+The facts can be easily summarized.
+On the morning of June 16, 2005, defendants Martin O'Brien and Arthur Burgess, along with a third confederate Dennis Quirk, prepared to rob a Loomis-Fargo armored car.
+Between them, they carried three weapons: a Sig-Sauer pistol (O'Brien), a semi-automatic AK-47 assault rifle (Burgess), and a fully automatic Cobray pistol (Quirk).
+Part way into the robbery a guard escaped and the defendants fled but were later caught and indicted.
+Counts one and two of the indictment alleged Hobbs Act violations for attempted robbery and conspiracy to affect interstate commerce, 18 U.S.C. 1951 (2000); count three charged the defendants with using or carrying a firearm in furtherance of a crime of violence, id. 924(c); count four charged defendants with using a machinegun in furtherance of a crime of violence, id. 924(c); and counts five and six charged some defendants as felons in possession of firearms, id. 922(g).
+The Cobray pistol, which had been modified to operate as a fully automatic weapon, was listed both in count three as one of three firearms and in count four as the machinegun.
+[fn1] The language of section 924(c) is set forth in full in an addendum to this decision along with a prior version of the same statute.
+Although section 924 as a whole is captioned "Penalties" and is a companion to section 922 captioned "Unlawful Acts," section 924 is elaborate, lengthy and far from homogenous in character.
+Subsection (a) sets penalties for specific violations of section 922; subsection (b) creates an offense for transporting weapons.
+Our main concern is with subsection (c).
+Section 924(c) provides that anyone who in relation to a crime of violence or drug trafficking "uses or carries a firearm," or "possesses" one "in furtherance of the crime, must be sentenced to at least five years imprisonment.
+18 U.S.C. 924(c)(1)(A).
+It then hikes the minimum if the firearm [**2] is "brandished" (seven years), id. 924(c)(1)(A)(ii), or discharged (ten years), id. 924(c)(1)(A)(iii), or if the firearm is a short-barreled rifle or shotgun (ten years), id. 924(c)(1)(B)(i), or is a machine-gun or destructive device or is equipped with a silencer or muffler (thirty years), id. 924(c)(1)(B)(ii).
+The defendants moved to strike the specific reference to the Cobray pistol from count three on the ground that possession of a machine-gun is an element of a crime, properly charged as a separate offense in count four.
+The government objected, insisting that the machine-gun provision set forth a sentencing factor.
+It said that it did not seek punishment on both counts but had included count four only as a precaution in case the machine-gun reference were struck from count three.
+At the pretrial conference, the district court ruled that machine-gun possession was an element of a crime rather than a sentencing enhancement.
+It relied on Castillo v. United States , 530 U.S. 120 , 120 S.Ct. 2090 , 147 L.Ed.2d 94 (2000), a decision construing an earlier version of the statute that was supplanted by the present law in 1998.
+Id. at 125, 120 S.Ct. 2090 .
+The district court dismissed count four at the government's behest, and the defendants then pled guilty to the remaining counts.
+The dismissal of count four came about because the government concluded that it could not prove beyond a reasonable doubt the defendants' knowledge that the Cobray had been modified to operate automatically.
+However, at sentencing the government again urged the thirty year mandatory minimum on the ground that the district court could find the necessary facts as to possession of a machine-gun by a preponderance of the evidence and without requiring the defendants to know that the weapon was automatic.
+The district judge refused, adhering to his earlier view of the statute.
+Accordingly, although the defendants had pled guilty under count three to using or carrying a firearm in connection with a crime of violence, the fact that the Cobray pistol had tested as an automatic weapon was not enough to trigger the thirty year minimum.
+Two of the defendants (O'Brien and Burgess) ended up with sentences below thirty years; the third had yet to be sentenced when the briefs were filed.
+Arguing that the thirty year provision was a mandatory sentencing factor, the government now appeals.
+Construing section 924(c) is a question of law to be considered de novo.
+Berhe v. Gonzales , 464 F.3d 74 , 80 (1st Cir. 2006).
+Six circuits support the government's view and only one, United States v. Harris , 397 F.3d 404 , 406 , 412-14 (6th Cir. 2005), supports the defendants.
+[fn2] But the Supreme Court, glossing an earlier version of section 924(c), found that the machine-gun provision created an element of the offense to be submitted to the jury.
+Castillo , 530 U.S. at 121 , 123 , 131 , 120 S.Ct. 2090 .
+At the time, the new version (at issue in our case) had already been enacted but did not govern Castillo itself and was not interpreted by the Court.
+Ordinarily, Congress can decide whether a fact is an element of the offense or pertains merely to sentencing.
+Almendarez-Torres v. United States , 523 U.S. 224 , 228 , 118 S.Ct. 1219 , 140 L.Ed.2d 350 (1998).
+Read in a vacuum, the language of section 924(c) indicates that the "offense" (carrying a five year minimum [**3] sentence) is the carriage, use or possession of a firearm during a drug or violent felony — all elements for the jury — while the brandishing or discharge and the type of firearm" which merely raised the mandatory minimum-pose sentencing issues to be resolved by the judge.
+This would comport with the statute's structure as well.
+[fn3] According to the Supreme Court in Harris v. United States: Federal laws usually list all offense elements "in a single sentence" and separate the sentencing factors "into subsections."
+.
+.
+.
+When a statute has this sort of structure, we can presume that its principal paragraph defines a single crime and its subsections identify sentencing factors.
+536 U.S. 545 , 552-53 , 122 S.Ct. 2406 , 153 L.Ed.2d 524 (2002) (citation omitted).
+The current version of section 924(c) follows just this pattern.
+The first sentence (down to the semicolon) sets forth the elements that the jury should find and the corresponding five year minimum sentence; then, the subsequent subparagraphs increase the mandatory minimum under various circumstances, which could readily be established at sentencing.
+At present, no constitutional bar exists to such an allocation of tasks by Congress.
+In the face of escalating maximum sentences, the Supreme Court has ruled that the Sixth Amendment requires that any fact increasing the statutory maximum sentence be submitted to the jury.
+See Apprendi v. New Jersey , 530 U.S. 466 , 490 , 120 S.Ct. 2348 , 147 L.Ed.2d 435 (2000).
+But it has not extended this prescription to facts that create or enlarge a statutory minimum sentence, which is what concerns us here.
+See McMillan v. Pennsylvania , 477 U.S. 79 , 106 S.Ct. 2411 , 91 L.Ed.2d 67 (1986); Harris , 536 U.S. at 557-568 , 122 S.Ct. 2406 (reaffirming McMillan ).
+However, in sentencing it is imprudent to read Congress' language in a vacuum.
+The Supreme Court's innovative constitutional precedents, bringing the Sixth Amendment to bear on maximum sentences and (more famously) on the sentencing guidelines, e.g., United States v. Booker , 543 U.S. 220 , 125 S.Ct. 738 , 160 L.Ed.2d 621 (2005); Blakely v. Washington , 542 U.S. 296 , 124 S.Ct. 2531 , 159 L.Ed.2d 403 (2004), has been paralleled in statutory construction.
+There, the Court has developed unique policy and historical tests that complement, and sometimes work to modify, the most straightforward reading of language and structure.
+These tests consider, along with legislative language and intent, the severity of punishment and how the fact has been historically treated.
+Two leading cases are Jones v. United States , 526 U.S. 227 , 119 S.Ct. 1215 , 143 L.Ed.2d 311 (1999) ("serious bodily injury" resulting from a carjacking, 18 U.S.C. 2119 , is an element of the crime) and Castillo itself.
+Several times the outcome, as in both of these cases, has been to require courts to treat facts specified in the substantive statutes as elements of the offense rather than sentencing factors even though bare statutory language might seem to point the other way.
+[fn4] Although in this new algorithm congressional language and other evidences of intent remain important, Harris , 536 U.S. at 552 , 122 S.Ct. 2406 , there is a further complication: Congress in enacting complex criminal statutes rarely considers explicitly whether some designated fact should be deemed an element or a sentencing factor — a distinction, after all, primarily of concern to courts in administering the statutes.
+Exceptions are [**4] relatively few.
+E.g. , 18 U.S.C. 3593 (b) (factors bearing on imposition of death sentence).
+As for the Court's own criteria, they are not easily applied or balanced against each other.
+For example, the Court tells us" seemingly as a policy consideration — that a significantly longer prison term points toward treating the triggering fact as an element of the crime; this very circumstance was cited in Castillo as one factor supporting the result.
+530 U.S. at 131 , 120 S.Ct. 2090 .
+A thirty-year minimum is indeed long; but only a five-year increase would result if a short-barreled rifle were the weapon, and both provisions are phrased in exactly the same terms and in structurally parallel provisions.
+Compare 18 U.S.C. 924 (c)(1)(B)(i), with id. 924(c)(1)(B)(ii).
+The Court has also asked whether treating a fact as an element was "traditional" and whether doing so would "complicate a trial or risk unfairness."
+Castillo , 530 U.S. at 126-28 , 120 S.Ct. 2090 .
+Discerning a "tradition" in this sphere is far from easy: until the 1980s, sentencing was largely unstructured; but Castillo said that firearm type is traditionally an element of the offense — a judgment unaffected by the rephrasing of the statute.
+Nor has the restructuring made it less feasible to ask the jury to determine the nature of the weapon or defendant's knowledge of it.
+In all events, a starker reality informs our choice in this case. Whatever uncertainty may attend the Court's criteria and the pattern formed by its precedents, one thing is clear: in Castillo the Supreme Court found that the machine-gun provision in the pre-1998 version of section 924(c) created an element of the crime to be tried by a jury.
+The language used in this earlier version was slightly more favorable to the defendants than the current version but not markedly so, nor was the original language so clear that it preordained the Court's result.
+Prior to the 1998 amendment, the language defined the crime in the same language used now, prescribed a fixed sentence of five years, and — after listing other facts leading to fixed terms — said that the penalty "if the firearm is a machinegun .
+.
+.
+[is] imprisonment for thirty years."
+18 U.S.C. 924 (c)(1) (1997).
+The current version merely breaks what was a single run-on sentence into subparagraphs (one for each additional fact), converts the fixed-term sentences of the earlier version into minimum sentences, and moves the verb to the end of each subparagraph, to wit: (B) If the firearm possessed by a person convicted of a violation of this subsection — .
+.
+.
+(ii) is a machinegun .
+.
+., the person shall be sentenced to a term of imprisonment of not less than 30 years.
+There is no evidence that the breaking up of the sentence into the present subdivisions or recasting of language was anything more than the current trend — probably for ease of reading — to convert lengthy sentences in criminal statutes into subsections in the fashion of the tax code.
+In fact, the stated objective of re-writing section 924(c) was another issue entirely.
+[fn5] Nothing in the legislative history that we could find says anything about the element versus sentencing factor distinction.
+The only explicit substantive difference between the earlier version and [**5] the new one is the conversion of the numerical figures from fixed-term sentences to mandatory minimums.
+The government says that mandatory minimums are traditionally associated with sentencing.
+But so are prescribed sentences (as in the prior version) and maximum sentences (which are components of most criminal statutes).
+It would be a different matter if Congress had explained the change as one aimed at Castillo itself; but Castillo was decided after the new statute had been passed.
+Absent a clearer or more dramatic change in language or legislative history expressing a specific intent to assign judge or jury functions, we think that Castillo is close to binding.
+True, the Court in Castillo declined to decide our case, only saying that the new version could not be used to impute a meaning to the old.
+530 U.S. at 125 , 120 S.Ct. 2090 .
+But most of the reasoning offered in Castillo applies with almost equal force to the new statute.
+If Castillo is to be reconsidered or narrowly distinguished, this is customarily the Court's "prerogative."
+State Oil Co. v. Khan , 522 U.S. 3 , 20 , 118 S.Ct. 275 , 139 L.Ed.2d 199 (1997).
+We recognize that six circuits have reached a different outcome and concede that, if we were writing on a clean slate, the statute's language would be a powerful argument for the government's result.
+The problem is that the prior statutory language also favored the government.
+Yet a unanimous Supreme Court found persuasive contrary arguments of policy and tradition, which have not in the least been altered by the statute's revision.
+Affirmed.
+ADDENDUM Before the statute was restructured, the pertinent part of 924(c) read as follows: Whoever, during and in relation to any crime of violence or drug trafficking crime (including a crime of violence or drug trafficking crime which provides for an enhanced punishment if committed by the use of a deadly or dangerous weapon or device) for which he may be prosecuted in a court of the United States, uses or carries a firearm, shall, in addition to the punishment provided for such crime of violence or drug trafficking crime, be sentenced to imprisonment for five years, and if the firearm is a short-barreled rifle, short-barreled shotgun, or semiautomatic assault weapon, to imprisonment for ten years, and if the firearm is a machinegun, or a destructive device, or is equipped with a firearm silencer or firearm muffler, to imprisonment for thirty years.
+In the case of his second or subsequent conviction under this subsection, such person shall be sentenced to imprisonment for twenty years, and if the firearm is a machinegun, or a destructive device, or is equipped with a firearm silencer or firearm muffler, to life imprisonment without release.
+(FOOTNOTE 1) Notwithstanding any other provision of law, the court shall not place on probation or suspend the sentence of any person convicted of a violation of this subsection, nor shall the term of imprisonment imposed under this subsection run concurrently with any other term of imprisonment including that imposed for the crime of violence or drug trafficking crime in which the firearm was used or carried.
+[**6] Following revision in 1998, the relevant language now reads: (A) Except to the extent that a greater minimum sentence is otherwise provided by this subsection or by any other provision of law, any person who, during and in relation to any crime of violence or drug trafficking crime (including a crime of violence or drug trafficking crime that provides for an enhanced punishment if committed by the use of a deadly or dangerous weapon or device) for which the person may be prosecuted in a court of the United States, uses or carries a firearm, or who, in furtherance of any such crime, possesses a firearm, shall, in addition to the punishment provided for such crime of violence or drug trafficking crime — (i) be sentenced to a term of imprisonment of not less than 5 years; (ii) if the firearm is brandished, be sentenced to a term of imprisonment of not less than 7 years; and (iii) if the firearm is discharged, be sentenced to a term of imprisonment of not less than 10 years.
+(B) If the firearm possessed by a person convicted of a violation of this subsection — (i) is a short-barreled rifle, short-barreled shotgun, or semiautomatic assault weapon, the person shall be sentenced to a term of imprisonment of not less than 10 years; or (ii) is a machinegun or a destructive device, or is equipped with a firearm silencer or firearm muffler, the person shall be sentenced to a term of imprisonment of not less than 30 years.

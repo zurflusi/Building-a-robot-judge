@@ -1,0 +1,91 @@
+ EMILIO M. GARZA , Circuit Judge: The United States Bankruptcy Court for the Northern District of Texas denied confirmation of the Chapter 13 reorganization plan proposed by Leonard and Harriet Nobleman, in which the Noblemans attempted to bifurcate a mortgage lien claim on their principal residence into secured and unsecured claims.
+The United States District Court for the Northern District of Texas affirmed the decision of the bankruptcy court.
+See 129 B.R. 98 (N.D.Tex.1991).
+The Noblemans appeal, and, finding that the use of 11 U.S.C. 506 1 to bifurcate this claim would impermissibly modify the rights of American Savings Bank under 11 U.S.C. 1322(b)(2) , 2 we affirm the order of the district court.
+I The facts of this case are uncontested.
+The Noblemans executed a note in the amount of $68,250.00, payable to American Savings Bank (American), and secured by a deed of trust on their principal residence--a condominium in a complex in Dallas, Texas.
+3 Six years later, the Noblemans filed a voluntary petition for relief under Chapter 13 of the bankruptcy code.
+American filed its proof of claim for $71,265.04--which was later amended to $71,335.04.
+The Noblemans then filed an initial and modified Chapter 13 Plan of Reorganization.
+The plan valued the Noblemans' residence at $23,500.00.
+The Noblemans also filed a motion for valuation pursuant to 11 U.S.C. 506 along with certain modifications to their plan.
+At the confirmation hearing, Mr.
+Nobleman testified as to the value of the property; no controverting evidence of its value was offered by any other party.
+In their modified plan, the Noblemans proposed to make direct payments to American at the mortgage contract rate only up to the scheduled value of the condominium.
+The balance of American's claim--$41,257.66--would be treated as a general unsecured claim under the Plan, payable pari passu , though the Noblemans did plan to cure the prepetition arrearages owed to American.
+The unsecured creditors would receive nothing.
+Both American and the Standing Chapter 13 Trustee objected to the confirmation of the plan on the grounds that, inter alia, the plan purported to alter the lienholders' rights in violation of 11 U.S.C. 1322(b)(2) .
+The bankruptcy court found that the plan impermissibly proposed to modify American's rights by bifurcating American's claim into secured and unsecured claims in violation of 11 U.S.C. 1322(b)(2) .
+Accordingly, the bankruptcy court denied confirmation of the Noblemans' modified Chapter 13 plan, and the district court affirmed.
+4 II The parties and their amici are not in agreement regarding the approach we should take in interpreting the interplay between sections 506(a) and 1322(b)(2) of the bankruptcy code.
+The Noblemans concede that a debtor may not modify the rights of holders of a secured claim if such security is an interest in real property that is the debtor's principal residence.
+They assert, however, that section 506(a) defines a secured claim as the value of the collateral, while any balance on the debt above this amount is an unsecured claim.
+Thus, they contend that, under section 1322(b)(2) , the only portion of a claim which cannot be modified is the part supported by the value of the collateral--the secured claim.
+The part of the claim in excess of the value of the collateral becomes an unsecured claim, which can be modified.
+One amicus suggests that allowing debtors to bifurcate a mortgage lien claim pursuant to section 506 and allowing a modification pursuant to section 1322(b)(2) results in a systematic and coherent application of the bankruptcy code.
+It further argues that to prohibit the bifurcation of a claim would ignore that various sections of the bankruptcy code are to be read together.
+American, on the other hand, contends that the proposed modification of the Noblemans' Chapter 13 plan is impermissible because it would bifurcate the creditor's claim into secured and unsecured claims.
+American asserts that bifurcation of a secured claim in real property that is the debtor's principal residence violates section 1322(b)(2) because the plain meaning of section 1322(b)(2) prohibits such a modification.
+Furthermore, American contends that the general provisions of section 506 must not be read to prevail over the specific provisions of section 1322(b)(2) , because the general language of one section should not control matters specifically addressed in another.
+American also argues that the limited bar regarding modification of the rights of residential lenders was enacted in response to Congressional perceptions that these lenders perform a valuable social purpose by making home loans.
+Two other amici agree with American, contending that bifurcating a debtor's secured claim under section 1322(b)(2) is unfair and unworkable because bifurcation: (i) provides a windfall to Chapter 13 debtors; (ii) results in home mortgage lenders receiving worse treatment under Chapter 13 than other secured creditors; and (iii) does not help promote the bankruptcy code's fresh start objective.
+Furthermore, the amici argue that the plain meaning of section 1322(b)(2) precludes a debtor from "cramming down" 5 a claim secured only by the debtor's principal residence, and that the rights of holders of secured claims, which include a claim secured only by a security interest in property that is the debtor's principal residence, may not be modified.
+III The foregoing summary of the different positions of the parties and their amici demonstrates that the interplay between sections 506 and 1322(b)(2) of the bankruptcy code is not entirely clear.
+A Four circuit courts have adopted the position advocated by the Noblemans, allowing bifurcation of an undersecured mortgage into a secured portion and an unsecured portion.
+In Bellamy v. Federal Home Loan Mortgage , 962 F.2d 176, 179-180 (2d Cir.1992), the Second Circuit discussed sections 506(a) and 1322(b)(2) , and reasoned that a claim must first be analyzed under section 506(a) to determine the part that is fully secured--that is, the amount equal to the market value of the property on which the lien is fixed.
+The balance of the claim owed above the market value is unsecured.
+Id. Bifurcating a claim into secured and unsecured portion does not, for purposes of section 1322(b)(2) , modify the creditor's rights, but rather determines how, under the bankruptcy code, the creditor's right to payment must be satisfied.
+Id. at 179-180 .
+The Third, Ninth, and Tenth Circuits have held similarly.
+See In re Hart , 923 F.2d 1410, 1411 (10th Cir.1991) (bifurcation of a home mortgage into secured and unsecured portions based on the fair market value of the property under a threshold application of section 506(a) was a recognition of the legal status of the creditor's interest in the debtors' property and not a modification of the mortgage); Wilson v. Commonwealth Mortgage Corp. , 895 F.2d 123, 126-29 (3d Cir.1990) (unsecured portion of creditor's claim may be modified, and anti-modification provision of section 1322(b)(2) does not apply because creditor's claim was secured by personal property as well as by debtor's residence) 6 ; In re Hougland , 886 F.2d 1182, 1183 (9th Cir.1989) (nothing in section 1322(b)(2) affects the determination under section 506(a) that an undersecured claim can be divided into a secured portion and an unsecured portion).
+Bankruptcy courts, including some in this circuit and the First, Sixth, Seventh, Eighth and Eleventh circuits, have adopted the position advocated by American.
+These courts that have held bifurcation impermissible because such bifurcation would vitiate the purpose of section 1322(b)(2) .
+See, e.g. , In re Chavez , 117 B.R. 733, 736 (Bankr.S.D.Fla.1990) (in a Chapter 13 case, the allowed amount of a claim secured only by a security interest in a principal residence of a debtor is, at filing, the balance owing on the debt without regard to the value of the collateral, section 506(a) notwithstanding); In re Kaczmarczyk , 107 B.R. 200, 202 (Bankr.D.Neb.1989) ( section 1322(b)(2) claims should not be bifurcated).
+In In re Boullion , 123 B.R. 549, 551 (Bankr.W.D.Tex.1990), the bankruptcy court discussed the interplay between sections 1322(b)(2) and 506(a) , and stated that "in view of Grubbs' [v. Houston First Am. Sav.
+Ass'n , 730 F.2d 236 (5th Cir.1984) (en banc)] interpretation of the intention of Congress in enacting 1322(b)(2) , applying 11 U.S.C. 506 to these secured claims would result in a 'modification' in contravention of the clear meaning of the statute."
+Similarly, in In re Schum , 112 B.R. 159, 162 (Bankr.N.D.Tex.1990), the bankruptcy court held that the "proposed modification of the debt would have the effect of treating the real property secured by only a lien on the debtor's principal residence in the same manner as any other property secured by a lien."
+7 B The Supreme Court's recent decision in Dewsnup v. Timm , U.S. , 112 S.Ct. 773, 775 , 116 L.Ed.2d 903 (1992), lends support to this view that bifurcation is impermissible.
+In Dewsnup , the Court had to decide whether, under 11 U.S.C. 506(d) of the bankruptcy code, a debtor could "strip down" a creditor's lien on real property to the value of the collateral, when that value is less than the amount of the claim secured by the lien.
+The Court held that section "506(d) does not allow petitioner to 'strip down' respondents' lien, because respondents' claim is secured by a lien and has been fully allowed pursuant to 502 ."
+Id. , U.S. at , 112 S.Ct. at 778 .
+The Court specifically stated that it took no position on the meaning of the words "allowed secured claim" in other provisions of the bankruptcy code, specifically section 506(a) .
+8 Id. , U.S. at , 112 S.Ct. at 778 , n. 3.
+The Court declared that "to grant a debtor the broad new remedy against allowed claims to the extent that they become 'unsecured' for purposes of 506(a) without the new remedy's being mentioned somewhere in the Code itself or in the annals of Congress is not plausible, in our view, and is contrary to basic bankruptcy principles."
+Id .
+, U.S. at , 112 S.Ct. at 779 .
+The Court reasoned that the creditor's lien stays with the real property until foreclosure because that "is what was bargained for by the mortgagor and the mortgagee."
+Id .
+, U.S. at , 112 S.Ct. at 778 .
+"Any increase over the judicially determined valuation during bankruptcy rightly accrues to the benefit of the creditor, not to the benefit of the debtor and not to the benefit of other unsecured creditors whose claims have been allowed " Id. C In our analysis, we are cognizant that "[t]he plain meaning of legislation should be conclusive, except in the 'rare cases [in which] the literal application of a statute will produce a result demonstrably at odds with the intention of its drafters.'"
+United States v. Ron Pair Enterprises, Inc. , 489 U.S. 235, 242 , 109 S.Ct. 1026, 1031 , 103 L.Ed.2d 290 (1989) (quotation omitted).
+The words of the statute "are the primary, and ordinarily the most reliable, source of interpreting the meaning of any writing " Watt v. Alaska , 451 U.S. 259, 266 , n. 9, 101 S.Ct. 1673, 1678 , n. 9, 68 L.Ed.2d 80 (1981) (quotation omitted).
+Section 506(a) of Title 11 provides: section 553 Section 506(a) is a provision of general applicability in cases under Chapter 7, 11, 12 and 13 of the bankruptcy code.
+See 11 U.S.C. 103(a) .
+Section 1322(b)(2) of Title 11, however, only applies in Chapter 13 cases.
+See 11 U.S.C. 103(h) .
+Section 1322(b)(2) provides that the Chapter 13 plan may: Section 1322(b)(2) clearly prohibits the modification of rights of holders of secured claims if the claim is secured only by a security interest in the debtors' principal residence.
+However, this prohibition set forth in section 1322(b)(2) appears to conflict with section 506(a) , which would allow the modification.
+If two statutes conflict, a generally accepted tenet of statutory construction is that the general language of a statute does not "prevail over matters specifically dealt with in another part of the same enactment."
+See In re Russell , 93 B.R. 703, 705 (D.N.D.1988) (citations omitted); see also Landmark Land Co. v. Office of Thrift Supervision , 948 F.2d 910, 912 (5th Cir.1991), quoting Gozlon-Peretz v. United States , U.S. , 111 S.Ct. 840, 848 , 112 L.Ed.2d 919 (1991) (citation omitted) (a specific provision controls over one of more general application); Mennor v. Fort Hood Nat'l Bank , 829 F.2d 553, 557 (5th Cir.1987) ("The general language in a statute such as 42 U.S.C. 2000e-5(k) may not be interpreted to authorize what is disallowed by the specific language of 28 U.S.C. 1920 "); D. Ginsberg & Sons, Inc. v. Popkin , 285 U.S. 204, 208 , 52 S.Ct. 322, 323 , 76 L.Ed. 704 (1932) (general language of a statutory provision, although broad enough to include it, will not be held to apply to a matter specifically dealt with in another part of the same enactment).
+We accordingly hold that the specific language of section 1322(b)(2) prevails over the general language of section 506(a) .
+Moreover, section 1322(b)(2) describes its subject matter as the modification of "the rights of holders of" claims, not as the modification of claims as such; thus, the section can properly be read as excepting from its reach modification of " the rights of holders of a claim secured only by a security interest in real property that is the debtor's principal residence " Therefore, even if the entirety of such a claim is not a secured claim (as per section 506(a) ), the rights of a holder of such a claim may not be modified under section 1322(b)(2) .
+D The legislative history also indicates that Congress intended this result.
+In Grubbs v. Houston First Am. Sav.
+Ass'n , we discussed section 1322(b)(2) 's legislative history and noted: 1322(b)(2) any only that is the debtor's principal residence 730 F.2d 236, 246 (5th Cir.1984) (en banc) (emphasis supplied in Grubbs .)
+In Grubbs we held that section 1322(b) , "construed in the light of its legislative history and of its context within Chapter 13 evinces no legislative intent that a home-mortgagor debtor is barred either (a) from curing a pre-petition acceleration into maturity of the unpaid installments due upon his home mortgage, or (b) from proposing that all past due or matured amounts secured by his home mortgage be paid during the term of his plan " Id. at 237 .
+Therefore, although our holding in Grubbs did not specifically deal with the interplay between section 506(a) and section 1322(b)(2) of Title 11 of the bankruptcy code, we did discuss the legislative history of section 1322(b)(2) and noted the legislative intent not to permit any modification on a claim secured by the debtor's principal residence.
+We are persuaded that our analysis of section 506(a) and section 1322(b)(2) is consistent with the legislative history of section 1322(b)(2) of the bankruptcy code--the desire to afford some protection to the home mortgage industry.
+See Grubbs , 730 F.2d at 245-46 .
+As the other courts which have discussed these provisions have noted, the Senate and House versions of section 1322(b)(2) were different.
+The proposed House version was favorable to debtors, allowing the plan to "modify the rights of holders of secured claims or of holders of unsecured claims " See 3 App. Collier on Bankruptcy at III, 537 (15th Ed.1992).
+The proposed Senate version was favorable to lenders, stating that the plan could "modify the rights of holders of secured claims (other than claims wholly secured by mortgages on real property) or of holders of unsecured claims " Id .
+at VII, 572-73.
+Neither the Senate version nor the House version became the final version of section 1322(b)(2) --the final version was characterized by legislative leaders as a "compromise" agreement.
+See Bankruptcy Reform Act of 1978, Pub.L.
+No. 95-598, 1978 U.S.C.A.N.
+5787, 6481, 6550 (statements of Representative Edwards and Senator DeConcini- section 1322(b)(2) of the House amendment represents a compromise agreement between similar provisions in the House bill and Senate amendment).
+We believe our interpretation of section 506(a) and section 1322(b)(2) reflects this compromise.
+Accordingly, we hold that section 1322(b)(2) prohibits confirmation of the Noblemans' Chapter 13 plan.
+The bifurcation of an undersecured home mortgage runs afoul of the specific protection afforded under section 1322(b)(2) to home mortgage creditors whose claims are secured only by a debtor's principal residence.
+Section 506(a) cannot be used to bifurcate the claim and vitiate the protection of section 1322(b)(2) .
+IV For the foregoing reasons, we AFFIRM.

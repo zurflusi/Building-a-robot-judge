@@ -1,0 +1,242 @@
+ PRYOR, Circuit Judge: This appeal presents a question about state taxation of railroad properties that was expressly left open by the Supreme Court of the United States, has since divided the federal appellate courts, and involves the traditional balance of federal and state power.
+We are asked to decide whether section 306 of the Railroad Revitalization and Regulatory Reform Act of 1976 (4-R Act or the Act), 49 U.S.C. 11501 , allows a railroad to challenge the methodology by which a state determines the true market value of railroad property for ad valorem tax purposes.
+The 4-R Act provides an exception to the general rule of the Tax Injunction Act that federal district courts will not interfere with matters of state taxation.
+Compare id .
+with 28 U.S.C. 1341 .
+This appeal turns on the breadth of that exception.
+CSX Transportation, Inc. (the Railroad) filed a complaint against the State Board of Equalization of Georgia (the Board), under section 306 of the Act, in which it challenged the appraisal of its property by the Board at $8.2 billion.
+Section 306 requires, for purposes of levying a property tax, that the ratio of assessed value to true market value of railroad property not exceed by more than five percent the ratio of assessed value to true market value of all other commercial and industrial property in the same assessment jurisdiction.
+49 U.S.C. 11501 (e).
+The district court refused to consider an appraisal proffered by the Railroad that valued the property of the Railroad at $6 billion because the district court concluded that the appraisal was based on a valuation methodology different from the one used by the State.
+CSX Transp. v. State Bd. of Equalization , 448 F.Supp.2d 1330 , 1348 (N.D.Ga.2005).
+The Railroad argues that the 4-R Act allows it to challenge the valuation methodology of a state.
+Because the Act does not clearly state that railroads may challenge state valuation methodologies, we affirm the judgment of the district court.
+I. BACKGROUND The Railroad is a wholly-owned subsidiary of CSX Corporation.
+In tax year 2002, the Railroad provided freight transportation over a network that included a route through the State of Georgia.
+In Georgia, public utilities are centrally-assessed taxpayers, and public utilities include railroads, investor-owned electric utilities, investor-owned telephone companies, pipeline companies, and gas distribution companies.
+Although most taxpayers in Georgia are assessed, in the first instance, by county boards of assessors, the State Revenue Commissioner issues proposed assessments of the property of centrally-assessed taxpayers for each county in which the taxpayer owns taxable property.
+The Property Tax Division of the Georgia Department of Revenue (the Department) prepares a digest of public utility assessments that the Board reviews and approves.
+The Board then certifies the proposed assessments to each county in which taxable property is owned.
+Ga.
+Code Ann. 48-2-18 (c).
+Each county "may, but is not required to, use these figures as the county's own tax assessment."
+Colonial Pipeline Co. v. Collins , 921 F.2d 1237 , 1240-41 (11th Cir.1991).
+For 2002, 59 of the 71 Georgia counties in which the Railroad owned taxable property adopted the proposed assessment of the Board.
+In 2002, as in preceding years, the Department determined the value of all public utilities using the unit rule.
+Under this rule, an appraiser first determines the value of all assets of an entity, regardless of location.
+That amount is then multiplied by the percentage of the entity located within Georgia to determine what portion of the value of the company should be allocated to the state.
+The Railroad agrees that the unit rule is a proper method of valuation under Georgia law.
+Although there are several different methods for determining the value of a company or property under the unit rule, those methods fall into three general categories: the sales comparison approach, the cost approach, and the income approach.
+Under a sales comparison approach, a company or property is appraised by examining actual sales of comparable companies or properties.
+Under the cost approach, an appraiser adds together the original costs of the various components of a company or property and makes deductions for depreciation or obsolescence.
+Under an income approach, an appraiser determines the future income stream of a company or property over the life of the company or property.
+Gregg Dickerson prepared the valuation worksheets for the appraisal of the Railroad in 2002.
+Dickerson was an appraiser with 30 years of experience, including experience regarding the use of the unit rule in public utility valuation.
+Dickerson performed unit valuations at the Department for ten years before leaving in 1993 to work in the tax department at Norfolk Southern Railroad.
+Dickerson returned to the Department in 2001 to serve as the Program Manager of its Public Utilities section.
+When Dickerson returned to the Department, he altered the combination of valuation methods the Department used to calculate value under the unit rule.
+The Department had been calculating the unit values of all public utilities using a yield capitalization method (an income approach), a direct capitalization method (another income approach), and a stock and debt method (a sales comparison approach).
+For tax year 2002, Dickerson replaced the first two methods with a discounted cash flow method (an income approach) and a market multiples method (a sales comparison approach).
+Dickerson retained the third method.
+Dickerson appraised the property of the Railroad using these three methods.
+He first used the stock and debt method, which assumes that the value of a company equals the sum of its outstanding debt and its equity.
+Under this method, Dickerson's appraisal was $12,022 billion.
+Dickerson next used the discounted cash flow method.
+Under this method, an appraiser first projects the cash flows of a company for a designated number of years after the assessment date and discounts those expected cash flows to their present value.
+The appraiser then calculates a terminal or reversion value that represents the value of the company at the end of the projection period.
+These two values together give the appraiser his unit value for the company.
+Dickerson calculated four terminal values using different indicators of reversion.
+The unit value calculated using a terminal growth rate of 63 percent was the lowest of the four, and Dickerson selected that value.
+Dickerson's appraisal, under this method, was $8,126,293,350.
+Finally, Dickerson used the market multiples method.
+This method requires an appraiser to derive market multiples from the stock prices of companies engaged in similar lines of business and compare those multiples with the subject company to determine its value.
+Dickerson performed three different market multiples analyses, which resulted in appraisals of $12,346 billion, $10,769 billion, and $8,474 billion.
+The five values derived from these three methods gave Dickerson a valuation range of $8,126 to $12,346 billion.
+As he did with all public utilities that year, Dickerson selected an amount at the lower end of that range to avoid potential litigation.
+Dickerson selected $8.2 billion as the lower limit of what the unit value of the Railroad might reasonably be.
+He then deducted $400 million to account for intangible property not subject to ad valorem taxation.
+Ga.
+Code Ann. 48-6-21.
+The adjusted unit value of $7.8 billion was multiplied by 7.194059 percent, which was the percentage of the track of the Railroad located in Georgia, which resulted in an allocated value of $561,136,602.
+Dickerson made further deductions for motor vehicles, pollution control equipment, and an exempt rail line, and he arrived at a taxable fair market value of $514,862,672.
+The Railroad filed a complaint under the 4-R Act that challenged the valuation proposed by the Department.
+The Act bars states from discriminating against railroads when levying property taxes: The following acts unreasonably burden and discriminate against interstate commerce, and a State, subdivision of a State, or authority acting for a State or subdivision of a State may not do any of them: (1) Assess rail transportation property at a value that has a higher ratio to the true market value of the rail transportation property than the ratio that the assessed value of other commercial and industrial property in the same assessment jurisdiction has to the true market value of the other commercial and industrial property.
+(2) Levy or collect a tax on an assessment that may not be made under paragraph (1) of this subsection.
+(3) Levy or collect an ad valorem property tax on rail transportation property at a tax rate that exceeds the tax rate applicable to commercial and industrial property in the same assessment jurisdiction.
+(4) Impose another tax that discriminates against a rail carrier providing transportation subject to the jurisdiction of the Board under this part.
+49 U.S.C. 11501 (b).
+When a violation of the 4-R Act reaches a certain quantitative threshold, redress is allowed as an exception to the Tax Injunction Act, 28 U.S.C. 1341 , which ordinarily bars challenges of state taxation practices in federal courts: Notwithstanding section 1341 of title 28 and without regard to the amount in controversy or citizenship of the parties, a district court of the United States has jurisdiction, concurrent with other jurisdiction of courts of the United States and the States, to prevent a violation of subsection (b) of this section.
+Relief may be granted under this subsection only if the ratio of assessed value to true market value of rail transportation property exceeds by at least 5 percent the ratio of assessed value to true market value of other commercial and industrial property in the same assessment jurisdiction.
+The burden of proof in determining assessed value and true market value is governed by State law. 49 U.S.C. 11501 (c).
+The Railroad argued that it was taxed at a higher ratio of assessed value to true market value than other commercial and industrial property, in violation of section 11501(b)(1) , because the true market value of its property for 2002 did not exceed $6 billion.
+The Railroad submitted an appraisal prepared by Thomas Tegarden, whose credentials the district court described as "impeccable."
+CSX Transp. , 448 F.Supp.2d at 1333 .
+Tegarden used three valuation methods, two of which had not been used by the Department: a stock and debt method, a cost method, and a yield capitalization method.
+These methods produced valuations of $9,367 billion, $6.15 billion, and $5,983 billion, respectively.
+Tegarden gave no weight to his stock and debt value, little weight to his cost value, and primary weight to his yield capitalization value, and concluded that the unit value of the Railroad for tax year 2002 did not exceed $6 billion.
+Tegarden made the same adjustments as the Department for intangible property, motor vehicles, pollution control equipment, and the exempt rail line, and applied the same track-mile percentage, which resulted in a taxable fair market value of not more than $369,253,752.
+The district court concluded that it was not permitted to consider Tegarden's appraisal.
+The district court interpreted the 4-R Act to bar consideration of appraisals based on a valuation methodology different from the methodology used by the State, unless the methodology of the State is irrational or intentionally discriminatory.
+Id. at 1342 .
+The court rejected the argument that Tegarden's valuation methodology was a variant of the same methodology used by the State.
+Id. at 1343 .
+The Railroad also challenged the accuracy of several calculations by the Department in its appraisal.
+In one of these challenges, the Railroad argued that the Department erred in using 6.3 percent as the terminal growth rate in its discounted cash flow valuation.
+The terminal growth rate plays a central role in determining the terminal or reversion value in the discounted cash flow method of valuation.
+Dickerson testified that he chose this rate because it is the long-term growth rate of the gross domestic product and is the type of rate the market would use to estimate the terminal value of a company using a discounted cash flow method.
+The Railroad argued that this rate was higher than the growth rate used to project cash flows through 2011 (the first half of the discounted cash flow valuation) and, because the Department projected that the revenue of the Railroad would grow at only 2 percent, a growth rate of 6.3 percent would require that expenses become negative.
+The district court found that the testimony of the experts of the Railroad on this issue lacked credibility.
+Id. at 1345 .
+The court also found that these experts never stated what the growth rate should actually be.
+At most, their testimony suggested the Department should have used a rate of 3.5 percent or 4.5 percent, but the court concluded that these rates suffered from the same infirmities as the 6.3 percent rate, including that they would require expenses to become negative.
+Id .
+After rejecting the arguments of the Railroad, the district court concluded that the true market value of the Railroad for tax year 2002 was $7,726,293,350.
+Id. at 1350 .
+The court found the figure produced by the discounted cash flow method to be the most accurate appraisal of the value of the Railroad, and the court subtracted $400 million from the discounted cash flow value of the Department ($8,126,-293,350) to account for intangible property.
+Id. at 1350 n. 23.
+The court concluded that the ratio of assessed value to true market value of the property of the Railroad did not exceed by more than five percent the ratio of assessed value to true market value of the other commercial and industrial property in the assessment jurisdiction of the Railroad.
+Id. at 1350 .
+The district court entered a judgment in favor of the Board.
+II.
+STANDARDS OF REVIEW We review factual findings of the district court for clear error and conclusions of law de novo.
+Glassroth v. Moore , 335 F.3d 1282 , 1296-97 (11th Cir.2003).
+III.
+DISCUSSION The Railroad raises three challenges to the determination by the district court of its true market value for tax year 2002.
+The Railroad first contends that the district court erred in holding that the 4-R Act bars a railroad from challenging the valuation methodology chosen by a state.
+Second, the Railroad argues that, even if it is barred from challenging the methodology of the Board, the appraisal of Tegarden should have been considered by the district court because that appraisal was based on the same methodology used by the Board.
+Third, the Railroad maintains that the district court clearly erred in accepting the use by the Board of a terminal growth rate of 6.3 percent in its discounted cash flow valuation.
+We address each argument in turn.
+A. The 4-R Act Does Not Allow a Railroad to Challenge the Methodology by Which a State Determines Fair Market Value.
+Whether a railroad may challenge, under the 4-R Act, the valuation methodology of a state is a question the Supreme Court has acknowledged but not decided.
+When it first interpreted the 4-R Act in Burlington Northern Railroad v. Oklahoma Tax Commission , the Court held that a railroad need not prove intentional discrimination to challenge factual determinations made by a state in the application of its valuation methodology.
+481 U.S. 454 , 462-63 , 107 S.Ct. 1855 , 1860-61 , 95 L.Ed.2d 404 (1987).
+In a footnote, the Court expressly refrained from deciding whether the Act allows a railroad to challenge the valuation methodology itself: This case therefore does not present the question whether a railroad may, in an action under 11503 [now 11501], challenge in the district court the appropriateness of the accounting methods by which the State determined the railroad's value, or is instead restricted to challenging the factual determinations to which the State's preferred accounting methods were applied.
+Accordingly we express no view on that issue.
+Id. at 463 n. 5, 107 S.Ct. at 1861 n. 5.
+Three of our sister circuits, following Burlington Northern v. Oklahoma , have split on whether railroads may challenge state valuation methodologies.
+The Fourth Circuit, on the one hand, has concluded that the 4-R Act does not permit a railroad to challenge the valuation methodology of a state.
+That circuit concluded that the text of the Act is ambiguous, and the court was "not inclined to disregard" the general policy of noninterference in matters of state taxation contained in the Tax Injunction Act "where 306 does not plainly authorize such an exception."
+Chesapeake W. Ry. v. Forst , 938 F.2d 528 , 531 (4th Cir.1991); accord Richmond, Fredericksburg & Potomac R.R. Co. v. Forst , 4 F.3d 244 , 250 (4th Cir.1993).
+The Second and Ninth Circuits, on the other hand, have repudiated Chesapeake Western and held that railroads may challenge valuation methodologies.
+In Burlington Northern Railroad v. Department of Revenue , the Ninth Circuit explained that section 11501(c) of the 4-R Act provides that state law governs the burden of proof in challenges to assessed value and true market value.
+23 F.3d 239 , 241 (9th Cir.1994).
+Because determinations of property value by public officials in the State of Washington may be defeated by "clear, cogent and convincing evidence," the court reasoned that state valuation methodologies may likewise be defeated by clear, cogent, and convincing evidence.
+Id .
+In Consolidated Rail Corp. v. Town of Hyde Park , the Second Circuit held that, at least where states use a unique method to appraise railroads, the 4-R Act allows railroads to challenge valuation methodology.
+47 F.3d 473 , 482 (2d Cir.1995).
+The Railroad argues that Chesapeake Western was wrongly decided and urges us to follow Burlington Northern v. Department of Revenue and Consolidated Rail in allowing railroads to challenge valuation methodology.
+The Railroad contends that the 4-R Act allows a challenge of any act, including the choice of a methodology, that has the effect of discriminating against railroads.
+The Railroad relies on the statement of the Court in Burlington Northern v. Oklahoma that the Act "speaks only in terms of `acts' which `unreasonably burden and discriminate against interstate commerce'; nowhere does it refer to the intent of the actor."
+481 U.S. at 463 , 107 S.Ct. at 1861 .
+The Railroad also relies on broad statements in previous decisions of our Court.
+The Railroad reminds us that we have stated that "[t]he legislative history and broad language of the Act show Congress possessed a general concern with discrimination in all of its guises."
+S. Ry. v. State Bd. of Equalization , 715 F.2d 522 , 528 (11th Cir.1983).
+We also have stated that "Congress meant unconditionally to ensure a federal forum for section 11503 [now section 11501 ] claims."
+Id. at 527 .
+Notwithstanding our earlier dicta to the contrary, we are persuaded that the Fourth Circuit correctly interpreted the 4-R Act as being subject to a clear statement rule.
+It is a well-settled principle of statutory interpretation that a statute will not be construed to burden states in the exercise of their traditional powers unless it clearly states its intent to do so. "`If Congress intends to alter the usual constitutional balance between the States and the Federal Government, it must make its intention to do so unmistakably clear in the language of the statute.'"
+Gregory v. Ashcroft , 501 U.S. 452 , 460-61 , 111 S.Ct. 2395 , 2401 , 115 L.Ed.2d 410 (1991) (quoting Atascadero State Hosp. v. Scanlon , 473 U.S. 234 , 242 , 105 S.Ct. 3142 , 3147 , 87 L.Ed.2d 171 (1985)).
+"This plain statement rule is nothing more than an acknowledgment that the States retain substantial sovereign powers under our constitutional scheme, powers with which Congress does not readily interfere."
+Id. at 461 , 111 S.Ct. at 2401 .
+Perhaps the most fundamental power of a sovereign is the power to tax.
+This power was originally considered so integral a power of the states as to admit of no abridgement by the federal government, see The Federalist No. 32 (Alexander Hamilton), and its singular importance to the states has been repeatedly acknowledged.
+See Dep't of Revenue v. ACF Indus. , 510 U.S. 332 , 345 , 114 S.Ct. 843 , 850 , 127 L.Ed.2d 165 (1994) (power to tax is "central to state sovereignty"); Bode v. Barrett , 344 U.S. 583 , 585 , 73 S.Ct. 468 , 470 , 97 L.Ed. 567 (1953) (power of a state to tax is "basic to its sovereignty"); Curry v. McCanless , 307 U.S. 357 , 366 , 59 S.Ct. 900 , 905 , 83 L.Ed. 1339 (1939) (power to tax is "incident to" and "coextensive with" sovereignty).
+This understanding of the relationship of sovereignty and taxation is implicit: "It is upon taxation that the several States chiefly rely to obtain the means to carry on their respective governments."
+Dows v. City of Chicago , 78 U.S. (11 Wall.)
+108, 110 , 20 L.Ed. 65 (1871).
+The selection of a valuation methodology is part of this fundamental power of a state.
+See Louisville & Nashville R.R. v. Dep't of Revenue, Fla. , 736 F.2d 1495 , 1498 (11th Cir.1984) ("These arguments broach delicate issues implicating the state's traditional authority to select methods of valuation.").
+Important questions of state policy are often intertwined with the selection of a valuation methodology.
+Time pressures and limited resources, for example, may compel a state to choose a simple valuation methodology rather than a complicated one.
+See, e.g., Union Pac. R.R. v. State Tax Comm'n , 716 F.Supp.
+543 , 557 (D.Utah 1988).
+The Supreme Court has "long recognized that principles of federalism and comity generally counsel that courts should adopt a hands-off approach with respect to state tax administration."
+Nat'l Private Track Council v. Okla.
+Tax Comm'n , 515 U.S. 582 , 586 , 115 S.Ct. 2351 , 2354 , 132 L.Ed.2d 509 (1995).
+Because the states rely so heavily on their ability to tax, "`it is of the utmost importance to all of them that the modes adopted to enforce the taxes levied should be interfered with as little as possible.'"
+Id .
+(quoting Dows , 78 U.S. (11 Wall.)
+at 110).
+When Congress enacted the Tax Injunction Act, it "intended.
+to codify this pre-existing federal equity practice and to ensure more uniform adherence to the underlying principles of comity."
+S. Ry. , 715 F.2d at 527 ; see also 28 E. Jackson Enters, v. Cullerton , 523 F.2d 439 , 441 (7th Cir.1975) (Tax Injunction Act "codifies the well-established federal policy of noninterference in matters of state taxation").
+The Railroad argues that principles of federalism and comity should play no role in our interpretation of the 4-R Act.
+This argument is not new.
+We have stated that "Congress intended to carve out an exception not only to the Tax Injunction Act, but also to the underlying doctrine of equitable restraint in the narrow area of discriminatory taxation of railroads," S. Ry. , 715 F.2d at 529 , and the Eighth Circuit has stated that "[t]he common law principle of federal deference to state tax schemes, as amplified by 28 U.S.C. 1341 , has no place in a 306 analysis," Burlington N. R.R. v. James , 911 F.2d 1297 , 1300 (8th Cir.1990).
+The problem with this argument is that more recently the Supreme Court has stated the opposite.
+In a decision mentioned by neither the Ninth Circuit in Burlington Northern v. Department of Revenue nor the Second Circuit in Consolidated Rail , the Supreme Court ruled in 1994 that states may grant exemptions from a generally applicable ad valorem property tax without subjecting the taxation of railroad property to challenge under subsection (b)(4) of the Act.
+ACF Indus. , 510 U.S. at 335 , 114 S.Ct. at 846 .
+The Court reached this conclusion based on the text of the Act, id. at 339-43 , 114 S.Ct. at 848-50 , and then explained, "Principles of federalism support, in fact compel, our view.
+Subsection (b)(4), like the whole of 11503 [now 11501 ], sets limits upon the taxation authority of state government, an authority we have recognized as central to state sovereignty," id. at 345 , 114 S.Ct. at 850 (emphasis added).
+The Court stated that principles of federalism required the use of a clear statement rule in this context.
+Id. at 345 , 114 S.Ct. at 850-51 .
+Because it was not the "clear and manifest purpose of Congress" to allow railroads to challenge property tax exemptions in federal court, the Court refused to read the 4-R Act as granting them that right.
+Id .
+Based on the reasoning of the Court in ACF Industries , we conclude that railroads may not challenge state valuation methodologies under subsection (b)(1).
+The text of the Act does not clearly state that railroads may challenge valuation methodologies.
+Without that clear statement of congressional intent, the argument of the Railroad fails.
+The legislative history, "to the extent it has any relevance to our inquiry," ACF Indus. , 510 U.S. at 345 , 114 S.Ct. at 851 , supports the conclusion that railroads may not challenge state valuation methodologies in federal court.
+The committee report regarding a precursor of section 306 explained that the bill "does not suggest or require a State to change its assessment standards, assessment practices, or the assessments themselves.
+It merely provides a single standard against which all affected assessments must be measured."
+S.Rep.
+No. 90-1483, app. B, at 22 (1968).
+The testimony of a railroad representative at a hearing on an earlier version of section 306 was consistent with this interpretation: "The standards and methods of valuation that any State wishes to use would be unaffected by this legislation."
+Hearing on H.R.
+16245 Before the Subcomm. on Transp. & Aeronautics of the H. Comm. on Interstate & Foreign Commerce , 91st Cong. 138 (1970) (statement of Philip M. Lanier).
+The most that can be said for the argument of the Railroad is that it was articulated ably in the dissenting opinion in ACF Industries.
+Justice Stevens argued that "the text of subsection (b)(4) and its evident purposes convince me that Congress intended to bar discrimination by any means, including exemptions."
+ACF Indus. , 510 U.S. at 350 , 114 S.Ct. at 853 (Stevens, J., dissenting).
+The lower court that the Supreme Court in ACF Industries reversed also reached this conclusion.
+See id. at 338 , 114 S.Ct. at 847 ("The court [of appeals] explained that Congress enacted 11503 [now 11501 ] to `prevent tax discrimination against railroads in any form whatsoever. '"
+(citation omitted)).
+We obviously are not at liberty to follow either Justice Stevens's dissenting opinion or the decision reversed by the Supreme Court.
+The district court was not allowed to consider a valuation methodology different from the methodology of the Board.
+B. The District Court Did Not Clearly Err in Finding That the Railroad Used a Valuation Methodology Different From the Methodology of the State.
+The Railroad and an amicus curiae argue, in the alternative, that the appraisal by Tegarden was based on the same methodology used by the State.
+The American Association of Railroads, as amicus curiae, argues that there is a tri-partite taxonomy of appraisal terminology consisting in unit rule and summation "methodologies"; income, cost, and market "approaches" for determining value under the unit rule; and stock and debt, discounted cash flow, yield capitalization, and other "techniques" for implementing the various approaches.
+Under this taxonomy, our decision in subsection III.A would bar the Railroad from challenging only the adoption of the unit rule.
+Although this taxonomy may be useful within the appraisal community, there is little legal support for this argument.
+The Association argues that the Fourth Circuit has used the terms "method" and "methodology" in the way it advocates, see Chesapeake W. Ry. , 938 F.2d at 529 , but other courts have used those terms to designate more specific components of the valuation process.
+See, e.g., Consol.
+Rail , 47 F.3d at 477 (discussing "the `income capitalization method'" and "the `stock and debt method'"); Union Pac. R.R. , 716 F.Supp.
+at 551 (referring to "yield capitalization" and "direct capitalization" as different methods and methodologies).
+The more serious problem for the Association is that its argument is contrary to the understanding of the Supreme Court.
+A close reading of footnote 5 of Burlington Northern, v. Oklahoma establishes that the Supreme Court understands the phrase "accounting methods" to encompass all nonfactual determinations made in the process of appraising a railroad.
+We quote the text of that footnote as follows, with our emphasis on three key phrases: This case therefore does not present the question whether a railroad may, in an, action under 11503 [now 11501], challenge in the district court the appropriateness of the accounting methods by which the State determined the railroad's value, or is instead restricted to challenging the factual determinations to which the State's preferred accounting methods were applied.
+Accordingly we express no view on that issue.
+481 U.S. at 463 n. 5, 107 S.Ct. at 1861 n. 5 (emphasis added).
+This language suggests that there are only two categories in the valuation process, and the Court understood "accounting methods" and "factual determinations" to be exhaustive of all possibilities.
+It would not make sense to say that railroads, if barred from challenging accounting methods, would be "instead restricted" to challenging factual determinations if there were some third category in the valuation process, such as an "approach" or "technique," as the Association argues.
+The inability of railroads to challenge accounting methods restricts the railroads to challenging factual determinations.
+The term "accounting methods" and the parallel term "valuation methodology" as used by the Supreme Court encompass all nonfactual determinations involved in constructing a valuation process, regardless of how broad or narrow they may be.
+The definition of a "methodology" also should be understood in the light of the principles of federalism that govern our interpretation of the 4-R Act.
+Under the taxonomy advanced by the Association, a railroad would be barred from challenging the decision to use the unit rule, but permitted to challenge the use of a combination of the stock and debt method and a market multiples approach instead of a yield capitalization method and a cost approach.
+We are reluctant to allow that kind of freewheeling judicial second-guessing, which implicates delicate matters of state policy, cf. Union Pac. R.R. , 716 F.Supp.
+at 557 f explaining what might influence a choice between a direct capitalization and a yield capitalization method), without clear support in the text of the Act.
+We would expect Congress to state unambiguously its intention to subject states to challenges of both kinds of decisions in federal court.
+Based on our understanding of the term "methodology," the district court did not clearly err in finding that the appraisal prepared for the Railroad by Tegarden was based on a methodology different from the methodology used by the State.
+The State appraised public utilities in 2002 by calculating five values under three different methods and selecting a figure at the low end of the resulting range.
+Tegarden calculated three values using three methods, only one of which had been used by the State.
+Instead of selecting a figure at the low end of his resulting range, Tegarden weighted each result, giving primary weight to one of the methods — yield capitalization — not used by the State.
+Even if the Railroad were able to convince us that the yield capitalization and discounted cash flow methods are algebraically the same, this conclusion would not establish that Tegarden used the same valuation methodology as the State.
+The State did not give primary weight — or any weight — to its discounted cash flow valuation.
+The selection by the Department of an appraisal amount nearest to the discounted cash flow number did not reflect the conclusion that discounted cash flow was the most accurate of the methods used, only that it was the lowest.
+C. The District Court Did Not Clearly Err When It Accepted the 6.3 Percent Terminal Growth Rate Used by the State.
+Finally, there was no clear error by the district court in its finding that the use of a terminal growth rate of 6.3 percent by the Board, in its discounted cash flow valuation, was acceptable.
+A factual finding "is `clearly erroneous' when although there is evidence to support it, the reviewing court on the entire evidence is left with the definite and firm conviction that a mistake has been committed."
+Anderson v. City of Bessemer City , 470 U.S. 564 , 573-74 , 105 S.Ct. 1504 , 1511 , 84 L.Ed.2d 518 (1985) (internal quotations and citations omitted).
+We cannot say definitively that the district court made a mistake because its finding rested on issues of expert credibility.
+Although the experts employed by the Railroad testified that a terminal growth rate of 6.3 percent was too high, Dickerson explained why he found it to be appropriate, including that 6.3 percent is the long-term growth rate of the gross domestic product.
+The district court stated that it found the experts of the Railroad to lack credibility on this issue.
+CSX Transp. , 448 F.Supp.2d at 1345 .
+We have previously said that we "should be reluctant to over-turn the district court's findings" where those findings are based on "crucial evaluations of witness credibility, particularly where the expert testimony conflicted."
+L & C Marine Transp., Ltd. v. Ward , 755 F.2d 1457 , 1461 (11th Cir.1985).
+The district court also based its finding on the failure of the Railroad to state what the terminal growth rate should be.
+CSX Transp. , 448 F.Supp.2d at 1345 .
+At most, the testimony of its experts suggested that the Department should have adopted 3.5 percent or 4.5 percent as the terminal growth rate.
+Id .
+Even then, as the district court found, these rates suffered from the same alleged infirmities as the rate of 6.3 percent chosen by Dickerson, including that the rates would require expenses to become negative.
+Id .
+Based on this record, the district court did not clearly err.
+IV.
+CONCLUSION The judgment of the district court is AFFIRMED.

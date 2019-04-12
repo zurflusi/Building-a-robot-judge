@@ -1,0 +1,575 @@
+ PAEZ, Circuit Judge: In April 2010, in response to a serious problem of unauthorized immigration along the Arizona-Mexico border, the State of Arizona enacted its own immigration law enforcement policy.
+Support Our Law Enforcement and Safe Neighborhoods Act, as amended by H.B.
+2162 ("S.B.
+1070"), "make[s] attrition through enforcement the public policy of all state and local government agencies in Arizona."
+S.B.
+1070 1 .
+The provisions of S.B.
+1070 are distinct from federal immigration laws.
+To achieve this policy of attrition, S.B.
+1070 establishes a variety of immigration-related state offenses and defines the immigration-enforcement authority of Arizona's state and local law enforcement officers.
+Before Arizona's new immigration law went into effect, the United States sued the State of Arizona in federal district court alleging that S.B.
+1070 violated the Supremacy Clause on the grounds that it was preempted by the Immigration and Nationality Act ("INA"), and that it violated the Commerce Clause.
+Along with its complaint, the United States filed a motion for injunctive relief seeking to enjoin implementation of S.B.
+1070 in its entirety until a final decision is made about its constitutionality.
+Although the United States requested that the law be enjoined in its entirety, it specifically argued facial challenges to only six select provisions of the law.
+United States v. Arizona , 703 F.Supp.2d 980 , 992 (D.Ariz.
+2010).
+The district court granted the United States' motion for a preliminary injunction in [**2] part, enjoining enforcement of S.B.
+1070 Sections 2(B) , 3, 5(C), and 6, on the basis that federal law likely preempts these provisions.
+Id. at 1008 .
+Arizona appealed the grant of injunctive relief, arguing that these four sections are not likely preempted; the United States did not cross-appeal the partial denial of injunctive relief.
+Thus, the United States' likelihood of success on its federal preemption argument against these four sections is the central issue this appeal presents.
+[fn1] We have jurisdiction to review the district court's order under 28 U.S.C. 1292 (a)(1).
+We hold that the district court did not abuse its discretion by enjoining S.B.
+1070 Sections 2(B) , 3, 5(C), and 6.
+Therefore, we affirm the district court's preliminary injunction order enjoining these certain provisions of S.B.
+1070.
+Standard of Review We review the district court's grant of a preliminary injunction for abuse of discretion.
+Sw.
+Voter Registration Educ. Project v. Shelley , 344 F.3d 914 , 918 (9th Cir. 2003) (en banc).
+A preliminary injunction "should be reversed if the district court based `its decision on an erroneous legal standard or on clearly erroneous findings of fact.'"
+Stormans, Inc. v. Selecky , 586 F.3d 1109 , 1119 (9th Cir. 2009) ( quoting FTC v. Enforma Natural Prods., Inc. , 362 F.3d 1204 , 1211-12 (9th Cir. 2004)).
+We review de novo the district court's conclusions on issues of law, including "the district court's decision regarding preemption and its interpretation and construction of a federal statute."
+Am. Trucking Ass'ns, Inc. v. Los Angeles , 559 F.3d 1046 , 1052 (9th Cir. 2009).
+Discussion I. General Preemption Principles The federal preemption doctrine stems from the Supremacy Clause, U.S. CONST.
+art.
+VI , cl.
+2 , and the "fundamental principle of the Constitution [] that Congress has the power to preempt state law."
+Crosby v. Nat'l Foreign Trade Council , 530 U.S. 363 , 372 , 120 S.Ct. 2288 , 147 L.Ed.2d 352 (2000).
+Our analysis of a preemption claim [M]ust be guided by two cornerstones of [the Supreme Court's] preemption jurisprudence.
+First, the purpose of Congress is the ultimate touchstone in every pre-emption case. .
+.
+.
+Second, [i]n all preemption cases, and particularly in those in which Congress has legislated .
+.
+.
+in a field which the States have traditionally occupied, .
+.
+.
+[courts] start with the assumption that the historic police powers of the States were not to be superseded by the Federal Act unless that was the clear and manifest purpose of Congress.
+Wyeth v. Levine , 555 U.S. 555 , 129 S.Ct. 1187 , 1194-95 , 173 L.Ed.2d 51 (2009) (internal quotation marks and citations omitted) (quoting Medtronic, Inc. v. Lohr , 518 U.S. 470 , 485 , 116 S.Ct. 2240 , 135 L.Ed.2d 700 (1996)).
+Even if Congress has not explicitly provided for preemption in a given statute, the Supreme Court "ha[s] found that state law must yield to a congressional Act in at least two circumstances."
+Crosby , 530 U.S. at 372 , 120 S.Ct. 2288 .
+First, "[w]hen Congress intends federal law to `occupy the field,' state law in that area is preempted."
+Id .
+(quoting California v. ARC America Corp. , 490 U.S. 93 , 100 , 109 S.Ct. 1661 , 104 L.Ed.2d 86 (1989)).
+Second, "even if Congress has not occupied the field, state law is naturally preempted to the extent of any conflict with a federal statute."
+Id .
+Conflict preemption, in turn, has two forms: impossibility and obstacle preemption.
+Id. at 372-373 , 120 S.Ct. 2288 .
+Impossibility preemption exists "where it is impossible for a private party to comply with both state and federal law."
+Id .
+Obstacle preemption [**3] exists "where `under the circumstances of [a] particular case, [the challenged state law] stands as an obstacle to the accomplishment and execution of the full purposes and objectives of Congress.'"
+Id. at 373 , 120 S.Ct. 2288 (quoting Hines v. Davidowitz , 312 U.S. 52 , 67 , 61 S.Ct. 399 , 85 L.Ed. 581 (1941)).
+To determine whether obstacle preemption exists, the Supreme Court has instructed that we employ our "judgment, to be informed by examining the federal statute as a whole and identifying its purpose and intended effects."
+Id. [fn2] We recently applied the facial challenge standard from United States v. Salerno , 481 U.S. 739 , 107 S.Ct. 2095 , 95 L.Ed.2d 697 (1987), to a facial preemption case. Sprint Telephony PCS, L.P.
+v. County of San Diego , 543 F.3d 571 , 579-80 (9th Cir. 2008) (en banc).
+In Sprint , the appellant argued that a federal law "precluding] state and local governments from enacting ordinances that prohibit or have the effect of prohibiting the ability of any entity to provide any interstate or intrastate telecommunications service" facially preempted a San Diego ordinance that imposed specific requirements on applications for wireless facilities.
+Id. at 573-74 .
+We explained in Sprint that "[t]he Supreme Court and this court have called into question the continuing validity of the Salerno rule in the context of First Amendment challenges.
+.
+.
+.
+In cases involving federal preemption of a local statute, however, the rule applies with full force."
+Id. at 579 , n. 3.
+[fn3] Thus, under Salerno , "the challenger must establish that no set of circumstances exists under which the Act would be valid."
+Sprint , 543 F.3d at 579 (quoting Salerno , 481 U.S. at 745 , 107 S.Ct. 2095 ).
+We stress that the question before us is not, as Arizona has portrayed, whether state and local law enforcement officials can apply the statute in a constitutional way.
+Arizona's framing of the Salerno issue assumes that S.B.
+1070 is not preempted on its face, and then points out allegedly permissible applications of it.
+This formulation misses the point: there can be no constitutional application of a statute that, on its face, conflicts with Congressional intent and therefore is preempted by the Supremacy Clause.
+[fn4] II.
+Section 2(B) [fn5] S.B.
+1070 Section 2(B) provides, in the first sentence, that when officers have reasonable suspicion that someone they have lawfully stopped, detained, or arrested is an unauthorized immigrant, they "shall" make "a reasonable attempt .
+.
+.
+when practicable, to determine the immigration status" of the person.
+Ariz.Rev.
+Stat. Ann. 11-1051 (B) (2010).
+Section 2(B)'s second and third sentences provide that "[a]ny person who is arrested shall have the person's immigration status determined before the person is released," and "[t]he person's immigration status shall be verified with the federal government."
+Id .
+The Section's fifth sentence states that a "person is presumed to not be an alien who is unlawfully present in the United States if the person provides" a form of identification included in a prescribed list.
+[fn6] A. Interpretation of Section 2(B) To review the district court's preliminary injunction of Section 2(B), we must first determine how the Section's sentences relate to each other.
+Arizona argues that Section 2(B) does not require its officers to determine the immigration status of [**4] every person who is arrested.
+Arizona maintains that the language in the second sentence, "[a]ny person who is arrested shall have the person's immigration status determined," should be read in conjunction with the first sentence requiring officers to make "a reasonable attempt .
+.
+.
+when practicable, to determine the immigration status" of a person they have stopped, detained, or arrested, if there is reasonable suspicion the person is an unauthorized immigrant.
+That is, Arizona argues that its officers are only required to verify the immigration status of an arrested person before release if reasonable suspicion exists that the person lacks proper documentation.
+On its face, the text does not support Arizona's reading of Section 2(B).
+The second sentence is unambiguous: " Any person who is arrested shall have the person's immigration status determined before the person is released."
+Ariz. Rev. Stat. Ann. 11-1051 (B) (2010) (emphasis added).
+The all-encompassing "any person," the mandatory "shall," and the definite "determined," make this provision incompatible with the first sentence's qualified "reasonable attempt .
+.
+.
+when practicable," and qualified "reasonable suspicion."
+In addition, Arizona's reading creates irreconcilable confusion as to the meaning of the third and fifth sentences.
+The third sentence, which follows the requirement of determining status prior to an arrestee being released, provides that "[t]he person's immigration status shall be verified with the federal government."
+The fifth sentence enumerates several forms of identification that will provide a presumption that a person is lawfully documented.
+These two sentences must apply to different — and unrelated — status-checking requirements since one mandates contact with the federal government and a definite verification of status, while the other permits a mere unverified presumption of status, assuming the presumption is not rebutted by other facts.
+Arizona's reading would give law enforcement officers conflicting direction.
+That is, under Arizona's reading, if an officer arrests a person and reasonably suspects that the arrestee is undocumented, but the arrestee provides a valid Arizona driver's license, is the officer no longer bound by the third sentence's requirement that he or she "shall" verify the arrestee's status with the federal government?
+We agree with the district court that the reasonable suspicion requirement in the first sentence does not modify the plain meaning of the second sentence.
+Thus, Section 2(B) requires officers to verify — with the federal government — the immigration status of all arrestees before they are released, regardless of whether or not reasonable suspicion exists that the arrestee is an undocumented immigrant.
+Our interpretation gives effect to "arrest" in the first sentence and "arrest" in the second sentence.
+The first and second sentences apply to different points in the sequential process of effecting an arrest, and at some later point, releasing the arrestee.
+The mandate imposed in the first sentence applies [**5] at the initial stage of an encounter or arrest, which is evident by the fact that the status-checking requirement does not override an officer's need to attend to an ongoing and immediate situation: "a reasonable attempt shall be made, when practicable , to determine the immigration status of the person, except if the determination may hinder or obstruct an investigation."
+(emphasis added).
+The mandatory directive in the second sentence applies at the end of the process: an arrestee's immigration status "shall .
+.
+.
+[be] determined before the person is released."
+[fn7] B. Preemption of Section 2(B) As the Supreme Court recently instructed, every preemption analysis "must be guided by two cornerstones."
+Wyeth , 129 S.Ct. at 1194 .
+The first is that "the purpose of Congress is the ultimate touchstone."
+Id .
+The second is that a presumption against preemption applies when "Congress has legislated .
+.
+.
+in a field which the States have traditionally occupied."
+Id .
+The states have not traditionally occupied the field of identifying immigration violations so we apply no presumption against preemption for Section 2(B) .
+We begin with "the purpose of Congress" by examining the text of 8 U.S.C. 1357 (g).
+In this section of the INA, titled "Performance of immigration officer functions by State officers and employees," Congress has instructed under what conditions state officials are permitted to assist the Executive in the enforcement of immigration laws.
+Congress has provided that the Attorney General "may enter into a written agreement with a State .
+.
+.
+pursuant to which an officer or employee of the State .
+.
+.
+who is determined by the Attorney General to be qualified to perform a function of an immigration officer in relation to the investigation, apprehension, or detention of aliens in the United States .
+.
+.
+may carry out such function."
+8 U.S.C. 1357 (g)(1).
+Subsection (g)(3) provides that "[i]n performing a function under this subsection, an officer .
+.
+.
+of a State .
+.
+.
+shall be subject to the direction and supervision of the Attorney General."
+8 U.S.C. 1357 (g)(3).
+Subsection (g)(5) requires that the written agreement must specify "the specific powers and duties that may be, or are required to be, exercised or performed by the individual, the duration of the authority of the individual, and the position of the agency of the Attorney General who is required to supervise and direct the individual."
+8 U.S.C. 1357 (g)(5).
+These provisions demonstrate that Congress intended for states to be involved in the enforcement of immigration laws under the Attorney General's close supervision.
+Not only must the Attorney General approve of each individual state officer, he or she must delineate which functions each individual officer is permitted to perform, as evidenced by the disjunctive "or" in subsection (g)(1)'s list of "investigation, apprehension, or detention," and by subsection (g)(5) .
+An officer might be permitted to help with investigation, apprehension and detention; or, an officer might be permitted to help only with one or two of these functions.
+Subsection (g)(5) also evidences Congress' intent for the Attorney General to have the discretion to make a state officer's help [**6] with a certain function permissive or mandatory.
+In subsection (g)(3) , Congress explicitly required that in enforcing federal immigration law, state and local officers "shall" be directed by the Attorney General.
+This mandate forecloses any argument that state or local officers can enforce federal immigration law as directed by a mandatory state law.
+We note that in subsection (g)(10) , Congress qualified its other 1357(g) directives: Nothing in this subsection shall be construed to require an agreement .
+.
+.
+in order for any officer or employee of a State .
+.
+.
+(A) to communicate with the Attorney General regarding the immigration status of any individual .
+.
+.
+or (B) otherwise to cooperate with the Attorney General in the identification, apprehension, detention, or removal of aliens not lawfully present.
+8 U.S.C. 1357 (g)(10).
+Although this language, read alone, is broad, we must interpret Congress' intent in adopting subsection (g)(10) in light of the rest of 1357(g) .
+Giving subsection (g)(10) the breadth of its isolated meaning would completely nullify the rest of 1357(g) , which demonstrates that Congress intended for state officers to aid in federal immigration enforcement only under particular conditions, including the Attorney General's supervision.
+Subsection (g)(10) does not operate as a broad alternative grant of authority for state officers to systematically enforce the INA out-side of the restrictions set forth in subsections (g)(1)-(9) .
+The inclusion of the word "removal" in subsection (g)(10)(B) supports our narrow interpretation of subsection (g)(10) .
+Even state and local officers authorized under 1357(g) to investigate, apprehend, or detain immigrants do not have the authority to remove immigrants; removal is exclusively the purview of the federal government.
+By including "removal" in 1357(g)(10)(B) , we do not believe that Congress intended to grant states the authority to remove immigrants.
+Therefore, the inclusion of "removal" in the list of ways that a state may "otherwise [] cooperate with the Attorney General," indicates that subsection (g)(10) does not permit states to opt out of subsections (g)(1)-(9) and systematically enforce the INA in a manner dictated by state law, rather than by the Attorney General.
+We therefore interpret subsection (g)(10)(B) to mean that when the Attorney General calls upon state and local law enforcement officers — or such officers are confronted with the necessity — to cooperate with federal immigration enforcement on an incidental and as needed basis, state and local officers are permitted to provide this cooperative help without the written agreements that are required for systematic and routine cooperation.
+[fn8] Similarly, we interpret subsection (g)(10)(A) to mean that state officers can communicate with the Attorney General about immigration status information that they obtain or need in the performance of their regular state duties.
+But subsection (g)(10)(A) does not permit states to adopt laws dictating how and when state and local officers must communicate with the Attorney General regarding the immigration status of an individual.
+[**7] Subsection (g)(10) does not exist in a vacuum; Congress enacted it alongside subsections (g)(1)-(9) and we therefore interpret subsection (g)(10) as part of a whole, not as an isolated provision with a meaning that is unencumbered by the other constituent parts of 1357(g) .
+[fn9] In sum, 8 U.S.C. 1357 (g) demonstrates that Congress intended for state officers to systematically aid in immigration enforcement only under the close supervision of the Attorney General — to whom Congress granted discretion in determining the precise conditions and direction of each state officer's assistance.
+We find it particularly significant for the purposes of the present case that this discretion includes the Attorney General's ability to make an individual officer's immigration-enforcement duties permissive or mandatory.
+8 U.S.C. 1357 (g)(5).
+Section 2(B) sidesteps Congress' scheme for permitting the states to assist the federal government with immigration enforcement.
+Through Section 2(B) , Arizona has enacted a mandatory and systematic scheme that conflicts with Congress' explicit requirement that in the "[p]erformance of immigration officer functions by State officers and employees," such officers "shall be subject to the direction and supervision of the Attorney General."
+8 U.S.C. 1357 (g)(3).
+Section 2(B) therefore interferes with Congress' scheme because Arizona has assumed a role in directing its officers how to enforce the INA.
+We are not aware of any INA provision demonstrating that Congress intended to permit states to usurp the Attorney General's role in directing state enforcement of federal immigration laws.
+Arizona argues that in another INA provision, "Congress has expressed a clear intent to encourage the assistance from state and local law enforcement officers," citing 8 U.S.C. 1373 (c).
+Section 1373(c) creates an obligation, on the part of the Department of Homeland Security ("DHS"), to "respond to an inquiry by a Federal, State, or local government agency, seeking to verify or ascertain the citizenship or immigration status of any individual .
+.
+.
+for any purpose authorized by law."
+We agree that 1373(c) demonstrates that Congress contemplated state assistance in the identification of undocumented immigrants.
+[fn10] We add, however, that Congress contemplated this assistance within the boundaries established in 1357(g) , not in a manner dictated by a state law that furthers a state immigration policy.
+Congress passed 1373(c) at the same time that it added subsection (g) to 1357 .
+See Omnibus Consolidated Appropriations Act, 1997, Pub.L.
+104-208 , 133 , 642 (1996).
+Thus, Congress directed the appropriate federal agency to respond to state inquiries about immigration status at the same time that it authorized the Attorney General to enter into 1357(g) agreements with states.
+Arizona and the dissent urge a very broad interpretation of 1373(c) : because DHS is obligated to respond to identity inquiries from state and local officers, they argue, Arizona must be permitted to direct its officers how and when to enforce federal immigration law in furtherance of the state's own immigration policy of attrition.
+This [**8] interpretation would result in one provision swallowing all ten subsections of 1357(g) , among other INA sections.
+Our task, however, is not to identify one INA provision and conclude that its text alone holds the answer to the question before us.
+Rather, we must determine how the many provisions of a vastly complex statutory scheme function together.
+Because our task is to interpret the meaning of many INA provisions as a whole, not 1373(c) and 1357(g)(10) at the expense of all others, we are not persuaded by the dissent's argument, which considers these provisions in stark isolation from the rest of the statute.
+[fn11] In addition to providing the Attorney General wide discretion in the contents of each 1357 (g) agreement with a state, Congress provided the Executive with a fair amount of discretion to determine how federal officers enforce immigration law.
+The majority of 1357 grants powers to DHS officers and employees to be exercised within the confines of the Attorney General's regulations; this section contains few mandatory directives from Congress to the Attorney General or DHS.
+The Executive Associate Director for Management and Administration at U.S. Immigration and Customs Enforcement within DHS has explained the purpose of this Congressionally-granted discretion: "DHS exercises a large degree of discretion in determining how best to carry out its enforcement responsibilities" which "necessitates prioritization to ensure ICE expends resources most efficiently to advance the goals of protecting national security, protecting public safety, and securing the border."
+By imposing mandatory obligations on state and local officers, Arizona interferes with the federal government's authority to implement its priorities and strategies in law enforcement, turning Arizona officers into state-directed DHS agents.
+As a result, Section 2(B) interferes with Congress' delegation of discretion to the Executive branch in enforcing the INA.
+To assess the impact of this interference in our preemption analysis, we are guided by the Supreme Court's decisions in Crosby , 530 U.S. 363 , 120 S.Ct. 2288 , and Buckman Co. v. Plaintiff's' Legal Comm. , 531 U.S. 341 , 121 S.Ct. 1012 , 148 L.Ed.2d 854 (2001).
+In Crosby , where the Court found that a state law was preempted because it posed an obstacle to Congress' intent, the Court observed that "Congress clearly intended the federal Act to provide the President with flexible and effective authority," and that the state law's "unyielding application undermines the President's intended statutory authority."
+530 U.S. at 374 , 377 , 120 S.Ct. 2288 .
+In Buckman , the Court found that state fraud-on-the-Food And Drug Administration claims conflicted with the relevant federal statute and were preempted, in part because "flexibility is a critical component of the statutory and regulatory framework" of the federal law, and the preempted state claims would have disrupted that flexibility.
+531 U.S. at 349 , 121 S.Ct. 1012 .
+The Court observed that "[t]his flexibility is a critical component of the statutory and regulatory framework under which the FDA pursues difficult (and often competing) objectives."
+Id .
+In light of this guidance, [**9] Section 2(B) 's interference with Congressionally-granted Executive discretion weighs in favor of preemption.
+Section 2(B) 's "unyielding" mandatory directives to Arizona law enforcement officers "undermine[] the President's intended statutory authority" to establish immigration enforcement priorities and strategies.
+Crosby , 530 U.S. at 377 , 120 S.Ct. 2288 .
+Furthermore, "flexibility is a critical component of the statutory and regulatory framework under which the" Executive "pursues [the] difficult (and often competing) objectives," Buckman , 531 U.S. at 349 , 121 S.Ct. 1012 , of — according to ICE — "advancing] the goals of protecting national security, protecting public safety, and securing the border."
+Through Section 2(B) , Arizona has attempted to hijack a discretionary role that Congress delegated to the Executive.
+In light of the above, S.B.
+1070 Section 2(B) "stands as an obstacle to the accomplishment and execution of the full purposes and objectives of Congress" as expressed in the aforementioned INA provisions.
+Hines , 312 U.S. at 67 , 61 S.Ct. 399 .
+The law subverts Congress' intent that systematic state immigration enforcement will occur under the direction and close supervision of the Attorney General.
+Furthermore, the mandatory nature of Section 2(B) 's immigration status checks is inconsistent with the discretion Congress vested in the Attorney General to supervise and direct State officers in their immigration work according to federally-determined priorities.
+8 U.S.C. 1357 (g)(3).
+In addition to Section 2(B) standing as an obstacle to Congress' statutorily expressed intent, the record unmistakably demonstrates that S.B.
+1070 has had a deleterious effect on the United States' foreign relations, which weighs in favor of preemption.
+See generally Garamendi 539 U.S. 396 , 123 S.Ct. 2374 (finding obstacle preemption where a State law impinged on the Executive's authority to singularly control foreign affairs); Crosby , 530 U.S. 363 , 120 S.Ct. 2288 (same).
+In Garamendi , the Court stated that "even .
+.
+.
+the likelihood that state legislation will produce something more than incidental effect in conflict with express foreign policy of the National Government would require preemption of the state law."
+539 U.S. at 420 , 123 S.Ct. 2374 (emphasis added).
+[fn12] The record before this court demonstrates that S.B.
+1070 does not threaten a " likelihood .
+.
+.
+[of] producing] something more than incidental effect;" rather, Arizona's law has created actual foreign policy problems of a magnitude far greater than incidental.
+Garamendi 539 U.S. at 419 , 123 S.Ct. 2374 (emphasis added).
+Thus far, the following foreign leaders and bodies have publicly criticized Arizona's law: The Presidents of Mexico, Bolivia, Ecuador, El Salvador, and Guatemala; the governments of Brazil, Colombia, Honduras, and Nicaragua; the national assemblies in Ecuador and Nicaragua and the Central American Parliament; six human rights experts at the United Nations; the Secretary General and many permanent representatives of the Organization of American States; the Inter-American Commission on Human Rights; and the Union of South American Nations.
+In addition to criticizing S.B.
+1070, Mexico has taken affirmative steps to protest it.
+As a direct result of the Arizona law, at least five of [**10] the six Mexican Governors invited to travel to Phoenix to participate in the September 8-10, 2010 U.S.-Mexico Border Governors' Conference declined the invitation.
+The Mexican Senate has postponed review of a U.S.-Mexico agreement on emergency management cooperation to deal with natural disasters.
+In Crosby , the Supreme Court gave weight to the fact that the Assistant Secretary of State said that the state law at issue "has complicated its dealings with foreign sovereigns."
+530 U.S. at 383-84 , 120 S.Ct. 2288 .
+Similarly, the current Deputy Secretary of State, James B. Steinberg, has attested that S.B.
+1070 "threatens at least three different serious harms to U.S. foreign relations."
+[fn13] In addition, the Deputy Assistant Secretary for International Policy and Acting Assistant Secretary for International Affairs at DHS has attested that Arizona's immigration law "is affecting DHS's ongoing efforts to secure international cooperation in carrying out its mission to safeguard America's people, borders, and infrastructure."
+The Supreme Court's direction about the proper use of such evidence is unambiguous: "statements of foreign powers necessarily involved[,] .
+.
+.
+indications of concrete disputes with those powers, and opinions of senior National Government officials are competent and direct evidence of the frustration of congressional objectives by the state Act."
+Crosby , 530 U.S. at 385 , 120 S.Ct. 2288 .
+[fn14] Here, we are presented with statements attributable to foreign governments necessarily involved and opinions of senior United States' officials: together, these factors persuade us that Section 2(B) thwarts the Executive's ability to singularly manage the spillover effects of the nation's immigration laws on foreign affairs.
+Finally, the threat of 50 states layering their own immigration enforcement rules on top of the INA also weighs in favor of preemption.
+In Wis. Dep't of Indus., Labor and Human Relations v. Gould Inc. , 475 U.S. 282 , 288 , 106 S.Ct. 1057 , 89 L.Ed.2d 223 (1986), where the Court found conflict preemption, the Court explained that "[e]ach additional [state] statute incrementally diminishes the [agency's] control over enforcement of the [federal statute] and thus further detracts from the integrated scheme of regulation created by Congress."
+(internal citations omitted).
+See also Buckman , 531 U.S. at 350 , 121 S.Ct. 1012 ("[a]s a practical matter, complying with the [federal law's] detailed regulatory regime in the shadow of 50 States' tort regimes will dramatically increase the burdens facing potential applicants-burdens not contemplated by Congress in en-acting the [federal laws]").
+In light of the foregoing, we conclude that the United States has met its burden to show that there is likely no set of circumstances under which S.B.
+1070 Section 2(B) would be valid, and it is likely to succeed on the merits of its challenge.
+The district court did not abuse its discretion by concluding the same.
+III.
+Section 3 S.B.
+1070 Section 3 provides: "In addition to any violation of federal law, a person is guilty of willful failure to complete or carry an alien registration document if the person is in violation of 8 United States Code section 1304 (e) or 1306 (a)."
+[fn15] Ariz.Rev.
+Stat. Ann. 13-1509 (A) (2010).
+The penalty for violating Section 3 [**11] is a maximum fine of one hundred dollars, a maximum of twenty days in jail for a first violation, and a maximum of thirty days in jail for subsequent violations.
+Ariz. Rev. Stat. Ann. 13-1509 (H).
+Section 3 "does not apply to a person who maintains authorization from the federal government to remain in the United States."
+Ariz. Rev. Stat. Ann. 13-1509 (F) (2010).
+Section 3 essentially makes it a state crime for unauthorized immigrants to violate federal registration laws.
+Starting with the touchstones of preemption, punishing unauthorized immigrants for their failure to comply with federal registration laws is not a field that states have "traditionally occupied."
+Wyeth , 129 S.Ct. at 1194 (internal quotations and citations omitted); see generally Hines , 312 U.S. 52 , 61 S.Ct. 399 .
+Therefore, we conclude that there is no presumption against preemption of Section 3 .
+Determining Congress' purpose, and whether Section 3 poses an obstacle to it, first requires that we evaluate the text of the federal registration requirements in 8 U.S.C. 1304 and 1306 .
+These sections create a comprehensive scheme for immigrant registration, including penalties for failure to carry one's registration document at all times, 8 U.S.C. 1304 (e), and penalties for willful failure to register, failure to notify change of address, fraudulent statements, and counterfeiting.
+8 U.S.C. 1306 (a)-( d ).
+These provisions include no mention of state participation in the registration scheme.
+By contrast, Congress provided very specific directions for state participation in 8 U.S.C. 1357 , demonstrating that it knew how to ask for help where it wanted help; it did not do so in the registration scheme.
+Arizona argues that Section 3 is not preempted because Congress has "invited states to reinforce federal alien classifications."
+Attempting to support this argument, Arizona cites INA sections outside the registration scheme where Congress has expressly indicated how and under what conditions states should help the federal government in immigration regulation.
+See 8 U.S.C. 1621 25 , 1324a (h)(2).
+The sections Arizona cites authorize states to limit certain immigrants' eligibility for benefits and to impose sanctions on employers who employ unauthorized immigrants.
+We are not persuaded by Arizona's argument.
+An authorization from one section does not — without more — carry over to other sections.
+Nothing in the text of the INA's registration provisions indicates that Congress intended for states to participate in the enforcement or punishment of federal immigration registration rules.
+In addition, S.B.
+1070 Section 3 plainly stands in opposition to the Supreme Court's direction: "where the federal government, in the exercise of its superior authority in this field, has enacted a complete scheme of regulation and has therein provided a standard for the registration of aliens, states cannot, inconsistently with the purpose of Congress, conflict or interfere with, curtail or complement, the federal law, or enforce additional or auxiliary regulations."
+Hines , 312 U.S. at 66-67 , 61 S.Ct. 399 .
+In Hines , the Court considered the preemptive effect of a precursor to the INA, but the Court's language speaks in general terms about "a [**12] complete scheme of regulation," — as to registration, documentation, and possession of proof thereof — which the INA certainly contains.
+Section 3 's state punishment for federal registration violations fits within the Supreme Court's very broad description of proscribed state action in this area — which includes "complement[ing]" and "enforcing] additional or auxiliary regulations."
+[fn16] Id .
+The Supreme Court's more recent preemption decisions involving comprehensive federal statutory schemes also indicate that federal law preempts S.B.
+1070 Section 3 .
+In Buckman , the Supreme Court held that the Food Drug and Cosmetics Act ("FDCA") conflict preempted a state law fraud claim against defendants who allegedly made misrepresentations to the Food and Drug Administration ("FDA").
+531 U.S. at 343 , 121 S.Ct. 1012 .
+The Court explained that private parties could not assert state-fraud on the FDA claims because, "the existence of the[] federal enactments is a critical element in their case." Id. at 353 , 121 S.Ct. 1012 .
+The same principle applies here to S.B.
+1070 Section 3 , which makes the substantive INA registration requirements "a critical element" of the state law.
+By contrast, the Supreme Court found that state law claims were not preempted in Medtronic, Inc. v. Lohr , 518 U.S. 470 , 116 S.Ct. 2240 , 135 L.Ed.2d 700 (1996) (holding that an express preemption provision in the federal Medical Device Amendments to the FDCA did not preclude a state common law negligence action against the manufacturer of an allegedly defective medical device), Altria Grp., Inc. v. Good , 555 U.S. 70 , 129 S.Ct. 538 , 172 L.Ed.2d 398 (2008) (holding that the federal Labeling Act did not expressly preempt plaintiffs' claims under the Maine Unfair Trade Practices Act alleging that Altria's advertising of light cigarettes was fraudulent), or Wyeth , 129 S.Ct. at 1193 (holding that the FDA's drug labeling judgments pursuant to the FDCA did not obstacle preempt state law products liability claims).
+In these cases, the state laws' "generality le[t] them outside the category of requirements that [the federal statute] envisioned."
+Medtronic , 518 U.S. at 502 , 116 S.Ct. 2240 .
+The state law claim in Medtronic was negligence, 518 U.S. at 502 , 116 S.Ct. 2240 , the state statute in Altria was unfair business practices, 129 S.Ct. at 541 , and the state law claim in Wyeth was products liability, 129 S.Ct. at 1193 .
+All of the state laws at issue in these cases had significantly wider applications than the federal statutes that the Court found did not preempt them.
+Here, however, Section 3 's "generality" has no wider application than the INA.
+In addition, as detailed with respect to Section 2(B) above, S.B.
+1070's detrimental effect on foreign affairs, and its potential to lead to 50 different state immigration schemes piling on top of the federal scheme, weigh in favor of the preemption of Section 3 .
+In light of the foregoing, we conclude that the United States has met its burden to show that there is likely no set of circumstances under which S.B.
+1070 Section 3 would be valid, and it is likely to succeed on the merits of its challenge.
+The district court did not abuse its discretion by concluding the same.
+IV.
+Section 5(C) S.B.
+1070 Section 5(C) provides that it "is unlawful for a person who is unlawfully present in the United States and who is an unauthorized alien [**13] to knowingly apply for work, solicit work in a public place or perform work as an employee or independent contractor in this state."
+Ariz. Rev. Stat. Ann. 13-2928 (C) (2010).
+Violation of this provision is a class 1 misdemeanor, which carries a six month maximum term of imprisonment.
+Ariz.Rev.
+Stat. Ann. 13-2928 (F), 13-707 (A)(1) (2010).
+Thus, Section 5(C) criminalizes unauthorized work and attempts to secure such work.
+We have previously found that "because the power to regulate the employment of unauthorized aliens remains within the states' historic police powers, an assumption of non-preemption applies here."
+Chicanos Por La Causa, Inc. v. Napolitano , 558 F.3d 856 , 865 (9th Cir. 2009), cert. granted, Chamber of Commerce of the U.S. v. Candelaria , U.S. , 130 S.Ct. 3498 , 177 L.Ed.2d 1088 (2010).
+Therefore, with respect to S.B.
+1070 Section 5(C) , we "start with the assumption that the historic police powers of the States were not to be superseded by the Federal Act unless that was the clear and manifest purpose of Congress."
+Wyeth , 129 S.Ct. at 1194 (internal quotations and citations omitted) (quoting Medtronic , 518 U.S. at 485 , 116 S.Ct. 2240 ).
+Within the INA, Congress first tackled the problem of unauthorized immigrant employment in the Immigration Reform and Control Act of 1986 ("IRCA").
+We have previously reviewed IRCA's legislative history and Congress' decision not to criminalize unauthorized work.
+See Nat'l Ctr. for Immigrants' Rights, Inc. v. I.N.S.
+, 913 F.2d 1350 (9th Cir. 1990), rev'd on other grounds , 502 U.S. 183 , 112 S.Ct. 551 , 116 L.Ed.2d 546 (1991).
+In this case, we are bound by our holding in National Center regarding Congressional intent.
+In National Center , we considered whether the INA, through 8 U.S.C. 1252 (a), authorized the Immigration and Naturalization Service ("INS") to promulgate regulations which "imposed a condition against employment in appearance and delivery bonds of aliens awaiting deportation hearings."
+Id. at 1351 .
+To decide this question, we carefully reviewed the history of employment-related provisions in the INA's legislative scheme — including the legislative history of the IRCA amendments.
+Id. at 1364-70 .
+We concluded that "[w]hile Congress initially discussed the merits of fining, detaining or adopting criminal sanctions against the employee , it ultimately rejected all such proposals .
+.
+.
+Congress quite clearly was willing to deter illegal immigration by making jobs less available to illegal aliens but not by incarcerating or fining aliens who succeeded in obtaining work."
+[fn17] Id. at 1367-68 .
+At oral argument, Arizona asserted that National Center does not control our analysis of Section 5(C) because it addressed the limited issue of whether the INS could require a condition against working in appearance and delivery bonds, which — according to Arizona — has no application to whether a state statute can criminalize unauthorized work.
+We agree that the ultimate legal question before us in National Center was distinct from the present dispute.
+Nonetheless, we do not believe that we can revisit our previous conclusion about Congress' intent simply because we are considering the effect of that intent on a different legal question.
+See Overstreet v. United Bhd. of Carpenters and Joiners of America, Local Union No. 1506 , 409 F.3d 1199 , 1205 n. 8 (9th Cir. 2005) ("Ordinarily, [**14] a three-judge panel `may not overrule a prior decision of the court.'")
+(quoting Miller v. Gammie , 335 F.3d 889 , 899 (9th Cir. 2003) (en banc)).
+Therefore, our decision in National Center requires us to conclude that federal law likely preempts S.B.
+1070 Section 5(C) , since the state law conflicts with what we have found was Congress' IRCA intent.
+The text of the relevant IRCA statutory provision — 8 U.S.C. 1324a — also supports this conclusion.
+Section 1324a establishes a complex scheme to discourage the employment of unauthorized immigrants — primarily by penalizing employers who knowingly or negligently hire them.
+The statute creates a system through which employers are obligated to verify work authorization.
+[fn18] 8 U.S.C. 1324a (b).
+The verification process includes a requirement that potential employees officially attest that they are authorized to work. 8 U.S.C. 1324a (b)(2).
+The statute provides that the forms potential employees use to make this attestation "may not be used for purposes other than for enforcement of this chapter and" 18 U.S.C. 1001 , 1028 , 1546 and 1621 .
+8 U.S.C. 1324a (b)(5).
+These sections of Title 18 criminalize knowingly making a fraudulent statement or writing; knowingly making or using a false or stolen identification document; forging or falsifying an immigration document; and committing perjury by knowingly making a false statement after taking an oath in a document or proceeding to tell the truth.
+This is the exclusive punitive provision against unauthorized workers in 8 U.S.C 1324a .
+All other penalties in the scheme are exacted on employers, reflecting Congress' choice to exert the vast majority of pressure on the employer side.
+In addition, other provisions in 8 U.S.C. 1324a provide affirmative protections to unauthorized workers, demonstrating that Congress did not intend to permit the criminalization of work.
+Subsection 1324a(d)(2)(C) provides that "[a]ny personal information utilized by the [authorization verification] system may not be made available to Government agencies, employers, and other persons except to the extent necessary to verify that an individual is not an unauthorized alien."
+This provision would prohibit Arizona from using personal information in the verification system for the purpose of investigating or prosecuting violations of S.B.
+1070 Section 5(C) .
+Subsection 1324a(d)(2)(F) provides in even clearer language that "[t]he [verification] system may not be used for law enforcement purposes, other than for enforcement of this chapter or" the aforementioned Title 18 fraud sections.
+Subsection 1324a(g)(1) demonstrates Congress' intent to protect unauthorized immigrant workers from financial exploitation — a burden less severe than incarceration.
+This section provides that "[i]t is unlawful for a person or other entity, in the hiring .
+.
+.
+of any individual, to require the individual to post a bond or security, to pay or agree to pay an amount, or otherwise to provide a financial guarantee or indemnity, against any potential liability arising under this section relating to such hiring .
+.
+.
+of the individual."
+Subsection 1324a(e) provides for a system of complaints, investigation, and adjudication by administrative [**15] judges for employers who violate subsection (g)(1 ).
+The penalty for a violation is "$1,000 for each violation" and "an administrative order requiring the return of any amounts received .
+.
+.
+to the employee or, if the employee cannot be located, to the general fund of the Treasury."
+8 U.S.C. 1324a (g)(2).
+Here, Congress could have required that employers repay only authorized workers from whom they extracted a financial bond.
+Instead, Congress required employers to repay any employee — including undocumented employees.
+Where Congress did not require undocumented workers to forfeit their bonds, we do not believe Congress would sanction the criminalization of work.
+We therefore conclude that the text of 8 U.S.C. 1324a , combined with legislative history demonstrating Congress' affirmative choice not to criminalize work as a method of discouraging unauthorized immigrant employment, likely reflects Congress' clear and manifest purpose to supercede state authority in this context.
+We are further guided by the Supreme Court's decision in Puerto Rico Dep't of Consumer Affairs v. Isla Petroleum Corp. , 485 U.S. 495 , 108 S.Ct. 1350 , 99 L.Ed.2d 582 (1988).
+There, the Court explained: [D]eliberate federal inaction could always imply preemption, which cannot be.
+There is no federal preemption in vacuo , without a constitutional text or a federal statute to assert it.
+Where a comprehensive federal scheme intentionally leaves a portion of the regulated field without controls, then the preemptive inference can be drawn — not from federal inaction alone, but from inaction joined with action.
+Id. at 503 , 108 S.Ct. 1350 .
+Given the facts in Isla , the Court could not draw this preemptive inference because "Congress ha[d] withdrawn from all substantial involvement in petroleum allocation and price regulation."
+Id. at 504 , 108 S.Ct. 1350 .
+The present case, however, presents facts likely to support the kind of preemptive inference that the Supreme Court endorsed, but did not find, in Isla , Here, Congress' inaction in not criminalizing work, joined with its action of making it illegal to hire unauthorized workers, justifies a preemptive inference that Congress intended to prohibit states from criminalizing work.
+Far from the situation in Isla , Congress has not "withdrawn all substantial involvement" in preventing unauthorized immigrants from working in the United States.
+It has simply chosen to do so in a way that purposefully leaves part of the field unregulated.
+We are also guided by the Supreme Court's recognition, even before IRCA, that a "primary purpose in restricting immigration is to preserve jobs for American workers."
+Sure-Tan, Inc. v. NLRB , 467 U.S. 883 , 893 , 104 S.Ct. 2803 , 81 L.Ed.2d 732 (1984).
+As Arizona states, "Section 5(C) clearly furthers the strong federal policy of prohibiting illegal aliens from seeking employment in the United States."
+The Supreme Court has cautioned, however, that "conflict in technique can be fully as disruptive to the system Congress erected as conflict in overt policy."
+Gould , 475 U.S. at 286 , 106 S.Ct. 1057 (quoting Motor Coach Emps.
+v. Lockridge , 403 U.S. 274 , 287 , 91 S.Ct. 1909 , 29 L.Ed.2d 473 (1971)).
+In Crosby , the Court explained that "a common end hardly neutralizes conflicting means."
+530 U.S. at 379-80 , 120 S.Ct. 2288 .
+Similarly, in Garamendi , the Court explained that a state [**16] law was preempted because "[t]he basic fact is that California seeks to use an iron fist where the President has consistently chosen kid gloves."
+539 U.S. at 427 , 123 S.Ct. 2374 .
+The problem with a state adopting a different technique in pursuit of the same goal as a federal law, is that "[s]anctions are drawn not only to bar what they prohibit but to allow what they permit, and the inconsistency of sanctions .
+.
+.
+undermines the congressional calibration of force."
+Crosby , 530 U.S. at 380 , 120 S.Ct. 2288 .
+In the context of unauthorized immigrant employment, Congress has deliberately crafted a very particular calibration of force which does not include the criminalization of work.
+By criminalizing work, S.B.
+1070 Section 5(C) constitutes a substantial departure from the approach Congress has chosen to battle this particular problem.
+Therefore, Arizona's assertion that this provision "furthers the strong federal policy" does not advance its argument against preemption.
+Sharing a goal with the United States does not permit Arizona to "pull[] levers of influence that the federal Act does not reach."
+Crosby , 530 U.S. at 376 , 120 S.Ct. 2288 .
+By pulling the lever of criminalizing work — which Congress specifically chose not to pull in the INA — Section 5(C) "stands as an obstacle to the accomplishment and execution of the full purposes and objectives of Congress."
+Hines , 312 U.S. at 67 , 61 S.Ct. 399 .
+It is therefore likely that federal law preempts Section 5(C) .
+In addition, as detailed with respect to Section 2(B) above, S.B.
+1070's detrimental effect on foreign affairs, and its potential to lead to 50 different state immigration schemes piling on top of the federal scheme, weigh in favor of the preemption of Section 5(C) .
+In light of the foregoing, we conclude that the United States has met its burden to show that there is likely no set of circumstances under which S.B.
+1070 Section 5(C) would not be preempted, and it is likely to succeed on the merits of its challenge.
+The district court did not abuse its discretion by concluding the same.
+V. Section 6 S.B.
+1070 Section 6 provides that "[a] peace officer, without a warrant, may arrest a person if the officer has probable cause to believe .
+.
+.
+[t]he person to be arrested has committed any public offense that makes the person removable from the United States."
+[fn19] Ariz.Rev.
+Stat. Ann. 13-3883 (A)(5) (2010).
+We first address the meaning of this Section.
+S.B.
+1070 Section 6 added only subsection 5 to Ariz.Rev.
+Stat. Ann. 13-3883 (A), which authorizes warrantless arrests.
+Section 13-3883(A) already allowed for warrantless arrests for felonies, misdemeanors, petty offenses, and certain traffic-related criminal violations.
+Therefore, to comply with Arizona case law that "[e]ach word, phrase, clause, and sentence .
+.
+.
+must be given meaning so that no part will be void, inert, redundant , or trivial," Williams v. Thude , 188 Ariz. 257 , 934 P.2d 1349 , 1351 (1997) (internal quotations omitted), we conclude, as the district court did, that Section 6 "provides for the warrantless arrest of a person where there is probable cause to believe the person committed a crime in another state that would be considered a crime if it had been committed in Arizona and that would subject the person to removal from the United States."
+703 F.Supp.2d at 1005 (emphasis in original).
+[**17] Section 6 also allows for warrantless arrests when there is probable cause to believe that an individual committed a removable offense in Arizona, served his or her time for the criminal conduct, and was released; and when there is probable cause to believe that an individual was arrested for a removable offense but was not prosecuted.
+Thus, the question we must decide is whether federal law likely preempts Arizona from allowing its officers to effect warrantless arrests based on probable cause of removability.
+Because arresting immigrants for civil immigration violations is not a "field which the States have traditionally occupied," we do not start with a presumption against preemption of Section 6 .
+Wyeth , 129 S.Ct. at 1194 .
+We first turn to whether Section 6 is consistent with Congressional intent.
+As authorized by 8 U.S.C. 1252c , state and local officers may, "to the extent permitted by relevant State .
+.
+.
+law," arrest and detain an individual who: (1) is an alien illegally present in the United States; and (2) has previously been convicted of a felony in the United States and deported or left the United States after such conviction, but only after the State or local law enforcement officials obtain appropriate confirmation from the.
+Immigration and Naturalization Service of the status of such individual.
+8 U.S.C. 1252c (emphasis added).
+Nothing in this provision permits warrantless arrests, and the authority is conditioned on compliance with a mandatory obligation to confirm an individual's status with the federal government prior to arrest.
+Moreover, this provision only confers state or local arrest authority where the immigrant has been convicted of a felony.
+Section 6 , by contrast, permits warrantless arrests if there is probable cause that a person has "committed any public offense that makes the person removable."
+Misdemeanors, not just felonies, can result in removablility.
+See generally Fernandez-Ruiz v. Gonzales , 466 F.3d 1121 (9th Cir. 2006) (en banc).
+Thus, Section 6 authorizes state and local officers to effectuate more intrusive arrests than Congress has permitted in Section 1252c .
+[fn20] Moreover, none of the circumstances in which Congress has permitted federal DHS officers to arrest immigrants without a warrant are as broad as Section 6 .
+Absent a federal officer actually viewing an immigration violation, warrantless arrests under 8 U.S.C. 1357 (a) require a likelihood that the immigrant will escape before a warrant can be obtained.
+8 U.S.C. 1357 (a)(2), (a)(4) , (a)(5) .
+Section 6 contains no such requirement and we are not aware of any INA provision indicating that Congress intended state and local law enforcement officers to enjoy greater authority to effectuate a warrantless arrest than federal immigration officials.
+Thus, Section 6 significantly expands the circumstances in which Congress has allowed state and local officers to arrest immigrants.
+Federal law does not allow these officers to conduct warrantless arrests based on probable cause of civil removability, but Section 6 does.
+Therefore, Section 6 interferes with the carefully calibrated scheme of immigration enforcement [**18] that Congress has adopted, and it appears to be preempted.
+Arizona suggests, however, that it has the inherent authority to enforce federal civil removability without federal authorization, and therefore that the United States will not ultimately prevail on the merits.
+We do not agree.
+Contrary to the State's view, we simply are not persuaded that Arizona has the authority to unilaterally transform state and local law enforcement officers into a state-controlled DHS force to carry out its declared policy of attrition.
+We have previously suggested that states do not have the inherent authority to enforce the civil provisions of federal immigration law.
+In Gonzales v. City of Peoria , 722 F.2d 468 , 475 (9th Cir. 1983), overruled on other grounds by Hodgers-Durgin v. de la Vina , 199 F.3d 1037 (9th Cir. 1999), we held that "federal law does not preclude local enforcement of the criminal provisions of the [INA]."
+(Emphasis added).
+There, we "assume[d] that the civil provisions of the [INA] regulating authorized entry, length of stay, residence status, and deportation, constitute such a pervasive regulatory scheme, as would be consistent with the exclusive federal power over immigration."
+Id. at 474-75 (emphasis added).
+We are not aware of any binding authority holding that states possess the inherent authority to enforce the civil provisions of federal immigration law — we now hold that states do not have such inherent authority.
+[fn21] The Sixth Circuit has come to the same conclusion.
+United States v. Urrieta , 520 F.3d 569 (6th Cir. 2008).
+[fn22] In Urrieta , the court explained that "[i]n its response to Urrieta's motion to suppress evidence, the government originally argued that Urrieta's extended detention was justified on the grounds that .
+.
+.
+[county] Deputy Young had reason to suspect that Urrieta was an undocumented immigrant.
+The government withdrew th[is] argument, however, after conceding that[it] misstated the law."
+Id. at 574 .
+The Sixth Circuit cited 8 U.S.C. 1357 (g), which it summarized as "stating that local law enforcement officers cannot enforce completed violations of civil immigration law (i.e., illegal presence) unless specifically authorized to do so by the Attorney General under special conditions."
+Id .
+Therefore, the court required that "[t]o justify Urrieta's extended detention [] the government must point to specific facts demonstrating that Deputy Young had a reasonable suspicion that Urrieta was engaged in some nonimmigration-related illegal activity."
+Id .
+We recognize that our view conflicts with the Tenth Circuit's.
+See United States v. Vasquez-Alvarez , 176 F.3d 1294 (10th Cir. 1999).
+In Vasquez-Alvarez , the Tenth Circuit affirmed the denial of a motion to suppress where the defendant's "arrest was based solely on the fact that Vasquez was an illegal alien."
+Id. at 1295 .
+The arrest did not comply with the requirements of 8 U.S.C. 1252c , and the defendant argued that the evidence found as a result of that arrest should be suppressed.
+The Tenth Circuit disagreed, holding that 1252c "does not limit or displace the preexisting general authority of state or local police officers to investigate and make arrests for violations of federal [**19] laws, including immigration laws."
+Id. at 1295 .
+The Tenth Circuit based its conclusion on " 1252c 's legislative history and [] subsequent Congressional enactments providing additional nonexclusive sources of authority for state and local officers to enforce federal immigration laws."
+Id. at 1299 .
+The legislative history to which the court refers consists of the comments of 1252c 's sponsor, Representative Doolittle.
+As the court recounts, Doolittle stated: With such a threat to our public safety posed by criminal aliens, one would think that we would give law enforcement all the tools it needs to remove these criminals from our streets, but unfortunately just the opposite is true.
+In fact, the Federal Government has tied the hands of our State and local law enforcement officials by actually prohibiting them from doing their job of protecting public safety.
+I was dismayed to learn that the current Federal law prohibits State and local law enforcement officials from arresting and detaining criminal aliens whom they encountered through their routine duties .
+.
+.
+My amendment would also permit State and local law enforcement officials to assist the INS by granting them the authority in their normal course of duty to arrest and detain criminal aliens until the INS can properly take them into Federal custody.
+.
+.
+.
+My amendment is supported by our local law enforcement because they know that fighting illegal immigration can no longer be left solely to Federal agencies.
+Let us untie the hands of those we ask to protect us and include my amendment in H.R.
+2703 today.
+Id. at 1298 (citing 142 Cong. Rec.
+4619 (1996) (comments of Rep.
+Doolittle)).
+Interpreting these comments, the Tenth Circuit stated: "As discussed at length above, 1252c 's legislative history demonstrates that the purpose of the provision was to eliminate perceived federal limitations .
+.
+.
+There is simply no indication whatsoever in the legislative history to 1252c that Congress intended to displace preexisting state or local authority to arrest individuals violating federal immigration laws."
+Id. at 1299-1300 .
+[fn23] The Tenth Circuit's interpretation of this legislative history is not persuasive.
+Section 1252c was intended to grant authority to state officers to aid in federal immigration enforcement because Congress thought state officers lacked that authority.
+The Tenth Circuit's conclusion is nonsensical: we perceive no reason why Congress would display an intent "to displace preexisting .
+.
+.
+authority" when its purpose in passing the law was to grant authority it believed was otherwise lacking.
+Id. at 1300 .
+Vasquez-Alvarez also cited "subsequent Congressional enactments providing additional nonexclusive sources of authority for state and local officers to enforce federal immigration laws" in support of its conclusion that 1252c does not prevent state officers from making civil immigration-based arrests pursuant to state law.
+Id. at 1299 .
+The court noted that "in the months following the enactment of 1252c , Congress passed a series of provisions designed to encourage [**20] cooperation between the federal government and the states in the enforcement of federal immigration laws."
+Id. at 1300 (citing 1357(g) ).
+The court interpreted 1357(g)(10) to mean that "formal agreement [pursuant to 1357(g)(1) -( 9)] is not necessary for state and local officers `to cooperate with the Attorney General in identification, apprehension, detention, or removal of aliens.'"
+Id. at 1300 (quoting 8 U.S.C. 1357 (g)(10)(B)).
+To reason that the enactment of 1357(g) means that Congress did not intend to limit state and local officers' alleged inherent authority to make civil immigration arrests in 1252c , requires a broad reading of 1357(g)(10) ; we explain above in II.B.
+the reasons why we reject such a broad reading of this provision.
+Subsection (g)(10) neither grants, nor assumes the preexistence of, inherent state authority to enforce civil immigration laws in the absence of federal supervision.
+If such authority existed, all of 8 U.S.C. 1357 (g) — and 1252c for that matter-would be superfluous, and we do not believe that Congress spends its time passing unnecessary laws.
+[fn24] In sum, we are not persuaded that Arizona has the inherent authority to enforce the civil provisions of federal immigration law.
+Therefore, Arizona must be federally-authorized to conduct such enforcement.
+Congress has created a comprehensive and carefully calibrated scheme — and has authorized the Executive to promulgate extensive regulations — for adjudicating and enforcing civil removability.
+S.B.
+1070 Section 6 exceeds the scope of federal authorization for Arizona's state and local officers to enforce the civil provisions of federal immigration law.
+Section 6 interferes with the federal government's prerogative to make removability determinations and set priorities with regard to the enforcement of civil immigration laws.
+Accordingly, Section 6 stands as an obstacle to the full purposes and objectives of Congress.
+In addition, as detailed with respect to Section 2(B) above, S.B.
+1070's detrimental effect on foreign affairs, and its potential to lead to 50 different state immigration schemes piling on top of the federal scheme, weigh in favor of the preemption of Section 6.
+In light of the foregoing, we conclude that the United States has met its burden to show that there is likely no set of circumstances under which S.B.
+1070 Section 6 would be valid, and it is likely to succeed on the merits of its challenge.
+The district court did not abuse its discretion by concluding the same.
+VI.
+Equitable Factors Once a party moving for a preliminary injunction has demonstrated that it is likely to succeed on the merits, courts must consider whether the party will suffer irreparable harm absent injunctive relief, and whether the balance of the equities and the public interest favor granting an injunction.
+Winter v. Natural Res. Def. Council, Inc. , 555 U.S. 7 , 129 S.Ct. 365 , 374 , 172 L.Ed.2d 249 (2008).
+We have "stated that an alleged constitutional infringement will often alone constitute irreparable harm."
+Assoc. Gen. Contractors v. Coal. For Econ.
+Equity , 950 F.2d 1401 , 1412 (9th Cir. 1991) (internal quotation marks omitted).
+We have found that "it is clear that it would not be equitable [**21] or in the -public's interest to allow the state .
+.
+.
+to violate the requirements of federal law, especially when there are no adequate remedies available.
+.
+.
+.
+In such circumstances, the interest of preserving the Supremacy Clause is paramount."
+Cal. Pharmacists Ass'n v. Maxwell-Jolly , 563 F.3d 847 , 852-53 (9th Cir. 2009) (emphasis added); see also Am. Trucking Ass'ns, Inc. v. City of Los Angeles , 559 F.3d 1046 , 1059-60 (9th Cir. 2009) (recognizing that the balance of equities and the public interest weighed in favor of granting a preliminary injunction against a likely-preempted local ordinance).
+Accordingly, we find that as to the S.B.
+1070 Sections on which the United States is likely to prevail, the district court did not abuse its discretion in finding that the United States demonstrated that it faced irreparable harm and that granting the preliminary injunction properly balanced the equities and was in the public interest.
+Conclusion For the foregoing reasons, we AFFIRM the preliminary injunction enjoining enforcement of S.B.
+1070 Sections 2(B), 3, 5(C), and 6.
+AFFIRMED; REMANDED.
+The dissent quotes from the 2002 OLC memo in claiming that 1252c is not made superfluous by interpreting it to have no preemptive effect.
+Dissent at 390.
+We are neither persuaded, nor bound by the arguments in this memo.
+It is an axiomatic separation of powers principle that legal opinions of Executive lawyers are not binding on federal courts.
+The OLC memo itself demonstrates why this is: the OLC's conclusion about the issue in the 2002 memo was different in 1996 under the direction of President Clinton, and was different in 1989, under the direction of President George H.W.
+Bush.
+The dissent also claims that "Congress has authority to enact legislation which is designed merely to clarify, without affecting the distribution of power."
+Dissent at 390.
+The dissent cites language from the Reaffirmation — Reference to One Nation Under God in the Pledge of Allegiance, stating, "An Act to reaffirm the reference to one Nation under God."
+Pub.L.
+No. 107-293 (2002).
+The dissent's argument is unavailing, as 1252c contains no reference to anything remotely related to a "reaffirmation" of a state's alleged inherent authority to enforce the civil provisions of federal immigration law.

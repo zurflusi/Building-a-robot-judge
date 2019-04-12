@@ -1,0 +1,258 @@
+ STAHL, Circuit Judge.
+This case requires us to decide whether the police, after seizing a cell phone from an individual's person as part of his lawful arrest, can search the phone's data without a warrant.
+We conclude that such a search exceeds the boundaries of the Fourth Amendment search-incident-to-arrest exception.
+Because the government has not argued that the search here was justified by exigent circumstances or any other exception to the warrant requirement, we reverse the denial of defendant-appellant Brima Wurie's motion to suppress, vacate his conviction, and remand his case to the district court.
+I. Facts & Background On the evening of September 5, 2007, Sergeant Detective Paul Murphy of the Boston Police Department (BPD) was performing routine surveillance in South Boston.
+He observed Brima Wurie, who was driving a Nissan Altima, stop in the parking lot of a Lil Peach convenience store, pick up a man later identified as Fred Wade, and engage in what Murphy believed was a drug sale in the car.
+Murphy and another BPD officer subsequently stopped Wade and found two plastic bags in his pocket, each containing 3.5 grams of crack cocaine.
+Wade admitted that he had bought the drugs from "B," the man driving the Altima.
+Wade also told the officers that "B" lived in South Boston and sold crack cocaine.
+Murphy notified a third BPD officer, who was following the Altima.
+After Wurie parked the car, that officer arrested Wurie for distributing crack cocaine, read him Miranda warnings, and took him to the police station.
+When Wurie arrived at the station, two cell phones, a set of keys, and $1,275 in cash were taken from him.
+Five to ten minutes after Wurie arrived at the station, but before he was booked, two other BPD officers noticed that one of Wurie's cell phones, a gray Verizon LG phone, was repeatedly receiving calls from a number identified as "my house" on the external caller ID screen on the front of the phone.
+The officers were able to see the caller ID screen, and the "my house" label, in plain view.
+After about five more minutes, the officers opened the phone to look at Wurie's call log.
+Immediately upon opening the phone, the officers saw a photograph of a young black woman holding a baby, which was set as the phone's "wallpaper."
+The officers then pressed one button on the phone, which allowed them to access the phone's call log.
+The call log showed the incoming calls from "my house."
+The officers pressed one more button to determine the phone number associated with [**2] the "my house" caller ID reference.
+One of the officers typed that phone number into an online white pages directory, which revealed that the address associated with the number was on Silver Street in South Boston, not far from where Wurie had parked his car just before he was arrested.
+The name associated with the address was Manny Cristal.
+Sergeant Detective Murphy then gave Wurie a new set of Miranda warnings and asked him a series of questions.
+Wurie said, among other things, that he lived at an address on Speedwell Street in Dorchester and that he had only been "cruising around" in South Boston.
+He denied having stopped at the Lil Peach store, having given anyone a ride, and having sold crack cocaine.
+Suspecting that Wurie was a drug dealer, that he was lying about his address, and that he might have drugs hidden at his house, Murphy took Wurie's keys and, with other officers, went to the Silver Street address associated with the "my house" number.
+One of the mailboxes at that address listed the names Wurie and Cristal.
+Through the first-floor apartment window, the officers saw a black woman who looked like the woman whose picture appeared on Wurie's cell phone wallpaper.
+The officers entered the apartment to "freeze" it while they obtained a search warrant.
+Inside the apartment, they found a sleeping child who looked like the child in the picture on Wurie's phone.
+After obtaining the warrant, the officers seized from the apartment, among other things, 215 grams of crack cocaine, a firearm, ammunition, four bags of marijuana, drug paraphernalia, and $250 in cash.
+Wurie was charged with possessing with intent to distribute and distributing cocaine base and with being a felon in possession of a firearm and ammunition.
+He filed a motion to suppress the evidence obtained as a result of the warrantless search of his cell phone; the parties agreed that the relevant facts were not in dispute and that an evidentiary hearing was unnecessary.
+The district court denied Wurie's motion to suppress, United States v. Wurie , 612 F.Supp.2d 104 (D.Mass.2009), and, after a four-day trial, the jury found Wurie guilty on all three counts.
+He was sentenced to 262 months in prison.
+This appeal followed.
+II.
+Analysis In considering the denial of a motion to suppress, we review the district court's factual findings for clear error and its legal conclusions de novo.
+United States v. Kearney , 672 F.3d 81 , 88-89 (1st Cir.2012).
+The Fourth Amendment protects "[t]he right of the people to be secure in their persons, houses, papers, and effects, against unreasonable searches and seizures" and provides that "no Warrants shall issue, but upon probable cause, supported by Oath or affirmation, and particularly describing the place to be searched, and the persons or things to be seized."
+U.S. Const.
+amend.
+IV .
+The amendment grew out of American colonial opposition to British search and seizure practices, most notably the use of writs of assistance, which gave customs officials broad latitude to search houses, shops, cellars, warehouses, and other places for smuggled goods.
+The Honorable M. Blane Michael, Reading the Fourth Amendment: Guidance [**3] from the Mischief that Gave it Birth , 85 N.Y.U.L.
+Rev. 905, 907-09 (2010); see generally William J. Cuddihy, The Fourth Amendment: Origins and Original Meaning 602-1791 (2009).
+James Otis, a lawyer who challenged the use of writs of assistance in a 1761 case, famously described the practice as "placfing] the liberty of every man in the hands of every petty officer" and sounded two main themes: the need to protect the privacy of the home (what he called the "fundamental .
+.
+.
+Privilege of House"), Michael, supra , at 908 (citations and internal quotation marks omitted), and "the inevitability of abuse when government officials have the sort of unlimited discretion sanctioned by the writ," id. at 909 .
+The Supreme Court has described Otis's argument as "perhaps the most prominent event which inaugurated the resistance of the colonies to the oppressions of the mother country."
+Boyd v. United States , 116 U.S. 616 , 625 , 6 S.Ct. 524 , 29 L.Ed. 746 (1886).
+Today, a warrantless search is per se unreasonable under the Fourth Amendment, unless one of "a few specifically established and well-delineated exceptions" applies.
+Arizona v. Gant , 556 U.S. 332 , 338 , 129 S.Ct. 1710 , 173 L.Ed.2d 485 (2009) (quoting Katz v. United States , 389 U.S. 347 , 357 , 88 S.Ct. 507 , 19 L.Ed.2d 576 (1967)) (internal quotation marks omitted) One of those exceptions allows the police when they make a lawful arrest, to search "the arrestee's person and the area within his immediate control."
+Id. at 339, 129 S.Ct. 1710 (quoting Chimel v. California , 395 U.S. 752 , 763 , 89 S.Ct. 2034 , 23 L.Ed.2d 685 (1969)) (internal quotation marks omitted).
+In recent years, courts have grappled with the question of whether the search-incident-to-arrest exception extends to data within an arrestee's cell phone.
+[fn1] A. The legal landscape The modern search-incident-to-arrest doctrine emerged from Chimel v. California , 395 U.S. 752 , 89 S.Ct. 2034 , 23 L.Ed.2d 685 (1969), in which the Supreme Court held that a warrantless search of the defendant's entire house was not justified by the fact that it occurred as part of his valid arrest.
+The Court found that the search-incident-to-arrest exception permits an arresting officer "to search for and seize any evidence on the arrestee's person in order to prevent its concealment or destruction" and to search "the area into which an arrestee might reach in order to grab a weapon or evidentiary items."
+Id. at 763, 89 S.Ct. 2034 .
+The justifications underlying the exception, as articulated in Chimel , were protecting officer safety and ensuring the preservation of evidence.
+Id. Four years later, in United States v. Robinson , 414 U.S. 218 , 94 S.Ct. 467 , 38 L.Ed.2d 427 (1973), the Supreme Court examined how the search-incident-to-arrest exception applies to searches of the person.
+Robinson was arrested for driving with a revoked license, and in conducting a pat down, the arresting officer felt an object that he could not identify in Robinson's coat pocket.
+Id. at 220-23, 94 S.Ct. 467 .
+He removed the object, which turned out to be a cigarette package, and then felt the package and determined that it contained something other than cigarettes.
+Upon opening the package, the officer found fourteen capsules of heroin.
+Id. at 223, 94 S.Ct. 467 .
+The Court held that the warrantless search of the cigarette package was valid, explaining that the police have the authority to conduct "a full search of the person" incident to a lawful arrest.
+Id. at 235, 94 S.Ct. 467 .
+Robinson reiterated the [**4] principle, discussed in Chimel , that "[t]he justification or reason for the authority to search incident to a lawful arrest rests quite as much on the need to disarm the suspect in order to take him into custody as it does on the need to preserve evidence on his person for later use at trial."
+Id. at 234, 94 S.Ct. 467 .
+However, the Court also said the following: The authority to search the person incident to a lawful custodial arrest, while based upon the need to disarm and to discover evidence, does not depend on what a court may later decide was the probability in a particular arrest situation that weapons or evidence would in fact be found upon the person of the suspect.
+A custodial arrest of a suspect based on probable cause is a reasonable intrusion under the Fourth Amendment; that intrusion being lawful, a search incident to the arrest requires no additional justification.
+Id. at 235, 94 S.Ct. 467 .
+The following year, the Court decided United States v. Edwards , 415 U.S. 800 , 94 S.Ct. 1234 , 39 L.Ed.2d 771 (1974).
+Edwards was arrested on suspicion of burglary and detained at a local jail.
+After his arrest, police realized that Edwards's clothing, which he was still wearing, might contain paint chips tying him to the burglary.
+The police seized the articles of clothing and examined them for paint fragments.
+Id. at 801-02, 94 S.Ct. 1234 .
+The Court upheld the search, concluding that once it became apparent that the items of clothing might contain destructible evidence of a crime, "the police were entitled to take, examine, and preserve them for use as evidence, just as they are normally permitted to seize evidence of crime when it is lawfully encountered."
+Id. , at 806, 94 S.Ct. 1234 .
+The Court again addressed the search-incident-to-arrest exception in United States v. Chadwick , 433 U.S. 1 , 97 S.Ct. 2476 , 53 L.Ed.2d 538 (1977), abrogated on other grounds by California v. Acevedo , 500 U.S. 565 , 111 S.Ct. 1982 , 114 L.Ed.2d 619 (1991), this time emphasizing that not all warrantless searches undertaken in the context of a custodial arrest are constitutionally reasonable.
+In Chadwick , the defendants were arrested immediately after having loaded a footlocker into the trunk of a car.
+Id. at 3-4, 97 S.Ct. 2476 .
+The footlocker remained under the exclusive control of federal narcotics agents until they opened it, without a warrant and about an hour and a half after the defendants were arrested, and found marijuana in it.
+Id. at 4-5, 97 S.Ct. 2476 .
+The Court invalidated the search, concluding that the justifications for the search-incident-to-arrest exception — the need for the arresting officer "[t]o safeguard himself and others, and to prevent the loss of evidence" — were absent.
+Id. at 14, 97 S.Ct. 2476 .
+The search "was conducted more than an hour after federal agents had gained exclusive control of the footlocker and long after respondents were securely in custody" and therefore could not "be viewed as incidental to the arrest or as justified by any other exigency."
+Id. at 15, 97 S.Ct. 2476 .
+Finally, there is the Supreme Court's recent decision in Arizona v. Gant , 556 U.S. 332 , 129 S.Ct. 1710 , 173 L.Ed.2d 485 (2009).
+Gant involved the search of an arrestee's vehicle , which is governed by a distinct set of rules, see id. at 343, 129 S.Ct. 1710 , but the Court began with a general summary of the search-incident-to-arrest doctrine.
+Once again, the Court reiterated the twin rationales underlying [**5] the exception, first articulated in Chimel : "protecting arresting officers and safeguarding any evidence of the offense of arrest that an arrestee might conceal or destroy."
+Id. at 339, 129 S.Ct. 1710 (citing Chimel , 395 U.S. at 763 , 89 S.Ct. 2034 ).
+Relying on those safety and evidentiary justifications, the Court found that a search of a vehicle incident to arrest is lawful "when the arrestee is unsecured and within reaching distance of the passenger compartment at the time of the search."
+Id. at 343, 129 S.Ct. 1710 .
+[fn2] Courts have struggled to apply the Supreme Court's search-incident-to-arrest jurisprudence to the search of data on a cell phone seized from the person.
+The searches at issue in the cases that have arisen thus far have involved everything from simply obtaining a cell phone's number, United States v. Flores-Lopez , 670 F.3d 803 , 804 (7th Cir.2012), to looking through an arrestee's call records, United States v. Finley , 477 F.3d 250 , 254 (5th Cir.2007), text messages, id. , or photographs, United States v. Quintana , 594 F.Supp.2d 1291 , 1295-96 (M.D.F1.2009).
+Though a majority of these courts have ultimately upheld warrantless cell phone data searches, they have used a variety of approaches.
+Some have concluded that, under Robinson and Edivards , a cell phone can be freely searched incident to a defendant's lawful arrest, with no justification beyond the fact of the arrest itself.
+E.g., People v. Diaz , 51 Cal.4th 84 , 119 Cal. Rptr.3d 105 , 244 P.3d 501 (2011).
+Others have, to varying degrees, relied on the need to preserve evidence on a cell phone.
+E.g., United States v. Murphy , 552 F.3d 405 , 411 (4th Cir.2009); Finley , 477 F.3d at 260 ; Commonwealth v. Phifer , 463 Mass. 790 , 979 N.E.2d 210 , 213-16 (2012).
+The Seventh Circuit discussed the Chimel rationales more explicitly in Flores-Lopez , assuming that warrantless cell phone searches must be justified by a need to protect arresting officers or preserve destructible evidence, 670 F.3d at 806-07 , and finding that evidence preservation concerns outweighed the invasion of privacy at issue in that case, because the search was minimally invasive, id. , at 809.
+A smaller number of courts have rejected warrantless cell phone searches, with similarly disparate reasoning.
+In United States v. Park , No. CR 05-375 SI, 2007 WL 1521573 (N.D.Cal.
+May 23, 2007), for example, the court concluded that a cell phone should be viewed not as an item immediately associated with the person under Robinson and Edwards but as a possession within an arrestee's immediate control under Chadwick , which cannot be searched once the phone comes into the exclusive control of the police, absent exigent circumstances, id. at *8.
+In State v. Smith , 124 Ohio St.3d 163 , 920 N.E.2d 949 (2009), the Ohio Supreme Court distinguished cell phones from other "closed containers" that have been found searchable incident to an arrest and concluded that, because an individual has a high expectation of privacy in the contents of her cell phone, any search thereof must be conducted pursuant to a warrant, id. at 955.
+And most recently, in Smallwood v. State , 113 So.3d 724 , 2013 WL 1830961 (Fla. May 2, 2013), the Florida Supreme Court held that the police cannot routinely search the data within an arrestee's cell phone without a warrant, id. at *10.
+The court read Gant as prohibiting a search once an arrestee's cell phone has been removed from his person, which forecloses the ability to use the phone [**6] as a weapon or to destroy evidence contained therein.
+Id. B. Our vantage point We begin from the premise that, in the Fourth Amendment context, "[a] single, familiar standard is essential to guide police officers, who have only limited time and expertise to reflect on and balance the social and individual interests involved in the specific circumstances they confront."
+Dunaway v. New York , 442 U.S. 200 , 213-14 , 99 S.Ct. 2248 , 60 L.Ed.2d 824 (1979).
+The Supreme Court has therefore rejected "inherently subjective and highly fact specific" rules that require "ad hoc determinations on the part of officers in the field and reviewing courts" in favor of clear ones that will be "readily understood by police officers."
+Thornton v. United States , 541 U.S. 615 , 623 , 124 S.Ct. 2127 , 158 L.Ed.2d 905 (2004); see also New York v. Belton , 453 U.S. 454 , 458 , 101 S.Ct. 2860 , 69 L.Ed.2d 768 (1981) ("A highly sophisticated set of rules, qualified by all sorts of ifs, ands, and buts and requiring the drawing of subtle nuances and hairline distinctions, may be the sort of heady stuff upon which the facile minds of lawyers and judges eagerly feed, but they may be literally impossible of application by the officer in the field."
+(citation and internal quotation marks omitted)).
+As a result, when it upheld the warrantless search of the cigarette pack in Robinson , "the Court hewed to a straightforward rule, easily applied, and predictably enforced."
+Belton , 453 U.S. at 459 , 101 S.Ct. 2860 .
+Thus, we find it necessary to craft a bright-line rule that applies to all warrantless cell phone searches, rather than resolving this case based solely on the particular circumstances of the search at issue.
+[fn3] The government seems to agree, urging us to find that a cell phone, like any other item carried on the person, can be thoroughly searched incident to a lawful arrest.
+[fn4] The government's reasoning goes roughly as follows: (1) Wurie's cell phone was an item immediately associated with his person, because he was carrying it on him at the time of his arrest (or at least he does not argue otherwise); (2) such items can be freely searched without any justification beyond the fact of the lawful arrest, see Robinson , 414 U.S. at 235 , 94 S.Ct. 467 ; (3) the search can occur even after the defendant has been taken into custody and transported to the station house, see Edwards , 415 U.S. at 803 , 94 S.Ct. 1234 ; [fn5] and (4) there is no limit on the scope of the search, other than the Fourth Amendment's core reasonableness requirement, see id. at 808 n. 9, 94 S.Ct. 1234 .
+[fn6] This "literal reading of the Robinson decision," Flores-Lopez , 670 F.3d at 805 , fails to account for the fact that the Supreme Court has determined that there are categories of searches undertaken following an arrest that are inherently unreasonable because they are never justified by one of the Chimel rationales: protecting arresting officers or preserving destructible evidence.
+E.g., Gant , 556 U.S. 332 , 129 S.Ct. 1710 ; Chadwick , 433 U.S. 1 , 97 S.Ct. 2476 .
+As we explain'below, this case therefore turns on whether the government can demonstrate that warrantless cell phone searches, as a category, fall within the boundaries laid out in Chimel.
+The government admitted at oral argument that its interpretation of the search-incident-to-arrest exception would give law enforcement broad latitude to search any electronic device seized from a person during his lawful arrest, including a laptop [**7] computer or a tablet device such as an iPad.
+The search could encompass things like text messages, e.g., Finley , 477 F.3d at 254 , emails, e.g., People v. Nottoli , 199 Cal.App.4th 531 , 130 Cal.Rptr.3d 884 , 894 (2011), or photographs, e.g., Quintana , 594 F.Supp.2d at 1295-96 , though the officers here only searched Wurie's call log.
+Robinson and Edwards , the government claims, compel such a finding.
+We suspect that the eighty-five percent of Americans who own cell phones and "use the devices to do much more than make phone calls," Maeve Duggan & Lee Ramie, Cell Phone Activities 2012 , Pew Internet & American Life Project, 2 (Nov. 25, 2012), http://pewinternet.Org/~/media//Files/Reports/2012/PIP CellActivities ll.
+25.pdf, would have some difficulty with the government's view that "Wurie's cell phone was indistinguishable from other kinds of personal possessions, like a cigarette package, wallet, pager, or address book, that fall within the search incident to arrest exception to the Fourth Amendment's warrant requirement."
+[fn7] In reality, "a modern cell phone is a computer," and "a computer .
+.
+.
+is not just another purse or address book."
+Flores-Lopez , 670 F.3d at 805 .
+The storage capacity of today's cell phones is immense.
+Apple's iPhone 5 comes with up to sixty-four gigabytes of storage, see Apple, iPhone, Tech Specs, http://www.apple.com/iphone/specs.html (last visited May 16, 2013), which is enough to hold about "four million pages of Micro-soft Word documents," Charles E. Mac-Lean, But, Your Honor, a Cell Phone is Not a Cigarette Pack: An Immodest Call for a Return to the Chimel Justifications for Cell Phone Memory Searches Incident to Lawful Arrest , 6 Fed. Cts.
+L. Rev. 37, 42 (2012).
+[fn8] That information is, by and large, of a highly personal nature: photographs, videos, written and audio messages (text, email, and voicemail), contacts, calendar appointments, web search and browsing history, purchases, and financial and medical records.
+See United States v. Cotterman , 709 F.3d 952 , 957 (9th Cir.2013) (en banc) ("The papers we create and maintain not only in physical but also in digital form reflect our most private thoughts and activities.").
+[fn9] It is the kind of information one would previously have stored in one's home and that would have been off-limits to officers performing a search incident to arrest.
+See Chimel , 395 U.S. 752 , 89 S.Ct. 2034 .
+Indeed, modern cell phones provide direct access to the home in a more literal way as well; iPhones can now connect their owners directly to a home computer's webcam, via an application called iCam, so that users can monitor the inside of their homes remotely.
+Flores-Lopez , 670 F.3d at 806 .
+"At the touch of a button a cell phone search becomes a house search, and that is not a search of a 'container' in any normal sense of that word, though a house contains data."
+Id. In short, individuals today store much more personal information on their cell phones than could ever fit in a wallet, address book, briefcase, or any of the other traditional containers that the government has invoked.
+See id. at 805 (rejecting the idea that a cell phone can be compared to other items carried on the person, because today's cell phones are "quite likely to contain, or provide ready access to, a vast body of personal data").
+[fn10] Just as customs officers in the early colonies could use writs [**8] of assistance to rummage through homes and warehouses, without any showing of probable cause linked to a particular place or item sought, the government's proposed rule would give law enforcement automatic access to "a virtual warehouse" of an individual's "most intimate communications and photographs without probable cause" if the individual is subject to a custodial arrest, even for something as minor as a traffic violation.
+Matthew E. Orso, Cellular Phones, Warrantless Searches, and the New Frontier of Fourth Amendment Jurisprudence , 50 Santa Clara L. Rev. 183, 211 (2010).
+We are reminded of James Otis's concerns about "plac[ing] the liberty of every man in the hands of every petty officer."
+Michael, supra , at 908 (citation and internal quotation marks omitted).
+It is true that Robinson speaks broadly, and that the Supreme Court has never found the constitutionality of a search of the person incident to arrest to turn on the kind of item seized or its capacity to store private information.
+In our view, however, what distinguishes a warrantless search of the data within a modern cell phone from the inspection of an arrestee's cigarette pack or the examination of his clothing is not just the nature of the item searched, but the nature and scope of the search itself.
+In Gant , the Court emphasized the need for "the scope of a search incident to arrest" to be "commensurate with its purposes," which include "protecting arresting officers and safeguarding any evidence of the offense of arrest that an arrestee might conceal or destroy."
+556 U.S. at 339 , 129 S.Ct. 1710 ; see also Chimel , 395 U.S. at 762-63 , 89 S.Ct. 2034 ("When an arrest is made, it is reasonable for the arresting officer to search the person arrested in order to remove any weapons that the latter might seek to use .
+.
+.
+[and] to search for and seize any evidence on the arrestee's person in order to prevent its concealment or destruction.").
+Inspecting the contents of a cigarette pack can (and, in Robinson , did) preserve destructible evidence (heroin capsules).
+It is also at least theoretically necessary to protect the arresting officer, who does not know what he will find inside the cigarette pack.
+Examining the clothing an arrestee is wearing can (and, in Edwards , did) preserve destructible evidence (paint chips).
+Thus, the searches at issue in Robinson and Edivards were the kinds of reasonable, self-limiting searches that do not offend the Fourth Amendment, even when conducted without a warrant.
+The same can be said of searches of wallets, address books, purses, and briefcases, which are all potential repositories for destructible evidence and, in some eases, weapons.
+When faced, however, with categories of searches that cannot ever be justified under Chimel , the Supreme Court has taken a different approach.
+In Chadwick , the Court struck down warrantless searches of "luggage or other personal property not immediately associated with the person of the arrestee" that the police have "reduced .
+.
+.
+to their exclusive control," because such searches are not necessary to preserve destructible evidence or protect officer safety. 433 U.S. at 15 , 97 S.Ct. 2476 .
+Similarly, in Gant , the Court concluded that [**9] searching the passenger compartment of a vehicle once the arrestee has been secured and confined to a police car neither preserves destructible evidence nor protects officer safety. 556 U.S. at 335 , 129 S.Ct. 1710 ; see also id. at 339, 129 S.Ct. 1710 ("If there is no possibility that an arrestee could reach into the area that law enforcement officers seek to search, both justifications for the search-incident-to-arrest exception are absent and the rule does not apply.").
+The searches at issue in Chadwick and Gant were general, evidence-gathering searches, not easily subject to any limiting principle, and the Fourth Amendment permits such searches only pursuant to a lawful warrant.
+See Thornton , 541 U.S. at 632 , 124 S.Ct. 2127 (Scalia, J., concurring) ("When officer safety or imminent evidence concealment or destruction is at issue, officers should not have to make fine judgments in the heat of the moment.
+But in the context of a general evidence-gathering search, the state interests that might justify any over-breadth are far less compelling.").
+We therefore find it necessary to ask whether the warrantless search of data within a cell phone can ever be justified under Chimel.
+See Flores-Lopez , 670 F.3d at 806-10 (considering whether either of the Chimel rationales applies to cell phone data searches); cf. United States v. Ortiz , 84 F.3d 977 , 984 (7th Cir.1996) (upholding the warrantless search of a pager incident to arrest because of the risk of destruction of evidence).
+The government has provided little guidance on that question.
+Instead, it has hewed to a formalistic interpretation of the case law, forgetting that the search-incident-to-arrest doctrine does not describe an independent right held by law enforcement officers, but rather a class of searches that are only reasonable in the Fourth Amendment sense because they are potentially necessary to preserve destructible evidence or protect police officers.
+Indeed, the government has included just one, notably tentative footnote in its brief attempting to place warrantless cell phone data searches within the Chimel boundaries.
+We find ourselves unconvinced.
+The government does not argue that cell phone data searches are justified by a need to protect arresting officers.
+Wurie concedes that arresting officers can inspect a cell phone to ensure that it is not actually a weapon, see Flores-Lopez , 670 F.3d at 806 ("One can buy a stun gun that looks like a cell phone.
+"), but we have no reason to believe that officer safety would require a further intrusion into the phone's contents.
+As we mentioned earlier, the officer who conducted the search in Robinson had no idea what he might find in the cigarette pack, which therefore posed a safety risk.
+The officers who searched Wurie's phone, on the other hand, knew exactly what they would find therein: data.
+They also knew that the data could not harm them.
+The government has, however, suggested that the search here was "arguably" necessary to prevent the destruction of evidence.
+Specifically, the government points to the possibility that the calls on Wurie's call log could have been overwritten or the contents of his phone remotely wiped if the officers had waited to obtain [**10] a warrant.
+[fn11] The problem with the government's argument is that it does not seem to be particularly difficult to prevent over-writing of calls or remote wiping of information on a cell phone today.
+Arresting officers have at least three options.
+First, in some instances, they can simply turn the phone off or remove its battery.
+See Flores-Lopez , 670 F.3d at 808 ; Diaz , 119 Cal.Rptr.3d 105 , 244 P.3d at 515 n. 24 (Werdegar, J., dissenting).
+Second, they can put the phone in a Faraday enclosure, a relatively inexpensive device "formed by conducting material that shields the interior from external electromagnetic radiation."
+MacLean, supra , at 50 (citation and internal quotation marks omitted); see also Flores-Lopez , 670 F.3d at 809 .
+Third, they may be able "to 'mirror' (copy) the entire cell phone contents, to preserve them should the phone be remotely wiped, without looking at the copy unless the original disappears."
+Flores-Lopez , 670 F.3d at 809 .
+Indeed, if there is a genuine threat of remote wiping or overwriting, we find it difficult to understand why the police do not routinely use these evidence preservation methods, rather than risking the loss of the evidence during the time it takes them to search through the phone.
+Perhaps the answer is in the government's acknowledgment that the possibility of remote wiping here was "remote" indeed.
+Weighed against the significant privacy implications inherent in cell phone data searches, we view such a slight and truly theoretical risk of evidence destruction as insufficient.
+While the measures described above may be less convenient for arresting officers than conducting a full search of a cell phone's data incident to arrest, the government has not suggested that they are unworkable, and it bears the burden of justifying its failure to obtain a warrant.
+See United States v. Jeffers , 342 U.S. 48 , 51 , 72 S.Ct. 93 , 96 L.Ed. 59 (1951).
+"[T]he mere fact that law enforcement may be made more efficient can never by itself justify disregard of the Fourth Amendment."
+Mincey v. Arizona , 437 U.S. 385 , 393 , 98 S.Ct. 2408 , 57 L.Ed.2d 290 (1978).
+Instead of truly attempting to fit this case within the Chimel framework, the government insists that we should disregard the Chimel rationales entirely, for two reasons.
+First, the government emphasizes that Robinson rejected the idea that "there must be litigated in each case the issue of whether or not there was present one of the reasons supporting the authority for a search of the person incident to a lawful arrest."
+414 U.S. at 235 , 94 S.Ct. 467 .
+That holding was predicated on an assumption, clarified in Chadmck , that "[t]he potential dangers lurking in all custodial arrests" are what "make warrantless searches of items within the 'immediate control' area reasonable without requiring the arresting officer to calculate the probability that weapons or destructible evidence may be involved."
+433 U.S. at 14-15 , 97 S.Ct. 2476 .
+For the reasons we just discussed, that assumption appears to be incorrect in the case of cell phone data searches.
+More importantly, however, we are not suggesting a rule that would require arresting officers or reviewing courts to decide, on a case-by-case basis, whether a particular cell phone data search is justified under Chimel.
+Rather, we believe that warrantless cell phone [**11] data searches are categorically unlawful under the search-incident-to-arrest exception, given the government's failure to demonstrate that they are ever necessary to promote officer safety or prevent the destruction of evidence.
+We read Robinson as compatible with such a finding.
+Second, the government places great weight on a footnote at the end of Chad-wick stating that searches of the person, unlike "searches of possessions within an arrestee's immediate control," are "justified by .
+.
+.
+reduced expectations of privacy caused by the arrest."
+433 U.S. at 16 n. 10, 97 S.Ct. 2476 .
+The government reads that footnote as establishing an unlimited principle that searches of items carried on the person require no justification whatso-ever beyond a lawful arrest, making Chimel irrelevant in this context.
+The Chadwick footnote is surely meant to reference similar language in Robinson explaining that, because the "custodial arrest of a suspect based on probable cause is a reasonable intrusion under the Fourth Amendment[,] .
+.
+.
+a search incident to the arrest requires no additional justification."
+414 U.S. at 235 , 94 S.Ct. 467 .
+Yet the Court clearly stated in Robinson that "[t]he authority to search the person incident to a lawful custodial arrest" is "based upon the need to disarm and to discover evidence," id. , and Chadwick did not alter that rule.
+When the Court decided Robinson in 1973 and Chadwick in 1977, any search of the person would almost certainly have been the type of self-limiting search that could be justified under Chimel.
+The Court, more than thirty-five years ago, could not have envisioned a world in which the vast majority of arrestees would be carrying on their person an item containing not physical evidence but a vast store of intangible data — data that is not immediately destructible and poses no threat to the arresting officers.
+In the end, we therefore part ways with the Seventh Circuit, which also applied the Chimel rationales in Flores-Lopez.
+Though the court described the risk of evidence destruction as arguably "so slight as to be outweighed by the invasion of privacy from the search," it found that risk to be sufficient, given the minimal nature of the intrusion at issue (the officers had only searched the cell phone for its number).
+Flores-Lopez , 670 F.3d at 809 .
+That conclusion was based, at least in part, on Seventh Circuit precedent allowing a "minimally invasive" warrantless search.
+Id. at 807 (citing United States v. Concepcion , 942 F.2d 1170 (7th Cir.1991)).
+We are faced with different precedent and different facts, but we also see little room for a case-specific holding, given the Supreme Court's insistence on bright-line rules in the Fourth Amendment context.
+See, e.g., Thornton , 541 U.S. at 623 , 124 S.Ct. 2127 .
+A series of opinions allowing some cell phone data searches but not others, based on the nature and reasonableness of the intrusion, would create exactly the "inherently subjective and highly fact specific" set of rules that the Court has warned against and would be extremely difficult for officers in the field to apply.
+Id.
+Thus, while the search of Wurie's call log was less invasive than a search of text messages, emails, or photographs, [**12] it is necessary for all warrantless cell phone data searches to be governed by the same rule.
+A rule based on particular instances in which the police do not take full advantage of the unlimited potential presented by cell phone data searches would prove impotent in those cases in which they choose to exploit that potential.
+We therefore hold that the search-incident-to-arrest exception does not authorize the warrantless search of data on a cell phone seized from an arrestee's person, because the government has not convinced us that such a search is ever necessary to protect arresting officers or preserve destructible evidence.
+See Chimel , 395 U.S. at 763 , 89 S.Ct. 2034 .
+Instead, warrantless cell phone data searches strike us as a convenient way for the police to obtain information related to a defendant's crime of arrest — or other, as yet undiscovered crimes — without having to secure a warrant.
+We find nothing in the Supreme Court's search-incident-to-arrest jurisprudence that sanctions such a "general evidence-gathering search."
+Thornton , 541 U.S. at 632 , 124 S.Ct. 2127 (Scalia, J., concurring).
+[fn12] There are, however, other exceptions to the warrant requirement that the government has not invoked here but that might justify a warrantless search of cell phone data under the right conditions.
+Most importantly, we assume that the exigent circumstances exception would allow the police to conduct an immediate, warrantless search of a cell phone's data where they have probable cause to believe that the phone contains evidence of a crime, as well as a compelling need to act quickly that makes it impracticable for them to obtain a warrant — for example, where the phone is believed to contain evidence necessary to locate a kidnapped child or to investigate a bombing plot or incident.
+See United States v. Tibolt , 72 F.3d 965 , 969 (1st Cir.1995) (discussing the exigent circumstances exception).
+C. The good-faith exception That leaves only the government's belated argument, made for the first time in a footnote in its brief on appeal, that suppression is inappropriate here under the good-faith exception to the exclusionary rule.
+See United States v. Leon , 468 U.S. 897 , 104 S.Ct. 3405 , 82 L.Ed.2d 677 (1984).
+The government bears the "heavy burden" of proving that the good-faith exception applies, United States v. Syphers , 426 F.3d 461 , 468 (1st Cir.2005), and it did not invoke the exception before the district court.
+This is not a case in which an intervening change in the law made the good-faith exception relevant only after the district court issued its opinion.
+E.g., Davis v. United States , U.S. , 131 S.Ct. 2419 , 2425-26 , 180 L.Ed.2d 285 (2011); United States v. Sparks , 711 F.3d 58 , 61-62 (1st Cir.2013); United States v. Lopez , 453 Fed.Appx.
+602 , 605 (6th Cir.2011); see also United States v. Curtis , 635 F.3d 704 , 713-14 (5th Cir.2011) (applying the good-faith exception "to a search that was legal at the time it was conducted but has been rendered illegal by an intervening change in the law"); United States v. McCane , 573 F.3d 1037 , 1044 (10th Cir.2009) (finding that "a police officer who undertakes a search in reasonable reliance upon the settled case law of a United States Court of Appeals, even though the search is later deemed invalid by Supreme Court decision, has not engaged in misconduct").
+The government emphasizes that we may [**13] affirm the district court's suppression ruling on any ground made manifest by the record.
+United States v. Doe , 61 F.3d 107 , 111-12 (1st Cir.1995).
+In this case, however, we do not believe that ground should be one with respect to which the government bore the burden of proof and entirely failed to carry that burden below, despite the fact that the issue was ripe for the district court's review.
+[fn13] III.
+Conclusion Since the time of its framing, "the central concern underlying the Fourth Amendment" has been ensuring that law enforcement officials do not have "unbridled discretion to rummage at will among a person's private effects."
+Gant , 556 U.S. at 345 , 129 S.Ct. 1710 ; see also Chimel , 395 U.S. at 767-68 , 89 S.Ct. 2034 .
+Today, many Americans store their most personal "papers" and "effects," U.S. Const.
+amend.
+IV , in electronic format on a cell phone, carried on the person.
+Allowing the police to search that data without a warrant any time they conduct a lawful arrest would, in our view, create "a serious and recurring threat to the privacy of countless individuals."
+Gant , 556 U.S. at 345 , 129 S.Ct. 1710 ; cf. United States v. Jones , U.S. , 132 S.Ct. 945 , 950 , 181 L.Ed.2d 911 (2012) ("At bottom, we must 'assur[e] preservation of that degree of privacy against government that existed when the Fourth Amendment was adopted.'"
+(quoting Kyllo v. United States , 533 U.S. 27 , 34 , 121 S.Ct. 2038 , 150 L.Ed.2d 94 (2001))).
+We therefore reverse the denial of Wurie's motion to suppress, vacate his conviction, and remand for further proceedings consistent with this opinion.
