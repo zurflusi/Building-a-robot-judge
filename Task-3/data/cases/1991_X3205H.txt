@@ -1,0 +1,198 @@
+ OPINION OF THE COURT BECKER , Circuit Judge.
+This appeal by the United States from an adverse judgment of the district court in a tax refund case raises important questions concerning a taxpayer's ability to depreciate acquired intangible assets.
+Taxpayer/appellee Newark Morning Ledger Co. ("Morning Ledger") acquired a corporation, which itself had previously acquired the assets of eight Michigan newspapers by means of an I.R.C.
+332, 334(b)(2) liquidation, and which had attempted to depreciate some $67 million of the purchase price as allocated to a category denominated "paid subscribers."
+This amount reflected an estimate by financial and statistical experts of the present value of the future profits to be derived from the 460,000 at-will subscribers acquired in the liquidation.
+The Internal Revenue Service ("the Service") disallowed the depreciation deductions on the ground that Morning Ledger's predecessor could not, by sophisticated and accurate expert analysis, convert into a depreciable asset what was quintessentially goodwill--i.e., the value of the expectation of continued patronage.
+The tax was paid, the refund suit ensued, and, after a bench trial, the district court entered judgment for Morning Ledger.
+For the reasons that follow, we will reverse.
+I. FACTS AND PROCEDURAL HISTORY Over a period of several months in 1976, the Herald Company ("Herald") purchased, through private sales and a public tender offer, all the outstanding stock of Booth Newspapers, Inc. ("Booth"), a Michigan corporation which published daily and Sunday newspapers in eight Michigan communities with a total at-will subscription of approximately 460,000.
+1 In 1977, Herald liquidated the Booth stock, received all the latter's assets, and continued publishing the eight newspapers under the same names.
+In 1987, Herald was merged into appellee Morning Ledger, a New Jersey corporation, effectively making the operations of Herald and Booth unincorporated divisions of Morning Ledger.
+Herald's 1977 liquidation of the stock of Booth was carried out pursuant to sections 332 and 334(b)(2) of the Internal Revenue Code.
+These sections required Herald's $328,173,154 adjusted tax basis in Booth's stock to be allocated among the various depreciable and non-depreciable assets of Booth distributed to Herald in the liquidation in accordance with the respective fair market values of the assets.
+Herald allocated $234,063,002 of this amount to various financial assets (cash, securities, including the stock of Parade , and accounts and notes receivable); and to tangible assets (land, improvements to land, buildings, production and office equipment, furniture, fixtures, vehicles, computer hardware and software).
+Herald allocated the remaining $94,110,152 to three intangible assets--$26,337,152 to goodwill and going-concern value combined, and $67,773,000 to a category Herald denominated as "paid subscribers."
+The amount earmarked as paid subscribers represented Morning Ledger's estimate of the future profits to be derived from the 460,000 at-will subscribers acquired from Booth, all or most of whom were expected to continue to subscribe to the various newspapers after the change in control.
+Beginning with its 1977 tax return, Herald claimed depreciation deductions for various assets acquired in the liquidation of Booth.
+Consistent with applicable regulations, discussed infra , Herald did not attempt to claim depreciation deductions for goodwill or going concern value.
+On its 1977 through 1980 returns, however, Herald claimed as depreciation deductions a portion of the $67,773,000 amount allocated to paid subscribers.
+The Service disallowed these deductions on the ground that the amount allocated to paid subscribers should have been included in the amount allocated to non-depreciable goodwill.
+The Service therefore determined that Herald owed additional taxes and interest for each of the applicable years, which Herald paid in full.
+Morning Ledger, as successor to Herald, filed a timely claim for refund with the Service in 1988.
+After the Service failed to act upon the claim within the six month period prescribed by I. R.C.
+6532(a) , Morning Ledger filed the instant action, in the district court for the District of New Jersey, to recover federal income taxes and interest erroneously assessed and collected.
+The district court conducted a bench trial at which Morning Ledger argued that, under the relevant regulations and case law, discussed infra , in order to depreciate the paid subscribers as an intangible asset, it need only prove that the 460,000 at-will subscriber relationships acquired from Booth: (1) had limited useful lives that could be estimated with reasonable accuracy; and (2) also had ascertainable values separate and distinct from goodwill.
+Under Morning Ledger's interpretation of these requirements, depreciation deductions were available provided it could satisfy the essentially statistical and factual burden of demonstrating that the subscriber relationships had limited useful lives and that they had ascertainable values.
+To this end, Morning Ledger presented the testimony of financial and statistical experts who explained that, based on historical and demographic data, and taking due consideration of actuarial factors such as death, relocation, changing life-styles and tastes, and competition from other media sources, they had arrived at reasonable estimates of how long the average at-will subscriber existing in 1977 would continue to subscribe to the various newspapers.
+These estimates ranged from a low of 14.7 years for subscribers to the Ann Arbor News to a high of 23.4 years for subscribers to the Bay City Times .
+These experts further testified that, from among the market, cost, and income approaches to valuing the existing subscriber relationships in 1977, the income approach provided the only appropriate methodology.
+Employing this approach, the experts testified that they first calculated the present value of the gross revenue stream that would be generated by these subscribers over their estimated useful lives.
+From this amount, they subtracted the projected costs of collecting that subscription revenue.
+The experts opined that the resultant net revenue stream, estimated by one expert as $67,773,000 and by another as $60,470,000, represented a reasonable estimate of the value of the intangible asset designated as paid subscribers.
+For the most part, the Service did not contest Morning Ledger's expert evidence.
+Indeed, the Service stipulated to Morning Ledger's estimates of the useful lives of the subscription relationships.
+It did contest Morning Ledger's reliance on the income method of valuation, arguing that, assuming that the asset was depreciable at all, the cost method was the only appropriate method, and that the cost of generating 460,000 subscribers through a subscription drive was on the order of only $3 million.
+The Service refused, however, despite the district court's entreaties, to present expert evidence to refute Morning Ledger's estimates of the value of the subscriber relationships under the income method.
+2 The crux of the Service's case, rather, was that Morning Ledger had misinterpreted the applicable law and that all its sophisticated financial and statistical evidence was therefore irrelevant to the fundamental legal hurdle which it could not overcome.
+That hurdle, in the Service's submission, is that governing law requires a taxpayer to do more than demonstrate a reasonable estimate of useful life and an ascertainable value in order to depreciate a purchased intangible asset; in addition, the taxpayer is required to demonstrate that the asset is not goodwill .
+In the Service's view, the future stream of revenues expected to be generated by the existing 460,000 at-will subscribers is the very essence of the goodwill value of the newspapers and, as such, is not depreciable.
+The district court rejected the Service's argument, holding, in effect, that any asset for which a useful life could be demonstrated and a value ascertained was, by definition, not goodwill.
+Having reached this conclusion, and having no expert evidence before it but that of Morning Ledger, the court held that Morning Ledger was entitled to depreciate the paid subscribers account over its estimated useful lifetime based on a total value of $67,773,000, which amount the court allocated to the various daily and Sunday newspapers.
+The court ordered the parties to calculate, and the government to repay, all taxes erroneously paid by Morning Ledger and applicable interest thereon.
+The Service timely appealed from the final judgment of the district court.
+We thus have jurisdiction pursuant to 28 U.S.C. 1291 .
+Determining whether a taxpayer has satisfied the requirements for depreciating an intangible asset is generally a factual question.
+See Manhattan Co. of Virginia, Inc. v. Commissioner , 50 T.C. 78, 92-93 (1968).
+Hence, we review the district court's factual findings for clear error.
+Of course, to the extent that the district court misinterpreted or misconstrued the governing law, our review is plenary.
+II.
+DISCUSSION A. The Regulations, The Nature of Goodwill, and the Contentions of the Parties I. R.C.
+167(a) allows as a depreciation deduction a reasonable allowance for exhaustion, wear and tear, and obsolescence of property, both tangible and intangible , used in a trade or business.
+Treasury Regulation 1.167(a)-3 elaborates on the depreciation of intangibles as follows: No deduction for depreciation is allowable with respect to goodwill 26 C.F.R. 1.167(a)-3 (emphasis added).
+Case law interpreting this regulation has held consistently that, in order to qualify for depreciation of an intangible asset, a taxpayer must establish that the intangible asset (1) has an ascertainable value separate and distinct from goodwill , and (2) has a limited useful life, the duration of which can be ascertained with reasonable accuracy.
+See, e.g. , Houston Chronicle Publishing Co. v. United States , 481 F.2d 1240, 1250 (5th Cir.1973), cert. denied , 414 U.S. 1129 , 94 S.Ct. 867 , 38 L.Ed.2d 754 (1974).
+3 As we have noted, the Service essentially concedes that Morning Ledger has demonstrated that the paid subscribers have an ascertainable value and limited useful lives, and that it has presented a reasonably accurate estimate of these useful lives.
+In Morning Ledger's view, detailed infra , this concession should end the case. The Service argues, however, that Morning Ledger has ignored, and convinced the district court to ignore, the additional requirement that the value of the paid subscribers be shown to be " separate and distinct from goodwill ," consistent with the explicit statement in the regulations that " [n]o deduction for depreciation is allowable with respect to goodwill ."
+This prohibition against depreciating goodwill, the Service notes, is nearly as old as the income tax itself, its origin being traceable to a 1927 amendment to the predecessor regulation of 1.167(a) -3.
+4 The Service further argues that, once we recognize that the district court ignored this requirement, the error of permitting Morning Ledger to depreciate the net income stream to be generated by the 460,000 at-will subscribers becomes evident.
+Morning Ledger cannot demonstrate that this income stream is separate and distinct from goodwill, the Service contends, because, in fact, it is the essence of goodwill.
+Although goodwill is not defined in the regulations, 5 it has been repeatedly characterized in the case law as "the expectancy that old customers will resort to the old place," Commissioner v. Killian , 314 F.2d 852, 855 (5th Cir.1963), and as "the expectancy of continued patronage, for whatever reason," Boe v. Commissioner , 307 F.2d 339, 343 (9th Cir.1962).
+Because the projected stream of income to be generated by the 460,000 at-will subscribers is simply a quantification of Morning Ledger's expectation that these subscribers will continue their patronage, the Service submits that the amount is a portion of the total non-depreciable goodwill purchased from Booth.
+We note in this regard, and the Service does not dispute, that the value of the paid subscribers would not constitute goodwill if Morning Ledger's "expectation of continued patronage" were contractually-based.
+See Commissioner v. Seaboard Finance Co. , 367 F.2d 646, 649 (9th Cir.1966) ("[G]oodwill [is] 'the probability that old customers will resort to the old place' without contractual compulsion.")
+(citation omitted).
+Thus, if the subscribers were contractually obligated to continue subscribing for some period of time, Morning Ledger clearly would be permitted to depreciate the value of those contracts over that time period.
+In such an event, continued patronage would not be a mere "expectation," but a contractual right, and hence not goodwill.
+In the case at bar, however, all the subscribers are terminable-at-will .
+At the time of the acquisition of Booth, therefore, Herald merely expected continued patronage; it had no contractual right to demand it.
+Morning Ledger responds that it has not ignored the requirement that the paid subscribers be shown to have a value "separate and distinct from goodwill."
+Rather, Morning Ledger contends, the Service has invoked the wrong definition of "goodwill" and thus has misconstrued the requirements of 1.167(a) -3.
+Morning Ledger argues that, properly defined, goodwill is no more than the residual value that remains after all assets with determinable useful lives and ascertainable values have been accounted for.
+Thus, by converse reasoning, anything possessing a determinable useful life and an ascertainable value is not goodwill.
+6 Under Morning Ledger's definition of goodwill, in other words, the requirement that an intangible asset be shown to have a value "separate and distinct from goodwill" adds nothing to the undisputedly satisfied requirement that the taxpayer demonstrate that the asset has a limited useful life and provide a reasonably accurate estimate of that life.
+Although the district court apparently sought to reconcile the competing definitions of goodwill, it is clear from the following passage that ultimately the court accepted the definition advanced by Morning Ledger over that pressed by the Service: Newark Morning Ledger Co. v. United States , 734 F.Supp.
+176, 176-77 (D.N.J.1990).
+B. The Newspaper Subscriber List Cases In furtherance of their respective arguments, the parties call our attention principally to two cases that have considered the depreciability of acquired subscriber lists in the context of a newspaper acquisition.
+Because these two cases present a useful vehicle for framing the instant dispute, we will consider each in some detail.
+The Service places substantial emphasis on the Fifth Circuit's decision in Houston Chronicle Publishing Co. v. United States , 481 F.2d 1240 (5th Cir.1973), cert. denied , 414 U.S. 1129 , 94 S.Ct. 867 , 38 L.Ed.2d 754 (1974), as an example of the correct application of 1.167(a) -3 to determine the tax consequences of an acquisition such as the one before us.
+That case arose from a transaction in which the plaintiff, the publisher of the Houston Chronicle , paid $4.5 million for various assets, including a list of 89,000 subscribers, of its former competitor, the Houston Press , upon cessation of the latter's activities as a going concern.
+After the purchase, the Chronicle estimated that it would be able to use the list to contact and solicit new subscriptions from 35,600 former Press subscribers.
+Estimating further that previously it had spent roughly $2 to identify and solicit each new subscriber, the Chronicle assigned a value to the list of $71,200 and claimed depreciation deductions against this amount under 167(a) .
+The Service disallowed the deduction on the ground that the customer list was non-depreciable under the so-called "mass asset rule," a now outdated, but then prevalent, doctrine which requires brief explanation.
+Until 1973, the Service successfully had persuaded the courts that documentary evidence of customer structure, such as a customer list, was generally sufficiently intertwined with goodwill, if not goodwill itself, so as to render depreciation inappropriate as a rule-of-thumb.
+There emerged, in support of this result, the mass asset or indivisible asset doctrine, a sort of legal fiction that customer lists, and other documentary evidence of customer structure, are presumed like goodwill to be self-regenerating and per se nondepreciable.
+7 The Houston Chronicle filed a refund suit, contesting the Service's determination in federal district court.
+A jury trial was held, the Chronicle prevailed, and the Service appealed.
+The Fifth Circuit affirmed.
+Specifically, after reviewing many of the prior cases and reaffirming the definition of goodwill as "the expectancy that the old customers will resort to the old place," and "the expectancy of continued patronage, for whatever reason," see supra at 560 , the court concluded, essentially rejecting the mass asset rule, that the government was incorrect in asserting that the "subscription lists [were] non-amortizable as a matter of law."
+Id. at 1248 .
+In the passage that has become the standard for all subsequent related cases, the court went on to state: per se 167(a) 1.167(a) Id. at 1249-50 .
+It is clear from this passage, the Service contends, that the two-pronged test articulated by Houston Chronicle was intended to inter the notion that some intangible assets, although not necessarily goodwill, were nonetheless so intertwined with goodwill as to be nondepreciable as a matter of law in all cases--i.e., the mass asset rule.
+The Service adds, however, that there is no indication in Houston Chronicle that the court intended to hold that goodwill itself was depreciable or to replace what it had confirmed to be the traditional definition of goodwill with the residual definition such as is urged by Morning Ledger in the instant dispute.
+Rather, the Service contends, the court merely held that in those cases where a taxpayer could demonstrate, as a factual matter, that an intangible asset such as a subscriber list was "separate and distinct" from the legal concept of goodwill--i.e., the "expectancy that old customers will resort to the old place," it ought to be permitted to do so. As a factual matter, the Service adds, the circumstances supporting the finding that the taxpayer in Houston Chronicle had demonstrated that the subscriber list was "separate and distinct" from goodwill are clearly distinguishable from the instant dispute.
+The Houston Chronicle did not purchase an ongoing business or even a trade-name as did Morning Ledger, but rather the idle assets of the defunct Houston Press .
+Hence, there was no "expectancy that old customers would resort to the old place" because "the old place" no longer existed.
+The value of the customer list to the Houston Chronicle therefore lay solely in its potential use as a marketing tool to solicit new customers to a new business.
+As such, the asset was appropriately valued at the cost of generating a comparable list of potential subscribers, not, as Morning Ledger has attempted, as the entire net stream of income such subscribers would generate if obtained.
+In short, the Service argues that, unlike the present dispute, there was no goodwill transferred in the acquisition of the assets of the Houston Press and thus no risk that goodwill would be bound up and depreciated along with the subscriber list.
+In sum, contends the Service, Houston Chronicle presented the paradigmatic circumstances under which a taxpayer could demonstrate that a subscriber list is "separate and distinct from goodwill."
+The Service argues that the instant dispute, by contrast, presents a clear case wherein it is virtually impossible for the taxpayer to disentangle the potentially depreciable value of the list from the value of the nondepreciable goodwill transferred.
+In any event, on the record as it stands, and particularly in light of Morning Ledger's insistence on employing the income method of valuation, the Service argues that Morning Ledger clearly has not demonstrated that the $67,773,000 value it assigned to the list is "separate and distinct from goodwill."
+Morning Ledger advances as its strongest authority the Eighth Circuit's decision in Donrey, Inc. v. United States , 809 F.2d 534 (8th Cir.1987).
+Although a much smaller transaction in absolute dollar terms than the acquisition of Booth by Morning Ledger, the case is undeniably similar to the instant dispute in terms of the material aspects of the transaction.
+Specifically, in Donrey the taxpayer purchased a small Indiana newspaper with roughly 11,000 at-will subscribers for $1,335,804 and as a going concern.
+The taxpayer assigned $559,406 to the newspaper's customer list/customer structure and attempted to depreciate that amount over 23 years.
+Although the case is not explicit on this point, it is reasonable to assume, given the amount allocated to the customer list relative to the total purchase price, that this amount was calculated under the income, rather than cost method, of valuation.
+When the Service denied the depreciation deductions on the theory that the taxpayer was seeking to depreciate goodwill, the taxpayer sued for a refund in district court and demanded a jury trial.
+The case was submitted to the jury on special interrogatories tracking the standards of Houston Chronicle , and the taxpayer prevailed.
+A divided Eighth Circuit panel rejected the government's appeal.
+The Eighth Circuit majority's reasoning is somewhat cursory, and is largely premised on the substantial deference due the jury's determination that the taxpayer had proved a value separate and distinct from goodwill.
+Donrey , 809 F.2d at 536-37 .
+Morning Ledger argues convincingly, however, that the majority's reasoning implicitly adopted the residual definition of goodwill urged by Morning Ledger here.
+Indeed, this reading of the case is confirmed by Judge Bright's eloquent dissent, which takes the majority to task for ignoring the traditional definition of goodwill, and in so doing, for concluding wrongly that the taxpayer had demonstrated that the value of the customer structure was "separate and distinct from goodwill."
+Id. at 537-39 (Bright, J., dissenting).
+C. The Case Law in Overview It would appear that Houston Chronicle and Donrey are directly in conflict.
+Before charting our own course, it therefore behooves us to look beyond the cases involving newspaper subscriber lists to the plethora of other cases that have considered the depreciability of customer or subscriber lists in other industries.
+This exercise, we believe, clearly indicates that the case law division is greatly overstated by Morning Ledger.
+Viewed in the context of the case law as a whole, there is undeniably some authority consistent with Donrey and supportive of the argument advanced by Morning Ledger.
+The overwhelming weight of the authority, however, lines up squarely behind the Service's reading of Houston Chronicle .
+Given the amount of ink that has been spilled over this subject already both in the literature, see supra 561 , and in the case law, we will not survey the case law in detail.
+The following review of some of the better authorities should suffice.
+Several cases support, to some degree or another, Morning Ledger's argument that any intangible asset which possesses a determinable useful life and which is capable of valuation is not goodwill.
+For example, a line of cases from the Court of Claims comes very close to adopting Morning Ledger's definition of goodwill.
+See Meredith Broadcasting Co. v. United States , 405 F.2d 1214, 1224-25 , 186 Ct.Cl.
+1 (1968); KFOX, Inc. v. United States , 510 F.2d 1365, 1376-77 , 206 Ct.Cl.
+143 (1975); Richard S. Miller & Sons, Inc., v. United States , 537 F.2d 446, 450-54 , 210 Ct.Cl.
+431 (1976).
+Perhaps the clearest statement of the Court of Claims' view is found in the following passage from Richard S. Miller : In this court for tax purposes, the intangible value of a business is divisible into its identifiable constituent elements The most significant indication that an intangible asset is separate and distinct from goodwill is whether its useful life can be shown with reasonable accuracy to be of limited duration.
+The most important criterion is whether in fact it is a wasting asset Richard S. Miller , 537 F.2d at 450-52 (citations omitted) (emphasis added).
+There are also a few cases that, like Donrey , provide implicit, and consequently somewhat less persuasive, authority for Morning Ledger's asserted definition of goodwill.
+In Super Food Services, Inc. v. United States , 416 F.2d 1236 (7th Cir.1969), for example, the taxpayer, who had purchased a supermarket chain as ongoing business, was permitted to depreciate, as an intangible asset, 184 terminable-at-will retail franchise contracts acquired as part of the deal.
+The implicit reasoning of the court was that, having demonstrated that the contracts had limited useful lives, and having provided a reasonable estimate of those lives, the taxpayer was not obligated further to prove that the contracts were distinct from the goodwill value of the acquiree.
+See also Business Service Industries, Inc. v. Commissioner , 51 T.C.M.
+(CCH) 539 , 543 (1986) (upholding taxpayer's claimed depreciation deductions for acquired terminable-at-will MUZAK customer contracts on implicit ground that it was sufficient that taxpayer had demonstrated that contracts had ascertainable value and useful life).
+Still other cases appear confused in their analyses, ultimately providing support for both conflicting definitions advanced in the case at bar.
+In Los Angeles Central Animal Hospital, Inc. v. Commissioner , 68 T.C. 269, 273-74 (1977), for example, the Tax Court noted, consistent with the Service's position here, that goodwill is typically defined as the expectancy that "old customers will resort to the old place of business."
+Id. at 273 (citations omitted).
+Seemingly switching definitions of goodwill in midstream, the court then held that the taxpayer could depreciate the cost of 12,000 medical record cards purchased as part of the sale of a veterinary practice.
+Id. at 274 .
+The strongest authority mustered by Morning Ledger in support of its argument is the recent memorandum decision of the Tax Court in Colorado National Bank-shares, Inc. v. Commissioner , 60 T.C.M.
+(CCH) 771 (1990).
+7a The case involved the depreciability of so-called "core deposits" (i.e., checking account and saving account deposits) following the acquisition of the assets and accounts of one bank by another.
+On the theory that such deposits represent a valuable source of prospective income to a bank--inasmuch as the deposits are obtained at no or relatively low cost but can be continuously reinvested by the bank at higher rates of return--the acquiror bank sought to depreciate the portion of the purchase price attributable to the core deposits as an intangible asset.
+In an attempt to satisfy the requirements of 1.167(a) -3, the acquiror bank employed sophisticated financial and statistical methods to estimate the average length of time that depositors would maintain their deposits and, based on these estimates, to calculate the total net value of the core deposits.
+The Service responded that, in effect, the acquiror bank was attempting to depreciate the value of its expectation that the depositors would continue to patronize the bank--i.e., the value of the goodwill of the acquired bank.
+The Tax Court rejected the Service's position, clearly adopting the view that any intangible asset possessing a determinable life and an ascertainable value is, by definition, not goodwill.
+Colorado National , 60 T.C.M.
+(CCH) at 789 (citations omitted).
+We could attempt to distinguish Colorado National and Citizens & Southern from the instant dispute.
+We believe, however, that such an exercise ultimately would prove pointless and would be somewhat disingenuous.
+The unavoidable fact is that there does exist authority bolstering Morning Ledger's position.
+It is equally clear, however, that Colorado National and the other cases referenced by Morning Ledger represent no more than a minority strand amid the phalanx of cases that have considered the definition and application of the term "goodwill" in the context of 1.167(a) -3, and which support the Service's position.
+See, e.g. , Brooks v. Commissioner , 36 T.C. 1128, 1133 (1961) (defining goodwill as "'the probability that old customers will resort to the old place'" (quoting Horton v. Commissioner , 13 T.C. 143, 148 (1949), acq. and petition dismissed , 180 F.2d 354 (10th Cir.1950))); Boe v. Commissioner , 307 F.2d 339, 343 (9th Cir.1962) ("essence of good will is the expectancy of continued patronage, for whatever reason"); Nelson Weaver Realty Co. v. Commissioner , 307 F.2d 897, 901 (5th Cir.1962) ("good will" [is] the probability that the old customers will resort to the old place"); Commissioner v. Killian , 314 F.2d 852, 855 (5th Cir.1963) (quoting Nelson Weaver ); Commissioner v. Seaboard Finance Co. , 367 F.2d 646, 649 (9th Cir.1966) (quoting Boe and Brooks ); Golden State Towel and Line Service, Ltd. v. United States , 373 F.2d 938, 941 , 179 Ct.Cl.
+300 (1967) (quoting Boe ); Skilken v. Commissioner , 420 F.2d 266, 270 (6th Cir.1969) ("'[Goodwill] is constituted in the tendency of customers to return for trade to those with whom they are accustomed to deal.'"
+(quoting Burke v. Canfield , 121 F.2d 877, 880 (D.C.Cir.1941)); Winn-Dixie Montgomery, Inc. v. United States , 444 F.2d 677, 681 (5th Cir.1971) ("[G]oodwill is acquired by the purchaser of a going concern where the 'transfer enables the purchaser to step into the shoes of the seller,'" (quoting Balthrope v. Commissioner , 356 F.2d 28, 32 n. 1 (5th Cir.1966)); Houston Chronicle Publishing Co. v. United States , 481 F.2d 1240, 1247 (5th Cir.1973), cert. denied , 414 U.S. 1129 , 94 S.Ct. 867 , 38 L.Ed.2d 754 (1974) (quoting Nelson Weaver , Boe , and Balthrope ); Robins & Weill, Inc. v. United States , 382 F.Supp.
+1207, 1214 (M.D.N.C.1974) (quoting Killian ); Computing & Software, Inc. v. Commissioner , 64 T.C. 223, 233 (1975), acq. , 65 T.C. 1153 (1976) (essence of goodwill is a preexisting business relationship, based on a continuous course of dealing, which may be expected to continue indefinitely); Los Angeles Central Animal Hospital, Inc. v. Commissioner , 68 T.C. 269, 273 (1977) (citing Houston Chronicle , Killian , Boe , and Computing & Software, Inc. ); General Television, Inc. v. United States , 449 F.Supp.
+609, 612 (D.Minn.1977), aff'd , 598 F.2d 1148 (8th Cir.1979) ("the expectancy of continued patronage is the essence of goodwill"); Illinois Cereal Mills, Inc. v. Commissioner , 46 T.C.M.
+(CCH) 1001 , 1023 (1983), aff'd , 789 F.2d 1234 (7th Cir.1986), cert. denied , 479 U.S. 995 , 107 S.Ct. 600 , 93 L.Ed.2d 600 (1986) (citing Seaboard Finance Co. and Computing & Software, Inc. ); Banc One Corp. v. Commissioner , 84 T.C. 476, 508 (1985), aff'd without opinion , 815 F.2d 75 (6th Cir.1987) (quoting Boe ); Decker v. Commissioner , 864 F.2d 51, 54 (7th Cir.1988) (quoting Winn-Dixie ); AmSouth Bancorporation and Subsidiaries v. United States , 681 F.Supp.
+698, 712 (N.D.Ala.1988) (quoting Houston Chronicle ).
+A brief review of the application of this definition to the facts of a few of these cases demonstrates convincingly that the Service has more accurately characterized the prevailing case law in relation to the facts of the current dispute.
+In General Television, Inc. v. United States , 449 F.Supp.
+609 (D.Minn.1977), aff'd , 598 F.2d 1148 (8th Cir.1979), for example, the taxpayer purchased two community antenna television (CATV) stations.
+Among the assets of the two stations were over 7,000 at-will subscriber contracts, which the taxpayer sought to depreciate as intangible assets.
+When the Service disallowed the depreciation deductions, the taxpayer paid the tax and filed a refund suit.
+The district court, viewing the totality of the subscriber contracts as essentially a customer or subscriber list, denied the taxpayer's request stating: Id. at 611-12 (citations omitted).
+Similarly, in Panichi v. United States , 834 F.2d 300 (2d Cir.1987), the Second Circuit upheld a district court ruling that a taxpayer who purchased a list of customers from a trash collection business was entitled to depreciate the Value of the list.
+The court was careful to note that the list was depreciable because the taxpayer had not acquired it as part of a going concern.
+Thus, there was no possibility that the value of the list reflected the value of the seller's goodwill.
+Id. at 301-02 .
+8 Finally, it is worth noting the decision in AmSouth Bancorporation and Subsidiaries v. United States , 681 F.Supp.
+698 (N.D.Ala.1988), a case which, like Colorado National , and Citizens & Southern considered the depreciability of core deposits, or customer deposit base, in the context of a bank acquisition.
+By opting for the traditional definition of goodwill in the tax context, AmSouth arrives at a holding directly at odds with the Tax Court's holdings in Colorado National , see supra at 564 , and Citizens & Southern , see supra n. 8.
+While we recognize that the validity of AmSouth is questionable after the Eleventh Circuit's decision in Citizens & Southern , we find the reasoning of AmSouth sufficiently persuasive and well-articulated to merit quoting from the case at length.
+remain continued value Id. at 720 (citations omitted) (emphasis in original).
+D. Conclusion We do not deny the analytic force of Colorado National's residual approach to defining and calculating goodwill.
+And there is no doubt that many of the commentators would prefer to see the Service and the case law move in this direction, in contrast to the "expectation of continued patronage" standard to which the Service clings.
+9 We would be hard pressed, however, after at least thirty years during which: (1) the Service consistently has advanced its definition; (2) courts have overwhelmingly acquiesced to it; and (3) the Congress, the Treasury and the Service, wherein reside the authority and expertise to undertake such a change, have stood mute, to take it upon ourselves to announce a sudden redefinition of a concept so fundamental to tax accounting.
+In any case, consistent with the prevailing case law, we believe that the Service is correct in asserting that, for tax purposes, there are some intangible assets which, notwithstanding that they have wasting lives that can be estimated with reasonable accuracy and ascertainable values, are nonetheless goodwill and nondepreciable.
+We conclude, in short, that the district court applied the wrong, definition of "goodwill."
+We conclude additionally that, applying the correct definition of goodwill, it is clear that Morning Ledger has not satisfied its burden of demonstrating that the paid subscribers are "separate and distinct from goodwill."
+As the cases discussed supra demonstrate, the depreciability of customer lists, while no longer per se forbidden under the mass asset rule, still is limited to a narrow set of circumstances.
+Customer lists are generally not depreciable when acquired in conjunction with the sale of the underlying business as a going concern.
+In the context of the sale of a going concern, it is simply often too difficult for the taxpayer and the court to separate the value of the list qua list from the goodwill value of the customer relationships/structure.
+Even in those cases where customer lists have been deemed depreciable, the value assigned to the lists has been limited to the cost of generating a like list of potential subscribers or customers.
+As a general matter, the courts have not permitted customer lists to be valued as the stream of income to be generated by the listed customers over their remaining years of patronage.
+We agree.
+We note, moreover, that this preference for the cost approach over the income approach is not premised merely on some obscure aspect of financial theory.
+The difference in valuations between the cost and income approach, of course, can be substantial.
+In this case, the Service offered expert testimony that the 460,000 subscribers to the Booth newspapers could be valued on a cost basis at roughly $3 million, whereas Morning Ledger's experts valued the same subscribers on an income basis at over $67 million!
+More importantly, this difference in the two valuation approaches implicates the central legal dilemma at issue.
+The fact is that, when employed in the context of the sale of an ongoing concern, the income approach to valuing a list of customers inherently includes much or all of the value of the expectancy that those customers will continue their patronage--i.e., the goodwill of the acquired concern.
+We do not decide whether Morning Ledger could have argued successfully that it was entitled to assign a reasonable cost basis to the list (e.g., the government's $3 million estimate of what it would cost to generate a similar list as a marketing tool) and to depreciate it as an intangible asset, notwithstanding that the list was acquired as part of a going concern.
+This argument has never been before the court in this case, even as an alternative claim.
+Morning Ledger apparently never has been satisfied to seek cost recovery on such a small portion of the premium it paid over the value of Booth's tangible assets.
+Instead, it gambled on persuading the court of the merits of its view of the definition of goodwill and the related case law in the hopes of securing the right to recover through depreciation some $67 million.
+In our view, however, under the proper definition of goodwill, the $67 million amount established by Morning Ledger is quite clearly comprised largely, if not exclusively, of amounts properly attributable to goodwill.
+As such, Morning Ledger has not satisfied its burden of proving a value for its so-called paid subscribers that is separate and distinct from goodwill, and the district court's finding to the contrary is clearly erroneous.
+The judgment of the district court will be reversed, and the case remanded with instructions to enter judgment in favor of the United States.

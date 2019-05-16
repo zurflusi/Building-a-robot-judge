@@ -1,0 +1,327 @@
+ ROGERS, Circuit Judge: In this facial challenge, appellants contend that Title I of the Sarbanes-Oxley Act of 2002 ("the Act"), 15 U.S.C. 7211 19 , violates the Appointments Clause of the Constitution and separation of powers because it does not permit adequate Presidential control of the Public Company Accounting Oversight Board ("the Board").
+Congress, however, made the Board's exercise of its duties subject to the comprehensive control of the Securities and Exchange Commission ("the Commission").
+Under the Act, the Commission is empowered to set Board rules and procedures, to overturn any sanction proposed by the Board, and to limit or relieve the Board of its powers, id. 7217(b)(2) , (b)(5) , (c)(3) , (d)(1) , (2) ; the Commission also may remove members of the Board for cause, id. 7211(e)(6) .
+Members of the Commission, in turn, are [**121] appointed by the President with the advice and consent of the Senate and subject to removal by the President for cause; its chairman is selected by and serves at the pleasure of the President.
+In appellants' view this statutory scheme vests Board members "with far reaching executive power while completely stripping the President of the authority to appoint or remove those members or otherwise supervise [***2] or control their exercise of that power."
+Appellants' Br. at 1.
+But their facial challenge ignores the entirety of the statutory scheme and runs afoul of the Supreme Court's instruction regarding the nature of the President's constitutional relationship with independent administrative agencies.
+Supreme Court precedent as we have it does not support appellants' singular focus on removal powers as the be-all and end-all of Executive authority, but rather compels a more nuanced approach that examines the myriad means of Executive control.
+We hold, first, that the Act does not encroach upon the Appointment power because, in view of the Commission's comprehensive control of the Board, Board members are subject to direction and supervision of the Commission and thus are inferior officers not required to be appointed by the President.
+Second, we hold that the for-cause limitations on the Commission's power to remove Board members and the President's power to remove Commissioners do not strip the President of sufficient power to influence the Board and thus do not contravene separation of powers, as that principle embraces independent agencies like the Commission and their exercise of broad authority over their subordinates.
+Accordingly, we affirm the grant of summary judgment to the Board and the United States.
+I. Following the Enron and Worldcom accounting scandals that exposed serious weaknesses in industry self-regulatory reporting requirements for certain publicly held companies, Congress enacted the Sarbanes-Oxley Act of 2002, 15 U.S.C. 7201 et seq.
+[fn1] Title I of the Act established the Board "to oversee the audit of public companies that are subject to the securities laws .
+.
+.
+in order to protect the interests of investors and further the public interest in the preparation of informative, accurate, and independent audit reports."
+15 U.S.C. 7211 (a).
+The five members of the Board are appointed by the Commission after consultation with the Chairman of the Board of Governors of the Federal Reserve and the Secretary of the Treasury.
+Id. 7211(e)(4)(A) .
+The Act empowers the Board, subject to the oversight of the Commission, to, among other things, register public accounting firms, establish auditing and ethics standards, conduct inspections and investigations of registered firms, impose sanctions, and set its own budget, which is funded by annual fees.
+Id. 7211(c) , 7219(c) , (d) .
+The Commission's authority over the Board is explicit and comprehensive.
+Id. 7217 , 7218 .
+Indeed, it is extraordinary.
+The Board could commence operations only upon the Commission's determination that it was properly organized and had appropriate rules and procedures in place, id. 7211(d) , and "[n]o rule of the Board shall become effective without prior approval of the Commission," id. 7217(b)(2) .
+The Commission is empowered to "abrogate, add to, and delete from" the Board's rules "to assure the fair administration of the [Board], conform the rules promulgated by that Board to the requirements of title I of the [Act], or [**122] otherwise further purposes of that Act, the securities laws, and the rules and [***3] regulations there-under applicable to that Board."
+Id. 7217(b)(5) , 78s(c) .
+In addition to these ex ante controls, all Board adjudications are subject to the Commission's de novo review, id. 7217(c)(2) ; Nat'l Ass'n of Sec.
+Dealers, Inc. v. SEC , 431 F.3d 803 , 804 (D.C. Cir. 2005) (" NASD "), upon an immediate stay when an application for review is filed or sua sponte by the Commission, 15 U.S.C. 7215 (e)(1), 7217 (c)(2)(A).
+The Commission is empowered to "enhance, modify, cancel, reduce, or require the remission of a sanction imposed by the Board."
+Id., 7217(c)(3) .
+The Commission alone determines whether the Board may "sue and be sued" in any court.
+Id. 7211(f)(1) .
+A member of the Board may be censured or removed from office "for good cause shown," id. 7211(e)(6) , upon a finding by the Commission, after notice and opportunity for a hearing, that the member willfully violated the Act or abused authority, or failed to enforce compliance with a rule or standard without reasonable justification, id. 7217(d)(3) .
+The Commission is further empowered, by rule, to relieve the Board, consistent with the public interest, of any enforcement authority whatsoever, id. 7217(d)(1) , as well as, by order, to censure the Board and, after notice and opportunity for a hearing, to "impose limitations upon the activities, functions, and operations of the Board" upon finding that the Board has failed to abide by its statutory duties, id. 7217(d)(2) .
+This facial challenge to the Act is brought by the Free Enterprise Fund, a non-profit public interest organization that "promotes economic growth, lower taxes, and limited government."
+Compl.
+¶ 11.
+It is joined by one of its members, Beckstead and Watts, LLP ("B & W"), a Nevada accounting firm that is registered with the Board and is subject to an ongoing formal investigation that was commenced in 2005.
+Id. ¶ 79.
+On February 7, 2006, the Free Enterprise Fund and B & W (collectively "the Fund") filed a complaint alleging that the creation of the Board violated the Appointments Clause, separation of powers, and non-delegation principles.
+The Fund sought declaratory and injunctive relief prohibiting the Board from carrying out its duties, including taking "any further action" against B & W. The United States intervened to defend the constitutionality of the Act.
+The district court denied the Board's motion to dismiss the complaint for lack of jurisdiction and granted the motions for summary judgment of the Board and the United States.
+The Fund appeals, and our review is de novo.
+See Simpson v. Socialist People's Libyan Arab Jamahiriya , 470 F.3d 356 , 359 (D.C. Cir. 2006); Wilson v. Pena , 79 F.3d 154 , 160 n. 1 (D.C. Cir. 1996).
+To succeed in its facial challenge to Title I of the Act under the Appointments Clause and separation of powers, [fn2] the Fund bears a heavy burden to show that the provisions of which it complains are unduly severe in all circumstances and cannot be constitutionally applied.
+See Wash. State Grange v. Wash. State Republican Party , U.S. , 128 S.Ct. 1184 , 1190 , 170 L.Ed.2d 151 (2008) (citing United States v. Salerno , 481 U.S. 739 , 745 , 107 S.Ct. 2095 , 95 L.Ed.2d 697 (1987)).
+II.
+The Board and the United States contend, as a threshold matter, that the district court lacked jurisdiction because the Fund failed to exhaust the Act's statutory review procedures.
+The Act permits a person "aggrieved [***4] by a final order of the [**123] Commission" or a person "adversely affected by a rule of the Commission" to obtain review in the court of appeals.
+15 U.S.C. 78y (a)(1), (b)(1) (emphasis added).
+The Act further provides that "[n]o objection to an order or rule of the Commission, for which review is sought under this section, may be considered by the court unless it was urged before the Commission or there was reasonable ground for failure to do so." Id. 78y(c)(1) (emphasis added).
+The Fund did not pursue administrative remedies before filing its complaint.
+As a matter of statutory text, the administrative procedures available under the Act are confined to challenges to an "order" or a "rule" of the Board.
+See, e.g., Nat'l Mining Ass'n v. Dep't of Labor , 292 F.3d 849 , 856 (D.C. Cir. 2002); Gen. Elec. Co. v. EPA 360 F.3d 188 , 191 (D.C. Cir. 2004).
+The Fund's facial challenge, by contrast, advances a "broad-scale attack," Nat'l Mining , 292 F.3d at 856 , to the Act itself that is not "of the type Congress intended to be reviewed within this statutory structure," Thunder Basin Coal Co. v. Reich , 510 U.S. 200 , 212 , 114 S.Ct. 771 , 127 L.Ed.2d 29 (1994).
+In Thunder Basin , the Supreme Court acknowledged that the district court retains jurisdiction over claims "considered `wholly collateral' to a statute's review provisions and outside the agency's expertise."
+510 U.S. at 212 , 114 S.Ct. 771 (quoting Heckler v. Ringer , 466 U.S. 602 , 618 , 104 S.Ct. 2013 , 80 L.Ed.2d 622 (1984)).
+Jurisdiction over the Fund's complaint is consistent with the distinction drawn by this court in Time Warner Entertainment Co. v. FCC , 93 F.3d 957 (D.C. Cir. 1996), which held that the district court has "general federal question jurisdiction to consider a facial challenge to a statute's constitutionality so long as that challenge is not raised in a suit challenging the validity of agency action taken pursuant to the challenged statute or in a suit that is collateral to one challenging the validity of such agency action," id. at 965 .
+Because the complaint presents a "facial, or systemic" challenge, and not an "as-applied, or particularized challenge[]," Gen. Elec. , 360 F.3d at 192 (internal quotation marks omitted), and does not attempt to bootstrap other claims regarding a Board order or rule, see First Jersey Sec, Inc. v. Bergen , 605 F.2d 690 , 695 (3d Cir. 1979), the Fund's lawsuit is not properly viewed as a circumvention of the Act's review procedures.
+In contrast with American Coalition for Competitive Trade v. Clinton , 128 F.3d 761 (D.C. Cir. 1997), where the statute granted the court of appeals exclusive jurisdiction over all constitutional attacks on the statute upon compliance with exhaustion requirements, see id. at 765 , the Act contains no similar provision as would indicate that Congress intended the review scheme to be exclusive.
+Therefore, because the Fund's constitutional challenges to the Act are collateral to the Act's administrative review scheme, the exhaustion doctrine does not apply, and we hold that the district court had subject matter jurisdiction over the complaint and properly denied the motion to dismiss.
+III.
+The Appointments Clause provides: [The President] shall .
+.
+.
+nominate, and by and with the Advice and Consent of the Senate, shall appoint Ambassadors, other public Ministers and Consuls, Judges of the supreme Court, and all other Officers of the United States, whose Appointments are [***5] not herein otherwise provided for, and which shall be established by Law: but the Congress may by Law vest the Appointment of such inferior Officers, as they think [**124] proper, in the President alone, in the Courts of Law, or in the Heads of Departments.
+U.S. CONST.
+art.
+II , 2 , cl.
+2 .
+The plain text of the Appointments Clause thus contemplates that Congress may lodge the appointment power of inferior officers in entities other than the President.
+The Fund contends, however, that the absence of day-to-day supervision of the Board by the Commission and the for-cause limitation on the Commission's power to remove Board members means that Board members are not inferior officers and therefore must be appointed by the President.
+Alternatively, the Fund contends that even if Board members are inferior officers, they cannot be appointed by the Commission because the Commission is not a "Department[]" and the Commissioners are not its "Head[]."
+A. "Generally speaking, the term `inferior officer' connotes a relationship with some higher ranking officer or officers below the President: Whether one is an `inferior' officer depends on whether he has a superior."
+Edmond v. United States , 520 U.S. 651 , 662 , 117 S.Ct. 1573 , 137 L.Ed.2d 917 (1997).
+Under this standard, the Board is composed of officers inferior to the Commission.
+The Commissioners, who serve staggered five-year terms, are "appointed by Presidential nomination with the advice and consent of the Senate," id. at 663 , 117 S.Ct. 1573 , and they exercise comprehensive control over Board procedures and decisions and Board members.
+For instance, the Commission approves all Board rules, 15 U.S.C. 7211 (g), 7217 (b)(2), and may abrogate, delete, or add to them, id. 7217(b)(5) .
+All Board sanctions are subject to plenary review by the Commission, id. 7217(c)(2) ; NASD , 431 F.3d at 804 , and the Commission "may enhance, modify, cancel, reduce, or require the remission of a sanction imposed by the Board," id. 7217(c)(3) .
+As such, the Board's disciplinary authority "ultimately belongs to the [Commission], and the legal views of the [Board] must yield to the Commission's view of the law," NASD , 431 F.3d at 806 ; see also Gold v. SEC , 48 F.3d 987 , 990 (7th Cir. 1995); Shultz v. SEC , 614 F.2d 561 , 568 (7th Cir. 1980).
+The Commission both appoints and removes Board members, id. 7211(e)(4)(A) , (e)(6) .
+It also may impose limitations upon Board activities, id. 7217(d)(2) , and relieve the Board of its enforcement authority altogether, id. 7217(d)(1) .
+Consequently, the Board's work is necessarily "directed and supervised at some level" by the Commission, Edmond , 520 U.S. at 663 , 117 S.Ct. 1573 .
+Notably for purposes of this facial challenge, the Act subjects Board members to greater supervision than the Coast Guard judges in Edmond , whom the Supreme Court held to be inferior officers even though supervision of the judges was fractured between two different bodies, id. at 664 , 117 S.Ct. 1573 , and their decisions were not subject to de novo review, id. at 665 , 117 S.Ct. 1573 .
+Contrary to the Fund's suggestion, the fact that the Board is charged with exercising extensive authority on behalf of the United States does not mean that Board members must be appointed by the President, for principal as well as inferior officers, by definition, "`exercis[e] significant authority pursuant to the laws of the United States,'" Freytag v. CIR [***6] , 501 U.S. 868 , 881 , 111 S.Ct. 2631 , 115 L.Ed.2d 764 (1991) (quoting Buckley v. Valeo , 424 U.S. 1 , 126 , 96 S.Ct. 612 , 46 L.Ed.2d 659 (1976)); see also Edmond , 520 U.S. at 662 , 117 S.Ct. 1573 .
+Instead, what is key under the Edmond analysis is the fact that Board members "have no power to render a final decision on behalf of the United States unless permitted to do so by other Executive officers," Edmond , 520 U.S. at 665 , 117 S.Ct. 1573 [**125] .
+The Act vests a broad range of duties in the Board, 15 U.S.C. 7211 (c), but its exercise of those duties is subject to check by the Commission at every significant step.
+Board members are also subject to greater oversight than the Independent Counsel in Morrison v. Olson , 487 U.S. 654 , 662 , 108 S.Ct. 2597 , 101 L.Ed.2d 569 (1988).
+Whereas the Act specifies that every decision of the Board is "subject to action by the Commission," 15 U.S.C. 7211 (c), the Ethics in Government Act vested the Independent Counsel with "full power and independent authority to exercise all investigative and prosecutorial functions and powers of the Department of Justice," 28 U.S.C. 594 (a).
+Still the Supreme Court adjudged that the Independent Counsel was an inferior officer.
+Morrison , 487 U.S. at 671 , 108 S.Ct. 2597 .
+The Board's ability to act independently is dwarfed by the "independent discretion [of the Independent Counsel] to exercise the powers delegated to her under the [Ethics in Government] Act," Morrison , 487 U.S. at 671 , 108 S.Ct. 2597 .
+[fn3] The Fund is incorrect in suggesting that the Commission's review authority of Board rules and regulations is "severely circumscribed," Appellants' Br. at 34.
+The Act provides that the Commission "shall approve a proposed rule, if it finds that the rule is consistent with the requirements of this Act and the securities laws, or is necessary or appropriate in the public interest or for the protection of investors."
+15 U.S.C. 7217 (b)(3).
+This provision does not, as the Fund offers, establish a deferential, Chevron-like review but reflects an intent to require the Commission itself to determine whether Board rules are consistent with the statutes and the public interest.
+Given the Commission's several statutory responsibilities, the Fund's approach would sanction flouting one statutory goal in service of another, an untenable interpretation of congressional intent where the goals can be reconciled.
+Cf. Richards v. United States , 369 U.S. 1 , 11 , 82 S.Ct. 585 , 7 L.Ed.2d 492 (1962).
+Moreover, in Edmond the Supreme Court held that the "limitation upon review does not .
+.
+.
+render the judges of the Court of Criminal Appeals principal officers."
+520 U.S. at 665 , 117 S.Ct. 1573 .
+The Fund ignores that the Commission's regulatory control does not end with its review of Board rules.
+The Act empowers the Commission to abrogate or amend Board rules "to assure the fair administration of the [Board], conform the rules promulgated by that Board to the requirements of title I of the [Act], or otherwise further the purposes of that Act, the securities laws, and the rules and regulations thereunder applicable to that Board."
+15 U.S.C. 7217 (b)(5).
+The Commission itself is also empowered to promulgate rules in furtherance of the Act.
+Id. 7202(a) .
+These powers are inimical to Chevron-like deference.
+To the extent the Fund suggests that the for-cause limitation on the Commission's [**126] removal power requires Board members to be deemed principal officers, it overinflates the importance of removal authority.
+Recognizing that "[t]he power to remove officers .
+.
+.
+[***7] is a powerful tool for control," Edmond 520 U.S. at 664 , 117 S.Ct. 1573 , the Supreme Court has indicated that courts should consider removal authority as one factor in determining whether an official is an inferior officer, id. at 666 , 117 S.Ct. 1573 .
+[fn4] The Court has held that both the Coast Guard Judges in Edmond , who were subject to the Judge Advocate General's at-will removal authority, 520 U.S. at 664 , 117 S.Ct. 1573 , and the Independent Counsel in Morrison , who was subject to removal only for cause, 487 U.S. at 663 , 108 S.Ct. 2597 , were inferior officers.
+Here, the Act vests removal authority in the Commission, providing that "[a] member of the Board may be removed by the Commission from office, in accordance with section [ 107(d)(3) ], for good cause shown."
+15 U.S.C. 7211 (e)(6).
+[fn5] Just as in Morrison , "the fact that [Board members] can be removed by the [Commission] indicates that [they are] to some degree `inferior' in rank and authority," 487 U.S. at 671 , 108 S.Ct. 2597 .
+The Supreme Court has expressly permitted legislatively-imposed limitations on executive officers' removal authority: We have no doubt that when congress, by law, vests the appointment of inferior officers in the heads of departments, it may limit and restrict the power of removal as it deems best for the public interest.
+The constitutional authority in congress to thus vest the appointment implies authority to limit, restrict, and regulate the removal by such laws as congress may enact in relation to the officers so appointed.
+The head of a department has no constitutional prerogative of appointment to offices independently of the legislation of congress, and by such legislation he must be governed, not only in making appointments, but in all that is incident thereto.
+United States v. Perkins , 116 U.S. 483 , 485 , 21 Ct.Cl.
+499 , 6 S.Ct. 449 , 29 L.Ed. 700 (1886).
+In Myers v. United States , 272 U.S. 52 , 47 S.Ct. 21 , 71 L.Ed. 160 (1926), the Court reaffirmed that "Congress, in committing the appointment of such inferior officers to the heads of departments, may prescribe incidental regulations controlling and restricting the latter in the exercise of the power of removal," id. at 161 , 47 S.Ct. 21 , although not to the point of requiring Senate approval of removals, id. at 164 , 47 S.Ct. 21 ; see also Bowsher v. Synar , 478 U.S. 714 , 726 , 106 S.Ct. 3181 , 92 L.Ed.2d 583 (1986).
+[**127] Moreover, the Fund can point to no case prescribing the ways in which Congress can restrict a principal officer's removal of his inferiors.
+The opinion of the Justice Department's Office of Legal Counsel ("OLC"), 17 U.S. Op. Off.
+Legal Counsel 150, 156-57 (1993), relied on by the Fund, concluded only that "jointly" vesting removal authority in a cabinet secretary and the council whose members were themselves subject to removal could pose constitutional problems.
+Like the Attorney General in Morrison and the Judge Advocate General in Edmond , the Commission has sole removal authority under the Act.
+For purposes of this facial challenge, the arguably more restrictive for-cause removal cannot be dispositive because, as the district court concluded, the Commission could broadly interpret its removal authority in order to ensure that the Board conforms to its policies.
+Finally, our dissenting colleague's two-part test for determining inferior officer status, Dis.
+Op. at 708-09, sets up a new paradigm in order to reach a desired result.
+Nothing in Edmond [***8] suggests that "direction] and supervision] at some level ," 520 U.S. at 663 , 117 S.Ct. 1573 (emphasis added), necessitates "managing] the ongoing conduct," Dis.
+Op. at 709, of every day-to-day function.
+Surely both the Coast Guard judges in Edmond and the Independent Counsel in Morrison would have failed such a narrow test.
+But even under the terms of this novel test, the Act survives scrutiny.
+Indeed, the Act commands that all of the Board's duties are "subject to action by the Commission."
+15 U.S.C. 7211 (c).
+As in Edmond , any sanctions imposed by the Board are "subject to review by the [Commission] before the decisions t[ake] effect on the accused," Dis.
+Op. at 706; see 15 U.S.C. 7215 (e)(1), 7217 (c)(2).
+Additionally, the Commission's broad authority under the Act contradicts the dissent's position that the Board's decisions regarding "inspections, investigations, and enforcement actions" cannot be "prevent[ed][,] affirmatively command[ed], and manage[d]" by the Commission, Dis.
+Op. at 709.
+First, the Act requires the Board to inspect all registered public accounting firms in accordance with a predetermined schedule, 15 U.S.C. 7214 (b); the Board lacks discretion not to inspect a particular firm.
+Each inspection yields an inspection report, 15 U.S.C. 7214 (g), and each firm may seek Commission review of its inspection report, id. 7214(h) .
+Therefore, to the extent the inspection report forms the basis for a subsequent investigation by the Board, the Board's determination is subject to Commission approval.
+Second, although it has the power to do so, see id. 7202(a) , the Commission need not "affirmatively command" an investigation, Dis.
+Op. at 709, given that the Act preserves the Commission's own authority to take administrative or disciplinary action against a firm, 15 U.S.C. 7202 (c)(3).
+The fact that the Commission's investigative authority remains intact is consistent with the role of the Board as a specialized component of the Commission that exercises authority for purposes of efficiency and convenience but cannot usurp it.
+Third, and most important, because the Board must establish by rule "fair procedures for the investigation and disciplining" of accounting firms and individuals, id. 7215(a) , and "[n]o rule of the Board shall become effective without prior approval of the Commission," id. 7217(b)(2) , the Commission is empowered to modify the Board's investigative authority as it sees fit and may mandate that all decisions regarding investigation or enforcement actions against a firm be approved by the Commission.
+See also id. 7271(d)(2) .
+While the Board may adjust the inspection schedule, it may do so only by rule, id. 7214(b)(2) , [**128] and all Board rules are subject to Commission approval.
+So too for the Board's investigative authority, see id. 7215(b)(1) .
+Certainly the Commission's authority to "promulgate such rules and regulations[] as may be necessary or appropriate in the public interest or for the protection of investors, and in furtherance of th[e] Act," id. 7202(a) , provides ample room for the Commission to tighten its reins on the Board's investigative authority.
+[fn6] For purposes of this facial challenge, that the Commission has not chosen to take these steps does not mean that it lacks the authority to [***9] do so.
+If anything, it suggests that the Board has so far acted in accordance with Commission policy.
+Because the Board's exercise of its powers under the Act is subject to comprehensive control by the Commission and Board members are accountable to and removable by the Commission, we hold that Board members are inferior officers.
+B. The Fund's alternative contention, assuming Board members are inferior officers, that the Commission is not a department and the Commissioners are not the head of the Commission, is also unpersuasive.
+1.
+As used in the Appointments Clause, the phrase "`Heads of Departments' .
+.
+.
+suggests that the Departments referred to are themselves in the Executive Branch or at least have some connection with that branch."
+Buckley , 424 U.S. at 127 , 96 S.Ct. 612 .
+The Supreme Court has explained that "Departments" refers to "the subdivision of the power of the Executive into departments, for the more convenient exercise of that power."
+United States v. Germaine , 99 U.S. 508 , 510 , 25 L.Ed. 482 (1878).
+In Freytag , the Supreme Court described Departments as being " like the Cabinet-level departments," 501 U.S. at 886 , 111 S.Ct. 2631 (emphasis added), which are "limited in number and easily identified," id .
+Although the Court did not identify the precise characteristics of "Cabinet-like" departments and reserved the issue of whether independent agencies are departments, id. at 887 n. 4, 111 S.Ct. 2631 , four Justices urged that "Departments" should be understood to encompass "all agencies immediately below the President in the organizational structure of the Executive Branch," including "all independent executive establishments," id. at 918-19 , 111 S.Ct. 2631 (Scalia, J., joined by O'Connor, Kennedy, and Souter, JJ, concurring in part and in the judgment) (hereinafter "Concurring Op.").
+They reasoned that the Framers "chose the word `Department]' .
+.
+.
+not to connote size or function (much less Cabinet status), but separate organization — a connotation that still endures even in colloquial usage today."
+Id. at 920 , 111 S.Ct. 2631 .
+Noting that the Constitution makes no reference to the term "Cabinet," id. at 916-17 , 111 S.Ct. 2631 , and that the Court has not held that "`the Heads of Departments' are Cabinet members," id. at 917 , 111 S.Ct. 2631 , the concurring justices observed that even the sparse history of the Appointments Clause included the 1792 Act creating a Post-Master General, who, while not a cabinet member, had power to appoint an assistant [**129] and deputies, id .
+As Congress has continued to empower non-Cabinet officers to appoint inferior officers, id. at 918 , 111 S.Ct. 2631 , the concurring justices cautioned that to conclude such action violated the Appointments Clause would "cast[] into doubt the validity of many appointments and a number of explicit statutory authorizations to appoint," id .
+The Commission is "Cabinet-like" because it exercises executive authority over a major aspect of government policy, and its principal officers are appointed by the President with the advice and consent of the Senate, 15 U.S.C. 78d (a), and subject to removal by the President, SEC v. Blinder, Robinson & Co. , 855 F.2d 677 , 681 (10th Cir. 1988).
+Given the constitutionality of independent agencies, see Humphrey's Ex'r v. United States , 295 U.S. 602 , 55 S.Ct. 869 , 79 L.Ed. 1611 (1935), such entities must be able to constitutionally exercise [***10] appointment authority to permit their proper functioning.
+As the Attorney General opined in concluding that the Civil Service Commission was a "Department J" under the Appointments Clause, the Commission here is "not a subordinate Commission attached to one of the so-called executive departments but is in itself an independent division of the Executive Branch of the Government with certain independent duties and functions."
+37 U.S. Op. Att'y Gen. 227, 231 (1933).
+In 1996, the OLC further stated that Congress may "vest the power to appoint inferior officers in the heads of the so-called independent agencies."
+20 Op. Off.
+Legal Counsel 124, 152 (1996).
+Congress has authorized the Commission to appoint officers and employees, 5 U.S.C. 4802 (b), and it would be illogical to handicap its ability to effectuate its statutory mandate because of the very independence that Congress has deemed necessary and the Supreme Court has deemed constitutional.
+2.
+The Commissioners as a group exercise the same final authority as is vested in a single head of an executive department.
+Congress has vested "the Commission" with rulemaking, investigative, and adjudicatory authority.
+See, e.g. , 15 U.S.C. 7202 .
+Just as independent agencies are "Departments" capable of receiving appointment powers even though they are structured to give the President less control over their functioning, see Freytag , 501 U.S. at 919 , 111 S.Ct. 2631 (Concurring Op.), the heads of independent agencies need not be wholly controlled by the President as long as they are principal officers appointed (with the advice and consent of the Senate) and removable by the President.
+All three branches of government are in agreement that the head of an agency can be a multi-member body.
+The Attorney General's opinion in 1933 acknowledged that the Civil Service Commission is "headed by" its commissioners.
+37 U.S. Op. Att'y Gen. at 228.
+Congress enacted the Eeorganization Act of 1949, 5 U.S.C. 904 , providing that a Presidential plan for Congressional approva can "provide that the head of an agency be an individual or a commission or board with more than one member."
+The Ninth Circuit held in Silver v. United States Postal Service , 951 F.2d 1033 (9th Cir. 1991), that the nine governors of the Postal Service constituted its "Head[]," concluding that "[t]he fact that the Postal Service is not structured like a traditional government agency need not imply that its structure is not constitutionally permissible," id. at 1037 , and that as to appointment, removal and decisionmaking, "Congress carefully vested ultimate control and authority of the Postal Service in the Governors," id. at 1038 .
+The same is true here.
+Congress, in the Act as well as the Securities Exchange Act of 1934, 15 U.S.C. 78a et seq.
+, vested authority in "the Commission" to promulgate rules, initiate investigations, [**130] sue to enjoin violations of securities laws, review disciplinary sanctions, appoint Board members, approve Board rules and the Board's budget, and censure and remove Board members.
+The historical sources relied on by the Fund regarding the "benefits of lodging the appointment power in a single individual," Appellants' Br. at 39 (citing [***11] THE FEDERALIST No. 76 and 3 JOSEPH STORY, COMMENTARIES ON THE CONSTITUTION 1522 (1833)), address a different question, namely the decision to vest appointment of principal officers in the President, and the Framers entrenched that preference in Article II, 2, cl.
+2 .
+The Fund has pointed to no authority wherein the Framers foreclosed Congress from granting multi-member commissions authority to appoint inferior officers.
+The dictionary is of no assistance because a definition of a "head" as "one who has the first rank or place," Appellants' Br. at 3SM0 (quoting NOAH WEBSTER, AN AMERICAN DICTIONARY OF THE ENGLISH LANGUAGE (1828)), does not resolve whether the "one" must be one person rather than one committee.
+Finally, in urging that the Chairman of the Commission is its "Head[]" and therefore the Act's grant of Commission appointment power is invalid, the Fund's authorities do not support its conclusion.
+While the Postmaster General in Silver was an inferior officer appointed and removable by the nine governors, see 951 F.2d at 1040 , the Chairman is not inferior to the Commission but rather is simply one commissioner who has additional administrative functions.
+Just as the Chairman has no power to remove another commissioner, the Commission as a whole may neither appoint nor remove one of its own.
+Moreover, the Reorganization Act addressed in Silver mandated that the head of an agency be either a civil service position or subject to Presidential appointment with the advice and consent of the Senate, 5 U.S.C. 904 ; the Chairman is neither, as the President alone selects a Chairman from among the Commissioners.
+Reorganization Plan No. 10, 3, 64 Stat. 1265 , 1266 (1950).
+Additionally, although the Chairman has authority to appoint and supervise personnel pursuant to Reorganization Plan No. 10 of 1950, the Chairman does not have sole appointment authority under the Plan; rather "[t]he appointment by the Chairman of the heads of major administrative units under the Commission shall be subject to the approval of the Commission."
+Reorganization Plan No. 10, 1(b)(2), 64 Stat, at 1266 (1950); see United States v. HartweU , 73 U.S. (6 Wall) 385, 393 34 , 18 L.Ed. 830 (1867); Nat'l Treasury Employees Union v. Reagan , 663 F.2d 239 , 246 n. 9 (D.C. Cir. 1981).
+Because Board members are inferior officers of the Commission, which is a "Department[]" whose "Head[]" consists of the several Commissioners, we hold that Title I of the Act creating the Board does not violate the Appointments Clause.
+IV.
+Although not expressly included in the Constitution itself, the principle of separation of powers is implicit in the first three articles of the Constitution that define separate roles for the legislative, executive, and judicial branches.
+See Nat'l Mut. Ins. Co. of B.C.
+v. Tidewater Transfer Co. , 337 U.S. 582 , 591 , 69 S.Ct. 1173 , 93 L.Ed. 1556 (1949); Kilbourn v. Thompson , 103 U.S. 168 , 190 , 26 L.Ed. 377 (1880).
+[fn7] [**131] Considered a bulwark of a just government, see THE FEDERALIST NO. 47 (James Madison), this principle, however, "by no means contemplates total separation of each of these three essential branches of Government," Buckley , 424 U.S. at 121 , 96 S.Ct. 612 .
+The Fund does not assert that Congress or the judiciary have directly encroached on the Executive Branch's appointment, removal, or decisionmaking [***12] authority by aggrandizing their own powers.
+Instead, the Fund's separation of powers challenge is premised on the contention that the Act constitutes an excessive attenuation of Presidential control over the Board.
+The crux of the Fund's challenge — that the double for-cause limitation on removal makes it impossible for the President to perform his duties — is a question of first impression as neither the Supreme Court nor this court has considered a situation where a restriction on removal passes through two levels of control.
+But the Fund's categorical, bright-line approach conflicts with the Supreme Court's case-specific reasoning in Morrison , which emphasized that there are "several means of supervising or controlling [Presidential] powers," 487 U.S. at 696 , 108 S.Ct. 2597 .
+The removal power thus does not operate in a vacuum; rather it is one of several criteria relevant to assessing limits on the President's ability to exercise Executive power.
+A. The Supreme Court has long recognized that some types of restrictions on Presidential authority within the Executive Branch are permissible, especially in the case of independent agencies.
+In Humphrey's Executor , the Supreme Court rejected a challenge to the constitutionality of independent agencies in which principal officers were "subject to removal by the President for inefficiency, neglect of duty, or malfeasance in office," rather than at the President's will.
+295 U.S. at 623 , 55 S.Ct. 869 .
+The Court observed that "to hold that .
+.
+.
+the members of the [Federal Trade Commission] continue in office at the mere will of the President," id. at 626 , 55 S.Ct. 869 , would thwart Congress's intention that the commission be "nonpartisan" and "independent of executive authority," id. at 624-25 , 55 S.Ct. 869 (internal quotation marks omitted).
+Several decades later, the Supreme Court expanded upon its analysis in Humphrey's Executor , concluding that the statute establishing the Independent Counsel did not violate the principle of separation of powers.
+The Court considered the "two related issues" of restrictions on the President's power to remove and the impact of the Ethics in Government Act as a whole in order to address the "real question" of "whether .
+.
+.
+the President's ability to perform his constitutional duty," Morrison , 487 U.S. at 691 , 108 S.Ct. 2597 , to "take Care that the Laws be faithfully executed," U.S.
+CONST., art.
+II , 3 , was impeded.
+Noting the Attorney General's powers to request appointment of the Independent Counsel and to remove her for cause alongside her limited jurisdiction and tenure and lack of policymaking authority, id. at 691-92 , 108 S.Ct. 2597 , the Court held that restrictions on the "amount of control or supervision," id. at 695 , 108 S.Ct. 2597 , that the President ultimately exercised over the functions of the Independent Counsel were constitutional given the "several means of supervising or controlling the .
+.
+.
+powers that may be wielded," id. at 696 , 108 S.Ct. 2597 .
+B. As an initial matter, independent agencies such as the Commission by definition [**132] enjoy a degree of autonomy in conducting their affairs, including staffing and operations.
+Yet this independence is not without limits.
+In addition to the ability to appoint Commissioners, [***13] 15 U.S.C. 78d (a), and remove them for cause, see Blinder , 855 F.2d at 681 ; see also Wiener v. United States , 357 U.S. 349 , 78 S.Ct. 1275 , 2 L.Ed.2d 1377 (1958), which removal power the Supreme Court has interpreted broadly, [fn8] the President possesses significant additional levers of influence.
+Most obviously, by appointment of the Commission chairman, who serves at the pleasure of the President and often "dominate[s] commission policymaking," the President can influence Commission policy and control who directs "the administrative side of commission business, select[s] most staff, set[s] budgetary policy, and as a consequence command[s] staff loyalties."
+Peter L. Strauss, The Place of Agencies in Government: Separation of Powers and the Fourth Branch , 84 COLUM. L.REV.
+573, 591 (1984) (citing DAVID M. WELBORN, GOVERNANCE OF FEDERAL REGULATORY AGENCIES (1977)).
+"Here the White House connection is often less direct and generally more subtle, but consultation and coordination on general policy issues of national interest naturally occurs."
+Id. (footnotes omitted).
+Additionally, although statutory as well as political constraints may prevent Presidential dominance in specific decisions, the President is not stripped of overall influence because independent agencies generally require "presidential good will" to obtain budgetary and legislative support, id. at 594-95.
+Various administrative tools provide additional influence to the President; these include centralization of contracting, personnel requirements, and property allocations.
+Id. at 587.
+"[A]ny assumption that executive agencies and independent regulatory commissions differ significantly or systematically in function, internal or external procedures, or relationships with the rest of government is misplaced."
+Id. at 596.
+In turn, the Commission enjoys both appointment and removal powers over Board members and, most significantly, "Congress has provided sweeping mechanisms to guarantee substantive control by the [Commission] of the Board's use of its powers under the Act."
+Intervenor's Br. for the United States at 49-50.
+The Board's status, as a heavily controlled component of an independent agency, is fully congruent with the paradigm laid out in Humphrey's Executor.
+[fn9] No Board rule is promulgated and no Board sanction is imposed without the Commission's stamp of approval.
+Indeed, any policy decision made by the Board is subject to being overruled by the Commission.
+The Act also provides authority for the Commission to limit and to remove Board authority altogether.
+15 U.S.C. 7217 (d)(1), (2) .
+Additionally, the Act fully preserves the Commission's authority to regulate the accounting profession, set standards, and [**133] take any action against a company or individual.
+Id. 7202(c) .
+"Because the Commission can withdraw or preempt any aspect of the Board's substantive regulatory authority at any time to effectuate the Commission's own understanding of `purposes of th[e] Act and the securities laws,' no functional concern or constitutional dimension should be raised by the `good cause' restrictions on its ability to remove particular officers."
+Intervener's Br. for [***14] the United States at 50 (quoting 15 U.S.C. 7217 (d)(1)).
+Thus the Act ensures that all Board functions are subject to pervasive Commission control, including approval of its annual budget and supporting fees, 15 U.S.C. 7219 (b), (d) .
+When assessed in the context of the restrictions on Presidential power upheld in Morrison , the President's powers under the Act extend comfortably beyond the minimum required to "perform his constitutionally assigned duties," Morrison , 487 U.S. at 6%, 108 S.Ct. 2597 .
+Although the President does not directly select or supervise the Board's members, the President possesses significant influence over the Commission, which in turn possesses comprehensive control over the Board.
+By contrast, neither the President nor the Attorney General had the power to appoint the Independent Counsel or the power to control her investigatory or prosecutorial authority.
+Instead, a three-judge court appointed the Independent Counsel, Morrison , 487 U.S. at 661 , 108 S.Ct. 2597 (citing 28 U.S.C. 49 (1982 ed., Supp. V)), and defined her jurisdiction, id .
+Whereas the Board cannot appear in court without the Commission's permission, 15 U.S.C. 7211 (f)(1), the Independent Counsel's powers included "`initiating and conducting prosecutions in any court of competent jurisdiction, framing and signing indictments, filing informations, and handling all aspects of any case , in the name of the United States,'" Morrison , 487 U.S. at 662 , 108 S.Ct. 2597 (quoting 28 U.S.C. 594 (a)(9)) (emphasis added), and hiring staff to do so, id .
+(citing 28 U.S.C. 594 (c)).
+Most importantly, while the Commission retains its full authority under the Act, 15 U.S.C. 7202 (c), the Ethics in Government Act divested the Attorney General of his pre-existing authority and invested it entirely in the Independent Counsel: "[W]henever a matter has been referred to an independent counsel under the [Ethics in Government] Act, the Attorney General and the Justice Department are required to suspend all investigations and proceedings regarding the matter," Morrison , 487 U.S. at 662-63 , 108 S.Ct. 2597 .
+[fn10] As designed by Congress, the Independent Counsel possessed significant independence from the President, but the Supreme Court found no separation of powers violation.
+The statutorily more constrained authority of the Board, when set beside the Independent Counsel's broad powers and independence, falls well within constitutional bounds.
+[**134] [fn11] The Fund points to the limited tenure and jurisdiction of the Independent Counsel in Morrison as justification for the unchecked powers of the position, but neither the duration of the office nor its prescribed scope operated as significant constraints on the Independent Counsel's exercise of her broad powers.
+Although the Independent Counsel was a temporary position, neither the President, the Attorney General, nor even the statute itself limited the length of her tenure; rather, the Independent Counsel determined when her statutory duties were complete, id. at 664 , 108 S.Ct. 2597 .
+The Independent Counsel's time in office, thus, was "rather indefinite and expected to last for multiple years."
+31 Op. Off.
+Legal Counsel, at *34 (Apr. 16, 2007).
+Moreover, the Independent Counsel's powers were arguably less delimited than the Board's insofar as she could request expansion [***15] of her prosecutorial jurisdiction.
+See Morrison , 487 U.S. at 667 , 108 S.Ct. 2597 ; 28 U.S.C. 593 (c).
+Not only is the Board subject to statutorily-defined jurisdictional boundaries, but also the Commission is empowered to further limit the Board's functions, 15 U.S.C. 7217 (d)(2).
+To the extent the Fund maintains that the breadth of the Independent Counsel's powers was justified by exceptional circumstances, the circumstances leading to the enactment of the Independent Counsel statute are far from unique; as in the case of the Board, Congress identified the need for an entity within the Executive Branch and determined that some limitations on Presidential power were advisable.
+See supra n. 1.
+More directly, the Act's attenuation of the President's removal power of Board members does not mean, as the Fund contends, that the President's ability to carry out his Executive responsibility is therefore unconstitutionally restricted.
+Although the principal officer in Morrison " the Attorney General — served at the pleasure of the President, nothing in Morrison suggests that Congress cannot restrict removal of inferior officers in independent agencies as well as executive agencies.
+[fn12] The Supreme Court instead underscored that the animating concern of the Court's removalpower cases is not formal but functional: The analysis .
+.
+.
+is designed not to define rigid categories of those officials who may or may not be removed at will by the President, but to ensure that Congress does not interfere with the President's exercise of "executive power" and his constitutionally appointed duty to "take care that the laws be faithfully executed" under Article II .
+487 U.S. at 689-90 , 108 S.Ct. 2597 .
+The Court stated that, as regards an inferior officer, "we cannot say that the imposition of a `good cause' standard for removal by itself unduly trammels on executive authority."
+Id. at 691 , 108 S.Ct. 2597 .
+So too here, the President is not, as the Fund contends, "completely stripped" of his ability to remove Board members: Like-minded Commissioners can be appointed by the President and they can be removed by the President for cause, and Board members can be appointed and removed for cause by the Commissioners.
+Although the level of Presidential control over the Board reflects Congress's intention to insulate the Board from partisan forces, this statutory [**135] scheme preserves sufficient Executive influence over the Board through the Commission so as not to render the President unable to perform his constitutional duties.
+[fn13] Our dissenting colleague asks why the Board is removable only for cause, Dis.
+Op. at 711-12, concluding that it is to preserve the Board's independence of the Commission.
+But for-cause removal is not the end of the constitutional inquiry.
+We might ask in return, why has Congress granted such pervasive Commission authority over the Board if not to preserve the means of Executive control?
+Indeed, why would Congress deny the Commission at-will removal authority on the one hand and then provide the Commission with the authority to abolish Board powers on the other, essentially granting at-will removal power over Board functions if not [***16] Board members?
+Certainly the latter power blunts the constitutional impact of for-cause removal.
+Even if these statutory provisions may reveal a legislative compromise, the Act as a whole provides ample Executive control over the Board.
+If, as the dissent posits, the for-cause removal provision reflects Congress's intention to grant "some degree of substantive independence" to the Board, id. at 703, that independence is undercut by the vast degree of Commission control at every significant step.
+To the extent the dissent offers that the Commission cannot have broad rulemaking authority to circumscribe the Board's investigative actions because "such authority would all but destroy the `independence'" that the for-cause removal provision might otherwise allow, id. at 710; see id. at 703-04 (citing legislative history), such is the statute as written by Congress.
+The Fund's contention that the Act violates separation of powers because the removal restrictions go beyond the "good cause" standard approved in Morrison fares no better.
+The Fund contends that under the Act "the [Commission] cannot remove a Board member who incompetently pursues wrong-headed policies, but permits, at most, removal only of those members who egregiously and deliberately flout their duties or engage in serious misconduct."
+Appellants' Br. at 21.
+The Supreme Court has never specified that "good cause" is the greatest restriction Congress may impose on removal of inferior officers.
+In fact, the Court has broadly stated that Congress "may limit and restrict the power of removal as it deems best for the public interest."
+Perkins , 116 U.S. at 483 , 6 S.Ct. 449 .
+Furthermore, it is far from clear that the Commission would share the Fund's cramped interpretation of its removal authority.
+Cf. supra n. 8.
+While the Fund points to the fact that two of the three provisions that authorize removal of Board members refer to actions [**136] taken "willfully," see supra n. 5, the meaning of that word "is often being influenced by its context," Spies v. United States , 317 U.S. 492 , 497 , 63 S.Ct. 364 , 87 L.Ed. 418 (1943), and the Fund points to no basis for assuming that the Commission would view 15 U.S.C. 7217 (d)(3) as necessarily defining the exclusive circumstances in which removal for "good cause" may be established, see Bowsher , 478 U.S. at 729 , 106 S.Ct. 3181 ; cf. Wonsover v. SEC , 205 F.3d 408 , 413-14 (D.C. Cir. 2000).
+V. "[F]acial challenges are disfavored" precisely because they do not permit the Executive Branch to attempt to "implement[] [statutes] in a manner consonant with the Constitution," Wash. State Grange , 128 S.Ct. at 1191 , and the Fund's challenge does not present the occasion for the court to announce a bright-line rule regarding removal restrictions.
+[fn14] Consistent with the court's duty to construe statutes to avoid constitutional infirmity, Commodity Futures Trading Comm'n v. Schor , 478 U.S. 833 , 841 , 106 S.Ct. 3245 , 92 L.Ed.2d 675 (1986), there is no basis to conclude that the Commission's removal authority does not satisfy Article II requirements, cf. Morrison , 487 U.S. at 682 , 108 S.Ct. 2597 .
+The Fund's focus on the removal limitations ignores the statutory context, which empowers the Commission not only to oversee all significant Board activities through ex ante controls and ex post de novo review but also to "withdraw [***17] or preempt any aspect of the Board's substantive regulatory authority," Intervener's Br. for the United States at 50, thus mitigating concern regarding the scope of the removal restrictions.
+The Act additionally preserves all of the Commission's authority in the field while enhancing Executive control in an area previously left largely in private control.
+See supra n. 13.
+Nor does our dissenting colleague's philosophical approach undermine either the court's logic or view of the law.
+While the fundamental purposes of the Appointments Clause and the principle of separation of powers are undisputed, the constitutional question for this court requires that we take instruction from Supreme Court precedent as we find it and understand that the absence of a precise precedent is neither the end of the inquiry — the statutory scheme in Morrison , for example, was also novel — nor grounds for failing to address Congress' statutory scheme as it is written.
+Our dissenting colleague's analysis, cloaked in textualist garb, construes Supreme Court precedent to support his theory instead of acknowledging its limits; for example, the intrusion by Congress upon the President's removal authority in Myers is far removed from what is at issue here, and the Court's multifactor analysis in Edmond does not fit the dissent's novel two-step paradigm.
+The absolutes that the dissent postulates — essentially, either the President must have at-will removal power or Congress has acted unconstitutionally — are inconsistent with the Supreme Court's more nuanced approach in addressing limitations on the President's appointment authority and separation of powers.
+In the face of a comprehensive statutory scheme that provides [**137] exhaustive means of Executive control and oversight, the dissent misrepresents the Board as an independent agency with final Executive authority, see supra n. 9, interprets the Commission's powers of oversight narrowly, see Dis.
+Op. at 710-12, 711 n. 23, and the limitations attendant to for-cause removal broadly, see id. at 701-03, divorced from their statutory context in a manner to create constitutional problems where there are none; and misreads Supreme Court precedent to portend doom for the unitary Executive.
+But those fears have no statutory basis, for our dissenting colleague can cite to no instance in which the Board can make policy that the Commission cannot override.
+[fn15] Given the constitutionality of independent agencies and the Commission's comprehensive control over the Board, the Fund cannot show that the statutory scheme so restricts the President's control over the Board as to violate separation of powers.
+The bulk of the Fund's challenge to the Act was fought — and lost — over seventy years ago when the Supreme Court decided Humphrey's Executor.
+At that time, the Court concluded that the concept of a unitary Executive embodied in the Constitution does not require the President to have an alter ego (i.e., an official serving at the pleasure of the President and removable at will) within independent [***18] agencies.
+The Court reiterated the conclusion that neither for-cause removal nor substantial independent discretion eviscerates Executive control in Morrison.
+The key question the Supreme Court requires this court to answer is whether the Act so limits the President's ability to influence the Board as to render it unconstitutional.
+Because of the reality of the President's broad-ranging authority under the Act, the Fund's facial challenge fails.
+Accordingly, we hold that the Fund's facial challenge to Title I of the Act fails to reveal violations of the Appointments Clause or separation of powers, and we affirm the grant of summary judgment to the Board and the United States.

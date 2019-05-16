@@ -1,0 +1,144 @@
+ WILSON, Circuit Judge: This appeal addresses whether certain Florida state convictions qualify as predicate felony convictions under the Armed Career Criminal Act ("ACCA"), 18 U.S.C. 924 (e).
+Alphonso James, Jr.
+was indicted for possessing a firearm after having been convicted of a felony, in violation of 18 U.S.C. 922 (g)(1).
+At sentencing, the district court found that two of James's previous felony convictions qualified as predicate convictions under the ACCA, but rejected a third conviction, and therefore, did not enhance James's sentence under the ACCA.
+The United States ("the Government") appeals the district court's ruling.
+James cross-appeals, challenging the district court's decision to count one of his previous convictions as a qualifying felony under the ACCA.
+James also argues that 922(g) is unconstitutional.
+We hold that the district court erred when it held that James's Florida conviction for trafficking in cocaine by possession of between 200 and 400 grams of cocaine was not a predicate conviction under the ACCA.
+We therefore vacate the sentence imposed and remand, directing the district court to sentence James in accordance with the ACCA.
+I. BACKGROUND In June of 2003, the Government charged James with possession of a firearm after having been convicted of a felony, in violation of 18 U.S.C. 922 (g)(1).
+James pled guilty as charged.
+The Government sought to have James's sentence enhanced under the ACCA, 18 U.S.C. 924 (e).
+The ACCA provides a mandatory minimum term of imprisonment of 15 years for any person who violates 18 U.S.C. 922 (g) after three convictions in either federal or state court for a "violent felony" or "serious drug offense."
+See 924(e).
+In 1997, James was convicted in a Florida state court of attempted burglary of a dwelling, in violation of Florida Statute 810.02 and 777.04 .
+In 1998, James was convicted in Florida state court of trafficking in illegal drugs in violation of Florida Statute 893.135 .
+Later that year, James was again convicted in Florida state court under the same statute for trafficking in cocaine by possession of between 200 and 400 grams of cocaine.
+Based on James's three prior felony convictions, the probation officer recommended that James be sentenced as an armed career criminal under the ACCA.
+At sentencing, James objected, arguing that neither his attempted burglary conviction, nor his trafficking by possession conviction, should count as a predicate conviction under the ACCA.
+The district court concluded that James's attempted burglary conviction was a "violent felony" under 924(e)(2)(B) of the ACCA.
+The district court also concluded, however, that James's trafficking by possession conviction did not qualify as a "serious drug offense" under 924(e)(2)(A) of the ACCA, reasoning that the Florida statute under which James was convicted did not include as an element of proof that James had intended to distribute his 200 to 400 grams of cocaine.
+Therefore, the district court refused to enhance James's sentence under the ACCA because he did not qualify as an armed career criminal, as he had only two predicate convictions.
+The district court sentenced James to 71 months' imprisonment, followed by 36 months' supervised release.
+The Government now appeals the district court's decision not to count James's trafficking by possession conviction as a "serious drug offense" for purposes of sentencing him under the ACCA.
+James cross-appeals, challenging the district court's decision to count his attempted burglary conviction as a "violent felony."
+James further argues that 922(g) is unconstitutional either facially, or as applied to him, because it exceeds Congress's authority under the Commerce Clause.
+II.
+DISCUSSION There are two issues on appeal: [fn1] (1) whether the district court erred by failing to count James's conviction for trafficking in cocaine by possession of between 200 and 400 grams of cocaine as a "serious drug offense" under the ACCA; and (2) whether the district court erred by counting James's conviction for attempted burglary of a dwelling as a "violent felony" under the same statute.
+We review de novo whether a conviction is a "violent felony" or a "serious drug offense" within the meaning of 924(e).
+United States v. Wilkerson, 286 F.3d 1324 , 1325 (11th Cir. 2002) (per curiam).
+A. Whether Trafficking in Cocaine by Possession of between 200 and 400 Grams of Cocaine is a "Serious Drug Offense" The Government argues that the district court erred by failing to count James's Florida state conviction for trafficking in cocaine by possession of between 200 and 400 grams of cocaine as a "serious drug offense" under the ACCA.
+The ACCA defines a "serious drug offense" as "an offense under State law, involving manufacturing, distributing, or possessing with intent to manufacture or distribute, a controlled substance .
+.
+., for which a maximum term of imprisonment of ten years or more is prescribed by law."
+924(e)(2)(A)(ii).
+The Florida Statute under which James was convicted, section 893.135 (1)(b)(1)(b), reads as follows: Any person who knowingly sells, purchases, manufactures, delivers, or brings into this state, or who is knowingly in actual or constructive possession of, 28 grams or more of cocaine, as described in 893.03(2)(a)4., or of any mixture containing cocaine, but less than 150 kilograms of cocaine or any such mixture, commits a felony of the first degree, which felony shall be known as "trafficking in cocaine,".
+.
+.
+.
+If the quantity involved: .
+.
+.
+b. Is 200 grams or more, but less than 400 grams, such person shall be sentenced to a mandatory minimum term of imprisonment of 7 years, and the defendant shall be ordered to pay a fine of $100,000.
+The district court concluded that the statute did not satisfy the ACCA's requirement that the offense involve the "intent to manufacture or distribute," 924(e)(2)(A)(ii), because the Florida statute does not have "as an element" of the offense an intent to manufacture or distribute.
+On appeal, the Government argues that Congress defined a "serious drug offense" under the ACCA to include any state offense "involving" the intent to distribute, not only those offenses having "as an element" such intent.
+In support, the Government cites United States v. Madera-Madera, 333 F.3d 1228 (11th Cir. 2003), cert. denied, 540 U.S. 1026 , 124 S.Ct. 589 , 157 L.Ed.2d 447 (2003), in which we rejected the district court's reasoning in an analogous context.
+In Madera-Madera, the defendant committed a prior offense of possession of 87 grams of methamphetamine, a violation of a Georgia law prohibiting the possession of 28 grams or more of the drug.
+Id. at 1231 .
+We had to determine whether such an offense qualified as a "drug trafficking offense" for purposes of enhancement under the Sentencing Guidelines.
+Id .
+Although Georgia law expressly designated the defendant's offense as drug "trafficking," the defendant argued that the offense should not be considered a trafficking offense under the Sentencing Guidelines because he merely possessed the drugs.
+Id .
+We rejected this argument for several reasons.
+Id .
+We explained that Georgia enacted a three-tiered scheme for punishing drug crimes: (1) possession of any amount; (2) possession with the intent to distribute any amount; and (3) "trafficking" by possession of more than 28 grams.
+Id .
+Further, we concluded that such a scheme necessarily recognizes that someone who is convicted of drug trafficking, the offense to which the defendant pled guilty, "plans on distributing and thereby `trafficking' those drugs.
+In making possession of 28 grams of methamphetamine a `trafficking' offense, Georgia's trafficking statute necessarily infers an intent to distribute once a defendant possess a certain amount of drugs."
+Id. at 1232 .
+The Government here argues that Florida has nearly an identical three-tiered scheme, and therefore, we should apply our reasoning in Madera-Madera to hold that Florida's drug trafficking statute also infers an intent to distribute.
+In response, James relies on Gibbs v. State, 698 So.2d 1206 (Fla. 1997), a case that the district court referenced when making its ruling.
+In Gibbs, the Florida Supreme Court held that Florida convictions for both simple possession of cocaine and drug trafficking by possession of cocaine based on the same conduct violated the Double Jeopardy Clause because none of the elements of the drug trafficking statute differed from the elements of the simple possession statute.
+Id. at 1208-10 .
+James argues that this case indicates that drug trafficking by possession in Florida does not involve the intent to manufacture or distribute.
+In determining whether a particular offense is a "serious drug offense" under the ACCA, sentencing courts adopt a categorical approach, looking only to the statutory definition of the crime charged, rather than the actual facts of the individual's prior conviction.
+See Taylor v. United States, 495 U.S. 575 , 600-02 , 110 S.Ct. 2143 , 109 L.Ed.2d 607 (1990); see also, Shepard v. United States, 544 U.S. 13 , 125 S.Ct. 1254 , 1257 , 161 L.Ed.2d 205 (2005).
+The definition of a qualifying state offense under the ACCA is a matter of federal law.
+Taylor, 495 U.S. at 590-91 , 110 S.Ct. 2143 .
+Florida, like Georgia, has a three-tiered scheme for punishing drug-related offenses.
+Under Florida law, those three tiers are the following: (1) possession of any amount of a controlled substance, Fla. Stat. 893.13 (6)(a); (2) possession with intent to distribute a controlled substance, 893.13 (1)(a); and (3) trafficking in cocaine by possession of 28 grams or more of the drug, 893.135 (1)(b).
+Under this third tier, trafficking in cocaine is further delineated according to the amount of drugs that the defendant possessed, and the sentence imposed increases accordingly.
+See id .
+James was convicted under this third tier for possession of between 200 and 400 grams of cocaine.
+Fla. Stat. 893.135 (1)(b)(1)(b).
+Florida's three-tiered system for punishing drug crimes is nearly identical to Georgia's three-tiered scheme.
+Although Madera-Madera involved Georgia law, we see no reason to distinguish Madera-Madera from this appeal.
+We hold that Florida's drug trafficking statute also "infers an intent to distribute once a defendant possesses a certain amount of drugs."
+Madera-Madera, 333 F.3d at 1232 .
+In both Florida and Georgia, the defendant must be in possession of a significant quantity of drugs, namely 28 grams, before the state deems the offense to be "trafficking."
+Moreover, under both the Georgia and Florida schemes, drug trafficking is a more serious offense, and is punished more harshly, than either simple possession or possession with intent to distribute.
+See Gibbs, 698 So.2d at 1209 ("[T]he legislature intended that trafficking possession, which requires the possession of more than twenty-eight grams of cocaine, be punished more harshly than simple possession, which merely requires the possession of less than twenty-eight grams of any illegal drug.").
+Florida's three-tiered scheme for punishing drug crimes is not materially distinguishable from Georgia's, and therefore, our reasoning in Madera-Madera controls this case.
+Accordingly, Florida's drug trafficking statute necessarily infers an intent to distribute once a defendant possesses 28 grams or more.
+Furthermore, it is not necessary that the Florida statute under which James was convicted include as an element of the offense an intent to manufacture or distribute cocaine in order for James to be sentenced under the ACCA, as the district court ruled.
+The language of the Florida statute need not exactly match the ACCA's definition of a "serious drug offense."
+See Madera-Madera, 333 F.3d at 1233 (explaining that the wording of the Georgia statute need not exactly match the wording of the Sentencing Guidelines because the Sentencing Commission did not define drug trafficking by its elements, but rather by the type of conduct prohibited).
+Rather, the question is whether the Florida statute falls within the ACCA's definition of a "serious drug offense."
+The definition broadly includes any offense "involving" the manufacture, distribution, or possession with intent to manufacture or distribute.
+18 U.S.C. 924 (e)(2)(A)(ii).
+This "involving" language makes clear that the term "serious drug offense" may include even those state offenses that do not have as an element the manufacture, distribution, or possession of drugs with intent to manufacture or distribute.
+Therefore, the Florida statute falls within the broad definition of a "serious drug offense."
+Finally, James was convicted of trafficking, the most serious drug offense in Florida.
+To hold that this conviction does not qualify as a "serious drug offense" for purposes of the ACCA enhancement would create an anomaly.
+See Madera-Madera, 333 F.3d at 1233-34 (discussing the potential anomalous result if the defendant's trafficking offense did not qualify for enhancement under the Sentencing Guidelines).
+If James had been convicted in Florida of a lesser offense, such as possession with intent to distribute, he would qualify for enhanced sentencing under the ACCA.
+However, as the case stands now, James would not qualify for such enhanced sentencing because the Government charged James with and James pled guilty to a more serious trafficking offense.
+The district court recognized this anomaly at sentencing noting that, under its ruling, James's plea to a greater offense had ensured that he would be treated more not less leniently under the ACCA.
+Such an anomalous result would thwart the ACCA's purpose.
+See United States v. Pope, 132 F.3d 684 , 691 (11th Cir. 1998) (noting that the ACCA was intended to provide additional punishment for habitual offenders who Congress found to be responsible for the disproportionate number of violent crimes).
+Here, James pled guilty to trafficking in cocaine by possession of between 200 and 400 grams of the drug.
+Florida's three-tiered scheme recognizes that someone who is in possession of between 200 and 400 grams of cocaine intends to manufacture and distribute, and thereby, "traffic" those drugs.
+Moreover, federal law permits an inference of intent to distribute from a defendant's possession of a significantly large quantity of drugs.
+See United States v. Bain, 736 F.2d 1480 , 1486 (11th Cir. 1984).
+Gibbs v. State, 698 So.2d 1206 , does not require a contrary result because interpretation of the term "serious drug offense" is a matter of federal law as determined by the federal courts.
+See Taylor, 495 U.S. at 590-91 .
+Accordingly, James's conviction for trafficking in cocaine by possession of between 200 and 400 grams of cocaine falls within the ACCA's definition of a "serious drug offense."
+We hold that the district court erred when it found that James's conviction for trafficking in cocaine by possession was not a qualifying conviction under the ACCA.
+We further find below that the district court did not err when it held that James's conviction for attempted burglary is a qualifying conviction.
+Therefore, because James has three qualifying felony convictions, we vacate and remand, directing the district court to sentence James in accordance with the ACCA.
+B. Whether Attempted Burglary of a Dwelling is a "Violent Felony" James argues on cross-appeal that his Florida state conviction for attempted burglary is not a "violent felony" under 924(e), and therefore, that the district court erred in counting that conviction as a qualifying conviction under the ACCA.
+The ACCA defines a "violent felony" as "any crime punishable by imprisonment for a term exceeding one year .
+.
+.
+that (i) has as an element the use, attempted use, or threatened use of physical force against the person of another; or (ii) is burglary, arson, or extortion, involves use of explosives, or otherwise involves conduct that presents a serious potential risk of physical injury to another."
+18 U.S.C. 924 (e)(2)(B).
+On appeal, James asserts that, under Florida law, attempted burglary does not fall within the definition of a "violent felony" because it does not pose a serious potential risk of physical injury to another.
+Instead, he argues, attempted burglary poses merely "a risk of a risk."
+United States v. Weekley, 24 F.3d 1125 , 1125 (9th Cir. 1994).
+In response, the Government relies on our precedent in United States v. Wilkerson, 286 F.3d at 1326 (quoting 924(e)(2)(B)(ii), in which we established that an incohate crime qualified as a violent felony when its object involved conduct that "present[ed] a serious potential risk of physical injury to another.")
+In Wilkerson, we held that a conviction for conspiracy to commit robbery in violation of Florida law qualified as a "violent felony."
+Id .
+First, we reasoned that robbery itself was a "violent felony" under 924(e)(2)(B) because it presented a serious risk of physical injury to another.
+Id. at 1325 .
+We further reasoned that "a conspiracy that has as its object the offense of robbery likewise presents such a risk."
+Id .
+We noted that "[w]hen one reaches an agreement with a co-conspirator to commit a robbery, and formulates the intent to commit the robbery, his conduct presents at least a potential risk of physical injury within the meaning of 924(e)(2)(B)(ii)."
+Id. at 1325-26 .
+Likewise, the Government cites United States v. Rainey, 362 F.3d 733 (11th Cir. 2004) (per curiam), cert. denied, 541 U.S. 1081 , 124 S.Ct. 2433 , 158 L.Ed.2d 996 (2004), the case upon which the district court based its decision.
+In Rainey, we relied on Wilkerson to hold that a conviction for attempted arson under Florida law qualified as a "violent felony" under 924(e)(2)(B)(ii).
+Rainey, 362 F.3d at 736 .
+In Rainey, we noted that we had not previously decided whether an attempt to commit an enumerated felony under 924(e) constituted a "violent felony."
+Id. at 735 .
+However, following our reasoning in Wilkerson, we held that "[a]ttempt, like conspiracy, presents the potential risk of physical injury to another.
+Because attempted arson presents a serious potential risk of injury to another, we [held] that the district court correctly concluded that it [was] a violent felony under 924(e)."
+Id. at 736 .
+Moreover, in United States v. Gunn, 369 F.3d 1229 , 1238 (11th Cir. 2004) (per curiam), cert. denied, Cantillo v. United States, 543 U.S. 937 , 125 S.Ct. 324 , 160 L.Ed.2d 244 (2004), we held that attempted burglary is a "crime of violence" for purposes of United States Sentencing Guidelines Manual 4B1.1 (a)(2), reasoning that "[a]ttempted burglary presents a serious potential risk of physical injury to another.
+An uncompleted burglary does not diminish the potential risk of physical injury."
+Relying on our precedent in Wilkerson and Rainey, we affirm the district court's ruling and hold that attempted burglary under Florida law is a "violent felony" under 924(e)(2)(B).
+The district court ruled that, because burglary is an enumerated felony under 924(e)(2)(B)(ii), and because under Rainey an attempt to commit an enumerated felony under 924(e)(2)(B)(ii) constitutes a "violent felony," attempted burglary is also a "violent felony."
+We agree.
+We reject James's argument that attempted burglary merely poses "a risk of a risk" and instead hold that an attempt to commit burglary, like an attempt to commit arson, presents the potential risk of physical injury to another sufficient to satisfy the ACCA's definition of a "violent felony."
+III.
+CONCLUSION For the above reasons, we vacate James's sentence and remand, directing the district court to sentence James in accordance with the ACCA.
+VACATED AND REMANDED.

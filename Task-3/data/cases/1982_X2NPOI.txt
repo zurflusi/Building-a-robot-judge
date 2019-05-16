@@ -1,0 +1,206 @@
+ IRVING R. KAUFMAN , Circuit Judge: This case presents an issue of first impression in this Circuit.
+The question before us is whether, in a shareholder action brought pursuant to 36(b) of the Investment Company Act of 1940 to recover allegedly excessive fees paid by an investment company to its adviser, 1 the shareholder plaintiff is required to plead that a "demand" was made on the company's board of directors prior to filing of the complaint.
+2 At first blush, resolution of this question would seem to require merely clarification of a technical pleading rule.
+As our discussion makes clear, however, analysis of the issue is not uncomplicated, nor is our conclusion without important ramifications for suits brought pursuant to 36(b) .
+I Because this case comes to us from a dismissal at the pleading stage, the factual record is sparse.
+Martin Fox, a shareholder of Daily Income Fund, Inc. ("the Fund"), brought this action on behalf of the Fund to recover allegedly excessive fees paid by the Fund to its investment adviser, Reich & Tang, Inc. ("R & T").
+The Fund, an open-end investment company of the type commonly referred to as a "money-market fund," pursues as its basic business strategy the goal of achieving high current income levels while preserving capital.
+To this end, it invests in a portfolio of short-term money market instruments, principally United States government and federal agency obligations, obligations of major banks, and prime commercial paper.
+The Fund experienced a dramatic surge in its assets, in a relatively short period of time.
+As of June 30, 1978, the Fund's net assets were approximately $75 million.
+Less than three years later, on April 15, 1981, they had reached a level of $775,000,000.
+Precisely this sort of "dramatic growth" 3 impelled enactment of the 1970 amendments to the Investment Company Act of 1940, and, in particular, 36(b) , which created a cause of action for return of excessive adviser fees.
+Because fees are usually calculated as a percentage of assets, substantial portfolio appreciation brings with it the risk of unduly high adviser compensation.
+See S.Rep.
+No. 184, 91st Cong., 1st Sess.
+6 (1969), reprinted in 1970 U.S.Code Cong. & Ad.News at 4902; see also J. Barnard, Jr., Reciprocal Business, Sales Charges and Management Fees , in 1966 Fed. B.A.
+Conference on Mutual Funds 127-29.
+Despite this substantial increase in Fund assets, no adjustment was made in the rate at which R & T was to be paid for investment advice and other management services rendered.
+R & T's fee was originally set at one-half of one percent of the Fund's net assets, and it remains fixed at that rate.
+Consequently, yearly payments by the Fund to its adviser increased from approximately $375,000 in 1978, to a projected $3,875,000 in 1981.
+During the fiscal year ending June 30, 1980, R & T received more than $2,000,000 in management fees from the Fund.
+It is this extraordinary leap in fees of which Fox complains.
+Fox's complaint alleged that management of the assets of a money market fund requires no detailed analysis of industries (or of large individual industrial concerns), nor the retention of a large staff of highly paid, sophisticated securities analysts.
+Essentially, he claimed that investment decisions are more or less routine, concentrated as they are in the relatively limited realm of "turning over" money market investments with a small number of institutions.
+In short, Fox alleged that R & T was continuing to provide the services it had always rendered, for what had become an exorbitant amount of money.
+Rather than approach the Fund's directors with his grievance, Fox chose to allege in his complaint that no "demand" is required under 36(b) .
+4 In response, the Fund (later joined by R & T) moved to dismiss for failure to comply with Rule 23.1.
+After noting that the issue had resulted in a split among the district courts in this Circuit, 5 Judge Duffy concluded that a Rule 23.1 demand was required in a 36(b) suit, and dismissed the complaint.
+Fox appealed.
+For the reasons stated below, we disagree with the district court's conclusion, 94 F.R.D. 94 , and reverse.
+II We begin by noting that the Rule 23.1 demand requirement applies only when a corporation or association has "failed to enforce a right which may properly be asserted by it."
+6 We agree with Fox that the rule applies only when the specified entity has an opportunity to "assert," in a court, the same action under the same rule of law on which the shareholder plaintiff relies.
+Thus, if the Fund may not sue pursuant to 36(b) , no demand upon its board of directors will be required.
+In rejecting the Fund's argument that even if it cannot bring an action under 36(b) , a demand must be made upon its directors to utilize other, informal means to "enforce its right" to return of excessive adviser fees, Brief of Defendant-Appellee Daily Income Fund, Inc. at 5-6, 7 we announce no new rule of law.
+As long ago as the beginning of this century, the Supreme Court construed Equity Rule 94, 104 U.S. ix (1882), the precursor of Rule 23.1 , and determined that its nearly identical language 8 referred to "a suit founded on a right of action existing in the corporation itself, and in which the corporation itself is the appropriate plaintiff."
+Delaware & Hudson Co. v. Albany & Susq.
+R.R. , 213 U.S. 435, 447 , 29 S.Ct. 540, 543 , 53 L.Ed. 862 (1909); see also Ross v. Bernhard , 396 U.S. 531, 534-35 , 90 S.Ct. 733, 735-736 , 24 L.Ed.2d 729 (1970).
+Accordingly, we turn initially to the question whether an investment company can bring an action under 36(b) of the Investment Company Act of 1940.
+A Our starting point, as in every case involving construction of a statute, is examination of the language utilized by Congress.
+Ernst & Ernst v. Hochfelder , 425 U.S. 185, 197 , 96 S.Ct. 1375, 1382 , 47 L.Ed.2d 668 (1976).
+The second sentence of 36(b) is quite clear that an action may be brought under that subsection only "by the [Securities and Exchange] Commission, or by a security holder of [a] registered investment company on behalf of such company."
+9 No action by the investment company is authorized.
+When Congress has provided specific and elaborate enforcement provisions, and entrusted their use to particular parties, we will not lightly assume an unexpressed intention to create additional ones.
+See Middlesex County Sewerage Auth. v. National Sea Clammers Ass'n , 453 U.S. 1, 13-15 , 101 S.Ct. 2615, 2622-2624 , 69 L.Ed.2d 435 (1981).
+Appellee points to the words "on behalf of such company," and argues they demonstrate that the right of the shareholder created by 36(b) is derivative, and therefore the director demand requirement of Rule 23.1 applies, as it does to other "derivative" actions in the federal courts.
+The words "on behalf of" do not create by implication a statutory right of the company itself to sue, from which the stockholders' right may be said to be "derivative."
+These words, which apply as much to the Securities and Exchange Commission as to a private security holder, signify only that either party so entitled to bring an action under 36(b) must do so to seek return of excessive management fees to the company treasury and not to individual or governmental coffers.
+The action is not, strictly speaking, "derivative" in the sense of deriving from a right properly asserted by the corporation, but rather constitutes individual security holders as "private attorneys general" to assist in the enforcement of a duty imposed by the statute on investment advisers.
+We recognize that the one Court of Appeals to have considered the question reached a different conclusion.
+Grossman v. Johnson , 674 F.2d 115 (1st Cir.), cert. denied , U.S. , 103 S.Ct. 85 , 74 L.Ed.2d 80 (1982).
+In rejecting the argument that because 36(b) explicitly provides for, it therefore only permits, suit by the SEC or a security holder, the First Circuit stated: section 36(b) Id. at 120 .
+Equally cogent is our belief that this situation was regarded as so remote or unlikely that the legislature chose not to provide for it, and was wary of permitting the Fund to control the suit, see Burks v. Lasker , 441 U.S. 471, 483-84 , 99 S.Ct. 1831, 1839-1840 , 60 L.Ed.2d 404 (1979).
+Moreover, the Grossman court offers scant support for its conclusion that the Fund may sue.
+It refers, first, to the "on behalf of" language in the statute.
+We have already indicated the meaning we attach to that phrase.
+Similarly, we are unpersuaded by the argument that "Congress could well have believed that, though it was appropriate to specify that the Commission and shareholders had the new statutory cause of action[,] it was unnecessary to say with particularity that the company also did."
+Id.
+This seems totally inconsistent with what we would expect Congress to have done.
+If Congress had intended to provide the company with a cause of action, it would have passed a statute saying so, in which case the derivative right of a shareholder to initiate suit would have followed automatically.
+A mere statement of what Congress "could have believed" seems to us not enough.
+Congress has not expressed, anywhere at all, the policy appellee would have us adopt.
+Moreover, as the First Circuit itself notes, 36(b) (3) "directly forbids" an action against any person "other than the recipient of compensation or payments [for adviser services]."
+Yet, the opinion relies on the proceeding in that case having been brought against "forbidden" defendants (the "disinterested" directors and the Fund itself) as support for its conclusion that a 36(b) suit is a typical derivative suit.
+The idea, apparently, is that Grossman was operating under the assumption that a 36(b) action is the standard derivative action, in which the complaining shareholder would join the company and its directors, "in the ordinary fashion," after the corporation had declined to initiate the suit as a plaintiff.
+See H. Henn, Handbook of the Law of Corporations and Other Business Enterprises 358 at 750 (2d ed. 1970).
+It is difficult to understand how a defect in a pleading--or a misreading of 36(b) --can take precedence over the clear dictates of a statute.
+The language of a statute controls when sufficiently clear in its context.
+Ernst & Ernst v. Hochfelder , supra , 425 U.S. at 201 , 96 S.Ct. at 1384 .
+Nevertheless, mindful of our obligation to supplement application of rules of statutory construction by searching for "persuasive evidence of a contrary legislative intent," Trans-america Mortgage Advisors, Inc. v. Lewis , supra , 444 U.S. 11 at 21, 100 S.Ct. 242 at 247, 62 L.Ed.2d 146 we move now to an examination of the legislative history of 36(b) .
+B Prior to enactment of the Investment Company Act of 1940, open-end investment companies, 10 or mutual funds, played a minor role in the world of finance.
+In 1940, investment companies held assets of approximately $2.1 billion; of this sum, mutual funds accounted for $450 million.
+1966 SEC Report 2 .
+The 1940 Act was directed at the most flagrant self-dealing and other abuses within the investment company industry.
+See United States v. Deutsch , 451 F.2d 98, 108 (2d Cir.1971), cert. denied , 404 U.S. 1019 , 92 S.Ct. 682 , 30 L.Ed.2d 667 (1972).
+It prohibits, for example, most transactions between investment companies and their advisers.
+15 U.S.C. 80a-17 .
+Generally, the Act requires at least forty percent of a fund's board of directors to be "unaffiliated" with the adviser, and it mandates that payment for management and other investment advice be the subject of a contract between the fund and the adviser which has received both shareholder and director approval, 15 U.S.C. 80a-15(a) , (c).
+Moreover, a duty is imposed on the directors of a fund to evaluate the terms of the adviser contract.
+15 U.S.C. 80a-15(c) .
+The 1940 Act proved most successful in controlling the serious problems covered by its broad brush approach.
+Indeed, an ironic measure of its success has been the public's growing confidence in the investment company industry, which led to a period of extraordinary growth in the number of investors and in net asset levels of the funds.
+In turn, this expansion created a specific and largely unforeseen problem.
+Because adviser fees are usually calculated at a percentage of a fund's net assets, and vary in proportion as portfolio value goes up or down, a period of sustained industry success would--and did--yield substantially increased fees.
+But the Act "did not provide any mechanism by which the fairness of management contracts could be tested in court."
+S.Rep.
+No. 184, 91st Cong., 1st Sess.
+5 (1969), reprinted in 1970 U.S.Code Cong. & Ad.News at 4901.
+What the drafters of the 1940 Act did foresee, in a general way, was the possibility that the future success of the industry might entail the need for statutory change.
+As a result, a section of the original statute provided (and still states) that the SEC may study the ramifications of "any substantial further increase in size of investment companies involving the protection of investors or the public interest," and present recommendations for legislative change.
+15 U.S.C. 80a-14(b) .
+Accordingly, in 1958, the Commission authorized the securities research unit of the Wharton School of Finance and Commerce of the University of Pennsylvania to study investment companies and report its findings.
+The Wharton Report identified the salient issues, but made no proposals.
+Subsequently, the Commission undertook further research, and presented the results and recommendations for detailed amending legislation in its Report on the Public Policy Implications of Investment Company Growth , transmitted to Congress in 1966.
+The 1966 SEC Report reiterated the Wharton unit's findings.
+It concluded that management fees tended to be fixed at the traditional level of one-half of one percent of the fund's net assets.
+It noted that they markedly exceeded fees charged by investment advisers to other institutional clients and the cost of management to those funds which manage themselves.
+Moreover, no evidence existed to demonstrate a willingness on the part of the advisers to provide services at a "reasonable" rate, not necessarily a percentage of assets.
+The Report further stated that the 1940 Act was not equipped to deal with this emerging problem, and that shareholder suits, although occasionally forcing settlements, basically had been ineffective.
+1966 SEC Report 84-149.
+To deal with this issue, the SEC recommended amending the Act to require that management fees be "reasonable."
+Reasonableness was to be determined by reference to various criteria, including the fees paid for similar services by like institutions, the nature and quality of services rendered, and any other factors determined to be appropriate in the public interest.
+The SEC was to have an enforcement action available to it (as in fact it does under present 36(b) ), and would also possess the right to intervene in private shareholder suits.
+Id. at 143-47 .
+Nowhere does the Report mention an action brought by the investment company itself.
+The standard of "reasonableness" proposed in the 1966 SEC Report was contained in the first bills considered by Congress, H.R.9510, 90th Cong., 1st Sess.
+8(d) (1967) and S.1659, 90th Cong., 1st Sess.
+8(d) (1967).
+Not surprisingly, it was met by vigorous industry opposition, see generally Hearings on S.1659 Before the Senate Comm. on Banking and Currency , 90th Cong., 1st Sess., pt.
+1, at 191-201 ("1967 Senate Hearings"); Investment Company Act Amendments of 1967: Hearings on H.R.9510, H.R.9511 Before the Subcomm. on Commerce and Finance of the House Comm. on Interstate and Foreign Commerce , 90th Cong., 1st Sess., ser. 90-21, pt.
+1, at 237-43 (1967) (statement of John R. Haire, chairman-elect, Investment Company Institute), and neither bill passed.
+The industry claimed fees were already reasonable, the legislation would encourage "strike" suits, and the SEC would be empowered to regulate a competitive industry.
+1967 Senate Hearings at 191-92, 202.
+In one sense, of course, the relative merits of each side of this debate are irrelevant.
+The ultimate passage of 36(b) settled the issue and expressed the legislative conclusion that imposing a "fiduciary duty" and leaving its exegesis to the judiciary 11 provided the best solution.
+This decision represented the compromise reached by industry representatives and the SEC. See Hearings on H.R.11995, S.2224, H.R.13754, H.R.14737 Before the Subcomm. on Commerce and Finance of the House Comm. on Interstate and Foreign Commerce , 91st Cong., 1st Sess., ser. 91-33, pt.
+1, at 138 (1969) ("1969 House Hearings") .
+On the other hand, that the focus of legislative inquiry, from the introduction of the first bills through a period of several years until enactment, remained fixed on this question, is of special significance for our purpose.
+The normal conclusion to be drawn from intensive--and exclusive--Congressional scrutiny of a particular subject is that Congress did not concern itself with others.
+Put differently, if the voluminous legislative history of 36(b) and its unsuccessful predecessors persuades us that Congress's first order of business was how to make shareholder suits (and SEC enforcement actions) effective, rather than whether it might also be useful to sanction suit by a fund, we would be hard-pressed to conclude that Congress intended to empower the courts to permit a fund to sue.
+It is obviously difficult, under the best of circumstances, to prove a negative.
+Because the extensive legislative history of 36(b) neither approves nor disapproves suits brought directly by mutual funds, it cannot be shown to a certainty (and perhaps never to the satisfaction of those disposed to believe otherwise) that Congress foreclosed their use of the section.
+What can be shown, in this instance, is that the Congressional approach to a specific problem--excessive adviser fees--consisted of, first, identifying the source of that problem; next, determining why the 1940 Act, in other respects effective, had been and would continue to be incapable of remedying it; and finally, amending the relevant portion of the Act.
+If, therefore, the source of the problem is inconsistent with a corporate right of action as a solution, we can say with confidence that Congress never intended to create one.
+Moreover, if the flaw in the 1940 Act was unrelated to the unavailability of a suit by the fund, our conclusion becomes virtually certain, since we know that the statutory lacuna was filled by a provision conspicuous for its failure to name the fund as a potential plaintiff.
+Several years of careful study indicated that the problem derived from the peculiar nature of the mutual fund industry (seen in light of its rapid growth): S.Rep.
+No. 184, 91st Cong., 1st Sess.
+5-6 (1969), reprinted in 1970 U.S.Code Cong. & Ad.News at 4901-02; see also 1966 SEC Report 131; H.R.Rep.
+No. 1382, 91st Cong., 2d Sess.
+7 (1970); Galfand v. Chestnutt Corp. , 545 F.2d 807, 808 (2d Cir. 1976).
+Additionally, the requirement that a percentage of the directors of the investment company be "independent" of the adviser and underwriter, 15 U.S.C. 80a-10 , and that they annually approve the adviser contract, 15 U.S.C. 80a-15 , cannot seriously be expected to induce arm's-length bargaining.
+As the SEC long ago recognized, any so-called independent directors would "obviously have to be satisfactory to the dominating stockholders who are in a position to continue to elect a responsive board."
+Petroleum & Trading Corp. , 11 S.E.C.
+389 , 393 (1942); see 1969 House Hearings , ser. 90-22 at 696-97 (testimony of SEC Chairman Manuel F. Cohen).
+In sum, the root of the excessive adviser fee problem is basically incompatible with a corporate right of action as an effective solution.
+We believe the Senate Committee on Banking and Currency (referring to the bill eventually passed) had in mind exactly the plaintiffs it named and no others when it stated: "[Y]our committee has adopted the basic principle that, in view of the potential conflicts of interest involved in the setting of [adviser] fees, there should be effective means for the court to act where mutual fund shareholders or the SEC believe there has been a breach of fiduciary duty."
+S.Rep.
+No. 184, 91st Cong., 1st Sess.
+1 (1969), reprinted in 1970 U.S.Code Cong. & Ad.News at 4898.
+Neither the parties' briefs nor our own research has disclosed any indication in the comprehensive legislative history of 36(b) that suits by directors themselves were to be expected or encouraged.
+Although we agree with Judge Duffy that Congress intended the directors would perform a "watchdog" function, see also Burks v. Lasker , supra , 441 U.S. at 484 , 99 S.Ct. at 1840 ; Boyko v. Reserve Fund, Inc. , supra , 68 F.R.D. at 695-96 n. 2, it defies logic to conclude their contemplated role included suing their advisers.
+Moreover, the 1940 Act was not deficient or ineffective because a fund could not use it.
+By the time consideration of the 1970 Amendments was at hand, it had become clear that shareholders were hard pressed to prove a "gross abuse of trust," the standard of old 36 .
+Saxe v. Brady , 40 Del.Ch. 474 , 184 A.2d 602 (1962) (Seitz, Ch.
+), decided under traditional corporate law concepts, provided the model adhered to by federal courts in suits alleging excessive management fees.
+See Kurach v. Weissman , 49 F.R.D. 304 , 305-06 (S.D.N.Y.1970).
+In Saxe , mutual fund shareholders challenged adviser fees amounting to one-half of one percent of net assets.
+The adviser contract had been approved almost unanimously by the shareholders.
+Chancellor Seitz (now Chief Judge of the Third Circuit Court of Appeals) concluded that the adviser fee level must be evaluated according to the usual legal rules applicable to shareholder ratification cases: Saxe v. Brady , supra , 40 Del.Ch. at 486 , 184 A.2d at 610 .
+In concluding that plaintiffs must show "actual waste," or a fee level so high as to be "unconscionable," id. , the Chancellor noted that a 0.5% adviser fee rate was common and that the shareholders had approved the adviser contract virtually unanimously.
+Id. at 489 , 184 A.2d at 611-12 .
+Since these determinative factors were inevitably present, showing "actual waste" and overcoming a presumption of "sound business judgment" was well nigh impossible.
+Kurach v. Weissman , supra , 49 F.R.D. at 305-06 ; Goodman v. Von Der Heyde , [1969-1970 Transfer Binder] Fed.Sec.L.Rep.
+(CCH) ¶ 92,541 (S.D.N.Y.1969); Lessac v. Television-Elecs.
+Fund , [1967-1969 Transfer Binder] Fed.Sec.L.Rep.
+¶ 92,305 (S.D.N.Y.
+1968); see Rosenfeld v. Black , 445 F.2d 1337, 1345-46 (2d Cir.1971).
+Recognizing that shareholder plaintiffs had difficulty sustaining their burdens, Congress changed only the standard of duty.
+Cf. Burks v. Lasker , supra , 441 U.S. at 483-84 , 99 S.Ct. at 1839-1840 (1979).
+Despite the long odds, shareholders did sue for return of allegedly excessive fees.
+Starting in 1959, over fifty suits were instituted under common law principles and pursuant to the 1940 Act.
+1966 SEC Report 132.
+What happened is instructive.
+Advisers were sometimes willing to settle, because even Saxe left open the possibility that the point might be reached at which "profits outstripp[ed] any reasonable relationship to expenses and effort even in a legal sense."
+40 Del.Ch. at 498 , 184 A.2d at 616-17 .
+Given the substantial sums at stake, this willingness is not surprising.
+For precisely the opposite reason--that is, the slim likelihood of success on the merits--courts felt constrained to approve settlements, even when the terms were something less than desirable.
+E.g. , Kurach v. Weissman , supra , 49 F.R.D. at 305 .
+This confluence of inconsistent, but complementary, motives resulted in reduction of adviser fees in individual cases, but the effect on the industry as a whole was insignificant.
+In 1967, SEC Chairman Manuel Cohen noted that "[t]he median advisory fee paid by the 59 externally managed mutual funds with net assets of $100 million or more in fiscal years ending in 1966 was still 0.48 percent, down only 0.02 percent from the traditional 0.50 percent rate."
+1967 Senate Hearings , pt.
+1, at 14-15.
+Obviously the pressure to settle was analytically unrelated to the identity of the plaintiff.
+Our retracing of the analysis employed by Congress, and of its extensive documentation, persuades us that an investment company was not intended to possess a right of action under 36(b) .
+The relationship of a Fund to its adviser makes it a part of the problem in a way that precludes it from being part of the solution, at least at the litigation stage.
+The provision for evaluation of the adviser contract, 15 U.S.C. 80a-15(c) , and the general tightening of the powers of disinterested directors, e.g. , 15 U.S.C. 80a-2(a)(19) ; 80a-10(a) ; 80a-15(c) , provide for "an independent check on management and the representation of shareholder interests in investment company affairs," S.Rep.
+No. 184, 91st Cong., 1st Sess.
+32 (1969), reprinted in 1970 U.S.Code Cong. & Ad.News at 4927.
+We take this language to be nothing more nor less than a declaration by Congress that it was imposing duties on the directors to run the ongoing business of the Fund in a responsible manner, and with due regard for investors.
+Cf. United States v. National Ass'n of Sec.
+Dealers , 422 U.S. 694, 705 n. 13, 95 S.Ct., 2427, 2436 n. 13, 45 L.Ed.2d 486 (1975) (1940 Act concerned with imposing controls on "internal management [and] practices of investment companies").
+These functions and duties having proved ineffective in a particular case, at least in the eyes of the complaining shareholder plaintiff, the issue for Congressional scrutiny was how to particularize the already existing statute to make judicial relief a genuine possibility.
+Experience with shareholder suits had demonstrated that the Saxe standard, drawn from pre-existing corporate law principles but applied to the investment company industry, was useless.
+The fiduciary duty standard was imposed, and courts were empowered to view "all the circumstances," 15 U.S.C. 80a-35(b)(2) .
+The extensive number of suits brought under the earlier, less favorable law suggested that shareholders would move with alacrity pursuant to the new one.
+Given the nature of the problem and reasons for the 1940 Act's failure to remedy it, creating a corporate right of action would have made little sense and we conclude Congress never intended to do so. 12 III We have not as yet considered the applicability of Rule 23.1 head-on.
+Instead, we posed the analytically precedent question, whether a Fund may use 36(b) , and thereby trigger the rule.
+Our answer, that Rule 23.1 does not apply because the Fund has no right of action, renders superfluous any extensive discussion of the policy behind requiring demand.
+Nonetheless, because we believe neither policy nor logic compels application of the demand requirement to actions for return of excessive adviser fees, we briefly discuss the distinctiveness of 36(b) .
+Unlike the board in the common variety of derivative suit, the directors have no power to terminate a 36(b) action.
+Other provisions of the Investment Company Act, e.g. , 15 U.S.C. 80a-13(a)(3) , governed by state rules to the extent they are not inconsistent with federal law, leave unanswered the question whether independent directors of an investment company may terminate suit.
+Burks v. Lasker , supra , 441 U.S. at 483-86 , 99 S.Ct. at 1839-1841 .
+"[W]hen Congress intend[ed] to prevent board action from cutting off derivative suits, it said so expressly.
+Section 36(b) , added to the Act in 1970, performs precisely this function " Id. at 484 , 99 S.Ct. at 1840 (citation omitted).
+Since directors cannot cut off a suit and 36(b) does not authorize them to institute one, and because shareholder plaintiffs are necessarily challenging fees the directors evaluated and approved, 15 U.S.C. 80a-15 ; see Rosenfeld v. Black , supra , 445 F.2d at 1345 , the traditional reason for the demand requirement simply does not apply.
+See Note, The Demand and Standing Requirements in Stockholder Derivative Actions , 44 U.Chi.L.Rev.
+168, 171-72 (1976).
+13 Moreover, although requiring demand normally imposes only minor hardship on the complaining shareholders, in a 36(b) suit the consequences can be severe.
+Section 36(b) expressly limits recovery to excessive fees paid up to one year prior to the commencement of suit.
+15 U.S.C. 80a-35(b)(3) .
+The demand requirement implies a reasonable time in which directors may analyze the issues and determine whether they believe the company has a grievance.
+The delay caused by this process would, in many cases, 14 have the untoward result of precluding full recovery of excessive fees while the directors determined whether they had acted against the interests of the shareholders in approving the contract initially.
+We do not believe Congress was unaware of this pitfall.
+IV In a different context, Justice Jackson eloquently described the origin and rationale of the derivative suit: Cohen v. Beneficial Loan Corp. , 337 U.S. 541, 548 , 69 S.Ct. 1221, 1226 , 93 L.Ed. 1528 (1949).
+In holding that a Rule 23.1 demand will not be required in a shareholder suit brought pursuant to 36(b) of the Investment Company Act, we do not ignore the appropriateness, in the typical derivative suit alleging corporate wrongdoing, of first asking the corporation to "vindicate" what are, after all, "its own rights."
+We conclude, however, that in the unique context of a 36(b) lawsuit, the shareholder need not afford the fund an opportunity to vindicate its rights because such a requirement would be an empty, unfruitful and dilatory exercise.
+The judgment of the district court is reversed and the case is remanded.

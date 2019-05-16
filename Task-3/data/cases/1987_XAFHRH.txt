@@ -1,0 +1,214 @@
+ WILKINSON , Circuit Judge: In April 1979, Donald Clark sold his company to N.L.
+Industries for 300,000 shares of N.L.
+stock and $3,250,000 in a transaction that qualified as a reorganization.
+The issue in this case is whether the cash payment, commonly called boot, should be taxed as a capital gain or as ordinary income.
+The Commissioner treated the boot as ordinary income, characterizing it as a dividend paid by Clark's company immediately before the reorganization.
+This characterization, however, fails to recognize that the cash was an integral part of the reorganization.
+Rather than artificially separating the stock and the cash portions of the reorganization, we must examine the transaction in its entirety.
+We regard the boot as a cash payment by N.L.
+in return for Clark's relinquishment of a portion of his interest in the newly reorganized corporation.
+Because Clark surrendered more than 20% of his interest in N.L., he is entitled to capital gain treatment.
+I. Clark was the sole shareholder of Basin, a West Virginia corporation that supplied electronic, radiation, and nuclear open-hole logging services to the petroleum industry.
+In 1978, N.L.
+Industries, a public company listed on the New York Stock Exchange, initiated negotiations with Clark over the possible acquisition of Basin.
+N.L.
+eventually offered to buy Clark's stock for either 425,000 shares of N.L.
+or 300,000 shares and $3,250,000.
+Clark accepted the combination offer.
+In April 1979, Clark and N.L.
+finalized the deal by signing an agreement in which Basin was merged with NLAC, a subsidiary of N.L.
+created for acquisition purposes.
+Because Clark and the Commissioner have stipulated that the transaction qualified as a reorganization under 26 U.S.C. 368(a)(1)(A) and 368(a)(2) (D), Clark did not have to report any gain on the exchange of his Basin stock for N.L.
+stock.
+Section 356(a) , however, requires Clark to pay tax on the $3,250,000 cash payment to the extent of his gain in the transaction.
+Clark and the Commissioner disagree on whether the cash payment should be taxed as a capital gain or ordinary income.
+Clark reported the boot as capital gain, but the Commissioner found that the cash payment had the effect of a dividend and should be taxed as ordinary income to the extent of Clark's ratable share in Basin's earnings and profits.
+After the Service assessed a deficiency of $972,504.74, Clark filed a petition with the Tax Court.
+In a unanimous reviewed opinion, the Tax Court held that the corporate boot should be treated as a capital gain.
+Clark v. Commissioner , 86 T.C. 138 (1986).
+The Commissioner appeals.
+II.
+According to 356(a)(2) , cash received during a reorganization is considered ordinary income if it has the effect of a dividend.
+In determining when corporate boot has the effect of a dividend, most courts have relied on the principle of 302 , which provides in part that a corporate distribution is a dividend unless the shareholder relinquished more than 20% of his corporate control and was less than a 50% shareholder after the transaction.
+Although the Commissioner notes several differences between 302 and 356 , we believe that 302 continues to provide the appropriate test for determining whether boot is ordinary income or a capital gain.
+Thus, if Clark surrendered more than 20% of his corporate interest in return for the cash payment, he is entitled to capital gain treatment.
+Under 356(a)(2) , Clark must recognize the boot as ordinary income if it had the "effect of the distribution of a dividend."
+Section 356 does not define when a payment has the effect of a dividend.
+In Commissioner v. Estate of Bedford , 325 U.S. 283 , 65 S.Ct. 1157 , 89 L.Ed. 1611 (1945), the Supreme Court initially suggested that any cash payment made during a reorganization would be treated as a dividend under 356 .
+This automatic dividend rule, however, was severely criticized by the commentators.
+See, e.g. , Darrel, The Scope of Commissioner v. Estate of Bedford , 24 Taxes 266 (1946); Shoulson, Boot Taxation: The Blunt Toe of the Automatic Rule , 20 Tax L.Rev.
+573 (1965).
+The lower courts retreated from this absolute approach, see, e.g. , Hawkins v. Commissioner , 235 F.2d 747, 750-51 (2d Cir.1956); King Enterprises, Inc. v. United States , 418 F.2d 511, 520 , 189 Ct.Cl.
+466 (1969); Idaho Power Co. v. United States , 161 F.Supp.
+807 , 142 Ct.Cl.
+534 (1958), and the Commissioner eventually abandoned the Bedford approach in several revenue rulings.
+See, e.g. , Rev.Rul.
+515, 1974-2 C.B.
+118; Rev.Rul.
+83, 1975-1 C.B.
+112.
+In place of this automatic dividend rule, most courts have approached the corporate boot problem by focusing on the underlying principle of 302 .
+Although 302 deals with stock redemptions by a single corporation, the section does draw a fundamental distinction between a capital gain and ordinary income.
+The basic principle of 302 is that a shareholder who receives cash in a pro rata corporate distribution must pay an ordinary income tax, but if the shareholder relinquishes a sufficient portion of his corporate control in return for the cash, he will receive capital gain treatment.
+See 26 U.S.C. 302 (1982); See also United States v. Davis , 397 U.S. 301 , 90 S.Ct. 1041 , 25 L.Ed.2d 323 (1970) (requiring capital gain treatment if the redemption caused a "meaningful reduction" in the shareholder's corporate control).
+When a shareholder surrenders some corporate control in return for a cash distribution, he is entitled to capital gain rates because the transaction is essentially an exchange of his corporate control, rather than a simple pro rata distribution of corporate earnings and profits.
+Because it is difficult to determine when a shareholder has yielded a sufficient percentage of control, 302 (b) contains a safe harbor provision, which treats a redemption as a capital gain if the taxpayer surrendered more than 20% of his corporate interest and was not a majority shareholder after the redemption.
+If the principle of 302 applies in this case, the boot would be a capital gain only if Clark yielded a sufficient portion of his corporate control.
+Section 302 does not explicitly apply in the reorganization context, but there are several persuasive reasons why 302 should be used in determining whether boot is taxed as ordinary income.
+Sections 302 and 356 contain virtually identical language, with 302 providing for ordinary income treatment if the redemption is "essentially equivalent to a dividend", while 356 treats boot as ordinary income if it "has the effect of a distribution of a dividend."
+Based on this similarity, the courts have consistently held that the sections should be read in pari materia.
+See, e.g. , Wright v. United States , 482 F.2d 600, 605 (8th Cir.1973); Hawkins , 235 F.2d at 750 ; Ross v. United States , 173 F.Supp 793, 797 , 146 Ct.Cl.
+223 (1959).
+See also Shimberg v. United States , 577 F.2d 283, 287 n. 13 (5th Cir.1978) (stating that 302 applies in "appropriate cases.")
+Moreover, in discussing the Deficit Reduction Act of 1984, the House and Senate conference committee noted that the "principles of section 302 are applicable in testing for dividend equivalence under section 356 ."
+H.Rep.
+861, 98th Cong., 2d Sess.
+757, 845, reprinted in 1984 U.S.Code Cong. & Ad.News 697, 1445, 1532.
+Most importantly, 302 and 356 address the same issue: when should a corporate distribution be treated as a dividend?
+Note, Reorganization and Capital Gains--A Forgotten Concept?
+, 41 U.Pitt.L.Rev.
+291 (1980); Note, Determining Dividend Equivalence of "Boot" Received in a Corporate Reorganization , 32 Tax Lawyer 834 (1979).
+Until this case, the Commissioner had apparently adopted the prevailing view that 302 applies in the reorganization setting.
+See, e.g. , Wright , 482 F.2d at 605 ; Rev.Rul.
+515, 1974-2 C.B.
+118; Rev.Rul.
+83, 1975-1 C.B.
+112.
+The Commissioner, however, has discovered several differences between the two sections and now argues that 302 does not apply.
+For example, the Commissioner notes that all cash received in a stock redemption is ultimately taxed at either capital gain or ordinary income rates, but the boot received in a reorganization is taxed only to the extent of the taxpayer's gain on the transaction, regardless of the size of the boot payment.
+In addition, if a redemption is a dividend under 302 , the shareholder must pay ordinary income to the full extent of the corporation's earnings and profits (E & P), but if the boot is a dividend, 356 only requires the shareholder to pay ordinary income to the extent of his ratable share of the corporate E & P. While the Commissioner has illustrated several important differences between the two sections, they are irrelevant in this case. As Clark notes, the differences relate only to the amount of the gain treated as a dividend, not to the character of the corporate distribution.
+Any potential problems created by the differences in the provisions can be avoided by using 302 only to determine whether the boot had the effect of a dividend and relying on 356 to evaluate what specific portion of the payment, if any, should be taxed as ordinary income.
+In return for abandoning the 302 analysis, the Commissioner offers no realistic alternative, except perhaps a return to the abandoned rule that any pro rata distribution in a reorganization must automatically be treated as a dividend.
+Rather than ignore a code section that specifically addresses the same problem as 356 , we join the long line of courts that have applied 302 in the reorganization context.
+See, e.g. , Wright , 482 F.2d at 605 ; Hawkins , 235 F.2d at 751 ; King Enterprises , 418 F.2d at 520-21 .
+III.
+Although 302 provides that a boot payment is a capital gain if Clark relinquished enough corporate control, the section cannot resolve this case. The boot can be seen as affecting either Clark's interest in Basin or in N.L., with radically different tax treatment depending on whether the boot was paid before or after the reorganization.
+Because 302 was designed to deal with a stock redemption by a single corporation, rather than a reorganization involving two companies, the section does not indicate which corporation Clark actually lost interest in.
+Based on the language and legislative history of 356 , the change-in-ownership principle of 302 , and the need to review the reorganization as an integrated transaction, we conclude that the boot should be characterized as a post-reorganization stock redemption by N.L.
+that affected Clark's interest in the new corporation.
+Because this redemption reduced Clark's N.L.
+holdings by more than 20%, the boot should be taxed as a capital gain.
+The transaction in this case involved two steps: Clark received a $3,250,000 corporate distribution and exchanged his Basin stock for N.L.
+stock.
+The characterization of the corporate boot presents a problem primarily because these two steps can be combined into at least two plausible stories.
+In the first version, Clark received the $3,250,000 from Basin in a pre-reorganization distribution and subsequently merged his shrunken company with N.L.
+for 300,000 shares.
+Under this pre-reorganization view, the boot would be ordinary income because Clark was the sole shareholder of Basin.
+In the second version, Clark exchanged his Basin stock for 425,000 shares of N.L.
+stock and N.L.
+subsequently redeemed 125,000 shares for $3,250,000.
+Because this redemption reduced Clark's interest in N.L.
+by almost 30%, he would be entitled to capital gain treatment.
+Of course, both of these hypothetical stories are slightly unrealistic.
+In the pre-reorganization view, Basin is treated as distributing over three million dollars to Clark, but no such distribution occurred.
+Under the post-view, Clark is seen as receiving 425,000 N.L.
+shares, an offer he refused, and then hypothetically redeeming 125,000 shares.
+Despite the flaws in each story, they represent the only realistic options.
+No matter how the story is told, the boot was received either before or after the reorganization.
+If the boot was paid by Basin before the reorganization, the appropriate question is whether the payment affected Clark's ownership interest in Basin.
+If the boot was received after the reorganization, the focus should be on how it reduced Clark's holdings in N.L.
+Industries.
+Each version has its theoretical arguments and judicial adherents.
+See Shimberg v. United States , 577 F.2d 283 (5th Cir.1978) (applying pre-organization view); Wright v. United States , 482 F.2d 600 (8th Cir.1973) (applying post-reorganization view).
+In determining which view is more appropriate, the starting point of analysis is the statutory language of 356 .
+Section 356(a)(2) provides that, if the boot is a dividend, the shareholder is taxed at ordinary income rates only to "his ratable share of the undistributed earnings and profits of the corporation."
+The Commissioner argues that if the boot is deemed to come from N.L., Clark would have to determine his ratable share of N.L.
+'s earnings and profits (E & P), a task that is both difficult and slightly unrealistic.
+Moreover, if the focus is on the E & P of the acquirer, the shareholders of a target company could receive a distribution that has the effect of a dividend and pay virtually no ordinary income tax if the acquirer has a low E & P account.
+Thus, the Commissioner argues that "the corporation" in 356(a)(2) must be Basin and hence that a pre-reorganization perspective is envisioned in the statute.
+We do not think this statutory language is nearly so clear as the Commissioner suggests.
+In fact, much of the language of 356 supports an integrated view of the transaction.
+Section 356(a)(1) provides that if the transaction would have been a tax-free reorganization "but for the fact that the property received in the exchange consists not only of property permitted by section 354 or 355 but also of other property or money, then the gain, if any, to the recipient shall be recognized."
+26 U.S.C. 356(a)(1) (1982) (emphasis added).
+At a minimum, this language indicates that a shareholder of the target corporation may receive cash from the acquiring company; the section also strongly implies that all property involved in the reorganization, both the stock and the boot, should be seen as coming from the acquirer in a single exchange.
+Hankin & Lerer, Wright v. Wrong: The Final Solution to the Dividend Equivalency Problem , 23 Santa Clara L.Rev.
+1 (1983).
+The Commissioner's pre-reorganization view conflicts with this language because it invariably sees the boot as coming from the target corporation, thereby separating the boot payment from the exchange of stock.
+The post-reorganization view of the language of 356 is bolstered by the legislative history.
+In enacting 112(c)(2) of the 1939 Code, the precursor of 356(a)(2) , Congress provided an example of when a distribution has the "effect of a dividend."
+In the example, shareholders of corporation A tried to withdraw the company's E & P by forming corporation B, transferring all the assets of the old corporation to this new corporation in a reorganization, and receiving as consideration some stock of B plus a cash payment.
+H.Rep.
+179, 68th Cong., 1st Sess.
+15 (1924), 1939-1 C.B.
+(Pt.
+2) 241, 252.
+The boot in that case should obviously be treated as a dividend: the shareholders have received corporate earnings in a pro rata distribution while retaining the same level of control in corporation B. As the Tax Court properly noted, this example suggests that "the primary objective of Congress was to prevent shareholders from bailing out earnings and profits at capital gain rates when in essence the shareholders stood substantially in the same position before the reorganization as they did after the reorganization."
+86 T.C. at 143 .
+There is no evidence of such a bail-out in this case.
+We cannot accept the Commissioner's view of the legislative history.
+According to the Commissioner, Congress enacted 356 to ensure that corporate boot would be taxed as ordinary income if the distribution would have been a dividend without the reorganization.
+The Commissioner concludes that Clark should pay an ordinary income tax, even though his corporate control was affected by an acquisitive reorganization, because the boot would have been a dividend if paid by Basin absent the reorganization.
+This reading of the legislative history is unsupportable; there is no indication that Congress intended to impose virtually automatic dividend treatment on boot received during an acquisitive reorganization in which the shareholder of the target corporation relinquished a portion of his interest in the new corporation.
+Note, Taxation of Boot Distributions: A Return to Bedford?
+, 7 Hofstra L.Rev.
+987 (1979); Note, Treatment of Cash Distributions to the Shareholders Pursuant to a Corporate Reorganization: Shimberg v. United States , 20 B.C.L.Rev.
+601 (1979).
+The principles underlying 302 also support the post-reorganization view.
+The critical inquiry under 302 is whether Clark lost any corporate control as a result of the transaction.
+Under the Commissioner's view, Clark lost no control because, after the redemption, he was still the majority shareholder of Basin.
+This version, however, fails to recognize that Basin ceased to exist immediately after the hypothetical distribution to Clark.
+An examination of Clark's pre-reorganization interest in Basin reveals nothing about how much corporate control he retained after the reorganization was completed.
+An accurate evaluation of Clark's corporate interest for purposes of 302 requires an examination of his holdings in N.L., which is the continuing corporation.
+Hurley, Capital Gain Possibilities for Boot in Acquisitive Reorganizations Lessened by Shimberg Case , 50 J. Tax'n 334 (1979).
+IV.
+In addition to finding scant support in the language and legislative history of 356 and the rationale of 302 , the Commissioner's version of the transaction suffers from several serious flaws.
+First, as a practical matter, the Commissioner's view inexplicably favors shareholders of corporations which merge with larger corporations.
+Milner, Boot under the Senate Finance Committee's Reorganization Proposal: a Step in the Wright Direction, But Too Far , 62 Taxes 507 (1984).
+When a shareholder merges with a corporation listed on a major stock exchange, he can avoid ordinary income and virtually ensure capital gain treatment by taking only stock from the acquirer, waiting a sufficiently long time, and then selling the stock on the market as a capital gain.
+Note, Boot Hill--Characterizing Property Distributed with Corporate Reorganizations , 4 J.Corp.Law.
+711 (1979).
+If, on the other hand, a shareholder merges with a closely held company, he may be forced to choose between taking only stock or receiving some cash and paying an ordinary income tax.
+Second, the Commissioner's view comes close to resurrecting the abandoned automatic dividend rule of Bedford .
+See Note, 20 B.C.L.Rev.
+601 (1979).
+The Commissioner's view will result in ordinary income treatment in most reorganizations because corporate boot is usually distributed pro rata to the shareholders of the target corporation.
+In cases where the target company has only one shareholder, the Commissioner's rule would go even further and virtually guarantee dividend treatment because cash distributed to a sole shareholder will almost never result in a loss of corporate control and thus will almost always be deemed a dividend.
+The statutory language in 356 clearly does not impose such automatic dividend treatment.
+Third, the Commissioner's pre-reorganization perspective leads to anomalous results in some cases.
+Even the adherents of that view admit that the approach may be inappropriate when an individual owns stock in both the target and the acquiring corporation, as the following example illustrates: Shareholder A owns 30 of the 100 shares of corporation X, which is worth $100, and holds all 100 shares of corporation Y, also worth $100.
+Corporation X merges with corporation Y, creating XY corporation, a new company worth $200.
+As consideration for the merger, Shareholder A receives 110 shares of XY stock plus $20, instead of the 130 shares of XY stock he would have received in a pure stock-for-stock reorganization.
+The remaining shareholders of Corporation X receive only XY stock.
+When the reorganization is finished, A owns 110 of the 180 shares of XY stock and has $20.
+See, e.g. , Note, Boot Distributions in Acquisitive Reorganizations: The Wright-Shimberg Controversy , 59 S.Cal.L.Rev.
+1295 (1980).
+Under the pre-reorganization view, A would pay capital gain on the boot because he will be treated as if he redeemed 20 of his 30 shares in Corporation X for $20, immediately before the reorganization, thus falling within the 302 safe harbor provision.
+Shareholder A, however, should pay ordinary income because he is the majority shareholder of the reorganized corporation.
+The integrated view, by focusing on A's post-reorganization interest in the new company, would properly impose an ordinary income tax.
+Fourth, as the Tax Court recognized, the leading case for the Commissioner's view, Shimberg v. United States , misconstrued the comparisons of shareholder interests required under an integrated view of the reorganization.
+86 T.C. at 148-49 ; Note, 32 Tax Lawyer 834.
+Shimberg involved a "minnow-whale" reorganization, in which a small corporation merged with a larger corporation.
+The district court held that the shareholder of the target company satisfied the safe harbor provision of 302 because he went from being the majority shareholder of the target to a less than 1% shareholder in the acquirer.
+As the Shimberg court noted, this approach would lead to a virtual automatic capital gain rule in minnow-whale reorganizations because the target shareholders will invariably fall with the 302 safe harbor provisions.
+Shimberg , 577 F.2d at 287-88 .
+The Shimberg court was wrong to suggest, however, that an integrated perspective automatically provides for capital gain treatment.
+Rather than comparing the shareholder's interest in the target with his interest in the acquirer, the integrated view focuses on the shareholder's loss of interest in the acquiring corporation.
+If the boot does not reduce his ownership interest in the surviving corporation by the amount required in 302 , the shareholder must pay ordinary income.
+Finally, the Commissioner's view artifically segments the Basin-N.L.
+reorganization.
+The step transaction doctrine, which encourages the view of transactions in their entirety, confirms our view that an integrated perspective is more appropriate.
+The classic exposition of the doctrine is Zenz v. Quinlivan , 213 F.2d 914 (6th Cir.1954), which also involved a choice between two plausible versions of a transaction.
+In Zenz , a shareholder redeemed a portion of his stock and sold the other portion to an outside buyer.
+The Commissioner argued that the redemption occurred first, which required the taxpayer to pay ordinary income on the redemption.
+According to the taxpayer, the sale occurred first, which resulted in capital gain treatment for the redemption because it completely liquidated the shareholder's interest in the company.
+Both versions were theoretically plausible.
+Zenz noted that the overall effect of the sale and redemption was a complete elimination of the taxpayer's interest in the corporation, which should have entitled the taxpayer to a capital gain.
+213 F.2d at 917 .
+To ensure that the shareholder paid only capital gain rates, the court treated the transaction as if the sale occurred first, followed by a complete redemption.
+This case presents the same problem faced by the Zenz court: determining which transaction--the redemption or the exchange of stock--occurred first.
+Zenz resolved the problem by focusing on the net effect of both steps in the transaction.
+The Commissioner here focuses on only one part of the transaction and fails to recognize that the cash and the stock exchange were integral parts of one reorganization.
+See, Levin, Adess & McGaffey, Boot Distributions in Corporate Reorganizations , 30 Tax Lawyer 287 (1977); Note, 59 S.Cal.L.Rev.
+1295; Note, 32 Tax Lawyer 834.
+The facts show that as a part of the reorganization, Clark was offered a choice between 125,000 shares of N.L.
+stock and $3,250,000.
+The cash that Clark chose was clearly a substitute for additional N.L.
+stock; the Tax Court found that "there is not the slightest evidence that the cash payment was a concealed distribution from Basin."
+86 T.C. at 155 .
+The tax consequences of the transaction should reflect the reality of Clark's choice to forego 125,000 shares of N.L.
+stock.
+There is no question in this case that the value of the boot received was roughly equivalent to the value of the shares foregone by Clark.
+By taking the cash, Clark surrendered his potential interest in N.L.
+to the extent of almost 30%.
+This 30% drop satisfied the safe-harbor provisions of 302 and entitled Clark to capital gain treatment.
+The judgment of the Tax Court is AFFIRMED.

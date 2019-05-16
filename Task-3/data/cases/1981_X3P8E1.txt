@@ -1,0 +1,379 @@
+ ALVIN B. RUBIN , Circuit Judge: This eight-year securities litigation traverses the gamut of Rule 10b-5 issues.
+After lengthy discovery and a three-week trial to a jury, a judgment was entered on the basis of the jury's special verdict in answer to specific factual interrogatories.
+Despite this carnage, the battle must again be joined because the district court failed to submit crucial issues on reliance and causation to the jury.
+Although the judgment must be reversed, we nevertheless affirm the ruling that there is an implied cause of action under Section 10(b) of the Securities Exchange Act of 1934 even when an express cause of action is created by other sections of the federal securities laws.
+We reverse the judgment holding that corporate officers and accountants who prepare the corporate issuer's prospectus in connection with a securities offering are sellers of those securities under the Texas Securities Act.
+Finally, we consider other issues likely to recur at the unfortunately necessary new trial.
+I. FACTS Texas International Speedway, Inc. [TIS] filed a registration statement and prospectus with the Securities and Exchange Commission [SEC] and the Texas State Securities Board offering a total of $4,398,900 in securities, the proceeds of which were to be used to construct an automobile racetrack called the Texas International Speedway.
+The entire issue was sold on the offering date, October 30, 1969.
+The corporation was nonetheless short-lived, for on November 30, 1970, TIS filed a petition for bankruptcy under Chapter X of the Bankruptcy Act.
+In 1972, the plaintiffs on behalf of themselves and other purchasers of TIS securities filed this class action alleging claims under Section 10(b) of the Securities Exchange Act of 1934 [the 1934 Act] and Rule 10b-5 promulgated pursuant to that statute.
+While the class action complaint alleged a panoply of federal and state law violations, only two remain material: conspiracy to violate Section 10(b) of the 1934 Act and Rule 10b-5 and conspiracy to violate the Texas Securities Act [TSA], a pendent claim.
+The complaint sought damages from LoPatin, the former President, Treasurer and Director of TIS; Share, the former Executive Vice-President and Director of TIS; Herman and MacLean [H&M], the accountants who had participated in preparation of the prospectus, and others.
+1 With court approval, the class compromised its claims against the underwriters for $275,000 and those against the speedway contractor for $50,000.
+The court order stated that "the release of any of the settling defendants is not to be treated as the release of a joint tort-feasor under common law."
+The amounts received in settlement were credited against the judgment eventually obtained by the plaintiffs but the nonsettling defendants' cross-claims for contribution were disallowed.
+The issues that now concern us focus on statements made in the TIS prospectus.
+It contained an audited balance sheet dated May 31, 1969, and an unaudited balance sheet dated August 31, 1969.
+It related that the speedway was under construction and the proceeds of the securities issue would be used to pay the costs of that construction.
+It also contained a pro forma balance sheet dated May 31, 1969, showing that, upon completion of the public offering of the securities and the application of the proceeds to the construction costs of the speedway, TIS would on the speedway's opening date have $93,870 in cash on hand after allocation of $295,771 for general administrative expenses.
+The trial judge submitted the case to the jury on special issues concerning whether the prospectus was materially misleading and, if so, whether this was done with scienter of various defendants.
+Despite the defendants' requests, he refused to submit special issues relating to reliance and causation.
+The jury found that the prospectus was materially misleading as to the cost of constructing the speedway and that the defendants had "failed to disclose" the true facts with reckless disregard for the truth. 2 The trial judge then himself determined the amount of damages and entered judgment for the plaintiffs and against LoPatin, Share and H&M.
+II.
+THE IMPLICATION OF A PRIVATE CAUSE OF ACTION UNDER SECTION 10(b) AND RULE 10b-5 DESPITE THE APPLICABILITY OF EXPRESS CIVIL LIABILITY PROVISIONS The Securities Act of 1933, 15 U.S.C. 77a et seq.
+, [the 1933 Act] and the Securities Exchange Act of 1934, 15 U.S.C. 78a et seq.
+, [the 1934 Act] each authorizes specific private civil actions for damages arising out of statutory violation.
+3 Together they "constitute interrelated components of the federal regulatory scheme governing transactions in securities."
+Ernst & Ernst v. Hochfelder , 425 U.S. 185, 206 , 96 S.Ct. 1375, 1387 , 47 L.Ed. 668, 684 (1976).
+Each of the Acts contains general prohibitory sections that neither specifically authorize nor forbid a private cause of action.
+In a series of separate decisions, spanning four decades, courts have found that many of these provisions, including Section 10(b) and SEC Rule 10b-5 , imply a private judicial remedy. 4 The plaintiffs alleged violations of Section 17(a) of the 1933 Act, 15 U.S.C. 77q(a) , Section 10(b) of the 1934 Act, 15 U.S.C. 78j(b) , and Rule 10b-5 , 17 C.F.R. 240.10b-5 , all of which have been held to imply a private action.
+However, the alleged misrepresentations in the prospectus would also warrant a suit under Sections 11 and 12(2) of the 1933 Act, 15 U.S.C. 77k and 77l(2) .
+The apparent overlap in the applicability of the express liability provisions of the 1933 Act and the implied remedies raises the issue whether an implied cause of action is available when an express cause of action has been created, a question reserved by the Supreme Court in Blue Chip Stamps v. Manor Drug Stores , 421 U.S. 723, 752 n.15, 95 S.Ct. 1917, 1933 n.15, 44 L.Ed.2d 539, 559 n.15 (1975), and again left open in Ernst & Ernst v. Hochfelder , 425 U.S. 185, 211 n.31, 96 S.Ct. 1375, 1389 n.31, 47 L.Ed.2d 668, 687 n.31 (1976), in considering the relationship of Section 10(b) and Section 18 of the 1934 Act, 15 U.S.C. 78r .
+The classic reconciliation of the apparent overlap of the express civil liability provisions of the 1933 Act and the cause of action implied in Rule 10b-5 is, according to 4 A. Bromberg, Securities Law: Fraud--SEC Rule 10b-5 2.4, at 384.6 (Supp.1977), provided by Fischman v. Raytheon MFG. Co. , 188 F.2d 783 (2d Cir. 1951).
+In Fischman , the common stockholders who were the plaintiffs contended that they were injured by the misstatements in a registration statement pursuant to which preferred stock was issued.
+Because they had not purchased the registered securities, they had no claim under Section 11 of the 1933 Act.
+The trial court held that these common stockholders were not entitled to relief under Rule 10b-5 because to allow such a claim would circumvent the restrictions imposed in an action under Section 11 .
+The Second Circuit, reversing the district court, noted that proof of fraud is required under Rule 10b-5 but not required in a Section 11 action.
+"We think that when, to conduct actionable under 11 of the 1933 Act, there is added the ingredient of fraud, then that conduct becomes actionable under 10(b) of the 1934 Act and the Rule " 188 F.2d at 786-87 .
+5 Moreover, in SEC v. National Securities, Inc. , 393 U.S. 453 , 89 S.Ct. 564 , 21 L.Ed.2d 668 (1969), the Supreme Court considered the contention that Rule 10b-5 does not cover misrepresentations in connection with proxy solicitations in the light of Section 14 of the 1934 Act, 15 U.S.C. 78n , which provides a complex regulatory scheme covering such solicitations.
+"[T]he existence or nonexistence of regulation under 14," the Court said, "would not affect the scope of 10(b) and Rule 10b-5 .
+The two sections of the Act apply to different sets of situations.
+Section 10(b) applies to all proscribed conduct in connection with a purchase or sale of any security; 14 applies to all proxy solicitations, whether or not in connection with a purchase or sale.
+The fact that there may well be some overlap is neither unusual nor unfortunate ."
+393 U.S. at 468 , 89 S.Ct. at 573 , 21 L.Ed.2d at 680 (emphasis added).
+However, recent Supreme Court decisions curtailing the broader sweep given the Securities Acts by lower federal courts 6 together with the footnote observations in Ernst & Ernst and Blue Chip Stamps recognizing, without deciding, the overlap issue, give substance to the argument that no remedy should be implied for actions covered by express liability provisions of the statutes. 7 Two circuit courts have recently addressed the question.
+8 The Second Circuit adopted the Fischman rationale in Ross v. A. H. Robins Co. , 607 F.2d 545 (2d Cir. 1979), cert. denied , 446 U.S. 946 , 100 S.Ct. 2175 , 64 L.Ed.2d 802 (1980), holding that a cause of action may be implied in Section 10(b) and Rule 10b-5 for conduct that might also permit suit under Section 18 of the 1934 Act, 15 U.S.C. 78r .
+While this court had the present case under advisement, the District of Columbia Circuit took the same position, holding that a remedy is implied under Section 10(b) of the 1934 Act despite the possibility of overlap between that implied cause of action and express remedies provided by other sections of the securities laws.
+Wachovia Bank and Trust Co. v. National Student Marketing Corp. , No. 79-1595 (D.C.Cir.
+1980).
+See generally Note, Rule 10b-5 : The Circuits Debate the Exclusivity of Remedies, The Purchaser-Seller Requirement, and Constructive Deception, 37 Wash. and Lee L.Rev.
+877 (1980).
+These decisions reason that the courts "are not being asked to create a new judicial remedy.
+It is well established that a private remedy exists" under Section 10(b) and Rule 10b-5 .
+Ross v. A. H. Robins Co. , 607 F.2d at 553 .
+9 The question is whether an established remedy may be invoked despite the existence of another remedy for the same conduct.
+While Sections 11 and 12(2) of the 1933 Act, like Section 18 of the 1934 Act, contain limitations and requirements not exacted of Section 10(b) litigants, allowing invocation of the Section 10(b) remedy does not impermissibly nullify those constraints.
+To prevail under Section 10(b) a plaintiff must prove facts not necessary to recovery under the provisions of the 1933 Act.
+To recover under Section 10(b) , the plaintiff must prove deceit 10 committed with scienter.
+11 While here the alleged deceitful statements were lodged in a registration statement filed with the SEC, thus implicating the express liability provisions of the 1933 Act, to draw the distinction suggested and deny the implied action under Section 10(b) would make the existence of the action under Section 10(b) depend on whether the statement relied upon was or was not contained in an SEC filing.
+If deceitful statements were made both in SEC filings and elsewhere, then the existence of the Section 10(b) cause of action might depend on whether the investor relied on one or the other.
+To hold that the purchasers in this case must be limited to the express liability provisions of the 1933 Act because the false statements were made in the prospectus filed with the SEC, would, as the court observed in Ross , "encourage corporate managers to include these misrepresentations in material filed with the S.E.C., for the sole purpose of insulating themselves from liability under 10(b) and restricting the class of potential plaintiffs to the unlikely few who actually viewed and relied on the misleading information."
+607 F.2d at 556 .
+Therefore, we hold that a cause of action lies under Section 10(b) of the 1934 Act and Rule 10b-5 even if the deceit that is the basis for the Section 10(b) action may also be actionable under other express liability provisions of the securities law.
+III.
+ELEMENTS OF THE CAUSE OF ACTION UNDER SECTION 10(b) AND RULE 10b-5 The elements necessary to prove a Section 10(b) claim have been so often applied by the lower federal courts that they can be stated in black letter fashion.
+To make out a claim under Section 10(b), which is based on the common law action of deceit, the plaintiff must establish (1) a misstatement or an omission (2) of material fact (3) made with scienter (4) on which the plaintiff relied (5) that proximately caused his injury.
+12 We discuss each of these prerequisites in turn.
+A. Materiality Considering the definition of a material fact under Section 14(a) of the 1934 Act and the SEC rules governing proxy statements, the Supreme Court, in TSC Industries, Inc. v. Northway, Inc. , 426 U.S. 438 , 96 S.Ct. 2126 , 48 L.Ed.2d 757 (1976), adopted a "general standard of materiality as follows: An omitted fact is material if there is a substantial likelihood that a reasonable shareholder would [not might ] consider it important in deciding how to vote."
+TSC Industries, Inc. v. Northway, Inc. , 426 U.S. at 449 , 96 S.Ct. at 2132 , 48 L.Ed.2d at 766 (emphasis added).
+"[T]here must be a substantial likelihood that the disclosure of the omitted fact would have been viewed by the reasonable investor as having significantly altered the 'total mix' of information made available."
+Id. at 449 , 96 S.Ct. at 2132 , 48 L.Ed.2d at 766 .
+"In this circuit, the test of materiality [under Rule 10b-5 ] is 'whether a reasonable man would attach importance to the fact misrepresented in determining his course of action.'
+Smallwood v. Pearl Brewing Co. , 489 F.2d 579, 603-04 (5th Cir.), cert. denied , 419 U.S. 873 , 95 S.Ct. 134 , 42 L.Ed.2d 113 (1974)."
+Falls v. Fickling , 621 F.2d 1362, 1365 n.9 (5th Cir. 1980).
+See also Wheat v. Hall , 535 F.2d 874, 876 (5th Cir. 1976); John R. Lewis, Inc. v. Newman , 446 F.2d 800, 804 (5th Cir. 1971).
+See generally Project, Recent Developments in Securities Law: Causes of Action Under Rule 10b-5, 26 Buffalo L.Rev.
+503, 516-22 (1977).
+The TIS prospectus warned the potential investor that "THESE SECURITIES INVOLVE A HIGH DEGREE OF RISK" and that the construction costs might be underestimated.
+Nonetheless, there was evidence from which the jury might have inferred that, on the effective date of the registration statement, LoPatin, Share and H&M already knew that the cost of construction was understated and that consequently the Company's working capital position would not be as favorable as the prospectus reflected.
+13 To warn that the untoward may occur when the event is contingent is prudent; to caution that it is only possible for the unfavorable events to happen when they have already occurred is deceit.
+Considering the evidence presented, the jury could justifiably conclude that the prospectus misstated the costs of completion of the speedway, the amount of working capital that would be available to the Company and the urgency of TIS's need to generate funds from the operation of the speedway.
+Each of these facts, and, certainly their combined significance could all be considered important in the total mix of information considered by the securities purchaser.
+The fact that it is not unusual for the final cost of construction to exceed the contract price does not condone the deliberate misstatement of the cost anticipated on the basis of known events.
+The very fact that LoPatin and Share reduced certain estimated construction costs to prevent cost estimates from exceeding the estimates of available funds before the construction budget appeared in the prospectus, and the later revelation of construction cost "overruns" to the SEC in January, 1970, indicate that LoPatin, Share and H&M believed that the costs of completion figures would be considered important by the potential investor in making his ultimate investment decision.
+We conclude, therefore, that there was sufficient evidence to warrant the finding of materiality of the misstatements.
+14 B. Scienter In Ernst & Ernst v. Hochfelder , 425 U.S. 185 , 96 S.Ct. 1375 , 47 L.Ed.2d 668 (1976), the Supreme Court held that the Rule 10b-5 implied cause of action requires a showing of scienter.
+See also Aaron v. SEC , 446 U.S. 680 , 100 S.Ct. 1945 , 64 L.Ed.2d 611 (1980).
+The Court defined the term as "a mental state embracing intent to deceive, manipulate, or defraud."
+Ernst & Ernst v. Hochfelder , 425 U.S. at 193 n.12, 96 S.Ct. at 1381 n.12, 47 L.Ed.2d at 677 n.12.
+In Aaron the Court expressly did not "address the question, reserved in Hochfelder , whether, under some circumstances, scienter may also include reckless behavior."
+446 U.S. at 686 n.5, 100 S.Ct. at 1950 n.5, 64 L.Ed.2d at 620 n.5.
+This circuit's position on whether reckless behavior is sufficient to establish scienter is presently uncertain because the panel decision in Broad v. Rockwell International Corp. , 614 F.2d 418 (5th Cir. 1980), was vacated by the granting of a rehearing en banc in that case, 618 F.2d 396 (5th Cir. 1980).
+See Dwoskin v. Rollins, Inc. , 634 F.2d 285, 289 (5th Cir. 1981).
+The panel in Broad , concurring in the position accepted by a number of other circuits, 15 had expressly held that recklessness was sufficient to establish scienter.
+In cases decided both before and after the Broad decision, we have referred to establishing scienter by proof of reckless conduct.
+16 We here conclude that recklessness can, under certain circumstances, be sufficient to establish scienter for purposes of the cause of action under Rule 10b-5 .
+See G. A. Thompson & Co., Inc. v. Partridge , 636 F.2d 945 (5th Cir. 1981), in which another panel of this court recently reached this same conclusion and adopted the recklessness standard.
+Reckless conduct sufficient to serve as scienter must involve more than simple, or even inexcusable negligence.
+It requires "an extreme departure from the standards of ordinary care, which presents a danger of misleading buyers or sellers that is either known to the defendant or is so obvious that the actor must have been aware of it."
+SEC v. Southwest Coal & Energy Co. , 624 F.2d 1312, 1321 n.17 (5th Cir. 1980) [quoting Franke v. Midwestern Oklahoma Development Authority , 428 F.Supp.
+719, 725 (W.D.Okl.1976)] (SEC enforcement case).
+See, e. g. , McLean v. Alexander , 599 F.2d 1190, 1197 (3d Cir. 1979); Mansbach v. Prescott, Ball & Turben , 598 F.2d 1017, 1025 (6th Cir. 1979).
+The trial court correctly charged the jury that scienter could be established by proof of "conduct which is so extreme as to be a form of intentional conduct or behavior equivalent to an intent to deceive, manipulate or defraud."
+17 LoPatin, Share and H&M contend that the trial court erroneously failed to direct a verdict in their favor on the basis that the evidence was insufficient to demonstrate scienter even under this recklessness standard.
+There was, of course, no direct testimony that any of the defendants acted knowingly with intention to deceive potential investors.
+However, circumstantial evidence presented to the jury would permit the inference that the misstatements in the prospectus were made with the requisite scienter.
+Extrinsic facts can be used to establish scienter in a Rule 10b-5 action.
+See 5 A. Jacobs, The Impact of Rule 10b-5 63, at 3-219 (Supp.1980).
+We note that the trial court charged the jury using the "preponderance of the evidence" standard, the usual burden of proof required in civil cases.
+Thus, the interrogatories propounded to the jury required it to make its finding of the requisite scienter, as well as the other elements of the Rule 10b-5 action, by only a preponderance of the evidence.
+However, as the Supreme Court made clear in Hochfelder , Rule 10b-5 is an anti-fraud provision: to prevail in an action brought pursuant to the Rule, the plaintiff must establish that the defendant acted with an "intent to defraud."
+Ernst & Ernst v. Hochfelder , 425 U.S. 185, 193 n.12, 96 S.Ct. 1375, 1381 n.12, 47 L.Ed.2d 668, 677 n.12 (1976).
+The traditional burden of proof imposed in cases involving allegations of civil fraud is the "clear and convincing" evidence standard.
+18 We conclude that the higher threshold of proof of fraud required in Rule 10b-5 actions mandates that the plaintiffs prove their case under the higher burden of proof.
+19 The failure of the district court to charge the jury as to the "clear and convincing" burden of proof does not, however, affect our determination of the merits of this case for we conclude that, even under that standard, the jury could infer from the evidence presented that the defendants acted with the requisite scienter in regard to the material misstatements in the prospectus.
+Whether a defendant's actions in a Rule 10b-5 case violate the standard of care imposed by the Rule, thus establishing scienter, is a question of fact to be determined as of the time of the actions about which the plaintiff is complaining.
+5 A. Jacobs, The Impact of Rule 10b-5 63, at 3-215 (Supp.1980).
+See Holmes v. Bateson , 583 F.2d 542, 552 (1st Cir. 1978).
+The evidence was sufficient to warrant, although it did not compel, the inference that each of the defendants acted with the requisite state of mind.
+20 Herman contends that the evidence failed to establish scienter on his part because he was not privy to all the information available to LoPatin and Share and because he relied on the construction cost figures they submitted to him and was not aware of the inaccuracy of those estimated costs.
+There was expert testimony that H&M was, to some degree, negligent in its accounting procedures.
+Although such negligence could not, under the standard articulated in Hochfelder , establish the requisite scienter, the jury might reasonably have concluded from Herman's testimony and from any inference to be drawn from his involvement in the preparation of the Use of Proceeds section of the prospectus, as well as from the refusal of H&M in October, 1969, to provide a comfort letter to the underwriters referring to the construction costs in the prospectus, that H&M acted with the requisite scienter.
+"Proof of a defendant's knowledge or intent [in a Rule 10b-5 action] will often be inferential " Rolf v. Blyth, Eastman Dillon & Co., Inc. , 570 F.2d 38, 47 (2d Cir.), cert. denied , 439 U.S. 1039 , 99 S.Ct. 642 , 58 L.Ed.2d 698 (1978).
+21 We conclude that the circumstantial evidence was sufficient to preclude a directed verdict in favor of H&M.
+C. Reliance and Causation Reliance and causation are related concepts.
+In the common law deceit action from which the Rule 10b-5 claim is derived, it was necessary for the plaintiff to show reliance on the defendant's fraudulent representations as a prerequisite to recovery.
+Establishing reliance, however, merely proves that the plaintiff was induced to act by the defendant's conduct.
+It is a nonsequitur to conclude that the representation that induced action necessarily caused the consequences of that action.
+As we have seen, the general statement of the elements of recovery under Rule 10b-5 requires proof both that the plaintiff relied on the misstatement and that the misstatement was the cause of his loss.
+In Affiliated Ute Citizens of Utah v. United States , 406 U.S. 128 , 92 S.Ct. 1456 , 31 L.Ed.2d 741 (1972), the Supreme Court held that in some circumstances affirmative proof of reliance is not necessary.
+It distinguished the three subparagraphs of Rule 10b-5 , 22 pointing out that the first and third subparagraphs are not restricted to the misstatement or omission of a material fact but forbid a "course of business" or a "device, scheme, or artifice" that operates as a fraud.
+If a person who has an "affirmative duty under the Rule to disclose" a material fact to the holder of a security devises a plan to induce the holder to sell the securities without disclosing to him material facts that reasonably could be expected to influence his decision to sell, positive proof of reliance, it held, is not a prerequisite to recovery.
+Under the circumstances of that case, "involving primarily a failure to disclose [a]ll that is necessary is that the facts withheld be material in the sense that a reasonable investor might have considered them important in the making of this decision This obligation to disclose and this withholding of a material fact establish the requisite element of causation in fact."
+406 U.S. at 153-54 , 92 S.Ct. at 1472 , 31 L.Ed.2d at 761 .
+While Affiliated Ute relieves the investor in certain circumstances of the necessity of proving affirmatively that he relied on a prospectus or other representation, it does not eliminate the reliance element from the Rule 10b-5 case altogether.
+See Simon v. Merrill Lynch, Pierce, Fenner and Smith, Inc. , 482 F.2d 880 (5th Cir. 1973).
+In Rifkin v. Crow , 574 F.2d 256, 262 (5th Cir. 1978), we restated our understanding of the Affiliated Ute rationale as it relates to proof of reliance in a Rule 10b-5 action: Ute Thus, reliance is an issue in all Rule 10b-5 cases.
+The difference between misrepresentation and non-disclosure cases relates only to whether proof of reliance is prerequisite to recovery or whether proof of non-reliance is an affirmative defense.
+See Dwoskin v. Rollins, Inc. , 634 F.2d 285, 291 n.4 (5th Cir. 1981).
+It is, therefore, necessary to characterize the facts in a Rule 10b-5 case as involving either primarily a failure to disclose, implicating the first or third subparagraph of the Rule and invoking the Affiliated Ute presumption of reliance, or, on the other hand, primarily a misstatement or failure to state a fact necessary to make those statements made not misleading, classified under the second subparagraph of the Rule and as to which no presumption of reliance is applicable.
+Rifkin v. Crow , 574 F.2d at 263 .
+This case, involving alleged misstatements and omissions in a prospectus published pursuant to a public offering, cannot properly be characterized as an omissions case of the type for which the Affiliated Ute presumption was fashioned.
+The defendants did not "stand mute" in the face of a duty to disclose as did the defendants in Affiliated Ute .
+406 U.S. at 153 , 92 S.Ct. at 1472 , 31 L.Ed.2d at 761 .
+They undertook instead to disclose relevant information in an offering statement now alleged to contain certain misstatements of fact and to fail to contain other facts necessary to make the statements made, in light of the circumstances, not misleading.
+This is not a case in which difficulties of proof of reliance require the application of the Affiliated Ute presumption.
+Because the plaintiffs were not entitled to a presumption of reliance, a jury finding that the plaintiffs relied upon the misstatements and omissions in the prospectus was essential to the plaintiffs' recovery.
+This circuit, according to Simon v. Merrill Lynch, Pierce, Fenner and Smith, Inc. , 482 F.2d 880 (5th Cir. 1973), requires "reasonable reliance" by the Rule 10b-5 plaintiff; "subjective reliance" alone does not suffice.
+482 F.2d at 885 .
+"[S]ome element of general reliance by plaintiff, even in nondisclosure cases, is essential to a Rule 10b-5 action."
+482 F.2d at 884 .
+Subjective reliance is determined by the mental state of the individual.
+5 A. Jacobs, The Impact of Rule 10b-5 64.01[b][ii] (Supp.1980).
+Another measure of reliance used by some courts, "justifiable reliance," requires an objective or "reasonable man" test.
+Id. at 64.01 [b][iii].
+Although our prior decisions have not been completely clear on this point, we think "reasonable reliance," the test referred to by the Simon court, contemplates a subjective reliance standard, tempered by the requirement of due diligence on the part of the plaintiff, rather than the objective reliance test applicable under the justifiable reliance concept.
+See, e. g. , Dupuy v. Dupuy , 551 F.2d 1005, 1014 (5th Cir.), cert. denied , 434 U.S. 911 , 98 S.Ct. 312 , 54 L.Ed.2d 197 (1977).
+See also 5 A. Jacobs, The Impact of Rule 10b-5 64.01[b][iii], 3-252 & 3-253 & n.5 (Supp.1980).
+23 The district court, induced by counsel, confused materiality with reliance.
+The concepts are distinct and must be separately proved or disproved.
+Materiality does not necessarily imply that, were the truth known, the decision would be different.
+Thus, recovery is not permitted solely because the investor has relied on an immaterial misstatement or omission.
+See Project, Recent Developments in Securities Law: Causes of Action Under Rule 10b-5, 26 Buffalo L.Rev.
+503, 523 (1977); 5 A. Jacobs, The Impact of Rule 10b-5 64.01[a], at 3-220 (Supp.1980).
+On the other hand, even if a misstatement or omission might have been material to a reasonable investor, the plaintiff might not have relied on it, because, for example, he would have considered other factors more important or would have taken the same action even had he known the full truth.
+Consequently, in a class action, while the materiality element can be established for the class as a whole, reliance, like damages, is a matter of individual proof.
+See 5 A. Jacobs, The Impact of Rule 10b-5 64.01[b][ii] (Supp.1980).
+The district court compounded its failure to submit the reliance issue to the jury by failing also to submit the question of causation.
+Causation is related to but distinct from reliance.
+Reliance is a causa sine qua non , a type of "but for" requirement: had the investor known the truth he would not have acted.
+24 Causation requires one further step in the analysis: even if the investor would not otherwise have acted, was the misrepresented fact a proximate cause of the loss?
+Herpich v. Wallace , 430 F.2d 792, 810 (5th Cir. 1970).
+The plaintiff must prove not only that, had he known the truth, he would not have acted, but in addition that the untruth was in some reasonably direct, or proximate, way responsible for his loss.
+The causation requirement is satisfied in a Rule 10b-5 case only if the misrepresentation touches upon the reasons for the investment's decline in value.
+If the investment decision is induced by misstatements or omissions that are material and that were relied on by the claimant, but are not the proximate reason for his pecuniary loss, recovery under the Rule is not permitted.
+25 See Marbury Management, Inc. v. Kohn , 629 F.2d 705, 718 (2d Cir. 1980) (Meskill, J., dissenting).
+Absent the requirement of causation, Rule 10b-5 would become an insurance plan for the cost of every security purchased in reliance upon a material misstatement or omission.
+See Marbury Management, Inc. v. Kohn , 629 F.2d 705, 718 (2d Cir. 1980) (Meskill, J., dissenting); Globus v. Law Research Service, Inc. , 418 F.2d 1276, 1292 (2d Cir. 1969), cert. denied , 397 U.S. 913 , 90 S.Ct. 913 , 25 L.Ed.2d 93 (1970); List v. Fashion Park, Inc. , 340 F.2d 457, 463 (2d Cir.), cert. denied sub nom.
+, 382 U.S. 811 , 86 S.Ct. 23 , 15 L.Ed.2d 60 (1965).
+LoPatin and Share claim that the failure of TIS and the consequent economic loss of the plaintiff's investment are attributable to the materialization of risks described in the prospectus such as bad weather conditions and lack of spectator attendance at the racetrack.
+To prevail in their Rule 10b-5 action, the plaintiffs must establish that their economic loss was proximately caused by the fraudulent misstatements and omissions in the prospectus.
+This issue, the resolution of which is crucial to the plaintiffs' recovery, was not submitted to the trier of fact.
+Hence the elements of the Rule 10b-5 claim were not established and the judgment against the defendants must be reversed.
+The plaintiffs urge that LoPatin, Share and H&M did not sufficiently raise the reliance issue and did not submit the "proper special issue to the court."
+It is helpful for counsel to assist the court by framing the issue in the very terms that pose it most objectively for the jury.
+However, so long as a party demands the submission of an omitted issue of fact and directs the court's attention to that issue, that party does not waive the right to a jury determination.
+Rule 49(a) , Fed.R.Civ.P. See Ford Motor Co. v. Dallas Power & Light Co. , 499 F.2d 400, 407 & n.11 (5th Cir. 1974); Simien v. S.S. Kresge Co. , 566 F.2d 551 (5th Cir. 1978).
+H&M submitted to the court a proposed special issue phrased as follows: While the proposal did not discriminate between misstatement and omission in issues, it sufficiently demanded jury consideration of the reliance issue to require the submission of that issue.
+When a fact question is not submitted to the jury, "each party waives his right to a trial by jury of the [fact] issue so omitted unless before the jury retires he demands its submission to the jury."
+Rule 49(a) , Fed.R.Civ.P. See Guidry v. Kem Manufacturing Co. , 604 F.2d 320, 321 , supplementing on petition for rehearing , 598 F.2d 402 (5th Cir. 1979), cert. denied , 445 U.S. 929 , 100 S.Ct. 1318 , 63 L.Ed.2d 763 (1980).
+Before the jury retired, H&M filed exceptions to the proposed special issues, adopted by LoPatin and Share with the trial court's permission, objecting to the failure to submit reliance and causation issues to the jury.
+Thus, the defendants did not waive their right to a jury determination of the reliance and causation issues.
+The trial judge stated in the hearing on motions for judgment that the causation issue is "a matter of law" and that neither reliance nor causation is a proper issue to be submitted to the jury in this case.
+We disagree.
+The trial court's failure to submit the reliance and causation issues to the jury requires us to grant a new trial.
+We, therefore, pretermit the myriad other issues raised by counsel save those likely to arise on remand.
+IV THE TEXAS SECURITIES ACT The class also asserted a pendent claim based on Section 33 of the Texas Securities Act [TSA], article 581-33(A)(2) , Tex.Rev.Civ.Stat.
+(Supp.1963).
+That statute creates liability on the part of "[a]ny person who [o]ffers or sells a security by means of any untrue statement of a material fact or any omission to state a material fact [in favor of] the person buying the security from him."
+LoPatin, Share and H&M all contend that the Texas statute is inapplicable to them because they did not offer or sell a security.
+The jury determined that each of these defendants was a seller of securities under the TSA.
+The trial court charged the jury as to the meaning of the term "seller" for purposes of TSA liability using the language of the Texas Supreme Court in Brown v. Cole , 155 Tex. 624 , 291 S.W.2d 704 (Tex.1956).
+26 In Brown the Texas court drew upon the definition of the term "sell," now codified in article 581-4(E) , Tex.Rev.Civ.Stat.
+(1957), as meaning "any act by which a sale is made " Brown v. Cole , 291 S.W.2d at 708 .
+The Texas courts have interpreted the term "seller" in the TSA to include those who are not direct vendors, and thus not in strict privity with the claimant.
+See Bordwine, Civil Remedies Under the Texas Securities Laws, 8 Hous.L.Rev.
+657, 673 (1971); Bromberg, Civil Liability Under Texas Securities Act 33 (1977) and Related Claims, 32 Sw.L.J.
+867, 881 (1978) (pre-1977 decisions gave "seller" an "astoundingly broad meaning").
+However, in Stone v. Enstam , 541 S.W.2d 473 (Tex.Civ.App.1976), the Texas court distinguished Brown v. Cole as a case involving an active negotiator whose efforts resulted in the sale and limited the term "seller" to the actual seller and one who acts as an agent for either the buyer or seller in carrying out the sale itself.
+541 S.W.2d at 480 .
+This decision limits the TSA to those who are actively engaged in the sale process and prevents it from reaching those who merely participate in preparing an offering. 27 See Bromberg, Civil Liability Under Texas Securities Act 33 (1977) and Related Claims, 32 Sw.L.J.
+867, 885-90 (1978).
+There was no evidence here that LoPatin and Share actively participated in instigating the actual sales transactions to any member of the plaintiff class.
+Patently H&M did not.
+Indeed, the two class representatives who testified at trial bought their TIS securities on the open market and not from the corporate issuer.
+To include LoPatin, Share or H&M within Section 33 would throw a net of liability broader than that contemplated by the statutory language or the Texas decisions.
+28 Thus, the evidence was insufficient to support the jury finding that these defendants were sellers under the TSA.
+The district judge should, therefore, have directed a verdict for LoPatin, Share and H&M on the Texas Securities Act claim.
+V EVIDENTIARY MATTERS To assist in the new trial that must ensue, we discuss the principal evidentiary issues raised in this appeal.
+A. Expert Testimony on Standards and Customs in the Securities Industry The court permitted plaintiffs' expert witness, a lawyer, to testify concerning the interpretation given some of the prospectus boilerplate language in the securities industry.
+29 The expert testified that the statement in the prospectus concerning the high degree of risk associated with the securities was standard language for a prospectus used in connection with the issuance of a new security.
+This testimony was relevant to proof of scienter on the part of defendants, i. e. , whether the customary treatment of the boilerplate language was such that the defendants, by including such language, were likely to have believed it would negate any misleading effects of the cost estimates.
+It was also relevant to the issue of materiality of the cost estimates in the prospectus.
+This testimonial evidence had a "tendency to make the existence of [a] fact [consequent] to the determination of the action more probable or less probable than it would be without the evidence."
+Rule 401 , Fed.R.Evid.
+It was based on technical knowledge that would assist the trier of fact to understand the evidence or to determine a fact issue.
+Rule 702 , Fed.R.Evid.
+See generally 11 Moore's Federal Practice 702.10 (2d ed. Supp.1976).
+Even if it embraced an ultimate issue, it was not for that reason alone objectionable.
+Rule 704 , Fed.R.Evid.
+See generally 11 Moore's Federal Practice 704.10 (2d ed. Supp.1976).
+It was, therefore, properly admitted.
+We do not, of course, assess each question and answer but weigh the testimony on the whole.
+B. Written Comments by Outside Director The notes taken at a January, 1970, TIS board meeting by an outside director, who at the time of the introduction of the notes into evidence was a defendant, were admitted over a hearsay objection by the defendants, presumably on the basis that they were admissible against him as admissions against interest.
+If this was the basis, the trial court should have instructed the jury that they were inadmissible against LoPatin, Share and H&M.
+Once the outside director was no longer a party, a directed verdict having been rendered in his favor, the notes were no longer admissions of a party.
+In the absence of any other basis for their use, the notes are double hearsay as to LoPatin, Share and H&M, for they were not under oath and they concerned what was said by a party not under oath.
+Rule 802 , Fed.R.Evid.
+We express no opinion concerning the admissibility of the notes under Rule 803(1) , Fed.R.Evid., as statements describing or explaining an event made while the declarant was perceiving it or immediately thereafter, if a proper foundation is laid.
+Neither do we rule upon the admissibility at a new trial of the outside director's testimony concerning what was said by a party to the proceedings.
+Compare Rules 801 and 803(3) , Fed.R.Evid.
+(hearsay exception for state of mind).
+C. Evidence of Events Occurring After the Class Period The defendants objected to the admission of evidence concerning events that took place after the end of the class period.
+Of course, evidence that LoPatin and Share failed to fulfill corporate fiduciary duties was not relevant to the securities claim.
+Unless some adequate basis for the admissibility of this evidence is established, it should be excluded.
+The fact that TIS gave a lien to Holloway Sand & Gravel Co. in mid-1970 to secure the debt owed to the contractor for construction of the speedway bears on the accuracy of the Use of Proceeds section of the prospectus to the extent that it establishes the amount for which the contractor remained uncompensated from the proceeds of the offering.
+Although the special issues put to the jury necessarily focused on the accuracy of the Use of Proceeds section as of October 30, 1969, the lien created after the class period was relevant to establish that the cash available after payment of construction costs was misstated in the prospectus.
+The SEC Form 10K report for the fiscal year ending November 30, 1969, was based on financial data unavailable until March, 1970.
+However, the 10K report established the financial position of the company during the class period.
+Portions of it may be admissible as a record of regularly conducted activities, i. e. , business records, Rule 803(6) , Fed.R.Evid., if a proper foundation is laid.
+It may be difficult or impossible to establish that the report in toto is admissible because the Rule requires that the memorandum be made "at or near the time" of the event it describes.
+Rule 803(6) , Fed.R.Evid.
+If its admissibility is established, the court should instruct the jury concerning the limited purpose for which it may be considered.
+D. Other Memoranda The plaintiffs introduced the deposition of the TIS general manager and construction supervisor to establish that he had not been consulted as to the figures used in the Use of Proceeds section of the Prospectus.
+He testified that, had he been consulted, he would have questioned the accuracy of the figures in the light of his own June, 1969, estimates.
+The defendants attempted to introduce other parts of the deposition dealing with a visit by a representative of the underwriters to the construction supervisor in October, 1969, in which the cost figures were apparently discussed, as well as a memorandum prepared by the underwriters' representative concerning his meeting with the construction supervisor which the plaintiffs had introduced at the deposition as an exhibit.
+The defendant's offer was improperly rejected.
+When part of a recorded statement is introduced by a party, an adverse party may require him to introduce any other part of the recorded statement that ought in fairness be considered with it.
+Fed.R.Evid.
+106 .
+See 21 C. Wright & K. Graham, Federal Practice and Procedure: Evidence 5073, at 350 (1977).
+The rule is made specifically applicable to depositions by Fed.R.Civ.P. 32(a)(4) .
+See 8 C. Wright & A. Miller, Federal Practice and Procedure: Civil 2148 (1970).
+Thus, the defendants were entitled to introduce other parts of the deposition dealing with the underwriters' consultation with the construction supervisor regarding the costs of construction.
+The memorandum written by the underwriters' representative reporting on his meeting with the TIS construction supervisor was, of course, hearsay.
+Objections to the admissibility of evidence taken at the deposition may be made at the trial when the deposition is introduced into evidence.
+Fed.R.Civ.P. 32(b) .
+If a proper foundation is laid at the new trial, the memorandum might be admissible under the "business records" exception to the hearsay rule.
+Fed.R.Evid.
+803(6) .
+The admission of other items of evidence is objected to by the defendants.
+We do not review these in detail because the focus on retrial and the purposes for which the evidence is offered may well be different.
+VI MEASURE OF DAMAGES Should liability be established, the measure of damages must be considered.
+30 The amount of damages is a jury issue although the services of a special master 31 or the testimony of an expert witness 32 in assembling data and making computations may be particularly helpful in a class action.
+The ultimate question, however, is how much damage did the defendants' fraudulent misstatement or omission cause each individual plaintiff?
+"The principle is well settled that federal law, rather than state law, governs the construction of all aspects of Rule 10b-5 , such as the proper measure of damages, and whether prejudgment interest is recoverable [ Wolf v. Frank , 477 F.2d 467, 479 (5th Cir.), cert. denied , 414 U.S. 975 , 94 S.Ct. 287 , 38 L.Ed.2d 218 (1973)] " Alley v. Miramon , 614 F.2d 1372, 1381 n.18 (5th Cir. 1980).
+The Supreme Court has indicated that Section 28(a) of the 1934 Act, 15 U.S.C. 78bb(a) , establishes the proper measure of damages in a Rule 10b-5 case. Affiliated Ute Citizens of Utah v. United States , 406 U.S. 128, 155 , 92 S.Ct. 1456, 1473 , 31 L.Ed.2d 741, 762 (1972).
+See Dupuy v. Dupuy , 551 F.2d 1005, 1024 (5th Cir.), cert. denied , 434 U.S. 911 , 98 S.Ct. 312 , 54 L.Ed.2d 197 (1977).
+See generally 5B A. Jacobs, The Impact of Rule 10b-5 260.03[a], at 11-15 (Supp.1980).
+That statute limits the claimant's recovery to an amount not "in excess of his actual damages on account of the act complained of."
+15 U.S.C. 78bb(a) .
+The proper measure of the actual damages recoverable by the Rule 10b-5 plaintiff is "the least formulated and the least reported upon" of all issues raised by a Rule 10b-5 claim.
+Jacobs, The Measure of Damages in Rule 10b-5 Cases, 65 Geo.L.J.
+1093, 1095 (1977).
+The district court determined the claimants' losses as the price paid to acquire the TIS securities initially minus the proceeds received on any sale of those securities.
+TIS securities still held by class members were considered worthless.
+Thus, the court measured damages to the class members on the basis that each plaintiff who had not sold the securities purchased suffered the loss of his total investment in consequence of the defendants' deceit, calling this a rescissional basis for computing damages.
+Denominating the remedy "rescissional," however, does not solve the underlying problems in fixing the amount of damages.
+"The cases are uniform in stating that one remedy which may be available to a defrauded plaintiff under Rule 10b-5 is to seek rescission of the transaction and recover the amount paid for the securities, if he is a buyer " Jennings and Marsh at 1085.
+The "rescissional damages for a plaintiff buyer equal the fair value of what the plaintiff gave up, measured at the time of the fraudulent purchase, minus the fair value of what the plaintiff received, measured at the time of the sale ."
+Jacobs, The Measure of Damages in Rule 10b-5 Cases, 65 Geo.L.J.
+1093, 1118-19 (1977) (emphasis added).
+Rescission is the avoidance or undoing of the transaction.
+Its purpose is to return the defrauded purchaser to the status quo ante; it contemplates the return of the injured party to the position he occupied before he was wrongfully induced to enter the transaction.
+Green v. Occidental Petroleum Corp. , 541 F.2d 1335, 1342 (9th Cir. 1976) (Sneed, J., concurring); 5B A. Jacobs, The Impact of Rule 10b-5 260.03[c][vi], at 11-47 and 11-49 (Supp.1980).
+Use of the rescissional measure is usually limited to cases involving either privity between plaintiff and defendant or some specific fiduciary duty owed by brokers to their customers.
+See Note, The Measure of Damages in Rule 10b-5 Cases Involving Actively Traded Securities, 26 Stan.L.Rev.
+371, 376 (1974); Mullaney, Theories of Measuring Damages in Security Cases and the Effects of Damages on Liability, 46 Fordham L.Rev.
+277, 285 (1977); Jacobs, The Measure of Damages in Rule 10b-5 Cases, 65 Geo.L.J.
+1093, 1110 (1977).
+There are patent difficulties inherent in the application of this measure to a transaction between a securities purchaser and one who was not the seller of the securities.
+Section 12(2) of the 1933 Act, 15 U.S.C. 77l (2) , provides as a remedy for its violation that the seller is liable to the person purchasing from him for the "consideration paid for such security with interest thereon, less the amount of any income received thereon, upon the tender of such security " That statute permits rescission if there is a degree of privity between the claimant and the defendant.
+33 However, if the purchaser did not buy from the defendant or if he no longer owns the security, then the parties cannot be returned to the status quo ante and Section 12(2) provides that damages, not rescission, is the proper remedy.
+None of the defendants was alleged or proved to have been in privity with the plaintiffs.
+Moreover, to adopt without qualification the remedy permitted under Section 12(2) in a Rule 10b-5 action would be inequitable, for the plaintiffs in this case chose not to proceed under Section 12(2) , presumably because of the defenses available to such an action, including the one year statute of limitations, Section 13 of the 1933 Act, 15 U.S.C. 77m , and the procedural limitations, such as the privity requirement applicable to a Section 12(2) claim.
+If the Rule 10b-5 claimants have purchased securities on the open market and did not deal face to face with the defendants, the price the purchasers paid did not accrue directly to the defendants.
+The defendants cannot, in effect, return the purchase price that they never received or rescind a transaction to which they were not party.
+Green v. Occidental Petroleum Corp. , 541 F.2d 1335, 1341-43 (9th Cir. 1976) (Sneed, J., concurring).
+Moreover, the rescissional measure permits the defrauded securities buyer to place upon the defendant the burden of any decline in the value of the securities between the date of purchase and the date of sale even though only a portion of that decline may have been proximately caused by the defendant's wrong.
+The decline in the value of the securities in this case may have also resulted from other factors like market forces and events unrelated to the deceit that had an economic effect on the enterprise, such as weather, degree of spectator participation and construction problems.
+Under these circumstances, the rescissional measure is unjust insofar as it compensates an investor for the nonspecific risks which he assumes by entering the market.
+Note, The Measure of Damages in Rule 10b-5 Cases Involving Actively Traded Securities, 26 Stan.L.Rev.
+371, 376 (1974); Green v. Occidental Petroleum Corp. , 541 F.2d at 1343 (Sneed, J., concurring).
+Losses thus accruing have no relation to either the benefits derived by the defendants from the fraud or to the blameworthiness of their conduct.
+The entire loss to the defrauded buyer from the decline in the value of the securities purchased cannot be automatically attributed to the defendants' deceit unless this court were to adopt a theory of damages that views the entire loss as resulting from the fraud because, "but for" the deceit, the buyer would not have purchased, and hence would have suffered no loss.
+The private cause of action under Rule 10b-5 "is essentially a tort claim Thus, the private complainant must show not only a violation of the rule, i. e. , an untrue statement or material omission in connection with the sale of a security, but must also show that the omission or untrue statement resulted in or caused the complainant's damage."
+Moody v. Bache & Co., Inc. , 570 F.2d 523, 527 (5th Cir. 1978) (emphasis added).
+The proper measure of damages to reflect the loss proximately caused by the defendants' deceit is the out-of-pocket rule.
+That rule is the traditional measure of damages in a Rule 10b-5 action, 5B A. Jacobs, The Impact of Rule 10b-5 260.03[c][ii], at 11-23 (Supp.1980), applied by the Supreme Court in Affiliated Ute Citizens of Utah v. United States , 406 U.S. 128, 155 , 92 S.Ct. 1456, 1473 , 31 L.Ed.2d 741, 762 (1972), as the proper measure of damages in the case of the defrauded seller under Rule 10b-5 .
+The out-of-pocket measure is also the usual rule of recovery in the common law action for deceit from which Rule 10b-5 derives.
+34 We have applied the out-of-pocket measure in actions brought under Rule 10b-5 to allow recovery for an amount of damages equal to the difference between the price paid and the "real" value of the security, i. e. , the fair market value absent the misrepresentations, at the time of the initial purchase by the defrauded buyer.
+35 The use of the out-of-pocket measure of damages creates, of course, valuation problems in the determination of the recovery to be awarded to each plaintiff.
+However, as Judge Sneed recognized in his concurring opinion in Green v. Occidental Petroleum Corp. , "[w]rongdoing defendants should not be mulcted to make simple the management of a class proceeding under rule 10b-5 ."
+541 F.2d at 1343 .
+Neither is the application of the out-of-pocket measure too complex to be applied in this case. The use of the out-of-pocket rule will require that a "true" or "real" value, i. e. , the value the security would have had absent the misrepresentation, be established for each date on which members of the class purchased during the ninety-day class period.
+36 Once those values are obtained, possibly with the help of expert witnesses or a special master, then the determination of each individual plaintiff's recovery becomes a simple matter of subtraction of the "true" value of the security on the date of the plaintiff's purchase from the purchase price paid by the plaintiff on that date.
+The issue of damages is thus an individual matter to be determined separately for each member of the plaintiff class.
+VII CONTRIBUTION AMONG RULE 10b-5 DEFENDANTS The defendants sought contribution from those co-defendants who had compromised the plaintiffs' claims and entered into settlement agreements approved by the trial court to which LoPatin, Share and H&M were not parties.
+The district court denied contribution but gave a credit in its final judgment against LoPatin, Share and H&M for the amounts received in settlement.
+Whether one person who commits a violation of Rule 10b-5 may seek contribution from others who have also participated in the perpetration of the fraud is an issue that has not been decided by this circuit.
+See Woolf v. S. D. Cohn & Co. , 515 F.2d 591, 605 & n.7 (5th Cir. 1975) (recognizing without deciding the issue), vacated and remanded , 426 U.S. 944 , 96 S.Ct. 3161 , 49 L.Ed.2d 1181 (1976).
+But see our dicta in Kuehnert v. Texstar Corp. , 412 F.2d 700, 705 n.7 (5th Cir. 1969).
+A number of district courts 37 and two circuit courts 38 have recognized the right to contribution in Rule 10b-5 actions.
+The commentators are in agreement with this result.
+39 Because the Rule 10b-5 action is implied in a federal statute, the right to contribution under Rule 10b-5 is determined by federal law. 40 Early common law recognized no right to contribution 41 among intentional joint tortfeasors, while early American courts established the general rule of no contribution between concurrent wrongdoers, whether negligent or intentional.
+42 The rule against contribution by negligent tortfeasors was later gradually eroded on the equitable basis that it was unfair to require one person to bear the entire loss of an injury that he had not alone caused or to permit the injured person for whatever motive, benign or invidious, to select the one defendant from whom he wished to recover.
+The no-contribution rule was, therefore, modified by statute or decision to require contribution where the injury was caused by negligence.
+43 American state courts continue to deny a right to contribution in favor of any tortfeasor who intentionally causes the harm.
+Restatement (Second) of Torts 886A(3) (1977).
+See Uniform Contribution Among Tortfeasors Act 1(c) (1955); W. Prosser, The Law of Torts 50, at 308 (4th ed. 1971).
+"The basis of the rule is the old one that the courts will not aid one who has deliberately done harm, so that no man can be permitted to found a cause of action on his own intentional tort."
+Restatement (Second) of Torts 886A(3), Comment j (1977).
+In addition to the tort rule disallowing contribution among intentional wrongdoers, another justification advanced to support the denial of contribution among Rule 10b-5 defendants is the hypothesis that disallowance of any shifting of part of the loss sustained by the Rule 10b-5 defendant to the other participants in the fraud creates a greater deterrent to conduct violative of the Rule.
+This theory does not consider the alternative possibility that the disallowance of contribution fails to deter those co-conspirators who are not likely to be named as defendants in the Rule 10b-5 action.
+44 Assuming that an actor consciously takes the possible consequence of a civil action into account when he is deciding whether or not to commit a fraud, he may either be deterred by fear of total liability or encouraged by a knowledge that another co-actor may be the only one sued and thus may bear the entire fault.
+A rule allowing contribution among Rule 10b-5 defendants is "buttressed by the fact that of the seven express civil remedies provided in the Securities Act of 1933 [ 11 , 12 and 15 , 15 U.S.C. 77k , 77l and 77o ] and the Securities Exchange Act of 1934, [ 9 , 16 , 18 and 20 , 15 U.S.C. 78i , 78p , 78r and 78t ] three of those provide expressly for contribution."
+Heizer Corp. v. Ross , 601 F.2d 330, 332 (7th Cir. 1979).
+45 The common law rule precluding intentional wrongdoers from seeking contribution developed long before the evolution of multiparty litigation involving class plaintiffs, numerous defendants, vast monetary claims, lengthy trials and enormous litigation costs.
+The disallowance of contribution in the context of such modern multiparty litigation encourages the presentation of enormous claims against numerous defendants in the hope that at least some of those named will, merely to avoid the heavy cost of litigation, pay a settlement amount rather than defend the action.
+Thus, the no-contribution rule promotes a rush to settlement whereby certain defendants can purchase freedom from litigation and the ultimate court judgment, simultaneously providing the plaintiffs with funds to finance the continuation of the suit against the non-settling defendants.
+Moreover, the settling defendants may well extricate themselves from the litigation in exchange for relatively small settlement amounts, leaving the non-settling defendants to bear a much larger liability in the form of the final court judgment.
+Persons injured by the willful torts or deceit of others are entitled to full redress but should not be able to play one defendant against another as a gambit.
+Although the law favors compromise as a means of ending litigation, the type of settlement that is reached on the basis of the denial of contribution neither terminates the litigation nor furthers the goals of efficient court administration.
+In articulating its reasons for requiring contribution among negligent joint tortfeasors in admiralty, the Supreme Court stated, "a 'more equal distribution of justice' can best be achieved by ameliorating the common-law rule against contribution which permits a plaintiff to force one of two wrongdoers to bear the entire loss, though the other may have been equally or more to blame."
+Cooper Stevedoring Co. v. Fritz Kopke, Inc. , 417 U.S. 106, 111 , 94 S.Ct. 2174, 2177 , 40 L.Ed.2d 694, 700 (1974).
+We conclude that a rule permitting contribution provides an equitable result that sufficiently satisfies the objective of deterrence under the securities laws.
+VIII ATTORNEY'S FEES AND PREJUDGMENT INTEREST In Alyeska Pipeline Service Co. v. Wilderness Society , 421 U.S. 240 , 95 S.Ct. 1612 , 44 L.Ed.2d 141 (1975), the Supreme Court expressed strong support for the "American Rule" which prohibits the imposition of attorney's fees except when authorized by statute or by traditionally recognized exceptions.
+There is no statutory provision awarding attorney's fees to the successful party in an action brought under Rule 10b-5 .
+See Ernst & Ernst v. Hochfelder , 425 U.S. 185, 211 n.30, 96 S.Ct. 1375, 1389 n.30, 47 L.Ed.2d 668, 687 n.30 (1976); Van Alen v. Dominick & Dominick, Inc. , 560 F.2d 547, 553 (2d Cir. 1977).
+Of the several situations recognized in F. D. Rich Co. v. United States ex rel.
+Industrial Lumber Co. , 417 U.S. 116, 129-30 , 94 S.Ct. 2157, 2165 , 40 L.Ed.2d 703, 713 (1974), in which a deviation from the general principle that each party should bear the cost of his own legal representation is permitted, the trial court in this case relied upon the "bad faith" exception.
+See, e. g. , Newman v. Piggie Park Enterprises, Inc. , 390 U.S. 400, 402 n.4, 88 S.Ct. 964, 966 n.4, 19 L.Ed.2d 1263, 1266 n.4 (1968).
+The "bad faith" exception permits an award of attorneys fees to the successful party if an unfounded action or defense is brought or maintained for oppressive reasons, 6 Moore's Federal Practice 54.77 , at 1709 (2d ed. Supp.1976), or if the "opponent has acted in bad faith, vexatiously, wantonly, or for oppressive reasons " F.D.
+Rich Co. v. United States ex rel.
+Industrial Lumber Co. , 417 U.S. at 129 , 94 S.Ct. at 2165 , 40 L.Ed.2d at 713 ; Hall v. Cole , 412 U.S. 1, 5 , 93 S.Ct. 1943, 1946 , 36 L.Ed.2d 702, 707 (1973).
+The underlying rationale of "fee shifting" pursuant to the "bad faith" exception is punitive.
+Hall v. Cole , 412 U.S. at 5 , 93 S.Ct. at 1946 , 36 L.Ed.2d at 707 .
+Because punitive damages are not available in a 10b-5 action, 46 the bad faith or vexatious conduct inherent in the fraudulent acts that constituted the cause of action itself cannot be the basis for an attorney's fees award under the bad faith exception.
+Straub v. Vaisman and Co., Inc. , 540 F.2d 591, 599 (3d Cir. 1976).
+See Note Recovery of Attorneys' Fees Under Rule 10b-5 , 53 Notre Dame Law. 320, 338-42 (1977) (discussing Straub holding).
+The bad faith conduct must occur during the litigation process itself.
+See Nemeroff v. Abelson , 620 F.2d 339, 348 (2d Cir. 1980).
+The trial judge found bad faith in this case that had nothing to do with the conduct of the litigation proceedings.
+47 It was based only on the conduct of the defendants which gave rise to the cause of action itself.
+Unless the further proceedings are conducted in a vexatious manner, attorney's fees should not be allowed.
+On the question of awarding prejudgment interest in a 10b-5 case, this court held in Wolf v. Frank , 477 F.2d 467, 479 (5th Cir.) cert. denied , 414 U.S. 975 , 94 S.Ct. 287 , 38 L.Ed.2d 218 (1973), that federal law governs.
+The federal standard is one of fairness and its application rests within the District Court's sound discretion.
+48 Upon retrial the district court may find it appropriate again to award prejudgment interest.
+For these reasons the judgment is REVERSED and the case is REMANDED for further proceedings consistent with this opinion.

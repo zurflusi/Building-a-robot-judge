@@ -1,0 +1,171 @@
+ RUBIN , Circuit Judge: This case presents two class action questions: whether the class action claim and, indeed, the entire controversy became moot when, after the trial court denied certification following an evidentiary hearing, the defendant bank tendered to the two class representatives payment in full of the amount each individually claimed and judgment was entered on their behalf; and, if not, whether a class action is superior to other available means for the fair and efficient adjudication of a claim for usurious charges on behalf of a class potentially comprising 90,000 holders of credit cards issued by a national bank.
+Having concluded that the defendants cannot moot the class claim by attempting to pay off the class representatives, we decide also that a class action is not only superior to other methods but singularly appropriate for the adjudication of this controversy, and, therefore, remand the case for further proceedings.
+I. Facts Two holders of credit cards issued on the "BankAmericard" plan sued the national bank that had issued the cards under the National Bank Act, 12 U.S.C. 85 and 86, 1 contending on behalf of themselves and all other Mississippi holders of the same cards issued by the defendant that the charges made were usurious.
+2 Under the plan, card holders can buy merchandise or services from third persons who have contracts with the bank or other member banks, and charge their purchases.
+The merchants then sell the credit instruments to the bank at a discount.
+The bank bills the card holder; if the payment is not made within a certain time, it charges interest on the unpaid balance.
+During the suit period, there were 90,000 to 100,000 individual card holders.
+The trial court declined to certify the action as a class action.
+The bank then made an offer of judgment to each of the two individual plaintiffs, without admitting liability, and tendered to each the maximum amount that each could have recovered ($889.42 and $423.54, respectively) by depositing this sum in the registry of the court.
+The two named plaintiffs have never accepted the tender, but judgment based on defendant's offer of judgment was entered over plaintiffs' objection.
+The credit card system, as the experienced trial judge correctly stated, is made possible by the use of computers.
+The computer charges each transaction to the card holder's account.
+If the credit instrument is placed by the merchant with some other bank, it is transmitted through normal banking channels to the defendant and appropriate funds or credits are transferred to the transmitting bank.
+For the bank's convenience, the accounts are divided into ten separate groups, called cycles.
+The credit card accounts are posted on ten days a month; the charges for holders whose names are in each cycle are posted in one day.
+The computer is programmed so that, on the billing date, it adds charges, subtracts credits, adds any finance charge due under the BankAmericard plan and prepares a statement reflecting each transaction.
+The statement is then mailed to the customer.
+The data in the computer are stored on magnetic tapes.
+These are updated from period to period.
+Transaction data are not retained permanently on the tapes, however.
+Data are printed (on "printouts"), and the printouts are retained.
+A microfilm record is made of all charge tickets, credit transactions and statements.
+During the period in question, the bank made a monthly service charge of 1½% on the unpaid balance of each account.
+However, each customer was allowed 30 days within which to pay his account without any service charge; if payment was not received within that time, the computer added to the customer's next bill 1½% of the unpaid portion of the prior bill, which was shown as the new balance.
+This is the charge contended to be usurious.
+Thus, if a customer bought merchandise and the charge slip for this was received by the bank the day after a monthly bill had been mailed to him, he would not be billed for the new charge for almost 30 days, and would then have 30 more days within which to make payment in full without incurring the service charge.
+On the other hand, an item might be received by the bank on the day before the new statement was prepared, yet the service charge for it would be computed on the same basis as if it were received at the beginning of the month.
+(When he received his bill, the customer might also elect to pay it in installments; in that case, the service charge was made only on unpaid installments.)
+About 35% of the bank's customers did not incur a service charge.
+For the 65% who did the rate was always 1½% on the unpaid balance; if the effective rate were computed based on the number of days from the date the bank received each charge until it was paid, that effective rate would vary for each customer each month.
+There was evidence that both the finance fees charged to each card holder and the fees each actually paid during the suit period can be tabulated, although this requires clerical assistance in addition to the use of the computer.
+The plaintiffs' expert witness testified that the total cost of such preparation, including computation of the refund due each class member if the action were successful, would be $45,575.
+It is also possible to reconstruct every account in full by again processing the transactions.
+The plaintiffs' expert estimated the cost of this, if it were required by the court, to be $125,000.
+He testified that there are contractors available to perform such services.
+The defendant's expert testified that, if it were necessary to reconstruct every individual account, the cost might range from $367,700 to $3,432,000.
+The computer could, of course, easily be used to give notice to members of the class and sort out persons who are not class members (for example, because they opened accounts after the class was certified).
+II.
+Mootness The notion that a defendant may short-circuit a class action by paying off the class representatives either with their acquiescence or, as here, against their will, deserves short shrift.
+Indeed, were it so easy to end class actions, few would survive.
+One well-publicized danger in the class action is the possibility that it will be used to collect quick, undeserved damages; this type of effort to establish a quick coup has been called a "strike suit."
+We have held that prior to certification a class action cannot be dismissed merely because the representatives are satisfied, unless there is notice to the putative class of the proposed dismissal and a determination by the court that the dismissal is proper, as required by Rule 23(e), F.R.C.P.
+Pearson v. Ecological Science Corp. , 5 Cir. 1975, 522 F.2d 171, 177 , cert. denied , 425 U.S. 912 , 96 S.Ct. 1508 , 47 L.Ed.2d 762 , and cases cited therein.
+Where, as here, there is a Rule 23(c)(1) determination that the class action is not maintainable, the notice requirements of Rule 23(e) do not apply if "dismissal and settlement of the action do not directly affect adversely the rights of individuals not before the court."
+Id. By the very act of filing a class action, the class representatives assume responsibilities to members of the class.
+They may not terminate their duties by taking satisfaction; a cease-fire may not be pressed upon them by paying their claims.
+The court itself has special responsibilities to ensure that the dismissal does not prejudice putative members.
+Even if the court should have permitted the bank to pay off the named plaintiffs, either with their acquiescence or over their objection, this satisfaction of their claims could not preclude them from appealing the denial of certification, nor would it excuse them from their duty of doing so absent express approval by the trial court.
+See generally Miller, An Overview of Federal Class Actions: Past, Present and Future (Federal Judicial Center, 1977) at 57-63.
+A member of the putative class may appeal the denial of certification, even though it has been decided that the claims of the named plaintiffs lack merit.
+United Airlines, Inc. v. McDonald , 1977, 432 U.S. 385 , 97 S.Ct. 2464 , 53 L.Ed.2d 423 .
+An individual plaintiff who has already prevailed in the trial court may appeal the denial of class certification.
+Gelman v. Westinghouse Electric Corp. , 3 Cir. 1977, 556 F.2d 699, 701-702 , and cases cited therein; Esplin v. Hirschi , 10 Cir. 1968, 402 F.2d 94 , cert. denied , 1969, 394 U.S. 928 , 89 S.Ct. 1194 , 22 L.Ed.2d 459 .
+An individual plaintiff who loses on the merits may also appeal a denial of certification.
+Horn v. Associated Wholesale Grocers, Inc. , 10 Cir. 1977, 555 F.2d 270, 276-277 ; Donaldson v. Pillsbury Co. , 8 Cir. 1977, 554 F.2d 825, 831 n. 5, cert. denied , 1977, 434 U.S. 856 , 98 S.Ct. 177 , 54 L.Ed.2d 128 , and cases cited therein.
+There is no reason why an individual plaintiff to whom payment of his claim has been tendered should have less standing in the light of the judicial responsibility to ensure that class representatives adequately represent the interests of the class and do not settle either their claims or the class action without court approval.
+In Satterwhite v. City of Greenville , 5 Cir. 1978, 578 F.2d 987, 995 n. 10, we noted that, if the representative's claim became moot prior to appellate review of a denial of certification based upon a full evidentiary hearing, there are several reasons for permitting the representative to appeal that decision.
+In particular, unless the representative is permitted to appeal, whether the alleged error in denying certification will be reviewed will depend upon the intervention of a putative class member who, under Pearson , is not entitled to notice of the individual compromise and may be unaware that the putative class is without a representative who has a viable claim.
+Review of alleged judicial error ought not be foreclosed so fortuitously.
+Additionally, such intervenors offer inadequate protection because of the possibility that defendant will pay a satisfactory price for their abandoning the appeal.
+Constitutional requirements are met: a viable controversy still exists with respect to the maintainability determination.
+The only issue is who may raise it.
+Here, plaintiffs have a stake because of their objection to the compromise.
+However, even had they been satisfied with the offer of judgment, the result would not change; the individual plaintiffs would maintain a stake in procuring class-wide relief.
+Gelman v. Westinghouse Electric Corp. , supra .
+Moreover, they maintain a nexus with the class and, for reasons detailed subsequently, continue to be adequate representatives for purposes of Rule 23(a)(4) despite the mootness of their claims.
+See Satterwhite , supra , 578 F.2d at 996 n. 11; Long v. Sapp , 5 Cir. 1974, 502 F.2d 34, 42 .
+Hence, the issue is properly before us on appeal.
+III.
+The Class Action The lower court, after several conferences with counsel and a full study of the evidentiary materials, concluded that, although the numerosity, commonality and typicality requirements of Rule 23(a)(1), (2) and (3), F.R.C.P., are met, the requirement of Rule 23(a)(4) that the plaintiffs fairly and adequately protect the interests of the class is not satisfied because of the inability of the named plaintiffs to finance the case.
+It found that the requirements of Rule 23(b)(3) 3 were not met because plaintiffs failed to establish that questions of law and fact common to class members predominate, and because a class action is not superior due to: (1) the availability of the traditional procedures for prosecuting individual claims in Mississippi courts; (2) the "horrendous penalty," which could result in "destruction of the bank" if claims are aggregated; (3) the substantive law of Mississippi which views the aggregation of usury claims as undesirable; and (4) the tremendous burden of handling 90,000 claims, particularly if counter-claims are filed.
+Upon review, we find that the requirements of Rule 23(a)(4) are met, and that the court went beyond the bounds allowed for the exercise of its discretion with respect to the Rule 23(b)(3) determination.
+See Shumate & Co., Inc. v. National Association of Securities Dealers, Inc. , 5 Cir. 1975, 509 F.2d 147, 155 , cert. denied , 1975, 423 U.S. 868 , 96 S.Ct. 131 , 46 L.Ed.2d 97 .
+A. Adequacy of Class Representation No question is raised about the ability and willingness of the named plaintiffs fairly and adequately to protect the interests of the class, but the defendants do question the plaintiffs' ability to finance the litigation.
+4 Their counsel are qualified and experienced.
+Eisen v. Carlisle & Jacquelin (Eisen II) , 2 Cir. 1968, 391 F.2d 555, 562 .
+The only major cost to be advanced before it is determined whether or not the defendant is liable is that of a class notice.
+See Oppenheimer Fund, Inc. v. Sanders , 1978, U.S. , 98 S.Ct. 2380 , 57 L.Ed.2d 253 .
+The postage for such a notice, if individual mailing is required, would be about $15,000.
+Counsel properly offered to advance that sum looking to the named plaintiffs for repayment if required.
+Their clients offered a note and mortgage on realty as security.
+Counsel has also offered to give a bond to guarantee that the notice costs will be met.
+The sufficiency of such action has been established, Sayre v. Abraham Lincoln Federal Savings & Loan Ass'n , E.D.Pa.1974, 65 F.R.D. 379 , modified , E.D.Pa.1975, 69 F.R.D. 117 ; Halverson v. Convenient Food Mart, Inc. , 7 Cir. 1972, 458 F.2d 927, 931 n. 7.
+Neither the satisfaction nor denial of the individual plaintiffs' claims, if effective, necessarily precludes their serving as adequate representatives.
+We have permitted representatives to serve the class despite adjudications determining that their individual claims are not viable if they are members of the class and maintain an adequate nexus with it.
+Long v. Sapp , 5 Cir. 1974, 502 F.2d 34 ; Huff v. N.D Cass Co. of Ala. , 5 Cir. 1973, 485 F.2d 710, 712-714 (en banc).
+See Gelman v. Westinghouse Electric Corp. , 3 Cir. 1977, 556 F.2d 699, 701 ; Satterwhite v. City of Greenville , 5 Cir. 1978, 578 F.2d 987, 993 n. 8, approving this jurisprudence and distinguishing East Texas Motor Freight System, Inc. v. Rodriguez , 1977, 431 U.S. 395 , 97 S.Ct. 1891 , 52 L.Ed.2d 453 , on the basis that the named representatives in that case were not members of the class at the time the suit was filed nor at the time of the certification decision.
+The relevant inquiry is whether the plaintiffs maintain a sufficient interest in, and nexus with, the class so as to ensure vigorous representation.
+The defendant's decision to confess judgment has not affected the vigor with which plaintiffs have pursued the class claims, and we find no basis for concluding that they have not satisfied the requirements of Rule 23(a)(4).
+B. Superiority of a Class Action This is a classic case for a Rule 23(b)(3) class action.
+The claims of a large number of individuals can be adjudicated at one time, with less expense than would be incurred in any other form of litigation.
+The claims are relatively small, said even by the plaintiffs to average less than $100 each, and the question of law is one that applies alike to all.
+While it may be necessary to make individual fact determinations with respect to charges, if that question is reached, these will depend on objective criteria that can be organized by a computer, perhaps with some clerical assistance.
+It will not be necessary to hear evidence on each claim.
+A number of similar class actions have been certified by district courts, 5 and appear to have been susceptible of management.
+Certification will achieve one of the primary purposes of the class action, "enhanc[ing] the efficacy of private actions by permitting citizens to combine their limited resources to achieve a more powerful litigation posture."
+Hawaii v. Standard Oil Co. of California , 1972, 405 U.S. 251, 266 , 92 S.Ct. 885, 893 , 31 L.Ed.2d 184 .
+We consider separately each of the factors that are argued to militate against certification.
+1.
+Common Issues The legal issues, as the trial court correctly noted, are whether the finance or service charge made is subject to the Mississippi statute on usury--for such a charge might be considered exempt from the statute; whether the charge is interest and, if so, what rate of interest is permissible; and whether the rate actually paid in any given case is to be determined on a daily, monthly, or other basis, and what dates are to be used for determination of the rate.
+If the legal issues are resolved in favor of some or all of the members of the class, there would then be factual questions; whether the permissible rate was exceeded in any given case, and, if so, by what amount.
+In determining these issues, it may (or may not, dependent upon Mississippi law), be important that the effective daily rate or monthly rate paid would vary from one account to another.
+If Mississippi law proscribes or permits a 1½% charge per se , the effective daily rate will be unimportant.
+If Mississippi law determines whether a charge is usurious not by the nominal rate imposed but by referenced to the average daily rate charged, then whether the effective rate is based upon the period commencing when the bank receives the bill or when the customer receives the bill may determine whether the rate is usurious.
+Additionally, if the period ends on the date the charge is actually paid, as opposed to the date the charge is due, the effective rate charged a customer who paid his account five days after receiving a billing showing a finance charge (35 days after the charge was computed at the rate of 1½% a month) would be different from the rate paid by another customer who paid 29 days after receiving the bill (59 days after the charge was compiled).
+Thus, it may (or again, may not, dependent on whether any charge made was usurious under Mississippi law, or whether every 1½% charge made was excessive, or whether some other standard applies) be necessary to reconstruct each card holder's account.
+Neither the trial court nor we can know in advance of a substantive decision whether it is necessary to make a computation (after all, the charge may be valid); or, if it is, how Mississippi law determines what is usurious and by what standards the computations are to be made.
+The best scenario for the utility of a class action is constructed if the trial court decides that the charge can never be considered usurious; the defendant disposes of 90,000 potential claims in one coup.
+The worst hypothesis will materialize if the court decides that Mississippi law requires the rate to be computed on each individual account on a daily-rate basis.
+Whether the testimony of plaintiffs' expert (who has done a similar job before) or defendant's expert (who obviously fears disaster) be accepted, no computation need be made, and no costs need be incurred until the trial court determines the applicable Mississippi rule and, if Mississippi law appears to create liability, sets standards for its application, perhaps by an inexpensive preliminary sample of accounts.
+Hence, common questions predominate for purposes of satisfying Rule 23(b)(3); the issues unique to each claim, if any are raised, are not so complex as to make the costs of determination prohibitive, or to require individual evidentiary hearings.
+2.
+Availability of Other Relief The potential class members cannot effectively secure relief, if any is due, by another type of action.
+The suggestion by the defendant that each plaintiff might resort to a Mississippi small claims court assumes that the procedures of such courts are adequate for the sophisticated type of claim here presented, and that Mississippi state courts could handle this volume of suits.
+Moreover, the national bank defendant could remove every such case to federal court.
+28 U.S.C. 1337 and 1441(b); see Partain v. First Nat'l Bank , 5 Cir. 1972, 467 F.2d 167 .
+Cf. Marquette Nat'l Bank v. First Nat'l Bank , D.Minn.1976, 422 F.Supp.
+1346 .
+What is more important is that each plaintiff has the right to seek relief in federal court.
+If even one-twentieth of them chose to do so, the court would have 5000 suits to dispose of, approximately four times the total number of suits of all kinds filed with its clerk annually.
+6 Should a federal forum be used for such individual actions, the cost of each action would surely increase, as would the cost of determining damages.
+The alleged statutory wrong may go unchallenged because the costs of proof exceed the likely recovery.
+See Wright & Miller, Federal Practice and Procedure, 1779 at 61 (1972 ed.).
+Even assuming arguendo that multiple individual actions were feasible, they would be wasteful and uneconomical.
+This is precisely the problem that Rule 23 was designed to prevent.
+"The very purpose to be served by a class action is the opportunity it affords to prevent a multiplicity of suits based on a wrong common to all."
+Green v. Wolf Corp. , 2 Cir. 1968, 406 F.2d 291 , cert. denied , 1969, 395 U.S. 977 , 89 S.Ct. 2131 , 23 L.Ed.2d 766 .
+3.
+Impact on Defendant In Truth-in-Lending actions, Congress has manifested its concern about suits potentially ruinous to defendants by limiting recovery.
+15 U.S.C. 1691e .
+There appears to be no comparable limit for class actions under the National Banking Act although recovery is limited in actions of this type to twice the amount of the interest paid.
+12 U.S.C. 86 .
+See McCollum v. Hamilton Nat'l Bank , 1938, 303 U.S. 245, 247 , 58 S.Ct. 568, 570 , 82 L.Ed. 819 ; Coral Gables First Nat'l Bank v. Constructors of Fla., Inc. , Fla.App.
+1960, 119 So.2d 741 ; First Nat'l Bank v. Lowery , 1937, 234 Ala. 56 , 173 So. 382 ; First Nat'l Bank v. Davis , 1911, 135 Ga. 687 , 70 S.E. 246 .
+We find no evidence that Congress otherwise sought to protect the net worth of national banks against damaging suits if, in fact, they overcharged their customers.
+If it be assumed, however, that courts should heed hurricane warnings about potential disasters to defendants and use them as a reason to evacuate imperilled defendants from class actions, then we consider this danger to Consurve to be less than catastrophic.
+If it is assumed that the defendant is correct when it states that about 35% of the card holders paid no service charge, then the number of potential claimants is 60,000.
+If the average recovery is $100 each, the potential liability is large ($12,000,000) but not ruinous to a defendant with capital accounts of $45,000,000 and with assets of $520,000,000.
+Unlike the situation under some statutes, we are not concerned with a fixed minimum penalty of a substantial amount for a technical violation, see Partain v. First Nat'l Bank of Montgomery , M.D.Ala.1973, 59 F.R.D. 56 , 60-61, that if magnified, would exact a punishment unrelated to statutory purposes.
+Compare Ratner v. Chemical Bank N. Y. Trust Co. , S.D.N.Y.1972, 54 F.R.D. 412 .
+Because considering the financial impact of a judgment presupposes success on the merits and requires the trial court to express an opinion on the harshness vel non of a particular remedy prior to trial itself, it ought to be allowed only in extreme cases.
+4.
+Mississippi Usury Law and Aggregation Nor is the attitude of Mississippi law disfavoring usury suits sufficient to deter the entertainment of this class action.
+Usury claims are penal in Mississippi and are viewed as personal to the borrower; the aggregation of such claims is condemned.
+7 Fry v. Layton , 1941, 191 Miss. 17 , 2 So.2d 561 .
+8 Of course, we deal here with a claim against a national bank, controlled in matters of procedure by the Federal Rules of Civil Procedure.
+John R. Alley & Co. v. Federal Nat'l Bank of Shawnee , 10 Cir. 1942, 124 F.2d 995 ; the action is regulated by federal law, although the federal statute may look to local law as surrogate federal law for determining the permissible interest charges.
+12 U.S.C. 85 .
+9 As we said in Partain v. First Nat'l Bank of Montgomery , 5 Cir. 1972, 467 F.2d 167, 173 : Evans v. National Bank 251 U.S. 108 40 S.Ct. 58 64 L.Ed. 171 only National Bank v. Johnson 104 U.S. 271 26 L.Ed. 742 rate (Emphasis added & original) Hence, the state law with respect to aggregating usury claims that derive from state law is inapposite with respect to claims founded on federal statute, and would yield to Rule 23, F.R.C.P., even if relevant.
+5.
+Manageability The case presents no unusual difficulties in class management.
+While the class is large, it is peculiarly manageable.
+All the members live in one state, the defendant has each member's address on a computer; both that address and the itemized history of each account can readily be obtained.
+After substantive rulings are made on the basic issues of liability and damage computation, the case is so manageable that a computer, either in the bank itself or leased elsewhere, can handle its administration --as distinguished from the ultimate computation which may in some instances require clerical personnel.
+The task is not a particularly difficult one when compared to the work that the bank ordinarily performs on its own computer.
+Under any theory the work involved in the refund computation procedure will represent only a small fraction of the work originally done on the credit card accounts by the bank's computer operation.
+The evidence shows that this ordinary work was done with such comparative ease that the computer could also do all of the other work of the bank, plus the work of 60 or 70 other banks under contract with it and continue to advertise for more business.
+We do not agree with the trial court that there is a serious possibility that the defendant, "faced with the enormous task of defending these thousands of claims, might be pressured into a compromise settlement or even a compromise on procedure to minimize the enormous cost and disruption of its normal business functions."
+We do not minimize the effect of "strike actions," and we certainly do not applaud them.
+But, as we have indicated, the specter of large cost will materialize only if, after a preliminary hearing, it appears likely that damages are actually due a large number of class members.
+Only then, after liability is determined, will there be substantial cost, either in defense or in payment of damages.
+The lower court alluded to the potential problem of counter-claims.
+This likewise can be handled, if that point is reached, by adopting standards and classifying the claims.
+See Weit v. Continental Illinois Nat'l Bank , N.D.Ill.1973, 60 F.R.D. 5 .
+If the court should conclude at any time that the entire group of counter-claims makes the plaintiffs' claims on behalf of such persons unmanageable, the court has the continuing authority under Rule 23 to issue a supplemental order excluding counter-claim defendants from the plaintiff class or separating and severing the class into two different classes, one with counterclaims and one without counter-claims.
+As Judge Johnson said in Partain , supra : 59 F.R.D. at 59 .
+Of course, the easiest way for any court to handle complex class litigation is simply to deny certification; this may have the real effect of permitting a defendant to violate a federal statute either with impunity or minor expense.
+In the present case few of the individual claimants would have the resources necessary to litigate against a well-financed defendant.
+This consideration underlies the decision of the Seventh Circuit in Hohmann v. Packard Instrument Co. , 7 Cir. 1968, 399 F.2d 711 , which found a similar situation a classic one for sustaining the class action involved.
+Quoting its prior decision in Weeks v. Bareco Oil Company , 7 Cir. 1941, 125 F.2d 84, 90 , the court said: 399 F.2d at 715 .
+For these reasons, we REVERSE and REMAND to the trial court for further proceedings consistent with this opinion.

@@ -1,0 +1,195 @@
+ SMITH, Circuit Judge.
+Milavetz, Gallop & Milavetz, P.A., a law firm that practices bankruptcy law, the firm's president, a bankruptcy attorney within the firm, and two clients [fn1] who sought bankruptcy advice from the firm brought suit against the United States seeking a declaratory judgment that certain provisions of the Bankruptcy Abuse Prevention and Consumer Protection Act of 2005 (BAPCPA) — 11 U.S.C. 526 (a)(4) and 528 (a)(4) and (b)(2) — did not apply to attorneys and law firms and are unconstitutional as applied to attorneys.
+The district court granted summary judgment to the plaintiffs and issued an order declaring that: (1) attorneys in the District of Minnesota were excluded from the definition of a "debt relief agency" as defined by BAPCPA; and (2) the challenged provisions were unconstitutional as applied to attorneys in the District of Minnesota.
+We affirm in part and reverse in part.
+I. Background On April 20, 2005, BAPCPA was signed into law, amending and adding multiple sections of the Bankruptcy Code ("the Code").
+While some of these amendments became effective immediately, the vast majority became effective on October 17, 2005.
+See Pub.L.
+No. 109-8 , 1501(a) , 119 Stat. 23 (2005) ("Except as otherwise provided in this Act, this Act and the amendments made by this act shall take effect 180 days after the date of enactment of this Act").
+One BAPCPA amendment added a new term, "debt relief agency," which is defined in 101 (12A) of the Code.
+11 U.S.C. 101 (12A).
+[fn2] The amended Code restricts some actions of debt relief agencies, while requiring them to do others.
+See 11 U.S.C. 526 ("Restrictions on debt relief agencies"); 11 U.S.C. 528 ("Requirements for debt relief agencies").
+For example, 526(a)(4) bars a debt relief agency from advising a client "to incur more debt in contemplation" of a bankruptcy filing, 11 U.S.C. 526 (a)(4), while 528(a)(4) and (b)(2) require debt relief agencies to include a disclosure in their bankruptcy-related advertisements directed to the general public declaring: "`We are a debt relief agency.
+We help people file for bankruptcy relief under the Bankruptcy Code[,]'or a substantially similar statement."
+11 U.S.C. 528 (a)(4), (b)(2) .
+The plaintiffs sought alternative remedies.
+First, plaintiffs requested a declaratory judgment that attorneys did not fall [**2] within the definition of "debt relief agency."
+If the court determined that attorneys fell within the definition of debt relief agency, they challenged the constitutionality of 526(a)(4) and 528(a)(4) and (b)(2) , as applied to attorneys.
+II.
+Discussion A. Debt Relief Agencies Initially, we address whether attorneys fall within the Code's definition of debt relief agencies.
+If they do not, we will have no need to address the constitutionality of 526(a)(4) and 528(a)(4) and (b)(2) , which only apply to debt relief agencies.
+See Holtan v. Black , 838 F.2d 984 , 986 n. 3 (8th Cir. 1988) ("Federal courts must avoid passing upon constitutional questions unless they are essential to the disposition of the issues before them.")
+(citing Three Affiliated Tribes v. Wold Engineering , 467 U.S. 138 , 157 , 104 S.Ct. 2267 , 81 L.Ed.2d 113 (1984) ("It is a fundamental rule of judicial restraint, however, that this Court will not reach constitutional questions in advance of necessity of deciding them")).
+The term "debt relief agency" means any person who provides any bankruptcy assistance to an assisted person in return for the payment of money or other valuable consideration, or who is a bankruptcy petition preparer under section 110 , but does not include — (A) any person who is an officer, director, employee, or agent of a person who provides such assistance or of the bankruptcy petition preparer; (B) a nonprofit organization that is exempt from taxation under section 501 (c)(3) of the Internal Revenue Code of 1986; (C) a creditor of such assisted person, to the extent that the creditor is assisting such assisted person to restructure any debt owed by such assisted person to the creditor; (D) a depository institution (as defined in section 3 of the Federal Deposit Insurance Act) or any Federal credit union or State credit union (as those terms are defined in section 101 of the Federal Credit Union Act), or any affiliate or subsidiary of such depository institution or credit union; or (E) an author, publisher, distributor, or seller of works subject to copyright protection under title 17, when acting in such capacity.
+11 U.S.C. 101 (12A) (emphasis added).
+Further, the Code defines the term "bankruptcy assistance" to mean: any goods or services sold or otherwise provided to an assisted person with the express or implied purpose of providing information, advice, counsel , document preparation, or filing, or attendance at a creditors' meeting or appearing in a case or proceeding on behalf of another or providing legal representation with respect to a case or proceeding under this title.
+Id. at 101(4A) (emphasis added).
+Additionally, the Code defines the term "assisted person" as "any person whose debts consist primarily of consumer debts and the value of whose nonexempt property is less than $164,250."
+[fn3] Id. at 101(3) .
+The plaintiffs argue that attorneys are not "debt relief agencies" because the definition of debt relief agencies makes no direct reference to attorneys, even though "attorney" is a defined term in the Code, id. at 101(4) , [fn4] but does include the term "bankruptcy petition preparer" which, by definition, excludes debtor's attorneys and their staff.
+See 11 U.S.C. 110 (a)(1).
+[fn5] Plaintiffs contend that the omission [**3] of any reference to attorneys or lawyers while specifically including bankruptcy petition preparers shows Congress's intent to exclude attorneys from the definition of debt relief agencies.
+Because the plaintiffs contend that constitutionality issues arise in 526(a)(4) and 528(a)(4) and (b)(2) if attorneys are debt relief agencies, they assert that the doctrine of constitutional avoidance should be used to interpret "debt relief agency" to exclude attorneys and thus avoid the potential constitutional issues.
+Conversely, the government argues that attorneys are debt relief agencies because the broadly worded definition of the term plainly includes attorneys, see 11 U.S.C. 101 (12A) (defining "debt relief agency" as "any person who provides any bankruptcy assistance to an assisted person in return for the payment"), and providing legal representation is included in definition of bankruptcy assistance.
+See id. at 101(4A) ("bankruptcy assistance means any goods or services sold or otherwise provided to an assisted person with the express or implied purpose of providing .
+.
+.
+advice, counsel, .
+.
+.
+or legal representation with respect to a case or proceeding under this title").
+Whether attorneys fall within the Code's definition of debt relief agencies is an issue of first impression among the Courts of Appeals.
+Although the plain language of the definition appears to include bankruptcy attorneys and does not appear to be ambiguous, lower "[c]ourts that have addressed the issue of whether attorneys are debt relief agencies have not been unanimous."
+In re Irons , 379 B.R. 680 , 685 (Bankr.S.D.Tex.
+2007) (citing cases).
+Nevertheless, the majority of courts have held that compensated bankruptcy attorneys are debt relief agencies as that term is defined in the Code.
+Id .
+(finding debtor's counsel was a debt relief agency); Olsen v. Gonzales , 350 B.R. 906 (D.Or.
+2006) (same); In re Robinson , 368 B.R. 492 (Bankr. E.D.Va.
+2007) (finding debtor's counsel was debt relief agency); Hersh v. United States , 347 B.R. 19 (N.D.Tex.
+2006) (finding that bankruptcy attorneys are debt relief agencies); In re Norman , No. 06-70859, [ 2006 BL 120717 ], 2006 WL 3053309 (Bankr.E.D.Va.
+2006) (finding debtor's counsel qualified as a debt relief agency); but see In re Attorneys at Law and Debt Relief Agencies , 332 B.R. 66 (Bankr.S.D.Ga.
+2005) (holding that attorneys are not debt relief agencies); In re Reyes , 361 B.R. 276 (Bankr.S.D.Fla.
+2007) (finding that attorneys, generally, are not debt relief agencies, but ruling that debtor's counsel in case at bar was not a debt relief agency because service was provided pro bono and thus counsel did not receive valuable consideration in return for the bankruptcy assistance provided).
+In this case, the district court acknowledged that the definition of debt relief agency, "at first glance," appeared to include attorneys, but it ultimately relied on the doctrine of constitutional avoidance to conclude that attorneys did not fall within the definition because if they did portions of 526 and 528 would be unconstitutional as applied to attorneys.
+The doctrine of constitutional avoidance dictates that "where an otherwise acceptable construction of a statute would raise serious constitutional [**4] problems, the Court will construe the statute to avoid such problems unless such construction is plainly contrary to the intent of Congress."
+Edward J. DeBartolo Corp. v. Florida Gulf Coast Bldg. & Constr. Trades Council , 485 U.S. 568 , 575 , 108 S.Ct. 1392 , 99 L.Ed.2d 645 (1988).
+Thus, if interpreting "debt relief agency" to include attorneys "would raise serious constitutional problems," then we should look for another interpretation "that may fairly be ascribed" to the definition that does not raise these concerns.
+Id. at 576-77 , 108 S.Ct. 1392 .
+We will not, however, adopt an alternative interpretation that is "plainly contrary to the intent of Congress."
+Id. at 575 , 108 S.Ct. 1392 .
+"We review the district court's statutory interpretation de novo."
+United States v. Mendoza-Gonzalez , 520 F.3d 912 , 914 (8th Cir. 2008).
+To interpret the statute we first "determine whether the language at issue has a plain and unambiguous meaning with regard to the particular dispute in the case." Id .
+(quoting Robinson v. Shell Oil Co. , 519 U.S. 337 , 340 , 117 S.Ct. 843 , 136 L.Ed.2d 808 (1997)).
+"If so, we apply the plain language of the statute."
+Id .
+"A mere disagreement among litigants over the meaning of the statute does not prove ambiguity; it usually means that one of the litigants is simply wrong."
+Bank of Am. Nat'l Trust & Sav.
+Ass'n v. 203 N. LaSalle St. P'ship , 526 U.S. 434 , 461 , 119 S.Ct. 1411 , 143 L.Ed.2d 607 (1999).
+The plain reading of the definition of debt relief agency, and the defined terms that make up that definition, leads us to conclude that attorneys who provide "bankruptcy assistance" to "assisted persons" are unambiguously included in the definition of "debt relief agencies."
+See Olsen , 350 B.R. at 912 ("[I]t is the plain language of the Act that leads to the conclusion that attorneys are to be included in the definition of `debt relief agency,'" and "[t]hus, further use of the tools of statutory construction is not necessary").
+The statutory language sweeps broadly and clearly covers the legal services provided by attorneys to debtors in bankruptcy unless excluded by another provision.
+Congress specifically listed five exclusions from the definition of "debt relief agency," and if it meant to exclude attorneys from that definition it could have explicitly done so. Id .
+; 11 U.S.C. 101 (12A).
+Moreover, if attorneys were not included in the definition of debt relief agencies, Congress would have had no reason to include 526(d)(2) , which expressly provides that nothing in 526 , 527 , or 528 (the sections covering debt relief agencies) "shall be deemed to limit or curtail the authority or ability of a State .
+.
+.
+to determine and enforce qualifications for the practice of law under the laws of that State; or of a Federal court to determine and enforce the qualifications for the practice of law before that court."
+11 U.S.C. 526 (d)(2)(A) and (B).
+The legislative history provides further indication that attorneys are included in the definition.
+See H.R.
+Rep.
+No. 109-31, 109th Cong. 1st Sess.
+at 4 (April 8, 2005) ("The bill's consumer protections include provisions strengthening professionalism standards for attorneys and others who assist consumer debtors with their bankruptcy cases") (emphasis added).
+[fn6] Because attorneys were not specifically excluded from the definition of debt relief agencies, we hold that attorneys that provide "bankruptcy assistance" [**5] to "assisted persons" are "debt relief agencies" as that term is defined by the Code.
+Interpreting the definition of "debt relief agency" to exclude bankruptcy attorneys would be contrary to Congress's intent.
+B. Constitutionality of 526(a)(4) Having concluded that attorneys providing bankruptcy assistance to assisted persons are debt relief agencies under the Code, we now must determine whether the challenged provisions placing restrictions and requirements on debt relief agencies are unconstitutionally overbroad as applied to these types of attorneys.
+[fn7] One of the sections challenged by the plaintiffs in this case is 526(a)(4) , which states: (a) A debt relief agency shall not — .
+.
+.
+(4) advise an assisted person or prospective assisted person to incur more debt in contemplation of such person filing a case under this title or to pay an attorney or bankruptcy petition preparer fee or charge for services performed as part of preparing for or representing a debtor in a case under this title.
+11 U.S.C. 526 (a)(4).
+Plaintiffs assert that the prohibition against advising an assisted person or prospective assisted person to incur more debt in contemplation of bankruptcy violates the First Amendment.
+The parties disagree as to the level of scrutiny we apply to the constitutional analysis of this limitation on speech.
+Plaintiffs claim that we should review the constitutionality of 526(a)(4) under the strict scrutiny standard as the restriction on attorney advice is content-based.
+See Turner Broad. Sys., Inc. v. FCC , 512 U.S. 622 , 642 , 114 S.Ct. 2445 , 129 L.Ed.2d 497 (1994) ("Our precedents thus apply the most exacting scrutiny to regulations that suppress, disadvantage, or impose differential burdens upon speech because of its content").
+Under strict scrutiny review, the government has the burden to prove that the constraints on speech are supported by a compelling governmental interest and are narrowly tailored, such that the statutory effect does not prohibit any more speech than is necessary to serve the governmental interest.
+Republican Party of Minnesota v. White , 536 U.S. 765 , 774-75 , 122 S.Ct. 2528 , 153 L.Ed.2d 694 (2002).
+In contrast, the government argues that 526(a)(4) 's restrictions are a type of ethical regulation, invoking the more lenient standard outlined in Gentile v. State Bar of Nev. , 501 U.S. 1030 , 111 S.Ct. 2720 , 115 L.Ed.2d 888 (1991).
+Under the Gentile standard, we would balance the First Amendment rights of the attorneys against the government's legitimate interest in regulating the activity in question — the prohibition of advising assisted persons to incur more debt in contemplation of bankruptcy — and then determine whether the regulations impose "only narrow and necessary limitations on lawyers' speech."
+Id. at 1075 , 111 S.Ct. 2720 .
+According to the government, 526(a)(4) should be interpreted as merely preventing an attorney from advising an assisted person (or prospective assisted person) to take on more debt in contemplation of bankruptcy when the incurrence of such debt is done with the intent to manipulate the bankruptcy system, engage in abusive conduct, or take unfair advantage of the bankruptcy discharge.
+However, the plain language of the statute does not permit this [**6] narrow interpretation.
+Rather, 526(a)(4) broadly prohibits a debt relief agency from advising an assisted person (or prospective assisted person) to incur any additional debt when the assisted person is contemplating bankruptcy.
+The statute's blanket prohibition applies even if the additional debt would not be discharged during the bankruptcy proceedings.
+11 U.S.C. 526 (a)(4).
+Thus, regardless of whether the government's interest in prohibiting the speech was legitimate ( Gentile standard) or compelling (strict scrutiny standard), 526(a)(4) is unconstitutionally overbroad as applied to attorneys falling within the definition of debt relief agencies because it is not narrowly tailored, nor narrowly and necessarily limited, to restrict only that speech that the government has an interest in restricting.
+Instead, 526(a)(4) prohibits attorneys classified as debt relief agencies from advising any assisted person to incur any additional debt in contemplation of bankruptcy; this prohibition would include advice constituting prudent pre-bankruptcy planning that is not an attempt to circumvent, abuse, or undermine the bankruptcy laws.
+Section 526(a)(4) , as written, prevents attorneys from fulfilling their duty to clients to give them appropriate and beneficial advice not otherwise prohibited by the Bankruptcy Code or other applicable law.
+[fn8] There are certain situations where it would likely be in the assisted person's, and even the creditors', best interest for the assisted person to incur additional debt in contemplation of bankruptcy.
+However, under 526(a)(4) 's plain language an attorney is prohibited from providing this beneficial advice — even if the advice could help the assisted person avoid filing for bankruptcy altogether.
+For instance, it may be in the assisted person's best interest to refinance a home mortgage in contemplation of bankruptcy to lower the mortgage payments.
+This could free up additional funds to pay off other debts and avoid the need for filing bankruptcy all together.
+Hersh , 347 B.R. at 24 .
+Moreover, it may be in the client's best interest to incur additional debt to purchase a reliable automobile before filing for bankruptcy, so that the debtor will have dependable transportation to travel to and from work, which will likely be necessary to maintain the debtor's payments in bankruptcy.
+Id .
+Incurring these types of additional secured debt, which would often survive or could be reaffirmed by the debtor, may be in the debtor's best interest without harming the creditors.
+[fn9] Factual scenarios other than these few hypothetical situations no doubt exist and may further illustrate why incurring additional debt in contemplation of bankruptcy may not be abusive or harmful to creditors.
+Nonetheless, 526(a)(4) , as written, does not allow attorneys falling within the definition of debt relief agencies to advise assisted persons (or prospective assisted persons) — i.e. clients (or prospective clients) meeting the definition of assisted person — to incur such debt.
+Thus, 526(a)(4) is not narrowly tailored nor narrowly and necessarily [**7] limited to prevent only that speech which the government has an interest in restricting.
+Therefore, we hold that 526(a)(4) is substantially overbroad, [fn10] and unconstitutional as applied to attorneys who provide bankruptcy assistance to assisted persons, as those terms are defined in the Code.
+C. Constitutionality of 528(a) (b) and (b)(2) The plaintiffs also challenged the constitutionality of 528(a)(4) and (b)(2)(B) , claiming that the advertising disclosure requirements mandated by those sections violate the First Amendment rights of bankruptcy attorneys through compelled speech.
+The disclosure requirements of 528(a)(4) are supplemented by 528(a)(3) .
+These sections state: (a) A debt relief agency shall — .
+.
+.
+(3) clearly and conspicuously disclose in any advertisement of bankruptcy assistance services or of the benefits of bankruptcy directed to the general public (whether in general media, seminars or specific mailings, telephonic or electronic messages, or otherwise) that the services or benefits are with respect to bankruptcy relief under this title; and (4) clearly and conspicuously use the following statement in such advertisement: "We are a debt relief agency.
+We help people file for bankruptcy relief under the Bankruptcy Code."
+or a substantially similar statement.
+11 U.S.C. 528 (a)(3), (4).
+Similarly, 528(b)(2)(B) states: (2) An advertisement, directed to the general public, indicating that the debt relief agency provides assistance with respect to credit defaults, mortgage foreclosures, eviction proceedings, excessive debt, debt collection pressure, or inability to pay any consumer debt shall — .
+.
+.
+(B) include the following statement: "We are a debt relief agency.
+We help people file for bankruptcy relief under the Bankruptcy Code."
+or a substantially similar statement.
+11 U.S.C. 528 (b)(2)(B).
+As both 528(a)(4) and (b)(2) (B) require debt relief agencies — which includes attorneys providing bankruptcy assistance to assisted persons — to disclose in their advertising that "`We are a debt relief agency.
+We help people file for bankruptcy relief under the Bankruptcy Code.'
+or some substantially similar statement," the statutes compel speech that, similar to a restriction on speech, receives constitutional protection under the First Amendment .
+See Wooley v. Maynard , 430 U.S. 705 , 714 , 97 S.Ct. 1428 , 51 L.Ed.2d 752 (1977) ("[T]he right of freedom of thought protected by the First Amendment against state action includes both the right to speak freely and the right to refrain from speaking at all"); Turner Broad. Sys., Inc. , 512 U.S. at 642 , 114 S.Ct. 2445 (stating that "[l]aws that compel speakers to utter or distribute speech bearing a particular message are subject to" constitutional scrutiny).
+The government contends that Congress enacted 528 's disclosure requirements to address problems with deceitful or unclear advertising by bankruptcy attorneys, bankruptcy petition preparers, or other debt relief entities.
+This position is supported by legislative history.
+See 151 Cong. Rec.
+H2063 -01, 2066 (daily ed. Apr. 14, 2005) (statement by Rep.
+Moran) (stating that certain BAPCPA provisions are intended to "[p]revent deceptive and fraudulent advertising practices by debt relief [**8] agencies .
+.
+.").
+But before we can determine whether the government's justification for mandating the disclosures passes constitutional scrutiny, we must first decide the appropriate standard for reviewing the constitutionality of the required disclosures.
+We find guidance for this issue from the Court in Zauderer v. Office of Disciplinary Counsel of the Supreme Court of Ohio , 471 U.S. 626 , 105 S.Ct. 2265 , 85 L.Ed.2d 652 (1985).
+In Zauderer , the Supreme Court considered the constitutionality of a state bar disciplinary regulation requiring attorneys that advertised contingent-fee representation to disclose in their advertisements that clients may still have to bear certain costs even if the case was unsuccessful.
+Id. at 633 , 105 S.Ct. 2265 .
+As the regulation only required an attorney to "include in his advertising purely factual and uncontroversial information about the terms under which his services w[ould] be available," and "the extension of First Amendment protection to commercial speech is justified principally by the value to consumers of the information such speech provides, [the attorney's] constitutionally protected interest in not providing any particular factual information in his advertising is minimal."
+Id. at 651 , 105 S.Ct. 2265 .
+The Court "recognize[d] that unjustified or unduly burdensome disclosure requirements might offend the First Amendment by chilling protected commercial speech," but held "that an advertiser's rights are adequately protected as long as disclosure requirements are reasonably related to the State's interest in preventing deception of consumers."
+Id .
+(emphasis added).
+On the other hand, restrictions on non-deceptive advertising are reviewed under intermediate scrutiny.
+See Cent. Hudson Gas & Elec. Corp. v. Pub. Serv. Comm'n of New York , 447 U.S. 557 , 564 , 100 S.Ct. 2343 , 65 L.Ed.2d 341 (1980) (ruling that restrictions on commercial speech that is neither misleading nor related to unlawful activity must assert a "substantial interest to be achieved by [the] restrictions" and "the restrictions must directly advance the state interest involved").
+Under this standard, the limitation must be narrowly drawn.
+Id .
+("[I]f the governmental interest could be served as well by a more limited restriction on commercial speech, the excessive restrictions cannot survive").
+The district court in this case reviewed 528 's disclosure requirements under the intermediate scrutiny standard, but we conclude that rational basis review is proper.
+The disclosure requirements here, like those in Zauderer , are intended to avoid potentially deceptive advertising.
+See Zauderer , 471 U.S. at 651 , n. 14, 105 S.Ct. 2265 (rejecting a more strict analysis of the disclosure requirements at issue in that case, and noting that "the First Amendment interests implicated by disclosure requirements are substantially weaker than those at stake when speech is actually suppressed .
+.
+.").
+By definition, debt relief agencies provide bankruptcy assistance to assisted persons (or prospective assisted persons) "with respect to a case or proceeding under [the Bankruptcy Code]."
+11 U.S.C. 101 (4A), (12A) .
+Section 528 generally requires debt relief agencies to disclose on its advertisements [**9] of bankruptcy assistance services directed to the general public that their services do in fact relate to bankruptcy and that they assist people in filing for bankruptcy.
+11 U.S.C. 528 .
+As in Zauderer , the plaintiffs' "constitutionally protected interest in not providing [such] factual information in [their] advertising is minimal."
+471 U.S. at 650 , 105 S.Ct. 2265 .
+Further, the disclosure requirements are reasonably and rationally related to the government's interest in preventing the deception of consumer debtors, as the disclosure requirements are directed precisely at the problem targeted by Congress: ensuring that persons who advertise bankruptcy-related services to the general public make clear that their services do in fact involve filing for bankruptcy.
+[fn11] Section 528 requires debt relief agencies to disclose: "`We are a debt relief agency.
+We help people file for bankruptcy relief under the Bankruptcy Code.'
+or a substantially similar statement," in all of their bankruptcy-related advertising materials directed to the general public.
+11 U.S.C. 528 (a)(4), (b)(2) .
+The requirement does not prevent those attorneys meeting the definition of debt relief agencies "from conveying information to the public; it .
+.
+.
+only require[s] them to provide somewhat more information than they might otherwise be inclined to present."
+Zauderer , 471 U.S. at 650 , 105 S.Ct. 2265 .
+Moreover, if any of these attorneys are concerned that the required disclosures will confuse the public, we note that nothing in the Code prevents them from identifying themselves in their advertisements as both attorneys and debt relief agencies.
+Olsen , 350 B.R. at 920 .
+Simply put, attorneys that provide bankruptcy assistance to assisted persons are debt relief agencies under the Code, and the disclosure requirements of 528 only require those attorneys to disclose factually correct statements on their advertising.
+[fn12] This does not violate the First Amendment .
+Id .
+; see also In re Robinson , 368 B.R. at 500-502 (finding that debtor's counsel was a debt relief agency subject to the strictures of 528 , and that 528(a)(1) 's requirement for a written contract is constitutional); In re Norman , [ 2006 BL 120717 ], 2006 WL 3053309 at *4 (finding that debtor's counsel qualified as a debt relief agency and thus must comply with the requirements of 528(a)(1) ).
+The challenged sections of 528 only require debt relief agencies to include a disclosure on certain advertisements.
+Although less intrusive means may be conceivable to prevent deceptive advertising, 528 's disclosure requirements are reasonably related to the government's interest in protecting consumer debtors from deceptive advertising, and thus the section passes constitutional muster.
+III.
+Conclusion In sum, attorneys who provide bankruptcy assistance to assisted persons are debt relief agencies under the Bankruptcy Code, and 526(a)(4) is unconstitutional as applied to these attorneys, but 528(a)(4) and (b)(2) are constitutional.
+Accordingly, we affirm in part and reverse in part.

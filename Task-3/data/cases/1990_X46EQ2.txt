@@ -1,0 +1,90 @@
+ BALDOCK , Circuit Judge.
+The debtors, Republic Trust & Savings Company and Republic Financial Corporation, were uninsured financial institutions doing business in Oklahoma.
+Appellants were holders of thrift and passbook savings certificates issued by the debtors to represent the debtors' promise to repay monies the appellants had invested in them.
+Between July 5 and September 19, 1984, appellants redeemed their certificates and accepted payments from the debtors aggregating over $713,919.
+On September 24, 1984, the debtors filed a chapter eleven bankruptcy petition.
+In October 1985, the bankruptcy trustee instituted adversary proceedings against the appellants seeking to recover the payments as avoidable preferences under 11 U.S.C. 547(b) .
+1 At the conclusion of a four-day bench trial in June 1987, the bankruptcy court found that the monies appellants received from the debtors within ninety days of the petition's filing constituted avoidable preferences.
+The district court affirmed the bankruptcy court's judgment.
+Appellants take exception, asserting that they were entitled (1) to judgment as a matter of law because the exemptions contained in 11 U.S.C. 547(c)(1) & (2) negated the trustees avoidance powers, (2) to offset the debtors' payments against the preferential transfers because they were denied due process in connection with the confirmation of the reorganization plans, or (3) to a jury trial.
+Our jurisdiction over this appeal arises pursuant to 28 U.S.C. 158(d) .
+We review these questions of law de novo , and reverse.
+I. Under 11 U.S.C. 547(c)(1) , a bankruptcy trustee may not avoid a transfer which meets the requirements of subsection (b) contemporaneous exchange for new value (emphasis added).
+Section 547(a)(2) defines new value as "money or money's worth in goods, services, or new credit " According to appellants, their redemption of thrift and passbook savings certificates in exchange for the debtors' payments constituted a "contemporaneous exchange for new value," because the certificates had "independent value."
+In Holloway v. Peat, Marwick, Mitchell & Co. , 879 F.2d 772 (10th Cir.), petition for cert. granted , U.S. , 110 S.Ct. 1314 , 108 L.Ed.2d 490 (1990), we recently addressed the nature of thrift and passbook savings certificates in determining that the instruments issued by the debtors were "securities for the purposes of the federal securities laws."
+Id. at 788 .
+We stated: 15 U.S.C. 78c(a)(10) Id. at 777 .
+Given our description in Holloway of the thrift and passbook savings certificates at issue here as "debt instruments, representing a promise by the issuing entity to repay," we conclude that appellants' redemption of the certificates in exchange for the debtors' payments did not constitute new value within the meaning of 547(c)(1) .
+The certificates were nothing more than evidence of an underlying indebtedness, akin to promissory notes, owed by the debtors to the appellants as holders of the certificates.
+Appellants ask us essentially to hold that a creditor's transfer of a note upon receipt of a debtor's final payment constitutes a contemporaneous exchange for new value.
+Because no authority exists to support such a proposition, we decline the invitation.
+2 The district court did not err in declining to grant appellants judgment as a matter of law under 547(c)(1) .
+II.
+The district court's conclusion that appellants were not entitled to judgment under 547(c)(2) was likewise correct.
+Prior to the 1984 amendments to the bankruptcy code, Pub.L.
+No. 98-353, 98 Stat. 333 , subsection (c)(2) prohibited a bankruptcy trustee from avoiding a preferential transfer if the transfer was 11 U.S.C. 547(c)(2) (amended 1984).
+The bankruptcy trustee acknowledges that the debtors' payments to appellants comply with the requirements of subsections (A), (C) & (D), while the appellants admit that the payments were not made within 45 days after the debt was incurred as required by subsection (B).
+Appellants contend, however, that the 45-day rule is inapplicable because the 1984 amendments abolished it.
+Pub.L.
+No. 98-353, 462(c) , 98 Stat. 378 .
+Thus, we must determine whether the pre or post-amendment version of 547(c)(2) applies in this instance.
+The effective date of the bankruptcy amendments is contained in Pub.L.
+No. 98-353, 553 , 98 Stat. 392 : "[T]he amendments made by this title shall become effective to cases filed 90 days after the date of enactment of this Act."
+(emphasis added).
+The amendments were enacted on July 10, 1984, and became effective on October 8, 1984.
+Because the bankruptcy trustee did not institute adversary proceedings against the appellants until October 1985, a year after the amendments' effective date, appellants claim the post-amendment version of 547(c)(2) applies.
+The trustee asserts, however, that because the debtors filed their bankruptcy petition on September 24, 1984, before the amendments became effective, the pre-amendment version of subsection (c)(2) governs and the 45-day rule bars appellants' defense.
+The problem with appellants' position is that it equates the word "cases" appearing in 553 with the term "proceedings."
+Preference actions are generally described as proceedings, see, e.g. , Bankr.R.
+7001, whereas a case commences with the filing of a bankruptcy petition, see e.g. , 11 U.S.C. 301-03 .
+See generally , S.Rep.
+No. 989, 95th Cong., 2d Sess.
+153-54, reprinted in 1978 U.S.Code Cong. & Admin.News 5787, 5939-40 (Senate Report to Bankruptcy Reform Act of 1978).
+Lower courts have consistently recognized this difference in applying the pre-amendment version of 547(c)(2) .
+E.g. , In re Amarex, Inc. , 74 B.R. 378, 381-82 (Bankr.W.D.Okla.1987), aff'd , 88 B.R. 362, 364 (W.D.Okla.1988) (reference to "case" in 553 refers to bankruptcy cases, not adversary proceedings).
+Although no circuit court has squarely addressed the meaning of the word "cases" in 553 , in Fidelity Sav. & Inv. Co. v. New Hope Baptist , 880 F.2d 1172, 1175 n. 2 (10th Cir.1989), we recently endorsed the view that "cases" refers to bankruptcy cases rather than adversary proceedings: "This amendment [elimination of 45-day rule in 547(c)(2) ] applies to bankruptcy cases filed after October 8, 1984."
+(emphasis added).
+To support our statement, we cited In re Sounds Distrib., Inc. , 80 B.R., 749, 751-52 (Bankr.W.D.Pa.1987), which held that the controlling date in determining the applicability of the 1984 amendments was the date the debtors filed their bankruptcy petition rather than the date the trustee commenced adversary proceedings.
+See also In re Bullion Reserve , 836 F.2d 1214, 1217 n. 2 (9th Cir.), cert. denied , 486 U.S. 1056 , 108 S.Ct. 2824 , 100 L.Ed.2d 925 (1988) (amendment to 547(c)(2) did not apply because debtor filed its bankruptcy petition in 1983); In re Energy Co-op Inc. , 832 F.2d 997, 1000 n. 2 (7th Cir.1987) (45-day requirement applied because 547(c)(2) amendment applicable only to "bankruptcy cases" filed 90 days after July 10, 1984).
+Were we to accept appellants' interpretation of the word "cases" in 553 , different legal standards might apply in the same bankruptcy case due to a trustee's decision to commence adversary proceedings on separate dates.
+This surely was not the intent of Congress in amending the bankruptcy code.
+The district court properly applied the 45-day rule contained in the pre-amendment version of 547(c)(2) in rejecting appellants' claimed exemption.
+III.
+The district court also properly rejected appellants' assertion that they were denied due process of law when they failed to receive notice of the time fixed for objecting to the debtors' proposed reorganization plans.
+The fifth amendment, U.S. Const.
+amend.
+V, requires that creditors holding claims against a bankruptcy estate must be given reasonable notice of a plan's confirmation hearing before their claims are barred.
+City of New York v. New York, New Haven & Hartford R.R. Co. , 344 U.S. 293, 297 , 73 S.Ct. 299, 301 , 97 L.Ed. 333 (1953) (reasonable opportunity to be heard must precede judicial denial of creditor's claimed rights); Reliable Elec. Co. v. Olson Constr. Co. , 726 F.2d 620, 622-23 (10th Cir.1984) (reorganization process requires that creditors be properly notified of steps in the proceeding so they may have an opportunity to protect their property interests).
+Consistent with this constitutional mandate, Bankruptcy Rule 2002 provides that "all creditors" shall be given at least twenty-five days written notice of "the time fixed for filing objections to and the hearing to consider confirmation of a plan."
+See Sheftelman v. Standard Metals Corp. , 839 F.2d 1383, 1386 (10th Cir.1987), cert. dismissed , U.S. , 109 S.Ct. 201 , 102 L.Ed.2d 171 (1988) (actual notice to known creditors required under Bankr.R.
+2002).
+3 Appellants, however, are not "creditors" entitled to notice within the purview of Rule 2002.
+A creditor is defined in 11 U.S.C. 101(9) as an "entity that has a claim against the debtor that arose at the time of or before the order for relief concerning the debtor."
+Claim is defined in turn as a "right to payment."
+Id .
+101(4) .
+Appellants do not have even a contingent right to payment from the debtors' estates at this point; rather, as defendants in the trustee's adversary proceedings, they may have an obligation or liability to pay the estates the monies transferred to them by the debtors.
+Until the adversary proceedings are finally adjudicated, the trustee has a claim against the appellants for payment; appellants have a potential duty to pay.
+Appellants will have a claim against the estates only if the trustee prevails in the adversary proceedings and successfully avoids the debtors' transfers to appellants as preferences under 11 U.S.C. 547 .
+4 Thus, appellants have been afforded all the fifth amendment protection to which they are entitled.
+The fifth amendment dictates that the federal government may not deprive individuals of property without first affording them due process of law.
+Any deprivation of property will occur in the trustee's proceedings to avoid the allegedly preferential transfers.
+Appellants have received ample notice and opportunity to be heard in these adversary proceedings.
+This appeal is in fact an exercise of appellants' right to be heard.
+Any claims the appellants have against the debtors' estates will arise only if and after the trustee deprives them of property.
+5 IV.
+Lastly, appellants contend the district court violated the seventh amendment by denying them a jury trial on the bankruptcy trustee's preference claims.
+In Granfinanciera, S.A. v. Nordberg , U.S. , 109 S.Ct. 2782, 2787 , 106 L.Ed.2d 26 (1989), the Supreme Court recently held that a "person who has not submitted a claim against a bankruptcy estate has a right to a jury trial when sued by the trustee in bankruptcy to recover an allegedly fraudulent monetary transfer."
+The Court found indistinguishable its earlier decision in Schoenthal v. Irving Trust Co. , 287 U.S. 92 , 53 S.Ct. 50 , 77 L.Ed. 185 (1932), which held that a trustee's action to avoid allegedly preferential transfers was legal rather than equitable.
+Granfinanciera , 109 S.Ct. at 2793-94 .
+The Court distinguished its decision in Katchen v. Landy , 382 U.S. 323 , 86 S.Ct. 467 , 15 L.Ed.2d 391 (1966).
+Katchen held that no right to a jury trial existed where a trustee's counterclaim against a claimant of the estate alleged that the payments the claimant sought to recover were avoidable preferences.
+In other words, because the preference issue arose "as part of the process of allowance and disallowance of claims, it [was] triable in equity."
+Id. at 336 , 86 S.Ct. at 476 .
+Granfinanciera explained: "Our decision [in Katchen ] turned on the bankruptcy court's having actual or constructive possession of the bankruptcy estate, and its power and obligation to consider objections by the trustee in deciding whether to allow claims against the estate."
+109 S.Ct. at 2798 .
+The Court noted that the claimant in Katchen "would have been entitled to a jury trial if the trustee had brought a plenary action in federal court."
+Id. Under Granfinanciera , those appellants that did not have or file claims against the debtors' estates undoubtedly are entitled to a jury trial on the issue of whether the payments they received from the debtors within ninety days of the latter's bankruptcy constitute avoidable preferences.
+Although some of the appellants did file claims against the estates because they continued to have monies invested in the debtors at the time of bankruptcy, see supra n. 3, we believe they likewise are entitled to a jury trial under the rationale of Granfinaciera and Katchen .
+Despite these appellants' claims, the trustee's actions to avoid the transfers, consolidated by the bankruptcy court, were plenary rather than a part of the bankruptcy court's summary proceedings involving the "process of allowance and disallowance of claims."
+Accordingly, the judgment of the district court is REVERSED and this cause REMANDED for further proceedings consistent with this opinion.

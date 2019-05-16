@@ -1,0 +1,54 @@
+ HARRISON L. WINTER , Chief Judge: These consolidated cases arise out of the failure of Old Court Savings & Loan, Inc. (Old Court), a state chartered savings and loan association, and the collapse of the Maryland Savings-Share Insurance Corporation (MSSIC), a state-chartered non-profit corporation created to insure the accounts in Maryland savings and loan associations that did not have federal deposit insurance.
+Plaintiffs, all non-residents of Maryland, are purchasers and holders of certificates of deposit of Old Court which, together with the interest thereon, are unpaid.
+Defendants are (a) the former officers and directors of Old Court, (b) the former officers and directors of MSSIC, (c) the law firm of Venable, Baetjer & Howard, counsel to MSSIC and Old Court, (d) Old Court's accounting firm, and (e) State of Maryland Deposit Insurance Fund Corporation (MDIF), the state-created successor to MSSIC.
+1 Plaintiffs allege causes of action arising under the Securities Exchange Act of 1934 and the Racketeer Influenced and Corrupt Organizations Act (RICO), as well as state law claims.
+The district court granted defendants' motions to dismiss on the grounds that plaintiffs had failed to allege a claim under the Securities Exchange Act of 1934 and that the district court should abstain from deciding the other alleged causes of action since they were all raised in pending litigation in the Circuit Court for Baltimore City.
+Plaintiffs appeal and we affirm.
+I. In Brandenburg v. Seidel , 859 F.2d 1179 (4 Cir.1988), we summarized the genesis of Maryland's savings and loan crisis, the steps taken by the Governor of Maryland and the General Assembly of Maryland to meet it, and the implementation of the legislative scheme by the designation of a single judge of the Circuit Court for Baltimore City to adjudicate all claims arising out of the conservator/receivership proceedings for failed savings and loan associations, including Old Court.
+Those facts need no repetition here.
+Old Court, which was one of the first savings and loan associations to collapse, was placed into conservatorship on May 13, 1985 and withdrawals were immediately limited to no more than $1,000 for each consecutive 30-day period, with a few minor exceptions.
+On November 8, 1985 the conservatorship proceeding was converted into a receivership proceeding and MDIF was appointed receiver.
+MDIF has expressly stated that owners of certificates of deposit will not be compensated for interest accruing after November 8, 1985, and that for the period May 13 to November 8, 1985, interest will be paid at only the rates of 5½% per annum rather the higher rates prescribed in the certificates.
+Since MDIF was appointed receiver, it has sued the former officers, directors and controlling persons of Old Court in the Circuit Court for Baltimore City alleging misdeeds closely paralleling those alleged in the instant case. In addition there are two overlapping depositor class actions against Old Court and its principals pending in that court.
+Finally, since the decision of the district court in the instant case, plaintiffs have filed a class action suit against defendants in the Circuit Court for Baltimore City alleging RICO and common law causes of action.
+Two questions are presented by this appeal.
+We must decide first whether the certificates of deposit issued by Old Court are "securities" within the meaning of the Securities Exchange Act of 1934 so as to give rise to a cause of action on the facts alleged by the plaintiffs.
+Then we must decide, at least with respect to plaintiffs' alleged RICO cause of action, if the district court correctly concluded to abstain from decision and to dismiss the complaints.
+II.
+The Securities Exchange Act of 1934, 15 U.S.C. 78a et seq.
+, renders both unlawful and actionable fraudulent dealings in securities as alleged by plaintiffs.
+Jurisdiction is exclusively federal under the Act.
+The question here is whether the certificates of deposit issued by Old Court are "securities" within the meaning of that Act.
+The Act defines "security" to mean, inter alia , "any note bond, debenture any collateral-trust certificate, preorganization certificate or subscription, transferable share, investment contract, voting-trust certificate, certificate of deposit, for a security; or in general, any instrument commonly known as a 'security' " 78c(a)(10).
+Were we to confine ourselves to the statutory definition, we might well conclude that the certificates of deposit are "securities" as defined in the Act.
+However, as the Supreme Court has noted, these financial instruments "do not fit squarely within one of the enumerated specific kinds of securities listed in the definition."
+Landreth Timber Co. v. Landreth , 471 U.S. 681, 690 n. 4, 105 S.Ct. 2297, 2303 n. 4, 85 L.Ed.2d 692 (1985).
+In Marine Bank v. Weaver , 455 U.S. 551 , 102 S.Ct. 1220 , 71 L.Ed.2d 409 (1982), the Court held that a long-term certificate of deposit issued by a bank insured by the Federal Deposit Insurance Corporation is not a "security" within the meaning of the Act.
+The rationale of Marine Bank was that the Act in defining the term "security" states that the definition is to be employed "unless the context otherwise requires."
+78c(a).
+The Court concluded that the context did otherwise require when the certificate of deposit is issued by a federally insured bank because such a bank is "subject to the comprehensive regulations governing the banking industry," i.e., "[d]eposits in federally regulated banks are protected by the reserve, reporting, and inspection requirements of the federal banking laws; advertising relating to the interest paid on deposits is also regulated [and] deposits are insured by the Federal Deposit Insurance Corporation."
+455 U.S. at 558 , 102 S.Ct. at 1224 (footnotes eliminated).
+As a consequence, since the Act states that the inclusiveness of the definition of security should be limited when the context requires, the Court concluded: 455 U.S. at 559 , 102 S.Ct. at 1225 (footnote omitted).
+We read Marine Bank to hold that the existence of a comprehensive regulatory and insurance system governing the issuer removes certificates of deposit issued by it from the general definition of "securities" contained in the Act.
+Specifically, we agree with the district court that there was a comprehensive regulatory and insurance system applicable to Old Court so that its certificates of deposit did not fall within the statutory definition.
+Maryland law vested supervisory authority over state-chartered savings and loan associations in the Director of the Division of Savings and Loan Associations, Md.Fin.Inst.Code Ann. 8-303 (1980), and the Board of Savings and Loan Commissioners, id. 8-207.
+Deposits in the MSSIC member associations, of which Old Court was one, were insured by MSSIC, id. 10-103.
+State statutes required Maryland chartered associations to maintain reserve accounts, id. 9-219, 9-327 (1980), to comply with periodic reporting, inspection and audit requirements, id. 9-502 to 9-504 , and conduct promotional activities in accordance with regulations promulgated by the Board of Savings and Loan Commissioners, id. 9-905.
+These statutes were supplemented by rules and regulations established by the Division of Savings and Loan Associations as well as rules and regulations adopted by MSSIC and approved by the Division.
+We recognize of course that in the case of Old Court and others, the Maryland system viewed in hindsight was ineffective.
+Whether the holders of Old Court's certificates of deposit will ever be paid in full is problematic even though Maryland has required the accumulation of interest thereon to be reduced.
+But we do not think that Marine Bank depends upon the effectiveness of the regulatory scheme as it may have been administered.
+"'[T]he nature of an instrument is to be determined at the time of issuance, not at some subsequent time'", West v. Multibanco Commerex, S.A. , 807 F.2d 820, 826 (9 Cir.1987) (quoting Great Western Bank & Trust v. Katz , 532 F.2d 1252, 1255 (9 Cir.1976)).
+At the time Old Court issued the certificates of deposit giving rise to this litigation, there had been no break down in Maryland's then regulatory scheme, and neither Old Court nor MSSIC was insolvent.
+It is significant also that Marine Bank did not depend upon the complete effectiveness of the federal scheme.
+The failure of national banks, federally insured banks, federally chartered savings and loan associations, and federally insured savings and loan associations was known before and has been known after Marine Bank was decided.
+At the time Marine Bank was decided the maximum federal insurance was only $40,000 while the certificate of deposit in issue in that case was for $50,000, and Congress had not yet seen fit to place the government's full faith and credit behind the federal insurer.
+Thus, we conclude that application of Marine Bank depends upon the comprehensiveness of the scheme of regulation, and by that test we think that the Maryland system qualified to render the certificates of deposit not "securities."
+There is also a practical reason for this conclusion.
+As the district court said: We hold therefore that plaintiffs have no cause of action under the Securities Exchange Act of 1934 because the certificates of deposit owned by them are not "securities" within the meaning of the Act.
+III.
+The correctness of the district court's decision to abstain from deciding plaintiffs' RICO claims and to dismiss this aspect of the complaint warrants little discussion.
+Subsequent to the district court's decision, we decided Brandenburg v. Seidel , supra .
+There we held with regard to First Maryland Savings and Loan Association, like Old Court, a financial institution which failed as part of the Maryland savings and loan debacle, that a RICO action could be instituted in a state court and that Maryland's "comprehensive scheme for the rehabilitation and liquidation of insolvent state-chartered savings and loan associations," 859 F.2d at 1191 , provided a proper basis for the district court to abstain under the authority of Burford v. Sun Oil Co. , 319 U.S. 315 , 63 S.Ct. 1098 , 87 L.Ed. 1424 (1943).
+We view Brandenburg as controlling here.
+2 AFFIRMED.

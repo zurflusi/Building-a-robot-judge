@@ -1,0 +1,137 @@
+ WISDOM , Circuit Judge: This action involves a dispute about the coverage of the credit card provisions of the Truth in Lending Act (TILA), 15 U.S.C. 1601 et seq.
+Section 1666, dealing with correction of billing errors, requires that a credit card issuer take certain steps before restricting or closing a credit card account.
+The question this case presents is whether the safeguards of 1666 apply to an individual cardholder who is jointly and severally liable with his employer for debts charged to the card.
+The card issuer contends that 1666 does not apply to transactions of a business or commercial nature and that holders of credit cards issued under a company account do not qualify as consumers.
+We hold that for a credit card issuer to hold an individual jointly and severally liable with his employer, the issuer must comply with the requirements of 1666.
+We base our holding primarily on a principle almost as old as flour: You cannot have your cake and eat it too.
+I. On November 16, 1964, John E. Koerner & Co., Inc., flour wholesaler, applied for an American Express Card, using a company account application form.
+American Express requested bank and credit references only from the company.
+John E. Koerner, Jr., was designated as the individual authorized to receive a card in the company name.
+The application was approved.
+The same day the plaintiff, Louis R. Koerner (Koerner), a company officer, completed a form labeled "Application for Supplementary Credit Card, Company Account".
+The form stated that "The undersigned individual and company join in this application and assume joint and several liability for all charges incurred prior to return of Credit Card to American Express Company".
+(Emphasis added.)
+American Express requested no additional bank or credit references and approved Louis Koerner's application.
+It approved similar applications submitted by other employees of Koerner & Co. American Express billed the charges for all of these cards to the company on one statement, showing subtotals for the individuals.
+Louis R. Koerner used his card for both personal and business charges, paying for the personal charges himself.
+In 1975 a billing dispute arose between Koerner and American Express over the following charges, totalling less than $50: The parties agree that all of these were business charges.
+The dispute remained unresolved through September 28, 1976, when Koerner attempted to use his card at New Orleans International Airport to pay for an airline ticket for a business trip.
+The ticket salesman called American Express to check Koerner's status.
+The salesman handed the telephone to Koerner to speak with American Express, and, after the conversation, gave him back his card.
+It had been cut in two.
+Koerner filed suit in November 1976, contending that American Express violated 15 U.S.C. 1666 by wrongfully revoking his credit card as a result of a billing dispute; violated 15 U.S.C. 1637 by not making certain periodic disclosures; and violated Louisiana law by committing a tort through its breach of contract.
+He alleged that he represented a class similarly situated.
+The court did not certify the class.
+Following the recommendation of a federal magistrate, the trial court granted summary judgment for the defendant on December 8, 1977.
+Koerner v. American Express Co. , E.D.La.1977, 444 F.Supp.
+334 .
+The court held that 1666 was applicable only to credit cards issued to natural persons under a non-corporate account.
+The court denied the other claims because Koerner had asserted 1637 was made applicable through 1666 and because Koerner had stipulated that his state claim would not reach the requisite jurisdictional amount.
+After the court denied several post-judgment motions, Koerner appealed to this Court.
+II.
+TILA was enacted on May 29, 1968.
+The Act then contained no reference to credit card transactions and was intended to provide "a meaningful disclosure of credit terms" to consumers.
+Id. 1601 .
+It specifically exempted credit transactions for business or commercial purposes, or extension of credit to several types of organizations, including corporations.
+Id. 1603 .
+In 1970 Congress amended the Act to prevent issuance of unsolicited credit cards, id. 1642 , to limit to $50 the liability for unauthorized use of a card, id. 1643 , and to provide criminal penalties for fraudulent use of credit cards, id. 1644.
+It also added several definitional subsections.
+Id. 1602(j-o).
+After passage of the amendments, two circuit courts decided that the $50 liability limitation applied to corporate transactions despite the exemption in 1603 .
+American Airlines, Inc. v. Remis Industries, Inc. , 2 Cir. 1974, 494 F.2d 196 , involved $14,008.16 in unauthorized charges on an Air Travel Card.
+The case was governed by a New York statute that determined liability for unauthorized use according to the limits under TILA.
+The court noted that 1643(a) limited liability of a "cardholder" to $50.
+A "cardholder" is defined as "any person to whom a credit card is issued or any person who has agreed with the card issuer to pay obligations arising from the issuance of a credit card to another person".
+15 U.S.C. 1602(m) .
+A "person" is "a natural person or an organization".
+Id. 1602(d).
+An "organization" includes a "corporation".
+Id. 1602(c) .
+The court refused to apply the 1603 exemption to a corporation because that would raise "a threshold question for which the Act at least provides no ready answer: at what point in the credit card process does a transaction involving the extension of credit occur?"
+494 F.2d at 201 .
+One possibility is the time the card was issued.
+But individuals might obtain a card for business or personal purposes or both.
+A predominant use test would be "wholly unwieldy" because of "the extensive, overlapping use of some types of credit cards, e. g. to purchase gasoline or meals in a restaurant".
+Id .
+The other possibility would be that a transaction involving the extension of credit occurs when the card is used.
+But the unauthorized use of a card is not an extension of credit to the cardholder .
+Id. at 201 n. 4.
+Whether the unauthorized user had a business or personal purpose should not determine whether $50 limits the cardholder's liability.
+The court refused to accept American Airline's argument that commercial enterprises have bargaining power that obviates the necessity for statutory protection, reasoning that the use of form contracts for credit card applications makes the process "a take-it-or-leave-it method of contract formulation".
+Id. at 202 .
+Finally, the court cited interpretations by the two administrative bodies concerned with the Act, a Federal Reserve Board regulation, see 12 C.F.R. 226.13(a)(4) (1973) (amended Nov. 2, 1972), now codified at 226.2(m) , and a Federal Trade Commission decision, In re Credit Card Service Corp. d/b/a Credit Card Service Bureau , 82 F.T.C.
+191 , 209-11 (1973), affirmed and enforced sub nom.
+Credit Card Service Corp. v. Federal Trade Commission , D.C. Cir. 1974, 161 U.S.App.D.C.
+424 , 495 F.2d 1004 .
+Both agencies construed TILA's credit card provisions as applicable to all cardholders, including corporations.
+The second case, Credit Card Service Corp. v. Federal Trade Commission , D.C. Cir. 1974, 161 U.S.App.D.C.
+424 , 495 F.2d 1004 , involved an attempt by the Federal Trade Commission to make Credit Card Service Corporation disclose in its advertising the $50 limitation on a cardholder's liability for unauthorized use of his card.
+This court also reasoned that applying the exemption to the credit card provisions was illogical.
+The only event that could be a credit transaction was the unauthorized use itself, and the intent of the unauthorized user should not govern the applicability of the Act.
+The credit card company argued that cards issued to corporations were exempted from the Act, but the court could not understand why an exemption for certain credit transactions should apply to a type of credit card.
+Id. at 427 , 495 F.2d at 1007 .
+The court rejected applying the $50 limitation only when the last legitimate use of the card before the unauthorized use was personal, apparently believing it would be logical to make liability "depend on how a card was last used before it was lost or stolen".
+Id. at 427 , 495 F.2d at 1007 .
+It foresaw practical difficulties with a predominant use test because "[a] credit card is often used for both business and personal transactions".
+Id. at 428 , 495 F.2d at 1008 .
+In 1974 TILA was amended to enact the circuit courts' decisions that 1603 did not apply to the $50 limitation, 15 U.S.C. 1645 , and to state that the exemption did not apply to the provisions forbidding issuance of unsolicited cards and imposing criminal penalties for fraudulent use of credit cards.
+15 U.S.C. 1645 .
+Contemporaneously, Congress adopted several other amendments to the Act, including 15 U.S.C. 1666 .
+III.
+The district court held that Koerner could not invoke 1666 because it "provides its own internal qualifications, generally extending its coverage to all transactions accomplished by means of a credit card issued to a natural person under a non-corporate account and excluding all others".
+444 F.Supp.
+at 338 .
+1 The court based its holding on several factors.
+First, the language of 1666 suggests that it was meant to apply only to consumer transactions.
+The term "cardholder", which includes corporations, does not appear in 1666 .
+The section instead uses the term "obligor", which it never defines.
+Section 1666(a) lists obligations of a creditor "in connection with an extension of consumer credit".
+And 1666(d) states that a creditor "operating an open end consumer credit plan" cannot restrict or close an account under certain circumstances when an obligor believes there is a billing error.
+Second, an interpretation letter from the Acting Chief of the Fair Credit Practices Section of the Federal Reserve Board states that the requirements of the 1974 Fair Credit Billing Act 2 do not apply to cards embossed with the names of the company and employee and used by employees for business purposes only.
+See 5 CCH Consumer Credit Guide ¶ 31.338.
+In that case the company was liable for payment of goods or services purchased with the card, and the employee was not sent an invoice or periodic statement.
+The letter should of course be given great weight.
+See Ford Motor Credit Co. v. Milhollin , U.S. , , 100 S.Ct. 790, 797-799 , 63 L.Ed.2d 22 (1980).
+Third, the court believed that the legislative history of the 1974 amendments suggests that Congress was primarily worried about purportedly "high-handed tactics of card issuers in their handling of billing complaints" by consumers.
+444 F.Supp.
+at 341 .
+Finally, the court noted that 1645 , which was enacted at the same time as 1666 , held that the 1603 exemptions were not applicable to 1642-1644 .
+Had Congress intended corporations to receive the benefit of the 1666 protections, it could have said so in 1645 .
+The district court formulated a "prospective predominant use test" to determine whether 1666 applies to an account.
+The test is "applied at the opening of an account and based on the reasonably anticipated predominant use thereof".
+Id. at 340 .
+The court in effect established a presumption that in "the majority of credit card accounts opened in the name of individuals who assume sole liability for debts to be incurred, predominant usage for non-business purposes is contemplated".
+Id. "[I]n the majority of accounts opened in the names of companies and relying in large part on company credit, such as the account involved in this litigation, it would be reasonable to anticipate predominant use for business or commercial purposes".
+Id.
+Occasional personal use of a card should not give rise to 1666 obligations and penalties.
+The court would apply its presumptions "[s]hort of a prospective expression by the parties involved negativing such an intent".
+Id. Because Koerner's American Express card came under the business presumption, he failed to state a cause of action under TILA.
+There are, however, strong reasons why 1666 should apply to transactions for business or commercial purposes or transactions involving extensions of credit to corporations.
+First, although "cardholder" is not used in 1666 , it is used in 1666f , h , & j , companion sections to 1666 .
+Moreover, the Federal Reserve Board uses "customer" rather than "obligor" throughout its regulations explaining 1666 .
+See 15 C.F.R. 226.14 .
+One definition of "customer" is "cardholder".
+Id. 226.2(u).
+The regulations deserve as great a weight as interpretation letters.
+Second, it is difficult to formulate a test for application of any business exemption.
+A predominant usage test similar to that suggested by the district court was rejected by the Second Circuit Court because it was "totally unwieldy".
+See American Airlines, Inc. v. Remis Indus. , 2 Cir. 1974, 494 F.2d 196, 201 .
+The presumptions could be easily evaded: Business could have individual employees acquire credit cards in their own names and agree to reimburse them for business uses of the card.
+Determining whether 1666 covers corporate transactions and transactions for business or commercial purposes is obviously difficult.
+We need not resolve that question, because a narrower ground for decision exists in this case. Koerner signed a statement joining in the application and assuming joint and several liability for any debts.
+3 Therefore, American Express could recover from him or from the company.
+If it can recover from a consumer, then it must abide by the requirements of 1666 for correction of billing errors in a consumer's credit card statement.
+The credit card company cannot have it both ways: If it does not want to be bound by consumer lending requirements, then it should not be allowed to collect its debts from a consumer.
+Although our decision prevents application of the 1603 exemption "for business or commercial purposes" to 1666 when an individual is liable for debts incurred, this result is consonant with the purpose of the Fair Credit Billing Act of 1974--protecting consumers from the harassment of creditors.
+See S.Rep.No.
+278, 93d Cong., 1st Sess.
+1-2, 4-6 (1973); S.Rep.No.
+750, 92d Cong., 2d Sess.
+1-4 (1972).
+American Express attempts to avoid this result by arguing that Koerner is merely a surety for the company, and that the company is ultimately responsible for the debt.
+A repayment agreement, if any, would be between the company and the individual, and does not bind American Express.
+It can collect from either obligor.
+Although Koerner might sue the company for indemnification if the debts incurred represented business expenses, he would remain personally liable if he lost that suit or if the company was insolvent.
+Whether Koerner could recover his payment from the company depends upon the existence of an agreement between them and the continued solvency of the company.
+American Express cannot have its cake and eat it too.
+We therefore REVERSE and REMAND to the district court for proceedings consistent with this opinion.

@@ -1,0 +1,172 @@
+ OPINION KING , Circuit Judge: The question in this case arises from the filing of consolidated tax returns by the predecessor of plaintiff United Dominion Industries, Incorporated (the "taxpayer" or "AMCA" 1 ).
+The taxpayer and the Government (the "IRS") disagree on how to determine the amount of the taxpayer's product liability expenses that may be characterized as "product liability loss."
+The IRS appeals from the district court's judgment ordering tax refunds and statutory interest payments to the taxpayer.
+This dispute involves AMCA's consolidated tax returns for tax years 1983, 1984, 1985, and 1986.
+On those returns, AMCA characterized the product liability expenses incurred by five of AMCA's twenty-six group members as "product liability loss," which permitted a ten-year carryback of those losses.
+The five group members, however, each had positive "separate taxable income," as defined by the consolidated return regulations, in each of the relevant tax return years.
+The issue on appeal is whether, under these circumstances, these five group members' product liability expenses are properly characterized as "product liability loss" on AMCA's consolidated returns.
+The district court entered summary judgment in favor of the taxpayer after the IRS and the taxpayer filed cross-motions for summary judgment.
+We possess jurisdiction pursuant to 28 U.S.C. 1291 .
+For the reasons explained below, we reverse and remand.
+I. AMCA was the parent of an affiliated group of corporations that properly elected to file consolidated tax returns for tax years 1983 through 1986.
+In those consolidated tax returns, relying on 26 U.S.C. 172 (defining "product liability loss" and relevant carryback period, for individual tax returns), AMCA claimed "product liability loss" deductions arising from its group members' product liability expenses.
+2 The product liability expenses of five of AMCA's twenty-six group members are at issue in this case. Those members are: Jesco, Inc.; the Cherry-Burrell Corp.; Amtel, Inc.; and Amtel's two subsidiaries, Litwin Corp. and Litwin Panamerican Corp. The parties agree that the product liability expenses incurred by the five group members in the relevant years total $1,618,306.
+The parties also agree that during each of the relevant tax years, AMCA's "consolidated net operating loss" was much larger than the product liability expenses that are in dispute.
+However, with respect to the challenged refunds, the five group members also had positive "separate taxable income" in each of the relevant tax years. 3 The taxpayer seeks to apply product liability expenses deductions to AMCA's consolidated tax returns for four years (1983, 1984, 1985, and 1986) for each of these five group members, except in two cases--Amtel in 1983, and Litwin in 1984.
+4 The taxpayer sought to characterize all of the five group members' product liability expenses deductions as "product liability loss."
+Further, the taxpayer seeks to carryback these deductions ten years, pursuant to 172(b) , to AMCA's corresponding consolidated tax returns for tax years 1973 through 1976.
+5 The IRS contends that this position is erroneous, asserting that because the group members each had positive "separate taxable incomes," their product liability expenses are not "product liability loss."
+Consequently, according to the IRS, these expenses may not be carried back more than three years.
+After the parties agreed there was no genuine issue of material fact, the district court granted summary judgment to the taxpayer on the question of law presented by the cross-motions for summary judgment.
+In doing so, the court determined that the taxpayer may properly characterize all of its group members' product liability expenses as "product liability loss," because the five group members' aggregated product liability expenses were less than AMCA's consolidated net operating loss.
+The court accordingly ordered the IRS to refund the taxpayer the sum of $1,618,306 in disputed tax payments, plus statutory interest.
+We find this decision to be in error, for the reasons explained below.
+II.
+A. In the case of a taxpayer who files a separate individual tax return, the tax code establishes a basic framework for determining the amount of product liability expenses that may be characterized as "product liability loss."
+The difference between the taxpayer's gross income and its allowable deductions reflects either the taxpayer's taxable income, or--if the allowable deductions exceed the gross income--its net operating loss.
+See, e.g. , 26 U.S.C. 63(a) (defining taxable income), 172(c) (defining net operating loss).
+If a net operating loss results, the taxpayer may characterize its product liability expenses as "product liability loss," to the extent that such expenses do not exceed the taxpayer's net operating loss.
+See 26 U.S.C. 172(j) (defining "product liability loss" on an individual tax return).
+6 Under 172(j) , any "product liability loss" cannot exceed the taxpayer's "net operating loss."
+For example, a taxpayer with a net operating loss of fifty dollars and product liability expenses of seventy-five dollars may characterize no more than fifty dollars of its product liability expenses as "product liability loss."
+The advantage of such a characterization to the taxpayer is that a deduction for "product liability loss" may be carried backward or forward for up to ten years, rather than the three-year period that is generally available for loss deductions.
+See 26 U.S.C. 172(b)(1)(A) , (I) (defining carryover and carryback time periods).
+7 Because on an individual tax return, a taxpayer with positive taxable income has no "net operating loss," a corollary is that a taxpayer with positive taxable income must have zero "product liability loss," notwithstanding the amount of its product liability expenses.
+This is true because the taxpayer must have a net operating loss before any of its product liability expenses may be classified as "product liability loss."
+B. An affiliated group of corporations may properly elect to file a consolidated tax return through the parent corporation, rather than filing individual tax returns for each of the group members.
+See 26 U.S.C. 1501-1505 (authorizing consolidated tax returns).
+Consolidated tax return calculations have both similarities to, and certain distinctions from, those applicable to individual tax returns.
+The consolidated tax return regulations require that some information be calculated separately for each group member, similar to calculations that would be necessary had that member filed its own individual tax return.
+The "separate taxable income" for a group member is calculated in accordance with the tax code provisions covering the determinations of taxable income of separate corporations, subject to modifications.
+See Treas.
+Reg. 1.1502-12 (defining "separate taxable income").
+8 One such modification, for example, is that no net operating loss deduction may be taken into account when computing a group member's "separate taxable income."
+See id .
+Thus, pursuant to the consolidated returns regulations, some important and relevant tax return information from the group members is not included in these per-group-member calculations.
+Instead, that tax return information is separately designated and utilized in consolidated form.
+These consolidated amounts and the per-group-member amounts are then combined into the parent corporation's "consolidated taxable income," which accumulates all the relevant information by taking into account: (i) the "separate taxable income of each member of the group;" and (ii) deductions attributable to seven different consolidated amounts, e.g. , any "consolidated net operating loss" deduction, and any consolidated charitable contributions deduction.
+See Treas.
+Reg. 1.1502-11 (a) (generally defining "consolidated taxable income").
+9 C. The question in this case--how to properly determine the amount of product liability expenses that may be characterized as "product liability loss" on a consolidated tax return--arises because, before such expenses may be characterized as "product liability loss," a preliminary determination must be made that a net operating loss has occurred.
+Cf. 26 U.S.C. 172(j) (defining "product liability loss" on an individual tax return); see discussion supra Part II.A.
+Both the tax code and the regulations are silent as to whether this "product liability loss" characterization should be determined on a per-group-member basis or on a consolidated basis.
+The regulations, however, lay the groundwork for this determination by defining several relevant terms: the group members' "separate taxable income" ( see Treas.
+Reg. 1.1502-12 ) and "separate net operating loss" ( see Treas.
+Reg. 1.1502-79 (a)); and the parent corporation's "consolidated taxable income" ( see Treas.
+Reg. 1.1502-11 ) and "consolidated net operating loss" ( see Treas.
+Reg. 1.1502-21 (f)).
+On a consolidated tax return, each group member has its associated "separate taxable income."
+A group member's "separate taxable income" is not analogous to a corporation's taxable income on an individual tax return, however, because unlike the individual's taxable income, the "separate taxable income" does not reflect the full extent of that group member's profitability or loss.
+This is so because, on consolidated tax returns, some deductible amounts attributable to the group member are instead reflected elsewhere, in consolidated form.
+See supra note 8 ( e.g. , net operating loss not taken into account in group member's "separate taxable income").
+The consolidated deductions that are not reflected in the group member's "separate taxable income" but are fairly attributable to the group member, are, however, reflected in the "separate net operating loss" of the group member.
+The "separate net operating loss" of a group member is determined from the "separate taxable income," with adjustments for certain items, including items taken into account in the computation of the consolidated net operating loss.
+See Treas.
+Reg. 1.1502-79 (a)(3) (formula for apportioning "consolidated net operating loss" to a member, when carryback must go to the member's separate return year).
+10 As a result of the incorporation of the consolidated deduction adjustments in the group members' "separate net operating loss" but not in their "separate taxable income," it is possible that a group member may have positive "separate taxable income" at the same time it has a positive separate net operating loss."
+11 The consolidated tax return regulations also define the parent corporation's "consolidated taxable income," which takes into account the group members' "separate taxable incomes" and deductions attributable to seven consolidated items.
+See supra note 9.
+Further, the regulations also define the parent's "consolidated net operating loss," which, like its "consolidated taxable income," combines the group members' "separate taxable incomes" with enumerated consolidated deductions.
+See Treas.
+Reg. 1.1502-21 (f) (defining "consolidated net operating loss").
+12 Having reviewed the pertinent terminology and provisions of the code and regulations, we now turn to the facts of this case to determine how the per-group-member and consolidated items apply to the question before us.
+III.
+Our standard of review is clear: we review de novo the grant or denial of a motion for summary judgment.
+Henson v. Liggett Group, Inc. , 61 F.3d 270, 274 (4th Cir.1995).
+A. The taxpayer has adopted a single-entity approach in calculating its "product liability loss" for AMCA's 1983 through 1986 consolidated tax returns.
+The methodology is the same for each of the challenged tax years' calculations.
+The taxpayer's single-entity approach does not require a group member incurring deductible product liability expenses to have also incurred a net operating loss.
+According to the taxpayer, only AMCA's aggregated product liability expenses and net operating loss amounts are relevant to the characterization of these expenses as "product liability loss."
+Specifically, the taxpayer applied the single-entity method as follows.
+First, for each tax year, the taxpayer aggregated all twenty-six AMCA group members' product liability expenses.
+See 26 U.S.C. 172(j) (defining "product liability loss" on an individual tax return).
+The taxpayer then calculated AMCA's "consolidated net operating loss" for that tax year.
+See Treas.
+Reg. 1.1502-21 (f) (defining "consolidated net operating loss").
+Because AMCA's aggregated product liability expenses were less than AMCA's "consolidated net operating loss" for that tax year, and since in the case of a separate tax return, under 172(j)(1) , a corporation's product liability expenses that are less than or equal to its "net operating loss" are characterized as "product liability loss," the taxpayer characterized AMCA's aggregated product liability expenses as "product liability loss."
+This characterization permits the taxpayer to deduct the entirety of these expenses from income earned up to ten years prior, and to receive tax credits thereon.
+Under the taxpayer's view, for example, a group member with fifty dollars of product liability expenses could contribute all fifty dollars toward the "product liability loss" on the parent corporation's consolidated tax return, so long as the consolidated net operating loss was greater than the aggregate of all the group members' product liability expenses.
+The IRS disagrees with the taxpayer's single-entity method for defining "product liability loss" on consolidated tax returns, and therefore rejects the taxpayer's characterization of its aggregated product liability expenses as "product liability loss."
+The IRS emphasizes that there are fundamental differences between relevant portions of the consolidated returns regulations and the separate returns regulations, and that the consolidated regulations take precedence here.
+Put simply, we agree with the IRS that the taxpayer's single-entity method is improper.
+The principal advantage in filing a consolidated return is income blending: the losses of unprofitable group members can offset the income of profitable group members and mitigate the current tax liability.
+Amtel, Inc. v. United States , 31 Fed.Cl.
+598, 600 (1994), aff'd , 59 F.3d 181 (Fed.Cir.1995) (table).
+The regulations provide for blending the group members' net operating losses, and they explicitly define a "consolidated net operating loss" without an accompanying reference to consolidated product liability expenses.
+This omission is important here and makes clear that blending those expenses is not permitted, i.e. , that a comparison of the group members' aggregated product liability expenses to the consolidated net operating losses in order to derive a consolidated "product liability loss" is not intended.
+Cf. 26 U.S.C. 172(c) , (j) (defining "net operating loss" and "product liability loss" on an individual tax return).
+This omission also confirms that product liability expenses are linked to the consolidated net operating loss only through their nexus to the group member, so that any related tax carryback benefits are therefore also tied to the group member.
+13 The IRS further contends that under the taxpayer's single-entity method of characterizing the group member's product liability expenses, the parent corporation obtains a windfall tax benefit.
+We agree that, were the taxpayer's reasoning to prevail, the parent corporation could obtain the extended ten-year carryback for losses incurred by individual group members (that are reflected in the parent's "consolidated net operating loss"), although the losses were not the result of product liability expenses (and thus could not be "product liability loss").
+This occurs by the parent corporation's characterization of all of a group member's product liability expenses as "product liability loss," even though some of these expenses came from group members that incurred no "separate net operating loss."
+Because the tax regulations plainly provide the ten-year carryback only for "product liability loss" (and not for product liability expenses), we conclude that an interpretation removing the close nexus between such expenses and whether the affected company operated at a loss is inconsistent with the regulations.
+B. Having rejected the taxpayer's single-entity method for determining "product liability loss" on a consolidated return, we now turn to establishing the proper method for doing so.
+We conclude that determining "product liability loss" separately for each group member is correct and consistent with the regulations.
+The regulations suggest two possible methods, however, for determining "product liability loss" from a group member's product liability expenses.
+Under these possible methods of calculation, a member's "product liability loss" may be either: (a) the amount of product liability expenses that do not exceed the group member's negative "separate taxable income," or (b) the amount of product liability expenses that do not exceed the group member's "separate net operating loss."
+1.
+The IRS proposes that the group member's negative "separate taxable income," calculated pursuant to Treas.
+Reg. 1.1502-12 , should establish the threshold for determining the group's "product liability loss" amount.
+To the contrary, we agree with the taxpayer that the IRS's proposed method for determining "product liability loss" on consolidated returns is incorrect.
+The IRS contends that whether a portion of a group member's product liability expenses can be characterized as "product liability loss" turns on whether the group member had a negative "separate taxable income."
+The IRS thus proposes that the "net operating loss" on a separate return is most analogous to a group member's "separate taxable income" on a consolidated return.
+In the IRS's view, a group member with positive "separate taxable income" has no losses under the consolidated return regulations, and therefore has no "product liability loss," despite having product liability expenses.
+For example, the IRS urges that a group member with fifty dollars of product liability expenses and negative ten dollars "separate taxable income" could contribute no more than ten dollars toward the "product liability loss" on the parent corporation's consolidated tax return.
+The taxpayer points out that the group member's "separate taxable income" is not analogous to a net operating loss on a separate return, because "separate taxable income" by definition excludes income and deductions that would be incorporated in calculating the group member's taxable income or net operating loss, if the group member had filed a separate tax return.
+See Treas.
+Reg. 1.1502-12 (defining "separate taxable income").
+Therefore, the taxpayer says, the "separate taxable income" cannot be an appropriate reference for determining whether the group member incurred a loss from product liability expenses.
+We agree.
+See discussion supra Part II.C.
+On a separate tax return, the net operating loss is the amount by which the allowable deductions exceed the taxpayer's gross income.
+See 26 U.S.C. 172(c) (defining net operating loss).
+Allowable deductions include deductions attributable to, e.g. , charitable contributions and net operating loss.
+14 See, e.g. , 26 U.S.C. 170 (charitable contributions), 172(a) (net operating loss).
+Thus, the net operating loss as defined on a separate return reflects that, in a broad sense, the taxpayer had more expenditures than income.
+On a consolidated return, the "separate taxable income" does not reflect an analogous difference between a group member's income and expenses, because expenses that are fairly attributable to the group member are excluded from the "separate taxable income."
+For example, a member's charitable contributions and attributable net operating loss deductions are excluded from its "separate taxable income," and instead are included elsewhere, in consolidated form only.
+See, e.g. , Treas.
+Reg. 1.1502-12 ("separate taxable income"), 1.1502-11(a) (listing consolidated items).
+Thus, a group member may have a positive "separate taxable income" notwithstanding that the member had a charitable contribution of, say, two or three times the amount of its "separate taxable income."
+According to the view of the IRS, the member's positive "separate taxable income" would bar any of that member's product liability expenses from being characterized as "product liability loss."
+We are constrained to reject the position taken by the IRS.
+The result in our above example is flatly contrary to the separate tax return analogy from 172(j) --there, if an individual's charitable contribution exceeds its gross income, a net operating loss results.
+This net operating loss would therefore permit the individual taxpayer's product liability expenses to be characterized as "product liability loss."
+15 Further, the IRS presents no affirmative reason to justify using a group member's "separate taxable income" to limit the member's contribution to "product liability loss," and we conclude there is none.
+A group member can, and often will, have a net operating loss (in the sense of 172 , after accounting for all the amounts attributable to that member), despite the member's positive "separate taxable income."
+See supra note 11.
+In such a case, the group member's product liability expenses may qualify as "product liability loss."
+Having rejected the IRS's proposed reference to the member's "separate taxable income" in the determination of whether the member's product liability expenses are "product liability loss," we must go further, and consider how to properly determine "product liability loss" on a consolidated return.
+The taxpayer argues that "product liability loss" is determined by reference to net operating loss.
+We agree with this assertion.
+However, the taxpayer goes further, and claims that for a consolidated return, the net operating loss only exists on a consolidated basis.
+See 26 U.S.C. 172(j)(1) (defining "product liability loss" on an individual tax return); Treas.
+Reg. 1.1502-21 (f) (defining "consolidated net operating loss").
+Therefore, the taxpayer asserts, product liability expenses must also be consolidated in order to compare those expenses to the consolidated net operating loss, so as to calculate the "product liability loss."
+On this point, we disagree with the taxpayer.
+2.
+The regulations governing consolidated returns provide a simple and direct method for determining the portion of a group member's product liability expenses that are "product liability loss."
+The regulations define a group member's "separate net operating loss," see Treas.
+Reg. 1.1502-79 (a)(3), which is analogous to an individual's "net operating loss" on a separate return.
+By comparing each member's product liability expenses to its "separate net operating loss," that member's "product liability loss" may be properly calculated.
+The parent's "product liability loss" is then calculated as the total of the members' "product liability loss."
+First, the regulations define the portion of the consolidated net operating loss that is attributable to a group member.
+16 See Treas.
+Reg. 1.1502-79 (a) (apportionment of consolidated net operating loss to a group member, for purposes of carrying back to a separate return year).
+17 Application of this apportionment formula to the issue in this case results in logical consistency of the general consolidated return framework, and the specific resolution of the issue in this case. A group member's "separate net operating loss" incorporates the portion of the consolidated net operating loss allocated to that member (calculated pursuant to Treas.
+Reg. 1.1502-79 (a)(3)), and is analogous to a 172(c) net operating loss.
+That is, the member's "separate net operating loss" takes into account, for example, that member's charitable contributions and net operating loss deductions--and in this sense, it is unlike the member's "separate taxable income."
+18 Therefore, a group member's product liability expenses that are not in excess of that group member's "separate net operating loss" is that member's "product liability loss," analogous to 172(j) .
+The sum of the group members' "product liability loss" provides the parent corporation's total "product liability loss."
+19 For example, a group member with fifty dollars of product liability expenses, negative ten dollars "separate taxable income," and fifteen dollars "separate net operating loss" could contribute a maximum of fifteen dollars toward the "product liability loss" on the parent corporation's consolidated tax return.
+The tax carryback benefits available to the parent corporation from the group member's product liability expenses are thus properly limited by the group member's portion of the consolidated net operating loss, analogous to the limit that would be imposed if the group member had filed a separate tax return.
+Our resolution today maintains the required nexus between a group member's net operating loss and its product liability expenses, as implied by the consolidated return regulations, in the definition of the "product liability loss" deduction on a consolidated return.
+IV.
+In conclusion, we reject the taxpayer's single-entity approach to the determination of "product liability loss" on a consolidated return.
+Instead, we conclude that each group member's "product liability loss" must be appropriately determined, and that the parent's "product liability loss" is calculated as the aggregate of the group members' "product liability loss."
+As to the proper method to determine each group member's "product liability loss," we reject the position of the IRS that a group member's "product liability loss" is its product liability expenses to the extent that those expenses are not in excess of the group member's negative "separate taxable income."
+We therefore hold that, on a consolidated return, a group member's product liability expenses that do not exceed that member's "separate net operating loss," calculated pursuant to Treas.
+Reg. 1.1502-79 (a)(3), may be characterized as "product liability loss."
+We further hold that the parent's "product liability loss" is properly determined as the aggregate of its group members' "product liability loss."
+Pursuant to the foregoing, we reverse the judgment of the district court and remand this case for further proceedings consistent with this decision.
+REVERSED AND REMANDED

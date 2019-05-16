@@ -1,0 +1,397 @@
+ CLARK , Circuit Judge: In another chapter of what has been a long, complex, and bitterly contested lawsuit, the United States has challenged an award of attorney's fees and costs pursuant to the Equal Access to Justice Act (EAJA), 28 U.S.C. 2412 .
+Supplied with the Supreme Court's first EAJA decision, Pierce v. Underwood , U.S. , 108 S.Ct. 2541 , 101 L.Ed.2d 490 (1988), we have concluded that the district court did not abuse its discretion in finding that the plaintiffs are entitled to an award of attorney's fees, expenses and costs.
+But because the district court's calculation of the award is inconsistent with certain standards set forth in Pierce and other case law, we are vacating its award and remanding the case for a recalculation of the award.
+I. BACKGROUND A. Litigation on the Merits The facts concerning this case are well known.
+See Louis v. Nelson , 544 F.Supp.
+973 (S.D.Fla.1982) ( Jean I ); Jean v. Nelson , 711 F.2d 1455 (11th Cir.1983) ( Jean II ), vacated by reh'g in banc , 727 F.2d 957 (11th Cir.1984) ( Jean III ), aff'd , 472 U.S. 846 , 105 S.Ct. 2992 , 86 L.Ed.2d 664 (1985) ( Jean IV ).
+For the purposes of the assessing the plaintiffs' right to attorney's fees and costs under the EAJA, we will detail only the nature and substance of their claims, and the results--both judicial and extrajudicial--that they obtained.
+The lawsuit began as a challenge to the practice, instituted by the Immigration and Naturalization Service (INS), of holding mass exclusion hearings for the plaintiff class composed of Haitian refugees.
+It evolved quickly into a broad-based challenge to INS's policy of detaining the class members, during the pendency of their applications for asylum, without any possibility of parole.
+The complaint filed on June 16, 1981 contained seven counts, four of which were dismissed by the district court on February 24, 1982.
+1 Three issues remained for trial: (1) whether the defendants' departure from the established policy of paroling undocumented aliens, without formal rulemaking, violated the Administrative Procedure Act (APA), 5 U.S.C. 553 ; (2) whether the unique manner in which Haitian refugees were treated violated their right to equal protection under the Fifth Amendment, since it amounted to a classification based on race and national origin; and (3) whether the class members were unlawfully denied their First Amendment rights of access to legal counsel, relatives, and friends in the Miami community.
+After a six-week trial, the district court ruled that INS had violated the APA by failing to engage in formal rulemaking before revising its policy of paroling applicants for asylum.
+Jean I , 544 F.Supp.
+at 993-97, 1003-04 .
+Ten days later, the court declared by separate order that the detention policy was void, and ordered the release of the plaintiff class pursuant to a plan detailed in the order.
+Louis v. Nelson , 544 F.Supp.
+1004, 1006-09 (S.D.Fla.1982).
+The court also ruled that there was insufficient evidence to support the plaintiffs' equal protection claim.
+Jean I , 544 F.Supp.
+at 997-1002, 1004 .
+The court declined to rule on the access claim, "ostensibly because the issue was mooted by the release order."
+Jean II , 711 F.2d at 1464 .
+A panel of this court affirmed the district court's APA ruling, concluding that the policy of detaining undocumented Haitian refugees constituted a new "rule" that had been formulated without following APA rulemaking procedures.
+Id. at 1474-83 .
+The panel reversed the district court's holding that the plaintiffs had failed to make out a case of intentional discrimination.
+Id. at 1483-1502 .
+The panel also reached the merits of the claim, dismissed by the district court, that the class members had been denied a right to receive notification that they were entitled to apply for asylum.
+Id. at 1507-08 .
+Finally, the panel acknowledged that the plaintiffs' access claim was not moot because of the possibility that INS would revoke class members' parole; it ordered a remand to determine whether the government's access restrictions were unlawful.
+Id. at 1508-09 .
+Sitting in banc, 2 this court held that the APA claim as originally presented to the district court had become moot because the class members were no longer subject to detention, unless such detention was pursuant to new regulations promulgated by INS subsequent to the district court's decision in Jean I .
+These regulations, see 8 C.F.R. 212.5 , require INS to make parole determinations without regard to an alien's race or natural origin; thus, we dismissed the appeal as to the APA claim.
+Jean III , 727 F.2d at 962 .
+3 As for the equal protection claim, the court held that excludable aliens have no equal protection rights with regard to the processing of their asylum or admission applications or INS determinations that they should not be paroled.
+The claim was nonetheless remanded to determine whether low-level INS officials were discriminating against plaintiffs in violation of instructions from their superiors.
+Id. at 967-79 .
+The court also held that the Refugee Act of 1980 does not create a constitutionally protectable interest in receiving notice of the right to petition for asylum.
+Id. at 979-80 .
+Finally, the court held that the access claim was not moot and remanded it to the district court for full consideration.
+In Jean IV , the Supreme Court affirmed the judgment of our in banc court, but explained that we should not have reached the merits of the constitutional question.
+In arguing the case before the Court, the Solicitor General conceded that because the statute granting parole authority to the attorney general, 8 U.S.C. 1182(d)(5)(A) , and 8 C.F.R. 212.5 , did not include race or natural origin as factors relevant to a parole determination, INS was prohibited from considering these factors.
+4 In light of the neutral quality of the criteria contained in the new regulation, the Court affirmed our in banc court's judgment "insofar as it remanded to the District Court for a determination whether the INS officials are observing this limit upon their broad statutory discretion to deny parole to class members in detention."
+Jean IV , 105 S.Ct. at 2998 .
+The question to be resolved on remand was whether INS was properly following the statutory and regulatory framework in making parole determinations.
+Id. B. Attorney's Fee Litigation The Supreme Court has admonished the courts to ensure that a request for attorney's fees does "not result in a second major litigation."
+Hensley v. Eckerhart , 461 U.S. 424, 437 , 103 S.Ct. 1933, 1941 , 76 L.Ed.2d 40 (1983).
+Contests over EAJA fees and expenses do not typically threaten to upset this ideal.
+5 Yet a case of this magnitude and complexity, in which approximately 45 lawyers have periodically participated, 6 can be expected to place substantial pressure on the norm.
+After a hearing consuming five days, and a review by the district court of "hundreds of pages of affidavits," the court awarded $950,944.87 in attorney's fees to seven individual attorneys and one law firm, $152,169.33 in costs and expenses to two individual attorneys, one law firm and the Haitian Refugee Center.
+It also awarded fees, expenses and costs for the attorney's fee litigation itself.
+The district court's rulings and award are contained in two deliberate and detailed orders, the first assessing the plaintiff's entitlement to fees, the second explaining the court's calculations.
+7 Because the government has contested virtually every aspect of the district court's legal rulings and calculations, and because there is merit to some of the government's contentions, we will closely analyze the components of these orders.
+II.
+QUALIFYING FOR EAJA FEES The EAJA provides that 28 U.S.C. 2412(d)(1)(A) .
+As the district court noted, there are three predicate findings to an award of EAJA fees and expenses: (1) the litigant opposing the United States must be a "prevailing party"; (2) the government's position must not have been substantially justified; and (3) there must be no circumstances that make an award against the government unjust.
+646 F.Supp.
+at 1324 .
+Only the first two of these issues concern us because the United States does not maintain that there are special circumstances that make the EAJA award unjust.
+A. Are the Plaintiffs Prevailing Parties?
+Our circuit employs the same test to determine whether an applicant for EAJA fees is a "prevailing party" as we use to resolve "prevailing party" eligibility for attorney's fees under 42 U.S.C. 1988 : or Watkins v. Mobile Housing Board 632 F.2d 565, 567 or Robinson v. Kimbrough 652 F.2d 458, 465 Martin v. Heckler , 773 F.2d 1145, 1149 (11th Cir.1985) (in banc) (emphasis added).
+8 The United States contends that the plaintiffs did not prevail under this standard.
+The government's position appears to be that the "real" issue in this case was the equal protection claim, on which the plaintiffs failed to secure relief.
+The government considers the APA claim, on which the plaintiffs unquestionably prevailed before the district court, to be insufficient to support an attorney's fee award since we later held it was moot, and ordered that the resulting injunctive relief be vacated.
+There are two responses to the government's position.
+9 First, it is well established that a party need not obtain relief on every claim or legal theory it propounds in order to be considered "prevailing" under a fee-shifting statute.
+In the context of the Civil Rights Attorney's Fees Act, 42 U.S.C. 1988 ) ( section 1988 ), the Supreme Court has made clear that a plaintiff is "prevailing" if he proves "his entitlement to some relief on the merits of his claims, either in the trial court or on appeal."
+Hanrahan v. Hampton , 446 U.S. 754, 757 , 100 S.Ct. 1987, 1989 , 64 L.Ed.2d 670 (1980) (per curiam) (emphasis added).
+He or she need not prevail on all legal issues.
+Id. Our court has applied these standards in the EAJA context.
+See Haitian Refugee Center v. Meese , 791 F.2d 1489, 1495-96 (11th Cir.) (interim EAJA award where plaintiffs prevailed on a central issue), vacated in part on other grounds , 804 F.2d 1573 (11th Cir.1986); Ray v. Florida Cabinet , 845 F.2d 311, 313 (11th Cir.1988).
+Second, our in banc court has held that the mooting of a lawsuit by a defendant's favorable remedial action does not necessarily deprive a plaintiff of "prevailing party" status.
+Martin , 773 F.2d at 1149 (citing Fields v. City of Tarpon Springs , 721 F.2d 318, 321 (11th Cir.1983) (per curiam)); Doe v. Busbee , 684 F.2d 1375, 1379 (11th Cir.1982)).
+As we said in Doe , "a party may be considered to be 'prevailing' if the litigation successfully terminated by [a] mooting of the case where the plaintiff has vindicated his right."
+684 F.2d at 1379 , quoted in Martin , 773 F.2d at 1149 .
+We often describe this class of cases as "catalysts."
+In these cases, "parties are prevailing if 'their lawsuit was a significant catalytic factor in achieving the primary relief sought through litigation despite failure to obtain formal judicial relief[,]' or 'if their lawsuit is a substantial factor or a significant catalyst in motivating the defendants to end their [unlawful] behavior.'"
+Doe , 684 F.2d at 1380 (citations omitted).
+We do not regard the mooting of the plaintiffs' APA claim as extinguishing their legal victory for purposes of attorney's fees.
+As the district court noted, the plaintiffs' objectives were (1) "to stop the mass exclusion hearings which were being held without counsel" and (2) "to obtain the release from detention of class members pending the determination of their political asylum applications."
+646 F.Supp.
+at 1305 .
+As to the first of these objectives, the district court explained that 646 F.Supp.
+at 1324 n. 2.
+Under these circumstances, the district court could properly conclude that the plaintiffs "were the prevailing party on this aspect of the case." Id. As to the second of these objectives, it is undisputed that the plaintiffs' lawsuit secured their release; some were returned to detention but only after INS promulgated new regulations.
+This is apparent from our in banc court's discussion of the mootness issue: See 8 C.F.R. 212.5 Because the government is no longer detaining any class members except pursuant to the new regulations, the APA issue as originally presented has been rendered moot 727 F.2d at 962 (emphasis added).
+Thus, the claim became moot because the plaintiffs had been released from detention and could not again be detained unless pursuant to duly promulgated regulations regarding parole.
+Under these circumstances, the district court was authorized to conclude that the plaintiffs were EAJA prevailing parties.
+B. Was the Position of the United States Substantially Justified?
+In Pierce , the Supreme Court held that appellate review of the question whether the United States' position is "substantially justified," is subject to an abuse of discretion standard.
+108 S.Ct. at 2546-49 ; see also Haitian Refugee Center , 791 F.2d at 1496 ; National Treasury Employees' Union v. IRS , 735 F.2d 1277, 1278 (11th Cir.1984); White v. United States , 740 F.2d 836, 839 (11th Cir.1984); Ashburn v. United States , 740 F.2d 843, 846 (11th Cir.1984).
+As the Court explained, this question is one which the district courts are "'better positioned'" to decide.
+108 S.Ct. at 2547 (citation omitted).
+was Id. The second standard established by the Court in Pierce is the meaning of the term "substantially justified."
+The Court agreed that the standard of "reasonableness" adopted by the overwhelming majority of circuit courts was the proper one.
+Thus, to be substantially justified, the United States' position must have a "reasonable basis both in law and fact."
+108 S.Ct. at 2550 (citing Ashburn , 740 F.2d at 850 ) (other citations omitted).
+See also United States v. Certain Real Estate Property , 838 F.2d 1558, 1561 (11th Cir.1988); Stratton v. Bowen , 827 F.2d 1447, 1449 (11th Cir.1987); Haitian Refugee Center , 791 F.2d at 1497 .
+10 The Pierce court did not fix any precise guidelines for assessing a district court's discretionary review of the reasonableness of the government's position.
+Factors considered, but held not individually dispositive on the facts in Pierce , included: (1) the state at which the litigation was resolved; (2) views expressed by other courts on the merits; and (3) the legal merits of the government's position.
+108 S.Ct. at 2551-53 .
+Following the D.C.
+Circuit, our court has also suggested that the following additional factors assist in the reasonableness inquiry: (1) the clarity of the governing law; (2) the foreseeable length and complexity of the litigation; and (3) the consistency of the government's position.
+Haitian Refugee Center , 791 F.2d at 1497 (citing Spencer v. NLRB , 712 F.2d 539, 559-60 (D.C.Cir.1983)).
+Of course, these guide-posts are not intended to be an exhaustive list of all the factors a district court, acting in its discretion, may undertake to review.
+Id. In disputing the district court's conclusion on the question of substantial justification, the government argues that the district court simply erred with respect to the APA in Jean I .
+Because the questions of law were at least "unsettled," the government contends that it was substantially justified.
+11 The government is asking, in essence, that we reweigh the merits of its defense on the APA claim.
+Two things counsel against such a course.
+First, this would put us in the position of assessing legal questions that are not before us on the merits.
+The Supreme Court has explained that under circumstances such as this, an abstract discussion of the law is unwise.
+Where circuit law is unsettled, Pierce , 108 S.Ct. at 2548 .
+Certain cases will require an appellate court to review the content of the government's legal arguments to determine whether it was substantially justified.
+Pierce was such a case because it focused purely on questions of law.
+Under these circumstances, it would be useful to examine, for example, the weight of authority on the contested questions; in Pierce , the Court conducted such a review.
+As we will demonstrate, such a review is not necessary in this case. The second and more important reason for not reopening the merits in this case is that there are sufficient legal and factual indicia upon which the district court relied to support the district court's conclusion that the government's position was not substantially justified.
+First, the district court placed particular emphasis on a memorandum that acting General Counsel for INS prepared for the service in early 1981.
+The memorandum summarized the legal requirements applicable to the defendants' detention policy and mass exclusion hearings.
+It explained that "'[a]ny change in regulation which takes rights or privileges away from aliens will most likely require a 60-day notice and comment period, and a 30-day delayed effective date '" 646 F.Supp.
+at 1326 .
+The district court viewed the defendants' failure to follow this advice as knowing and willful.
+The court quoted its own review of the evidence on this point in the opinion on the merits: 646 F.Supp.
+at 1326 (citation omitted).
+In light of the fact that two district judges in the Southern District of Florida had held that APA procedures applied to changes in INS policy toward Haitian refugees, Sannon v. United States , 460 F.Supp.
+458, 466-67 (S.D.Fla.1978), remanded to be vacated as moot , 631 F.2d 1247 (5th Cir.1980); National Council of Churches v. Egan , No. 79-2959-Civ-HOEVELER (S.D. Fla. Aug. 3, 1979), the district court concluded that the government's position was unreasonable.
+We agree with the government that these two cases, standing alone, would not be dispositive of the reasonableness of its position.
+Sometimes legal authority against the government on a given legal position will build to such a point that it will be difficult to maintain that the government's continued adherence to that position is reasonable.
+It will seldom be the case, however, that two district court decisions--even if they appear in the same district in which the relevant case is being litigated--will raise such an obstacle.
+The government must be permitted to make some strategic choices.
+It must have the opportunity to make good faith challenges to legal authority with which it reasonably disagrees.
+The problem for the government in this case is that INS's acting General Counsel cited one of these district court decisions in forming his opinion that APA procedures were to be followed before INS could substantially alter its detention and parole policies.
+Cf. Sannon , 460 F.Supp.
+at 466 .
+While the existence of this decision is not dispositive, the acting General Counsel's reliance on it is highly significant.
+The important fact for the district court was that the defendants willfully ignored the advice of counsel.
+The government's only real response to this point is that the memorandum authored by INS's counsel refers to "regulations," and, impliedly, not to rules.
+Reply Brief for the United States at 9 n. 8.
+Of course, the district court held that INS change in policy was a "substantive rule " subject to APA rulemaking requirements.
+544 F.Supp.
+at 997 .
+If the government is suggesting that it did not ignore the advice of counsel because the memorandum refers to "regulations" and not "rules," this argument is patently frivolous.
+See, e.g. , K.C. Davis, Administrative Law Text 5.01 at 123 (3d ed. 1972) ("regulation [is] a term used interchangeably with rule").
+We conclude that the district court could properly consider the defendants' failure to follow the advice of counsel unreasonable.
+Cf. Hudson v. Secretary of Health and Human Services , 839 F.2d 1453, 1456-57 (11th Cir.1988) (reversing district court finding of substantial justification where agency secretary failed to follow agency regulation).
+The district court also explained that the government behaved unreasonably in repeatedly denying--early in the lawsuit--that it had developed any new policy toward Haitians.
+It claimed instead that "district directors still had complete discretionary authority to parole individuals or, alternatively, that the district directors were merely enforcing the statute."
+646 F.Supp.
+at 1326 .
+According to the district court, Id. Although the government challenges this finding, we conclude that it is supported in the record.
+The parties' joint pretrial stipulation lists as a factual issue for trial the question whether "defendants changed their policy of regularly releasing Haitians to a policy of detention without parole."
+Given the district court's unique familiarity with the historical consistency of the government's factual position, we conclude that it did not abuse its discretion in finding that the government unreasonably protracted the litigation by failing to acknowledge a change in its parole policy.
+See Haitian Refugee Center , 791 F.2d at 1497 .
+III.
+AMOUNT OF THE AWARD Although we have concluded that the district court acted within its discretion in making an EAJA award, there remains the question whether the amount of the award was proper.
+With regard to attorney's fees, the government challenges both the number of reimbursable hours and the hourly rates used by the district court in making its award.
+The government also challenges the award of costs and expenses, and the award of "fees for fees."
+In reviewing the district court's calculations, we are again bound to apply an abuse-of-discretion standard.
+Pierce , 108 S.Ct. at 2553 (citing Hensley v. Eckerhart , 461 U.S. 424, 437 , 103 S.Ct. 1933, 1941 , 76 L.Ed.2d 40 (1983); Cf. Pennsylvania v. Delaware Valley Citizens' Council for Clean Air , 478 U.S. 546, 560-61 , 106 S.Ct. 3088, 3096 , 92 L.Ed.2d 439 (1986)).
+A. Reimbursable Hours The plaintiffs' attorneys prepared documents indicating that they had spent 11,261.95 reimbursable hours working on this lawsuit.
+In accordance with earlier guidance given by the district court, the attorneys subtracted a certain number of hours (467.4) from the total for work done on the equal protection claim and reduced by sixty percent the number of hours attributable to their work on the case before the Supreme Court (resulting in a further reduction of 1,604.31 hours).
+This left a total of 9,190.24 hours for which the attorneys sought compensation.
+The district court concluded that the reduction of hours for equal protection work was too low and reduced the total hour figure by an additional fifteen percent.
+It also concluded that the attorneys could be compensated for only twenty-five percent of the hours spent "at the Supreme Court level."
+646 F.Supp.
+at 1315 .
+This left a total 5,756.84 hours the district court found to be reimbursable.
+The government has attacked this figure on several grounds.
+1.
+Supreme Court Litigation The district court awarded compensation for twenty-five percent of the hours spent litigating the case before the Supreme Court.
+The only issue before that Court was the merits of the plaintiffs' equal protection claim which was rejected by this court sitting in banc.
+The Supreme Court affirmed our in banc court's judgment, but held that we should not have reached the merits of the constitutional issue.
+Normally, a prevailing party is entitled to attorney's fees for work done on appeal.
+See, e.g. , Hutto v. Finney , 437 U.S. 678, 693-700 , 98 S.Ct. 2565, 2574-78 , 57 L.Ed.2d 522 (1978) ( section 1988 ); O'Donnell v. Georgia Osteopathic Hospital, Inc. , 748 F.2d 1543, 1553 (11th Cir.1984) (attorney's fees under Fair Labor Standards Act).
+But that party must also prevail on appeal to qualify for appellate attorney's fees.
+See, e.g. , Bonner v. Coughlin , 657 F.2d 931, 935-36 (7th Cir.1981) ( section 1988 ).
+On its face, the Supreme Court's judgment provides no basis for an award of EAJA fees because there is no question that the plaintiffs did not prevail in the Supreme Court.
+The district court, however, found that the plaintiffs were entitled to fees for their appeal to the Supreme Court because the government had changed its legal position in that court.
+According to the district court, the government acknowledged for the first time, in the Supreme Court, that INS regulations prohibited it from using nationality as a factor in making parole decisions.
+The district court found that "if the government had argued at the District Court and Eleventh Circuit levels the position it took in the Supreme Court, the constitutional claims would not have needed to be litigated."
+646 F.Supp.
+at 1314 .
+This, the district court concluded, provided a basis for EAJA fees for the work performed before the Supreme Court.
+Assuming the accuracy of the district court's finding regarding a change in the government's position, we nonetheless conclude that the plaintiffs are not entitled to attorney's fees for the Supreme Court litigation.
+The plaintiffs were seeking a declaration by the Supreme Court that the Constitution prohibits INS from considering race and national origin in making parole decisions.
+The Court did not reach the question because of the government's concession that 8 C.F.R. 212.5 is facially a neutral regulation.
+Even though the Court found that our in banc court should not have reached the constitutional issue, it did not vacate our opinion; instead, it affirmed our remand to the district court.
+The plaintiffs argue that even though the Supreme Court affirmed our in banc court's judgment, they were in fact victorious because the result was a judicial declaration that INS could not discriminate in making parole decisions.
+We reject this argument for the simple reason that the plaintiffs did not prevail on any legal issue or obtain any additional relief subsequent to our in banc court's decision.
+We therefore conclude that the district court abused its discretion in compensating them for a portion of the expense of litigating the case at that level.
+Cf. Institutionalized Juveniles v. Secretary of Public Welfare , 758 F.2d 897, 920 (3d Cir.1985) (ordering disallowance of all hours spent litigating case "after the date on which plaintiffs received their last benefit from the defendants"); Clark v. City of Los Angeles , 803 F.2d 987, 993 (9th Cir.1986) (no attorney's fees for appellate work when "nothing associated with the appeal contributed to [the] favorable result achieved by litigation").
+On remand, in recalculating the EAJA award, the district court shall exclude any hours spent on Supreme Court litigation.
+2.
+Unsuccessful Claims In Hensley v. Eckerhart , the Supreme Court held that an award of attorney's fees should be commensurate with the degree of a prevailing party's success.
+The principles adduced in Hensley are generally applicable here: 461 U.S. at 434-37 , 103 S.Ct. at 1940-41 (footnotes and citations omitted).
+Having reviewed the district court's approach to evaluating the degree of the plaintiffs' success, we conclude that it acted within its discretion and followed generally the Supreme Court's guidance in Hensley .
+It first directed counsel to excise from its fee request those hours spent litigating the equal protection issue.
+After finding counsel's estimates of the time spent exclusively on this issue "too low," the district court explained its calculation as follows: 646 F.Supp.
+at 1315 .
+Here, the "trial court correctly recognized that the fee award should exclude the time spent on [the] unsuccessful claim[ ] except to the extent that such time overlapped with related successful claims."
+Trezevant v. City of Tampa , 741 F.2d 336, 341 (11th Cir.1984).
+The government argues that further reductions were in order because the factual overlap between the APA and equal protection claims were less substantial than the district court found. The government has provided us with no basis, however, to discern the degree to which it believes the district court abused its discretion.
+In contrast, the plaintiffs have supplied us with numerous citations to the record from the attorney's fees proceedings which indicate that the district court had adequate information to support a finding that the legal and factual issues did overlap substantially.
+The government would also have us order a reduction of the total hour figure on the ground that the plaintiffs obtained "limited" success.
+As we explained above, we do not think this case is one in which the victory secured was merely technical or formalistic.
+The plaintiffs obtained the relief they sought in their lawsuit, although not in the form of a declaration that the government had violated the Constitution.
+If the hours spent litigating the constitutional issues were properly deducted by the district court, there is no reason to further reduce the award.
+3.
+Documentation and Duplication of Effort Given the detailed record in the fee proceedings, we also reject the government's contention that the attorney's fees requests were not supported by sufficient documentation.
+The government's principal complaint in this regard is that several of the fee applications were in part the product of "reconstructed" time records.
+Recently, a number of courts have announced prospective rules requiring the filing of contemporaneous records to support an application of attorney's fees.
+See Grendel's Den, Inc. v. Larkin , 749 F.2d 945, 952 (1st Cir.1984); Ramos v. Lamm , 713 F.2d 546, 553 (10th Cir.1983); New York State Association for Retarded Children, Inc. v. Carey , 711 F.2d 1136, 1147 (2d Cir.1983).
+Our court, however, has held that contemporaneous time records are not indispensable where there is other reliable evidence to support a claim for attorney's fees.
+Johnson v. University College , 706 F.2d 1205, 1207 (11th Cir.), cert. denied , 464 U.S. 994 , 104 S.Ct. 489 , 78 L.Ed.2d 684 (1983); see also Dennis v. Warren , 779 F.2d 245, 249 (5th Cir.1985); Bonnette v. California Health & Welfare Agency , 704 F.2d 1465, 1473 (9th Cir.1983).
+The government has pointed to no particular fee record considered by the district court which was so unreliable as to require that the district court reject it as a basis for part of the award.
+We find nothing to indicate that the district court abused its discretion in relying in part on reconstructed time records.
+We likewise reject the government's contention that counsels' hours were subject to reduction as a result of unnecessary duplication of their efforts.
+The government asserts that lead counsel in Miami failed to oversee and coordinate the work performed by New York co-counsel and that this resulted in unnecessary duplication of attorney effort.
+The district court carefully considered the question of undue duplication and found credible counsels' representations that they had "purged" their time sheets of unnecessary duplication.
+646 F.Supp.
+at 1314 .
+Our court has recognized that the retention of multiple counsel in complex cases is "understandable and not a ground for reducing the hours claimed" because "[t]he use in involved litigation of a team of attorneys who divide up the work is common for both plaintiff and defense work."
+While duplication of effort is a proper ground for reducing a fee award, "a reduction is warranted only if the attorneys are unreasonably doing the same work."
+Johnson , 706 F.2d at 1208 .
+Again, the government has pointed to no specific instances in which counsels' work was unreasonably duplicative.
+We find that the district court did not abuse its discretion in this regard.
+B. Hourly Rates In arriving at its attorney's fee figures, the district court began by considering the factors enumerated by this court in Johnson v. Georgia Highway Express, Inc. , 488 F.2d 714, 717-19 (5th Cir.1974).
+The Johnson factors, first developed in the Title VII context, constitute one widely accepted mechanism for calculating attorney's fees.
+Because many of the Johnson factors are subsumed into the initial calculation of an attorney's fees lodestar (reimbursable hour multiplied by hourly rate), the Supreme Court has expressed some criticism of the Johnson approach in dicta.
+See Hensley v. Eckerhart , 461 U.S. at 435 n. 9, 103 S.Ct. at 1940 n. 9.
+Nonetheless, this court has held that the factors enumerated in Johnson are to be considered in calculating EAJA fees.
+See Florida Suncoast Villas, Inc. v. United States , 776 F.2d 974, 975 (11th Cir.1985) ( Johnson factors play a role in arriving at reasonable EAJA fee).
+The Supreme Court's Pierce opinion has led us to reappraise this approach, and focus instead on the language of the Act.
+The EAJA provides that "fees awarded shall be based upon prevailing market rates for the kind and quality of the services furnished," but "shall not be awarded in excess of $75 per hour unless the court determines that an increase in the cost of living or a special factor, such as the limited availability of qualified attorneys for the proceedings involved, justifies a higher fee."
+28 U.S.C. 2412(d)(2)(A) .
+As the statute indicates, a court's starting point should be not the Johnson factors but the "prevailing market rates" for services of like quality and kind.
+Market rates for legal services being what they are, these rates will exceed the EAJA's $75 cap in many cases.
+But this fact alone does not authorize a court to make an upward adjustment in hourly rates.
+As the Court explained in Pierce , the EAJA's special factor formulation "suggests Congress thought that $75 was generally quite enough public reimbursement for lawyers' fees, whatever the local or national market might be."
+108 S.Ct. at 2554 .
+On remand, the district court must first determine the prevailing market rates for services of the kind and quality provided.
+This inquiry will typically focus on affidavits or testimony of similarly situated practitioners, who are uniquely qualified to express opinions as to "what the market will bear."
+The fee requests in this case ranged from $40 per hour for paralegal time to $175 per hour for experienced counsel.
+If these requests accurately reflect prevailing market rates, the district court must still find that a cost of living increase or a "special factor" justifies hourly rates of more than $75 before it can award fees at a rate in excess of this figure.
+See, e.g. , Hyatt v. Heckler , 807 F.2d 376, 382-83 (4th Cir.1986) (although expert testimony proved that prevailing market rate was $125, district court properly reduced rate to $75), cert. denied , U.S. , 108 S.Ct. 79 , 98 L.Ed.2d 41 (1987).
+1.
+Cost of Living In its EAJA award, the district court cited the statutory cost of living increase permitted by the EAJA as a ground for upward adjustment.
+The court failed, however, to specify in dollar amounts the impact of this factor in reaching its overall award.
+A case of this duration and complexity will make it difficult to make cost of living adjustments with absolute precision.
+Nonetheless, a court should describe mathematically the basis of all cost of living adjustments under the Act.
+On remand, the district court shall quantify and explain all cost of living adjustments in favor of each of the plaintiffs' attorneys.
+We consider one more question regarding cost of living adjustments.
+The 1985 enactment of the EAJA contains the same $75 hourly figure found in the original, 1980 version of the Act.
+Recently, a question has arisen as to whether Congress intended to "restart the clock" on cost of living adjustments by retaining the $75 cap.
+One circuit court has so held.
+See Chipman v. Secretary of Health & Human Services , 781 F.2d 545, 547 (6th Cir.1986) (given retention of $75 figure, court does not abuse discretion in failing to make adjustment for pre-1985 services).
+The government has urged us to adopt this position and hold that no cost of living adjustment can be made for legal services performed prior to the effective date of the 1985 version of the Act.
+Instead, we join the growing number of circuit courts which have held that the EAJA's 1985 reenactment does not bar cost of living adjustments for services rendered prior to 1985.
+See Trichilo v. Secretary of Health & Human Services , 823 F.2d 702, 706-07 (2d Cir.1987); Allen v. Bowen , 821 F.2d 963, 967 (3d Cir.1987); Sierra Club v. Secretary of the Army , 820 F.2d 513, 520-23 (1st Cir.1987); Hirschey v. FERC , 777 F.2d 1, 5 (D.C.Cir.1985).
+2.
+Special Factors The district court adjusted the hourly rates of plaintiffs' counsel on the basis of the only "special factor" named in the EAJA, "the limited availability of qualified counsel."
+In Pierce , the Supreme Court gave this phrase a rather limited construction in light of the EAJA's $75 cap.
+The Court explained that some distinctive knowledge or specialized skill necessary 108 S.Ct. at 2554 (emphasis added).
+The Court's view is clear: a mere short supply of qualified lawyers willing to take a case for $75 per hour or less does not mean that there is a "limited availability of qualified counsel."
+In addition, where highly skilled lawyers or lawyers with the best reputations participate, this is not a factor to be considered once it is established that market rates for their services exceed $75.
+Under such circumstances only a special skill authorizes an upward adjustment of hourly rates.
+From the district court's order, we perceive only two grounds for which a rate adjustment might be proper on the basis of special factors.
+First, some of the participating attorneys have a special expertise in immigration law.
+This is narrow legal specialty which might entitle them to an adjustment if market rates for their services exceed $75.
+Cf. Hoopa Valley Tribe v. Watt , 569 F.Supp.
+943, 947 (N.D.Cal.1983) (increased hourly rates for expert in native American law).
+Second, at least one of the plaintiffs' attorneys is fluent in French and Haitian Creole.
+According to the district court "her language abilities were crucial to her work in communicating with and preparing the testimony of Haitian plaintiffs and witnesses."
+646 F.Supp.
+at 1312 .
+If prevailing market rates for her services exceed $75--something which is not readily apparent since her initial fee request was based on a $75 per hour rate--she might be entitled to an increased hourly rate.
+On remand, the court shall consider whether either of these factors are "special" for EAJA purpose and entitle the relevant attorneys to increased hourly rates.
+12 3.
+"Enhancement" The district court enhanced the overall fee award of each attorney for the plaintiffs who was awarded fees.
+The court assumed that the limited circumstances in which the Supreme Court has authorized lodestar adjustments applied to EAJA cases.
+See, e.g. , Pennsylvania v. Delaware Valley Citizens' Council , 478 U.S. 546 , 106 S.Ct. 3088 , 92 L.Ed.2d 439 (1986) (modification proper only in rare and exceptional cases) (citing Blum v. Stenson , 465 U.S. 886, 889 , 104 S.Ct. 1541, 1549 , 79 L.Ed.2d 891 (1984)).
+In light of the Court's second Delaware Valley Citizens' Council decision, 483 U.S. 711 , 107 S.Ct. 3078 , 97 L.Ed.2d 585 (1987), decided after the district court made its award, the legal status of all enhancements and multipliers in cases concerning fee-shifting statutes is unclear.
+One thing, however, is certain.
+Given that the EAJA constitutes a partial waiver of the United States' immunity, the Act must be strictly construed.
+If the award made by a court is to be based on rates in excess of the figure provided by the Act, it must be because the Act permits it.
+Library of Congress v. Shaw , 478 U.S. 310, 318 , 106 S.Ct. 2957, 2963 , 92 L.Ed.2d 250 (1986) (waiver must be construed strictly in favor of sovereign and not enlarged beyond what the language requires).
+Under the statute, only special factor adjustments and cost of living adjustments are authorized.
+Blanket enhancements are not authorized.
+Nonetheless, we will consider whether the factors relied upon in enhancing the overall fee awards can qualify as special factors within the meaning of the EAJA.
+a. Pro Bono Publico The district court held that because the plaintiffs' attorneys were motivated by concern for the plight of Haitian refugees and not pecuniary self-interest, they were entitled to an increased award.
+Plaintiffs' counsel are to be lauded for their efforts on behalf of the indigent and those they believed were wrongfully oppressed.
+But the EAJA does not distinguish between the selfless lawyer and the selfish one.
+We hold that neither the personal motivations of attorneys acting pro bono publico , nor the pro bono nature of a case, presents an EAJA "special factor."
+Cf.
+Pierce , 108 S.Ct. at 2554 (both contingent fee arrangement and undesirability of a case are too broad and general for either to be considered a "special factor").
+b. Vindication of Public Rights The district court enhanced the fee awards because counsel had acted as "private attorney generals seeking to vindicate public rights."
+646 F.Supp.
+at 1317-18 .
+While we agree that such actions are to be commended, for the reasons just discussed, this consideration cannot support an award exceeding the statutory cap.
+In many cases where EAJA fees may be awarded, the party opposing the government seeks to force compliance with federal law.
+In a narrow sense, these cases will always involve a vindication of "public" rather than purely "private" rights.
+Permitting adjustment of hourly rates on this ground would therefore contravene the Supreme Court's view that "special factors" must not be "of broad and general application."
+See 108 S.Ct. at 2554 .
+c. The Emotional Hardship to Plaintiffs' Counsel The district court acknowledged, and we do not dispute, that this case imposed unique pressures on counsel for the plaintiffs.
+Trial evidence established that many of the plaintiffs sustained severe psychological problems as a result of their prolonged detention.
+Family members were isolated.
+Some members of the class committed suicide.
+The court understands the sense of urgency experienced by counsel who seek to secure the release of persons from detention believed unlawful.
+We also acknowledge that the best of lawyers understand, sympathize with, and act upon the real hardships experienced by their clients.
+By all accounts, the highly motivated counsel for the plaintiffs upheld the highest standards of the legal profession in this regard.
+Yet, we must again conclude, in light of Pierce , that meeting the unique emotional burdens in this case constituted one of the many features of this case which might increase our esteem for the lawyers involved but does not constitute a special factor under the EAJA.
+Cf.
+Pierce , 108 S.Ct. at 2554 (undesirable cases do not, by themselves, give rise to special factors).
+d. The Government's Litigious Position The district court was clearly disturbed by the United States' general posture in this litigation: 646 F.Supp.
+at 1318 .
+We have no quarrel with the district court's observations, that court being uniquely situated to observe the conduct of the lawsuit.
+Pierce gives little guidance as to what can constitute a special factor except for its discussion of certain adjustments specifically discussed as not being "special factors."
+As with the establishment of a standard to test the question of substantial justification, the Court appears to have recognized that judicial construction of the "special factor" term is likely to evolve with time.
+Thus, on remand, the district court should be free to approach this question anew, and consider potential special factors that would be consistent with Pierce and our discussion here, including whether the government's unusually litigious position in this case might constitute a special factor.
+13 The court should remember, however, that nothing "routine" or "generally applicable" to a "broad spectrum of litigation" can count.
+See 108 S.Ct. at 2553 .
+C. Other Components of the Award 1.
+Costs The EAJA authorizes the recovery of three types of litigation expenditures.
+First, under 28 U.S.C. 2412(a) , a prevailing party opposing the United States in "any civil action" "may be awarded" costs as delineated in 28 U.S.C. 1920 .
+The second and third types of expenditures included in the statute are "fees and other expenses," which a district court must award to a party who prevails against the United States in "any civil action (other than cases sounding in tort)" when the government fails to demonstrate that its position was substantially justified.
+28 U.S.C. 2412(d)(1)(A) .
+The government contests the district court's award of certain litigation expenditures that the district court found to constitute "fees and other expenses."
+The Act provides a partial definition of these terms: which is found by the court to be necessary for the preparation of the party's case 28 U.S.C. 2412(d)(2)(A) (emphasis added).
+The government argues that these terms must be given a limited construction since the EAJA represents a waiver of the United States' sovereign immunity.
+The problem with this interpretation is that "fees" and "expenses" are defined in the Act by example, rather than by limitation.
+In this regard, we agree with the following observations by Chief Judge Alaimo of the Southern District of Georgia: non-exhaustive 2412(d)(2) includes this Court 2412(d)(2) includes 2412(d)(2) means International Woodworkers of America v. Donovan 769 F.2d 1388, 1392 opinion amended 792 F.2d 762 Aston v. Secretary of Health and Human Services 808 F.2d 9, 12 2412(d)(2) City of Brunswick v. United States , 661 F.Supp.
+1431, 1444-45 (S.D.Ga.1987) (emphasis in original), rev'd on other grounds , 849 F.2d 501 (11th Cir.1988).
+Although some circuits have read this provision more restrictively, they have done so largely without analysis or for reasons with which we disagree.
+See Wyandotte Savings Bank v. NLRB , 682 F.2d 119 (6th Cir.1982); Action on Smoking and Health v. C.A.B.
+, 724 F.2d 211, 223-24 (D.C.Cir.1984); Weakley v. Bowen , 803 F.2d 575, 580 (10th Cir.1986).
+Wyandotte suggests that no litigation expenditure (other than attorney's fees) is recoverable under the EAJA unless it is one of the costs enumerated in 28 U.S.C. 1920 .
+See 682 F.2d at 120 .
+This approach reads key language out of the Act.
+Section 2412(d)(1) (A) provides that "fees" and other "expenses" are awarded " in addition to any costs awarded pursuant to subsection (a)," the subsection treating section 1920 costs.
+Action on Smoking , without analysis, holds that the EAJA does not authorize an award for expenses similar to those awarded in this case. 724 F.2d at 223-24 .
+It relies instead on NAACP v. Donovan , 554 F.Supp.
+715, 719 (D.C.Cir.1982).
+The NAACP opinion, however, reads the Act to authorize only those "expenses" listed in subsection 2412(d)(2)(A) or those of a like nature.
+We will not apply the rule of statutory construction known as ejusdem generis in this case for the reasons given by Judge Alaimo in City of Brunswick .
+Weakley is unhelpful because it relies totally on Wyandotte and the D.C.
+Circuit's rulings on the matter.
+An examination of the nature of the expenses listed in the Act reinforces our reading of it.
+Items such as engineering reports and studies are extraordinary expenditures not commonly necessary to the preparation of a lawsuit.
+By including these unusual items in the list of reimbursable expenses, Congress enlarged, rather than contracted, the category of expenditures that are reimbursable under the EAJA.
+Thus, we reject the government's argument that telephone, reasonable travel, postage, and computerized research expenses are not compensable under the EAJA.
+See International Woodworkers of America v. Donovan , 792 F.2d 762, 767 (9th Cir.1985) (expenses routinely billed to a client--telephone, air courier, attorney travel--are recoverable under the EAJA); Aston v. Secretary of Health and Human Services , 808 F.2d 9, 12 (2d Cir.1986) (affirming award of telephone, postage, travel and photocopying expenses).
+The limitation on the amount and nature of such expenses is that they must be "necessary to the preparation of the [prevailing] party's case." 28 U.S.C. 2412(d)(2)(A) .
+"In contrast, expenses of an attorney that are not incurred or expended solely or exclusively in connection with the case before the court, or which expenses the court finds to be unreasonable or unnecessary in the pending litigation, cannot be awarded under the EAJA."
+Oliveira v. United States , 827 F.2d 735, 744 (Fed.Cir.1987).
+We hold that the challenged expenses may be reimbursed under the EAJA.
+2.
+Paralegal and Law Clerk Time The district court awarded reimbursement for time spent by paralegals and law clerks where the work was that normally done by an attorney.
+The hourly rate awarded was $40.
+This is the rate at which the law firm whose paralegals and clerks were involved bills its clients.
+The government challenges the rate awarded, and contends that paralegal time is recompensable only at the actual cost to the plaintiffs' counsel.
+In the context of a Title VII case, we have held that paralegal time is recoverable as "part of a prevailing party's award for attorney's fees and expenses, [but] only to the extent that the paralegal performs work traditionally done by an attorney ."
+Allen v. United States Steel Corp. , 665 F.2d 689, 697 (5th Cir. Unit B 1982).
+The same analysis applies here.
+To hold otherwise would be counterproductive because excluding reimbursement for such work might encourage attorneys to handle entire cases themselves, thereby achieving the same results at a higher overall cost.
+See Berman v. Schweiker , 531 F.Supp.
+1149, 1154-55 (N.D.Ill.1982), aff'd , 713 F.2d 1290 (7th Cir.1983).
+We affirm the award of law clerk and paralegal fees.
+3.
+Fees for Fees The last question we consider is whether the district court erred in awarding attorney's fees for the fee litigation without first determining that the government's position in the fees proceedings was without substantial justification.
+The district court relied on a statement in Haitian Refugee Center v. Meese , 791 F.2d 1489, 1500 (11th Cir.1986), which lends support to this approach.
+As the government notes in its brief, however, that portion of Haitian Refugee Center upon which the district court relied, was later vacated by the Haitian Refugee Center panel.
+804 F.2d 1573, 1574 (11th Cir.1986).
+Those circuits that have discussed the question of "fees for fees" in the EAJA context are divided.
+Two circuits have indicated that a successful EAJA fee applicant should not recover attorney's fees associated with litigating the fee issues unless the government's position in the attorney's fee litigation is not substantially justified.
+See Rawlings v. Heckler , 725 F.2d 1192, 1196 (9th Cir.1984) (no fees for defending EAJA award on appeal if government's appellate position is reasonable); Russell v. National Mediation Board , 775 F.2d 1284, 1285, 1291 n. 8 (5th Cir.1984) (no fees for fee application where agency defense to award was partially meritorious).
+The D.C.
+Circuit has recognized a substantial difficulty with this approach: per se Cinciarelli v. Reagan , 729 F.2d 801, 810 (D.C.Cir.1984) (footnote omitted).
+The D.C.
+Circuit did not squarely hold, however, that successful EAJA fee applicants are automatically entitled to "fees for fees."
+In a subsequent case, it has held that the government may raise certain technical defenses, such as an untimely filing by the fee applicant, and defend against an application for "fees for fees" on the ground that the technical defense is substantially justified.
+American Academy of Pediatrics v. Bowen , 795 F.2d 211, 214 (D.C.Cir.1986).
+The Third Circuit has adopted still a different approach.
+Where "the sole basis for the opposition [to EAJA fees] is the alleged substantial justification of the government's position in the underlying proceedings," the fee applicant "will almost always, if not always, be entitled to fees for litigation over an EAJA fee petition if she is entitled to fees for the underlying litigation."
+Yet where the government's opposition to EAJA fees is based on other contentions, "an application for fee petition expenses can present issues not resolved by the proceedings on the original fee petition."
+Russell v. Heckler , 814 F.2d 148, 155 (3d Cir.1987), vacated on other grounds , U.S. , 108 S.Ct. 2891 , 101 L.Ed.2d 925 (1988) (for reconsideration of attorney's fees in light of Pierce ).
+As to these issues, the Third Circuit grants the government the opportunity to defend its position as substantially justified.
+Id. Only the Second Circuit has held that the government's position in the fee litigation is irrelevant to a determination whether a successful EAJA fee applicant can claim "fees for fees."
+As Judge Pratt explained for the court, Trichilo v. Secretary of Health and Human Services , 823 F.2d 702, 707 (2d Cir.1987).
+We agree with these sound reasons for awarding "fees for fees."
+It would contravene Congress's purpose in passing the EAJA to require under all circumstances that successful EAJA fee applicants bear the costs of obtaining EAJA fees.
+This court has already indicated that attorney's fees incurred defending an EAJA award on appeal, or appealing a denial of EAJA fees, are recoverable as part of the final fee award.
+Hudson v. Secretary of Health and Human Services , 839 F.2d 1453, 1458 n. 7 (11th Cir.1988).
+See also Trichilo v. Secretary of Health and Human Services , 832 F.2d 743 (2d Cir.1987).
+We agree with the D.C.
+Circuit that a fixed rule permitting infinite litigation of the substantial justification question would make for unwise judicial policy.
+We hold, therefore, that the United States may not oppose a "fees for fees" request solely on the ground that its position in the fee litigation was substantially justified.
+14 IV.
+CONCLUSION To summarize, we hold that the district court acted within its discretion in determining that the government's position in the underlying litigation was not substantially justified but that the case must be remanded for recalculation of attorney's fees and expenses in accordance with this opinion.
+AFFIRMED IN PART, VACATED AND REMANDED.

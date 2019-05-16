@@ -1,0 +1,178 @@
+ HULL, Circuit Judge: Defendant-Appellant, the City of Roswell, Georgia, appeals the district court's order granting Plaintiff-Appellee T-Mobile South LLC's motion for summary judgment and issuing an injunction on the basis that the City's denial of T-Mobile's requested cell phone tower permit violated the Telecommunications Act of 1996.
+After review of the briefs and record, with the benefit of oral argument, and in light of our decision in T-Mobile South, LLC v. City of Milton, Georgia , F.3d , 2013 WL 4750549 (11th Cir. Sept. 5, 2013), we reverse and remand for further proceedings.
+I. BACKGROUND A. Roswell City Ordinance Governing Construction of Cell Towers An ordinance of the City of Roswell, Georgia ("City") establishes guidelines for the location and construction of wireless communication towers ("cell towers") and antennas to "encourage the development of wireless communications while protecting the health, safety, and welfare of the public and maintaining the aesthetic integrity of the community."
+Roswell City Ordinance 21.2.1 .
+A telecommunications company that seeks to construct a new cell tower or antenna must submit an application to the City.
+Id. 21.2.4(a) .
+An application will be approved or denied based on a consideration of the following factors: (1) Proximity to residential structures and residential district boundaries; (2) The proposed height of the tower; (3) Nature of uses on adjacent properties; (4) Surrounding topography, tree coverage and foliage; (5) Design of the facility, with particular reference to design characteristics which have the effect of reducing or eliminating visual obstructiveness; (6) Proposed ingress and egress; (7) Availability of suitable existing towers, other structures, or alternative technologies (microcells) not requiring the use of towers or structures; (8) Demonstrated need for the telecommunications facility at the specified site; (9) Utilization of the City of Roswell Master Siting Plan, as amended.
+Id .
+The ordinance further provides that cell towers may be located only in certain zoning districts; namely, office and business distribution districts (zoned "I-1") and highway commercial districts (zoned "C-3").
+Id. 21.2.5(a) .
+Towers placed in any other zoning districts, including residential zoning districts, "shall be alternative tower structures only."
+Id .
+Alternative tower structures include "man-made trees, clock towers, bell steeples, light poles and similar alternative-design mounting structures, that in the opinion of [the City C]ouncil, are compatible with the natural setting and surrounding structures, and effectively camouflage or conceal the presence of antennas or towers."
+Id. 21.2.2 .
+Generally, an application [**2] for the construction of a cell tower or antenna must be approved after a public hearing before the City's Mayor and City Council.
+Id. 21.2.6(b) .
+B. T-Mobile's Application On February 2, 2010, T-Mobile South, LLC ("T-Mobile") submitted an application to construct a 108-foot tall cell tower at 1060 Lake Charles Drive in Roswell on 2.8 acres of vacant property zoned single-family residential and located in a well-established residential neighborhood.
+T-Mobile proposed an "alternative" tower structure in the shape of a man-made tree, or a "monopine."
+The proposed tower would be about twenty to twenty-five feet taller than the pine trees surrounding it.
+T-Mobile claimed that this tower was necessary in this location in response "to the demands of its customers."
+On March 24, 2010, due to an "outpouring of public opposition" to the proposed Lake Charles Drive site, T-Mobile renewed an earlier request with the City to lease to T-Mobile public property near a fire station instead, but the City did not grant the request.
+In the meantime, the process moved forward on T-Mobile's request to construct on the Lake Charles Drive site.
+After reviewing T-Mobile's application and receiving a substantial amount of letters, e-mails, and petition signatures opposing the application, the City's Planning and Zoning Division ("Planning Department") issued an April 7, 2010 memorandum to the Mayor and City Council concluding that T-Mobile's application met all ordinance requirements for the construction of a cell tower.
+But the Planning Department recommended that the Mayor and the City Council approve the application on the conditions that T-Mobile: (1) move the site of the cell tower to a location closer to the west property line on the Lake Charles Drive site, in order to place the tower's largest visual impact on the adjacent homeowner who would lease the site to T-Mobile; (2) construct a black vinyl fence surrounding the tower; and (3) install 33 "evergreen trees around the leas[ed] area to screen the view of the structure and equipment facilities from the residential homes located to the east of the property."
+[fn1] C. Public Hearing on T-Mobile's Application On April 12, 2010, Mayor Jere Wood and the Roswell City Council convened a public hearing to consider T-Mobile's application.
+One Council member, Nancy Diamond, recused herself because she lived in the path of the proposed cell tower.
+The hearing lasted a little over two hours and comprises 108 pages of transcript.
+Minutes of the hearing were also recorded.
+The Planning Department Director, Brad Townsend, presented the T-Mobile application at the hearing, along with the Planning Department staff's recommendations.
+While acknowledging that his staff had received "over a thousand-plus e-mails, signatures, petitions, letters in opposition [to] the proposed location," Townsend stated that his staff recommended approval of the application, provided that T-Mobile abided by the three conditions listed in his staff's report.
+Townsend said that T-Mobile had received the report but had not yet addressed the recommendation of moving [**3] the tower.
+A representative of applicant T-Mobile, Lannie Greene, stated that he had thirteen years' experience in site acquisition and permitting of cell towers.
+Greene said that he had reviewed the City's ordinance governing cell tower placement and had chosen a site that met the ordinance requirements as well as T-Mobile's requirements.
+Greene said that while other sites had been considered for the new cell tower: (1) the City had rejected a proposal to place it on public property; and (2) the other tracts considered were ultimately determined to be unsuitable for the project.
+Greene emphasized that the new cell tower would meet T-Mobile's coverage needs in the area.
+A T-Mobile radio frequency engineer, Marquise Lewis, explained to the Mayor and City Council that T-Mobile had chosen the Lake Charles Drive site based on data indicating that the proposed cell tower would be in the center of the area of need.
+Lewis also said that due to the topology, terrain, and foliage in the Lake Charles Drive area, the alternative wireless coverage facilities suggested by some residents were not feasible.
+At the public hearing, the City Council also took public comments, and thirteen City residents spoke, all in opposition to the T-Mobile proposal.
+Their concerns varied from worries about the proposed tower's aesthetic compatibility with the surrounding area to fears that the technology involved in the T-Mobile proposal was outdated and unnecessary.
+Some residents complained that a "balloon test" performed by T-Mobile to illustrate how tall and visible the proposed tower would be did not adequately represent the height and visibility of the tower.
+Another resident observed that the substantial resident testimony would serve as "substantial evidence .
+.
+.
+that shows it's simply not in the best interest of Roswell to move forward with this cell tower at this time."
+In rebuttal, T-Mobile tried to assuage residents' concerns.
+Greene stated that T-Mobile was willing to place a five-foot buffer along the three adjacent properties in accordance with one of the Planning Department's recommendations.
+And Greene reiterated that T-Mobile's proposal met all the ordinance's requirements for placing a cell tower in a residential area.
+Additional rebuttal evidence by T-Mobile included: testimony by an Atlanta real property appraiser and consultant that placement of cell towers did not negatively influence property value and testimony from a radio frequency engineer Lewis reiterating that alternative technologies would not suffice.
+After T-Mobile's rebuttal, members of the City Council commented on the proposal.
+[fn2] Councilmember Richard Dippolito asked again about alternative facilities, but Lewis responded that none were appropriate for this project.
+Councilmember Becky Wynn expressed concerns with the tower's ability to provide continuous emergency power for 911 services, observing the lack of a backup generator in the proposal.
+Councilmember Jerry Orlans said he was impressed with the information put together [**4] by residents and complimented T-Mobile's application as well.
+Councilmember Kent Igleheart stated that while both sides did a lot of work, "other carriers apparently have sufficient coverage in this area," and no law required the City to "level the field for inferior technology."
+Councilmember Dippolito agreed with the previous council members' comments and said he found it difficult to conclude that the cell tower would not adversely impact the residential area.
+Thus, he would not support the application.
+Councilmember Wynn agreed and said she would also vote against the application.
+Finally, Councilmember Dr. Betty Price said that as City Council liaison to the Planning Department, she felt that it was her responsibility to make a motion.
+Dr. Price stated that based on the City's ordinance, she concluded that the proposed cell phone tower would be aesthetically incompatible with the natural setting and surrounding structures, particularly due to the proposed tower's height being greater than the surrounding trees.
+Specifically, Dr. Price said: I think based on our ordinance, Article 21.2.1, .
+.
+.
+the purpose and intent of our cell-phone ordinance is to protect the residential areas from the adverse impact of telecommunications towers and to minimize the number of towers and the other adverse impacts being minimized.
+I think the conclusion from that first section would be that this is aesthetically incompatible and certainly in this area.
+It's other than I-1, C-3 offices or highway commercial area [zoning districts].
+Number two, the alternative tower that was proposed, in my opinion, it would not be compatible with the natural setting and surrounding structures also due to the height being created by the other trees.
+And, number three, in our Ordinance 21.2.4, the proximity to residential structures, the nearness to other homes, and being within the residential zoning area and adjacent properties, therefore, the adverse effects to the enjoyment of those neighbors and potential loss of resale value among other potential parameters are difficult really to definitively assess.
+Therefore, overall, I move to deny the application for the wireless facility monopine tower on Lake Charles Drive.
+Council member Wynn seconded the motion, and the motion to deny the application was passed unanimously.
+D. City's Letter Denying T-Mobile's Application On April 14, 2010, Planning Department Director Townsend sent a letter to Greene advising T-Mobile that the Mayor and City Council had denied T-Mobile's request to construct a cell phone tower.
+The letter in its entirety states: Please be advised the City of Roswell Mayor and City Council denied the request from T-Mobile for a 108' mono-pine alternative tower structure during their April 12, 2010 hearing.
+The minutes from the aforementioned hearing may be obtained from the city clerk.
+Please contact Sue Creel or Betsy Branch at [phone number].
+If you have any additional questions, please contact me at [phone number].
+E. Procedural History On May 13, 2010, T-Mobile filed a complaint [**5] in district court alleging that the City's denial of its cell tower application was not supported by substantial evidence in the record and would effectively prohibit the provision of wireless service in violation of the Telecommunications Act of 1996 ("TCA").
+T-Mobile also sought an injunction compelling the City to grant it the requested permit.
+Following discovery, the parties filed cross-motions for summary judgment.
+On March 27, 2012, the district court granted T-Mobile's summary judgment motion, concluding that the City had violated the TCA, and denied the City's cross-motion.
+Specifically, the district court held that the City's short denial letter failed to satisfy the "in writing" requirement contained in 47 U.S.C. 332 (c)(7)(B)(iii) of the TCA.
+The statute requires that a state or local government's decision denying a request for a permit to erect a cell tower be "in writing and supported by substantial evidence contained in a written record."
+The district court limited its decision to the "in writing" requirement, stating that the City's violation of the "in writing" requirement rendered it unnecessary for the court to address the "substantial evidence" requirement or T-Mobile's argument that the City's decision would effectively prohibit T-Mobile from providing wireless service.
+The district court adopted a reading of the "in writing" requirement employed by several courts around the country.
+Under that reading, a separate written document delineating the specific reasons for the local government's decision is required to satisfy the "in writing" requirement of the TCA.
+The district court acknowledged that the record — here, the hearing transcript and minutes — gave some indication of the Council's rationale for denying the application.
+But then the district court concluded that on the whole, "[t]he written record .
+.
+.
+reflects a number of different reasons that may have motivated individual Council members to vote to deny T-Mobile's application but it is impossible for the Court to discern which of these reasons motivated the Council as a whole or commanded the support of a majority of the Council members."
+Thus, "[a]bsent some explanation of the rationale for the City Council's denial of T-Mobile's application," the district court stated that it was "left to review this voluminous record without any guidance as to what evidence the City Council found credible and reliable, what evidence it discounted or rejected altogether, and why."
+Consequently, the district court concluded that the City's denial did not satisfy the "in writing" requirement of the TCA.
+The district court issued a permanent injunction requiring the City to issue T-Mobile the requested permit.
+The district court stayed the injunction by a consent order dated May 4, 2012, pending the City's appeal.
+II.
+DISCUSSION A. The TCA's "In Writing" Requirement The issue in this appeal is whether the City's denial of T-Mobile's request for a permit complied with the "in writing" requirement of the TCA.
+The relevant statute provides: Any decision by a State or local government or [**6] instrumentality thereof to deny a request to place, construct, or modify personal wireless service facilities shall be in writing and supported by substantial evidence contained in a written record.
+47 U.S.C. 332 (c)(7)(B)(iii) (emphasis added).
+The City contends that its denial of T-Mobile's application satisfied the "in writing" requirement in 332(c)(7)(B)(iii) because the City's decision was reduced in writing in numerous forms, including the denial letter, hearing minutes, and hearing transcript.
+In response, T-Mobile argues that other circuit courts considering this question have concluded that the TCA requires both a written decision and a written record.
+Moreover, several courts have demanded that the written decision set forth the reasons for the denial.
+Thus, T-Mobile contends that the district court adopted the correct test for determining whether a local government's denial satisfies the "in writing" requirement, and the City's brief, three-sentence letter notifying T-Mobile of the denial of its permit application did not suffice under that test.
+[fn3] B. This Court's Intervening Decision in T-Mobile South, LLC v. City of Milton.
+At the time of the district court's order in this case, this Court had not addressed the meaning of the "in writing" requirement of 332(c)(7)(B)(iii) .
+But while this appeal was pending, this Court decided a substantially similar case in T-Mobile South, LLC v. City of Milton, Georgia , F.3d , 2013 WL 4750549 (11th Cir. Sept. 5, 2013).
+That case presented the very question raised here: did a city council comply with the "in writing" requirement set forth in 332(c)(7)(B)(iii) .
+City of Milton , [ 2013 BL 235743 ], 2013 WL 4750549, at *2.
+[fn4] In deciding this question in City of Milton , our Court adopted a plain reading of the statute.
+We held that "[t]he words of the statute we are interpreting require that the decision on a cell tower construction permit application be `in writing.'"
+Id .
+at *11.
+This Court reasoned that the statute does not say that "the decision [must] be `in a separate writing' or in a `writing separate from the transcript of the hearing and the minutes of the meeting in which the hearing was held' or `in a single writing that itself contains all of the grounds and explanations for the decision.'"
+Id .
+Therefore, we concluded that "to the extent that the decision must contain grounds or reasons or explanations, it is sufficient if those are contained in a different written document or documents that the applicant is given or has access to."
+Id .
+We added that "[a]ll of the written documents should be considered collectively in deciding if the decision, whatever it must include, is in writing."
+Id .
+This Court then concluded that the City of Milton had satisfied the "in writing" requirement because the written documents available to T-Mobile included: (1) transcripts of hearings in front of the planning commission and in front of the city council, which recounted the motions that were made and the reasons that were given for denying the applications; (2) the denial letters the City of Milton sent to T-Mobile regarding the two applications it denied; [fn5] and (3) "detailed minutes of the city [**7] council hearings, recounting all of the reasons for the action on each application along with the relevant discussion."
+Id .
+We noted that "T-Mobile had access to all of those documents before its deadline for filing the lawsuit."
+Id .
+We held that "collectively [these documents] are enough to satisfy the writing requirement of 332(c)(7)(B)(iii) ."
+Id .
+However, we added that under the facts in City of Milton , "we need not consider whether something less than or different from all of those documents would be enough."
+Id .
+In reaching its decision in City of Milton , this Court rejected the "pragmatic" reading of the "in writing" requirement employed by the district court in the instant case and by several of our sister circuits.
+Id .
+at *10.
+Those courts have required that a written denial must be "separate from the written record" and "must contain a sufficient explanation of the reasons for the permit denial to allow a reviewing court to evaluate the evidence in the record supporting those reasons."
+Sw. Bell Mobile Sys., Inc. v. Todd , 244 F.3d 51 , 60 (1st Cir. 2001); see also New Par v. City of Saginaw , 301 F.3d 390 , 395-96 (6th Cir. 2002) (requiring that the written decision be separate from the record, describe the reasons for the denial, and contain a sufficient explanation to allow a court to evaluate it against the evidence in the record); Metro PCS, Inc. v. City & Cnty. of San Francisco , 400 F.3d 715 , 721-23 (9th Cir. 2005) (requiring a written denial separate from the written record with sufficient explanation to allow for judicial review).
+Our Court, however, concluded that this expansive reading goes beyond "the judicial function."
+City of Milton , [ 2013 BL 235743 ], 2013 WL 4750549, at *10.
+Thus, in interpreting the words "in writing," we refused to "take a more `pragmatic, policy-based approach' than the plain meaning of those words take."
+Id .
+(citations omitted).
+C. Analysis of this Case in Light of our Decision in City of Milton .
+Given our interpretation of 332(c)(7)(B)(iii) in City of Milton , all that is left to do here is to analyze the facts of this case under the framework set forth in City of Milton .
+There are few, if any, distinctions between the two cases.
+As in City of Milton , the City of Roswell provided T-Mobile with a written letter clearly stating that the City Council had denied T-Mobile's request to build the proposed cell tower during the April 12, 2010 hearing.
+That same letter informed T-Mobile that "[t]he minutes from the aforementioned hearing may be obtained from the city clerk" and even provided T-Mobile with a contact to assist T-Mobile in obtaining the minutes.
+T-Mobile therefore had access to the written minutes of the City Council hearing where its request was denied.
+Like in City of Milton , the hearing minutes "recount[] all of the reasons for the action on [the] application along with the relevant discussion."
+[ 2013 BL 235743 ], 2013 WL 4750549, at *11.
+We note, however, that there were sixty-five pages of minutes in City of Milton, see id .
+at *7, compared to only ten pages of minutes in this case.
+But our analysis in City of Milton did not turn on the number of pages; instead, we focused on whether the reasons for the decision could be found in the minutes.
+Id .
+at *11.
+The minutes in this case summarize [**8] the testimony of experts and concerned citizens, along with comments and questions from councilmembers.
+The minutes also reflect the reasons given by Councilmember Dr. Betty Price in support of her motion to deny T-Mobile's request.
+They further indicate that two additional councilmembers seconded Dr. Price's motion and that the motion "passed unanimously."
+[fn6] T-Mobile received, or at least could have received, an even more detailed written account of the City Council's decision in the 108-page transcript of the April 12, 2010 hearing.
+While it is unclear whether T-Mobile hired the court reporter to transcribe the hearing (as it did in City of Milton, see [ 2013 BL 235743 ], 2013 WL 4750549, at *3), the record does indicate that the transcript was finalized and available on April 19, 2010, well before the 30-day time period for filing this lawsuit expired.
+See 47 U.S.C. 332 (c)(7)(B)(v) (stating that "[a]ny person adversely affected by any final action or failure to act by a .
+.
+.
+local government .
+.
+.
+that is inconsistent with [the TCA's "in writing" requirement] may, within 30 days after such action or failure to act, commence an action in any court of competent jurisdiction.")
+T-Mobile does not contend that it was unable to obtain a copy of the transcript before filing the instant lawsuit.
+In sum, T-Mobile in this case had the same "writings" it had in City of Milton : (1) a letter explicitly denying T-Mobile's request; (2) minutes summarizing the April 12, 2010 hearing and recounting the reasons for the denial; and (3) a verbatim transcript of the April 12, 2010 hearing during which the City Council denied the request.
+Under our analysis in City of Milton , we must conclude here that "collectively [these documents] are enough to satisfy the writing requirement of 332(c)(7)(B)(iii) ."
+[ 2013 BL 235743 ], 2013 WL 4750549, at *11.
+[fn7] Lastly, we reject T-Mobile's attempt to distinguish this case from our opinion in City of Milton .
+First, T-Mobile contends that "[f]undamental to the outcome in [City of] Milton was the clearly pre-written motion that was read into the record and reproduced in the minutes for each application."
+T-Mobile refers us to page four of our opinion in City of Milton , but we cannot find any indication there that the motions in City of Milton were indeed "pre-written" before the hearing.
+See [ 2013 BL 235743 ], 2013 WL 4750549, at *4.
+Nor do we believe that this supposed distinction would make a difference.
+The critical facts underlying our decision in City of Milton are that T-Mobile received a written denial and that the reasons for the denial could be gleaned from the written transcript and the written minutes of the hearing.
+Id .
+at *8.
+Our holding in City of Milton did not depend on whether the councilmember moving to deny the permit read from prepared notes or stated her reasons without the aid of a "pre-written document."
+Instead, what mattered in City of Milton was that the stated reasons were captured in a written document, such as the transcript or the minutes of the hearing.
+Second, T-Mobile suggests that the reasons offered by Councilmember Dr. Price in support of her motion to deny the request were "[u]nlike the pre-written motions read into the record" [**9] in City of Milton because "Councilmember Price's statement reflects her impromptu opinion."
+This Court's opinion in City of Milton quoted the reasons stated in support of the councilmember's motion in that case, see [ 2013 BL 235743 ], 2013 WL 4750549, at *4, as we did earlier in this opinion.
+After comparing the reasons stated in support of the respective motions, we reject the contention that the manner in which Dr. Price stated her reasons in this case is materially different from her counterpart's statements in City of Milton .
+While the reasons offered in support of the respective motions may have been different, our analysis of the "in writing" requirement in City of Milton relied neither on the merits of the stated reasons nor on the eloquence of the councilmember.
+III.
+CONCLUSION For the reasons set forth above, we reverse the district court's grant of summary judgment and remand for further proceedings.
+REVERSED AND REMANDED .

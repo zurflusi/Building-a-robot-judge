@@ -1,0 +1,179 @@
+ COFFIN , Circuit Judge.
+This is an appeal by the Environmental Protection Agency (EPA) from the district court's dismissal of its enforcement action under the Clean Air Act, 42 U.S.C. 7401 et seq.
+, against appellee General Motors.
+The case requires us to answer two statutory questions.
+First, does the four-month time limit for EPA action on original state implementation plans (SIPs) also apply to the Agency's review of proposed revisions to existing state plans.
+Second, assuming the EPA must complete its review of SIP revisions within four months, does its failure to do so prevent it from enforcing an existing state implementation plan during the interval between the end of the four-month period and the time the agency finally rules on the revision.
+I The Clean Air Act During the 1950s and 1960s, the responsibility for improving the nation's air quality fell to the states, with the federal government playing only a minor role.
+Over the years, however, there was growing dissatisfaction with the states' effort to combat air pollution.
+Congress responded with the 1970 Amendments to the Clean Air Act (the Act).
+Although the Amendments greatly increased the federal government's role, they by no means eliminated the states' responsibility for improving air quality.
+To the contrary, the Act expressly preserved the principle "that the prevention and control of air pollution at its source is the primary responsibility of States and local governments " 101(a)(3) , 42 U.S.C. 7401(a)(3) .
+See Train v. Natural Resources Defense Council , 421 U.S. 60, 64 , 95 S.Ct. 1470, 1474 , 43 L.Ed.2d 731 (1975).
+Thus, the states and the federal government were now to be partners in the continuing fight against air pollution.
+The division of responsibility is straightforward and logical.
+The EPA, the federal agency charged with administering the Act, has the task of establishing National Ambient Air Quality Standards (NAAQS).
+The states then have the responsibility of submitting for EPA approval state implementation plans (SIPs) designed to achieve and maintain these uniform standards.
+110(a)(1) .
+By giving the EPA authority to set threshold standards and to reject implementation plans that are ill-designed to achieve and maintain such standards, Congress ensured that states could not compete unfairly for industry by offering lenient air requirements.
+See Duquesne Light v. EPA , 698 F.2d 456, 471 (D.C.Cir.1983); United States v. Ford Motor Co. , 814 F.2d 1099, 1102 (6th Cir.1987).
+At the same time, however, Congress believed it important that the states retain wide latitude in choosing how best to achieve national standards, given local needs and conditions.
+The EPA, therefore, may not reject a SIP unless it finds that the plan fails to satisfy the substantive requirements set out in the Act, the principal one of which is that the plan be designed to attain national standards as quickly as practicable.
+110(a)(2) (A)-(K).
+"[S]o long as the ultimate effect of a State's choice of emission limitations is compliance with the national standards for ambient air, the State is at liberty to adopt whatever mix of emission limitations it deems best suited to its particular situation."
+Train , 421 U.S. at 79 , 95 S.Ct. at 1481 .
+Congress also recognized that, because of advances in technology and changing local conditions, states would occasionally wish to revise their original implementation plans.
+The EPA may reject these SIP revisions, but its authority to do so is no greater than its authority to reject an original SIP.
+A state's proposed revision must be approved, therefore, unless it fails to satisfy one of the requirements set out in 110(a)(2) governing the evaluation of original SIPs.
+110(a)(3) (A).
+Once an original or revised SIP is approved by the EPA, it becomes federal law and is enforceable in one of two ways.
+Under either method, the first step is for the EPA to issue a Notice of Noncompliance.
+If the violation continues and the EPA cannot through negotiations reach some agreement with the polluting source, the Agency may enforce the SIP either by issuing an administrative order under 120 or by instituting an enforcement action under 113 , which provides for injunctive relief as well as for civil penalties of up to $25,000 per day.
+Criminal penalties for knowing violations are also authorized.
+113(c) .
+Under 120 , the administrative mechanism, fines begin to accrue upon the issuance of a Notice of Noncompliance and are intended to offset the economic benefit to the company of delaying compliance.
+See Duquesne Light , 698 F.2d at 464 .
+Under 113 , the mechanism employed in this case, the EPA must bring an enforcement action in the district court to collect penalties.
+The court is given the responsibility of determining the amount of penalties to assess, taking into consideration such factors as the seriousness of the violation and the economic impact of the penalty on the business.
+113(b) .
+Given the sense of urgency with which the 1970 Amendments were passed, it is not surprising that Congress did not leave the states and EPA free to work at their own pace in accomplishing these tasks.
+The Act is laced with deadlines applicable to both the states and the Agency.
+Of concern to us here are the deadlines for EPA review of state implementation plans.
+It is undisputed that the EPA must complete its review of original SIPs within four months.
+110(a)(2) ("The Administrator shall, within four months , approve or disapprove [original SIPs]").
+Unlike 110(a)(2) , however, 110(a)(3) (A), which governs EPA review of SIP revisions, does not contain language explicitly imposing a four-month deadline on the Agency.
+Whether Congress nevertheless intended for the Agency to complete its review of SIP revisions within four months is the question giving rise to the instant dispute.
+The Massachusetts SIPs General Motors owns and operates an automobile assembly plant in Framingham, Massachusetts.
+The plant's painting operation is the source of volatile organic compounds (VOCs), which contribute to ozone.
+In 1980, the EPA approved a Massachusetts SIP governing VOC emissions from automobile painting operations.
+The plan permitted GM, which operates the only automobile assembly plant in the state, to meet emission limits in stages, but required full compliance by December 31, 1985.
+In 1981, the EPA published a policy statement in which it noted that advancing technology now made it practicable for automobile painting operations to switch from lacquer paints to lower-emitting base-coat/clearcoat enamel systems (BC/CC).
+In light of these developments, the Agency stated that it would be willing to approve SIP revisions deferring compliance with emissions limits until 1986 or 1987 for companies wishing to switch to the BC/CC system.
+Although GM's Framingham plant used lacquer paints, the company took no immediate action in response to the EPA's offer.
+GM did request revisions, however, for three of its assembly plants in other states within ten days of the EPA's statement.
+Three years later, in November of 1984, GM decided that it now wished to defer the December 31, 1985 compliance date imposed by the existing Massachusetts SIP.
+The proposed revision it submitted to the Commonwealth did not call, however, for a conversion to BC/CC technology, but rather requested a deferral to give the company additional time to install emission controls on its existing lacquer coating lines.
+In June of 1985, GM changed course and finally proposed converting the Framingham plant to BC/CC by the summer of 1987, which would give it an additional 20 months to meet the final emission limits.
+The Commonwealth approved the revision and submitted the proposal to the EPA on December 30, 1985--one day before the existing SIP's final compliance deadline.
+The Enforcement Proceedings Rather than wait for EPA approval of its proposed revision, GM began construction on a new BC/CC painting facility while at the same time continuing to operate its lacquer plant.
+EPA Region I, the branch of the Agency responsible for evaluating SIP revisions from New England states, began reviewing the proposal while also entering into negotiations with the Commonwealth and GM in the hope of resolving GM's noncompliance with the existing SIP's deadline by means of a delayed compliance schedule.
+1 On July 2, 1986, with negotiations apparently having failed, Region I sent to EPA headquarters a proposal to disapprove the revision.
+On August 14, 1986, EPA issued a Notice of Violation to GM concerning violations of the existing SIP by the company's lacquer plant--a prerequisite to the bringing of an enforcement action.
+Later that year, on December 2, EPA published a proposed disapproval of the Commonwealth's SIP revision based on Region I's July 2 evaluation.
+The proposed disapproval explained in detail why the Agency was considering rejecting the revision and invited public comment.
+The feedback EPA received apparently did not convince Region I that its initial view had been misguided and on June 30, 1987, it recommended to EPA Headquarters that the proposed revision be rejected.
+Roughly two months later, on August 17, the EPA brought this enforcement action against GM under 113 of the Act for alleged violations of the existing SIP's 1985 deadline.
+It was not until over a year later, on September 4, 1988, that the Agency made its final decision, to reject the revision.
+By that time, the district court had dismissed EPA's enforcement action and GM had closed its lacquer plant in favor of its recently completed base-coat/clearcoat facility, which GM points out was in operation well before the August 1987 deadline set by the rejected SIP revision.
+2 The Agency's decision was published on September 16, 1988, the day briefs were filed in this court.
+The District Court's Decision The district court began by construing 110(a)(3) (A) of the Act to impose a four-month time limit on EPA review of SIP revisions.
+Noting that the Agency still had not made a final decision on the Commonwealth's SIP revision, the court went on to address the consequences of EPA's failure to meet the four-month deadline.
+After examining the Act's structure and purposes, the court concluded that if the Agency failed to complete its review within four months, it was barred from enforcing the existing SIP during the interval between the end of the four-month period and the time EPA finally acts on the revision.
+Because the EPA had not issued a Notice of Noncompliance until well after the four-month period had lapsed and had yet to make a final decision on the Commonwealth's SIP revision, the court held that fines could not be assessed, and consequently, that the Agency's enforcement action should be dismissed.
+The court believed this rule necessary to ensure that the EPA did not sit on SIP revisions and thereby exclude the states from the regulatory process once the initial SIPs were in place.
+Barring the Agency from enforcing an existing SIP until it ruled on proposed revisions would, in the court's view, provide the EPA with sufficient incentive to conclude its review within the four-month period.
+The court recognized that the Act's primary purpose was to improve the nation's air quality.
+It concluded, however, that the public need not suffer under this rule because the "EPA always holds the ultimate trump card [and] may at any time during or after the allowed four month period reject the proposal and invoke enforcement proceedings under the original SIP."
+In the court's view, then, its rule struck the appropriate balance under the Act, preserving the states' ability to tailor regulatory standards to their local needs, while at the same time allowing the EPA to continue protecting the public.
+II The threshold question is whether the Act imposes a four-month deadline on EPA review of SIP revisions.
+It is undisputed that the Agency must complete its evaluation of original SIPs within four months.
+Section 110(a)(2) , which applies to original SIPs, states: Section 110(a)(3) (A), which governs EPA review of SIP revisions, does not contain this four-month language: 110(a)(2) GM contends, however, that the reference to 110(a)(2) was intended to incorporate both the substantive and procedural requirements of that provision.
+The Commonwealth, in its capacity as amicus, agrees with this reading of the Act.
+The EPA, on the other hand, argues that the word "it" in 110(a)(3) (A) clearly refers to the SIP revision, and not the Administrator, and therefore, that 110(a)(3) (A) can fairly be read to incorporate only paragraph two's substantive standards and not the four-month rule as well.
+Both sides further contend that the Act's structure and legislative history support their interpretation.
+GM stresses that while the fundamental purpose of the Act is to improve the nation's air quality, Congress made it clear that the states were to play an integral and continuing role in determining how best to achieve this goal.
+That the states' local interests, economic and otherwise, were to be considered in devising the regulatory framework is evident from Congress' decision to limit the EPA's discretion to reject a state plan.
+That the states' role was not to decrease after the initial regulatory framework was in place is clear from the fact that Congress not only provided the states with a means of revising their original plans, but also by the fact that the Act gives the Agency no more discretion to reject a SIP revision than to reject an original SIP.
+GM claims that by taking nearly three years to issue a final decision, as it did in this case, the EPA has given itself what amounts to a "pocket veto" over SIP revisions, allowing it to frustrate the states' developing policy choices for no reason or any reason, a power the Agency clearly does not have under the Act.
+Moreover, it adds, without prompt action by the Agency, companies are left in limbo, unable to plan their future activities with any certainty.
+In this case, GM says it was forced to choose between continuing to operate a technologically outdated system or beginning construction on a new, lower-emitting plant, risking EPA disapproval down the line.
+The EPA does not dispute that the Act contemplates continuing participation by the states.
+It argues, however, that a four-month deadline is unnecessary to ensure this ongoing participation.
+As long as the Agency is under a general duty to act without unreasonable delay, which it concedes it is, the states' role will be preserved.
+Where Congress believed that a more specific deadline was needed, it expressly said so.
+It makes sense in the Agency's view that Congress imposed a four-month deadline on EPA review of original SIPs because it was concerned with getting the basic regulatory framework in place as quickly as possible.
+According to the Agency, this abbreviated time frame was feasible only because much of the groundwork for the original SIPs had been done prior to the start of the four-month period.
+Once the initial pollution controls were in place, however, the EPA believes Congress did not intend for it to continue working at such a hectic pace.
+Moreover, it simply is not possible, the Agency argues, for it to review every SIP revision within four months without sacrificing competing priorities.
+We begin by stating that we do not believe this is an appropriate issue on which to defer to the Agency.
+We concede that there is some doubt as to Congress' intentions, but the mere existence of ambiguity is not reason enough in our view to defer.
+Congress did not use inherently broad language here suggesting that it intended for the EPA to fill in the gaps, nor is there any other indication that Congress wished to delegate interpretive authority to the Agency on this issue.
+Moreover, we think it dangerous to defer in a situation such as this where the Agency has a substantial institutional interest in not imposing constraints on itself.
+The question admittedly is a close one, but on balance we believe GM's (and the Commonwealth's) reading of the Act is the correct one.
+Congress clearly was concerned with preserving the states' ability to tailor SIPs to local needs and conditions and, just as plainly, did not care what controls states chose, so long as they were designed to reduce emissions to nationally acceptable levels.
+The states' freedom to make such choices obviously is curtailed to the extent that SIPs must be consistent with federal standards.
+It seems unlikely, however, that Congress also intended for the states' legitimate policy choices to be held hostage to the EPA's schedule.
+We conclude, therefore, that the four-month deadline was meant to apply to EPA review of SIP revisions as well as to EPA review of original SIPs.
+This conclusion is in line with the views of all but one of our sister circuits.
+See Duquesne Light , 698 F.2d 456, 471 (D.C.Cir.1983) (four-month deadline); American Cyanamid Co. v. U.S.E.
+P.A.
+, 810 F.2d 493, 495 (5th Cir.1987) (same); Council of Commuter Organizations v. Thomas , 799 F.2d 879, 888 (2nd Cir.1986) (same); but see United States v. National Steel Corp. , 767 F.2d 1176, 1182 n. 1 (6th Cir.1985) (no four-month rule, but arguably dicta).
+We add that by imposing a four-month deadline on the EPA, we avoid the possibility that the Agency would have assigned a lower priority to SIP revisions from First Circuit states than to those from states in circuits that had imposed a deadline.
+III The question that remains is what consequences should flow from the Agency's failure to observe the four-month deadline.
+The two circuits that have addressed the issue, the Fifth and the D.C., have taken extreme and directly contrary approaches.
+The district court adopted the Fifth Circuit's rule in American Cyanamid Co. v. U.S.E.P.A.
+, 810 F.2d 493 (5th Cir.1987), and held that if the Agency misses the statutory deadline, it is barred from collecting penalties under the existing SIP for the interval between the end of the four-month period and the time the agency finally rules on the revision.
+The Fifth Circuit believed this rule necessary because without the prospect of an enforcement bar looming over the review process, there simply would be too little incentive for the Agency to comply with the four-month time limit.
+The court stressed that its holding was based on "the importance of the EPA acting, not for the benefit of American Cyanamid, but for the benefit of the State of Louisiana which is by statute designated to play a significant cooperating role with the EPA."
+Id. at 500 .
+In reaching this result, the American Cyanamid court discussed at length the contrary approach adopted by the D.C.
+Circuit in Duquesne Light , 698 F.2d 456 .
+Rather than bar the Agency from enforcing an existing SIP, the D.C.
+Circuit concluded that after four months, the penalty should be held in abeyance pending the Agency's final decision on the proposed revision.
+If the revision is ultimately rejected, penalties may be assessed retroactively, with interest, for the entire period after the deadline.
+The Fifth Circuit rejected this rule on the ground that it gives the Agency little or no incentive to conclude its review within the statutory time limit because, no matter how long the Agency procrastinates, it knows that it may collect full penalties if the revision is ultimately rejected.
+American Cyanamid , id, 810 F.2d at 499 .
+There is no question that the Fifth Circuit's rule provides the Agency with the greatest incentive to complete its review within four months.
+Were we certain that with the incentive of an enforcement bar, the Agency not only would review every SIP revision within four months, but could do so in a thorough and complete manner without sacrificing equally important congressional objectives, we would be willing to consider such a remedy.
+But far from being certain that the Agency could accomplish this task, we think it likely that the Agency frequently will need longer than four months to issue a considered ruling, and will therefore miss the deadline even with the incentive of an enforcement bar.
+The EPA adds that if the Agency's failure to meet the four-month deadline automatically resulted in an enforcement bar, states might simply flood the Agency with disingenuous SIP revisions at the behest of influential companies, thereby ensuring that the bar was triggered.
+Although we recognize that Congress was concerned with the possibility of states placing their local interests above the goal of pure air, we find it unnecessary here to invoke the specter of states employing unsavory tactics.
+We think that even with the submission of only good-faith proposals, the EPA inevitably will often miss the deadline.
+Given this practical reality, we are left with the question of whether the additional incentive provided by the Fifth Circuit's rule and the resulting benefit to the states of hurried EPA action outweighs the harm done to the general public by prohibiting enforcement actions in those inevitable instances when the Agency fails to meet its deadline.
+Because we believe that the Clean Air Act sets up a hierarchy of priorities in which the goal of improving the nation's air plainly takes precedence over the states' interests in protecting its local industry, we opt for a remedy short of an automatic bar.
+In our view, an enforcement bar simply is too drastic.
+If the EPA cannot enforce existing standards, it is the public and not the EPA that is hurt.
+It does not matter why the EPA failed to meet the time limit--the public is hurt by an enforcement bar regardless of the reason for the Agency's tardiness.
+We agree with the Fifth Circuit, however, that the D.C.
+Circuit's rule appears to err on the other end by giving the Agency too little incentive to act in a timely manner.
+Accordingly, we have attempted to steer a middle course between these two extremes, one which permits trial courts to take account of the circumstances of each case and hopefully accommodate both the states' needs and the public's desire for clean air.
+The remedy we suggest is twofold.
+First, if in a company's view the EPA is taking too long to review a proposed revision, the company may at any time after the end of the four-month period bring suit in the district court under 304(a)(2) of the Act to compel agency action.
+42 U.S.C. 7604(a)(2) .
+See Council of Commuter Organizations , 799 F.2d at 888 (2nd Cir.1986).
+The district court should assess the Agency's reasons for not complying with the four-month time limit and take such action as it deems reasonable.
+The court should not, of course, equate the Agency's failure to meet the four-month time limit with Agency unreasonableness.
+To do so would be tantamount to adopting the Fifth Circuit's automatic bar rule.
+Rather, the court should evaluate the circumstances of each case, with the failure to observe the four-month deadline being one factor to consider--a rough guidepost.
+In some cases, the court undoubtedly will find that four months is sufficient and in others, it will be clear that the Agency could not reasonably have met the deadline.
+We note that in this case, despite the clear availability of this remedy, GM did not bring an action to compel the Agency to act.
+The second remedy for EPA delay is of the same nature.
+When the Agency brings an enforcement action under 113 , the district court has the responsibility for determining the amount of penalties to assess.
+The Act expressly permits the court to "take into consideration (in addition to other factors) the size of the business, the economic impact of the penalty on the business, and the seriousness of the violation."
+113(b) .
+The EPA agrees that, among these "other factors," the court may consider the reasonableness of the Agency's delay and the prejudice, if any, suffered by the company as a result.
+If, for example, a trial court finds that the review process should have taken ten months rather than two years, it may decline to award penalties for the fourteen months of unwarranted delay.
+Accordingly, if on remand in this case, the district court finds that GM was prejudiced by the Agency's lengthy review and that the delay was not justified or that some portion of the delay was not justified, it may reduce the penalties in a manner it sees fit.
+3 We think that giving the district court the power to adjust the penalties will provide the Agency with the necessary incentive to act without unreasonable delay.
+4 To have chosen the more drastic remedy of an enforcement bar and thereby place the states' interests over the public's, we would have needed some indication from Congress that the public was to bear the brunt of the Agency's failure to observe a deadline.
+As the Supreme Court reiterated in Brock v. Pierce County , 476 U.S. 253 , 106 S.Ct. 1834 , 90 L.Ed.2d 248 (1986), "the great principle of public policy, applicable to all governments alike, forbids that the public interests should be prejudiced by the negligence of the officers or agents to whose care they are confided."
+Id. at 260 (internal quotes omitted).
+We find it significant that not even the Commonwealth argues for an enforcement bar, thus recognizing that its interests occasionally must yield to the overriding goal of improving our nation's air.
+Hopefully the remedies we provide will induce prompt EPA action and thus ensure that the interests of the states need not yield too far.
+GM claims that an enforcement bar is necessary, however, not only to induce timely action by the Agency, but also to protect the integrity of the review process.
+Citing this case as a particularly egregious example, it argues that when the Agency brings an enforcement action prior to issuing its final decision, the possibility exists that the Agency will reject the proposal for the sole purpose of supporting its pending enforcement action.
+We think this argument proves too much.
+If the Agency were to initiate an enforcement proceeding under the existing SIP after two months and then reject the proposed revision one month later but within the four-month time limit, GM still could argue that the Agency rejected the revision in order not to undermine its enforcement proceeding.
+Thus, the potential for Agency bias results not from the Agency's failure to complete its review within four months but from Congress' decision to assign the EPA the responsibility for both reviewing plans and enforcing them.
+To the extent, then, that this is a potential problem in all cases, we are not overly concerned.
+Congress expressly provided companies with a means of challenging final Agency decisions in the courts of appeals.
+See 307(b)(1) .
+Apparently GM has availed itself of this remedy and we are confident that if the Commonwealth's revision was denied for improper reasons, the court will take appropriate action.
+5 Finally, GM raises a number of issues concerning the equities of this case.
+It claims, among other things, (1) that the company relied on the Agency's 1981 policy statement in deciding to convert its plant to BC/CC technology; (2) that its decision to wait until June of 1985 to propose the conversion was not made in bad faith; and (3) that the public was not harmed because its present system is environmentally superior.
+On the record before us, we simply have no way of assessing the validity of these claims, nor is it important that we do so.
+This appeal required us to interpret the Act and devise a generally applicable rule.
+Because these final claims are peculiar to the instant case and do not raise systemic issues suggesting the superiority of one rule or another, they need not concern us here.
+GM is of course free to raise them before the district court.
+Indeed, we have declined to adopt an inflexible rule precisely so that the equities of each case may be considered.
+6 Reversed and remanded for further proceedings not inconsistent with this opinion .

@@ -1,0 +1,90 @@
+ MESKILL , Circuit Judge: Sheldon Bufferd appeals from a decision of the United States Tax Court imposing a tax deficiency on him for the year 1979.
+The sole issue on appeal is whether the Commissioner of Internal Revenue (Commissioner) timely assessed the deficiency.
+The tax court held that the Commissioner was not barred by the limitation provision of the Internal Revenue Code.
+We affirm.
+BACKGROUND In 1979 Sheldon B. Bufferd was a shareholder in Compo Financial Services, Inc., an electing small business corporation under Subchapter S of the Internal Revenue Code.
+26 U.S.C. 1371 et seq.
+(1954 Act) (unless otherwise noted, all references are to the Internal Revenue Code of 1954 as amended and effective during the years in issue).
+Bufferd and Compo were two of several partners in a venture known as Printer's Associates (Printer's).
+Printer's reported substantial losses in 1979 arising from a failed investment in a new technology.
+Compo reported a loss from the Printer's partnership on its 1979 small business corporation income tax return.
+Bufferd and his wife filed a joint income tax return in 1979.
+In that return they reported a loss from the Printer's partnership.
+The Bufferds also reported their distributive share of Compo's loss on their 1979 return.
+In March 1983 the Bufferds and a representative of the Commissioner executed a form entitled "Special Consent to Extend the Time to Assess Tax" (Form 872-A).
+The document provided that, regardless of the statute of limitations, the Commissioner could assess income tax due on the Bufferds' 1979 return at any time prior to ninety days after revocation of the consent by the Bufferds.
+The document contained a proviso limiting any such deficiency assessment to that resulting from adjustments to the Bufferds' distributive share from, basis in or sale of any interest in "any partnership (or any organization treated by the taxpayer as a partnership on the taxpayer's return)."
+The Bufferds never revoked the consent to the extension of time.
+Compo never assented to an extension of time to assess the tax due for 1979.
+The Commissioner subsequently determined that the losses reported by Printer's were improper.
+The Commissioner thus made adjustments to the Bufferds' 1979 return by disallowing the partnership loss.
+The Commissioner also adjusted Compo's return to reflect the disallowance of Printer's losses.
+Bufferd's distributive share from Compo was thus altered from a $500 loss to a $1,418 gain.
+Bufferd's wife settled separately with the Commissioner following her divorce from petitioner.
+Bufferd ultimately agreed to the deficiency assessed by the Commissioner to the extent of the disallowance of the direct partnership loss.
+Bufferd argued, however, that the Commissioner could not assess a deficiency with regard to the Compo adjustment because the statute of limitations had run with respect to Compo's tax liability.
+The tax court determined that the Form 872-A executed by petitioner defeated Bufferd's statute of limitations defense.
+Thus the tax court ordered Bufferd to pay the full amount of the deficiency.
+Bufferd appeals that decision.
+DISCUSSION Bufferd contends that the Commissioner could not properly have made any adjustments to his return that result from adjustments to Compo's return because the limitations period with respect to Compo had expired and no extension of that period had been executed.
+The Commissioner urges that we affirm the tax court, which held that the relevant limitations period for purposes of assessing the tax due on the Bufferds' 1979 joint return was the period directly associated with that return.
+We agree with the Commissioner and the tax court on this point.
+26 U.S.C. 6501(a) provides the limitations period for the assessment of taxes.
+That section provides in pertinent part that "the amount of any tax imposed by this title shall be assessed within 3 years after the return was filed."
+An exception to this limitations period is provided where the Secretary and the taxpayer consent in writing to an extension of time.
+26 U.S.C. 6501(c)(4) .
+At the heart of this dispute is the meaning of the word "return" in section 6501(a) .
+The Commissioner claims that that term refers to the return of the taxpayer against whom the Commissioner has imposed the deficiency.
+Bufferd claims that, in the context of a gain or loss resulting from an adjustment to the return of an S corporation, the return of the S corporation is the relevant return.
+We recently addressed the meaning of "return" in section 6501(a) .
+In Siben v. C.I.R.
+, 930 F.2d 1034 (2d Cir.1991), cert. denied , U.S. , 112 S.Ct. 429 , 116 L.Ed.2d 449 (1991), the Commissioner had made an adjustment to an individual partner's return based on alterations to the partnership return.
+The taxpayer argued that because the statute of limitations had run with respect to the partnership, the Commissioner was barred from adjusting the individual partner's distributive share of the partnership's income.
+We stated that 6501(a) Id. at 1035 .
+Bufferd argues that because the "third person or entity" at issue here is an S corporation rather than a partnership, Siben is inapplicable.
+Bufferd points to 26 U.S.C. 6037 , which states in pertinent part that a return filed by an S corporation "shall, for purposes of chapter 66 (relating to limitations) [and containing section 6501(a) ], be treated as a return filed by the corporation under section 6012 ."
+The statute that requires partnerships to file returns, 26 U.S.C. 6031 , has no similar provision relating to the effect of those returns on the limitations period.
+Bufferd urges that in interpreting the effect of section 6037 on section 6501(a) we adopt the reasoning of Kelley v. C.I.R.
+, 877 F.2d 756 (9th Cir.1989).
+In Kelley the Ninth Circuit held that those sections bar the Commissioner from adjusting a shareholder's return based on an adjustment to an S corporation's return when the limitations period has run on the S corporation's return.
+Id. at 759 .
+The court noted that section 6501 barred any adjustments to corporate returns after the limitations period.
+Section 6037 mandates that S corporation returns be treated as corporate returns for purposes of limitations.
+Therefore, reasoned the Kelley Court, returns of S corporations could not be adjusted in any way after the limitations period had run.
+We disagree with Kelley's interpretation of section 6501(a) .
+That section bars only the assessment of a tax on an entity more than three years after the entity has filed a return.
+Section 6501(a) does not bar adjustments to an entity's return that do not result in a tax assessment on that entity.
+An adjustment to the return of an S corporation that does not impose tax liability on that S corporation is not barred by sections 6501(a) and 6037.
+Bufferd argues that if we do not interpret section 6037 as he proposes we will effectively eliminate that section from the statute.
+We disagree.
+Section 6037 provides the limitations period for organizations that file returns as S corporations but are nonetheless required to pay some tax on the organization's income.
+For example, if an organization was not entitled to elect to become an S corporation, any tax on the organization's income as a normal corporation must be assessed within three years of the filing of the S corporation return.
+Fehlhaber v. C.I.R.
+, 94 T.C. 863 (1990) (quoting S.Rep.
+No. 1983, 85th Cong. 2nd Sess.
+(1958), 1958-3 C.B.
+922, 1147).
+In this respect the final phrase in section 6037 performs for S corporations a function similar to that performed by section 6501(g) for trusts, exempt organizations and Domestic International Sales Corporations.
+Moreover, valid S corporations on occasion are required to pay tax on certain types of income.
+See 26 U.S.C. 1374 (imposing tax on certain capital gains by S corporations).
+Section 6037 provides that in such cases the filing of an S corporation return triggers the limitations period for imposition of this direct tax against the S corporation.
+Section 6037 therefore retains ample meaning even bereft of the interpretation proposed by Bufferd.
+Bufferd also argues that if the limitations period of the S corporation does not govern the assessment of tax on a shareholder's distributive share derived from that S corporation, the taxpayer will be unable to defend itself effectively against any deficiency imposed by the Commissioner.
+Bufferd argues that the S corporation could destroy the books and records necessary for such a defense after its limitations period had passed.
+In Siben we held that "a taxpayer can generally protect himself by taking steps to ensure that the partnership preserves records needed to support the partnership item claimed on the individual partner's return."
+930 F.2d at 1037 .
+We believe that a shareholder of an S corporation can take similar protective steps with regard to the S corporation records needed to support the S corporation items claimed on the shareholder's return.
+We find the words of section 6501(a) clear and unambiguous.
+Barring an exception, if the Commissioner wishes to assess a tax on an entity, he must do so within three years after the filing by that entity of the return on which the tax should have been reported.
+We do not believe that section 6037 can fairly be read in the manner proposed by Bufferd.
+The relevant return for purposes of section 6501(a) is Bufferd's joint return rather than Compo's S corporation return.
+The Form 872-A executed in March 1983 by the Bufferds gave the Commissioner the power to assess income tax due on the Bufferds' 1979 return any time prior to ninety days after Bufferd terminated the consent.
+The printed form also contains a typewritten proviso that limits any deficiency assessment to that resulting from adjustment to the Bufferds' distributive share from, basis in, or sale of any interest in "any partnership (or any organization treated by the taxpayer as a partnership on the taxpayer's tax return)."
+1 Compo Financial Services, Incorporated, was not a partnership and Bufferd did not treat it as a partnership on his 1979 joint return.
+The extension granted the Commissioner by Bufferd does not by its terms reach the assessment of taxes resulting from an adjustment to Bufferd's distributive share from Compo.
+However, Bufferd did not raise this theory before the tax court.
+In fact, Bufferd arguably waived this argument through the stipulations filed before the tax court.
+Because of these considerations, and because Bufferd did not press this argument on appeal, even after a request for additional briefing on the issue by this Court, we do not reach that issue.
+We consider the extension applicable to the income at issue here.
+CONCLUSION We agree with the tax court that the relevant return for purposes of determining the statute of limitations is the return of the taxpayer against whom the tax is sought.
+We therefore affirm the judgment of the tax court.

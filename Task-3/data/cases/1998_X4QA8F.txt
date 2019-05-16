@@ -1,0 +1,241 @@
+ KEARSE , Circuit Judge.
+Defendant State of Vermont Agency of Natural Resources (the "Agency" or the "State") appeals from an order of the United States District Court for the District of Vermont, J. Garvan Murtha, Chief Judge , denying the State's motion to dismiss the present qui tam suit brought by Jonathan Stevens on behalf of the United States under the False Claims Act, 31 U.S.C. 3729 et seq.
+(1994) ("FCA" or the "Act"), for lack of subject matter jurisdiction.
+The district court ruled that the State is a "person" within the meaning of 3729(a) and is thus subject to suit under the Act, and that such suits are not barred by the Eleventh Amendment .
+The State challenges these rulings on appeal.
+For the reasons set forth below, we affirm.
+I. BACKGROUND At all relevant times, the Agency was a recipient of federal funds, and Stevens was an employee of the Agency.
+Stevens commenced this action as a qui tam suit under the FCA for himself and the United States, alleging that the Agency had made fraudulent claims against the United States.
+The allegations of the complaint, taken as true for purposes of the State's motion to dismiss, include the following.
+A. The Complaint The Agency, through its Department of Environmental Conservation ("DEC") and a DEC subdivision called the Water Supply Division ("WSD"), was the recipient of a series of federal grants administered by the United States Environmental Protection Agency ("EPA") under, inter alia , the Clean Water Act, 33 U.S.C. 1251 et seq.
+, and the Safe Drinking Water Act, 42 U.S.C. 300f et seq .
+These grants, which substantially funded WSD's budget, provided federal funds to pay for, inter alia , salary expenses for work performed by WSD employees in connection with the grants.
+As a recipient of these funds, the Agency was subject to certain reporting requirements, including the requirement that it submit time and attendance records reflecting the hours actually worked and the work actually performed by the pertinent individual employees.
+The complaint alleges that DEC instead made advance estimates of the federal-grant-attributable time to be worked by individual WSD employees in a given federal fiscal year and instructed those employees to fill out their biweekly reports, purporting to show actual work done, to match DEC's estimates, regardless of the time actually worked: "[e]mployees of DEC did not work the hours which were arbitrarily assigned to them, nor did they record the hours they actually worked" (Complaint ¶ 36).
+The complaint alleges that the Agency thus "knowingly and continuously submitted false claims to EPA for salary and wage expenses of its employees purporting to show that employees were working on federally-funded projects when, in fact, they were not working the hours as reported."
+( Id. ¶ 39.)
+This allowed the Agency to retain funds to which it was not entitled for a given year.
+In addition, because DEC reported each year that all of the federal grant moneys received had been properly used, and proceeded to submit new grant requests using estimates based on the previous year's reported spending level, the false reports for a given year enabled the Agency to maintain or increase its funding in each succeeding fiscal year.
+Stevens and other DEC employees complained to their supervisors that the biweekly reports that DEC instructed the employees to fill out were not accurate and that the reported hours were not being worked.
+Management instructed them to continue in accordance with DEC's prior instructions.
+The complaint also alleges, on information and belief, that a similar course of action was followed in several DEC subdivisions other than WSD.
+Stevens commenced the present suit in May 1995.
+As required by the Act, see Part II.A.
+below, he filed the complaint in camera and under seal, without serving it on the State, and served a copy, together with material evidence supporting it, on the United States (the "government") in order to allow the government to investigate the allegations and to decide whether it wished to intervene.
+In June 1996, having sought and received several extensions of time in which to make that decision, the government filed notice that it declined to intervene.
+It requested, however, that it be served with copies of all pleadings filed in the case; it reserved the right to order transcripts of depositions; and it expressly reserved the right to intervene against the State, for good cause shown, at a later time.
+The government also requested that it be given notice and an opportunity to be heard in the event that Stevens or the State sought to have the action dismissed, settled, or otherwise discontinued.
+In July 1996, the district court ordered that the complaint be unsealed and served on the State.
+B. The Denial of the State's Motion To Dismiss In March 1997, the State moved to dismiss the complaint for lack of jurisdiction, contending (1) that states and their instrumentalities (collectively "States") are not "person[s]" under 3729(a) who are subjected to suit or liability by the terms of the Act, and (2) that, in any event, the imposition of such liability on the States would violate the Eleventh Amendment .
+Stevens opposed the motion and was supported by the United States as amicus curiae .
+In an Order dated May 9, 1997 ("Order"), the district court denied the motion to dismiss.
+The court rejected the State's contention that the Act does not make States "person[s]" who are subject to liability under the Act, noting that States have considered themselves "persons" within the meaning of the Act in order to bring suits as qui tam plaintiffs, and pointing out that, as a matter of statutory construction, identical words used in different parts of the same statute should normally be accorded the same meaning.
+The court stated that Order at 2.
+The court rejected the State's claim of Eleventh Amendment immunity on the ground that that Amendment does not bar suits against the States by the United States itself, and that the United States "is the real party in interest and ultimately the primary beneficiary of a successful qui tam action."
+Id. at 1.
+The State has appealed, see generally Puerto Rico Aqueduct & Sewer Authority v. Metcalf & Eddy, Inc. , 506 U.S. 139, 147 , 113 S.Ct. 684 , 121 L.Ed.2d 605 (1993) (district court order denying motion to dismiss on ground of Eleventh Amendment immunity is immediately appealable), and proceedings in the district court have been stayed pending appeal.
+II.
+DISCUSSION On appeal, the State contends (1) that Congress did not intend to subject States to suit or liability under the FCA, and (2) that to the extent that the Act is construed to permit qui tam suits against the States, the Act violates the immunity conferred on the States by the Eleventh Amendment .
+The United States, which declined to intervene in the suit in the district court, has intervened in this appeal pursuant to 28 U.S.C. 517 and 2403(a) (1994) to support the decision of the district court.
+A. The Scope and Qui Tam Provisions of the Act The FCA imposes civil liability on "[a]ny person" who makes a false monetary claim to the United States government.
+31 U.S.C. 3729(a) .
+Such a person is liable to the government for treble damages plus a $5,000-$10,000 civil penalty: (a) Liability for certain acts.
+31 U.S.C. 3729(a) .
+The Act does not define the term "person."
+The Act permits the Attorney General of the United States to bring a civil suit against "the person" who has violated 3729(a) .
+See 31 U.S.C. 3730(a) .
+It also permits a qui tam suit to be brought by "[a] person" as follows: Actions by Private Persons section 3729 31 U.S.C. 3730(b)(1) .
+If a qui tam action has been brought, the United States must be given an opportunity to intervene and take control of the action.
+The Act requires that the complaint filed by a qui tam plaintiff (or "relator") be kept under seal, without service on the defendant, for at least 60 days, id. 3730(b)(2) , (3) , and that the government be provided with a copy of the complaint and "written disclosure of substantially all material evidence and information the person possesses," id. 3730(b)(2) , in order to permit the government to decide whether to intervene at the outset.
+See United States ex rel.
+Pilon v. Martin Marietta Corp. , 60 F.3d 995, 998-999 (2d Cir.1995); S.Rep.
+No. 99-345, at 24 (1986) ("Senate Report" or "Report"), reprinted in 1986 U.S.C.C.A.N.
+5266, 5289 (sealing provision "is intended to allow the Government an adequate opportunity to fully evaluate the private enforcement suit and determine whether it is in the Government's interest to intervene and take over the civil action").
+Failure to comply with these mandatory threshold requirements warrants dismissal of the qui tam complaint with prejudice, which bars the qui tam plaintiff from refiling such a suit, but leaves the government free to bring suit on its own.
+See, e.g. , United States ex rel.
+Pilon v. Martin Marietta Corp. , 60 F.3d at 999-1000 & n. 6.
+Even if the government elects not to intervene at the outset, it may intervene upon a showing of good cause at any time thereafter.
+See 31 U.S.C. 3730(c)(3) .
+Good cause has been found to exist upon a showing, for example, of the government's realization that the alleged frauds were of greater magnitude than originally believed, see, e.g. , United States ex rel.
+Hall v. Schwartzman , 887 F.Supp.
+60, 62 (E.D.N.Y.1995), the government's receipt of additional evidence through a related civil trial, see, e.g. , United States ex rel.
+Stone v. Rockwell International Corp. , 950 F.Supp.
+1046, 1048-49 (D.Colo.1996), or the government's collateral concern that prosecution of the qui tam action could impede government efforts to achieve peace in the relevant industry, see, e.g. , United States ex rel.
+Sequoia Orange Co. v. Baird-Neece Packing Corp. , 151 F.3d 1139, 1142 (9th Cir.1998).
+If the government intervenes, it thereby takes control of the suit, see, e.g. , 31 U.S.C. 3730(b)(4)(A) ("the action shall be conducted by the Government"), and has "primary responsibility for prosecuting the action," id. 3730(c)(1) .
+The qui tam relator is allowed to continue to participate in the action, although the court, at the urging of either the government or the defendant, may limit the qui tam relator's role in the litigation upon a showing, for example, that his unrestricted participation would be for purposes of harassment.
+Id. 3730(c)(2)(C) , (D) .
+In addition, the government may ask the court to limit the qui tam relator's participation on other grounds, such as undue interference with or delay of the government's prosecution of the case. Id. 3730(c)(2)(C) .
+The government is not bound by any act of the qui tam plaintiff.
+See id. 3730(c)(1) .
+Moreover, the government has substantial authority to terminate the suit, even over the objection of the qui tam relator.
+For example, Id. 3730(c)(2)(B) .
+Further, Id. 3730(c)(2)(A) .
+The government is thus given ample authority, whether through settlement or dismissal, to bring the litigation to an early end, and although the qui tam plaintiff must be given a hearing, the court need not, in order to dismiss, determine that the government's decision is reasonable.
+See, e.g. , United States ex rel.
+Sequoia Orange Co. v. Baird-Neece Packing Corp. , 151 F.3d at 1145 (in light of Separation of Powers concerns, district court need find only that the government's decision to dismiss a qui tam suit, even a meritorious one, is supported by a "valid governmental purpose" that is not arbitrary or irrational and has some "rational relation" to the dismissal).
+If the United States chooses not to intervene, which gives the qui tam plaintiff "the right to conduct the action," 31 U.S.C. 3730(b)(4)(B) ; id. 3730(c)(3) , the government nonetheless retains significant control over the action.
+No other person may intervene.
+See 31 U.S.C. 3730(b)(5) .
+The government is entitled to monitor the proceedings, see id. 3730(c)(3) (government may require service of copies of all pleadings and deposition transcripts); it is entitled to have discovery stayed if discovery would interfere with its investigation or prosecution of a criminal or civil suit arising out of the same facts, see id. 3730(c)(4) ; and, as indicated above, it retains the right to intervene at any time for good cause, see id. 3730(c)(3) .
+Further, the qui tam "action may be dismissed only if the court and the Attorney General give written consent to the dismissal and their reasons for consenting."
+Id. 3730(b)(1) .
+Any recovery in a qui tam action, whether or not the government intervenes, belongs principally to the United States.
+The qui tam relator will generally be entitled to receive a share of the government's recovery, which ranges from 15 to 25 percent if the United States has intervened, see id. 3730(d)(1) , or from 25 to 30 percent if it has not, see id. 3730(d)(2) .
+The qui tam relator's award is paid only from "the proceeds" of the suit, id. 3730(d)(1) , (2) , which may consist of an adjudicated amount or a settlement amount.
+Thus, 70 to 85 percent of the proceeds recovered in a qui tam suit belongs to the United States.
+B. The Eleventh Amendment Defense The Eleventh Amendment provides that "[t]he Judicial Power of the United States shall not be construed to extend to any suit in law or equity, commenced or prosecuted against one of the United States by Citizens of another State, or Citizens or Subjects of any Foreign State."
+U.S. Const.
+amend.
+XI .
+Although the terms of the Amendment, which embody the principle of sovereign immunity, refer only to suits against a state by persons who are not citizens of that state, it is clear that, unless the state has given its consent, the Amendment also bars a suit against the state by its own citizens, see Hans v. Louisiana , 134 U.S. 1, 10-11 , 10 S.Ct. 504 , 33 L.Ed. 842 (1890), as well as suits by a foreign nation, see Monaco v. Mississippi , 292 U.S. 313, 330-32 , 54 S.Ct. 745 , 78 L.Ed. 1282 (1934), or by an Indian tribe, see Blatchford v. Native Village of Noatak , 501 U.S. 775, 782 , 111 S.Ct. 2578 , 115 L.Ed.2d 686 (1991).
+As against the United States, however, States have no sovereign immunity.
+See, e.g. , West Virginia v. United States , 479 U.S. 305, 311 , 107 S.Ct. 702 , 93 L.Ed.2d 639 (1987); United States v. Texas , 143 U.S. 621, 644-46 , 12 S.Ct. 488 , 36 L.Ed. 285 (1892) .
+When the States, in framing and adopting the Constitution, agreed to create a federal government "established for the common and equal benefit of the people of all the States," id. at 646 , 12 S.Ct. 488 , they necessarily recognized that the privilege of immunity would be inconsistent with that government's paramount sovereignty.
+A permanent waiver of the States' immunity from suit by the United States is "inherent in the constitutional plan."
+Monaco v. Mississippi , 292 U.S. at 329 , 54 S.Ct. 745 ; see Blatchford v. Native Village of Noatak , 501 U.S. at 781-82 , 111 S.Ct. 2578 ; United States v. Minnesota , 270 U.S. 181, 195 , 46 S.Ct. 298 , 70 L.Ed. 539 (1926) ("[o]f course the immunity of the State is subject to the constitutional qualification that she may be sued by the United States"); United States v. Texas , 143 U.S. at 646 , 12 S.Ct. 488 .
+In sum, "nothing in [the Eleventh Amendment ] or in any other provision of the Constitution prevents or has ever been seriously supposed to prevent a State's being sued by the United States."
+United States v. Mississippi , 380 U.S. 128, 140 , 85 S.Ct. 808 , 13 L.Ed.2d 717 (1965); see also Seminole Tribe v. Florida , 517 U.S. 44, 71 n. 14, 116 S.Ct. 1114 , 134 L.Ed.2d 252 (1996) ("the Federal Government can bring suit in federal court against a State").
+The question for the present case is whether a qui tam suit under the FCA should be viewed as a private action by an individual, and hence barred by the Eleventh Amendment , or one brought by the United States, and hence not barred.
+The interests to be vindicated, in combination with the government's ability to control the conduct and duration of the qui tam suit, persuade us that the Eleventh Amendment does not bar such a suit.
+The real party in interest in a qui tam suit is the United States.
+All of the acts that make a person liable under 3729(a) focus on the use of fraud to secure payment from the government.
+It is the government that has been injured by the presentation of such claims; it is in the government's name that the action must be brought; it is the government's injury that provides the measure for the damages that are to be trebled; and it is the government that must receive the lion's share--at least 70%--of any recovery.
+To be sure, the qui tam plaintiff has an interest in the action's outcome, but his interest is less like that of a party than that of an attorney working for a contingent fee.
+See, e.g. , Hughes Aircraft Co. v. United States ex rel.
+Schumer , 520 U.S. 939, , 117 S.Ct. 1871, 1877 , 138 L.Ed.2d 135 (1997) ( qui tam plaintiff is ordinarily "motivated primarily by prospects of monetary reward rather than the public good"); United States ex rel.
+Marcus v. Hess , 317 U.S. 537, 541 n. 5, 63 S.Ct. 379 , 87 L.Ed. 443 (1943) ( qui tam plaintiffs act "under the strong stimulus of personal ill will or the hope of gain" (internal quotation marks omitted)).
+Qui tam claims simply do not seek the vindication of a right belonging to the private plaintiff, and if there has been no injury to the United States, the qui tam plaintiff cannot recover.
+In sum, "although qui tam actions allow individual citizens to initiate enforcement against wrongdoers who cause injury to the public at large, the Government remains the real party in interest in any such action."
+Minotti v. Lensink , 895 F.2d 100, 104 (2d Cir.1990).
+Accord United States ex rel.
+Rodgers v. Arkansas , 154 F.3d 865, 868 (8th Cir.1998); United States ex rel.
+Killingsworth v. Northrop Corp. , 25 F.3d 715, 720 (9th Cir.1994); United States ex rel.
+Milam v. University of Texas , 961 F.2d 46, 50 (4th Cir.1992) ("United States is the real party in interest in any False Claims Act suit, even where it permits a qui tam relator to pursue the action on its behalf").
+Further, as described in Part II.A., the government has the right to control the action.
+If it wishes to intervene in the action at the outset, the qui tam plaintiff cannot prevent it from doing so. Whether or not the government intervenes, it has the right to be kept abreast of discovery in the qui tam suit and the right to prevent that discovery from interfering with its investigation or pursuit of a criminal or civil suit arising out of the same facts.
+If the government intervenes, it takes control of the lawsuit; it may have the participation of the qui tam plaintiff limited; and it is not bound by any act of the qui tam plaintiff.
+The government has both the right to prevent a dismissal sought by the qui tam plaintiff and the right to cause the action to be dismissed for any rational governmental reason, notwithstanding the qui tam plaintiff's desire that it continue.
+In light of the fact that qui tam claims are designed to remedy only wrongs done to the United States, and in light of the substantial control that the government is entitled to exercise over such suits, we conclude that such a suit is in essence a suit by the United States and hence is not barred by the Eleventh Amendment .
+Accord United States ex rel.
+Rodgers v. Arkansas , 154 F.3d at 868 ; United States ex rel.
+Berge v. Board of Trustees of the University of Alabama , 104 F.3d 1453, 1458-59 (4th Cir.), cert. denied , U.S. , 118 S.Ct. 301 , 139 L.Ed.2d 232 (1997); United States ex rel.
+Fine v. Chevron, U.S.A., Inc. , 39 F.3d 957, 962-63 (9th Cir.1994), vacated on other grounds , 72 F.3d 740 (9th Cir.1995) ( en banc ), cert. denied , 517 U.S. 1233 , 116 S.Ct. 1877 , 135 L.Ed.2d 173 (1996); United States ex rel.
+Milam v. University of Texas , 961 F.2d at 50 .
+The State's reliance on Blatchford v. Native Village of Noatak , 501 U.S. 775 , 111 S.Ct. 2578 , 115 L.Ed.2d 686 , for the contrary proposition is misplaced.
+In that case, Native American tribes sued the State of Alaska, arguing that they should be allowed to bring such a suit because the United States is empowered to bring a suit for the benefit of the tribes.
+Plainly in those circumstances, however, the injury to be remedied was one to the tribes, not to the federal government, and the cause of action did not belong to the government.
+The Supreme Court's rejection of the contention that the tribes should be allowed to pursue their own rights in suits against the States does not persuade us that the United States may not authorize a person other than the Attorney General to bring suit against the States on behalf of the United States to assist the United States in recovering moneys of which it has been defrauded.
+We thus turn to the remaining question, over which we exercise pendent appellate jurisdiction, of whether qui tam suits against the States are authorized by the Act.
+C. Applicability of the False Claims Act to the States The question is whether "person" in 3729(a) , the section imposing liability, includes States.
+At the outset, we note the State's contention that we should apply the "plain statement" rule and decline to construe 3729(a) as exposing the States to liability absent the clearest of legislative statements that that was Congress's intent.
+We reject this contention.
+The "plain statement" rule is that "unless Congress conveys its purpose clearly, it will not be deemed to have significantly changed the federal-state balance."
+United States v. Bass , 404 U.S. 336, 349 , 92 S.Ct. 515 , 30 L.Ed.2d 488 (1971); see id. at 349 n. 16, 92 S.Ct. 515 (collecting cases).
+The Supreme Court has never held that this principle is applicable in every instance in which it is argued that a statute imposes liability on the States.
+Cf. Hilton v. South Carolina Public Railways Commission , 502 U.S. 197, 205 , 112 S.Ct. 560 , 116 L.Ed.2d 560 (1991) (refusing to adopt a " per se rule prohibiting the interpretation of general liability language to include the States, absent a clear statement by Congress to the effect that Congress intends to subject the States to the cause of action").
+Rather, the Court has applied the plain statement rule only when the effect of the statute would be to intrude on the States' traditional authority and "upset the usual constitutional balance of federal and state powers."
+Gregory v. Ashcroft , 501 U.S. 452, 460 , 111 S.Ct. 2395 , 115 L.Ed.2d 410 (1991).
+The rule has thus been applied to such questions as whether, in enacting a criminal statute, Congress meant to "render[ ] traditionally local criminal conduct a matter for federal enforcement and dramatically intrude[ ] upon traditional state criminal jurisdiction," United States v. Bass , 404 U.S. at 350 , 92 S.Ct. 515 ; or whether, in passing the Developmentally Disabled Assistance and Bill of Rights Act, 42 U.S.C. 6010 , Congress intended to impose an affirmative obligation on the States to provide certain kinds of treatment to the disabled, see, e.g. , Pennhurst State School & Hospital v. Halderman , 451 U.S. 1, 16-17 , 101 S.Ct. 1531 , 67 L.Ed.2d 694 (1981); or whether, in passing the Age Discrimination in Employment Act, Congress meant to override the States' traditional authority to "determine the qualifications of their most important government officials," Gregory v. Ashcroft , 501 U.S. at 463 , 111 S.Ct. 2395 .
+The plain statement rule has not been applied to legislation that does not interfere with traditional state authority, such as an Internal Revenue Code provision allowing the Commissioner of Internal Revenue to require a state official to honor a levy on the salary of a state employee who is delinquent in payment of his federal taxes, see Sims v. United States , 359 U.S. 108, 112-13 , 79 S.Ct. 641 , 3 L.Ed.2d 667 (1959).
+See also Reich v. New York , 3 F.3d 581, 589-90 (2d Cir.1993) (requirement that state pay overtime to state law enforcement officials under the Fair Labor Standards Act did not so alter the federal-state balance as to require a clear statement), cert. denied , 510 U.S. 1163 , 114 S.Ct. 1187 , 127 L.Ed.2d 537 (1994), overruled by implication on other grounds by Seminole Tribe v. Florida , 517 U.S. at 59-66 , 116 S.Ct. 1114 .
+In the FCA, we see no alteration of "the usual constitutional balance of federal and state powers" such as to require application of the plain statement rule.
+The Act does not intrude into any area of traditional state power.
+The goal of the statute is simply to remedy and deter procurement of federal funds by means of fraud.
+The States have no right or authority, traditional or otherwise, to engage in such conduct.
+Accordingly, we reject the State's contention that the plain statement rule applies, and we turn to the question of the proper interpretation of the FCA using the usual standards of statutory construction.
+Under the usual standards, although "in common usage[ ] the term 'person' does not include the sovereign, there is no hard and fast rule of exclusion."
+United States v. Cooper Corp. , 312 U.S. 600, 604-05 , 61 S.Ct. 742 , 85 L.Ed. 1071 (1941).
+"Whether the term 'person' when used in a federal statute includes a State cannot be abstractly declared, but depends upon its legislative environment."
+Sims v. United States , 359 U.S. at 112 , 79 S.Ct. 641 ; see Georgia v. Evans , 316 U.S. 159, 161 , 62 S.Ct. 972 , 86 L.Ed. 1346 (1942).
+"The purpose, the subject matter, the context, the legislative history, and the executive interpretation of the statute are aids to construction which may indicate an intent, by the use of the term, to bring [a] state within the scope of the law."
+United States v. Cooper Corp. , 312 U.S. at 605 , 61 S.Ct. 742 .
+In the FCA, the principal uses of the term "person" are found in 31 U.S.C. 3729 and 3730 , which provide that "[a]ny person" is liable for making false claim, id. 3729(a) ; that the Attorney General may bring a civil action "against the person," id. 3730(a) ; and that "[a] person" may bring a qui tam action, id. 3730(b)(1) .
+Thus, the same term is used to categorize both those who may sue and those who may be sued, whether by the government itself or by a qui tam plaintiff.
+In a number of instances, States have brought suits under the FCA as qui tam plaintiffs, clearly indicating that they viewed themselves as "person[s]" within the meaning of 3730(b)(1) .
+See, e.g. , United States ex rel.
+Woodard v. Country View Care Center, Inc. , 797 F.2d 888 (10th Cir.1986); United States ex rel.
+Wisconsin v. Dean , 729 F.2d 1100 (7th Cir.1984); United States ex rel.
+Hartigan and State of Illinois v. Palumbo Bros., Inc. , 797 F.Supp.
+624 (N.D.Ill.1992).
+That view clearly was also shared by Congress.
+For example, in discussing a bill to amend the Act in 1986, the Senate Report cited the decision in United States ex rel.
+Wisconsin v. Dean , 729 F.2d 1100 , in which the Seventh Circuit had refused to allow the State of Wisconsin to act as a qui tam relator in a Medicaid fraud action, ruling that the court lacked jurisdiction over such a suit because the United States already possessed the information on which the suit was premised, even though the information had been unearthed solely by the State of Wisconsin.
+See Senate Report at 12-13, reprinted in 1986 U.S.C.C.A.N.
+at 5277-78.
+The Report cited the case with disapproval because of the jurisdictional limitation read into the statute by the court of appeals, and the 1986 amendments added provisions specifying that qui tam suits could be brought even on the basis of already-disclosed information so long as the qui tam plaintiff was the original source of the information, see 31 U.S.C. 3730(e)(4)(A) , (B) .
+These provisions were added at the prompting of the National Association of Attorneys General, which had pointed out that it unnecessarily inhibited the detection and prosecution of fraud on the federal government "to prohibit sovereign states from becoming qui tam plaintiffs because the U.S. Government was in possession of information provided to it by the State."
+Senate Report at 13, reprinted in 1986 U.S.C.C.A.N.
+at 5278 (internal quotation marks omitted).
+The only controversy sparked by United States ex rel.
+Wisconsin v. Dean and resolved by these new sections was the status of the information on which a qui tam suit could properly be brought; there was no question whatever that qui tam suits could be brought by the States.
+Further confirmation that Congress viewed the States as persons who could be qui tam plaintiffs may be found in another 1986 amendment, which permits the joinder, in an FCA suit, of related state-law claims where those claims are "for the recovery of funds paid by a State."
+31 U.S.C. 3732(b) .
+The amendment was adopted "in response to comments from the National Association of Attorneys General," Senate Report at 16, reprinted in 1986 U.S.C.C.A.N.
+at 5281; presumably it is the State, and not a private party, that would have the right to recover such funds.
+The Report described the new section as "allowing State and local governments to join State law actions with False Claims Act actions brought in Federal district court if such actions grow out of the same transaction or occurrence."
+Id. , reprinted in 1986 U.S.C.C.A.N.
+at 5281.
+Since intervention, other than by the government, is not allowed in a qui tam suit, Congress's provision for joinder of claims of a State must have been premised on the view that the State may be the qui tam plaintiff.
+We thus think it plain that the States are "person[ ]s" within the meaning of 3730(b)(1) .
+Absent some indication to the contrary, we normally infer that in using the same word in more than one section of a statute--or indeed twice within the same section, as in subsections (a) and (b) of 3730 --Congress meant the word to have the same meaning.
+See, e.g. , Commissioner v. Lundy , 516 U.S. 235, 250 , 116 S.Ct. 647 , 133 L.Ed.2d 611 (1996); Sullivan v. Stroop , 496 U.S. 478, 484 , 110 S.Ct. 2499 , 110 L.Ed.2d 438 (1990); Sorenson v. Secretary of Treasury , 475 U.S. 851, 860 , 106 S.Ct. 1600 , 89 L.Ed.2d 855 (1986).
+We see nothing in the language of the FCA to indicate that Congress intended that States would be "person[s]" within the meaning of 3730(b)(1) but not "person[s]" within the meaning of 3729(a) or 3730(a) .
+Nor do we see any such indication in the legislative history.
+The FCA has its origin in a 1863 statute entitled "An Act to prevent and punish Frauds upon the Government of the United States," March 2, 1863, ch.
+67, 3, 12 Stat. 696 (1863) ("1863 Act").
+The 1863 Act similarly used the term "person" to designate both those who could be found liable under the law and those who could bring suit on behalf of the government.
+See id. 3, 4.
+With respect to false monetary claims made to the United States, the 1863 Act imposed both criminal and civil liability on "any person in the land or naval forces of the United States," 1863 Act, 1, and on "any person not in the military or naval forces," id. 3.
+The 1863 Act provided that a qui tam suit could be brought "by any person," against "the person doing or committing" the forbidden fraudulent act.
+Id. 4.
+At first glance, the 1863 Act's references to persons "not in the military" might seem to bespeak an intention to encompass only natural persons, since only natural persons are capable of serving in the armed forces.
+But the legislative history of the statute seems to the contrary.
+The impetus for enactment of the 1863 Act was "stopping the massive frauds perpetrated by large contractors during the Civil War."
+United States v. Bornstein , 423 U.S. 303, 309 , 96 S.Ct. 523 , 46 L.Ed.2d 514 (1976); see, e.g. , Senate Report at 8, reprinted in 1986 U.S.C.C.A.N.
+at 5273 ("The False Claims Act was adopted in 1863 and signed into law by President Abraham Lincoln in order to combat rampant fraud in Civil War defense contracts.").
+This was the theme of the statements of Senator Howard, sponsor of a predecessor of the bill that became the 1863 Act.
+See Cong. Globe, 37th Cong., 3d Sess.
+952 ( 1863) ("[t]he country has been full of complaints respecting the frauds and corruptions practiced in obtaining pay from the Government during the present war" by "persons who are contractors, or who are employed to contract for ships, vessels, steamers, watercraft, ordnance, arms, munitions of war, & c."); id. at 955 ("some frauds of a very gross character have already been practiced in the purchase and furnishing of small arms for the use of the Army.
+Arms have been supplied which, on examination and use, have turned out to be useless and valueless"); and id. at 957 (decrying "the enormous and flagrant frauds connected with the military service which are perpetually practiced upon the Treasury").
+Further, among the concerns of Congress at that time were instances of fraud by state officials in the procurement of military supplies for state troops, the costs of which were ultimately borne by the United States.
+See Government Contracts, H.R.Rep.
+No. 37-2, pt.
+ii-a (1862).
+This House of Representative report stated that "testimony ha[d] been taken by the committee bearing directly on the purchase of miliary supplies by the State of Indiana"; that "[t]estimony of the same character ha[d] been taken in reference to the States of Ohio, New York, and Illinois"; and that the hearings had revealed an "unpardonable eagerness" on the part of state officials to engage in "fraud and peculation" in connection with "large and lucrative government contracts" for supplies for state troops, a subject of federal concern because "the general government ha[d] assumed the liabilities incurred by the several States in furnishing supplies for their respective troops."
+Id. at XXXVIII, XXXIX.
+Although this report did not mention any pending proposal for a false-claims act, it is difficult to suppose that when Congress considered the bills leading to the 1863 Act a year later it either meant to exclude the States from the "persons" who were to be liable for presentation of false claims to the federal government or had forgotten the results of this extensive investigation.
+It is against this background that the 1863 Act, designed to reach procurement officers, "contractors[,] and the agents of contractors," Cong. Globe, 37th Cong., 3d Sess.
+at 955, imposed liability on all persons in the military and all persons not in the military.
+These provisions, in combination, are all-encompassing, and we see no indication that Congress meant to carve out any safe haven for frauds perpetrated by the States.
+Given the scope of the language used, the statute's purpose has been described as "broadly to protect the funds and property of the Government from fraudulent claims."
+Rainwater v. United States , 356 U.S. 590, 592 , 78 S.Ct. 946 , 2 L.Ed.2d 996 (1958); see also United States ex rel.
+Marcus v. Hess , 317 U.S. at 541 n. 5, 63 S.Ct. 379 (goal of the FCA is "remedial," "to protect the Treasury" (internal quotation marks omitted)).
+In interpreting the Act broadly in 1968, and concluding that an application for a federal agency loan is a "claim" within the meaning of the Act, the Supreme Court noted that United States v. Neifert-White Co. , 390 U.S. 228, 232 , 88 S.Ct. 959 , 19 L.Ed.2d 1061 (1968).
+The 1863 Act was codified as part of Title 31 of the United States Code in 1943, and 3 of the 1863 Act became 31 U.S.C. 3729 and prohibited presentation to the government of fraudulent claims by persons not in the military.
+The present language of the Act was adopted as part of the 1986 amendments, which were designed to enhance the ability of the government to "recover losses sustained as a result of fraud" against it in "federal programs and procurement."
+Senate Report at 1-2, reprinted in 1986 U.S.C.C.A.N.
+at 5266.
+Congress changed the language of 3729(a) from "[a] person not a member of an armed force of the United States," 31 U.S.C. 3729(a) (1982), to simply "[a]ny person."
+There was no suggestion in the Senate Report accompanying these amendments that the change was envisioned as broadening the class of persons who could be held liable under the Act; rather, that class was already viewed as all-encompassing.
+Thus, in a section describing the "history" of the FCA, the Report stated that [t]he False Claims Act reaches States and political subdivisions thereof Senate Report at 8-9, reprinted in 1986 U.S.C.C.A.N.
+at 5273-74 (emphasis added).
+The 1986 amendments also added to the Act a provision for civil investigative demands (the "CID provision"), authorizing the Attorney General to issue written discovery demands as part of a "false claims law investigation."
+31 U.S.C. 3733(a)(1) .
+The CID provision includes a set of definitions, see id. 3733(l) , and under those definitions, "the term 'false claims law investigation' means any inquiry conducted for the purpose of ascertaining whether any person is engaged in any violation of a false claims law ," id. 3733(l)(2) (emphasis added); the term "false claims law" includes the FCA, see id. 3733(l)(1) ; and "the term 'person' includ[es] any State or political subdivision of a State," id. 3733(l)(4) .
+Presumably, Congress would not have authorized such an investigation into whether States were engaged in violating the FCA unless States were among the "persons" who are suable under the Act.
+The State contends that Congress included the CID provision's definitional language because it believed that States were not included previously.
+Such an inference is belied by, inter alia , the fact that the section also defines "person" to include "any natural person, partnership, corporation, [or] association," id. 3733(l)(4) , i.e. , entities whom the FCA unquestionably had always reached.
+Nor could we reasonably impute such a belief to Congress in light of the fact that, as quoted above, the Senate Report described the FCA as historically reaching frauds by the States.
+We conclude that Congress's understanding prior to the adoption of the 1986 amendments "was that the False Claims Act applied to the States, and would, after the 1986 amendments, continue to apply to the States" as potential defendants.
+United States ex rel.
+Zissler v. Regents of the University of Minnesota , 154 F.3d 870, 874-75 (8th Cir.1998).
+The State also argues that the treble damages and penalties for which the Act provides, see 31 U.S.C. 3729(a) , are punitive remedies that are not usually associated with suits against the States, and that we therefore should construe the Act as not authorizing such suits.
+We reject the State's premise.
+The 1863 Act provided for the recovery of double damages, see 1863 Act 3, and those remedies have been held not to be punitive but remedial, multiple damages being recoverable in order "to make sure that the government would be made completely whole," United States ex rel.
+Marcus v. Hess , 317 U.S. at 551-52 , 63 S.Ct. 379 , in light of the need "to compensate the Government completely for the costs, delays, and inconveniences occasioned by fraudulent claims," United States v. Bornstein , 423 U.S. at 315 , 96 S.Ct. 523 .
+We see no impediment to Congress's applying this remedial structure against States who, in participating in federally funded programs, knowingly present fraudulent claims to the government.
+In sum, we conclude that the term "[a]ny person" in 3729(a) is sufficiently broad to encompass the States; that Congress meant to include the States within the term "person" in 3730(b)(1) , allowing them to bring suits under that section as qui tam plaintiffs; that there is no indication in the language or in the legislative history that Congress ascribed different meanings to the term "person" as used in 3729(a) , 3730(a) , and 3730(b)(1) ; and that Congress intended the false-claims statutes to permit suits under 3730(a) and 3730(b)(1) against any entity that presented false monetary claims to the government.
+We thus conclude that the present suit is authorized by the FCA.
+CONCLUSION We have considered all of the State's arguments on this appeal and have found them to be without merit.
+The district court's order denying the State's motion to dismiss is affirmed.

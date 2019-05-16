@@ -1,0 +1,142 @@
+ BARKETT , Circuit Judge: Robert Joiner ("Joiner") and his wife, Karen Joiner, brought this suit in state court on August 5, 1993, seeking damages for personal injuries from lung cancer allegedly caused by Robert Joiner's exposure to polychlorinated biphenyls ("PCBs") while working for the City of Thomasville, Georgia ("City").
+Monsanto, General Electric Company, and Westinghouse Electric Corporation ("defendants") removed the action to federal district court, which excluded the testimony of the Joiners' experts and granted the defendants' motion for summary judgment, which the Joiners now appeal.
+Because we find that the district court improperly assessed the admissibility of the proffered scientific expert testimony and overlooked evidence establishing disputed issues of fact, we reverse the summary judgment.
+Facts Beginning in 1973, Joiner worked as an electrician in the City's Water & Light Department, a position requiring him to work with and around the City's electrical transformers.
+Throughout Joiner's employment, all of the City's transformers should have used as a coolant a mineral oil-based dielectric fluid which was free of PCBs.
+1 However, in 1983, the City discovered PCB contamination in the dielectric fluid used in some of its transformers.
+From 1983 to 1993, the City conducted tests and concluded that almost one out of every five of the transformers tested presented a PCB hazard.
+When a transformer was in need of repair, it was Joiner's duty to open it, drain out the dielectric fluid, bake the core of the transformer dry of dielectric fluid, 2 make repairs, refill the transformer with fresh mineral oil dielectric fluid, and then test the transformer.
+These repairs required that Joiner stick his hands and arms into the dielectric fluid.
+Joiner testified that dielectric fluid got all over him at times, that he would swallow a small amount of dielectric fluid when it splashed into his mouth, and that dielectric fluid had splashed into his eyes on several occasions.
+In 1991, at the age of 37, Joiner was diagnosed with lung cancer.
+The Joiners' theory of the case was that while Joiner's history of cigarette smoking and his family history of lung cancer may have predisposed him to developing lung cancer, 3 his exposure to PCBs and their derivatives--polychlorinated dibenzofurans ("furans") and polychlorinated dibenzodioxins ("dioxins")--served to "promote" his small cell lung cancer.
+4 Defendants moved for summary judgment on the grounds that (1) there was no admissible scientific evidence that PCBs promoted Joiner's cancer, and (2) there was no evidence that Joiner suffered significant exposure to PCBs, furans, or dioxins.
+The Joiners responded with the depositions and affidavits of experts who testified that PCBs alone can promote cancer and that furans and dioxins can also promote cancer, that Joiner was exposed to PCBs, furans, and dioxins, and that, in these experts' opinions, such exposure was responsible for Joiner's cancer.
+The district court deemed inadmissible all of the testimony presented by the Joiners' experts and granted summary judgment for the defendants.
+5 In addition, although it found Joiner was exposed to PCBs, the court asserted that there was no credible evidence that Joiner had been exposed to furans and dioxins, and granted summary judgment against the Joiners on the question of exposure to furans and dioxins.
+Joiner v. General Elec. Co. , 864 F.Supp.
+1310, 1326 (N.D.Ga.1994).
+On appeal, the Joiners reassert the admissibility of their expert testimony to establish causation.
+They also contest the district court's grant of summary judgment on the issue of Joiner's exposure to furans and dioxins.
+Discussion A. Standard of Review We review a grant of summary judgment de novo.
+Fane v. Edenfield , 945 F.2d 1514, 1516 (11th Cir.1991), aff'd , 507 U.S. 761 , 113 S.Ct. 1792 , 123 L.Ed.2d 543 (1993).
+Summary judgment is appropriate when there is no genuine issue of material fact, and the moving party is entitled to judgment as a matter of law.
+Fed.R.Civ.P. 56(c) .
+The moving party bears the burden of showing that there is no issue of material fact.
+Celotex Corp. v. Catrett , 477 U.S. 317, 325 , 106 S.Ct. 2548, 2553-54 , 91 L.Ed.2d 265 (1986).
+A district court's ruling on the admissibility of evidence is reviewed for abuse of discretion.
+Ad-Vantage Tel. Directory Consultants, Inc. v. GTE Directories Corp. , 37 F.3d 1460, 1463 (11th Cir.1994).
+Because the Federal Rules of Evidence governing expert testimony display a preference for admissibility, we apply a particularly stringent standard of review to the trial judge's exclusion of expert testimony.
+See, e.g. , Daubert v. Merrell Dow Pharmaceuticals , 509 U.S. 579 , , 113 S.Ct. 2786, 2794 , 125 L.Ed.2d 469 (1993); In re Paoli R.R. Yard PCB Litigation , 35 F.3d 717, 750 (3d Cir.1994).
+To the extent that the district court's ruling turns on an interpretation of a Federal Rule of Evidence, our review is plenary.
+Id. at 749 .
+B. The Admissibility of Expert Testimony In 1923, Frye v. United States established a "general acceptance" test that guided district courts in determining when to admit scientific evidence.
+Frye , 293 F. 1013, 1014 (D.C.Cir.1923).
+This test required courts to exclude any novel scientific evidence not already grounded in a principle that had attained "general acceptance in the particular field" in which it belonged.
+Id. In 1975, the Federal Rules of Evidence ("Rules") introduced a more liberal approach to the question of the admissibility of scientific evidence.
+6 Rule 702 , which specifically governs expert testimony, provides: Fed.R.Evid.
+702 .
+Notwithstanding the Rules, most courts continued to adhere to the "general acceptance" test.
+In 1993, the Supreme Court in Daubert , 509 U.S. at , 113 S.Ct. at 2793 , specifically held that the Rules superseded the Frye "general acceptance" test.
+The Court made clear that the critical concerns of Rule 702 are evidentiary reliability and relevancy.
+Daubert , 509 U.S. at , 113 S.Ct. at 2795 .
+Thus, an expert's bald statement that he or she is imparting "scientific knowledge" does not automatically render that expert's opinion admissible.
+In order to best ensure relevant and reliable testimony and exclude "unsupported speculation," Daubert establishes a two-pronged test which requires a district court, before it may admit scientific testimony, to determine "whether the expert is proposing to testify to (1) scientific knowledge that (2) will assist the trier of fact to understand or determine a fact in issue."
+Id. at , 113 S.Ct. at 2796 .
+This "gatekeeping" role calls for the trial judge to make a "preliminary assessment of whether the reasoning or methodology underlying the testimony is scientifically valid, i.e., whether it is reliable; and whether that reasoning or methodology properly can be applied to the facts in issue," i.e., whether it is relevant to the issue involved.
+Id.
+Proffered scientific evidence must satisfy both prongs to be admissible.
+Under the first prong, evidentiary reliability, the district court must examine the reasoning or methodology underlying the expert opinion to determine whether it utilizes valid scientific methods and procedures.
+Trial judges must evaluate scientific processes and studies with which they may not be intimately familiar, but be careful not to cross the line between deciding whether the expert's testimony is based on "scientifically valid principles" and deciding upon the correctness of the expert's conclusions.
+The latter inquiry is for the jury and, therefore, judges may not implicitly factor it into their assessment of reliability.
+Daubert suggests several factors to aid federal judges in evaluating whether a particular scientific theory or study is reliable: (1) its empirical testability; (2) whether the theory or study has been published or subjected to peer review; (3) whether the known or potential rate of error is acceptable; and (4) whether the method is generally accepted in the scientific community.
+Id. at , 113 S.Ct. at 2797-98 .
+These factors are neither exhaustive nor applicable in every case. See also Paoli , 35 F.3d at 742 .
+Where appropriate, they serve as indicia of the reliability of the basis of an expert's testimony.
+Under the second prong, relevance, the district court must determine whether the methodology or reasoning underlying the expert opinion relates to the issue at hand, i.e., whether it assists the trier of fact in understanding the evidence or a fact in issue.
+Daubert , 509 U.S. at , 113 S.Ct. at 2795 .
+In this regard, the Daubert Court discusses the concept of "fitness," that is, "whether expert testimony proffered in the case is sufficiently tied to the facts of the case that it will aid the jury in resolving a factual dispute."
+Id. at , 113 S.Ct. at 2795-96 (quoting United States v. Downing , 753 F.2d 1224, 1242 (3d Cir.1985)).
+In analyzing the admissibility of expert testimony, it is important for trial courts to keep in mind the separate functions of judge and jury, and the intent of Daubert to loosen the strictures of Frye and make it easier to present legitimate conflicting views of experts for the jury's consideration.
+Frye required that before an expert could testify, the proffered opinion had to be generally accepted in the pertinent field.
+The necessity for such broad acceptance as a condition for admissibility was eliminated by Rule 702 .
+The admission of scientific evidence that might not yet be generally accepted in the field, however, is contingent on a trial court's finding that such evidence is indeed scientifically legitimate, and not "junk science" or mere speculation.
+This gatekeeping role is simply to guard the jury from considering as proof pure speculation presented in the guise of legitimate scientifically-based expert opinion.
+It is not intended to turn judges into jurors or surrogate scientists.
+Thus, the gatekeeping responsibility of the trial courts is not to weigh or choose between conflicting scientific opinions, or to analyze and study the science in question in order to reach its own scientific conclusions from the material in the field.
+Rather, it is to assure that an expert's opinions are based on relevant scientific methods, processes, and data, and not on mere speculation, and that they apply to the facts in issue.
+Keeping Daubert 's lower threshold in mind, we turn to the facts of this case. 1.
+Application of Daubert to this Case--Reliability Under the first prong of Daubert , the district court must identify the basis of an expert's testimony and ascertain whether the methods, procedures, and information used by the expert to reach his or her conclusion are scientifically reliable.
+a. The Basis of an Expert's Opinions The Joiners' chief experts were Daniel T. Teitelbaum, M.D., and Arnold Schecter, M.D., M.P.H.
+The record reflects that each opinion proffered by the Joiners' experts as scientific knowledge was supported by the respective expert's specialized education, years of experience, physical examination of Joiner, and familiarity with the general scientific literature in the field, as well as by reliance upon specific scientific studies relating to the carcinogenic effect of PCBs.
+7 According to their curriculum vitae, each appears to have a national reputation, and the district court qualified them as experts.
+8 Both experts familiarized themselves with the specifics of Joiner's history and disease, and reviewed the medical literature they deemed pertinent.
+Teitelbaum, through his affidavit and deposition testimony, set forth the general methodology he utilized in arriving at his expert opinion: Schecter also interviewed Joiner and reviewed his deposition and affidavit testimony.
+He conducted a review of Joiner's medical records, a videotape of the working conditions involving Joiner's repair of electrical transformers, the results of PCB testing done on the transformers, the relevant scientific literature on the toxic effects of the substances contained in defendants' products, and all deposed expert testimony.
+In arriving at his opinion, Schecter claimed to have eliminated other potential causes of Joiner's lung cancer to a reasonable degree of medical certainty.
+In addition, each doctor utilized numerous scientific studies and authorities.
+Although the district court apparently considered only four epidemiological studies and two animal studies, Teitelbaum referred to several additional studies which he utilized in forming his views.
+Among those not mentioned by the district court were studies by researchers Gustavsson and Hogsted, findings of the International Program on Chemical Safety ("IPCS") World Health Organization Criterion, and "a whole series of [epidemiological studies] listed in [the World Health Organization] document."
+Similarly, in addition to the studies mentioned in the district court's opinion, Schecter relied, in part, upon "recent work such as that of Dr.
+George Lucier and colleagues at the National Institute of Health," "IARC studies, International Agency on Cancer at the World Health Organization," studies by "Dr. James Huff of the National Institute of Health," the Zober and Theiss studies from Germany, and also "Manz['] study on European workers."
+b. Were the Methods and Procedures Underlying the Experts' Testimony Reliable?
+Likewise, the record reflects that Teitelbaum and Schecter each utilized scientifically reliable methods and procedures in gathering and assimilating all of the relevant information in forming their respective opinions.
+Teitelbaum stated that his methodology "has been the basis of diagnosis for hundreds of years."
+Schecter described his methodology as one "usually and generally followed by physicians and scientists."
+Each asserted the general acceptance of the procedures they employed and defendants do not challenge these claims.
+Furthermore, the extensive experience and specialized expertise of each of these experts augment the reliability of their reasoning and methodology.
+While this factor is most pertinent in deciding the separate question of whether the experts are qualified to testify, see Fed.R.Evid.
+702 , it also has some bearing on the determination of the reliability of the underlying reasoning or methodology.
+Hopkins v. Dow Corning Corp. , 33 F.3d 1116, 1125 (9th Cir.1994) (considering "expertise" to conclude that methodology underlying expert opinions satisfied Daubert ); Downing , 753 F.2d at 1239 (recognizing that "[t]he qualifications and professional stature of expert witnesses may also constitute circumstantial evidence of the reliability of the technique").
+The assessment of reliability also involves reviewing the basis for an expert's opinion.
+As previously noted, when an expert relies on specific research to form an opinion, the district court must ascertain whether such research is reliable.
+To accomplish this, the court examines whatever evidence is proffered supporting or criticizing the research, keeping in mind the purpose of the inquiry, i.e., to exclude opinions based on mere speculation.
+While this inquiry cannot be made without some consideration of the quality of the research in question, the district court's focus is a narrow one and does not encompass deciding which expert's conclusions are better reasoned or more appealing.
+Nor should the court make independent scientific judgments on the basis of individual studies.
+For example, the court "rejected" the two animal studies because (1) there were only two studies, (2) which used massive doses of PCBs, (3) which represented a preliminary stage of research, and (4) which tested animals, not humans.
+None of these reasons is sufficient to render an expert's opinion legally unreliable.
+The question is whether the expert's use of these studies to help formulate an opinion is methodologically sound.
+The number of studies is irrelevant to this inquiry.
+As the Supreme Court made clear in Daubert , the fact that there are a limited number of studies does not undermine the utility of those studies in assisting an expert to form an opinion.
+See Daubert , 509 U.S. at , 113 S.Ct. at 2797 .
+Furthermore, it is improper to find research unreliable solely because it uses animal subjects.
+See Paoli , 35 F.3d at 781 (finding that the district court abused its discretion in excluding animal studies indicating probable link between PCBs and cancer).
+Opinions of any kind are derived from individual pieces of evidence, each of which by itself might not be conclusive, but when viewed in their entirety are the building blocks of a perfectly reasonable conclusion, one reliable enough to be submitted to a jury along with the tests and criticisms cross-examination and contrary evidence would supply.
+As the Supreme Court said in Daubert , "[t]hese conventional devices, rather than wholesale exclusion under an uncompromising "general acceptance" test, are the appropriate safeguards where the basis of scientific testimony meets the standards of Rule 702 ."
+Daubert , 509 U.S. at , 113 S.Ct. at 2798 .
+In this case, the Joiners' experts discussed the studies of at least thirteen different researchers, and referred to several reports of the World Health Organization that address the question of whether PCBs cause cancer.
+The Joiners' experts testified that many of these studies were conducted and analyzed to test specific hypotheses about the relationship between PCBs and cancer, that many have been published in reputable scientific journals, and that they were generated and tested using the scientific method.
+In ruling the Joiners' expert testimony inadmissible, however, it appears that the district court first viewed each expert's opinions as based only on the six studies discussed in her opinion 9 and then accepted defendants' criticisms of the conclusions reached in those studies, stating that "the studies simply do not support the experts' position that PCBs more probably than not promoted Joiner's lung cancer."
+Joiner , 864 F.Supp.
+at 1326 .
+As Daubert makes clear, the district court may not decide whether an expert's opinions are correct, but merely whether the bases supporting the conclusions are reliable.
+Daubert , 509 U.S. at , 113 S.Ct. at 2797 ("The focus, of course, must be solely on principles and methodology, not on the conclusions that they generate.").
+Instead of viewing the bases of an expert's opinion as a whole to screen out mere speculation, the district court assessed only a portion of the studies relied upon by each of the Joiners' experts, and then excluded the testimony because it drew different conclusions from the research than did each of the experts.
+Ultimately, the court should satisfy itself as to the legal reliability of proffered expert testimony, leaving the jury to decide the correctness of competing expert opinions.
+2.
+Application of Daubert to this Case--Relevance The second prong of Daubert requires the court to determine whether the "testimony 'assist[s] the trier of fact to understand the evidence or to determine a fact in issue,'" by examining whether the "reasoning or methodology [underlying the testimony] can be applied to the facts in issue."
+Daubert , 509 U.S. at , 113 S.Ct. at 2795-96 .
+The district court found that the experts' opinions did not "fit" the facts in the case because "the opinions [linking PCBs to cancer] are inextricably bound up with the experts' assumption that Joiner was exposed to furans and dioxins," Joiner , 864 F.Supp.
+at 1320 , an assumption the court deemed unfounded.
+Our review of the record indicates, however, that there appears to be a genuine factual dispute as to whether PCBs alone can cause cancer, and that this issue was inappropriate for summary judgment.
+Although the terms "PCBs," "dioxins," and "furans" often appeared together in each expert's proffered testimony, and at times the Joiners' experts asserted that it can be assumed furans and/or dioxins were present in the City's PCB-contaminated transformer fluid, it does not necessarily follow that each expert's opinion that PCBs caused Joiner's cancer was contingent upon his exposure to furans or dioxins.
+During his deposition, Teitelbaum testified that Schecter similarly testified that "PCBs alone also cause cancer" in explaining that PCBs can initiate, as well as promote, cancer.
+Thus, in terms of the Joiners' claim that PCBs alone can cause cancer, it becomes immaterial whether there were furans and dioxins in the fluid.
+Similarly, with reference to the theory that Joiner was indeed exposed to furans and dioxins, it appears that a genuine dispute likewise exists over whether furans and dioxins could have been present in the dielectric fluid.
+For example, both of the Joiners' experts testified that furans can be generated when PCBs are exposed to fires and lightning, and that furans and dioxins are often found together with PCBs.
+Schecter stated that "[i]t is well documented that the heating of or burning of PCBs will create both the [furans] and deadly dioxins."
+Teitelbaum testified that furans would inevitably result given the fact that the City's transformers had suffered fires and lightning strikes on several occasions.
+Teitelbaum testified during his deposition that "one simply has to look at the chemistry of the situation and what's known about PCBs manufactured in this period and assume that there was some furan present, that there may have been some dioxin present, depending on the particular fire and circumstances."
+Id. at 1321 .
+Defendants sought to neutralize the impact of the Joiners' evidence by establishing that neither furans nor dioxins would have been produced unless the transformer fluid exceeded a certain temperature.
+Defendants' expert, Dr.
+John F. Brown, Jr., testified that the exposure of PCBs to temperatures of 300 degrees centigrade for several days could generate furans, but that it was unlikely the City would have allowed the temperature ever to reach 300 degrees during a bake-out because of potential damage to the transformer core.
+Brown did not comment, however, on the temperatures that may have been reached during an accidental transformer fire which, because it is not planned by the City, does not involve intentional damage to the transformer core.
+Nor did the defendants provide evidence of what the temperatures in these fires might have been, or establish that the temperatures, in fact, never exceeded 300 degrees.
+The defendants never succeeded in rebutting the conclusions of the Joiners' experts by either establishing a threshold temperature for the conversion of furans or dioxins in a PCB solution, or presenting any direct evidence of the actual temperatures attained during either the bake-out process or accidental fires.
+In contrast, Teitelbaum, when asked if he was able to "determine the temperature created from the stadium lights that were used to bake the transformer coils," replied, "[Joiner] says it was hot enough for it to smoke, and oil smokes at around 700 degrees, 800 degrees [centigrade]."
+In addition, while defendants' expert, Dr. Thomas O. Rouse, testified that it would be "quite unlikely" for a lightening strike to cause the production of furans from PCBs, id. at 1317 n. 12, Teitelbaum testified in his affidavit that "Mr.
+Joiner was directly involved in the salvage of PCB containing transformers which had been involved in a lightning strike, [and that] a lightning strike and overheating of a transformer in the presence of oxygen in the dielectric fluid, inevitably produces [furans]."
+For all of the foregoing reasons, the testimony of plaintiffs' experts was erroneously excluded and summary judgment should not have been granted.
+Accordingly, we reverse the summary judgment and remand for proceedings consistent herewith.
+REVERSED and REMANDED.

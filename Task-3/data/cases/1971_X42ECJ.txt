@@ -1,0 +1,55 @@
+ CLARK , Circuit Judge: We have held this day in a companion case, Laitram Corp. v. Deepsouth Packing Co., Inc. , 443 F.2d 928 , that the district court was correct in determining that Laitram's patents were valid, and that Deepsouth had infringed Claim 3 of the '218 patent and Claim 1 of the '927 patent .
+Our present problem is to decide whether Deepsouth may sell its infringing machine in foreign markets when it produces all essential parts of the machine in the United States but ships it in a form which contemplates minor final assembly in such foreign markets.
+We hold it may not.
+35 U.S.C.A. 271(a) proscribes the unauthorized making of any patented invention within the United States.
+1 Therefore, our specific task is to determine the meaning and scope of the word "makes" in 271(a) within the context of this litigation.
+The district court, after enjoining Deepsouth from further infringing Laitram's patents, ruled that the infringing machine was not "made" in the United States, if not assembled in final operable condition prior to export, and accordingly modified its injunction order to permit sale abroad where the machinery was not put into operable condition in the United States.
+It is undisputed that all the parts for the deveiner are produced in the United States.
+Not all of the parts, however, are assembed together in the United States into a complete working machine.
+In particular, the razor blades and the water header are not attached to the trough in the slitter and the fingernail belt is not placed in the discharge conveyor.
+In addition, when the machine is shipped, the razor blades, water header and trough are placed in three different crates, and the fingernail belt is crated separately from the discharge conveyor.
+Mr. Skrmetta, president of Deepsouth, admitted, however, that the machine could be assembled in less than an hour once it arrived overseas.
+His frank description of his situation to a foreign customer was this: The issue in this case appears to be one of first impression in this Circuit and has only been decided in three other circuits.
+See Radio Corp. of America v. Andrea , 79 F.2d 626 (2nd Cir. 1935); Cold Metal Process Co. v. United Engineering & Foundry Co. , 235 F.2d 224 (3rd Cir. 1956); Hewitt-Robins, Inc. v. Link Belt Co. , 371 F.2d 225 (7th Cir. 1966).
+It should be noted that the last two decisions did nothing more than follow Andrea .
+The district judge, 310 F.Supp.
+926 , was clearly correct in determining that these cases stand for the proposition that a machine is not made in the United States until it is in fully assembled form.
+What he could not know is that we would refuse to follow them.
+To see how the courts have worked themselves into what we perceive to be a conceptual box, one must begin with the rule that a patent protects only the machine in its totality and not its individual unassembled elements.
+Brown v. Guild , 23 Wall. 181 , 90 U.S. 181 , 23 L.Ed. 161 (1874); Aro Mfg. Co., Inc. v. Convertible Top Replacement Co. [**198] , 365 U.S. 336 , 81 S.Ct. 599 , 5 L.Ed.2d 592 (1961); Mercoid Corp. v. Minneapolis-Honeywell Regulator Co. , 320 U.S. 680 , 64 S.Ct. 278 , 88 L.Ed. 396 (1943).
+From this well-known rule, the other circuits have reasoned that since the patent is on the whole and not merely on the parts, the protection of the patent laws is not extended until the machine is complete.
+Since the machine was not completed within the United States, there can literally be no infringement.
+"No wrong is done the patentee until the combination is formed."
+Radio Corp. of America v. Andrea , supra , 79 F.2d at 628 .
+We reject this reasoning.
+The word "makes" should not be given an artificial, technical construction but should be accorded a construction in keeping with the ordinary meaning of that term.
+The fact situation in Andrea well illustrates the point.
+This case involved an injunction suit against an accused infringer of radio sets.
+It was undisputed that all the parts of the radio were manufactured in the United States, but to make the sets operational one had to perform the simple process of inserting vacuum tubes into sockets and then plugging the radio into a wall socket.
+These acts were performed overseas, but it was admitted that only a matter of seconds was involved.
+The court nevertheless held that the radio sets were not made in the United States, and thus no infringement had occurred.
+Yet, on a second appeal after remand the court held that since additional proof disclosed the tubes had actually been inserted in the sockets in the United States for purposes of testing and then disconnected for shipment, the radio sets were "made within the United States" because they were "physically connected in an operable relationship."
+Radio Corp. of America v. Andrea , 90 F.2d 612 (2nd Cir. 1937).
+Such a dependence on technicality would require us to countenance obvious schemes, perhaps as simple as omitting an important screw, designed to evade the mandate of 271(a) .
+No such magical significance should be accorded under 271(a) to the place of ultimate mechanical assembly of a machine's elements.
+We hold that "makes" means what it ordinarily connotes--the substantial manufacture of the constituent parts of the machine.
+To hold otherwise would subvert the Constitutional scheme of promoting "the Progress of Science and useful Arts, by securing for limited Times to Authors and Inventors the exclusive Right to their respective Writings and Discoveries."
+U.S.Const.
+art.
+I 8 Cl.
+8.
+It would allow an infringer to set up shop next door to a patent-protected inventor whose product enjoys a substantial foreign market and deprive him of this valuable business.
+If this Constitutional protection is to be fully effectuated, it must extend to an infringer who manufactures in the United States and then captures the foreign markets from the patentee.
+The Constitutional mandate cannot be limited to just manufacturing and selling within the United States.
+The infringer would then be allowed to reap the fruits of the American economy--technology, labor, materials, etc.--but would not be subject to the responsibilities of the American patent laws.
+We cannot permit an infringer to enjoy these benefits and then be allowed to strip away a portion of the patentee's protection.
+The purpose behind the Brown, Aro, Mercoid rule is to prevent the patentee from exercising exclusive control over the constituent elements of his patented machine.
+The public has a right to utilize these elements and is only precluded from making use of the patented machine itself.
+Thus when interpreting 271(a) , we must balance the protection extended to the patentee by the patent laws with the public's right to use the constituent elements.
+This is why we do not decide at this time whether all of the parts must be produced in the United States.
+That decision must await the presentation of that fact situation.
+But we do hold that when all the parts of a patented machine are produced in the United States and, in merely minor respects, the machine is to be finally assembled for its intended use in a foreign country, that the machine is "made" within the United States.
+Here we do not have a question of the public's right to use a constituent element, but rather Deepsouth's right to use the entire patented machine.
+We must, therefore, give full effect to the complete panoply of the patent laws which is extended to the patentee.
+The decision of the district court is reversed and the cause is remanded with directions to the district court to withdraw its modifications to the injunctive relief granted to Laitram and to take any further proceedings which it may determine to be necessary to comply with the import of this opinion.
+Reversed and remanded with directions.

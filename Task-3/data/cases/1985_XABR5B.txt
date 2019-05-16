@@ -1,0 +1,165 @@
+ CLARK , Circuit Judge: This case raises important questions concerning an individual union member's right to sue a union for its alleged negligent acts and whether such a suit can be maintained in state court without violating the doctrine of federal preemption as concerns the National Labor Relations Act (NLRA) and the Labor Management Relations Act (LMRA).
+Plaintiff was an electrical apprentice with Florida Power & Light (FPL), and a member in good standing with the International Brotherhood of Electrical Workers (IBEW) and its local affiliate.
+On January 11, 1982, FPL assigned her to a job which she alleges was beyond the scope of her training.
+On that day, plaintiff sustained injuries while performing work within the scope of her employment.
+Plaintiff sued the IBEW and its local affiliate, alleging they were negligent in both training and providing her with a safe work place.
+The gravamen of plaintiff's complaint is that the unions breached a duty owed to her to assure that she was "provided safety in her work place and a safe work place, and further, the plaintiff would not be required or allowed to take undue risks in the performance of her duties which were not commensurate with her training and experience or to work in an area which was not safe as commensurate with her training and experience."
+In sum, plaintiff alleged that the union had a duty to ascertain that she had had the essential training, background, education, and experience before being assigned to work in an inherently dangerous work place such as an electrical substation, and that the union breached that duty.
+1 The district court found that the duty allegedly owed to the plaintiff flowed from the collective bargaining agreement which imposed a duty on the union to monitor the safety and training of its members.
+The district court held that the union's failure to monitor the employee's work place constituted a breach of its duty of fair representation.
+The court further held that the plaintiff had failed to demonstrate that the union's allegedly negligent activity was unrelated to the collective bargaining agreement or beyond the scope of the employee/union fiduciary relationship.
+Consequently, the district court ruled that plaintiff's suit was based on federal labor law and that the suit had been properly removed from state to federal court.
+Finding that federal law applied, the district court then looked to 10(b) of the Labor Management Relations Act, 29 U.S.C. 160(b) , which sets a six-month statute of limitation for suits alleging an unfair labor practice.
+The court noted that the Supreme Court in DelCostello v. International Brotherhood of Teamsters , 462 U.S. 151 , 103 S.Ct. 2281 , 76 L.Ed.2d 476 (1983) had applied the six-month limitations period of 10(b) to a hybrid 301/fair representation suit brought by an employee against his employer and union.
+Plaintiff here filed her suit in state court over two years after she sustained her injury.
+The district court found that the rationale of DelCostello applied to plaintiff's case because her suit was based upon the union's breach of its duty of fair representation.
+Accordingly, the district court dismissed the suit for failure to comply with the federal statute of limitations.
+We reverse and remand for the district court to remand the case to the state court, finding that plaintiff's complaint on its face states a common law negligence claim that may be cognizable in state court and is not preempted by the federal labor laws.
+General Principles Involving Federal Preemption Under The NLRA And LMRA In conferring broad powers upon the National Labor Relations Board (NLRB) to interpret and enforce the NLRA, Congress did not specify the extent to which existing state regulation was preempted.
+Thus, the breadth of preemption mandated by the NLRA was left to interpretation by the courts.
+In Garner v. Teamsters Union , 346 U.S. 485 , 74 S.Ct. 161 , 98 L.Ed. 228 (1953), the Court held that a state court was not empowered to enjoin union picketing instituted in an attempt to organize a company's employees, where there was no observable threat to public safety.
+The question presented to the Court was whether "the State, through its courts, may adjudge the same controversy and extend its own form of relief" when resolution of such controversy falls within the jurisdiction of the NLRB.
+Garner , 346 U.S. at 489 , 74 S.Ct. at 165 .
+The Court found the state's action preempted: "Congress evidently considered that centralized administration of specially designed procedures was necessary to obtain uniform application of its substantive rules and to avoid these diversities and conflicts likely to result from a variety of local procedures and attitudes toward labor controversies," because a "multiplicity of tribunals and a diversity of procedures are quite as apt to produce incompatible or conflicting adjudications as are different rules of substantive law."
+Garner , 346 U.S. at 490-91 , 74 S.Ct. at 166 .
+The next year in United Construction Workers v. Laburnum Construction Corp. , 347 U.S. 656 , 74 S.Ct. 833 , 98 L.Ed. 1025 (1954), the Court allowed a state tort action brought by a company against a union on the basis of asserted threats of violence accompanying the union's demand that the company recognize the union as the sole bargaining agent for its employees.
+Although recognizing that the conduct sued upon also violated 8 of the Act, creating an administrative remedy before the board, the Court found Garner distinguishable because in that case the state's injunctive procedures conflicted with the administrative remedy available before the board, while in Laburnum Congress had provided no administrative substitute for the remedy available under state law.
+Garner Laburnum , 347 U.S. at 663-64 , 74 S.Ct. 837-38 .
+Significantly, in permitting the state court suit, the Court made the following observation on the purposes behind the Labor Management Relations Act (LMRA): Laburnum , 347 U.S. at 666-67 , 74 S.Ct. at 839 (footnote omitted).
+In San Diego Building Trades Council v. Garmon , 359 U.S. 236 , 79 S.Ct. 773 , 3 L.Ed.2d 775 (1959), the Court reiterated the preemption doctrine but outlined two general exceptions to preemption.
+In Garmon the employer had refused the union's request to enforce a closed-shop, leading the union to begin picketing his place of business.
+The employer brought suit in California Superior Court and was granted an injunction plus $1,000 in damages.
+The Supreme Court reversed, finding that state court jurisdiction is preempted "[w]hen it is clear or may fairly be assumed that the activities which a state purports to regulate are protected by 7 of the [NLRA], or constitute an unfair labor practice under 8 , due regard for the federal enactment requires that state jurisdiction must yield."
+Garmon , 359 U.S. at 244 , 79 S.Ct. at 779 .
+However, the Court in Garmon also announced two limited exceptions to the preemption doctrine, "where the activity regulated was a merely peripheral concern of the Labor Management Relations Act [o]r where the regulated conduct touched interests so deeply rooted in local feeling and responsibility that, in the absence of compelling congressional direction, we could not infer that Congress had deprived the states of the power to act."
+Garmon , 359 U.S. at 243-44 , 79 S.Ct. at 779 (citation and footnote omitted).
+More recently in Farmer v. United Brotherhood of Carpenters , 430 U.S. 290 , 97 S.Ct. 1056 , 51 L.Ed.2d 338 (1977) the Court allowed an employee's state action against his union for intentional infliction of emotional distress, in the form of personal abuse and harassment because of dissident political activity.
+Acknowledging the central question posed in Garmon , whether the activities are protected by 7 or prohibited by 8 , the Court noted its previous refusal to apply the preemption doctrine to activities otherwise within the scope of the LMRA if such activities were merely of peripheral concern to the Act, or involved interests so deeply rooted in local concern that in the absence of compelling congressional direction it would be improper to infer that Congress had deprived the states of their power to act.
+See Farmer , 430 U.S. at 296-97 , 97 S.Ct. at 1061 .
+Thus, a review of relevant Supreme Court precedent establishes three factors that must be present before state courts may assert jurisdiction and avoid federal preemption; (1) the state action must be of peripheral concern to federal labor law; (2) the state action must involve conduct in which a state has an overriding interest and which is deeply rooted in local concern; and (3) there must be little risk that the state cause of action will interfere with the effective administration of federal labor policy.
+In analyzing whether federal preemption applies to the case sub judice , we must determine whether plaintiff's complaint essentially alleges either an unfair labor practice or duty of fair representation claim, or a breach of contract claim under 301 .
+Federal Preemption under 301 Turning first to the availability of a breach of contract claim under 301 , 2 plaintiff admits that such a remedy may have been available to her but asserts that her complaint sounded in tort not contract, and that a 301 suit would not provide the full measure of compensatory damages available under state law.
+We find ourselves in agreement with plaintiff, for nothing in 301 , with the possible exception of back wages, provides the plaintiff with the full measure of damages available in tort.
+Nor does the fact that a state action may in part involve the same relief available under 301 mandate preemption.
+As stated by the Supreme Court in International Union, United Automobile Workers v. Russell , 356 U.S. 634 , 78 S.Ct. 932 , 21 L.Ed.2d 1030 (1958): Id. at 644-45 , 78 S.Ct. at 938-39 (footnote omitted).
+Nor would plaintiff's state action run afoul of the Supreme Court's recent pronouncement in Allis-Chalmers Corp. v. Lueck , U.S. , 105 S.Ct. 1904 , 85 L.Ed.2d 206 (1985), where the Court stated: "[W]hen resolution of a state-law claim is substantially dependent upon analysis of the terms of an agreement made between the parties in a labor contract, that claim must either be treated as a 301 claim, see Avco Corp. v. Aero Lodge 735 , 390 U.S. 557 , 88 S.Ct. 1235 , 20 L.Ed.2d 126 (1968), or dismissed as preempted by federal labor-contract law."
+Id .
+, 105 S.Ct. at 1916 .
+The respondent in Allis-Chalmers had brought a state action for the bad-faith handling of an insurance claim arising out of a disability insurance plan included in a collective bargaining agreement.
+Though respondent's claim constituted a tort under Wisconsin law, the collective bargaining agreement had established a disability grievance procedure that culminated in final and binding arbitration.
+When the dispute arose over the insurer's handling of respondent's disability claim, he brought a tort suit against petitioner in state court rather than utilizing the grievance procedure.
+The Court found that respondent's tort suit was preempted because "[u]nder Wisconsin law, the tort intrinsically relates to the nature and existence of the contract.
+Hilker v. Western Automobile Ins. Co. , 204 Wis. 1, 13-16 , 235 N.W. 413, 414-15 (1931).
+Thus, the tort exists for breach of a 'duty devolve[d] upon the insurer by reasonable implication from the express terms of the contract,' the scope of which, crucially, is 'ascertained from a consideration of the contract itself.'
+Id. at 16 , 235 N.W. at 415 ."
+Allis-Chalmers , 105 S.Ct. at 1914 .
+Thus, the Court concluded that: "Because the right asserted not only derives from the contract, but is defined by the contractual obligation of good faith, any attempt to assess liability here inevitably will involve contract interpretation Congress has mandated that federal law govern the meaning given contract terms.
+Since the state tort purports to give life to these terms in a different environment, it is pre-empted."
+Id. at 1915 .
+The difference between Allis-Chalmers and the instant case is easily seen.
+In Allis-Chalmers , the tort was essentially a product of the contract itself--without the contract no tort claim could have existed.
+Moreover, the collective bargaining contract itself provided the remedy--arbitration--for a breach.
+Here, plaintiff's claim is essentially one of common law negligence for breach of a duty of care.
+Neither the collective bargaining agreement nor 301 provides a remedy.
+Though the contract may be of use in defining the scope of the duty owed, liability will turn on basic negligence principles as developed by state law.
+Moreover, the Court in Allis-Chalmers emphasized that its holding was not meant to have preclusive effect on all tort suits arising out of a labor agreement.
+301 Allis-Chalmers , 105 S.Ct. at 1916 .
+Federal Preemption and the Duty of Fair Representation In determining whether plaintiff's suit is preempted because it asserts no more than an unfair labor practice claim or a duty of fair representation claim, we first turn to Vaca v. Sipes , 386 U.S. 171 , 87 S.Ct. 903 , 17 L.Ed.2d 842 (1967) where the Supreme Court stated that a union breaches its duty of fair representation when it treats an individual in an arbitrary, discriminatory, or bad faith manner.
+Id. at 190 , 87 S.Ct. at 916 .
+In establishing the requisite bad faith conduct more than mere negligence must be shown.
+See Vaca , supra , 386 U.S. at 194-95 , 87 S.Ct. at 919 ; Harris v. Schwerman Trucking Co. , 668 F.2d 1204, 1206 (11th Cir.1982).
+Several cases provide guidance on the question of whether a suit for negligence against a union can be no more than a duty of a fair representation claim and therefore is preempted by federal law.
+In Bryant v. UMW , 467 F.2d 1 (6th Cir.1972) cert. denied , 410 U.S. 930 , 93 S.Ct. 1370 , 35 L.Ed.2d 592 (1973), the plaintiff brought suit against the union for its negligent failure to enforce a mine safety provision in the collective bargaining agreement.
+The provision at issue in the collective bargaining agreement called for the creation of a mine safety committee to be selected by the local union.
+The provision provided that the mine safety committee "may inspect" the mine and report its findings and recommendations to the management.
+Bryant , 467 F.2d at 4 n. 3.
+However, the union acted only in an advisory capacity and the enforcement of the mine's safety regulations was left to a grievance and arbitration process.
+Thus, the Sixth Circuit held that the union in this instance had not undertaken any duty beyond its usual duty of fair representation.
+Bryant , 467 F.2d at 5 .
+The principal basis for the court's decision was that the union under the contract had not undertaken any affirmative duty to inspect the mines for its members benefit.
+In the case sub judice , the plaintiff alleges that the union had a specific duty to determine her fitness to confront and work with the dangers inherent in the job to which she was assigned.
+In Helton v. Hake , 386 F.Supp.
+1027 (W.D.Mo.1974), the survivors of a deceased employee brought a state action against the union asserting negligence by the union in its violation of a duty imposed by the collective bargaining agreement to assure that no iron work was performed near high-tension power lines.
+Finding in the plaintiffs' complaint no allegation of a breach by the union of its duty of fair representation, and in the absence of any charge of arbitrary or discriminatory conduct, the court allowed the state action as the only available means of redress for the plaintiffs.
+Id. at 1030-31 .
+Moreover, the court found that the contract had imposed upon the union an affirmative duty to enforce safety rules: Id. at 1031 .
+The court went on to find that the complaint could not properly be construed as a suit for violation of a collective bargaining agreement under 301 : Section 301(a) Section 301 Id. at 1033-34 (citations omitted).
+Another case which utilized a similar analysis is Dunbar v. United Steelworkers of America , 100 Idaho 523 , 602 P.2d 21 (1979), cert. denied , 446 U.S. 983 , 100 S.Ct. 2963 , 64 L.Ed.2d 839 (1980), where the court upheld a wrongful death action against the union for negligence in breaching its contractual obligations regarding mine safety.
+The court distinguished the Sixth Circuit's Bryant decision on the ground that no contractual duty was found in that case whereas in Dunbar , the collective bargaining agreement mandated that the union "shall inspect" the mine.
+Dunbar , 602 P.2d at 26 .
+However, in a suit arising out of the same accident as in Dunbar , House v. Mine Safety Appliance Co. , 417 F.Supp.
+939 (D.Idaho 1976), the district court refused to allow a negligence action finding that the asserted grounds of liability depended entirely upon the contract, that the safety of working conditions was a cornerstone of the union movement, and thus the suit was for a breach of the collective bargaining agreement and preempted by 301 .
+Id. at 944 .
+The court in House went on to state, "[i]n light of the collective bargaining agreement in this case, a theory of common law negligence for breach of an alleged safety duty is inextricably intertwined and embodied in the union's duty of fair representation."
+Id. at 945 (footnote omitted).
+Finally, the court found that policy considerations dictated federal preemption of common law negligence suits against unions because of the following two factors: (1) punishing unions for failing to assure compliance by the company with safety provisions called for in the collective bargaining agreement would undermine the incentive of employers to comply with such agreements; and (2) imposing such liability would discourage unions from including such safety standards in collective bargaining agreements.
+Id. at 946 .
+These policy considerations were subsequently embraced by the First Circuit in Condon v. Local 2944, United Steelworkers of America , 683 F.2d 590 (1st Cir.1982) where the court refused to allow a negligence suit against a union for its alleged failure to properly perform its safety monitoring function.
+The court concluded that "a union cannot be held liable for the negligent performance of a duty it assumed that arose inextricably, as here, from the safety and health provisions of a collective bargaining agreement."
+Condon , 683 F.2d at 595 .
+3 The conflicting case law outlined above indicates that there are two key issues which must be addressed in determining whether a common law negligence suit is available against a union.
+First, a court must determine whether the duty allegedly breached by the union is so inextricably intertwined with the collective bargaining agreement that only a duty of fair representation claim is available, thereby preempting any claim for a common law tort.
+Second, in making this determination, a court must be aware of federal labor policy and whether a negligence suit against a union impermissibly impedes upon the federal labor-management regulatory scheme.
+With regard to the latter concern, the primary inquiry is whether the duty sought to be enforced against the union in the negligence suit is so tangential and remote to the federal scheme that the suit is properly exempted from the preemption rule.
+See Farmer v. United Brotherhood of Carpenters , 430 U.S. 290 , 97 S.Ct. 1056 , 51 L.Ed.2d 338 (1977).
+Our balancing of the relevant factors leads us to conclude that plaintiff's negligence claim is not preempted.
+First, we note that the duty of fair representation is designed "to enforce fully the important principle that no individual union member may suffer invidious, hostile treatment at the hands of the majority of his co-workers."
+Motor Coach Employees v. Lockridge , 403 U.S. 274, 301 , 91 S.Ct. 1909, 1925 , 29 L.Ed.2d 473 (1971).
+We are aware of no authority which indicates that a duty of fair representation displaces those duties created by state law which prohibit a person or corporation from engaging in tortious conduct resulting in death or injury to a person or property.
+For instance, nothing in the federal scheme, either directly or by implication, protects a union's negligence in the training or assignment of one of its members anymore than it protects libel, violent tortious activity, or intentional infliction of emotional distress.
+4 Moreover, nothing in the statutory scheme expressly addresses such conduct, or provides a mechanism for its redress.
+Likewise, it cannot be said that by failing expressly to protect or prohibit acts of negligence by unions, Congress intended to permit unions to engage in negligent acts free of the scrutiny of state courts.
+Rather, it is far more likely that Congress "by silence indicate[d] a purpose to let state regulation be imposed " Retail Clerks International Association v. Schermerhorn , 375 U.S. 96, 104 , 84 S.Ct. 219, 223 , 11 L.Ed.2d 179 (1963) (citing Florida Avocado Growers v. Paul , 373 U.S. 132, 141-43 , 83 S.Ct. 1210, 1216-18 , 10 L.Ed.2d 248 (1963)).
+Nor is the union's contractual duty to assure worker training as a prerequisite to the assignment of the worker to an area of danger inextricably intertwined with its federal duty of providing fair representation to its members.
+The district court below found that Hechler had failed to "demonstrate that the union's allegedly negligent activity was unrelated to the collective bargaining agreement or beyond the scope of the employee/union fiduciary relationship."
+Record Excerpt at 14.
+This requirement is far too onerous, for all of the cases on this subject involve conduct which is related to the collective bargaining agreement.
+Otherwise, there would be no preemption issue at all.
+Further, this claim does not grow out of "the employee/union fiduciary relationship."
+The question is whether the challenged activities are beyond the central scope of the federal regulatory scheme, not beyond the scope of the employee/union relationship.
+That question is satisfied in this case because the conduct at issue is not prohibited nor protected by the federal scheme.
+As previously discussed, the plaintiff has no duty of fair representation action against the union since this complaint does not allege that the union failed to properly represent plaintiff in a claim against the employer.
+Moreover, the fact that some reference to a collective bargaining agreement must be made in order to define the scope of the union's duty does not automatically lead to the conclusion that a suit in negligence must be interpreted as no more than a 301 action and therefore is preempted.
+As noted by the district court in Helton v. Hake , 386 F.Supp.
+1027, 1033 (W.D.Mo.1974), to adopt such a view, Section 301(a) Id. at 1033 .
+The next question is whether a state court's adjudication of the claim would threaten interference with the federal scheme.
+As previously noted even if the state action threatens adjudication of matters cognizable by the board or by a court adjudicating federal labor law, the state action may be permissible if only peripherally related to the federal scheme or is deeply rooted in the state's concerns.
+See Sears, Roebuck & Co. v. San Diego County District Council of Carpenters , supra , 436 U.S. at 188 n. 13, 98 S.Ct. at 1753 n. 13; Farmer v. United Brotherhood of Carpenters , supra , 430 U.S. at 296-97 , 97 S.Ct. at 1061-62 .
+Thus, even if the state action threatens some potential interference with the regulatory scheme, this court must balance the extent of that threat against the importance of the action to the state.
+We find no impermissible conflict with the federal regulatory scheme in this case because there is no realistic threat that the state court will adjudicate any significant matters cognizable either by the board or by a federal or state court adjudicating a federal cause of action arising under the labor laws.
+We emphasize at this point the narrow scope of our holding.
+We decide this case on the facts presented.
+This case is distinguishable from the cases previously described 5 in which the plaintiff sought relief from the union for a breach of its general duty to inspect for safety for the benefit of the entire work force in the workplace pursuant to the collective bargaining agreement.
+We will wait until a later date to decide the issue presented to the courts in Bryant , Dunbar , and Condon .
+In the present case the plaintiff alleges a duty running from the union to her individually that required the union to assure that she was first qualified to work in a dangerous electrical substation on the job assigned to her prior to her assignment.
+The plaintiff does not claim the union was responsible for making the substation safe for all of the workers.
+The State of Florida has a strong interest in redressing negligent conduct, not only for the personal benefit of the plaintiff but also for the public safety as well.
+It can be argued that the Supreme Court's opinions have focused primarily upon state law claims of outrageous conduct and that the claim in this case is less important than the interest in public safety and order which the court has invoked in permitting state actions to prevent or redress potentially violent conduct.
+See San Diego Building Trades Council v. Garmon , supra , 359 U.S. at 247-48 , 79 S.Ct. at 780-81 , (citing United Construction Workers v. Laburnum Construction Corp. , supra ).
+However, the same lesser status could be assigned to the state's interest in redressing defamation or the intentional infliction of emotional distress, two causes of action which concern primarily personal as opposed to public injury; which the court has also permitted.
+See Sears, Roebuck & Co. v. San Diego County District Council of Carpenters , supra , 436 U.S. at 196 n. 25, 98 S.Ct. at 1757 n. 25 (citing Farmer v. United Brotherhood of Carpenters , supra ).
+Additionally, the Supreme Court in Farmer spoke generally about the state's interest in protecting its citizens and in referring to defamation cases like Linn v. United Plant Guard Workers , supra , has ascribed to the states an interest in preventing defamation no less strong than its interest in protection from physical injury.
+Farmer , supra , 430 U.S. at 302 , 97 S.Ct. at 1064-65 .
+The next aspect of our analysis turns to the concern that holding a union liable for its negligent acts would disrupt labor relations policy and would discourage unions from undertaking affirmative safety responsibilities in collective bargaining agreements.
+As stated by the court in House : House , 417 F.Supp.
+at 946-47 (footnotes omitted).
+Likewise, the Sixth Circuit in Bryant v. Mine Workers , supra , stated: Bryant , 467 F.2d at 5-6 (footnote omitted).
+While these arguments are persuasive, we have previously pointed out the distinction between this case which does not claim the union is responsible for the safety of the workplace and those cases which do.
+This case cannot be said to intrude upon federal labor policy.
+The history of the development of craft workers has involved training of apprentices, promotions to journeymen and then to craftmen based on experience and expertise.
+Unions have protected seniority and differential wage rates based on this system.
+In this case the union is charged with the responsibility of assuring that the worker can cope with the dangers inherent in the workplace.
+The undertaking of this responsibility is between the union and the worker and does not implicate national labor policy.
+As we have demonstrated, the duty of fair representation has nothing directly to do with training for job safety.
+It is concerned with arbitrary or discriminatory conduct toward individual employees, which is violative of the union's statutory obligations inherent in its status as a bargaining representative for the worker.
+That the duty of fair representation has no direct relation to training for job safety is evidenced by the fact that plaintiff in this case does not have a cause of action for breach of a fair representation duty.
+The balancing undertaken by the House and Bryant courts essentially involved a policy making/legislative function which balanced the pros and cons of a state's attempt to proscribe a union's negligence regarding job safety.
+Admittedly, these courts concluded that allowing suits for negligence have a negative impact upon federal labor policy.
+However, these conclusions were reached without properly focusing on the issue involved in any preemption analysis, that is, is the activity which the state seeks to regulate an activity that Congress has delegated to the board or the state and federal courts under federal labor law.
+As we have discussed above, tortious conduct by a union against one of its members is simply not an activity that falls within the exclusive realm of federal labor law.
+Accordingly, we refuse to find that this policy rationale alone is sufficient to warrant preemption of the plaintiff's negligence suit.
+Returning to the plaintiff's complaint we find that its allegations against the union sound in tort law and do not make out a duty of fair representation/ 301 claim.
+Accordingly, because federal labor law was not invoked in plaintiff's complaint, the federal court lacks jurisdiction and removal was improvidently granted by the district court.
+We direct that the case be remanded to the state tribunal for adjudication on the merits.
+What we have discussed herein relates only to the preemption issue and we intimate no opinion with respect to the sufficiency of the complaint.
+REVERSED and REMANDED.

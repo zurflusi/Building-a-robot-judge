@@ -1,0 +1,171 @@
+ JOHN M. WALKER, JR., Circuit Judge: In these consolidated appeals, we consider the scope of discovery available to a plaintiff in possession of a valid money judgment against a foreign sovereign.
+Specifically, we review an order of the District Court for the Southern District of New York (Thomas P. Griesa, Judge ) compelling two non-party banks to comply with subpoenas duces tecum seeking information about Argentina's assets located outside the United States.
+Argentina argues that the banks' compliance with the subpoenas would infringe on its sovereign immunity.
+We conclude, however, that because the district court ordered only discovery, not the attachment of sovereign property, and because that discovery is directed at third-party banks, Argentina's sovereign immunity is not affected.
+BACKGROUND In December 2001, Defendant-Appellant the Republic of Argentina defaulted on payment of its external debt.
+While most of Argentina's bondholders agreed to voluntary restructurings in 2005 and 2010, others, including Plaintiff-Appellee NML Capital, Ltd. ("NML"), did not.
+Beginning in 2003, NML filed eleven actions in the Southern District of New York to collect on its defaulted Argentinian bonds.
+Jurisdiction in the district court was premised on Argentina's broad waiver of sovereign immunity in the bond indenture agreements.
+[fn1] The district court has entered five money judgments [**2] in NML's favor totaling (with interest) approximately $1.6 billion.
+It has also granted summary judgment to NML in the remaining six actions, in which NML's claims total (with interest) more than $900 million.
+Argentina has not satisfied these judgments and NML has thus attempted to execute them against Argentina's property.
+This litigation has involved lengthy attachment proceedings before the district court and multiple appeals to this court.
+[fn2] Here we will recite only the facts relevant to the instant appeals.
+NML has pursued discovery concerning Argentina's property located in the United States since 2003.
+In 2010, "[i]n order to locate Argentina's assets and accounts, learn how Argentina moves its assets through New York and around the world, and accurately identify the places and times when those assets might be subject to attachment and execution (whether under [U.S. law] or the law of foreign jurisdictions)," NML served the subpoenas at issue in these appeals on two non-party banks, Bank of America ("BOA") and Banco de la Nación Argentina ("BNA").
+NML Br. at 9.
+From the materials sought in these subpoenas, NML hoped to gain an understanding of Argentina's "financial circulatory system."
+Joint Appendix ("JA") 1021.
+NML served the first subpoena, directed at BOA, on March 10, 2010.
+The subpoena seeks documents relating to all BOA accounts maintained by or on behalf of Argentina without territorial limitation.
+JA 672.
+In particular, it requests documents sufficient to identify the opening and closing dates of Argentina's accounts, current balances, and transaction histories from 2009 through the production date.
+JA 667, 672.
+It also requests from BOA documents relating to electronic fund transfers sent through the SWIFT system.
+[fn3] JA 672-73.
+The BOA subpoena defines "Argentina" broadly to include Argentina's "agencies, ministries, instrumentalities, political subdivisions [and] employees," as well as Argentina's current president, Cristina Fernandez de Kirchner, and her late husband, former president Nestor Carlos Kirchner.
+JA 666, 674.
+NML served the second subpoena on BNA, an Argentinian bank with a branch in New York City, on June 14, 2010.
+The BNA subpoena requests documents relating to any assets or accounts maintained at BNA by Argentina or for Argentina's benefit, any debts owed by BNA to Argentina, and transfers into or out of Argentina's accounts, including documents identifying the transfer counterparties.
+JA 908-09.
+Again, "Argentina" is broadly defined to include "its agencies, instrumentalities, ministries, political subdivisions, representatives, State Controlled Entities .
+.
+., and all other Persons acting or purporting to act for or on behalf of Argentina."
+A "State Controlled Entity" is defined to include any entity controlled or more than 25% owned by Argentina.
+JA 903-04.
+After the subpoenas were served, Argentina, later joined by BOA, moved to quash the BOA subpoena.
+Both banks then set forth objections to the subpoenas, and NML moved to compel their compliance.
+Before the district court ruled on the objections and motions, [**3] NML agreed to modify its subpoenas, including by allowing BOA to exclude lower-level Argentinian officials from searches of SWIFT messages.
+NML also agreed to enter into a protective order that would permit the banks to designate documents as confidential and require that those documents receive confidential treatment by all parties.
+At an August 30, 2011 hearing, and in a subsequent September 2, 2011 order (the "Discovery Order"), the district court denied the motion to quash and granted the motions to compel.
+JA 1881, 1900-01, 1915-16.
+At the hearing, the district court approved the subpoenas in principle, indicating that it had made its final determination that extraterritorial asset discovery did not infringe on Argentina's sovereign immunity, and reaffirmed that it intended to serve as a "clearinghouse for information" in NML's efforts to find and attach Argentina's assets.
+JA 1868, 1881.
+The district court stated, however, that it expected the parties to negotiate further on the specific production requests contained in the subpoenas, saying that the subpoenas must include "some reasonable definition of the information being sought."
+JA 1868.
+For example, the district court noted that "there is no use getting information about something that might lead to attachment in Argentina because that would be useless information" as no Argentinian court would allow sovereign property to be attached within the country.
+JA 1868.
+Thus, the district court, while open to discovery of assets abroad, sought to limit the subpoenas to discovery that was reasonably calculated to lead to attachable property.
+Following the district court's ruling, NML and BOA negotiated further modifications to the subpoenas, including by designating search keywords.
+[fn4] BOA has begun producing documents pursuant to the subpoena.
+With respect to the BNA subpoena, NML agreed to limit the requested individuals to the current and most recent former president, and to exclude all documents relating to assets or transfers exclusively within Argentina.
+JA 1932, 1940.
+According to NML, BNA neither engaged in negotiations nor complied with the subpoena.
+On December 14, 2011, the district court ordered BNA's compliance with the modified subpoena by January 6, 2012.
+See Order, NML Capital, Ltd. v. Republic of Argentina , No. 03-cv-8845 (S.D.N.Y.
+Dec. 14, 2011), ECF No. 452.
+Argentina, but not the banks, appealed the district court's September 2, 2011 Discovery Order.
+DISCUSSION Argentina challenges the Discovery Order's legal premise that compliance with the subpoenas does not infringe on Argentina's sovereign immunity.
+It argues that the Discovery Order, by compelling disclosure about Argentinian assets abroad, violates the Foreign Sovereign Immunities Act ("FSIA"), 28 U.S.C. 1602 et seq.
+, which provides the sole source of federal court jurisdiction over foreign nations, see Argentine Republic v. Amerada Hess Shipping Corp. , 488 U.S. 428 , 434-35 , 109 S.Ct. 683 , 102 L.Ed.2d 818 (1989).
+We hold that because the Discovery Order involves discovery, not attachment of sovereign property, and because it is directed at third-party banks, [**4] not at Argentina itself, Argentina's sovereign immunity is not infringed.
+The district court therefore did not abuse its discretion in ordering BOA and BNA to comply with NML's subpoenas.
+I. Jurisdiction Before turning to the merits, we first address NML's contention that we lack subject matter jurisdiction to consider these appeals because the Discovery Order is not a "final decision" under 28 U.S.C. 1291 .
+The issue arises here in the context of supplemental post-judgment proceedings instituted by NML to facilitate the execution of its judgments against Argentina.
+See Fed.R.Civ.P. 69 (a).
+In post-judgment litigation, the "final decision" is not the underlying judgment that the plaintiff is attempting to enforce, but the subsequent judgment that concludes the collection proceedings.
+See In re Joint E. & S. Dists.
+Asbestos Litig. , 22 F.3d 755 , 760 (7th Cir.1994).
+The Discovery Order is not a "final decision" in this sense because it does not terminate NML's collection proceedings against Argentina.
+Under the collateral order doctrine, however, a decision is "final" if it (1) conclusively determines a disputed question; (2) resolves an important issue completely separate from the merits of the action; and (3) is effectively unreviewable on appeal from final judgment.
+Lora v. O'Heaney , 602 F.3d 106 , 111 (2d Cir.2010); see Cohen v. Beneficial Indus.
+Loan Corp. , 337 U.S. 541 , 546 , 69 S.Ct. 1221 , 93 L.Ed. 1528 (1949) (enumerating same three requirements).
+Most orders granting discovery are not final decisions because they are effectively reviewable on appeal from a final judgment, see Mohawk Indus., Inc. v. Carpenter , 558 U.S. 100 , 130 S.Ct. 599 , 606 , 175 L.Ed.2d 458 (2009), or by an appeal from a contempt citation after the target of a subpoena resists the challenged order, see Church of Scientology of Cal. v. United States , 506 U.S. 9 , 18 n. 11, 113 S.Ct. 447 , 121 L.Ed.2d 313 (1992); In re Air Crash at Belle Harbor, N.Y. on Nov. 12, 2001 , 490 F.3d 99 , 106-07 (2d Cir.2007).
+Under the particular circumstances of this appeal, however, the district court's decision granting discovery is a collateral order that is immediately appealable.
+Cohen's first two requirements are easily met.
+First, the district court indicated that the Discovery Order represented its final determination that extraterritorial asset discovery did not infringe on Argentina's sovereign immunity.
+[fn5] Second, the scope of discovery available to NML is separate from the merits issue of whether NML can execute against a particular asset to satisfy its judgments.
+Cohen's third factor is satisfied because Argentina will be unable to obtain effective review in a United States court of the Discovery Order through a later appeal of a final judgment.
+Because the Discovery Order grants NML discovery respecting foreign assets, any future attachment or collection proceeding would be conducted in a foreign court.
+[fn6] Argentina would have no further opportunity to challenge the Discovery Order in this or any other United States court.
+Moreover, depending on the laws of the jurisdictions where any attachable property is located, NML may be able to levy Argentina's foreign assets directly, without instituting a separate proceeding, rendering the Discovery Order unreviewable by any court.
+See Resolution Trust [**5] Corp. v. Ruggiero , 994 F.2d 1221 , 1225 (7th Cir.1993) (recognizing that an order granting discovery may be a final, appealable order where the "sole object of [a post-judgment] proceeding is discovery of the judgment debtor's assets" and the assets discovered may then be levied without a court order).
+Finally, because the Discovery Order does not direct compliance from Argentina itself, Argentina cannot obtain review through disobedience and contempt.
+See Church of Scientology , 506 U.S. at 18 n. 11, 113 S.Ct. 447 ; Arista Records, LLC v. Doe 3 , 604 F.3d 110 , 116 (2d Cir.2010).
+Although the record before us is silent on BNA's compliance (or lack thereof), that BOA has begun production suggests that it would rather comply than risk being held in contempt of court.
+In sum, because the Discovery Order conclusively resolves the discovery issue, is separate from the merits, and will be unreviewable through a later appeal in the United States, we have jurisdiction to consider Argentina's appeal.
+II.
+Merits Turning to the merits, Argentina argues that the Discovery Order violates the FSIA by requiring disclosure about assets Argentina claims are immune from attachment.
+We review the district court's order for abuse of discretion.
+See Brandi-Dohrn v. IKB Deutsche Industriebank AG , 673 F.3d 76 , 79 (2d Cir.2012); United States v. Rigas , 583 F.3d 108 , 125 (2d Cir.2009).
+"A district court has abused its discretion if it based its ruling on an erroneous view of the law or on a clearly erroneous assessment of the evidence, or rendered a decision that cannot be located within the range of permissible decisions."
+In re Sims , 534 F.3d 117 , 132 (2d Cir.2008) (citations, alterations, and internal quotation marks omitted).
+A district court has broad latitude to determine the scope of discovery and to manage the discovery process.
+See, e.g., In re Agent Orange Prod. Liab. Litig. , 517 F.3d 76 , 103 (2d Cir.2008).
+At the outset, we note that broad post-judgment discovery in aid of execution is the norm in federal and New York state courts.
+Post-judgment discovery is governed by Federal Rule of Civil Procedure 69 , which provides that "[i]n aid of the judgment or execution, the judgment creditor .
+.
+.
+may obtain discovery from any person — including the judgment debtor — as provided in these rules or by the procedure of the state where the court is located."
+Fed.R.Civ.P. 69 (a)(2).
+The scope of discovery under Rule 69(a)(2) is constrained principally in that it must be calculated to assist in collecting on a judgment.
+See id .
+; Fed.R.Civ.P. 26 (b)(1) (allowing a court to "order discovery of any matter relevant to the subject matter involved in the action"); First City, Texas-Houston, N.A. v. Rafidain Bank , 281 F.3d 48 , 54 & n. 3 (2d Cir.2002) (" Rafidain II "); Libaire v. Kaplan , 760 F.Supp.2d 288 , 293 (E.D.N.Y.2011).
+New York state's post-judgment discovery procedures, made applicable to proceedings in aid of execution by Federal Rule 69(a)(1) , have a similarly broad sweep.
+The New York Civil Practice Law and Rules provides that a "judgment creditor may compel disclosure of all matter relevant to the satisfaction of the judgment."
+N.Y. C.P.L.R.
+5223 ; see David D. Siegel, New York Practice 509 (5th ed. 2011) (describing 5223 as "a broad criterion authorizing investigation through any person shown to have any light to shed on the subject of the judgment debtor' [**6] s assets or their whereabouts").
+Of course, as in all matters relating to discovery, the district court has broad discretion to limit discovery in a prudential and proportionate way.
+See Fed.R.Civ.P. 26 (b)(2); see, e.g., Crawford-El v. Britton , 523 U.S. 574 , 598-99 , 118 S.Ct. 1584 , 140 L.Ed.2d 759 (1998).
+It is not uncommon to seek asset discovery from third parties, including banks, that possess information pertaining to the judgment debtor's assets.
+See Fed.R.Civ.P. 69 (a)(2) (permitting discovery "from any person"); see, e.g., G-Fours, Inc. v. Miele , 496 F.2d 809 , 810-12 (2d Cir. 1974) (upholding contempt citation against judgment debtor's wife and debtor's wholly-owned corporation for failing to respond to a discovery request pursuant to Rule 69 ); Magnaleasing, Inc. v. Staten Island Mall , 76 F.R.D. 559 , 561 (S.D.N.Y.
+1977) (permitting discovery against the judgment debtor's bank "insofar as it relates to the existence or transfer of [the judgment debtor's] assets"); ICD Grp., Inc. v. Israel Foreign Trade Co. (USA) Inc. , 224 A.D.2d 293 , 638 N.Y.S.2d 430 , 430 (App. Div. 1st Dep't 1996) (permitting discovery from debtor's accountant, citing the rule allowing discovery from "any third person with knowledge of the debtor's property"); see also 12 Charles A. Wright & Arthur R. Miller, Federal Practice and Procedure 3014 (2d ed. 2012) (third persons may be examined about the assets of the judgment debtor so long as the motive is not to harass the third party).
+Nor is it unusual for the judgment creditor to seek disclosure related to assets held outside the jurisdiction of the court where the discovery request is made.
+See Rafidain II , 281 F.3d at 54 ("A judgment creditor is entitled to discover the identity and location of any of the judgment debtor's assets, wherever located.")
+(quoting Nat'l Sew.
+Indus., Inc. v. Vafla Corp. , 694 F.2d 246 , 250 (11th Cir.1982)); Eitzen Bulk A/S v. Bank of India , 827 F.Supp.2d 234 , 238-39 (S.D.N.Y.2011) (subpoena on New York branch of Indian bank "reaches all responsive materials within the corporation's control, even if those materials are located outside New York"); Raji v. Bank Sepah-Iran , 139 Misc.2d 1026 , 529 N.Y.S.2d 420 , 423-24 (Sup.Ct.1988) (allowing discovery into judgment debtor's foreign assets).
+Thus, in a run-of-the-mill execution proceeding, we have no doubt that the district court would have been within its discretion to order the discovery from third-party banks about the judgment debtor's assets located outside the United States.
+Argentina argues, however, that the normally broad scope of discovery in aid of execution is limited in this case by principles of sovereign immunity.
+Argentina maintains that its property abroad is categorically immune from attachment, and that the district court cannot order discovery into those assets.
+Without reaching the unanswered question of whether the FSIA extends immunity to property held outside the United States, we reject Argentina's argument for two reasons.
+First, the Discovery Order does not implicate Argentina's immunity from attachment under the FSIA.
+It does not allow NML to attach Argentina's property, or indeed have any legal effect on Argentina's property at all; it simply mandates BOA and BNA's compliance with subpoenas duces tecum.
+We recognize that a district court sitting in Manhattan does not have the power to attach Argentinian property in foreign [**7] countries.
+However, the district court's power to order discovery to enforce its judgment does not derive from its ultimate ability to attach the property in question but from its power to conduct supplementary proceedings, involving persons indisputably within its jurisdiction, to enforce valid judgments.
+Rafidain II , 281 F.3d at 53-54 ; cf. Riggs v. Johnson Cnty. , 73 U.S. 166 , 187 , 6 Wall. 166, 18 L.Ed. 768 (1867) ("Process subsequent to judgment is as essential to jurisdiction as process antecedent to judgment, else the judicial power would be incomplete and entirely inadequate to the purposes for which it was conferred by the Constitution.").
+Thus in Rafidain II we held that a "waiver by a foreign state [of sovereign immunity], rendering it a party to an action, is broad enough to sustain the court's jurisdiction through proceedings to aid collection of a money judgment rendered in the case, including discovery pertaining to the judgment debtor's assets."
+281 F.3d at 53-54 ; Walters v. Indus. & Commercial Bank of China, Ltd. , 651 F.3d 280 , 297 (2d Cir.2011); see also FG Hemisphere Assocs., LLC v. Democratic Republic of Congo , 637 F.3d 373 , 380 (D.C.Cir.2011) (upholding contempt sanctions against foreign sovereign for failing to comply with general asset discovery order); Richmark Corp. v. Timber Falling Consultants , 959 F.2d 1468 , 1477-78 (9th Cir.1992) (holding that an instrumentality of a foreign nation must respond to discovery about its worldwide assets and that it could not use the FSIA to conceal its assets from the district court).
+Whether a particular sovereign asset is immune from attachment must be determined separately under the FSIA, but this determination does not affect discovery.
+Whatever hurdles NML will face before ultimately attaching Argentina's property abroad (and we have no doubt there will be some), it need not satisfy the stringent requirements for attachment in order to simply receive information about Argentina's assets.
+The Seventh Circuit came to a different conclusion in Rubin v. Islamic Republic of Iran , 637 F.3d 783 (7th Cir.2011), holding that the FSIA requires a judgment creditor to identify specific non-immune assets before it is entitled to further discovery about those assets.
+Id. at 796 .
+We respectfully disagree with the Seventh Circuit to the extent it concluded that the district court's subject matter jurisdiction over a foreign sovereign was insufficient to confer the power to order discovery from a person subject to the court's jurisdiction that is relevant to enforcing a judgment against the sovereign.
+Such a result is not required by the FSIA and is in conflict with our holding in Rafidain II that a district court's jurisdiction over a foreign sovereign extends to proceedings to enforce a valid judgment.
+Nor does our holding in EM , 473 F.3d 463 , cited by the Seventh Circuit, support the result in Rubin.
+In EM , a case primarily about attachment, the district court denied a discovery request after determining that the judgment creditor made no showing of a reasonable basis to assume jurisdiction over the entity against whose funds it wished to execute a judgment.
+Id. at 486 .
+That ruling was well within the district court's discretion to limit [**8] discovery where the plaintiff had not demonstrated any likelihood that the discovery it sought related to attachable assets.
+But EM did not hold that the discovery request would violate the FSIA.
+The Discovery Order, moreover, does not infringe on any immunity from the district court's jurisdiction that Argentina otherwise might enjoy.
+Argentina does not (and could not) argue that the district court lacked subject matter or personal jurisdiction over it because Argentina expressly waived any claim to immunity in the bond agreements.
+See, e.g., NML Capital, Ltd. v. Republic of Argentina , 680 F.3d 254 , 257 (2d Cir.2012); EM Ltd. v. Republic of Argentina , 473 F.3d 463 , 481 & n. 18 (2d Cir.2007).
+Once the district court had subject matter and personal jurisdiction over Argentina, it could exercise its judicial power over Argentina as over any other party, including ordering third-party compliance with the disclosure requirements of the Federal Rules.
+First City, Texas-Houston, N.A. v. Rafidain Bank , 150 F.3d 172 , 177 (2d Cir.1998) (" Rafidain I ").
+Argentina does not dispute that the district court had jurisdiction over it or that the judgments against it are valid and enforceable; it therefore cannot dispute that the district court has jurisdiction to order discovery designed to aid in enforcing those judgments.
+In this vein, it is important to distinguish discovery requests made before a court conclusively has jurisdiction over a foreign sovereign from those made after such jurisdiction has been ascertained.
+Where a plaintiff seeks to initially establish that the court has subject matter jurisdiction over a sovereign, discovery and immunity are almost invariably intertwined.
+See Rafidain.
+I , 150 F.3d at 174-76 (noting that the district court must engage in a "delicate balancing `between permitting discovery to substantiate exceptions to statutory foreign sovereign immunity and protecting a sovereign's or sovereign agency's legitimate claim to immunity from discovery'" where it was unclear if the defendant had a claim to jurisdictional immunity) (quoting Arriba Ltd. v. Petroleos Mexicanos , 962 F.2d 528 , 534 (5th Cir.1992)).
+Because sovereign immunity protects a sovereign from the expense, intrusiveness, and hassle of litigation, a court must be "circumspect" in allowing discovery before the plaintiff has established that the court has jurisdiction over a foreign sovereign defendant under the FSIA.
+Id. at 176-77 .
+But NML seeks discovery from a defendant over which the district court indisputably had jurisdiction.
+Thus, the concerns voiced in Rafidain I are not present and our precedents relating to jurisdictional discovery are inapplicable.
+The second principal reason for holding that the Discovery Order does not infringe on Argentina's sovereign immunity is that the subpoenas at issue were directed at BOA and BNA — commercial banks that have no claim to sovereign immunity, or to any other sort of immunity or privilege.
+Thus, the banks' compliance with subpoenas will cause Argentina no burden and no expense.
+See id. at 177 (holding that discovery requests directed at non-immune party did not infringe [**9] on the sovereign immunity of a third party, even if the third party retained a colorable claim of immunity).
+To the extent Argentina expresses concern that the subpoenas will reveal sensitive information, it is asserting a claim of privilege and not a claim of immunity.
+The FSIA says nothing about privilege.
+Indeed it appears that Congress intended for courts to handle claims of privilege using the existing procedures under the Federal Rules.
+See H.R.Rep.
+No. 94-1487, at 23 (1976), 1976 U.S.C.C.A.N.
+6604, 6621 ("The [FSIA] does not attempt to deal with questions of discovery.
+Existing law appears to be adequate in this area.
+.
+.
+.
+[If] a private plaintiff sought the production of sensitive governmental documents of a foreign state, concepts of governmental privilege would apply.").
+NML has agreed to enter into a protective order with the banks, see NML Br. at 21 n.6, and Argentina and the banks can avail themselves of the other protections contained in the Federal Rules and our precedents as necessary to protect any confidential information.
+[fn7] We are confident that these mechanisms will provide Argentina all the protection to which it is entitled.
+And, if and when NML moves past the discovery stage and attempts to execute against Argentina's property, Argentina will be protected by principles of sovereign immunity in this country or in others, to the extent that immunity has not been waived.
+The Discovery Order at issue here, however, does nothing to endanger Argentina's sovereign immunity.
+CONCLUSION For the foregoing reasons, the district court's order is AFFIRMED.

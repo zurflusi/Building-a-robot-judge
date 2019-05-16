@@ -1,0 +1,156 @@
+ GARZA , Circuit Judge: This case requires us to further define the scope of the discretionary function exception to the Federal Tort Claims Act.
+Appellant's case below was dismissed for lack of subject matter jurisdiction.
+We find the discretionary function exception to the Torts Claims Act inapplicable to certain of the alleged actions taken in this case.
+However, we find that Gaubert does not have standing to sue for the lost value of his shares, and we must dismiss that part of his suit.
+Background When deciding a motion to dismiss for lack of subject matter jurisdiction under Fed.Rule Civ.Proc.
+12(b)(1) , we construe the complaint broadly and liberally, although argumentative inferences favorable to the pleader will not be drawn.
+Norton v. Larney , 266 U.S. 511 , 45 S.Ct. 145 , 69 L.Ed. 413 (1925); see also Fed.Rule Civ.Proc.
+8(f) .
+We will also accept as true all uncontroverted factual allegations of the pleadings.
+Gibbs v. Buck , 307 U.S. 66 , 59 S.Ct. 725 , 83 L.Ed. 1111 (1939).
+We therefore present the facts of this case, which are alleged in Gaubert's complaint, in light of the above standards.
+Appellant Thomas M. Gaubert was, at all times relevant to this case, the largest shareholder and chairman of the board of Independent American Savings Association ("IASA"), a Texas state-chartered and federally-insured savings and loan.
+From January 1983 through March 1986, IASA grew and its financial health remained good.
+In the Fall of 1984, officials at the Federal Home Loan Bank Board ("FHLBB") wanted IASA to merge with a failing Texas thrift, Investex Savings.
+The closing of this transaction was delayed, however, by an investigation of another S & L in which Gaubert had been involved.
+In order to resolve this impasse, the FHLBB and Federal Home Loan Bank-Dallas ("FHLB-Dallas") requested that Gaubert sign a neutralization agreement in order to secure Gaubert's effective removal from the affairs of IASA.
+Gaubert agreed to this proposal.
+Gaubert was also required, as part of the merger transaction, to personally guarantee that the net worth of IASA would not fall below regulatory minimums.
+To accomplish this, Gaubert was asked to contribute a personal interest in real estate valued at more than $25 million; Gaubert ultimately lost this property when IASA became insolvent.
+No other shareholder or director of IASA was required to sign a neutralization agreement, give a personal guarantee, or asked to contribute property.
+Officials at the federal agencies then assisted IASA in its merger with Investex by providing regulatory and financial advice.
+They advised IASA on how it should present the transactions to its shareholders for approval and helped draft proxy statements disclosing Gaubert's neutralization agreement.
+During this period, IASA was not under a supervisory agreement, receivership, conservatorship, or cease-and-desist order.
+Rather, the federal involvement came as a result of the inherent persuasive power of the FHLBB, which no doubt arises from the position of authority it occupies; the government euphemistically refers to this ability to pressure S & Ls as "jawboning."
+Officials at FHLB-Dallas next sought the replacement of IASA's management and Board of Directors.
+In February or March of 1986, the Board was told that FHLB-Dallas would close IASA if it did not actively cooperate with this plan.
+FHLB-Dallas then searched for and selected the new Board of Directors and officers of IASA.
+In order to persuade the existing directors and officers to resign, Gaubert was freed from his neutralization agreement in return for his efforts to encourage the IASA Board of Directors to resign and allow FHLB-Dallas to pick the new directors and manage IASA.
+All IASA directors tendered their undated resignations, even though no proceedings aimed at obtaining a supervisory agreement had ever been initiated for IASA.
+In April 1986, the directors were replaced, and a former FHLB-Dallas employee was installed as CEO.
+The other directors and officers, all selected by FHLB-Dallas, were ultimately elected.
+After engineering the resignation and replacement of IASA management, officials at FHLB-Dallas actively involved themselves in IASA's affairs and played an increasingly larger role in the day-to-day operations.
+FHLB-Dallas officials arranged for the hiring of a consulting company on operational and financial matters and asset management.
+Advice and recommendations concerning whether, when, and how to place IASA subsidiaries into bankruptcy were given by FHLB-Dallas officials to the IASA Board.
+Salary disputes between IASA and its senior officers were mediated by FHLB-Dallas, which also reviewed a draft of a complaint in litigation that the Board of Directors contemplated filing.
+FHLB-Dallas urged that IASA convert from a state-chartered S & L to a federally chartered S & L so that it could become the exclusive government entity with power to control IASA.
+FHLB-Dallas employees actively intervened with the Texas Savings and Loan Department when the state attempted to install a supervisory agent at IASA.
+Shortly after the IASA Board of Directors was replaced, the new directors announced that IASA had over a $400 million negative net worth; this was a surprising development in light of the fact that IASA believed its net worth to be about $74 million positive at the end of 1985.
+On May 20, 1987, Gaubert filed an administrative tort claim with the FHLBB, FHLB-Dallas, and FSLIC seeking damages in the amount of $75 million for the lost value of his shares, and $25 million for the property he forfeited under the guarantee agreement; that claim was denied by letter dated November 20, 1987.
+On May 20, 1987, the IASA was placed into the receivership of FSLIC.
+Gaubert filed suit individually in United States District Court for the Northern District of Texas under the Federal Tort Claims Act, 28 U.S.C. 1346 , alleging the negligent selection of directors and officers (Count I) and the negligent involvement in day to day operations (Count II) by federal officials.
+The government moved for dismissal, citing (1) Gaubert's lack of individual standing as a shareholder of IASA, and (2) lack of subject matter jurisdiction as grounds.
+The district court granted the motion to dismiss for lack of subject matter jurisdiction on September 28, 1988, and did not reach the issue of standing.
+Gaubert appeals that dismissal here.
+Subject Matter Jurisdiction Under the FTCA When suing the federal government, a plaintiff must first overcome the bar of sovereign immunity, which establishes that the federal government is not liable for damages resulting from sovereign acts performed by it in its sovereign capacity.
+Horowitz v. United States , 267 U.S. 458, 461 , 45 S.Ct. 344, 344 , 69 L.Ed. 736 (1925).
+The Federal Tort Claims Act ("FTCA"), 28 U.S.C. 1346(b) , is a limited statutory waiver of the federal government's sovereign immunity.
+The FTCA authorizes suits against the United States for 28 U.S.C. 1346(b) .
+The act, however, contains certain exceptions to the federal government's waiver of immunity.
+One of these exceptions is known as the Discretionary Function Exception, which reads in pertinent part as follows: 28 U.S.C. 2680(a) .
+The district court concluded that this exception to the FTCA was applicable to this case, and therefore dismissed the suit for lack of subject matter jurisdiction.
+Gaubert contends that the district court's conclusion was in error, since the actions of the FHLBB and FHLB-Dallas lost the protection of the discretionary function exception when they began to assume operational, day-to-day control over IASA.
+Analysis of this well-taken point requires us to plumb the depths of Supreme Court decisions in this area; it is to this task which we now turn.
+An early case in the Supreme Court applying the FTCA to negligence which can be characterized as being at the "operational level" of governmental activity is Indian Towing Co. v. United States , 350 U.S. 61 , 76 S.Ct. 122 , 100 L.Ed. 48 (1955).
+That case involved the negligent operation by the Coast Guard of a lighthouse light, resulting in the running aground of a barge.
+The Coast Guard argued that the FTCA, by its terms, excluded liability in the performance of activities which private persons do not perform.
+Thus, there would be no liability for negligent performance of uniquely governmental functions.
+The Court rejected this argument, noting that the Coast Guard did not have a duty to undertake the lighthouse service, but that "once it exercised its discretion to operate a light and engendered reliance on the guidance afforded by the light, it was obligated to use due care to make certain that the light was kept in good working order If the Coast Guard failed in its duty and damage was thereby caused to petitioners, the United States is liable under the Federal Torts Claims Act."
+Id. at 69 , 76 S.Ct. at 126-27 .
+Although Indian Towing established the applicability of the FTCA to unique and operational activities of government, it is not, contrary to Gaubert's assertions, dispositive of the case at bar.
+The Coast Guard, in Indian Towing , expressly conceded that the discretionary function exception of 2680(a) was inapplicable.
+The case did, however, establish the principled distinction between policy decisions and operational actions; this distinction still retains its force today and is dispositive of this case.
+We next turn to more recent Supreme Court precedent for further analysis of the scope of the discretionary function exception to the FTCA.
+An oft-cited Supreme Court decision on the scope of the discretionary function exception was United States v. Varig Airlines , 467 U.S. 797 , 104 S.Ct. 2755 , 81 L.Ed.2d 660 (1984); the government primarily relies on this case to support its argument that the discretionary function exception applies here.
+In Varig , families and representatives of passengers who died in a fire aboard a Boeing 707 aircraft sued the Federal Aviation Administration ("FAA") under the FTCA.
+The suit alleged negligence of the FAA in certifying that aircraft for use in commercial aviation.
+1 The Supreme Court held that the actions of the FAA fell within the 2680(a) discretionary function exception.
+Central to the court's holding was its interpretation of the policy behind the exception, which the court expressed as follows: "It is neither desirable or intended that the constitutionality of legislation, the legality of regulations, or the propriety of a discretionary administrative act be tested through the medium of a damage suit for tort."
+Varig , 467 U.S. at 809-10 , 104 S.Ct. at 2762 .
+The Court went on to note that "Congress wished to prevent judicial 'second guessing' of legislative and administrative decisions grounded in social, economic, and political policy through the medium of an action in tort."
+Id. at 814 , 104 S.Ct. at 2765 .
+2 Holding that the decisions made by the FAA regarding proper certification procedure were discretionary, the Supreme Court dismissed plaintiff's suit.
+The Supreme Court recently revisited the discretionary function exception in Berkovitz v. United States , 486 U.S. 531 , 108 S.Ct. 1954 , 100 L.Ed.2d 531 (1988).
+That case involved a suit by an infant against the United States under the FTCA for damages resulting from the infant's contracting polio, allegedly as a result of ingesting a polio vaccine.
+The complaint specifically alleged that the Division of Biologic Standards ("DBS"), then a part of the National Institute of Health, had acted wrongfully in licensing the production of the vaccine.
+It also alleged that the Bureau of Biologics of the Food and Drug Administration had wrongfully approved release to the public of the particular lot of vaccine in question.
+The Supreme Court held that neither of plaintiff's two allegations were barred by the discretionary function exception.
+With regard to the first allegation--that the DBS had wrongfully issued a license--the Court held that it was not barred because the DBS had issued a license without first receiving the statutorily required data showing how the product, at various stages of the manufacturing process, matched up against regulatory safety standards.
+Since the DBS did not have statutory discretion to issue a license without receiving the required test data, the discretionary function exception could not bar a suit alleging this failure.
+Id. at , 108 S.Ct. at 1961-62 , 100 L.Ed.2d at 544-45 .
+3 With regard to the second allegation of negligence--approving the specific lot for release to the public--the Court likewise held that the discretionary function exception was not a bar.
+Central to the Court's reasoning was that the Bureau's inspection policy did not leave room for an official to exercise policy judgment in performing a given act.
+Since there was no room for policy judgment, the discretionary function exception did not apply.
+Id. at , 108 S.Ct. at 1964-65 , 100 L.Ed.2d at 547-48 .
+Unfortunately, the holding in Berkovitz is not dispositive of this case. Both allegations of negligent licensing and negligent approval were held to be non-discretionary because of the existence of statutes in both cases which afforded no room for policy judgment.
+In the case before us, the actions of the FHLBB and FHLB-Dallas were not as closely guided by statute.
+The real guidance that we obtain from Berkovitz is in its discussion of the discretionary function/operational activity dichotomy which was first established in Indian Towing .
+Any doubts about the sustained viability of that distinction were put to rest by the Court in Berkovitz , which noted that Indian Towing Id. at , 108 S.Ct. at 1959 , n. 3, 100 L.Ed.2d at 542 , n. 3.
+In this case, FHLBB and FHLB-Dallas officials were not acting pursuant to statute when they acted to assume operational control of IASA through their considerable "powers of persuasion."
+This fact alone, however, does not insulate them from liability.
+As should now be clear from our above discussion of Supreme Court precedent, there are two distinct strands of conduct to which the discretionary function exception does not apply.
+The first are cases where the official is acting pursuant to statute, and therefore has no real discretion, as her actions are pre-ordained by Congress.
+See Berkovitz , 486 U.S. 531 , 108 S.Ct. 1954 , 100 L.Ed.2d 531 ; Collins v. United States , 783 F.2d 1225 (5th Cir.1986) (failure to reclassify a mine as gassy not protected by 2680 because regulations mandated reclassification, thus leaving no room for policy judgment).
+The second type of conduct not encompassed by the discretionary function exception are those actions which are undertaken outside of the strictures of statutory or regulatory mandates, but which are nonetheless operational in nature.
+That was the case in Indian Towing , and is also the case here.
+The authority of the FHLBB and FHLB-Dallas to take the actions that were taken in this case, although not guided by regulations, is unchallenged.
+The FHLBB and FHLB-Dallas officials did not have regulations telling them, at every turn, how to accomplish their goals for IASA; this fact, however, does not automatically render their decisions discretionary and immune from FTCA suits.
+4 Only policy oriented decisions enjoy such immunity.
+Berkovitz at , 108 S.Ct. at 1959 , 100 L.Ed.2d at 541 ; Varig , 467 U.S. at 814 , 104 S.Ct. at 2764 .
+Thus, the FHLBB and FHLB-Dallas officials were only protected by the discretionary function exception until their actions became operational in nature and thus crossed the line established in Indian Towing .
+We discussed the discretionary function exception recently in B & F Trawlers, Inc. v. United States , 841 F.2d 626 (5th Cir.1988).
+In that case, the Coast Guard seized a ship at sea after discovering marijuana on board.
+While the ship was being towed into port, a fire broke out on board; once in port, the ship was intentionally sunk.
+Denying the ship owner relief pursuant to the discretionary function exception, this court held that, because the Coast Guard's purpose in towing in the ship was to protect the general public and not the ship owner, the ship owner could not have relied on the Coast Guard to his detriment.
+Stated another way, the Coast Guard owed no duty of due care to the ship owner since the Coast Guard's actions were not designed to benefit the ship owner.
+B & F Trawlers is distinguishable from the present case in that the federal regulators here had two discrete purposes in mind as they commenced day-to-day operations at IASA.
+First, they sought to protect the solvency of the savings and loan industry at large, and maintain the public's confidence in that industry.
+Second, they sought to preserve the assets of IASA for the benefit of depositors and shareholders, of which Gaubert was one.
+Because any actions benefitting the first aim would necessarily further the second, Gaubert as shareholder and guarantor falls within the pool of beneficiaries of government action here.
+The B & F Trawlers rule is therefore inapposite.
+We now must apply the Indian Towing test to the factual allegations of Gaubert's complaint to determine at which point the federal officials lost their 2680(a) immunity.
+Clearly, the decision to merge IASA with Investex and seek a neutralization agreement from Gaubert was a policy oriented decision protected by 2680(a) .
+See ¶¶ 12-19 of Amended Complaint.
+Similarly, the decision to replace the IASA Board of Directors with FHLBB approved persons, and the actions taken to effectuate that decision, are protected under the discretionary function exception.
+See ¶¶ 20-32 of Amended Complaint.
+The point at which the FHLBB and FHLB-Dallas began to assume operational control, and thus lost the protection of 2680(a) , occurred when they began to advise IASA management and participate in management decisions, including hiring a consultant, directing that IASA convert to a federally-chartered entity, supervising the filing of litigation on behalf of IASA, and other allegations contained in ¶¶ 33-43 of Gaubert's Amended Complaint.
+We therefore conclude that the district court's dismissal with regard to ¶¶ 12-32 of the Amended Complaint was correct, but that it should not have dismissed ¶¶ 33-43 of the Amended Complaint, as those paragraphs allege negligent operational activities, liability for which is not barred by the discretionary function exception to the FTCA.
+Standing Standing The government argues that, even if there exists a cause of action against it under the FTCA, that cause of action belonged to the corporation, and Gaubert as an individual shareholder does not have standing to assert it.
+5 Gaubert is suing in his individual capacity, and does not sue derivatively in the name of the corporation.
+6 Generally, individual shareholders have no separate right to sue for damages suffered by the corporation which result solely in the diminution of the value of the corporation's shares.
+Commonwealth of Massachusetts v. Davis , 140 Tex. 398 , 168 S.W.2d 216 (1943); United States v. Palmer , 578 F.2d 144 (5th Cir.1978).
+One rationale behind this prohibition rests on principles of judicial economy.
+A corporation can protect its shareholder's interest by suing in the corporate name, and if the suit is successful the proceeds will inure to the benefit of the corporation; this increases the value of the individual shares in proportion to the amount of the recovery.
+Compare this to a situation where all shareholders sue in their individual capacities, which achieves the same resultant recovery, but requires our legal system to process hundreds or thousands of suits, rather than one suit in the name of the corporation.
+Another rationale for the prohibition is fairness to creditors of the corporation.
+Common shareholders are usually at or near the bottom of the corporate financial pecking order.
+First come the secured then unsecured creditors, then the bondholders in order of preference, then the preferred shareholders, and lastly the common shareholders.
+Any recovery for injuries to the corporation is paid into the corporation, and the various creditors, bondholders, and equity-holders are "paid" in that order.
+Were common shareholders allowed to sue directly and individually for damages to the value of their shares, we would be allowing them to bypass the corporate structure and effectively preference themselves at the expense of the other persons with a superior financial interest in the corporation.
+7 Responding to the above concerns, most states vest the authority to pursue or decline suits for injuries to the corporation in the board of directors, and this decision is usually protected by the business judgment presumption.
+Texas law is especially stringent in this regard: a corporate shareholder does not have an individual cause of action for personal damages caused solely by a wrong done to the corporation.
+Davis , 168 S.W.2d at 221 .
+However, Texas makes an exception to this general rule: a corporate stockholder may have an action for personal damages for wrongs done to him as an individual stockholder "where the wrongdoer violates a duty arising from contract or otherwise and owing directly by him to the stockholder."
+Davis , 168 S.W.2d at 222 ; accord Stinnett v. Paramount-Lasky Corp. , 37 S.W.2d 145, 149-51 (Tex.Comm'n App.1931, holding approved).
+Texas, however, puts stringent restrictions on this right of action: merely because the acts complained of resulted in damage both to the corporation and to the stockholder Cullum v. General Motors Acceptance Corp. , 115 S.W.2d 1196, 1201 (Tex.Civ.App.--Amarillo 1938, no writ) (emphasis supplied); also quoted in McDonald v. Bennett , 674 F.2d 1080, 1086 (5th Cir.1982).
+Gaubert first argues that he has individual standing as a result of the neutralization agreement which he signed.
+The terms of that agreement recited that, in consideration of the FSLIC discontinuing its review of other transactions in which Gaubert was involved, Gaubert would not serve as a director, officer, agent or employee of IASA.
+Moreover, Gaubert agreed not to participate in any way in the affairs of IASA or its subsidiaries, and not to vote the common stock that he owned.
+The agreement expressly reserved to Gaubert, however, the right to sell all or part of his shares.
+As a result of this agreement, Gaubert argues that he was prevented from protecting his agreement at the very time federal officials began to assume day to day control over IASA, and as a result he suffered unique injury separate and distinct from all other IASA shareholders.
+We find this standing argument unpersuasive.
+While this court, for the purpose of review, accepts Gaubert's factual allegations as true, we differ with his characterization of their legal import.
+The neutralization agreement was a contract, supported by adequate consideration.
+Gaubert has not alleged in his complaint a breach of that contract, fraudulent inducement, or any other set of facts which would give him a personal cause of action based on the agreement, separate and apart from his FTCA allegations against FHLBB and FHLB-Dallas.
+Gaubert suffered no injury as a result of the neutralization agreement that was not suffered by all the other IASA shareholders--the loss of the value of their shares.
+This being the case, Texas law does not permit Gaubert an individual cause of action against the FHLBB and FHLB-Dallas.
+Moreover, Gaubert was not required to sit idly by while FHLBB and FHLB-Dallas officials ran his bank into the ground; at all times, he had the ability, which was expressly reserved in the neutralization agreement, to sell his shares at market value and invest the proceeds elsewhere.
+We therefore conclude that the neutralization agreement does not give Gaubert standing as an individual to recover the lost value of his shares, and therefore dismiss Gaubert's action in that regard for lack of standing.
+Gaubert has also alleged that the guarantee agreement, which he was "required" to sign in order to effectuate the merger, gives him an independent cause of action.
+Gaubert pledged property valued at about $25 million, which he ultimately lost when the IASA's financial situation deteriorated.
+Gaubert may have a personal cause of action against FHLBB, FHLB-Dallas, and FSLIC for causing the deterioration of IASA resulting in the loss of his property under the guarantee agreement.
+Unfortunately, we do not have sufficient information in the record to allow us to pass on whether Gaubert has a cause of action in this regard, as it may depend on whether there was an express or implied promise as part of the guarantee that the federal officials would not negligently cause the deterioration of the corporation.
+We therefore remand Gaubert's action for loss of property valued at $25 million to the district court to determine whether a valid claim is presented.
+As a point of clarification, if Gaubert is found by the district court to have a cause of action for the lost property, he may not use that cause to assert standing to sue for the $75 million lost value of his shares.
+Conclusion The order of the district court with regard to subject matter jurisdiction is AFFIRMED IN PART and REVERSED IN PART.
+Gaubert's claim for the lost value of his shares is DISMISSED for lack of standing, and his claim for $25 million in lost property is REMANDED for further consideration.

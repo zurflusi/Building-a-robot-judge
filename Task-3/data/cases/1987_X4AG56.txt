@@ -1,0 +1,157 @@
+ OAKES , Circuit Judge: The Board of Estimate is a body of New York City municipal government authorized by chapter 3 of the New York city charter.
+It is comprised of the mayor, city council president, comptroller, and the five borough presidents of the City of New York, which is to a substantial extent governed by the Board of Estimate.
+The three citywide officials on the Board are granted two votes each as to non-budgetary matters, while each borough president is granted one vote.
+As to budget matters, the mayor has no vote but does have a veto power.
+The Board of Estimate is the only municipal body in New York City government which requires the mayor, the comptroller, the city council president, and the borough presidents to meet regularly and vote together upon issues concerning the governing of New York City.
+It exclusively determines the use, development, and improvement of city property; approves the standards, magnitude, and final design of capital projects; negotiates and enters into all contracts on behalf of the city; negotiates and approves all franchises granted by the city; grants leases of city property and enters into leases of property for city use; sets water rates and sewer rates in the city; approves or modifies all zoning decisions; and sets tax abatements.
+The Board's enormous exclusive powers may be illustrated by saying that it alone may determine whether and where a toxic waste dump can be located in the city, as we explore later in this opinion.
+Besides the Board's exclusive powers, it has powers acting in conjunction with the New York City Council to recommend and approve the expense budget and the capital budget of the city (without the participation of the mayor), periodically to modify the budgets of the city, to override mayoral vetos of budget items, and to hold hearings on budgetary matters.
+The Board of Estimate also administers the Bureaus of Franchises and of the Secretary, holds public hearings on matters of city policy when called upon to do so by the mayor or in its discretion for the public interest, holds hearings on tax abatements, and makes recommendations to the mayor or City Council in regard to any matter of city policy.
+The parties stipulated that the population of the city of New York is 7,071,030, and that the population of Brooklyn is 2,230,936, Queens 1,891,325, Manhattan 1,427,533, the Bronx 1,169,115, and Staten Island 352,121.
+Having determined that the Board of Estimate is subject to the "one-person, one-vote" principle, we remanded this case when it first came before us with instructions that the district court begin its task by deciding on an appropriate methodology for determining the degree of malapportionment present.
+Morris v. Board of Estimate , 707 F.2d 686, 690-91 (2d Cir.1983).
+In a footnote our opinion noted, "For example, the fact that three members of the Board are elected at large from the entire city raises novel issues as to how an individual voter's opportunity to elect these members should be assessed in conjunction with his opportunity to elect his borough representative."
+Id. at 690 n. 3.
+The district court, following the principle articulated in Abate v. Mundt , 403 U.S. 182, 185 , 91 S.Ct. 1904, 1906 , 29 L.Ed.2d 399 (1971), that "electoral apportionment must be based on the general principle of population equality and [that] this [principle] applies to local elections," Morris v. Board of Estimate , 592 F.Supp.
+1462, 1466 (E.D.N.Y.1984), determined the maximum deviation from equality, or "overall range," 1 by taking the sum of the deviation from ideal district population of the most and least populous boroughs.
+The court refused to modify the Abate methodology by virtue of the presence on the Board of three officials elected at-large, and focused only on the five borough presidents.
+Measuring from an ideal district population of 1,414,206, the court calculated the deviation from equality thus: Borough Population Deviation Brooklyn 2,230,936 -57.7% Queens 1,891,325 -33.7% Manhattan 1,427,533 -0.9% Bronx 1,169,115 +17.4% Staten Island 352,121 +75.2% Adding the 57.7% deviation of Brooklyn as the most underrepresented borough to the 75.2% deviation of Staten Island as the most overrepresented borough, the court arrived at a maximum deviation or range of 132.9%.
+Id. at 1475 .
+We commence by noting that the district court did not violate what we read as the mandate of this court in declining to consider citywide board members in determining the constitutionality of the present Board.
+In the first place, what we said earlier was simply that the district court should address the question whether the presence of the three members of the Board who are elected at large from the entire city should make a difference in respect to methodology.
+The district court did address that question at considerable length and answered it in the negative.
+The court did so for three reasons which, though briefly summarized here, will be more fully discussed below.
+The district court argued convenience, mentioning the "demonstrated impatience with mathematical metaphysics" in Mahan v. Howell , 410 U.S. 315, 319 n. 6, 93 S.Ct. 979, 982 n. 6, 35 L.Ed.2d 320 , modified on reh'g , 411 U.S. 922 , 93 S.Ct. 1475 , 36 L.Ed.2d 316 (1973); principle, in that the at-large members represent voters as city residents, giving every voter an equal say in their election, while the borough presidents represent voters in their capacities as residents of a particular borough; and precedent.
+See 592 F.Supp.
+at 1466, 1470-75 .
+We turn then to the issues argued on this appeal.
+Though two issues concerning the district court's methodology are closely related, for the sake of clarity we will distinguish them.
+The first and more basic issue is whether the court correctly adopted the Abate test, which looks only to the relative power of voters to elect representatives, and therefore focuses almost entirely on the simple question of population per representative.
+The Board strenuously urges that the court should instead have applied the Banzhaf index, to measure the power of voters in the various boroughs to affect the outcome of a Board vote.
+2 The second issue is whether the court should have included the at-large representatives on The Board in any calculation of voting inequality.
+Use of the Banzhaf index would require inclusion of the at-large representatives, since the outcome of a Board vote will often turn on how one of the at-large members casts his vote.
+3 Using the Abate method, however, leaves whether to modify the test so as to include the at-large representatives in calculations of voter inequality as a distinct issue.
+Turning first to the more basic of the methodological issues raised here, we hold that the district court properly adopted the Abate theory that what the equal protection clause requires be equalized among voters is their "share" of representatives on the governmental body in question.
+In the simplest of cases, where each representative has an equal vote (i.e., there is no weighted voting), Abate requires only that the court look to the number of citizens in each representative's district; equality is achieved where those numbers are equal. The Abate analysis, with its focus on a citizen's power to elect representatives, has its provenance in Reynolds v. Sims , 377 U.S. 533 , 84 S.Ct. 1362 , 12 L.Ed.2d 506 (1964), which of course concerned a state legislature.
+There, after noting that "[m]ost citizens can achieve [ [f]ull and effective participation in state government] only through the election of legislators to represent them," id. at 565 , 84 S.Ct. at 1383 , the Court held that what "the Equal Protection Clause guarantees" is "the opportunity for equal participation by all voters in the election of state legislators," id. at 566 , 84 S.Ct. at 1384 , and that this required that seats in the legislature be apportioned on the basis of population, id. at 568 , 84 Ct. at 1385 .
+This approach has been pervasive in the Supreme Court's jurisprudence of voter equality even when applied to local governmental bodies.
+In Avery v. Midland County , 390 U.S. 474 , 88 S.Ct. 1114 , 20 L.Ed.2d 45 (1968), the Court applied the Reynolds one-person, one-vote principle to the Midland County, Texas, Commissioners Court, the county's governing board, which consisted of one member elected at large and four members elected from single-member districts of substantially unequal population.
+Ignoring the presence of the member elected at large, the Court held the Midland County arrangement unconstitutional and stated "that the Constitution imposes one ground rule for the development of arrangements of local government: a requirement that units with general governmental powers over an entire geographic area not be apportioned among single-member districts of substantially unequal population."
+Id. at 485-86 , 88 S.Ct. at 1121 .
+As in Reynolds , the Court made clear precisely what the equal protection clause requires be equalized.
+It requires "that those qualified to vote have the right to an equally effective voice in the election process ."
+Id. at 480 , 88 S.Ct. at 1118 (emphasis added).
+See also Hadley v. Junior College District , 397 U.S. 50, 56 , 90 S.Ct. 791, 795 , 25 L.Ed.2d 45 (1970) ("whenever a local government decides to select persons by popular election to perform governmental functions, each qualified voter must be given an equal opportunity to participate in that election ," to be achieved by establishing districts so "that equal numbers of voters can vote for proportionally equal numbers of officials") (emphasis added).
+It is true that in cases involving only single member districts there is no difference between approaches seeking to equalize the power of a voter to affect the outcome of a decision and those seeking only to equalize participation in the election process.
+4 Thus it can be argued that the language in Reynolds , Hadley , and Abate to the effect that it is the power of citizens to elect representatives that must be equalized is not clear authority against requiring equality of power over outcome in a case involving more complex arrangements than single-member districts.
+Avery nevertheless strongly suggests that the Supreme Court indeed intends equality of electoral power to be the controlling principle in voting cases.
+As noted above, the governmental body in Avery consisted of four officials elected from single-member districts and one official elected at large.
+If the equal protection clause requires that persons have an equal ability to affect the outcome of a governing body's votes, the Court in Avery might have been expected to factor in the single at-large member, who voted when the other members' votes were tied.
+Such an analysis would take account of each voter's power to cast the decisive vote for the at-large member, and that member's power to cast the decisive vote when the Commissioners Court reached a decision.
+See note 2, supra .
+But, in fact, the Court did not analyze the effect on voting power of the presence of the at-large member, focusing instead entirely on the population disparity among the districts electing the other four members.
+A court that looks only to voters' relative power to elect representatives for single-member districts, where the scheme also includes at-large members, is obviously not thinking of equality in terms of power over the outcome of votes in the governing body.
+See also Markoe v. Legislature of Virgin Islands , 592 F.2d 188, 190-91 (3d Cir.1979) (determining equality of representation in electing a fifteen-member body without reference to the one at-large representative); Perry v. City of Opelousas , 515 F.2d 639, 641-42 (5th Cir.1975) (maximum deviation in case involving five single-member and one at-large district calculated solely by reference to the single-member districts); Latino Political Action Committee, Inc. v. City of Boston , 568 F.Supp.
+1012, 1015 (D.Mass.
+), stay denied , 716 F.2d 68 (1st Cir.), stay denied , 463 U.S. 1319 , 104 S.Ct. 5 , 77 L.Ed.2d 1421 (1983) (Brennan, J., in chambers) (nine district and four at-large members; maximum deviation calculated by reference only to the nine district members); Martin v. Venables , 401 F.Supp.
+611 (D.Conn.1975) (Newman, J.) (town council of ten single-member and one at-large districts; no reference to at-large member).
+The clear lesson of Avery and the other cases cited is that the proper inquiry in cases such as this is into the relative power of voters to elect representatives.
+5 We find further support for our conclusion in the Supreme Court's decision in Whitcomb v. Chavis , 403 U.S. 124 , 91 S.Ct. 1858 , 29 L.Ed.2d 363 (1971).
+In that case a citizen of Lake County, Indiana, challenged the state's arrangement of multimember electoral districts for the state general assembly, claiming that "Marion County was one-third larger in population and had approximately one-third more assembly seats than Lake County, but that voter influence does not vary inversely with population and that permitting Marion County voters to elect 23 assemblymen at large gave them a disproportionate advantage over voters in Lake County."
+Id. at 129 , 91 S.Ct. at 1862 (footnote omitted).
+The citizen-plaintiff claimed that "Marion County voters had greater opportunity to cast tie breaking or 'critical' votes."
+Id. at 137 , 91 S.Ct. at 1865 .
+Other plaintiffs argued that multimember Indiana districts gave disproportionate advantage to voters in those districts over voters in single-member Indiana districts, on the ground that the voter represented by multiple representatives had a disproportionate opportunity to influence the outcome of votes in the general assembly.
+Id. at 144 , 91 S.Ct. at 1869 .
+These, of course, are claims based on the Banzhaf voting-power method of measuring voter equality.
+See id. at 145-46 n. 23, 91 S.Ct. at 1870 n. 23.
+The Court stated that it had no quarrel with the plaintiffs' mathematical demonstration "that in theory voting power does not vary inversely with the size of the district and that to increase legislative seats in proportion to increased population gives undue voting power to the voter in the multimember district since he has more chances to determine election outcomes than does the voter in the single member district."
+Id. at 144-45 , 91 S.Ct. at 1869 70 .
+Nevertheless, the Court refused to adopt the Banzhaf analysis, because "the position remains a theoretical one," id. at 145 , 91 S.Ct. at 1870 , and was unrealistic in not taking into account "any political or other factors which might affect the actual voting power of the residents, which might include party affiliation, race, previous voting characteristics or any other factors which go into the entire political voting situation."
+Id. at 146 , 91 S.Ct. at 1870 .
+We are similarly persuaded that the Banzhaf index is an insufficiently realistic measure of voter equality to provide the basis of a Fourteenth Amendment analysis of voter equality.
+It is unrealistic in a general sense involving voter motivation; and it is unrealistic in a particular sense as it applies to citizen voting power through the Board of Estimate.
+As a result, the Banzhaf index does not sufficiently reflect "[t]he real life impact of [the makeup of the Board of Estimate and the way its members are elected] on individual voting power to warrant departure from prior cases."
+Id. As a general matter, a core claim of the Banzhaf analysis, that the ability of a voter to cast a decisive vote in an election is the proper test of voting power, is unrealistic.
+As one commentator has written, M. Finkelstein, Quantitative Methods in Law 112 (1978).
+See also Rae, Reapportionment and Political Democracy , in Reapportionment in the 1970s, at 90, 95 (N. Polsby ed. 1971) ("the most rigorous analysis of the value assignable to a single vote leads its authors to emphasize considerations having nothing to do with outcomes One votes because he thinks it his duty as a citizen or because he feels social pressure to do so or because he finds a symbol of inclusion in the act.
+All this is independent of the political consequences of voting " (emphasis in original; footnote omitted)), citing Riker and Ordeshook, A Theory of the Calculus of Voting , 62 Am. Pol. Sci. Rev. 25 (1968).
+Even assuming that a desired outcome is a significant motivating factor for voters, the Banzhafian calculation of the probability of voter decisiveness in the outcome of an election is unrealistic, for the reasons noted in Whitcomb v. Chavis , supra .
+That calculation assumes "that all combinations of voters are equally likely," an assumption which "is not particularly sensible in a context where partisanship, race, or other characteristics impinge on voter choice and are related to voters' expected policy benefits from particular election outcomes."
+Grofman, Fair and Equal Representation , 91 Ethics 477, 479-80 (1981) (footnote omitted).
+See also Grofman and Scarrow, The Riddle of Apportionment: Equality of What?
+, 70 Nat'l Civic Rev. 242, 245-46 (1981) (Banzhaf model ignores ingrained partisan preferences, as well as voting habits, that have an impact on election outcome).
+It is not only at the level of voter decisiveness in election outcomes that we detect a lack of realism.
+The Banzhaf analysis is seriously defective in the way it measures Board members' power to determine the outcome of a Board vote.
+The problem is that it gives the same weight to and assumes the same probability of occurrence for each of the 552 possible voting combinations in which a single Board member can determine outcome.
+See note 2, supra .
+This assumption ignores, however, "the deference that the Board traditionally pays to the views of borough presidents on matters affecting their boroughs in particular ways."
+Brief for Board of Estimate at 35.
+This tradition of "collegiality" means that a borough president often if not usually controls the votes of all five borough presidents on issues of local importance.
+It follows that, because the Mayor cannot vote on certain budget items, a borough president with a special interest in the item can in effect control that item by himself.
+Even on non-budget matters, borough president collegiality results in all five borough presidents voting together on many issues.
+6 As the amicus curiae Citizens Union of the City of New York points out, this means that the "552 equally possible voting combinations" assumed by Banzhafian analysis are purely theoretical.
+7 As the Board itself argues in its brief, "any mathematical device to measure discrimination in voting must bear a resemblance to the way the process really works."
+The Banzhaf index urged upon us by the Board makes unrealistic assumptions as applied in this case and accordingly does not pass that test.
+We recognize, of course, that the equal protection analysis of voter equality that the cases establish and that we follow here--the requirement that voters have an equal opportunity to elect representatives--is not itself flawless, and certainly that the "equally populated districts" method of achieving such equality is likewise imperfect because it too must make assumptions that do not always mirror reality.
+See Grofman, Fair and Equal Representation, 91 Ethics 477, 480 n. 8.
+Nevertheless, like the Court in Whitcomb , given the problems we have noted with Banzhafian analysis, we see insufficient reason "to depart from prior cases."
+And like Justice Harlan, dissenting in Whitcomb , discussing the effects of minor variations in assumptions in Banzhafian analysis, 403 U.S. at 169 n. 5, 91 S.Ct. at 1883 n. 5, we recall Mark Twain's comment that "[t]here is something fascinating about science.
+One gets such wholesale returns of conjecture out of such a trifling investment of fact."
+Life on the Mississippi 109 (Harper & Row 1965).
+We now turn to consider whether the district court should have modified the Abate test to take account of the citywide Board members in calculating voter inequality under the present system.
+We agree with the district court that the citywide Board members and borough presidents represent different interests, and that this divergence justifies measuring deviation from voter equality by applying the Abate test to the borough presidents alone.
+592 F.Supp.
+at 1470-75 .
+We do not doubt that as members of a body that makes decisions having an effect on the entire city, the borough presidents keep in mind not only the special local interests of their constituents, but also the interests of the city as a whole.
+However, it is undoubtedly the case that a representative will seek especially to advance the interests of those whose votes elect him or her.
+Indeed, this is a desirable state of affairs and, as appellants and their amici urge, the very point of electing representatives from geographical areas.
+"[T]he very fact that representatives are severally related to distinct localities strongly implies that they have a special obligation to look after the desires and interests of the people in those localities " Pennock, Political Representation: An Overview , in Nomos X: Representation 12 (J. Pennock & J. Chapman eds.
+1968).
+The apportionment cases clearly recognized the principle that an elected official "must be vigilant to serve the interests of all the people" upon whom his tenure depends.
+Fortson v. Dorsey , 379 U.S. 433, 438 , 85 S.Ct. 498, 501 , 13 L.Ed.2d 401 (1965).
+See also Dusch v. Davis , 387 U.S. 112, 115 , 87 S.Ct. 1554-56 , 18 L.Ed.2d 656 (1967).
+Here, the Board's members primarily represent the interests of the different constituencies that elect them.
+The borough presidents sit on the Board of Estimate as representatives of the special concerns their constituents have qua residents of a particular borough.
+The citywide members, on the other hand, must be supposed to transcend such purely local interests, and to represent primarily the interests of their constituents qua residents of New York City. 8 See Affidavit of Steven Brams, quoted by the district court, 592 F.Supp.
+at 1474 (Jt.
+App. at 890).
+There is no fiction involved in saying, for instance, that an individual resident of Brooklyn may have distinct and potentially differing interests qua Brooklyn resident and qua New York City resident.
+For example, from the point of view of the city as a whole, the best place for some necessary but locally-disruptive facility, e.g., a toxic waste dump, might be in Brooklyn, whereas from the point of view of a Brooklyn resident who lives in the neighborhood of the proposed facility the site selected may appear to be the worst possible one.
+It has been the function of the Board of Estimate, consisting of representatives of each interest, to judge between them and to solve the coordination problems that otherwise would arise between the boroughs.
+See Affidavits of Herman Badillo (Jt.App.
+at 422) and Werner Kramarsky (Jt.
+App. at 25).
+Viewing the Board in this light, we hold that in calculating voter equality for equal protection purposes the citywide members should be, if not ignored, not considered in the appropriate analysis.
+It follows that, since the interests of Staten Island residents qua residents of that borough have substantially identical representation on the Board to those of residents of Brooklyn, though Brooklyn is six times as populous as Staten Island, there are serious inequalities in the representation of residents of the different boroughs.
+Indeed, this is what the Abate test demonstrates and quantifies, a 132.9% maximum deviation from voter equality.
+We wish to make it plain that we use the concept of "interest representation" in this case only in order to determine how the Board is to be analyzed for the purpose of applying the Abate test, a test that itself measures the representation of people , not of interests .
+Our approach is thus in accord with what has been the Supreme Court's insistence that the Equal Protection clause requires the equalization of voter representation, not interest representation.
+See, e.g. , Reynolds v. Sims , 377 U.S. at 562 , 84 S.Ct. at 1382 ("Legislators represent people, not trees or acres.
+Legislators are elected by voters, not farms or cities or economic interests.").
+On the contrary, the Board's argument, for example, that "[r]eapportionment according to exact population would reduce the Staten Island borough president to the status of a by-stander in the Board's deliberations," Brief at 12, obviously is thinking of equal protection in terms of equal representation of interests--here, borough interests.
+That view, in light of Reynolds and its progeny, is untenable.
+The design of the Board, which gives equal weight to each borough's interests, has devalued concomitantly the votes of individual residents of Brooklyn and Queens, and has grossly overvalued the votes of Staten Island residents.
+The result is exactly what the Equal Protection clause forbids: "the elevation of a small class of 'supervoters' granted an extraordinarily powerful franchise."
+Brown v. Thomson , 462 U.S. 835, 856 , 103 S.Ct. 2690, 2703 , 77 L.Ed.2d 214 (1983) (Brennan, J., dissenting).
+Having held that the district court correctly found a maximum deviation from voter equality of 132.9%, we turn next to consider whether the Board's current structure is justified by considerations of such moment that they outweigh this gross deviation from equality.
+We assume, for this purpose, but do not decide, that a deviation so substantial as this might in some circumstances be justifiable, given the greater flexibility accorded to local government bodies, Abate , 403 U.S. at 185 , 91 S.Ct. at 1906-07 , though we harbor not inconsiderable doubt as to whether this is so. Following this court's instruction that the district court "rule on the policies and interest which the Supreme Court has held may justify deviations from the literal one person, one vote formula," Morris v. Board of Estimate , 707 F.2d at 690 , the district court directed the parties to submit a joint stipulation setting forth the agreed valid policies and interests presently served by the Board and the disputed policies and interests which at least one defendant maintains are valid and are presently served by the Board.
+592 F.Supp.
+at 1477 .
+The parties did so, and the district court after argument and papers issued another opinion, Morris v. Board of Estimate , 647 F.Supp.
+1463 (E.D.N.Y.1986), considering the various justifications, including the claims of no injury, uniqueness, effectuation of delegated police power responsibilities, equal Board voting power, historical practice, respect for natural boundaries, integrity of political subdivisions, effectiveness, meaningful representation of smaller boroughs in Board affairs, and checking the mayor and supplementing the city council, i.e., promoting separation of powers.
+The district court recognized properly that the defendants had the burden of justification.
+Brown v. Thomson , 462 U.S. at 842-43 , 103 S.Ct. at 2696 ; see also Mahan v. Howell , 410 U.S. 315, 328 , 93 S.Ct. 979, 987 , 35 L.Ed.2d 320 (1973); Karcher v. Daggett , 462 U.S. 725, 740-41 , 103 S.Ct. 2653, 2663-64 , 77 L.Ed.2d 133 (1983).
+Beyond weighing the assorted justifications, the district court scrutinized alternatives, pursuant to Connor v. Finch , 431 U.S. 407, 420 , 97 S.Ct. 1828, 1836-37 , 52 L.Ed.2d 465 (1977), and Kilgarin v. Hill , 386 U.S. 120, 123-24 , 87 S.Ct. 820, 822-23 , 17 L.Ed.2d 771 (1967).
+See 647 F.Supp.
+1475-78 .
+The court found that alternatives "have been suggested that would 'substantially vindicate' the accepted policies and interests 'yet approximate population equality more closely,'" 647 F.Supp.
+at 1478 (quoting Karcher , 462 U.S. at 741 , 103 S.Ct. at 2664 ).
+It held that the "existing plan with its much greater departure from franchise equality does not advance the valid policies and interests."
+Id. On the basis of the thorough analysis and reasoning of Judge Neaher in Morris v. Board of Estimate , 647 F.Supp.
+1463, 1479 , we affirm his judgment which very wisely enjoined the city defendants to undertake curative measures "with all deliberate speed."
+We understand that they are doing so, and when this case returns to the district court, we hope that an appropriate charter provision will be proposed accordingly.
+In the meantime, though flawed, the Board of Estimate may continue to function.
+Six months should be a target area, one year a deadline.
+Judgment affirmed.
+NEWMAN, Circuit Judge, filed a concurring opinion.

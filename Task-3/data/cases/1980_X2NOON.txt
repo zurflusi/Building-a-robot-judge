@@ -1,0 +1,293 @@
+ ENGEL , Circuit Judge.
+Plaintiffs appeal from the district court's order granting partial summary judgment in favor of the defendant Merrill Lynch, Pierce, Fenner & Smith (hereinafter Merrill Lynch), and further granting Merrill Lynch's motion for stay of the remaining claims pending arbitration.
+1 In their complaint, plaintiffs John J. Curran and Jacquelyn L. Curran sought damages from Merrill Lynch for false representations made by its agents which induced plaintiffs to open discretionary commodity trading accounts with Merrill Lynch and for the broker's subsequent mismanagement of those accounts.
+Specifically, plaintiffs allege that the accounts constitute investment contracts under federal law, and that Merrill Lynch violated Section 5 and Section 12(2) of the Securities Act by failing to file a registration statement before making an offer and sale of a security.
+Plaintiffs also assert that defendant made untrue statements of material fact, omitted to state material facts necessary to make the statements not misleading, and employed a device, scheme, or artifice which operated as a fraud upon plaintiffs, all in violation of Rule 10b-5 , 17(a) of the Securities Act, 6(a) of the Commodities Exchange Act, 410(a)(2) of the Michigan Uniform Securities Act, and principles of common law.
+Plaintiffs further allege that defendant breached the commodity account agreement by: (1) failure to manage the accounts in a skillful and prudent manner; (2) failure to observe certain safeguards and stop-loss limits; and (3) failure to employ a scientific and comprehensive investment plan and instead, engaging in reckless and haphazard trading with the sole intention of generating large commissions.
+The district court ruling presents several issues of first impression in this circuit.
+Initially, we must determine whether a discretionary trading account in commodity futures constitutes a "security" subject to the registration requirements and enforcement provisions of the federal securities laws.
+The court below determined the account was not a security and entered partial summary judgment against plaintiffs' securities claims, relying primarily on Milnarik v. M-S Commodities, Inc. , 457 F.2d 274 (7th Cir.), cert. denied , 409 U.S. 887 , 93 S.Ct. 113 , 34 L.Ed.2d 144 (1972).
+In Milinarik the Seventh Circuit, speaking through Mr. Justice Stevens (then Judge Stevens), held that a discretionary trading account in commodity futures is not a security because such accounts lack the "common enterprise" element required for an investment contract under Securities Exchange Commission v. Howey , 328 U.S. 293 , 66 S.Ct. 1100 , 90 L.Ed. 1244 (1946).
+We agree.
+Further, we reject plaintiffs' contention that the account involved here, though not a security, should be treated as such because it was fraudulently misrepresented to include the essential elements of a common enterprise.
+This appeal also presents substantial questions whether the district court should have stayed plaintiffs' other claims pending arbitration, and whether in all events the lawsuit is barred by a one-year limitation period provided for in the contract in question.
+Finally, for reasons set forth later, we have been obliged to consider, sua sponte , and have determined that an implied private right of action exists under the Commodity Exchange Act.
+2 I. FACTS Plaintiffs, as customers of the broker-dealer defendant, Merrill Lynch, lost a substantial sum of money in the highly volatile and speculative futures market.
+These losses were allegedly sustained due to Merrill Lynch's mismanagement of plaintiffs' discretionary commodity accounts in a manner contrary to representations made when the contracts were made.
+In 1973, plaintiffs opened several accounts for trading commodity futures in defendant's "Guided Commodities Account Program."
+In the written Customer Account Agreement, the parties agreed to submit any dispute under the contract to arbitration within one year after the accrual of such claim.
+As Merrill Lynch interprets the program, a customer deposits an amount he is prepared to risk in his own commodity trading account.
+Merrill Lynch further claims that although specific recommendations for purchase and sale are made by commodities specialists, the ultimate decision to act or not is made only upon the customer's direct order.
+However, plaintiffs have raised a question of fact with respect to that issue in the pleadings and Merrill Lynch has acknowledged that, for purposes of this appeal only, the plaintiffs' commodity trading accounts must be deemed discretionary, with trading control in the hands of Merrill Lynch.
+Plaintiffs allege that Merrill Lynch fraudulently misrepresented how the account would be handled with respect to other accounts in the same program.
+They insist that the discretionary account was represented to involve several unique elements in that: (1) the program involved a specified number of investors who could not withdraw their capital for a minimum of 18 months; (2) the accounts were to be controlled by an individual trader who could direct buy/sell decisions on a broad basis and thereby control fluctuations in the market; (3) the capital availability and buying power generated by control over the group of accounts would create a multibuyer effect allowing the trader to buy as though he were buying five times greater the amount than if dealing with a separate account.
+To support these contentions, plaintiffs state that after they opened the first account of $100,000 Merrill Lynch made all trading decisions and exercised complete control over plaintiffs' accounts.
+Initially, plaintiffs realized profits on the trading activity and at one point withdrew $101,007.80.
+Later, the accounts declined in value and plaintiffs suffered excessive trading losses which they blame upon improper and excessive trading activities and a failure to observe the "stop loss" procedures represented to exist as part of the program.
+On several occasions, plaintiff John J. Curran requested that the accounts be closed and that plaintiffs be "cashed-out."
+On each occasion, except the final one (at which time plaintiffs' capital had been reduced to approximately $6,000), defendant either refused to follow his advice or convinced Curran that he was required to stay in the program for 18 months.
+In April, 1974, the defendants assented to plaintiffs' demands to "cash-out" the accounts.
+At that time plaintiffs assert that the accounts had declined in value approximately $175,000.
+Significantly, Merrill Lynch had in the meanwhile been paid $44,500 in commissions.
+II. A commodity future is a standardized contract for the purchase and sale of a fixed quantity of a commodity to be delivered in a specified future month at a price agreed upon when the contract is entered into.
+See generally Bromberg, Securities Laws 4.6, at 82.181 (1975).
+Futures contracts are traded by futures commission merchants and floor brokers on national exchanges, or "contract markets," which are regulated by the Commodity Futures Trading Commission (CFTC).
+Generally, a futures contract seller is characterized as being in a "short" position since he must deliver the commodity in accordance with the contract in order to receive the purchase price.
+The purchaser of a futures contract is labeled as holding a "long" position in that he must pay the contract price before receiving the commodity.
+Ordinarily, the number of trades far exceeds the number of actual deliveries since futures contracts are the subject of speculation by traders seeking to profit from their trading acumen, rather than from actually delivering or receiving the commodity involved.
+As Judge Kinneary stated in Berman v. Bache, Halsey, Stuart, Shields, Inc. , 467 F.Supp.
+311, 315-16 (S.D.Ohio 1979), "a commodities future contract is little more than a wager that the market price of a given commodity will change in a given direction by a specified future date."
+Normally, the trader's expectation of profit arises solely from speculative hope based upon his expertise in the market.
+Although bare commodities are generally not considered securities, some courts have determined that an investment contract is formed when commodity accounts are managed by the seller or affiliate.
+3 Typically, a customer trading in a discretionary commodity account gives the broker authority to buy and sell at the broker's discretion, without prior consultation with the customer.
+Discretionary accounts are more common for commodities where fast trading is required due to sharp movement in prices, a factor further magnified by the high leverage that results from generally low margin requirements.
+While the underlying commodities themselves do not constitute securities, whether a discretionary commodity account constitutes an investment contract, and thus a security under the federal securities laws, is a current topic of dispute in the federal courts.
+The question is particularly difficult where there is no actual pooling of the customer's funds with those of other investors.
+Whether a particular financial arrangement is considered an "investment contract," 4 and therefore subject to the filing requirements of Section 5 , Securities Act of 1933, and the antifraud provisions of Section 10 and Rule 10b-5 of the Securities Exchange Act of 1934, is usually determined by measuring the arrangement against the requirements set forth in Securities & Exchange Commission v. Howey , supra .
+In Howey , the Supreme Court defined an investment contract as ".
+.
+.
+a contract, transaction or scheme whereby a person invests his money in a common enterprise and is led to expect profits solely from the efforts of the promoter or third party .
+. "
+Id. , 328 U.S. at 298-99 , 66 S.Ct. at 1103 .
+It is universally recognized that the Howey test is comprised of three basic elements: (1) an investment of money, (2) in a common enterprise, with (3) profits to come solely from the efforts of others.
+Further, although the Supreme Court offered little guidance in defining these elements, it did note that the definition of a security, Id. at 299 , 66 S.Ct. at 1103 .
+See also United Housing Foundation, Inc. v. Forman , 412 U.S. 837, 852 , 95 S.Ct. 2051, 2060 , 44 L.Ed.2d 621 (1975).
+The current debate usually focuses on whether a horizontal or a vertical relationship satisfies the "common enterprise" language of Howey .
+Plaintiffs assert that the common enterprise requirement is met by a vertical relationship, which essentially is a one-on-one arrangement between the customer and broker.
+Horizontal relationships are those between an individual investor and the pool of other investors.
+In rendering summary judgment against plaintiffs' securities claims the district court applied the horizontal approach adopted in Milnarik v. M-S Commodities, Inc. , supra .
+5 In Milnarik , Justice Stevens began his inquiry by observing that, in searching for the meaning and scope of the word "security," courts should disregard form in favor of substance and place the emphasis on economic reality.
+Tcherepnin v. Knight , 389 U.S. 332 , 88 S.Ct. 548 , 19 L.Ed.2d 564 (1967).
+He observed that not "every conceivable arrangement that would fit a dictionary definition of an investment contract was intended to be included within the statutory definition of a security."
+Id. at 275-76 .
+Justice Stevens interpreted Securities & Exchange Commission v. Howey , supra , as stressing the significance of the common enterprise element in determining whether particular investment contracts are securities.
+The original complaint in Milnarik alleged a discretionary arrangement remarkably similar to the relationship here.
+The court noted, however, that "the success or failure of those other [customer's] contracts had no direct impact on the profitability of plaintiffs' contract.
+[The broker's] various customers were represented by a common agent, but they were not joint participants in the same investment enterprise."
+Id. at 276 .
+The significance of this finding is found in Milnarik's adoption of the district court's further determination that: Securities and Exchange Commission v. Ralston Purina Co. 346 U.S. 119 73 S.Ct. 981 97 L.Ed. 1494 Securities and Exchange Commission v. Culpepper 270 F.2d 241 Id. at 277 .
+We reject plaintiffs' assertion that a pooling of investors' interests is not essential to a finding of common enterprise and hold that Justice Stevens' reasoning in Milnarik best comports with the language of Howey since the agreement entered into here was solely between plaintiffs as investors, and Merrill Lynch as broker, and it did not include a "common enterprise" element.
+Therefore, we conclude the district court had no jurisdiction under the federal securities laws and properly dismissed those claims for failure to state a cause of action.
+By adopting Milnarik , we necessarily reject the vertical commonality approach primarily championed by the Fifth Circuit's decision in Securities & Exchange Commission v. Continental Commodities Corp. , 497 F.2d 516 (5th Cir. 1974).
+In Continental Commodities , the district court followed the Seventh Circuit's reasoning in Milnarik , supra , primarily because each individual invested in different accounts and the investors had no expectation that they would share in a common fund comprised of the return on their investments.
+6 The Fifth Circuit, however, refused to adopt the Milnarik approach and emphasized its view that a pro rata sharing of profits is not critical to a finding of commonality.
+Rather, the court preferred a resilient standard which would comport with the remedial purposes of the Securities Act of 1933 and the Securities Exchange Act of 1934.
+The court applied a test which the Ninth Circuit formulated to deal with the various pyramid-type investment schemes challenged in the courts as securities: a "common enterprise is one in which the fortunes of the investor are interwoven with and dependent upon the efforts and success of those seeking the investment or of third parties."
+Securities & Exchange Commission v. Koscot Interplanetary, Inc. , 497 F.2d 473 (5th Cir. 1974), quoting Securities & Exchange Commission v. Glen W. Turner Enterprises , 474 F.2d 476, 482 n. 7 (9th Cir.), cert. denied , 414 U.S. 821 , 94 S.Ct. 117 , 38 L.Ed.2d 53 (1973).
+7 Further, the court expressed the notion that "the critical factor is not the similitude or coincidence of investor input, but rather the uniformity of impact of the promoter's efforts."
+497 F.2d at 478 .
+In Continental Commodities the Fifth Circuit vigorously criticized Milnarik's elevation of the pooling ingredient to exalted status and held that "the critical inquiry is confined to whether the fortuity of the investments collectively is essentially dependent upon promoter expertise.
+.
+.
+.
+That it may bear more productive fruits in the case of some options than it does in others should not vitiate the essential fact that the success of the trading enterprise as a whole and customer investments individually is contingent upon the sagacious investment counselling of Continental Commodities."
+Id. at 522 .
+8 Although this approach has attracted some support, 9 we believe that no horizontal common enterprise can exist unless there also exists between discretionary account customers themselves some relationship which ties the fortunes of each investor to the success of the overall venture.
+Thus in our view the finding of a vertical common enterprise based solely on the relationship between promoter and investor is inconsistent with Howey .
+Further support for Milnarik's rationale is found in Berman v. Bache, Halsey, Stuart, Shields, Inc. , 467 F.Supp.
+311, 315-16 (S.D.Ohio 1979), where Judge Kinneary observed that: Howey Howey Id. at 319 .
+III.
+Even though we conclude that a discretionary commodity account is not a security, plaintiffs still claim the district court erred in dismissing the securities claims because while a "common enterprise" was not shown to exist, it was nonetheless fraudulently promised.
+In short, plaintiffs make the interesting argument that the unfulfilled and fraudulent promise of a "common enterprise" with other Merrill Lynch customers itself brings the actual agreement made within the definition of a "security" and hence confers jurisdiction under the federal securities laws.
+Under such a circumstance, they urge it was improper for the district court to have entered summary judgment under Rule 56 because the deposition and affidavits submitted by the parties in connection with the motion for summary judgment raise a fact question of whether a "common enterprise" existed.
+10 We have earlier noted that the facts here are virtually identical to those in Milnarik , supra .
+One significant exception, however, is that the Milnarik court did not deal with the situation where the account is claimed to involve a pooling of funds, whereas in this case the plaintiffs allege that such misrepresentation occurred.
+The Milnarik court stated: no allegations are made that a common enterprise existed comprised of all people possessing discretionary account contracts with him.
+No claim is made that Nelson traded in a uniform manner for each of these accounts.
+Even if he had so uniformly traded, no pooling of funds for a common purpose is alleged Id. at 278 .
+(emphasis added).
+The evidentiary matter before the district court included a deposition of Lawrence McMann, a Merrill Lynch customer account executive, and a counter affidavit of James Olin, Manager of a Detroit-area Merrill Lynch office.
+Olin stated that regardless of what plaintiffs may have been told, their account was handled independently of others involved in the program, and was never used in a manner that would suggest a common enterprise with the companion accounts.
+McMann testified, however, that although the account may have been handled as suggested by Olin, the Currans were given a different description of the account.
+Essentially, McMann stated that the account offered to the Currans was unique: the trader acted as controller of a group of accounts thus allowing him to make buy/sell decisions on a broader basis and thereby control fluctuations in the market.
+This control was represented as a trading capability five times greater than for a separate account.
+We do not view this tempting expectancy as elevating the trading account to the full dignity of a security.
+Essentially it remained an agency for hire.
+It is true that plaintiffs may have hoped that defendant's control over a number of accounts would increase the agent's clout in the market.
+The fact remains, however, that the plaintiffs always understood that their return would be based on a one-to-one vertical relationship with the trader.
+They knew there was no contractual tie to other accounts.
+IV.
+Merrill Lynch asserted in the district court that plaintiffs' action was time-barred because the one year limitation period agreed upon in writing by the parties expired before the complaint was filed.
+The "Commodity Account Agreement" provided for submission of all disputes to arbitration within one year after the cause of action accrued.
+11 The accounts were opened April 5, 1973, and August 20, 1973.
+Plaintiffs claimed that they could not reasonably have known that defendant's representations were false until April, 1974.
+Judge Thornton, however, declined to rule on Merrill Lynch's claim that the action accrued more than one year prior to the April 5, 1976 filing of the complaint.
+Merrill Lynch argues that absent a controlling statute to the contrary, a provision in a contract may validly limit the time for bringing an action for breach of contract to a period less than that prescribed in the general statute of limitations, at least if the shorter period is reasonable.
+See, e. g. , Order of United Commercial Travelers of America v. Wolfe , 331 U.S. 586, 608 , 67 S.Ct. 1355, 1365 , 91 L.Ed. 1687 (1947).
+Plaintiffs, however, assert that the one year limitation provision is tied to the arbitration clause in their discretionary trading account agreement, and that if arbitration is impermissible, the one year limitation also dies with it.
+12 We agree.
+V. Plaintiffs assert that arbitration is not a favored remedy with respect to commodity futures brokerage transactions, citing statutory and administrative limitations upon the enforcement of an agreement to arbitrate.
+Specifically, Section 5a(11) of the Commodity Exchange Act, 7 U.S.C. 7a(11) , as amended by the Commodity Futures Trading Commission Act of 1974, P.L.
+93-463 , 88 Stat. 1389 , effective April 21, 1975, provides that each contract market is required to: Provided voluntary not be applicable to any claim in excess of (Emphasis added).
+In 1976, the CFTC adopted regulations under Section 7a(11) providing that no predispute arbitration agreement may be enforced unless the agreement is contained in a separate document executed by the customer and contains adequate warnings in large print.
+13 17 C.F.R. 180.1 et seq.
+(1976).
+Although the cause of action here arose before the effective date of the CFTC Act, plaintiffs argue that the Act's limitation upon arbitration should be retroactively applied.
+Plaintiffs urge that retroactive application is justified because the agreement here is an adhesion contract, forced upon plaintiffs and other like customers through unequal bargaining power and does not comply with the requirements of Section 180.3.
+For its part, Merrill Lynch argues that the clause including the agreed limitation period is enforceable and that therefore the entire case should have been dismissed in the district court.
+Merrill Lynch contends that neither in their briefs nor in their argument to the district court did plaintiffs argue that CFTC Regulation 180.3, 17 C.F.R. 180.3 , could or should be applied retroactively.
+That regulation did not become effective until November 29, 1976, months after the case had been briefed and argued to the district court.
+Therefore, we are urged to disregard this argument because it is raised for the first time on appeal.
+See Bannert v. American Can Co. , 525 F.2d 104 (6th Cir.), cert. denied , 426 U.S. 942 , 96 S.Ct. 2662 , 49 L.Ed.2d 394 (1975); Schneider v. Electric Auto-Lite Co. , 456 F.2d 366, 375 (6th Cir. 1972); Cashner v. United States Steel Corp. , 327 F.2d 533 (6th Cir. 1964) (court refused to consider issue not raised until a supplemental appellate brief was filed).
+The Supreme Court, however, in Hormel v. Helvering , 312 U.S. 552, 556 , 61 S.Ct. 719, 721 , 85 L.Ed. 1037 (1941), stated: In their supplemental brief, plaintiffs assert that Ames v. Merrill Lynch, Pierce, Fenner & Smith , 567 F.2d 1174 (2d Cir. 1977), supports the retroactive application of CFTC Reg. 180.3 to bar arbitration here, and in so doing, also negates the one year limitation period written into it.
+In Ames , plaintiff signed the same standard form Merrill Lynch agreement as involved in this case. The piaintiff opposed a stay of arbitration on the ground that 17 C.F.R. 180.3 , which became effective on November 29, 1976, after the agreement was entered into, should be applied retroactively to render the arbitration agreement null and void.
+The Second Circuit agreed that the CFTC intended section 180.3 to be given retroactive effect and further observed that: Bradley v. Richmond School Board 416 U.S. 696, 711 94 S.Ct. 2006, 2016 40 L.Ed.2d 476 180.3 dispute Id. at 1177 .
+Before making its determination, the Ames court traced the evolution of Section 180.3.
+The Commodity Exchange Act, 7 U.S.C. 7a(11) , required only that each contract market provide a "fair and equitable procedure through arbitration or otherwise" for settlement of claims up to $15,000, and that the use of such procedure be voluntary on the part of the customer.
+Neither arbitration of claims over $15,000 nor arbitration outside the contract market were mentioned in the Act.
+The Commission, however, determined that arbitration outside the literal scope of the Act should be regulated, and under provisions in the Act giving the Commission authority "to make and promulgate such rules and regulations as are necessary to effectuate any of the provisions or to accomplish any of the purposes of the act," 7 U.S.C. 12a(5) , the Commission promulgated section 180.3 .
+Initial proposals submitted by the Commission sought to bar any agreement to arbitrate future disputes, but provided that grievances arising out of agreements actually entered into prior to the adoption of the regulations should be exempted.
+Later, the Commission decided that pre-dispute agreements would be tolerated, but only under conditions designed to insure that arbitration was truly voluntary.
+Also, the exemption for agreements antedating the regulation was withdrawn.
+As stated by the Ames court, "[i]nstead, the thrust was to include even pre-existing arbitration agreements in the new order of things."
+Id. at 1178 .
+Therefore, in making the final regulation effective on November 29, 1976, the Commission announced that "on the effective date of proposed 180.3(b), all pre-dispute arbitration agreements that do not satisfy the conditions set forth in the proposed rule will be null and void, including those heretofore signed by customers."
+41 Fed.Reg.
+42,944 (Sept. 29, 1976).
+The announcement made no mention of the treatment to be accorded disputes already in existence.
+On this basis, the Ames court held that " 180.3 fairly read should apply to all arbitration agreements existing at the effective date of the regulation."
+Id. at 1179 .
+14 See also Tamari v. Bache & Co. (Lebanon) S.A.L.
+, 565 F.2d 1194 (7th Cir. 1977), cert. denied , (Swygert, J. dissenting); 435 U.S. 905 , 98 S.Ct. 1450 , 55 L.Ed.2d 495 (1978); Rothberg v. Loeb, Rhoades & Co. , 445 F.Supp.
+1336 (S.D.N.Y.1978); Milani v. Conticommodity Services, Inc. , 462 F.Supp.
+405, 406-07 (N.D.Cal.1976).
+The retroactive effect of an alteration in a regulatory scheme generally depends upon whether it affects litigation at a point which causes a result so unfair and inequitable that it is unconstitutional.
+Plaintiffs here sought equitable relief from the arbitration clause in their customer commodity account agreement at an early stage of the litigation, and no surprise or other unfairness is apparent upon the record.
+Under these circumstances we do not find that retroactive application of Regulation 180.3 would result in manifest injustice.
+Further, we note that the plaintiff in Ames appealed from a district court order compelling arbitration and staying trial of his action, and therefore, sought equitable relief from the effect of a similar arbitration agreement at the same stage of the proceedings as the plaintiffs in the instant case. 15 In support of its result, the Ames court stated: 41 Fed.Reg.
+27,526 41 Fed.Reg.
+42,945 Oral Hearing on Arbitration and Other Dispute Settlement Procedures 41 Fed.Reg.
+42,945 Id. at 1178 .
+In response to its fact-finding, the Commission, in announcing the effective date of the regulation, reiterated the nullity of all pre-dispute arbitration agreements not complying with the conditions of Section 180.3 but did not mention any exemption for existing disputes.
+41 Fed.Reg.
+42,942-44 (Sept. 29, 1976).
+As further noted in Ames , "any such exemption would hardly conform to the notion, stated by the Commission itself, that customers who had entered into agreements before adoption of the regulation needed and were entitled to the protections of the rule no less than those customers who signed agreements after November 29, 1976."
+Id. at 1177 .
+Our determination that Section 180.3 should be retroactively applied to invalidate the arbitration agreement in this case compels the further conclusion that the one year limitation period provided for therein is also inapplicable.
+The one year limitation was expressly contingent upon the institution of arbitration proceedings and the language of the agreement nowhere extends to any residual and underlying court action which may otherwise exist.
+Accordingly, the order compelling arbitration and staying this action with respect to plaintiffs' commodity claims must be reversed and remanded to the district court.
+VI.
+Merrill Lynch has acknowledged that it did not consider the partial summary judgment in its favor, from which this appeal is taken, to have extended to or to have affected in any way the plaintiffs' claims under the Commodity Exchange Act (CEA).
+16 Nevertheless, affirmance of the partial summary judgment and consequent remand to the district court for proceedings on the balance of the case necessarily raises the further question whether the federal district court has jurisdiction to entertain the remaining claims arising under the Commodity Exchange Act.
+17 Although the CEA does not expressly provide for a private right of action to recover damages, an implied right of action was generally thought to exist prior to the 1974 amendment of the Act.
+18 Consistent with this view, no issue concerning the continuing validity of the implied right of action was raised in the court below, nor in this appeal.
+19 Nevertheless, to provide direction to the district court upon remand and to avoid further delay in this already protracted litigation, we review this issue and specifically agree that an implied private right of action survived the 1974 amendments to the Act.
+20 The original Commodity Exchange Act of 1936 established a scheme for regulating trading in agricultural commodities futures based primarily on the concept of self-regulation.
+The chief means of enforcement of the Act emanated from the Commission's regulations and the rules of each Exchange, to which the courts added an implied private right of action.
+The increasing effect of commodities trading on the nation's economy, and significant escalations in annual trading volume, also gave rise to increased instances of fraud and manipulation.
+By 1974, Congress became aware that the system of self-regulation had decreased in effectiveness and sought to buttress the enforcement of the CEA safeguards.
+21 In 1974 Congress amended the Commodity Exchange Act to create the Commodity Futures Trading Commission and established an administrative procedure under which violations of any rule, provision, or regulation of the Act could be redressed by the commencement of an administrative proceeding before the CFTC to recover reparations.
+22 7 U.S.C. 18(e) .
+Reparations procedures may be initiated against futures commission merchants, floor brokers, commodity trading advisers and commodity pool operators, but not against the contract markets (exchanges).
+A judgment rendered in a reparations proceeding remains subject to appeal in the courts of appeal and is enforceable in the district courts.
+Additionally, the 1974 amendments grant the CFTC plenary power over futures commission merchants and contract markets.
+23 The creation of the CFTC was to provide a "strong Federal regulatory umbrella" to support the regulatory efforts of the exchanges in curbing unfair trading practices by providing public enforcement measures at both the exchange and individual level.
+H.R.Rep.No.
+975, 93d Cong., 2d Sess.
+48 (1974).
+Although the 1974 amendments represented a thorough revision of congressional regulation over the commodities futures trading industry, the Act did not speak to the continuing validity of the pre-existing private right of action.
+We believe the legislative history of the CFTC Act, however, indicates that Congress intended to extend further protection to the exchange customer, rather than to extinguish existing forms of protection.
+This observation is bolstered by the fact that Congress recognized self-regulation as a "commendable and noble concept and useful in such a complex atmosphere as that which surrounds futures trading."
+H.R.Rep.No.
+975, 93d Cong., 2d Sess.
+48 (1974).
+In addition to providing a more comprehensive regulatory scheme, it appears that Congress was motivated by a desire to clarify the jurisdictional dispute developing between the Commodity Exchange Commission and the Securities Exchange Commission with regard to commodities regulation under section 2 of the 1974 Act.
+Congress, therefore, vested exclusive jurisdiction over commodities futures trading with the CFTC.
+7 U.S.C. 4a .
+See Smith v. Groover , 468 F.Supp.
+105 (N.D.Ill.1979); R. J. Hereley & Son Co. v. Stotler & Co. , 466 F.Supp.
+345 (N.D.Ill.1979); Hofmayer v. Dean Witter & Co. , 459 F.Supp.
+733 (N.D.Cal.1978).
+The exclusive jurisdiction provision, however, should not be construed as extinguishing the pre-existing private right of action by implication since the thrust of the provision was to ensure that regulatory bodies other than the CFTC would not interfere with the orderly development and enforcement of commodities regulation.
+H.R.Rep.No.
+93-975, 93 Cong., 2d Sess.
+28 (1974).
+This result is further shown by additional language in the Act in which Congress provided that "nothing in this section shall supersede or limit the jurisdiction conferred on the courts of the United States or any State".
+7 U.S.C. 2 .
+Further, it is apparent from the following statement that Congress intended to supplement existing remedies, rather than create a substitute for them: not intended to interfere with the courts in any way Remarks of Senator Talmadge, 120 Cong.Rec.
+30459 (1974).
+24 The CFTC has interpreted the Act as implicitly authorizing private actions, and asserts that the right must be presumed to have survived the 1974 amendments unless Congress explicitly abolished the private remedy in enacting the amendments.
+Statement of CFTC Concerning Referral of Private Litigation Under the Doctrine of Primary Jurisdiction.
+41 Fed.Reg.
+18471 (May 5, 1976).
+See also Smith v. Groover , 468 F.Supp.
+105 (N.D.Ill.1979) (amicus brief submitted by CFTC).
+The judicial canon of construction which allows the court to grant considerable deference to the interpretation of a statute by an agency charged with its administration also supports the conclusion that the 1974 act did not preclude a private right of action.
+See United States v. Consumer Life Ins. Co. , 430 U.S. 725, 752 , 97 S.Ct. 1440, 1454 , 52 L.Ed.2d 4 (1977); NLRB v. Boeing Co. , 412 U.S. 67, 75 , 93 S.Ct. 1952, 1957 , 36 L.Ed.2d 771 (1973).
+However, the Supreme Court indicated in Piper v. Chris-Craft Industries, Inc. , 430 U.S. 1, 41 , n. 27, 97 S.Ct. 926, 949 n. 27, 51 L.Ed.2d 124 (1976), that the administrative deference rule is not applicable where the narrow legal issue is whether a cause of action should be implied in favor of a particular class of litigants by judicial interpretation.
+See also National Super Spuds, Inc. v. New York Mercantile Exchange , 470 F.Supp.
+1256 (S.D.N.Y.1979).
+We admit that a recognized private right of action need not be re-examined every time the statutory scheme from which it is implied is altered.
+Nevertheless case law since the 1974 amendments has raised at least some uncertainty as to the continued vitality of the implied right, especially when analyzed in light of Cort v. Ash , 422 U.S. 66 , 95 S.Ct. 2080 , 45 L.Ed.2d 26 (1975).
+25 See also Smith v. Groover , 468 F.Supp.
+105, 112 (N.D.Ill.1979).
+The Supreme Court established a four-part test in Cort to determine whether Congress intended a private remedy to be implied from legislation which created enforceable rights but remained silent as to the form of remedy.
+Since the 1974 amendments, the implied right of action inquiry has centered primarily on the issues of Congress' legislative intent in enacting the 1974 amendments and the consistency of the statutory scheme with the Commodity Exchange Act.
+In Cort v. Ash , supra , the Court delineated four relevant factors to determine whether a private right of action may be implied under a federal statute: especial Id. 422 U.S. at 78 , 95 S.Ct. at 2088 .
+See also Transamerica Mortgage Advisors, Inc. v. Lewis , 444 U.S. 11, 16 , 100 S.Ct. 242, 245 , 62 L.Ed.2d 146 (1979); Touche Ross & Co. v. Redington , 442 U.S. 560 , 99 S.Ct. 2479 , 61 L.Ed.2d 82 (1979); Cannon v. University of Chicago , 441 U.S. 677 , 99 S.Ct. 1946 , 60 L.Ed.2d 560 (1979); Piper v. Chris-Craft Industries , 430 U.S. 1, 37 , 97 S.Ct. 926, 947 , 51 L.Ed.2d 124 (1976).
+The first element is easily satisfied.
+Clearly investors in the commodities markets are within the class "for whose especial benefit the statute was enacted."
+The legislative history of the 1974 amendments shows that the primary purpose was to protect against manipulation of markets and to protect individuals who desire to participate in futures market trading.
+26 7 U.S.C. 6b .
+See, e. g. , Smith v. Groover , 468 F.Supp.
+105 (N.D.Ill.1979); Berman v. Bache, Halsey, Stuart, Shields, Inc. , 467 F.Supp.
+311, 322 (S.D.Ohio 1979); National Super Spuds, Inc. v. New York Mercantile Exchange , 470 F.Supp.
+1256 (S.D.N.Y.1979).
+But see Liang v. Hunt , 477 F.Supp.
+891 (N.D.Ill.1979) (distinguished claims involving excessive speculation and price manipulation in violation of statutory limits from fraud actions).
+The second factor, whether there is any explicit or implicit indication of legislative intent to grant or deny a private right of action, also supports the implication of a private action under the CEA.
+The legislative history of the 1974 amendments indicates that Congress was aware of the fact that the federal courts had implied the existence of a private right of action under the CEA.
+27 Further, the "exclusive jurisdiction" provision of the CFTC, 7 U.S.C. 2 (amended), 28 does not indicate an intention to abolish the pre-1974 implied right of action, as previously noted, particularly since Congress included in Section 2(a)(1) that "nothing in this section shall supersede or limit the jurisdiction conferred on the courts of the United States or any State."
+The Conference Committee which adopted the language offered by the Senate explained in its report that the purpose of the amendment was "to make clear that nothing in the Act would supersede or limit the jurisdiction presently conferred on courts of the United States or any State."
+120 Cong.Rec.
+34997 (October 10, 1974); 120 Cong.Rec.
+34737 (October 9, 1974).
+Therefore, we believe that the reparations procedure established in the 1974 amendments, as construed by the relevant legislative history, shows that Congress intended the administrative remedy to serve "as a supplement to, rather than a substitute for, the existing private right of action."
+Smith v. Groover , supra , 468 F.Supp.
+at 113-14 .
+But see National Super Spuds , supra , 470 F.Supp.
+at 1260 ; Berman , supra , 467 F.Supp.
+at 322 .
+29 The third element of Cort , whether the implication of a private right of action would be consistent with the underlying purposes of the Act is also met in this case. As stated in Smith v. Groover : See 41 Fed.Reg.
+3994 41 Fed.Reg.
+18472 Stucki v. American Options Corp. 17 C.F.R. 12.21(a)(7) United States v. Consumer Life Insurance Co. 430 U.S. 725, 752 97 S.Ct. 1440, 1454 52 L.Ed.2d 4 NLRB v. Boeing Co. 412 U.S. 67, 75 93 S.Ct. 1952 36 L.Ed.2d 752 see also Chemehuevi Tribe of Indians v. Federal Power Commission 420 U.S. 395, 409-10 95 S.Ct. 1066 43 L.Ed.2d 279 468 F.Supp.
+at 115 .
+But see National Super Spuds , supra , 470 F.Supp.
+at 1260 ; Berman , supra , 467 F.Supp.
+at 322-23 .
+The fourth factor, whether the implication of a private right would infringe on an area of state concern is not crucial here since Cort v. Ash , supra , 422 U.S. at 84-85 , 95 S.Ct. at 2091 , indicates that a court should imply a private remedy when relegation to state law would frustrate the purpose of the federal statute.
+This factor favors the implication of a private right of action since the regulation of commodity futures trading is essentially a matter of federal concern.
+Our analysis of the effect of the 1974 amendments to the Commodity Exchange Act, within the framework of Cort v. Ash , persuades us that the amendments did not impair the validity of the pre-existing implied private right of action.
+Rather, Congress appears to have armed aggrieved investors with a supplementary remedy in creating the reparations procedures to be followed under CFTC authority.
+Finally our research persuades us that the primary jurisdiction doctrine should not be invoked here to compel exhaustion of the administrative reparations procedures before instituting a private action.
+30 The primary jurisdiction doctrine is intended to ensure that private suits will not interfere with the orderly development of precedent or exercise of discretion by an agency.
+The principal reason for invoking the doctrine in an action arising under the CEA would be to avoid interfering with the CFTC's administration of the regulatory scheme.
+The preservation of an implied right of action does not, of course, interfere with the rulemaking power conferred upon the CFTC by Congress or with the opportunity of the Commission to apply its expertise through that power to complement the orderly development of precedent and procedure.
+In determining whether to invoke the primary jurisdiction doctrine the courts must balance the need for special expertise and the extent to which administrative relief is available.
+Eluska v. Andrus , 587 F.2d 996, 999 (9th Cir. 1978).
+In a case where the primary issues involve allegations of fraud rather than a complex manipulative scheme, the special expertise of the CFTC is not a prerequisite to a just resolution.
+The facts here are far different from those which prompted reversal and remand in Chicago Mercantile Exchange v. Deaktor , 414 U.S. 113 , 94 S.Ct. 466 , 38 L.Ed.2d 344 (1973).
+There the district court had refused a stay of an action against the Chicago Mercantile Exchange charging antitrust and Commodity Exchange Act violations through manipulation of the futures market in fresh eggs.
+The stay was requested to afford the Commodity Exchange Commission an opportunity to determine whether the conduct under scrutiny violated the CEA or its own rules.
+The Supreme Court in Deaktor observed, as it had in Ricci v. Chicago Mercantile Exchange , 409 U.S. 289 , 93 S.Ct. 573 , 34 L.Ed.2d 525 (1973), that the trial court "should avail itself of the abilities of the Commission to unravel the intricate and technical facts of the commodity industry and to arrive at some judgment as to whether the Exchange had conducted itself in compliance with the law."
+Id. 414 U.S. at 115 , 94 S.Ct. at 467 .
+It therefore observed that claims "should be routed in the first instance to the agency whose administrative functions appear to encompass adjudication of the kind of substantive claims made against the [defendant]."
+Id. at 115 , 94 S.Ct. at 467 .
+See also Jones v. B. C. Christopher & Co. , 466 F.Supp.
+213 (D.Kan.1979).
+No such intricate and technical facts are involved here.
+On the contrary, the CFTC has itself noted that the application of primary jurisdiction is "rarely, if ever" appropriate for claims within "private litigation seeking damages for alleged violations of provisions of the Act," and that "[t]he issues raised by a particular fraudulent scheme, however complicated, are entirely within the conventional ability of the courts."
+Fed.Reg.Doc.
+76-12906 (May 3, 1976).
+See also Jones , supra, at 222-23 ; Shearson Hayden Stone, Inc. v. Lumber Merchants, Inc. , 423 F.Supp.
+559 (S.D.Fla.1976).
+CONCLUSION Judge Phillips' dissent accurately calls attention to a number of Supreme Court decisions which, we agree, indicate a tendency to be more restrictive in implying a private right of action.
+While we recognize potential merit in this view, especially in light of the comprehensive administrative scheme embodied in the 1974 amendments, we are not persuaded that Congress intended to extinguish the pre-existing private right of action which had been generally acknowledged to exist under the Act.
+See note 18, supra .
+What we have done here, in our view, is to preserve the general concept of a private right of action and to provide for its continuing development, not under the securities laws generally, but under those laws of Congress which are more particularly related to the commodities market.
+This approach provides greater sensitivity to the specialized concerns of that area of commercial life, appears consistent with congressional intent and also allows for the development of a private right of action similar to the valuable body of law that has grown under Section 10 of the Securities Exchange Act and Rule 10b-5 .
+It is arguable, of course, that some particular actions or claims may require initial submission to the Commodities Futures Trading Commission under the primary jurisdiction doctrine.
+Suffice it to say, however, that such problems do not exist here and can be properly addressed as they arise, on a case-by-case basis.
+Accordingly, the partial summary judgment entered by the district court denying plaintiffs' relief on their claims under federal securities law is affirmed.
+However, that part of the order which stays plaintiffs' fraud claims under the Commodity Exchange Act is reversed and remanded to the district court for proceedings consistent with this opinion.

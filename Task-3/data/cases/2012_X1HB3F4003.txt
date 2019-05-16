@@ -1,0 +1,455 @@
+ EDWARD C. PRADO, Circuit Judge.
+This consolidated appeal arises out of an alleged multi-billion dollar Ponzi scheme perpetrated by R. Allen Stanford through his various corporate entities.
+These three cases deal with the scope of the preclusion provision of the Securities Litigation Uniform Standards Act ("SLUSA").
+That provision states: "No covered class action based upon the statutory or common law of any State or subdivision thereof may be maintained in any State or Federal court by any private party alleging a misrepresentation or omission of a material fact in connection with the purchase or sale of a covered security."
+15 U.S.C. 78bb (f)(1)(A).
+All three cases seek to use state class-action devices to attempt to recover damages for losses resulting from the Stanford Ponzi scheme.
+Because we find that the purchase or sale of securities (or representations about the purchase or sale of securities) is only tangentially related to the fraudulent scheme alleged by the Appellants, we hold that SLUSA does not preclude the Appellants from using state class actions to pursue their recovery and REVERSE.
+I A In 1995, because of "perceived abuses of the class-action vehicle in litigation involving nationally traded securities," Congress passed the Private [**2] Securities Litigation Reform Act ("PSLRA").
+Merrill Lynch, Pierce, Fenner & Smith Inc. v. Dabit , 547 U.S. 71 , 81 (2006).
+"Its provisions limit recoverable damages and attorney's fees, provide a `safe harbor' for forward-looking statements, impose new restrictions on the selection of (and compensation awarded to) lead plaintiffs, mandate imposition of sanctions for frivolous litigation, and authorize a stay of discovery pending resolution of any motion to dismiss."
+Id .
+(citing 15 U.S.C. 78u-4 ).
+These reforms were enacted to combat the "rampant" "nuisance filings, targeting of deep-pocket defendants, vexatious discovery requests," and manipulation of clients by class counsel in securities litigation.
+Id .
+(citing H.R.
+Rep.
+No. 104-369, at 31 (1995) (Conf.
+Rep.)).
+Perhaps the most consequential reform, however, was that the PSLRA "impose[d] heightened pleading requirements in actions brought pursuant to 10(b) [of the Securities and Exchange Act of 1934] and Rule 10b-5 ."
+Id .
+The reforms had their intended effect, "[b]ut the effort also had an unintended consequence: It prompted at least some members of the plaintiffs' bar to avoid the federal forum altogether."
+Id. at 82 .
+"[R]ather than confronting the restrictive conditions set forth by the PSLRA, plaintiffs began filing class-action securities lawsuits under state law, often in state court."
+In re Enron Corp. Secs.
+, 535 F.3d 325 , 337 (5th Cir. 2008) (citing Dabit , 547 U.S. at 82 ).
+"To stem this shift from Federal to State courts and prevent certain State private securities class action lawsuits alleging fraud from being used to frustrate the objectives of the [PSLRA], Congress enacted SLUSA."
+Dabit , 547 U.S. at 82 (internal quotation marks omitted).
+"The stated purpose of SLUSA is `to prevent certain State private securities class action lawsuits alleging fraud from being used to frustrate the objectives' of the PSLRA .
+.
+.
+[by advancing] `the congressional preference for national standards for securities class action lawsuits involving nationally traded securities.'"
+In re Enron , 535 F.3d at 338 (quoting Dabit , 547 U.S. at 86-87 ).
+Specifically, the "core provision," Dabit , 547 U.S. at 82 , provides that "[n]o covered class action based upon the statutory or common law of any State or subdivision thereof may be maintained in any State or Federal court by any private party alleging a misrepresentation or omission of a material fact in connection with the purchase or sale of a covered security."
+[fn1] 15 U.S.C. 78bb (f)(1)(A).
+To effectuate this, SLUSA mandates: "Any covered class action brought in any State court involving a covered security .
+.
+.
+shall be removable to the Federal district court for the district in which the action is pending" and subject to dismissal.
+Id. at 78bb(f)(2) .
+B In February 2009, the Securities and Exchange Commission ("SEC") brought suit against the Stanford Group Company, along with various other Stanford corporate entities, including the Antigua-based Stanford International Bank ("SIB"), for allegedly perpetrating a massive Ponzi scheme.
+According to the SEC, the companies' core objective was to sell certificates of deposit ("CDs") issued by SIB.
+Stanford achieved and maintained a high volume of CD sales by promising above-market returns and falsely assuring investors that the CDs were backed by safe, [**3] liquid investments.
+For almost 15 years, SIB represented that it consistently earned high returns on its investment of CD sales proceeds.
+.
+.
+.
+In fact, however, SIB had to use new CD sales proceeds to make interest and redemption payments on pre-existing CDs, because it did not have sufficient assets, reserves and investments to cover its liabilities.
+.
+.
+.
+At the SEC's request, the district court issued a temporary order restraining the payment or expenditure of funds belonging to the Stanford parties.
+The district court also appointed [a] Receiver for the Stanford interests and granted him the power to conserve, hold, manage, and preserve the value of the receivership estate.
+Janvey v. Alguire , 647 F.3d 585 , 590 (5th Cir. 2011) (internal quotation marks omitted).
+Lastly, the district court in the SEC action entered a case management order requiring all lawsuits against SIB's service providers or third parties to be filed as ancillary proceedings to the SEC action.
+1 Two groups of Louisiana investors, represented by the same counsel, filed separate lawsuits in the 19th Judicial District Court, East Baton Rouge Parish on August 19, 2009 — Roland v. Green and Farr v. Green .
+In those actions, each set of plaintiffs sued the SEI Investments Company ("SEI"), the Stanford Trust Company (the "Trust"), the Trust's employees, and the Trust's investment advisors (collectively, the "SEI Defendants") for their alleged role in the Stanford Ponzi scheme.
+The plaintiffs alleged violations of Louisiana law including breach of contract, negligent representation, breach of fiduciary duty, unfair trade practices, and violations of the Louisiana Securities Act.
+The plaintiffs in the Roland and Farr actions (the " Roland Plaintiffs") allege that SIB sold CDs to the Trust (located in Baton Rouge, Louisiana), which in turn served as the custodian for all individual retirement account ("IRA") purchases of CDs.
+According to the plaintiffs, the Trust contracted with SEI to have SEI be the administrator of the Trust, thereby making SEI responsible for reporting the value of the CDs.
+Plaintiffs finally allege misrepresentations by SEI induced them into using their IRA funds to invest in the CDs.
+Specifically, the plaintiffs allege that the SEI Defendants represented to them that the CDs were a good investment because (1) they could be "readily liquidated"; (2) SEI had evaluated SIB as being "competent and proficient"; (3) SIB "employed a sizeable team of skilled and experienced analysts to monitor and manage [its] portfolio"; (4) "independent" auditors "verified" the value of SIB's assets; (5) the SEI Defendants had "knowledge" about the companies that SIB invested in and that those companies were adequately capitalized; (6) the Antiguan government regularly "examined" SIB; (7) the CDs were a "safe investment vehicle suitable for long term investment with little or no risk"; (8) SIB had "retained legal counsel" that ensured that the investments were structured so as to comply with state and federal law; (9) the CDs would produce "consistent, double-digit returns"; and (10) SIB's assets were "invested in a well-diversified [**4] portfolio of highly marketable securities issued by stable national governments, strong multinational companies, and major international banks."
+The SEI Defendants sought removal to the United States District Court for the Middle District of Louisiana on the basis that SLUSA precluded the state court from entertaining the suits.
+The Multi-District Litigation ("MDL") Panel subsequently transferred the case to the Northern District of Texas (Judge Godbey) where the separate Roland and Farr suits were consolidated.
+The Roland Plaintiffs then filed a motion to remand their cases back to the Louisiana state court.
+2 The Roland action has been consolidated on appeal with two other actions.
+In these cases, a group of Latin American investors (the " Troice Plaintiffs") brought two separate class actions against, respectively, SIB's insurance brokers (the "Willis Defendants") and SIB's lawyers (the "Proskauer Defendants").
+The Troice Plaintiffs brought claims under Texas law — specifically, violations of the Texas Securities Act, aiding and abetting these violations, and civil conspiracy.
+Similar to the Roland Plaintiffs, the Troice Plaintiffs allege that the Willis Defendants represented to them that the CDs were a good investment because (1) SIB was based in the United States and "regulated by the U.S. Government"; (2) SIB was "insured by Lloyd's"; (3) SIB was "regulated by the Antiguan banking regulatory commission"; (4) SIB was "subjected to regular stringent risk management evaluations" conducted by "an outside audit firm"; (5) the CDs were safe and secure; (6) SIB's portfolio produced "consistent, double-digit returns"; (7) the CDs' "high return rates .
+.
+.
+greatly exceed those offered by commercial banks in the United States"; and (8) SIB's assets were "invested in a well-diversified portfolio of highly marketable securities issued by stable national governments, strong multinational companies, and major international banks."
+The Troice Plaintiffs only alleged aiding and abetting violations of the Texas Securities Act and civil conspiracy against the Proskauer Defendants.
+That is to say that the Troice Plaintiffs did not allege that the Proskauer Defendants made any (mis)representations to them.
+The Troice Plaintiffs sued the Willis Defendants and Proskauer Defendants in separate suits in the United States District Court for the Northern District of Texas, invoking that court's jurisdiction under the Class Action Fairness Act.
+See 28 U.S.C. 1332 (d)(2)(B).
+Both suits were assigned to Judge Godbey pursuant to the MDL order.
+The Willis and Proskauer Defendants moved to dismiss the suits pursuant to SLUSA.
+C Judge Godbey, due to the "multitude of Stanford-related cases" pending before him with similar issues, decided to "select one case initially in which to address the applicability of [SLUSA]."
+The case the district court chose was Roland v. Green .
+On August 31, 2010, the district court issued its opinion on the applicability of SLUSA preclusion to the Stanford litigation.
+In that opinion, after briefly discussing the history and purpose of SLUSA, see supra I. [**5] A, the district court turned to the central question of "whether the plaintiff alleges the use of misrepresentations, omission, or deceptive devices `in connection with the purchase or sale of a covered security.'"
+First, the district court concluded that the SIB CDs themselves were not "covered securities" within the meaning of SLUSA because SIB never registered the CDs, nor were they traded on a national exchange.
+See 15 U.S.C. 77r (b).
+This finding, the district court stated "did not end the SLUSA inquiry."
+Noting that the Supreme Court has urged a "`broad interpretation[]' of the `in connection with' [requirement] .
+.
+.
+in order to further the PSLRA's goals," the district court stated that "the strength of the nexus between an allegedly fraudulent scheme and the securities transactions serves as the primary thread tying the caselaw together."
+Given the "melange" of other circuit courts' formulations of the test to determine what connection between a fraud and transactions in covered securities is required for SLUSA preclusion to apply and the "apparent absence of controlling Fifth Circuit authority," the district court decided to employ the Eleventh Circuit's approach from Instituto de Prevision Militar v. Merrill Lynch (" IPM "), 546 F.3d 1340 (11th Cir. 2008).
+Applying the Eleventh Circuit's test, the district court found that the Roland Plaintiffs had alleged two distinct factual bases connecting the fraud to transactions in covered securities.
+First, the district court found that "[t]he [ Roland ] Plaintiffs' purchases of SIB CDs were `induced' by the misrepresentation that SIB invested in a portfolio including SLUSA-covered securities."
+It noted that the CDs' promotional material touted that the bank's portfolio of assets was invested in "highly marketable securities issued by stable governments, strong multinational companies and major international banks."
+The district court also found that the purported investment of the bank's portfolio in SLUSA-covered securities gave its CDs certain qualities that induced Plaintiffs' purchases.
+The instruments were labeled CDs "to create the impression .
+.
+.
+that the SIB CDs had the same degree of risk as certificates of deposit issued by commercial banks regulated by the FDIC and Federal Reserve."
+However, they were advertised to function "[l]ike well-performing equities" by offering "liquidity combined with the potential for high investment returns."
+This was supposedly made possible by "the consistent, double-digit returns on the bank's investment portfolio," which stemmed, in part, from the presence of SLUSA-covered securities.
+The Roland Plaintiffs allege in their petition that had they "been aware of the truth" that SIB's "portfolio consisted primarily of illiquid investments or no investments at all," they "would not have purchased the SIB CDs."
+The district court therefore found that the Roland Plaintiffs sufficiently alleged that their "CD purchases were induced by a belief that the SIB CDs were backed in part by investments in SLUSA-covered securities."
+Additionally, the district court found the Roland [**6] Plaintiffs' "allegations .
+.
+.
+reasonably imply that the Stanford scheme coincided with and depended upon the [ Roland ] Plaintiffs' sale of SLUSA-covered securities to finance SIB CD purchases."
+It noted that the Roland Plaintiffs claim that the fraud was a scheme targeting recent retirees who were urged to roll the funds in their retirement account into an IRA administered by SEI, of which the Trust was the custodian and which was fully invested in the CDs.
+The district court noted that "retirement funds come in a variety of forms that might not all involve SLUSA-covered securities," but that "stocks, bonds, mutual funds, and other SLUSA-covered securities commonly comprise IRA investment portfolios."
+From this, the court stated "that at least one of the [ Roland ] Plaintiffs acquired SIB CDs with the proceeds of selling SLUSA-covered securities in their IRA portfolios," and therefore, this "modest finding" independently supported the district court's ruling that the Roland Plaintiffs' claims were precluded by SLUSA.
+Accordingly, the district court denied the Roland Plaintiffs' motion for remand and dismissed the action pursuant to 15 U.S.C. 78bb (f)(1)(A).
+In a separate order, the district court considered the Willis Defendants' and the Proskauer Defendants' motions to dismiss.
+Stating "[b]ecause [the Troice ] Plaintiffs bring class claims `based upon the statutory or common law of' Texas and `alleging .
+.
+.
+a misrepresentation or omission of a material fact in connection with the purchase or sale of a covered security,'" the discussion in the district court's order in Roland v. Green compels the finding that SLUSA precludes the Troice Plaintiffs' action, and therefore it must be dismissed.
+The Roland and Troice Plaintiffs timely appealed their dismissals, which this court consolidated for the purposes of oral argument and disposition.
+II The Roland case is before us from a denial of a motion to remand, and the Troice cases are before us on motions to dismiss.
+On each procedural posture, our review is the same — de novo.
+Martin v. PepsiAmericas, Inc. , 628 F.3d 738 , 740 (5th Cir. 2010) (motion to dismiss); In re 1999 Exxon Chem. Fire , 558 F.3d 378 , 384 (5th Cir. 2009) (motion to remand).
+III A Though the question of the scope of the "in connection with" language under SLUSA is one of first impression in this circuit, we do not write on a blank slate.
+The Supreme Court directly addressed the issue of what constitutes "in connection with the purchase or sale of a covered security" in Merrill Lynch, Pierce, Fenner & Smith, Inc. v. Dabit.
+In that case, a former broker joined with customers of Merrill Lynch in a class action against the firm for breaches of fiduciary duty and contract, alleging that Merrill Lynch had issued biased research and investment recommendations.
+Dabit , 547 U.S. at 75 .
+These misrepresentations, according to Dabit's complaint, harmed the class members in two ways.
+First, as to the customers, the misrepresentations allegedly "caused them to hold onto overvalued securities."
+Id. at 76 .
+Second, as to the brokers, the misrepresentations allegedly caused them to "los[e] commission fees when their clients, now aware that they had [**7] made poor investments, took their business elsewhere."
+Id .
+The district court dismissed all of the claims based on SLUSA.
+Id .
+The Second Circuit affirmed as to the claims of buyers and sellers, but said SLUSA did not preclude the claims of "holders," those who had not purchased or sold a security but suffered merely by retaining or "holding" their existing shares in reliance on Merrill Lynch's allegedly fraudulent research.
+Id. at 77 .
+The central question in Dabit , therefore, was whether the holders' claims were precluded given SLUSA's requirement that a fraud alleged be "in connection with the purchase or sale of a covered security."
+Id. at 84 .
+After discussing the purposes of Section 10(b) and the history of Rule 10b-5 litigation, the Court noted that the reason it had barred holders from asserting a private right of action under Rule 10b-5 in Blue Chip Stamps v. Manor Drug Stores was "policy considerations," including the special danger that "`vexatious[] .
+.
+.
+litigation'" posed in the realm of securities.
+Dabit , 547 U.S. at 80 (quoting Blue Chip Stamps , 421 U.S. 723 , 739 (1975)).
+The same policy considerations that led to that limitation on Rule 10b-5 's private right of action, see supra I.A, motivated Congress in its passage of the PSRLA and SLUSA.
+Dabit , 547 U.S. at 81-82 .
+In using the "in connection with" language that had been the focus of so much litigation in the Rule 10b-5 context, the Court found that "Congress can hardly have been unaware of the broad construction adopted by both this Court and the SEC." Id. at 85 .
+It also found that by using the exact same language — "in connection with the purchase or sale of [covered] securities" — Congress intended to incorporate the judicial interpretations given to that phrase into SLUSA as well.
+Id. at 85-86 .
+Since Congress intended "in connection with" to mean the same thing in SLUSA as it does in Section 10(b) , "it is enough that the fraud alleged `coincide' with a securities transaction — whether by the plaintiff or by someone else.
+The requisite showing, in other words, is `deception "in connection with the purchase or sale of any security," not deception of an identifiable purchaser or seller.'"
+Id. at 85 (quoting United States v. O'Hagan , 521 U.S. 642 , 651 , 658 (1997) (internal citation omitted)); see also SEC v. Zandford , 535 U.S. 813 , 824 (2002) ("[T]he SEC complaint describes a fraudulent scheme in which the securities transactions and breaches of fiduciary duty coincide.
+Those breaches were therefore `in connection with' securities sales within the meaning of 10(b) .").
+From these principles, the Court held that SLUSA precludes state-law holder class actions like Dabit's.
+Dabit , 547 U.S. at 87 .
+B Since Dabit , six of our sister circuit courts have tried to give dimension to the "coincide" requirement announced in SEC v. Zandford and brought into the SLUSA scheme in Dabit .
+Romano v. Kazacos , 609 F.3d 512 (2d Cir. 2010); Segal v. Fifth Third Bank, N.A. , 581 F.3d 305 (6th Cir. 2009); Madden v. Cowen & Co. , 576 F.3d 957 (9th Cir. 2009); Instituto de Prevision Militar v. Merrill Lynch , 546 F.3d 1340 (11th Cir. 2008); Siepel v. Bank of Am., N.A. , 526 F.3d 1122 (8th Cir. 2008); Gavin v. AT&T Corp. , 464 F.3d 634 (7th Cir. 2006).
+To be sure, we are only bound by decisions of the Supreme Court, which has stated that "in connection with" must be interpreted broadly, Zandford , 535 U.S. at 819 .
+But the test it has offered — whether or not "the fraud alleged ` coincide [ s ]' with a securities transaction," Dabit , 547 U.S. at 85 (emphasis added) — is not particularly [**8] descriptive.
+Moreover, when the Court first set forth the "coincide" requirement, it cautioned that "the statute must not be construed so broadly as to convert every common-law fraud that happens to involve [ covered ] securities into a violation of 10(b) ."
+Zandford , 535 U.S. at 820 (emphasis added).
+In light of this tension, consideration of how our sister circuits have construed and applied this "coincide" requirement is helpful in deciding how best to approach our present case. Cf. United States v. Villegas , 494 F.3d 513 , 514 (5th Cir. 2007).
+In our consideration, we find most persuasive the decisions from the Second, Ninth, and Eleventh Circuits.
+The cases from the other circuits do not attempt to define the "coincide" requirement, but merely discuss what connection above and beyond "coincide" is sufficient.
+For example, in Segal , the Sixth Circuit noted that fraud allegations that "depend on" transactions in covered securities meet the "coincide" requirement, but it does not state that for a fraud to "coincide" requires that the fraud "depend on" transactions in covered securities.
+It narrowly holds that where fraud depends on transactions in covered securities, the fraud will also coincide with transactions in covered securities.
+Segal , 581 F.3d at 310 ; see also Siepel , 526 F.3d at 1127 (8th Cir.); Gavin , 464 F.3d at 639 (7th Cir.) (discussing how the "coincide" requirement requires plaintiffs to allege fraud "involving" covered securities but noting that a simple "but for" relationship between an alleged fraud and the purchase or sale of securities is insufficient).
+The Second, Ninth, and Eleventh Circuits have, however, attempted to give dimension to what is sufficiently connected/coincidental to a transaction in covered securities to trigger SLUSA preclusion.
+The Eleventh Circuit in Instituto de Prevision Militar v. Merrill Lynch (" IPM ") dealt with claims brought by a Guatemalan government agency that administered a pension fund for Guatemalan military veterans, which invested in Pension Fund of America ("PFA"), and other Latin American PFA investors against Merrill Lynch.
+546 F.3d at 1342-43 .
+According to their complaint, Merrill Lynch "actively promot[ed] PFA and vouch[ed] for the character of PFA's principals."
+Id. at 1343 (internal quotation marks omitted).
+After determining that the class met SLUSA's definition of a "covered class action," see 15 U.S.C. 78bb (f)(5)(B), the Eleventh Circuit turned to the "coincide" requirement.
+IPM , 546 F.3d at 1345-48 .
+It held that requirement met if either "fraud .
+.
+.
+induced [plaintiffs] to invest with [the defendant(s)]" or "a fraudulent scheme .
+.
+.
+coincided and depended upon the purchase or sale of [covered] securities."
+Id. at 1349 .
+The court found that "IPM is complaining about fraud that induced it to invest with PFA, which means that its claims are `in connection with the purchase or sale' of a security under SLUSA."
+Id .
+The Ninth Circuit articulated its test for the "coincide" requirement slightly differently in its Madden v. Cowen & Co. opinion.
+That case involved shareholders of two medical care providers that were looking to merge with a larger company.
+576 F.3d at 962 .
+In attempting to merge these two medical care providers, the shareholders retained an investment bank, Cowen, "to look for prospective [**9] buyers, give advice regarding the structure of any potential sale, and render a fairness opinion regarding any proposed transaction."
+Id .
+(internal quotation marks omitted).
+Two suitors stepped up — one closely-held corporation and another publicly-traded company.
+Id .
+Cowen recommended to the shareholders that they accept the bid from the publicly-traded company.
+Id .
+After the merger was complete, the stock price of the publicly-traded company tumbled.
+Id. at 963 .
+The shareholders then brought suit against Cowen for "negligent misrepresentation and professional negligence under California law."
+Id .
+Based on Dabit 's statement that "in connection with" must be interpreted the same way under SLUSA as it is under Section 10(b) , the Ninth Circuit looked to its prior precedent and held fraud is "`in connection with' the purchase or sale of securities if there is `a relationship in which the fraud and the stock sale coincide or are more than tangentially related.'"
+Id. at 966 (quoting Falkowski v. Imation Corp. , 309 F.3d 1123 , 1131 (9th Cir. 2002)).
+Applying the "more than tangentially related" test, the court found that "the misrepresentations and omissions alleged in the complaint are more than tangentially related to [the shareholders'] purchase of the [publicly-traded company's] securities."
+Id .
+(internal quotation marks omitted).
+The most recent circuit to consider the scope of the "coincide" requirement post Dabit was the Second Circuit in Romano v. Kazacos .
+Romano dealt with two consolidated cases — one brought by Xerox retirees and one by Kodak retirees — alleging that Morgan Stanley "misrepresented that if appellants were to retire early, their investment savings would be sufficient to support them through retirement."
+609 F.3d at 515 .
+Based on these alleged misrepresentations, the retirees "deposited their retirement savings into Morgan Stanley IRA accounts, where covered securities were purchased on their behalf."
+Id. at 520 .
+In discussing the "coincide" requirement, the Second Circuit stated that "SLUSA's `in connection with' standard is met where plaintiff's claims turn on injuries caused by acting on misleading investment advice — that is, where plaintiff's claims necessarily allege, necessarily involve, or rest on the purchase or sale of securities.
+.
+.
+.
+[Additionally,] the more exacting induced standard satisfies 10(b) 's `in connection with' requirement."
+Id. at 522 (citations and internal quotation marks omitted).
+Each of the circuits that has tried to contextualize the "coincide" requirement has come up with a slightly different articulation of the requisite connection between the fraud alleged and the purchase or sale of securities (or representations about the purchase or sale of securities): Segal , 581 F.3d at 310 (6th Cir.) ("depend on"); Siepel , 526 F.3d at 1127 (8th Cir.) ("related to"); Gavin , 464 F.3d at 639 (7th Cir.) ("involving," meaning more than "but for"); IPM , 546 F.3d at 1349-50 (11th Cir.) ("induced by" or "depended upon"); Madden , 576 F.3d at 966 (9th Cir.) ("more than tangentially related to"); Romano , 609 F.3d at 522 (2d Cir.) ("necessarily allege, necessarily involve, or rest on").
+Beyond these various interpretations, we also think it useful before our standard to consider cases more factually analogous to ours than Dabit and much of its progeny.
+That is, [**10] cases where the fraud alleged was centered around the purchase or sale of an uncovered security, like the CDs at issue in this appeal.
+C The preclusion analysis under SLUSA is slightly more complex in cases where the fraudulent scheme alleged involves a multi-layered transaction, like the one at issue in our case. In these cases, the plaintiffs often are fraudulently induced into investing in some kind of uncovered security, like a CD or a share in a "feeder fund," which has some relationship either through the financial product's management company or through the financial product itself to transactions (real or purported) in covered securities, such as stocks.
+Some of the more analogous cases arise out of the slew of recent suits stemming from the Bernie Madoff Ponzi scheme, especially the so-called "feeder fund" cases.
+[fn2] From our reading of these uncovered securities cases, we glean three approaches: (1) focus the analysis on whether the financial product purchased was a covered security (the "product approach"); (2) focus on the "separation" between the investment in the financial product and the subsequent transactions (real or purported) in covered securities (the "separation approach"); and (3) focus on the "purpose(s)" of the investment (the "purposes approach").
+1 Courts that take the product approach focus their analysis on the type of financial product upon which the alleged fraudulent scheme centers.
+In doing so, the crux of the analysis is not whether or not the "coincide" requirement of SLUSA is met, but rather whether the financial product qualifies as a "covered security" under 15 U.S.C. 78bb (f)(5)(E).
+In Ring v. AXA Financial, Inc. , the Second Circuit held that claims of fraud relating to the sale of an interest in a term life insurance policy, a Children's Term Rider ("CTR") (a "classic insurance product" and an uncovered security) were not SLUSA-precluded merely because the insurance company held covered securities in its portfolio, which in turn backed the plaintiffs' interest in the CTR. 483 F.3d 95 , 96 , 99 (2d Cir. 2007).
+It likewise found the fact that the CTR was attached to a variable life insurance policy, which is a covered security under SLUSA, was insufficient to preclude all claims relating to the CTR because "the CTR and the policy to which it is appended must be considered separately."
+Id. at 96 .
+But see IPM , 546 F.3d at 1351 ("[H]ybrid securities .
+.
+.
+are `covered securities.'"
+(citing Herndon v. Equitable Variable Life Ins. Co. , 325 F.3d 1252 (11th Cir. 2003) (per curiam))).
+Similarly, in Brehm v. Capital Growth Financial , the district court held that "private placement securities or debentures" were not covered securities.
+No. 8:07CV315 , [ 2008 BL 37174 ], 2008 WL 553238, at *2 (D. Neb. Feb. 25, 2008).
+Moreover, it found that allegations that the defendants were also going to invest in "securities and other intangible instruments that are traded in the public markets or issued privately" were insufficient to bring the case within SLUSA's preclusive ambit.
+Id .
+at *3 (internal quotation marks omitted).
+The most-cited case using this approach is Pension Committee of the University of Montreal Pension Plan v. Banc of America Securities, LLC , 750 F. Supp. 2d 450 (S.D.N.Y.
+2010).
+That case was an "action to recover [**11] losses stemming from the liquidation of two British Virgin Islands based hedge funds .
+.
+.
+in which [the plaintiffs] held shares."
+Id. at 451 .
+The Montreal Pension court held, "Because plaintiffs purchased shares in hedge funds, rather than covered securities, SLUSA does not preempt plaintiffs' state-law claims."
+Id. at 453-54 .
+It went on to discuss Dabit and distinguished it by stating, The interpretation of SLUSA urged by the [Defendants] stretches the statute beyond its plain meaning.
+There are no grounds on which to justify applying Dabit to statements made by the [Defendants] concerning uncovered hedge funds — even when a portion of the assets in those funds include covered securities.
+This outcome is required because the alleged fraud relates to those hedge funds rather than to the covered securities in the portfolios.
+Id. at 454-55 .
+Lastly, using some language more characteristic of the purpose and separation approaches, the court also distinguished its case from the Madoff feeder fund cases where SLUSA preclusion was found.
+It noted that the feeder funds in those cases were "nothing but ghost entities — easily pierced," and that those funds essentially "did not exist and had no assets.
+Thus," it found, the plaintiffs in those cases "could claim that they deposited their money [in the funds] for the purpose of purchasing covered securities."
+Id. at 455 n.27.
+None of those conditions were present in the funds purchased by the plaintiffs; therefore, it concluded, "covered securities are not `at the heart' of this case." Id. at 455 .
+2 The separation approach considers the degree of separation between the fraud inducing the plaintiffs to buy the uncovered securities and the downstream transactions in covered securities.
+This focus is somewhat like Montreal Pension 's concern about what is at the "heart" of the case. The most cited case using the separation approach is Anwar v. Fairfield Greenwich Ltd. ( Anwar II ).
+Anwar II dealt with a feeder fund to invest in Madoff's funds.
+728 F. Supp. 2d 372 , 387 (S.D.N.Y.
+2010).
+The district court in Anwar II , however, found distinct differences in how the funds at issue in that case operated and the usual way Madoff feeder funds operated.
+Compare id. at 398-99 with supra note 2.
+Finding that the funds at issue were "not .
+.
+.
+cursory, pass-through entit[ies]," id. at 398 , the Anwar II court held that "[t]hough the [c]ourt must broadly construe SLUSA's `in connection with' phrasing, stretching SLUSA to cover this chain of investment — from [p]laintiffs' initial investment in the [f]unds, the [f]unds' reinvestment with Madoff, Madoff's supposed purchases of covered securities, to Madoff's sale of those securities and purchases of Treasury bills — snaps even the most flexible rubber band."
+Id. at 399 .
+Therefore, the court found that the "coincide" requirement was not met because "[t]he allegations in [that] case present[ed] multiple layers of separation between whatever phantom securities Madoff purported to be purchasing and the financial interests [p]laintiffs actually purchased."
+Id. at 398 ; cf. Levinson v. PSCC Servs., Inc. ( Levinson II ), No. 3:09-CV-269 , [ 2010 BL 310008 ], 2010 WL 5477250, at *8 (D. Conn. Dec. 29, 2010) ("A third party's fraud — although the intervening and primary cause of the plaintiff's losses — does not supplant [**12] the fraudulent conduct on the part of the defendant that is necessary to trigger SLUSA preemption.").
+But see In re Herald, Primeo, & Thema Secs.
+Litig. , No. 09 Civ. 289 , 2011 WL 5928952 , at *7 (S.D.N.Y.
+Nov. 29, 2011) ("[C]laims against these [d]efendants are integrally tied to the underlying fraud committed by Madoff.").
+3 The third and most widely adopted approach is the purpose approach, which primarily concerns itself with what the purpose of the investment was.
+The clearest articulation of this approach asks whether the uncovered securities (feeder funds) "were created for the purpose of investing in [covered] securities."
+Newman v Family Mgmt. Corp. , 748 F. Supp. 2d 299 , 312 (S.D.N.Y.
+2010); see also In re Beacon Assocs.
+Litig. , 745 F. Supp. 2d 386 , 430 (S.D.N.Y.
+2010) ("[T]he objective of the fund was to manage [p]laintiffs' investment using a strategy that inevitably included the purchase and sale of covered securities.
+"); Levinson v. PSCC Servs., Inc. ( Levinson I ), No. 3:09-CV-269 , [ 2009 BL 276036 ], 2009 WL 5184363, at *7 (D. Conn. Dec. 23, 2009) ("[T]he omnibus account created by [d]efendants was clearly for the purpose of allowing Madoff to purchase and sell securities using [p]laintiffs' funds.").
+In ascertaining the purpose of the investment, these courts have considered what the fraud "at the heart of the case" was.
+In re Kingate Mgmt., Ltd. Litig. , No. 09 Civ. 5386 , 2011 WL 1362106 , at *9 (S.D.N.Y.
+Mar. 30, 2011); see also Montreal Pension , 750 F. Supp. 2d at 455 ; Backus v. Conn. Cmty. Bank, N.A. , No. 3:09-CV-1256 , [ 2009 BL 276032 ], 2009 WL 5184360, at *5 (D. Conn. Dec. 23, 2009).
+They have also looked to the centrality of transactions in covered securities to the fraud.
+See Barron v. Igolnikov , No. 09 Civ. 4471 , [ 2010 BL 52753 ], 2010 WL 882890, at *5 (S.D.N.Y.
+Mar. 10, 2010); Backus , [ 2009 BL 276032 ], 2009 WL 5184360, at *8.
+Finally, some courts have considered the "nature of the parties' relationship, and whether it necessarily involved the purchase or sale of securities."
+Levinson I , [ 2009 BL 276036 ], 2009 WL 5184363, at *11 (citing Rowinski v. Salomon Smith Barney, Inc. , 398 F.3d 294 , 302 (3d Cir. 2005)); see also Backus , [ 2009 BL 276032 ], 2009 WL 5184360, at *8 ("[T]he very purpose of the relationship .
+.
+.
+was to trade in securities.").
+D Given the Supreme Court's express reliance on "policy considerations" in its determination of the scope of the "in connection with" language in Section 10(b) , Blue Chip Stamps , 421 U.S. at 737 , and SLUSA, Dabit , 547 U.S. at 81 , we find it useful to consider such arguments in our formulation of the standard.
+Specifically, we find persuasive Congress's explicit concern about the distinction between national, covered securities and other, uncovered securities.
+As we have stated previously, "SLUSA advances `the congressional preference for national standards for securities class action lawsuits involving nationally traded securities.'"
+In re Enron , 535 F.3d at 338 (quoting Dabit , 547 U.S. at 87 ) (emphasis added).
+The rationale for this preference is clear: Because companies can not control where their securities are traded after an initial public offering .
+.
+., companies with publicly-traded securities can not choose to avoid jurisdictions which present unreasonable litigation costs.
+Thus, a single state can impose the risks and costs of its peculiar litigation system on all national issuers.
+The solution to this problem is to make Federal court the exclusive venue for most securities fraud class action litigation involving nationally traded securities.
+H.R.
+Rep.
+No. 105-803, at 15 (1998) (Conf.
+Rep.).
+Such concerns are unique to the world of national securities.
+That SLUSA would be applied only to transactions [**13] involving national securities appears to be Congress's intent: "[T]he securities governed by this bill — and it is important to emphasize this point — are by definition trading on national exchanges.
+As we all know, securities traded on national exchanges are bought and sold by investors in every State, and those investors rely on information distributed on a national basis."
+144 Cong. Rec.
+4799 (1998) (statement of Sen.
+Joseph Lieberman); see also 144 Cong. Rec.
+10780 (1998) (statement of Rep.
+Anna Eshoo) ("This legislation is limited in scope and only affects class action lawsuits involving nationally traded securities.").
+Exempting non-national securities from SLUSA's preclusive scope does not render them unregulated.
+When enacting SLUSA, Congress recognized the importance of maintaining the vital role of state law in regulating non-national securities.
+Congress found "that in order to avoid .
+.
+.
+thwarting .
+.
+.
+the purpose of the [PSLRA], national standards for nationally traded securities must be enacted, while preserving the appropriate enforcement powers of state regulators, and the right of individuals to bring suit."
+S. Rep.
+105-182 , at 8 (1998).
+Notably, state common law breach of fiduciary duty actions provide an important remedy not available under federal law.
+See Securities & Exchange Commission, Study on Investment Advisers and Broker-Dealers (Jan. 2011), http://sec.gov/news/studies/2011/913studyfinal.pdf, at 54.
+In addition to fiduciary duty actions, over-extension of SLUSA also threatens state creditor-debtor regimes, which we have held are likely available to the Appellants.
+See Janvey v. Adams , 588 F.3d 831 , 835 (5th Cir. 2009).
+The differences between the federal and state remedies have led our colleagues on the Eleventh Circuit to note that "[s]ince not every instance of financial unfairness or breach of fiduciary duty will constitute a fraudulent activity under 10(b) or Rule 10b-5 , federal courts should be wary of foreclosing common law breach of fiduciary duty actions which supplement existing federal or state statutes."
+Gochnauer v. A.G.
+Edwards & Sons, Inc. , 810 F.2d 1042 , 1049 (11th Cir. 1987).
+This wariness is echoed by the members of Congress appearing as amici on behalf of the Appellants: "The interpretation of SLUSA and the `in connection with' requirement adopted by the District Court .
+.
+.
+could potentially subsume any consumer claims involving the exchange of money or alleging fraud against a bank, without regard to the product that was being peddled."
+As they point out, every bank and almost every company owns some covered securities in its portfolio, and every debt instrument issued by these banks and companies is backed by this portfolio in the same way the CDs here were ultimately backed by the assets in SIB's portfolio.
+Precluding any group claim against any such debt issue merely because the issuer advertises that it owns these assets in its portfolio would be a major change in the scope of SLUSA.
+IV It is against this backdrop that we must go about formulating our standard for judging the connection of claims like the Appellants' to the purchase or sale of covered securities.
+As noted previously, there is tension [**14] in the law between following the Supreme Court's command that "in connection with" must be interpreted broadly, Zandford , 535 U.S. at 819 , and its concurrent instruction that the same language "must not be construed so broadly as to convert every common-law fraud that happens to involve [covered] securities into a violation of 10(b) ," id. at 820 .
+The Eleventh Circuit's test from IPM , employed by the district court, is a good starting point because it identifies the two different perspectives from which to approach the question of connectivity.
+IPM held that the "coincide" requirement is met if either "fraud .
+.
+.
+induced [plaintiffs] to invest with [the defendant(s)]" or "a fraudulent scheme .
+.
+.
+coincided and depended upon the purchase or sale of [covered] securities."
+IPM , 546 F.3d at 1349 (emphasis added).
+The "induced" prong examines the allegations from the plaintiffs' perspective by asking essentially whether the plaintiffs thought they were investing in covered securities or investing because of (representations about) transactions in covered securities.
+The "depended upon" prong views the allegations from the opposite perspective, the defendants', essentially asking whether the defendants' fraudulent scheme would have been successful without the (representations about) transactions in covered securities.
+These two perspectives — plaintiffs' and defendants' — are also seen in the various uncovered securities cases in the district courts.
+Compare Levinson I , [ 2009 BL 276036 ], 2009 WL 5184363, at *11 ("[T]he crux of [the p]laintiffs' allegations is that [the defendants'] fraudulent statements caused [the p]laintiffs to make poor investment decisions.")
+(plaintiffs' perspective) with In re Beacon , 745 F. Supp. 2d at 430 ("[T]he objective of the fund was to manage [p]laintiffs' investment using a strategy that inevitably included the purchase and sale of covered securities.")
+(defendants' perspective).
+Viewing the allegations from the plaintiffs' perspective, however, asks the wrong question.
+By tying the "coincide" requirement to "inducement," it unnecessarily imports causation into a test whose language ("coincide") specifically disclaims it.
+The defendant-oriented perspective, like IPM 's "depends upon" prong, is more faithful to the Court's statement that "[t]he requisite showing .
+.
+.
+is deception in connection with the purchase or sale of any security, not deception of an identifiable purchaser or seller ."
+Dabit , 547 U.S. at 85 (emphasis added) (internal quotation marks omitted).
+Dabit 's formulation focuses the analysis on the relationship between the defendants' fraud and the covered securities transaction without regard to the fraud's effect on the plaintiffs.
+Additionally, IPM 's "depended upon" prong appears very similar to the Second Circuit's test from Romano , which found SLUSA preclusion is appropriate where "plaintiff's claims `necessarily allege,' `necessarily involve,' or `rest on' the purchase or sale of securities."
+Romano , 609 F.3d at 522 .
+Though the defendant-oriented perspective is the proper point of view from which to consider the allegations, the problem we see with the test from that perspective as articulated by the Second and Eleventh Circuits is that it is [**15] too stringent a standard.
+Specifically, a reading of the opinions of the Sixth and Eighth Circuits on SLUSA preclusion suggests that those courts would find the "depended upon" standard to be too high a bar.
+The Sixth Circuit in Segal seemed to suggest that while a claim that "depended on" a securities transaction was sufficient, there were other connections that would also meet the "coincide" requirement.
+Segal , 581 F.3d at 310 ("Segal's allegations do not merely `coincide' with securities transactions; they depend on them.
+Under these circumstances, the district court properly concluded that SLUSA requires the dismissal of this complaint."
+(citations omitted)); compare id .
+with IPM , 546 F.3d at 1349 (The "coincide" requirement is met if "a fraudulent scheme .
+.
+.
+coincided and depended upon the purchase or sale of [covered] securities.").
+In Siepel , the Eighth Circuit found that the "coincide" requirement is less stringent than a standard requiring the fraud "relate to" transactions in covered securities.
+Siepel , 526 F.3d at 1127 ; compare id .
+with Romano , 609 F.3d at 522 (SLUSA preclusion is appropriate where "plaintiff's claims .
+.
+.
+`rest on' the purchase or sale of securities.").
+In light of this, we find Ninth Circuit's test from Madden , which is that "a misrepresentation is `in connection with' the purchase or sale of securities if there is a relationship in which the fraud and the stock sale coincide or are more than tangentially related ," to be the best articulation of the "coincide" requirement.
+Madden , 576 F.3d at 965-66 (emphasis added and internal quotation marks omitted).
+This articulation nicely deals with the Court-expressed tension in Zanford that the requirement "must not be construed so broadly as to [encompass] every common-law fraud that happens to involve [covered] securities."
+Zandford , 535 U.S. at 820 .
+It also heeds the Seventh Circuit's advice that "`the "connection" requirement must be taken seriously.'"
+Gavin , 464 F.3d at 640 (Posner, J.) (quoting Frymire-Brinati v. KPMG Peat Marwick , 2 F.3d 183 , 189 (7th Cir. 1993) (Easterbrook, J.)).
+Lastly, it incorporates the significant policy and legislative intent considerations, all of which militate against an overbroad formulation.
+See supra III.D; see also Dabit , 547 U.S. at 81 .
+Therefore, we adopt the Ninth Circuit's test.
+Accordingly, if Appellants' allegations regarding the fraud are more than tangentially related to (real or purported) transactions in covered securities, then they are properly removable and also precluded.
+See Kircher v. Putnam Funds Trust , 547 U.S. 633 , 644 (2006).
+V Having established the standard by which the Appellants' allegations will be judged, we turn now to the Roland and Troice complaints.
+"The plaintiff is `the master of her complaint,' and, as such, a determination that a cause of action presents a federal question depends upon the allegations of the plaintiff's well-pleaded complaint."
+Medina v. Ramsey Steel Co. , 238 F.3d 674 , 680 (5th Cir. 2001) (internal quotation marks omitted).
+The artful pleading doctrine is an independent corollary to the well-pleaded complaint rule: "[u]nder this principle, even though the plaintiff has artfully avoided any suggestion of a federal issue, removal is not defeated by the plaintiff's pleading skills in hiding [a] federal question."
+Bernhard [**16] v. Whitney Nat'l Bank , 523 F.3d 546 , 551 (5th Cir. 2008).
+We have stated previously that the artful pleading doctrine "applies only where state law is subject to complete preemption."
+Id .
+(citing Terrebone Homecare, Inc. v. SMA Health Plan, Inc. , 271 F.3d 186 , 188-89 (5th Cir. 2001).
+However, as the Second Circuit has noted, there is another situation where the artful pleading doctrine applies: "when Congress has .
+.
+.
+expressly provided for the removal of particular actions asserting state law claims in state court."
+Romano , 609 F.3d at 519 (citing Beneficial Nat'l Bank v. Anderson , 539 U.S. 1 , 6 (2003)).
+Application of the first prong is a bit tricky because SLUSA is a statute of preclusion, rather than preemption.
+But its effect is the same: where plaintiffs proceed as a class of fifty or more, state law securities claims are no longer available to them and federal law, which compels the dismissal of those claims, controls.
+Application of the second prong is straightforward.
+Since SLUSA expressly provides for the removal of covered class actions, it falls under the "removal" exception to the well-pleaded complaint rule.
+Consequently, we are free to look beyond the face of the amended complaints to determine whether they allege securities fraud in connection with the purchase or sale of covered securities.
+Id .
+(citations and footnotes omitted); see also Segal , 581 F.3d at 310 ("Courts may look to — they must look to — the substance of a complaint's allegations in applying SLUSA.
+Otherwise, SLUSA enforcement would reduce to a formalistic search through the pages of the complaint for magic words .
+.
+.
+and nothing more.")
+; Rowinski , 398 F.3d at 298 ("No matter how an action is pleaded, if it is a covered class action involving a covered security, removal is proper."
+(quotations and alterations omitted)).
+Because of the need to examine the actualities of the alleged schemes, we find the product approach taken by some district courts, see supra III.C.1, which focuses its analysis on the type of financial product upon which the alleged fraudulent scheme centers, to be too rigid.
+Our conclusion, in accord with the district court, that the CDs were uncovered securities therefore does not end our inquiry.
+We must instead closely examine the schemes and purposes of the frauds alleged by the Appellants.
+A With respect to the claims against the SEI Defendants and the Willis Defendants, we find the Appellants' allegations to be substantially similar such that they can be analyzed together. 1 The district court found that Appellants' claims were precluded because Appellants invested in the CDs, at least in part, because they were backed by "covered securities."
+To be sure, the CDs' promotional material touted that SIB's portfolio of assets was invested in "highly marketable securities issued by stable governments, strong multinational companies and major international banks."
+This is, however, but one of a host of (mis)representations [fn3] made to the Appellants in an attempt to lure them into buying the worthless CDs.
+Viewing the allegations, as we must, from how the advisors at SEI and Willis allegedly structured their fraudulent scheme, we find the references to SIB's portfolio being [**17] backed by "covered securities" to be merely tangentially related to the "heart," [fn4] "crux," [fn5] or "gravamen" [fn6] of the defendants' fraud.
+When we look over the complaints against the SEI Defendants and the Willis Defendants, we find that the heart, crux, and gravamen of their allegedly fraudulent scheme was representing to the Appellants that the CDs were a "safe and secure" investment that was preferable to other investments for many reasons.
+For example, as alleged by the Roland Plaintiffs, the CDs were principally promoted as being preferable to other investments because of their liquidity, consistently high rates of return, and the fact that SEI and other regulators were keeping a watchful eye on SIB.
+Similarly, the so-called "safety and soundness letters" sent by the Willis Defendants focused on the "professionalism" of SIB and the "stringent" reviews.
+That the CDs were marketed with some vague references to SIB's portfolio containing instruments that might be SLUSA-covered securities seems tangential to the schemes advanced by the SEI and Willis Defendants.
+Our conclusion that the allegations do not amount to being "in connection with" transactions in covered securities is bolstered by the distinction between the present cases and the Madoff feeder fund cases.
+Comparing the allegations in the uncovered securities cases we surveyed, we find the most similarity with the allegations in the Montreal Pension case. The CDs, like the uncovered hedge funds in Montreal Pension , were not mere "ghost entities" or "cursory pass-through vehicles" to invest in covered securities.
+The CDs were debt assets that promised a fixed rate of return not tied to the success of any of SIB's purported investments in the "highly marketable securities issued by stable national governments, strong multinational companies, and major international banks."
+Unlike in the Madoff feeder fund cases, "plaintiffs could [not] claim that they deposited their money in the bank for the purpose of purchasing covered securities."
+Montreal Pension , 750 F. Supp 2d at 455 n.27.
+Finally, as was the case in Anwar II , there are "multiple layers of separation" between the CDs and any security purchased by SIB.
+Anwar II , 728 F. Supp. 2d at 398 .
+Therefore, we find that the fraudulent schemes of the SEI Defendants and the Willis Defendants, as alleged by the Appellants, are not more than tangentially related to the purchase or sale of covered securities and are therefore not sufficiently connected such purchases or sales to trigger SLUSA preclusion.
+2 The district court also justified its decision based on the fact that "at least one of the [ Roland ] Plaintiffs acquired SIB CDs with the proceeds of selling SLUSA-covered securities in their IRA portfolios" and that those transactions brought the action within the ambit of SLUSA preclusion.
+While we do not quarrel with the district court's finding that some plaintiffs sold covered securities to buy the CDs, we think that the way the district court approached this alleged connection was incorrect.
+The appropriate inquiry under SLUSA is whether the fraudulent [**18] scheme, as alleged by the Appellants, was connected with a transaction in a covered security.
+While the fact that covered securities were in fact traded as a part of the fraud is evidence of the defendants' intent, it is not dispositive.
+Appellants argue that "[t]he source of funds used to buy uncovered securities is irrelevant."
+In response, the defendants posit that this cannot be the case in light of the Supreme Court's decisions in Superintendent of Insurance v. Bankers Life & Casualty Co. and Zandford .
+In Bankers Life , the Court dealt with a company president who allegedly conspired to acquire the company's stock using the company's assets and caused the company to liquidate its bond portfolio and to invest the proceeds in a worthless certificate of deposit.
+404 U.S. 6 , 8-9 (1971).
+The Court held that the scheme was "in connection with" the purchase or sale of securities such that suits by defrauded investors of the company could be maintained under Section 10(b) .
+Id. at 12-13 .
+In Zandford , the Court found that where a broker took over a customer's portfolio to purportedly manage and invest the assets but in fact, liquidated covered securities in order to steal the customer's funds, 535 U.S. at 815-16 , the fraud was "in connection with" transactions in securities because "[t]he securities sales and respondent's fraudulent practices were not independent events" and "each sale was made to further respondent's fraudulent scheme."
+Id. at 820 .
+Based on our reading of the allegations in the Appellants' complaints, the connection between the fraud and sales of covered securities is not met here.
+Unlike Bankers Life and Zandford , where the entirety of the fraud depended upon the tortfeasor convincing the victims of those fraudulent schemes to sell their covered securities in order for the fraud to be accomplished, the allegations here are not so tied with the sale of covered securities.
+[fn7] To be sure, it was necessary for fraud for the defendants to have the Appellants invest their assets into the CDs, but based on the allegations, there is no similar focus to Bankers Life and Zandford on the sale of covered securities.
+Therefore, we find that the fact that some of the plaintiffs sold some "covered securities" in order to put their money in the CDs was not more than tangentially related to the fraudulent scheme and accordingly, provides no basis for SLUSA preclusion.
+B We view the claims against the Proskauer Defendants as different in kind from those alleged against the other defendants.
+Unlike the claims against the SEI Defendants and the Willis Defendants, the Troice Plaintiffs' claims against the Proskauer Defendants are solely for aiding and abetting the Stanford Ponzi scheme.
+That is to say, the allegations against the SEI and Willis Defendants were, inter alia , that they made misrepresentations to the Appellants about the liquidity, soundness, and safety of investing in the CDs whereas the Troice Plaintiffs do not allege that the Proskauer Defendants made any misrepresentations to them.
+The core allegation is that without the aid of the Proskauer Defendants the Stanford Ponzi could [**19] not have been accomplished.
+However, when we examine the substance of the claims against the Proskauer Defendants, it is clear that there are misrepresentations involved.
+Specifically, the Proskauer Defendants allegedly misrepresented to the SEC the Commission's ability to exercise its oversight over Stanford and SIB.
+By telling the SEC that it could not investigate the operations of Stanford and SIB, the Proskauer Defendants obstructed any chance of an SEC investigation uncovering the fraud, thereby allowing it to continue and harm the Troice Plaintiffs to occur.
+These alleged misrepresentations were one level removed from the misrepresentations made by SIB or the SEI and Willis Defendants.
+The connection that the Proskauer Defendants would have us find is that the misrepresentations to the SEC about its regulatory authority allowed SIB to recruit the Willis Defendants to sell CDs, who in turn misrepresented to the Troice Plaintiffs a host of things in order to convince them that the CDs were good investments, including vague references to SIB's portfolio containing instruments that might be SLUSA-covered securities.
+Like with the SEI and Willis Defendants, the misrepresentations made by the Proskauer Defendants are not more than tangentially related to the purchase or sale of covered securities and therefore, SLUSA preclusion does not apply.
+VI For the foregoing reasons, the judgments are REVERSED.
+The Troice cases are remanded to the district court, and the Roland case is remanded to the state court.
+REVERSED.

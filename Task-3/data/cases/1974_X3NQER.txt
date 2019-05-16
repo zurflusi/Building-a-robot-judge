@@ -1,0 +1,194 @@
+ OPINION OF THE COURT GIBBONS , Circuit Judge.
+Appeals by the defendants and an appeal by the plaintiff United States of America bring before us for interpretation the False Claims Act. Act of March 2, 1863, ch.
+67, 12 Stat. 696 , 698, 31 U.S.C. 231 .
+The United States on November 3, 1967 brought an action for double damages and forfeitures against defendants Philip L. Bornstein, Gerald Page, individuals, and United National Labs, Division of Sonora Electromatics, Inc., a New Jersey corporation.
+Bornstein and Page were officers and owners of that corporation, which by order of July 19, 1973 was dismissed as a defendant.
+The individual defendants are referred to hereafter as "United."
+The case was tried to the district court on a stipulation of facts.
+On June 26, 1973 the district court filed an opinion 1 determining that judgment should be entered in favor of the United States and against United for double damages, in the sum of $79.40, and forfeitures in the sum of $70,000.
+A judgment was entered for $70,079.40 and costs.
+United appeals from the judgment awarding $70,000 in forfeitures.
+The United States appeals from the award of $79.40 in double damages.
+I. THE FRAUDULENT SCHEME In August 1962 the United States Signal Supply Agency entered into a supply contract with Model Engineering and Manufacturing Corporation, Inc. (Model) under which Model was to supply radio kit sets to the Army.
+Each radio kit was to contain two electron tubes designated "JAN type 4 x 150G per MIL E-1 specifications."
+"JAN" stands for Joint Army Navy qualification approval standard.
+Tubes may be "JAN" branded by the manufacturer only after they have passed government inspection at the place of manufacture during the manufacturing process.
+As proof of such source inspection, the government inspector imprints his "Eagle" acceptance stamp on packing lists accompanying each shipment of tubes.
+He also affixes his signature to a written certification that the tubes have passed all the required tests, in this case those specified in MIL E-1.
+During the relevant time the only authorized manufacturer of JAN type 4 x 150G tubes was Eitel McCullough, Inc. (Eimac).
+Although JAN type 4 x 150G tubes are manufactured to military specifications, surplus or obsolete tubes of that model are commercially useable.
+On April 30, 1963 Arthur H. Richardson, Inc. (Richardson) a franchised distributor for Eimac, purchased 451 tubes, JAN type 4 x 150G, from Eimac which had been placed in a termination inventory because of a design change, for $15.52 a tube.
+In May 1963 United wrote to Model that it could supply JAN type 4 x 150G tubes for $32.00 per tube.
+The market price for such tubes from Eitel's current production was then $40.00.
+In July, United purchased ten JAN type 4 x 150G tubes from Richardson and shipped them to Eitel for preliminary inspection.
+Model advised United respecting the ten sample tubes that they were electrically and physically acceptable but had no code date and no JAN marking.
+In December 1963, Model issued to United a purchase order for 1008 JAN type 4 x 150G tubes at $32.00 a tube.
+United made an initial delivery of 120 tubes, which Model returned as unacceptable because they were not JAN labeled and had not been government source inspected.
+United assured Model it could deliver JAN tubes to fill the purchase order.
+It purchased 380 JAN type 4 x 150G tubes from Richardson for $17.50 each, and affixed on each tube the JAN designation, the manufacturer's qualification code, and the acceptance date.
+United then shipped each tube to Saxon Laboratories, Inc. (Saxon) for testing.
+At Saxon's plant the impression of a facsimile government inspector's "Eagle" stamp was affixed to twenty-one separate packing lists identifying each tube by serial number.
+The twenty-one packing lists covered twenty-one boxes, which included a total of 397 tubes.
+The stipulation does not disclose the source of the seven tubes in addition to the 390 acquired from Richardson.
+The twenty-one boxes were shipped to Model in three shipments.
+With each shipment United issued to Model a "Certificate of Compliance" certifying that the parts complied with the specifications referred to in the purchase order.
+Model included the 397 tubes in its shipments to the Signal Supply Agency, and filed with the United States thirty-five invoices covering the entire contract price.
+The United States paid the thirty-five invoices.
+Later the government learned that some 442 of the JAN type 4 x 150G tubes shipped by Model were falsely branded JAN.
+It replaced these tubes with JAN type 4 x 150G tubes which it purchased for $40.82 each or a total of $18,042.44.
+It then made a claim against Model.
+In November 1964 Model paid the United States $18,000 on account of the 442 falsely branded tubes.
+The government was able to trace 397 of the 442 tubes by serial number to United.
+The government retained the 397 tubes which have a commercial value not clearly established by the stipulation.
+The stipulation reflects no costs to the government other than $40.82 to replace the misbranded tubes.
+II.
+THE DISTRICT COURT DECISION The district court calculated the government's damages by multiplying the $40.82 replacement cost by 397, for a total of $16,205.54, and by deducting from that amount $16,165.84.
+The latter figure was calculated by dividing the $18,000 refund from Model by 442, the total number of falsely labeled tubes, or $40.72 a tube and multiplying $40.72 by 397.
+Thus the district court calculated the government's damage at ten cents a tube ($40.82 $40.72) or $39.70, and doubled that figure to $79.40.
+The district court calculated the statutory forfeiture on the basis of a single $2,000 forfeiture for each of the 35 invoices submitted by Model to the United States for payment.
+III.
+THE GOVERNMENT'S APPEAL The government contends on appeal that the district court erred in calculating damages.
+It contends that the damage award should have been $32,411.08, which it calculates: 397 x $40.82 $16,205.54 and $16,205.54 x 2 $32,411.08.
+Since it is the plaintiff it had the burden of proving damages.
+Its claim is, in the words of the statute, for "double the amount of damages which the United States may have sustained by reason of the doing or committing such act."
+31 U.S.C. 231 .
+Nowhere in its brief does it demonstrate the relationship between the figure of $16,205.54 and the amount of damages which it sustained.
+Rather it makes the disingenuous contention that the $18,000 refund by Model should be entirely omitted from the calculation of damages on the authority of the collateral source rule.
+This despite the fact that it stipulated: To avoid the effect of its stipulation that it was refunded $40.72 for every tube, it asserts that the $18,000 payment should be disregarded entirely because it took the form of a setoff against funds due to Model on other contracts.
+The government's answers to interrogatories included in the stipulation, paragraph 25, establish that this form of payment resulted because Model was experiencing a shortage of working capital.
+In accepting Model's offer of an $18,000 set-off the Assistant Attorney General wrote: damages By some reasoning process which escapes us, the government concludes that the damages referred to in the letter are different from the damages caused by United's false claim, even though in both instances they refer to 397 of the same tubes and to a replacement cost of $40.82 per tube.
+By similar logic the government could recover damages of $40.82 a tube from United had it never paid the Model invoices in the first place.
+We do not suggest that in a claim for double damages under the False Claims Act the government's recovery is limited to the replacement cost of nonconforming materials.
+Nor need we decide in this case whether the ordinary contract rules of damages apply.
+The point is that the government was the plaintiff and had the burden of proving damages.
+It proved by stipulation no other element of damage to it than the $40.82 replacement cost of the tubes, for $40.72 of which it had been reimbursed by Model.
+Its proof of damages established no greater loss than 10 cents a tube.
+Nor do we suggest that had the claim against Model been for forfeitures under the False Claims Act the recovery of such forfeitures should be applied in reduction of the claim for damages against United.
+There is no suggestion in the stipulation that any claim for forfeitures was asserted against Model, or that the government even sought double rather than single damages from that source.
+In the record before us the government stipulated that the Model payment was for damages simpliciter.
+We cannot at the appellate level disregard the record which the plaintiff made in the district court.
+Alternatively the government contends that if the Model payment should be credited in reduction of its damage claim the credit should not have been applied to the single damage amount but to that amount doubled.
+In United States v. Klein , 230 F.Supp.
+426 (W.D.Pa.1964), aff'd per curiam, 356 F.2d 983 (3d Cir. 1966), the Veterans Administration was falsely induced to make insured loans.
+Certain amounts were received by the Veterans Administration after foreclosure of the properties in reduction of the loans.
+The district court applied these credits before doubling damages.
+We affirmed without opinion.
+The district court in the instant case followed Klein .
+The government relies on United States v. Sytch , 257 F.2d 475, 478-479 (3d Cir. 1958), in which the defendants fraudulently overstated costs and obtained over payments from the Veterans Administration for operating a school in the years 1948-50.
+A counterclaim was filed for an amount due under a separate contract for 1951.
+This amount was conceded by the government.
+It was applied as a credit after damages for false claims under the 1948-50 contracts were doubled.
+The distinction is obvious.
+A credit on an unrelated second contract may be applied in reduction of the defendants' total indebtedness, but it has no relation to the amount of damages due on the first claim.
+Payments made in reduction of the loss on the first claim, however, are an essential part of the proof of the amount of damages.
+The determination of the amount of damage must be made before it is doubled.
+In the instant case the claim against Model was for the same loss as is asserted against United.
+The district court correctly followed Klein rather than Sytch .
+The only actual damage proved by the government was ten cents a tube.
+One other aspect of the damage equation which the district court did not take into account was the actual value of the nonconforming tubes.
+These are still in the government's possession, and have a commercial market value, according to the stipulation, of between $15.00 and $17.50 a tube.
+United urged the district court that this value must be taken into account.
+United did not, however, appeal from that part of the judgment awarding the government $79.40 in damages.
+If we had accepted either of the government's contentions as to the calculation of damages the amount of any credit for the commercial market value of 397 tubes would be a significant issue.
+We do not reach it because United does not contest the $79.40 award.
+IV.
+UNITED'S APPEAL United contends that the district court erred in assessing 35 forfeitures of $2,000 based on the fact that Model had presented 35 invoices to the United States.
+Each of these invoices included claims for payment of JAN type 4 x 150G tubes misbranded JAN by United.
+It did not, however, prepare the invoices or have any knowledge of the manner in which Model's claims for payment were presented.
+It knew, of course, that Model would seek payment from the United States.
+United urges that there should be (1) a single forfeiture because the tubes were supplied under a single government contract, or because it furnished the tubes under a single purchase order, or (2) three forfeitures, because it made only three shipments, issued only three invoices, and received only three payments from Model, or (3) eight forfeitures because the government made only eight payments, or (4) at most twenty-one forfeitures because only 21 fraudulently stamped packing lists and 21 false certificates of compliance were prepared.
+It argues that the number of invoices made out by Model was entirely fortuitous and unrelated to any activity by it.
+In the district court the government asserted at one time 38 forfeitures: one for each of the 35 Model invoices, one for the false branding of 397 tubes, one for affixing the facsimile "Eagle" stamp on 21 packing lists and one for the issuance of 21 false Certificates of Compliance.
+At an earlier time it asserted 30 forfeitures in the mistaken belief that there were 30 invoices from United to Model rather than three.
+On appeal the government is satisfied with 35 forfeitures.
+United does not contend that the Act is inapplicable to a subcontractor who did not deal directly with the government.
+Such a contention is foreclosed by United States ex rel.
+Marcus v. Hess , 317 U.S. 537 , 63 S.Ct. 379 , 87 L.Ed. 443 (1943) and United States v. Rohleder , 157 F.2d 126 (3d Cir. 1946).
+Rather, it contends that the number of forfeitures must somehow be related to the incidence of fraud by it, rather than left to the fortuity that the prime contractor submitted thirty-five invoices rather than one.
+The text of the statute gives little guidance.
+The text set forth at 31 U.S.C. 231 is not an enacted codification.
+The original version appeared in Act of March 2, 1863, ch.
+67, 12 Stat. 696 .
+Section 1 of that Act subjected military personnel to courts-martial for presenting a false claim, and 3 subjected persons not in the military to double damages and a $2,000 forfeiture.
+The double damage feature undoubtedly was included because 3 of the Act provided for qui tam actions in which the private informant pursuing the claim on behalf of the United States received one-half of the recovery.
+See United States ex rel.
+Marcus v. Hess , supra ; Toepleman v. United States , 263 F.2d 697 (4th Cir.), cert. denied, 359 U.S. 989 , 79 S.Ct. 1119 , 3 L.Ed.2d 978 (1959).
+In the Revised Statutes, which were enacted into positive law, the 1863 Act was replaced by 5438 , which subjected a person not in the military to a fine and imprisonment for presenting a false claim, 3490 , which subjected a person not in the military to double damages and a $2,000 forfeiture for committing an act prohibited by 5438 and 3493 which reenacted the qui tam provision of 6 verbatim.
+Thus in the Revised Statutes the acts for which forfeitures under 3490 could be imposed were those set forth in the criminal provisions of 5438 .
+The criminal provisions of 5438 were amended by the Act of May 30, 1908, ch.
+235, 35 Stat. 555 , and codified and reenacted as section 35 of the Criminal Code in Act of March 4, 1909, ch.
+321, 35 , 35 Stat. 1095-1096 .
+Section 35 of the Criminal Code was amended by the Act of Oct. 23, 1918, ch.
+194, 40 Stat. 1015-1016 , by Act of June 18, 1934, ch.
+587, 48 Stat. 996 , and by the Act of April 4, 1938, ch.
+69, 52 Stat. 197 .
+In the 1948 recodification of the Criminal Code 35 was split into two sections, 18 U.S.C. 287 (false claims) and 18 U.S.C. 1001 (false statements) and reenacted into positive law.
+Sections 287 and 1001 of Title 18 remain today as recodified in 1948.
+The civil damage and forfeiture provisions of 3490 of the Revised Statutes have remained unaltered since the enactment of that revision.
+The operative law today is 3490 which reads: RIMES R.S.
+3490 One might have thought that from the successive amendments of the criminal provision referred to the courts might have perceived a Congressional intention that the liability for forfeitures under 3490 continue to be defined by those amendments.
+The Supreme Court has indicated otherwise, however.
+See United States v. Neifert-White Co. , 390 U.S. 228, 228 n. 1, 88 S.Ct. 959 , 19 L.Ed.2d 1061 (1968); Rainwater v. United States , 356 U.S. 590, 590 n. 1, 592, 78 S.Ct. 946 , 2 L.Ed.2d 996 (1958).
+The acts for which forfeitures may be imposed under 3490 are those which were prohibited by 5438 of the Revised Statutes which as here relevant reads: The statute defines additional offenses with respect to federal property not here relevant.
+2 Three separate offenses possibly relevant to the instant case are set forth.
+These may be paraphrased as making a false claim on the government either directly or through an agent, making a false entry for the purpose of aiding in having the false claim paid, and entering into a combination or conspiracy to obtain the allowance of any false claim.
+The Supreme Court has addressed the issue of multiple forfeitures only once, and on that occasion not definitively.
+In United States ex rel.
+Marcus v. Hess , supra , the defendants' chief attacks on the forfeiture judgment were that it violated the double jeopardy clause of the fifth amendment and that the qui tam provisions of R.S.
+3493 since repealed 3 were unlawful.
+The informer, Marcus, and the Attorney General were the petitioners for certiorari.
+After concluding that the judgment of this court, which had reversed the district court judgment imposing forfeitures, should be reversed, Justice Black wrote: Section 3490 5438 317 U.S. at 552 63 S.Ct. at 388 The context of the quoted language was a case in which the fraud was a collusive bid rigging conspiracy in the Pittsburgh area which operated with respect to 56 contracts with local government units financed by the Federal Public Works Administration.
+The district court had assessed fifty-six $2,000 penalties, which Justice Black refers to as "the lump sum" in damages.
+317 U.S. at 552 , 63 S.Ct. 379 .
+The informer had contended in the district court that each false affidavit or certificate that was submitted to the P.W.A.
+administrator would be grounds for a separate $2,000 forfeiture.
+The defendants had contended that since there was a single ongoing conspiracy, only one forfeiture was permitted.
+The district court had concluded that a bid rigging conspiracy prohibited by the third clause of 5438 had affected 56 government-financed contracts.
+See United States ex rel.
+Marcus v. Hess , 41 F.Supp.
+197, 216 (W.D.Pa.1941).
+Since the petitioners for certiorari had before reaching the Supreme Court abandoned the contention that there could be a separate forfeiture for each false entry (the second clause of 5438 ) the Court's holding deals only with the propriety of assessing a forfeiture under the conspiracy clause for each contract affected by a bid rigging conspiracy.
+Justice Black might have found a violation or violations of the third (conspiracy) clause of 5438 .
+Instead, possibly with the intention of narrowing the construction of 3490 , he said that the first clause governed.
+317 U.S. at 540 , n. 2, 63 S.Ct. 379 .
+Three years after the Hess decision an issue of the appropriate number of forfeitures was before this court in United States v. Rohleder , 157 F.2d 126 (3d Cir. 1946).
+In that case Cramp Shipbuilding Company had a contract with the Navy to erect emergency plant facilities.
+Cramp had authority to subcontract subject to approval in advance by the Navy's Supervisor of Shipbuilding of all plans, prices, subcontractors and subcontracts.
+As work was completed Cramp would present a Final Cost Certificate and would be reimbursed monthly.
+Cramp entered into sixteen subcontracts with Rohleder on a cost-plus-fixed-fee basis.
+The Navy required that for approval of purchase of materials three or more vendors bids and prices be submitted.
+In ninety instances Rohleder submitted two fictitious bids along with that of the actual single vendor.
+The district court assessed sixteen penalties.
+On its cross appeal the government contended that there should have been ninety forfeitures.
+This court, purporting to follow United States ex rel.
+Marcus v. Hess , supra , rejected the government's contention, writing: 317 U.S. at page 552 63 S.Ct. at page 388 87 L.Ed. 443 Section 5438 United States ex rel.
+Marcus v. Hess supra 157 F.2d at 131 United takes comfort from the Hess and Rohleder cases, suggesting that Hess would permit only one forfeiture since there was only one government project, and that Rohleder would permit only one forfeiture since there was only one purchase order from Model to United.
+The district court did not choose to follow United's interpretation of Hess and Rohleder .
+Instead it followed United States v. Ueber , 299 F.2d 310 (6th Cir. 1962).
+In that case a subcontractor submitted 442 false invoices to the main subcontractor who in turn submitted 54 invoices to the United States.
+The court approved the imposition of 54 forfeitures based on those 54 invoices.
+Arguably the Ueber court was quite correct in determining that 54 forfeitures were permitted.
+4 The violation was that set forth in the first clause of 5438 .
+The defendant subcontractor had knowingly caused to be made and presented for payment by the contractor a false claim.
+Ueber is not inconsistent with Hess for the holding in Hess did not depend upon the first clause of 5438 , but rather on the third clause.
+It must be noted that each of these clauses defines a separate crime involving different elements.
+Ueber , and the district court decision in this case, however, is inconsistent with the language quoted above from Rohleder .
+Rohleder was not a conspiracy.
+It was, like the Ueber case, an instance of a subcontractor causing a contractor to submit a false claim.
+However, this court in Rohleder perceived in Hess an intention to give 3490 a narrow and reasonable construction.
+If literally applied the section would permit a separate $2000 forfeiture under clause of 5438 for each invoice submitted by the main contractor (in this case 35); a separate $2000 forfeiture under clause of 5438 for each false entry (in this case 439); and a separate forfeiture under clause of 5438 for each conspiracy (in this case at least one).
+We may well question whether if so construed the statute would not compel the conclusion that it was penal rather than civil.
+That, of course, was the chief ground for appeal asserted in the Hess case, and probably was the reason for Justice Black's narrowing construction.
+This being so we continue to adhere to the interpretation of 3490 announced in Rohleder .
+That interpretation focuses upon conduct of the defendants rather than upon the fortuity of the number of invoices submitted by the main contractor.
+Consistent with Rohleder there should, under the first clause of 5438 , have been a single forfeiture since the defendants' fraud affected the performance of a single purchase order from Model to United.
+We note that there is a possible overlap between the offenses defined in the first and second clauses of 5438 in that the means taken by a subcontractor to cause a contractor to make a false claim may, as was the case here, involve making false entries.
+But just as in United States ex rel.
+Marcus v. Hess , supra , the petitioners before the Supreme Court abandoned any contention for forfeitures in excess of 56, the government here has not pressed for more than 35 forfeitures.
+Thus we need not in this case consider whether on a single transaction a separate 3490 forfeiture may be imposed by virtue of a violation of the first and the second clauses of 5438 .
+We recognize that by our continued adherence to Rohleder we have continued a conflict between our interpretation of 3490 and that of the Sixth Circuit in Ueber .
+Perhaps the Supreme Court will shed more light than we have been able to.
+Any limiting interpretation of 3490 involves arbitrary line drawing.
+This statute, we may add, cries out for congressional attention.
+The judgment will be affirmed with respect to double damages in the amount of $79.40 and with respect to the award of a single forfeiture in the amount of $2,000.
+The judgment awarding forfeitures in excess of $2,000 will be vacated.

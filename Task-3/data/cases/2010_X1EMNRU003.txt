@@ -1,0 +1,94 @@
+ MERRITT, Circuit Judge.
+This is a coerced confession, death penalty case. On November 4, 1993, at the police station house in Toledo, Ohio, petitioner Dixon, after receiving Miranda warnings, advised detectives that he would not voluntarily answer their questions without a lawyer present to advise him.
+Notwithstanding his refusal to answer questions voluntarily, the detectives five days later devised a strategy to put pressure on Dixon to confess by questioning him, without Miranda warnings.
+The primary habeas corpus issue raised by Dixon is what effect the deliberate, planned police decision to continue the questioning but not to give warnings under Miranda v. Arizona , 384 U.S. 436 , 86 S.Ct. 1602 , 16 L.Ed.2d 694 (1966) — a strategy that also included an offer "to cut a deal" for Dixon rather than his confederate (Hoffner) — has on the admissibility of a confession rendered four hours later when he agreed to confess.
+The detective told Dixon at the end of the unwarned interrogation, "Now is the time to say so [confess] because if Tim [Hoffner] cuts a deal it's kind of like a bus is leaving.
+The first one that gets on is the only one that gets on."
+Ohio v. Dixon , 101 Ohio St.3d 328 , 805 N.E.2d 1042 , 1051 (2004).
+The police designed a strategy to get a coerced confession without giving Miranda warnings.
+The confession would then be followed by the warnings given in a tape recording before the confession was recorded.
+Based on this inverted sequence of events — refusal to answer after Miranda warnings, re-interrogation without warnings, confession, recorded warnings, recorded confession — the prosecution argues that the warnings after the initial confession made the confession "voluntary."
+The question is whether the police can cleanse what would otherwise be an inadmissible confession in this way.
+The Ohio trial judge said, "No," but he was reversed by the Ohio Supreme Court.
+We agree with the trial judge.
+A confession obtained by this kind of police pressure is inadmissible under Miranda and coerced and involuntary under the Due Process Clause.
+If the consequences of this kind of deliberate, unlawful conduct specifically designed to violate Miranda and get a confession is allowed to prevail, as dissenting colleague contends, [**2] the time has come to simply overrule Miranda.
+I. Factual and Procedural Background On November 4, 1993, Dixon was interrogated at the police station and expressly exercised his right to remain silent unless a lawyer were present, although he had not been technically "arrested" at that time.
+The detectives were, therefore, on notice that Dixon did not want to talk to them in the absence of his lawyer.
+After his formal arrest for murder five days later on November 9, he was interrogated twice more.
+The detective decided not to give him any Miranda warnings during the first of these two sessions because as the Ohio Supreme Court found, in agreement with the trial court, "the detectives believed that Dixon would invoke his right to counsel if he were issued Miranda warnings," which would foreclose further interrogation and defeat their effort to get a confession.
+Ohio v. Dixon , 805 N.E.2d at 1049 .
+The detectives' coercive strategy succeeded; in the first session, Dixon confessed to a closely related crime.
+Four hours later, in the second session, Dixon capitulated to the pressure.
+The detectives advised him of his Miranda rights, and he confessed to the murder.
+The Ohio trial judge immediately suppressed Dixon's statements confessing to the murder because "they were obtained as a result of a deliberate, bad faith plan on the part of the police to violate his rights" under Miranda , including an "ultimately false" statement by the interrogator in the form of a "promise of possible benefits" if Dixon confessed.
+The trial judge also found that, although the detectives said that Dixon told them during the second interrogation on November 9 that he ha/1 talked to his lawyer by phone and was following his lawyer's advice to confess, this statement by Dixon was false.
+The trial judge found that he had not talked to his lawyer and that no lawyer would likely have given him such advice.
+Ohio v. Dixon , Trial Court Opinion and Journal entry, Appellant Appendix, Vol. 3, p. 1252.
+The State took an interlocutory appeal on the suppression issue, and the Ohio Court of Appeals disagreed with the trial judge and found the confession admissible despite the deliberate violation of Miranda, Ohio v. Dixon , 101 Ohio App.3d 552 , 656 N.E.2d 1 (1996).
+(This decision was later upheld by the Ohio Supreme Court.
+101 Ohio St.3d 328 , 805 N.E.2d 1042 .)
+Dixon was then convicted on the basis of the confession of a brutal murder in which he participated with his associate in burying the victim alive.
+The Ohio jury sentenced him to death and then sentenced his associate to death.
+After exhausting both his direct and state post-conviction appeals, Dixon filed for a writ of habeas corpus.
+Unlike the Ohio trial judge, the district court did not find the interrogation to be coercive.
+It followed the ruling of the Ohio Supreme Court on the Miranda violation and fully accepted its argument that Oregon v. Elstad , 470 U.S. 298 , 105 S.Ct. 1285 , 84 L.Ed.2d 222 (1985), had held that confessions like the one in this case rendered under an "interrogate first, warn later" police strategy were admissible.
+Because Miranda and Elstad , as well as many other cases, forbid this type of deliberately coercive police strategy that yields [**3] an involuntary confession, we reverse the district court and issue the writ of habeas corpus.
+II.
+The Errors of the Ohio Supreme Court under AEDPA To issue the writ, we must conclude that the state courts' adjudication (1) "involved an unreasonable application of, clearly established federal law, as determined by the Supreme Court," or (2) "resulted in a decision that was based on an unreasonable determination of the facts in light of the evidence presented in the State court proceedings."
+28 U.S.C. 2254 (d).
+The Ohio Supreme Court erred in both ways.
+First, its reliance on Elstad as the basis for admitting the confession involved an unreasonable application of that case. Second, its finding that Dixon's confession, after first asking for a lawyer, was not influenced, caused, or coerced by the detectives' deliberate "confession first, warnings later" police strategy was based on an unreasonable determination of the facts and flatly contradicted the trial court's findings.
+The detectives planned to get a confession by violating the Miranda warning requirement after Dixon asked for a lawyer, and their plan worked four hours later when they returned for further interrogation and got the confession.
+The Ohio Supreme Court relied on Oregon v. Elstad , 470 U.S. 298 , 105 S.Ct. 1285 , 84 L.Ed.2d 222 (1985), for its conclusion that Dixon's confession was admissible and not coerced and involuntary under Miranda and Due Process.
+In that case, an officer mentioned a burglary when he came in to arrest the defendant at the defendant's home.
+The defendant immediately responded that he was involved.
+Elstad held that the momentary statement and response had "none of the earmarks of coercion" that is likely to produce an involuntary confession, id. at 316 , 105 S.Ct. 1285 , and that the defendant's later full-dress confession at the station house after full and complete Miranda warnings was admissible.
+The Court in Elstad defined the concept of a "coerced" confession and distinguished the case from other cases in which the failure to warn was accompanied by "actual coercion or other circumstances calculated to undermine the suspect's ability to exercise his free will."
+Id. at 309 , 105 S.Ct. 1285 .
+In a later case, Missouri v. Seibert , 542 U.S. 600 , 124 S.Ct. 2601 , 159 L.Ed.2d 643 (2004), the U.S. Supreme Court said that the holding in Elstad on its face was obviously designed to distinguish a case exactly like Dixon's in which the police follow a deliberate question-first, warn-later strategy.
+The Supreme Court in Seibert said that Elstad stands for the proposition that such a "police strategy adapted to undermine the Miranda warnings" renders the confession inadmissible "because the question-first tactic threatens to thwart Miranda's purpose of reducing the risk that a coerced confession would be admitted."
+Id. at 617, 124 S.Ct. 2601 .
+Elstad itself is clear, and Seibert simply reinforced its meaning.
+In the instant case, five days before the question-first strategy was used, Dixon had made it completely clear to the police that he did not want to talk to the detectives without a lawyer present.
+Not only is the police strategy used here inconsistent with Elstad and Seibert , it contravenes the clear language of Chief Justice [**4] Warren's opinion in Miranda itself.
+Once warnings have been given, the subsequent procedure is clear.
+If the individual indicates in any manner, at any time prior to or during questioning, that he wishes to remain silent, the interrogation must cease.
+At this point he has shown that he intends to exercise his Fifth Amendment privilege; any statement taken after the person invoices his privilege cannot be other than the product of compulsion, subtle or otherwise.
+Without the right to cut off questioning, the setting of in-custody interrogation operates on the individual to overcome free choice in producing a statement after the privilege has been once invoked.
+If the individual states that he wants an attorney, the interrogation must cease until an attorney is present.
+At that time, the individual must have an opportunity to confer with the attorney and to have him present during any subsequent questioning.
+If the individual cannot obtain an attorney and he indicates that he wants one before speaking to police, they must respect his decision to remain silent.
+Miranda v. Arizona , 384 U.S. 436 , 473-74 , 86 S.Ct. 1602 , 16 L.Ed.2d 694 (1966) (emphasis added).
+The Supreme Court has consistently maintained that the bright-line rule of Miranda against further interrogation by police remains in effect.
+E.g., Edwards v. Arizona , 451 U.S. 477 , 484-85 , 101 S.Ct. 1880 , 68 L.Ed.2d 378 (1981).
+Moreover, in contrast to the finding of the Ohio Supreme Court that Dixon's statements at the evening interrogation four hours later were "voluntary" and not "the product of a compulsion, subtle or otherwise," the trial judge who heard the testimony of the witnesses found exactly the opposite.
+The trial court recounted that the detectives had engaged in a thirty-minute interrogation of Dixon before Miranda warnings were given and the tape recorder turned on.
+During that time they informed Dixon that his confederate, Hoffner, had led police to the buried body of the victim.
+They advised Dixon that they had not arrested Hoffner but let him go home, and then referred back to the earlier afternoon interrogation that had ended with the detective's advice to "get on the bus" because "the first one that gets on it is the only one" who will get a "deal."
+This sequence of events is in direct conflict with the findings of the Ohio Supreme Court of "no coercion" or of the "voluntariness" of Dixon's confession.
+The Ohio Supreme Court attempted to purge the detectives' offer of the "deal" of any coercive effect by implausibly characterizing it only as a mere "admonition to tell the truth."
+On the contrary, the "cut-a-deal" dialogue was another step in the effort to get a confession by persuading Dixon that he had no right to silence or a lawyer but rather a duty to incriminate himself — the very opposite of his Miranda rights and his right to due process.
+Holding out the promise of a "deal" to avoid the death penalty in return for a confession, as the trial judge found, is a high-pressure tactic designed to override Dixon's previous five-day stand against talking.
+A confession given in response to such tactics is not voluntary.
+See Mincey v. Arizona , 437 U.S. 385 , 396-99 , 98 S.Ct. 2408 , 57 L.Ed.2d 290 (1978) (positing a per se rule against use [**5] of such a coerced confession).
+To summarize, there are three clear constitutional errors by the Ohio Supreme Court that remove the case from AEDPA deference under 28 U.S.C. 2254 (d): 1.
+The Ohio Supreme Court unreasonably applied Miranda v. Arizona in refusing to require the police to terminate interrogation upon the exercise of the right to have a lawyer present and in allowing the police to demand involuntary answers by reinstituting the questioning without warnings.
+2.
+That court unreasonably applied Oregon v. Elstad by holding that the deliberate, planned refusal to warn, followed by warnings after confession should be treated the same as the momentary, innocent failure to warn in Elstad.
+3.
+That court's finding that Dixon's confession was voluntary resulted in a decision that was based on an unreasonable determination of facts presented in the state court proceeding.
+The "admonition" that Dixon should "cut a deal" was not simply "an admonition to tell the truth."
+It was part of the coercive strategy to get Dixon to confess involuntarily.
+In this conclusion, we are in accord with the court that actually heard the evidence and that was in the best position to determine the facts — the Ohio trial court.
+In addition, the last violation occurred in part because the Ohio Supreme Court erroneously placed the burden of proof on Dixon to prove that his confession was coerced.
+That court concluded that "Dixon has failed to explain how the detective's coercive subjective intent coerced him to a greater extent than if the Miranda violation had been inadvertent."
+805 N.E.2d at 1050-51 .
+This view is contrary to Supreme Court law.
+E.g., Colorado v. Connelly , 479 U.S. 157 , 167 , 107 S.Ct. 515 , 93 L.Ed.2d 473 (1986) (holding that "coercive police activity is a necessary predicate to `suppression'" and when shown "the state bears a `heavy' burden in proving waiver"); North Carolina v. Butler , 441 U.S. 369 , 373 , 99 S.Ct. 1755 , 60 L.Ed.2d 286 (1979) (same).
+In Miranda itself the Court said that "a heavy burden rests on the government"; the satisfaction of this burden "will not be presumed simply from the silence of the accused after warnings are given or simply from the fact that a confession was in fact eventually obtained."
+384 U.S. at 475 , 86 S.Ct. 1602 .
+Here the confession was "eventually obtained" but only after the police wore Dixon out with admittedly illegal interrogation, the only purpose of which was to get him to confess against his will.
+The police used both illegal questioning and, as the Ohio trial judge found, false enticement "to cut a deal."
+Accordingly, the petition for writ of habeas corpus is granted pursuant to 28 U.S.C. 2254 (d) and the State has 180 days to retry Dixon.
+In light of our ruling on the coercive police interrogation issue, the other issues raised in the petition are pretermitted.

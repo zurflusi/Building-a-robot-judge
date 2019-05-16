@@ -1,0 +1,68 @@
+ PER CURIAM: David Boyle drowned after the Marine helicopter he was flying crashed in the Atlantic Ocean.
+Boyle's father, Delbert Boyle, on behalf of himself, Boyle's mother and three sisters, sued the Sikorsky Division of United Technologies Corporation (hereinafter "Sikorsky"), the manufacturer of the helicopter.
+Boyle alleged negligence and breach of warranty in the design of the co-pilot's escape hatch and the rework of the helicopter's control system.
+The jury found for plaintiffs.
+Sikorsky moved for a judgment notwithstanding the verdict, arguing that the military contractor defense shielded it from liability for the alleged design defect, and that plaintiffs had failed to establish Sikorsky's responsibility for the malfunction of the control system.
+The district judge denied Sikorsky's motion.
+We reverse and remand with directions to enter judgment for defendant.
+I. On April 27, 1983, a Marine helicopter manufactured by Sikorsky (a CH-53) crashed in the ocean off the coast of Virginia Beach.
+The four crew members survived the impact.
+Three of them escaped through emergency exits, but the co-pilot, David Boyle, did not escape, and drowned.
+At trial, plaintiffs attempted to show that Sikorsky had defectively repaired the pilot valve of the helicopter's servo.
+The servo acts as a sort of power steering to assist the pilot in flying the plane.
+After the accident, a small chip of wire was found in the pilot valve.
+Plaintiffs argued that the chip caused the servo to stop functioning, the pilot lost control of the helicopter, and the helicopter crashed into the water.
+The metal chip could have been introduced at one of three times: when Sikorsky overhauled the helicopter in late 1981--early 1982; when the Navy reworked it in late 1982; or during maintenance of the hydraulic system by the Marines.
+The parties agree that it is least likely that the servo was contaminated during maintenance.
+Plaintiffs contended at trial that the chip was most likely introduced by Sikorsky.
+Plaintiffs also contended that Sikorsky had defectively designed the co-pilot's escape hatch.
+Specifically, plaintiffs alleged that when the collective, one of the control sticks, was pulled full up, it interfered with the co-pilot's access to his escape hatch.
+The jury, in a general verdict, found for plaintiffs and awarded them $725,000.
+Because we believe the military contractor defense precludes any recovery for the design defect, and because there was insufficient evidence to conclude that Sikorsky was the party that introduced the chip, we reverse the decision below.
+II. A military contractor can escape liability for a design defect if it can demonstrate that 1) the United States is immune from liability; 2) the United States approved reasonably precise specifications for the equipment; 3) the equipment conformed to those specifications; and 4) the supplier warned the United States about dangers in the use of the equipment that were known to the supplier but not to the United States.
+Tozer v. LTV Corp. , 792 F.2d 403 (4th Cir. 1986).
+Sikorksy and the Navy worked together to prepare detailed specifications for the CH-53 helicopter.
+One of Sikorsky's program engineering managers for the CH-53 described in some detail the back-and-forth discussions between Sikorsky and the Navy.
+We have previously said that this type of exchange of information will normally suffice to establish government approval of the design in question.
+See Tozer , at 407.
+In addition, Sikorsky built a mock-up of the cockpit with all the instruments and controls, including the collective stick and the emergency escape hatch.
+The Navy reviewed the mock-up and approved the design.
+As a result, Sikorsky has adequately demonstrated that the Navy approved reasonably detailed specifications for the escape hatch.
+Sikorsky then built the helicopter, and in 1970 the Navy accepted it as fully complying with specifications.
+The Navy thus had thirteen years of experience with this particular helicopter at the time of Boyle's crash.
+Plaintiffs point to nothing in the record that indicates there were any hazards of which Sikorsky was aware and the Navy was not.
+Sikorsky's duty to warn the Navy of any hazards known to it but not to the Navy was thus not brought into question.
+Because Sikorsky has satisfied the requirements of the military contractor defense, it can incur no liability for negligence or breach of warranty for the allegedly defective design of the escape hatch.
+III.
+We need not consider in this case the applicability of the military contractor defense to questions of manufacture and overhaul, because Sikorsky's liability can in no event be established.
+Even if the metal chip were the cause of Boyle's accident, plaintiffs must still show that defendant's defective rework introduced the chip, for the law of products liability in Virginia does not permit recovery where responsibility is conjectural.
+Logan v. Montgomery Ward & Co., Inc. , 216 Va. 425 , 219 S.E.2d 685 (1975).
+Plaintiffs have failed to do more than speculate that Sikorsky introduced the metal chip into the pilot valve of the servo.
+It is true that when Sikorsky reworked the helicopter in late 1981--early 1982, it disassembled the servo.
+After the rework was complete, Sikorsky put a tamper seal of yellow paint on the valve.
+The yellow paint was undisturbed, suggesting that no one had removed the valve since the Sikorsky rework.
+However, when the Navy repaired the servo in late 1982, it removed the power piston, exposing the hydraulic system to contaminants, and creating the substantial possibility that when the piston was returned to the servo, the chip got into the valve from the unsealed underside.
+The chip was made of carbon steel.
+The manager of product safety at Sikorsky testified that Sikorsky used only stainless steel, in order to prevent corrosion, and that it had no carbon steel in its inventory.
+Plaintiffs argued that the size of carbon wire that formed the chip was so common that it would not have been listed in Sikorsky's inventory.
+Plaintiffs also introduced a Navy audit which said that wire of the type and size of the chip found in the servo was not used in the rework shop at the Pensacola Naval Air Rework facility.
+In response, a Sikorsky representative at Pensacola testified that the Navy did have carbon steel in its inventory from at least July of 1982.
+It remained plaintiffs' burden to prove that Sikorsky was responsible for the introduction of the chip into the pilot valve of the servo.
+Virginia products liability law is assiduous in conditioning liability upon responsibility.
+"Under either the warranty theory or the negligence theory the plaintiff must show that the unreasonably dangerous condition existed when the goods left the defendant's hands."
+Logan v. Montgomery Ward , 219 S.E.2d at 687 .
+It is well established that if there is more than one possible cause of an injury, the plaintiff must show that the defendant caused the injury: Cape Charles Flying Service, Inc. v. Nottingham , 187 Va. 444 , 47 S.E.2d 540, 544 (1948).
+See also , Spurlin v. Richardson , 203 Va. 984 , 128 S.E.2d 273, 277 (1962); Sneed v. Sneed , 219 Va. 15 , 244 S.E.2d 754, 755 (1978).
+"The evidence in the instant case fails to eliminate the possibility that the blame attaches to some party other than" Sikorsky.
+See Logan v. Montgomery Ward , 219 S.E.2d at 688 .
+Both Sikorsky and the Navy reworked the servo to an extent that would have permitted the chip to enter the pilot valve.
+Sikorsky and Boyle presented conflicting evidence on the presence of carbon steel in the rework shops at Sikorsky and Pensacola.
+"The evidence must prove more than a probability of negligence.
+A plaintiff must show why and how the incident happened.
+And if the cause of the event is left to conjecture, guess, or random judgment, the plaintiff cannot recover."
+Town of West Point v. Evans , 224 Va. 625 , 299 S.E.2d 349, 351 (1983).
+Defective rework by Sikorsky is by no means "the only reasonable inference that can be drawn to explain" the presence of the chip.
+Logan v. Montgomery Ward , 219 S.E.2d at 688 .
+In Logan , the Virginia Supreme Court declined to permit a jury to speculate whether defective manufacture or defective installation caused a gas range to explode.
+Here also, a defendant whose responsibility is not affixed with reasonable certainty is entitled to judgment as a matter of Virginia law.
+REVERSED.

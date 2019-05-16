@@ -1,0 +1,341 @@
+ AMBRO, Circuit Judge.
+Johnnie Corley appeals his conviction and sentence for armed robbery and conspiracy to commit that crime.
+He presses three arguments: (1) his conviction must be vacated because his confessions should have been suppressed as evidence because they were made outside the six-hour period in 18 U.S.C. 3501 (c) and after the arresting officials violated Federal Rule of Criminal Procedure 5 (a) by unnecessarily delaying in bringing him before a federal magistrate judge; (2) remand is required because (a) he was sentenced prior to the United States Supreme Court's decision in United States v. Booker , 543 U.S. 220 , 125 S.Ct. 738 , 160 L.Ed.2d 621 (2005) (making the United States Sentencing Guidelines advisory rather than mandatory), triggering this Court's decision in United States v. Davis , 407 F.3d 162 (3d Cir.2005) ( en banc ), that calls for a remand to resentence in most such cases, and (b) the District Court failed to resolve a disputed Guidelines adjustment; and (3) the District Court unlawfully delegated its statutory obligation under the Mandatory Victims Restitution Act of 1996 (MVRA) to set the schedule of restitution payments.
+Because we believe that the first contention is governed by our decision in Government of the Virgin Islands v. Gereau , 502 F.2d 914 (3d Cir.1974), and we discern no error in the District Court's determination that Corley's confessions were voluntary, the delay in presenting him to a federal magistrate judge beyond that provided by 18 U.S.C. 3501 (c) will not result in suppressing his confessions.
+On the second issue Corley raises, he is not entitled to a remand because the District Court did not treat the Guidelines as mandatory, nor did it fail to resolve the disputed Guidelines adjustment.
+We hold, however, that the Court delegated, contrary to the MVRA, its duty to set a schedule of restitution payments, and we therefore remand to allow the District Court to set that schedule.
+I. Facts On June 16, 2003, three men robbed the Norsco Federal Credit Union in Norristown, Pennsylvania.
+Federal officials identified Johnnie Corley as a suspect in the robbery and were later informed of an outstanding bench warrant from a state court for him on a matter unrelated to the robbery.
+On September 17, 2003, at approximately 8:00 a.m., a joint operation [**2] of federal and state law enforcement agents attempted to execute the arrest warrant.
+Corley resisted arrest and, following a physical altercation with an FBI agent during Corley's attempt to flee, was placed under federal arrest for assault on a law enforcement officer.
+At approximately 11:45 a.m., the officers transported Corley to Thomas Jefferson Hospital in Philadelphia to receive medical treatment for injuries sustained during the altercation.
+By 3:30 p.m., after receiving several stitches, Corley was taken to the FBI office in Philadelphia for interrogation concerning the Norristown credit union robbery.
+He was informed that he was under arrest for assaulting a federal officer and also was under investigation for a robbery.
+At 5:07 p.m., Corley signed a waiver of his rights, inter alia , to remain silent and to counsel under Miranda v. Arizona , 384 U.S. 436 , 86 S.Ct. 1602 , 16 L.Ed.2d 694 (1966).
+Shortly thereafter he confessed orally to the robbery.
+When asked to reduce his confession to writing, Corley stated that he was tired and requested to continue the following day.
+This was done, and the interrogation resumed at 10:30 a.m.
+on September 18, and Corley signed a written confession shortly thereafter.
+Not until 1:30 p.m. did he appear before a federal magistrate judge to be informed of his rights.
+On November 20, 2003, a federal grand jury sitting in the Eastern District of Pennsylvania issued a three-count indictment against Corley, charging conspiracy to commit armed bank robbery in violation of 18 U.S.C. 371 (Count One), armed bank robbery in violation of 18 U.S.C. 2113 (d) (Count Two), and the use and carrying of a firearm in furtherance of a crime of violence in violation of 18 U.S.C. 924 (c) (Count Three).
+Corley filed, and the District Court denied, a motion to suppress his oral and written confessions pursuant to Rule 5 (a) of the Federal Rules of Criminal Procedure.
+After a jury trial held on September 27-28, 2004, he was convicted of Counts One and Two and acquitted of Count Three.
+On December 21, 2004 after the Supreme Court decided Blakely v. Washington , 542 U.S. 296 , 124 S.Ct. 2531 , 159 L.Ed.2d 403 (2004), but before it decided United States v. Booker , 543 U.S. 220 , 125 S.Ct. 738 , 160 L.Ed.2d 621 (2005) the District Court sentenced Corley.
+In calculating the sentence, the District Judge explained that he viewed Blakely (discussed infra III.A) as rendering the United States Sentencing Guidelines advisory: [U]ntil I'm told otherwise by the Third Circuit o[r] the Supreme Court, [I] take the position that the guidelines are merely advisory and that for sentencing purposes I have the upper limit[,] which is the statutory max to zero[,] and that when I have to figure and fix a sentence, what's on the table is all the conduct, prior history of this particular defendant, or any defendant that's in front of me, and I take all that into account when I fashion my sentence.
+J.A.
+462.
+However, the District Judge rejected Corley's argument that, after Blakely , any Guidelines enhancements must be specifically found by a jury beyond a reasonable doubt.
+After hearing the arguments of both parties, the Judge calculated Corley's advisory Guidelines range to be 140 to 175 months, and sentenced him to 170 months in prison.
+Regarding restitution, [**3] the Judge stated: The defendant shall make restitution to [Cumis Insurance, in] the amount of $47,532.36.
+The defendant shall make restitution and fine payments from any wages he may earn in prison in accordance with the Bureau of Prisons Inmate Financial Responsibility Program.
+The restitution and fines shall be due immediately.
+Any balance remaining upon release from custody shall be paid at a rate of no less than $100 per month.
+In addition to the imprisonment and restitution, Corley received five years supervised release, a fine of $5,000, and a special assessment of $200.
+He timely appeals.
+[fn1] II.
+The Admissibility of Corley's Confessions The first issue in Corley's appeal involves the permissible length of post-arrest investigation and delay before arresting officers must present the arrested person to a federal magistrate judge.
+It requires us to interpret 18 U.S.C. 3501 , which governs the admissibility in federal criminal prosecutions of confessions given by persons arrested and in federal custody.
+The statute was enacted as part of Title II of the Omnibus Crime Control and Safe Streets Act of 1968, Pub.L.
+No. 90-351 , 82 Stat. 197 , 210-11, and the interaction of that statute with the preexisting law governing such confessions raises difficult legal questions.
+A. The Presentment Right and the Exclusionary Remedy As a general matter, federal officials must take persons they arrest before a magistrate judge or other judicial officer without unnecessary delay.
+Before 1946, that obligation, known as "presentment," appeared in several statutes.
+See McNabb v. United States , 318 U.S. 332 , 342 & n. 7, 63 S.Ct. 608 , 87 L.Ed. 819 (1943) (citing statutes).
+The Federal Rules of Criminal Procedure first took effect in 1946, and Rule 5(a) provided in relevant part that [a]n officer making an arrest under a warrant issued upon a complaint or any person making an arrest without a warrant shall take the arrested person without unnecessary delay before the nearest available commissioner or before any other nearby officer empowered to commit persons charged with offenses against the laws of the United States.
+That rule now provides in relevant part that "[a] person making an arrest in the United States must take the defendant without unnecessary delay before a magistrate judge .
+.
+.
+unless a statute provides otherwise."
+Fed.R.Crim.P.
+5 (a)(1)(A).
+[fn2] The Supreme Court characterized Rule 5(a) as "a compendious restatement, without substantive change, of several prior specific federal statutory provisions," Mallory v. United States , 354 U.S. 449 , 452 , 77 S.Ct. 1356 , 1 L.Ed.2d 1479 (1957), and explained the policy behind the presentment right as follows: Legislation such as this .
+.
+.
+constitutes an important safeguard not only in assuring protection for the innocent but also in securing conviction of the guilty by methods that commend themselves to a progressive and self-confident society.
+For this procedural requirement checks resort to those reprehensible practices known as the `third degree' which, though universally rejected as indefensible, still find their way into use.
+It aims to avoid all the evil implications of secret interrogation of persons accused of crime.
+[**4] Id. at 452-53 (quoting McNabb , 318 U.S. at 343-44 , 63 S.Ct. 608 ).
+In McNabb and Mallory , the Supreme Court held that when federal officers violated an arrested person's presentment right by delaying unnecessarily in taking him before a magistrate, the remedy is that confessions elicited from the arrested person before presentment could not be admitted into evidence at any subsequent criminal trial.
+Mallory , 354 U.S. at 455-56 , 77 S.Ct. 1356 ; McNabb , 318 U.S. at 345 , 63 S.Ct. 608 .
+That exclusionary remedy became known as the McNabb-Mallory rule, and to courts applying that rule two propositions were clear: (1) a confession obtained before presentment and after an "unnecessary delay" would be suppressed, and (2) the paradigm of "unnecessary delay" is when it is solely for the purpose of eliciting a confession.
+United States v. Alvarez-Sanchez , 975 F.2d 1396 , 1398 (9th Cir.1992), rev'd on other grounds , 511 U.S. 350 , 114 S.Ct. 1599 , 128 L.Ed.2d 319 (1994); Walton v. United States , 334 F.2d 343 , 346 (10th Cir.1964) ("Each case must be determined on its own facts[,] .
+.
+.
+[b]ut if the delay in taking an arrested person before a committing magistrate is for the purpose of extracting a confession, it is a violation of Rule 5(a).
+"); see also Mallory , 354 U.S. at 454 , 77 S.Ct. 1356 ("The arrested person may, of course, be `booked' by the police.
+But he is not to be taken to police headquarters in order to carry out a process of inquiry that lends itself, even if not so designed, to eliciting damaging statements to support the arrest and ultimately determine his guilt.").
+B. 18 U.S.C. 3501 Eleven years after the Supreme Court decided Mallory , and two years after it decided Miranda (requiring, inter alia , warnings to persons in custody of their constitutional rights as to statements made to police without counsel present), Congress passed the Omnibus Crime Control and Safe Streets Act of 1968, Pub.L.
+No. 90-351 , 82 Stat. 197 , part of which was 18 U.S.C. 3501 .
+Courts, including ours, recognize that 3501 was a legislative reaction to McNabb, Mallory , and Miranda.
+See Dickerson v. United States , 530 U.S. 428 , 436 , 120 S.Ct. 2326 , 147 L.Ed.2d 405 (2000) ("Congress intended by its enactment to overrule Miranda.
+"); Gereau , 502 F.2d at 922 ( Section 3501 "Was expressly designed to provide a test different from Mallory's for judging the admissibility in federal criminal prosecutions of confessions given during the period between arrest and arraignment before a magistrate.
+"); United States v. Halbert , 436 F.2d 1226 , 1231 (9th Cir.1970) ("[I]t is obvious that the prime purpose of Congress in the enactment of 3501 was to ameliorate the effect of the decision in [ Mallory ].").
+Subsection (a) of the statute provides that, in a federal criminal prosecution, "a confession .
+.
+.
+shall be admissible in evidence if it is voluntarily given," and that if a trial judge determines that a confession was voluntary, the jury must be allowed to hear relevant evidence on the issue of voluntariness and to give the confession such weight as the jury believes it deserves.
+Subsection (b) instructs the trial judge to determine the voluntariness of a confession by "tak[ing] into consideration all the circumstances surrounding the giving of [it]."
+This provision notes a nonexclusive list of the circumstances that a trial judge may consider, including "the time elapsing between arrest and arraignment of the defendant making the confession, if it was made after arrest and before arraignment," [**5] and whether the defendant had been advised of his rights before making the confession.
+[fn3] Subsection (c) provides: In any criminal prosecution by the [federal government], a confession made or given by a person who is a defendant therein, while such person was under arrest or other detention in the custody of any law-enforcement officer or law-enforcement agency, shall not be inadmissible solely because of delay in bringing such person before a magistrate judge or other officer .
+.
+.
+if such confession is found by the trial judge to have been made voluntarily and if the weight to be given the confession is left to the jury and if such confession was made or given by such person within six hours immediately following his arrest or other detention: Provided , That the time limitation contained in this subsection shall not apply in any case in which the delay in bringing such person before such magistrate judge or other officer beyond such six-hour period is found by the trial judge to be reasonable considering the means of transportation and the distance to be traveled to the nearest available such magistrate judge or other officer.
+(bold emphases added).
+Some courts have read that language as providing a "safe harbor" for confessions within six hours after arrest and before presentment.
+See, e.g., United States v. Gamez , 301 F.3d 1138 , 1143 (9th Cir.2002) (" Section 3501(c) creates a six-hour "safe harbor" during which a confession will not be excluded because of delay.
+"); United States v. Spruill , 296 F.3d 580 , 590 (7th Cir.2002) (" Section 3501(c) creates a six-hour `safe harbor' provision that provides that confessions given within six hours of the commencement of detention on a federal charge and an appearance before a magistrate are presumed to have been taken without unnecessary delay.").
+Under that reading, confessions made within the "safe harbor" are to be treated differently, for the purpose of determining their admissibility, from confessions made outside it.
+C. Our Precedent Interpreting Rule 5(a) and 18 U.S.C. 3501 The interaction between 18 U.S.C. 3501 and Rule 5(a) raises several difficult legal questions that have divided Courts of Appeals.
+To resolve this case, we must determine how to reconcile the "voluntariness" test of 3501 with the "unnecessary delay" standard of Rule 5(a), and we must interpret the statement in 3501(c) that certain confessions "shall not be inadmissible solely because of delay."
+Our leading case addressing those questions is Gereau.
+Among the issues it addressed was the admissibility of defendant Gereau's confession, which was given more than six hours after his arrest, but which the District Court found to be voluntary.
+In its exposition of the law, our Court, per Chief Judge Seitz, explained: The [Federal] Rules [of Criminal Procedure] explicitly recognize that the admissibility of evidence in cases governed by the Rules is subject to determination by acts of Congress.
+Thus, 18 U.S.C. 3501 controls the admissibility in prosecutions subject to the Federal Rules, of defendants' statements made after arrest and before presentment to a magistrate, and must be viewed as altering [the] interpretation [**6] of Rule 5(a)'s direction that an arrested person be taken before a magistrate "without unnecessary delay.'
+.
+.
+.
+.
+While the Federal Rules' provision regarding presentation before a magistrate is `procedural,' unlike the `substantive' rule of 3501, the sanction imposed by federal courts for failure to comply with Rule 5(a) is suppression of statements taken during the period of `unnecessary delay.'
+Since 3501 regulates suppression of such statements, it should be viewed as amending the meaning of `unnecessary delay' as used in Rule 5(a), rather than leaving that term's meaning unchanged and simply allowing the Rule to be violated without sanction.
+502 F.2d at 923 & n. 5 (citation omitted).
+The panel then went on to address the admissibility of Gereau's confession, reasoning as follows: Section 3501 makes admissibility of confessions dependent on their voluntariness.
+Delay in a defendant's presentment to a magistrate is only one factor relevant to voluntariness.
+Section 3501(c) modifies the trial judge's freedom to determine voluntariness by stating certain instances in which the judge cannot on the basis of delay alone find a statement to have been involuntary.
+Statements not within the categories defined in 3501(c) are not excluded but instead their admissibility is determined by the general standard of voluntariness set forth in 3501(a) and (b).
+As set forth above, defendants have not demonstrated clear error in the district court's determination of voluntariness.
+We cannot, therefore, find that Gereau's statements .
+.
+.
+were improperly admitted.
+Id. at 924 (citations omitted).
+In Gereau , we read "shall not be inadmissible solely because of delay in bringing such person before a magistrate judge" in subsection (c) to refer to the voluntariness standard in subsections (a) and (b).
+That reading follows from the statement in subsection (a) that "a confession .
+.
+.
+shall be admissible in evidence if it is voluntarily given."
+Because subsection (a) makes voluntariness the sole criterion for admissibility of a confession, and subsection (b) further supports the statute's emphasis on voluntariness, it is certainly plausible to read the reference in subsection (c) to admissibility of a confession to refer to the voluntariness test.
+By our count, at least four other Courts of Appeals read the statute essentially the same way.
+See United States v. Glover , 104 F.3d 1570 , 1583 (10th Cir.1997) ("Voluntariness is the sole test for admissibility of a confession.")
+(quoting United States v. Shoemaker , 542 F.2d 561 , 563 (10th Cir.1976)); United States v. Christopher , 956 F.2d 536 , 538-39 (6th Cir.1991); United States v. Beltran , 761 F.2d 1 , 8 (1st Cir.1985); United States v. Bear Killer , 534 F.2d 1253 , 1256-57 (8th Cir.1976).
+[fn4] Our statement in Gereau that 3501 "amend[s] the meaning of `unnecessary delay' as used in Rule 5(a)" meant that, in the context of deciding whether pre-presentment confessions given by defendants in federal custody are admissible at trial, 3501 replaces the "unnecessary delay" standard with the voluntariness test in subsections (a) and (b) of the statute, in which the length and necessity of the presentment delay are factors in the analysis but not necessarily dispositive.
+The statute [**7] thus narrows the meaning of "unnecessary delay" by restricting it to delays that are part of making a defendant's statements "involuntary."
+In this vein, subsection (c) instructs courts that they may not find a confession involuntary "solely" because of the length of presentment delay where the confession is otherwise voluntary and where the delay is less than six hours (or longer than six hours but explained by transportation difficulties).
+Under our reading of the statute, however, it is a misnomer to refer to the six-hour period in 3501(c) as a "safe harbor," for although it reduces the likelihood that confessions given within six hours of arrest will be suppressed, it does not allow the police to act unreasonably in the pursuit of a confession.
+Delays designed to convey to the arrested person the message that his rights will not be honored until he confesses will affect the voluntariness of a confession.
+Police misconduct can render a confession involuntary, even if the defendant is presented to a magistrate within six hours of arrest.
+If, during a delay in presentment, police repeatedly interrogate a suspect and give the impression explicitly or implicitly that the promptness of presentment will depend on the suspect's cooperation, then that circumstance would weigh in favor of finding the confession involuntary.
+But, for example, if a delay in presentment is primarily spent providing an arrested person with necessary medical treatment, then that person is unlikely to suppose that he must confess to the crime before the police will honor his rights.
+The bottom line is this: if an arrested person is detained for a substantial amount of time, then the longer the delay continues, the more likely it becomes that the arrested person will feel improper pressure to confess.
+Cf. Bear Killer , 534 F.2d at 1257 ("[T]he simple fact of custody is coercive .
+.
+.
+; [i]t is a subtle form of pressure that plays against the will of the suspect.").
+Subsection (c) merely instructs trial courts that the inherently coercive effect of a lengthy delay in presentment is not sufficient, standing alone , to render a confession involuntary where the delay is either less than six hours or "reasonable considering the means of transportation and the distance to be traveled to the nearest available such magistrate judge or other officer."
+18 U.S.C. 3501 (c).
+But where there are reasons other than the length of the delay to find a confession involuntary, the fact that the delay was less than six hours (or longer because of transportation difficulties) will not prevent a court from suppressing the confession.
+D. Corley's Arguments and the Law in the Second, Ninth, and D.C.
+Circuits As explained above, our reading of the statute in Gereau begins with the language in subsection (a) that "a confession .
+.
+.
+shall be admissible in evidence if it is voluntarily given," and reads the remainder of the statute in the context of that language.
+It therefore follows that "shall not be inadmissible solely because of delay in bringing such person before a magistrate judge" in subsection (c) refers to the voluntariness [**8] standard in subsections (a) and (b).
+Corley disputes that reading, noting that three other Courts of Appeals those in the Second, Ninth, and D.C.
+Circuits understand that phrase in subsection (c) to refer to the McNabb-Mallory rule.
+[fn5] See Alvarez-Sanchez , 975 F.2d at 1402-03 ; United States v. Perez , 733 F.2d 1026 , 1031 (2d Cir.1984); United States v. Robinson , 439 F.2d 553 , 563-64 (D.C. Cir.1970); see also United States v. Alvarez-Sanchez , 511 U.S. 350 , 361 & n. *, 114 S.Ct. 1599 , 128 L.Ed.2d 319 (1994) (Ginsburg, J., concurring) (noting the split of authority).
+Instead of reading 3501 in the context of subsection (a), those Courts begin with the language of subsection (c), which gives three conditions for the admissibility of a confession, only one of which is voluntariness, another being unreasonable delay.
+From this, they draw the negative inference that the absence of any of those conditions is a sufficient reason for suppressing the confession.
+See Perez , 733 F.2d at 1031 .
+It therefore fellows, they reason, that confessions given within the extendable six-hour period in subsection (c) are inadmissible only if they are involuntary; but confessions outside that period are subject to the McNabb-Mallory rule and may be excluded if they are either (1) involuntary, or (2) voluntary but elicited after a period of "unnecessary delay" within the meaning of Rule 5(a), as it was applied under the McNabb-Mallory line of cases.
+Put differently, these Courts believe that " section 3501 legislatively over-rule[s] the McNabb-Mallory rule only to the extent of (1) unreasonable pre-arraignment, pre-confession delays of less than six hours and (2) reasonable delays in excess of six hours."
+Id. at 1035 .
+Courts adopting that reading support it with three principal arguments.
+First, to read the statute to hold that voluntariness is the sole criterion for admissibility of a confession, those courts argue, is to subject all confessions to the same test for admissibility, thus making subsection (c) redundant of subsection (a) and rendering the six-hour period superfluous.
+See Alvarez-Sanchez , 975 F.2d at 1400 ("The difficulty with construing 3501(a) literally .
+.
+.
+is that to do so would create a clear conflict with 3501(c) and would render the latter section meaningless.
+"); Perez , 733 F.2d at 1031 ("[A]ny reading of section 3501 that disputes unreasonable delay as an additional independent basis for suppression reads subsection (c) out of the statute.").
+Second, these courts assert, subsection (a), read literally i.e. , that confessions offered into evidence are subject to no constraints whatsoever other than voluntariness is inherently implausible.
+For example, no court to our knowledge has suggested that Congress meant to create a blanket exception to the Federal Rules of Evidence for voluntary confessions.
+Courts have therefore looked to the statute's purpose and legislative history to discern a reasonable limit for the scope of that provision.
+That legislative history suggests that subsection (a) was primarily meant to overrule Miranda , and that subsection (c) and only subsection (c) was meant to limit McNabb-Mallory.
+See Alvarez-Sanchez , 975 F.2d at 1402 ("[W]hile sections (a) and (c) are facially incompatible, they can be best understood by construing section (a) to address concerns [**9] regarding a confessor's free will and section (c) to address concerns regarding delay in arraignment.
+Such a construction is most consistent with the legislative history.
+.
+.
+.").
+Third, there is no necessary correlation between the Government's reasons for a presentment delay and the voluntariness of a confession.
+Alvarez-Sanchez , 975 F.2d at 1400 ("The reasons for the delay whether the delay was necessary or unnecessary have no bearing, of course, on the confessor's state of mind.
+"); Perez , 733 F.2d at 1031 ("[T]he government's excuses for the delay have no logical or legal relevance to the defendant's voluntariness.").
+Our dissenting colleague cogently argues that the Second, Ninth, and D.C.
+Circuit Courts have the better of the argument regarding the proper interpretation of 3501.
+Were we writing on a clean slate, we might agree.
+As explained above, however, our Court has already resolved these issues in Gereau.
+The primary basis on which Corley would have us distinguish Gereau is that it relied for its holding on Second and Ninth Circuit precedent, which the Courts of Appeals in those Circuits have since repudiated.
+[fn6] While that may be a reason to revisit Gereau en banc , it is not a legitimate reason for a panel of this Court to refuse to follow Gereau.
+Although this case raises difficult legal questions to which Courts of Appeals have given different answers, we are not bound by the decisions in our sister Circuits, and where no subsequent decisions of the Supreme Court or substantive amendments to the statute have undermined our holding in Gereau , we follow it.
+See Third Circuit I.O.P.
+9.1; Reich v. D.M.
+Sabia Co. , 90 F.3d 854 , 858 (3d Cir.1996).
+In this case, the District Court found that although the police officers questioned Corley before presenting him to a magistrate judge, and although part of the delay in presentment was for the purpose of getting Corley to confess, his confessions were voluntarily given.
+Corley does not seriously dispute that finding, and we discern no error in it.
+Following Gereau , we must therefore affirm Corley's conviction.
+[fn7] III.
+Sentence Corley argues that he is entitled to a remand for resentencing for two reasons: (1) he was sentenced before the Supreme Court decided Booker , and our decision in United States v. Davis , 407 F.3d 162 (3d Cir.2005) ( en banc ), requires resentencing, and (2) the District Court failed to resolve a disputed firearm objection, as Fed.R.Crim.P.
+32 (i)(3)(B) requires.
+We disagree with both contentions.
+A. The Validity of Corley's Sentence Under Booker and Davis In Blakely v. Washington , 542 U.S. 296 , 124 S.Ct. 2531 , 159 L.Ed.2d 403 (2004), the Supreme Court applied the Sixth Amendment principle it announced in Apprendi v. New Jersey , 530 U.S. 466 , 120 S.Ct. 2348 , 147 L.Ed.2d 435 (2000), to invalidate a sentence imposed under Washington state law.
+In so doing, it raised doubts about the constitutionality of the United States Sentencing Guidelines in light of their similarity to the Washington scheme.
+The Court resolved those doubts in United States v. Booker , 543 U.S. 220 , 125 S.Ct. 738 , 160 L.Ed.2d 621 (2005).
+It held that mandatory enhancement of a sentence under the Guidelines, based on facts found by a sentencing court alone, violates the Sixth Amendment.
+Id. at 244 , 125 S.Ct. 738 .
+The Court went on to hold that the remedy for this [**10] constitutional defect in the Guidelines is to render them advisory by excising from the Federal Sentencing Act those provisions that made the Guidelines mandatory.
+Id. at 245-46 , 125 S.Ct. 738 .
+Within months after the Supreme Court decided Booker , we explained in Davis that "[d]irect appeals of sentences imposed before Booker generally present two kinds of claims: first, defendants whose sentences were enhanced by judicial factfinding raise Sixth Amendment claims; second, defendants who contend the District Courts erroneously treated the Guidelines as mandatory rather than advisory."
+407 F.3d at 163-64 .
+In reviewing claims of error of the second type, [fn8] we presume that a defendant sentenced under the mandatory Guidelines suffered prejudice.
+We do so because we "cannot ascertain whether the District Court would have imposed a greater or lesser sentence under an advisory framework."
+Id. at 164-65 .
+By contrast, "where .
+.
+.
+a District Court clearly indicates that an alternative sentence would be identical to the sentence imposed under the Guidelines, any error that may attach to a defendant's sentence under Booker is harmless."
+United States v. Hill , 411 F.3d 425 , 426 (3d Cir.2005).
+It is true, as Corley points out, that where a district court imposed a sentence prior to Booker , and did not make sufficiently clear what sentence it would impose if the Guidelines were not binding, we have vacated the sentence and remanded for re-sentencing.
+Here, however, we are left with no doubt that the District Court considered the Guidelines advisory, and Davis therefore does not apply.
+Moreover, the Court here followed precisely the procedure we now require district courts to follow after Booker.
+See United States v. Gunter , 462 F.3d 237 , 247 (3d Cir.2006) (courts must: first, calculate the applicable Guidelines range, second, formally rule on any departure motions, and third, exercise their post Booker discretion, considering the factors in 18 U.S.C. 3553 (a), in setting a sentence).
+The District Court calculated the applicable Guidelines range and imposed a sentence that it considered appropriate in light of "all the conduct, prior history of this particular defendant, or any defendant that's in front of me, and I take all that into account when I fashion my sentence."
+Corley contends, however, that the District Court's explanation is lacking because it did not cite 18 U.S.C. 3553 (a) and did not go into detail in explaining its reasons for the sentence it imposed.
+As we explained in United States v. Cooper , however, we do not require district courts to make specific findings on all of the 3553(a) factors, so long as the record shows that the court took into account those factors properly raised by the parties at the time of sentencing.
+437 F.3d 324 , 329 (3d Cir.2006); see also United States v. Dragon , 471 F.3d 501 , 505-06 (3d Cir.2006); United States v. Jackson , 467 F.3d 834 , 842 (3d Cir.2006).
+The Supreme Court explained recently that when a district court imposes a sentence within the advisory Guidelines range, the requirement in 18 U.S.C. 3553 (c) that a sentencing judge give a statement of reasons should not be read "as insisting upon a full opinion in every case." Rita v. United States , U.S. , 127 S.Ct. 2456 , 2468 , 168 L.Ed.2d 203 (2007).
+Instead, "[t]he sentencing judge [**11] should set forth enough to satisfy the appellate court that he has considered the parties' arguments and has a reasoned basis for exercising his own legal decisionmaking authority."
+Id .
+In this case, we are satisfied that the record the District Court made at sentencing meets that standard and reflects that it gave appropriate consideration to Corley's arguments and to the information before it.
+For that reason, and for the reasons noted above, we reject Corley's argument that he is entitled to a remand under Davis.
+B. Whether the District Court Failed to Resolve a Disputed Firearm Objection Federal Rule of Criminal Procedure 32 (i)(3)(B) provides that the sentencing court "must for any disputed portion of the presentence report or other controverted matter rule on the dispute or determine that a ruling is unnecessary either because the matter will not affect sentencing, or because the court will not consider the matter in sentencing."
+The purpose of the Rule is to "ensure that the defendant's sentence is based on accurate and reliable information and that subsequent recipients of the report are aware of whatever resolutions occurred at sentencing."
+United States v. Rosa , 891 F.2d 1063 , 1070 (3d Cir.1989) (quoting Kramer v. United States , 798 F.2d 192 , 194 (7th Cir.1986)); see also United States v. Furst , 918 F.2d 400 , 406 (3d Cir.1990).
+We enforce the Rule strictly, and "failure to comply with it is grounds for vacating the sentence."
+United States v. Electrodyne Sys. Corp. , 147 F.3d 250 , 255 (3d Cir.1998); see, e.g., United States v. Leahy , 445 F.3d 634 , 663-64 (3d Cir.2006) (remanding where the court of appeals could not determine what method the district court used to calculate the amount of loss in a bank fraud case); Electrodyne , 147 F.3d at 255 (remanding where the district court's basis for rejecting the defendant's arguments was ambiguous); Rosa , 891 F.2d at 1069-70 (remanding where a defendant disputed certain facts in the presentence report's narrative and the District Court did not expressly rule on them).
+In this case, Corley contends that the District Court failed to rule expressly on whether he merited a three-level or a five-level enhancement under U.S.S.G. 2B3.1 (b)(2).
+That provision of the Guidelines calls for a five-level enhancement to the defendant's base offense level "if a firearm was brandished or otherwise possessed," but for a three-level enhancement "if a dangerous weapon was brandished or possessed."
+Id .
+2B3.1 (b)(2)(C), (E) (emphases added).
+The transcript of the sentencing hearing shows unambiguously, however, that the District Court found that Corley possessed a firearm rather than a dangerous weapon, and that it based that finding on Corley's statement and on the testimony of employees of the credit union that was robbed.
+Both Corley and the Government indicated that they had no objection to the narrative portion of the presentence report.
+J.A.
+461.
+As for the calculation of Corley's advisory Guidelines range, the parties disputed two matters: (1) whether to enhance Corley's offense level by two levels under 3C1.2 for having endangered his daughter while resisting arrest, and (2) whether to enhance the offense level by five or three levels under 2B3.1 (b)(2).
+The Government's position at sentencing [**12] was that Corley's offense level should be 30, reflecting a two-level enhancement under 3C1.2 , and a five-level enhancement under 2B3.1 (b)(2).
+Corley responded that his offense level should be 26, reflecting no enhancement under 3C1.2 (as his conduct in endangering his daughter was taken into account at his sentencing in a separate ease for assaulting a federal officer), and a three-level enhancement under 2B3.1 (b)(2), because the jury acquitted him of the charge of carrying a firearm in furtherance of a drug trafficking crime, and there was scant evidence that he possessed a firearm instead of merely a dangerous weapon.
+[fn9] The Government responded: There's 3 reasons why.
+The conspiracy liability theory, the testimony of the employees of the credit union, and the defendant's own statement.
+J.A.
+475.
+The District Court resolved both disputes by stating: If I were to apply the guidelines I will tell you right now[,] based on the defendant's statements or written statements, the testimony in court, I would have I would find that he's a category 6 and a level 28.
+I would not give him the 2 extra points on the fleeing because I think that was taken into account by Judge Bartle on his prior sentence.
+So as far as I'm concerned if I were to use the guidelines, he'd be a category 6, level 28, 140 to 175 [months].
+J.A.
+480-81 (emphasis added).
+In the second sentence of the quoted passage, the District Court unmistakably resolved the issue of the 3C1.2 enhancement in Corley's favor.
+The remainder of the quoted passage, read in the context of the discussion preceding it, reflects that the Court decided the 2B3.1 (b)(2) enhancement against Corley, finding that he possessed a firearm instead of a dangerous weapon.
+We therefore hold that the District Court did not fail to comply with Fed.R.Crim.P.
+32 (i)(3)(B).
+IV.
+Restitution The final issue we address is whether the District Court impermissibly delegated to the Bureau of Prisons its duty under 206 of the MVRA, 18 U.S.C. 3664 (f), to set the manner and schedule of restitution payments during Corley's imprisonment.
+Though what the District Court did here makes sense practically, it runs afoul of prior precedent of our Court and the language of the MVRA.
+We therefore order a limited remand so that the District Court can set a restitution schedule.
+In its sentencing order, the District Court ordered Corley to pay $47,532.36 (the amount of money taken in the credit union robbery) in restitution, a fine of $500, and a special assessment of $200.
+[fn10] The presentence report which the District Court adopted in large part [fn11] indicated that Corley was indigent at the time of sentencing [fn12] and concluded that he "does not have the financial wherewithal to pay a fine within the sentencing guideline range, however[,] a nominal fine could be paid on an installment basis while in custody and while under supervision in the community."
+[fn13] PSR at 13, 56.
+The District Court calculated the fine under the Guidelines to be between $12,500 and $125,000, but imposed a fine of $500 and checked a box on the Statement of Reasons (Form AO 245B) to indicate that the fine was "waived or below the guideline range because of inability to pay."
+Regarding [**13] the schedule of payments for restitution and the fine, however, the Court ordered "[p]ayment to begin immediately," subject to the following additional instructions: The defendant shall make restitution and fine payments from any wages he may earn in prison in accordance with the Bureau of Prisons Inmate Financial Responsibility Program.
+The restitution and fine shall be due immediately.
+Any balance remaining upon release from custody shall be paid at a rate of no less than $100.00 per month.
+J.A.
+15.
+Corley argues that the first sentence quoted above constitutes an impermissible delegation of authority to the Bureau of Prisons.
+18 U.S.C. 3556 , 3663A (a)(1), in the MVRA require district courts to order restitution for certain crimes, including those such as Corley's "in which an identifiable victim or victims has suffered a physical injury or pecuniary loss."
+Id. 3663A(c)(1) (B).
+The court may not consider the defendant's economic circumstances when it calculates the amount of restitution, id. 3664(f)(1) (A), but after setting the amount, the court "shall, pursuant to section 3572 , [fn14] specify in the restitution order the manner in which, and the schedule according to which, the restitution is to be paid" in consideration of the defendant's current and anticipated financial situation.
+Id. 3664(f)(2) (footnote added).
+In our decisions interpreting the MVRA, we have held that the plain language of section 3664(f) stating that "the court shall" order restitution and specify the manner and schedule of payments means that ordering restitution is a judicial function that cannot be delegated, in whole or in part.
+United States v. Coates , 178 F.3d 681 , 684-85 (3d Cir.1999); see also Lessner , No. 06-1030, 498 F.3d at 201-02 , [ 498 F.3D 185 ], 2007 WL 2257630, at **13-14 (citing Coates ).
+In Coates , we held that it was plain error for the District Court to direct the defendant to pay a fixed sum without indicating a payment schedule.
+178 F.3d at 684 .
+We explicitly rejected the Government's alternative argument that "through its silence, the Court delegated responsibility to establish a payment schedule to the probation office."
+Id .
+We held that any such delegation was impermissible because "the fixing of restitution payments is a judicial act that may not be delegated," and that "the plain language" of 3664(f) "contradicts, and thus overrides," the federal regulations permitting the Bureau of Prisons to make payment schedules for restitution through the IFRP, 28 C.F.R. 545.10-11 .
+Id. at 685 .
+Other courts of appeals have found impermissible delegations of authority under similar circumstances.
+See, e.g., United States v. Gunning , 401 F.3d 1145 , 1150 (9th Cir.2005) (finding impermissible delegation where the restitution order failed to provide a payment schedule during the period of the defendant's incarceration); United States v. Overholt , 307 F.3d 1231 , 1255 (10th Cir.2002) (finding impermissible delegation where the restitution order directed that "[r]estitution shall be paid in full immediately[, and a]ny amount not paid immediately shall be paid while in custody through the Bureau of Prisons' Inmate Financial Responsibility Program.
+"); United States v. Pandiello , 184 F.3d 682 , 688 (7th Cir.1999) (same, where the restitution order directed payment " [**14] in equal monthly installments during the period of incarceration through the Inmate Financial Responsibility Program," without fixing the amount of the installments).
+We are compelled by our holding in Coates to find that there was an impermissible delegation here.
+Although the District Court discharged its responsibility to fix the amount of restitution and the schedule of payments once Corley is released, by its terms the order delegates to the Bureau of Prisons the task of determining how Corley will pay his obligations while he is in prison.
+As such, we must order a remand.
+Against that conclusion, the Government argues that the District Court's order was proper because it ordered that "[t]he restitution and fines shall be due immediately."
+Because the MVRA permits sentencing courts to order immediate payment, rather than payment on an installment schedule, the Government argues, the District Court may order immediate payment with the understanding that the defendant will make payments to the extent he can in good faith.
+The Bureau of Prisons may permissibly ensure through the Responsibility Program that the defendant makes satisfactory progress toward his obligations while he is in prison.
+We disagree.
+In support of its argument, the Government relies on three of our recent non-precedential opinions.
+[fn15] By the very fact these opinions are not precedential, they do not bind our Court.
+The principal case that supplies the reasoning for those opinions is McGhee v. Clark , 166 F.3d 884 (7th Cir.1999).
+In McGhee , however, the defendant's conviction came before the effective date of the MVRA, and he was therefore sentenced under the MVRA's predecessor statute, the Victim and Witness Protection Act of 1982 (VWPA), Pub.L.
+No. 97-291 , 96 Stat. 1248 .
+Under the VWPA, the sentencing court was not required to set the schedule of restitution payments.
+See United States v. Ahmad , 2 F.3d 245 , 249 (7th Cir.1993) (Easterbrook, J.) ("Yet 3663 does not require courts to establish schedules of any kind.
+A judge `may', but need not, establish a schedule.").
+Although the court could not explicitly delegate the scheduling of payments to the probation office, United States v. Graham , 72 F.3d 352 , 356-57 (3d Cir.1995), it could specify the amount due without elaboration.
+As Judge Easterbrook explained: A judgment in civil litigation specifies the amount due without elaboration.
+If immediate payment proves impossible, accommodation will occur in the course of collection.
+A judgment creditor will garnish the judgment debtor's wages and collect incrementally, even though the court has not said a word about installments.
+Just so with criminal restitution.
+If the sentence specifies the amount of restitution, without elaboration, and makes payment a condition of supervised release, the probation officer will assess the defendant's progress toward satisfaction of his debt, and if the defendant is not paying what he can the probation officer will ask the judge to revoke or alter the terms of release.
+Then the judge may make the order more specific or, if the defendant has not paid back what he could in good faith, may send [**15] him back to prison.
+Everything works nicely without any effort to establish installments on the date of sentencing and without delegating a judicial function to the probation officer.
+Ahmad , 2 F.3d at 249 .
+Under the MVRA, however, that option is no longer available.
+See United States v. Davis , 306 F.3d 398 , 425-26 (6th Cir.2002) (discussing the differences between the VWPA and the MVRA); United States v. McGlothlin , 249 F.3d 783 , 785 (8th Cir.2001) (same); Coates , 178 F.3d at 684 (rejecting the argument that a district court may satisfy its obligation under 18 U.S.C. 3664 (f)(2) by specifying the amount due without elaboration).
+Section 3664(f)(2) requires the sentencing court to "specify in the restitution order the manner in which, and the schedule according to which, the restitution is to be paid," in consideration of the defendant's economic circumstances.
+Although the court may order immediate payment in full of the entire amount of restitution, id. 3572(d)(1) , 3664(f)(3)(A), it may only do so "in consideration of the defendant's finances.
+Id. 3664(f)(2) ; see also Coates , 178 F.3d at 684 ("Contrary to the government's suggestion, however, this provision [ 3572(d)] in no way eliminates the district court's obligation under section 3664 `Procedure for issuance and enforcement of order of restitution' to consider the defendant's financial situation and schedule restitution payments accordingly.").
+In this case, the presentence report which the District Court adopted reflected that Corley was indigent and that any payments he could make toward his restitution obligation would necessarily come almost entirely from any wages he might make in prison.
+The District Court's order reducing the amount of Corley's fine, directing that he "make restitution and fine payments from any wages he may earn in prison in accordance with the Bureau of Prisons Inmate Financial Responsibility Program," and ordering him to pay in installments upon his release from prison, reflects that understanding.
+Because the District Court apparently understood that Corley could not make immediate payment in full, it was required under 3664(f)(2) to set a different schedule of payments.
+As the Eleventh Circuit Court has explained, orders directing "immediate" payment under such circumstances are indistinguishable in principle from outright delegations of authority to the Bureau of Prisons: [I]f the statute does not permit delegation to the probation office, we cannot endorse a restitution order requiring "immediate" payment with an informal understanding that the probation office shall set a payment schedule;.
+Obviously, the availability of such an option would in practice defeat the statutory requirement that the court establish any installment schedule.
+United States v. Prouty , 303 F.3d 1249 , 1255 (11th Cir.2002).
+That appears to be what happened here.
+We understand that our result may cause practical difficulties for district courts in the future.
+In this case, the District Court had a limited amount of information before it at the time of sentencing, and could not predict with any certainty whether Corley would choose to participate in the Responsibility Program, how much he [**16] would earn if he participated, or when he would be paid.
+It is therefore difficult to fault the Court for linking Corley's payment schedule to the contingency of his earning wages in prison.
+[fn16] The District Court is not completely without assistance at the time of sentencing, however.
+To aid it in setting an appropriate payment schedule, 3664(a) and Fed.R.Crim.P.
+32 (c)(1)(B), (d)(2)(B) contemplate having the probation office investigate various circumstances pertinent to restitution, including the defendant's economic situation, and to report its findings in the presentence report.
+Section 3664(d)(3) requires defendants to prepare and file with the probation officer an affidavit detailing their financial resources.
+Should the defendant's circumstances change after sentencing, 3664(k) provides that the defendant must and the Government may so notify the court, and it may "adjust the payment schedule, or require immediate payment in full, as the interests of justice require."
+As Judge Hodges noted in Prouty , those statutory provisions do not solve the problem completely, and finding an impermissible delegation under the circumstances of this case may seem illogical or at least inefficient: [T]o my mind, that prohibition is entirely illogical when one considers that in many cases where the defendant has no presently discernable assets and a lengthy term of commitment is imposed there will be little or no factual basis upon which to fashion a reasoned payment schedule of any kind.
+To delegate oversight of the payment protocol to the probation officer, amenable to adjustment over time and subject always to judicial approval, would make perfectly good sense.
+I acknowledge, however, that the statutory scheme also supplies one apparent solution to this problem by (a) providing in 18 U.S.C. 3664 (f)(3)(B) that the court may direct "nominal periodic payments;" and by (b) providing in 18 U.S.C. 3664 (k) that the court may "adjust the payment schedule, or require immediate payment in full, as the interests of justice require" upon learning .
+.
+.
+that there has been "a material change in the defendant's economic circumstances."
+Thus, in a case like this one, the sentencing court could elect to impose nominal payments during the period of incarceration and thereafter until such time as the court is notified .
+.
+.
+that there has been a change in the defendant's ability to pay.
+303 F.3d at 1256 (Hodges, J., concurring); see also Overholt , 307 F.3d at 1256 (suggesting that the practical difficulties with the prohibition against delegation are ameliorated somewhat by the provisions of 3664 requiring the defendant and the probation office to furnish the court with information regarding the defendant's ability to pay, and by 3664(k), which allows the court to adjust the payment schedule).
+Despite these difficulties, however, the result we reach today is compelled by our holding in Coates and by the language of the MVRA.
+V. Conclusion Following our decision in Gereau , we hold that the admissibility of Corley's confessions depends on whether they were voluntary within the meaning of 3501(a)-(b).
+Finding no error in the District Court' [**17] s conclusion that the confessions were voluntary, we uphold its decision to allow them into evidence at Corley's trial, and we affirm Corley's convictions.
+We also hold that Corley is not entitled to a remand for resentencing under our decision in Davis because the District Court correctly treated the Guidelines as advisory and provided a sufficient explanation for the sentence it imposed.
+In addition, Corley is not entitled to a remand under Fed.R.Crim.P.
+32 (i)(3)(B) because the District Court did not fail to resolve his objection to the proposed enhancement under U.S.S.G. 2B3.1 (b)(2) in calculating his sentencing range.
+Finally, the District Court impermissibly delegated its duty under the MVRA to schedule restitution payments to the Bureau of Prisons (and, in doing so, did not consider Corley's economic circumstances).
+We therefore remand for the Court to set that schedule under 18 U.S.C. 3664 (f).
+The Eighth Circuit Court has approved of a restitution order under similar circumstances, where the district court ordered that, during the defendant's incarceration, restitution would be paid "on an installment basis in the way the Bureau of Prisons handles this through its Inmate Financial Responsibility Program at the rate of no less than 50% of the funds available to defendant during incarceration."
+United States v. Vanhorn , 344 F.3d 729 , 730 (8th Cir.2003).
+Judge Bye dissented, however, noting that "[i]t is entirely up to the Bureau of Prisons to choose an amount between 50% and 100% of the funds available to Vanhorn," and opining that "[a] floor [of 50%] is not a schedule, and it cedes too much authority to the Bureau of Prisons."
+Id. at 732 (Bye, J., dissenting).
+Judge Bye's view is consistent with our holding in Coates.

@@ -1,0 +1,67 @@
+ BRORBY , Circuit Judge.
+Curtis Reed Johnson, Debtor, appeals from the reversal by the United States District Court for the District of Kansas of the Bankruptcy Court's confirmation of Johnson's Chapter 13 Plan.
+The facts are thoroughly presented in the district court's opinion, In re Johnson , 96 B.R. 326 (Bankr.D.Kan.1989).
+Basically, the Johnsons defaulted on two notes with Home State Bank (the Bank), which were secured by mortgages on two quarter sections of land farmed by the Johnsons.
+The Bank instituted foreclosure proceedings, and the Johnsons filed a joint Chapter 7 petition in bankruptcy court.
+The Johnsons were subsequently discharged of all dischargeable debts, and the state court then granted summary judgment in the Bank's favor, holding the Bank was entitled to foreclose on its mortgage and have the property sold.
+While foreclosure proceedings were pending, and one month before the property was scheduled to be sold by the sheriff, Curtis Johnson filed his voluntary Chapter 13 petition in bankruptcy.
+His Chapter 13 plan listed the Bank as a partially secured creditor, and the Bank filed an objection to confirmation of the plan.
+The bankruptcy court subsequently confirmed an amended plan submitted by Johnson, which proposed five annual payments to the Bank and a final balloon payment at the conclusion of the five-year plan.
+The district court reversed, concluding that Johnson's Chapter 13 plan could not be confirmed because it improperly scheduled a debt previously discharged under Chapter 7.
+96 B.R. at 330 .
+Having so concluded, the court did not reach other issues raised by the Bank, i.e., that the Debtor lacked good faith and that the plan is infeasible.
+The Bank reasserts these issues in its cross-appeal to this court.
+The fundamental issue presented by this case is whether a debtor who has been discharged from in personam liability on a secured debt may then reschedule that debt in a Chapter 13 proceeding under the Bankruptcy Code.
+This is an issue of law which we review de novo.
+As the district court found, the majority of courts that have considered this issue have answered it in the negative.
+96 B.R. at 329 .
+See, e.g. , In re Reyes , 59 B.R. 301, 302 (Bankr.S.D.Cal.1986); In re McKinstry , 56 B.R. 191, 193 (Bankr.D.Vt.1986); In re Binford , 53 B.R. 307, 309 (Bankr.W.D.Ky.1985); In re Brown , 52 B.R. 6, 7 (Bankr.S.D.Ohio 1985).
+More recently, several courts have reached the opposite result, concluding that a debtor may, through a Chapter 13 plan, cure a default on a mortgage debt previously discharged under Chapter 7.
+See, e.g. , In re Metz , 820 F.2d 1495, 1498 (9th Cir.1987); In re Ligon , 97 B.R. 398, 403 (Bankr.N.D.Ill.1989); In re Hagberg , 92 B.R. 809, 814-16 (Bankr.W.D.Wis.1988); In re Klapp , 80 B.R. 540, 542 (Bankr.W.D.Okla.1987); In re Lagasse , 66 B.R. 41, 43 (Bankr.D.Conn.1986); In re Lewis , 63 B.R. 90, 90 (Bankr.E.D.Pa.1986).
+Metz , the only circuit court to have decided this issue, holds that "a chapter 13 petitioner may include a mortgage claim within a plan even though the underlying obligation of the mortgage was discharged in the debtors' prior bankruptcy case." 820 F.2d at 1498 .
+We disagree that the Metz approach is the preferred method of dealing with so-called "Chapter 20" bankruptcy filings.
+The Metz panel provides little explanation of its decision.
+Although it cites the rationales of the Lagasse and Lewis courts, it does not analyze or expressly adopt either.
+The panel merely concludes: "We find no statutory prohibition to such a practice [i.e., "Chapter 20 filings"] except the good faith filing requirement of [ 11 U.S.C. 1325(a)(1) ]."
+820 F.2d at 1498 .
+Lagasse , which Metz cites, holds that Chapter 13 scheduling of a debt discharged under Chapter 7 is permissible, on the ground that when a debtor receives a Chapter 7 discharge of a secured debt, the debt relationship between the debtor and the secured party is converted to a nonrecourse obligation.
+66 B.R. at 43 .
+Lewis reasons that, "under Chapter 13, a creditor's 'claim' includes not only a right to payment but also the right to an equitable remedy for breach of performance.
+Therefore, 'a claim may include a creditor's encumbrance against property of the estate although there is no in personam liability against the debtor.'"
+Metz , 820 F.2d at 1498 (quoting Lewis , 63 B.R. at 91-92 ).
+Based on these opinions, the Metz panel concludes that the only test a Chapter 13 plan must meet is whether it was submitted in "good faith," which is judged by the "totality of the circumstances."
+820 F.2d at 1498 .
+We reject this "gestalt approach to the good faith inquiry," In re Hagberg , 92 B.R. at 815 , and hold that the majority approach to "Chapter 20" filings is the better one.
+While it is true that the Bankruptcy Code does not expressly prohibit what the debtor sought to do in this case, we do not believe Congress intended such a result.
+As the district court held, 1 where a mortgage obligation has been discharged under Chapter 7, the mortgage no longer holds a claim against the debtor, but only a lien against the debtor's property.
+96 B.R. at 329-30 .
+That lien is "not accompanied by any obligation, note, debt, or right to payment."
+Accordingly, Home State Bank is not a "creditor" of Johnson and holds no claim that can be scheduled in Johnson's Chapter 13 plan.
+We acknowledge the Code's rule of construction, which states that "'claim against the debtor' includes claim against property of the debtor," 11 U.S.C. 102(2) , but reject the argument that the Bank's lien against the Johnson property, which survived Johnson's Chapter 7 proceeding, is a "claim against the debtor" that can be scheduled in a Chapter 13 plan.
+In reaching this conclusion we rely in part on the explanation of the Senate Committee on the Judiciary that 102(2) "is intended to cover nonrecourse loan agreements where the creditor's only rights are against property of the debtor, and not against the debtor personally.
+Thus, such an agreement would give rise to a claim that would be treated as a claim against the debtor personally " S.Rep.
+No. 989, 95th Cong., 2d Sess.
+28 (1978), U.S.Code Cong. & Admin.News 1978, pp.
+5787, 5814.
+Here there clearly was no "agreement" between Johnson and Home State Bank for a nonrecourse mortgage loan.
+For this reason, we find the Lagasse and Ligon courts' analogy to nonrecourse loans inapt.
+On its face, the Ligon court's treatment of the nonrecourse loan analogy is thorough, see 97 B.R. at 402-03 , but it overlooks the significance of the legislative history of 102(2) .
+Even though the court recognized there is no agreement for a nonrecourse loan in these cases, id. at 402 , it nevertheless construes 102(2) as providing that a mortgagee's lien is a debt for Bankruptcy Code purposes.
+Ligon faults courts adhering to the majority view for "ignor[ing] or gloss[ing] over the existence of 11 U.S.C. 102(2) ."
+Id. at 403 .
+This criticism is misplaced, however, because the Ligon court's interpretation ignores the statute's illuminating legislative history.
+Clearly, the Bank and Mr. Johnson did not bargain for a nonrecourse mortgage loan.
+Allowing Mr. Johnson to reschedule its debt to the Bank under Chapter 13, after failing to reaffirm the discharged debt in his Chapter 7 action, would allow Mr. Johnson to impose on the Bank a unilateral reaffirmation of the mortgage.
+Because the Bank could have refused to agree to a reaffirmation of the mortgage in Johnson's Chapter 7 proceeding, see 11 U.S.C. 524(c) , it cannot effectively be forced to agree to a reaffirmation now by confirming scheduling in Johnson's Chapter 13 plan.
+See In re Russo , 94 B.R. 127, 129 (Bankr.N.D.Ill.1988); In re McKinstry , 56 B.R. at 193 .
+Similarly, the Bank does not have a "claim" against Johnson as defined in 11 U.S.C. 101(4) .
+That statute defines claim as a: right to payment if such breach gives rise to a right to payment (Emphasis added.)
+Clearly, the Bank has no "right to payment" from Johnson under 101(4)(A) , because Johnson's personal liability on the mortgage was discharged under Chapter 7.
+Moreover, the Bank has no right to an equitable remedy for breach of performance which gives rise to a right to payment under 101(4)(B) .
+Although the Bank has a right to an equitable remedy in the form of a state court foreclosure proceeding because Johnson breached performance on his promissory note, that breach does not give rise to a "right to payment."
+The Bank no longer has a right to receive payment from Johnson due to his breach because Johnson obtained a discharge from personal liability under Chapter 7.
+Thus, the Bank has no right to payment from Johnson , either directly or indirectly through a mortgage foreclosure action in state court.
+Accordingly, the Bank has no "claim" as defined in either paragraph (A) or paragraph (B) of 101(4) .
+Because we hold that a debtor's Chapter 13 plan cannot be confirmed where it improperly schedules a debt previously discharged under Chapter 7, we do not reach the good-faith and feasibility issues raised by the Bank.
+2 We affirm the district court's ruling reversing Johnson's Chapter 13 plan and remand to the bankruptcy court for further proceedings as necessary.
+AFFIRMED.

@@ -1,0 +1,96 @@
+ PATRICK E. HIGGINBOTHAM, Circuit Judge: This case turns on the proper procedural treatment of a forum-selection clause.
+In April 2009, the United States Corps of Engineers contracted with Atlantic Marine Construction ("Atlantic") for construction of a child development center at Fort Hood, located in the Western District of Texas.
+In connection with that contract, Atlantic entered into a Subcontract Agreement with J-Crew Management, Inc. ("J-Crew") for provision of construction labor and materials.
+This Subcontract Agreement included a forum-selection clause, providing that disputes "shall be litigated in the Circuit Court for the City of Norfolk, Virginia, or the United States District Court for the Eastern District of Virginia, Norfolk Division."
+It contained no choice of law provision.
+Ignoring the forum-selection clause, J-Crew filed suit against Atlantic in the Austin Division of the Western District of Texas, [fn1] alleging that Atlantic failed to pay J-Crew for work performed under the Subcontract Agreement.
+Atlantic moved to dismiss J-Crew's suit under Federal Rule of Civil Procedure 12 (b)(3) and 28 U.S.C. 1406 , arguing that the forum-selection clause obligated J-Crew to bring suit in Virginia.
+Alternatively, Atlantic moved to transfer the case to the Eastern District of Virginia under 28 U.S.C. 1404 (a).
+The district court denied the motion to dismiss or transfer the case.
+It first concluded that when a forum-selection clause designates a specific federal forum or allows the parties to select the federal courts of a different forum, section 1404(a) , not Rule 12(b)(3) and 1406 , is the proper procedural mechanism for its enforcement.
+Applying 1404(a) , the district court denied Atlantic's motion to transfer, finding that Atlantic had not met its burden of showing why the interest of justice or the convenience of the parties and their witnesses weighed in favor of transferring the case to Virginia.
+Atlantic petitions this Court for a writ of mandamus directing the district court to dismiss the case or transfer it to the United States District Court for the Eastern District of Virginia.
+I. Three requirements must be met before a writ of mandamus may issue.
+First, the petitioner must have no other adequate means of relief.
+[fn2] Second, the petitioner's right to issuance of the writ must be "clear and indisputable."
+[fn3] Third, "the issuing court, in the exercise of its discretion, must be satisfied that the writ is appropriate under the circumstances."
+[fn4] With respect to the second requirement — that the petitioner's right to issuance of the writ must be "clear and indisputable" — this Court has made clear that "we are not to issue a writ to correct a mere abuse of discretion, even though such might be reversible on a normal appeal."
+[fn5] Instead, [**2] we will only grant mandamus relief when errors "produce a patently erroneous result" and "clearly exceed[] the bounds of judicial discretion."
+[fn6] Atlantic urges that the district court clearly abused its discretion (1) by considering enforcement of the forum-selection clause under 1404(a) , instead of under Rule 12(b)(3) and 1406 , and (2) by committing errors when conducting its analysis under 1404(a) .
+Because we find the district court did not clearly abuse its discretion in either respect, we deny Atlantic's petition.
+II.
+Atlantic first argues that the district court clearly abused its discretion by using 1404(a) , instead of Rule 12(b)(3) and 1406 , to enforce the contractual forum-selection clause.
+We begin with a brief explanation of the relevant statutory framework.
+Section 1391 governs whether venue is proper in a given federal district.
+[fn7] Rule 12(b)(3) and 1406(a) provide for dismissal or transfer of an action that has been brought in an improper venue.
+[fn8] By contrast, when the action has been brought in a proper venue, section 1404 provides for transfer of the action within the federal system to another federal venue where the action could have been brought.
+[fn9] Thus, the determination of whether 1406 or 1404(a) applies turns on whether venue is proper in the court in which the suit was originally filed.
+If venue is improper in that court, then 1406 or Rule 12(b)(3) applies.
+If venue is proper in that court, then 1404(a) applies.
+In turn, the choice between Rule 12(b)(3) and 1406 on the one hand and 1404 on the other depends on whether private parties can, through a forum-selection clause, render venue improper in a court in which venue is otherwise proper under 1391 .
+[fn10] Federal circuit courts are divided on the issue.
+[fn11] The district court below held that when a forum-selection clause designates a specific federal forum or allows the parties to select the federal courts of a different forum, a motion to transfer under 1404(a) is the proper procedural mechanism for enforcing the clause.
+In so doing, the district court followed the approach taken by a majority of district courts in this Circuit [fn12] and a minority of the federal appellate courts.
+[fn13] We agree with that approach.
+In reaching the conclusion that enforcement of the forum-selection clause under 1404(a) was proper, we find the Supreme Court's opinion in Stewart Organization, Inc. v. Ricoh Corp. instructive.
+[fn14] In that case, the plaintiff filed suit in the Northern District of Alabama and the defendant moved to dismiss the case or transfer venue to the Southern District of New York based on a contractual forum-selection clause.
+The Supreme Court held that when an action is filed in federal court under diversity jurisdiction, federal law, specifically 1404(a) , not state law, governs a motion to transfer to another federal court pursuant to a forum-selection clause.
+In doing so, the Stewart Court "implicitly held that a forum selection clause does not render the venue of an otherwise properly venued claim improper" because " Section 1404(a) is the proper procedural tool for transferring a case only when venue is proper [**3] in the chosen district; if venue is improper, Section 1406(a) is used to transfer venue."
+[fn15] The Stewart Court explained that a forum-selection clause should receive "the consideration for which Congress provided in 1404(a) ."
+[fn16] Thus, Stewart "strongly implies that Congress' determination of where venue lies cannot be trumped by private contract and that, therefore, a forum selection clause cannot render venue improper in a district if venue is proper in that district under federal law."
+[fn17] This result makes sense "because private parties should not have the power to transcend federal venue statutes that have been duly enacted by Congress and render venue improper in a district where it otherwise would be proper under congressional legislation."
+[fn18] That Atlantic Marine claims to have exactly this power is understandable.
+Dismissal under Rule 12(b)(3) or transfer under 1406 would deny district courts both a role in making the transfer and its capture of Texas law.
+While Atlantic Marine bargained for a choice of forum, it failed to obtain a choice of law provision.
+Although Atlantic urges otherwise, our approach is in accord with Fifth Circuit precedent holding that dismissal under Rule 12(b)(3) is the proper approach when a forum-selection clause designates an arbitral, foreign, or state court forum.
+[fn19] When a forum-selection clause designate an arbitral, foreign, or state court forum, a district court does not have the option of transferring the case to the designated forum because 1404(a) and 1406 only allow for transfer within the federal system.
+Because dismissal is the only available option for the district court in those cases, dismissal is the proper remedy.
+[fn20] By contrast, this Court has implied that dismissal is inappropriate when transfer pursuant to 1404(a) is available, as is the case when a forum-selection clause designates a federal forum.
+[fn21] Nor is our approach inconsistent with this Court's decision in Jackson v. West Telemarketing Corp.
+Outbound [fn22] Jackson does not necessarily rest on a finding that a forum-selection clause renders venue improper in any venue other than that designated — a holding we would not quickly attribute to the panel as it cannot be squared with Stewart.
+Faced with an opaque record, the panel was unable to find footing for concluding more than that venue was improper in the California district court; that conclusion came from the inference that because transfer was under 1406 and no 1404 analysis was conducted, venue must have been improper.
+Why it was improper was of lesser concern and the panel did not say.
+Because the vitality of venue in California was muddled, we cannot exclude the possibility that venue was improper under 1391 in the district where originally filed.
+Reading Jackson in conformity with Stewart we cannot conclude that Jackson determines the outcome in this case. In short, Stewart did not hold that 1404 is always the proper approach when the parties have entered into a contractual forum-selection clause.
+The choice between 1404 and 1406 depends on whether venue was statutorily [**4] proper under 1391 in the forum where the action was initially filed.
+A forum-selection clause is properly enforced via 1404(a) as long as venue is statutorily proper in the district where suit was originally filed and as long as the forum-selection clause elects an alternative federal forum.
+When the forum-selection clause designates an arbitral, foreign, or state court forum, the federal district court is without power to transfer and thus must dismiss the case as long as it determines the forum-selection clause is enforceable.
+III.
+Atlantic next argues that even if the district court correctly chose 1404(a) as the proper procedural mechanism for enforcing the forum-selection clause, it made several errors in conducting its analysis under 1404(a) that show a clear abuse of discretion.
+Specifically, Atlantic alleges that the district court clearly erred (1) by placing the burden of proof under 1404(a) on Atlantic, the party seeking to enforce the forum-selection clause, to show why transfer to the designated forum should be granted; (2) by considering inconvenience that was foreseeable at the time the parties entered into the Subcontract Agreement; (3) by considering non-existent difficulties in obtaining depositions from non-party witnesses located in Texas; and (4) by not considering the public interests served by enforcement of the forum-selection clause.
+After reviewing the record and case law with respect to each of these alleged errors, we cannot find that the district court clearly abused its discretion.
+A. First, Atlantic contends that although the movant seeking to transfer under 1404(a) generally bears the burden of proving the propriety of transfer, when the parties have entered into a contractual forum-selection clause the party seeking to avoid the contractually-chosen forum bears the burden of proving why the contractual choice should not be honored.
+Given the fact that this Court has never confronted that issue, we cannot conclude that the district court clearly abused its discretion by placing the burden on the movant.
+Moreover, no part of the Supreme Court's decision in Stewart necessarily requires the burden to be placed on the non-moving party.
+The Supreme Court merely insisted that the forum-selection clause be "a significant factor that figures centrally in the district court's calculus."
+[fn23] Placing the burden on the moving party still allows the court to give the forum-selection clause "the consideration for which Congress has provided in 1404 " because the district court will consider the forum-selection clause in evaluating both the private and public interest factors.
+[fn24] Although transfer under 1404(a) involves consideration of "the convenience of parties and witnesses" and "the interest of justice," that does not mean that in the absence of burden shifting the 1404(a) approach will disfavor forum-selection clauses or allow litigants to easily circumvent their contractually-chosen forum.
+Instead, by incorporating the forum-selection clause into the private and public [**5] factor analysis, it will be difficult for a party to avoid the contractually-chosen forum.
+In light of the Supreme Court's language in Stewart and the realities of the 1404(a) analysis, we are not persuaded that the district court clearly misallocated the burden under 1404(a) .
+B. Second, Atlantic argues that the district court gave undue consideration to the foreseeable inconvenience J-Crew would face if the case were transferred to the Eastern District of Virginia.
+Atlantic urges that because J-Crew entered into a valid forum-selection clause it should have been precluded from arguing that the selected forum is inconvenient if such inconvenience was foreseeable at the time of contracting.
+Stewart teaches that Congress has by 1404(a) removed the lateral transfer of cases among federal courts from the control of private contracts.
+While a contracted-for choice of forum remains a significant factor, it is not controlling.
+To remove all matters of inconvenience foreseeable when the parties reached their choice of forum agreement from the required weighing by federal district judges cannot be squared with Stewart.
+The argument is simply a slip past its core holding — institutional concerns cannot be contracted away by private parties.
+Finally, we add that our consideration of this late-arriving argument as a variation of the arguments made below is generous.
+Atlantic failed to argue below that the district court should not consider foreseeable inconvenience and Atlantic points to no controlling authority holding foreseeability is a necessary consideration under 1404(a) .
+[fn25] Thus, we conclude that the district court did not "clearly and indisputably" err by failing to consider an argument that was not before it and that was not compelled by precedent.
+C. Third, Atlantic argues that the district court clearly erred in considering non-existent difficulties J-Crew would face in obtaining depositions from non-party witnesses in Texas if the case were transferred to Virginia.
+Atlantic contends that these alleged difficulties are unfounded because under Rule 45(a)(2)(B) the parties would be able to issue subpoenas to compel witnesses to sit for depositions in Texas.
+[fn26] Atlantic's argument misses the point.
+The district court below was mainly concerned with J-Crew's ability to secure witnesses for trial, not for depositions.
+And the district court's concerns with respect to J-Crew securing trial testimony were well-founded, notwithstanding Rule 45(a)(2)(B) .
+J-Crew identified seven non-party witnesses that may provide relevant testimony who reside in Texas and any trial subpoenas for witnesses to travel more than 100 miles would be subject to motions to quash under Rule 45(c)(3)(ii) .
+[fn27] Thus, we are unpersuaded by Atlantic's argument that the district court clearly erred by considering J-Crew's ability to secure testimony for trial in Virginia.
+D. Finally, Atlantic argues that the district court clearly erred in not recognizing the strong public interest favoring enforcement of forum-selection clauses.
+However, [**6] Atlantic failed to raise this argument below.
+In fact, the only argument Atlantic made with respect to the public's interest in transferring the case to Virginia was that courts in the Eastern District of Virginia resolve cases faster than those in the Western District of Texas, a factor considered and rejected by the district court below.
+Regardless, the argument here is essentially that because the forum-selection clause did not dictate a different outcome it must not have been weighed properly.
+The district court was plainly conversant with Stewart.
+We cannot conclude that the district court "clearly and indisputably erred" by not giving proper weight to the public interest in ways Atlantic did not even raise before the district court.
+IV.
+The core of Stewart is the directive of Congress that allocation of matters among the federal district courts is not wholly controllable by private contract.
+Rather the agreement of parties will signify in the district court's allocating decision, tempering the private agreement's reflection of private interests with the public interest attentive to the usual metrics of this case law, such as time to trial and convenience of witnesses.
+The contention that dismissal may be under 1406 or Rule 12(b)(3) empties Stewart of force and confounds the plain language 1406 .
+Thus, we DENY Atlantic Marine's Petition for a Writ of Mandamus.

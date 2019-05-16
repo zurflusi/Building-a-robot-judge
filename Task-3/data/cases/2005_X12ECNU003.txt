@@ -1,0 +1,243 @@
+ DIANA GRIBBON MOTZ, Circuit Judge.
+The United States brought this enforcement action against Duke Energy Corporation, which provides North Carolina and South Carolina with electricity generated from eight plants located throughout the two states.
+The United States maintains that Duke Energy on numerous occasions modified these plants without first obtaining appropriate permits in violation of the Clean Air Act.
+42 U.S.C. 7401 et seq.
+(2000).
+The district court granted summary judgment to Duke Energy.
+See United States v. Duke Energy Corp., 278 F.Supp.2d 619 (M.D.N.C.
+2003).
+We affirm, albeit for somewhat different reasons than those relied on by the district court.
+I. The Clean Air Act is a complex statute supported by an elaborate regulatory scheme; both have a complicated history.
+This case involves two different, but complementary provisions of the Act: the New Source Performance Standards ("NSPS") provisions, 42 U.S.C. 7411 , and the Prevention of Significant Deterioration ("PSD") provisions, 42 U.S.C. 7470 92 .
+In order to "protect and enhance the quality of the Nation's air resources" and "promote the public health and welfare," 42 U.S.C. 7401 (b)(1), the Clean Air Amendments of 1970 directed the Environmental Protection Agency ("EPA") to devise National Ambient Air Quality Standards establishing the maximum concentrations of certain air pollutants allowable in each region of the United States.
+42 U.S.C. 7409 .
+The Act then directed each State to design a State Implementation Plan to effect compliance with its air quality standards.
+42 U.S.C. 7410 .
+To help attain and thereafter maintain these air quality standards, the 1970 amendments enacted the NSPS provisions, which required the EPA to promulgate standards regulating emissions from both newly constructed and modified sources of pollution at power plants.
+42 U.S.C. 7411 .
+Congress defined "modification" in the NSPS provisions as "any physical change in, or change in the method of operation of, a stationary source which increases the amount of any air pollutant emitted by such source or which results in the emission of any air pollutant not previously emitted."
+42 U.S.C. 7411 (a)(4).
+Since 1971, the EPA has promulgated NSPS regulations that define "modification" in virtually the same words as the statute.
+See, e.g., 36 Fed. Reg. 24,876 , 24,877 (Dec. 23, 1971); 40 C.F.R. 60.2 (1976); 40 C.F.R. 60.2 (2004).
+In 1975, the EPA added a regulation elaborating on this definition and further defining "modification" by reference to an increase in the hourly emission rate: a modification includes "any physical or operational change to an existing facility which results in an increase in the emission rate to the atmosphere of any [regulated] pollutant," measured not in tons per year, but in kilograms per hour.
+40 Fed. Reg. 58,416 , 58,419 (Dec. 16, 1975) (codified at 40 C.F.R. 60.14 (a) & (b)).
+Modified equipment becomes subject to the NSPS's "technology-based" standards, Alabama Power Co. v. Costle, 636 F.2d 323 , 346 (D.C. Cir. 1979), which mandate the installation of the "best demonstrated pollution control technology."
+Potomac Elec. Power Co. v. EPA, 650 F.2d 509 , 518 (4th Cir. 1981) [hereinafter PEPCo ].
+The NSPS program was not entirely successful.
+See Wisconsin Elec. Power Co. v. Reilly, 893 F.2d 901 , 904 (7th Cir. 1990).
+In 1972, the United States District Court for the District of Columbia issued a preliminary injunction directing the EPA to promulgate regulations to supplement the NSPS program and protect air quality from deterioration in areas that had met or exceeded the relevant ambient standards.
+See Sierra Club v. Ruckelshaus, 344 F.Supp.
+253 (D.D.C.
+1972), aff'd 1972 WL 2725 , 4 E. R.C.
+1815 (D.C. Cir. 1972), aff'd by an equally divided court sub nom.
+Fri v. Sierra Club, 412 U.S. 541 , 93 S.Ct. 2770 , 37 L.Ed.2d 140 (1973).
+The EPA duly disseminated the first PSD regulations in 1974.
+See 39 Fed. Reg. 42,510 (Dec. 5, 1974).
+Congress thereafter enacted a PSD program in the Clean Air Act Amendments of 1977.
+See 42 U.S.C. 7470 (1).
+As originally enacted, the PSD permit provisions in the Clean Air Act applied only to the "construction" of major emitting facilities.
+See Clean Air Act Amendments of 1977, Pub.L.
+No. 95-95 , 91 Stat. 685 , 735 (1977) ("No major emitting facility on which construction is commenced after the date of the enactment of this part, may be constructed in any area to which this part applies unless .
+.
+.
+a permit has been issued.
+.
+.
+.").
+However, in November 1977, a few months after the original enactment became effective, Congress passed the "Clean Air Act Technical and Conforming Amendments."
+Pub.L.
+No. 95-190 , 91 Stat. 1393 , 1399 (1977).
+These amendments added to the "Definitions" section of the PSD provisions in 42 U.S.C. 7479 a subparagraph that provides: "The term `construction' when used in connection with any source or facility, includes the modification (as defined in [ section 7411(a) ]) of any source or facility."
+Id. at 1402 .
+This amendment thus incorporated the NSPS statutory definition of "modification," 7411(a)(4), into 7479 of the PSD statute.
+The PSD program imposes, inter alia, preconstruction review and permit requirements on new or modified sources in areas that have attained or exceeded their air quality standards.
+42 U.S.C. 7475 .
+Unlike the NSPS program, the PSD program does not focus primarily on technology-based controls, but on the "net emissions from an entire plant resulting from construction or modification of one or more emitting sources within the plant."
+PEPCo, 650 F.2d at 518 (emphasis omitted).
+And so, while NSPS centers on technological controls at an individual pollution-emitting apparatus, PSD fixes on the actual emissions from a site.
+See N. Plains Res. Council v. EPA, 645 F.2d 1349 , 1356 (9th Cir. 1981) ("The NSPS program is .
+.
+.
+equipment oriented.
+On the other hand, the PSD program .
+.
+.
+is .
+.
+.
+site oriented.").
+The EPA promulgated regulations under the PSD provisions of the statute in 1978, see 43 Fed. Reg. 26,380 (June 19, 1978), and amended them in 1980, see 45 Fed. Reg. 52,676 (Aug. 7, 1980).
+Under the 1980 PSD regulations, a plant cannot engage in a "major modification" of equipment without first undergoing the EPA's permit process and acquiring a permit.
+45 Fed. Reg. 52,676 .
+The EPA's PSD regulations define a "major modification" as "any physical change in or change in the method of operation of a major stationary source that would result in a significant net emissions increase of any pollutant subject to regulation under the Act."
+40 C.F.R. 51.166 (b)(2)(i) (1987).
+[fn1] A "net emissions increase" is "[a]ny increase in actual emissions from a particular physical change or change in the method of operation" of a unit.
+40 C.F.R. 51.166 (b)(3)(i).
+The PSD regulations measure emissions increases relative to a baseline calculation of "actual emissions," i.e., "the average rate, in tons per year, at which the unit actually emitted" the regulated pollutant for, usually, the two years prior to date of measurement, "using the unit's actual operating hours, production rates, and types of materials processed, stored, or combusted during the selected time period."
+40 C.F.R. 51.166 (b)(21)(ii).
+II.
+A. Duke Energy's eight plants in the Carolinas include thirty coal-fired generating units that were placed in service between 1940 and 1975.
+Each unit contains, as one of its three major components, a boiler, which is a large structure from six to twenty-stories tall containing thousands of steel tubes.
+The tubes are arranged into sets of tube assemblies, including economizer tubes, in which water is initially heated; furnace waterwall tubes, in which water evaporates to steam; superheater tubes, in which the temperature of the steam is raised before being released into a turbine; and reheater tubes, in which steam released from the turbine is reheated and returned to the turbine.
+Between 1988 and 2000, as part of a plant modernization program, Duke Energy engaged in twenty-nine projects on the coal-fired generating units, most of which consisted of replacing and/or redesigning one or more of the boiler tube assemblies.
+These projects would both extend the life of the generating units and allow the units to increase their daily hours of operation.
+Duke Energy did not apply for or acquire new permits from the EPA for these projects, some of which, according to the Government, cost "more than seven times the original cost of the unit."
+Brief of United States at 14.
+In December 2000, at the direction of the Administrator of the EPA, the Attorney General brought this enforcement action against Duke Energy, alleging that the life-extension projects violated, inter alia, the Clean Air Act's PSD provisions.
+In September 2001, the district court granted Environmental Defense, the North Carolina Sierra Club, and the North Carolina Public Interest Research Group Citizen Lobby/Education Fund leave to intervene as plaintiffs, and these groups filed a complaint against Duke Energy alleging similar violations.
+The EPA and the Intervenors maintain that these life-extension projects constitute "major modifications" of Duke Energy's furnaces as defined in the PSD statutory and regulatory provisions that is, physical changes leading to a significant net emissions increase and thus Duke Energy was required to obtain permits for them.
+The EPA does not contend that the post-project hourly rate of emissions increased.
+Rather, it argues that the PSD requires measurement of the net emissions increase by using an "actual-to-projected-actual" test, comparing the actual pre-project emissions from a unit to the projected post-project emissions, which takes into account a unit's ability to operate for more hours.
+Because the Duke Energy projects enable the units to operate for more hours each day, they will lead to an increase in actual yearly emissions.
+Duke Energy counters that its projects do not constitute modifications subject to PSD because they did not increase the units' levels of emissions.
+The company maintains that, under the PSD program, a net emissions increase will result only if there is an increase in the hourly rate of emissions.
+Because none of its projects increased a unit's hourly capacity to emit pollution (but increased only the number of hours the unit could operate), the projects did not increase emissions from pre-project levels, and so, according to Duke Energy, it did not have to obtain permits.
+B. The district court agreed with Duke Energy.
+It held that a modification subject to PSD exists only if there is a post-project increase in the hourly rate of emissions from a unit.
+Duke Energy Corp., 278 F.Supp.2d at 640 .
+[fn2] In reaching this conclusion, the district court relied on the language of the PSD regulations, "contemporaneous interpretations" of the regulations by the EPA, and "the statutory language incorporating the NSPS concept of modification into PSD."
+Id .
+One regulation promulgated by the EPA pursuant to the PSD statute, 40 C.F.R. 51.166 (b)(2)(i), characterizes a "major modification" as "any physical change in or change in the method of operation .
+.
+.
+that would result in a significant net emissions increase"; another, 40 C.F.R. 51.166 (b)(2)(iii)(f), excludes "[a]n increase in the hours of operation or in the production rate" from the definition of "physical change or change in the method of operation."
+Reading these two provisions in conjunction, the district court determined that an emissions increase traceable to increased hours of operation cannot trigger the PSD provisions because an increase in hours is not a physical change.
+Put another way, because increased hours are not a physical change under the PSD regulations, calculation of post-project net emissions cannot take into account increased hours of operation, but rather must be based on pre-project hours of operation and rates of production.
+Therefore, the court concluded, only if the hourly rate of emissions increases can there be a net emissions increase under the PSD regulations.
+Duke Energy, 278 F.Supp.2d at 640-41 .
+The district court recognized that the EPA interpreted its PSD regulations differently, excluding a much smaller group of projects from the definition of "major modification."
+The EPA would exclude only those projects that increase hours of operation and involve no construction.
+Id. at 641 .
+According to the interpretation pressed by the EPA, whenever there is an increase "in utilization coupled with a physical change, any increase in hours of operation .
+.
+.
+may be considered in the emissions calculus."
+Id .
+The district court concluded that it could not defer to the EPA's interpretation because in addition to being, in the court's view, belied by the plain language of the PSD regulations, the present EPA interpretation was "clearly contrary to earlier [EPA] interpretations" of the regulations.
+Id .
+Specifically, the court noted that "[i]mmediately after the promulgation of the PSD regulations in 1980, the EPA's Director of the Division of Stationary Source Enforcement .
+.
+., Edward E. Reich, confirmed in two separate applicability determinations that the requirements of PSD would be implicated only by an increase in the hourly rate of emissions."
+Id .
+Finally, the court determined that its interpretation of the PSD regulation was "also consistent with the NSPS [statutory] definition of `modification'" found in 42 U.S.C. 7411 (a), "which was incorporated by explicit reference into PSD" in 42 U.S.C. 7479 (2)(c) (defining "construction" to include "the modification (as defined in section 7411(a) .
+.
+.)
+of any source or facility").
+Id. at 642 .
+The interpretation of PSD regulations urged by the EPA in this suit would, the district court concluded, be "inconsistent with the congressional design of defining PSD construction in terms of NSPS modification and should therefore be accorded little deference."
+Id. at 643 .
+After resolution of this legal issue, the parties stipulated that the Duke Energy projects would not result in an increase in the hourly rate of emissions.
+The court then entered summary judgment for Duke Energy.
+III.
+In cases in which an agency's interpretation of its regulations are at issue, a court engages in a modified Chevron analysis.
+See Chevron U.S.A., Inc. v. Natural Res. Def. Council, 467 U.S. 837 , 104 S.Ct. 2778 , 81 L.Ed.2d 694 (1984); United States v. Deaton, 332 F.3d 698 , 708-09 (4th Cir. 2003).
+First, as in the usual Chevron analysis, a court must determine "whether Congress has directly spoken to the precise question at issue."
+Chevron, 467 U.S. at 842 , 104 S.Ct. 2778 .
+"The judiciary is the final authority on issues of statutory construction" and "[i]f a court, employing traditional tools of statutory construction, ascertains that Congress had an intention on the precise question at issue, that intention is the law and must be given effect."
+Id. at 843 n. 9, 104 S.Ct. 2778 .
+Only if the statute is silent or ambiguous on the point is Congress deemed to have delegated authority to the agency to clarify the point in its regulations.
+Id. at 843-45 , 104 S.Ct. 2778 .
+Thus, only in such cases does a court examine the regulation itself, determining its legitimate meaning, asking whether the regulation is based on a permissible construction of the statute, and, if so, deferring to it.
+See id. at 843 , 104 S.Ct. 2778 ; Deaton, 332 F.3d at 708-09 .
+The EPA and the Intervenors expressly acknowledge that these principles govern our review in the case at hand.
+See Brief of United States at 14-15; Brief of Intervenors at 7-9.
+They fail to understand, however, that straightforward application of these principles can lead to only one conclusion: affirmance of the judgment of the district court.
+This is so because Congress has indeed "directly spoken to the precise question at issue."
+Chevron, 467 U.S. at 842 , 104 S.Ct. 2778 .
+As the EPA itself concedes, the critical first "question at issue" here is whether the EPA "can interpret the statutory term `modification' under PSD differently from how EPA interpreted that term" in the NSPS.
+Brief of United States at 1.
+As the EPA also concedes, see id. at 4 , Congress expressly defined "modification" in the NSPS provisions of the Clean Air Act, 42 U.S.C. 7411 (a), and then expressly directed that the PSD provisions of the Act employ this same definition.
+See 42 U.S.C. 7479 (2)(c) (providing that "construction" in the PSD includes "modification .
+.
+.
+as defined in section 7411(a) ").
+When Congress mandates that two provisions of a single statutory scheme define a term identically, the agency charged with administering the statutory scheme cannot interpret these identical definitions differently.
+Thus, because Congress mandated that the PSD definition of "modification" be identical to the NSPS definition of "modification," the EPA cannot interpret "modification" under the PSD inconsistently with the way it interprets that term under the NSPS.
+[fn3] Common sense would seem to dictate this result.
+Supreme Court precedent certainly does.
+See Rowan Cos.
+v. United States, 452 U.S. 247 , 101 S.Ct. 2288 , 68 L.Ed.2d 814 (1981).
+In Rowan, the Court faced a situation strikingly similar to the one at hand, and held that when Congress itself provided "substantially identical" statutory definitions of a term in different statutes, the agency charged with enforcing the statutes could not interpret the statutory definitions "differently."
+Id. at 257 , 101 S.Ct. 2288 .
+[fn4] The question presented in Rowan was whether the Commissioner of the Internal Revenue Service could interpret the statutory term "wages" differently for, on the one hand, the Federal Insurance Contributions Act ("FICA") and the Federal Unemployment Tax Act ("FUTA"), and, on the other, the statute governing income-tax withholding.
+Id. at 250 , 101 S.Ct. 2288 .
+Congress had defined the term "wages" in these statutes in substantially the same language: for both FICA and FUTA, "wages" were defined as "all remuneration for employment, including the cash value of all remuneration paid in any medium other than cash"; for income tax withholding, "wages" were defined as "all remuneration (other than fees paid to a public official) for services performed by an employee for his employer, including the cash value of all remuneration paid in any medium other than cash."
+Rowan, 452 U.S. at 249 n. 4, 101 S.Ct. 2288 .
+[fn5] The Commissioner, however, issued regulations interpreting "wages" under FICA and FUTA to include the value of meals and lodging provided to employees for the convenience of the employer, and "wages" under the income-tax withholding statute to exclude this value.
+See Rowan, 452 U.S. at 250 , 101 S.Ct. 2288 .
+In holding the Commissioner's interpretation impermissible, the Court relied on the plain language of the statutes and their legislative history.
+First, the Court noted that when Congress enacted the precursors to FICA and FUTA as part of the Social Security Act of 1935, it chose "wages" as the basis for employer taxation and then statutorily defined the term.
+Id. at 255 , 101 S.Ct. 2288 .
+Similarly, seven years later, when Congress enacted the original income-tax withholding statute, it chose "wages" as the basis for taxation and statutorily defined the term "in substantially the same language that it used in FICA and FUTA."
+Id .
+The Rowan Court held that, "[i]n view of this sequence of consistency, the plain language of the statute is strong evidence that Congress intended `wages' to mean the same thing under FICA, FUTA, and income-tax withholding."
+Id .
+[fn6] The Court then examined the statutes' history, finding indications that Congress intended to "coordinate the income-tax withholding system with FICA and FUTA .
+.
+.
+to promote simplicity and ease of administration," and concluding that "[c]ontradictory interpretations of substantially identical definitions do not serve that interest."
+Id. at 257 , 101 S.Ct. 2288 .
+The plain language of the Clean Air Act provides even stronger evidence that Congress intended the statutory definitions of "modification" in the PSD and NSPS provisions to be interpreted identically.
+While Congress used only "substantially the same language" in the statutory definitions at issue in Rowan, id. at 255 , 101 S.Ct. 2288 , here Congress mandated that the definition of "modification" in the PSD provisions precisely mirror the definition of "modification" in the NSPS provision.
+Congress did this by directly incorporating the NSPS definition, which it had enacted in 1970, into the PSD provisions, which it enacted seven years later.
+See Pub.L.
+No. 95-190 , 91 Stat. 1393 , 1402 (1977) ("The term `construction' when used in connection with any source or facility, includes the modification (as defined in [ section 7411(a) ]) of any source or facility.
+"); 42 U.S.C. 7479 (2)(C).
+Moreover, as in Rowan, the legislative history of the statutes at issue here does not in any way suggest that Congress intended these identical statutory definitions to receive different interpretations.
+Notwithstanding the EPA's contentions to the contrary, the fact that the PSD definition of modification became part of the statute through "Technical and Conforming Amendments" does not change the fact that the definition is a statutory enactment, entitled to be treated as such.
+See United States v.
+R.L.C., 503 U.S. 291 , 305 n. 5, 112 S.Ct. 1329 , 117 L.Ed.2d 559 (Opinion of Souter, J.) ("[A] statute is a statute, whatever its label," and must be interpreted using "the usual tools of statutory construction.").
+Indeed, the expressed intent in the congressional summary of the legislative amendments to "conform" the definition of modification in the PSD provisions "to usage in other parts of the Act," 123 Cong. Rec.
+36 ,253 (Nov. 1, 1977), indicates congressional concern with the same sort of simplicity and consistency that the Rowan Court discerned from the legislative history examined there.
+As the Court explained in Rowan, "[i]t would be extraordinary for a Congress pursuing this interest to intend, without ever saying so, for identical definitions to be interpreted differently."
+452 U.S. at 257 , 101 S.Ct. 2288 .
+[fn7] The EPA points to Senator Muskie's statement that it was "not the purpose of these amendments to re-open substantive issues" in the Act, 123 Cong. Rec.
+36 ,252, as evidence that Congress was merely using an expedient method to correct the inadvertent omission of the word "modification" from the PSD provisions.
+To the extent that Senator Muskie's remarks demonstrate Congress' intent, see Runnebaum v. NationsBank of Maryland, N.A., 123 F.3d 156 , 169 n. 7 (4th Cir. 1997) (en banc), they do not support the EPA's position.
+The assertion that the Technical and Conforming Amendments were not "designed to resolve issues that were not resolved" in the debate and passage of the Act, see 123 Cong. Rec.
+36 ,252 (statement of Sen.
+Muskie), says nothing about whether Congress had previously resolved the issue of whether the interpretation of "modification" was to be congruent under the PSD and NSPS statutory provisions.
+The EPA and Intervenors also emphasize the "vital differences" between PSD and NSPS.
+Brief of United States at 22; see also id. at 4-6 ; Brief of Intervenors at 13-21.
+We do not ignore or minimize those differences.
+Although both statutes are part of the Clean Air Act and designed to serve its purpose "to protect and enhance the quality of the Nation's air resources so as to promote the public health and welfare and the productive capacity of its population," 42 U.S.C. 7401 (b)(1), they address somewhat different problems.
+PSD exists primarily to prevent significant deterioration of ambient air quality in areas meeting clean air standards, see 42 U.S.C. 7470 (1), while NSPS requires new sources to implement particular technologies to limit their own emissions.
+Id. 7411 .
+These differences have led us and other courts to approve different regulatory definitions for an identical statutory term in the two statutes.
+In PEPCo, for example, we held that "significant difference[s] between the PSD and NSPS programs" justified a different interpretation of the statutory term "stationary source."
+650 F.2d at 518 .
+But in PEPCo, although Congress had defined the term "stationary source" in the NSPS provisions, see 42 U.S.C. 7411 (a)(3), it had not defined that term in the PSD provisions.
+Thus, while in PEPCo both statutes contained the same term, the statutes did not define that term in the same manner; nor was the use of the term in the PSD provisions linked to the statutory definition of the term in the NSPS provisions.
+Similarly, in Northern Plains Resource Council, the Ninth Circuit allowed the EPA to interpret the statutory term "commenced" differently in the NSPS and PSD regulations.
+645 F.2d at 1357 .
+But again, although one statute there the PSD provisions defined the term, see 42 U.S.C. 7479 (2)(A), the other the NSPS provisions did not.
+And, Congress had not linked the PSD definition of the term to its use in the NSPS provisions of the statute.
+PEPCo and Northern Plains Resource Council illustrate the principle that the same word or phrase will generally be presumed to have the same meaning when used in different parts of the statute, but this "presumption of the uniform usage .
+.
+.
+relents" when there is "a variation in the connection in which the words are used as reasonably to warrant the conclusion that they were employed in different parts of the act with different intent."
+Gen. Dynamics Land Sys., Inc. v. Cline, 540 U.S. 581 , 124 S.Ct. 1236 , 1245 , 157 L.Ed.2d 1094 (2004) (internal quotation marks and citation omitted).
+Thus, in PEPCo and Northern Plains Resource Council, the difference in purpose between the NSPS and PSD programs justified the conclusion that the same words had different meanings in the two sections of the statute.
+See N. Plains Res. Council, 645 F.2d at 1355-56 .
+In the case before us, however, the presumption of uniform usage has become effectively irrebutable because Congress' decision to create identical statutory definitions of the term "modification" has affirmatively mandated that this term be interpreted identically in the two programs.
+The different purposes of the NSPS and PSD programs cannot override that mandate.
+Neither the United States nor the Intervenors have cited a single case in which any court has held that identical statutory definitions can be interpreted differently by the agency charged with enforcement of the statute.
+Moreover, in Rowan the Supreme Court expressly rejected the argument, which was successful in the Fifth Circuit, that the different purposes of FICA/FUTA and income-tax withholding justified the different regulatory interpretations of the same statutory definition.
+See Rowan, 452 U.S. at 250 , 257-58 , 101 S.Ct. 2288 .
+The Rowan Court concluded that to permit the Commissioner to interpret the same statutory terms differently would "fail to implement the congressional mandate in a consistent and reasonable manner."
+Id. at 253 , 101 S.Ct. 2288 .
+So it is here.
+Congress mandated that the PSD statute incorporate the NSPS statutory definition of "modification."
+No one disputes that prior to enactment of the PSD statute, the EPA promulgated NSPS regulations that define the term "modification" so that only a project that increases a plant's hourly rate of emissions constitutes a "modification."
+The EPA must, therefore, interpret its PSD regulations defining "modification" congruently.
+Of course, this does not mean that this regulatory interpretation must be retained indefinitely.
+The EPA retains its authority to amend and revise this and other regulations "through exercise of appropriate rulemaking powers."
+Helvering v. Wilshire Oil Co., 308 U.S. 90 , 100-01 , 60 S.Ct. 18 , 84 L.Ed. 101 (1939) (noting that "[t]he contrary conclusion would .
+.
+.
+drastically curtail the scope and materially impair the flexibility of administrative action"); McCoy v. United States, 802 F.2d 762 , 766 (4th Cir. 1986).
+Indeed, the parties point out that the EPA has already amended some of the regulations at issue here.
+See Brief of Duke Energy at 62-63; Reply Brief of United States at 17-18.
+As long as Congress mandates that "modification" be defined identically in the NSPS and PSD statutes, however, EPA must interpret that term in a consistent manner in the NSPS and PSD regulations.
+IV.
+For the foregoing reasons, the judgment of the district court is AFFIRMED.

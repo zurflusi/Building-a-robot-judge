@@ -1,0 +1,320 @@
+ REAVLEY , Circuit Judge: Plaintiffs who suffered dismissals in two separate securities-fraud cases asked the district courts to reinstate their claims under 27A(b) of the Securities Exchange Act, 15 U.S.C. 78aa-1(b) , which Congress enacted in November 1991.
+The district courts denied these motions after holding that 27A(b) violates the Constitution by disturbing final judgments and invading judicial authority.
+We conclude that the legislation is constitutional and we reinstate the plaintiffs' suits.
+I. BACKGROUND A. Pacific Mutual Life Ins. Co. v. First RepublicBank Corp., et al.
+In March 1991, Pacific Mutual Life Insurance Company (PMLI) sued investment bankers and accountants (collectively PMLI Defendants) 1 for securities fraud under 10(b) of the 1934 Securities Exchange Act (1934 Act), 15 U.S.C. 78j(b) .
+PMLI's claims arise from the June 1987 merger of InterFirst Corporation and RepublicBank Corporation, PMLI's purchase of InterFirst securities in July and September 1987 for approximately $8 million, and the PMLI Defendants' facilitation of those transactions.
+From long before PMLI purchased the securities to the time after PMLI filed its suit, this court determined the statute of limitations for implied private actions under 10(b) according to analogous state law.
+When PMLI filed its suit in the United States District Court for the Northern District of Texas, our precedent recognized that the four-year limitations period applicable to fraud actions in Texas also governs 10(b) actions filed there.
+In re Sioux, Ltd., Sec. Litig. v. Coopers & Lybrand , 914 F.2d 61, 64 (5th Cir.1990).
+For that reason, although the PMLI Defendants filed dispositive motions under FED.R.CIV.P. 9(b) and 12(b)(6) , they did not contest the timeliness of PMLI's suit.
+While these motions awaited the district court's consideration, the Supreme Court issued Lampf, Pleva, Lipkind, Prupis & Petigrow v. Gilbertson , U.S. , 111 S.Ct. 2773 , 115 L.Ed.2d 321 (1991).
+Lampf implicitly overrules Sioux, Ltd. and many similar cases in other circuits with its holding that the Securities Exchange Act as written in 1934, not state law, establishes the limitations period for 10(b) suits.
+Id. at , 111 S.Ct. at 2780 .
+The Court read the Securities Exchange Act of 1934 to establish a uniform rule that "[l]itigation instituted pursuant to 10(b) must be commenced within one year after the discovery of the facts constituting the violation and within three years after such violation."
+Id. at , 111 S.Ct. at 2782 ( 1-and-3 rule).
+On the same day that the Court rendered Lampf , it decided James B. Beam Distilling Co. v. Georgia , U.S. , 111 S.Ct. 2439 , 115 L.Ed.2d 481 (1991).
+A plurality of the Beam Court held that Georgia's Supreme Court erred by "refus[ing] to apply a rule of federal law retroactively after the case announcing the rule has already done so." Id. at , 111 S.Ct. at 2446 .
+Beam teaches that "when th[is] Court has applied a rule of law to the litigants in one case it must do so with respect to all others not barred by procedural requirements or res judicata."
+Id. at , 111 S.Ct. at 2448 .
+Because the Lampf Court applied the 1-and-3 rule to eliminate Gilbertson's 10(b) claim, Beam required courts to apply the limitation rule announced in Lampf to pending claims under 10(b) .
+The PMLI Defendants promptly brought Lampf and Beam to the district court's attention, and the court dismissed PMLI's 10(b) claims with prejudice in August 1991.
+The district court based its dismissal on the fact that "the face of [PMLI's complaint establishes] that this action was filed more than three years after the alleged misrepresentations or omissions upon which [PMLI's] claim rests."
+Recognizing no way around Lampf and Beam , PMLI did not appeal.
+Three months later, however, Congress provided a way around Lampf and Beam by passing 27A , which provides: (a) Effect on Pending Causes of Action section 10(b) (b) Effect on Dismissed Causes of Action section 10(b) 1934 Act 27A (amended by P.L.
+102-242 (December 19, 1991)), codified at 15 U.S.C. 78aa-1 .
+On January 31, 1992, PMLI filed a motion to reinstate pursuant to 27A(b) .
+The PMLI Defendants challenged the constitutionality of 27A(b) , and the district court admitted the United States as an intervenor to explain why 27A is constitutional.
+After considering the parties' written submissions, the district court held: 1) 27A(b) contravenes due process by divesting the PMLI Defendants of their final judgment; and 2) 27A contravenes the constitutionally-mandated retroactivity of new legal rules recognized in Beam .
+PMLI appeals from the district court's denial of its motion to reinstate.
+Pacific Mutual Life Ins. Co. v. First Republic Bank Corp. , 806 F.Supp.
+108 (N.D.Tex.1992).
+B. Simmons, et al.
+v. TGX Corp., et al.
+In 1987, TGX Corporation sued Gaylon Simmons 2 over a $21 million stock purchase contract which the parties executed in November 1986, and Simmons filed a counterclaim against TGX under 10(b) .
+TGX filed for bankruptcy protection in 1990, staying the counterclaim.
+Simmons then filed a separate 10(b) suit in March 1990 against attorneys, accountants, and directors (collectively TGX Defendants) 3 who facilitated the stock purchase.
+Simmons sued the TGX Defendants in the United States District Court for the Eastern District of Louisiana.
+4 The parties disputed whether Simmons met Louisiana's two-year prescriptive period for securities fraud, which this court has held applicable to 10(b) claims.
+Jensen v. Snellings , 841 F.2d 600, 606 (5th Cir.1988).
+The Supreme Court rendered Lampf and Beam before the district court ruled on the parties' limitation dispute.
+The TGX Defendants informed the district court that Simmons sued them in March 1990, and his complaint alleges November 1986 misdeeds.
+They argued that these facts entitled them to dismissal under Lampf's 1-and-3 rule.
+Simmons did not dispute the effect of Lampf , and the district court directed the TGX Defendants to draft a judgment and order.
+That document recited: Simmons asked the district court to delete "with prejudice" from the judgment to avoid any preclusive effect, and the court obliged before signing it in August 1991.
+Simmons did not appeal this judgment.
+Simmons sought the deletion from the August 1991 judgment because he thought that he could avoid Lampf by adding the TGX Defendants as parties to the 1987 counterclaim against TGX, and he did not want the dismissal in the March 1990 suit to preclude him from doing so. Simmons's idea ultimately proved unsuccessful, 5 and the district court entered another judgment dismissing Simmons's 10(b) claims against the TGX Defendants in October 1991.
+Simmons did not appeal this October 1991 judgment.
+With renewed hope from 27A(b) , Simmons filed a motion to reinstate the March 1990 suit in January 1992.
+The parties disputed both the applicability and constitutionality of 27A(b) .
+In March 1992, the district court held: 1) the court had previously dismissed Simmons's March 1990 10(b) suit "as time barred" within the meaning of 27A(b) despite the fact that the court dismissed the suit without prejudice in August 1991; and 2) Simmons timely filed his 10(b) claims under Louisiana's two-year prescription period and Jensen ; but 3) 27A contravenes the constitutionally-mandated retroactivity of new legal rules recognized in Beam .
+TGX Corp. v. Simmons , 786 F.Supp.
+587 (E.D.La.1992).
+In April 1992, Simmons asked for a new trial on his reinstatement motion.
+In May 1992, the district court denied Simmons's motion for a new trial after holding that, in addition to Beam's implications, 27A(b) violates due process principles by upsetting final judgments.
+Simmons appeals from the district court's denials of his motion to reinstate and his new-trial motion.
+The TGX Defendants cross-appeal the district court's ruling that Simmons's March 1990 suit falls within the scope of 27A(b) even though the district court dismissed that suit without prejudice in August 1991.
+The United States intervenes to defend the constitutionality of 27A(b) .
+II.
+ANALYSIS Simmons and PMLI ultimately raise the same novel constitutional questions, so we decide both appeals in this opinion.
+We review the district courts' decisions concerning the meaning and constitutionality of 27A(b) de novo .
+Moulton v. City of Beaumont , 991 F.2d 227, 230 (5th Cir.1993); Gray v. First Winthrop Corp. , 989 F.2d 1564, 1567 (9th Cir.1993).
+We proceed without the benefit of prior appellate attention to 27A(b) .
+A. Whether a Constitutional Section 27A(b) Helps Simmons The TGX Defendants argue that 27A(b) does not afford Simmons any relief even if it is constitutional, because Simmons asked the district court to dismiss his March 1990 claims under 10(b) without prejudice.
+But all of their arguments require an inaccurate reading of 27A(b) .
+Congress wrote 27A(b) to prevent courts from applying Lampf to cases that plaintiffs filed before the Court rendered Lampf .
+Section 27A(b) states a specific procedure (motion for reinstatement within 60 days of enactment) to restart "[a]ny" 10(b) claim "commenced on or before June 19, 1991 which was dismissed as time barred" after Lampf , but "would have been timely filed" before Lampf .
+What little legislative history exists for 27A confirms that Congress intended to obliterate Lampf and Beam for all cases filed before the Court rendered Lampf .
+6 See, e.g. , 137 CONG.REC.
+S17382 (daily ed. Nov. 21, 1992) (Sen.
+Riegle, 27A sponsor) ("The language of the bill is designed to return plaintiffs and defendants to exactly the position that they had on June 19, 1991," the day before the Court rendered Lampf .
+); id .
+at H11813 (daily ed. Nov. 26, 1991) (Rep.
+Markey) ("The language unambiguously reverses the Lampf ruling's application of the 1-year and 3-year statute of limitations ").
+The Supreme Court itself has recognized as much.
+See Musick, Peeler & Garrett v. Employers Ins. of Wausau , U.S. , , 113 S.Ct. 2085, 2089 , 124 L.Ed.2d 194 (1993) ("Congress limit[ed] the retroactive effect of [ Lampf by directing] the applicable 'limitation period for any private civil action implied under [ 10(b) ] that was commenced on or before June 19, 1991 '"); id. at , 113 S.Ct. at 2095 (Thomas, J., dissenting) (Congress "alter[ed] the retroactive effect of the 10b-5 limitations period that we adopted in Lampf .").
+We know of no evidence or reason that supports a narrower reading of 27A .
+Compare Herman & MacLean v. Huddleston , 459 U.S. 375, 386 , 103 S.Ct. 683, 689 , 74 L.Ed.2d 548 (1983) (interpreting securities laws to "further[ ] their broad remedial purposes").
+1.
+Time-Bar Dismissal The TGX Defendants seize on the district court's statement that Simmons did not voluntarily dismiss his 10(b) claims under F ED. R.C IV.
+P. 41 by asking the court to dismiss those claims without prejudice in August 1991.
+Simmons , 786 F.Supp.
+at 590 .
+They argue that the court's statement is erroneous, and once we recognize that Simmons voluntarily dismissed his claims, we must hold that the claims were not "dismissed as time barred" under 27A(b)(1) .
+But even if Simmons chose to dismiss his 10(b) claims, the record conclusively establishes that he did so because Lampf rendered those claims time barred.
+The district court's August 1991 judgment states this very fact.
+We interpret "dismissed as time barred" in 27A(b) to include all cases that were dismissed because of Lampf's time bar.
+Simmons satisfies this but-for scrutiny.
+2.
+Nullification The TGX Defendants have found language in our cases in which this court states that the effect of a voluntary dismissal is to "put the plaintiff in the same legal position in which he would have been had he never brought the first suit."
+Taylor v. Bunge Corp. , 775 F.2d 617, 619 (5th Cir.1985).
+They would have us apply this language, irrespective of the reasons for and context in which we used it, to hold that Simmons's suit vanished upon voluntary dismissal, leaving nothing to reinstate by operation of 27A(b) .
+But there is no rule that makes all voluntarily dismissed cases absolutely null for all purposes.
+The District of Columbia Circuit has permitted a district court to resurrect a voluntarily dismissed case under FED.R.CIV.P. 60 .
+Boehm v. Office of Alien Property , 344 F.2d 194 (D.C.Cir.1965).
+And even if there were an absolute-nullity rule, we could not apply it in the face of contrary congressional intent unless we could articulate a constitutional basis for doing so. As we have explained, Congress intended broad relief from Lampf for any 10(b) claim "that was commenced on or before June 19, 1991."
+Simmons commenced his 10(b) claims against the TGX Defendants on March 8, 1990, which places those claims within the ambit of 27A(b) .
+3.
+Avoidance The TGX Defendants cite cases holding that courts should refrain from deciding constitutional questions if possible.
+See, e.g. , Daylo v. Administrator of Veterans' Affairs , 501 F.2d 811, 819 (D.C.Cir.1974) ("[W]hen one interpretation of a statute would create a substantial doubt as to the statute's constitutional validity, the courts will avoid that interpretation absent a 'clear statement' of a contrary legislative intent.").
+They accompany these cites with creative readings of 27A(b) that would avoid constitutional questions, while conveniently killing Simmons's claims.
+7 None of their readings respects Congress' unmistakable intent to keep Lampf from operating retroactively in cases that were dismissed as time barred.
+8 We will not ignore the obvious meaning of 27A simply to avoid the constitutional questions that Congress has created.
+4.
+Claim Preclusion Finally, the TGX Defendants point to the district court's October 1991 dismissal of Simmons's amended counterclaim in the TGX suit.
+They argue that the court dismissed this amended counterclaim with prejudice, and the amended counterclaim raised the same claims that Simmons pursues through his January 1992 reinstatement motion under 27A(b) , so claim preclusion bars any reinstatement of Simmons's March 1990 claims regardless of 27A(b) .
+But the TGX Defendants have waived any claim-preclusion argument by failing to raise it in the district court.
+Our thorough search of the record reveals no mention of claim preclusion by the court's October 1991 judgment, and we refuse to consider it for the first time on appeal.
+See Russell v. SunAmerica Sec., Inc. , 962 F.2d 1169, 1172 (5th Cir.1992) (failure to present res judicata argument to district court usually prevents appellate court from addressing the issue); see also Aluminum Prod. Distrib., Inc. v. Aaacon Auto Transp., Inc. , 549 F.2d 1381, 1384 (10th Cir.1977) (where a party asserted res judicata for the first time in a new-trial motion, "the district court was not bound by any [prior] judgment," and the appellate court refused to consider any preclusive effect on appeal).
+We come to the central question of both cases: the constitutionality of 27A(b) .
+B. Whether the Constitution Protects Individuals or the Judiciary From 27A(b) Congress' authority to establish limitations periods for securities-fraud claims cannot be disputed.
+See Musick , U.S. at , 113 S.Ct. at 2089-2090 .
+Section 27A(b) is controversial exclusively for its retroactivity.
+9 While the Constitution proscribes retroactive criminal legislation, it contains no analogous civil provision.
+U.S. C ONST.
+art.
+I, 9 ; Mahler v. Eby , 264 U.S. 32, 40 , 44 S.Ct. 283, 286 , 68 L.Ed. 549 (1924).
+The PMLI Defendants and TGX Defendants (collectively Defendants) argue that the Supreme Court's precedent and the structure of the Constitution establish that 27A(b) unconstitutionally affects individuals and the federal judiciary.
+The district courts agreed with them.
+We do not.
+1.
+Individual Rights The Constitution's Fifth Amendment prohibits Congress from depriving any person of property without due process of law.
+The Defendants claim that 27A(b) contravenes the Fifth Amendment by compromising two of their property rights as recognized by the Supreme Court.
+a. The Right to a Final, Nonappealable Judgment Each of the defendants in these cases (collectively Defendants) possessed final, nonappealable judgments dismissing the plaintiffs' 10(b) claims.
+Unlike 27A(a) , 27A(b) effectively nullifies these judgments, so the cases addressing the constitutionality of 27A(a) have nothing to say about whether 27A(b) unconstitutionally abrogates any right to a final judgment. 10 For guidance on this question, we turn to the Supreme Court.
+The Defendants rely upon McCullough v. Virginia , 172 U.S. 102 , 19 S.Ct. 134 , 43 L.Ed. 382 (1898) and its progeny to argue that 27A(b) cannot constitutionally take away their judgments.
+McCullough obtained a judgment against Virginia in 1892, but a Virginia appellate court reversed that judgment.
+Id. at 106-07 , 19 S.Ct. at 135 .
+Between the time of judgment and its reversal, Virginia's legislature repealed the statute that authorized McCullough's suit.
+When the Supreme Court agreed to hear McCullough's appeal, Virginia asked the Court to apply the new law repealing authorization for the suit and dismiss McCullough's appeal.
+Id. at 123-24 , 19 S.Ct. at 142 .
+The Court emphatically refused Virginia's request: Id. 11 Our research indicates that the Court has never applied this holding in McCullough to decide another case. Moreover, both before and after McCullough , the Court has decided cases with identical relevant facts according to a different rule.
+12 Accordingly, we must carefully scrutinize McCullough's rationale in assessing the precedential value of its broad statement concerning rights vested by judgment.
+The McCullough Court did not explicitly ground its holding in the Constitution.
+In subsequent decisions, however, the Court explained that the Fifth Amendment's Due Process Clause is the source of constitutional protection for judgments, including the one that belonged to McCullough.
+E.g. , Hodges v. Snyder , 261 U.S. 600, 602 , 43 S.Ct. 435, 436 , 67 L.Ed. 819 (1923).
+Thus, we decide this case according to the jurisprudence that the Court has developed to describe how due process protects individuals from retroactive legislation.
+The Defendants stress a "vested rights" theory exemplified by McCullough , but we find talk of vested rights to merely state due process conclusions, and thus unnecessarily confusing.
+The Court explains: Campbell v. Holt , 115 U.S. 620, 628 , 6 S.Ct. 209, 213 , 29 L.Ed. 483 (1885).
+A seminal treatise recognizes what has happened when courts have departed from the Constitution in search of an amorphous "vested rights" theory: N ORMAN J. S INGER , 2 S UTHERLAND S TATUTORY C ONSTRUCTION 41.05 , at 364-65 (C. Sands 4th ed. 1986); accord Constitutionality of Retroactive Legislation , 73 Harv.L.Rev.
+at 696 .
+We waste no further time with the "vested rights" language, and turn to due process.
+When the Court rendered McCullough , it may have held the absolutist view, indicated by the statement quoted above, that the Due Process Clause protects all final judgments from retroactive legislation.
+But the Court has retreated from this view.
+The Court permits retroactive legislation to annul private judgments that affect public rights, Hodges , 261 U.S. at 602 , 43 S.Ct. at 436 , or private injunctions upon changed circumstances.
+System Federation No. 91, Ry. Employees' Dept., AFL-CIO v. Wright , 364 U.S. 642, 647 , 81 S.Ct. 368, 371 , 5 L.Ed.2d 349 (1961) (modifying a permanent injunction to conform with subsequently-enacted amendments to the Railway Labor Act).
+The dispositive retreats from any absolute McCullough rule, however, come in Fleming v. Rhodes , 331 U.S. 100 , 67 S.Ct. 1140 , 91 L.Ed. 1368 (1947) and Usery v. Turner Elkhorn Mining Co. , 428 U.S. 1 , 96 S.Ct. 2882 , 49 L.Ed.2d 752 (1976).
+In Fleming , landlords obtained valid final judgments from a Texas court entitling them to evict certain tenants upon the lapse of wartime price regulations.
+Congress cured the lapse within two months, and included a law which prohibited the eviction of the tenants with its extension of price regulations.
+331 U.S. at 103 n. 3, 67 S.Ct. at 1141 n. 3.
+A price-control administrator asked a federal district court to apply this law to enjoin the landlords and state officials from executing their judgments, but the district court held that the federal statute violated the Fifth Amendment's Due Process Clause.
+Id. at 102 , 67 S.Ct. at 1141-42 .
+The Supreme Court reversed, explaining that The rights acquired by judgments have no different standing Id. at 107 , 67 S.Ct. at 1144 (footnotes omitted and emphasis added), cited with approval in Federal Housing Admin. v. Darlington, Inc. , 358 U.S. 84, 91 & n. 6, 79 S.Ct. 141, 146 & n. 6, 3 L.Ed.2d 132 (1958) ("[A]ny 'vested' rights by reason of the state judgment were acquired subject to the possibility of their dilution through Congress' exercise of its paramount regulatory power.").
+Usery arose from Congress' efforts to provide disability compensation to coal miners and their survivors.
+The disputed legislation establishes an administrative procedure under which victims of the disease known as "black lung" may collect benefits from coal companies, mandates certain presumptions against the coal companies, and operates retroactively.
+428 U.S. at 9 , 96 S.Ct. at 2889-90 .
+The companies argued that the statute unconstitutionally deprived them of their property because it imposed upon them "an unexpected liability for past, completed acts that were legally proper and, at least in part, unknown to be dangerous at the time."
+Id. at 15 , 96 S.Ct. at 2892 .
+The Court responded: Fleming v. Rhodes Id. at 15-16 , 96 S.Ct. at 2892-93 (citations and footnotes omitted).
+The Court then assessed the practical consequences of the Act's retrospective imposition of liability and concluded that this imposition "is justified as a rational measure to spread the costs of the employees' disabilities to those who have profited from the fruits of their labor " Id. at 18 , 96 S.Ct. at 2893 .
+The Defendants would have us distinguish Fleming and Usery on the ground that the Court in neither case permitted a retroactive statute to upset a final, nonappealable judgment; they maintain that the rights created by judgments are sacrosanct above other due process rights, and that the McCullough rule endures for judgment-based rights.
+This argument fails to distinguish Fleming or Usery .
+While the Fleming Court noted that the retroactive legislation which it upheld only compromised the landlords' ability to enforce their judgment rights as opposed to any compromise of the rights themselves, 331 U.S. at 106 , 67 S.Ct. at 1144 , the Court has also recognized (as do we) that the removal of a remedy has the same effect as the removal of a right.
+See Chase Sec. Corp. v. Donaldson , 325 U.S. 304, 313 , 65 S.Ct. 1137, 1142 , 89 L.Ed. 1628 (1945) ("[I]t is troublesome to sustain as a 'right' a claim that can find no remedy for its invasion.
+"); Lynch v. United States , 292 U.S. 571, 580 , 54 S.Ct. 840, 844 , 78 L.Ed. 1434 (1934) ("Contracts between individuals or corporations are impaired whenever the right to enforce them is taken away or materially lessened.").
+Usery teaches that Congress can, under some circumstances, create private civil liability for past acts.
+We recognize nothing in the Usery Court's analysis that would limit Congress from retroactively creating liability for securities fraud if it justified this retroactive effect with reasons comparable to those recited in Usery .
+See 428 U.S. at 18 , 96 S.Ct. at 2893-94 .
+Because Usery allows Congress to avert questions of judgment rights altogether, there is no due process reason why Congress cannot reach the same result by upsetting a judgment.
+Moreover, FED.R.CIV.P. 60(b) itself destroys the Defendants' position that final, nonappealable judgments confer sacrosanct due-process rights on individuals.
+Rule 60(b) permits courts to "relieve a party from a final judgment for any reason justifying relief from the operation of the judgment."
+The Court has repeatedly acknowledged that Rule 60 "provides courts with authority 'adequate to enable them to vacate judgments whenever such action is appropriate to accomplish justice.'"
+Liljeberg v. Health Servs.
+Acquisition Corp. , 486 U.S. 847, 864 , 108 S.Ct. 2194, 2204 , 100 L.Ed.2d 855 (1988) (citation omitted).
+The Tenth Circuit is especially likely to disturb final judgments under Rule 60 (b) upon subsequent changes in the law: "a change in relevant case law by the United States Supreme Court warrants relief under Fed.R.Civ.P. 60(b)(6) ."
+Adams v. Merrill Lynch Pierce Fenner & Smith , 888 F.2d 696, 702 (10th Cir.1989).
+Rule 60 (b) has spawned an extensive jurisprudence; no doubt remains as to its constitutionality.
+And we know of nothing to indicate that an individual holds any greater constitutional right against one branch of government than she holds against another.
+This reasoning establishes that, despite McCullough , judgments that are final and nonappealable do not create rights that are absolutely immune from congressional manipulation.
+It is not our place to state general rules as to when the Due Process Clause permits Congress to disturb judgments.
+We limit our inquiry to the facts before us.
+Fortunately, the Court provides ample guidance in Donaldson .
+See 325 U.S. at 311-16 , 65 S.Ct. at 1141-43 .
+Donaldson sued a securities broker under Minnesota statutory and common-law fraud theories.
+A state judge ruled that the broker violated the Minnesota securities statute and that Donaldson timely filed his claim because his absence from the state tolled Minnesota's limitations period.
+Minnesota's Supreme Court held the latter ruling erroneous, and remanded for further proceedings.
+Id. at 306 , 65 S.Ct. at 1138 .
+Meanwhile, Minnesota's legislature enacted a limitations statute which permitted any securities fraud claim to be brought within one year of the statute if the securities were delivered more than five years before the statute's enactment date.
+Donaldson met the five year delivery requirement and availed himself of the new statute in Minnesota's courts.
+Id. at 308 , 65 S.Ct. at 1139 .
+The broker appealed to the Supreme Court, arguing that Minnesota deprived him of due process by applying the new limitations period to him.
+We quote extensively from the Court's unanimous refutation of this argument because we find it applicable here: Fourteenth Amendment Fourteenth Amendment Id. at 314-15 , 65 S.Ct. at 1142-43 (citations and footnotes omitted).
+The Defendants understandably stress the last phrase of the quoted passage, and observe that while Donaldson permits a legislature to retroactively change limitations periods, it says nothing about whether a legislature can divest a party of a final judgment.
+The problem with this argument is that Donaldson predates both Fleming and Usery , which we understand to establish that Congress may upset final judgments under some circumstances.
+To decide whether 27A(b) can constitutionally upset final judgments, we observe that the Court in Donaldson , Fleming , and Usery invariably considered whether the legislature acted rationally toward the party asserting a due process violation to determine whether retroactive legislation deprived those parties of rights without due process.
+13 In Fleming , the Court understood the landlords asserting due process rights to have taken advantage of an inadvertent two-month lapse in price-control regulation of defense-area housing during wartime, and held that Congress could rationally exercise its commerce authority to deny them this advantage.
+331 U.S. at 106 , 67 S.Ct. at 1143-44 .
+In Usery , the Court analyzed the effect of the retroactive legislation on the coal companies to determine whether the legislation "me[t] the test of due process" and concluded that the legislation was "justified as a rational measure to spread the costs of the employees' disabilities."
+428 U.S. at 16 , 96 S.Ct. at 2893 .
+Likewise, as we quote above, the Donaldson Court carefully considered the effect of the retroactive limitations statute on the broker before holding that Minnesota's legislature worked no injustice.
+325 U.S. at 315-16 , 65 S.Ct. at 1143 .
+And recently, the Court upheld a statute that retroactively assessed a fee for use of the Iran-United States Claims Tribunal against a due process challenge by applying this standard: "the test of due process" for "[t]he retroactive aspects of legislation" is met if "the retroactive application of the legislation is itself justified by a rational legislative purpose."
+United States v. Sperry Corp. , 493 U.S. 52, 64 , 110 S.Ct. 387, 396 , 107 L.Ed.2d 290 (1989) (quoting Pension Benefit Guar. Corp. v. R.A.
+Gray & Co. , 467 U.S. 717, 730 , 104 S.Ct. 2709, 2718 , 81 L.Ed.2d 601 (1984)).
+Donaldson frees us from speculating as to the bounds of due-process rationality when a legislature promulgates retroactive laws.
+Like the statute at issue in Donaldson , 27A(b) restores a remedy that PMLI and Simmons lost through lapse of time.
+Like the fraud-based cause of action at issue in Donaldson , the Defendants' conduct would not have been different if they would have foreseen 27A(b) .
+Like the effect of the retroactive legislation at issue in Donaldson , 27A(b) subjects the Defendants to a lawsuit.
+As a matter of practical effect on the parties, 27A(b) differs from the Donaldson legislation in one important respect.
+The Donaldson Court characterized the broker's expectation that the limitation law would remain as it was when suit was filed as a "legitimate hope[ ]," yet held this expectation insufficient to render Minnesota's retroactive limitations statute violative of due process.
+Id .
+Section 27A(b) represents Congress' complementary view that courts should honor the expectations of plaintiffs and defendants as they ascertained 10(b) limitations law upon the filing of these suits before Lampf .
+Section 27A(b) fulfills the hopes that the Donaldson Court found legitimate, and is thus a stronger candidate for retroactivity than the statute upheld by the Court; strong enough, we hold, to upset the Defendants' final, nonappealable judgments. 14 b. The Right to a Statute of Repose The Defendants argue that even if Congress can legitimately upset their judgments with 27A(b) , the statute still contravenes due process because it creates civil liability for past acts.
+Their argument rests on William Danzer & Co. v. Gulf & S.I.R.
+Co. , 268 U.S. 633 , 45 S.Ct. 612 , 69 L.Ed. 1126 (1925), where the Court distinguishes between time-bar statutes that bar the remedy of suit in court, and those that extinguish the liability altogether.
+Id. at 637 , 45 S.Ct. at 613 ; see also Donaldson , 325 U.S. at 312 n. 8, 65 S.Ct. at 1141 n. 8 (distinguishing Danzer according to its remedy/liability dichotomy).
+If a time-bar statute extinguishes liability, the Danzer Court held that a legislature cannot constitutionally amend such a statute to revive liability once extinguished.
+268 U.S. at 637 , 45 S.Ct. at 613 .
+To do so would "retroactively create liability" and thus "deprive the defendant of its property without due process of law in contravention of the Fifth Amendment ."
+Id. The Defendants point to the Lampf Court's distinction between a one-year statute of limitation and a three-year statute of repose, and its holding that Congress effectively created this time-bar structure in 1934.
+See U.S. at , 111 S.Ct. at 2780 .
+They observe that, like the statute at issue in Danzer , the three-year repose period recognized by the Lampf Court is an absolute bar not subject to equitable tolling.
+Compare id. at , 111 S.Ct. at 2782 with Danzer , 268 U.S. at 637 , 45 S.Ct. at 613 .
+From this, they reason that Congress in 1934 enacted an absolute three-year limit on liability for 10(b) violations.
+Because 27A(b) operates in these cases to lift this three-year outside limit, the Defendants argue that the statute "retroactively creates liability" in contravention of due process according to Danzer .
+As a preliminary matter, we note that the Usery Court squarely held that Congress may retroactively create liability for past acts, and thus compromises Danzer's holding that such legislation per se contravenes due process.
+See Usery , 428 U.S. at 16 , 96 S.Ct. at 2893 (legislation is not unlawful solely because "the effect of the legislation is to impose a new duty or liability based on past acts") (citations omitted).
+The Court has also questioned the continued validity of a dichotomy between remedy and right, at least where extinction of the remedy has the same effect as extinction of the right.
+See Donaldson , 325 U.S. at 314 , 65 S.Ct. at 1142 ; see also Lynch , 292 U.S. at 580 , 54 S.Ct. at 844 .
+And the last time a party asked the Court to apply Danzer , the Court did not even make a determination as to whether the time-bar statute at issue affected remedy or liability.
+International Union of Elec., Radio & Mach.
+Workers v. Robbins & Myers, Inc. , 429 U.S. 229, 244 , 97 S.Ct. 441, 450-51 , 50 L.Ed.2d 427 (1976).
+But even if Danzer remains good law, it does not help the Defendants.
+Danzer and its progeny are inapposite to statutes that bar remedies, while leaving liability intact.
+We need look no further than Lampf to determine whether the three-year statute of repose asserted by the Defendants bars liability.
+The Lampf Court strove for crystal clarity in stating its holding: "[T]he governing standard for an action under 10(b) [is] the language of 9(e) of the 1934 Act, 15 U.S.C. 78i(e) ."
+U.S. at n. 9 , 111 S.Ct. at 2782 n. 9.
+Section 9(e) as passed by Congress in 1934, provides: This language unequivocally bars an action to enforce a liability, and says nothing about the continued existence of that liability.
+Nowhere does the Lampf Court even imply that the absolute three-year statute of repose extinguishes liability under 10(b) .
+We hold that it does not.
+This holding conflicts with the Tenth Circuit's holding in Anixter v. Home-Stake Production Co. , 939 F.2d 1420, 1434 (10th Cir.1991) that 13 of the 1933 Act limits liability and not remedy.
+The Lampf Court relied upon 13 to hold that 9(e) governs 10(b) limitations periods, yet mentioned nothing about limitation of liability.
+U.S. at & n. 7 , 111 S.Ct. at 2780 & n. 7.
+And like 9(e) , the language of 13 unequivocally indicates a limitation of remedy, not of liability.
+15 We disagree with the Anixter court's opposite conclusion.
+The Defendants wrongly assume that a statute of repose must go to liability rather than remedy.
+See City of El Paso v. Simmons , 379 U.S. 497, 508 n. 9, 85 S.Ct. 577, 582 n. 9, 13 L.Ed.2d 446 (1965) ("[T]he statute of repose challenged here is an alteration of remedy rather than obligation.").
+They are also mistaken that a time-bar statute limits liability merely because a legislature structures it as an absolute bar that is not subject to equitable tolling.
+In Short v. Belleville Shoe Manufacturing Co. , 908 F.2d 1385 (7th Cir.1990), the court discussed 13 as follows: 13 13 Id. at 1391 (citations omitted).
+Rather than assess whether a statute is characterized as one of repose or limitation, or whether it is subject to equitable tolling, the relevant inquiry under Danzer is whether the legislature intended liability or remedy to be extinguished by a time bar.
+Donaldson , 325 U.S. at 311 n. 8, 65 S.Ct. at 1141 n. 8.
+The primary evidence of this intent is, of course, the language of the statute.
+16 In this case, we understand Congress to have decided in 9(e) that the three-year time bar goes to remedy only.
+Accordingly, the Defendants have failed to establish that 27A(b) unconstitutionally deprives them of any right.
+2.
+Judicial Authority The Defendants next invite us to strike 27A(b) as an affront to our Article III authority even if it does not contravene their constitutional rights.
+Other courts have considered some of the exact arguments made by the Defendants, and we draw on their wisdom before reaching the Defendants' novel contentions.
+a. Beam and Klein The Defendants present the same Beam argument that the district court describes in Simmons , 786 F.Supp.
+at 592-94 , and the Ninth Circuit describes in Gray , 989 F.2d at 1571-72 .
+We adopt the Ninth Circuit's analysis rejecting this argument insofar as it explains why any constitutional rule articulated in Beam does not limit Congress' powers under Article I. Id. at 1572 ; accord Cooke , 998 F.2d at 1264-65 ; Berning , 990 F.2d at 277-78 .
+The Defendants also argue that 27A(b) affects the outcome of cases without changing the law in violation of the rule announced in United States v. Klein , 80 U.S. (13 Wall.)
+128 , 20 L.Ed. 519 (1872).
+We adopt the analysis of the Eleventh Circuit in Scientific-Atlanta , 971 F.2d at 1572 , which explains that 27A respects Klein by changing the law.
+Accord Cooke , 998 F.2d at 1264-65 ; Berning , 990 F.2d at 278-79 ; Gray , 989 F.2d at 1568-70 ; Anixter , 977 F.2d at 1544-46 .
+b. Pure Retroactivity The Defendants also contend that Article I does not confer authority upon Congress to enact purely retroactive legislation.
+We view such a blanket prohibition as tantamount to a civil Ex Post Facto Clause, something that the Court has explicitly refused to recognize.
+See Galvan v. Press , 347 U.S. 522, 531 , 74 S.Ct. 737, 743 n. 4, 98 L.Ed. 911 (1954) ("The Court has undeviatingly enforced the position, first expressed in Calder v. Bull ," that "the ex post facto Clause applies only to prosecution for crime It would be an unjustifiable reversal to overturn a view of the Constitution so deeply rooted and so consistently adhered to.")
+(citation omitted); cf. Cummings v. Bostwick , 481 F.Supp.
+1251, 1254 & n. 6 (D.N.H.1980) (the constitutions of Colorado, Georgia, Idaho, Missouri, New Hampshire, Ohio, Tennessee and Texas explicitly prohibit all retroactive legislation).
+To the contrary, the Court has held that a statute is not unconstitutional merely for its retroactivity.
+See Usery , 428 U.S. at 19 , 96 S.Ct. at 2893 ; see also Scientific-Atlanta , 971 F.2d at 1573 (rejecting argument that 27A transgresses separation of powers doctrine because it is purely retroactive).
+The Defendants do not adequately distinguish Usery by explaining that the statute at issue in that case had some prospective effect.
+The Usery Court nowhere predicates its blessing of retroactive legislation on an associated prospective component.
+Indeed, the Court has before upheld purely retroactive legislation against a separation-of-powers challenge.
+See United States v. Sioux Nation of Indians , 448 U.S. 371, 424 , 100 S.Ct. 2716, 2745 , 65 L.Ed.2d 844 (1980).
+The Constitution imposes no bar on purely retroactive legislation per se .
+c. Final Judgments Lastly, the Defendants assert that 27A(b) unconstitutionally usurps judicial authority by upsetting final judgments. 17 They say that 27A(b) places Congress in the position of a super-appellate court, exercising review authority over the Supreme Court and its decisions in Lampf and Beam .
+To define the constitutional separation of legislative and judicial authority, the Court focuses upon "the practical effect that the congressional action will have on the constitutionally assigned role of the federal judiciary."
+Commodity Futures Trading Com.
+v. Schor , 478 U.S. 833, 851 , 106 S.Ct. 3245, 3257 , 92 L.Ed.2d 675 (1986).
+Under this standard, we find 27A(b) harmless.
+With 27A(b) , Congress did not overrule decisions of the Supreme Court.
+As we have held through Scientific-Atlanta , Congress changed the law after final judgment in Lampf and Beam , giving plaintiffs a new right to assert in court through a reinstatement motion.
+The Defendants understandably claim a violation of their constitutional rights by this action, but 27A(b) takes no authority from the judiciary.
+Most significantly, 27A(b) leaves the final resolution of securities-fraud disputes to the courts--we will decide, indeed are here deciding, which controversies will end in dismissal despite 27A(b) .
+If we understood a statute's purpose to be the reversal of results in particular controversies between private individuals, we would strike the statute as violative of our authority to decide cases.
+See, e.g. , United States v. O'Grady , 89 U.S. (22 Wall.)
+641, 648 , 22 L.Ed. 772, 773-74 (1875) (finding that the Treasury Secretary invaded judicial authority by offsetting a court's judgment with claimed, but unlitigated tax liability).
+But 27A(b) is innocent on this score.
+By upsetting final judgments, 27A(b) at most denies us some authority to say when a controversy is over.
+There is no constitutional impediment to this denial if we share authority with Congress to say when a controversy is done.
+In Sioux Nation , the Court held that the Constitution does not forbid Congress from mandating that a controversy continues when the Court says that it is done.
+The Sioux Nation brought a Fifth Amendment takings claim against the United States because our government breached a treaty obligation to reserve the Black Hills of South Dakota to the Sioux.
+The United States Court of Claims dismissed the Sioux Nation's claim for interest on the value of the seized property as barred by res judicata.
+United States v. Sioux Nation of Indians , 207 Ct.Cl.
+234 , 518 F.2d 1298, 1306 (1975).
+The Supreme Court denied certiorari.
+423 U.S. 1016 , 96 S.Ct. 449 , 46 L.Ed.2d 387 (1975).
+Three years later, Congress directed the Court of Claims to review the claim's merits without consideration of res judicata.
+See 25 U.S.C. 70s(b) ; 448 U.S. at 389 , 100 S.Ct. at 2727 .
+After the Court of Claims ruled in favor of the Sioux Nation, the government appealed, asserting that 70s(b) violates the constitutional separation of legislative and judicial authority.
+The Court upheld 70s(b) , permitting Congress to say that a controversy continues after the Court has said that it does not.
+448 U.S. at 405 , 100 S.Ct. at 2735-36 ; see also Tonya K. , 847 F.2d at 1247 (citing Sioux Nation for the proposition that "Congress may invite a court to reconsider even when it may not dictate the outcome").
+Schooner Peggy and its extensive progeny also represent compelling evidence that the Constitution permits Congress and the judiciary to share authority in deciding when a court is finished deciding a particular controversy between individuals.
+See 5 U.S. (1 Cranch) at 110 .
+With the exception of McCullough , 18 the Court has repeatedly observed Chief Justice Marshall's admonition that appellate courts must decide cases according to the law that exists when they decide, not the law that existed when the lower court rendered its decision.
+In an extreme and stringent application of this rule, the Court rendered 149 Madison Avenue Corp. v. Asselta , 331 U.S. 795 , 67 S.Ct. 1726 , 91 L.Ed. 1822 modifying , 331 U.S. 199 , 67 S.Ct. 1178 , 91 L.Ed. 1432 (1947).
+The 149 Madison Avenue Court had affirmed a judgment for overtime pay due plaintiffs.
+331 U.S. at 209 , 67 S.Ct. at 1184 .
+But before the time for rehearing had run, Congress retroactively created a defense for the defendants, who asked the Court to reconsider its affirmance in light of the change in law.
+The Court changed its judgment from an affirmance to a remand so that the district court could consider the case in light of the new law. 331 U.S. at 795 , 67 S.Ct. at 1726 .
+The district court eventually entered judgment for the defendants.
+Asselta v. 149 Madison Ave. Corp. , 90 F.Supp.
+442 (S.D.N.Y.1950).
+Of course, the rule announced in Schooner Peggy does not depend on whether the intervening law helps a particular party.
+Courts must apply the new law regardless of whether it ends a case that the court otherwise would have remanded for further proceedings.
+Thus, we interpret Schooner Peggy to support the constitutional proposition that Congress and the judiciary share authority to decide when the judiciary's word on a controversy is its last.
+The Defendants have articulated no constitutional reason why these controversies should not continue.
+III.
+CONCLUSION We REVERSE the orders of the district courts and reinstate the cases.
+We REMAND for further proceedings consistent with this opinion.

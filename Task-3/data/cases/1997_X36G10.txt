@@ -1,0 +1,51 @@
+ COX , Circuit Judge: This interlocutory appeal presents a single issue: whether the thirty-day removal period provided by 28 U.S.C. 1446(b) begins when the defendant receives a copy of the plaintiff's initial pleading, or when the defendant is served with a copy of that pleading.
+Concluding that the clock starts to tick upon the defendant's receipt of a copy of the filed initial pleading, we reverse.
+Background Michetti Pipe Stringing, Inc. sued Murphy Bros., Inc. in Alabama state court.
+Within a few days of filing suit, Michetti's counsel faxed a file-stamped copy of the complaint with a cover letter to Murphy's vice president for risk management.
+Murphy replied to the letter and acknowledged receipt of the complaint.
+Two weeks later, Michetti formally served Murphy by certified mail.
+Murphy filed a notice of removal under 28 U.S.C. 1446(a) thirty days after the complaint had been served--but forty-four days after receiving the facsimile copy.
+Michetti moved the district court to remand the case to state court on the ground that the notice of removal was untimely.
+Citing district court precedent from Alabama and elsewhere in this circuit, the court denied the motion, but certified the order for interlocutory appeal, identifying the key question to be whether 28 U.S.C. 1446(b) embodies a "receipt rule" or a "service of process rule."
+This court granted Michetti's petition for permission to appeal under 28 U.S.C. 1292(b) .
+Michetti now invites us to follow the statute's plain language and hold that 1446(b) 's thirty-day period runs from the defendant's receipt of the complaint.
+Murphy, on the other hand, points to both legislative history and fairness concerns in asking for a rule that the thirty-day clock starts to tick upon service.
+Murphy proposes that service for this purpose need not mean service that complies with state procedures, as long as the plaintiff intended it as service.
+1 Because the question here is purely one of law, we review de novo the district court's denial of the motion to remand.
+2 Discussion Section 1446 , which governs the procedure for removal of a case from state to federal court, limits the period in which a defendant may exercise his removal right: receipt or otherwise 3 By and large, our analysis begins and ends with the three italicized words.
+The statute uses the word "receipt," not "service," to describe the action that starts the thirty-day clock.
+"Receipt" is the nominal form of "receive," which means broadly "to come into possession of" or to "acquire."
+4 Attached to "receipt," the phrase "through service or otherwise" opens a universe of means besides service for putting the defendant in possession of the complaint.
+Limiting the triggering event to "service," on the other hand, would violate these words' broad meaning by trimming that universe down to a narrow spectrum of methods.
+If a statute is clear, it means what it says.
+5 We therefore join the other circuit courts that have confronted the issue and hold that the thirty-day removal period begins to run when a defendant actually receives a copy of a filed initial pleading by any means.
+6 Here, the countdown began the day after the arrival of the faxed, file-stamped copy of the complaint in the hands of a responsible Murphy employee.
+The notice of removal came forty-four days later and was therefore untimely.
+The statute's clarity notwithstanding, two of Murphy's contentions merit further discussion.
+First, Murphy argues that this plain meaning contravenes the congressional intent reflected in the legislative history.
+It is true that "[i]n rare and exceptional circumstances, we may decline to follow the plain meaning of a statute because overwhelming extrinsic evidence demonstrates a legislative intent contrary to the text's plain meaning."
+7 But the phrase "receipt or otherwise," as interpreted here, is not contrary to--or "demonstrably at odds" with, as the Supreme Court has put it 8 --the intent Murphy divines from the legislative history.
+That history is as follows: before 1948, a defendant could remove a case at any time when, under state procedure, he could file a responsive pleading.
+9 To homogenize practice from state to state, in 1948 Congress amended 1446 to add a twenty-day (later thirty) deadline that ran from service of process.
+10 A problem arose, however, in states such as New York where service of process could precede filing and service of the complaint.
+In these states, a defendant's removal time could expire before he saw the complaint and knew whether it contained a removable claim.
+11 In 1949, Congress amended 1446 to the present "by receipt or otherwise" language in order to eliminate this problem.
+12 From this history, Murphy argues that the "receipt or otherwise" language was not meant to have any effect outside of states like New York.
+Therefore, Murphy concludes, only in New York did receipt replace service as the triggering event.
+The legislative history does not lead to that result.
+There were undoubtedly narrower ways of solving the New York problem than changing the triggering event from service to receipt.
+That does not mean, however, that the result in this case is necessarily "at odds" with what Congress meant to do.
+An at-odds reading "thwart[s] the obvious purpose of the statute."
+13 An interpretation that started the clock running before the complaint landed in the defendant's hands could "thwart the obvious purpose" of the New York amendment, but today's reading does not do that.
+Rather, it puts defendants in other states on the same footing as those in New York: they have thirty days to remove after they see the filed complaint.
+It does not thwart Congress's intent to apply the amendment nationwide unless Congress indicated an intent to limit it to New York and like states.
+The indication is in fact to the contrary: the Senate report accompanying the amendment states that "[i]t is believed that this will meet the varying conditions of practice in all the States ."
+14 And the stated intent for the 1948 amendments was to make practice identical from state to state; 15 making other states different from New York thwarts that intention.
+So the plain meaning stands.
+Murphy's second contention is that a receipt rule invites abuse by perfidious plaintiff's counsel, who will, Murphy claims, set "courtesy copy traps" for unwary defendants--in extreme cases eliminating the right to remove by sending unfiled, draft complaints thirty days before filing them.
+The short answer is that no such abuse has occurred here; Michetti faxed a file-stamped copy of the complaint to a Murphy employee who knew enough to see that a response followed.
+Any unfairness to Murphy here results more from unsettled law, which prevented Murphy from being able to determine its removal deadline, than Michetti's cunning.
+The question of discouraging unjust tactics can thus be safely set "aside for consideration on a rainy day."
+16 In any event, it appears unlikely that a plaintiff could eliminate the right to remove altogether by sending a draft complaint thirty days before filing it--until it is filed, a draft complaint is not the "initial pleading setting forth the claim for relief upon which such action is based" that the defendant must receive to start the thirty-day clock.
+17 Conclusion The district court's denial of the motion to remand is reversed and the action is remanded with instruction to the district court to remand the action to the Tenth Judicial Circuit of Alabama.
+REVERSED and REMANDED WITH INSTRUCTION.

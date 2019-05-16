@@ -1,0 +1,232 @@
+ LUMBARD, Circuit Judge: The American Society of Mechanical Engineers (ASME) appeals from a judgment of $7.5 million, entered in the Eastern District of New York on February 14, 1979, Judge Weinstein presiding.
+The jury found that ASME had participated in a conspiracy to restrain trade in violation of 1 of the Sherman Act, 15 U.S.C. 1 , and assessed damages at $3.3 million.
+Judge Weinstein deducted from that figure $800,000 paid in settlement by other defendants and then trebled the remainder, awarding total damages of $7.5 million.
+We affirm the judgment of liability on a theory different from that of the district court, and remand for a new trial on damages, with instructions regarding the treatment of the settlement payments and the assessment of legal fees.
+I. FACTS ASME is a tax-exempt technical and scientific society founded in 1880 and based in New York.
+It has more than 90,000 members, drawn from all fields where mechanical engineers are active-including industry, academia, insurance and government-and has an annual operating budget of over $12 million.
+It conducts educational and research programs, publishes a national magazine devoted to mechanical engineering, and, principally important to this case, promulgates over 400 codes and standards.
+Those codes have great influence in the profession and the marketplace.
+Indeed, they have been incorporated by reference into federal, state, and local laws and regulations.
+1 Although ASME employs a full-time staff, much of its work is done by volunteers from its membership who participate in ASME as individuals, not as representatives of their employers.
+Over 10,000 such volunteers participate in the many ASME committees and sub-committees that draft, revise, and interpret ASME's codes.
+The question in this appeal is whether ASME is liable for the restraint of trade that resulted when two of its highly placed volunteers caused it to issue a misinterpretation of one such code so as to frustrate competition at the expense of Hydrolevel Corporation.
+At all relevant times, the Boiler and Pressure Vessel Code set standards for the performance of various components of steam and water boilers and pressure vessels.
+Section IV of the Code set standards specifically for components of heating boilers, including a device whose name wholly describes its function: the low-water fuel cut-off.
+If the water inside a boiler drops below a level that is sufficient to moderate the boiler's temperature, the boiler will "dry fire" and can explode.
+A low-water fuel cut-off cuts off fuel to the boiler, and thus stops it, when the water reaches a certain low point.
+To ensure that the cut-off operates before the water reaches a dangerously low level, Paragraph HG-605 of Section IV of the Code required that each boiler "have an automatic low-water fuel cut-off so located as to automatically cut off the fuel supply when the surface of the water falls to the lowest visible part of the water-gauge glass" attached to the outside of the boiler.
+The leading manufacturer of cut-offs for the last fifty years has been McDonnel & Miller, Inc. (M&M), of Chicago, which annually makes 70%-85% of the sales of "float" cut-offs.
+The literal nomenclature of this area of mechanical engineering almost wholly explains function: when water in the boiler falls to the critical level, a floating bulb falling with the water trips a switch mechanically linked to the bulb and thus cuts off the fuel.
+Hydrolevel began in 1965 to manufacture and market a "probe" cut off which, as its name suggests, penetrates into the water in the boiler.
+So long as water covers an electrode in the probe, a completed electrical circuit will cause fuel to flow to the boiler; when the water drops below the probe, the circuit is broken and the fuel stops.
+Without entering the engineering debate over which kind of cut-off is better, an obviously irrelevant question in this appeal, it must be said that neither was flawless.
+The one flaw that is relevant was that found in the probe cut-off: because boiling water bubbles and surges inside the boiler, it intermittently falls below the probe and cuts off the fuel although still at a safe level.
+Hydrolevel therefore incorporated into its probe cut-off a time-delay element that allowed fuel to continue flowing for sixty to ninety seconds after the water fell below the probe.
+This reduced the fluctuations in the fuel supply caused by bubbling and surging, but still cut off the fuel before the boiler could dry fire if the water actually fell to a critically low point.
+In early 1971, a major purchaser of cut-offs, Brooklyn Union Gas Co., had decided to change to Hydrolevel's time-delay probe after years of purchasing M&M's float.
+At the same time, M&M arranged to use ASME code interpretation procedures to stifle Hydrolevel's competition.
+John W. James, the Vice-President in charge of Research at M&M, was the Vice-Chairman of the Section IV Subcommittee of ASME which drafted, revised, and interpreted Section IV of the Boiler and Pressure Vessel Code.
+The Chairman of the Subcommittee was T. R. Hardin, an Executive Vice-President of Hartford Steam Boiler Inspection and Insurance Company (Hartford), the country's leading underwriter of boiler insurance.
+2 In March 1971 James and Hardin, along with James Solon, the President of M&M, and Eugene Mitchell, its Vice-President of Sales, decided to send to the Boiler and Pressure Vessel Committee a letter inquiring whether a cut-off with a time-delay met the standard of Paragraph HG-605.
+James and Hardin drafted a letter of inquiry that they believed would elicit a negative answer.
+On April 12, Mitchell signed the letter and sent it to W. Bradford Hoyt, the Secretary of the Boiler and Pressure Vessel Committee, who was a full-time ASME officer.
+The letter asked, after paraphrasing Paragraph HG-605: As Secretary of the Boiler and Pressure Vessel Committee, Hoyt processed such written inquiries according to 8 of the Boiler and Pressure Vessel Committee Procedure.
+Many inquiries could be answered with form letters authorized in 8.01.
+For inquiries that could not be answered by a form reply, 8.02 provided that the "Secretary shall immediately refer such matters to the Chairman of the proper Subcommittee or to a Special Committee appointed by the Chairman or Vice-Chairman in cases where no other procedure is evident."
+The April 12 inquiry from M&M could not be answered with one of the form letters under 8.01, so Hoyt referred it under 8.02 to Hardin, the "Chairman of the proper Subcommittee."
+ASME's procedures then put Hardin in unsupervised control of its response to the inquiry.
+Under 8.02, an inquiry that could "be answered by direct reference to the Code" would receive an "unofficial communication" from ASME.
+In such instances, "the subcommittee or special committee chairman shall outline the reply to be sent by the Secretary."
+An inquiry that could not be answered with an unofficial communication would receive, under the other subsections of 8.02, the attention of the entire subcommittee.
+Hardin, however, treated the April 12 inquiry as one requiring only an unofficial communication and, accordingly, only his attention.
+ASME provided no review of Hardin's discretion to respond unofficially to the inquiry.
+He drafted a reply and sent it to Hoyt, who on April 29 sent an answer to Mitchell, which in pertinent part stated as follows: The second paragraph of this letter does not follow from the first.
+Whether a cut-off with a time-delay will assure that the water level will not fall dangerously low during the delay depends upon where on the boiler the cut-off is positioned vis-a-vis the water gauge glass.
+If the cut-off is positioned sufficiently above the lowest permissible water level, a cut-off with a time-delay could assure, even allowing for the delay, that the fuel supply would stop by the time the water fell to the lowest visible part of the water-gauge glass.
+The letter's first paragraph takes the distance between the cut-off and water gauge glass into account by referring to Paragraph HG-602(b), which sets the location of the water-gauge glass on the boiler.
+The second paragraph does not take that distance into account and therefore draws its misleading conclusion.
+Despite that failure in logic, the ASME answer proved to be valuable M&M propaganda.
+M&M included a copy of the April 29 answer in its booklet entitled "The Opposition Who They Are, How to Beat Them," which M&M distributed to its salesmen.
+Further, a message from Mitchell in the booklet described Hydrolevel's cut-off and its time-delay and stated: Not surprisingly, copies of ASME's April 29 answer soon reached the hands of customers in the cut-off market.
+Hydrolevel first learned about the April 29 answer in January, 1972, from an erstwhile customer.
+Hydrolevel's Vice President, Dominic DeLeonardis, requested a copy of the letter from Hoyt.
+On February 8, an Assistant Secretary of the Boiler and Pressure Vessel Committee, R. D. Sutton, sent to DeLeonardis a letter that quoted both substantive paragraphs of the April 29 answer but did not reveal, pursuant to ASME's policy of maintaining inquirers' anonymity, that the inquirer had been M&M.
+After seeing the April 29 letter and recognizing its second paragraph as misleading, and believing that ASME itself had distributed the letter to the cut-off market, Hydrolevel's President, Russel Rymer, complained to Hoyt on March 23, 1972 that the letter had seriously impaired Hydrolevel's sales.
+Rymer urged that ASME send to whomever might have received the letter a statement that a cut off with a time-delay can meet the Boiler and Pressure Vessel Code.
+In response, Hoyt placed the matter of the April 29, 1971 letter on the agenda for the next meetings of the Boiler and Pressure Vessel Committee and Subcommittee, May 4 and 5, 1972.
+When the Subcommittee met on May 4, James presided, having succeeded to the chairmanship after Hardin resigned.
+Among many items of business at this meeting, which like all ASME committee and subcommittee meetings was public, the Subcommittee discussed Rymer's complaint.
+During that discussion James stepped down from the chair.
+The Subcommittee voted to "confirm the intent of the first paragraph" of the April 29 letter.
+James reported this recommendation to the Committee meeting on May 5, along with the Subcommittee's recommendations on other matters.
+The Committee voted to send Hydrolevel an "official communication", rather than simply reaffirm the first paragraph, and it appointed two Committee drafters.
+The drafters proposed, the Committee approved, and on June 9, 1972 Hoyt sent to Rymer a letter that reversed the implication of the April 29 answer by stating "there is no intent in Section IV to prohibit the use of low water fuel cut-offs having time delays in order to meet the requirements of Par.
+HG 605(a)."
+3 Two years later, on July 9, 1974, the Wall Street Journal printed an article called "Knocking the Competition How Rival's Use of 'Industry Code' Report Created Problems for Tiny Company."
+The article reported Hydrolevel's difficulties in attempting to sell a cut off which the market still believed did not meet the Code, and it suggested that "a marketing ploy" by M&M had created that belief.
+It also reported that James had known about the inquiry-but did not report that James in fact had helped draft the inquiry and it implied that a conflict of interest existed between James's position at M&M and on the Subcommittee.
+The article's suggestions of impropriety prompted ASME's Professional Practice Committee to investigate, but it never discovered James's implication in the April 12 inquiry.
+On the facts before it, the Committee concluded that Hoyt, Hardin, and James had each acted properly.
+The Committee reopened its investigation, however, in March 1975, after James revealed for the first time, while testifying before the Subcommittee on Antitrust and Monopoly of the Senate Judiciary Committee, that he had helped draft the April 12 inquiry and that he had destroyed his correspondence with Hardin after learning about the Wall Street Journal investigation from Hoyt.
+Upon the advice of ASME's counsel, the Committee deferred further action pending this lawsuit, which Hydrolevel commenced on August 23, 1975, against ASME, M&M, and Hartford.
+In early 1979, Hydrolevel sold all its assets except this suit for $86,000 salvage value.
+M&M settled with Hydrolevel for $725,000; Hartford settled for $75,000, leaving ASME to go to trial alone.
+4 The district court first tried the issue of liability, and on January 30, 1979, after a seven-day trial, the jury found that ASME had conspired to restrain trade in the cut-off market.
+The same jury then heard evidence on the issue of damages.
+Hydrolevel presented three experts who offered estimates of Hydrolevel's injuries, ranging from $2,358,000 to $7,436,300 based on harms forecast as far in the future as 1988.
+ASME's only expert witness on damages disputed the methods of computation used by Hydrolevel's experts but offered no alternative damage estimates.
+ASME's principal defense was that Hydrolevel's losses had been caused by inadequate sales promotion and a defective product rather than by any ASME misrepresentation.
+On February 2, 1979, the jury found that Hydrolevel had suffered damages of $3.3 million.
+Judge Weinstein reduced the damages by the $800,000 settlements to $2.5 million, trebled that, and entered a judgment for $7.5 million.
+He also denied attorneys' fees for Hydrolevel.
+ASME appeals from the liability verdict and the damage assessment; Hydrolevel cross-appeals from Judge Weinstein's deduction of settlements before trebling and his refusal to grant attorneys' fees.
+II.
+LIABILITY We affirm the jury's verdict of liability under 1 of the Sherman Act, a verdict based upon a finding that ASME had conspired with others to restrain trade unreasonably in the low-water cut-off market by disparaging Hydrolevel's cut-off through a misinterpretation of the Boiler and Pressure Vessel Code.
+Given the effect and intent of the April 29 interpretive letter and its subsequent misuse by M&M, the restraint was surely unreasonable: it intentionally misinterpreted the Code so as to prevent Hydrolevel from selling its product.
+The more troublesome question, which we also decide in favor of Hydrolevel, is whether ASME may be held liable as a conspirator because of the acts of its agents.
+Although we affirm the jury's verdict, we do so on a theory different from that embodied in the instructions to the jury.
+In its Request Number 28, Hydrolevel requested that Judge Weinstein charge the jury that ASME would be responsible for its agents' actions if they acted within the scope of their apparent authority, even if they did not intend to benefit ASME.
+Judge Weinstein, however, rejected that view and instructed the jury that ASME was not liable for its agents' acts unless (1) ASME ratified those acts or (2) the agents had acted to advance ASME's interests.
+He charged: .
+.
+.
+.
+.
+The argument on this appeal centered on whether the evidence justified a verdict for Hydrolevel under either of the district court's theories.
+We need not resolve that dispute, for we hold that the district court erred in refusing Hydrolevel's requested jury instruction that incorporated an apparent authority theory.
+The district court charged the jury that ASME could be held liable only if the jury found that ASME had ratified the acts of its agents or if the agents had acted to advance ASME's interests.
+That is the appropriate theory for conventional torts.
+See Restatement (2d) of Agency 235, 236.
+The conduct at issue here, however, is far closer to the torts discussed in 247 (defamation); 248 (interference with business relations); 257 (misrepresentation); and 261 and 262 (fraud).
+None of these sections ties the principal's liability to a requirement that the agent act at least in part for the principal's benefit, and several expressly reject such a requirement.
+See 257, comment d; 261, comment a; 262.
+Under these sections it is likewise immaterial that the agent knows the transaction to be a sham.
+See 261, comment a and illustration 3.
+The leading case holding the principal liable where the agent commits fraud while acting within the scope of his apparent authority, although without intention to benefit the principal, is Mr. Justice Stone's opinion in Gleason v. Seaboard Air Line Co. , 278 U.S. 349 , 49 S.Ct. 161 , 73 L.Ed. 415 (1929), which since then has not been questioned.
+The reasons for this stringent treatment of intentional torts are not difficult to find.
+Such torts arise from and are enhanced by the agent's appearance of authority.
+Third persons-here the customers to whom M&M's circulated the misleading ASME letter-are entitled to rely on that appearance.
+Moreover, as stated in 247, dealing with defamation, the act of the agent "is effective, in part at least, because of the personality" of the principal.
+Or, as said in 261, comment a, dealing with fraud: Imposing liability on the principal will induce greater care to prevent misconduct by agents occupying especially sensitive or responsible positions that invite reliance-a consideration of great importance in cases such as this where misuse of quasi-official standards and codes can so easily injure competitors.
+Hardin's conduct here was essentially a fraud, a willful and knowing misrepresentation of the Code.
+The victims, however, were those customers to whom he knew M&M would circulate the letter as well as, ultimately and most seriously, the plaintiff.
+This difference from the more usual situation in which the injured party relies directly on the culpable misrepresentations can hardly be material.
+In Ricketts v. Pennsylvania R. Co. , 153 F.2d 757, 759 (2d Cir. 1946), we held that there is "no distinction in principle" between the situation in which the agent deceives the third person "and one in which the agent deceives, not the third person, but his principal."
+Alternatively, the tort could be regarded as "injurious falsehood."
+See Prosser, Torts 128 at 915-26 (4th ed. 1971); Restatement (2d) of Torts 623A.
+As to this, the Restatement (2d) of Agency tells us, 248 comment b, that where "harm to business relations is accomplished by defamation or other methods of untruthful publicity, a servant with apparent authority to make statements binds his employer, irrespective of his motive " 5 A conspiracy to restrain trade is so similar to fraud, injurious falsehood, and tortious interference with business relations that application of the Restatement rules governing those torts is appropriate.
+Moreover, ASME's widespread influence through its Code carries with it a corresponding duty to guard against the misuse of such influence.
+It is difficult to see how a trade association should be treated any differently than a business competitor, especially when it is the association's standing and influence that makes the conspiracy effective and possible.
+In a variety of contexts, trade associations are obligated to take suitable precautions to avoid antitrust violations.
+See Symposium, Trade and Professional Associations: The Antitrust Combat Zone , 46 Antitrust L.J. 638 (1977).
+While ASME may have no alternative to staffing its committees with business people having practical knowledge, there is a corresponding duty to be aware of and guard against the temptations thus afforded by inherent conflicts of interest.
+Absent some internal review procedures, no individual should be empowered to rule dispositively on the fitness of a competitor's product.
+When an organization has placed a person in a position to do what Hardin did, without any check or supervision, it must bear the consequences.
+Two considerations opposing this more stringent rule of liability warrant brief mention: the treble damages provision in 4 of the Clayton Act and the non-profit, voluntary aspects of trade associations such as ASME.
+The first consideration suggests that broad agency theories of liability are inappropriate where treble damages are required.
+For example, in United States v. Ridglea State Bank , 357 F.2d 495 (5th Cir. 1966), the court rejected an expansive agency doctrine in a case under the False Claims Act, 31 U.S.C. 231 et seq.
+(1976), because the Act's double damages provision provides "a recovery wholly out of proportion to actual loss."
+357 F.2d at 500 .
+6 In our view, the treble damages accorded under the antitrust laws are distinguishable.
+In contrast to a private antitrust action, the United States need not suffer actual damages before collecting penalties under the False Claims Act.
+See United States v. Cherokee Implement Co. , 216 F.Supp.
+374, 375 (N.D.Iowa 1963), and cases cited therein.
+The comparatively more punitive False Claims Act award includes not only a double damage remedy but also fixed forfeitures for each violation of the act.
+See Ridglea , supra , 357 F.2d at 499 .
+Beyond this, restraint of trade was, under the common law, a variety of business tort that was remedied through restitution.
+See Comment, Private Treble Damage Antitrust Suits: Measure of Damages for Destruction of All or Part of a Business , 80 Harv.L.Rev.
+1566 (1967).
+See also Standard Oil Company of New Jersey v. United States , 221 U.S. 1, 50-69 , 31 S.Ct. 502, 511-519 , 55 L.Ed. 619 (1911); Williamson v. Columbia Gas & Electric Corp. , 110 F.2d 15, 17-18 (3d Cir. 1940).
+7 Full restitution of plaintiffs' losses is a no less central objective of the treble damage provision than the encouragement of private antitrust enforcement.
+See Illinois Brick Co. v. Illinois , 431 U.S. 720, 746-47 , 97 S.Ct. 2061, 2074-2075 , 52 L.Ed.2d 707 (1977); Brunswick Corp. v. Pueblo Bowl-O-Mat, Inc. , 429 U.S. 477, 485-87 , 97 S.Ct. 690, 695-697 , 50 L.Ed.2d 701 (1977); K. Elzinga & W. Breit, The Antitrust Penalties 66-67 (1966); Comment, supra , at 1566-67.
+Unlike the False Claims Act penalties, where damages are doubled although the government's losses are readily ascertainable, the trebling of damages under the antitrust laws reflects congressional recognition of the difficulty of proving antitrust damages.
+See Brunswick Corp. v. Pueblo Bowl-O-Mat, Inc. , supra , 429 U.S. at 486 n. 10, 97 S.Ct. at 2066 n. 10; K. Elzinga & W. Breit, supra , at 67; Comment, supra , at 1566.
+Thus, we see no reason why the treble damage provision of the Clayton Act should compel a restricted view of agency law.
+That brings us to the second consideration affecting ASME's liability: whether ASME's unique structure or status should mandate a different result.
+We conclude that it should not.
+ASME's reliance on Coronado Coal Corp. v. United Mine Workers , 268 U.S. 295 , 45 S.Ct. 551 , 69 L.Ed. 963 (1925), is misplaced; that decision held that an international union may not be held liable for a Sherman Act violation by leaders of a local where, under the constitution of the International, it could only accept authority for the action by express ratification.
+Id. at 304 , 45 S.Ct. at 554 .
+ASME's protest that its status as a professional organization requires more flexible treatment than would be accorded an ordinary corporation is similarly unpersuasive.
+Dicta indicating more flexible and lenient treatment of professional organizations in Goldfarb v. Virginia State Bar , 421 U.S. 773, 788-89 , 95 S.Ct. 2004, 2013-2014 , 44 L.Ed.2d 572 (1975), and National Society of Professional Engineers v. United States , 435 U.S. 679, 696 , 98 S.Ct. 1355, 1368 , 55 L.Ed.2d 637 (1978), concern the antitrust consequences of such organizations' regulation of their own members.
+See generally Handler, Antitrust-1978 , 78 Colum.L.Rev.
+1363, 1364-68 (1978).
+The dicta of those cases refer only to uniform regulation of the professional conduct of an association's members.
+By contrast, this case involves the radically different situation where a professional organization having great economic influence is implicated in a conspiracy to restrain competition to the injury of third parties and the public.
+See, e. g. , United States v. Hilton Hotels Corp. , 467 F.2d 1000 (9th Cir. 1972), cert. denied , 409 U.S. 1125 , 93 S.Ct. 938 , 35 L.Ed.2d 256 (1973) (corporation criminally liable for boycott participation by purchasing agent disobeying express instruction and motivated by personal pique against boycott target); Northern California Pharmaceutical Ass'n v. United States , 306 F.2d 379-86 (9th Cir. 1962) (professional organization subject to Sherman Act where its activities are of precisely the sort that Act condemns).
+For ASME to be liable, then, Hydrolevel had to demonstrate only that ASME's agents acted within their apparent authority when participating in the conspiracy; it did not have to demonstrate that they also acted in part to benefit ASME or that ASME later ratified their actions.
+The district court's charge required either one of those two additional aspects and consequently was more favorable to ASME than it should have been.
+As the jury found for Hydrolevel on a charge that was more favorable to the defendant than the law requires, we affirm the judgment on liability.
+III.
+ALLEGED TRIAL ERRORS ASME argues that several errors at trial require reversal of the jury's liability determination.
+Principally, ASME asserts that the district court erred in admitting four pieces of evidence: the July 1974 Wall Street Journal article that contained a concise and apparently corroborating account of Hydrolevel's charges; references to the FTC and Senate Subcommittee investigations of Hydrolevel's charges; the deposition of John Bonner, the chairman of a plumbing supply company, who had been included in ASME's list of possible expert witnesses but who gave testimony damaging to ASME in his pretrial deposition and was never called at trial; and finally, the alleged hearsay testimony of DeLeonardis on conversations with potential Hydrolevel customers who indicated concern that Hydrolevel's device did not meet ASME requirements.
+We find no error in the admission of this evidence.
+The most serious objection raised by ASME concerns the Wall Street Journal article.
+But, to the extent that the article addressed the circumstances attending M&M's April 12 inquiry and ASME's April 29 response, its account was considerably less damning than the facts developed at trial.
+More important, the article was admitted only to demonstrate the state of mind of those who reacted to it: Hoyt's advising James about the article and James' response in destroying the ASME correspondence file on the subject were relevant to Hydrolevel's ratification argument.
+The Journal article led the ASME directors to call for an investigation that Hyrdolevel asserts was never meant to uncover anything.
+To avoid any undue prejudice, Judge Weinstein instructed the jury initially that the article was not admitted for the truth of its assertions and, in his charge, directed the jury not to read it at all.
+Taken together, those considerations suggest that admission of the article did not constitute error.
+The remaining evidentiary objections are without merit.
+Mere mention of the FTC investigation and Senate hearings was not impermissibly prejudicial in light of the court's strong cautionary instructions.
+The Bonner deposition was admitted for the limited purpose of indicating how the April 29 letter might be interpreted in the industry.
+Although the district court never certified Bonner as an expert, there is no doubt that Bonner, as a businessman, engineer, and potential ASME expert, was qualified to provide expert testimony.
+Finally, the alleged DeLeonardis hearsay regarding responses of potential customers is excepted from the hearsay rule by Fed.R.Evid.
+803(3) .
+"Statements of a customer as to his reasons for not dealing with a supplier are admissible for this limited purpose " Herman Schwabe, Inc. v. United Shoe Machinery Corp. , 297 F.2d 906, 914 (2d Cir.), cert. denied , 369 U.S. 865 , 82 S.Ct. 1031 , 8 L.Ed.2d 85 (1962) (citations and footnote omitted); J. Weinstein and M. Berger, Weinstein's Evidence ¶ 803(3) (1979).
+In addition to its evidentiary objections, ASME asserts that Hydrolevel's counsel's misstatements and emotionalism during summation require a new trial.
+We do not agree.
+Judge Weinstein's rulings regarding the summation were well within his discretion.
+ASME's trial counsel had ample opportunity to set the record straight during his own summation.
+In any event, on retrial of damages it should be made clear that misstatements of evidence and extravagant and hyperbolic language and displays of emotion of Hydrolevel's counsel must be avoided.
+IV.
+DAMAGES We reverse the judgment as to damages and remand for a new trial.
+The jury returned a verdict of $3.3 million; but, as ASME argues, the verdict was excessive and should not stand.
+Although the trial judge did not say in so many words that the damage verdict was excessive, he was obviously of the view that the verdict was excessive.
+In passing on ASME's motion to set aside the verdict and on Hydrolevel's motion for counsel fees, and in directing judgment on the verdict, the trial judge did all he could to reduce the judgment, short of granting a new trial or directing a remittitur in lieu of a new trial.
+First, the judge deducted the $800,000 already paid in settlements from the $3,300,000 before trebling-which, for reasons stated below, we find to be error.
+Next, the judge denied the application for counsel fees on the ground that with such a large judgment the grant of counsel fees was not necessary.
+This also we find to be error.
+Review of the record leads to the inescapable conclusion that the verdict was grossly excessive.
+Hydrolevel had operated at a loss in each of the six years preceding the April 1971 letter and it continued to do so in the years following the June 1972 letter of retraction.
+Hydrolevel's experts were permitted to testify to long-term damage estimates extending to the year 1988 on the tenuous theory that it would take that long to recover fully from the April 1971 interpretation.
+Moreover, these estimates were based on the assumption that Hydrolevel would gain 10 to 25% of the market, although it had never at anytime reached 1% of the market.
+Thus, the experts estimated loss profits for eight years ranging from $2,358,000 to $4,406,300 and lost going concern figures in excess of $3,000,000.
+8 The estimates of the experts regarding lost sales were open to serious question for two additional reasons: they relied on lost sales in the international market due to M&M's exclusive distributorship with Honeywell-an agency relationship whose relevance to lost sales was never explained-and to alleged predatory pricing by M&M as to which there was no evidence.
+But we see no need to detail all the uncertainties and errors in the presentation of the plaintiff's damage evidence.
+ASME's responsibility for the damage caused Hydrolevel by the conspiracy extends only to those damages incurred during the period when M&M was able to mislead customers and potential customers about the interpretation of the ASME code standards.
+The June 1972 letter was a retraction of the April 1971 interpretation.
+It stated: The draft of the retraction was sent to over 300 people active in the boiler market.
+Thereafter, Hydrolevel distributed the June 1972 letter to customers and potential customers.
+As ASME's sole contribution to the conspiracy was the April 1971 letter, a suitable retraction of the misinterpretation in the April 1971 letter was all that was required to free it from further liability for any damages caused by the conspiracy.
+Thus, its responsibility for damages was at an end when it provided Hydrolevel with the means of correcting the false impressions caused by the April 1971 letter which M&M had been using.
+Although ASME never sought at trial to limit the liability for damages by reason of the June 1972 letter, apparently because the district court framed the issues along other lines which made such a limitation seem inconsistent with the position asserted by ASME throughout the trial, the issue of limitation of damages is available to ASME upon a retrial to determine damages.
+9 As the record on retrial may be more complete on this issue, we leave it to the district court to determine whether the jury should be instructed regarding a time limitation on damages or whether there are factual issues as to the retraction and its effectiveness which the jury must first decide before assessing damages.
+There are clues in Hydrolevel's summation and in DeLeonardis's testimony that Hydrolevel believed the retraction to have been somehow defective, but those arguments were never developed at trial.
+One asserted difficulty is that the retraction did not refer to the April 1971 letter, but rather to a later interpretation of that letter sent to Hydrolevel that was dated February 8, 1972.
+Although DeLeonardis suggested that further steps by ASME, such as publication of a retraction, would have helped Hydrolevel, the record shows no evidence of Hydrolevel ever having complained that the letter was insufficient or ever having requested further aid.
+Finally, Hydrolevel demonstrated that the second paragraph of the retraction was inserted largely at the urging of James, but Hydrolevel's argument in summation failed to describe what harm that second paragraph could have caused.
+The record does reveal two attempts by Hydrolevel to use the June 1972 retraction to repair its reputation.
+We leave the consideration of these possible claims to the trial court.
+Consequently, we hold that, if on retrial no further proof is offered regarding ASME's retraction, the district court should instruct the jury to consider only damages incurred from April 1971, the date of the initial misrepresentation, until a reasonable time after June 9, 1972, the date of Hoyt's correction letter.
+As stated above, it was error for the district court to deduct the $800,000 already paid in settlement, from the jury verdict, before trebling the verdict.
+The district court should first treble the amount of the jury's verdict and then subtract the $800,000 already paid in settlements.
+In Flintkote Co. v. Lysfjord , 246 F.2d 368 (9th Cir. 1957), the Ninth Circuit presented three convincing reasons for trebling damages before deducting settlement proceeds.
+First, the antitrust laws provide that the plaintiff should receive three times the proven actual damages.
+If settlement proceeds are deducted before trebling, the plaintiff's total award is less than what the law allows.
+Since antitrust defendants are joint tortfeasors, each is liable to complete the total deserved damages irrespective of fault.
+Second, as discussed above, one purpose of the trebling provision is to encourage private plaintiffs to bring suit.
+Any ultimate recovery totaling less than three times proven damages would weaken the statutory incentive through judicial construction.
+Third, deduction of settlement proceeds before trebling would discourage settlement by making litigation relatively more profitable for plaintiffs: every dollar received in settlement would cause a three dollar reduction in the judgment at trial.
+Accord, Semke v. Enid Automobile Dealers Assoc. , 320 F.Supp.
+445 (W.D.Okl.1970); Bal Theatre Corp. v. Paramount Film Distributing Corp. , 206 F.Supp.
+708 (N.D.Cal.1962); Note, Contribution and Antitrust Policy , 78 Mich.L.Rev.
+889, 906 n.87 (1980).
+We find that reasoning persuasive.
+The district court also erred in denying reasonable attorneys' fees to Hydrolevel.
+Section 4 of the Clayton Act, 15 U.S.C. 15 (1976), expressly requires such an award.
+Baughman v. Cooper-Jarrett, Inc. , 530 F.2d 529, 531 n.2 (3d Cir.), cert. denied , 429 U.S. 825 , 97 S.Ct. 78 , 50 L.Ed.2d 87 (1976).
+In determining fees, consideration should be given to any amounts that may have been paid to Hydrolevel's counsel from the settlement money or by the settling parties, and the amount of time spent in preparing the case against M&M and Hartford, both of whom were far more culpable than ASME.
+10 A restriction of expert testimony on damages, limitation of the period for which ASME is responsible, and a charge by the court which provides some specific guidance beyond mere generalities should result in a verdict more in keeping with the harm Hydrolevel suffered and ASME's unintentional participation.
+We thus affirm the judgment on liability.
+We reverse the judgment on damages and remand for a redetermination of damages and counsel fees in accordance with this opinion.
+Jurisdiction is retained.

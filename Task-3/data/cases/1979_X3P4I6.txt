@@ -1,0 +1,261 @@
+ GEE , Circuit Judge: This is an appeal from a grant of summary judgment dismissing plaintiff's claim in a patent infringement suit.
+It is stipulated that plaintiff-appellant Rohm & Haas Company is sole owner of a patent that describes a method of applying a chemical compound, 3, 4-dichloropropionanilide (hereinafter "propanil"), to established crops such as rice so as to inhibit the growth of weeds selectively.
+Propanil itself is not patented; Rohm & Haas succeeded in having a Monsanto patent on the chemical declared invalid in an earlier suit against it by Monsanto.
+1 Rohm & Haas currently makes propanil and sells it in containers bearing instructions for performing the patented process.
+By operation of law, purchasers of propanil thus receive implied license to use the patented method.
+Rohm & Haas does not intend either to license other propanil manufacturers to enable them also to license customers to use the patented method or to license customers to use the method with propanil bought from sources other than Rohm & Haas.
+The defendants Helena Chemical Company, Dawson Chemical Company, Crystal Manufacturing [**3] Corporation, and Crystal Chemical Company, sold propanil for application to rice crops before Rohm & Haas received its patent.
+Thereafter they continued to sell propanil, knowing of the patent, and their customers have directly infringed the patent by following the method described on defendants' containers of propanil.
+Defendants intend to continue making and selling propanil with the same recommendations and instructions.
+Alleging most of these facts in its complaint and the additional fact that propanil is a nonstaple that has no substantial noninfringing use, 2 Rohm & Haas brought suit against the defendants for injunctive and declaratory relief.
+It alleged that the defendants were actively inducing infringement of the patent and that their sales amounted to contributory infringement since they knew that propanil is a material part of the patented invention, is especially made or adapted for use in the patent, and has no substantial noninfringing use.
+In their answers, defendants alleged that Rohm & Haas was not entitled to relief because its licensing program amounted to patent misuse and because its patent was invalid for various reasons.
+They also counterclaimed, alleging that the Rohm & Haas licensing scheme and other behavior violated the antitrust laws.
+3 The licensing [**4] program was specifically attacked as an impermissible tying of purchase of a license under the patent to purchase from Rohm & Haas of the unpatented propanil.
+All the parties agree that Rohm & Haas' conduct can be characterized as an attempt to "extend the patent" and thus monopolize the market for the unpatented component--conduct deemed patent misuse under the doctrine of Mercoid Corp. v. Mid-Continent Investment Co. , 320 U.S. 661 , 64 S.Ct. 268 , 88 L.Ed. 376 (1944).
+The main point of disagreement for purposes of this appeal is whether 35 U.S.C. 271(d) reverses the Mercoid misuse doctrine when the unpatented component sold is a nonstaple, with no substantial market apart from its use in the patented process.
+In an able and carefully considered opinion, the district court below concluded that section 271(d) does not immunize Rohm & Haas from charges of patent misuse, and thus he granted the defendants' motion for summary judgment and dismissed the complaint until Rohm & Haas has purged itself of the misuse.
+Our consideration of the matter has led us to the contrary conclusion; thus, we reverse.
+We begin by placing in clear view the statute we construe.
+The simplicity and ostensible clarity of its words belie the complex and delicate questions of interpretation it has spawned--to the delight of commentators.
+It reads as follows: Section 271 35 U.S.C. 271 (1952).
+By a very plausible construction of these passages, assuming the patent is valid, defendants are contributory infringers because they have sold propanil for use in practicing a patented process, knowing that the chemical, a material part of the inventive method, is not a staple or commodity of commerce, has no substantial noninfringing use, and is especially made or adapted for use in infringing the patent.
+By a further tenable reading of the statute, the plaintiff Rohm & Haas has done only acts which under (d) may no longer be deemed patent misuse or illegal extension of the patent.
+It has "derived revenue" from sales of propanil, conduct that, under (c), constitutes contributory infringement when done by those who, like defendants, act without consent.
+And it now "seeks to enforce" its patent rights by suit against defendants' contributory infringement.
+That it has refused to give licenses either to customers or manufacturers of propanil is of no consequence under this analysis since there is no general policy requiring a patentee to grant explicit licenses in addition to those that arise by operation of law.
+Moreover, the introductory portion of (d) provides that a patentee may do "one or more" of the enumerated practices.
+This reinforces the view that a patentee may sell unpatented components while refusing to license others to do the same conduct--sell the unpatented component--without thereby being deemed guilty of misuse.
+Assessing plaintiff's conduct through a different lens, defendants argue that what Rohm & Haas has done is tie sale of patent rights to purchase of an unpatented element used in carrying out the process.
+This coercive conditioning of one sale upon another is [**5] not mentioned in subsection (d) and therefore survives as a type of misuse sufficient to cause dismissal of plaintiff's suit.
+Under this analysis, Rohm & Haas is not, in the statutory language, "otherwise entitled to relief," and thus the statute does not immunize its sale of propanil so long as it refuses to license competitors.
+The statute does not ratify tying of any sort, they claim, and it is even more reprehensible that plaintiff claims such rights regarding a nonstaple.
+If plaintiff's view prevails, defendants will be entirely foreclosed from any domestic outlet for their product, unlike those who sell mere staples.
+Each of these positions is a plausible reading of the bare statute, and each side can cite commentary supporting its particular view.
+4 The proper starting place for resolving the conflict is with the statute's legislative history.
+Before beginning, however, a review of the doctrines of contributory infringement and patent misuse will be helpful in understanding the terms of the debate waged in congressional hearings on the proposed statute.
+The doctrine of contributory infringement was a judicial invention designed to give effective protection to patentees, perhaps occasioned by a narrow judicial definition of direct infringement whereby one does not infringe unless he, for example, assembles or practices every element claimed in a patent.
+Prouty v. Draper , 41 U.S. (16 Pet.)
+336 , 10 L.Ed. 985 (1842).
+Under the latter construction, it soon became apparent that one could appropriate the competitive advantages of a patent by, for instance, selling all the parts of a patented device save one and relying on the purchaser, the direct infringer, to supply the final element and thus complete the device.
+Permitting such conduct would have effectively immunized both the buyer and the seller, since suits against the many direct infringers were difficult and often uneconomical.
+Applying general tort principles, the courts provided a remedy for the patentee against such sellers by deeming them joint tortfeasors with their customers, the direct infringers.
+To avoid ensnaring innocent merchants who sold goods that later and without their knowledge were fashioned into infringing combinations by buyers, the courts required proof that a merchant had intended to encourage infringement.
+The requisite intent was presumed, however, when the items sold had no use except in the infringing combination.
+5 As will be observed from the above discussion, the contributory infringement doctrine focuses on the conduct of patent infringers, rather than on that of the patentee.
+The theoretical basis for the doctrine was more general, however.
+The doctrine rested on particular views about the manner in which patentees should be able to extract full economic value from their inventions.
+This can be seen by reflecting on the result of a successful suit for contributory infringement.
+The prevailing patentee traditionally could secure an injunction against the contributory infringer and thereby drive him from the relevant market.
+See, e. g. , Thomson-Houston Electric Co. v. Kelsey Electric R. Specialty Co. , 72 F. 1016 (2nd Cir. 1896).
+The result, especially when the contributory goods sold were not useful for other purposes, was that the patentee effectively gained control over the market for mere elements of his patent--elements that might be, but more probably were not, patented in themselves.
+In effect, therefore, a patentee could force anyone who wished to practice his patented process or use his patented machine to purchase the necessary unpatented components from him.
+This state of affairs did not bother many courts in the early days of contributory infringement.
+Against objections that these injunctions in essence extended the scope of the patent so as to give the patentee the same advantage as if the element had also been patented, courts answered that a patentee had not been given an additional patent in terms and that they would not prohibit the use of the unpatented element in some other combination if another ingenious use for it could be discovered.
+See opinion of Judge Putnam in Davis Electrical Works v. Edison Electric Light Co. , 60 F. 276, 280 (1st Cir. 1894).
+And focusing on the analytically similar problem of a [**6] patentee's right explicitly to condition use of his patented product or process upon an agreement to buy from him its unpatented elements or unpatented items used with it, courts observed that any monopolistic tendencies would be the legitimate consequence of the meritorious character of the patentee's invention.
+A patentee would be able to impose restrictive conditions for use of concomitant elements only to the extent of the buyer's valuation of the patented invention itself.
+Heaton-Peninsular Button-Fastener Co. v. Eureka Speciality Co. , 77 F. 288 (6th Cir. 1896), exhibits the classic analysis.
+Observing that patentees had always been accorded the right to retain exclusive use of their inventions, even to the point of suppressing them entirely for the statutory period of monopoly, Judge Lurton hypothesized the case of an invention that so reduced the cost of making shoes, an unpatentable end product, that by underselling his competitor manufacturers the patentee was able to drive them from the shoe market.
+He then reasoned: Id. at 295 .
+Initially the Supreme Court showed hesitation when asked to recognize a patentee's derivative power regarding unpatented elements.
+In Morgan Envelope Co. v. Albany Perforated Wrapping Co. , 152 U.S. 425 , 14 S.Ct. 627 , 38 L.Ed. 500 (1894), the patentee-plaintiff held two patents.
+One, found invalid by the Court, covered toilet paper rolled into an oval configuration; the other was a combination patent covering the oval roll of paper and a dispenser that together delivered the paper in premeasured lengths.
+In ruling that the defendant's sale of oval paper rolls for use with the plaintiff's dispenser was not an infringement, the Court employed two entwined but distinguishable strands of analysis.
+It first determined that the principle of contributory infringement should not apply when the item sold was "an article of manufacture, perishable in its nature, which it is the object of the mechanism to deliver, and which must be renewed periodically, whenever the device is put to use."
+152 U.S. at 433 , 14 S.Ct. at 630-631 .
+Of seemingly equal importance, however, was its second observation that, when the item sold was not itself patentable, the contrary outcome would be "giving to the patentee of the machine the benefit of a patent upon the product, by requiring such product to be bought of him."
+Id. The brief opinion shifts back and forth between these two thoughts, and it is difficult to determine whether the Court's concerns about extending the patent were aroused only when the item dealt in was a perishable staple requiring replacement or might also extend to nonstaple or uniquely active elements of a patent.
+Aspects of what came to be known as "patent misuse" were involved in Morgan Envelope , 6 but the Court, though it refused to ratify the plaintiff's right to these tactics as regards the rolls of paper, did not seem to consider the conduct as independently wrongful.
+Rather, certain language suggests that such conduct would be an appropriate concomitant of holding a patent whose elements were not mere staples.
+7 In the leading case of Leeds & Catlin Co. v. Victor Talking Machine Co. , 213 U.S. 325 , 29 S.Ct. 503 , 53 L.Ed. 816 (1909), the Court retreated from its ambiguous [**7] reluctance to give protection to unpatented elements of a combination patent.
+Plaintiff Victor, whose patent covered disc records and a stylus that combined to reproduce the sound recorded on the discs, had sued Leeds & Catlin to prevent its sale of other recorded discs that were to be used by owners of Victor machines in an alleged infringement.
+Leeds' primary defense was that use of its records with the Victor stylus accomplished a permissible "repair" of the patented device rather than a prohibited "reconstruction."
+Reviewing "some rudimentary principles" regarding combination patents before assessing this contention, the Court observed that, whether constituted of new or old elements, it is the combination that is the relevant invention and is protected by law as a unit.
+The Court reiterated, however, that whoever contributes to the use of the combination absent permission also infringes the patent and, in words striking close to the position enunciated in Morgan Envelope , continued: It can make no difference as to the infringement or non-infringement of a combination that one of its elements or all of its elements are unpatented 213 U.S. at 333 , 29 S.Ct. at 505 (emphasis added).
+With this language, the Court seemed to reject the notion that the patent status of mere elements is a source of limits on the rights of patentees against their licensees, customers or alleged infringers.
+The inquiry is shifted instead to an examination of the contractual relationship between the purchaser and the patentee.
+Morgan Envelope , on which the defendants had relied heavily, was distinguished.
+As contrasted with the paper rolls that stood in relation to the dispenser as "a machine and its product" and that perish in use, requiring periodic renewal, the disc and stylus were each active elements in producing the result, distinguishing the invention and advancing upon the prior art.
+Id. 213 U.S. at 333-36 , 29 S.Ct. 503 .
+The Court also rejected the defendant's attempt to characterize its discs as a staple item of manufacture, noting that the trial court had found that the allegedly noninfringing device in which the defendant's records could be used was not commercially viable.
+Defendants therefore knew that the only use their records would receive would be in connection with the patented machine.
+The Court also noted, however, that the injunction forbade only the use of the records in connection with the patent.
+Id. at 337 , 29 S.Ct. 503 .
+Following Leeds & Catlin , the Court allowed patentees even greater latitude in reaping economic benefits from their inventions through license restrictions or notice.
+Henry v. A. B. Dick Co. , 224 U.S. 1 , 32 S.Ct. 364 , 56 L.Ed. 645 (1912), written by Justice Lurton, who had earlier penned the Button-Fastener opinion for the Sixth Circuit, marks the high water in this area.
+The principles enunciated in Dick effectively enabled a patentee to "tie" ordinary staples of commerce, none of which was even an element of the patented device, to a purchaser's right to use the device.
+This result was achieved by enforcing through the patent law instead of general contract law a notice attached to each patented machine at sale that required the purchaser to use the machine only with stencil paper, ink, or other supplies made by the patent holder, A. B. Dick.
+The majority ruled that any breach of these conditions by the buyer constituted infringement of the underlying patent and that any conduct aiding the breach was contributory infringement.
+On the question whether, thus applied, the doctrine of contributory infringement operates to extend the monopoly of the patent to subjects not within it, Justice Lurton stated: [**8] The market for the sale of such articles to the users of his machine, which, by such a condition, he takes to himself, was a market which he alone created by the making and selling of a new invention.
+Had he kept his invention to himself, no ink could have been sold by others for use upon machines embodying that invention.
+By selling it subject to the restriction, he took nothing from others and in no wise restricted their legitimate market 224 U.S. at 32 , 32 S.Ct. at 373 (emphasis added).
+Observing that a like objection had been made against injunctions restraining the sale for infringing purposes of a single element in a patented combination, the majority then answered the contention in the language of Judge Putnam in Davis Electric , discussed above.
+Justice White, for the minority, voiced conflicting reasoning that later became prevalent in patent misuse cases: Id. at 53 , 32 S.Ct. at 381 .
+Two years later in partial response to Dick , Congress passed section 3 of the Clayton Act and the Federal Trade Commission Act.
+New members of the Court joined with the Dick minority to form a new majority, and thereafter the Court began a retreat from the principles just reviewed.
+Their vehicle was the new doctrine of patent misuse.
+In Motion Picture Patents Co. v. Universal Film Manufacturing Co. , 243 U.S. 502 , 37 S.Ct. 416 , 61 L.Ed. 871 (1917), Mr. Justice Clarke, for the new majority, held that a patentee may not, as a function of general patent law, 8 require by notice a purchaser to limit use of a patented movie machine to unpatented films that do not form part of the patented machine.
+With the attempted restriction ruled invalid, there was no further basis for a charge of direct or contributory infringement, and the plaintiff was denied relief.
+The Court rested its decision, which of course required reversing Dick , on an analysis of "fundamental" principles embodied in the patent statute.
+From the basic proposition that the scope of a patent is limited to the invention described in its claims, coupled with the rule that the statutory policy of benefitting the public outweighs the policy of benefitting inventors, the Court concluded that the monopoly granted by law should not extend to, and thus cannot sanction a patentee's control of, mere materials "with which or on which the machine operates."
+243 U.S. at 509-13 , 37 S.Ct. at 419 .
+The majority further reasoned that a reward based on the entire invention was a fair measure of an inventor's creativity and that "he should not be permitted by legal devices to impose an unjust charge upon the public in return for the use of it."
+Id. at 513 , 37 S.Ct. at 419 .
+The Dick majority had thought well of the patentee's system of selling a machine at practically cost and making its entire profit from the sale of supplies because the intention was thereby made widely available to the public.
+The new majority thought such facts "the clearest possible condemnation of [the patentee's system]."
+Echoing the Dick dissent, Justice Clarke explained: 243 U.S. at 517 , 37 S.Ct. at 421 .
+In Carbice Corp. v. American Patents Development Corp. , 283 U.S. 27 , 51 S.Ct. 334 , 75 L.Ed. 819 (1931), the Court reviewed a merchandising system in which the patentee and its licensee sold solid carbon dioxide and by notice, without extra charge, extended to each customer an implied license to use the dry ice in patented cardboard transportation packages.
+Neither the plaintiff nor other licensees actually sold these cardboard packages.
+The Court relied on Motion Picture's reasoning to categorize this conduct as "abuse of the patent monopoly" and a bar to relief against a contributory infringer.
+The system was considered the equivalent of conditioning grant of a patent license on the [**9] purchase of unpatented materials used in connection with the invention.
+The plaintiffs tried to distinguish Motion Picture by arguing that the unpatented item sold here was a necessary element of the patented combination, as opposed to a mere supply used with the invention.
+They also sought to distinguish themselves from Morgan Envelope by arguing that, unlike the passive toilet paper there involved, the carbon dioxide was the dynamic element that produced refrigeration.
+Justice Brandeis, for the majority, rejected these distinctions as lacking legal significance.
+283 U.S. at 33, 34 , 51 S.Ct. at 336 .
+He next analogized the patentee's conduct to antitrust violations in which patents had been used as instruments for restraining commerce.
+9 Finally, the principle of Leeds & Catlin was distinguished since "[t]here was no suggestion that the Victor Company, which itself manufactured and sold the patented product," sought to derive its profits from the unpatented element, as opposed to the invention as a whole.
+In Leitch Manufacturing Co. v. Barber Co. , 302 U.S. 458 , 58 S.Ct. 288 , 82 L.Ed. 371 (1938), the Court assessed the mode of business used now by Rohm & Haas.
+The patentee thought it might foreclose a misuse defense by carefully avoiding use of notices or explicit contract restrictions.
+It merely sold materials used in carrying out the patented process, thereby granting an implied license to use the patented invention.
+The Court, however, had no trouble identifying its conduct as prohibited tying, despite the lack of an explicit condition that the license was granted only upon purchase of the materials used in the process.
+In Leitch , as in all the earlier misuse cases to reach the Court, the patentee had been profiting by sale of staple elements or concomitants of the patent.
+It was still possible for the bar to think that a patentee might not be deemed guilty of misuse for attempting to control the market in unpatented elements that had no use at all outside his patented invention.
+10 Though such a distinction between staples and nonstaples was rejected at the appellate level in one of the next pair of cases to reach the Court, Morton Salt Co. v. G. S. Suppiger Co. , 314 U.S. 488 , 62 S.Ct. 402 , 86 L.Ed. 363 (1942), and B. B. Chemical Co. v. Ellis , 314 U.S. 495 , 62 S.Ct. 406 , 86 L.Ed. 367 (1942), the various Supreme Court opinions do not address the question.
+In Morton Salt , the Court for the first time upheld a summary judgment dismissing a patentee's suit against a direct infringer on misuse grounds.
+In addition to the customary language about the anticompetitive effects of misuse, the Court's opinion included a new attention to the effect on competition of a successful infringement suit itself: [**10] 314 U.S. at 493 , 62 S.Ct. at 405 .
+B. B. Chemical , the case involving the possible staple/nonstaple distinction, is noteworthy here primarily because in it the Court rejected the potential defense of commercial practicability.
+The patentee had argued that he should be allowed to sell the unpatented materials with an implied license to practice the patented method because he could not practicably exploit the particular patent rights by granting licenses.
+The Court replied that the patent monopoly is not to be enlarged simply because it would be more convenient for the patentee to have it so or because he "cannot avail himself of its benefits within the limits of the grant."
+314 U.S. at 498 , 62 S.Ct. at 408 .
+The culmination of the developing misuse theory occurred in companion decisions in 1944, Mercoid Corp. v. Mid-Continent Investment Co. , 320 U.S. 661 , 64 S.Ct. 268 , 88 L.Ed. 376 (1944) ( Mercoid I ), and Mercoid Corp. v. Minneapolis-Honeywell Regulator Co. , 320 U.S. 680 , 64 S.Ct. 278 , 88 L.Ed. 396 (1944) ( Mercoid II ).
+In these cases the Court definitively entered Leeds & Catlin turf and held it misuse for a patentee to attempt to control the market for unpatented elements that had no use at all outside the patented invention.
+The combination patent at issue in Mercoid covered a furnace stoker system.
+Mid-Continent held the patent and had granted an exclusive license to Minneapolis-Honeywell to make, use, or sell the patent and/or to sublicense others.
+Neither company made or installed the entire patented system; Minneapolis-Honeywell merely sold the stoker switches which, when installed with a thermostat and a motor-driven stoker, formed the patented combination.
+The right to construct the combination was granted only to those who bought Minneapolis-Honeywell switches; royalties from Minneapolis-Honeywell to Mid-Continent were based on the sales of the unpatented stoker switches.
+The defendant Mercoid Corporation was an unlicensed competitor in the business of selling the switches, and a lower court opinion reveals that Mercoid had earlier refused an offer of a license.
+In Mercoid I , though the Court assumed that Mercoid was a contributory infringer and could have been enjoined by an innocent patentee, it barred Mid-Continent from enforcing the patent because its licensing system constituted an attempt to extend the grant of the patent to unpatented devices.
+Admitting that the earlier cases had involved the use of a patent to secure partial monopoly "in supplies consumed in its operation or unpatented materials employed in it," the Court, through Justice Douglas, could see no difference in principle where the unpatented material or device "is itself an integral part of the structure embodying the patent" and was not useful in any other manner.
+320 U.S. at 665 , 64 S.Ct. at 271 .
+The Court saw in the patentee's conduct not a struggle to protect its rights regarding the combination patent, but rather a contest "solely over unpatented wares which go into the patented product."
+Id. at 666 , 64 S.Ct. at 271-272 .
+Thus, the patent was being impermissibly employed to protect the market for a device on which no patent had been granted.
+Irrespective of whether the stoker switch was "the heart of the invention" or the "advance in the art," since the separate element had not been claimed as the invention, it is not protected by the patent monopoly "when dealt with separately."
+Id. at 667 , 64 S.Ct. 268 .
+In language thought by many to have abolished the doctrine of contributory infringement, Justice Douglas proceeded: Leeds & Catlin Leeds & Catlin Co. Carbice Case 320 U.S. at 668-69 , 64 S.Ct. at 272-273 .
+In Mercoid II , Mr. Justice Douglas went even further and ruled that the legality of any attempt to bring unpatented goods within the protection of the patent is measured by the antitrust laws, not by the patent law.
+Further, he ruled, the effort there made to control competition in the unpatented switch plainly violated the antitrust laws, and he remanded the case for further proceedings on the alleged infringer's antitrust counterclaim.
+11 [**11] In the aftermath of Mercoid , strange to say, there was great confusion in the courts and among the patent bar regarding the proper scope of contributory infringement.
+Some courts, carrying the Court's reasoning and dictum to the extreme, held that merely filing a suit for contributory infringement constituted an attempt to control the market in unpatented goods and dismissed the suit for misuse.
+See, e. g. , Stroco Products v. Mullenbach , 67 U.S.P.Q.
+168 (S.D.Cal.1944).
+A movement arose among the bar to put some effective measure of contributory infringement back into the law, and various committees came forward to draft proposed legislation for consideration by the congressional committee then codifying the general patent law.
+The ultimate result was section 271 .
+Before turning to the legislative history of that provision, we offer a few reflections on the two doctrines it touches.
+In addition to briefly recounting the development of contributory infringement and misuse, it has been a purpose of the above review to demonstrate that, though the doctrines are technically distinct--one focusing solely on the patentee's conduct and the other focusing solely on that of the alleged infringer--they rest on antithetical underpinnings.
+The doctrines clearly conflict concerning the permissible means by which a patentee may extract from the buying public the full monetary measure of his invention's competitive superiority.
+The doctrine of contributory infringement in its classical exposition admits that a patentee may temporarily extend his monopolistic market power to unpatented items used in or with his invention since he is able to do this only to the extent the public values his invention and since he is not given a patent in terms over the unpatented items.
+In other words, the public will never pay more for use of the invention and its necessary concomitants than it thinks the full invention is worth.
+And since the patentee is not given a formal patent right regarding unpatented elements, competitors may freely sell them for any uses except in connection with the patented device--they are foreclosed only from the markets for their goods that exist because of the patented invention.
+The doctrine of patent misuse, on the other hand, categorically denies that the value of the patented good can properly be sounded by sales of unpatented goods used in or with it, however unique or important to the invention they may be.
+Any attempt, for the sake of convenience or otherwise, to capitalize on the invention except by dealing in the invention as a whole is beyond the scope of the patent and against public policy.
+Seen in this light, there was more than a grain of truth in Justice Douglas' much maligned "dictum" in Mercoid that the result in that case, together with the other patent misuse cases, "limits substantially the contributory infringement doctrine"--to the extent that only some unexplored "residuum" might be left.
+Theoretically, the two doctrines can hardly coexist.
+The protection of unpatented elements granted in Leeds & Catlin is inconsistent with pro-consumer and pro-competitor values protected by thoroughgoing misuse principles.
+This can be demonstrated by considering the hypothetical case of the "good patentee."
+Posit a patentee who is exploiting his invention totally within the bounds of its claimed scope.
+He has the capability to produce and market a sufficient supply of the patented combination to reap his legitimate monopoly profits.
+Thus, he declines, as is his right, to license others to manufacture and sell the invention.
+He learns that his patent is being infringed by consumers with the aid of Mr. D, who has been making and selling, with instructions for completing the invention, the unique elements of his patent, elements that have no use outside the invention.
+Since the patentee is marketing the whole of his invention, he cannot be charged with wrongfully extending his patent.
+12 His suit against Mr. D for contributory infringement is therefore successful, and he is granted the traditional injunction that forces Mr. D to cease the challenged conduct.
+It seems evident from [**12] this scenario that, by use of the contributory infringement doctrine, the patentee has foreclosed competitors in the unpatented item, "leveraging" his one lawful monopoly into the market for an unpatented item where he now has no competition.
+What difference can it possibly make either to consumers or to competitors in the market for the unpatented item that the patentee has made his profits by selling the entire combination instead of the unique element?
+Competition in the submarket has been destroyed.
+Despite this anomaly, caused, we think, by the conflicting bases of the doctrines, all sorts of prudential lines might be drawn to demarcate the doctrines and save for each some "appropriate" scope.
+Indeed, this was done in each successive patent misuse case before Mercoid .
+For instance, when the Court in Motion Picture disapproved a patentee's right to tie unpatented staple supplies used with the invention, it seemed carefully to imply that a different rule might apply when the unpatented item was used in, as part of, the invention.
+When it took the next step down the road in Carbice , disapproving a tie of the unpatented staple element to use of the patented invention, it was possible to think that an element with no noninfringing use might be treated differently, especially since the Court went out of its way to approve the Leeds & Catlin holding.
+Mercoid only carried the misuse doctrine a logical step further in wiping out a patentee's right to profit from an unpatented element with no use at all outside the patented item.
+That the misuse doctrine had really triumphed over the contributory infringement doctrine seems evident in Justice Douglas' disapproval of Leeds & Catlin , a move unnecessary to the narrow Mercoid holding since the Court had previously described the Leeds patentee as a patentee profiting only by sale of the entire combination.
+13 It is possible that this Mercoid "dictum" casting doubt on the entire contributory infringement doctrine is all that was overruled by the enactment of section 271 .
+It is possible that section 271 , as defendants and several commentators urge, merely codifies the Mercoid result along with other patent misuse law.
+If so, then plaintiff Rohm & Haas cannot be allowed to foreclose the defendants from the propanil market, though, were Rohm & Haas merely practicing its exclusive right to spray farmers' fields with propanil, it could successfully sue to prevent the defendants from continuing their present practices.
+It is therefore with special care that we turn to the statute's legislative history so that we may interpret its words in light of the purposes Congress sought to serve by its enactment.
+There was apparently no debate on the House floor regarding the 1952 codification and scant public debate in the Senate.
+An interchange in the Senate shortly before the bill was passed has often been cited as evidence that section 271 did not overturn the result in Mercoid .
+14 In response to a question by Senator Saltonstall about the purpose of the bill, whether it changed the law in any way or merely codified it, Senator McCarran, Chairman of the Judiciary Committee that had been in charge of the bill in the Senate, stated: "It codifies the present patent laws."
+98 Cong.Rec.
+9323 (July 4, 1952).
+The force of this exchange is mitigated, however, by Senator McCarran's introduction a few moments later of a short prepared statement that in part states: Id. To one familiar with the rest of the legislative history, that sentence seems almost certainly a reference to section 271 and the Mercoid case, among others.
+The reports on the bill issued by the House and Senate Committees on the Judiciary each contain language similar to McCarran's in discussing section 271 .
+The reports and, indeed, the title of the bill indicate its general purpose to be the revision, as well as the codification of the patent law, which had largely developed in the courts to supplement earlier and more sparse patent statutes.
+The reports explain that section 271 was designed to remove the "considerable doubt and confusion" engendered by "a number of decisions of the courts in recent years" and that paragraphs (b) , (c) , [**13] and (d) were to provide "clarification and stabilization."
+15 Though other portions of the reports state that only changes "deemed substantially noncontroversial and desirable" were made in the then current patent law principles, 16 the transcript of hearings held by the House Judiciary Committee indicates that the decision to consider section 271 "noncontroversial" was in itself a controversial issue.
+17 The most important portions of those hearings, for our purposes, involve the various appearances of Mr. Giles S. Rich, the chief draftsman of the contributory infringement provisions.
+The tenor of his explanations indicates that section 271 was designed to immunize behavior like that in issue here.
+Evidence of this can be found, for instance, in his discussion of an unreported case, Amalgamated Dental Co. v. William Getz Corp. , in the Eastern District of Illinois.
+1951 Hearings at 154-56.
+The plaintiff-inventor had secured a patent on a method for making dental impressions by mixing four chemicals in an aqueous solution that dried into a stiff elastic gel.
+The patentee was retailing his invention by selling the four chemicals as a unit, with directions for completing the mixture by adding water before the material was to be applied.
+The alleged infringers were marketing the invention in identical fashion.
+The district court, which had originally decided the Mercoid case and had easily perceived misuse there and in other cases, balked at deeming the patentee guilty of misuse simply because, along with his four chemicals, he had not included a little water.
+[**14] After quoting the court's gyrations in allowing the suit over the asserted defense ("the water just constitutes the environment in which these chemicals perform"), Rich remarked that "[l]ogically, he cannot get around the Mercoid case." Rich noted that courts faced the same problem regularly in fact situations of this kind and that they were deciding inconsistently.
+He then went on to explain that the statutory solution was designed to avoid restricting competition in items that were staples, while at the same time allowing patentees to deal in certain materially important unpatented elements and to sue competitors therein without being thrown out of court on grounds of misuse.
+Id. at 157-59.
+He was especially concerned with a situation Id. at 158.
+18 Another telling feature of Mr. Rich's remarks is his observation that the new statutory rule cannot be compared to any definite era in the history of the contributory infringement and patent misuse doctrines.
+19 Id. at 161.
+Rather, the line drawn by paragraphs (c) and (d) represents a careful compromise between the public policy of encouraging competition, vindicated by exempting sales of staples from the definition of contributory infringement, and a patentee's desire to market his device in the most practical manner possible and to protect it against piracy.
+Under paragraphs (c) and (d) , the patentee has no right to sue anyone who is merely marketing a staple, or even a nonstaple that does not amount to a material part of his invention.
+Such conduct by unlicensed competitors is not defined as contributory infringement.
+Thus, as long as a competitor is not actively inducing infringement (as by advertising or giving detailed instructions for practicing the invention with his products--conduct prohibited by paragraph (b) ), a seller may even know or intend that his products will be used in an infringement, and a patentee will not be able to foreclose him from the market.
+See generally id. at 159-62.
+20 This understanding of the joint effect of paragraphs (c) and (d) is reinforced by the arguments of the bill's opponents, most prominently the Justice Department.
+T. Hayward Brown, Chief of the Patent Litigation Unit, showed especial opposition to paragraph (d) , which the Justice Department deemed a major and controversial change from then current misuse principles and, as such, inappropriate for inclusion in a codification.
+[**15] 21 One who read section 271 differently from Mr. Rich, and is thus often cited to support a narrow interpretation of it, is Representative Crumpacker, a member of the House subcommittee conducting the hearings on the bill.
+When Mr. Fugate of the Justice Department railed against the provision because of its ostensible legitimation of certain types of misuse, Crumpacker's response indicates he read the language as applying to innocent conduct not previously deemed misuse or "monopolistic practices" by the courts.
+22 1951 Hearings at 165-64 and following.
+Mr. Rich was brought back to clarify matters.
+Mr. Rogers then summarized Rich's position as follows: section (c) section [(d)] thereby reestablish what you thought you had before the Mercoid case Id. at 173 (emphasis added).
+Mr. Rich agreed and further explained that to recover a full complement of contributory infringement meant something had to be done about misuse.
+(c) (d) Id. In a final clarification, Mr. Rogers revived an earlier line of inquiry: whether the enumerated rights were innocent in themselves or whether the courts had previously deemed each one of them patent misuse.
+As the final comprehensive discussion of section 271(d) , and as a treatment that seemed to satisfy Representative Crumpacker sufficiently so that he turned to another matter, this exchange, set out in the margin is worthy of study.
+23 [**16] Though because of stray passages like those involving Senator Saltonstall and Representative Crumpacker the legislative history is not crystal clear, we think the weight of it favors Rohm & Haas' reading of the statute.
+We are further confirmed in our view of section 271 by observing that the extremely narrow reading favored by defendants, though plausible, does not rest especially well on the wording of the provision.
+All the parties seem to agree that subsection (d)(1) means that a patentee may sell unpatented elements of his invention.
+We add that, because of the explicit limitation of the right to "acts constituting contributory infringement," a term defined in paragraph (c) immediately before, apparently a patentee who is attempting to completely foreclose competitors is safe from a misuse defense only in selling products that are nonstaples, material parts of his invention, and capable of no substantial noninfringing use.
+24 Subsection (d)(2) additionally allows a patentee to "license" another to do those same sorts of acts--that is, acts that would be contributory infringement (the selling of appropriate nonstaples) if done without permission.
+25 As a [**17] commentator has noticed, the rights to license another to sell such unpatented items would be rendered worthless if the only right conferred by (d)(1) were the right to sell the item as one competitor among many freely competing.
+Who would take a license, and on what terms, if anyone were free to compete, and the patentee had no legitimate right to exclude others from the market?
+26 When one adds to this the realization that in (d)(3) Congress has also given the patentee the cumulative right to enforce its patent against those doing without permission--without "license"--what the patentee itself is doing, the impression becomes almost overpowering that Congress did clearly provide for a patentee's right to exclude others and reserve to itself, if it chooses, the right to sell nonstaples used substantially only in its invention.
+27 The Supreme Court cases discussing section 271 are few and, as the able district court below recognized, none of them controls.
+Of the cases decided in this area since 1952, most are either silent regarding the effect of section 271 on Mercoid , probably because they involve staple items, or else they simply cite with approval Mercoid's various summations of the misuse doctrine.
+And indeed, apart from the very narrow exception as to material nonstaples immunized by section 271 , Mercoid remains an excellent summation of misuse considerations.
+Nevertheless, we cannot overlook the importance to our issue of two cases decided closely after section 271 was enacted, in which several members of the Court expressed the view that section 271 merely codifies patent law, including Mercoid and its result, and made no changes in the law such as those contended for by Rohm & Haas.
+In Aro Manufacturing Co. v. Convertible Top Replacement Co. , 365 U.S. 336 , 81 S.Ct. 599 , 5 L.Ed.2d 592 (1961) ( Aro I ), and Aro Manufacturing Co. v. Convertible Top Replacement Co. , 377 U.S. 476 , 84 S.Ct. 1526 , 12 L.Ed.2d 457 (1964) ( Aro II [**18] ), the Court faced actions for contributory infringement based on a claim that defendant's cloth tops for convertibles aided an infringing reconstitution of the patented mechanical top, rather than a noninfringing repair of the item.
+In Aro I , in the course of rejecting the claim, the majority cited Mercoid for the principle that the separate unpatented elements of a combination patent are not protected by the patent monopoly.
+The technical ground of the opinion, however, seemed to be the determination that the purchaser of an auto with a convertible top gains, along with the right to use the top, the right to replace its worn out parts.
+Unless his actions are so extensive as to become a prohibited reconstruction, his action in replacing, for example, fabric portions of the top, does not constitute an infringing action.
+Without someone's committing of a direct infringement, there was of course no predicate for contributory infringement; there was no tort being committed in which the seller of replacement tops could participate.
+Justice Harlan, joined by two others, dissented, arguing that the majority's reliance on Mercoid destroyed the significance of cases such as Leeds & Catlin that gave relief against contributory infringement on principles approved by Congress in section 271 .
+In Aro II Justice Brennan wrote for a different majority.
+In Aro I he had agreed with Justice Harlan's view of section 271 but had concurred with the majority on the simple ground that without a direct infringement no contributory liability was possible.
+The new majority now distinguished Aro I as involving only car buyers from manufacturers who had been licensed to make the patented convertible top in auto construction.
+In Aro II , by contrast, the replacement tops were also designed to renew the covering on cars manufactured by a company that had refused a patent license.
+The Court held in part that because this unlicensed manufacturer had no right to construct or convey the invention, buyers of these cars received no right even to use the invention, much less the right to repair it.
+Because the Court deemed each such repair by those buyers an independent direct infringement, the knowing seller of replacement tops was open to liability as a contributory infringer.
+Justice Black, who had specially concurred in Aro I in part to emphasize his view that section 271 merely codified the Mercoid result, spoke for himself and three other dissenters.
+The real basis for Aro I , he argued, was not merely the lack of a direct infringement but also the recognition grounded in the misuse cases that the scope of a patent can never properly extend to unpatented elements.
+He vehemently disapproved the majority's result, charging that the patentee was being allowed to expand its monopoly, an unconstitutional result not within congressional patent clause powers.
+28 Had this been all there was to the Aro II case, it would have been strong support for our reading of section 271 .
+Unfortunately, however, the extraordinarily complex opinions, on balance, probably cut against our view.
+29 Because the policies involved in [**19] our factual situation--a primary use market--differ so from the policies involved in protecting competition in a market for unpatented elements to be used as mere replacement parts at the hands of one with a legitimate right to tinker with a patented device by reason of his absolute ownership thereof, we consider the Aro opinions as not controlling the result of our case. 30 In line with an earlier panel that concluded in dictum that section 271 "was intended to work some changes" in the concepts of patent misuse and that section 271 was "a congressional disapproval and legislative modification of the court-fashioned Mercoid principles," we do not feel that our independent consideration of section 271 is precluded by the "varying views" expressed by the justices in Aro .
+Fromberg, Inc. v. Thornhill , 315 F.2d 407, 414 n.18 (5th Cir. 1963).
+With this, we have about exhausted our present capacity for rational thinking on patent matters.
+As we noted during the oral argument of this case, patent cases are the only cases argued by professionals and decided by amateurs.
+We take some comfort in noting that any shortcomings of our effort can safely be laid to the difficulty of the subject matter.
+Mr. Giles S. Rich observed on several occasions during the hearings on section 271 that patent law is "the metaphysics" of the law and that contributory infringement/patent misuse issues are the metaphysics of patent law.
+In remanding this matter for further proceedings consistent with the above views, we gratefully leave untouched a correlative issue not technically before us: whether our analysis, coupled with the statutory command that patentees doing activities mentioned in (d) cannot be "deemed guilty of misuse or illegal extension of the patent right," affects the antitrust counterclaim filed herein by the defendants.
+REVERSED and REMANDED.

@@ -1,0 +1,188 @@
+ RIPPLE, Circuit Judge.
+Lee and Amy Till filed for bankruptcy protection under Chapter 13.
+SCS Credit Corporation, a secured creditor, objected to confirmation of the Tills' Chapter 13 plan on the ground that the interest rate SCS would be paid under Chapter 13's "cramdown" provision, see 11 U.S.C. 1325(a)(5)(A)(ii) , was insufficient.
+The bankruptcy court confirmed the plan over SCS' objection; it held that the proper interest rate was the prime rate plus a risk adjustment of 1.5%.
+SCS appealed.
+The district court reversed the bankruptcy court's decision; it concluded that the "coerced loan" theory applied, and, consequently, that the interest rate should be based on what SCS would receive for a loan of similar risk and duration.
+The district court stayed remand of its order pending the Tills' further appeal to this court.
+For the reasons set forth in the following opinion, we vacate the judgment of the district court and remand the case for further proceedings with instructions.
+I BACKGROUND Lee and Amy Till jointly filed for bankruptcy protection under Chapter 13.
+SCS Credit Corporation was the only creditor to object to confirmation of the Tills' amended Chapter 13 plan.
+SCS is a secured creditor and holds a security interest in an automobile.
+The vehicle was valued at $4,500.
+SCS is a sub-prime lender, which means that it services borrowers with credit histories too poor to qualify for prime-rate auto loans.
+The Tills are such borrowers.
+The interest rate on the Tills' loan was 21%.
+The Tills' plan invoked the "cramdown" provision of Chapter 13.
+Under Chapter 13's cramdown provision, a bankruptcy plan will be confirmed over the objection of a secured creditor if the creditor retains its lien on the collateral, and the creditor receives cash payments over the course of the plan that are equivalent to the value of the collateral on the plan's effective date.
+See 11 U.S.C. 1325(a)(5)(B) .
+To achieve this statutory requirement, the bankruptcy court must determine the value of the collateral, and the debtor must pay interest to account for the time value of money.
+Under the Tills' reorganization plan, the interest rate on SCS' secured claim would be 9.5%.
+SCS contended that this rate would not provide SCS with the present value of its collateral, as required by the cramdown provision.
+SCS submitted that the rate should be 21%, the interest rate it would have earned if SCS had foreclosed on the vehicle, sold it and then reinvested the proceeds in another sub-prime auto loan.
+The bankruptcy court conducted a hearing to consider SCS' objection.
+The Tills presented the testimony of a finance professor who testified that an interest rate of 9.5%, which he based on the prime rate plus a risk premium of 1.5%, would be sufficient.
+He admitted, however, that he had no experience working for a creditor and only a limited understanding of the sub-prime auto lending market.
+SCS presented the testimony of its general manager, Neil Bird, and the sales manager of Instant Auto Finance, which had written the loan to the Tills and then had assigned it to SCS.
+Both witnesses testified that SCS had received 21% interest on all of its loans because borrowers like the Tills are poor credit risks.
+Bird also testified that SCS usually did not get paid the full amount under Chapter 13 plans because the debtors often cannot fulfill their obligations under the plan.
+The bankruptcy court interpreted our decision in Koopmans v. Farm Credit Services of Mid-America , 102 F.3d 874 (7th Cir.1996), to endorse a prime rate plus a risk premium method of calculating the proper cramdown interest rate.
+The court rejected the "coerced loan" theory of the cramdown provision advocated by SCS.
+Following what it believed to be the holding of Koopmans , the bankruptcy court confirmed the Tills' plan with an interest rate of 9.5% applied to SCS' claim.
+SCS then appealed to the United States District Court for the Southern District of Indiana.
+SCS reasserted its argument that it was entitled to 21%, the rate it would earn on a loan if it had foreclosed on the collateral and then had used the proceeds to issue a new loan.
+The district court agreed.
+The court held that the bankruptcy court had misread Koopmans and that Koopmans required that SCS receive the interest rate it would have earned on a new loan financed by the proceeds from the sale of its collateral.
+Based on the record in the bankruptcy court, the district court concluded that 21% was the proper rate and accordingly reversed the bankruptcy court's decision.
+The Tills now appeal that decision to this court.
+II DISCUSSION A. The issue before us—the appropriate approach to determine the applicable interest rate under Chapter 13's cramdown provision—first presents us with a question of statutory interpretation.
+We review this question de novo.
+The application of that method to the particular facts of this case is reviewed for clear error.
+See In re Smithwick , 121 F.3d 211, 215 (5th Cir.1997).
+The Tills submit that we should reverse the district court and reinstate the bankruptcy court's decision.
+In their view, a "market formula" method, such as the one adopted by the bankruptcy court in this case, appropriately implements the statutory mandate.
+SCS, however, contends that the "coerced loan" method, adopted by several Courts of Appeals and by the district court in this case, more accurately reflects the statutory intent.
+When a petition is filed under Chapter 13 of the Bankruptcy Code, a bankruptcy court confirms the plan if several conditions are met.
+See 11 U.S.C. 1325(a)(1)-(6) .
+1 For secured creditors, this provision offers three possible prerequisites to confirmation, one of which must be satisfied before a Chapter 13 plan can be confirmed.
+If the secured creditor consents, see 11 U.S.C. 1325(a)(5)(A) , or the debtor surrenders the collateral, see id. 1325(a)(5)(C) , or if the plan invokes 11 U.S.C. 1325(a)(5)(B) , known colloquially as Chapter 13's "cramdown" provision, a Chapter 13 plan will be confirmed, as long as the other conditions of confirmation are met.
+See Todd J. Zywicki, Cramdown and the Code , 19 T. Marshall L.Rev.
+241, 242-43 (1994).
+The cramdown provision permits a bankruptcy court to confirm a debtor's Chapter 13 plan over a secured creditor's objection if "the plan provides that the holder of such claim retain the lien securing such claim; and the value, as of the effective date of the plan, of property to be distributed under the plan on account of such claim is not less than the allowed agmount of such claim."
+11 U.S.C. 1325(a)(5)(B) .
+2 Both Chapter 11, see 11 U.S.C. 1129(b)(2)(A)(i)(II) , and Chapter 12, see 11 U.S.C. 1225(a)(5)(B)(ii) , contain analogous cramdown provisions.
+Courts have considered all three provisions to be similar and have analyzed them interchangeably.
+3 Before a plan invoking the cramdown provision can be confirmed, a bankruptcy court must make two determinations.
+First, it must determine the value of the collateral as of the effective date of the plan.
+See Assocs.
+Commercial Corp. v. Rash , 520 U.S. 953, 960-62 , 117 S.Ct. 1879 , 138 L.Ed.2d 148 (1997).
+Once that value is determined, the bankruptcy court must then decide upon a stream of payments over the course of the plan that will provide the creditor with "value not less than the allowed amount of such claim."
+11 U.S.C. 1325(a)(5)(B)(ii) .
+To compensate a secured creditor for its delay in receiving the value of the collateral, the creditor must receive interest to account for the time value of money.
+See John K. Pearson, et al., Ending the Judicial Snipe Hunt: The Search for the Cramdown Interest Rate , 4 Am. Bankr.Inst.
+L.Rev.
+35, 36-38 (1996).
+Thus, the second determination a bankruptcy court must make is the rate of interest to be charged.
+This issue has caused significant disagreement among the courts of appeals, bankruptcy courts and commentators.
+See Monica Hartman, Comment, Selecting the Correct Cramdown Interest Rate in Chapter 11 and Chapter 13 Bankruptcies , 47 U.C.L.A.
+L.Rev.
+521, 532-44 (1999) (discussing the dominant approaches and the criticism each has received); David G. Epstein, Don't Go and Do Something Rash About Cram Down Interest Rates , 49 Ala. L.Rev.
+435, 443-59 (1998) (discussing the divisions among courts of appeal); Matthew Y. Harris, Comment, Chapter 13 Cram Down Interest Rates , 67 Miss. L.J. 567, 569-80 (1997) (discussing the current approaches and their critics).
+B. Our ultimate task is to ascertain the policy decision made by Congress in enacting this statutory provision.
+This task requires that we understand the command of the statute.
+We therefore begin, as we always must, with the text of the statute.
+We focus on the plain wording of the provision before us and on the statutory structure of which that provision is a part.
+4 Examining both the text of the cramdown provision and the structure of the statute, we think it is clear that Congress intended that, under 1325(a)(5)(B)(ii) , the secured creditor, who is being forced to accept the debtor's plan and to forfeit his right to foreclose and sell the collateral, is to be compensated for the diminution of his present interest in the collateral.
+In short, from the debtor's perspective, it is necessary to pay for the continued use of the collateral at a rate that will preserve the value of the creditor's interest.
+In ascertaining the precise obligation of the debtor under the cramdown provision, it is helpful to compare its requirements to the other provisions of 1325(a)(5) that offer alternative ways of protecting the interest of a secured creditor in a Chapter 13 plan.
+We think it is reasonable to presume that Congress intended that each of these options afford the secured debtor somewhat equivalent protection.
+Certainly, none of the three was designed to provide the debtor or the creditor with a windfall.
+The three possibilities are straightforward: (1) a creditor consents to the plan; (2) the debtor turns over the collateral to the creditor; or (3) the debtor invokes the cramdown.
+A creditor will only consent if the plan adequately protects its interests.
+See Pearson, supra , at 49-50 (describing the efforts of creditors and debtors to come to an agreement to avoid bankruptcy litigation).
+If the creditor receives the collateral, then its rights under state law are vindicated and its contract with the debtor is fulfilled; in such a circumstance, the secured creditor's rights are not impaired by the Bankruptcy Code.
+The creditor may still seek the unsecured portion of its claim in bankruptcy, but it proceeds as an unsecured creditor and without the preference the Code gives to secured creditors.
+Given these two alternate modes of protection afforded by the statute, it is logical to conclude that the interest rate under the cramdown provision must put the creditor in a position reasonably equivalent to the position it would be in had it consented to the plan or had it received and then sold the collateral.
+There seems to be a consensus on this point among courts of appeal that have addressed this issue.
+All agree that the rate should compensate the creditor for its delay in receiving the value of the collateral.
+See, e.g. , Koopmans v. Farm Credit Servs.
+of Mid-America, ACA , 102 F.3d 874, 874 (7th Cir.1996); In re Smithwick , 121 F.3d 211, 214 (5th Cir.1997); In re Valenti , 105 F.3d 55, 59-60 (2d Cir.1997); GMAC v. Jones , 999 F.2d 63, 66-67 (3d Cir.1993); United Carolina Bank v. Hall , 993 F.2d 1126, 1129-30 (4th Cir.1993); In re Fowler , 903 F.2d 694, 696-97 (9th Cir.1990); In re Hardzog , 901 F.2d 858, 859-60 (10th Cir.1990); United States v. Arnold , 878 F.2d 925, 928-29 (6th Cir.1989).
+"If the debtor chooses to maintain possession of the secured collateral then the debtor must compensate the creditor for the full value of the allowed secured claim."
+In re Valenti , 105 F.3d at 59 .
+C. Despite the consensus on the objective of the statute, courts have developed divergent formulae for calculating the interest rate.
+Even here, however, there is consensus about a starting point.
+Courts agree that a "market" rate of interest should apply.
+See Koopmans , 102 F.3d at 874-75 ; In re Smithwick , 121 F.3d at 214 ; In re Valenti , 105 F.3d at 63 ; GMAC , 999 F.2d at 66-67 ; United Carolina Bank , 993 F.2d at 1129-30 ; In re Fowler , 903 F.2d 694, 697 (9th Cir.1990); In re Hardzog , 901 F.2d at 859-60 ; Arnold , 878 F.2d at 927-28 ; see also Pearson, supra at 40-41; Epstein, supra at 443.
+There is disagreement, however, about what rate of interest will adequately ensure that the creditor receives full value of his secured claim.
+1.
+Under one approach, known as the "cost of funds method," the interest rate is set at the rate the creditor would have to pay to borrow the amount equal to the collateral's value.
+See In re Valenti , 105 F.3d at 64 (holding that, although cost of funds approach "more appropriately reflects the present value of a creditor's allowed claim," it is difficult to administer, and therefore the interest rate should be "fixed at the rate on a United States Treasury instrument with a maturity equivalent to the repayment schedule under the debtor's reorganization plan"); 8 Lawrence P. King et al., Collier on Bankruptcy , ¶ 1325.06 [B] (15th ed.2001) (advocating cost of funds approach).
+No court of appeals has adopted the cost of funds method without further refinement.
+In In re Valenti , the Second Circuit expressed the view that this method was the best of the approaches employed by the various federal courts, but chose to adopt, for the sake of efficiency and ease of administration, a standard rate for all cramdown cases.
+See In re Valenti , 105 F.3d at 64 .
+As we shall discuss in more detail later, under the Second Circuit approach, the Chapter 13 plan ought to set the interest rate at the rate for Treasury instruments with a maturity equivalent to the repayment schedule set forth in the plan of reorganization.
+This rate ought then to be adjusted to take into account the creditor's risk in not receiving the payments scheduled under the plan.
+See id. The cost of funds' approach is advocated by Collier on Bankruptcy and has been adopted by some bankruptcy and district courts.
+The cost of funds method is not without its flaws.
+First, as the Ninth Circuit has observed, charging an interest rate equal to the creditor's borrowing rate forces the creditor to make a firm commitment to borrow (and repay) funds secured only by the risky stream of payments under the debtor's Chapter 13 plan and the creditor's continuing lien on a depreciating piece of collateral.
+See In re Camino Real Landscape Maint. Contractors, Inc. , 818 F.2d 1503, 1506 (9th Cir.1987).
+Such a rate does not give the secured creditor value equivalent to his allowed claim.
+Second, "it is doubtful that the secured creditor has an unlimited supply of credit."
+Michael E.S.
+Frankel, The Emerging Fixed Cramdown Rate Regime , 2 U. Chi. L. Sch. Roundtable 643, 647 (1995).
+The cost of funds method presupposes that a creditor will opt to exhaust some of its own credit in order to replace the liquid capital it would have received after foreclosure and sale.
+Many Chapter 13 creditors are not in a financial position to take on such a commitment and, consequently, the imposition of such terms on them would not afford them the full value of their secured interest and would deprive them of the protection of the cramdown provision.
+Third, the cost of funds approach is likely to provide a windfall to the debtor.
+As a practical matter, it allows the debtor to step into his creditor's shoes and pay interest for use of the collateral on the terms that he would enjoy if he were the secured creditor.
+This approach does not compensate the creditor for the risk that the Chapter 13 plan will fail and leave the creditor with only the remedy of foreclosure and sale of depreciated collateral.
+2.
+A second approach, which is an adaption of the cost of funds method, is the formula method.
+The Second Circuit, see In re Valenti , 105 F.3d 55, 63 (2d Cir.1997), has adopted the formula method; the Ninth Circuit, see In re Fowler , 903 F.2d 694, 698 (9th Cir.1990), and Eighth Circuit, see United States v. Doud , 869 F.2d 1144, 1146 (8th Cir.1989), have endorsed the formula method but have not adopted an exclusive, strict formula; instead those courts have vested significant discretion in the bank ruptcy courts.
+"[T]he formula approach requires the court to adopt a risk-free market rate as a base, and then add a risk premium corresponding to the court's determination of the riskiness of the reorganization plan."
+Pearson, supra, at 50.
+As we have noted earlier, the Second Circuit uses the "rate on a United States Treasury instrument with a maturity equivalent to the repayment schedule under the debtor's reorganization plan" and a risk premium of one to three percent.
+In re Valenti , 105 F.3d at 64 .
+The formula method as adopted by our colleagues in the Second Circuit has the advantage of being clear and predictable.
+The base rate is readily ascertainable, and there is a small range of risk adjustment.
+We do not believe, however, that the formula approach necessarily will produce an interest rate that complies with the statutory requirement that the creditor receive "value [which is] not less than the allowed amount of such claim" over the course of the plan.
+11 U.S.C. 1325(a)(5)(B)(ii) .
+Congress sought to protect the secured creditor who is forced into the cramdown situation with protection against several factors: (1) the possibility that his continued credit to the now-bankrupt debtor would not be repaid; (2) the reality that the collateral will continue to depreciate either at the same rate as it has in the past or at a different rate, depending on the nature of the collateral and the prevailing market conditions; (3) the cost of continuing to service the loan in question.
+Congress left to the bankruptcy courts the task of ascertaining the appropriate rate which would protect against all of these factors.
+As this court noted in Koopmans , market participants may choose different methods of calculating the market rate of interest for the new situation precipitated by the debtor's invocation of the cramdown provision.
+See Koopmans , 102 F.3d at 875 .
+There are a multitude of possible creditor/debtor relationships subject to the cramdown provision.
+Each presents its own risks; to adopt a standard interest rate with limited discretion vested in the bankruptcy court only to take into consideration the contingency of nonpayment would not necessarily fulfill the statutory command that the creditor be afforded the full value of his interest at the time the reorganization plan becomes effective.
+The statutory provision necessarily leaves the particular questions of valuation to the informed discretion of the bankruptcy court.
+Our adoption of a rigid formula would unduly restrict that discretion.
+The statute contemplates a more particularized inquiry, and we are bound by Congress' policy choice in this regard.
+3.
+A third approach, and the one that we adopted in Koopmans , has been described as the "coerced loan" or the "forced loan" method.
+Courts taking this view conceptualize the cramdown provision as forcing creditors to extend a new line of credit to the debtor.
+Consequently, "the creditor is entitled to the rate of interest it could have obtained had it foreclosed and reinvested the proceeds in loans of equivalent duration and risk."
+Koopmans , 102 F.3d at 875 .
+This approach views 1325(a)(5)(B)(ii) as "seek[ing] to put the secured creditor in an economic position equivalent to the one it would have occupied had it received the allowed secured amount immediately, thus terminating the relationship between the creditor and the debtor."
+GMAC , 999 F.2d at 66-67 ; see also In re Smithwick , 121 F.3d at 214 .
+Koopmans was decided under the cramdown provision of Chapter 12, which applies to family farms.
+See Koopmans , 102 F.3d at 874 .
+We wrote that in a cramdown, "the secured creditor is entitled to the 'indubitable equivalence' of its property interest, which means a stream of payments including interest that adds up to the present value of its claim."
+Id. at 874 (quoting In re Murel Holding Corp. , 75 F.2d 941, 942 (2d Cir.1935) (L.Hand, J.)).
+The question there, as here, is: "At what rate of interest will [the secured creditor] be as well off in the reorganization as if it had been allowed to foreclose on and sell the [collateral]."
+Id.
+We held that "the creditor is entitled to the rate of interest it could have obtained had it foreclosed and reinvested the proceeds in loans of equivalent duration and risk."
+Id. at 875 .
+We so held "[w]ithout implying that 'prime-plus' is the only way to approximate the market rate of interest—for participants in the market may use other methods " Id. Some courts, including the bankruptcy court in this case, have read our holding in Koopmans to endorse the formula method discussed above.
+It is true that we affirmed the decision of the bankruptcy court, which had: approximated this by starting with the prime rate of interest, which it found prevalent for new 20-year well-secured agricultural loans at the time, and adding 1.5 percent because it deemed this extension of credit more risky than the norm in light of the Koopmans' sorry repayment record.
+This produced a floating rate, 10.5 percent (9 percent + 1.5 percent) at the time the bankruptcy court approved the plan.
+Koopmans , 102 F.3d at 875 (emphasis added).
+However, "this" was the "market rate of interest, at the time of the hypothetical foreclosure, for loans of equivalent duration and risk."
+Id. at 874-75 .
+In Koopmans , the forced loan approach produced a 10.5% interest rate based upon the prime rate plus a risk factor; this result was a realistic approximation of the interest rate that the creditor would have received on a new loan of the same duration and risk because the secured creditor in Koopmans was over-secured, and the chosen rate was the one for well-secured agricultural loans.
+See id. at 874-75 .
+Koopmans did not endorse a formula approach and should not be read to have endorsed such an approach.
+As we emphasized in Koopmans , "[o]n this record, the market's approach is prime-plus."
+Id. at 875 .
+It is clear that Koopmans did not adopt the prime-plus rate; it adopted the coerced loan method, the specific application of which led to the prime-plus rate.
+See id. Only the Second Circuit has explicitly rejected the forced loan method.
+See In re Valenti , 105 F.3d at 64 .
+The court in Valenti thought the coerced loan method inappropriate because it computes " 'present value' to include the profit that the creditor would have generated had the creditor received the value of the collateral immediately."
+Id. at 63 .
+The court elaborated: "The objective of 1325(a)(5)(B)(ii) is to put the creditor in the same economic position that it would have been in had it received the value of its allowed claim immediately.
+The purpose is not to put the creditor in the same position that it would have been in had it arranged a 'new' loan."
+Id. at 64 .
+The court also opined that "the value of the creditor's allowed claim does not include any degree of profit."
+Id. Like several other circuits, we respectfully decline to adopt this analysis.
+Like the Third Circuit, see GMAC , 999 F.2d at 69 , and the Fifth Circuit, see Smithwick , 121 F.3d at 214 , we believe that to exclude the element of profit from the fixing of the market rate would violate the statutory directive that the creditor be placed in the same position as the one in which it would have been if it had been allowed to end the lending relationship by repossessing the collateral.
+By determining the rate that the creditor in question would obtain in making a new loan in the same industry to a debtor who is similarly situated, although not in bankruptcy, see GMAC , 999 F.2d at 67 n. 4, we acknowledge that we are approximating, not necessarily duplicating precisely, the present value of the collateral to the creditor as that statute requires.
+The continuation of the old contract rate to the bankrupt debtor under the supervision of the bankruptcy court will involve some risks that would not be incurred in a new loan to a debtor not in default and also result in some economies.
+5 Nevertheless, like our colleagues in the Third Circuit, see GMAC , 999 F.2d at 68-69 , and Fifth Circuit, see Smithwick , 121 F.3d at 214 , we believe that the old contract rate will yield a rate sufficiently reflective of the value of the collateral at the time of the effectiveness of the plan to serve as a presumptive rate.
+Therefore, [i]n the absence of a stipulation regarding the creditor's current rate for a loan of similar character, amount and duration, we believe it would be appropriate for bankruptcy courts to accept a plan utilizing the contract rate if the creditor fails to come forward with persuasive evidence that its current rate is in excess of the contract rate.
+Conversely, utilizing the same rebuttable presumption approach, if a debtor proposes a plan with a rate less than the contract rate, it would be appropriate for a bankruptcy court to require the debtor to come forward with some evidence that the creditor's current rate is less than the contract rate.
+GMAC , 999 F.2d at 70-71 .
+The approach we endorse today will, in most cases, provide the best approximation of the proper rate.
+Thus, the bankruptcy courts are vested with significant discretion in the application of the method described in this opinion.
+The district court properly determined that our earlier decision in Koopmans determined that the correct approach in ascertaining the appropriate interest rate in a cramdown situation is the coerced loan approach.
+Nevertheless, because our decision today sufficiently elaborates on that methodology and gives further guidance to the bankruptcy courts on this matter, we believe that the best course is to remand the case to the district court with instructions that the judgment of the bankruptcy court be vacated and that further proceedings consistent with this opinion be held in the bankruptcy court.
+We believe that fairness requires that both parties be afforded an opportunity to address the factors that we have identified in this opinion and that the bankruptcy court be given the opportunity to employ the methodology that we have set forth today.
+Conclusion Accordingly, the judgment of the district court is vacated and the case is remanded with instructions.
+The parties shall bear their own costs of this appeal.
+VACATED and REMANDED

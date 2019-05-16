@@ -1,0 +1,239 @@
+ KETHLEDGE, Circuit Judge.
+The State of Michigan and the Little Traverse Bay Bands of Odawa Indians ("Little Traverse") brought this suit to prevent the Bay Mills Indian Community from operating a small casino in Vanderbilt, Michigan.
+Vanderbilt itself is a small town located in the northern part of Michigan's Lower Peninsula, in forest country more than 30 miles from the nearest Great Lake.
+Its population, according to Census Bureau estimates, has hovered around 575 residents over the past 10 years.
+Little Traverse sued Bay Mills on the theory that its Vanderbilt casino (total slot machines: 84) would divert millions of dollars of revenue from Little Traverse's vastly larger casino in Petoskey, Michigan — a high-end community located on the shores of Lake Michigan.
+The State sued on the more prosaic theory that the Vanderbilt casino is unlawful.
+The district court entered a preliminary injunction ordering Bay Mills to stop gaming (a euphemism often unavoidable for our purposes here) at the Vanderbilt casino.
+We hold that the district court lacked jurisdiction over some of the plaintiffs' claims, and that Bay Mills's sovereign immunity bars the others, at least in the configuration in which the suit comes to us now.
+Thus we vacate the injunction.
+I. The Indian Gaming Regulatory Act ("the Regulatory Act") provides that "Class III gaming activities" ( i.e. , casino-style gaming, as opposed to, say, bingo halls) "shall be lawful on Indian lands only if certain requirements are met.
+25 U.S.C. 2710 (d).
+An Indian tribe wishing to conduct gaming activity must adopt a gaming ordinance that is approved by the Chairman of the National Indian Gaming Commission ("the Gaming Commission"), id .
+2710(d)(1)(A) — which is itself an independent federal agency.
+The tribe must also negotiate with the state to enter a "Tribal-State compact" that will govern [**2] the gambling.
+Id .
+2710(d)(3) .
+Once a compact is entered, the Regulatory Act requires the gambling to conform to the compact.
+Id .
+2710(d)(1)(C) .
+Bay Mills is a federally recognized Indian tribe with a reservation in Michigan's Upper Peninsula.
+In 1993, the tribe entered a Tribal-State compact with the State of Michigan, pursuant to the Regulatory Act.
+The Gaming Commission approved Bay Mills's tribal gaming ordinance shortly thereafter.
+Since that time, Bay Mills has operated a casino on its reservation in Chippewa County, Michigan.
+In 1997, Congress passed the Michigan Indian Land Claims Settlement Act ("the Settlement Act"), whose purpose was to allocate funds to Bay Mills and other Michigan Indian tribes, in satisfaction of judgments that the Indian Claims Commission had entered in favor of the tribes.
+See Pub. L. No. 105-143 , 102 , 111 Stat. 2652 .
+The Settlement Act directed Bay Mills to deposit a portion of its funds into a land trust, with the earnings from that trust to be "used exclusively for improvements on tribal land or the consolidation and enhancement of tribal landholdings through purchase or exchange."
+Id .
+107(a)(3) .
+The Settlement Act also provided that "[a]ny land acquired with funds from the Land Trust shall be held as Indian lands are held."
+Id .
+In August of 2010, Bay Mills used trust earnings to purchase approximately 40 acres of property in Vanderbilt, Michigan.
+The property is located more than 100 miles from the tribe's reservation in the Upper Peninsula.
+Bay Mills then constructed a small casino on the property (initially with 38 electronic gaming machines, later expanded to 84), pursuant to an amended gaming ordinance.
+Bay Mills began operating the Vanderbilt casino on November 3, 2010.
+The State filed suit against Bay Mills the following month, on December 21, 2010.
+Little Traverse — also a federally recognized Indian tribe — filed suit one day later.
+Each plaintiff claims that Bay Mills has violated various provisions of its Tribal-State compact.
+The State additionally claims that Bay Mills has violated state law.
+Little Traverse moved for a preliminary injunction.
+The State supported the motion.
+The district court granted the motion and enjoined Bay Mills from operating the Vanderbilt casino.
+Bay Mills sought a stay, which the district court denied.
+The tribe then sought a stay in this court, which we denied.
+Bay Mills now appeals the order entering the injunction.
+II.
+At the outset, Bay Mills argues that the plaintiffs have not shown any injury for purposes of standing.
+To establish standing, the plaintiffs must show an injury in fact, fairly traceable to the defendant's conduct, that is likely to be redressed by a favorable decision from the court.
+Lujan v. Defenders of Wildlife , 504 U.S. 555 , 560-61 , 112 S.Ct. 2130 , 119 L.Ed.2d 351 (1992).
+Each element of standing "must be supported in the same way as any other matter on which the plaintiff bears the burden of proof, i.e. , with the manner and degree of evidence required at successive stages of the litigation."
+Id. at 561, 112 S.Ct. 2130 .
+Little Traverse's expert predicted that the Vanderbilt casino will cause Little Traverse to lose tens of millions of dollars by diverting [**3] customers from its Odawa Casino Resort in Petoskey.
+The expert noted the proximity of the two properties (about 40 miles), the Vanderbilt casino's location near a major interstate, and that Bay Mills has offered incentives to new customers who show rewards cards from the Odawa resort.
+Bay Mills's expert identified defects in the methodology of Little Traverse's expert.
+But even Bay Mills's expert acknowledged the likelihood that at least some of the Vanderbilt casino's gaming revenue would have otherwise gone to the Odawa resort.
+Little Traverse's evidence of competitive harm is enough to show an injury in fact for standing purposes.
+This case is different from a previous one where we refused to find standing based on nothing more than the plaintiffs request that we take judicial notice of the distance between allegedly competing casinos.
+See Sault Ste.
+Marie Tribe of Chippewa Indians v. United States , 288 F.3d 910 , 915-16 (6th Cir.2002).
+And because Little Traverse's Tribal-State compact requires it to furnish a portion of its gaming revenue to the State, any loss to Little Traverse will result in a loss to the State.
+So the State has shown injury as well.
+III.
+We turn to subject-matter jurisdiction.
+For each cause of action, federal jurisdiction "must be determined from what necessarily appears in the plaintiffs statement of his own claim .
+.
+.
+unaided by anything alleged in anticipation of avoidance of defenses which it is thought the defendant may interpose."
+Taylor v. Anderson , 234 U.S. 74 , 75-76 , 34 S.Ct. 724 , 58 L.Ed. 1218 (1914); Holmes Group, Inc. v. Vornado Air Circulation Sys., Inc. , 535 U.S. 826 , 830 , 122 S.Ct. 1889 , 153 L.Ed.2d 13 (2002).
+We consider each of the plaintiffs' causes of action in turn.
+A. The plaintiffs primarily plead claims under the Regulatory Act, alleging that the Vanderbilt casino violates the Tribal-State compact because it is not located on Indian lands.
+See Bay Mills-Michigan Compact 4(H) ("The Tribe shall not conduct any Class III gaming outside of Indian lands").
+These claims arise under 25 U.S.C. 2710 (d)(7)(A)(ii), which provides: (7)(A) The United States district courts shall have jurisdiction over — .
+.
+.
+(ii) any cause of action initiated by a State or Indian tribe to enjoin a class III gaming activity located on Indian lands and conducted in violation of any Tribal-State compact .
+.
+.
+that is in effect[.]
+Two insuperable Article III defects prevent adjudication of these claims.
+The first is that a statutory prerequisite to jurisdiction is Section 2710(d)(7) (A)(ii) by its terms is conjunctive — that is, the State or tribal plaintiff must meet all of the provision's conditions for jurisdiction to exist, rather than just one or two of them.
+Thus, 2710(d)(7)(A)(ii) supplies federal jurisdiction only where all of the following are true: (1) the plaintiff is a State or an Indian tribe; (2) the cause of action seeks to enjoin a class III gaming activity; (3) the gaming activity is located on Indian lands; (4) the gaming activity is conducted in violation of a Tribal-State compact; and (5) the Tribal-State compact is in effect.
+The plaintiffs' own pleadings defeat their argument that the Regulatory Act supplies jurisdiction here.
+In their complaints, the plaintiffs expressly allege [**4] that the Vanderbilt casino is not located on Indian lands, which means the plaintiffs cannot meet the third condition (that the "gaming activity [is] located on Indian lands") recited above.
+See State's Am. Compl.
+¶¶ 22, 26-28; Little Traverse's Am. Compl.
+¶¶ 13, 17-18.
+The Regulatory Act defines "Indian lands" as: (A) all lands within the limits of any Indian reservation; and (B) any lands title to which is either held in trust by the United States for the benefit of any Indian tribe or individual or held by any Indian tribe or individual subject to restriction by the United States against alienation and over which an Indian tribe exercises governmental power.
+25 U.S.C. 2703 (4).
+Here, the plaintiffs allege that the Vanderbilt property is not located within the Bay Mills reservation (which is located 100 miles to the north); that title to the property is not held in trust by the United States; that title is not subject to restriction against alienation by the United States; and that Bay Mills does not exercise governmental power over the property.
+The plaintiffs allege these things because they are essential to the plaintiffs' claim that gaming at the Vanderbilt casino violates Bay Mills's Tribal-State compact.
+But the allegations mean that, even at the pleading stage, the plaintiffs cannot show federal jurisdiction over their 2710(d)(7)(A)(ii) claims.
+Accord Match-E-Be-Nash-She-Wish Band of Pottawatomi Indians v. Engler , 304 F.3d 616 , 618 (6th Cir.2002) (reaching the same conclusion with respect to a claim brought under a neighboring provision of the Regulatory Act, namely 2710(d)(7)(A)(i) ).
+That said, we acknowledge the irony of this case: Bay Mills, the defendant here, alleges that the Vanderbilt casino is located on "Indian lands" — in which case 2710(d)(7)(A)(ii) would supply federal jurisdiction.
+Thus, the plaintiffs say, the district court should cut to the chase and determine whether the Vanderbilt casino is, in fact, located on Indian lands.
+But that leads to the second Article III defect in the plaintiffs' claims: there is no possibility of redressing their injury by means of a 2710(d)(7)(A)(ii) claim.
+See Lujan , 504 U.S. at 561 , 112 S.Ct. 2130 .
+As the case comes to us here, a determination whether the Vanderbilt casino is located on Indian lands would be purely advisory: if the Vanderbilt casino is not located on Indian lands, there is no jurisdiction for the plaintiffs' claims; if the casino is located on Indian lands, its operation does not violate the compact, which means the claims are meritless.
+Neither answer would redress the plaintiffs' alleged injuries.
+The federal courts lack jurisdiction, therefore, to adjudicate the plaintiffs' 2710(d)(7)(A)(ii) claims to the extent those claims are based on an allegation that the Vanderbilt casino is not on Indian lands.
+B. But each plaintiff also asserts a 2710(d)(7)(A)(ii) claim that rests upon an alternative allegation that the Vanderbilt casino is located on Indian lands: — thereby satisfying, as to this claim, the third pre-requisite to federal jurisdiction (and the one missing for the claims above).
+But this claim merely exchanges one jurisdictional defect for another.
+The fourth pre-requisite [**5] for jurisdiction under 2710(d)(7)(A)(ii), as recited above, is that the challenged gaming is "conducted in violation of any Tribal-State compact[.]"
+The compact here requires all gaming to be conducted in compliance with federal law.
+See Bay Mills-Michigan Compact 4(C) ("The Tribe shall .
+.
+.
+operate .
+.
+.
+all Class III gaming activities pursuant to .
+.
+.
+[the Regulatory Act], and all other applicable federal law").
+The plaintiffs argue that the Vanderbilt casino's operation violates 25 U.S.C. 2719 , which provides that "gaming regulated by this chapter shall not be conducted on lands acquired by the Secretary in trust for the benefit of an Indian tribe after October 17, 1988 " subject to certain exceptions that do not apply here.
+(Emphasis added.)
+Thus, for the casino's operation to violate 2719 — and for federal jurisdiction to exist as to this claim — the casino's operations must be conducted on lands so acquired by the Secretary.
+But here again the plaintiffs' own pleadings defeat their argument in support of jurisdiction.
+Each plaintiff affirmatively alleges that the Vanderbilt property was not "acquired by the Secretary in trust for the benefit of Bay Mills.
+See State's Am. Compl.
+¶ 26; Little Traverse's Am. Compl.
+¶ 13.
+Indeed it is undisputed that the property was acquired by Bay Mills itself.
+Thus, we are patently without jurisdiction over this claim.
+The preceding analysis knocks out all of Little Traverse's causes of action.
+We proceed to consider the State's remaining claims.
+C. The State pleads a claim under what it calls the "federal common law" and two claims under state law.
+As to these claims, the plaintiffs assert that we have federal-question jurisdiction under 28 U.S.C. 1331 .
+We agree.
+Although none of these claims are based on a federal statute, the claims "arise under" federal law because they "implicate significant federal issues."
+Grable & Sons Metal Prods., Inc. v. Darue Eng'g , 545 U.S. 308 , 312 , 125 S.Ct. 2363 , 162 L.Ed.2d 257 (2005).
+Specifically, each claim on its face presents a question of federal law (whether the Vanderbilt casino is located on Indian lands) that is disputed by the parties.
+See id .
+at 314, 125 S.Ct. 2363 .
+That question could have a substantial impact on both the present litigation and on federal Indian-gaming law more generally.
+Id .
+And there is no reason to think Congress would prefer this question to be resolved by state courts.
+Id. To the contrary, Indian law is primarily the province of the federal courts.
+So federal jurisdiction does exist for these claims — but only these.
+IV.
+As to these claims, Bay Mills argues that it is immune from suit.
+The Supreme Court has held that, "[a]s a matter of federal law," Indian tribes are immune from suit except in specific, limited circumstances.
+Kiowa Tribe of Okla. v. Mfg.
+Techs., Inc. , 523 U.S. 751 , 754 , 118 S.Ct. 1700 , 140 L.Ed.2d 981 (1998).
+Although we have treated questions of tribal immunity as jurisdictional, see Memphis Biofuels, LLC v. Chickasaw Nation Indus., Inc. , 585 F.3d 917 , 919-20 (6th Cir.2009), tribal immunity is different from other jurisdictional issues in key respects: notably, it does not arise from Article III of the Constitution, but is judicially created, developing "almost by accident."
+Kiowa Tribe , 523 U.S. at 756 , 118 S.Ct. 1700 .
+Thus, the issue is whether the State's remaining claims fall within [**6] those judicially created bounds here.
+The Supreme Court has recognized tribal immunity "without drawing a distinction based on where the tribal activities occurred."
+Id. at 754 , 118 S.Ct. 1700 .
+Thus, although the State may regulate tribal activities that occur outside Indian lands, see Mescalero Apache Tribe v. Jones , 411 U.S. 145 , 148-49 , 93 S.Ct. 1267 , 36 L.Ed.2d 114 (1973), it may not (absent waiver or abrogation of tribal immunity) enforce those regulations by suing the tribe itself.
+See Kiowa Tribe , 523 U.S. at 755 , 118 S.Ct. 1700 ; Okla.
+Tax Comm'n v. Citizen Band Potawatomi Indian Tribe of Okla. , 498 U.S. 505 , 514 , 111 S.Ct. 905 , 112 L.Ed.2d 1112 (1991).
+"There is a difference between the right to demand compliance with state laws and the means available to enforce them."
+Kioiva Tribe , 523 U.S. at 755 , 118 S.Ct. 1700 .
+Under the plain terms of these precedents, therefore, the mere fact that the Vanderbilt casino's operations might (and perhaps likely do) occur outside Indian lands does not mean that the Bay Mills tribe itself can be sued on account of them.
+See Cohen's Handbook of Federal Indian Law 7.05[l][b] (2005 ed. Supp. 2009) ("The Supreme Court has consistently distinguished between the questions of whether tribal activities are subject to state laws and whether the tribe may be sued to enforce those laws").
+Under the Court's precedents, rather, Bay Mills is immune from suit unless "Congress has authorized the suit or the tribe has waived its immunity."
+Kiowa Tribe , 523 U.S. at 754 , 118 S.Ct. 1700 .
+An abrogation of tribal immunity "cannot be implied but must be unequivocally expressed."
+Santa Clara, Pueblo v. Martinez , 436 U.S. 49 , 58 , 98 S.Ct. 1670 , 56 L.Ed.2d 106 (1978) (internal quotation marks and citation omitted).
+Similarly, a tribe's waiver of its immunity must be "clear."
+C & L Enters., v. Citizen Band Potawatomi Indian Tribe of Okla. , 532 U.S. 411 , 418 , 121 S.Ct. 1589 , 149 L.Ed.2d 623 (2001).
+So we turn to whether there has been such an abrogation or waiver here.
+A. The State argues that Congress has abrogated Bay Mills's immunity from this suit in two federal statutes.
+First, the State turns again to the Regulatory Act, specifically 25 U.S.C. 2710 (d)(7)(A)(ii).
+By its terms, this provision supplies federal jurisdiction and abrogates tribal immunity at a single stroke.
+But to do so, as discussed above, all of its textual pre-requisites must be met.
+See Florida v. Seminole Tribe of Flo.
+, 181 F.3d 1237 , 1242 (11th Cir.1999).
+It is true, as the plaintiffs point out, that the Tenth Circuit has taken the opposite approach with respect to abrogation of tribal immunity under 2710(d)(7)(A)(ii) .
+See Mescalero Apache Tribe v. New Mexico , 131 F.3d 1379 , 1385-86 (10th Cir.1997) (a case unrelated to the Supreme Court's decision in Jones , discussed above).
+But Mescalero offers virtually no analysis in support of its contrary reading of 2710(d)(7)(A)(ii) — a point which the State, to its credit, concedes here; and to the extent the opinion does offer any analysis, it mistakenly cites waiver cases rather than abrogation ones.
+We agree with the Eleventh Circuit, therefore, that Mescalero's reasoning is "muddled" rather than persuasive.
+Seminole Tribe , 181 F.3d at 1241 .
+Thus, for the same reasons that 2710(d)(7)(A)(ii) does not supply federal jurisdiction in this case, it does not abrogate Bay Mills's immunity either.
+Second, the State argues that Congress abrogated Bay Mills's immunity in 18 U.S.C. 1166 .
+Section 1166(a) provides the following with respect to gambling that is not conducted under an approved [**7] Tribal-State gaming compact: for purposes of Federal law, all State laws pertaining to the licensing, regulation, or prohibition of gambling, including but not limited to criminal sanctions applicable thereto, shall apply in Indian country in the same manner and to the same extent as such laws apply elsewhere in the State.
+The State acknowledges that it may not bring criminal charges against Bay Mills under this section, since 1166(d) vests the federal government with exclusive jurisdiction over criminal prosecutions brought under 1166(a) .
+But the State does argue that 1166(a) authorizes the State to bring this civil action.
+Specifically, the State notes that Michigan law authorizes a State prosecutor — or even a citizen — to bring a civil-nuisance suit to enjoin "any person" from allowing a building to be used for gambling.
+See Mich. Comp. Laws 600.3805 , 600.3801 .
+Thus, the State says that, by incorporating this provision, 1166(a) abrogates Bay Mills's immunity with respect to the State's request for injunctive relief here.
+This question is closer than the other ones.
+Michigan's statute authorizing civil suits to abate a nuisance is a "State law[] pertaining to the .
+.
+.
+regulation .
+.
+.
+of gambling," so "for purposes of federal law" it "shall apply" in Indian country "in the same manner" as elsewhere in Michigan.
+18 U.S.C. 1166 (a).
+As a matter of inference, therefore, the State's argument is coherent.
+But it takes more than inferential logic to abrogate tribal immunity.
+What it takes is an "unequivocal expression" of Congress.
+Santa Clara Pueblo , 436 U.S. at 59 , 98 S.Ct. 1670 .
+Sometimes that unequivocal expression can be implicit, as 2710(d)(7)(A)(ii) of the Regulatory Act itself demonstrates.
+But the expression is too attenuated here.
+Section 1166(a) itself does not expressly authorize a State to sue anyone, much less an Indian tribe.
+See United Keetoowah Band of Cherokee Indians v. Oklahoma ex rel.
+Moss , 927 F.2d 1170 , 1177 (10th Cir.1991).
+And neither 1166(a) nor the cited sections of Michigan law say anything about suing Indian tribes in particular.
+Meanwhile, the plaintiffs' reading of 1166(a) would elevate that subsection to a position of paramount importance for tribal-state relations: notwithstanding the particularized remedies authorized by the Regulatory Act or the Tribal-State compact, a tribe's immunity would turn on the happenstance of a particular state's civil anti-gambling statutes, rather than on any provision of federal law.
+We do not see in 1166(a) an unequivocal expression of intent to bring about these consequences.
+That provision therefore does not abrogate Bay Mills's immunity either.
+B. The State also argues that Bay Mills waived its immunity in its tribal gaming ordinance.
+The ordinance creates a Tribal Gaming Commission.
+Section 4.18 of the ordinance includes among the Commission's powers the following: (Y) To sue or be sued in courts of competent jurisdiction within the United States and Canada, subject to the provisions of this Ordinance and other tribal laws relating to sovereign immunity[.]
+Section 4.7 relates to sovereign immunity: Waiver of Sovereign Immunity of the Tribal Commission.
+Sovereign immunity [**8] of the Tribal Commission may be waived only by express resolutions of both the Tribal Commission and the Tribal Council.
+.
+.
+.
+Neither the power to sue and be sued provided in Subsection 4.18(Z) [fn1] nor any express waiver of sovereign immunity by resolution of the Tribal Commission shall be deemed a .
+.
+.
+consent to suit in respect of any land within the exterior boundaries of the Reservation[.]
+The State says that, taken together, these two provisions expressly waive the tribe's immunity for suits, like this one, involving land outside the reservation.
+The argument is meritless.
+Section 4.7 only concerns immunity for the Tribal Commission , not the Tribe itself.
+What the State neglects to mention, remarkably, is that 4.8 addresses the Tribe's immunity — and does so in terms that plainly preclude any waiver here: Sovereign Immunity of the Tribe.
+All inherent sovereign rights of the Tribe as a federally-recognized Indian tribe with respect to the .
+.
+.
+activities of the Tribal Commission are hereby expressly reserved, including sovereign immunity from suit in any state, federal or tribal court.
+Nothing in this Ordinance, nor any action of the Tribal Commission, shall be deemed or construed to be a waiver of sovereign immunity from suit of the Tribe [.]
+(Emphasis added.)
+Tendentious, junk-drawer arguments like this one are best left out of a brief.
+They waste opposing counsel's time and ours.
+We reject the argument here.
+C. Our decision today is not to the exclusion of other remedies that might (or might not) be available to the plaintiffs.
+Notably, they can ask the United States to sue Bay Mills, since tribes are not immune from suits brought by the federal government.
+See Cohen, supra , at 7.05 [a] (2005 ed.).
+And nothing in our decision casts doubt on the State's ability to apply non-discriminatory laws against Indians who go beyond the boundaries of Indian country, so long as there is no federal law to the contrary.
+See Mescalero Apache Tribe v. Jones , 411 U.S. 145 , 148-49 , 93 S.Ct. 1267 , 36 L.Ed.2d 114 (1973); Wagnon v. Prairie Band Potawatomi Nation , 546 U.S. 95 , 112-13 , 126 S.Ct. 676 , 163 L.Ed.2d 429 (2005).
+Finally, it appears the Supreme Court has left open the question whether a State may bring claims against tribal officers in their official capacity.
+See Okla.
+Tax Comm'n , 498 U.S. at 514 , 111 S.Ct. 905 ("We have never held that individual agents or officers of a tribe are not liable for damages in actions brought by the State").
+In fact, the State has already amended its complaint to name various Bay Mills tribal officers as defendants.
+But those officers are not present in this appeal, and they are not named on the injunction.
+We express no opinion as to whether, or under what circumstances, those officers may be sued.
+The district court's preliminary injunction is vacated, and the case remanded for further proceedings consistent with this opinion.

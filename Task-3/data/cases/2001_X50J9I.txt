@@ -1,0 +1,197 @@
+ KOZINSKI , Circuit Judge.
+In a dispute involving a restaurant's share of Social Security taxes on its employees' tip income, we explore the outer bounds of the IRS's power to make tax assessments.
+I Like most restaurants, Fior D'Italia employs waiters, table bussers, bartenders and others whose earnings come in part from tips left by customers.
+Although these tips are paid by customers directly to employees, federal law deems them to have been paid by the employer for purposes of FICA taxes.
+See I. R.C.
+3101 , 3111, 3121(a) & (q).
+This puts employers in an awkward position: They are "deemed," for purposes of tax law, to have paid large sums of money that they have never touched and whose exact amounts they have no way of ascertaining.
+See I. R.C.
+3121(q) .
+1 Yet employers need to know how much tip income employees receive in order to calculate their own FICA taxes and withhold appropriate amounts from the wage portion of the employees' compensation, pursuant to I. R.C.
+3102 .
+To make this information known to employers, tipped employees must submit monthly statements (usually on Form 4070) reporting all tip earnings that qualify as wages under the statute.
+See I. R.C.
+6053(a) ; Treas.
+Reg. 31.6053-1 (a).
+Employers, in turn, must report to the government (on Form 8027) their gross sales, charged tips and the tip amounts reported by employees.
+See I. R.C.
+6053(c)(1) .
+The dispute before us arose because in 1991 and 1992, Fior D'Italia reported aggregate tips that were significantly less than the tips that appeared on its credit card charge slips.
+2 The Internal Revenue Service assessed Fior for additional FICA taxes on what it deemed was unreported tip income for those years.
+To determine what Fior owed, the IRS used a simple calculation: For each year, it divided total tips charged on credit cards by total credit card receipts, yielding an average tip rate of 14.49% and 14.29% for 1991 and 1992, respectively.
+It then applied this "tip rate" to the restaurant's gross receipts to get a presumed tip total for the year.
+The IRS assessed Fior additional FICA taxes based on the difference between its presumed total and the amount of tips Fior's employees had reported.
+3 The IRS did not readjust the FICA or income tax liability of the various employees who may have understated tip income on their 4070 forms.
+Fior challenged the assessment method in district court, arguing that it exceeded the IRS's authority.
+The district court agreed, Fior D'Italia, Inc. v. United States , 21 F.Supp.2d 1097 (N.D.Cal.1998), and the government appeals.
+II Because we must decide whether the IRS's assessment is valid, we begin by examining what exactly the IRS is assessing.
+Section 3111 imposes on every employer a tax equal to a percentage of "the wages paid by him with respect to employment."
+I. R.C.
+3111(a) .
+These wages are defined to include "tips received by an employee in the course of his employment."
+I. R.C.
+3121(q) .
+But Congress did not treat all tips as taxable wages for this purpose.
+In section 3121(a)(1) , it excluded all remuneration from the employer (salary plus tips) that exceeds the Social Security wage base for that year.
+4 In section 3121(a)(12) (B), it excluded all cash tips received by an employee if that amount was less than $20 in a given month.
+These latter two provisions are often described as defining the "wages band" outside of which tip income is not taxed.
+See Bubble Room, Inc. v. United States , 159 F.3d 553, 555-56 (Fed.Cir.1998) ( Bubble Room II ).
+For the IRS's aggregate assessment method to precisely equal the tips on which the employer's FICA tax is calculated, the cash tipping rate must be exactly the same as the tipping rate on charge slips, and total tips received must be distributed among employees so that none falls outside the wages band.
+Neither condition will hold true in most cases.
+First, experience shows that charged tips generally exceed cash tips.
+See Yukimura v. Commissioner , 43 T.C.M.
+(CCH) 467 , 470 , 1982 WL 10891 (1982).
+One can think of many reasons why this would be so.
+Spending credit is easier than spending cash, because actual payment is deferred.
+Also, people dining on expense accounts generally pay with credit cards, and spending someone else's credit is even easier than spending one's own.
+Then there is the convenience of being able to write a tip in precisely the amount one deems appropriate.
+People paying in cash, however generous they may feel, are limited by the amount actually in their wallets and the need to keep some cash until their next visit to Gringott's.
+Applying the charged tip rate to cash receipts will thus tend to overestimate the cash tips actually paid.
+And charged tips paid to employees may be less than appears on the credit card receipts, because some employers pass on the three percent fee assessed by the credit card companies.
+See Bubble Room, Inc. v. United States , 36 Fed. Cl.
+659, 663 (1996) ( Bubble Room I ), rev'd , Bubble Room II , 159 F.3d 553 .
+The assumption that all tip income falls within the wages band is even more problematic because Fior's employees, like those of many other restaurants, engage in tip sharing.
+Waiters receive tips from the customers and then share them with table bussers, bartenders and other employees.
+Much like tips left by the customer, the exact amount shared with others depends on the waiter's generosity and his evaluation of how much other employees contributed to customer satisfaction.
+Looking only at the aggregate tips collected, we cannot tell how many table bussers made less than $20 in indirect tips per month for some or all of the periods in question.
+5 Nor is there any way of knowing how many waiters and hosts received salaries plus tips exceeding the Social Security wage base-something we cannot rule out for an upscale restaurant like Fior D'Italia.
+While an employer may be aware that reported tips are less than actual charged tips, it cannot be sure that employees are understating tips in their 4070 forms.
+Some or all of the discrepancy could be explained by the fact that employees are not required to report tips falling outside the wages band.
+Even if the employer suspects that some employees are understating their tip income, it has no way of knowing who is underreporting or by how much.
+Restaurants cannot force waiters to divulge how much they have actually received in tips, and how those amounts were shared with other employees.
+Nor are employees likely to volunteer such information, because they would be admitting that they committed tax fraud by understating their tip income on the IRS form they submitted to the employer.
+The IRS is unimpressed.
+It believes itself empowered to use any rational method for assessing the tax; the difficulties the employer raises can be considered in determining the precise amount of tax actually owed.
+If the assessment is valid, the burden shifts to the taxpayer to prove the amount (if any) by which the assessment overstates the tax owed.
+The question remains whether the assessment is valid.
+III The IRS's authority to make assessments is a very powerful tool.
+By making a valid assessment, the IRS shifts to the taxpayer the burden of proving that it does not owe the amount of tax the IRS has assessed it.
+If the taxpayer cannot persuade a trier of fact that the amount assessed is incorrect, the IRS wins and the taxpayer is required to pay that amount.
+See Palmer v. IRS , 116 F.3d 1309, 1312 (9th Cir.1997).
+So long as the assessment is supported by a "minimal factual foundation," the IRS need not present any additional evidence; the risk of uncertainty falls on the taxpayer.
+Id. In the income tax context, an assessment becomes even more powerful when coupled with the IRS's authority pursuant to I. R.C.
+446 to redefine the manner in which the taxpayer computes income.
+Section 446 has been interpreted as giving the IRS authority to make an assessment based on an estimate rather than a computation.
+See McQuatters v. Commissioner , 32 T.C.M.
+(CCH) 1122 , 1125 , 1973 WL 2419 (1973).
+This means that, in making the assessment, the IRS need not rely on the actual records kept by the taxpayer.
+Where such records are inadequate, the IRS may make an educated guess as to how much tax is owed, and then put the burden on the taxpayer to prove it wrong.
+McQuatters also involved tip income but, unlike our case, it involved the income taxes of the employees who had actually received the income.
+See also Mendelson v. Commissioner , 305 F.2d 519 (7th Cir.1962).
+The tipped employees had failed to maintain adequate records of the tips they had received, and the courts held that the IRS was authorized to use an estimate in making its assessment.
+Because the employees should have maintained records of their income but failed to do so, it was deemed entirely appropriate to put the burden on them to prove that the IRS's estimate overstated their taxable income.
+See id. at 523 ("Obviously, where a taxpayer keeps no records disclosing his income, no method can be devised which will produce an exact result.
+The law does not require that much.
+"); McQuatters , 32 T.C.M.
+(CCH) at 1125 ("In the absence of adequate record keeping by petitioners, [the IRS] was justified in reconstructing their tip income by an indirect method ").
+The taxpayer in our case is in a very different position from the taxpayers in McQuatters and Mendelson .
+While each employee knows how much he receives in tips, the restaurant does not.
+Employees, moreover, have an obligation to maintain records of their tip income and to accurately report such income to their employer on a monthly basis.
+The restaurant has no obligation to maintain records of tip income, except to the extent its employees report on Form 4070.
+Unlike the taxpayers in McQuatters and Mendelson , then, the taxpayer in our case did not fail to satisfy a legal duty imposed on it by the Internal Revenue Code, and thus did not give the IRS just cause for resorting to an estimate in constructing its assessment.
+Also, unlike the taxpayers in McQuatters and Mendelson , Fior is not in an inherently better position than the IRS to determine what its employees actually earned in tips.
+Quite the contrary: Fior lacks the IRS's power to audit its employees and has no other means of forcing its employees to divulge how much tip income they earned during a given year.
+6 Forcing the restaurant to prove that the estimate is wrong puts an impossible burden on it, making the already heavy presumption that attaches to an IRS assessment virtually conclusive.
+We find this particularly troubling because the IRS's estimate has some serious flaws.
+As discussed above, the IRS's method for estimating cash tips likely overstates the amount of such tips received.
+See pp.
+846-47 supra .
+As to credit card tips, the IRS method fails to take into account the three percent fee imposed by the credit card companies which may be passed on to employees by the restaurant.
+Nor does the estimate make allowance for the statutory wages bands which limit the restaurant's FICA tax liability.
+We can't ignore these inaccuracies on the theory that they will cancel each other out in the long run; they all overstate the base on which the FICA tax is calculated and thus will combine to overstate the amount the taxpayer owes.
+As Judge Plager noted in his dissent in Bubble Room II , "[t]hough it may be that the excess taxes assessed in this manner against the employer amount to a relatively small amount, a Government demand for taxes that are not owed is unlawful on its face and remains unlawful regardless of the amount at issue."
+159 F.3d at 569 (Plager, J., dissenting).
+We have held that the IRS's power to rely on estimates in making its assessment is not without bounds; rather, the IRS must use a "rational method for approximating the correct amount."
+Palmer , 116 F.3d at 1312 .
+Where more accurate information does not exist because the taxpayer failed to maintain adequate records, or where the taxpayer has much better access to the information in question, we will generally defer to the IRS's decision as to what is a rational method for approximating the amount of tax due.
+But a case where the taxpayer has done everything the law requires of it, where the IRS's access to the relevant information is no worse (and probably much better) than the taxpayer's, and where the estimation method adopted by the government ignores the statutory limits on what is taxable, sorely tests the limits of that deference.
+Fortunately, we need not decide whether the IRS has stretched deference to the breaking point because its assessment suffers from a more fundamental flaw: It rests on an estimate in circumstances where Congress has not authorized the IRS to use estimation as an assessment method.
+McQuatters and similar cases relied on I. R.C.
+446 , which (as already discussed) gives the IRS broad authority to use estimates in making income tax assessments.
+But the IRS cannot rely on section 446 as authority for the assessment here because the section does not apply to the collection of FICA taxes.
+While acknowledging that section 446 is inapplicable, the Federal Circuit found it "informative" in concluding that the IRS is authorized to construct its assessment by means of estimation.
+Bubble Room II , 159 F.3d at 566 .
+Like Judge Plager, we fail to understand "exactly how that section is informative with regard to the specific issue before us."
+Id. at 571 (Plager, J., dissenting).
+To the extent section 446 has any bearing at all, it suggests that the IRS here was not authorized to proceed by estimation.
+Congress obviously knew how to give the IRS the authority to use estimation in lieu of actual calculations, and just as clearly thought it necessary to say so explicitly when it wished to confer that power.
+Unlike our colleagues in the Bubble Room II majority, we do not believe such an important and sweeping power can be derived from the penumbras and emanations of the Internal Revenue Code.
+The IRS points to another source of authority for its assessment, namely I. R.C.
+3121(q) .
+This section provides that an employer is liable for its portion of FICA taxes even when "no statement including such tips is furnished" or "the statement so furnished was inaccurate or incomplete."
+But this section doesn't help the government.
+All it says is that, where employees have not provided accurate tip information to the employer, and the IRS finds some other means of determining how much the employer owes, the employer must pay its share.
+Nothing in the text of section 3121(q) speaks to the method the IRS may use in making its assessment.
+In fact, section 3121(q) is worded so differently from section 446 that we cannot conclude they were meant to do the same work.
+The IRS points to the fact that section 3121(q) allows it to assess the employer even after the time for assessing the employee has passed.
+See Rev.
+Rul.
+95-7, 1995-4 I.R.B.
+44 (Q & A 11).
+7 According to the IRS, this implicitly authorizes the use of estimates.
+The chain of reasoning goes something like this: If the IRS is allowed to assess the employer when it may no longer audit the employees, it will have no way to conduct the assessment except by estimation.
+Congress therefore must have contemplated that the IRS would proceed by estimation in making the assessments.
+We do not see this as a necessary implication.
+Rather, we read section 3121(q) as saying that the IRS need not also conduct an audit of the employer while it is auditing the records of individual employees.
+Congress doubtless understood that the only way the IRS can determine FICA taxes on tips is by examining the employees' records; there's no point in auditing the restaurant at the same time because it will have no record of tips, other than the information provided by the employees in their 4070 and 8027 forms.
+But, if the normal limitations period applied, the IRS might have to assess the employer before it finished auditing the employees.
+Section 3121(q) solves this problem by keeping the period open indefinitely-which means for however long it takes to complete the audit of the restaurant's tipped employees.
+8 This does not mean that the IRS may assess the employer only if it also assesses each of its employees.
+Three other circuits have rejected this argument and, for reasons well expressed in those opinions, we reject it as well.
+See 330 West Hubbard Restaurant Corp. v. United States , 203 F.3d 990, 995 (7th Cir.2000); Bubble Room II , 159 F.3d at 565 ; Morrison Restaurants, Inc. v. United States , 118 F.3d 1526, 1529 (11th Cir.1997).
+As the government correctly points out, the employer's portion of FICA is separate from the employee's, and the IRS need not collect the one as a condition for collecting the other.
+Having audited an employee and determined the precise amount of FICA wages the employee has received, the IRS may then choose to assess only the employer, only the employee, or both.
+If the IRS cannot or will not assess the employee for additional FICA tax, this will not jeopardize its right to assess the employer.
+9 That having been said, it does not follow that the IRS can dispense with auditing the employees' records or otherwise determining the amount each employee earned in tips.
+For the reasons explained, there is no way to determine the employer's FICA tax liability without making an employee-by-employee determination of the taxable tips each has earned.
+An aggregate assessment based on inaccurate estimates, as used by the IRS in this case, is simply not authorized.
+10 While recognizing that "I. R.C.
+3121(q) does not fully address the question at issue here," the Federal Circuit nevertheless found that the section "would seem to imply that an indirect method may be used to calculate the amount of employer FICA tax in the absence of any better evidence."
+Bubble Room II , 159 F.3d at 565 .
+11 The Federal Circuit derived this implication as follows: Section 3121(q) comes into play only where "no statement including such tips was so furnished (or to the extent that the statement so furnished was inaccurate or incomplete)."
+I. R.C.
+3121(q) .
+Because the section applies where the employer's records are inadequate, the Federal Circuit reasoned, Congress must have known that the IRS would have no choice but to use an aggregate estimation method.
+See Bubble Room II , 159 F.3d at 565 .
+Respectfully, we disagree with our colleagues.
+If the employer's records are inadequate, it is because its employees have failed to report all their tips.
+The direct and obvious way of determining the taxable tips actually received is for the IRS to audit the employees.
+Proceeding by aggregate estimate, and thereby forcing the employer to pay the price for its employees' dereliction, is simply not the only (nor even the best) way the IRS may proceed.
+We therefore cannot agree that Congress must have had this in mind when it passed section 3121(q) .
+We are aware that auditing individual employees is much more cumbersome than slapping the employer with assessments based on aggregate estimates.
+The fact remains that Congress authorized the IRS to use estimates in collecting income taxes but withheld such authority in collecting FICA taxes.
+By using an estimate-and particularly one that ignores the statutory wages bands-and putting on the employer an impossible burden in rebutting the estimated amount, the IRS has effectively increased the tax payable by the employer above that provided in the Internal Revenue Code.
+12 Nor is the IRS without recourse.
+If auditing individual employees proves too cumbersome, it can seek to have Congress extend its section 446 authority to the collection of FICA taxes.
+Or, it may proceed by regulation.
+I. R.C.
+6205(a)(1) speaks to this situation: section 3101 in such manner and at such times as the Secretary may by regulations prescribe Id. (emphasis added).
+This provision seems to authorize the Secretary to give the IRS authority to make assessments based on aggregate estimates by promulgating a regulation to that effect.
+But, before imposing such rough justice, the Secretary must follow the procedural requirements of notice-and-comment rulemaking.
+These are not idle steps.
+The rulemaking process, by its very design, encourages public scrutiny of an agency's proposed course of action.
+By giving notice of a proposed rule, the agency provides interested parties with the opportunity to express their views and bring their political influence to bear on the process.
+See 1 Kenneth Culp Davis & Richard J. Pierce, Jr., Administrative Law Treatise , 6.7 (3d ed.1994) (noting that rulemaking enhances the "political accountability of agency policy decisions adopted through the rulemaking process"); Bernard Schwartz, Administrative Law , 4.16 (2d ed. 1984) ("Rulemaking provides the agency with a forum for soliciting the informed views of those affected in industry and labor before adopting a new policy.").
+The political process plays a particularly significant role in the arena of tax policy.
+Congress has delegated to the Secretary broad regulatory powers to adjust the legal obligations of taxpayers.
+See, e.g. , I. R.C.
+6205(a)(1) .
+But before the Secretary can give a regulation legal force, he must endure the scrutiny of interested groups, legislative critics and the public at large.
+Congress maintains a particularly vigilant oversight through the Joint Committee on Taxation, whose large staff monitors and reports on the collection activities of the Department of the Treasury.
+See I. R.C.
+8001 , 8004, 8022.
+Indeed, Congress has blocked at least one of the IRS's recent efforts to enhance the collection of FICA taxes on cash tips.
+In 1993, the IRS promulgated a regulation that constrained restaurants' ability to take advantage of a FICA tax credit by limiting the credit to the amount of tip income received and reported by the employee (as opposed to the amount of FICA taxes paid by the restaurant).
+See Treas.
+Reg. 1.45B-1T (1994).
+The purpose of the regulation was to give employers an incentive for encouraging employees to report their tips.
+See, e.g. , Fior D'Italia , 21 F.Supp.2d at 1103-04 (quoting Letter from Leslie B. Samuels, Assistant Secretary of the Treasury, to Senator Trent Lott (Mar. 30, 1994)).
+Responding to industry complaints, Congress rejected this incentive scheme in 1996 and provided that the tax credit would be available "without regard to whether such tips are reported under section 6053 ."
+I. R.C.
+45B(b)(1)(A) .
+This episode demonstrates the difficulty the executive and the legislative branches have had in reaching common ground on the problem of collecting taxes on employee tips.
+This should surprise no one, given both the substantial amount of revenue involved and the serious administrative difficulties in determining the amounts employees receive in tips.
+In the wake of political setbacks, the IRS has tried to solve the problem by assessing restaurants based only on the rough, and somewhat inflated, estimates that we have seen in this case.
+But before it can take such a significant step, it must obtain authorization directly from Congress or by exercising Treasury's own regulatory authority.
+Either path involves significant political checks on agency discretion, and we decline to assist the IRS in avoiding the public scrutiny such a process would entail.
+AFFIRMED .

@@ -1,0 +1,95 @@
+ BROWN, Circuit Judge.
+The tandem of Paralyzed Veterans of America v. D.C.
+Arena L.P., 117 F.3d 579 (D.C. Cir. 1997) and Alaska Professional Hunters Ass'n v. FAA, 177 F.3d 1030 (D.C. Cir. 1999) ("Alaska Hunters") announced an ostensibly straightforward rule: "When an agency has given its regulation a definitive interpretation, and later significantly revises that interpretation, the agency has in effect amended its rule, something it may not accomplish [under the APA] without notice and comment."
+Alaska Hunters, 177 F.3d at 1034 .
+The only question properly before this three-judge panel is a narrow one: what is the role of reliance in this analysis?
+1 Is it, as the government contends, a "separate and independent requirement," Oral Arg.
+10:42-10:45, or is it just one of several factors courts can look to in order to determine whether an agency's interpretation qualifies as definitive, 2 as Mortgage Bankers Association ("MBA") suggests?
+We find ourselves in general agreement with the industry association that there is no discrete reliance element.
+Reliance is just one part of the definitiveness calculus.
+Fortunately, this is as far as our inquiry need go.
+Having conceded the existence of two definitive and conflicting agency interpretations, the government acknowledged at oral argument that petitioner "prevail[s] if the only reason [courts] look to reliance is to find out if there is a definitive interpretation."
+Oral Arg.
+10:56-11:10.
+So stipulated, we reverse the District Court order dismissing MBA's Motion for Summary Judgment and remand the case with instructions to vacate the 2010 Administrator Interpretation significantly revising the agency's 2006 Opinion Letter.
+If the Department of Labor ("DOL") wishes to readopt the later-in-time interpretation, it is free to.
+We take no position on the merits of their interpretation.
+DOL must, however, conduct the required notice and comment rulemaking.
+I Petitioner MBA is a national trade association representing over 2,200 real estate finance companies with more than 280,000 employees nationwide.
+Mortgage Bankers Ass'n v. Solis, 864 F. Supp. 2d 193 , 197 (D.D.C 2012).
+We focus here on the mortgage loan officers who typically assist prospective borrowers in identifying and then applying for various mortgage offerings.
+Though the recent financial crisis has thrust members of this profession into the forefront of the news, [**2] our concern here is more mundane: the method and manner of their pay.
+Under the Fair Labor Standards Act ("FLSA"), 29 U.S.C. 201 et seq., an old law DOL must adapt to new circumstances, employers are generally required to pay overtime wages to employees who work longer than 40 hours per week.
+See 29 U.S.C. 207(a) .
+The Act provides several exceptions to this rule.
+Those "employed in a bona fide executive, administrative, or professional capacity[,] or in the capacity of outside salesman," for example, are exempt from the statute's minimum wage and maximum hour requirements.
+29 U.S.C. 213(a)(1) .
+Whether mortgage loan officers qualify for this "administrative exemption" is a difficult and at times contentious question.
+So difficult, in fact, DOL has found itself on both sides of the debate.
+In 2006, the agency issued an opinion letter concluding on the facts presented that mortgage loan officers with archetypal job duties fell within the administrative exemption.
+Just four years later, in 2010, Deputy Administrator Nancy J. Leppink issued an "Administrator's Interpretation" declaring that "employees who perform the typical job duties" of the hypothetical mortgage loan officer "do not qualify as bona fide administrative employees."
+J.A.
+259.
+The 2010 pronouncement "explicitly withdrew the 2006 Opinion Letter."
+Mortgage Bankers Ass'n, 864 F. Supp. 2d at 201 .
+Citing Paralyzed Veterans and its progeny, MBA challenged DOL's decision to change their "definitive interpretation" without first undergoing notice-and-comment rulemaking as a violation of the APA.
+Compl.
+¶ 38.
+[J.A.
+22] The District Court rejected the argument.
+After assuring itself that Paralyzed Veterans remains good law, see Mortgage Bankers Ass'n, 864 F. Supp. 2d at 204-05 , the court read our recent decision in MetWest Inc. v. Secretary of Labor, 560 F.3d 506 (D.C. Cir. 2009), to require a showing of "substantial and justifiable reliance on a well-established agency interpretation."
+See id. at 207 (internal quotation marks and emphasis omitted).
+Although petitioner had argued reliance in the alternative, the court concluded MBA was unable to "satisfy the standard for demonstrating reliance recognized in MetWest."
+Id. at 208 .
+The court then denied MBA's Motion for Summary Judgment, but not before dismissing the association's substantive challenge to the 2010 interpretation as inconsistent with the agency's 2004 regulation, 29 C.F.R. 541.203(b) .
+The present appeal followed.
+II On its face, the Paralyzed Veterans analysis contains just two elements: definitive interpretations ("definitiveness") and a significant change ("significant revision").
+3 But as with most things doctrinal, the devil is in the details.
+Despite its age, few cases discuss Paralyzed Veterans at length.
+4 One critical question and a dispositive one here concerns the role of reliance.
+Borrowing heavily from MetWest and Honeywell International, Inc. v. NRC, 628 F.3d 568 (D.C. Cir. 2010), two recent cases that draw on our Alaska Hunters decision, DOL suggests that the Paralyzed Veterans analysis contains an independent third element: substantial and justified reliance.
+MBA takes a different approach to Alaska Hunters altogether.
+In its view, that case stands only for the proposition that reliance can elevate an otherwise non-definitive interpretation into a definitive interpretation; as such, it falls squarely within the existing definitiveness element.
+Of the two, we believe MBA's approach [**3] better explains Alaska Hunters.
+Alaska Hunters is an exceptional case with an otherwise straightforward premise.
+In 1963, the Federal Aviation Administration's Alaska office (the "Alaskan Region") began a thirty year practice of "uniformly advis[ing] all guides, lodge managers and guiding services in Alaska that they could meet their regulatory responsibilities by complying with the requirements of [ 14 C.F.R. Part 91 ] only."
+Alaska Hunters, 177 F.3d at 1035 .
+It was not until 1997 that officials in FAA's Washington, D.C. headquarters formally pushed back against the regional office's long-standing interpretation. 5 Through a "Notice to Operators" published in the Federal Register without notice and opportunity for comment, the agency announced that certain Alaskan guides would now have to comply with other, more onerous regulations.
+Individuals who had "opened lodges and built up businesses dependent on aircraft" in reliance on the Alaskan Region's interpretation promptly brought suit challenging the agency's about-face.
+Id. at 1035 .
+In relevant part, FAA argued Paralyzed Veterans was "inapposite" because the Alaskan Region's interpretation was not definitive; it "represented simply a local enforcement omission, in conflict with the agency's policy in the rest of the country."
+Id. at 1034-35 .
+We disagreed.
+Although a local office's interpretation of a regulation or provision of advice to a regulated party "will not necessarily constitute an authoritative administrative position, particularly if the interpretation or advice contradicts the view of the agency as a whole," the situation in Alaska Hunters was "quite different."
+Id. at 1035 .
+For one thing, there was no evidence in the record of any conflicting interpretation.
+The Alaskan Region uniformly enforced its interpretive position for thirty years and both FAA and the National Transportation Safety Board had at some point referred to it as FAA policy.
+See id. at 1035 .
+And even if "FAA as a whole somehow had in mind an interpretation different from that of its Alaskan Region, guides and lodge operators in Alaska had no reason to know this."
+Id .
+All the regulated parties had before them was the formal, 6 uncontradicted, and uniformly-applied interpretation of a local office an interpretation Alaskan guide pilots reasonably relied on for three decades.
+Such advice might not necessarily qualify as definitive, but here, we concluded, it "became an authoritative departmental interpretation, an administrative common law applicable to Alaskan guide pilots" that could not be rewritten without notice and comment rulemaking.
+Id .
+Alaska Hunters's takeaway is clear: reliance is but one factor courts must consider in assessing whether an agency interpretation qualifies as definitive or authoritative.
+Or to put matters more precisely, because regulated entities are unlikely to substantially and often cannot be said to justifiably rely on agency pronouncements lacking some or all the hallmarks of a definitive interpretation, significant reliance functions as a rough proxy for definitiveness.
+The converse also holds true.
+Agency pronouncements effectively ignored by [**4] regulated entities are unlikely to bear the marks of an authoritative decision.
+See Ass'n of Am. R.R., 198 F.3d at 949-50 (finding no definitive interpretation in part because "[n]othing in th[e] record suggests that railroads relied on the [agency statements] in any comparable way" to the Alaska guides).
+7 This is more art than science.
+Courts must weigh the role reliance plays on a case-by-case basis to ascertain its value.
+DOL pushes back against this framework by treating reliance as a separate and independent third element.
+8 That, the agency claims, is exactly what our MetWest decision did in (1) addressing reliance only in the alternative, i.e., after assuming a definitive interpretation, see MetWest, 560 F.3d at 510-11 , and (2) speaking of Alaska Hunters's "substantial and justifiable reliance on a well-established agency interpretation," id. at 511 , a phrase "most natural[ly] read[]" to distinguish definitiveness and reliance as "separate requirements," Appellee Br. 23-24; see also Mortgage Bankers Ass'n, 864 F. Supp. 2d at 205-08 .
+9 We do not think this characterization of MetWest's dicta could possibly be correct.
+"Definitive" is a term of art as used in the Paralyzed Veterans context.
+Once a court has classified an agency interpretation as such, it cannot be significantly revised without notice and comment rulemaking.
+No intervening decision of this Court ever read Alaska Hunters to require anything to the contrary, and that includes Association of American Railroads, the lone pre-MetWest case DOL cites as having treated "reliance and definitive interpretation as two independent requirements."
+Appellee Br. 24.
+10 Whether reliance played a significant role in the analysis, see, e.g., Alaska Hunters, 177 F.3d at 1035-36 ; Ass'n of Am. R.R., 198 F.3d at 950 ; or took a back seat where the definitive nature of the interpretation was treated as self-evident, see Envtl.
+Integrity Project, 425 F.3d at 998 ; Monmouth Med. Ctr. v. Thompson, 257 F.3d 807 , 814 (D.C. Cir. 2001), we have always considered it as part of the first element.
+In short, we have been too consistent in our treatment of these so-called agency flip-flops to now read dictum in MetWest as sub silentio reconfiguring the doctrine in the absence of either a unanimous Irons footnote or a decision of the en banc court.
+Finally, we disagree with the suggestion that the only way to protect agencies from inadvertently locking in disfavored, informally promulgated positions is to impose a separate and independent reliance element.
+Practically speaking, reliance considered as part of the definitiveness determination will more than adequately protect agencies from this ossification threat.
+We thus decline DOL's invitation to spin a third requirement from whole cloth.
+Emphatically, that is an issue for the full Court to take up at its discretion, not this three-judge panel.
+III In view of the government's concession that the case need go no further than this, we reverse the District Court order denying MBA's Motion for Summary Judgment and remand the case with instructions to vacate DOL's 2010 Administrator Interpretation.
+So Ordered.

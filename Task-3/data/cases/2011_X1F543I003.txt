@@ -1,0 +1,531 @@
+ GERARD E. LYNCH, Circuit Judge: Attorneys, journalists, and labor, legal, media, and human rights organizations brought this action facially challenging the constitutionality of Section 702 of the Foreign Intelligence Surveillance Act of 1978 ("FISA"), which was added to FISA by Section 101(a)(2) of the FISA Amendments Act of 2008 (the "FAA"), and codified at 50 U.S.C. 1881a .
+Section 702 creates new procedures for authorizing government electronic surveillance targeting non-United States persons outside the United States for purposes of collecting foreign intelligence.
+The plaintiffs complain that the procedures violate the Fourth Amendment , the First Amendment , Article III of the Constitution, and the principle of separation of powers because they "allow[] the executive branch sweeping and virtually unregulated authority to monitor the international communications .
+.
+.
+of law-abiding U.S. citizens and residents."
+The merits of the plaintiffs' claims are not before us.
+The only issue presented by this appeal is whether the plaintiffs are legally in a position to assert these claims in a federal court, not whether the claims are to any degree valid.
+Their merit is an issue for another court on another day.
+The district court (Koeltl, J. ) granted the government summary judgment because it found that the plaintiffs lacked standing.
+On appeal, the plaintiffs argue that they have standing because the FAA's new procedures [fn1] cause them to fear that their communications will be monitored, and thus force them to undertake costly and burdensome measures to protect the confidentiality of international communications necessary to carrying out their jobs.
+Because standing may be based on a reasonable fear of future injury and costs incurred to avoid that injury, and the plaintiffs have established that they have a reasonable fear of injury and have incurred costs to avoid it, we agree that they have standing.
+We therefore reverse the district court's judgment.
+BACKGROUND I. Statutory Scheme at Issue In 1978, Congress enacted FISA to establish procedures under which federal officials could obtain authorization to conduct electronic surveillance for foreign intelligence purposes, including surveillance of communications between persons located within the United States and surveillance [**2] of communications between persons located within the United States and persons located outside the United States.
+[fn2] See 50 U.S.C. 1801 (f), 1804 (a)(6)(A).
+The 2008 FAA amends FISA.
+It leaves much of the preexisting surveillance authorization procedure intact, but it creates new procedures for the authorization of foreign intelligence electronic surveillance targeting non-United States persons located outside the United States.
+[fn3] See id. 1881a ; see also 154 Cong. Rec.
+S227 , 228 (daily ed. Jan. 24, 2008) (statement of Sen.
+Rockefeller) ("[W]e wanted to ensure that activities authorized by this bill are only directed at persons outside the United States.
+.
+.
+.
+For individuals inside the United States, the existing procedures under FISA continue to apply.").
+The plaintiffs complain that the new procedures unlawfully permit broader collection of intelligence with less judicial oversight.
+A. Surveillance Authorization Procedures Prior to the FAA FISA established procedures requiring federal officials to obtain authorization to conduct electronic surveillance for foreign intelligence purposes.
+It created the Foreign Intelligence Surveillance Court ("FISC"), to which the government had to apply for authorization to conduct foreign intelligence surveillance.
+See 50 U.S.C. 1803 , 1804 .
+To obtain authorization, a federal officer had to submit an application, approved by the Attorney General, that included: the identity of the officer making the application; the identity, if known, or a description of, the individual to be monitored by the surveillance ("the target"); the bases for believing both that the target was a foreign power or an agent of a foreign power, and that a foreign power or an agent of a foreign power was using or was about to use each of the facilities at which the surveillance was directed; proposed minimization procedures; the nature of the information sought and the type of communications or activities to be surveilled; a certification that a significant purpose of the surveillance was to obtain foreign intelligence information, and that the information could not reasonably be obtained by normal investigative techniques; the means by which the surveillance would be effected; a description of any previous surveillance applications; and the period during which the surveillance was to be maintained.
+Id. 1804(a)(1) (9) .
+Before approving an application, a FISC judge [fn4] had to find that: the application met the above criteria; there was probable cause to believe both that the target was a foreign power or an agent of a foreign power and that each of the facilities or places at which the electronic surveillance was directed was being used, or was about to be used, by a foreign power or an agent of a foreign power; and the government's proposed minimization procedures met the standards defined in 1801(h) .
+[fn5] Id. 1805(a) .
+A FISC judge who approved an application was required to enter an individualized ex parte order that specified (among other things): the identity, if known, or a description of the target; the nature and location of the places to be monitored; the type of [**3] information sought to be acquired; the means of surveillance, and the time period for which surveillance was approved.
+Id. , 1805(c)(1).
+The order also had to direct the government to follow the approved minimization procedures.
+Id. 1805(c)(2)(A).
+During the authorized surveillance period, the FISC could monitor compliance with these minimization procedures "by reviewing the circumstances under which information concerning United States persons was acquired, retained, or disseminated."
+Id. 1805(d)(3).
+B. Surveillance Authorization Procedures After the FAA The FAA leaves much of the FISA framework intact, but the new Section 702 creates new procedures for the authorization of foreign intelligence surveillance targeting non-United States persons located outside the United States.
+The FAA, in contrast to the preexisting FISA scheme, does not require the government to submit an individualized application to the FISC identifying the particular targets or facilities to be monitored.
+Instead, the Attorney General ("AG") and Director of National Intelligence ("DNI") apply for a mass surveillance authorization by submitting to the FISC a written certification and supporting affidavits attesting generally that "a significant purpose of the acquisition is to obtain foreign intelligence information" and that that information will be obtained "from or with the assistance of an electronic communication service provider."
+50 U.S.C. 1881a (g)(2)(A)(v), (vi) .
+The certification must also attest that adequate targeting and minimization procedures have been approved by the FISC, have been submitted to the FISC for approval, or are being submitted with the certification.
+Id. 1881a(g)(2)(A)(i) , (ii) .
+"Targeting procedures" are procedures designed to ensure that an authorized acquisition is "limited to targeting persons reasonably believed to be located outside the United States," and is designed to "prevent the intentional acquisition of any communication as to which the sender and all intended recipients are known at the time of the acquisition to be located in the United States."
+Id. 1881a(d)(1) , 1881a(g)(2)(A)(i) (I).
+"Minimization procedures" for electronic surveillance under the FAA must meet the definition of minimization procedures for electronic surveillance under FISA, set out in 50 U.S.C. 1801 (h).
+The government's certification must further attest that the surveillance procedures, which must be included with the certification, comply with the Fourth Amendment .
+Id. 1881a(g)(2) .
+In addition, the certification must attest that the surveillance complies with statutory limitations providing that it: (1) may not intentionally target any person known at the time of acquisition to be located in the United States; (2) may not intentionally target a person reasonably believed to be located outside the United States if the purpose of such acquisition is to target a particular, known person reasonably believed to be in the United States; (3) may not intentionally target a United States person reasonably believed to be located outside the United States; (4) may not intentionally acquire any communication [**4] as to which the sender and all intended recipients are known at the time of the acquisition to be located in the United States; and (5) shall be conducted in a manner consistent with the fourth amendment to the Constitution of the United States .
+50 U.S.C. 1881a (b); see also id. 1881a(g)(2)(A)(vii) .
+The FISC must review the government's certification, and targeting and minimization procedures, and if it finds that the certification includes all of the required elements, it must issue an order authorizing the government to conduct the requested surveillance.
+Id. 1881a(i)(2) , 1881a(i)(3)(A) .
+At that point, the AG and DNI "may authorize jointly, for a period of up to 1 year .
+.
+., the targeting of persons reasonably believed to be located outside the United States to acquire foreign intelligence information."
+Id. 1881a(a) .
+[fn6] If the FISC rejects an application, the government may appeal the denial to the Court of Review.
+Id. 1881a(i)(4)(A) .
+During the pendency of that appeal, including any subsequent rehearing en banc, the government may continue to conduct the requested surveillance.
+Id. 1881a(i)(4)(B) .
+Under the FAA, in contrast to the preexisting FISA scheme, the FISC may not monitor compliance with the targeting and minimization procedures on an ongoing basis.
+Instead, that duty falls to the AG and DNI, who must submit their assessments to the FISC, as well as the congressional intelligence committees and the Senate and House Judiciary Committees.
+Id. 1881a(l)(1) .
+In its summary judgment submissions, the government asserted that "[s]hould such reporting reveal particular minimization procedures to be ineffective in any respect, the FISC has the authority to disapprove such procedures in future 1881a proceedings."
+Defs.'
+Mem. in Opp'n to Pis.'
+Mot.
+for Summ.
+J. at 52-53, Amnesty Int'l USA v. McConnell , 646 F.Supp.2d 633 (S.D.N.Y.
+2009) ( No. 08 Civ. 6259 ).
+But the government has not asserted, and the statute does not clearly state, that the FISC may rely on these assessments to revoke earlier surveillance authorizations.
+The head of each element of the intelligence community acquiring communications by means of authorized surveillance also must review the ongoing surveillance procedures by conducting "an annual review to determine whether there is reason to believe that foreign intelligence information has been or will be obtained from the acquisition."
+50 U.S.C. 1881a (0(3)(A).
+These reviews of authorized acquisitions must indicate how many United States persons were overheard or were referred to in intercepted communications that were collected under surveillance designed to target non-United States persons.
+[fn7] The relevant intelligence heads who conduct such annual reviews must use them "to evaluate the adequacy of the minimization procedures," id. 1881a(l)(3)(B) , and they must provide these annual reviews to the FISC, the AG, the DNI, the congressional intelligence committees, and the Senate and House Judiciary Committees, id. 1881a(Z)(3)(C).
+C. Comparison of Pre and Post-FAA Surveillance Authorization Procedures The plaintiffs highlight two differences between the pre and post-FAA surveillance authorization procedures.
+First, whereas under the preexisting FISA scheme the government [**5] had to submit an individualized application for surveillance identifying the particular target, facility, type of information sought, and procedures to be used, under the FAA, the government need not submit a similarly individualized application — it need not identify the particular target or facility to be monitored.
+Compare 50 U.S.C. 1805 (c)(1), with id. 1881a(d)(1) , 1881a(g)(4) .
+Second, whereas under the preexisting FISA scheme the FISC had to find probable cause to believe both that the surveillance target is a "foreign power" or agent thereof and that the facilities to be monitored were being used or about to be used by a foreign power or its agent, under the FAA the FISC no longer needs to make any probable cause determination at all.
+Instead, the FISC simply verifies that the government has made the proper certifications.
+Compare 50 U.S.C. 1805 (a)(2)(A), with id. 1881a(i)(3)(A) .
+In practice, these new authorization procedures mean that surveillance orders can be significantly broader under the FAA than they previously could have been.
+Prior to the FAA, surveillance orders could only authorize the government to monitor specific individuals or facilities.
+Under the FAA, by contrast, the plaintiffs allege that an acquisition order could seek, for example, "[a]ll telephone and e-mail communications to and from countries of foreign policy interest — for example, Russia, Venezuela, or Israel — including communications made to and from U.S. citizens and residents."
+Moreover, the specific showing of probable cause previously required, and the requirement of judicial review of that showing, have been eliminated.
+The government has not directly challenged this characterization.
+[fn8] An additional distinction concerns who monitors compliance with statutory limitations on the surveillance procedures.
+The preexisting FISA scheme allowed ongoing judicial review by the FISC.
+Id. 1805(d)(3) .
+But under the FAA, the judiciary may not monitor compliance on an ongoing basis; the FISC may review the minimization procedures only prospectively, when the government seeks its initial surveillance authorization.
+Rather, the executive — namely the AG and DNI — bears the responsibility of monitoring ongoing compliance, and although the FISC receives the executive's reports, it cannot rely on them to alter or revoke its previous surveillance authorizations.
+Compare 50 U.S.C. 1805 (d)(3), with id. 1881a(g)(2)(A)(i) , (ii) , 1881a(l) .
+II.
+Prior Proceedings A. Parties The plaintiffs are attorneys and human rights, labor, legal, and media organizations whose work requires international communications with individuals they believe the government will likely monitor under the FAA.
+[fn9] The plaintiffs sued the DNI, the AG, and the Director of the National Security Agency ("NSA") in their official capacities (collectively, "the government").
+B. Complaint On July 10, 2008, the same day Congress enacted the FAA, the plaintiffs filed their complaint alleging that the FAA "allows the executive branch sweeping and virtually unregulated authority to monitor the international communications .
+.
+.
+of law-abiding U.S. citizens and residents."
+[**6] The plaintiffs alleged that they feared that under the FAA the government would intercept their sensitive international communications that were necessary to carrying out their jobs, and that they therefore had to take costly and burdensome measures to protect the confidentiality of those communications.
+They sought declaratory and injunctive relief, alleging that the FAA facially violates the Fourth Amendment , the First Amendment , Article III of the Constitution, and the principle of separation of powers.
+C. Summary Judgment Filings In September and October 2008, the parties cross-moved for summary judgment.
+The plaintiffs sought a declaration that the FAA is unconstitutional.
+The government, in addition to defending the FAA's constitutionality on the merits, argued that the plaintiffs lacked standing to challenge the facial validity of the statute, contending that the Act could be challenged only by persons who had been electronically surveilled in accordance with its terms and the plaintiffs could not show that they had been so surveilled.
+The plaintiffs advanced what they characterized as two independent bases for standing to challenge the FAA's constitutionality: first, that they have an actual and well-founded fear that their communications will be monitored in the future; and, second, that in light of that fear they have taken costly and burdensome measures to protect the confidentiality of certain communications.
+In support of their standing arguments, the plaintiffs filed declarations and a Statement of Undisputed Facts pursuant to Local Rule 56.1 ("56.1 Statement").
+The plaintiffs' evidence tended to show that their work "requires them to engage in sensitive and sometimes privileged telephone and e-mail communications with colleagues, clients, journalistic sources, witnesses, experts, foreign governmental officials, and victims of human rights abuses located outside the United States."
+[fn10] The individuals with whom the plaintiffs communicate include "people the U.S. Government believes or believed to be associated with terrorist organizations," "political and human rights activists who oppose governments that are supported economically or militarily by the U.S. government," and "people located in geographic areas that are a special focus of the U.S. government's counterterrorism or diplomatic efforts."
+[fn11] The plaintiffs assert that in their electronic communications with these individuals they exchange information that "constitutes `foreign intelligence information' within the meaning of the FAA."
+The plaintiffs believe that, because of the nature of their communications with these individuals, the communications will likely be "acquired, retained, analyzed, and disseminated" under the FAA.
+Their fear of future surveillance, according to the plaintiffs, inflicts present injuries.
+For instance, in order to protect the confidentiality of sensitive and privileged communications the plaintiffs have "ceased engaging in certain conversations on the telephone and by e-mail," which, in turn, "compromises [ [**7] their] ability to locate witnesses, cultivate sources, gather information, communicate confidential information to their clients, and to engage in other legitimate and constitutionally protected communications."
+In addition, the FAA has "force[d] plaintiffs to take costly and burdensome measures," such as traveling long distances to meet personally with individuals.
+The attorney plaintiffs assert that they are obligated to take these measures in order to comply with their "ethical obligation to avoid communicating confidential information about client matters over telephone, fax, or e-mail if they have reason to believe that it is likely to be intercepted by others."
+In support of this assertion, the plaintiffs filed a declaration from Professor Stephen Gillers, an expert in legal ethics, stating that it is "the duty of a lawyer to safeguard confidential information."
+Gillers attested that "[d]eterminative of how the lawyer may proceed is .
+.
+.
+whether the lawyer has good reason to believe that his or her communications are reasonably likely to be intercepted, even if the interception is lawful."
+He then opined that the FAA gives the attorneys sufficient reason to believe their communications will be intercepted: My opinion is that the lawyers have good reason for this belief [that their communications with clients and third parties in connection with client matters will be intercepted] because of the status of their clients, the identity and location of witnesses and sources, and the broad authority that the FAA grants the government.
+The lawyers' decision to avoid electronic means of communication is not discretionary.
+It is obligatory.
+[fn12] The government did not submit any evidence of its own either in opposition to the plaintiffs' submissions, or in support of its own summary judgment motion.
+Additionally, at oral argument on the summary judgment motions, the government said it accepted the factual submissions of the plaintiffs as true for purposes of those motions.
+Amnesty Int'l 646 F.Supp.2d at 641 .
+We therefore must accept the plaintiffs' evidence as undisputed explanations of how the FAA has affected them.
+[fn13] D. District Court's Summary Judgment Opinion The district court held that the plaintiffs lacked standing to challenge the FAA, and therefore granted summary judgment for defendants without reaching the merits of the plaintiffs' claims.
+After identifying the three constitutional requirements for standing — an injury in fact, a causal connection between the injury and the challenged statute, and redressability — the court stated that "[t]his case turns on whether the plaintiffs have met the irreducible constitutional minimum of personal, particularized, concrete injury in fact."
+Id. at 643-44 .
+The court denied standing because it found that neither of the plaintiffs' asserted injuries — their actual and well-founded fear of being monitored, and the resulting professional and economic costs they have incurred to protect the confidentiality of their communications — constituted the requisite injury [**8] in fact.
+1.
+Fear of Future Surveillance The district court found the plaintiffs' fear of future surveillance too speculative to confer standing.
+It stated: The plaintiffs have failed to establish standing to challenge the constitutionality of the FAA on the basis of their fear of surveillance.
+The plaintiffs can only demonstrate an abstract fear that their communications will be monitored under the FAA.
+The FAA creates a frame work within which intervening federal officials may apply for approval from the FISC to authorize surveillance targeting non-United States persons located outside the United States to acquire foreign intelligence information.
+The FAA sets forth the requirements that an application to obtain a surveillance order from the FISC must satisfy.
+Contrary to the characterization of the statute in the plaintiffs' motion papers, the FAA itself does not authorize the surveillance of the plaintiffs' communications.
+Indeed, the FAA neither authorizes surveillance nor identifies on its face a class of persons that includes the plaintiffs.
+Rather the FAA authorizes specified federal officials to seek a surveillance order from the FISC.
+That order cannot target the plaintiffs and whether an order will be sought that affects the plaintiffs' rights, and whether such an order would be granted by the FISC, is completely speculative.
+Id. at 645.
+To arrive at this conclusion, the district court relied on three lines of cases.
+First, the court looked to cases where plaintiffs have sought standing to challenge electronic surveillance schemes, namely United Presbyterian Church in the U.S.A.
+v. Reagan , 738 F.2d 1375 (D.C. Cir. 1984), and ACLU v. NSA , 493 F.3d 644 (6th Cir. 2007).
+Both of these cases rejected the plaintiffs' standing arguments, which were based on their fear of future injuries, because the plaintiffs' respective fears were too speculative.
+The district court found those cases apposite and persuasive.
+See Amnesty Int'l 646 F.Supp.2d at 645-47 .
+Second, the court examined "`physical surveillance cases' where the Supreme Court reached the merits of challenges to laws or policies authorizing drug or alcohol testing for specific classes of persons, without requiring that the plaintiffs had actually submitted to such testing before bringing such challenges."
+Id. at 647-48 .
+The district court held that those cases have "no application to this case, where the plaintiffs are not required to do anything or to submit to anything, and where there is no showing that the Government has authorized any action against [a class of persons including] the plaintiffs."
+Id. at 648 .
+Finally, the district court examined standing cases outside the surveillance context, and said those cases: stand for the proposition that a plaintiff may challenge a specific law or regulation before it is enforced against the plaintiff if the plaintiff is subject to that law or regulation and has a well-founded fear that it will be so enforced.
+The plaintiffs in this case have made no showing that they are subject to any specific law or regulation that they seek to challenge.
+The [**9] FAA does not require that the plaintiffs do anything or refrain from doing anything such that they might have a well-founded fear that the Government would take action against them for failing to abide by the statute.
+Moreover, the FAA does not authorize surveillance of the plaintiffs' communications and the plaintiffs have made no showing that the Government has sought any such surveillance pursuant to the general framework set forth in the statute or that such surveillance has been authorized.
+Id. at 649 .
+2.
+Economic and Professional Costs Incurred to Protect Communications As for the plaintiffs' economic and professional costs, the court found that those injuries are "not truly independent of the [plaintiffs'] first basis" for standing, because those costs "flow directly from the plaintiffs' fear of surveillance."
+Id. at 653 .
+The court said that "[t]o allow the plaintiffs to bring this action on the basis of such costs would essentially be to accept a repackaged version of the first failed basis for standing."
+Id .
+Moreover, the court held that "because the plaintiffs have failed to show that they are subject to the FAA and that they face a threat of harm from its enforcement, the chilling of their speech that they attribute to the statute is actually the result of their purely subjective fear of surveillance."
+Id .
+, The court went on to state that the Supreme Court has held in Laird v. Tatum , 408 U.S. 1 , 92 S.Ct. 2318 , 33 L.Ed.2d 154 (1972), that such a subjective chill "is insufficient to support standing."
+Amnesty Int'l , 646 F.Supp.2d at 653 .
+DISCUSSION This opinion addresses only the question of whether plaintiffs have standing to challenge the FAA.
+It does not address the FAA's constitutionality.
+The district court did not reach that issue, and the parties did not brief it.
+The question before this Court is only whether the plaintiffs may maintain this lawsuit, a question that "in no way depends on the merits of the plaintiffs contention that particular conduct is illegal" Warth v. Seldin , 422 U.S. 490 , 500 , 95 S.Ct. 2197 , 45 L.Ed.2d 343 (1975).
+"We review questions of standing de novo."
+Carver v. City of New York , 621 F.3d 221 , 225 (2d Cir. 2010).
+I. Elements and Principles of Standing Article III of the United States Constitution empowers federal courts to hear only "cases" and "controversies."
+U.S. Const.
+art.
+Ill, 2.
+Standing doctrine determines "whether the plaintiff has made out a `case or controversy' between himself and the defendant within the meaning of Art.
+Ill ," and is therefore "entitled to have the court decide the merits of the dispute or of particular issues."
+Warth , 422 U.S. at 498 , 95 S.Ct. 2197 ; see also Whitmore v. Arkansas , 495 U.S. 149 , 155 , 110 S.Ct. 1717 , 109 L.Ed.2d 135 (1990).
+A citizen who dislikes a particular law may not require a court to address its constitutionality simply by stating in a complaint his belief, however deeply held, that the law is inconsistent with some provision of the Constitution.
+"[T]he [Supreme] Court has rejected all attempts to substitute abstract concern with a subject .
+.
+.
+for the concrete injury required by Art.
+III ."
+U.S.
+Parole Comm'n v. Geraghty , 445 U.S. 388 , 410 , 100 S.Ct. 1202 , 63 L.Ed.2d 479 (1980) (internal quotation marks omitted) (citing cases); see also Schlesinger v. Reservists Comm. to Stop the War , 418 U.S. 208 , 220-21 , 94 S.Ct. 2925 , 41 L.Ed.2d 706 (1974).
+The plaintiff must be affected by the law in some concrete way.
+"Concrete injury, whether actual or threatened, [**10] is that indispensable element of a dispute which serves in part to cast it in a form traditionally capable of judicial resolution."
+Schlesinger , 418 U.S. at 220-21 , 94 S.Ct. 2925 .
+The critical question is whether "the plaintiff has alleged such a personal stake in the outcome of the controversy as to warrant his invocation of federal-court jurisdiction."
+Summers v. Earth Island Inst. , 555 U.S. 488 , 129 S.Ct. 1142 , 1149 , 173 L.Ed.2d 1 (2009) (internal quotation marks and alterations omitted).
+The Supreme Court has said that "the irreducible constitutional minimum of standing contains three elements": First, the plaintiff must have suffered an injury in fact — an invasion of a legally protected interest which is (a) concrete and particularized, and (b) actual or imminent, not conjectural or hypothetical.
+[fn14] Second, there must be a causal connection between the injury and the conduct complained of — the injury has to be fairly traceable to the challenged action of the defendant, and not the result of the independent action of some third party not before the court.
+Third, it must be likely, as opposed to merely speculative, that the injury will be redressed by a favorable decision.
+Lujan v. Defenders of Wildlife , 504 U.S. 555 , 560-S1 , 112 S.Ct. 2130 , 119 L.Ed.2d 351 (1992) (internal citations and punctuation omitted); accord Home v. Flores , U.S. , 129 S.Ct. 2579 , 2592 , 174 L.Ed.2d 406 (2009).
+"The party invoking federal jurisdiction bears the burden of establishing these elements."
+Lujan , 504 U.S. at 561 , 112 S.Ct. 2130 .
+These requirements "assure[] that there is a real need to exercise the power of judicial review in order to protect the interests of the complaining party."
+Summers , 129 S.Ct. at 1148 (internal quotation marks omitted).
+Standing doctrine serves a number of purposes.
+The Supreme Court has said standing is "built on a single basic idea — the idea of separation of powers."
+Allen v. Wright , 468 U.S. 737 , 752 , 104 S.Ct. 3315 , 82 L.Ed.2d 556 (1984).
+"[T]he judicial power of the United States defined by Art.
+Ill is not an unconditioned authority to determine the constitutionality of legislative or executive acts."
+Hein v. Freedom From Religion Found. , 551 U.S. 587 , 598 , 127 S.Ct. 2553 , 168 L.Ed.2d 424 (2007) (internal quotation marks omitted).
+By limiting the exercise of judicial review of other branches of government to cases where it is necessary to protect a complaining party's interests, standing doctrine is "founded in concern about the proper — and properly limited — role of the courts in a democratic society."
+Warth , 422 U.S. at 498 , 95 S.Ct. 2197 .
+If we had no standing doctrine and instead simply allowed the courts to "oversee legislative or executive action," that would "significantly alter the allocation of power away from a democratic form of government."
+Summers , 129 S.Ct. at 1149 (internal quotation marks and ellipsis omitted).
+Standing doctrine also serves to improve judicial decision making by ensuring that a concrete case informs the court of the consequences of its decisions, and by ensuring that the party bringing the case has "such a personal stake in the outcome of the controversy as to assure that concrete adverseness which sharpens the presentation of issues upon which the court so largely depends for illumination of difficult constitutional questions."
+Baker v. Carr , 369 U.S. 186 , 204 , 82 S.Ct. 691 , 7 L.Ed.2d 663 (1962); see also Lujan , 504 U.S. at 581 , 112 S.Ct. 2130 (Kennedy, /., concurring in part) (standing requirements "preserve[] the vitality of the adversarial process [**11] by assuring both that the parties before the court have an actual .
+.
+.
+stake in the outcome, and that the legal questions presented will be resolved, not in the rarefied atmosphere of a debating society, but in a concrete factual context conducive to a realistic appreciation of the consequences of judicial action" (internal quotation marks and ellipsis omitted)).
+[fn15] II.
+Plaintiffs' Asserted Grounds for Standing On appeal, the plaintiffs reassert that they have suffered two types of injuries.
+First, they claim that they fear that the government will intercept their sensitive international communications, because the FAA "plainly authorizes the acquisition of [their] international communications," and their communications are "likely to be monitored under it."
+Second, they claim that anticipation of this future injury also inflicts a present injury "by compelling them to take costly and burdensome measures to protect the confidentiality of their international communications" and by compromising their "ability to locate witnesses, cultivate sources, gather information, communicate confidential information to their clients, and to engage in other legitimate and constitutionally protected communications."
+The district court and the parties have focused on whether the plaintiffs' asserted injuries satisfy the injury-in-fact component of the standing inquiry.
+Although they are correct that the plaintiffs' first asserted injury — the possibility of being monitored in the future — raises a question of injury in fact, because probabilistic injuries constitute injuries in fact only when they reach a certain threshold of likelihood, see City of Los Angeles v. Lyons , 461 U.S. 95 , 107 n. 8, 103 S.Ct. 1660 , 75 L.Ed.2d 675 (1983), the plaintiffs' second asserted injury alleges the most mundane of injuries in fact: the expenditure of funds.
+The plaintiffs' declarations, which, as discussed above, we must accept as true, establish that they have already incurred professional and economic costs to avoid interception.
+Having accepted the truthfulness of the plaintiffs' declarations for purposes of the summary judgment motion, the government cannot now dispute whether the plaintiffs genuinely fear being intercepted, or whether the plaintiffs have actually incurred the costs they claim to have incurred.
+Thus, we have little doubt that the plaintiffs have satisfied the injury-in-fact requirement.
+As to the second asserted injury — their present-injury theory — that the plaintiffs have demonstrated injuries in fact is not sufficient in itself to establish standing.
+The plaintiffs must also prove that the injuries are caused by the challenged statute and that a favorable judgment would redress them.
+The government's challenge to the plaintiffs' standing based on their incurred professional and economic costs focuses on whether there is a "causal connection between [the plaintiffs'] injury and the [legislation] complained of."
+Lujan , 504 U.S. at 560 , 112 S.Ct. 2130 .
+The causal chain can be broken where a plaintiffs self-inflicted injury results from his "unreasonable decision .
+.
+.
+to bring [**12] about a harm that he knew to be avoidable."
+St. Pierre v. Dyer , 208 F.3d 394 , 403 (2d Cir. 2000).
+However, "[s]tanding is not defeated merely because the plaintiff has in some sense contributed to his own injury.
+.
+.
+.
+Standing is defeated only if it is concluded that the injury is so completely due to the plaintiffs own fault as to break the causal chain."
+13A Charles Alan Wright, Arthur R. Miller & Edward H. Cooper, Federal Practice and Procedure 3531.5, at 361-62 (3d ed. 2008) (footnotes omitted).
+If the plaintiffs can show that it was not unreasonable for them to incur costs out of fear that the government will intercept their communications under the FAA, then the measures they took to avoid interception can support standing.
+If the possibility of interception is remote or fanciful, however, their present-injury theory fails because the plaintiffs would have no reasonable basis for fearing interception under the FAA, and they cannot bootstrap their way into standing by unreasonably incurring costs to avoid a merely speculative or highly unlikely potential harm.
+Any such costs would be gratuitous, and any ethical concerns about not taking those measures would be unfounded.
+In other words, for the purpose of standing, although the plaintiffs' economic and professional injuries are injuries in fact, they cannot be said to be "fairly traceable" to the FAA — and cannot support standing — if they are caused by a fanciful, paranoid, or otherwise unreasonable fear of the FAA.
+"If causation is to be required at all, it should demand a meaningful level of probability," but "[a]s with other elements of standing, the showing required might be tailored to the other facts that make it more or less appropriate to decide the case." Wright, Miller & Cooper, supra , 3531.5, at 328.
+Here, the plaintiffs' actions were "fairly traceable" to the FAA.
+Because, as we shall explain, the plaintiffs' fears were reasonable even under the stringent reasonableness standards found in future-injury cases, and because the plaintiffs incurred these professional and economic costs as a direct result of that reasonable fear, their present injuries in fact clearly satisfy the requirements for standing.
+We therefore need not and do not decide whether the degree of likelihood necessary to establish a causal relationship between an actual present injury and the challenged governmental action is as stringent as that necessary for a potential harm in itself to confer standing.
+However, the line of future-injury standing cases provides a helpful framework for analyzing the plaintiffs' present-injury arguments.
+Those cases bolster our conclusion that the professional and economic harms the plaintiffs suffered here were fairly traceable to the FAA, and were not the result of an "unreasonable decision" on their part "to bring about a harm that [they] knew to be avoidable."
+St. Pierre , 208 F.3d at 403 .
+In addition to their present-injury theory, the plaintiffs advance a future-injury theory of standing.
+A future injury or threat of injury does not confer standing if it is "conjectural or hypothetical" and not "real and immediate."
+[**13] See O'Shea v. Littleton , 414 U.S. 488 , 494 , 94 S.Ct. 669 , 38 L.Ed.2d 674 (1974) (internal quotation marks omitted).
+To determine whether the plaintiffs have standing under their future-injury theory, we would need to determine whether the FAA creates an objectively reasonable likelihood that the plaintiffs' communications are being or will be monitored under the FAA.
+As noted above, we conclude that the future injuries alleged by the plaintiffs are indeed sufficiently likely to confer standing under the test established in the case law for basing standing on the risk of future harm.
+The government's first argument against the plaintiffs' standing — on both theories — is that the FAA does not create a sufficiently high likelihood that those communications will be monitored.
+In our judgment, however, for the reasons set forth in Part III, below, the plaintiffs have established that they reasonably fear being monitored under the allegedly unconstitutional FAA, and that they have undertaken costly measures to avoid it.
+Those present injuries — fairly traceable to the FAA and likely to be redressable by a favorable judgment — support the plaintiffs' standing to challenge the statute.
+The government next argues that the plaintiffs lack standing because any injury they suffer is indirect.
+That is, the government contends that because the FAA does not directly target the plaintiffs, any injury the plaintiffs suffer is a result of their reaction to the government's potential monitoring of third parties.
+The government essentially argues that this indirectness defeats the plaintiffs' standing because it attenuates the causal chain linking the plaintiffs' injuries to the FAA.
+For the reasons set forth in Part IV, below, we disagree.
+III.
+Likelihood of Government Action The government argues that the plaintiffs can obtain standing only by showing either that they have been monitored or that it is "effectively certain" that they will be monitored.
+The plaintiffs fall short of this standard, according to the government, because they "simply speculate that they will be subjected to governmental action taken pursuant to [the FAA]."
+But the government overstates the standard for determining when a present injury linked to a contingent future injury can support standing.
+The plaintiffs have demonstrated that they suffered present injuries in fact — concrete economic and professional harms — that are fairly traceable to the FAA and redressable by a favorable judgment.
+The plaintiffs need not show that they have been or certainly will be monitored.
+Indeed, even in cases where plaintiffs allege an injury based solely on prospective government action, they need only show a "realistic danger" of "direct injury," Babbitt v. United Farm Workers Nat'l Union , 442 U.S. 289 , 298 , 99 S.Ct. 2301 , 60 L.Ed.2d 895 (1979); and where they allege a prospective injury to First Amendment rights, they must show only "`an actual and well-founded fear' "of injury, Vt Right to Life Comm. v. Sorrell , 221 F.3d 376 , 382 (2d Cir. 2000), quoting Virginia v. Am.
+Booksellers Ass'n , 484 U.S. 383 , 393 , 108 S.Ct. 636 , 98 L.Ed.2d 782 (1988), an arguably less demanding standard.
+[fn16] A. Standard When a plaintiff asserts a present injury based on conduct [**14] taken in anticipation of future government action, we evaluate the likelihood that the future action will in fact come to pass.
+To determine whether the present injury "fairly can be traced to the challenged [future] action," see Simon v. Eastern Ky.
+Welfare Rights Org. , 426 U.S. 26 , 38 , 96 S.Ct. 1917 , 48 L.Ed.2d 450 (1976), we must consider whether a plaintiffs present injury resulted from some irrational or otherwise clearly unreasonable fear of future government action that is unlikely to take place.
+Such a disconnect between the present injury and predicted future government action would break the causal chain required for standing.
+In this context, cases that discuss whether a potential future harm is sufficiently likely such that the chance of that future harm constitutes an injury in fact can provide some guidance for determining whether the plaintiffs have satisfied the causation requirement for standing where their assertions of present and ongoing injuries stem, in part, from a desire to avoid potential future injuries.
+[fn17] In Lyons , the seminal case on standing based on probabilistic or prospective harm, the plaintiff sued the City of Los Angeles and certain police officers alleging that officers stopped him for a traffic violation and, without provocation, applied a choke-hold, rendering him unconscious and damaging his larynx.
+Lyons , 461 U.S. at 97-98 , 103 S.Ct. 1660 .
+In addition to seeking damages, he sought to enjoin police officers' use of chokeholds.
+Id. at 98 , 103 S.Ct. 1660 .
+The Court said, "Lyons' standing to seek the injunction requested depended on whether he was likely to suffer future injury from the use of the chokeholds by police officers," id. at 105 , 103 S.Ct. 1660 , emphasizing that "[t]he reasonableness of [the plaintiffs] fear [of future injury] is dependent upon the likelihood of a recurrence of the allegedly unlawful conduct.
+It is the reality of the threat of repeated injury that is relevant to the standing inquiry, not the plaintiffs subjective apprehensions."
+Id. at 107 n. 8, 103 S.Ct. 1660 (emphasis in original).
+The Court held that Lyons lacked standing to pursue injunctive relief, because he did not show a sufficient likelihood that he would be injured.
+Id. at 111-12 , 103 S.Ct. 1660 .
+It said, "[w]e cannot agree that the odds that Lyons would not only again be stopped for a traffic violation but would also be subjected to a chokehold without any provocation whatsoever are sufficient to make out a federal case for equitable relief."
+Id. at 108 , 103 S.Ct. 1660 (internal citation and quotation marks omitted).
+Without a "sufficient likelihood that he will again be wronged in a similar way," Lyons was "no more entitled to an injunction than any other citizen of Los Angeles; and a federal court may not entertain a claim by any or all citizens who no more than assert that certain practices of law enforcement officers are unconstitutional."
+Id. at 111 , 103 S.Ct. 1660 .
+Although the plaintiff in Lyons lacked standing, that case clearly articulated the principle that a plaintiff may obtain standing by showing a sufficient likelihood of future injury.
+Indeed, the Court stated that Lyons would have established standing if he had been able to allege facts that would have made [**15] his injury sufficiently likely — such as another encounter with the police or a city policy authorizing police officers to engage in the conduct he feared.
+[fn18] This Court has articulated the principle of Lyons as requiring an inquiry into the probability of future harm.
+In Curtis v. City of New Haven , 726 F.2d 65 (2d Cir. 1984), where plaintiffs sought to enjoin police officers' use of mace in certain circumstances because officers stopped them, maced them, and gave them no treatment afterward, we denied standing, holding that "the Court made clear in Lyons that the critical inquiry is the likelihood that these plaintiffs will again be illegally assaulted with mace."
+Id. at 68 (emphasis supplied).
+[fn19] Assessing whether a threatened injury, by itself, is sufficiently probable to support standing is a "qualitative, not quantitative" inquiry that is "highly case-specific."
+Baur v. Veneman , 352 F.3d 625 , 637 (2d Cir. 2003) (internal quotation marks omitted).
+"[T]he question of whether anticipated future injury suffices to establish standing is approached as a question of judgment and degrees."
+Wright, Miller & Cooper, supra , 3531.4, at 264.
+Indeed, in future-injury cases, we have said that "the risk of harm necessary to support standing cannot be defined according to a universal standard."
+Baur , 352 F.3d at 637 .
+One factor that bolsters a plaintiffs argument that the injury is likely to come to pass, according to both the Supreme Court and this Court, is the existence of a policy that authorizes the potentially harmful conduct.
+[fn20] However, the cases do not establish any talismanic, dispositive facts a plaintiff must plead in order to establish a certain threshold of probability.
+Some cases suggest that the risk of that harm need not be particularly high.
+See Massachusetts v. EPA 549 U.S. 497 , 525 n. 23, 127 S.Ct. 1438 , 167 L.Ed.2d 248 (2007) (quoting Vill. of Elk Grove v. Evans , 997 F.2d 328 , 329 (7th Cir. 1993), as holding that "even a small probability of injury is sufficient to create a case or controversy — to take a suit out of the category of the hypothetical").
+The probability required "logically varies with the severity of the probable harm."
+Baur , 352 F.3d at 637 .
+Ultimately, courts consider the totality of the circumstances, and where a "plaintiffs interpretation of a statute is `reasonable enough' and under that interpretation the plaintiff `may legitimately fear that it will face enforcement of the statute,' then the plaintiff has standing to challenge the statute."
+Pac. Capital Bank, N.A. v. Connecticut , 542 F.3d 341 , 350 (2d Cir. 2008), quoting Vt. Right to Life , 221 F.3d at 383 .
+B. Application The plaintiffs have established that they suffered present injuries in fact — economic and professional harms — stemming from a reasonable fear of future harmful government conduct.
+They have asserted that the FAA permits broad monitoring through mass surveillance orders that authorize the government to collect thousands or millions of communications, including communications between the plaintiffs and their overseas contacts.
+The FAA is susceptible to such an interpretation, and the government has not controverted this interpretation or offered a more compelling one.
+[fn21] It is significant that the injury that the plaintiffs [**16] fear results from conduct that is authorized by statute.
+This case is not like Lyons , where the plaintiff feared injury from officers who would have been acting outside the law, making the injury less likely to occur.
+Here, the fact that the government has authorized the potentially harmful conduct means that the plaintiffs can reasonably assume that government officials will actually engage in that conduct by carrying out the authorized surveillance.
+It is fanciful, moreover, to question whether the government will ever undertake broad based surveillance of the type authorized by the statute.
+The FAA was passed specifically to permit surveillance that was not permitted by FISA but that was believed necessary to protect the national security.
+See, e.g. , 154 Cong. Rec.
+S227 , 227-28 (daily ed. Jan. 24, 2008) (statement of Sen.
+Rockefeller) (explaining "why it is necessary for us to update" FISA); id. at 235 (statement of Sen.
+Hutchison) (explaining why surveillance authorization procedures must be updated).
+That both the Executive and the Legislative branches of government believe that the FAA authorizes new types of surveillance, and have justified that new authorization as necessary to protecting the nation against attack, makes it extremely likely that such surveillance will occur.
+Furthermore, the plaintiffs have good reason to believe that their communications, in particular, will fall within the scope of the broad surveillance that they can assume the government will conduct.
+The plaintiffs testify that in order to carry out their jobs they must regularly communicate by telephone and e-mail with precisely the sorts of individuals that the government will most likely seek to monitor — i.e., individuals "the U.S. government believes or believed to be associated with terrorist organizations," "political and human rights activists who oppose governments that are supported economically or militarily by the U.S. government," and "people located in geographic areas that are a special focus of the U.S. government's counterterrorism or diplomatic efforts."
+The plaintiffs' assessment that these individuals are likely targets of FAA surveillance is reasonable, and the government has not disputed that assertion.
+On these facts, it is reasonably likely that the plaintiffs' communications will be monitored under the FAA.
+The instant plaintiffs' fears of surveillance are by no means based on "mere conjecture," delusional fantasy, or unfounded speculation.
+Baur , 352 F.3d at 636 (to establish standing, a plaintiff "must allege that he faces a direct risk of harm which rises above mere conjecture").
+Their fears are fairly traceable to the FAA because they are based on a reasonable interpretation of the challenged statute and a realistic understanding of the world.
+Conferring standing on these plaintiffs is not tantamount to conferring standing on "any or all citizens who no more than assert that certain practices of law enforcement offices are unconstitutional."
+Lyons , 461 U.S. at 111 , 103 S.Ct. 1660 .
+Most law-abiding citizens have no occasion to communicate [**17] with suspected terrorists; relatively few Americans have occasion to engage in international communications relevant to "foreign intelligence."
+These plaintiffs however, have successfully demonstrated that their legitimate professions make it quite likely that their communications will be intercepted if the government — as seems inevitable — exercises the authority granted by the FAA.
+The government argues the plaintiffs have failed to establish standing because the FAA does not itself authorize surveillance, but only authorizes the FISC to authorize surveillance.
+As a result, the government says the plaintiffs must speculate about at least two intervening steps between the FAA and any harm they might suffer as a result of the government conducting surveillance: first, that the government will apply for surveillance authorization under the FAA, and, second, that the FISC will grant authorization.
+But this argument fails.
+The presence of an intervening step does not, as a general rule, by itself preclude standing.
+[fn22] Nor do the particular intervening steps the government identifies here — the government's seeking authorization and the FISC's approving it — preclude standing.
+With respect to the first step, as discussed above, it is more than reasonable to expect that the government will seek surveillance authorization under the FAA.
+We therefore cannot say that uncertainty about this step significantly attenuates the link between the FAA and the plaintiffs' harms.
+Nor does the second intervening step add significant uncertainty.
+As discussed above, under the FAA the FISC must enter an order authorizing surveillance if the government submits a certification that conforms to the statutory requirements.
+See 50 U.S.C. 1881a (g)(2)(A), 1881a (i)(3)(a).
+The FAA does not require or even permit the FISC to make an independent determination of the necessity or justification for the surveillance.
+It verges on the fanciful to suggest that the government will more than rarely fail to comply with the formal requirements of the FAA once it has decided that the surveillance is warranted.
+Empirical evidence supports this expectation: in 2008, the government sought 2, 082 surveillance orders, and the FISC approved 2, 081 of them.
+We do not know how many of these applications, if any, came after the FAA was enacted on July 10, 2008.
+At the very least, though, the evidence does not show that the FISC actually rejects a significant number of applications for FAA surveillance orders.
+[fn23] Without a stronger showing that the FISC interposes a significant intervening step, we cannot find that the mere existence of this intervening step prevents the plaintiffs from obtaining standing to challenge the FAA.
+Because the plaintiffs' undisputed testimony clearly establishes that they are suffering injuries in fact, and because we find those injuries are causally connected to the FAA — because they are taken in anticipation of future government action that is reasonably likely to occur — and are redressable by a favorable judgment, [fn24] we find the [**18] plaintiffs have standing.
+IV.
+Indirectness of Harm The plaintiffs' asserted economic and professional costs incurred to protect the confidentiality of their communications can be characterized as indirect injuries, because the FAA does not target the plaintiffs themselves and the plaintiffs incur injuries due to their responses, and the responses of the third-party individuals with whom they communicate, to the anticipated FAA-authorized surveillance of those individuals.
+The government argues that the indirectness of these injuries defeats the plaintiffs' standing.
+We disagree.
+A. Standard The Supreme Court has made clear that "when the plaintiff is not himself the object of the government action or inaction he challenges, standing is not precluded."
+Summers , 129 S.Ct. at 1149 (2009) (internal quotation marks, brackets, and citation omitted); see also Lujan , 504 U.S. at 562 , 112 S.Ct. 2130 ; accord Garelick v. Sullivan , 987 F.2d 913 , 919 (2d Cir. 1993) ("A plaintiff does not lack standing merely because her injury is an indirect product of the defendant's conduct.").
+But a plaintiff who is indirectly harmed by a regulation needs to show more than does a plaintiff who is directly regulated by the challenged law: When the suit is one challenging the legality of government action .
+.
+., the nature and extent of facts that must be averred (at the summary judgment stage) .
+.
+.
+in order to establish standing depends considerably upon whether the plaintiff is himself an object of the action .
+.
+.
+at issue.
+If he is, there is ordinarily little question that the action or inaction has caused him injury, and that a judgment preventing or requiring the action will redress it.
+When, however, .
+.
+.
+a plaintiffs asserted injury arises from the government's allegedly unlawful regulation .
+.
+.
+of someone else , much more is needed.
+Lujan , 504 U.S. at 561-52 , 112 S.Ct. 2130 (emphasis in original).
+It is therefore "ordinarily substantially more difficult" to establish standing based on indirect injuries than on direct injuries.
+Summers , 129 S.Ct. at 1149 (internal quotation marks omitted).
+As a fundamental requisite to establishing standing, a plaintiff seeking standing on the basis of indirect injury must satisfy the three constitutional requirements for standing discussed above: (1) an injury in fact (2) that is causally related to the challenged statute or conduct and (3) is likely to be redressed by a favorable judicial decision.
+See Lujan , 504 U.S. at 560-51 , 112 S.Ct. 2130 ; Duke Power , 438 U.S. at 72 , 98 S.Ct. 2620 .
+Despite not being directly regulated, a plaintiff may establish a cognizable injury in fact by showing that he has altered or ceased conduct as a reasonable response to the challenged statute.
+See, e.g., Friends of the Earth, Inc. v. Laidlaw Envtl. Servs.
+, 528 U.S. 167 , 184-85 , 120 S.Ct. 693 , 145 L.Ed.2d 610 (2000) (granting environmental groups standing to sue a corporation under the Clean Water Act because the defendant corporation's alleged environmental damage deterred members of the plaintiff organizations from using and enjoying certain lands and rivers).
+If the plaintiff makes such an allegation, he must identify the injury with "specificity," Socialist Workers Party v. Att'y Gen. , 419 U.S. 1314 , 1319 , 95 S.Ct. 425 , 42 L.Ed.2d 627 (1974) (Marshall, Circuit Justice ), and he "must proffer some objective evidence to substantiate [**19] his claim that the challenged conduct has deterred him from engaging in protected activity," Bordell v. Gen. Elec. Co. , 922 F.2d 1057 , 1061 (2d Cir. 1991).
+The plaintiffs have satisfied these requirements through their uncontroverted testimony that they have altered their conduct and thereby incurred specific costs in response to the FAA.
+As discussed above, we must accept that undisputed testimony, so the plaintiffs have established the first constitutional requirement for standing — an injury in fact.
+The heart of the government's challenge to the plaintiffs' standing based on the indirectness of their injury — much like the government's challenge to the plaintiffs' standing based on the likelihood of future injury — goes to whether the plaintiffs' injuries are causally connected to the challenged legislation.
+The causal chain linking the plaintiffs' indirect injuries to the challenged legislation is similar to that discussed above: it turns on the likelihood that the plaintiffs' communications with the regulated third parties will be monitored.
+If the FAA does not make it likely that the plaintiffs' communications with regulated third parties will be monitored, then the costs the plaintiffs have incurred to avoid being monitored are the product of their own decisions and are not sufficiently linked to the FAA; for this reason, they would not be "fairly traceable to the challenged action," Lujan , 504 U.S. at 560 , 112 S.Ct. 2130 .
+Conversely, if the plaintiffs' communications with regulated third parties will likely be monitored despite the fact that the FAA does not directly regulate the plaintiffs, then those costs are sufficiently tied to the FAA to support standing.
+The Supreme Court and this Court have frequently found standing on the part of plaintiffs who were not directly subject to a statute, and asserted only indirect injuries.
+Most notably, in Meese v. Keene , 481 U.S. 465 , 107 S.Ct. 1862 , 95 L.Ed.2d 415 (1987), the Supreme Court found standing in a plaintiff who, like the instant plaintiffs, was not directly regulated by the statute, and alleged only indirect injuries.
+The plaintiff, a lawyer and state legislator, challenged a statute that required certain films to be labeled "political propaganda."
+Id. at 467, 107 S.Ct. 1862 .
+The district court in that case made clear that "[a]ccording to the authoritative agency interpretation of the Act and the regulations, plaintiff [wa]s free to remove the [`political propaganda'] label before exhibiting the films."
+Keene v. Smith , 569 F.Supp.
+1513 , 1516 (E.D.Cal.
+1983); see also id. at 1519 ("[P]laintiff has no obligation with respect to the label, and .
+.
+.
+is free to remove the label if he chooses.").
+Hence, as in the instant case, the Meese statute did not directly regulate the plaintiff or require him to do, or refrain from doing, anything at all.
+The Meese plaintiff, however, was injured indirectly.
+He wanted to show three labeled films, but because he did "not want the Department of Justice and the public to regard him as the disseminator of foreign political propaganda," he abstained from screening the films.
+Meese , 481 U.S. at 467-68 , 107 S.Ct. 1862 .
+He sued to enjoin the application of the statute to these films.
+That the statute did not regulate him directly [**20] was no barrier to standing.
+The Court found he had established a cognizable harm by alleging "the need to take .
+.
+.
+affirmative steps to avoid the risk of harm to his reputation."
+Id., at 475 , 107 S.Ct. 1862 .
+This reaction was reasonable and was causally linked to the statute, because the plaintiff averred, with support from expert affidavits, that if he showed the films "his personal, political, and professional reputation would suffer and his ability to obtain re-election and to practice his profession would be impaired."
+Id. at 473 , 107 S.Ct. 1862 .
+The Court approved the district court's conclusion that "the Act puts the plaintiff to the Hobson's choice of foregoing the use of the three Canadian films for the exposition of his own views or suffering an injury to his reputation."
+Id. at 475 , 107 S.Ct. 1862 (internal quotation marks omitted).
+Either way, the statute affected him in such a way as to give him standing to challenge it.
+More recently, in Friends of the Earth v. Laidlaw , the Supreme Court recognized plaintiffs' standing to challenge a corporation's alleged Clean Water Act violation.
+The plaintiffs did not claim that the defendant took direct actions against them.
+Instead, they showed that because they feared exposure to the defendant's pollution they had ceased to engage in certain recreational activities in the area, such as swimming, camping, and birdwatching.
+Friends of the Earth , 528 U.S. at 181-82 , 120 S.Ct. 693 .
+The Court found that the plaintiffs' decision to curtail those activities was "enough for injury in fact," and found that the plaintiffs' reactions were reasonable responses to the threat of exposure to pollution.
+Id. at 183-85 , 120 S.Ct. 693 .
+[fn25] These cases establish that a plaintiff has standing to challenge a statute that does not regulate him if he can show that the statute reasonably caused him to alter or cease certain conduct.
+In the instant case, the key to determining whether the plaintiffs have standing based on the indirect injuries they suffer is determining whether someone who wants to protect the privacy of his communications would reasonably take the measures these plaintiffs took not to be overheard.
+B. Application First, it is reasonable for the plaintiffs to take measures to avoid being over-heard.
+The plaintiffs have established that, because of their legitimate needs to communicate with persons who will likely be subject to government surveillance under the FAA, they are likely to be monitored.
+Moreover, the various groups of plaintiffs — attorneys, journalists, and human rights, labor, legal, and media organizations — have established that they have legitimate interests in not being monitored.
+Since the plaintiffs allege that the FAA is unconstitutional, if the plaintiffs' legal theory is correct, any search authorized by the FAA would be an illegal search that the plaintiffs would reasonably try to avoid.
+[fn26] Moreover, each of the plaintiffs has alleged that the risk of being monitored causes additional injuries beyond the mere fact of being subjected to a putatively unconstitutional invasion of privacy.
+The risk of being monitored by the government threatens the safety [**21] of their sources and clients, impedes their ability to do their jobs, and implicates the attorneys' ethical obligations.
+Journalists Klein and Hedges, for example, assert that if their communications with their sources were overheard, those sources' identities, political activities, and other sensitive information would be disclosed, which would expose them to violence and retaliation by their own governments, non-state actors, and the U.S. government.
+Likewise, attorney Mariner asserts that if her communications with human rights abuse victims on behalf of Human Rights Watch are monitored, the victims will draw unwanted attention to themselves and might risk further abuse.
+Attorneys Royce and McKay, who represent Guantanamo Bay prisoners and others, assert that they risk disclosing litigation strategies to the opposing party (the U.S. government) and violating ethical obligations if their communications with co-counsel, clients and their family members, experts, and investigators around the world are monitored.
+[fn27] The plaintiffs act reasonably in trying to avoid these injuries.
+Since it is reasonable for the plaintiffs to seek to avoid being monitored, we must consider whether the particular measures they took were reasonable.
+They were.
+In some instances the plaintiffs did not communicate certain information they otherwise would have communicated by e-mail or telephone; and in other instances they incurred the costly burdens of traveling to communicate or to obtain that information in person rather than electronically.
+These are not overreactions to the FAA; they are appropriate measures that a reasonably prudent person who plausibly anticipates that his conversations are likely to be monitored, and who finds it important to avoid such monitoring, would take to avoid being overheard.
+The plaintiffs have therefore established that those injuries are linked to the statute they challenge.
+In sum, the FAA has put the plaintiffs in a lose-lose situation: either they can continue to communicate sensitive information electronically and bear a substantial risk of being monitored under a statute they allege to be unconstitutional, or they can incur financial and professional costs to avoid being monitored.
+Either way, the FAA directly affects them.
+[fn28] The Supreme Court has said that "the gist of the question of standing" is whether "the appellants alleged such a personal stake in the outcome of the controversy as to assure that concrete adverseness which sharpens the presentation of issues upon which the court so largely depends for illumination of difficult constitutional questions."
+Baker , 369 U.S. at 204 , 82 S.Ct. 691 .
+The instant plaintiffs are not merely random citizens, indistinguishable from any other members of the public, who want to test in court the abstract theory that the FAA is inconsistent with the Constitution; rather, these plaintiffs have shown that, regardless of which course of action they elect, the FAA affects them.
+We therefore conclude that they have a sufficient "personal stake" to [**22] challenge the FAA.
+That does not mean that their challenge will succeed; it means only that the plaintiffs are entitled to have a federal court reach the merits of their challenge.
+We need not "decide whether appellants' allegations .
+.
+.
+will, ultimately, entitle them to any relief, in order to hold that they have standing to seek it."
+Baker , 369 U.S. at 208 , 82 S.Ct. 691 .
+V. Laird v. Tatum The government's principal arguments against the above analysis rest on a single case, Laird v. Tatum , 408 U.S. 1 , 92 S.Ct. 2318 , 33 L.Ed.2d 154 (1972).
+Laird is unquestionably relevant to this case, as it is the only case in which the Supreme Court specifically addressed standing to challenge a government surveillance program.
+Because Laird significantly differs from the present case, however, we disagree with the government's contention that Laird controls the instant case, and that Laird created different and stricter standing requirements for surveillance cases than for other types of cases.
+In Laird , the plaintiffs challenged a surveillance program that authorized the Army to collect, analyze, and disseminate information about public activities that had potential to create civil disorder.
+The Army collected its data from a number of sources, but most of it came from "the news media and publications in general circulation" or from "agents who attended meetings that were open to the public and who wrote field reports describing the meetings."
+Laird , 408 U.S. at 6 , 92 S.Ct. 2318 .
+The Court noted that the court of appeals had characterized the information gathered as "nothing more than a good newspaper reporter would be able to gather by attendance at public meetings and the clipping of articles from publications available on any newsstand."
+Id. at 9 , 92 S.Ct. 2318 (internal quotation marks omitted).
+Roughly sixty government agents around the country participated in the surveillance program.
+Id. at 6-7 , 92 S.Ct. 2318 .
+The plaintiffs sought to enjoin the program.
+They claimed that they "disagreed with the judgments" made by the Executive Branch about the scope of the surveillance program, id. at 13 , 92 S.Ct. 2318 , and they argued that "in the future it is possible that information relating to matters far beyond the responsibilities of the military may be misused by the military to [their] detriment," id. at 9 , 92 S.Ct. 2318 .
+But the Court stated that the plaintiffs [did] not attempt to establish this as a definitely foreseeable event, or to base their complaint on this ground.
+Rather, [the plaintiffs] contend[ed] that the present existence of this system of gathering and distributing information, allegedly far beyond the mission requirements of the Army, constitute[d] an impermissible burden on [them] and other persons similarly situated which exercise[d] a present inhibiting effect on their full expression and utilization of their First Amendment rights.
+Id. at 10 , 92 S.Ct. 2318 (internal quotation marks omitted).
+The Court noted the court of appeals's observation that the plaintiffs "have some difficulty in establishing visible injury.
+.
+.
+.
+They freely admit that they complain of no specific action of the Army against them .
+.
+.
+There is no evidence of illegal or unlawful surveillance activities."
+Id. at 9, 92 S.Ct. 2318 (citation and alteration [**23] omitted).
+The Court stated that any alleged chilling effect arose from the plaintiffs' "perception of the system as inappropriate to the Army's role under our form of government," or the plaintiffs' "beliefs that it is inherently dangerous for the military to be concerned with activities in the civilian sector," or the plaintiffs' "less generalized yet speculative apprehensiveness that the Army may at some future date misuse the information in some way that would cause direct harm to respondents."
+Id. at 13, 92 S.Ct. 2318 .
+Moreover, the Court noted that the plaintiffs had cast "considerable doubt" on whether the surveillance program had actually chilled them, id. at 13 n. 7, 92 S.Ct. 2318 , and the plaintiffs did not identify any concrete harm inflicted by the program.
+The Court therefore considered: whether the jurisdiction of a federal court may be invoked by a complainant who alleges that the exercise of his First Amendment rights is being chilled by the mere existence, without more , of a governmental investigative and data-gathering activity that is alleged to be broader in scope than is reasonably necessary for the accomplishment of a valid governmental purpose.
+408 U.S. at 10 , 92 S.Ct. 2318 (emphasis supplied).
+The Court denied plaintiffs standing.
+It held that the plaintiffs' complaints about "the very existence of the Army's data-gathering system" and their "[a]llegations of a subjective `chill' are not an adequate substitute for a claim of specific present objective harm or a threat of specific future harm."
+Id. at 13-14 , 92 S.Ct. 2318 .
+The Court noted that although previous cases have found governmental regulations unconstitutional based on their "chilling" effect, [i]n none of these cases, however, did the chilling effect arise merely from the individual's knowledge that a governmental agency was engaged in certain activities or from the individual's concomitant fear that, armed with the fruits of those activities, the agency might in the future take some other and additional action detrimental to that individual.
+Rather, in each of these eases, the challenged exercise of governmental power was regulatory, proscriptive, or compulsory in nature, and the complainant was either presently or prospectively subject to the regulations, proscriptions, or compulsions that he was challenging.
+Id. at 11 , 92 S.Ct. 2318 .
+The government argues that "[t]his case is directly governed by Laird ," because the only specific present harms the plaintiffs allege flow from a subjective chill.
+Laird , however, differs dramatically from this case. In Laird , the plaintiffs did not clearly allege any injuries whatsoever.
+They did not claim that the government surveillance they sought to challenge, which relied principally on monitoring through publicly available sources activities conducted entirely in public, harmed them.
+They did not claim that they, or anyone with whom they regularly interacted, would be subject to any illegal or unconstitutional intrusion if the program they challenged was allowed to continue.
+Rather, they claimed only that they might be injured if the information lawfully collected by the military were [**24] misused in some unspecified way at some unspecified point in the future, and they alleged that the surveillance scheme had a chilling effect, while essentially admitting that they themselves had not been chilled, and that the program not altered their behavior in any way.
+By contrast, the instant plaintiffs clearly have alleged specific and concrete injuries.
+Unlike the Laird plaintiffs, they do not challenge a program of information gathering that they concede is lawful, on the theory that the information gathered may be misused in the future by government agents acting illegally and without authorization; rather, they challenge a specific statute that expressly authorizes surveillance that they contend is in itself unconstitutional.
+They do not vaguely allege that they might be subject to surveillance under the program; rather, they set forth specific, concrete reasons to believe they are likely to be overheard, because their legitimate activities bring them into contact with the very types of people who are the professed targets of the statutorily authorized surveillance.
+And far from alleging an undefined "chill" that has not affected their own behavior in any way, they detail specific, reasonable actions that they have taken to their own tangible, economic cost, in order to carry out their legitimate professional activities in an ethical and effective manner, which can be done only by taking every precaution to avoid being overheard in the way that the challenged statute makes reasonably likely.
+[fn29] This case is a far cry from Laird.
+In this case, as demonstrated above, the plaintiffs allege injuries that establish their standing consistent with the standing jurisprudence of the Supreme Court and this Court.
+In Laird , by contrast, the plaintiffs alleged no such injuries.
+Indeed, because the Laird plaintiffs offered so little by way of concrete injury, direct or indirect, Laird has little or nothing to say about the critical issue in this case: the reasonableness of the plaintiffs' fear of future injury from the FAA, and the causal relation of the challenged statute to the tangible costs the plaintiffs claim they have incurred.
+The government next argues, however, that even if Laird does not directly govern this case, it created special standing rules for surveillance cases that are stricter than those that apply to other types of cases, and that those special rules preclude standing in this case.
+We disagree.
+First, the government argues that under Laird a plaintiff may challenge a surveillance statute only if he is "subject to" that statute, meaning that he belongs to a narrow class of individuals the statute, on its face, identifies as targets.
+In support of this claim, the government relies on Laird's comment that some previous plaintiffs who obtained standing to challenge a regulation that did not explicitly target them were able to do so because they were or would soon be "subject to the regulations, proscriptions, or compulsions" they challenged.
+Id. at 11 , 92 S.Ct. 2318 .
+The government thus argues [**25] that the instant plaintiffs cannot obtain standing to challenge the FAA, because the FAA "does not direct intelligence gathering activities against the plaintiffs.
+Nor does it authorize plaintiffs to be targeted."
+[fn30] Second, the government argues that Laird precludes standing based on chilling-effect injuries.
+The government notes that the Laird plaintiffs alleged that the existence of the Army's surveillance program produced a chilling effect upon the exercise of their First Amendment rights, and the Court rejected that allegation as a ground for standing.
+The government adopts United Presbyterian's interpretation of Laird , which says that in order to obtain standing plaintiffs must show that they "suffer[] some concrete harm (past or immediately threatened) apart from the `chill' itself," such as denial of admission to the bar or termination of employment.
+United Presbyterian , 738 F.2d at 1378 (emphasis supplied).
+[fn31] Relying on this interpretation of Laird , the government dismisses the economic and professional costs the plaintiffs have incurred because they "flow directly from the `subjective chill' on plaintiffs' speech caused solely by the existence of [the FAA]."
+The government says those injuries are "nothing more than a repackaged version of the `subjective chill' that the Supreme Court found insufficient to establish standing in Laird. "
+We are not persuaded that Laird created either of these special standing rules for surveillance cases.
+Since Laird is the only Supreme Court precedent in which a plaintiff who had not been surveilled claimed standing to challenge a surveillance scheme, it is natural to look to it for guidance.
+However, the government reads far more into Laird than either its facts or its language permit.
+In doing so, it loses sight of the general principles of standing.
+First, the Laird plaintiffs so obviously lacked standing that the Court did not need to create stricter standing rules in the surveillance context in order to deny plaintiffs standing.
+The Laird plaintiffs identified no injury that they had suffered or would likely suffer.
+In the absence of any clear alleged injury, the Court could not find that the plaintiffs had satisfied the normal standing requirements, and it therefore did not need to invent new rules to reach that outcome.
+As we have demonstrated at length above, the facts of Laird are simply not comparable to those presented in the instant case. That the Laird plaintiffs were held to lack standing does not imply that the instant plaintiffs similarly have failed to allege injury.
+Any statement in Laird of a general rule applicable to all surveillance cases could only be dictum.
+Second, Laird in fact contains no such purported special rules for surveillance cases.
+Nothing in Laird supports the conclusion that the Court intended to change the standing rules, nor does it explain any need to create standing rules for surveillance cases distinct from the rules applicable in other contexts.
+To the contrary, Laird's final sentence makes clear that the result in that case was dictated [**26] by the well-established general principles of standing: [T]here is nothing in our Nation's history or in this Court's decided cases, including our holding today, that can properly be seen as giving any indication that actual or threatened injury by reason of unlawful activities of the military would go unnoticed or unremedied.
+Laird , 408 U.S. at 16 , 92 S.Ct. 2318 .
+The language quoted by the government — that some previous plaintiffs who obtained standing to challenge a regulation were or would soon be "subject to the regulations, proscriptions, or compulsions" they challenged, id. at 11 , 92 S.Ct. 2318 — does not purport to establish a fixed requirement for standing in the surveillance context or in any other; it merely contrasts the situation of the Laird plaintiffs with those of other plaintiffs who were found to have standing.
+Third, while the government relies heavily on ACLU v. NSA and United Presbyterian to support its interpretation of Laird , those cases do not bind us, and they are factually distinguishable from the instant case. [fn32] Moreover, we do not find their interpretations of Laird to be persuasive.
+They read Laird essentially the same way the government does, without explaining why we should read Laird to have ratcheted up the standing requirements in surveillance cases, sub silentio, where the plaintiffs at issue clearly lacked standing under the normal rules.
+We do not see any reason why the law of standing should be stricter or different in the surveillance context, and those cases do not offer any such reasons.
+Under the traditional, well-established rules of standing, the plaintiffs here have alleged that they reasonably anticipate direct injury from the enactment of the FAA because, unlike most Americans, they engage in legitimate professional activities that make it reasonably likely that their privacy will be invaded and their conversations overheard — unconstitutionally, or so they argue — as a result of the surveillance newly authorized by the FAA, and that they have already suffered tangible, indirect injury due to the reasonable steps they have undertaken to avoid such over-hearing, which would impair their ability to carry out those activities.
+Nothing more is required for standing under well-established principles.
+And nothing in Laird , where the plaintiffs alleged no comparable injury, purports to change those principles.
+[fn33] CONCLUSION The plaintiffs' uncontroverted testimony that they fear their sensitive international electronic communications being monitored and that they have taken costly measures to avoid being monitored — because we deem that fear and those actions to be reasonable in the circumstances of this case — establishes injuries in fact that we find are causally linked to the allegedly unconstitutional FAA.
+We therefore find that plaintiffs have standing to challenge the constitutionality of the FAA in federal court.

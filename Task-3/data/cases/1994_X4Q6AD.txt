@@ -1,0 +1,245 @@
+ CARNES , Circuit Judge: This consolidated appeal presents the question of whether a common law tort action for failure to install anti-lock brakes in a tractor-trailer truck is pre-empted by provisions of the National Traffic and Motor Vehicle Safety Act ("the Safety Act"), Pub.L.
+No. 89-563, 80 Stat. 718 (1966) (codified at 15 U.S.C. 1381 1431 ).
+This Court answered a similar question arising under the same statute in Taylor v. General Motors Corp. , 875 F.2d 816 (11th Cir.1989), cert. denied , 494 U.S. 1065 , 110 S.Ct. 1781 , 108 L.Ed.2d 783 (1990), which held that a common law tort action for failure to install air bags was pre-empted by the Safety Act.
+The Supreme Court's exposition of pre-emption law in an intervening decision, Cipollone v. Liggett Group, Inc. , U.S. , 112 S.Ct. 2608 , 120 L.Ed.2d 407 (1992), requires that we revisit our Taylor decision in order to determine how much of it survives Cipollone , and whether the surviving portion of Taylor controls these cases.
+FACTS AND PROCEDURAL HISTORY The complaint in the Myrick case alleges that an eighteen wheel tractor-trailer was proceeding south on a highway in Morgan County, Georgia.
+Because of slowing traffic ahead, the driver applied the brakes which caused the rear wheels to lock and the trailer to jackknife and swing across the center divider into the path of oncoming traffic.
+Plaintiff Ben Myrick had the misfortune to be in a northbound vehicle on the same highway at the critical time.
+The jackknifing trailer collided with his vehicle.
+As a result, Mr. Myrick suffered serious injury; he is permanently paraplegic and brain damaged.
+Neither the tractor nor the trailer that collided with Mr. Myrick's vehicle had an anti-lock brake system.
+Mr. Myrick filed a lawsuit in state court against the manufacturer of the tractor, the Freightliner Corporation, and the manufacturer of the trailer, the Freuhauf Corporation, alleging that the absence of anti-lock brakes was a negligent design and rendered the tractor defective.
+1 His wife, Emily Myrick, asserted a separate claim for loss of consortium.
+The defendants removed the case to federal court based on diversity of citizenship.
+The facts alleged in the Lindsey case are similar.
+A tractor-trailer rig was proceeding south on a highway in Oconee County, Georgia, when the driver applied the brakes because an automobile stopped in front of it.
+The wheels locked, the trailer began to jackknife and slid across the center lane into the northbound lane of traffic.
+This time the victim was Grace Lindsey, whose automobile was proceeding north when it collided with the jackknifed trailer.
+Mrs. Lindsey was killed.
+Neither the tractor nor the trailer was equipped with an anti-lock brake system.
+Mrs. Lindsey's husband, Jack Lindsey, filed a lawsuit in state court against Navistar International Transportation Corporation, the manufacturer of the tractor.
+2 He alleged that Navistar's failure to supply anti-lock brakes was a negligent design which rendered the tractor defective and unsafe.
+Navistar removed the case to federal court based on diversity of citizenship.
+Both lawsuits were decided in the United States District Court for the Northern District of Georgia.
+In the Myrick case, the district court granted summary judgment on behalf of the defendants on the grounds that the action was impliedly pre-empted by the Safety Act and the regulatory standards adopted under it.
+The court found the matter to be controlled by this Court's holding in Taylor v. General Motors Corp. , 875 F.2d 816 (11th Cir.1989), cert. denied , 494 U.S. 1065 , 110 S.Ct. 1781 , 108 L.Ed.2d 783 (1990).
+Four days after the order in the nature of an opinion was entered in the Myrick case, a different judge of the same district court reached the same result in the Lindsey case. In doing so, he adopted the reasoning of the order in the Myrick case and found the cause of action to be pre-empted by the federal act and regulatory standards.
+This Court consolidated the two cases for purposes of appeal.
+Because the issues are identical and joint briefs have been filed on both sides, we will refer to the plaintiffs in the two cases collectively as "Plaintiffs," and we will refer to the remaining defendants in both cases collectively as "Manufacturers."
+3 ANALYSIS I. PRE CIPOLLONE PRE-EMPTION LAW The laws of the United States are the supreme law of the land, any state constitution or law notwithstanding.
+U.S. Const.
+art.
+VI, cl.
+2 .
+Thus, state law may not override or interfere with federal laws.
+That is the core premise of pre-emption doctrine.
+On the other hand, "[i]n the interest of avoiding unintended encroachment on the authority of the States, a court interpreting a federal statute pertaining to a subject traditionally governed by state law will be reluctant to find pre-emption.
+Thus, pre-emption will not lie unless it is 'the clear and manifest purpose of Congress.'"
+CSX Transp., Inc. v. Easterwood , U.S. , , 113 S.Ct. 1732, 1737 , 123 L.Ed.2d 387 (1993) (citation omitted); see also Jones v. Rath Packing Co. , 430 U.S. 519, 525-26 , 97 S.Ct. 1305, 1309-10 , 51 L.Ed.2d 604 (1977); Rice v. Santa Fe Elevator Corp. , 331 U.S. 218, 230 , 67 S.Ct. 1146, 1152 , 91 L.Ed. 1447 (1947).
+The Supreme Court has instructed us that state law is pre-empted by federal law in three circumstances: English v. General Elec. Co. , 496 U.S. 72, 78-79 , 110 S.Ct. 2270, 2275 , 110 L.Ed.2d 65 (1990); see also Michigan Canners and Freezers Assoc. v. Agricultural Mktg. and Bargaining Bd. , 467 U.S. 461, 469 , 104 S.Ct. 2518, 2523 , 81 L.Ed.2d 399 (1984); Easterwood v. CSX Transp., Inc. , 933 F.2d 1548, 1552 (11th Cir.1991), aff'd , U.S. , 113 S.Ct. 1732 , 123 L.Ed.2d 387 (1993).
+We must apply these principles and relevant case law to determine if the Plaintiffs' claims, premised on the Manufacturers' failure to install anti-lock brakes, are pre-empted by the Safety Act.
+II.
+THE SAFETY ACT AND THE TAYLOR DECISION The Safety Act authorizes the extensive regulation of commercial trucks, including the vehicles involved in these cases.
+Numerous safety standards have been established by the National Highway Traffic Safety Administration pursuant to the Act, including a standard, applicable at the relevant times in these cases, that effectively gave manufacturers the choice of whether to install anti-lock brakes.
+The Safety Act includes a pre-emption clause which provides: 15 U.S.C. 1392(d) .
+Additionally, the Safety Act contains a savings clause: Id .
+1397(k) .
+In Taylor , a panel of this Court decided the question of whether the Safety Act pre-empts state common law causes of action arising out of the failure of automobile manufacturers to install air bags in their vehicles.
+We addressed the pre-emption question in two parts: first, express pre-emption, and then, implied pre-emption.
+We recognized that a successful state tort action based on the failure of a manufacturer to install air bags would have an effect similar to a state regulation requiring installation of air bags.
+875 F.2d at 824 n. 16.
+Nonetheless, this Court held that such tort actions were not expressly pre-empted by the Safety Act.
+Id. at 825 .
+We began by recognizing that "a strong presumption exists against finding express pre-emption when the subject matter, such as the provision of tort remedies to compensate for personal injuries, is one that has traditionally been regarded as properly within the scope of the states' rights."
+Id. at 823 .
+In view of that presumption, we recognized our task as being "to determine whether the language of the Safety Act 'unmistakably' manifests an intent to pre-empt appellants' common law claims."
+Id.
+We held that it did not.
+In the Taylor case, safety standards that had been established under the Act provided for the installation of either seat belts or air bags, giving manufacturers a choice between restraint systems.
+Id. at 822-23 .
+The manufacturers argued that common law tort liability for failure to install air bags was expressly pre-empted by the Safety Act's pre-emption clause.
+This Court rejected that argument, because the Act's savings clause plainly stated that compliance with any safety standard did not exempt anyone from common law liability.
+Id. at 823-25 .
+The manufacturers urged that the savings clause should be narrowly interpreted to preserve common law liability only for defects that were not specifically addressed by a safety standard promulgated under the Act.
+We rejected that argument, because such a construction "would render the savings clause a mere redundancy since the pre-emption clause itself provides that where a federal standard does not govern 'the same aspect of performance' as the state standard, the state standard is not pre-empted."
+Id. at 824 .
+Recognizing our duty to give effect to every clause of a statute, we rejected the manufacturers' proposed construction of the savings clause because "it would render an entire section of the Safety Act superfluous."
+Id.
+We also gave another reason for rejecting the manufacturers' argument that the Safety Act expressly pre-empted common law tort actions on defects that were addressed by a safety standard.
+We said: Id. at 824-25 (citations omitted).
+We ended our discussion of the express pre-emption issue by stating our holding as follows: Id. at 825 .
+In a footnote to that holding we said: Id. at 825 n.18.
+After holding in Taylor that state tort actions premised on a defect specifically addressed by a safety standard promulgated under the Safety Act were not expressly pre-empted, this Court turned to the question of implied pre-emption.
+The pertinent safety standard that had been established under the Act granted to manufacturers an option to install air bags or manual seat belts, and we held that "a state common law rule that would, in effect, remove the element of choice authorized [by the Safety Act] would frustrate the federal regulatory scheme."
+Id. at 827 .
+For that reason, we concluded that common law tort claims based on a failure to install air bags were impliedly pre-empted by the Safety Act because they would interfere with and frustrate the methods by which the federal regulations sought to accomplish their goals.
+Id. That is the way the law of this Circuit stood on pre-emption in general and pre-emption under the Safety Act in particular, until Cipollone was decided three years later.
+III.
+THE CIPOLLONE DECISION AND ITS EFFECT ON TAYLOR The Supreme Court in Cipollone added a new wrinkle to the fabric of pre-emption law by holding that where a federal statute contains an express pre-emption clause, and that clause "provides a 'reliable indicium of congressional intent with respect to state authority,'" a court should not consider implied theories of pre-emption.
+Cipollone v. Liggett Group, Inc. , U.S. , , 112 S.Ct. 2608, 2618 , 120 L.Ed.2d 407 (1992).
+(citation omitted).
+The Cipollone Court held that the enactment by Congress of such a provision addressing the pre-emptive scope of the statute in which it is contained, indicates an intent that all matters beyond the reach of the provision are not pre-empted.
+Therefore, where there is an express pre-emption provision a court "need only identify the domain expressly pre-empted" by the statutory provisions.
+Id. The Cipollone Court reasoned that if Congress had intended further pre-emption it would have said so in the pre-emption provision it included in the act.
+It is the law of this Circuit that we are bound by a prior panel's decision except to the extent it is altered by a supervening Supreme Court decision, which we will, of course, follow instead.
+E.g. , Footman v. Singletary , 978 F.2d 1207, 1211 (11th Cir.1992); Lufkin v. McCallum , 956 F.2d 1104, 1107 (11th Cir.), cert. denied , U.S. , 113 S.Ct. 326 , 121 L.Ed.2d 246 (1992).
+We are bound by the Taylor panel's holding, unchanged by Cipollone , that the Safety Act does not expressly pre-empt common law liability for a safety defect that is addressed by a safety standard established under the Safety Act.
+Taylor is indistinguishable from this appeal with regard to that holding.
+The plaintiffs in Taylor asserted tort claims sounding in negligence and strict liability, as do the Plaintiffs here.
+In both cases, the claims were premised on a failure of the manufacturers to install specific safety devices in their vehicles, and in both cases a safety standard established under the Act effectively gave the manufacturers the option of not installing the device.
+Exactly the same pre-emption clause and savings clause are involved in both cases.
+Thus, we are bound to conclude that the claims presented by the Myricks and Jack Lindsey in this appeal are not expressly pre-empted by the Safety Act, just as similar claims were held not to be expressly pre-empted by the same act in the Taylor case. Because of the Supreme Court's Cipollone decision, however, we are bound not to follow the second part of Taylor , which held that claims similar to the ones here were barred under the implied pre-emption doctrine.
+Cipollone 's clear instruction that when there is an express pre-emption provision we should not consider implied pre-emption supersedes the second part of Taylor .
+Factoring Cipollone into Taylor produces a net result of no pre-emption in this case. IV.
+THE CONTRARY ARGUMENTS OF THE MANUFACTURERS AND THEIR AMICI The Manufacturers and their amici suggest that we err by reading Cipollone to mean what it says about not considering implied pre-emption when there is an express pre-emption provision in the statute.
+If we do err we are in good company, because at least eight of our sister circuits have reached the same conclusion about the meaning of the Cipollone decision.
+Greenwood Trust Co. v. Massachusetts , 971 F.2d 818, 823 (1st Cir.1992) ("[T]he High Court has made it pellucidly clear that, whenever Congress includes an express pre-emption clause in a statute, judges ought to limit themselves to the pre-emptive reach of that provision without essaying any further analysis under the various theories of implied pre-emption.
+"), cert. denied , U.S. , 113 S.Ct. 974 , 122 L.Ed.2d 129 (1993); Toy Mfrs.
+of America, Inc. v. Blumenthal , 986 F.2d 615, 623 (2d Cir.1992) ("[W]here a pre-emption provision provides a 'reliable indicium of congressional intent' a court is required to restrict its pre-emption analysis to that clause.
+"); Worm v. American Cyanamid Co. , 5 F.3d 744, 747 (4th Cir.1993) ("Articulating a specific approach to interpreting a statute that expressly addresses pre-emption, the [ Cipollone ] Court limited the task to first determining whether the relevant provisions reliably indicate congressional intent with regard to pre-emption of state authority, and second, if so, to interpreting the express language.
+"); Stamps v. Collagen Corp. , 984 F.2d 1416, 1420 (5th Cir.1993) ("Applying Cipollone , we reject, at the outset, Collagen's contention that we may resort to the doctrine of implied pre-emption "), cert. denied , U.S. , 114 S.Ct. 86 , 126 L.Ed.2d 54 (1993); American Agric.
+Movement Inc. v. Board of Trade , 977 F.2d 1147, 1154 (7th Cir.1992) ("Only if a statute is devoid of explicit pre-emptive language may we resort to either variant of implied pre-emption.
+"); Kinley Corp. v. Iowa Utilities Bd. , 999 F.2d 354, 358 (8th Cir.1993) ("In the present case, we need look no further than the express statutory language [because] [t]he [statute] contains [an] express pre-emption provusion "); Draper v. Chiapuzio , 9 F.3d 1391 (9th Cir.1993) (stating that because the federal act under consideration contains an express pre-emption provision which provides a reliable indicium of congressional intent, "[w]e therefore look only to this language and construe its pre-emptive effect as narrowly as possible"); Cleveland v. Piper Aircraft Corp. , 985 F.2d 1438, 1447 (10th Cir.) ("[W]hen the Court recently applied the doctrine of expressio unius est exclusio alterius to preemption cases, it excluded consideration of all forms of implied preemption, including conflict pre-emption.
+"), cert. denied , U.S. , 114 S.Ct. 291 , 126 L.Ed.2d 240 (1993).
+So far as we can ascertain, no circuit has yet had the temerity to tell the Supreme Court that it did not mean what it said in Cipollone , and we decline the Manufacturers' invitation to be the first one to do so. Moreover, two other panels of this Court apparently have reached the same conclusion we reach about the meaning of Cipollone .
+In Papas v. Upjohn Co. , 926 F.2d 1019 (11th Cir.1991) ( Papas I ), this Court held that the Federal Insecticide, Fungicide, and Rodenticide Act ("FIFRA") impliedly pre-empted certain claims.
+Id. at 1024-26 .
+We declined to reach the express pre-emption issue about which we admitted "a little uncertainty."
+Id. at 1024 .
+The Supreme Court vacated and remanded that decision for further consideration in light of its Cipollone decision.
+Papas v. Zoecon Corp. , U.S. , 112 S.Ct. 3020 , 120 L.Ed.2d 892 (1992).
+On remand, this Court took the hint and re-decided the case solely on express pre-emption grounds.
+Papas v. Upjohn Co. , 985 F.2d 516 (11th Cir.1993) ( Papas II ).
+In doing so, we explained that, "[t]o determine FIFRA's pre-emption of the Papases' claims we will 'only identify the domain expressly pre-empted' by FIFRA['s express pre-emption clause]."
+Papas II , 985 F.2d at 518 (quoting Cipollone , U.S. , 112 S.Ct. at 2618 ).
+In Public Health Trust v. Lake Aircraft, Inc. , 992 F.2d 291 (11th Cir.1993), another panel of this Court held that the Federal Aviation Act and aircraft design standard regulations promulgated thereunder did not pre-empt a state common law action for the negligent or defective design of an aircraft, even though the aircraft complied with federal design standards.
+The federal act in that case contained an express pre-emption clause, but the district court had found implied pre-emption.
+In reversing, this Court cited Cipollone for the proposition that "where Congress has with words pre-empted some kinds of state lawmaking, courts are cautious about relying on implied pre-emption theories to limit state authority further."
+Id. at 294 .
+Finding that the pre-emption clause in the act was a reliable indicium of Congress' intent on state authority to regulate civil aviation, and that that pre-emption clause did not bar such lawsuits, this Court concluded that they were not pre-empted.
+Id. at 295 .
+Consistently with the Cipollone rule, no implied pre-emption analysis was conducted.
+The actions of the Lake Aircraft and the Papas II panels constitute acknowledgment of that which we hold today: where, as here, there is an express pre-emption provision, which constitutes a reliable indicium of congressional intent, implied pre-emption analysis has no place.
+This cannot be so, the Manufacturers argue, because a decision the Supreme Court issued just six days before Cipollone is inconsistent with the interpretation of Cipollone that we and eight other circuits have reached.
+In Gade v. National Solid Wastes Management Assoc. , U.S. , 112 S.Ct. 2374 , 120 L.Ed.2d 73 (1992), the Court held that state laws that address public safety as well as occupational safety were pre-empted by the Occupational Safety and Health Act ("OSHA"), which has the single purpose of furthering occupational safety.
+While the main thrust of the Gade decision was that state laws with purposes different from a federal law may still be pre-empted, a plurality of the Court reached this decision under an implied pre-emption theory despite OSHA's express pre-emption clause.
+Id. at , 112 S.Ct. at 2383 .
+A fifth member of the Court, Justice Kennedy, joined in the result, but would have found the state laws expressly pre-empted by OSHA.
+Id. at , 112 S.Ct. at 2388-89 .
+The Manufacturers argue that the Supreme Court could not have intended the rule announced in Cipollone because the analysis in Gade is inconsistent.
+We are bound to follow an applicable holding of a majority of the Supreme Court, and the rule in Cipollone was announced by a majority of the Supreme Court.
+The inconsistency the Manufacturers would ascribe to Gade , by contrast, can be drawn only from a plurality opinion.
+As we have held before, "[a] plurality opinion is not binding on this Court and we are compelled to follow both our precedent as well as prior Supreme Court precedent " Foster v. Board of School Comm'rs , 872 F.2d 1563, 1569-70 (11th Cir.1989) (citations omitted); accord , Johnson v. Dugger , 911 F.2d 440, 471 n.76 (11th Cir.1990), cert. denied , U.S. , 113 S.Ct. 361 , 121 L.Ed.2d 274 (1992).
+Because the rationales adopted by the plurality and Justice Kennedy are at odds with each other, the only holding in Gade is the result that OSHA pre-empts state laws which regulate in an area regulated by OSHA, regardless of whether the state law has an ancillary purpose.
+This narrow holding does not compel us to conclude that the Court did not mean what it said six days later in Cipollone .
+Moreover, Cipollone came after Gade , not the converse.
+If there is any conflict or inconsistency of holdings we would be bound to follow the more recent of the two decisions.
+The pronouncement in Cipollone was from a majority of the Court, not a mere plurality; it is the more recent exposition; and it is binding on this Court, notwithstanding the implications that the Manufacturers would have us draw from other cases.
+The Manufacturers further contend that the Supreme Court could not have intended to exclude forays into implied pre-emption analysis based upon the existence of an express pre-emption provision because in earlier cases a majority of the Court did consider implied pre-emption in the face of an express pre-emption clause.
+To support their proposition they cite Ingersoll-Rand Co. v. McClendon , 498 U.S. 133 , 111 S.Ct. 478 , 112 L.Ed.2d 474 (1990), where the Court held that ERISA expressly and impliedly pre-empted a state common law claim that an employee was discharged to prevent him from obtaining benefits under an ERISA-covered plan.
+In reaching its holding, the Court construed ERISA's express pre-emption provision to bar the common law action.
+Id. at 140 , 111 S.Ct. at 484 .
+As an alternative holding, the Court decided that "[e]ven if there were no express pre-emption," the state cause of action would be impliedly pre-empted because it directly conflicted with a cause of action under ERISA.
+Id. at 142 , 111 S.Ct. at 484-85 .
+The McClendon decision did not hold, as the Manufacturers would have us conclude, that where an express pre-emption clause does not pre-empt claims, those claims can nonetheless be barred under implied pre-emption doctrine.
+Therefore, McClendon does not squarely conflict with the rule of Cipollone .
+Even if it did, we would follow the more recent Cipollone decision.
+We decline to allow a contrary inference drawn from an earlier case to overcome the direct teaching of a more recent Supreme Court instruction on how we are to consider claims of pre-emption.
+Therefore, the rule announced and applied in Cipollone , that implied pre-emption should not be used to foreclose a claim where a statute contains an express pre-emption provision which is a "reliable indicium of congressional intent," will be followed by this Court.
+A recent, post Cipollone pre-emption decision of the Supreme Court buttresses our conclusion.
+CSX Transp., Inc. v. Easterwood , U.S. , 113 S.Ct. 1732 , 123 L.Ed.2d 387 (1993), involved the issue of whether state court negligence claims of excessive speed and absence of warning devices were pre-empted by the Federal Railroad Safety Act ("FRSA") and regulations promulgated under it.
+Id. at , 113 S.Ct. at 1736 .
+The Supreme Court laid down these rules of decision: U.S.
+Const., Art.
+VI, cl.
+2 Maryland v. Louisiana 451 U.S. 725, 746 101 S.Ct. 2114, 2128 68 L.Ed.2d 576 Rice v. Santa Fe Elevator Corp. 331 U.S. 218, 230 67 S.Ct. 1146, 1152 91 L.Ed. 1447 Shaw v. Delta Air Lines, Inc. 463 U.S. 85, 95 103 S.Ct. 2890, 2899 77 L.Ed.2d 490 Id. at , 113 S.Ct. at 1737 .
+The FRSA, like the Safety Act in this case, has both a pre-emption clause and a savings clause.
+Id. at , 113 S.Ct. at 1736 .
+Together, those FRSA provisions expressly pre-empted any state requirement, including one imposed by common law negligence actions, where there was any federal "rule, regulation, order, or standard covering the subject matter of such State requirement."
+Id. at , 113 S.Ct. at 1736-37 (quoting 45 U.S.C. 434 ).
+The Easterwood Court applied the pre-emption measure expressly stated in the statute to conclude that a common law claim for the absence of warning devices at grade crossings was not pre-empted.
+Id. at , 113 S.Ct. at 1738-42 .
+After a lengthy discussion applying only the measure of pre-emption expressly set out in the FRSA, the Court relegated to one sentence of a footnote its response to an implied pre-emption argument: "We reject petitioner's claim of implied 'conflict' pre-emption on the basis of the preceding analysis."
+Id. at , 113 S.Ct. at 1742 n.12.
+The "preceding analysis" was the express pre-emption discussion, so, the Supreme Court in that post Cipollone decision did not conduct a separate implied pre-emption analysis where the negligence claim was not barred under the explicit pre-emption provision of the statute.
+4 Seven members of the Court joined that part of the opinion and the two others concurred in it.
+Easterwood , therefore, appears to reinforce the commands of Cipollone that where there is an express pre-emption provision, it is to be the alpha and omega of pre-emption analysis.
+The Manufacturers also argue that the pre-emption clause in the Safety Act is not a "reliable indicium of congressional intent," and that the Cipollone rule is therefore inapplicable.
+The Supreme Court did condition its Cipollone rule on the pre-emption clause being a "reliable indicium of congressional intent," but the Court provided no explanation of that term.
+We can only infer from the way in which the Supreme Court failed to pause for long over the matter that the reliable indicium requirement is not much of a hurdle.
+That inference is reinforced by the Easterwood decision in which the Court said the task of statutory construction must begin with the plain wording of an express pre-emption clause, and then ended it there as well.
+There was no mention in Easterwood of the "reliable indicium" requirement.
+None of our sister circuits that has considered application of the Cipollone rule to various statutes has yet found a pre-emption clause that was not a reliable indicium of congressional intent.
+See, e.g. , Greenwood Trust Co. v. Massachusetts , 971 F.2d 818, 823 (1st Cir.1992), cert. denied , U.S. , 113 S.Ct. 974 , 122 L.Ed.2d 129 (1993); Toy Mfrs.
+of America, Inc. v. Blumenthal , 986 F.2d 615 (2d Cir.1992); Stamps v. Collagen Corp. , 984 F.2d 1416, 1420 (5th Cir.), cert. denied , U.S. , 114 S.Ct. 86 , 126 L.Ed.2d 54 (1993); American Agric.
+Movement v. Board of Trade , 977 F.2d 1147, 1154 (7th Cir.1992); Weber v. Heaney , 995 F.2d 872, 875 (8th Cir.1993); Draper v. Chiapuzio , 9 F.3d 1391 (9th Cir.1993); Cleveland v. Piper Aircraft Corp. , 985 F.2d 1438, 1444 n.17, 1447 (10th Cir.), cert. denied , U.S. , 114 S.Ct. 291 , 126 L.Ed.2d 240 (1993).
+In our own Papas II decision, another panel of this Court acknowledged the reliable indicium requirement, but concluded, without much explanation, that that requirement was met.
+Papas II , 985 F.2d at 517 .
+At the very least, the treatment of the requirement in Cipollone , and in decisions that have applied the rule of Cipollone , establishes that there is a presumption that a pre-emption clause is a reliable indicium of congressional intent.
+Such a presumption is in keeping with the general rule of assuming that Congress intended what it said.
+See Mills Music, Inc. v. Snyder , 469 U.S. 153, 164 , 105 S.Ct. 638, 645 , 83 L.Ed.2d 556 (1985) ("In construing a federal statute it is appropriate to assume that the ordinary meaning of the language that Congress employed 'accurately expresses the legislative purpose.
+'"); United States v. Stokley , 881 F.2d 114, 116 (4th Cir.1989) ("[T]he court must assume the drafters of a statute intended to convey the ordinary meaning attached to the language.
+"); United States v. Jones , 811 F.2d 444, 447 (8th Cir.1987) ("[I]t is appropriate to assume that the ordinary meaning of those words [of the statute] accurately expresses the legislative purpose ").
+Even without such a presumption, we would be convinced that the express pre-emption provisions of the Safety Act are a reliable indicia of congressional intent.
+The legislative history so indicates.
+The House Committee Report describes the congressional intent about pre-emption and the purpose of the savings clause which was written into the Act: H.R.Rep.
+No. 1776, 89th Cong., 2d Sess.
+24 (1966).
+The legislative history demonstrates that the pre-emption provisions of the Safety Act, which include the savings clause, are a reliable indicium of congressional intent.
+See Public Health Trust v. Lake Aircraft, Inc. , 992 F.2d 291, 295 (11th Cir.1993), in which we held a pre-emption clause to be a reliable indicium of congressional intent based upon a Tenth Circuit analysis which relied heavily upon a legislative committee report.
+Moreover, we are unable to perceive any material difference, as to the reliable indicium issue, between the pre-emption provisions in this case and the pre-emption provisions that the Cipollone Court had no difficulty finding to be reliable indicia in that case. See Arkansas-Platte & Gulf Partnership v. Van Waters & Rogers, Inc. , 981 F.2d 1177, 1179 (10th Cir.1993) (holding that where a pre-emption provision in another statute is similar to the one in Cipollone , it, too, provides a reliable indicium of congressional intent).
+The Manufacturers argue that the Safety Act delegates rule-making power to a federal agency, and that this difference from the statute in Cipollone suggests that Congress' inclusion of the pre-emption clause in the Safety Act could not have been intended as a sole expression of pre-emption.
+They argue that it is unreasonable for a pre-emption clause to provide the full extent of pre-emption when agency rule-making is expected to occur; therefore, the pre-emption clause cannot be considered a reliable indicium of what Congress intended to pre-empt.
+This argument fails, however, because it is Congress which has the authority and responsibility for determining the scope of preemption.
+Congress defined the pre-emptive scope of the Act to include safety standards promulgated by an administrative agency, but there is no indication that Congress intended to let the administrative agency decide whether such safety standards would pre-empt state law.
+That is a decision which Congress itself made in the Safety Act's preemption provisions just as it made that decision in the pre-emption provisions involved in Cipollone .
+This argument of the Manufacturers is also rebutted by the Easterwood decision, which relied solely upon the pre-emption clause in a statute that delegated rule-making authority to an executive agency.
+Amici for the Manufacturers argue that the pre-emption clause cannot be the sole expression of the Safety Act's pre-emptive scope, because the savings clause also addresses the Act's pre-emption.
+Since it alone does not cover the field of pre-emption, amici argue, the pre-emption clause cannot be a reliable indicium of congressional intent.
+This contention echoes the Manufacturers' argument that a conflict between the savings clause and the pre-emption clause renders the pre-emption clause unreliable as an indicator of intended pre-emption.
+These arguments rest on a reading of pre-emption "provisions" that is far too narrow.
+We are concerned with what Congress expressly stated about pre-emption, and in the Safety Act, Congress put its statements about pre-emption in two statutory provisions, one of which we refer to as a pre-emption clause and the other one of which we call a savings clause.
+Our terminology notwithstanding, both of the clauses are pre-emption provisions in the material sense of the word, because both clauses explicitly deal with the subject of what is and is not pre-empted.
+Our rejection of this argument finds support in the Easterwood decision, because that case also involved not only a pre-emption clause but also a savings clause.
+We did say in a footnote in Taylor that "the language of the Safety Act is too ambiguous to manifest a congressional intent to pre-empt appellants' common law claims under an express pre-emption analysis."
+875 F.2d at 825 n.18.
+That statement does not indicate that the pre-emption provisions of the Safety Act, which are the pre-emption clause and savings clause considered together, are not reliable indicia of congressional intent.
+Those provisions clearly pre-empt certain state action.
+For example, a state legislative enactment requiring action forbidden by a safety standard clearly would be pre-empted.
+That the provisions are not sufficiently clear to pre-empt other state action does not mean that those provisions do not reliably indicate Congress' intent.
+A recent district court decision takes a contrary approach.
+In Gills v. Ford Motor Co. , 829 F.Supp.
+894 (W.D.Ky.1993), the district court concluded that the Safety Act, by virtue of the ambiguity inherent in its pre-emption clause, lacks the "reliable indicium" of congressional intent required by Cipollone .
+Id. at 898 .
+The Gills decision, like the Manufacturers and their amici in this case, fails to give due consideration to the long-standing rule, in the nature of a presumption, that the only state action that is pre-empted is that which Congress has clearly indicated is to be pre-empted.
+CSX Transp., Inc. v. Easterwood , U.S. , 113 S.Ct. 1732 , 123 L.Ed.2d 387 (1993); Cipollone , U.S. at , 112 S.Ct. at 2617 ; Jones v. Rath Packing Co. , 430 U.S. 519, 525 , 97 S.Ct. 1305, 1309 , 51 L.Ed.2d 604 (1977); Rice v. Santa Fe Elevator Corp. , 331 U.S. 218, 230 , 67 S.Ct. 1146, 1152 , 91 L.Ed. 1447 (1947).
+Moreover, in Cipollone , seven justices agreed that an express pre-emption provision that provides a reliable indicium of congressional intent moots any implied pre-emption analysis.
+The same seven justices also agreed that the Public Health Cigarette Smoking Act of 1969 ("PHCSA"), 15 U.S.C. 1331 1340 , contains such a provision.
+However, the justices split four to three on the scope of that express pre-emption clause, which was debatable among jurists of reason.
+In other words, the statutory language was ambiguous.
+Nonetheless, a majority of the Supreme Court treated the PHCSA as providing a reliable indicium of congressional intent.
+Thus, Cipollone itself is inconsistent with the notion that ambiguous statutory language cannot provide a reliable indicium of congressional intent.
+If all that were required to defeat the Cipollone rule is for some ambiguity or uncertainty to exist, then few, if any, pre-emption provisions would ever be held to be reliable indicia of congressional intent.
+5 The argument that ambiguity equates with unreliability is also foreclosed by this Court's Papas decisions and by Cipollone itself.
+The reason that this Court did not address express pre-emption in Papas I opinion is that the pre-emption provision in that case left us with uncertainty about whether the claim was pre-empted.
+926 F.2d at 1023-24 .
+Notwithstanding the ambiguity of that pre-emption provision and our admitted uncertainty about its application, after remand from the Supreme Court for further consideration in light of Cipollone , we held that same ambiguous pre-emption provision to be a reliable indicium of congressional intent.
+985 F.2d at 517 .
+Moreover, the pre-emption provision involved in one of the statutes in Cipollone itself was ambiguous, as is evidenced by the fact that the Justices were divided over whether various claims were expressly pre-empted under it.
+Notwithstanding the ambiguity of that pre-emption provision in Cipollone , and the dispute over which claims it covered, a majority of the Supreme Court still held that the provision provided a reliable indicium of congressional intent.
+Finally, the Manufacturers and their amici shift the focus of their attack and target Taylor 's holding that common law tort claims are not expressly pre-empted by the Safety Act.
+They argue that that holding was vitiated by Cipollone even though different statutes were involved and there was no savings clause in the Cipollone statutes.
+It is true that one of the factors this Court considered in Taylor was that the pre-emption clause did not expressly mention state common law. 875 F.2d at 824-25 .
+It is also true that Cipollone found express pre-emption of some claims even though the pre-emption clauses in that case also did not mention state common law.
+Those facts do not mean that Cipollone overruled Taylor 's conclusion, which is equally applicable to these cases, that the claims were not expressly pre-empted.
+Cipollone does not say that whether a preemption clause mentions state common law is a question that is irrelevant or of little importance.
+Cipollone , unlike Taylor , did not involve a situation where Congress' failure to mention common law actions in a pre-emption clause was made doubly conspicuous by its explicit reference to common law liability in a savings clause.
+In the Safety Act involved in Taylor , Congress did not explicitly say that common law liability was pre-empted, but it did explicitly say that common law liability was saved.
+That was not the situation in Cipollone .
+Even without considering the failure of the pre-emption clause to mention state common law, because of the savings clause we still "conclude that the Safety Act cannot be construed as unambiguously manifesting an intention to pre-empt appellants' common law claims."
+Taylor , 875 F.2d at 825 .
+CONCLUSION The task of deciding this appeal primarily involves laying the Cipollone decision over the Taylor decision.
+Having done that, we see that those two decisions mandate a holding that the Plaintiffs' common law claims are not pre-empted by the Safety Act.
+We are required to reverse the decisions of the district courts, which did not have the benefit of Cipollone when they ruled.
+The district courts' orders granting summary judgment on behalf of the Manufacturers are REVERSED.
+6

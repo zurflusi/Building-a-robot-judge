@@ -1,0 +1,78 @@
+ BROWNING , Chief Judge: The issue raised in this appeal is whether sale of 100 percent of the stock of a closely-held corporation is a transaction involving a "security" within the meaning of the Securities Act of 1933, 15 U.S.C. 77a-77aa , and the Securities and Exchange Act of 1934, 15 U.S.C. 78a-78kk .
+The district court held that it was not, relying upon the "sale-of-business" exemption from the Security Acts.
+We affirm.
+I. Defendant Ivan Landreth and his two sons were the sole shareholders of Landreth Timber Co. (Landreth I) which owned a sawmill in Tonasket, Washington.
+Landreth decided to sell the mill.
+Before a buyer could be found, a portion of the mill was destroyed by fire.
+Landreth began to rebuild, adding modern equipment and design innovations to increase production.
+Before construction was completed, Samuel Dennis, a Boston attorney representing a small group of investors, expressed an interest in purchasing the mill.
+Landreth insisted on a sale of the stock of Landreth I rather than a sale of its assets.
+Negotiations culminated in a detailed stock purchase agreement.
+The purchasers formed a Delaware corporation, the B & D Company, to make the purchase.
+B & D completed the purchase according to the terms of the agreement.
+B & D then merged with Landreth I to form Landreth Timber Co. II.
+Landreth declined the purchaser's offer to manage the mill but signed a one-year consulting agreement with Landreth II, terminable at will on 30-days notice.
+The purchasers hired a full-time manager; Landreth's post-closing role was purely advisory.
+Neither Dennis nor Bolten (Dennis's principal partner) or the other investors in the group had any knowledge of the lumber industry.
+Their decision to purchase the mill was allegedly based on representations by Landreth as to the cost of rebuilding the mill, and its productive capacity when rebuilt.
+Landreth II was unprofitable.
+It sold the mill, and went into receivership.
+Landreth II brought suit in the Western District of Washington, claiming damages of $2,500,000 for violations of the federal securities laws.
+The district court granted summary judgment for the Landreths on the ground that the Landreth stock was not a "security" within the meaning of the Acts.
+"Stock" is among the instruments listed in the definition of "security" under the Acts, 1 and the district court acknowledged the Landreth stock had all the usual characteristics of stock.
+Nonetheless, the court held that under the test announced in SEC v. W.J.
+Howey Co. , 328 U.S. 293 , 66 S.Ct. 1100 , 90 L.Ed. 1244 (1946), Landreth stock was not a "security."
+Howey held an instrument to be an "investment contract," and thus a "security," if "the scheme involves an investment of money in a common enterprise with profits to come solely from the efforts of others."
+Howey , 328 U.S. at 301 , 66 S.Ct. at 1104 .
+Although Howey did not address a transaction involving stock, the district court held it was required by United Housing Foundation, Inc. v. Forman , 421 U.S. 837 , 95 S.Ct. 2051 , 44 L.Ed.2d 621 (1975), to apply the Howey test "to all cases where the meaning of a 'security' is at issue."
+The district court held the Landreth stock was not a "security" under Howey because by buying 100 per cent of the stock of Landreth I, B & D Company necessarily expected to operate the business and did not expect to obtain "profits from the managerial or entrepreneurial efforts of others."
+II.
+Whether sale of 100 percent of the stock of a closely-held corporation is a transaction involving a "security" has divided the circuits and commentators.
+2 The Seventh, 3 Tenth, 4 and Eleventh 5 circuits recognize the sale-of-business doctrine, under which a purchaser of stock who assumes control of a company is not an "investor" expecting profits from the efforts of others under the Howey test, and the stock purchased therefore is not a "security" within the meaning of the Acts.
+The Second, 6 Third, 7 Fourth, 8 Fifth, 9 and Eighth 10 Circuits reject the doctrine, and hold that the federal securities laws apply if the transferred instruments possess the characteristics commonly associated with stock.
+A. Although the precise question is one of first impression in this circuit, appellees argue that we have decided it in substance in cases dealing with "notes," which, like stock, are instruments well-known in commerce and specifically listed in the statutory definition of a "security."
+We have applied a "risk capital" test to determine whether in a particular transaction a note is a "security" under the Acts 11 .
+Under this test, a note is a "security" if it reflects "a contribution of risk capital subject to the entrepreneurial or managerial efforts of others."
+Great Western Bank & Trust v. Kotz , 532 F.2d 1252, 1257 (9th Cir.1976), quoting El Khadem v. Equity Securities Corp. , 494 F.2d 1224, 1229 (9th Cir.1974).
+The test distinguishes investment transactions, which are covered by the Act, see United States v. Carman , 577 F.2d 556, 563 n. 9 (9th Cir.1978), from routine commercial transactions, which are not, see e.g. , Great Western Bank , 532 F.2d at 1257 .
+The sale-of-business doctrine rests upon the premise that the Acts apply only to investment transactions, and not to commercial or entrepreneurial transactions.
+See e.g. , Sutter v. Groen , 687 F.2d at 201 .
+The doctrine derives from Forman , in which the Court stated: 421 U.S. at 849 , 95 S.Ct. 2059 .
+The court added "Congress intended the application of these statutes to turn on the economic realities underlying a transaction, and not on the name appended thereto."
+Id. The doctrine looks to the Howey test to determine whether in "economic reality" the transaction involves an investment.
+Under Howey , as the district court noted, the test is whether "the scheme involves an investment of money in a common enterprise with profits to come solely from the efforts of others."
+Howey , 328 U.S. at 301 , 66 S.Ct. at 1104 .
+The application of the Howey test to the acquisition of a business through purchase of stock is straightforward: when a person purchases control of a business, he does not make an investment from which he expects profits solely from the efforts of others.
+Although the transaction involves stock, the economic realities reflect acquisition of a business, not passive investment, and the Acts therefore do not apply.
+Cases that reject the sale-of-business doctrine look only to the nature of the instruments involved: if they possess the ordinary characteristics of stock, they are "securities" and within the coverage of the Acts without regard to the nature of the underlying transaction.
+In contrast, both the sale-of-business doctrine and the risk capital test follow Forman and reject a literal reading of the statute in favor of an inquiry into the economic realities of the underlying transaction.
+Both include a transaction only if it involves "an investment of money in a common enterprise with profits to come solely from the efforts of others."
+Howey , 328 U.S. at 301 , 66 S.Ct. at 1104 .
+Both exclude essentially "commercial" transactions in which there is no "investment."
+Thus, risk capital cases and cases endorsing the sale-of-business doctrine interpret the Acts in precisely the same way.
+We see no principled way to justify an analysis in which we determine whether a note is a "security" within the meaning of the Acts by examining the transaction in light of the statutory purpose, but determine whether stock is a "security" by examining only the instrument and not the transaction in light of the statutory purpose.
+We therefore conclude that adherence to the principle of construction adopted in our "note" cases requires adherence to the "sale-of-business" exclusion from the Securities Acts of the purchase of 100 per cent of the stock of a closely-held corporation.
+B. The sale-of-business doctrine is still evolving, and its contours remain in some respects uncertain.
+However, under any formulation of the doctrine, the economic realities of this transaction leave no doubt that the district court reached the correct result, at least with respect to the sole appellant in this case, Landreth II.
+As to Landreth II, the underlying transaction involved the sale of an entire business, effected through a sale of 100 per cent of the corporation's stock.
+Following the transaction, Landreth II had full control of the corporation, including the day-to-day operations of the mill and its employees.
+In "economic reality," the underlying transaction was a sale of a lumber business and, under the sale-of-business doctrine, was not an investment in a "security."
+Appellant suggests summary judgment was inappropriate because there were disputed issues of fact with regard to Landreth's post-closing managerial role.
+Appellant asserts it purchased the Landreth stock only because it believed Landreth would supervise the enterprise without participation by members of the purchasing group until the mill was completed and profitable operations were underway.
+The uncontested facts belie this assertion.
+Purchasers attempted to convince Landreth to continue as manager of the mill, but he refused.
+Appellant employed its own manager who assumed effective control of the business.
+Landreth agreed to serve only as a consultant, and for no more than one year; even these services were terminable at the will of appellant.
+Neither Landreth nor appellant's manager can be regarded as a third-party upon whose efforts the purchaser relied for its profit within the meaning of Howey .
+Bitter v. Hoby's International, Inc. , 498 F.2d 183, 186 (9th Cir.1974).
+III.
+While this appeal was pending Landreth II moved to add as plaintiffs Dennis, and Bolten individually and as the administrator of the estate of his wife, Katharine S.A. Bolten.
+Although appellant brought this motion under Fed.R.Civ.P. 19 to add parties plaintiff, in substance it is a motion to intervene under Fed.R.Civ.P. 24 since the parties to be added are appellant's controlling stockholders.
+A court of appeals may permit intervention where none was sought in the district court "only in an exceptional case for imperative reasons," McKenna v. Pan American Petroleum Corp. , 303 F.2d 778, 779 (5th Cir.1962).
+Intervention is sought without stating any reason for failure to intervene in the district court beyond the fact that intervention would permit the additional parties to avail themselves of the doctrine recognized in Sutter v. Groen , 687 F.2d 197 (7th Cir.1982), decided after this appeal was filed.
+Bolten and Dennis were obviously aware of defendants' reliance on the sale-of-business doctrine in the district court.
+No "imperative reason" has been advanced to allow intervention at this late date.
+As appellees point out, intervention would raise new issues of fact and law not before the district court.
+See Spangler v. Pasadena City Board of Education , 552 F.2d 1326, 1328 (9th Cir.1977).
+The motion is denied.
+The judgment is affirmed.

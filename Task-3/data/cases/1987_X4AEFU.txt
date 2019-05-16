@@ -1,0 +1,324 @@
+ TACHA , Circuit Judge.
+This appeal presents challenges by natural gas producers to the Federal Energy Regulatory Commission (FERC) orders interpreting the statutory mandate in 121 of the Natural Gas Policy Act of 1978 (NGPA), 15 U.S.C. 3331 , to deregulate certain natural gas prices.
+For the reasons set forth in this opinion, we affirm the FERC orders in part and reverse in part.
+I. The NGPA "comprehensively and dramatically changed the method of pricing natural gas produced in the United States."
+Public Serv.
+Comm'n., New York v. Mid-Louisiana Gas Co. , 463 U.S. 319, 320 , 103 S.Ct. 3024, 3026 , 77 L.Ed.2d 668 (1983).
+The purposes of these changes "are rooted in the history of federal natural gas regulation before 1978."
+Id. at 327 , 103 S.Ct. at 3029 .
+We therefore begin by examining the history of federal regulation of natural gas prices and the context in which the Ninety-Fifth Congress adopted the NGPA in 1978.
+The first federal regulation of interstate sales of natural gas occurred with the passage of the Natural Gas Act of 1938 (NGA), Pub.L.
+No. 75-688, 52 Stat. 821 (codified as amended at 15 U.S.C. 717-717w (1976)).
+"The NGA was enacted in response to reports suggesting that the monopoly power of interstate pipelines was harming consumer welfare."
+Mid-Louisiana Gas Co. , 463 U.S. at 327 , 103 S.Ct. at 3029 (footnote omitted).
+State efforts to combat this problem had failed because they were found to be unconstitutional restrictions on interstate commerce.
+E.g. , Missouri v. Kansas Natural Gas Co. , 265 U.S. 298 , 44 S.Ct. 544 , 68 L.Ed. 1027 (1924).
+The NGA authorized the Federal Power Commission (FPC) 1 to establish such price ceilings for the sale of interstate gas for resale as were "just and reasonable."
+15 U.S.C. 717c(a) .
+The NGA did not regulate the price of gas sold in intrastate markets.
+The FPC struggled to apply this scheme during the next several decades.
+By the 1970's, however, it became clear that the existing regulatory structure was inadequate.
+The federally regulated prices for interstate gas sales remained consistently below the unregulated prices for intrastate gas sales.
+Natural gas producers found it more profitable to commit most of their supplies to the intrastate market.
+At the same time, consumer demand for gas in the interstate market was artificially high because of the federally imposed ceiling prices.
+The result was a serious natural gas shortage in the interstate market.
+See generally Breyer and MacAvoy, The Natural Gas Shortage and the Regulation of Natural Gas Producers , 86 Harv.L.Rev.
+941 (1973).
+"The NGA and its regulatory history led to a single, overwhelming conclusion: under NGA regulations the domestic supply of natural gas could no longer meet consumer demands in the interstate market."
+Note, Legislative History of the Natural Gas Policy Act: Title I , 59 Tex.L.Rev.
+101, 112 (1980) [hereinafter Note].
+Congress repeatedly attempted to remedy this situation during the energy crisis of the 1970's.
+After several efforts to restructure the federal regulation of natural gas prices had failed, President Carter addressed the problem in his proposed Natural Energy Act in 1977.
+The President proposed an extension of price controls to the intrastate sale of natural gas and the establishment of a uniform and incentive-based pricing system for new natural gas.
+The House passed this proposal substantially unaltered.
+The Senate, however, was badly divided on the issue.
+Supporters of the House bill were opposed by supporters of the complete deregulation of natural gas prices.
+Proponents of deregulation believed that market forces would produce an equilibrium between supply and demand if the price of natural gas was not restricted.
+After a "pitched legislative battle," Note at 114, that included several filibusters, the Senate passed a bill that "would have maintained Natural Gas Act regulation for all gas sold or delivered in interstate commerce before January 1, 1977, and steadily cut back on Commission jurisdiction so that all natural gas sold after January 1, 1982, would have been completely deregulated."
+Mid-Louisiana Gas Co. , 463 U.S. at 331-32 , 103 S.Ct. at 3031-32 .
+The conference committee approved a compromise measure after months of deliberation.
+See H.R.Conf.Rep.
+No. 95-1752, 95th Cong., 2d Sess.
+[hereinafter Conf.Rep.
+], reprinted in 1978 U.S.Code Cong. & Admin.News 8983-9041.
+The committee bill did not adopt either the uniform regulation or the complete deregulation approach in their entirety; rather, the bill was the "careful reconciliation of two strong, but divergent, responses to the natural gas shortage."
+Mid-Louisiana Gas.
+Co. , 463 U.S. at 331 , 103 S.Ct. at 3031 .
+The conference bill was approved by both houses of Congress and signed into law by President Carter on November 9, 1978.
+II.
+The NGPA adopted new means to achieve the traditional purposes of the federal regulation of natural gas prices.
+"The aim of federal regulation remains to assure adequate supplies of natural gas at fair prices, but the NGPA reflects a congressional belief that a new system of natural gas pricing was needed to balance supply and demand."
+Transcontinental Gas Pipe Line Corp. v. State Oil and Gas Board of Mississippi , 474 U.S. 409 , 106 S.Ct. 709, 716 , 88 L.Ed.2d 732 (1986).
+The resulting pricing system is an intricate balance of uniform price ceilings, incentive prices, and partial phased deregulation.
+The statutory scheme established by the NGPA divides natural gas production into numerous categories that are distinguished by the date that production began from a well or the particular type of drilling involved.
+Gas in these categories can be broadly classified as "old" gas, "new" gas, or difficult to produce gas.
+"Old" gas is generally that produced from wells that had been operating before the passage of the NGPA.
+See NGPA 104 , 15 U.S.C. 3314 (sales of natural gas dedicated to interstate commerce at the time of the passage of the NGPA); NGPA 105 , 15 U.S.C. 3315 (sales of gas under intrastate contracts existing at the time of the passage of the NGPA); NGPA 106 , 15 U.S.C. 3316 (sale of gas under rollover contracts).
+"New" gas is generally that produced from wells that began production after the passage of the NGPA.
+See NGPA 102 , 15 U.S.C. 3312 (sale of gas from new Outer Continental Shelf leases, new onshore wells, or new onshore reservoirs); NGPA 103 , 15 U.S.C. 3313 (sale of gas from new onshore production wells).
+Several methods of production are specifically described in the statute as difficult to produce gas.
+See NGPA 107 , 15 U.S.C. 3317 (sale of gas produced through particular high-cost methods); 2 NGPA 108 , 15 U.S.C. 3318 (sale of stripper well natural gas).
+3 The categories are not mutually exclusive: a particular sale may be "dually qualified" within a "new" or "old" gas category and also a difficult to produce category.
+The NGPA established ceiling prices for each of these categories of natural gas production.
+In general, the lowest ceiling prices were for old gas, higher ceiling prices were established for new gas, and the highest ceiling prices were for difficult to produce gas.
+The purpose of creating different ceilings was to create an incentive to drill for new gas, particularly gas that is costly to produce.
+Conf.Rep.
+at 87.
+Such an incentive was unnecessary for gas that was already being produced at the time the NGPA was enacted.
+The ceiling prices were set by the statute and designed to increase periodically pursuant to statutory formulas.
+See, e.g. , 15 U.S.C. 3312(b) (the ceiling price for new gas was $1.75 per million Btu's in April 1977 and was to increase at a set rate above the annual inflation factor).
+The price that a producer can receive for the sale of natural gas is limited by these ceiling prices.
+The relevant category for a particular sale of natural gas is determined by a procedure set out in the statute.
+NGPA 503 , 15 U.S.C. 3413 .
+In essence, a producer must apply for a determination that gas comes within a particular category or categories.
+This determination is usually to be made by an authorized state agency subject to FERC and judicial review.
+Id .
+The ceiling price can then be determined once the producer has selected and received approval for the applicable category or categories.
+The ceiling price, however, is not necessarily the price that is charged.
+The NGPA explicitly provides that the contract price agreed to by the parties is binding as long as it is below the ceiling price.
+NGPA 101(b)(9) , 15 U.S.C. 3311(b)(9) .
+The ceiling prices established by the NGPA represent the result of the congressional compromise favorable to the advocates of uniform pricing.
+The deregulation proponents achieved a phased elimination of many, but not all, of those price ceilings.
+Section 121 eliminates the price ceilings for many categories of natural gas.
+Certain high-cost natural gas as defined in 107(c)(1) -(4) was deregulated in 1979.
+15 U.S.C. 3331(b) .
+New natural gas as defined in 102 , new onshore production wells as defined in 103(c) , and some intrastate gas were deregulated on January 1, 1985.
+15 U.S.C. 3331(a) .
+Most natural gas produced from 5,000 feet or less is to be deregulated on July 1, 1987.
+15 U.S.C. 3331(c) .
+But see 15 U.S.C. 3331(d) (certain Alaska natural gas is excluded from deregulation).
+The NGPA does not speak of the elimination of the ceiling prices for any other categories of gas.
+In particular, old gas is not deregulated, but it was expected that old gas would account for a decreasing proportion of the sale of natural gas with the passage of time.
+Pierce, Natural Gas Regulation, Deregulation, and Contracts , 68 Va.L.Rev.
+63, 89 (1982).
+And, of particular importance in this case, the NGPA does not include 107(c)(5) tight formation gas or 108 stripper well gas on the face of the deregulation provisions of 121 .
+III.
+FERC announced a Notice of Proposed Rulemaking on September 13, 1984 to implement the deregulation provisions of 121 of the NGPA.
+Deregulation and Other Pricing Changes on January 1, 1985, Under the Natural Gas Policy Act, 49 Fed.Reg.
+36 ,399 (1984).
+Natural gas producers, pipelines, public utility commissions, consumer groups, and other interested parties filed extensive comments on the proposed rules.
+FERC then issued an order promulgating final rules interpreting 121 .
+49 Fed.Reg.
+46 ,874 (1984).
+After several parties sought a rehearing, FERC upheld that part of its earlier order relating to dual qualification gas but reversed that part of its earlier order concerning intrastate gas.
+49 Fed.Reg.
+50 ,637 (1984).
+FERC then declined to review its order on rehearing.
+50 Fed.Reg.
+7 ,333 (1985).
+Natural gas producers appeal from both of FERC's conclusions on rehearing.
+Jurisdiction is established in this court pursuant to the judicial review provisions of the NGPA.
+15 U.S.C. 3416 .
+We first note our standard of review of FERC interpretations of the NGPA.
+Our first inquiry is whether "Congress has directly spoken to the precise question at issue.
+If the intent of Congress is clear, that is the end of the matter; for the court, as well as the agency, must give effect to the unambiguously expressed intent of Congress."
+Chevron U.S.A., Inc. v. Natural Resources Defense Council, Inc. , 467 U.S. 837, 842-43 , 104 S.Ct. 2778, 2781-82 , 81 L.Ed.2d 694 (1984) (footnote omitted).
+Accord Office of Consumers' Counsel, Ohio v. FERC , 783 F.2d 206 (D.C.Cir.1986) (upholding as reasonable one FERC interpretation of the NGPA but reversing a second FERC interpretation because it conflicted with the plain meaning of the statute); Nevada Power Co. v. Watt , 711 F.2d 913, 920 (10th Cir.1983).
+We will defer when an agency has chosen between alternative possible constructions of an ambiguous statute: Chevron U.S.A.
+, 467 U.S. at 843 , 104 S.Ct. at 2782 (footnotes omitted).
+Where the plain words of the statute do not answer a particular question, the agency interpretation must be reasonable, but it need not be the only reasonable interpretation or the interpretation that the reviewing court would adopt.
+See, e.g. , Chemical Mfrs.
+Ass'n v. Natural Resources Defense Council, Inc. , 470 U.S. 116, 125 , 105 S.Ct. 1102, 1107 , 84 L.Ed.2d 90 (1985).
+A reviewing court will defer to an agency interpretation of an ambiguous statute unless the agency interpretation is contrary to the policies Congress sought to implement in enacting the statute.
+See, e.g. , Chevron U.S.A.
+, 467 U.S. at 843 n. 9, 104 S.Ct. at 2782 n. 9; Mid-Louisiana Gas Co. , 463 U.S. at 342 , 103 S.Ct. at 3037 (rejecting a FERC interpretation of the NGPA because it was contrary to the history, structure, and basic philosophy of the NGPA and would frustrate the policy Congress sought to implement).
+IV.
+FERC has interpreted the NGPA to provide that if a sale of natural gas has been determined to qualify for both a deregulated category and a regulated category, the deregulated category will always determine the applicable price.
+4 The producers challenge FERC's interpretation in this court.
+We reverse and remand because FERC's interpretation is contrary to the clear intent of Congress as expressed in the unambiguous language of the NGPA.
+A. The first section of the NGPA that we must consider is 121 , which provides that "the provisions of part A of this subchapter respecting the maximum lawful price for the first sale of each of the following categories of natural gas shall cease to apply" on specified dates.
+15 U.S.C. 3331(a) .
+FERC interprets the language "shall cease to apply" to mean that if gas has been determined to be in one of the listed categories, there is no longer a ceiling price for such gas even if the gas has also been determined to be in a category that is not listed.
+5 For example, if a producer has received a determination that gas is both new gas within the meaning of 102 and stripper well gas within the meaning of 108 , once the ceiling price for 102 was abolished in 1985, there is no longer a ceiling price for such gas despite the fact that the ceiling price for 108 was not eliminated by the express language of 121 .
+6 The producers, on the other hand, argue that 121 was not intended to determine whether dual category gas is to receive a regulated price or a deregulated price.
+They interpret 121 to deregulate only those categories of gas that are listed.
+The producers rely on the report of the Conference Committee, which states: "The conference agreement does not provide for deregulation of any natural gas production not specifically enumerated in [ 121 ]."
+Conf.Rep.
+at 92, U.S.Code Cong. & Admin.News 1978, 9009.
+Additionally, the Supreme Court has said that " Sections 121 and 122 of the NGPA provide a mechanism for the ultimate decontrol of a number of categories of natural gas."
+Mid-Louisiana , 463 U.S. at 336 n. 14, 103 S.Ct. at 3034 n. 14 (emphasis added).
+According to the producers, then, the language "shall cease to apply" in 121(a) provides for the elimination of the ceiling price only for those categories that are listed.
+The producers disagree with FERC's conclusion that 121 requires dual category gas to receive a deregulated price.
+We conclude that 121 is ambiguous.
+Therefore, in the absence of another provision in the statute, FERC's determination that dual category gas is to be considered deregulated would be a reasonable interpretation of the ambiguous language of 121 .
+But Congress anticipated precisely this question in 101(b)(5) .
+B. The NGPA established several "Rules of general application" for interpretation of the Act.
+7 15 U.S.C. 3311(b) .
+See also Conf.Rep.
+at 74, U.S.Code Cong. & Admin.News 1978, 8990 ("The conference agreement includes several rules of general application to be used in interpreting this Act.").
+One of these rules concerns "Sales qualifying under more than one provision" of the Act: NGPA 101(b)(5) , 15 U.S.C. 3311(b)(5) .
+The plain language of this section addresses the very question that we are considering now: if gas has been determined to be dually qualified in a regulated category and a deregulated category, the category that could result in the highest price for the gas will apply.
+8 FERC, however, has said that 101(b)(5) is "helpful, but not dispositive" of this question.
+9 49 Fed.Reg.
+at 46 ,879.
+FERC has concluded that 101(b)(5) does not apply to gas that has been determined to be in a deregulated category.
+This conclusion, however, is based on a strained construction of the unambiguous language of 101(b)(5) and a misunderstanding of the purposes Congress sought to achieve in enacting the NGPA.
+1.
+Section 101(b)(5) applies to those categories of gas "providing for any maximum lawful price or for any exemption from such a price."
+Several commenters on the regulation proposed by FERC argued that categories for which no price ceiling now exists- i.e. , deregulated gas--are not categories "providing for any exemption from such a price."
+15 U.S.C. 3311(b)(5) .
+FERC did not explicitly rely on this interpretation of "exemption," but it did recognize that "there may be some merit to these arguments."
+49 Fed.Reg.
+at 50 ,638.
+FERC has suggested that the reference to "any exemption from such a price" refers not to deregulated gas, but rather the authority of FERC to provide for special ceiling prices in particular situations.
+49 Fed.Reg.
+at 36 ,401.
+10 We have no doubt that the reference to "exemption" in 101(b)(5) can refer to those instances in which FERC can exercise its statutory authority to set a different ceiling price when special circumstances are present.
+It does not follow, however, that "exemption" does not refer to deregulated categories of gas as well.
+The plain meaning of "exemption from such a price" includes those categories for which a price ceiling no longer exists.
+This interpretation of "exemption" is also consistent with the meaning of "exemption" in 101(b)(9) of the NGPA.
+Section 101(b)(9) provides: exempted exemption 15 U.S.C. 3311(b)(9) (emphasis added).
+FERC has interpreted this section to set forth "the effect of the contract, regardless of the statutorily imposed maximum lawful ceiling prices or exemptions from ceiling prices, i.e., deregulated prices ."
+49 Fed.Reg.
+at 46 ,879 (emphasis added).
+Similarly, the Fifth Circuit has referred to "exemption" in 101(b)(9) to mean deregulated prices.
+Pennzoil Co. v. FERC , 645 F.2d 360, 374 (5th Cir.1981), cert. denied , 454 U.S. 1142 , 102 S.Ct. 1000 , 71 L.Ed.2d 293 (1982).
+Recognizing that a word found in two sections of a statute is intended to have the same meaning in each section, Sorenson v. Secretary of the Treasury , U.S. , 106 S.Ct. 1600, 1606 , 89 L.Ed.2d 855 (1986) (citations omitted), we hold that the reference to "any exemption from such a price" in 101(b)(5) includes categories of gas for which there is no longer a ceiling price.
+Accordingly, 101(b)(5) anticipates the question of which category shall apply when gas has been determined to qualify both for a regulated category and a deregulated category.
+2.
+FERC construes 101(b)(5) to provide the same answer to this question in every case: the deregulated category will always apply.
+The key to FERC's argument is the meaning of the word "could" in 101(b)(5) .
+Section 101(b)(5) provides that "the provision which could result in the highest price shall be applicable."
+FERC's interpretation of 101(b)(5) relies on the obvious truth that the price of deregulated natural gas in an open market "could" theoretically reach infinity.
+No one contests this observation.
+FERC then argues that because the price of deregulated gas could theoretically rise indefinitely, it therefore "could" always be greater than the price of regulated gas.
+This is also true.
+But FERC has failed to construe "could" as broadly in considering regulated categories of gas as it has in considering deregulated categories of gas.
+FERC has the authority to raise the ceiling price for regulated gas in several categories to a price that is "just and reasonable."
+See 15 U.S.C. 3314(b)(2) ; 15 U.S.C. 3316(c) ; 15 U.S.C. 3319(b)(2) .
+Additionally, the ceiling prices for all categories of gas rise steadily under the statute.
+See, e.g. , 15 U.S.C. 3312(b)(2) (describing the formula for the increase of the ceiling price of new gas).
+The price of regulated gas is therefore certain to rise, and is capable of reaching an indefinite "just and reasonable" rate.
+Thus, the price of deregulated gas in an abstract situation "could" be higher than the price of regulated gas, but the price of regulated gas "could" be higher than the price of deregulated gas.
+Such an understanding of "could"--one that considers only the theoretical possibilities--renders 101(b)(5) meaningless.
+If either price "could" be higher than the other price, the explicit command of 101(b)(5) that "the provision which could result in the highest price shall be applicable" serves no purpose.
+We will not interpret a statute in such a way that a particular provision has no meaning.
+Nevada Power Co. , 711 F.2d at 920 (citations omitted).
+"Could" makes sense in 101(b)(5) only in the context of how gas sales actually occur.
+The NGPA focuses on sales at a particular point in time.
+See, e.g. , 15 U.S.C. 3315(a) (the ceiling price "shall apply to any first sale of natural gas delivered during any month").
+Section 101(b)(5) therefore requires a comparison of the applicable price for each category at a particular moment.
+In most instances the contract between the producer and the pipeline specifies the price which is to apply to categories that have been regulated and categories that have been deregulated.
+11 The contractual provision that "could" result in the highest price at a particular moment will establish the applicable category under 101(b)(5) .
+3.
+Much of the concern voiced by the intervenor pipelines and FERC suggests that 101(b)(5) was not intended to allow producers an ongoing choice as to whether gas sales are to be regulated or deregulated.
+In a sense, this is correct, for 101(b)(5) does not speak in terms of a choice or an election.
+Instead, 101(b)(5) provides that whichever category could produce a higher price shall apply.
+But producers are clearly presented with a choice as to which category or categories for which they seek to qualify particular gas.
+This is the election that the statute allows and which FERC would deny.
+FERC has concluded that "a determination that gas qualifies as new tight-formation gas is implicitly a determination that the gas meets the qualifications for either section 102(c) or 103."
+49 Fed.Reg.
+at 46 ,880; see also 49 Fed.Reg.
+at 50 ,639.
+FERC recognizes that such a dual qualification was unlikely to have been explicit at the time the determination was made.
+Nevertheless, a producer who decided to qualify gas only as tight formation gas under 107(c)(5) , a category that is not listed for deregulation in 121 , would be held by FERC to have also obtained a determination that the gas is new gas under 102 or 103--categories which have now been deregulated.
+There is no support for such automatic determinations in the NGPA.
+Although the showing required for a qualification under 107(c)(5) would usually support a qualification under 102 or 103 , 12 Congress did not provide that one qualification would automatically result in a second qualification.
+Instead, Congress intended that a producer select the category or categories for which he or she desires to qualify particular gas.
+In describing the operation of 101(b)(5) , Representative Dingell stated: 124 Cong.Rec.
+38 ,363-64 (1978).
+Similarly, Senator Jackson said that 101(b)(5) "stands for the proposition that a producer may claim or apply for the highest price to which he is entitled.
+It does not imply an administrative duty to compel a State or Federal agency to search through the various price classifications under the act and find the permissible price."
+124 Cong.Rec.
+29 ,109 (1978).
+FERC's order thus rests on the erroneous assumption that gas can be determined to qualify for a particular category without going through the specific determination procedure set forth in 503 .
+For this reason, FERC's interpretation cannot be upheld.
+13 C. Although we have concluded that the clear language of the NGPA requires us to reject FERC's treatment of dual category gas, we recognize that FERC suggests that the goals of the NGPA support its position.
+FERC has defended its interpretation as "consistent with the overall scheme envisioned by Congress when it enacted the NGPA--to provide incentive prices to encourage exploration and development of new reserves in the short-term, and to gradually substitute market forces for regulated prices by phasing in deregulation in 1985 and 1987."
+49 Fed.Reg.
+at 36 ,401; 49 Fed.Reg.
+at 46 ,878.
+FERC has properly recognized the statutory "goal of increasing energy supplies."
+49 Fed.Reg.
+at 50 ,638.
+But FERC has concluded, "It is our belief that the statutory intent to deregulate takes precedence over the statute's increased supply objective."
+49 Fed.Reg.
+at 46 ,878.
+FERC has confused the ultimate purpose of the statute--"to assure adequate supplies of natural gas at fair prices," Transcontinental Gas Pipe Line Corp. , 106 S.Ct. at 716 --with one of several means chosen to accomplish that purpose--phased deregulation.
+FERC is correct that "phased deregulation was one of the primary methods utilized by Congress to increase energy supplies."
+49 Fed.Reg.
+at 50 ,638 (footnote omitted).
+But the NGPA was the "careful reconciliation of two strong, but divergent, responses to the natural gas shortage."
+Mid-Louisiana , 463 U.S. at 331 , 103 S.Ct. at 3031 .
+14 Incentive prices for difficult to produce gas are another means by which Congress sought to increase energy supplies.
+15 We do not agree with FERC that the incentive prices are necessarily short-term.
+16 These prices are never removed by the express language of 121 , so gas that qualifies only for an incentive price category will unquestionably remain regulated.
+Deregulation is both phased and partial.
+See A. Tussing & C. Barlow, The Natural Gas Industry 116 (1984) (noting that old gas is never deregulated under the NGPA).
+By misinterpreting the NGPA to be exclusively a deregulation statute, FERC has overlooked incentive prices and other provisions that sought to address the natural gas shortage in a different way.
+We will not strain the plain meaning of 101(b)(5) in order to serve a goal of deregulation that is itself only one of several means adopted to achieve the purposes of the NGPA.
+Congress enacted the NGPA expecting that natural gas prices would rise steadily in future years.
+See, e.g. , 124 Cong.Rec.
+38 ,361 (1978) (statement of Rep.
+Dingell); 124 Cong.Rec.
+31 ,819 (statement of Sen.
+Metzenbaum).
+That prices have actually dropped precipitously accounts for the anomalous situation we now see: producers seek the regulated ceiling price rather than the deregulated market price.
+17 Because 101(b)(5) provides that the category which could result in the highest price applies, gas that has been qualified in both a regulated category and a deregulated category will now be sold at the regulated price until the market price rises above the ceiling price.
+Therefore, 101(b)(5) can have the unanticipated effect of operating as a price floor for producers.
+Congress did not expect this result, for Congress did not expect that natural gas prices would fall.
+Changes in economic conditions, however, do not provide the courts with a license to change the express terms of a statute.
+See BankAmerica Corp. v. United States , 462 U.S. 122, 133 , 103 S.Ct. 2266, 2272 , 76 L.Ed.2d 456 (1983).
+We observe that the Supreme Court was confronted with a similar problem last term.
+In Board of Governors of the Fed.
+Reserve Sys. v. Dimension Fin. Corp. , U.S. , 106 S.Ct. 681 , 88 L.Ed.2d 691 (1986), the Court considered a definition of "bank" selected by the Federal Reserve Board because it was thought to be consistent with the broad purposes of the Bank Company Holding Act, 12 U.S.C. 1841-1850 .
+The Court referred to a similar situation that it had considered previously: TVA v. Hill 437 U.S. 153 98 S.Ct. 2279 57 L.Ed.2d 117 Hill ; 5 92 Stat. 3760 Id. 106 S.Ct. at 689 n. 7.
+The Court in Dimension held that the definition proposed by the Federal Reserve Board conflicted with the plain language of the Act, concluding that "[t]he statute may be imperfect, but the Board has no power to correct flaws that it perceives in the statute it is empowered to administer."
+Id. at 689 .
+Congress is capable of modifying the operation of 101(b)(5) if it desires to do so.
+This court, however, will not undertake that task.
+Our role is simply to give effect to the words Congress has chosen.
+We therefore hold that FERC acted contrary to the intent of Congress as evidenced in the unambiguous language of 101(b)(5) .
+We reverse and remand for further proceedings consistent with this opinion.
+V. The second FERC order that we review concerns the deregulation of intrastate gas.
+A trio of statutory provisions- 121(a)(3), 121(e), and 105(b)(3)(A)--determine the status of intrastate gas that is sold pursuant to a contract that existed at the time of the enactment of the NGPA.
+15 U.S.C. 3331(a)(3) ; 15 U.S.C. 3331(e) ; 15 U.S.C. 3315(b)(3)(A) .
+FERC adopted a different construction of these provisions on rehearing than it had in its original order.
+Compare 49 Fed.Reg.
+at 46 ,880 (final rule) with 49 Fed.Reg.
+at 50 ,640-41 (order on reh'g).
+Only Shell appeals from the order on rehearing.
+We affirm.
+Section 121(a)(3) provides for the deregulation of: 15 U.S.C. 3331(a)(3) .
+In essence, 121(a)(3) deregulates intrastate gas that is sold under a contract that set a price in excess of $1.00 on December 31, 1984.
+Once such gas has been deregulated, it can become subject to a "special rule" limiting the price that can be obtained pursuant to an indefinite price escalator clause.
+18 Conf.Rep.
+at 83.
+Congress was concerned that "following deregulation, the operation of indefinite price escalator clauses could operate to increase rapidly intrastate gas prices following deregulation."
+124 Cong.Rec.
+38 ,365 (1978) (statement of Rep.
+Dingell).
+Therefore, sections 121(e) and 105(b)(3)(A) were included to avoid rapid price increases by restricting the operation of indefinite price escalator clauses.
+Section 121(e) provides that 105(b)(3) (A) applies to natural gas that has been deregulated by 121(a)(3) and "which is sold under any existing contract or successor to an existing contract at a price established under an indefinite price escalator clause."
+15 U.S.C. 3331(e) .
+Section 105(b)(3) (A), in turn, provides: 15 U.S.C. 3315(b)(3)(A) .
+FERC and Shell agree that the special rule embodied in 105(b)(3) (A) operates to limit only those price increases caused by an indefinite price escalator clause.
+The parties disagree about the category of gas to which the special rule applies.
+FERC has concluded that "the section 121(e) and section 105(b)(3) (A) limitation applies to any indefinite price escalator clause in an existing or successor intrastate contract that is, or would have been in excess of $1.00 per MMBtu on December 31, 1984."
+49 Fed.Reg.
+at 50 ,641.
+Shell argues that the limitation applies to intrastate contracts only "if they were above $1.00 on December 31, 1984 solely by reason of indefinite price escalator clauses ."
+Supplemental Initial Brief of Shell Offshore Inc. and Shell Western E & P Inc. at 12 (emphasis original).
+The crucial difference is this: the FERC interpretation does not focus on how the price was established on December 31, 1984, while Shell would limit the application of the special rule to those circumstances in which the indefinite price escalator clause established the price on December 31, 1984.
+We hold that FERC has adopted a reasonable interpretation of the provisions of the NGPA that deregulate intrastate natural gas sales.
+The plain language of 105(b)(3) (A) does not demand the interpretation advanced by Shell.
+Sections 105(b)(3) (A) and 121(e) impose a special rule limiting the price that can now be established by an indefinite price escalator clause.
+Those sections, however, do not contain the additional requirement that the December 31, 1984 price be established by an indefinite price escalator clause.
+The Conference Report makes it clear that how the December 31, 1984 price exceeded $1.00 is not relevant: Conf.Rep.
+at 83, U.S.Code Cong. & Admin.News 1978, 8999.
+Nor does the agreement reached by the conferees suggest that how the price was established on December 31, 1984 is important: Staff of House Comm. on Interstate and Foreign Commerce & Staff of Senate Comm. on Energy and Natural Resources, 95th Cong., 2d Sess., Natural Gas Pricing Agreement Adopted by the Conferees on H.R.
+5289 18-19 (Comm.Print.1978).
+Shell has suggested that the reference to $1.00 per million Btu's in 105(b)(3) (A) is superfluous under FERC's construction of the statute.
+Section 121(a)(3) deregulates only that natural gas which exceeds the $1.00 threshhold.
+The additional reference to the threshhold in 105(b)(3) (A) is necessary to limit the application of the special rule to gas that was priced above $1.00 on December 31, 1984.
+Without such a reference in 105(b)(3) (A), the special rule would also apply to natural gas that was sold at a price below $1.00 on December 31, 1984 and therefore has not been deregulated by 121(a)(3) .
+The $1.00 threshhold thus operates to distinguish between two schemes of regulation.
+Gas priced below $1.00 on December 31, 1984 remains subject to the ceiling price imposed by 105(b) .
+Gas priced above $1.00 on December 31, 1984 is subject to a slightly different ceiling on the price established by an indefinite price escalator clause.
+Accordingly, FERC's interpretation has properly given effect to all parts of the statute.
+VI.
+FERC's conclusion that natural gas that has been qualified both in a regulated category and a deregulated category is always to be considered deregulated is contrary to the express language of 101(b)(5) of the NGPA.
+Accordingly, we reverse and remand that part of the order.
+FERC's interpretation of the provisions governing the deregulation of intrastate gas is reasonable.
+We therefore affirm that part of the order.
+AFFIRMED IN PART, REVERSED IN PART, AND REMANDED.

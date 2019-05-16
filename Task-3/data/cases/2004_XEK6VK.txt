@@ -1,0 +1,147 @@
+ OPINION BOGGS, Chief Judge.
+Grable & Sons Metal Products Inc., ("Grable") argues that the district court committed two errors in granting judgment to Darue Engineering & Manufacturing ("Darue") in Grable's action to quiet title against Darue.
+First, Grable argues that its claim, although based on federal tax law, does not present a federal question, and, therefore, that the district court did not have subject matter jurisdiction to adjudicate the case after Darue removed it from Michigan state court.
+Secondly, Grable appeals the district court's judgment denying its quiet-title claim in property Darue had purchased at a tax sale after the IRS seized it from Grable in 1994.
+Grable's quiet-title action is based on provisions of the Internal Revenue Code concerning proper procedures for notifying delinquent taxpayers that their property has been seized.
+Its claim implicates a substantial federal interest, thereby presenting a federal question.
+Furthermore, the district court correctly denied Grable's action because the Internal Revenue Code allows for substantial, rather than literal, compliance with regulations regarding tax-seizure notification.
+Neither federal law nor principles of equity supports Grable's claim, asserted six years after the sale of its property, that notice by certified mail, rather than in person, rendered the IRS sale to Darue invalid.
+Accordingly, we affirm the judgment of the district court in its entirety.
+I The facts in this case are not disputed.
+In 1994, the IRS seized property at 601-701 W. Plains Road, in Eaton Rapids, Michigan, to satisfy Grable's tax debt resulting from not paying its corporate income taxes for six years.
+The IRS served notice of the seizure by certified mail, although 26 U.S.C. 6335(a) , the relevant statute, provides that notice must be "given" personally to the owner of the property.
+The parties agree that the IRS failed to adhere to the exact provisions of the statute but that Grable nevertheless received actual notice of the seizure.
+The IRS sold the property to Darue on December 13, 1994, for $44,500.
+The record before us contains no clear evidence that Grable challenged the sale at the time or attempted to redeem the property at issue in this case. Following its standard procedure, the IRS executed a quitclaim deed to Darue on November 13, 1995.
+On December 14, 2000, about six years after Darue bought the property, Grable challenged the sale in Eaton County Circuit Court by filing a quiet-title action.
+Darue removed the case to the United States Court for the Western District of Michigan under 28 U.S.C. 1441(b) .
+Grable filed a motion to remand based on lack of subject matter jurisdiction.
+28 U.S.C. 1447(c) .
+The district court held that it had jurisdiction to hear the case because the application of 6335(a) implicates a substantial federal interest, meaning that Grable's claim was based on a federal question.
+On March 29, 2002, the district court denied Grable's motion to quiet title and awarded judgment to Darue.
+Grable appealed to this court in a timely manner.
+II Federal Question Jurisdiction A defendant may remove to federal district court "any civil action brought in a state court of which the district courts of the United States have original jurisdiction."
+28 U.S.C. 1441(a) .
+District courts have original jurisdiction over any civil action "arising under any Act of Congress providing for internal revenue " 28 U.S.C. 1340 .
+This court reviews district court decisions regarding subject matter jurisdiction de novo .
+Caudill v. N. Am. Media Corp. , 200 F.3d 914, 916 (6th Cir.2000).
+Because we may not rule on the merits of a case over which a district court did not have subject matter jurisdiction, we must decide that issue first.
+See Thomas v. United States , 166 F.3d 825, 828 (6th Cir.1999).
+The parties do not have diversity of citizenship, 28 U.S.C. 1332(a) , nor is the United States a party to this action.
+1 Federal courts also have original jurisdiction over claims "arising under the Constitution, laws, or treaties of the United States."
+28 U.S.C. 1331 .
+Whether a claim presents a federal question "must be determined from what necessarily appears in the plaintiff's statement of his own claim."
+Taylor v. Anderson , 234 U.S. 74, 75-76 , 34 S.Ct. 724 , 58 L.Ed. 1218 (1914).
+In its original complaint to quiet title, Grable alleged that Darue's quitclaim deed was invalid because it "was given with improper notice pursuant to 26 U.S.C. 6331 et seq.
+[and] since the tax deed was given pursuant to improper notice as required by 26 U.S.C. 6335(a) , said transfer and claim through the tax deed is null and void and void ab initio ."
+The key question is whether Grable's quiet-title action, based as it is on the faulty process in a tax seizure, "arises under" federal law and thus invokes federal court jurisdiction.
+We hold that it does.
+The statute upon which Grable bases his complaint reads: As soon as practicable after seizure of property, notice in writing shall be given by the Secretary to the owner of the property or shall be left at his usual place of abode or business if he has such within the internal revenue district where the seizure is made.
+If the owner cannot be readily located, or has no dwelling or place of business within such district, the notice may be mailed to his last known address.
+26 U.S.C. 6335(a) (emphasis added).
+The parties agree that the IRS failed to "give" or "leave" notification and that therefore the service of notice did not comply with the statute.
+See Goodwin v. United States , 935 F.2d 1061, 1064 (1991) (noting government concession that the literal meaning of the statute requires personal service); Howard v. Adle , 538 F.Supp.
+504, 507 (E.D.Mich.1982) (demonstrating that certified mailing is insufficient for compliance with the statute by quoting 26 C.F.R. 301.6335-1(b)(1)(1981) and IRS Manual 5356.1(2)(1980); the latter specifies that the "original notice of sale will be delivered to the taxpayer personally").
+Although Grable's complaint hinges on a violation of the Internal Revenue Code, Grable insists that its cause of action does not arise under federal law.
+The long history of Supreme Court guidance concerning the meaning of "arising under" the laws of the United States has been synthesized into a three-part test.
+Although formulations differ slightly among the circuits, a federal question may arise out of a state law case or controversy if the plaintiff asserts a federal right that 1) involves a substantial question of federal law; 2) is framed in terms of state law; and 3) requires interpretation of federal law to resolve the case. Long v. Bando Mfg. of America , 201 F.3d 754, 759 (6th Cir.2000); see e.g. , Howery v. Allstate Insurance Co. , 243 F.3d 912, 918 (5th Cir.), cert. denied , 534 U.S. 993 , 122 S.Ct. 459 , 151 L.Ed.2d 377 (2001); Seinfeld v. Austen , 39 F.3d 761, 763 (7th Cir.1994), cert. denied sub nom.
+Abbott Labs.
+v. Seinfeld , 514 U.S. 1126 , 115 S.Ct. 1998 , 131 L.Ed.2d 1000 (1995).
+The asserted federal right in this case, personal notification of seizure of property as provided by IRS regulations, fulfills these three requirements.
+Substantial Federal Interest To identify a federal question, we must make "a pragmatic assessment of the nature of the federal interest at stake," Howery , 243 F.3d at 917 (citing commentators), a simple task in this context.
+The federal government cannot function without effective tax collection.
+See United States v. Kimbell Foods , 440 U.S. 715, 734 , 99 S.Ct. 1448 , 59 L.Ed.2d 711 (1979) (citing McCulloch v. Maryland , 17 U.S. (4 Wheat.)
+316, 425, 428, 431 , 4 L.Ed. 579 (1819)).
+Society has a strong interest in clear rules for handling delinquent taxpayers.
+The IRS must have transparent procedures for seizing and selling property so that people will be willing to purchase property at tax sales, allowing the IRS to provide a predictable stream of tax revenue.
+Determining the scope of the IRS's authority to seize property to satisfy a tax debt undoubtably implicates a substantial federal interest.
+Presentation as a state law claim Grable sued to quiet title, which is generally a state law cause of action.
+However, the scope of a taxpayer's right to due process in the form of notice of the tax seizure and sale is the essential element of this claim.
+Grable would not have any cause of action, and Darue would have undisputed title to the property, were it not for the technical notice requirements of 6335(a).
+Therefore the Internal Revenue Code, not state property law, lies at the center of this dispute.
+The state and federal claims are sufficiently entwined to allow us to find that Grable has presented a federal question.
+Interpretation of the federal law required Disposition of all the aspects of this case, including those related to the traditional state law property issues, turn on construction of federal tax law.
+Both parties agree that the only way to resolve the underlying controversy is to evaluate whether 6335(a), which mandates notice for IRS seizure of property for non-payment of taxes in person, requires strict, or merely substantial, compliance with its provisions to allow the IRS deed to convey title.
+If strict compliance is necessary, then Grable is entitled to get his property back because the IRS did not comply with the letter of the statute.
+If substantial compliance is sufficient, then further analysis and weighing of the equities of the situation is required.
+Therefore the final requirement is met: interpretation of the federal tax code is necessary to resolve the state law issue.
+In sum, Grable's quiet title action presents a federal question because it is rooted in the Internal Revenue Code, the correct interpretation of which represents a substantial federal interest.
+III Action to Quiet Title The district court also correctly granted summary judgment to the appellee, Darue.
+At issue is whether serving notice through a certified letter, which Grable in fact received, constitutes sufficient compliance with the statute to make the resulting quitclaim deed valid.
+Evaluating whether substantial compliance is applicable is a question of law that is reviewed de novo .
+In re Eagle-Picker Indus., Inc. 285 F.3d 522, 527 (6th Cir.2002) (applying substantial compliance analysis to notice requirements in a bankruptcy case).
+However, the rule itself is an equitable doctrine, so that a district court's decision to apply it is reviewed for abuse of discretion.
+Id. at 529 .
+See Cleveland Newspaper Guild Local 1 v. Plain Dealer Pub. Co. , 839 F.2d 1147, 1155 (6th Cir.1988).
+The Internal Revenue Code states that: b) Deed of real property .—In the case of the sale of real property pursuant to section 6335 — (2) Deed as conveyance of title .—If the proceedings of the Secretary as set forth have been substantially in accordance with the provisions of law , such deed shall be considered and operate as a conveyance of all the right, title, and interest the party delinquent had in and to the real property thus sold at the time the lien of the United States attached thereto. 26 U.S.C. 6339(b)(2) (emphasis added).
+Therefore, if the IRS substantially complied with the provisions of 6335(a), then the tax sale is valid.
+Grable counsels against reading the substantial compliance provision of 6339(b)(2) as applying to 6335(a) seizures, in spite of the statutory language to the contrary, since doing so would render the notice provisions "totally ineffective."
+Appellant Br. at 31.
+This argument is not persuasive.
+Grable is correct that a basic rule of statutory construction mandates that a court should read statutes as a whole and not interpret one provision in a way that would render another meaningless or superfluous.
+Beck v. Prupis , 529 U.S. 494, 506 , 120 S.Ct. 1608 , 146 L.Ed.2d 561 (2000) (calling the rule a "longstanding canon of statutory construction"); Lake Cumberland Trust v. EPA , 954 F.2d 1218, 1222 (6th Cir.1992).
+Allowing substantial compliance does not undermine the purpose of 6335(a), nor make its provisions superfluous.
+Should the IRS fail to adhere to the strict statutory notice provisions, it then has the burden of showing it substantially complied with them.
+Proving that a recalcitrant taxpayer actually received notice of a seizure or sale could be quite difficult.
+No court would uphold a seizure without notice.
+Mullane v. Cent. Hanover Bank & Trust Co. , 339 U.S. 306, 313 , 70 S.Ct. 652 , 94 L.Ed. 865 (1950) (stating that "there can be no doubt that at a minimum [the due process clause] require[s] that deprivation of life, liberty or property by adjudication be preceded by notice and opportunity for hearing appropriate to the nature of the case").
+Ignoring the provisions of 6335(a) puts the IRS at risk that a court will find its alternative notification procedures inadequate and invalidate the tax sale.
+Gauging how much variation will be tolerated puts the IRS in very uncertain territory.
+For instance, a simple public announcement of a tax sale, as provided for in 26 U.S.C. 6335(b) , is "constitutionally inadequate."
+Verba v. Ohio Cas. Ins. Co. , 851 F.2d 811, 816 (6th Cir.1988).
+Attempting twice to notify the taxpayer in person of the public sale of his property, and then sending a certified letter, which was returned, and a regular letter, which was not, is insufficient notice to validate the tax sale.
+Reece v. Scoggins , 506 F.2d 967, 969 (5th Cir.1975).
+Nor will a court be swayed by the facts that taxpayer received proper notice of the initial property seizure and found out about the auction before the bidding began.
+Ibid .
+Adjudication of substantial compliance cases is very fact-specific, and the outcome is uncertain for the litigants.
+We do not believe that the latitude allowed by 6339(b)(2) undermines the strong motivation for the IRS to follow the letter of 6335(a).
+Only by doing so can it ensure the validity of its tax sales, effectively collect back taxes, and avoid litigation.
+The Third Circuit approved the application of the substantial compliance doctrine to 6335(a) in Kabakjian v. United States , 267 F.3d 208, 213 (2001), a case that is directly on point, and upon which the district court relied.
+Like Grable, Kabakjian owed the IRS taxes, and his property was seized and sold at auction.
+He sued the government, claiming that the notices he received pursuant to 6335(a) were defective because he received them by certified mail, rather than personal delivery.
+The Third Circuit held that the notices "were not so defective as to void the seizure of property and its transfer to third parties" because 6339(b)(2) allowed for substantial compliance.
+Ibid. Because Kabakjian could not demonstrate any prejudice beyond a theoretical deprivation of his right to notice, the court ruled that all his property rights had transferred to a third party, and his claim failed on the merits.
+Ibid.
+Protecting the interests of bona fide purchasers is an important aspect of quiet title analysis.
+In the one opportunity the Sixth Circuit has had to address the question of substantial compliance in the context of a tax seizure and sale, we too held that procedural irregularities could not void a tax sale.
+PM Group Inv. Corp. v. PYK Enter. , 145 F.3d 1332 (6th Cir.1998) (unpublished opinion) (holding that issuance of a certificate of sale was conclusive evidence of the regularity of the sale).
+We noted that 6339(b)(2) was enacted to protect bona fide purchasers, such as Darue in this case. Ibid. (citing United States v. Whiting Pools , 462 U.S. 198, 211 , 103 S.Ct. 2309 , 76 L.Ed.2d 515 (1983)).
+Grable argues that "provisions of law" in 6339(b)(2) means provisions of state law, citing Fuentes v. United States , 14 Cl.Ct.
+157, 167 (1987), and, therefore, that strict adherence to the statute is required.
+Fuentes dealt with a homeowner's suit against the IRS for delivering a quitclaim deed that was invalid under Puerto Rican law.
+The Court of Claims noted "that a sharp focus must be placed on the distinction between the law applicable to the efficacy of a tax sale and the law applicable to the execution of a deed stemming therefrom.
+As to the former, we find that federal law is applicable; and as to the latter, local law governs."
+Id. at 166 .
+This case deals with the efficacy of the tax sale, rather than the validity of the deed, 2 and is thus a question of federal law.
+See also Reece , 506 F.2d at 970 (holding that faulty notice provisions made the sale voidable ab initio ) (emphasis added).
+We also adopt the district court's analysis rejecting Grable's reading of Fuentes .
+The district court correctly pointed out that the substantial compliance language of 6339(b)(2) does not refer to the execution of the deed, but rather to the proceedings by which the Secretary sells real property pursuant to 6335, and therefore the statute directly contradicts Grable's theory that the substantial compliance provisions only apply to state law.
+Grable & Sons Metal Products, Inc. v. Darue Engineering & Mfg. , 207 F.Supp.2d 694, 697 (W.D.Mich.2002) (emphasis in the original).
+Some courts have determined that substantial compliance is not acceptable in the context of a tax seizure.
+This view follows that of Chief Justice Marshall that "the person invested with such a power [to convey land] must pursue with precision the course prescribed by the law, or his act is invalid " Thatcher v. Powell , 19 U.S. (6 Wheat.)
+119, 125 , 5 L.Ed. 221 (1821).
+In Reece v. Scoggins , the leading case advocating strict construction, the court voided a tax sale because the IRS "handled this sale of land in a somewhat casual fashion," including failure to comply with notice requirements and irregularities in the subsequent public auction.
+Reece , 506 F.2d at 970 .
+The main rationale behind the court's holding was a recognition of the "Damoclean nature" of the IRS's ability to seize property to satisfy legitimate tax deficiencies and of the importance of strict adherence to the statute to protect the taxpayer.
+Id. at 971 ; Aqua Bar & Lounge, Inc. v. United States Dept.
+of Treasury , 539 F.2d 935, 939 (2d Cir.1976) (same).
+In this case, however, Grable was amply protected.
+It received actual notice of the tax sale, which was one of several resulting from a six-year hiatus from paying taxes.
+It has not alleged any actual prejudice as a result of receiving notice through certified mail, nor did it take any action against Darue for six years.
+The protections in the statute are designed to prevent the government from seizing property without warning.
+The district court did not err in refusing to extend these protections to a delinquent taxpayer who knew that its property was being seized but waited years to assert its rights.
+Although the statute allows for substantial compliance, the district court also analyzed the case under equitable principles, coming to the same favorable conclusion for Darue.
+Because we may affirm the district court on any ground supported by the record, we do not have to review the district court's application of equity, Shah v. Deaconess Hosp. , 355 F.3d 496, 498 (6th Cir.2004), but we make two short points.
+In a case with similar defects in notice, the United States District Court for the Eastern District of Michigan applied equity in holding that substantial compliance was sufficient to validate the sale.
+Howard , 538 F.Supp.
+at 508 (applying Michigan law to resolve the quiet title action).
+Secondly, the district court's decision to apply equity to dismiss Grable's quiet title motion does not contradict an earlier Michigan Court of Appeals quiet-title action that was decided in Grable's favor.
+Village of Dimondale v. Grable , 240 Mich.App.
+553 , 618 N.W.2d 23 (2000).
+In defending an action to quiet title to another piece of property that Mr. Grable owned personally, he argued that the tax sale was not valid because of defective IRS notice.
+The state appeals court held that, as a defendant, he did not have to worry about sleeping on his rights but was entitled to assert any valid defense.
+Dimondale , 618 N.W.2d at 31-32 .
+The court also noted that "equity is a shield, not a sword."
+Id. at 32 .
+The district court properly relied on that maxim when it held that a delay of approximately six years in pressing a claim provided sufficient basis in equity to deny Grable relief.
+IV For the reasons set out above, we AFFIRM the decision of the district court to deny Grable summary judgment and to award judgment to Darue.

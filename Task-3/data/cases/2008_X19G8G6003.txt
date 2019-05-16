@@ -1,0 +1,551 @@
+ STRAUB, Circuit Judge: In these four consolidated cases, the Plaintiff-Appellant City of New York ("City") appeals from the judgments of the United States District Court for the Southern District of New York (Deborah A. Batts, Judge ), dismissing its civil claims under the Racketeer Influenced and Corrupt Organizations Act, 18 U.S.C. 1961 68 ("RICO"); claims of common law fraud; claims under New York's consumer protection statute, as codified at 349 of the New York General Business Law ("GBL 349 "); and claims of common law public nuisance.
+[fn3] We vacate and remand in part with respect to the RICO claims; affirm in part with respect to the state law claims; and sever and retain jurisdiction over other of the state law claims and certify two questions to the New York Court of Appeals.
+FACTS AND PROCEDURAL HISTORY This case concerns allegations that out-of-state cigarette retailers are liable for failing to report purchases by New York City residents to New York State.
+In our review, we take as true the facts as alleged in the complaints and as supplemented by the City's RICO Statements, submitted pursuant to the District Court's rules.
+See McLaughlin v. Anderson , 962 F.2d 187 , 189 (2d Cir. 1992).
+New York State imposes a tax on all cigarettes used or sold in the State.
+See N.Y.
+Tax Law 471 , 471-a .
+New York State law also authorizes the City of New York to impose its own tax on cigarettes.
+See N.Y. Unconsol.
+Law 9436(1) .
+Pursuant to this authority, the City imposes a tax on all cigarettes possessed in the City for sale or use.
+[fn4] See N.Y.C.
+Admin.
+Code 11-1302 .
+In-state, these taxes are collected through the sale of tax stamps to instate vendors.
+See N.Y.
+Tax Law 471 .
+Out-of-state cigarette sellers, however, are not responsible for collecting or paying New York State and City sales taxes on cigarettes.
+Due to interstate taxing discrepancies, cigarettes can be sold for apparently lower prices outside New York State.
+In part to offset the loss of state taxes caused by the interstate taxing discrepancies, Congress, in 1949, enacted the Jenkins Act, 15 U.S.C. 375 78 , to require out-of-state cigarette sellers to file a report with the tobacco tax administrator of each state into which the seller ships cigarettes to non-distributors, identifying the name, address, and quantity of cigarettes purchased by the non-distributor state residents.
+15 U.S.C. 376 ; see also S.Rep.
+No. 84-1147 (1955), reprinted in 1955 U.S.C.C.A.N.
+2883, 2883-84 (explaining that the Jenkins Act "was enacted for three major reasons: (1) The large and increasing loss of revenue to the States caused by the evasion of sales and use taxes on cigarettes shipped in interstate commerce to consumers; (2) The discrimination caused by this evasion against sellers of cigarettes in States having a higher tax than the tax of the seller States; and (3) The fact that this evasion was accomplished through the use of the United States mail."
+(quoting from the report of the Committee on Ways and Means)).
+As amended in 1955, the Jenkins Act also requires the seller of cigarettes in interstate commerce to register with the tobacco tax officials of states where she advertises or into which she ships cigarettes.
+15 U.S.C. 376 (a).
+[fn5] The information provided [**3] by out-of-state cigarette sellers to state taxing authorities under the Jenkins Act provides states the information necessary to collect the payment of cigarette taxes directly from the purchasers.
+As pled by the City, although the Jenkins Act requires out-of-state cigarette merchants to report only to state taxing authorities, New York State and New York City have entered into various agreements for the administration and collection of cigarette taxes.
+[fn6] In light of the agreements, the City alleges that "with respect to the collection of cigarette taxes, New York City will be `fully and promptly' informed by the New York State Department of Taxation and Finance of any information relevant to the collection of cigarette taxes, including Jenkins Act reports."
+The City thus alleges that defendants (1) advertise their cigarettes over the Internet to its residents, (2) ship the orders by common carrier or the United States Postal Service into New York City, and (3) do not comply with the Jenkins Act registration or reporting requirements.
+According to the allegations, defendants' failure to comply with the Jenkins Act is an essential part of their business model because the savings that customers obtain from buying the cigarettes online are almost entirely due to the fact that the New York State and City taxes are not being charged or paid.
+As alleged, all of the defendants fail to inform customers of the use tax obligations, and most of the defendants, to varying degrees, make false representations to customers concerning the tax.
+[fn7] Specifically, in Smokes-Spirits and EZTobacco , the City alleges that defendants instruct their employees to inform inquiring customers that defendants are prohibited from disseminating customer information to taxing authorities.
+In Nexicon , the City contends that defendants affirmatively advertise their cigarettes as "tax-free" and assure customers that sales would not be reported to the New York State tax authorities.
+The City also alleges that Nexicon defendants attempt to prevent the City from accessing their sales records in order to maintain their customers' trust.
+The City claims that it has lost "tens[,] if not hundreds[,] of millions of dollars a year in cigarette excise tax revenue" due to the combination of defendants' withholding of sales information, failure to register as cigarette sellers, and the individual taxpayers' failure to voluntarily pay use taxes to the City.
+[fn8] As relief, the City seeks to: (1) recover from defendants three times the amount of the tax revenue lost as a result of defendants' violations; (2) require defendants prospectively to comply with the Jenkins Act; (3) require defendants to inform their customers that taxes are owed on purchases from defendants' websites and to inform customers that defendants file Jenkins Act reports; and (4) pay attorneys' fees.
+I. Allegations Specific to the RICO Claims As explained further below, RICO makes it "unlawful for any person employed by or associated with any enterprise engaged in, or the activities of which [**4] affect, interstate or foreign commerce, to conduct or participate, directly or indirectly, in the conduct of such enterprise's affairs through a pattern of racketeering activity.
+.
+.
+."
+18 U.S.C. 1962 (c).
+The City alleges that defendants engage in such a "pattern of racketeering" by committing mail or wire fraud each time they use, or cause to be used, the mails or wires to effect a sale of cigarettes to New York City residents without complying with the Jenkins Act's reporting requirements to the State.
+[fn9] The alleged RICO enterprises in the cases before us generally take one of two forms.
+Under the first, a defendant corporate entity is alleged to be a passive enterprise with its defendant officer(s) and/or director(s) acting as the RICO "person[s]" who conduct the affairs of the enterprise in violation of the statute.
+The second set is comprised of association-in-fact enterprises, [fn10] where the association consists of a defendant entity and a third party, and the RICO "person[s]" consist of the defendant entity and, in general, the officers and/or directors of the entities comprising the enterprise.
+[fn11] The City's case-specific enterprise allegations regarding the remaining defendants are as follows: In Smokes-Spirits , the remaining alleged enterprise is defendant Smokes-Spirits.com, a passive vehicle, and the person associated with it is defendant Michael Klee, an officer or employee of Smokes-Spirits.com.
+In EZTobacco , the remaining alleged enterprise is EZ Tobacco Enterprise ("EZTobacco Enterprise"), consisting solely of Electronic Computer Consulting, LLC, and the persons associated with it are defendant Theresa Trivett, doing business as EZ-Tobacco.com, and others unknown.
+Nexicon involves two different groups of remaining defendants, and, for each, the City alleges the two alternative enterprise forms outlined above.
+With respect to the first group of defendants, the primary enterprise consists of defendant Nexicon, Inc. ("Nexicon"), and the persons associated with it are defendants Richard Urrea, President of Nexicon; defendant Daniel Urrea, Chief Financial Officer of Nexicon; non-party Brent Wolford, technical consultant to American Indian CigCo, LLC ("American Indian CigCo"), a New Mexico limited liability corporation; and non-party Chuck Arning, who allegedly participated in concealing Nexicon's cigarette sales from the City.
+Alternatively, the City alleges an association-in-fact enterprise consisting of Nexicon and American Indian CigCo.
+Since purchasing Nexicon's Internet cigarette business, American Indian CigCo owns or controls the websites previously controlled by Nexicon, and is alleged to have assisted Nexicon in concealing cigarette sales previously made by Nexicon to New York City residents.
+The City alleges that the two companies, Nexicon and American Indian CigCo, have entered into profit-sharing and employment agreements.
+The RICO persons associated with this alleged association-in-fact enterprise are Nexicon, Richard Urrea, Daniel Urrea, and Wolford, Arning, and non-party Paul Rainbird, owner of American [**5] Indian CigCo.
+With respect to the second remaining group of defendants in Nexicon , the City alleges that defendant Hemi Group, LLC ("Hemi Group"), incorporated in New Mexico, is an enterprise and that the person associated with it is defendant Kai Gachupin, owner or officer of Hemi Group.
+The City also alleges an alternative association-in-fact enterprise consisting of Hemi Group and Al Enterprises, Inc. ("Al Enterprises"), a New Mexico corporation, which sells cigarettes over the Internet.
+According to the allegations, "Al Enterprises works with the Hemi Group to conceal from New York City cigarette sales made by Hemi Group to New York City residents."
+The persons alleged to be associated with the Hemi Group association-in-fact enterprise are Gachupin and Hemi Group.
+In NCCigarettes , the remaining alleged primary enterprise is NCCigarettes.com, and the persons associated with it are defendant Scott Herring, defendant Xfire Software LLC ("Xfire"), an Internet service provider, and defendant Jeff Reinhardt, manager, Chief Executive Officer, and sole owner of Xfire.
+The City also appears to have alleged an alternative association-in-fact enterprise, consisting of Herring, Reinhardt, Xfire and NCCigarettes.com.
+The persons associated with this alleged enterprise are Herring, Reinhardt, and Xfire.
+[fn12] II.
+Allegations Specific to the City's State Law Claims In addition to RICO claims, the City asserts diversity-based state law claims against defendants for: (1) common law fraud; (2) violations of GBL 349 , a consumer protection statute; and (3) common law public nuisance.
+The City alleges common law fraud in each of the four cases.
+It claims that defendants have a statutory duty to provide Jenkins Act reports to the State and to designate all packages they ship into New York as containing cigarettes.
+In all four cases, the City alleges that defendants intentionally fail to provide the required notice when they ship cigarettes into the City in order to defraud the City of tax revenues.
+Additionally, in Smokes-Spirits , the City alleges that defendants "materially mislead customers by stating cigarette prices to customers that omit the amounts that customers will have to pay to New York City and New York State in taxes."
+In Nexicon and EZTobacco , the City's common law fraud claims also incorporate allegations that defendants' "statements that their cigarettes are `tax-free' and/or that defendants are not required to file Jenkins Act reports are materially deceptive and misleading to New York City consumers."
+The City alleges claims under GBL 349 in Nexicon, Smokes-Spirits , and EZTobacco , essentially based on the same allegations as outlined for the fraud claims.
+Finally, the City makes a public nuisance claim in NCCigarettes and EZTobacco.
+The public nuisance claims are predicated on New York State's Public Health Law 1399-ll , which, subject to certain exceptions, bans the shipment of cigarettes via a common carrier to New York State residents.
+As the City alleges, in enacting that statute, the legislature "declared the shipment [**6] of cigarettes sold via the Internet to residents of [New York] State to be a `serious threat to public health, safety, and welfare, to the funding of health care, and to the economy of the state.'"
+See N.Y. Pub. Health Law 1399-ll , ch.
+262, 1 .
+Thus, it is alleged, defendants "contribute to a public nuisance, and unreasonably and substantially interfere with rights common to the general public" by shipping cigarettes sold over the Internet into New York City.
+III.
+District Court's Dismissals A. Disposition of the City's State Law Claims In January and February 2005, the District Court dismissed all of the City's state law claims for substantially the same reasons in each case in which the claims were alleged.
+See Nexicon , 383 F.Supp.2d 526 (S.D.N.Y.
+2005); Smokes-Spirits , No. 04 Civ. 6616 (S.D.N.Y.
+Feb. 8, 2005); NCCigarettes , No. 03 Civ. 7715 , 2005 WL 3782442 , 2005 U.S. Dist. LEXIS 2794 (S.D.N.Y.
+Feb. 9, 2005); EZTobacco , No. 03 Civ. 10091 , 2005 WL 372044 , 2005 U.S. Dist. LEXIS 2202 (S.D.N.Y.
+Feb. 16, 2005).
+[fn13] The District Court dismissed the common law fraud claims on the grounds that the City had not alleged that it relied on any of the allegedly fraudulent statements or omissions, and that any third-party reliance — either on the part of the consumers or the State — was not sufficient to state a claim.
+See Nexicon , 383 F.Supp.2d at 565 .
+The District Court dismissed the City's GBL 349 claims on the ground that the failure to file Jenkins Act reports could not, as a matter of law, mislead consumers.
+See id. at 562-63 .
+The District Court then found that the City had failed to allege a consumer injury or harm to the public interest even as to those defendants alleged by the City to have made material misrepresentations directed at consumers, in the form of statements that defendants' cigarettes are tax free or that defendants did not have to file Jenkins Act reports.
+The District Court dismissed the argument that lost tax revenues injure all citizens on the ground that such an injury was too indirect.
+See id. at 564 .
+The District Court also dismissed the public nuisance claims, finding that the number of cigarette sales over the Internet was "small .
+.
+.
+compared to brick and mortar sales" and that the City had not alleged a harm that "endangers[] the public at large."
+NCCigarettes , 2005 WL 3782442 , at *3, 2005 U.S. Dist. LEXIS 2794 , at *9-10.
+The District Court found that it was "unclear" that the number of people who purchase cigarettes over the Internet "qualifies as a considerable number of people" and concluded that the City's allegation that "Internet sales of cigarettes were predicted to account for 5.9% of industry volume in 2005" did not "comport with the required considerable number of persons."
+Id .
+at *2, 2005 U.S. Dist. LEXIS 2794 , at *7 (internal quotation marks omitted).
+[fn14] B. Disposition of the City's RICO Claims At the same time that it dismissed the state law claims in 2005, the District Court also dismissed the City's RICO claims, with leave to amend, for failure to plead "distinctness" in the enterprise allegations.
+[fn15] See Nexicon , 383 F.Supp.2d at 551 .
+In March 2006, after the City amended its complaints and RICO Statements, the District Court again dismissed the complaints, this time with prejudice, for failure to state a claim.
+See Nexicon [**7] , No. 03 Civ. 383 , [ 2006 BL 36920 ], 2006 WL 647716, 2006 U.S. Dist. LEXIS 10295 (S.D.N.Y.
+Mar. 15, 2006); Smokes-Spirits , No. 04 Civ. 6616 , 2006 WL 726228 , 2006 U.S. Dist. LEXIS 11954 (S.D.N.Y.
+Mar. 21, 2006); NCCigarettes , No. 03 Civ. 7715 , 2006 U.S. Dist. LEXIS 11922 (S.D.N.Y.
+Mar. 22, 2006); EZTobacco , No. 03 Civ. 10091 , 2006 WL 722009 , 2006 U.S. Dist. LEXIS 11953 (S.D.N.Y.
+Mar. 22, 2006).
+[fn16] The District Court held that while the structure of the alleged primary enterprises was legally viable, the alleged RICO persons (employees and/or officers of the businesses) did not have individual duties to file Jenkins Act reports, and thus could not have committed the alleged predicate racketeering acts.
+The court explained: [ T]he language of the Jenkins Act prohibits "persons" from transferring cigarettes for profit in interstate commerce.
+The statute defines "person" as including: "corporations, companies, associations, firms, partnerships, societies, and joint stock companies, as well as individuals."
+15 U.S.C. 375 (1).
+Employing basic statutory construction analysis, it is clear that companies are the primary entities responsible for filing Jenkins Act reports.
+The catch-all phrase "as well as individuals" suggests a separate class of people who may be liable under the Jenkins Act, but does not by any means connote officers or directors of the business entities listed before the phrase.
+Accordingly, as only the Defendant companies are responsible for filing the reports, and only they can be accused of fraudulently concealing such reports by not filing them, only the Defendant companies may be considered as having committed predicate acts.
+Thus, only they may properly be considered "persons" under the definition of the Jenkins Act and under RICO.
+Given the unique facts of the instant case, where a company is statutorily required to perform a function that it fails to do, resulting in fraud .
+.
+.
+the "persons" for purposes of RICO cannot be the officers of the companies, but must be the companies themselves.
+Nexicon , [ 2006 BL 36920 ], 2006 WL 647716, at *8, 2006 U.S. Dist. LEXIS 10295 , at *25-26.
+Accordingly, with respect to the alleged primary enterprises, the District Court found that the City failed to state a claim.
+Id .
+at *8, [ 2006 BL 36920 ], 2006 U.S. Dist. LEXIS, at *26.
+With respect to the alternatively pled association-in-fact enterprises, the District Court explained that, under well settled law, an enterprise cannot consist solely of employees associating with their corporate employer, and that the City apparently tried to circumvent this rule by "tacking on" other companies with which each corporate defendant associated.
+The problem with this approach, the court found, was that while the City had alleged technically legitimate enterprises, (1) the City had failed to sufficiently allege that the tacked-on members of the enterprise shared a "common purpose" with the defendant corporations, [fn17] (2) the City failed to allege a nexus between the RICO predicate acts and the association-in-fact enterprises; and (3) the City failed to "explain each participant's role in the alleged course of fraudulent conduct."
+Nexicon , [ 2006 BL 36920 ], 2006 WL 647716, at *9, 2006 U.S. Dist. LEXIS 10295 , at *28-29.
+In sum, the District Court found that while the City alleged that defendants have relationships [**8] with the third-party companies, the City "has not shown how the various components of the enterprise engaged in a fraudulent course of conduct together."
+Id .
+at *9, [ 2006 BL 36920 ], 2006 U.S. Dist. LEXIS, at *30.
+DISCUSSION "We review the district court's decision de novo, reading all well-pleaded allegations in the [City's] favor."
+Spool v. World Child Int'l Adoption Agency , 520 F.3d 178 , 183 (2d Cir. 2008).
+[fn18] I. The City's Civil RICO Claims Pursuant to 1962(c) , RICO's substantive provision, it is "unlawful for any person employed by or associated with any enterprise engaged in, or the activities of which affect, interstate or foreign commerce, to conduct or participate, directly or indirectly, in the conduct of such enterprise's affairs through a pattern of racketeering activity.
+.
+.
+."
+18 U.S.C. 1962 (c).
+Thus, in order to establish a RICO violation under 1962(c) , a plaintiff (or prosecutor) must allege and prove four elements: "(1) conduct (2) of an enterprise (3) through a pattern (4) of racketeering activity."
+Sedima, S.P.R.L.
+v. Imrex Co. , 473 U.S. 479 , 496 , 105 S.Ct. 3275 , 87 L.Ed.2d 346 (1985).
+These requirements apply whether the RICO claim is civil or criminal in nature.
+In civil cases, however, RICO plaintiffs must also satisfy the requirements of 18 U.S.C. 1964 (c).
+Section 1964(c) provides that "[a]ny person injured in his business or property by reason of a violation of section 1962 " has the right to "recover threefold the damages he sustains.
+.
+.
+."
+18 U.S.C. 1964 (c).
+Thus, under 1964(c) , a civil RICO claimant must show: (1) a substantive RICO violation under 1962 ; (2) injury to the plaintiff's "business or property," and (3) that such injury was "by reason of" the substantive RICO violation.
+See Lerner v. Fleet Bank, N.A. , 318 F.3d 113 , 120 (2d Cir.), cert. denied , 540 U.S. 1012 , 124 S.Ct. 532 , 157 L.Ed.2d 424 (2003).
+In this case, the District Court dismissed the City's RICO claims on the ground that the City failed adequately to plead a RICO enterprise.
+Defendants ask us to affirm that decision arguing that the City failed to (1) allege a RICO violation under 1962 , and, in the alternative, arguing that the City failed to (2) demonstrate the requisite injury to its "business or property," or (3) allege an injury that was "by reason of" the alleged RICO violations, thus failing to allege causation.
+See 18 U.S.C. 1964 (c).
+We address these issues in reverse order below.
+[fn19] A. Causation The Supreme Court has addressed civil RICO's causation requirements in three key cases.
+See Anza v. Ideal Steel Supply Corp. , 547 U.S. 451 , 457-61 , 126 S.Ct. 1991 , 164 L.Ed.2d 720 (2006); Holmes v. Sec. Investor Prot. Corp. , 503 U.S. 258 , 265-70 , 112 S.Ct. 1311 , 117 L.Ed.2d 532 (1992); Sedima , 473 U.S. at 496-97 , 105 S.Ct. 3275 .
+First, in Sedima , the Supreme Court explained that the damages from any injury caused under RICO must "flow from the commission of the predicate acts."
+473 U.S. at 497 , 105 S.Ct. 3292 .
+Thus, "the plaintiff only has standing if, and can only recover to the extent that, he has been injured in his business or property by the conduct constituting the [RICO] violation."
+Id. at 496 , 105 S.Ct. 3292 .
+As the Court explained, "the compensable injury necessarily is the harm caused by [alleged] predicate acts .
+.
+., for the essence of the violation is the commission of those acts in connection with the conduct of an enterprise."
+Id. at 497 , 105 S.Ct. 3292 .
+Subsequently, in Holmes , the Court focused more particularly on 1964(c) 's requirement that the claimed injury be "by reason of" a defendant's RICO violation.
+See 18 U.S.C. 1964 (c).
+While recognizing that this language could be read to allow a plaintiff [**9] to recover simply upon a showing that defendant's violation was the "but-for" cause of plaintiff's injury, the Court held that the language was not intended to be read so broadly.
+Holmes , 503 U.S. at 265-66 , 112 S.Ct. 1311 (noting the "unlikelihood that Congress meant to allow all factually injured plaintiff's to recover" under RICO).
+Specifically, the Court held that a plaintiff must be able to show that the violation was not only the "but-for" cause of the injury, but also the proximate cause, which "demand[s] for some direct relation between the injury asserted and injurious conduct alleged."
+Id. at 268 , 112 S.Ct. 1311 .
+The Holmes Court noted the following three policy reasons for requiring proximate causation in the RICO context: (1) the factual difficulty of measuring indirect damages and distinguishing among distinct independent causal factors; (2) the complexity of apportioning damages among plaintiff's "to obviate the risk of multiple recoveries"; and (3) the fact that "the need to grapple with these problems is simply unjustified by the general interest in deterring injurious conduct, since directly injured victims can generally be counted on to vindicate the law."
+Id. at 269 , 112 S.Ct. 1311 .
+The Court then held that the injury in Holmes was too remote to allow recovery because it was contingent upon the harm to another.
+[fn20] Id. at 271-74 , 112 S.Ct. 1311 .
+Third, and most recently in Anza , 547 U.S. 451 , 126 S.Ct. 1991 , 164 L.Ed.2d 720 , the Supreme Court found no proximate cause where the plaintiff's injury was not derivative, as it was in Holmes , but was nevertheless too remote to allow recovery.
+In Anza , a merchant sued its competitor under RICO alleging that it was injured because the competitor failed to charge sales tax and submitted fraudulent tax returns and, thus, was able to undercut plaintiff's price.
+Id. at 453-56 , 126 S.Ct. 1991 .
+In finding that the plaintiff had inadequately alleged proximate causation, the Court explained that "[t]he cause of [the plaintiff's] asserted harms .
+.
+.
+is a set of actions (offering lower prices) entirely distinct from the alleged RICO violation (defrauding the State)."
+Id. at 458 , 126 S.Ct. 1991 .
+The alleged RICO violation directly caused the State to be defrauded of taxes, not the plaintiff to lose money to its competitor.
+Id .
+The principles outlined in these decisions, as applied to the City's allegations, support a finding that the City has standing.
+Comporting with Sedima , the City alleges that it has been injured (the loss of tax revenues) by defendants' RICO violations (the predicate acts of mail and wire fraud in furtherance of a scheme to defraud the City of taxes).
+See Sedima , 473 U.S. at 496 , 105 S.Ct. 3275 .
+Any recoverable damages occurring by reason of a violation of 1962(c) (a specific dollar amount for each pack of cigarettes sold without complying with the Jenkins Act) flow from the scheme to defraud the City of use taxes at the heart of the alleged predicate acts of mail and wire fraud.
+See id. at 497 , 105 S.Ct. 3275 .
+The City's claims are easily distinguishable from the ones found to be insufficient in Holmes , 503 U.S. at 271 , 112 S.Ct. 1311 .
+Specifically, unlike in Holmes where the plaintiff's injury was derivative, the City's alleged injury of lost tax revenue is directly caused by defendants' alleged schemes.
+That New York State may also [**10] have been injured by defendants' alleged schemes does not make the City's injury any less direct; the City is owed a certain amount of taxes independent of any amount owed to or collected by the State.
+The fact that the failure to file Jenkins Act reports with the State leads directly to the City's alleged harm, namely loss of tax revenues, also distinguishes this case from Anza , where the injury was found to be too attenuated.
+See Anza , 547 U.S. at 459 , 126 S.Ct. 1991 .
+Moreover, Anza is distinguishable from this case in two important, related, respects.
+First, Anza involved a RICO claim of a competitor complaining of another merchant's ability to offer lower prices, and the Court's holding sought to limit RICO standing in that type of case. See id. at 460 , 126 S.Ct. 1991 .
+As the Court explained, "claims brought by economic competitors .
+.
+.
+if left unchecked, could blur the line between RICO and the antitrust laws."
+Id .
+Second, because competition claims may involve a host of market factors unrelated to the alleged RICO violation, following the causal chain and measuring damages involve evidentiary complexities beyond what a factfinder should be expected to reasonably or reliably parse through.
+The Anza Court, in describing "the speculative nature of the proceedings that would follow if [plaintiff] were permitted to maintain its claim," explained: A court considering the claim would need to begin by calculating the portion of [defendant's] price drop attributable to the alleged pattern of racketeering activity.
+It next would have to calculate the portion of [plaintiff's] lost sales attributable to the relevant part of the price drop.
+The element of proximate causation recognized in Holmes is meant to prevent these types of intricate, uncertain inquiries from overrunning RICO litigation.
+Id. at 459-60 , 126 S.Ct. 1991 ; see also id. at 460 , 126 S.Ct. 1991 ("A RICO plaintiff cannot circumvent the proximate-cause requirement simply by claiming that the defendant's aim was to increase market share at a competitor's expense.").
+Here, by contrast, the City's claim is not market based.
+While the City's case will not be free of evidentiary wrinkles, any potential wrinkles are nowhere near the type or degree involved in Anza.
+See id. at 460 , 126 S.Ct. 1991 .
+Our finding of proximate causation in this case also fully comports with the "underlying premises" of that causation requirement, which the Supreme Court outlined in Holmes , 503 U.S. at 269 , 112 S.Ct. 1311 .
+[fn21] See Anza , 547 U.S. at 458 , 126 S.Ct. 1991 .
+As set forth above, the first concern raised in Holmes is that indirect claims present the factual difficulty of measuring indirect damages and distinguishing among distinct independent causal factors.
+See Holmes , 503 U.S. at 269 , 112 S.Ct. 1311 .
+Here, however, measuring the damages is as simple as counting the number of cigarette packs sold by defendants to New York City residents without complying with the Jenkins Act.
+Moreover, the fact that the cigarette purchasers may be partially to blame — either because they were not aware of their reporting duties or because, as part of the alleged RICO conspiracy, they were intentionally hiding the fact of their purchases — does not defeat proximate causation.
+[fn22] We have held that defendants [**11] remain liable where their actions were a substantial factor that caused the loss.
+See Lerner , 318 F.3d at 123 ("Central to the notion of proximate cause [under RICO] is the idea that a person is .
+.
+.
+liable .
+.
+.
+to those with respect to whom his acts were a substantial factor in the sequence of responsible causation, and whose injury was reasonably foreseeable or anticipated as a natural consequence."
+(internal quotation marks omitted)); see also Williams v. Mohawk Indus. , 465 F.3d 1277 , 1288 n. 5 (11th Cir. 2006) (noting that under RICO, "proximate cause is not .
+.
+.
+the same thing as a sole cause, and it is enough for the plaintiff to plead and prove that the defendant's tortious or injurious conduct was a substantial factor in the sequence of responsible causation" (internal quotation marks omitted)), cert. denied , U.S. , 127 S.Ct. 1381 , 167 L.Ed.2d 174 (2007).
+[fn23] A contrary rule would effectively require that a plaintiff's injury be caused by only one source, and, as this is often not the case, it would operate to insulate from liability defendants who scheme with others in violation of RICO.
+Here, defendants' actions are clearly alleged to be a substantial factor in the City's loss.
+The second potential problem highlighted by Holmes — namely, the complexity of apportioning damages among plaintiff's "to obviate the risk of multiple recoveries," 503 U.S. at 269 , 112 S.Ct. 1311 — is also not implicated here.
+Only the City can claim loss of the City's use taxes.
+To the extent that the State of New York is also aggrieved by defendants' actions, it would have separate damages because it charges separate taxes.
+See N.Y.
+Tax Law 471 , 471-a .
+The third reason highlighted by Holmes for requiring a direct injury is the expectation that those directly injured will litigate their claims in order to vindicate the law. 503 U.S. at 269 , 112 S.Ct. 1311 .
+Although the State may also seek to sue to vindicate the law, the City should not have to rely on the State to enforce the RICO laws, where the City's injury in the form of lost taxes is no less direct than any comparable injury of the State.
+Finally, the City's claims are distinguishable from those our Court has found to be inadequate, in cases on which defendants rely.
+Specifically, as alleged, there are no speculative steps in this chain of causation.
+When defendants fail to comply with the Jenkins Act, defendants deprive both the City and the State of information needed to collect taxes from the in-State and in-City cigarette purchasers.
+And the City has alleged that it "will be `fully and promptly' informed by the New York State Department of Taxation and Finance of any information relevant to the collection of cigarette taxes, including Jenkins Act reports."
+Cf. Lerner , 318 F.3d at 124 ("Each of the assumptions upon which this theory [of causation] rests is inherently speculative.").
+In addition, the City's alleged injury is not derivative of the State's injury.
+Cf.
+Laborers Local 17 Health and Benefit Fund v. Philip Morris, Inc. , 191 F.3d 229 (2d Cir. 1999), cert. denied , 528 U.S. 1080 , 120 S.Ct. 799 , 145 L.Ed.2d 673 (2000).
+Though the City and State are injured by the same activity, the City's injury does not depend on the State being injured.
+Cf. id. at 239 (concluding that injuries alleged by labor union health and welfare trust funds against tobacco companies and [**12] public relations firms, based on deception about the dangers of smoking and resulting health care expenses by funds and plan participants, were derivative of injuries suffered by the plan participants and thus too remote to confer standing on the funds).
+And it is clear that the City is alleged to be the target of the scheme because a large part of, if not the driving force behind, defendants' business plans was to sell cigarettes in such a way as to allow consumers to evade New York City's taxes.
+Cf. Abrahams v. Young & Rubicam Inc. , 79 F.3d 234 , 239 (2d Cir.) (holding that plaintiff lacked standing under RICO because the plaintiff was not a "target" of the scheme, but rather was merely injured "by the fallout from the scheme's exposure"), cert. denied , 519 U.S. 816 , 117 S.Ct. 66 , 136 L.Ed.2d 27 (1996).
+The fact that the State may also have been targeted by defendants' schemes does not change the result.
+"No precedent suggests that a racketeering enterprise may have only one `target,' or that only a primary target has standing"; indeed, "there is a broad class of plaintiff's under RICO."
+See Baisch , 346 F.3d at 375 .
+Contrary to our colleague's dissenting view, the predicate racketeering acts in this case are not Jenkins Act violations; rather, as discussed in Section C infra , the predicate acts are wire and mail fraud violations.
+Thus, whether or not the injury is direct must be determined by looking at the nature and consequences of the alleged predicate acts of mail and wire fraud.
+In the City's allegations, the Jenkins Act violations form the basis of defendants' scheme to defraud , an essential element of the alleged predicate acts of mail and wire fraud, which targeted both the City and State in an effort to deprive both of the information needed to collect use taxes.
+The fact that defendants have no statutory duty to the City under the Jenkins Act does not make the City's alleged harm from the mail and wire fraud violations derivative, unforeseeable, or any less direct.
+As the dissent recognizes, the mail and wire fraud statutes extend to protect taxing authorities from fraud.
+See, e.g., United States v. DeFiore , 720 F.2d 757 , 761-62 (2d Cir. 1983), cert. denied , 467 U.S. 1241 , 104 S.Ct. 3511 , 82 L.Ed.2d 820 (1984).
+Moreover, we do not share our dissenting colleague's concern that this case represents a "major expansion of mail fraud doctrine."
+For the reasons we have already explained, in this unique case, the City has alleged an injury in the form of lost taxes that is independent from, even if parallel to, any injury suffered by the State.
+[fn24] By recognizing the City's right to proceed in this case, we are neither extending the scope of the mail and wire fraud statutes, nor the scope of RICO, beyond their established reach.
+B. Injury to "Business or Property" As noted above, one of the requirements for a civil RICO claim is that plaintiff be injured in its "business or property."
+18 U.S.C. 1964 (c).
+Defendants argue that the City's allegations of lost taxes do not allege an injury to the City's "business or property" because that injury was not one the City incurred as a party to a commercial transaction.
+This argument finds support in Town of West Hartford v. Operation Rescue , 915 F.2d 92 , 103-04 (2d Cir. 1990), where we suggested that a municipality must have [**13] sustained its injury as a party to a commercial transaction to have standing under RICO.
+However, we have since explained that our statements to that effect in Town of West Hartford were merely dicta.
+See Att'y Gen. of Can.
+v. R.J.
+Reynolds Tobacco Holdings, Inc. , 268 F.3d 103 , 132 n. 40 (2d Cir. 2001), cert. denied , 537 U.S. 1000 , 123 S.Ct. 513 , 154 L.Ed.2d 394 (2002).
+We see no reason to import an additional standing requirement on municipalities for RICO claims, and thus expressly reject our dicta to the contrary in Town of West Hartford.
+See Sedima , 473 U.S. at 495 , 497-500 , 105 S.Ct. 3275 (noting that "RICO is to be read broadly," and overruling our Court's engrafting of a "racketeering injury" requirement which found no support in the statute or legislative history).
+We have consistently held that tax losses from unpaid taxes are "property" for purposes of the mail and wire fraud statutes.
+See, e.g., Fountain v. United States , 357 F.3d 250 , 255-60 (2d Cir. 2004), cert. denied , 544 U.S. 1017 , 125 S.Ct. 1968 , 161 L.Ed.2d 856 (2005); United States v. Porcelli , 865 F.2d 1352 , 1355 (2d Cir.) (affirming mail fraud and RICO convictions for fraudulent under-reporting of taxes to State), cert. denied , 493 U.S. 810 , 110 S.Ct. 53 , 107 L.Ed.2d 22 (1989); DeFiore , 720 F.2d at 761 .
+Moreover, in Anza , the Supreme Court suggested that a State would have a recoverable injury where the allegations are that the defendants defrauded the State out of tax revenues.
+See 547 U.S. at 460 , 126 S.Ct. 1991 .
+Thus, we hold that lost taxes can constitute injury to "business or property" for purposes of RICO, and conclude that the City has adequately met this requirement notwithstanding that its injury did not arise from its participation in a commercial transaction.
+See Illinois Dep't of Revenue v. Phillips , 771 F.2d 312 , 314-16 (7th Cir. 1985) (rejecting the notion that a State government unit suing under RICO is limited to competitive or commercial injuries); but see Canyon County v. Syngenta Seeds, Inc. , 519 F.3d 969 , 977-80 (9th Cir. 2008) (endorsing the dicta in Town of West Hartford ).
+C. Section 1962(c) Violation As noted above, to state a claim for damages under 1964(c) a plaintiff must first allege a substantive RICO violation under 1962(c) .
+See Moss v. Morgan Stanley Inc. , 719 F.2d 5 , 17 (2d Cir. 1983), cert. denied , 465 U.S. 1025 , 104 S.Ct. 1280 , 79 L.Ed.2d 684 (1984).
+In turn, 1962(c) makes it "unlawful for any person employed by or associated with any enterprise engaged in, or the activities of which affect, interstate or foreign commerce, to conduct or participate, directly or indirectly, in the conduct of such enterprise's affairs through a pattern of racketeering activity.
+.
+.
+."
+18 U.S.C. 1962 (c).
+We discuss the "racketeering activity" and "enterprise" elements of a substantive RICO violation as they relate to these cases in turn.
+1.
+Racketeering Activity "Mail fraud and wire fraud are forms of `racketeering activity' for purposes of RICO."
+Anza , 547 U.S. at 454 , 126 S.Ct. 1991 ; see also 18 U.S.C. 1341 (mail fraud), 1343 (wire fraud).
+"To procure a conviction for mail fraud, the government must prove three elements: (1) a scheme to defraud victims of (2) money or property, through the (3) use of the mails."
+United States v. Walker , 191 F.3d 326 , 334 (2d Cir. 1999), cert. denied , 529 U.S. 1080 , 120 S.Ct. 1702 , 146 L.Ed.2d 506 (2000).
+Likewise, a defendant commits wire fraud where he "was one of the participants in a fraudulent scheme which was furthered by the use of interstate transmission facilities."
+United States v. Corey , 566 F.2d 429 , 431 n. 2 (2d Cir. 1977).
+"Allegations of mail [or wire] fraud must be made with the particularity required by Federal Rule of Civil Procedure 9 (b)."
+[**14] McLaughlin , 962 F.2d at 191 .
+"To constitute a [mail or wire fraud] violation .
+.
+.
+it is not necessary to show that [defendants] actually mailed [or wired] .
+.
+.
+anything themselves; it is sufficient if they caused it to be done."
+Pereira v. United States , 347 U.S. 1 , 8 , 74 S.Ct. 358 , 98 L.Ed. 435 (1954); accord McLaughlin , 962 F.2d at 191 (mail fraud); United States v. Whiting , 308 F.2d 537 , 540 (2d Cir. 1962) (wire fraud), cert. denied , 372 U.S. 909 , 83 S.Ct. 722 , 9 L.Ed.2d 718 (1963).
+Moreover, "[i]t is sufficient for the mailing [or transmission] to be incident to an essential part of the scheme, or a step in the plot."
+Schmuck v. United States , 489 U.S. 705 , 710-11 , 109 S.Ct. 1443 , 103 L.Ed.2d 734 (1989) (internal quotation marks omitted).
+It is settled law in this Circuit that a Jenkins Act violation — assuming one occurred — may form the basis of a wire or mail fraud conviction.
+See DeFiore , 720 F.2d at 761-62 (upholding wire fraud conviction based on scheme to defraud New York of "substantial cigarette tax revenues").
+[fn25] Other circuits have also reached this conclusion.
+See United States v. Melvin , 544 F.2d 767 , 773 (5th Cir. 1977) (same with respect to mail fraud); United States v. Brewer , 528 F.2d 492 , 495 (4th Cir. 1975) (same).
+Here, the City alleges that the named RICO persons directed the alleged enterprises to "conceal cigarette sales from state tax authorities by failing to file Jenkins Act reports or directed [them] to effect sales by means of misrepresentations" while using the mails or wires to effect a sale of cigarettes to New York City residents.
+The City further alleges that this amounts to a "scheme to defraud New York City" of its use taxes because defendants have deprived the City of the information it needs to charge and collect those taxes.
+We find that these allegations sufficiently allege a scheme or artifice to defraud that was furthered by the use of mail or wires.
+See McLaughlin , 962 F.2d at 191 .
+Even assuming arguendo that the District Court was correct to find that the individual defendants acting in their official capacities could not be liable under the Jenkins Act for their companies' failures to comply with the reporting laws, the individuals allegedly committed the predicate acts of mail and wire fraud by directing the companies to use the mails and wires to sell cigarettes and to violate the Jenkins Act.
+These allegations are sufficient to allege a pattern of racketeering activity for purposes of RICO.
+See Pereira , 347 U.S. at 8-9 , 74 S.Ct. 358 .
+2.
+The Enterprise Requirement As to the enterprise requirement, the Supreme Court has explained that a plaintiff must "allege and prove the existence of two distinct entities: (1) a `person'; and (2) an `enterprise' that is not simply the same `person' referred to by a different name."
+Cedric Kushner Promotions, Ltd. v. King , 533 U.S. 158 , 161-62 , 121 S.Ct. 2087 , 150 L.Ed.2d 198 (2001); Riverwoods Chappaqua Corp. v. Marine Midland Bank, N.A. , 30 F.3d 339 , 344 (2d Cir. 1994) ("[B]y virtue of the distinctness requirement, a corporate entity may not be both the RICO person and the RICO enterprise under section 1962(c) .").
+A "person" is defined as "any individual or entity capable of holding a legal or beneficial interest in property."
+18 U.S.C. 1961 (3).
+An "enterprise" is defined as "any individual, partnership, corporation, association, or other legal entity, and any union or group of individuals associated in fact although not a legal entity."
+18 U.S.C. 1961 (4).
+A RICO enterprise based on an association-in-fact theory is "a group of persons [**15] associated together for a common purpose of engaging in a course of conduct," the existence of which is "proved by evidence of an ongoing organization, formal or informal, and by evidence that the various associates function as a continuing unit."
+United States v. Turkette , 452 U.S. 576 , 583 , 101 S.Ct. 2524 , 69 L.Ed.2d 246 (1981).
+We look to the "hierarchy, organization and activities" to determine whether an alleged association "functioned as a unit."
+United States v. Coonan , 938 F.2d 1553 , 1560-61 (2d Cir. 1991) (noting that "proof of various racketeering acts may be relied on to establish the existence" of an association-in-fact enterprise), cert. denied , 503 U.S. 941 , 112 S.Ct. 1486 , 117 L.Ed.2d 628 (1992).
+"[F]or an association of individuals to constitute an enterprise, the individuals must share a common purpose to engage in a particular fraudulent course of conduct and work together to achieve such purposes."
+First Capital Asset Mgmt., Inc. v. Satinwood, Inc. , 385 F.3d 159 , 174 (2d Cir. 2004) (internal quotation marks omitted).
+In practice, the dual requirements of (1) distinctness and (2) the proof needed to demonstrate an association-in-fact, work in tandem to weed out claims dressed up as RICO violations but which are not in fact.
+Specifically, the distinctness doctrine requires a plaintiff to demonstrate that the RICO person is legally separate from the RICO enterprise, while the association-in-fact requirements help ensure that distinctness is not achieved by simply tacking on entities to the enterprise which do not in fact operate as a "continuing unit" or share a "common purpose."
+See Turkette , 452 U.S. at 583 , 101 S.Ct. 2524 ; Satinwood , 385 F.3d at 174 .
+As explained earlier, the alleged enterprises in the cases before us generally take on one of two forms.
+In the first, a defendant corporate entity is alleged to be a passive enterprise with its defendant officers and/or directors acting as the RICO "person[s]."
+(hereafter, the "primary enterprises").
+As laid out above, these alleged primary enterprises are as follows: • An enterprise consisting of defendant Smokes-Spirits, com, with defendant Michael Klee as the alleged RICO person.
+• An enterprise entitled EZTobacco Enterprise consisting of Electronic Computer Consulting, LLC, with defendant Theresa Trivett, doing business as EZ-Tobacco.com, as the alleged RICO person.
+• An enterprise consisting of defendant Nexicon, with defendants Richard Urrea, Daniel Urrea, and certain non-defendant individuals as the alleged RICO persons.
+• An enterprise consisting of defendant Hemi Group, with defendant Kai Gachupin as the alleged RICO person.
+• An enterprise consisting of defendant NCCigarettes.com, with defendants XFire, Scott Herring, and Jeff Reinhardt as the alleged RICO persons.
+[fn26] The second set of enterprises are association-in-fact enterprises, where the association consists of a defendant entity and a third-party, and the RICO "person[s]" consist of the defendant entity and generally officers and/or directors of the entities comprising the enterprise.
+The remaining alleged association-in-fact enterprises in these cases are as follows: • An enterprise consisting of defendant Nexicon and non-party American Indian CigCo, with defendants Nexicon, Richard Urrea, Daniel [**16] Urrea, and certain non-parties, at least one of which is an employee/officer of American Indian CigCo, as the RICO persons.
+• An enterprise consisting of defendant Hemi Group and non-defendant Al Enterprises, with defendants Hemi Group and Kai Gachupin as the RICO persons.
+[fn27] We address each set of enterprises below.
+3.
+The Primary Enterprises The City's allegations are sufficient to meet the distinctness requirement with respect to all of the primary enterprises.
+In Cedric Kushner , the Supreme Court explained that the RICO "person" and alleged "enterprise" must be only legally, and not necessarily actually, distinct.
+533 U.S. at 163 , 166 , 121 S.Ct. 2087 (determining that Don King, the alleged "person," was distinct from Don King Productions, the alleged RICO "enterprise," of which Don King was president and sole shareholder).
+The City has alleged with respect to the primary enterprises that the enterprise is an innocent corporation, with its own legal basis for existing, and the persons are employees or officers of the organization unlawfully directing the enterprise's racketeering activities.
+That is sufficient under the distinctness standards articulated in Cedric Kushner.
+We address below the additional, case-specific challenges made by certain defendants.
+a. NCCigarettes Defendants in NCCigarettes argue that NCCigarettes.com is a sole proprietorship run by Scott Herring, not an enterprise, and that the additional persons — Jeff Reinhardt and Xfire — committed no predicate acts under RICO and are not liable because Xfire was merely an Internet service provider that provided services to the alleged "enterprise."
+NCCigarettes.com's claim that it is a sole proprietorship is unavailing at this stage in the pleadings.
+Though we have not previously spoken on this, our sister circuits have allowed 1962(c) claims to proceed when the enterprise is a sole proprietorship with a distinct and separate identity from that of the individual defendant who owns it.
+These circuits have held that a defendant is distinct from the sole proprietorship enterprise, unless the sole proprietor is "strictly a one-man show."
+McCullough v. Suter , 757 F.2d 142 , 144 (7th Cir. 1985) ("The only important thing is that [the enterprise] be either formally (as when there is incorporation) or practically (as when there are other people besides the proprietor working in the organization) separable from the individual.
+"); United States v. Benny , 786 F.2d 1410 , 1415-16 (9th Cir.) (affirming RICO conviction where defendant's "sole proprietorship was a troupe, not a one-man show"), cert. denied , 479 U.S. 1017 , 107 S.Ct. 668 , 93 L.Ed.2d 720 (1986); see also Guidry v. Bank of LaPlace , 954 F.2d 278 , 283 (5th Cir. 1992) (espousing the approach to sole proprietorships announced in McCullough , but holding that the distinctness requirement was not met under the circumstances of the case).
+Under this approach, which we now join, we find that the City has adequately alleged distinctness as to the NCCigarettes.com primary enterprise because the City has alleged that Herring's sole proprietorship is not a one-man show.
+However, we agree with defendants Xfire and Reinhardt that the allegations are insufficient to [**17] state a claim against them as RICO persons.
+As explained earlier, 1962(c) makes it "unlawful for any person employed by or associated with an enterprise .
+.
+.
+to conduct or participate, directly or indirectly, in the conduct of such enterprise's affairs.
+.
+.
+."
+18 U.S.C. 1962 (c).
+In Reves v. Ernst & Young , the Supreme Court explained that "[i]n order to `participate, directly or indirectly, in the conduct of such enterprise's affairs,' one must have some part in directing those affairs."
+507 U.S. 170 , 179 , 113 S.Ct. 1163 , 122 L.Ed.2d 525 (1993); see also id. at 184 , 113 S.Ct. 1163 ("[I]t is clear that Congress did not intend to extend RICO liability under 1962(c) beyond those who participate in the operation or management of an enterprise through a pattern of racketeering activity.").
+Although this is a low hurdle to clear at the pleading stage, see Satinwood , 385 F.3d at 176 , the City's allegations-most generously construed — simply do not clear it with respect to Xfire or Reinhardt.
+[fn28] These defendants are not alleged to have violated the Jenkins Act, and, unlike the named RICO person in the other primary enterprises, neither Xfire nor Reinhardt is alleged to have directed or caused the enterprise to commit a Jenkins Act violation.
+Simply alleging that certain entities provide services which are helpful to an enterprise without any allegations that those entities exert any control over the enterprise does not sufficiently allege a claim under RICO against those entities.
+See Reves , 507 U.S. at 179 , 113 S.Ct. 1163 ; see also, e.g., Azrielli v. Cohen Law Offices , 21 F.3d 512 , 521 (2d Cir. 1994); Univ. of Md. at Baltimore v. Peat, Marwick, Main & Co. , 996 F.2d 1534 , 1539-40 (3d Cir. 1993).
+b. Nexicon Nexicon argues that the City erroneously named it as a defendant because Cyco.
+net, Inc. (Nevada) sold its Internet tobacco retail business, Cyco.net, Inc. (New Mexico), to American Indian CigCo in 2003.
+Cyco.net, Inc. (Nevada) then changed its name to Nexicon, which is a publicly traded company engaged in network security and billing management.
+[fn29] Moreover, Richard Urrea claims to have terminated a consultancy agreement with American Indian Cigco and ceased doing business with the company, and thus argues that Nexicon should not be held liable.
+Whatever the merits of these factual averments, we must accept the City's allegations as true at this stage, and dismissal is not warranted on these bases.
+Nexicon defendants also argue that the City failed to "make a showing" that Nexicon exercised any control over American Indian CigCo's shipments of cigarettes.
+The City is not required to "make a showing" that Nexicon exercised any control over American Indian CigCo's shipments of cigarettes at this stage.
+As explained, to show the requisite level of management, the City must "allege that the defendants `conduct[ed] or participate[d], directly or indirectly, in the conduct of such enterprise's affairs through a pattern of racketeering activity."
+Satinwood , 385 F.3d at 175-76 (quoting 18 U.S.C. 1962 (c)).
+By alleging that Nexicon and American Indian CigCo have entered profit sharing and employment agreements, the City has adequately pled that Nexicon has "some part in directing the enterprise's affairs."
+Reves , 507 U.S. at 179 , 113 S.Ct. 1163 .
+4.
+Association-In-Fact Enterprises Defendants also argue that the District Court correctly [**18] dismissed the City's association-in-fact enterprise allegations in Nexicon and NCCigarettes.
+The District Court found that while the City alleged technically legitimate enterprises based on the association-in-fact theory, the City failed to (1) allege a configuration that has an "`ongoing organization, formal or informal,'" and that its "`various associates function as a continuing unit'"; (2) allege a nexus between the RICO predicate acts and the association-in-fact enterprises; and (3) "explain each participant's role in the alleged course of fraudulent conduct."
+Nexicon , [ 2006 BL 36920 ], 2006 WL 647716, at *9, 2006 U.S. Dist. LEXIS 10295 , at *28-29 (quoting Turkette , 452 U.S. at 583 , 101 S.Ct. 2524 ).
+[fn30] a. Nexicon Association-In-Fact Enterprise The District Court erred in holding that the City failed to adequately plead an enterprise with respect to the Nexicon association-in-fact enterprise.
+First, the City has sufficiently alleged a functioning unit by alleging that Nexicon and American Indian CigCo entered profit sharing and employment agreements and that they have "interlocking financial and management agreements."
+The City further alleged that American Indian CigCo transfers assets from Nexicon to American Indian CigCo in order to hide assets and that American Indian CigCo regularly transfers funds earned from illegal cigarette sales to Nexicon.
+The "relatedness" requirement also was met with respect to this enterprise.
+See United States v. Daidone , 471 F.3d 371 , 375 (2d Cir. 2006) (per curiam) (citing United States v. Minicone , 960 F.2d 1099 , 1106 (2d Cir.), cert. denied , 503 U.S. 950 , 112 S.Ct. 1511 , 117 L.Ed.2d 648 (1992)); see also Satinwood , 385 F.3d at 174 .
+In this regard, the City alleges that defendants' business plans depended on (1) concealing their customers' purchases from state tax authorities; (2) informing their customers that the purchases would be concealed; and (3) concealing purchasers' tax liability from the purchasers themselves.
+Thus, the relatedness requirement was met because the alleged acts of mail and wire fraud were more than merely related to the activities of the online cigarette sellers; they were essential to defendants' business.
+Finally, the City also sufficiently alleges the roles that relevant defendants had in operating or managing the Nexicon association-in-fact enterprise.
+Defendants Nexicon, Richard Urrea and Daniel Urrea are clearly alleged to have participated in management by virtue of their roles in the organizations that make up the enterprise.
+[fn31] As the Nexicon association-in-fact enterprise is clearly alleged to be made up of several defendant persons who operated or managed the affairs of the enterprise, the dismissal of this claim must be vacated.
+b. Hemi Group Association-In-Fact Enterprise However, we affirm the District Court's finding that the City failed to sufficiently allege a functioning unit with respect to the Hemi Group association-in-fact enterprise.
+Although the City alleges that the Hemi Group association-in-fact displays a "continuity of structure and personnel, and has a consensual decision-making structure," the City alleges no facts tending to support this stock allegation.
+The bare allegations that "Al Enterprises [**19] works with the Hemi Group to conceal from New York City cigarette sales" and that Kai Gachupin "is believed" to be an officer or employee of Al Enterprises, as well as an owner or shareholder of the Hemi Group, are insufficient to plead the type of continuity required for an association-in-fact enterprise.
+c. NCCigarettes Association-In-Fact Enterprise To the extent the City's complaint can be construed as alleging an association-in-fact enterprise consisting of NCCigarettes.com and the Internet service provider Xfire, we agree with the District Court that the City has failed to meet its pleading burden.
+Perhaps because the City never intended to plead an association-in-fact with respect to this group of defendants, it has not provided "any solid information regarding the hierarchy, organization, and activities" of the alleged enterprise, "from which we could fairly conclude that its members functioned as a unit."
+See Satinwood , 385 F.3d at 174 (internal quotation marks omitted).
+Thus, to the extent that the City has indeed attempted to allege an association-in-fact enterprise with respect to this group of defendants, the District Court's dismissal of this claim is affirmed.
+D. Leave to Replead With respect to those claims where we have found the City's enterprise allegations insufficient, we do not foreclose the possibility that amendment could cure the shortcomings.
+In 2006, when the complaints were finally dismissed, the City had not moved for leave to amend the complaints, and the District Court did not grant it sua sponte.
+"Rule 15 (a) of the Federal Rules of Civil Procedure instructs courts that leave to amend should be freely given.
+Leave to amend need not be granted, however, where the proposed amendment would be futile."
+Advanced Magnetics, Inc. v. Bayfront Partners, Inc. , 106 F.3d 11 , 18 (2d Cir. 1997) (citations and internal quotation marks omitted).
+Thus, on remand to the District Court, the court may grant leave to amend if and as it deems appropriate.
+II.
+The City's State Law Claims A. Jurisdiction As a preliminary matter to our discussion of the City's state law claims, we must determine whether we have jurisdiction over them.
+Defendants argue that we lack jurisdiction over the appeals from the District Court's orders dismissing the state law claims because the City's notices of appeal did not specifically indicate an appeal from those orders.
+However, for the reasons explained below, we agree with the City that its notices of appeal from the final judgments encompass all prior interlocutory orders, including the earlier dismissals of the state law claims.
+Rule 3 of the Federal Rules of Appellate Procedure requires that the notice of appeal "designate the judgment, order, or part thereof being appealed."
+Fed.R.App.P.
+3 (c)(1)(B).
+Rule 4 sets forth the time limits for filing a notice of appeal.
+Fed.R.App.P.
+4 .
+Rules 3 and 4 are a single jurisdictional threshold and may not be waived.
+See Torres v. Oakland Scavenger Co. , 487 U.S. 312 , 317 , 108 S.Ct. 2405 , 101 L.Ed.2d 285 (1988); New Phone Co. v. City of New York , 498 F.3d 127 , 131 (2d Cir. 2007) (per curiam).
+However, we have held that the requirements of the rules "should be liberally construed."
+Marrero Pichardo [**20] v. Ashcroft , 374 F.3d 46 , 54-55 (2d Cir. 2004).
+Unless the District Court directs entry of a final judgment, "any order or other decision, however designated, that adjudicates fewer than all the claims or the rights and liabilities of fewer than all the parties does not end the action" is, by definition, interlocutory.
+Fed.R.Civ.P. 54 (b); see Sahu v. Union Carbide Corp. , 475 F.3d 465 , 467-68 (2d Cir. 2007) (per curiam) (finding no jurisdiction as grant of partial summary judgment was not final order under 28 U.S.C. 1291 , in part, because a separate claim remained unresolved); Hanlin v. Mitchelson , 794 F.2d 834 , 838 (2d Cir. 1986) ("[A]n order disposing of only a portion of a case is ordinarily not appealable absent a Rule 54(b) certification.").
+In 2005, the District Court dismissed all of the City's claims, with leave to replead the RICO claims only.
+These dismissals were interlocutory because they did not end the actions.
+The only case here where the District Court directed entry of a "judgment" in 2005 is Smokes-Spirits.
+That "judgment" stated as follows: [T]he Court .
+.
+.
+having rendered its Order granting defendants' motions to dismiss with leave to plaintiff to file a Second Amended Complaint within 45 days of the Order dated February 8, 2005, it is, ORDERED, ADJUDGED AND DECREED: That for the reasons stated in the Court's Order dated February 8, 2005, defendants' motions to dismiss are granted.
+Clerk's Judgment, Smokes-Spirits , No. 04 Civ. 6616 (S.D.N.Y.
+April 8, 2005).
+In light of the District Court's grant of leave to replead, we do not view this "judgment" as a final judgment or a certification by the District Court pursuant to Fed.R.Civ.P. 54 (b).
+Thus, it too was interlocutory.
+As the decisions dismissing the state law claims were interlocutory, the notices of appeal specifying the final judgments incorporate those 2005 orders.
+We generally "interpret[] an appeal from a specific order disposing of the case as an appeal from the final judgment, which incorporates all previous interlocutory judgments in that case and permits their review on appeal."
+Anobile v. Pelligrino , 303 F.3d 107 , 115 (2d Cir. 2002); see also Shannon v. Gen. Elec. Co. , 186 F.3d 186 , 192 (2d Cir. 1999) ("When a district court enters a final judgment in a case, interlocutory orders rendered in the case typically merge with the judgment for purposes of appellate review.
+"); 16A Charles Alan Wright, Arthur R. Miller & Edward H. Cooper, Federal Practice and Procedure 3949.4 at 72 (3d ed. 1999) ("[A] notice of appeal that names the final judgment is sufficient to support review of all earlier orders that merge in the final judgment under the general rule that appeal from a final judgment supports review of all earlier interlocutory orders.").
+Here, the City appealed from "each and every part" of the final judgment entered in each case.
+Thus, the earlier orders dismissing the state law claims, with leave to amend the RICO claims, merge into the final judgments.
+See Phelps v. Kapnolas , 123 F.3d 91 , 93 (2d Cir. 1997) (construing the notice of appeal to apply both to an earlier order dismissing the complaint as to five out of six defendants, as well as to the final judgment order dismissing case against final defendant).
+Moreover, the City's intent to appeal from the entire judgment can be [**21] reasonably inferred from the City's notices of appeal.
+The cases defendants cite to the contrary, where we found certain District Court orders to be outside of the scope of the appeal, are distinguishable.
+In those cases, the notices of appeal generally specified certain aspects of an order or judgment, or particular orders, but not others, and intent to appeal from the entire final judgment could not be inferred.
+See New Phone Co. , 498 F.3d at 131 (finding no jurisdiction to review separate order enjoining plaintiff's from filing additional complaints without leave of court because "intent to appeal from it [could not] be inferred"); Johnson v. Smithsonian Inst. , 189 F.3d 180 , 185 n. 2 (2d Cir. 1999) (finding no jurisdiction to consider separate denials of motion for leave to amend or for reconsideration "because the plaintiff's notice of appeal specifically state[d] that he [was] appealing only the district court's June 25, 1998 decision dismissing the complaint"); Kowsh v. Bd. of Elections , 99 F.3d 78 , 80 (2d Cir. 1996) (per curiam) (finding no jurisdiction over parts of judgment other than discrete portion specifically mentioned); Shrader v. CSX Transp., Inc. , 70 F.3d 255 , 256 (2d Cir. 1995) (finding no jurisdiction to review the district court's earlier decision to dismiss the plaintiff's Railway Labor Act challenge where notice of appeal referred solely to an order dismissing the claims under the Federal Employers' Liability Act, and noting "in passing" that the Railway Labor Act challenge "appear[ed] to be meritless").
+[fn32] Accordingly, we have jurisdiction to review the dismissals of the City's state law claims.
+B. Common Law Fraud: Smokes-Spirits, EZTobacco, NCCigarettes , and Nexicon We affirm the District Court's dismissals of the City's common law fraud claims.
+See Nexicon , 383 F.Supp.2d at 564-66 .
+Defendants argue that the City has not and cannot allege reliance, that defendants made no affirmative misrepresentations, and that failing to file Jenkins Act reports does not give rise to a cause of action for the City, in part because defendants have no duty to file Jenkins Act reports with the City and no duty to provide tax advice to their purchasers.
+The elements of fraud under New York law are: (1) a misrepresentation or a material omission of material fact which was false and known by defendant to be false, (2) made for the purpose of inducing the plaintiff to rely on it, and (3) justifiably relied upon by the plaintiff, (4) who then suffered an injury as a result of such reliance.
+Lama Holding Co. v. Smith Barney Inc. , 88 N.Y.2d 413 , 421 , 646 N.Y.S.2d 76 , 668 N.E.2d 1370 , 1373 (N.Y. 1996); see also Crigger v. Fahnestock & Co. , 443 F.3d 230 , 234 (2d Cir. 2006).
+"[A] fraud cause of action may be predicated on acts of concealment where the defendant had a duty to disclose material information."
+Kaufman v. Cohen , 760 N.Y.S.2d 157 , 165 , 307 A.D.2d 113 , 119-20 (1st Dep't 2003); see also Merrill Lynch & Co. v. Allegheny Energy, Inc. , 500 F.3d 171 , 181 (2d Cir. 2007).
+In all four cases before us, the City failed to plead "reasonable reliance on the part of the plaintiff."
+Crigger , 443 F.3d at 234 (emphasis added).
+Rather, under the City's theory, the alleged intentional omissions or misrepresentations were either directed at the State or the consumers, causing the City to be unable to collect its taxes.
+Such allegations of third-party reliance, however, [**22] are insufficient to make out a common law fraud claim under New York law.
+See Cement & Concrete Workers Dist. Council Welfare Fund v. Lotto , 148 F.3d 194 , 196 (2d Cir. 1998) (explaining "that a plaintiff does not establish the reliance element of fraud for purposes of .
+.
+.
+New York law by showing only that a third party relied on a defendant's false statements").
+The City's sole argument, located in part of a footnote of its brief, for why the common law fraud claims should nevertheless proceed, is that it has an agreement with the State to exchange information on cigarette sales transactions.
+However, allegations that the City has an agreement to exchange tax information with the State — which is the party that relied on the omission of information required under the Jenkins Act — is simply another iteration of its third-party reliance claim.
+Therefore, we affirm the District Court's dismissals of the City's common law fraud claims in all four cases.
+C. The City's GBL 349 Claims: Nexicon, Smokes-Spirits , and EZTobacco The District Court dismissed the City's GBL 349 claims in the three cases where it was raised.
+For the reasons below, we affirm the district court's holding in the Smokes-Spirits case, and reserve judgment in the Nexicon and EZTobacco cases pending certification of a question regarding standing to the New York Court of Appeals.
+GBL 349(a) declares that "[d]eceptive acts or practices in the conduct of any business, trade or commerce or in the furnishing of any service in" New York are unlawful.
+N.Y. Gen. Bus. 349(a) .
+The statute provides a private right of action.
+Id. at 349(h) ; see Blue Cross & Blue Shield of N.J., Inc. v. Philip Morris U.S.A.
+Inc. , 3 N.Y.3d 200 , 205 , 785 N.Y.S.2d 399 , 818 N.E.2d 1140 , 1143 (N.Y. 2004).
+"To make out a prima facie case under Section 349 , a plaintiff must demonstrate that (1) the defendant's deceptive acts were directed at consumers, (2) the acts are misleading in a material way, and (3) the plaintiff has been injured as a result."
+Maurizio v. Goldsmith , 230 F.3d 518 , 521 (2d Cir. 2000) (per curiam) (citing Oswego Laborers' Local 2H Pension Fund v. Marine Midland Bank , 85 N.Y.2d 20 , 25 , 623 N.Y.S.2d 529 , 647 N.E.2d 741 , 744 (N.Y. 1995)).
+"[A]n action under 349 is not subject to the pleading-with-particularity requirements of Rule 9 (b), Fed.R.Civ.P., but need only meet the bare-bones notice-pleading requirements of Rule 8(a) .
+.
+.
+."
+Pelman ex rel.
+Pelman v. McDonald's Corp. , 396 F.3d 508 , 511 (2d Cir. 2005).
+We have explained that "the gravamen" of a GBL 349 claim is "consumer injury or harm to the public interest."
+Securitron Magnalock Corp. v. Schnabolk , 65 F.3d 256 , 264 (2d Cir. 1995) (internal quotation marks omitted), cert. denied , 516 U.S. 1114 , 116 S.Ct. 916 , 133 L.Ed.2d 846 (1996).
+Thus, in Securitron , we found that a plaintiff could sue its competitor under GBL 349 as it had alleged injury to the public interest.
+See id .
+[fn33] The City's allegations in Smokes-Spirits are that defendants intentionally failed to inform their customers that they must pay taxes and omitted the amount of taxes owed to the City and the State from the advertised prices.
+See Oswego , 623 N.Y.S.2d 529 , 647 N.E.2d at 745 (holding that the definition of deceptive acts and practices under GBL 349 includes "representations or omissions").
+But the omission of the tax amount from the price of the cigarettes, where the vendor is not required to collect that tax, is not, on its own, likely to mislead or [**23] assume significance in the deliberation of a reasonable consumer acting reasonably under the circumstances.
+See id .
+Consumer taxpayers are charged with some knowledge of the law.
+See Niedringhaus v. Comm'r , 99 T.C. 202 , 222 , 1992 WL 190129 (1992) ("As a general rule, taxpayers are charged with knowledge of the law.").
+In this unique situation, an omission of information about a consumer's duty to pay taxes to that consumer's home state and city cannot be tantamount to an affirmative misrepresentation that a consumer does not need to pay taxes.
+Therefore, we affirm the District Court's dismissal of the GBL 349 claim in Smokes-Spirits.
+We reach a different conclusion, however, with respect to allegations in Nexicon and EZTobacco , where the City alleges that defendants represented to customers that the cigarettes are "tax free," that their customers do not have to pay taxes, and/or that defendants did not have to file Jenkins Act reports.
+Such statements are untrue and could mislead a reasonable consumer into believing that those cigarettes are in fact tax free.
+[fn34] See Gaidon v. Guardian Life Ins. Co. of Am. , 94 N.Y.2d 330 , 344 , 704 N.Y.S.2d 177 , 725 N.E.2d 598 , 604 (N.Y. 1999) (finding that plaintiff's adequately alleged a claim under GBL 349 where they alleged "that defendants lured them into purchasing policies by using illustrations that created unrealistic expectations as to the prospects of premium disappearance upon a strategically chosen `vanishing date'").
+Though taxpayers are charged with general knowledge of the tax laws, they are not charged with knowing them to such an extent that we expect them to discern an actual and intentional misrepresentation about the intricate tax laws at issue in this case.
+Thus, a misrepresentation that affirmatively assures a consumer that no taxes are due may be reasonably relied on, whereas, as discussed above, the failure to list, in the price of a cigarette pack, the tax which the seller is not required to collect, may not.
+A question nevertheless remains as to whether the City has standing to allege its GBL 349 claims in Nexicon and EZTobacco.
+Although we have held that GBL 349 extends to protect competitors as well as consumers, see Securitron , 65 F.3d at 264 , we are aware of no case extending protection under GBL 349 to an entity that was neither harmed as a competitor nor a consumer.
+As a general matter, if the New York Court of Appeals has not ruled on an issue of state law, "we are bound to apply the law as interpreted by New York's intermediate appellate courts unless we find persuasive evidence that the New York Court of Appeals, which has not ruled on this issue, would reach a different conclusion."
+Blue Cross & Blue Shield of N.J. , 344 F.3d at 221 (internal quotation marks and alterations omitted).
+We may certify a question if "with respect to the question asked .
+.
+.
+there is a statute implicated [and] its plain language does not answer the question."
+Id .
+(internal quotation marks omitted) (certifying the question of whether the claims of a "third party payer of health care costs seeking to recover costs of services provided to subscribers as a result of those subscribers being harmed by a defendant's or defendants' [**24] violation of [GBL] 349 [are] too remote"); see also Hamilton v. Beretta U.S.A.
+Corp. , 222 F.3d 36 , 42 (2d Cir. 2000) (certifying the question of whether gun manufacturers owe a duty to exercise reasonable care in marketing and distributing their products in New York because the question of "[w]hether defendants owe a duty to the plaintiffs' victims is .
+.
+.
+a particularly thorny inquiry, implicating questions of policy that cannot adequately be resolved by reviewing New York state precedents").
+Although the parties did not request certification, we are empowered to seek certification sua sponte.
+See Local Rules of the United States Court of Appeals for the Second Circuit 0.27 .
+With respect to the unsettled question of whether the City has standing under New York law to allege its GBL 349 claims in Nexicon and EZTobacco , we believe that certification to the New York Court of Appeals is the most prudent path.
+See City of New York v. Beretta U.S.A.
+Corp. , 524 F.3d 384 , 407 (2d Cir. 2008) (Katzmann, J., dissenting) (noting that the use of certification for an unsettled area of state law is "[i]n keeping with our preference that states define the meaning of their own laws in the first instance"); Allstate Ins. Co. v. Serio , 261 F.3d 143 , 150 (2d Cir. 2001) (same).
+We therefore sever the GBL 349 claims in Nexicon and EZTobacco , and certify them to the New York Court of Appeals, as set forth below.
+See Abrahams , 79 F.3d at 239 (severing a claim and certifying it to the Connecticut Supreme Court).
+D. Public Nuisance: EZTobacco and NCCigarettes Under New York law, a public nuisance is "conduct or omissions which .
+.
+.
+endanger or injure the property, health, safety or comfort of a considerable number of persons, and is actionable by a governmental agency."
+Hoover v. Durkee , 622 N.Y.S.2d 348 , 349 , 212 A.D.2d 839 , 840 (3d Dep't 1995) (citation and internal quotation marks omitted).
+The City's public nuisance claims before us are predicated on New York Public Health Law 1399-ll .
+In enacting that law, the legislature found "that the shipment of cigarettes sold via the internet or by telephone or by mail order to residents of this state poses a serious threat to public health, safety, and welfare, to the funding of health care pursuant to the health care reform act of 2000, and to the economy of the state."
+N.Y. Pub. Health Law 1399-ll , ch.
+262, 1 .
+While the legislature clearly believes that the Internet sale of cigarettes into New York poses a health risk to its residents, we have some reservation as to whether the legislature, in passing 1399-ll , intended to displace common law nuisance claims with respect to this subject matter.
+Cf. City of New York v. Milhelm Attea & Bros., Inc. , 550 F.Supp.2d 332 , 350-51 (E.D.N.Y.
+2008).
+A violation of 1399-ll is a crime and the law empowers the State Commissioner of Health to impose a civil fine.
+See id. 1399-ll (5) .
+It does not, however, provide for enforcement by another entity besides the State.
+Because this question implicates both the State's particular interest in protecting the public's health, as well as the public policy goals behind the Public Health Law, we find that certification of this question is also the most prudent path.
+See Sealed v. Sealed , 332 F.3d 51 , 59 (2d Cir. 2003).
+We therefore also sever the public nuisance claims, and certify [**25] them to the New York Court of Appeals, as set forth here.
+For the foregoing reasons, we respectfully certify to the New York Court of Appeals the following questions: 1.
+Does the City have standing to assert its claims under General Business Law 349 ?
+2.
+May the City assert a common law public nuisance claim that is predicated on N.Y. Public Health Law 1399-ll ?
+In formulating these two questions as we have here, we do not mean to limit the Court of Appeals's response.
+The certified questions may be deemed expanded to cover any further pertinent question of New York law that the Court of Appeals finds appropriate to answer in connection with these issues.
+This panel retains jurisdiction over the GBL 349 claims in Nexicon and EZTobacco and the public nuisance claims pending the New York Court of Appeals's disposition of the certified questions.
+It is hereby ORDERED that the Clerk of this Court transmit to the Clerk of the New York Court of Appeals a Certificate, as set forth below, together with a complete set of briefs and appendices filed in this Court by the parties.
+CERTIFICATE The foregoing is hereby certified to the New York Court of Appeals, pursuant to 2d Cir. R. 0.27 and N.Y. Comp.Codes.
+R. & Regs.
+tit. 22, 500.27 , as ordered by the United States Court of Appeals for the Second Circuit.
+CONCLUSION We sever the GBL 349 claims in Nexicon and EZTobacco and all the public nuisance claims and certify two questions regarding those claims to the New York Court of Appeals.
+We retain jurisdiction over those claims pending the New York Court of Appeals's disposition.
+Because we believe that the disposition of the certified questions will not affect the discovery needed as to the RICO claims and that delay in remanding those claims awaiting that disposition is therefore unnecessary, we VACATE and REMAND as to the City's primary RICO claims as well as the alternative association-in-fact enterprise claim alleged against Nexicon.
+See Abrahams , 79 F.3d at 240 (remanding claims after severing a separate claim and certifying it to the Connecticut Supreme Court, upon a finding that delay in remanding the reinstated claims was unnecessary).
+We AFFIRM the dismissal of the remaining RICO claims, the common law fraud claims in all cases, and the GBL 349 claim in Smokes-Spirits.
+We have considered the parties' remaining arguments and find them to be without merit.

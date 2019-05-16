@@ -1,0 +1,87 @@
+ OPINION WIDENER , Circuit Judge: This case presents an issue of first impression on the same facts in the courts of appeal, although the Third and Eighth Circuits have considered similar fact situations, as have we.
+It is whether a bank violates the automatic stay of 11 U.S.C. 362(a) by placing an administrative hold on a debtor's account while seeking relief from the stay to exercise its right of setoff.
+The United States Bankruptcy Court for the District of Maryland held Citizens Bank of Maryland (Citizens) in contempt for violating the automatic stay and awarded damages to Strumpf under 11 U.S.C. 362(h) .
+See Citizens of Md. v. Strumpf , 138 B.R. 792 (D.Md.1992).
+On appeal, the United States District Court for the District of Maryland reversed.
+See 138 B.R. at 795 .
+Strumpf now appeals and we reverse.
+I. On November 28, 1989, Citizens loaned Strumpf $5,068.75 on a note as an unsecured consumer loan to be repaid in 24 monthly installments.
+See 138 B.R. at 792 .
+Upon default, the note provided Citizens with the right to immediately accelerate the amount due, the right to recover attorney's fees incurred in collection, and the right of setoff.
+See 138 B.R. at 792 .
+On January 25, 1991, Strumpf filed a Chapter 13 bankruptcy petition.
+See 138 B.R. at 792 .
+At the time of filing, Strumpf had $11,279.86 in a checking account with Citizens, and the note was in default because Strumpf had failed to make scheduled payments.
+See 138 B.R. at 792 .
+On March 20, 1991, the bankruptcy court confirmed Strumpf's repayment plan.
+On October 7, 1991, Citizens filed a motion for relief from the automatic stay and for setoff and placed an administrative hold on $3,500 in Strumpf's checking account, $3,250.48 being due on the note at the time.
+See 138 B.R. at 792-93 .
+On October 9, 1991, Strumpf filed a motion to hold Citizens in contempt for violating the automatic stay of 362(a) .
+See 138 B.R. at 793 .
+The bankruptcy court reserved ruling on Citizens' motion on November 4, 1991, and then granted Strumpf's motion on November 13, awarding him attorney's fees of $500, punitive damages of $375, and nominal damages of $25.
+See 138 B.R. at 793 .
+On December 2, the bankruptcy court granted Citizens' motion for relief from the stay and authorized it to exercise its right of setoff.
+See 138 B.R. at 793 .
+Citizens, however, was unable to set off its loan because Strumpf had withdrawn all funds from his checking account after Citizens removed the administrative hold.
+See 138 B.R. at 793 .
+II.
+The right of setoff may arise contractually or under state law, see 4 Collier on Bankruptcy ¶ 553.06 (15th ed. 1992), and it allows a creditor to apply one mutual debt against another to avoid "the absurdity of making A pay B when B owes A." Studley v. Boylston Nat'l Bank , 229 U.S. 523, 528 , 33 S.Ct. 806, 808 , 57 L.Ed. 1313 (1913).
+While the Bankruptcy Code preserves a creditor's right of setoff that arose before the filing of a petition in bankruptcy, see 11 U.S.C. 553(a) , the Code stays the exercise of the right of setoff by making it subject to the automatic stay of 362(a) .
+See 11 U.S.C. 362(a)(7) .
+To exercise its right of setoff, a creditor must obtain relief from the automatic stay by filing a motion with the bankruptcy court.
+See 11 U.S.C. 362(d) .
+If the creditor fears that the property subject to the motion will suffer irreparable damage before notice and hearing may be had, the creditor may even file an ex parte motion under 362(f) .
+See 11 U.S.C. 362(f) .
+Any relief from the automatic stay rests within the sound discretion of the bankruptcy court.
+See Small Business Admin. v. Rinehart , 887 F.2d 165, 169 (8th Cir.1989).
+If the debtor learns of the motion for relief from the stay, however, the debtor may defeat the creditor's right of setoff by removing all funds in the creditor's possession before the creditor can obtain relief from the stay.
+Therefore, even if the creditor is granted relief from the automatic stay, the creditor will have nothing with which to set off the debt owing it.
+As the district court recognized, this scenario is known as the "banker's dilemma": "[W]hen a bankruptcy is filed, a bank claiming a right of set-off in a debtor's account may be faced with a dilemma--whether it should turn over proceeds of [the] debtor's account or whether it should exercise its set-off rights in violation of the automatic stay."
+Citizens Bank , 138 B.R. at 793 , quoting from In re Bass Mechanical Contractors, Inc. , 84 B.R. 1009, 1022 (Bankr.W.D.Ark.1988).
+Recognizing this dilemma, some bankruptcy and district courts have held that pending a motion for relief from the stay, a creditor asserting a right of setoff may place an administrative hold on a debtor's account without violating the automatic stay of 362(a) .
+See Citizens Bank , 138 B.R. at 793 (holding same and collecting cases).
+Relying on this body of case law, Citizens placed an administrative hold on Strumpf's account and filed a motion for relief from the stay.
+See 138 B.R. at 794 .
+While we understand the dilemma that Citizens and other similarly situated creditors face, we cannot overlook the fact that the Code does not authorize such action, and is quite to the contrary.
+Setoff is explicitly within the terms of section 362(a)(7) which stays a creditor from exercising its right of setoff unless and until the creditor obtains relief from the stay.
+In United States v. Reynolds , 764 F.2d 1004 (4th Cir.1985), we held that a freeze by the Internal Revenue Service (IRS) on a debtor's tax refund "was a setoff subject to the automatic stay and that the IRS violated the stay in retaining the funds."
+764 F.2d at 1006-07 .
+Based on this holding, we are of opinion that an administrative hold is tantamount to the exercise of a right of setoff and thus violates the automatic stay of 362(a)(7) .
+See 764 F.2d at 1006-07 .
+As well as Rinehart , supra , United States v. Norton , 717 F.2d 767, 773 (3d Cir.1983) and In re Penn Central Transportation Company , 453 F.2d 520 (3d Cir.1972) (a railway reorganization under the Bankruptcy Act) are on slightly different facts but are fully in accord with our decision.
+Whether the creditor actually offsets the debtor's account or places a hold on the debtor's account, both effectively deprive the debtor of the use of the funds pending the outcome of the motion for relief from the stay.
+See Rinehart , 887 F.2d at 168 .
+Citizens attacks this holding, the same one reached by the bankruptcy court, claiming that Reynolds is distinguishable and that equating an administrative hold with the exercise of the right of setoff renders the right of setoff unenforceable and effectively repeals 553(a) .
+Citizens states that, unlike the IRS in Reynolds , Strumpf's plan made no provision to pay Citizens as a secured creditor despite its status as a secured creditor under 506(a) .
+Furthermore, Citizens claims that, unlike the IRS, it did not intend to keep the hold on Strumpf's account until the end of his Chapter 13 plan.
+We are not persuaded by Citizens' efforts to distinguish Reynolds .
+While the fact that Citizens was not provided for as a secured creditor in Strumpf's plan might be taken into account in deciding whether the bankruptcy court should grant Citizens relief from the automatic stay under 362(d)(1) , it has no bearing on whether Citizens acted properly in placing an administrative hold on Strumpf's account.
+We are further of opinion that the length of time a creditor intends to maintain a hold is not relevant to whether a hold is tantamount to a setoff.
+In Reynolds the IRS intended to hold the funds until the Chapter 13 plan was closed because the bankruptcy court had denied it relief from stay due to its status as a secured creditor with adequate protection.
+See 764 F.2d at 1007 .
+In this case, Citizens intended to hold Strumpf's account only until it could get relief from stay.
+These cases indicate to us that the length of time a creditor intends to maintain the hold is determined by that same creditor's ability to get relief from the automatic stay and exercise its right of setoff, so the length of time is not relevant to whether a hold is tantamount to a setoff.
+We likewise are not persuaded by Citizens' claims that our holding renders the right of setoff unenforceable and effectively repeals 553(a) .
+Statutory construction begins with the literal language of a statute, see United States v. Turkette , 452 U.S. 576, 580 , 101 S.Ct. 2524, 2527 , 69 L.Ed.2d 246 (1981), and if the language is clear and unambiguous our task is at an end unless a literal reading of the statute contravenes the clearly expressed legislative intent of Congress.
+See Russello v. United States , 464 U.S. 16, 20 , 104 S.Ct. 296, 299 , 78 L.Ed.2d 17 (1983).
+While the banker's dilemma may allow a debtor to defeat a creditor's right of setoff, the clear and unambiguous language of 362(a) produces this result.
+Furthermore, our holding does not contravene any clearly expressed legislative intent of Congress: House Report No. 95-595, 95th Cong., 1st Sess.
+340-42 (1977); Senate Report No. 95-989, 95th Cong., 2d Sess.
+54-55 (1978); reprinted in 1978 U.S.C.C.A.N.
+5787 at 5840 and 6296-97.
+"If a bank could freeze the debtor's accounts upon the filing of a petition in bankruptcy, the debtor's chances for successful rehabilitation would be substantially diminished."
+See Reynolds , 764 F.2d at 1007 (quoting Norton , 717 F.2d at 773 ).
+III.
+As for the bankruptcy court's award of attorney's fees, punitive damages, and nominal damages, we are of opinion that such an award was appropriate and not an abuse of discretion.
+See Budget Service Co. v. Better Homes of Va. , 804 F.2d 289, 292-93 (4th Cir.1986).
+To award damages under 362(h) the bankruptcy court need only find a willful violation of the automatic stay of 362(a) .
+To constitute a willful act, the creditor need not act with specific intent but must only commit an intentional act with knowledge of the automatic stay.
+See Budget Service , 804 F.2d at 292-93 ; In re Atl. Business & Community Corp. , 901 F.2d 325, 329 (3d Cir.1990).
+In this case there is no doubt that Citizens had knowledge of the stay when it placed the hold on Strumpf's account because the placing of the hold was an attempt to buy time while seeking relief from the automatic stay.
+IV.
+We are thus of opinion that Citizens' administrative hold on Strumpf's account violated the automatic stay provisions of 362(a)(7) and that the bankruptcy court did not abuse its discretion by finding Citizens had violated the automatic stay and awarding damages.
+Accordingly, we reverse the decision of the district court and remand with instructions to reinstate all of the decision of the bankruptcy court except that part which may have held Citizens in contempt of court.
+That part of the decision of the district court with reference to holding Citizens in contempt of court is not appealed by Strumpf (Brief, p. 7-8), although that part finding Citizens had not violated 362(a)(7) and not awarding damages under 362(h) was appealed.
+In all events, the finding of contempt was surplus-age.
+See Budget Service Company , 804 F.2d 289, 293 , and n. 4.
+REVERSED AND REMANDED WITH INSTRUCTIONS .

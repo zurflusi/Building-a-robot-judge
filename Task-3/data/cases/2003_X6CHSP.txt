@@ -1,0 +1,257 @@
+ RADER, Circuit Judge.
+Following a jury trial, the United States District Court for the Southern District of California ruled that Merck KgaA (Merck) infringed U.S.
+Patent Nos.
+4,988,621 ( '621 patent ), 4,792,525 ( '525 patent ) 5,695,997 ( '997 patent ), 4,879,237 ( '237 patent ), and 4,789,734 ( '734 patent ), belonging to Integra Lifesciences I, Ltd., the Burnham Institute and Telios Pharmaceuticals, Inc. 1 (Integra).
+The district court held that subsection (e) of 35 U.S.C. 271 did not immunize Merck against liability for infringement of the '525 , '237 , '997 , and '734 patents.
+See 35 U.S.C. 271(e)(1) (2000).
+The district court, however, granted Merck's motion for summary judgment of invalidity of claim 2 of the '621 patent .
+Integra LifeSciences I Ltd. v. Merck KgaA , 50 USPQ2d 1846, 1850 , 1999 WL 398180 (S.D.Cal.1999).
+The jury awarded a reasonable royalty of $15,000,000.
+Because the district court correctly construed the claims and determined that Merck's infringing activity did not fall within the safe harbor of 271 (e) , this court affirms those aspects of the district court's order.
+Because substantial evidence does not support the jury's reasonable royalty award, however, this court remands for further consideration of damages.
+I. Integra owns the '621 , '525 , '997 , '237 , and '734 patents, all of which are related to a short tri-peptide segment of fibronectin having the sequence Arg-Gly-Asp (in single-letter notation, referred to as the "RGD peptide").
+The RGD peptide sequence promotes cell adhesion to substrates in culture and in vivo .
+The RGD sequence promotes this beneficial cell adhesion by interacting with vß3 receptors on cell surface proteins called integrins.
+In sum, the RGD sequence attaches to the vß3 receptors on the surface of cells.
+This bond adheres the cells to the substrate containing RGD.
+In theory, inducing better cell adhesion and growth should promote wound healing and biocompatibility of prosthetic devices.
+In addition, blood vessels grow new branches due to controlled interactions with integrins.
+Dr. David Cheresh, a scientist at Scripps, discovered that blocking vß3 receptors inhibits angiogenesis, the process for generating new blood vessels.
+Inhibiting angiogenesis showed promise as a means to halt tumor growth by starving rapidly dividing tumor cells.
+Similarly, anti-angiogenic therapies might also treat diabetic retinopathy, rheumatoid arthritis, psoriasis, and inflammatory bowel disease.
+Merck recognized the importance of Dr. Cheresh's discovery, and hired Scripps and Dr. Cheresh to identify potential drug candidates that might inhibit angiogenesis.
+Dr. Cheresh's research showed that cyclic peptide EMD 66203 displayed good inhibition of ctyβs receptors.
+Merck then entered into an agreement with Scripps to fund the "necessary experiments to satisfy the biological bases and regulatory (FDA) requirements for the implementation of clinical trials" with EMD 66203 or a derivative thereof.
+The agreement contemplated commencing clinical trials with a drug candidate within three years.
+Scripps' research led to the discovery of EMD 85189, and then EMD 121974-both derivatives of EMD 66203.
+Scripps scientists [**1867] conducted several in vivo and in vitro experiments "to evaluate the specificity, efficacy, and toxicity of EMD 66203, 85189 and 121974 for various diseases, to explain the mechanism by which these drug candidates work, and to determine which candidates were effective and safe enough to warrant testing in humans."
+In particular, these tests assessed the action of the cyclic RGD peptides, including the histopathology, toxicology, circulation, diffusion, and half-life of the peptides in the bloodstream.
+These tests also examined the proper mode of administering the peptides for optimum therapeutic effect.
+In 1997, the Scripps research team chose EMD 121974 as the best candidate for clinical development.
+Integra learned of the Scripps Merck agreement.
+Believing the angiogenesis research was a commercial project that infringed its RGD-related patents, Integra offered Merck licenses to the patents-in-suit.
+After lengthy negotiations, Merck declined.
+Integra then sued Merck, Scripps, and Dr. Cheresh.
+Merck answered that its work with Scripps falls under the safe harbor afforded by 35 U.S.C. 271(e)(1) .
+Merck also contended Integra's patents were invalid.
+Before trial, Integra limited its request for monetary damages to Merck's alleged infringement, and sought only a declaratory judgment against Scripps and Cheresh.
+After the close of all evidence, the district court granted Scripps' and Dr. Cheresh's motion to dismiss Integra's claim for declaratory judgment.
+At trial, the jury found Merck liable for infringing the '525 , '997 , '237 , and '734 patents.
+The district court determined that the exemption of 271(e)(1) did not embrace the infringing activity between 1994 and 1998.
+2 The district court, however, granted Merck's summary judgment motion on claim 2 of the '621 patent .
+The district court invalidated this claim based on anticipation by a 1984 Nature article.
+The parties filed various post-trial motions.
+In particular, Merck filed motions for JMOL before and after jury deliberations, asserting, inter alia , that the accused experiments were exempt from infringement under 35 U.S.C. 271(e)(1) ; that Integra did not prove infringement of any patents; and that substantial evidence did not support the damages award.
+The district court denied Merck's motions.
+Merck timely appeals, asserting error in the district court's interpretation of 271(e)(1) , in claim construction, and in the refusal to reconsider the amount of the damages award.
+Integra cross-appeals the denial of its motion for declaratory judgment of infringement by Scripps and Dr. Cheresh, the invalidity finding on the '621 patent , and the court's refusal to enhance the damages award.
+This court has exclusive jurisdiction.
+28 U.S.C. 1295(a)(1) (2000).
+II.
+This court reviews statutory interpretation without deference.
+Vectra Fitness, Inc. v. TNWK Corp. , 162 F.3d 1379, 1381 , 49 USPQ2d 1144, 1146 (Fed. Cir.1998).
+Similarly, this court reviews claim construction without deference.
+Cybor Corp. v. FAS Techs., Inc. , 138 F.3d 1448, 1456 , 46 USPQ2d 1169, 1172 (Fed. Cir.1998) (en banc).
+Determining a reasonable royalty is an issue of fact, which this court reverses only in the absence of substantial evidence.
+Unisplay, S.A v. Am. Elec.
+Sign Co. , 69 F.3d 512, 517 , 36 USPQ2d 1540, 1544 (Fed.Cir.1995); Richardson v. Suzuki Motor Co. , 868 F.2d 1226, 124-41 , 9 USPQ2d 1913, 1924 (Fed. Cir.1989).
+Finally, [**1868] this court reviews the denial of JMOL following a jury verdict without deference.
+SIBIA Neurosciences, Inc. v. Cadus Pharm. Corp. , 225 F.3d 1349, 1354 , 55 USPQ2d, 1927, 1930 (Fed. Cir.2000).
+A. 35 U.S.C. 271(e)(1) defines a safe harbor against patent infringement: It shall not be an act of infringement to make, use, offer to sell, or sell within the United States or import into the United States a patented invention (other than a new animal drug or veterinary biological product (as those terms are used in the Federal Food, Drug, and Cosmetic Act and the Act of March 4, 1913) which is primarily manufactured using recombinant DNA, recombinant RNA, hybridoma technology, or other processes involving site specific genetic manipulation techniques) solely for uses reasonably related to the development and submission of information under a Federal law which regulates the manufacture, use, or sale of drugs or veterinary biological products.
+This provision entered title 35 in 1984 as part of the Drug Price Competition and Patent Term Restoration Act of 1984, Pub.L.
+No. 98-417 , 98 Stat. 1585 (1984) (the 1984 Act).
+The 1984 Act had two purposes.
+In the first place, the 1984 Act sought to restore patent term to pharmaceutical inventions to compensate for the often-lengthy period of pre-market testing pending regulatory approval to sell a new drug.
+These regulatory delays can deprive a patentee of many years of its patent's term.
+The second reason for the 1984 Act responded to this court's decision in Roche Products, Inc. v. Bolar Pharmaceutical Co. , 733 F.2d 858 , 221 USPQ 937 (Fed.Cir.1984).
+Specifically, the Act sought to ensure that a patentee's rights did not de facto extend past the expiration of the patent term because a generic competitor also could not enter the market without regulatory approval.
+See Eli Lilly & Co. v. Medtronic, Inc. , 496 U.S. 661, 669-70 , 110 S.Ct. 2683 , 110 L.Ed.2d 605 (1990).
+Thus, the 1984 Act permitted those competitors to conduct experiments in advance of the patent expiration as long as those activities were reasonably related to securing regulatory approval.
+As previously noted by this court, " [s]ection 271(e) permits premarket approval activity conducted for the sole purposes of sales after patent expiration."
+Hoechst-Roussel Pharms., Inc. v. Lehman , 109 F.3d 756, 763 , 42 USPQ2d 1220, 1226 (Fed.Cir.1997).
+The House Committee that initiated this provision expressly described the pre-market approval activity as "a limited amount of testing so that generic manufacturers can establish the bioequivalency of a generic substitute."
+H.R.Rep.
+No. 857, at 8, reprinted in 1984 U.S.C.C.A.N.
+at 2692.
+The Committee further characterized the limits of this provision, noting that the "nature of the interference with the rights of the patent holder" would not be "substantial," but "de minimus [sic]."
+Id. at 2692, 2714 (stating that "all that the generic can do is test the drug for purposes of submitting data to the FDA for approval.
+Thus, the nature of the interference is de minimus [sic].").
+Thus, the 1984 Act was "designed to benefit the makers of generic drugs, research-based pharmaceutical companies, and not incidentally the public."
+Glaxo, Inc. v. Novopharm, Ltd. , 110 F.3d 1562, 1568 , 42 USPQ2d 1257, 1262 (Fed.Cir.1997).
+This court has had occasion to consider the limits of the words "solely for purposes reasonably related to the development and submission of information under a Federal law."
+Applying this language, this court has permitted clinical trials and demonstrations of medical devices under 271(e)(1) .
+See Intermedics Inc. v. Ventritex Inc. , 775 F.Supp.
+1269 (N.D.Cal.
+1991), affd , 991 F.2d 808 , 26 USPQ2d 1524 (Fed.Cir.1993) (citing Telectronics Pacing Sys., Inc. v. Ventritex, Inc. , 982 F.2d 1520 (Fed.Cir.1992)).
+This court has not considered the question arising in this case, namely, whether the pre-clinical research conducted under the Scripps-Merck agreement is exempt from liability for infringement of Integra's patents under 271(e)(1) .
+The Scripps-Merck experiments did not supply information for submission to the United States Food and Drug Administration (FDA), but instead identified the best drug candidate to subject to future clinical testing under the FDA processes.
+Thus, this court must determine whether the 271(e)(1) safe harbor reaches back down the chain of experimentation to embrace development and identification of new drugs that will, in turn, be subject to FDA approval.
+According to 35 U.S.C. 271(a) , anyone who "without authority makes, uses, sells, or offers to sell any patented invention, within [**1869] the United States during the term of the patent therefor, infringes the patent."
+35 U.S.C. 271(a) (2000).
+In this case, Merck used the Integra inventions, and thus infringed its patents.
+Merck may, nonetheless, escape liability for patent infringement if its uses of the Integra inventions fall within the strict limits of 271(e)(1) .
+To qualify for exemption 3 , Merck must show its activities were "solely for uses reasonably related to the development and submission of information" to the FDA.
+35 U.S.C. 271(e)(1) .
+At the outset, this statutory language strictly limits the exemption "solely" to uses with a reasonable relationship to FDA procedures.
+The term "solely" places a constraint on the inquiry into the limits of the exemption.
+The exemption cannot extend at all beyond uses with the reasonable relationship specified in 271(e)(1) .
+The 1984 Act further specifies the subject of the reasonable relationship test.
+The exemption covers uses "reasonably related to the development and submission of information" to the FDA.
+Thus, to qualify at all for the exemption, an otherwise infringing activity must reasonably relate to the development and submission of information for FDA's safety and effectiveness approval processes.
+The focus of the entire exemption is the provision of information to the FDA.
+Activities that do not directly produce information for the FDA are already straining the relationship to the central purpose of the safe harbor.
+The term "reasonably" permits some activities that are not themselves the experiments that produce FDA information to qualify as "solely for uses reasonably related" to clinical tests for the FDA.
+Again, however, the statutory language limits the reach of that relationship test.
+In this case, the Scripps work sponsored by Merck was not clinical testing to supply information to the FDA, but only general biomedical research to identify new pharmaceutical compounds.
+The FDA has no interest in the hunt for drugs that may or may not later undergo clinical testing for FDA approval.
+For instance, the FDA does not require information about drugs other than the compound featured in an Investigational New Drug application.
+Thus, the Scripps work sponsored by Merck was not "solely for uses reasonably related" to clinical testing for FDA.
+The reach of the reasonable relationship test as applied in this case receives further confirmation from the context of the 1984 Act.
+The meaning of the phrase "reasonably related to the development and submission of information" as set forth in 271(e)(1) is clearer in the context of the role of the 1984 Act in facilitating expedited approval of a generic version of a drug previously approved by the FDA.
+As discussed above, the express objective of the 1984 Act was to facilitate the immediate entry of safe, effective generic drugs into the marketplace upon expiration of a pioneer drug patent.
+The 1984 Act thus permits filing of an ANDA (abbreviated new drug application) to expedite FDA approval of a generic version of a drug already on the market.
+Bayer AG v. Elan Pharm.
+Research Corp. , 212 F.3d 1241 , 54 USPQ2d 1711 (Fed.Cir.2000).
+This expedited approval process requires the generic drug company to perform safety and effectiveness tests on its product before expiration of the patent on the pioneer drug if the generic is to be available immediately upon patent expiration.
+As noted, however, this court had ruled that those pre-expiration tests infringe the patent on the pioneer drug.
+Roche , 733 F.2d at 858 .
+Therefore, the 1984 Act enacted 271(e)(1) to create a safe harbor for those pre-expiration tests necessary to satisfy FDA requirements.
+As also noted, the legislative record shows as well that the 1984 Act narrowly tailored the 271(e)(1) exemption to have only a de minimis impact on the patentee's right to exclude.
+Therefore, the 271(e)(1) safe harbor covers those pre-expiration activities "reasonably related" to acquiring FDA approval of a drug already on the market.
+Within this framework and language of the 1984 Act, the district court correctly confined the 271(e)(1) exemption to [**1870] activity that "would contribute (relatively directly)" to information the FDA considers in approving a drug.
+Intermedics , 775 F.Supp.
+at 1280 .
+The exemption viewed in this context does not endorse an interpretation of 271(e)(1) that would encompass drug development activities far beyond those necessary to acquire information for FDA approval of a patented pioneer drug already on the market.
+It does not, for instance, expand the phrase "reasonably related" to embrace the development of new drugs because those new products will also need FDA approval.
+Thus, 271(e)(1) simply does not globally embrace all experimental activity that at some point, however attenuated, may lead to an FDA approval process.
+The safe harbor does not reach any exploratory research that may rationally form a predicate for future FDA clinical tests.
+As noted, the text of 271(e)(1) limits the exemption "solely" to activities "reasonably related to the development and submission of information" to the FDA.
+Moreover, the context of this safe harbor keys its use to facilitating expedited approval of patented pioneer drugs already on the market.
+Extending 271(e)(1) to embrace new drug development activities would ignore its language and context with respect to the 1984 Act in an attempt to exonerate infringing uses only potentially related to information for FDA approval.
+Moreover, such an extension would not confine the scope of 271(e)(1) to de minimis encroachment on the rights of the patentee.
+For example, expansion of 271(e)(1) to include the Scripps Merck activities would effectively vitiate the exclusive rights of patentees owning biotechnology tool patents.
+After all, patented tools often facilitate general research to identify candidate drugs, as well as downstream safety-related experiments on those new drugs.
+Because the downstream clinical testing for FDA approval falls within the safe harbor, these patented tools would only supply some commercial benefit to the inventor when applied to general research.
+Thus, exaggerating 271(e)(1) out of context would swallow the whole benefit of the Patent Act for some categories of biotechnological inventions.
+Needless to say, the 1984 Act was meant to reverse the effects of Roche under limited circumstances, not to deprive entire categories of inventions of patent protection.
+Because the language and context of the safe harbor do not embrace the Scripps Merck general biomedical experimentation, this court discerns no error in the district court's interpretation of 35 U.S.C. 271(e)(1) .
+This court affirms that aspect of the district court's decision.
+B. Merck contends that the district court erred in construing the asserted claims of the '525 , '997 , and '237 patents to embrace both linear and cyclic RGD peptides.
+Representative claim 8 of the '525 patent reads: A substantially pure peptide including as the cell-attachment-promoting constituent the amino acid sequence Arg-Gly-Asp-R wherein R is Ser, Cys, Thr or other amino acid, said peptide having cell-attachment-promoting activity, and said peptide not being a naturally occurring peptide.
+The '237 patent claims methods of controlling Arg-Gly-Asp mediated attachments of animal cells to substrates.
+The '997 patent claims recite methods of altering cell attachment activity by bringing cells into contact with peptide RGDX.
+In construing claim 8 of the '525 patent , the district court concluded that the claim "imposes no limitations on the three-dimensional structure of the peptides at issue."
+The district court found the claim's terms, in light of the specification, fully support Integra's contention that claim 8 embraces RGD peptides of any linear or cyclic structure.
+Because the patents do not expressly refer to cyclic configurations, Merck would limit the term "peptide" to linear peptides.
+As the district court noted, however, the term "peptide" is understood in the art to represent "two or more amino acids covalently joined by peptide bonds."
+By this definition, the general term "peptide" encompasses peptides of differing structural forms.
+The '525 patent specification refers to RGD peptides as having carboxyl and amino termini without expressly discussing cyclic RGD peptide structures.
+However, the specification as a whole embraces the claimed RGD peptides in both cyclic and linear conformations.
+The preparation of cyclic peptides was well known to those of skill in the art in 1984.
+As the district court correctly noted, the asserted patents need not teach that which is already known.
+The '525 [**1871] specification references a journal article authored by Merrifield, which discloses the general knowledge of skilled artisans in making cyclic peptides at the filing date of the '525 patent .
+'525 patent, col.
+3, ll.
+60-64.
+The record also includes a declaration from Dr. Dedhar that the Merrifield method makes cyclic peptides.
+Dr. Dedhar stated that a skilled artisan "would have known from reading the patent specification in 1985 that this recognition site exists on all peptides that contain the Arg-Gly-Asp sequence, including cyclic peptides or peptides containing D-form amino acids."
+Merck also contends that the patent applicant, while arguing the patentability of claims to cyclic peptides in a later-filed, unrelated application, admitted that the '525 and '997 patents do not teach cyclic peptides.
+Specifically, the applicant distinguished the claims of unrelated U.S.
+Patent No. 5,880,092 to Ruoslahti et al.
+(the '092 patent ) over U.S.
+Patent No. 4,614,517 (the '517 patent ), a divisional of the parent of the '525 and '997 patents.
+In essence, Merck would limit the reach of the '517 patent due to statements the applicant made in another patent application, not in the application leading to the '517.
+The Patent and Trademark Office cited the '517 patent as prior art against the Ruoslahti '092 patent .
+During prosecution of the '092 patent , the applicant stated: The Examiner argues that the generic peptide taught by Ruoslahti et al.
+anticipates the claimed peptide The reference does not disclose a subgenus or species from which a subgenus of peptides can be fashioned.
+As a result, one skilled in the art would not immediately envisage the claimed peptide because of the very large number of peptides encompassed by the generic teaching of this reference The reference does not suggest cyclizing a peptide to conformationally stabilize it.
+As a result, one skilled in the art would not immediately envisage the claimed peptide because the reference does not teach a cyclic Arg-Gly-Asp peptide.
+According to Merck, this statement limits the term "peptide" in the '517 patent to non-cyclic structures.
+In the first place, of course, the '092 patent prosecution does not directly limit the '517 patent .
+See Abbott Labs.
+v. Dey, L.P.
+, 287 F.3d 1097, 1104-05 , 62 USPQ2d 1545, 1550 (Fed.Cir.
+2002) (stating that as between two patent applications sharing an inventor and the same assignee, but having no formal relationship, "the relationship, if any, between the '839 and '301 patents is insufficient to render the particular arguments made during prosecution of the '301 patent equally applicable to the claims of the '839 patent").
+Those comments arise in a context different from the patentability of the '517 patent .
+Moreover, the above statement loosely describes the patentee's understanding of the '517 / '525 / '997 specification, but does not definitively limit the scope of the Integra inventions.
+These comments in the '092 prosecution evince the patent applicant's understanding that the '525 specification generically teaches "a very large number of peptides."
+The applicant notes that one of skill in the art would not "immediately envisage" conflict with the '092 invention.
+This characterization does not compromise the scope of the Integra inventions.
+The '525 patent is a genus patent.
+Such genus patents do not estop the applicant from later filing an improvement patent, such as the '517, to claim species with particularly useful properties.
+See In re Borah , 53 C.C.P.A.
+800 , 354 F.2d 1009 , 148 USPQ 213 (CCPA 1966).
+Accordingly, Merck's reliance on this ambiguous and unrelated prosecution history is misplaced, as it does not limit the asserted claims to linear peptides.
+Thus, the specification of Integra's invention does not limit the term "peptide" to only a linear structure.
+As the record indicates, the patentee discloses to those skilled in the art both linear and cyclic peptides.
+The district court correctly construed the term to have its full ordinary meaning in the art.
+C. Following its determination of infringement, the jury awarded Integra a reasonable royalty of $15,000,000.
+Merck contends this award is not supported by substantial evidence.
+For the reasons articulated below, this court agrees.
+After finding patent infringement, a jury may award a patentee "damages adequate to compensate for the infringement, but in no event less than a reasonable royalty for the use made of the invention by the infringer."
+35 U.S.C. 284 (2000) .
+Thus, an injured patentee enjoys at least a reasonable royalty even when unable to show lost profits or an established royalty rate.
+A reasonable royalty calculation envisions and ascertains the results of a [**1872] hypothetical negotiation between the patentee and the infringer at a time before the infringing activity began.
+Riles v. Shell Exploration & Prod. Co. , 298 F.3d 1302, 1311 , 63 USPQ2d 1819 (Fed. Cir.2002) (citing Hanson v. Alpine Valley Ski Area, Inc. , 718 F.2d 1075, 1078 , 219 USPQ 679, 682 (Fed. Cir. 1983)).
+Thus, the reasonable royalty calculus assesses the relevant market as it would have developed before and absent the infringing activity.
+Although an exercise in approximation, this analysis must be based on "sound economic and factual predicates."
+Riles , 298 F.3d at 1311 (citing Crystal Semiconductor Corp. v. TriTech Microelectronics Intl Inc. , 246 F.3d 1336 (Fed.Cir.2001); Shockley v. Arcan, Inc. , 248 F.3d 1349 , 58 USPQ2d 1692 (Fed.Cir.2001)).
+Royalties, like lost profits, are compensatory damages, not punitive.
+See Riles , 298 F.3d at 1312 .
+The first step in a reasonable royalty calculation is to ascertain the date on which the hypothetical negotiation in advance of infringement would have occurred.
+The correct determination of this date is essential for properly assessing damages.
+The value of a hypothetical license negotiated in 1994 could be drastically different from one undertaken in 1995 due to the more nascent state of the RGD peptide research in 1994.
+Indeed, factoring in the rapid development of biotechnological arts, a year can make a great difference in economic risks and rewards.
+In any event, the record is not clear on the hypothetical negotiation date.
+Integra charged Merck with infringing the '525 patent by conducting various experiments between 1994 and 1998.
+The district court ruled that some of the 1994 experiments are not infringing acts.
+This finding, however, does not properly establish the critical hypothetical negotiation date.
+The record shows that at least one of the 1994 Merck experiments was not considered exempted from infringement due to experimental use.
+Integra alleged infringement via an August 1994 pharmacokinetic experiment.
+Merck represents to this court in its brief that the jury returned a verdict finding that "Scripps and Cheresh infringed all of the patents by conducting various experiments between 1994-98 (the 'accused experiments' or the '1994-98 experiments')."
+Yet, it is not evident whether the 1994 pharmacokinetic experiment was considered by the jury for infringement purposes.
+Thus, the record does not clearly indicate whether 1994 or 1995 is the proper date for the first infringement.
+If indeed the record shows that the first infringement occurred in 1994, then the hypothetical negotiation should be regarded as having occurred at least before that earlier date.
+On remand, the trial court will have the opportunity to clarify the proper timing of the reasonable royalty calculus.
+Integra argues further that Mr. Anderson's testimony supports the $15,000,000 award.
+Mr. Anderson proffered a hypothetical license figure based, in part, on Merck's 1995 expectations of obtaining FDA approval of a cyclic peptide therapeutic.
+As already noted, however, if the hypothetical negotiation occurred in 1994, Merck did not have that expectation.
+Thus, an earlier date will change the risks and expectations of the parties.
+Integra argues that the $15,000,000 award is not excessive because Merck and ImClone executed a license for a pre-clinical stage antibody in 1990.
+The ImClone license included an up-front fee of $3,500,000, plus an additional $14,000,000 over the following three years.
+The record is not clear, however, that the level of risk associated with the licensed ImClone technology was equally applicable to the RGD technology.
+While the ImClone agreement may show that Merck pays upfront fees for research technology before clinical testing, the nature of the ImClone technology at the time of the Merck agreement may have no bearing on the value of a hypothetical RGD license.
+At the point before Merck ever attempted its first test on RGD technology, it would have assumed all the risks of failure—either scientific failure to identify a suitable therapeutic candidate or economic failure to market a successful product.
+If those risks as perceived before any experimentation differed from the risks quantified in the ImClone agreement, then the ImClone example does little to set the value of the pre-clinical RGD research project at a comparable figure.
+The parties' inability to project success at the pre-clinical research stage of the RGD project weighs heavily in determining a reasonable royalty, particularly if the time for the valuation of the project moves back to 1994.
+The record does not show that the ImClone licenses occurred under scientific or economic circumstances that permit comparison to this hypothetical RGD license.
+[**1873] Although comparisons to other licenses are inherently suspect because economic and scientific risks vary greatly, the record does seem to contain a more appropriate analogue than the ImClone license.
+In 1995, Telios and Genentech reached agreement to jointly develop and market a product with RGD peptides.
+This license is somewhat contemporary and involves similar technology.
+Under the Genentech agreement, Telios agreed to provide Genentech with exclusive patent licenses and years of research services.
+Under the hypothetical negotiation in this case, Integra would perform no pre-clinical research for Merck.
+Thus, even this analogue would need revision and inquiry.
+The $15,000,000 royalty also does not appear to take into account numerous factors that would considerably reduce the value of a hypothetical license.
+For example, Integra purchased Telios (together with all of its products, patents and know-how) for $20,000,000 in 1996.
+A $15,000,000 award figure to compensate for infringement of only some of Telios' patents before Integra's acquisition seems unbalanced in view of the overall acquisition price.
+Finally, on remand, the trial court will have the opportunity to consider other factors when sketching an overall picture of a hypothetical negotiation for a license to RGD technology.
+The value to a licensee of research tools lies, in part, in the point at which those tools are employed in the drug development continuum.
+A research tool enabling the identification of a drug candidate during high throughput screening, for instance, may supply more value to the ultimate invention than a research tool used to confirm an already recognized drug candidate's safety or efficacy.
+This type of challenge in assessing royalties confronted the district court in SIBIA , although this court never reached the issue of damages on appeal.
+See SIBIA , 225 F.3d at 1349, 1352-53 ; see also Donald Ware, Research Tool Patents: Judicial Remedies , 30 AIPLA Q.J., 267, 282-87 (2002).
+Similarly, the amount Merck would agree to pay for Integra's RGD technology could be influenced by the point of placement of this technology in its drug development process.
+In addition, the number of patent licenses needed to develop a drug may also affect the value placed on any single technology used in the development process.
+The cumulative effect of such stacking royalties can be substantial, particularly when reach-through royalties come into play.
+See Ware, supra , at 295-96.
+While this court does not opine on the applicability of a reach-through royalty in this case, the presence or absence of stacking royalties for research tools may color the character of a hypothetical negotiation between Merck and Integra for access to the RGD peptide technology.
+4 Thus, both the time point at which Merck utilized RGD peptides in its drug development process and the effect, if any, of stacking royalties may also play a role in crafting the hypothetical license between Integra and Merck.
+This court gives great deference to the district court's role in assessing the credibility of witnesses and weighing the facts of a given case. Nonetheless, the record evidence does not adequately support the jury's damage award of $15,000,000 in this case. Therefore, the district court's denial of JMOL as to the damage award is reversed.
+This case is remanded for further factual development and the calculation of damages consistent with the principles discussed herein.
+D. All other arguments made by the parties have been carefully considered, but are not found persuasive by this court.
+Thus, this court affirms the district court's denial of Integra's request for declaratory judgment, its holding that the '621 patent is invalid, and its refusal to grant enhanced damages.
+[**1874] CONCLUSIONS Because the district court properly determined Merck's infringing activities were not "solely for uses reasonably related" to provision of information to the FDA under 35 U.S.C. 271(e)(1) , this court affirms that aspect of the district court's decision.
+In addition, the district court correctly construed the term "peptide" to have its full ordinary meaning in the art.
+However, the district court erred in denying Merck's motion for reconsideration of an appropriate reasonable royalty.
+Therefore, the court remands for further consideration of the damages issue.
+COSTS Each party shall bear its own costs.
+AFFIRMED IN PART, REVERSED IN PART, and REMANDED.

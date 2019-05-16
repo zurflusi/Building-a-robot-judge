@@ -1,0 +1,167 @@
+ STEPHEN H. ANDERSON , Circuit Judge.
+Harold E. Staples, III, appeals from his conviction on one count of unlawful possession of an unregistered machinegun in violation of 26 U.S.C. 5841 , 5861(d) , and 5871 .
+Staples contends that the district court erred: (1) by failing to instruct the jury that scienter is an element of unlawful possession under 26 U.S.C. 5861 ; (2) by excluding certain documentary evidence under Fed.R.Evid.
+401 ; and (3) by refusing to submit to the jury his proffered instruction on the word "automatically" as it is used in 26 U.S.C. 5845(b) .
+On its own motion, the court has also raised the issue of the constitutionality of 5861(d) as a result of our recent opinion in United States v. Dalton , 960 F.2d 121 (10th Cir.1992).
+For the reasons stated below, we affirm.
+BACKGROUND On December 29, 1989, members of the police department of Jenks, Oklahoma, and the Bureau of Alcohol, Tobacco, and Firearms (BATF) conducted a search of Staples' home pursuant to a warrant.
+Among the items seized was an SGW .223 caliber Model X M14A1 assault rifle ("AR-15"), which Staples had purchased on April 9, 1983.
+Appellant's App.
+Vol.
+I at 185, Tab K. There is no dispute that the AR-15 had never been registered to Staples under the National Firearms Act (NFA), 26 U.S.C. 5841 , as a registerable automatic weapon.
+At the time of the search, the AR-15 contained neither a bolt carrier nor a magazine.
+Numerous weapons parts were found in the room where the AR-15 was stored including the bolt carrier for an M-16 military rifle.
+The M-16 bolt carrier was discovered in the pocket of a briefcase located in the room.
+BATF agents examined the AR-15 in their Washington, D.C., laboratory.
+The examination showed that the AR-15 had been assembled with certain internal parts originally manufactured for fully automatic military rifles like the M-16 including the hammer, disconnector, and trigger.
+The weapon did not, however, have an auto-sear.
+The sole function of that part is to permit automatic fire.
+The gun had a three-position selector switch.
+BATF Agent Joseph McLaughlin testified at trial that an external pin or "stop" on the side of the weapon's receiver had been removed by filing.
+This external modification enabled a user of the weapon to rotate the selector switch to the full automatic position.
+When the BATF agents cleaned and oiled the AR-15, inserted an appropriate magazine, used the M-16 bolt carrier found in the same room as the AR-15, loaded the weapon with "soft-primer" ammunition, and rotated the selector switch to full automatic, the weapon fired more than one shot with a single pull of the trigger.
+After a two-day trial, the jury found Staples guilty of possession of the unregistered AR-15 while acquitting him on a separate count of possessing an unregistered M-1 rifle also found in the search.
+Staples filed motions for acquittal at the end of the government's case and following the verdict.
+Both were denied.
+Consistent with the federal sentencing guidelines, the court sentenced Staples to five years probation with certain conditions, a $5,000 fine, and a $50 special assessment.
+The sentence has been stayed pending the outcome of this appeal.
+DISCUSSION I. CONSTITUTIONALITY OF STAPLES' CONVICTION UNDER 26 U.S.C. 5861(d) In United States v. Dalton , 960 F.2d 121 (10th Cir.1992), an opinion issued during the pendency of this appeal, we held a prosecution under 5861(d) to be unconstitutional because that statute required the registration of a firearm which the government refused to register due to the ban on machineguns imposed after May 19, 1986 by 18 U.S.C. 922(o) .
+1 Summarizing our position, we stated: R.C.
+5861(d) any 18 U.S.C. 922(o) section 922(o) section 922(o) section 5861 Dalton , 960 F.2d at 122, 126 .
+Because of the general similarity of the prosecution in this case with Dalton , and the fundamental nature of the issue involved, we raised the constitutional issue and permitted supplemental briefing by the parties.
+Since this is a potentially controlling issue, we address it first, applying the plain error standard of review.
+After reviewing the record and arguments of the parties, we conclude that Dalton is distinguishable.
+Dalton concerned a weapon that was possessed for the first time in 1989, three years after the May 19, 1986, effective date of 18 U.S.C. 922(o) ; whereas the gun in this case was purchased in 1983.
+Section 922(o)(2) (B) specifically exempts machineguns which were lawfully possessed (i.e., registered) prior to May 19, 1986.
+There is no dispute that machineguns could be registered prior to that date; thus, the reasoning in Dalton does not apply to the charge against Staples.
+Neither of the parties address this distinction.
+The government contends mainly that Dalton is in error.
+Appellee's Suppl.
+Br. at 6.
+However, even if Dalton applied to this case we could not overrule a previous opinion of this court.
+United States v. Spedalieri , 910 F.2d 707, 710 n. 3 (10th Cir.1990).
+En route to its conclusion, the government argues that 5861(d) remains valid after Dalton because there are reasons the court did not cite to support upholding the provision, including Congress' power to regulate the interstate movement of machineguns pursuant to the Commerce Clause.
+Appellee's Suppl.
+Br. at 3, 5.
+These arguments completely ignore the issue here--the requirement and date of registration of Staples' AR-15.
+Our statement in Dalton that since 1986 the government has refused to register machineguns (apparently for any reason, whether regulatory or revenue), was confirmed by testimony in this case by the government's witness, BATF Agent McLaughlin.
+He testified that the government would not register machineguns after the May 19, 1986 effective date of 922(o) .
+2 Likewise, Staples' arguments miss the point.
+He merely "adopts Dalton's argument in toto that due process bars his conviction under a statute which punishes his failure to register when that registration is precluded by law."
+Appellant's Suppl.
+Br. at 7-8.
+Staples does not, and, as explained above, cannot, argue that Dalton calls into question the validity of the nexus between 922(o) and 26 U.S.C. 5861(d) for any time prior to May 19, 1986.
+His basic defense at trial was not that he could not register a machinegun, but that his weapon was not a machinegun under 26 U.S.C. 5845 and, thus, was not subject to registration under the NFA.
+Alternatively, he contended that if his weapon was a machinegun, he did not know it; therefore, he lacked the requisite scienter to violate the registration requirement.
+See Reply Br. at 14-15.
+Staples had ample opportunity at trial to demonstrate that he complied with the registration provisions of the NFA prior to May 19, 1986, or that the weapon was converted into a machinegun after that date, but failed to do so. 3 II.
+SCIENTER UNDER 26 U.S.C. 5861 Staples asserts that the district court failed to instruct the jury properly on the elements necessary to secure a conviction under 5861 of the National Firearms Act.
+4 The court instructed the jury as follows: 26 U.S.C. 5861(d) Appellant's App.
+Vol.
+I at 21, Tab D. Knowingly to Possess need not prove that a defendant knows he is dealing with a weapon possessing every last characteristic which subjects it to regulation.
+It is enough to prove he knows that he is dealing with a dangerous device of such type as would alert one to the likelihood of regulation.
+If he has such knowledge, and if the particular item is in fact regulated, he acts at his peril Appellant's App.
+Vol.
+I at 25, Tab D (emphasis added).
+Mere Possession of Unregistered Firearm It is not necessary for the Government to prove that the defendant knew that the weapon in his possession was a firearm within the meaning of the statute, only that he knowingly possessed it Appellant's App.
+Vol.
+I at 26, Tab D (emphasis added).
+Staples contends that these instructions violate due process in that a jury could find him guilty of the offense charged without his having had any knowledge that he possessed a weapon subject to registration.
+Specifically, Staples argues that "scienter," "actual knowledge," or "specific intent" 5 is a requisite element of the offense of 5861 .
+6 The threshold question is whether, as the district court concluded, our decision in United States v. Mittleider , 835 F.2d 769 (10th Cir.1987), cert. denied , 485 U.S. 980 , 108 S.Ct. 1279 , 99 L.Ed.2d 490 (1988), controls the disposition of this issue.
+In Mittleider , we upheld a jury instruction substantively identical to the instructions challenged here, 7 stating that "[w]e are in accord with the rule adopted by the Fourth Circuit in [ United States v.] Shilling , 826 F.2d 1365, 1368 (4th Cir.1987),] that the government is not required to prove actual knowledge of a weapon's physical properties."
+835 F.2d at 774 .
+Staples attempts to avoid Mittleider by labeling this and other critical language as "dicta" since the court concluded from its review of the record that the defendant also had actual knowledge that the firearm had been converted into an automatic weapon.
+We are not persuaded.
+The court's reference to the defendant's knowledge was simply an additional reason supporting the conviction.
+It did not diminish the force of the independent conclusion that actual knowledge is not an element of the offense.
+This is apparent in the next section of the opinion in which the court states: implicit, and unsupported, assumption required to prove that he knew As discussed above, that assumption is unfounded.
+See United States v. Shilling 826 F.2d at 1367-68 Morgan v. United States 564 F.2d [803 805-06 Mittleider , 835 F.2d at 774-75 (emphasis added).
+Staples also seeks to escape the clear command of Mittleider by claiming that his case is distinguishable on the facts.
+Staples asserts that Mittleider addressed a situation where a firearm contained external modifications while, in his own case, the weapon had only internal modifications.
+We do not read the record similarly.
+The uncontested testimony at trial by BATF Agents Ward and McLaughlin was that the weapon's selector switch, located on the exterior of the receiver, could be turned to the automatic fire position and that there was a shiny spot on the receiver indicative of tampering.
+See Appellant's App.
+Vol. II at 286, 291, Tab Q; Appellee's Suppl.
+App. at 16-17.
+Since the weapon contained external modifications, there is no basis to distinguish this case from Mittleider .
+8 We conclude that Mittleider controls this case and that the trial court properly instructed the jury on the substantive elements necessary for conviction under 5861(d) .
+Staples essentially concedes the inescapability of this conclusion by asking us to "reverse" Mittleider , Appellants Reply Br. at 15, which, of course, we are powerless to do even if so inclined.
+United States v. Spedalieri , 910 F.2d 707, 710 n. 3 (10th Cir.1990) (a three-judge panel may not overrule a previous opinion of this court).
+III.
+ADMISSIBILITY OF CERTAIN EXHIBITS Staples next argues that the district court erred by excluding certain documents that he obtained through discovery from BATF and sought to introduce as evidence at trial.
+These documents were: Defendant's Exhibit 4, an unpublished internal BATF memorandum concerning AR-15's manufactured with M-16 parts; Defendant's Exhibit 8, a letter discussing AR-15's with installed M-16 parts, sent by BATF in response to a constituent inquiry to Senator Mark Hatfield's office; Defendant's Exhibits 9, 10, 13, and 14 discussing the registrability of an auto sear; Defendant's Exhibit 15, a BATF letter to a gun manufacturer discussing AR-15's and auto sears; and Defendant's Exhibit 5, an internal BATF report from 1967 concerning the test-fire of a particular AR-15 Sporter gun.
+Staples argues variously that these exhibits either establish or tend to show that: (1) absent an auto sear, an AR-15 does not need to be registered under the NFA, Appellant's Principal Br. at 23; (2) an AR-15 without an auto sear could not be registered pursuant to 18 U.S.C. 922(o) ; (3) his weapon was not registerable, id .
+; (4) BATF knew that an AR-15 with M-16 parts could malfunction to fire more than one shot with a single pull of the trigger, id. at 27 ; (5) although BATF knew about the possibility of malfunction, it did not notify gun owners of this situation, id. at 26-29 ; (6) Staples had no personal notice of this "malfunction" condition known as "hammer-follow-down"; (7) his weapon is not a machine gun except by malfunction; (8) notice of registrability is an element of the crime of possession; and (9) that it was fundamentally unfair, amounting to a deprivation of due process, for the government to have prosecuted him when the government knew that this type of weapon could malfunction to fire automatically but did not publish a warning to gun owners alerting them of this problem.
+The district court sustained objections to the admissibility of the documents, primarily on the grounds of relevance.
+The court did allow Staples to use the documents during cross-examination, and to place his position before the jury.
+A district court is granted broad discretion in determining the relevancy of evidence.
+United States v. Alexander , 849 F.2d 1293, 1301 (10th Cir.1988).
+We review a trial court's decision to admit or exclude a given piece of evidence under an abuse of discretion standard.
+Id. (citations omitted).
+Fed.R.Evid.
+401 defines "relevant evidence" as "evidence having any tendency to make the existence of any fact that is of consequence to the determination of the action more probable or less probable than it would be without the evidence."
+As explained below, the proffered documents had no tendency to establish any fact of consequence to the determination of this action.
+The offense charged is possession of a machine gun, defined in 5845(b) as " any weapon which shoots automatically more than one shot by a single function of the trigger."
+26 U.S.C. 5845(b) (emphasis added).
+The exhibits bore no direct relationship to any of the elements of the offense charged, making it more probable or less probable that this AR-15 with M-16 parts, having had its selector switch filed off, constituted a firearm subject to registration under the NFA.
+Staples argues that an AR-15 without an auto sear is not a machine gun as defined under 5845(b) and so does not have to be registered under the NFA.
+It is undisputed that weapons defined as "firearms" under 5845 must be registered while weapons outside the definition need not be registered.
+It is also true that auto sears must be registered under the NFA.
+9 Staples attempts to deduce from this that "[t]he implication is, of course, that absent an auto sear, the AR-15 with M-16 internal components is not a National Firearms Act weapon and thus, not registerable."
+Appellant's Principal Br. at 29.
+The district court refused to accept the implication that Staples advanced.
+The court noted variously: "Show me the regulation that says that you [can] not register a fully automatic AR-15 that doesn't have a sear."
+Appellant's App.
+Vol. II at 433, Tab S. Id. at 467 .
+We agree.
+The fact that an auto sear requires registration does not mean that all weapons which do not have auto sears are exempt from registration.
+The question is whether Staples' sear-less AR-15 could fire automatically.
+Automatic weapons must be registered.
+Defendant's Exhibits 9, 10, 13, 14, and 15 were not germane to any issue in the case, and it was not an abuse of discretion to exclude their admission.
+In a related argument, Staples contends that his weapon was malfunctioning causing it to fire automatically more than one shot with a single pull of the trigger.
+In other words, if the weapon was a machine gun, it was so wholly by accident.
+He asserts that a weapon malfunctioning because of hammer-follow-down cannot constitute a firearm under the NFA and so does not have to be registered.
+We do not need to reach the broader question of whether a weapon that malfunctions can constitute a firearm under the NFA.
+Staples pursued his malfunction argument vigorously at trial both on direct and cross-examination.
+He testified himself, and elicited testimony from multiple witnesses, that his AR-15 had never fired more than one round with a single pull of the trigger.
+The government challenged that theory as part of its proof in support of the charge.
+The jury examined the weapon and saw videotapes of the weapon being fired.
+Thus it was able to evaluate Staples' weapon and make an independent judgment as to its capabilities.
+Staples next asserts that his conviction cannot stand because he had no notice that his weapon needed to be registered.
+This argument embraces two assertions: (1) that knowledge of registrability is an element of the offense; and (2) that a governmental agency has an affirmative duty to notify the public of what actions constitute a violation in the view of the agency.
+Mittleider rejects the position that knowledge of registrability constitutes an element of the offense.
+The government is not required to prove that a defendant knows "that registration of the weapon was required."
+835 F.2d at 774 ; see also United States v. Freed , 401 U.S. 601, 607 , 91 S.Ct. 1112, 1117 , 28 L.Ed.2d 356 (1971).
+Since neither knowledge nor notice of registrability is an element of the offense, it was not an abuse of discretion for the district court to find that documents discussing this point were irrelevant.
+Furthermore, the statutes themselves are the source of notice, and they are clear on the subject.
+For these and other reasons, Staples' other assertion is equally unavailing.
+BATF's regulatory silence does not necessarily imply that his weapon was not subject to registration.
+See Appellant's Principal Br. at 27.
+The district court aptly made that point stating: Now, I will tell you once again, if you have got anything that is relative to this case, that where a gun with these installed parts that shoots fully automatic is not registerable, I will let you get into it Appellant's App.
+Vol. II at 427, Tab S (emphasis added).
+Staples did not pursue the district court's offer and has cited no case, statute, or BATF regulation to support his contention that the AR-15, as modified, was not subject to registration, or could not be registered under the NFA.
+Even if BATF ruled that a generic AR-15 with M-16 parts did or did not constitute a firearm requiring registration under the NFA, such a general ruling would not determine the issue of the registrability of Staples' gun as a matter of law.
+Staples does not discuss, for instance, weapons where the selector switch has been externally modified by filing to allow the weapon to fire automatically instead of just semi-automatically; and he does not discuss the impact of the statute on specific weapons which, however configured generally, operate in fact as a machine gun.
+10 Staples' final contention is that these exhibits prove it was fundamentally unfair for the government to prosecute him.
+The unfairness of the prosecution is based on two grounds: (1) that the government knew that weapons of this type could malfunction yet concealed that fact from gun owners; and (2) that Staples' gun was unregisterable as a matter of law.
+Both points are disposed of by our discussion above.
+11 In sum, exclusion of the proffered exhibits did not constitute reversible error.
+IV.
+"AUTOMATICALLY" UNDER 26 U.S.C. 5845 Staples' final argument is that the district court erred when it refused to give his tendered instruction on the word "automatically" as used in 5845(b) .
+Section 5845(b) defines "machine gun" in relevant part as: any weapon which shoots automatically more than one shot, without manual reloading, by a single function of the trigger 26 U.S.C. 5845(b) (emphasis added).
+The district court instructed the jury in these terms, and refused the following instructions proffered by Staples.
+AUTOMATIC--DEFINED Tripp Giant Leveler Co. v. Rogers 61 F. 289, 290-91 AUTOMATICALLY--DEFINED American Roll Gold Leaf Co. v. W.H.
+Coe Mfg. Co. 212 F. 720, 724 Appellants Principal Br. at 35.
+Staples asserts that his instructions properly inject concepts of "reliability" and "lack of human agency" into the definition of "automatically."
+Appellant's Principal Br. at 36.
+He also repeats his argument that knowledge is a necessary element to be proved by the government--in this instance, knowledge of possession of a weapon which reliably fires automatically.
+Id. at 38 .
+Staples bases his reliability and lack of human agency argument on authority from a 1914 case out of the First circuit and an 1894 district court opinion.
+He concedes that "[t]hey were patent cases, but they weren't firearm cases."
+Appellant's App.
+Vol. II at 488, Tab T. He does not cite and this court can not find any authority for employing the definition of automatically that he commends to us in the context of the National Firearms Act.
+This Court must determine whether in light of the record as a whole the jury instructions as given correctly stated the applicable law and provided the jury with adequate understanding of the issues involved in the case. United States v. Agnew , 931 F.2d 1397, 1410 (10th Cir.1991); United States v. Willis , 890 F.2d 1099, 1104 (10th Cir.1989).
+We are satisfied that this standard was met by the court's instructions.
+We have examined all of Staples' arguments, addressing those deemed appropriate, and we find no reversible error in the proceedings below.
+Accordingly, the judgment of conviction is AFFIRMED.

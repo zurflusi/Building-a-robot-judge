@@ -1,0 +1,171 @@
+ RHESA HAWKINS BARKSDALE, Circuit Judge: The issues raised by each side are governed by the Employee Retirement Income Security Act, 29 U.S.C. 1001 et seq.
+(ERISA).
+The Plan Administrator for DuPont Savings and Investment Plan and E.I.
+DuPont de Nemours & Co. (DuPont) contests the summary judgment awarded the estate of William Patrick Kennedy for benefits under a retirement plan.
+The Estate challenges the denial of attorney's fees.
+VACATED AND RENDERED IN PART; AFFIRMED IN PART.
+I. Decedent was a DuPont employee and participant in its savings and investment plan (SIP).
+The SIP is an "employee pension benefit plan", as defined by ERISA.
+29 U.S.C. 1002 (2).
+Pursuant to ERISA, the SIP provided, inter alia: "no assignment of the rights or interests of account holders under this Plan will be permitted or recognized".
+See 29 U.S.C. 1056 (d)(1) (requiring that "[e]ach pension plan shall provide that benefits provided under the plan may not be assigned or alienated") (anti-alienation provision).
+In 1971, during his DuPont employment, decedent married Liv Kennedy.
+Decedent signed a beneficiary-designation form in 1974, identifying Liv Kennedy as the SIP's sole beneficiary.
+No contingent SIP beneficiaries were named.
+Decedent and Liv Kennedy divorced in 1994.
+Pursuant to the decree, Liv Kennedy agreed to be divested of "all right, title, interest, and claim in and to .
+.
+.
+the proceeds therefrom, and any other rights related to any .
+.
+.
+retirement plan, pension plan, or like benefit program existing by reason of [decedent's] employment".
+In 1997, an ERISA Qualified Domestic Relations Order (QDRO), pursuant to 29 U.S.C. 1056 (d)(3)(B)(i), was approved.
+It provided benefit-disbursement instructions for some of decedent's non-SIP employee-benefit plans.
+No QDRO for the SIP, however, was ever submitted.
+Decedent retired from DuPont in 1998 and died in 2001.
+He never executed any documents replacing or removing Liv Kennedy as the SIP beneficiary.
+Kari Kennedy, the daughter of decedent and Liv Kennedy, was appointed executrix of decedent's estate.
+By letter to DuPont, Kari Kennedy (the Estate) demanded the SIP funds be distributed to the estate, claiming Liv Kennedy's beneficiary designation was invalid pursuant to Texas Family Code 9.302 (providing, with certain exceptions, a spouse's designation as a retirement-plan beneficiary is invalidated by a subsequent [**2] divorce).
+DuPont refused, relying on the above-described SIP beneficiary-designation.
+The Estate also requested Liv Kennedy to relinquish her SIP interest.
+She did not do so; instead, pursuant to requests to DuPont, she collected the SIP balance (approximately $400,000).
+Seeking to recover the SIP benefits, the Estate filed this action, presenting an ERISA claim, under 29 U.S.C. 1132 (a)(1)(B), and a state-law breach-of-contract claim.
+The Estate claimed: Liv Kennedy waived her rights to the SIP benefits through the divorce decree, thus invalidating the SIP beneficiary-designation; and, accordingly, DuPont incorrectly distributed the SIP benefits.
+(DuPont filed a third-party claim against Liv Kennedy, asserting that, in the event she was not the correct beneficiary, it was entitled to return of the SIP benefits.
+This claim was settled.)
+Following discovery, the parties filed cross-motions for summary judgment.
+The district court, inter alia , granted summary judgment for the Estate on its ERISA claim, holding it was entitled to the value of the SIP benefits existing at the time of decedent's death, and for DuPont on the Estate's breach-of-contract claim, holding it was preempted by ERISA.
+In awarding summary judgment to the Estate, the district court concluded, inter alia: federal common law applied to determine whether Liv Kennedy's executing the divorce decree waived her right to the SIP benefits; and, as a matter of law, that decree constituted a valid waiver.
+DuPont's subsequent motion for judgment as a matter of law or, alternatively, a new trial, was denied.
+Also denied was the Estate's ERISA-based motion for attorney's fees.
+II.
+At issue, under ERISA, are: did Liv Kennedy's divorce decree constitute a waiver of her rights as an SIP beneficiary; and were attorney's fees correctly denied to the Estate?
+(The Estate does not contest the adverse summary judgment on its state-law claim.)
+A. A summary judgment is reviewed de novo , applying the same standards as the district court.
+E.g., Keelan v. Majesco Software, Inc. , 407 F.3d 332 , 338 (5th Cir.2005).
+Such judgment is proper when "there is no genuine issue as to any material fact and .
+.
+.
+the moving party is entitled to a judgment as a matter of law".
+FED.R.CIV.P. 56 (C); see, e.g., Celotex Corp. v. Catrett , 477 U.S. 317 , 322-23 , 106 S.Ct. 2548 , 91 L.Ed.2d 265 (1986).
+Where, as here, an ERISA plan administrator's benefits decision is nondiscretionary, that decision is reviewed de novo.
+See Brandon v. Travelers Ins. Co. , 18 F.3d 1321 , 1324 (5th Cir.1994).
+1.
+In granting summary judgment to the Estate, the district court relied on a series of cases from our court holding: when ERISA preempts state law, federal common law applies to determine whether the named beneficiary for an ERISA plan has waived his rights (federal-common-law waiver approach); and the waiver is valid if it is explicit, voluntary, and made in good faith.
+See Guardian Life Ins. Co. of Am. v. Finch , 395 F.3d 238 , 240-11 , 243 (5th Cir.2004); Manning v. Hayes , 212 F.3d 866 , 874 (5th Cir.2000); Clift v. Clift , 210 F.3d 268 , 270-72 (5th Cir.2000); Brandon , 18 F.3d at 1326-27 .
+Several of these cases concerned whether a divorce decree constituted a waiver of a beneficiary's right to proceeds under an ERISA plan.
+See, e.g., Brandon , 18 F.3d at 1322-24 (holding a decedent's ex-wife, who was the named beneficiary of an ERISA [**3] governed life-insurance plan, was not entitled to the proceeds of the plan because she waived them through a divorce decree).
+The Estate asserts these cases control, dictating application of the federal-common-law waiver approach.
+These cases are inapposite, however; they concerned ERISA-governed life-insurance policies, which are "welfare plan[s]", as defined by ERISA.
+29 U.S.C. 1002 (1) (defining "welfare plan" as one providing "medical .
+.
+.
+benefits, or benefits in the event of sickness, accident, disability, death or unemployment" for plan participants or their beneficiaries "through the purchase of insurance or otherwise"); see also Brandon , 18 F.3d at 1324 (characterizing employer-provided life-insurance policy as "welfare plan").
+Accordingly, ERISA's anti-alienation provision was not at issue.
+As quoted supra , that provision expressly applies not to "welfare plan[s]", but to ERISA "pension plan[s]", as defined in 29 U.S.C. 1002 (2)(A) (defining "pension plan" as one that "provides retirement income to", or "results in a deferral of income by", employees).
+See, e.g., Mackey v. Lanier Collection Agency & Serv., Inc. , 486 U.S. 825 , 836-37 , 108 S.Ct. 2182 , 100 L.Ed.2d 836 (1988); Brandon , 18 F.3d at 1324 (noting that anti-alienation provision "applies only to pension plans").
+"According to the Supreme Court, the absence of .
+.
+.
+anti-alienation protection with respect to ERISA welfare .
+.
+.
+plans must mean .
+.
+.
+the benefits of those plans are freely alienable."
+Tango Transp. v. Healthcare Fin. Servs.
+LLC , 322 F.3d 888 , 893 (5th Cir.2003) (citing Mackey , 486 U.S. at 837 , 108 S.Ct. 2182 ).
+The SIP's being an ERISA "pension plan", the anti-alienation provision applies.
+Because ERISA preempts state law for the issue at hand, e.g., Brandon , 18 F.3d at 1325 , the relevant inquiry is whether, in the light of the anti-alienation provision, "the federal law governing the resolution of [this action] may be reasonably drawn from the text of ERISA itself, or must instead be developed as a matter of federal common law".
+Manning , 212 F.3d at 870 .
+For the following reasons, contrary to the district court, the anti-alienation provision controls.
+Accordingly, the federal-common-law waiver approach is not applicable.
+2.
+The SIP complied with ERISA's earlier-quoted anti-alienation provision, which states: "Each pension plan shall provide that benefits provided under the plan may not be assigned or alienated".
+29 U.S.C. 1056 (d)(1).
+The Estate contends, erroneously, that "waiver" differs from "assignment" or "alienation" and, therefore, a beneficiary's waiver is not prohibited by the anti-alienation provision.
+See Estate of Altobelli v. Int'l Bus. Machs.
+Corp. , 77 F.3d 78 , 81 (4th Cir.1996) ("the anti-alienation clause does not apply to a beneficiary's waiver"); Fox Valley & Vicinity Constr.
+Workers Pension Fund v. Brown , 897 F.2d 275 , 279 (7th Cir.1990) (en banc) (anti-alienation provision "focus[es] on the assignment or alienation of benefits by a participant, not the waiver of a right to payment of benefits made by a designated beneficiary" (emphases added)).
+An "assignment or alienation" is defined by regulation as [a]ny direct or indirect arrangement .
+.
+.
+whereby a party acquires from a participant or beneficiary a right or interest enforceable against the plan in, or to, all or any part of a plan benefit payment which is, or may become, payable to the participant or beneficiary.
+26 C.F.R. 1.401-13 (a), (c)(1)(h) (emphases added).
+[**4] McGowan v. NJR Service Corp. , 423 F.3d 241 (3rd Cir.2005), cert. denied , U.S. , 127 S.Ct. 1118 , 166 L.Ed.2d 906 (2007), relied on that regulation to hold a beneficiary's waiver of her rights to a surviving spouse's annuity, pursuant to a marital-settlement agreement and in favor of another spouse, fell under the anti-alienation clause as an "indirect arrangement".
+Id. at 248-53 ; see also Boggs v. Boggs , 520 U.S. 833 , 851-52 , 117 S.Ct. 1754 , 138 L.Ed.2d 45 (1997) (relying on regulation to hold a testamentary transfer, by a plan beneficiary , of an interest in her former husband's undistributed pension plan constituted an "assignment or alienation" because, "[i]f .
+.
+.
+claimant[s] were allowed to succeed[,] they would have acquired .
+.
+.
+an interest in [participant's] pension plan at the expense of plan participants and beneficiaries").
+Similarly, Liv Kennedy's divorce-decree "waiver" constitutes an "indirect arrangement", by which the Estate gains an "interest enforceable against the plan" and, therefore, falls under ERISA's anti-alienation provision.
+See McGowan , 423 F.3d at 248-53 ; see also Fox Valley , 897 F.2d at 282-83 ("Waiver [in the ERISA context] is an anticipatory gift, to whoever is next in line under the Fund's rules.")
+(Easterbrook, J., dissenting).
+The Estate maintains this ruling is proscribed by Rhoades v. Casey , 196 F.3d 592 , 598 (5th Cir.1999) (applying, in the pension-plan context, an "exception to ERISA's anti-alienation provision for a knowing and voluntary waiver of retirement benefits that is executed to reach a settlement"), and Stobnicki v. Textron, Inc. , 868 F.2d 1460 , 1465 (5th Cir.1989) (holding that "a controversy between good-faith adverse claimants to pension plan benefits is subject to settlement like any other, and that an assignment made pursuant to a bona fide settlement of such a controversy is not invalidated by the anti-alienation provision").
+We disagree.
+Unlike the instant action, neither Rhoades nor Stobnicki involved a divorce decree.
+Rhoades , 196 F.3d at 594-95 ; Stobnicki , 868 F.2d at 1461 .
+Accordingly, unlike here, neither involved ERISA's QDRO provisions, see 29 U.S.C. 1056 (d), which provide significant support for our deciding the anti-alienation provision controls.
+In the marital-dissolution context, the QDRO provisions supply the sole exception to the anti-alienation provision; they exempt a state domestic-relations order determined to be a QDRO, under the standards set forth in ERISA.
+29 U.S.C. 1056 (d)(3)(A) (anti-alienation provision "shall apply to the creation, assignment, or recognition of a right to any benefit payable with respect to a participant pursuant to a domestic relations order, except that .
+.
+.
+[it] shall not apply if the order is determined to be a [QDRO] " (emphasis added)).
+To qualify as a QDRO, a divorce decree must "clearly specif[y]" the identity of any beneficiary, the particular plans affected, and the exact manner of calculating benefits.
+29 U.S.C. 1056 (d)(3)(C).
+"The requirement of clear specification is designed to spare the plan administrator from litigation-fomenting ambiguities as to who the beneficiaries designated by the divorce decree are."
+Metro. Life Ins. Co. v. Wheaton , 42 F.3d 1080 , 1084 (7th Cir.1994).
+If the state domestic-relations order qualifies as a QDRO, the plan must pay benefits "in accordance with [its] applicable requirements".
+29 U.S.C. 1056 (d)(3)(A).
+In Boggs , the Supreme Court noted the care with which Congress [**5] created the QDRO mechanism in order "to give enhanced protection to the spouse and dependent children in the event of divorce or separation", 520 U.S. at 847 , 117 S.Ct. 1754 , and emphasized that the QDRO exception, one of only two to the anti-alienation provision, is "not subject to judicial expansion", id. at 851 , 117 S.Ct. 1754 .
+Boggs further stated: "The axis around which ERISA's protections revolve is the concepts of participant and beneficiary.
+When Congress has chosen to depart from this framework, it has done so in a careful and limited manner".
+Id. at 854 , 117 S.Ct. 1754 .
+The federal-common-law waiver approach is in tension, to say the least, with the detailed, careful, and comprehensive QDRO scheme created by ERISA.
+"In other words, the QDRO provision, which recognizes the right to designate alternate payees under certain circumstances, `give[s] rise to the strong implication that' the designation of alternate payees under other circumstances (i.e. through waivers) is `not consistent with the statutory scheme'".
+McGowan , 423 F.3d at 250 (quoting Boggs , 520 U.S. at 847 , 117 S.Ct. 1754 ).
+As noted, a QDRO for the SIP was never submitted to DuPont.
+When, as here, ERISA provides a specific mechanism the QDRO for addressing the elimination of a spouse's interest in plan benefits, but that mechanism is not invoked, there is no basis to formulate a federal-common-law rule.
+Requiring DuPont to recognize the waiver in this situation would conflict with ERISA by purporting to determine rights to pension-plan benefits in a manner not authorized by the QDRO provisions, 29 U.S.C. 1056 (d)(3), and, therefore, not permitted by the anti-alienation provision, 29 U.S.C. 1056 (d)(1).
+B. The Estate contests the district court's not awarding its attorney's fees pursuant to 29 U.S.C. 1132 (g)(1) ("In any action under this subchapter .
+.
+.
+by a participant, beneficiary, or fiduciary, the court in its discretion may allow a reasonable attorney's fee and costs of action to either party.").
+Our vacating the judgment awarded the Estate is not dispositive per se for this issue, this court having held "a party need not prevail in order to be eligible for an award of attorney['s] fees under 1132(g)(1) of ERISA".
+Gibbs v. Gibbs , 210 F.3d 491 , 503 (5th Cir.2000).
+The fees-denial is reviewed for abuse of discretion.
+See Dial v. NFL Player Supplemental Disability Plan , 174 F.3d 606 , 613 (5th Cir.1999).
+Along that line, in deciding whether to award fees, a district court applies the test stated in Iron Workers Local No. 272 v. Bowen , 624 F.2d 1255 (5th Cir.1980), which examines the following factors ( Bowen factors): (1) the degree of the opposing party's culpability or bad faith; (2) the ability of the opposing party to satisfy an award; (3) whether an award would deter others acting under similar circumstances; (4) whether the requesting party sought to benefit all participants and beneficiaries of an ERISA plan, or to resolve a significant question regarding ERISA; and (5) the relative merits of the parties' positions.
+Id. at 1266 .
+The district court considered the Bowen factors and concluded, inter alia , only the second and fifth factors weighed in the Estate's favor.
+For the following reasons, it did not abuse its discretion in denying fees.
+For the first Bowen factor, the Estate contends Dupont exhibited culpability by, inter alia: [**6] failing to interplead the SIP funds upon being notified of the Estate's demand; and delegating the demand's denial to a person engaged in the unauthorized practice of law.
+Regarding its unauthorized-practice-of-law contention, the Estate relies solely on a letter from a legal assistant, conveying DuPont's rejection of the Estate's demand.
+That letter, however, states: "We continue to be of the opinion that the [SIP] proceeds .
+.
+.
+are payable to the named beneficiary".
+(Emphasis added.)
+Because the Estate points to no additional record evidence suggesting the legal assistant alone made the denial decision, this contention fails.
+Arguably, DuPont, having been put on notice that Liv Kennedy's status as beneficiary was contested, should have interpleaded the SIP funds.
+In any event, its actions do not show culpability.
+Notably, there is no record evidence of the Estate's requesting interpleader.
+Further, DuPont's benefits decision was not inconsistent with our court's precedent, which, as discussed supra , had not examined divorce-decree waivers in the ERISA pension-plan context.
+Moreover, DuPont had no financial incentive to distribute the SIP benefits to Liv Kennedy instead of the Estate.
+See Dial , 174 F.3d at 614 (imputation of bad faith unreasonable where, inter alia , benefits decision "did not save the [plan] any money").
+For the third Bowen factor, there being insufficient culpability or bad faith by DuPont, the deterrent effect of an award of attorney's fees is less applicable.
+See Harms v. Cavenham Forest Indus., Inc. , 984 F.2d 686 , 694 n. 12 (5th Cir.1993) ("Given the lack of any bad faith or culpability in .
+.
+.
+this case, we find the deterrent purpose that the third Bowen factor purports to serve to be inapplicable to our analysis.").
+Moreover, it is questionable whether such award would have a deterrent effect in these circumstances, where DuPont's benefits decision was not inconsistent with relevant precedent, and, in fact, has been upheld on this appeal.
+See Dial , 174 F.3d at 614 (no deterrent effect where plan administrators "merely chose to interpret an outside document in the way they found correct").
+Concomitantly, for the fifth Bowen factor, our vacating the judgment renders inaccurate the district court's concluding the Estate presented a more meritorious case.
+We need not examine the two remaining Bowen factors.
+III.
+For the foregoing reasons, the judgment for the Estate is VACATED; judgment is RENDERED for DuPont; and the fees-denial is AFFIRMED.
+VACATED AND RENDERED IN PART; AFFIRMED IN PART.

@@ -1,0 +1,504 @@
+ OPINION NIEMEYER , Circuit Judge: Seeking review of a decision made by the Maryland Public Service Commission on reciprocal-compensation rights under telecommunications interconnection agreements within its jurisdiction, Bell Atlantic Maryland, Inc. ("Bell Atlantic") filed this action in federal court against the commission, its individual members in their official capacity, and the parties to the interconnection agreements.
+Bell Atlantic relied on the Telecommunications Act of 1996 as authority for naming the Public Service Commission and its members as defendants and for filing in federal court.
+The district court dismissed the action against the State parties under the Eleventh Amendment.
+Then, concluding that these State parties were indispensable parties under Federal Rule of Civil Procedure 19, it dismissed the action against the private parties on jurisdictional grounds.
+While we agree with much of the reasoning in the district court's opinion, we adopt a different rationale on the jurisdictional issues and affirm.
+I. Background Congress enacted the Telecommunications Act of 1996, Pub.L.
+No. 104-104, 110 Stat. 56 (1996) (codified at 47 U.S.C. 151-614) (sometimes the "1996 Act") with the purpose of reducing regulation in the telecommunications industry and promoting competition.
+As part of that effort, the 1996 Act enables local exchange carriers ("LECs") to use each other's local exchange networks by requiring them to enter into interconnection agreements or be subject to arbitration to impose interconnection agreements.
+In particular, the 1996 Act requires, among other things, that each LEC, through such an interconnection agreement, "afford access" to its facilities and local network exchange to "any requesting telecommunications carrier," "provide interconnection" to that network, and "establish reciprocal compensation arrangements for the transport and termination of telecommunications."
+47 U.S.C. 251(b)(4), (b)(5), (c)(2).
+Through such reciprocal compensation arrangements, LECs compensate each other for intercarrier calls.
+Thus, if a subscriber of carrier A calls a subscriber of carrier B, then carrier A must share with carrier B some of the revenues collected from the calling-subscriber to compensate carrier B for use of its facilities.
+Under regulatory authority conferred by the 1996 Act, the Federal Communications Commission ("FCC") has construed the scope of the reciprocal compensation obligation to apply to the "transport and termination of local telecommunications traffic."
+47 C.F.R. 51.701(a) (emphasis added).
+The interconnection agreements, whether reached through voluntary negotiation or through arbitration, are subject to review by State public service commissions and thereafter, in circumstances specified by the 1996 Act, by federal courts and in other circumstances, by State courts.
+Bell Atlantic, the incumbent LEC in Maryland, entered into an interconnection agreement with a competing LEC, MFS Intelnet of Maryland, Inc., later succeeded by MCI WorldCom, Inc. ("MCI"), and the Maryland Public Service Commission approved that agreement in October 1996.
+Shortly thereafter, the parties found themselves in a dispute over whether Bell Atlantic had to pay reciprocal compensation for its subscribers' telephone calls made to Internet Service Providers ("ISPs") that have local telephone numbers but provide access to interstate destinations through the Internet.
+Bell Atlantic maintained that ISP-bound telephone calls are not "local traffic" and therefore do not trigger reciprocal compensation obligations either under the 1996 Act or under the parties' interconnection agreement.
+MCI, on the other hand, took the position that ISP-bound calls are local traffic subject to reciprocal compensation because the calls to the ISP numbers are local.
+The parties agree that this issue involves substantial sums of money.
+To resolve the dispute, MCI filed a complaint against Bell Atlantic before the Maryland Public Service Commission, alleging that Bell Atlantic was in breach of its interconnection agreement with MCI and requesting relief in the form of a cease-and-desist order.
+The Public Service Commission issued an order on August 13, 1997, finding in favor of MCI and directing Bell Atlantic "to timely forward all future interconnection payments owed [MCI] for telephone calls placed to an ISP" and to pay MCI any reciprocal compensation that it had with-held pending resolution of the dispute.
+The Public Service Commission based its decision on the terms of the parties' interconnection agreement.
+It noted, however, that the issue of whether ISP-bound calls are properly characterized as local traffic was pending before the FCC and invited the parties to return "[i]n the event that the FCC issues a decision that requires revision to the directives announced herein."
+Bell Atlantic appealed the Public Service Commission's order to the Circuit Court for Montgomery County, Maryland, and that court upheld the Public Service Commission decision.
+See Bell Atlantic--Maryland, Inc. v. Maryland PSC , Civil Action No. 178260, Docket Entry # 36, March 26, 1998.
+Bell Atlantic took no further appeal to higher Maryland courts.
+Almost a year later, on February 26, 1999, the FCC issued a ruling (since vacated by the United States Court of Appeals for the D.C.
+Circuit) that declared ISP-bound traffic to be non-local.
+See In the Matter of Implementation of the Local Competition Provisions in the Tele-communications Act of 1996, Inter Carrier Compensation for ISP Bound Traffic , 14 FCC Rcd 3689, 3690(¶ 1) (1999) ("FCC Ruling"), vacated , Bell Atl. Tel. Cos.
+v. FCC , 206 F.3d 1 (D.C.Cir.2000).
+Relying on this declaratory ruling, Bell Atlantic submitted a petition to the Maryland Public Service Commission seeking a declaration that it did not, after all, owe MCI reciprocal compensation for ISP-bound traffic under the parties' interconnection agreement.
+In a 3-2 decision, the Maryland Public Service Commission denied Bell Atlantic's petition on June 11, 1999.
+The Public Service Commission recognized that the FCC's ruling had determined that ISP-bound traffic generally was interstate traffic, but it noted that the FCC also indicated that parties to interconnection agreements "may reasonably have agreed, for the purposes of determining whether reciprocal compensation should apply to ISP-bound traffic, that such traffic should be treated in the same manner as local traffic" (quoting FCC Ruling, 14 FCC Rcd at 3703-04 (¶ 24)).
+Indeed, the FCC also concluded that "[w]here parties have agreed to include this traffic within their interconnection agreements, they are bound by those agreements, as interpreted and enforced by the state commissions."
+FCC Ruling, 14 FCC Rcd at 3703 (¶ 22).
+With this understanding of the FCC's order, the Maryland Public Service Commission found, as a matter of contract interpretation, that MCI and Bell Atlantic had agreed to treat ISP-bound traffic as local traffic subject to reciprocal compensation.
+In addition, the Public Service Commission stated that, in the absence of a voluntarily negotiated agreement between LECs with respect to the treatment of ISP-bound calls, the Public Service Commission would treat such ISP-bound traffic as local and thus subject to reciprocal compensation "[u]ntil such time as a federal inter-carrier compensation mechanism is developed."
+Seeking review of the Public Service Commission's decision, Bell Atlantic filed this action in federal court on July 12, 1999, naming as defendants the Maryland Public Service Commission, its individual members in their official capacity, MCI, and other competing LECS.
+Bell Atlantic's complaint sought a declaratory judgment that the Maryland Public Service Commission had violated the Telecommunications Act of 1996 by failing to apply and by misinterpreting the FCC Ruling.
+Bell Atlantic also sought an injunction prohibiting enforcement of the Maryland Public Service Commission's determinations and requiring the Public Service Commission to order the competing LECs to refund reciprocal compensation obtained from Bell Atlantic for ISP-bound traffic.
+The Maryland Public Service Commission and its individual members filed a motion to dismiss the complaint, asserting the action was barred by the Eleventh Amendment.
+The Public Service Commission also contended that because it was an indispensable party to any action filed to review its decisions, the federal court could not proceed with the action in the absence of the Public Service Commission as a party.
+The United States intervened and joined Bell Atlantic and the other private defendants in opposition to the motion to dismiss.
+These parties argued that the Maryland Public Service Commission had constructively waived its sovereign immunity with respect to this action by participating in the regulatory scheme established by the 1996 Act.
+They argued in the alternative that the doctrine of Ex parte Young , 209 U.S. 123 , 28 S.Ct. 441 , 52 L.Ed. 714 (1908), would permit the suit to go forward against the individual commission members in their official capacities.
+In addition, Bell Atlantic and the other private defendants argued that the Public Service Commission in any event was not an indispensable party and that this action therefore could proceed in the absence of the Public Service Commission as a party.
+The district court granted the motion to dismiss, holding (1) that the action against the Public Service Commission and the individual commissioners was barred by the Eleventh Amendment; (2) that the doctrine of Ex parte Young did not apply to permit this action against the individual commissioners under the reasoning of Seminole Tribe of Florida v. Florida , 517 U.S. 44 , 116 S.Ct. 1114 , 134 L.Ed.2d 252 (1996); and (3) that the Maryland Public Service Commission was an indispensable party without which the action could not proceed.
+This appeal followed.
+II.
+Eleventh Amendment Principles The Maryland Public Service Commission, as an agency of the State of Maryland, and its individual commissioners in their official capacity (collectively "the State") assert that they are immune from suit in federal court under the doctrine of sovereign immunity as guaranteed in federal court by the Eleventh Amendment.
+The State asserts that it has not waived its sovereign immunity; that Congress has not sought to exercise its power, under the Fourteenth Amendment, to abrogate the State's sovereign immunity in the Telecommunications Act; and that therefore the Eleventh Amendment is a complete bar to suit against the State in federal court.
+See Puerto Rico Aqueduct & Sewer Auth. v. Metcalf & Eddy, Inc. , 506 U.S. 139, 144 , 113 S.Ct. 684 , 121 L.Ed.2d 605 (1993).
+Bell Atlantic and the United States, as an intervenor, contend that the State has implicitly waived its immunity from private suit in federal court by participating in the regulatory scheme created by the Telecommunications Act of 1996.
+They point out that Congress had no obligation to give States any role in regulating the telecommunications industry.
+They argue that by giving such a role to the States, Congress conferred upon the States a gift which was conditioned on their amenability to suit in federal court under 47 U.S.C. 252(e)(6).
+They note that the State had a clear choice--given in 47 U.S.C. 252(e)(5)--either to participate in the regulation of interconnection agreements or to forego such a role and allow the FCC to act in its stead.
+In any event, Bell Atlantic and the United States argue that Bell Atlantic's suit against the individual State commissioners in their official capacity is permitted under the doctrine of Ex parte Young , 209 U.S. 123 , 28 S.Ct. 441 , 52 L.Ed. 714 , because Bell Atlantic is seeking only declaratory and injunctive relief against State officials to prevent an ongoing violation of federal law.
+They argue that the Maryland Public Service Commission violated federal law in reaching a decision contrary to the FCC's declaratory ruling that ISP-bound traffic is non-local and therefore not subject to reciprocal compensation obligations.
+The district court found that the Eleventh Amendment barred Bell Atlantic's action against the State.
+It noted that the notion of constructive waiver of Eleventh Amendment immunity was recently repudiated by the Supreme Court's decision in College Savings Bank v. Florida Prepaid Postsecondary Education Expense Board , 527 U.S. 666, 684 , 119 S.Ct. 2219 , 144 L.Ed.2d 605 (1999) (stating that "constructive waiver is little more than abrogation under another name").
+In addition, the district court concluded that the State did not waive its Eleventh Amendment immunity as a condition to receipt of a gift from Congress.
+The court stated, "It is beyond this Court's imagination how Congress' offer to the States to participate as regulators in the very federal scheme that divested them of their local power can be considered a 'gift,' and it is certainly not one that the states could freely decline to accept."
+The district court also rejected Bell Atlantic's attempt to sue the individual commissioners under Ex parte Young .
+Relying on Schweiker v. Chilicky , 487 U.S. 412, 423 , 108 S.Ct. 2460 , 101 L.Ed.2d 370 (1988) ("When the design of a Government program suggests that Congress has provided what it considers adequate remedial mechanisms for constitutional violations that may occur in the course of its administration, we have not created additional remedies"), the district court concluded that Congress explicitly precluded an Ex parte Young action against individual commissioners, observing that federal jurisdiction was granted to review determinations made under 47 U.S.C. 252 by "State commissions," not by individual commissioners.
+Additionally, the district court noted that an Ex parte Young action against the individual State commissioners would expose them to "the full remedial powers of a federal court, including, presumably, contempt sanctions," Seminole Tribe , 517 U.S. at 75 , 116 S.Ct. 1114 , not the limited federal review--provided in 47 U.S.C. 252(e)(6)--of determinations made by State commissions to ensure that interconnection agreements comply with federal requirements.
+The district court concluded, "In short, this Court cannot recognize an implied cause of action against the Commissioners under Ex parte Young , because the Court infers from the 1996 Act that Congress did not authorize such federal jurisdiction."
+The district court noted that two other district courts had reached the same conclusion.
+See Wisconsin Bell, Inc. v. Public Serv. Comm'n of Wis. , 57 F.Supp.2d 710 (W.D.Wis.1999), rev'd , MCI Telecomms.
+Corp. v. Illinois Bell Tel. Co. , 222 F.3d 323 (7th Cir.2000); AT&T Communications v. BellSouth Telecomms., Inc. , 43 F.Supp.2d 593 (M.D.La.1999), rev'd , AT&T Communications v. BellSouth Telecomms., Inc. , 238 F.3d 636 (5th Cir.2001).
+In addressing these issues framed by the parties, we must conduct our analysis with respect for the principles of federalism, which guide and shape Eleventh Amendment doctrine and which inform our reluctance to infer any negation of a State's immunity from suit absent (1) a valid abrogation of that immunity by Congress, (2) a State's clear and unequivocal waiver of immunity, or (3) the prosecution of an action that fits comfortably within the doctrine of Ex parte Young .
+It is by now well established that the States' "residuary and inviolable sovereignty," protected by the Eleventh Amendment, precludes private suits against nonconsenting States.
+1 Alden v. Maine , 527 U.S. 706, 715 , 119 S.Ct. 2240 , 144 L.Ed.2d 636 (1999) (quoting The Federalist No. 39, at 245 (J. Madison) (C. Rossiter ed.1961)); see also Seminole Tribe , 517 U.S. at 54 , 116 S.Ct. 1114 ; Hans v. Louisiana , 134 U.S. 1, 13 , 10 S.Ct. 504 , 33 L.Ed. 842 (1890).
+And the Supreme Court has repeatedly emphasized that a State's sovereign immunity is not strictly limited by the text of the Eleventh Amendment 2 because the Amendment merely confirms State sovereign immunity as a preexisting constitutional principle, which plays a vital role in our constitutional structure.
+See Alden , 527 U.S. at 712-13 , 119 S.Ct. 2240 ; Idaho v. Coeur d'Alene Tribe of Idaho , 521 U.S. 261, 267-68 , 117 S.Ct. 2028 , 138 L.Ed.2d 438 (1997); Seminole Tribe , 517 U.S. at 54 , 116 S.Ct. 1114 ; see also Litman v. George Mason Univ. , 186 F.3d 544, 549 (4th Cir.1999), cert. denied , 528 U.S. 1181 , 120 S.Ct. 1220 , 145 L.Ed.2d 1120 (2000); Creative Goldsmiths, Inc. v. Maryland , 119 F.3d 1140, 1144 (4th Cir.1997).
+It is a State's sovereign immunity that limits the degree to which the State is subject to the federal power.
+This principle "accords the States the respect owed them as members of the federation," Alden , 527 U.S. at 748-49 , 119 S.Ct. 2240 (quoting Puerto Rico Aqueduct , 506 U.S. at 146 , 113 S.Ct. 684 ), and avoids the indignity of States being subjected to the "coercive process of judicial tribunals at the instance of private parties," Seminole Tribe , 517 U.S. at 58 , 116 S.Ct. 1114 (quoting Puerto Rico Aqueduct , 506 U.S. at 146 , 113 S.Ct. 684 ).
+While State sovereign immunity is an inherent feature of our federal structure, so too are limitations on that immunity, a consequence of the People's grant of authority to a federal government.
+Thus, Congress can abrogate the sovereign immunity of nonconsenting States if (1) it validly acts "pursuant to a constitutional provision granting Congress the power to abrogate," and (2) it "unequivocally expresse[s] its intent to abrogate the immunity."
+Seminole Tribe , 517 U.S. at 55, 59 , 116 S.Ct. 1114 .
+The Supreme Court has recognized that 5 of the Fourteenth Amendment, designed as it was to "expand[ ] federal power at the expense of state autonomy," grants Congress a power of abrogation that "intrude[s] upon the province of the Eleventh Amendment."
+Seminole Tribe , 517 U.S. at 59 , 116 S.Ct. 1114 ; see also Fitzpatrick v. Bitzer , 427 U.S. 445, 452-56 , 96 S.Ct. 2666 , 49 L.Ed.2d 614 (1976).
+In addition, to ensure the supremacy of federal law, a State's sovereign immunity under the Eleventh Amendment is lifted in certain cases to allow federal jurisdiction over suits that seek prospective injunctive relief against a State officer alleged to be perpetrating an ongoing violation of federal law.
+See Ex parte Young , 209 U.S. 123 , 28 S.Ct. 441 , 52 L.Ed. 714 ; see also Alden , 527 U.S. at 747 , 119 S.Ct. 2240 ; Seminole Tribe , 517 U.S. at 73-74 , 116 S.Ct. 1114 ; Green v. Mansour , 474 U.S. 64, 68 , 106 S.Ct. 423 , 88 L.Ed.2d 371 (1985); Edelman v. Jordan , 415 U.S. 651, 663-68 , 94 S.Ct. 1347 , 39 L.Ed.2d 662 (1974); CSX Transp., Inc. v. Board of Pub.
+Works , 138 F.3d 537, 540-41 (4th Cir.1998), cert. denied , 525 U.S. 821 , 119 S.Ct. 63 , 142 L.Ed.2d 50 (1998); Republic of Paraguay v. Allen , 134 F.3d 622, 627 (4th Cir.1998).
+Even though the injunctive relief, if ordered, would undoubtedly affect the State, sovereign immunity does not bar such a suit because a State official who acts contrary to federal law is "stripped of his official or representative character."
+Ex parte Young , 209 U.S. at 160 , 28 S.Ct. 441 .
+The Supreme Court has declined, however, to extend this principle to suits seeking retrospective monetary relief, reasoning that "to do so would effectively eliminate the constitutional immunity of the States."
+Pennhurst State Sch. & Hosp. v. Halderman , 465 U.S. 89, 105 , 104 S.Ct. 900 , 79 L.Ed.2d 67 (1984) (" Pennhurst II ").
+Finally, nothing in the federal structure prohibits a State from voluntarily waiving its sovereign immunity from suit by private individuals either by explicitly consenting to such suits, see Atascadero State Hosp. v. Scanlon , 473 U.S. 234, 241 , 105 S.Ct. 3142 , 87 L.Ed.2d 171 (1985); Great N. Life Ins. Co. v. Read , 322 U.S. 47, 53 54 , 64 S.Ct. 873 , 88 L.Ed. 1121 (1944); Smith v. Reeves , 178 U.S. 436, 441 , 20 S.Ct. 919 , 44 L.Ed. 1140 (1900), or by accepting from Congress a gift or gratuity that is conditioned on such a waiver, see College Savings Bank , 527 U.S. at 686-87 , 119 S.Ct. 2219 ; Atascadero , 473 U.S. at 247 , 105 S.Ct. 3142 ; Litman , 186 F.3d at 550 .
+But "[t]he test for determining whether a State has waived its immunity from federal-court jurisdiction is a stringent one."
+Atascadero , 473 U.S. at 241 , 105 S.Ct. 3142 ; see also College Savings Bank , 527 U.S. at 675 , 119 S.Ct. 2219 ; Edelman , 415 U.S. at 673 , 94 S.Ct. 1347 ; Litman , 186 F.3d at 550 .
+Accordingly, a federal court may find a State to have waived its immunity from private suit in federal court only if the State directly and affirmatively waives its Eleventh Amendment immunity in a State constitutional provision or statute that explicitly "specif[ies] the State's intention to subject itself to suit."
+Atascadero , 473 U.S. at 241 , 105 S.Ct. 3142 ; see also Litman , 186 F.3d at 550 ; Booth v. Maryland , 112 F.3d 139, 145 (4th Cir.1997).
+Similarly, a gift or gratuity from Congress, by itself, will effect a waiver of immunity by a recipient State only if Congress "manifest[s] a clear intent" to condition the gift or gratuity on the State's waiver of its constitutional immunity.
+Atascadero , 473 U.S. at 247 , 105 S.Ct. 3142 ; see also Pennhurst State Sch. & Hosp. v. Halderman , 451 U.S. 1, 17 , 101 S.Ct. 1531 , 67 L.Ed.2d 694 (1981) (" Pennhurst I "); Litman , 186 F.3d at 553-55 (holding that Congress clearly, unambiguously, and unequivocally conditioned a State's receipt of Title IX federal education funds on a State's waiver of its Eleventh Amendment immunity in actions brought in federal court under Title IX).
+With these relevant principles in hand, we now address the two issues raised by the parties in this case: (1) whether the State of Maryland waived its sovereign immunity by participating in the administration of the Telecommunications Act of 1996, and (2) whether the doctrine of Ex parte Young authorizes Bell Atlantic's suit against the individual State commissioners.
+III.
+Waiver Bell Atlantic's waiver argument relies on two provisions of the 1996 Act: 47 U.S.C. 252(e)(5) and 252(e)(6).
+Section 252(e)(5) clearly implies that a State commission need not make determinations under 252.
+It provides: Even though the Act commands State commissions to make determinations under 252, see, e.g. , 252(b)(4)(C), 252(c), 252(e)(1), 252(f)(3), subsection (e)(5) assumes that a State commission can refuse these commands, in which case the FCC must act in place of the State commission.
+It follows, therefore, that if a State commission elects not to make any 252 determinations in the regulation of interconnection agreements, its determinations cannot be the subject of federal review under 252(e)(6).
+That provision indeed reads: Bell Atlantic argues logically from these provisions that a State commission that elects to make 252 determinations must, of necessity, also be electing to have its determinations reviewed by a federal court under 252(e)(6), for that provision continues: But it is a leap of logic to infer from this consent to federal-court review a consent by a State commission itself to be made a party to that federal review.
+Section 252(e)(6) provides for federal court review of State commission determinations , but it does not provide that the State commission thereby agrees to be named as a party in federal court or that it waives its Eleventh Amendment immunity.
+At most, such a conclusion would be implicit, and only then if it were a legal necessity that a State commission be sued in order to have its decision reviewed.
+The parties do not agree whether a State commission is an indispensable party to a review of its determination.
+In a peculiar lineup of positions on this point, the State maintains that, although the State commission is not subject to suit, its participation in any review of a commission determination is indispensable, while Bell Atlantic suggests that this may not be so. Maryland law provides some support for Bell Atlantic's position, because under Maryland law, the Public Service Commission may, but need not, be a party to reviews of its decisions.
+See Md.Code Ann., Pub. Utils.
+Cos.
+3-204(d).
+In any event, the uncertainty surrounding the indispensable-party issue serves to underscore the weakness of Bell Atlantic's argument for waiver of Eleventh Amendment immunity.
+This argument requires two heroic assumptions: (1) that the authorization of review in 252(e)(6) operates as a condition to State commission regulatory authority, and (2) that a State would expect "review" necessarily to entail suit in which the State commission is named as a party.
+This argument is strikingly reminiscent of, and arguably weaker than, the argument made by the injured employee in Parden v. Terminal Ry. of the Ala. State Docks Dep't , 377 U.S. 184 , 84 S.Ct. 1207 , 12 L.Ed.2d 233 (1964), overruled by College Savings Bank , 527 U.S. 666 , 119 S.Ct. 2219 , 144 L.Ed.2d 605 .
+In Parden , the Supreme Court authorized the employee to bring an action under the Federal Employers' Liability Act ("FELA") against a railroad owned and operated in interstate commerce by the State of Alabama because the FELA subjected "every" railroad in interstate commerce to an employee negligence suit in federal court.
+The Court held: Parden , 377 U.S. at 192 , 84 S.Ct. 1207 .
+This is precisely the argument that Bell Atlantic makes to find waiver in this case.
+But the principle on which Bell Atlantic's argument rests was expressly overruled last year (1999) in College Savings Bank , 527 U.S. at 680-83 , 119 S.Ct. 2219 .
+In repudiating Parden 's constructive waiver doctrine, College Savings Bank emphasized that the doctrine did not square with the requirement that "a State's express waiver of sovereign immunity be unequivocal."
+527 U.S. at 680 , 119 S.Ct. 2219 .
+Indeed, the Court noted that "in the context of other constitutionally protected privileges," constructive waivers are "simply unheard of."
+Id. at 681 .
+Stated otherwise, Congress cannot extract a constructive waiver from a State without "having plainly stated its intention that participation by a state in the regulated activity would be deemed an implied waiver of immunity."
+Abril v. Virginia , 145 F.3d 182, 189 n. 13 (4th Cir.1998) (citing Welch v. Texas Dep't of Highways & Pub. Transp. , 483 U.S. 468, 478 , 107 S.Ct. 2941 , 97 L.Ed.2d 389 (1987) (plurality opinion)).
+These principles follow from the deeply rooted stricture that the decision to waive sovereign immunity must be "altogether voluntary on the part of the sovereignty."
+Beers v. Arkansas , 61 U.S. (20 How.) 527, 529 , 15 L.Ed. 991 (1857).
+In College Savings Bank , the Court distinguished a Parden -style, constructive waiver from circumstances in which a State may implicitly waive its sovereign immunity by accepting from Congress a "gift" or a "gratuity," the receipt of which is made conditional on the State's waiver of immunity.
+See 527 U.S. at 686-87 , 119 S.Ct. 2219 (citing South Dakota v. Dole , 483 U.S. 203 , 107 S.Ct. 2793 , 97 L.Ed.2d 171 (1987), and Petty v. Tennessee-Missouri Bridge Comm'n , 359 U.S. 275 , 79 S.Ct. 785 , 3 L.Ed.2d 804 (1959)).
+The Court's distinction was based on the fact that, in Parden , if the State wished to preserve its immunity in the face of the FELA, it would be required to forsake the otherwise legal activity of running a railroad, whereas under Dole and Petty , the State could preserve its immunity simply by turning down the gift or gratuity, something to which it was not otherwise legally entitled.
+The Court acknowledged that the distinction between forswearing a gift and garnering a sanction would disappear, for example, if Congress conditioned the receipt of funds so substantial that a State was, in effect, compelled to accept them.
+See 527 U.S. at 687 , 119 S.Ct. 2219 .
+The Court indicated, however, that at least with respect to funding legislation, it could well be beyond Congress' power to offer such a choice under the "coercion" limitation to Congress's Spending Clause power articulated in Dole .
+See id. (citing Dole , 483 U.S. at 211 , 107 S.Ct. 2793 ); see also Litman , 186 F.3d at 553 .
+Regardless of whether there is a categorical limitation on Congress' power to condition a State's receipt of a gift or gratuity on a waiver of immunity, it is certain that a congressional gift in the form of federal funds will not validly waive a recipient State's Eleventh Amendment immunity unless Congress "manifest[s] a clear intent to condition participation in the programs funded under the Act on a State's consent to waive its constitutional immunity."
+Atascadero , 473 U.S. at 247 , 105 S.Ct. 3142 .
+Congress' grant to States of conditional funds is "in the nature of a contract," the legitimacy of which "rests on whether the State voluntarily and knowingly accepts the terms."
+Pennhurst I , 451 U.S. at 17 , 101 S.Ct. 1531 ("There can, of course, be no knowing acceptance if a State is unaware of the conditions or is unable to ascertain what is expected of it").
+By insisting that Congress speak with a clear voice, we enable the States to exercise their choice knowingly, cognizant of the consequences of their acceptance from Congress of a gift or gratuity.
+If Congress is not unmistakably clear and unequivocal in its intent to condition a gift or gratuity on a State's waiver of its sovereign immunity, we cannot presume that a State, by accepting Congress' proffer, knowingly and voluntarily assented to such a condition.
+This requirement insures that all branches of the federal government respect the constitutional stature of Eleventh Amendment immunity and accord State sovereign immunity the protection of other constitutional rights, which will not be waived absent the "intentional relinquishment or abandonment of a known right or privilege."
+College Savings Bank , 527 U.S. 681-82 , 119 S.Ct. 2219 (quoting Johnson v. Zerbst , 304 U.S. 458, 464 , 58 S.Ct. 1019 , 82 L.Ed. 1461 (1938)).
+We have examined the Telecommunications Act of 1996 for a clear statement of congressional intent to condition participation in the regulation of telecommunications on a State's waiver of sovereign immunity, knowing that Congress knows well how to express such an intent and has done so in the context of numerous civil rights statutes.
+Although passed under Congress' Spending Clause power, the Rehabilitation Act offers an example.
+See Litman , 186 F.3d at 553-54 .
+That act states outright that a State "shall not be immune under the Eleventh Amendment from suit in Federal court" for a violation of the act's anti-discrimination edict.
+42 U.S.C. 2000d-7(a)(1).
+We readily concluded in Litman that any State reading that provision would clearly understand that, by accepting Title IX funding, it was consenting to resolve disputes regarding alleged violations of the Act's anti-discrimination provisions in federal court.
+See 186 F.3d at 554 .
+By contrast, an examination of the language of 252(e)(6) leads to the inexorable conclusion that Congress did not clearly manifest an intent--if it had such an intent at all--to condition State utility commissions' participation in the regulation of interconnection agreements on a waiver of sovereign immunity from private suit.
+That section provides nothing of the kind.
+It states: 47 U.S.C. 252(e)(6).
+This section simply provides for review of certain State commission determinations in federal court.
+A State official reading this provision would have no indication that the State commission, if it chose to make the reviewable determination, would be compelled to appear in federal court at the behest of an aggrieved telecommunications company.
+Even assuming Congress conferred a gift on State utility commissions by allowing them to participate in the regulation of telecommunications--a gift that is difficult to discern 3 --the language of 252(e)(6) simply falls short when examined under our "stringent" tests for determining whether a State has waived its immunity from federal court jurisdiction.
+See Atascadero , 473 U.S. at 241, 246-47 , 105 S.Ct. 3142 (finding that 505 of the Rehabilitation Act, which provides for suits in federal court against "any recipient of Federal assistance" fell "far short of manifesting a clear intent to condition participation in the programs funded under the Act on a State's consent to waive its constitutional immunity"); but see AT&T Communications v. BellSouth Telecomms.
+, 238 F.3d 636 , [ 238 F.3D 636 ], 2001 WL 38281, at *9 (finding waiver of Eleventh Amendment immunity from suits brought under 252); MCI Telecomms.
+v. Illinois Bell , 222 F.3d at 342-44 (same); MCI Telecomms.
+Corp. v. Public Serv. Comm'n of Utah , 216 F.3d 929, 938-39 (10th Cir.2000) (same).
+Bell Atlantic and the United States argue insistently that the State of Maryland has no inherent right to partake in any role administering the scheme of the 1996 Act.
+They contend that the State had a clear choice--laid out in 252(e)(5)--either to participate in the regulation of interconnection agreements or to forego such a role and allow the FCC to act in its stead.
+This argument, however, misses the mark.
+The implication of exercising the choice given in 252(e)(5) is to have a State commission's decisions reviewed in federal court, not to waive the State's sovereign immunity and subject the State commission itself to suit in federal court .
+"[W]e require an unequivocal indication that [a] State intends to consent to federal jurisdiction that otherwise would be barred by the Eleventh Amendment."
+Atascadero , 473 U.S. at 238 n. 1, 105 S.Ct. 3142 .
+As the Court confirmed in College Savings Bank , "there is little reason to assume actual consent based upon the State's mere presence in a field subject to congressional regulation."
+527 U.S. at 680 , 119 S.Ct. 2219 .
+Bell Atlantic's arguments that the preempted or "preemptable" nature of the telecommunications field somehow alters our inquiry into whether the State of Maryland waived its Eleventh Amendment immunity also lack merit.
+Congress may not subject States to suit in federal court merely by partially or fully preempting the regulation of a field under its commerce power.
+If we were so to find, we would have to ignore the holding of Seminole Tribe that Congress does not possess the power to abrogate a State's Eleventh Amendment immunity under its Article I powers.
+See 517 U.S. at 72-73 , 116 S.Ct. 1114 .
+It is not enough that a State's waiver of immunity is convenient to the 1996 Act's regulatory scheme or practical for the development of a uniform body of law under the 1996 Act.
+Our clear-statement inquiry is invariable, and we have searched in vain for any statement of congressional intent to condition a State utility commission's participation in the 1996 Act's regulatory scheme on the waiver of its constitutionally predicated sovereign immunity.
+IV.
+Ex Parte Young Bell Atlantic and the United States maintain that, in any event, Maryland's sovereign immunity does not bar an action against the State commissioners in their official capacity to enjoin ongoing violations of federal law under the doctrine of Ex parte Young , 209 U.S. 123 , 28 S.Ct. 441 , 52 L.Ed. 714 (1908).
+They seek to draw upon this "limited exception to the Eleventh Amendment immunity for the limited purpose of declaring and enjoining relief to redress the Public Service Commission's violation of federal law in misconstruing the 1996 Act."
+They maintain that the State commission's decision allowing reciprocal compensation for local telephone calls to Internet service providers violates the federal understanding of the Telecommunications Act, as manifested in the 1999 FCC Ruling, which, subsequent to briefing in this case, was vacated and remanded by the District of Columbia Court of Appeals to the FCC for further consideration.
+The Maryland State officials argue that when Congress has provided a detailed remedial scheme for enforcement of federal law against State interests, the doctrine of Ex parte Young should not be applied to traverse the limits of that federal scheme.
+They assert that if the doctrine of Ex parte Young were applied to subject them to suits by private citizens to enforce the Telecommunications Act, they "would be exposed to a more severe action than anticipated by 252(e)(6) Section 252(e)(6) only allows for a review of an interconnection agreement whereas an Ex parte Young action against a State commission would expose the Commissioners to the full remedial powers of a federal court, including presumably, contempt sanctions."
+These State commissioners also note that 252(e)(6) refers only to actions involving determinations by the State commission itself, not by its individual commissioners.
+4 The district court agreed with the State commissioners' position.
+It read the 1996 Act as manifesting Congress' intent to authorize actions against the State commissions, as distinct from individual State commissioners.
+In approaching the question of whether the doctrine of Ex parte Young permits Bell Atlantic's suit against State commissioners, we begin with the recognition that the scope of interests that Ex parte Young protects in preventing violations of federal law must be care-fully circumscribed so as not unduly to erode the important underlying doctrine of sovereign immunity.
+See Coeur d'Alene Tribe , 521 U.S. at 269-70 , 117 S.Ct. 2028 .
+Thus, just because a private citizen's federal suit seeks declaratory injunctive relief against State officials does not mean that it must automatically be allowed to proceed under an exception to the Eleventh Amendment protection.
+Such "empty formalism" would improperly sacrifice the "real interests served by the Eleventh Amendment."
+Id. at 270 , 117 S.Ct. 2028 .
+In Coeur d'Alene Tribe , a federally recognized Indian tribe and tribe members sued the State of Idaho and State officials over the right to submerged lands in Idaho. The court held that even though this suit was for declaratory and injunctive relief against State officials, the Ex parte Young doctrine did not authorize the suit: Young Id. at 287-88 , 117 S.Ct. 2028 .
+This holding reflects a considered evaluation of the degree to which a State's sovereign interest would be adversely affected by a federal suit seeking injunctive relief against State officials.
+This case-by-case approach to application of the Ex parte Young doctrine is exemplified further by the Supreme Court's earlier holding in Seminole Tribe , where the court also refused to apply Ex parte Young in circumstances where to do so would alter the remedial scheme selected by Congress to enforce federal law.
+Ex parte Young Seminole Tribe , 517 U.S. at 74 , 116 S.Ct. 1114 .
+Accordingly, to determine whether Ex parte Young authorizes this suit against State officials, we must evaluate the federal interests served by permitting a federal suit against individual members of the Maryland Public Service Commission, taking into account the remedial scheme for enforcement of federal law that Congress has established in the Telecommunications Act of 1996.
+Then, with those federal interests understood, we must determine whether the federal suit would unduly sacrifice the important value of Maryland's sovereign immunity.
+The federal interest furthered by the 1996 Act is to have 252 determinations made by State commissions reviewed in federal court.
+Explicitly, the 1996 Act authorizes the party "aggrieved" by a State commission determination to file a suit in federal court "to determine whether [an interconnection] agreement meets the requirements of section 251 and [section 252]."
+47 U.S.C. 252(e)(6).
+No interest is manifested by the 1996 Act to discipline individual State officials or to expose them to any liability.
+The limit of the stated interest is the "review" of certain State commission decisions.
+And under Maryland law, it is not necessary for the State commission, much less the individual commissioners, to be a party to an appeal for State-court review of its determinations.
+See Md.Code Ann., Pub. Utils.
+Cos.
+3-204(d).
+We may fairly conclude that the 1996 Act's interest is in federal review, and no more, and this interest would not be frustrated if we were to preserve the Eleventh Amendment immunity of State officials with respect to such suits.
+Moreover, in this case, it is not altogether clear that Bell Atlantic's action is designed to prevent an ongoing violation of federal law, a requirement that "[t]he Supreme Court has not shown a propensity to relax."
+Booth , 112 F.3d at 142 (citing Will v. Michigan Dep't of State Police , 491 U.S. 58, 89 , 109 S.Ct. 2304 , 105 L.Ed.2d 45 (1989); Papasan v. Allain , 478 U.S. 265, 277-78 , 106 S.Ct. 2932 , 92 L.Ed.2d 209 (1986); and Green , 474 U.S. at 68 , 106 S.Ct. 423 ).
+The dispute between Bell Atlantic and MCI required the State commission to construe the parties' voluntarily negotiated interconnection agreement.
+In interpreting this agreement, the Maryland Public Service Commission found that Bell Atlantic and MCI intended to treat ISP-bound telephone calls as local traffic for the purposes of paying reciprocal compensation.
+For this determination to constitute an ongoing violation of federal law and thus to provide a basis for a suit against the commissioners under the doctrine of Ex parte Young --the agreement of the parties, as interpreted and enforced by the commission, would have to be inconsistent with federal law.
+See Shelley v. Kraemer , 334 U.S. 1, 20 , 68 S.Ct. 836 , 92 L.Ed. 1161 (1948) (holding that judicial enforcement of racially discriminatory private agreements constitutes State action in violation of the Equal Protection Clause of the Fourteenth Amendment).
+Bell Atlantic contends that the FCC ruling (now vacated) provides grounds for its assertion that its agreement with MCI is inconsistent with federal law, and the enforcement of the agreement amounts to an ongoing violation of federal law.
+This position is questionable.
+The now-vacated FCC Ruling did indeed classify local calls to Internet service providers as "jurisdictionally mixed" and concluded that they "appear[ ]to be largely interstate."
+FCC Ruling, 14 FCC Rcd at 3690(¶ 1), vacated , Bell Atl. Tel. Cos.
+, 206 F.3d 1 .
+But far from interpreting the Telecommunications Act as prohibiting agreements to pay reciprocal compensation for such calls, the FCC Ruling emphasized that "[t]his conclusion, however, does not in itself determine whether reciprocal compensation is due in any particular instance."
+Id. The FCC advised that "[i]n the absence, to date, of a federal rule regarding the appropriate inter-carrier compensation for this traffic, we conclude that parties should be bound by their existing inter-connection agreements, as interpreted by state commissions."
+Id.
+Later in its ruling, the FCC emphasized that "parties may voluntarily include this traffic within the scope of their interconnection agreements under sections 251 and 252 of the Act, even if these statutory provisions do not apply as a matter of law."
+Id. at 3703 (¶ 22).
+The FCC identified several factors that could inform a State commission's determination of whether parties to interconnection agreements agreed to pay reciprocal compensation for ISP-bound traffic, emphasizing that the factors "are illustrative only," and that "state commissions, not this Commission [the FCC], are the arbiters of what factors are relevant in ascertaining the parties' intentions."
+Id. at 3704 (¶ 24).
+It is hard to conceive how the Public Service Commission can be said to have perpetrated an ongoing violation of federal law by following the dictates of the federal agency authorized to implement that law, especially when the charging party relies on the federal agency's interpretation as authoritative.
+The 1996 Act also furnishes little basis for concluding that an interconnection agreement providing for the payment of reciprocal compensation for the termination of ISP-bound calls is inconsistent with the requirements of federal law.
+Section 251(b) states simply that "[e]ach local exchange carrier has [t]he duty to establish reciprocal compensation arrangements for the transport and termination of telecommunications."
+47 U.S.C. 251(b)(5).
+Although 251(b)(5) thus purports to extend the duty of reciprocal compensation to all "telecommunications," the FCC's implementing regulations interpret the requirement as limited to "local telecommunications traffic."
+47 C.F.R. 51.701(a) ("The provisions of this sub-part apply to reciprocal compensation for transport and termination of local telecommunications traffic between LECs and other telecommunications carriers"); see also Bell Atl. Tel. Cos.
+, 206 F.3d at 4 .
+Bell Atlantic argues that, in its interconnection agreement with MCI, the parties agreed to incorporate emerging standards of federal law, such that their reciprocal compensation obligations were subject to change if prevailing federal definitions of local and interstate traffic changed.
+It is a question of State law, however, whether the interconnection agreement at issue in this case includes a dynamic incorporation of statutory interpretation, including the definition of which calls constitute local calls subject to reciprocal compensation.
+It would not appear that the Maryland Public Service Commission could be charged with perpetrating an ongoing violation of federal law by virtue of its resolution of this matter of State contract law.
+The State commission construed the interconnection agreement at issue in this case in accordance with its conclusions about the parties' intent on the issue of how to classify ISP-bound calls.
+The State commission made quite clear that this was a matter of contract interpretation, citing Denice v. Spotswood I. Quinby, Inc. , 248 Md. 428 , 237 A.2d 4, 7 (1968), for the proposition that "unless a contract provides otherwise, the law applicable at the time and place the contract is entered into is to be considered a part of that contract."
+The State commission found no indication in the contract that the parties wished to incorporate evolving federal standards into their agreement, finding instead that Bell Atlantic agreed to treat ISP-bound calls as local, in conformance with the then-prevailing regulatory interpretation and industry custom.
+In short, it does not appear that Bell Atlantic can allege an ongoing violation of federal law when the State commission determines as a matter of State contract law that the parties agreed to treat ISP-bound calls as local for purposes of reciprocal compensation.
+Certainly this conclusion does not violate the 251(b)(5) mandate that carriers establish reciprocal compensation arrangements.
+And the (now-vacated) FCC ruling, on which Bell Atlantic relies to assert an ongoing violation of federal law, explicitly allows for a result of the kind reached by the State commission in this case.
+If at a later date, the FCC should establish an appropriate interstate compensation mechanism for ISP-bound traffic and should forbid local carriers from agreeing to treat these calls as local for purposes of reciprocal compensation, we fully expect that the Maryland State Public Service Commission would follow through with its stated intent under those circumstances to revisit its determination.
+Indeed, it stated in its decision that its determination would "only apply until the FCC issues an order creating its inter-carrier compensation mechanism for ISP-bound traffic."
+In addition to the doubts we have about whether any significant federal interest counsels the naming of State commissioners as parties to an action reviewing their decision as a body and whether the determination made by the State commission amounts to a violation of federal law, it appears that Congress believed that the federal interest would be adequately served by the limited federal court review prescribed by 47 U.S.C. 252(e)(6) and the State-court review indicated otherwise by the 1996 Act.
+See our discussion in Part IV, below.
+Section 252(e)(6) invokes federal court review only for State commission determinations made under 252 to determine whether inter-connection agreements are in compliance with 251 and 252.
+See 47 U.S.C. 252(e)(6).
+If, however, we were to permit an Ex parte Young action to proceed against State officers, presumably to answer to a federal court injunction and potentially to face sanctions for non-compliance with that injunction, we would be supplementing the narrowly defined federal court review selected by Congress.
+The Supreme Court in Seminole Tribe instructs that this is not to be done under the guise of Ex parte Young : "[W]here Congress has prescribed a detailed remedial scheme for the enforcement against a State of a statutorily created right, a court should hesitate before casting aside those limitations and permitting an action against a state officer based upon Ex parte Young ."
+517 U.S. at 74 , 116 S.Ct. 1114 .
+In sum, when evaluating the federal interests that would be served by a suit against the individual members of the Maryland Public Service Commission, we conclude that (1) the State commissioners are probably not indispensable parties to federal review of the State commission's determinations; (2) in any suit against State commissioners, it is more likely that State-contract-law, rather than federal-law, violations would be redressed; and (3) a federal court action against State commissioners of this type would improperly expand the federal remedy selected by Congress.
+Against these dubious federal interests, we weigh the serious offense to the dignity of a State's quasi-judicial body.
+The Maryland Public Service Commission acts as a court, and its decisions are reviewable as a court in higher courts.
+In this case, there is no suggestion that the State commission and the individual State commissioners did not strictly act within the scope of the authority conferred on them both by federal and State law.
+They disposed of the matter before them conscientiously and issued separate decisions to explain and support their split judgment.
+To bring these State officers before a federal court to answer to the assertion of a private citizen that in acting within the scope of their authority, they made the wrong decision would be an affront to the sovereignty of the State of Maryland and would undermine the mutual respect that characterizes the relationship between the federal and State sovereigns.
+It would be difficult to conceive of a more central challenge to sovereign immunity, which is protected generally in federal court by the Eleventh Amendment.
+Accordingly, in the specific circumstances of this case, we conclude that Ex parte Young does not authorize suit against the individual members of the Maryland Public Service Commission.
+But see AT&T Communications v. Bell-South Telecomms.
+, 238 F.3d 636 , [ 238 F.3D 636 ], 2001 WL 38281, at *11 (concluding that suits challenging state commission interpretations of interconnection agreements are "straightforward" Ex parte Young cases); MCI Telecomms.
+v. Illinois Bell , 222 F.3d at 345 (same); MCI Telecomms.
+v. Public Serv. Comm'n of Utah , 216 F.3d at 939-40 (same); Michigan Bell Tel. Co. v. Climax Tel. Co. , 202 F.3d 862, 867 (6th Cir.2000) (same).
+V. Jurisdiction under the 1996 Act The Eleventh Amendment decisions thus reached preserve the sovereign immunity of the State of Maryland and its officials acting in their official capacity and bar Bell Atlantic's action against them in federal court.
+The private telecommunications carriers, however, do not enjoy sovereign immunity.
+But applicable to them, the State, as an alternative defense, challenged the federal courts' subject matter jurisdiction, an issue that must be decided as to the action against the private carriers even though they do not themselves challenge subject matter jurisdiction.
+See Bender v. Williamsport Area Sch. Dist. , 475 U.S. 534, 541 , 106 S.Ct. 1326 , 89 L.Ed.2d 501 (1986) (appellate courts have a "special obligation" to evaluate subject matter jurisdiction); Plyler v. Moore , 129 F.3d 728, 731 n. 6 (4th Cir.1997) (subject matter jurisdiction must be considered whenever raised or even sua sponte ).
+The State contends that the district court lacked subject matter jurisdiction over "enforcement decisions rendered by State commissions" and that therefore this action should have been dismissed.
+It argues that the plain language of 47 U.S.C. 252(e)(6) in the 1996 Act grants jurisdiction to federal district courts only to review "determinations" made under 252 and that such review is for the limited purpose of ascertaining whether an interconnection agreement complies with 47 U.S.C. 251 and 252.
+It asserts that the language of 252(e)(6) does not authorize federal review of State commission orders enforcing an approved interconnection agreement on the complaint of a party that the agreement has been breached.
+It maintains that the 1996 Act leaves jurisdiction for judicial review of such enforcement actions with State courts and that the Act "did not intend to totally divest State courts of jurisdiction."
+Indeed, it notes that this allocation of authority is not cause for consternation because State courts have inherent authority to adjudicate claims even if they arise under the laws of the United States.
+Bell Atlantic argues that the enforcement of interconnection agreements that State commissions have approved as part of their responsibilities under 252 falls within State commissions' "plenary authority."
+It asserts that other circuits have adopted that position, as has the FCC.
+See, e.g. , Iowa Utils.
+Bd. v. FCC , 120 F.3d 753, 804 (8th Cir.1997), aff'd in part, rev'd in part sub nom.
+At & T Corp. v. Iowa Utils.
+Bd. , 525 U.S. 366 , 119 S.Ct. 721 , 142 L.Ed.2d 835 (1999); Illinois Bell Tel. Co. v. Worldcom Techs., Inc. , 179 F.3d 566, 570-71 (7th Cir.1999); FCC Ruling, 14 FCC Rcd at 3703 (¶ 22) (1999) (agreements under 251 and 252 are "interpreted and enforced by the state commissions"), vacated , Bell Atl. Tel. Cos.
+, 206 F.3d 1 .
+Bell Atlantic reasons that because a State commission has implied authority under 252 to interpret and enforce agreements it approves under 252, any decision interpreting or enforcing the terms of an interconnection agreement is therefore a "determination" under 252 that is reviewable in federal court under 252(e)(6).
+See 47 U.S.C. 252(e)(6) (providing federal review of State commission "determinations" made under 252).
+MCI also contends that federal courts have jurisdiction over this dispute.
+It argues that 252(e)(6) must be read "in context and in light of the Act's structure and purpose," and that when so read, the federal jurisdiction provision does not limit review only to State commission decisions approving interconnection agreements.
+Rather, MCI asserts, it must be read more broadly to grant federal courts responsibility for assuring that interconnection agreements are interpreted in compliance with federal law.
+In contrast to Bell Atlantic, however, MCI asserts that "[t]he Act leaves resolution of state law claims to state courts," so 252(e)(6) does not permit a federal court to review a State commission's enforcement action for compliance with State law.
+To determine the proper scope of 47 U.S.C. 252(e)(6), which confers jurisdiction on federal courts to review only some State commission determinations, it is necessary to understand the overall structure and purpose of the Act.
+This is because the 1996 Act creates a patchwork of federal and State responsibilities to manage the intended transition from the regulation of telecommunications monopolies to unregulated competition and because the establishment of such a patchwork regime appears to have been a deliberate decision on the part of Congress as a means of preserving State regulatory structures to assist in managing the transition.
+A Under the Federal Communications Act of 1934, telephone service was treated as a natural monopoly, and regulatory responsibility was divided between the FCC, which regulated interstate, long-distance service, and State public service commissions, which regulated intra-state service.
+See, e.g. , 47 U.S.C. 152(a),(b); Louisiana Pub. Serv. Comm'n v. FCC , 476 U.S. 355, 360 , 106 S.Ct. 1890 , 90 L.Ed.2d 369 (1986).
+Indeed, 47 U.S.C. 410 created a joint federal-state board to resolve regulatory jurisdictional disputes.
+Without reviewing here the involved history of telecommunications regulation since the enactment of the 1934 Act, it is sufficient to observe that the 1996 Act did not supplant the 1934 Act, and importantly, it did not repeal 47 U.S.C. 152 and 410.
+Rather, the 1996 Act amended the 1934 Act, leaving much of the 1934 Act's structure in place.
+In amending the 1934 Act with the 1996 Act, however, Congress appears to have abandoned its hands-off approach to intrastate commerce and undertaken to impose competition in both the interstate and intrastate arenas.
+In addition, Congress sought to facilitate the convergence of technologies in telephone service, broadcast (radio and TV) service, cable service, satellite service, and other miscellaneous transmission services.
+But Congress left in place many of the traditional functions of State public utility commissions.
+At bottom, by enacting the Telecommunications Act of 1996, Congress intended "to promote competition and reduce regulation in order to secure lower prices and higher quality services for American telecommunications consumers and encourage the rapid deployment of new telecommunications technologies."
+Pub.L.
+No. 104-104, 110 Stat. 56, 56 (1996).
+By merely amending the 1934 Act and by continuing to employ the resources and expertise of State public service commissions, Congress manifested an intent not to raze the pre-1996 statutory landscape and build an entirely new statutory system.
+Rather, the 1996 Act partially flooded the existing statutory landscape with specific preempting federal requirements, deliberately leaving numerous islands of State responsibility.
+With respect to some of these State islands, the Act mandates that State commissions apply federal law within their existing State procedural structures.
+Thus, for example, State commissions are required to apply federal requirements in arbitrating and approving interconnection agreements.
+See 47 U.S.C. 252(c), (e).
+With respect to other State islands, the Act actually conscripts State governmental agencies for federal purposes.
+See, e.g. , 47 U.S.C. 251(f) (mandating that State commissions conduct inquiries for the purpose of terminating rural telephone company exemptions); 47 U.S.C. 332(c)(7) (requiring local zoning boards to apply federal procedural standards in approving the siting of telecommunications towers and facilities).
+5 Still other areas of pre 1996 State interests are completely inundated by federal preemption, such as in the area of satellite service.
+See, e.g. , 47 U.S.C. 303(v).
+In some instances, pre-emption in the Act is deferred and conditional, to be effected on a case-by-case approach.
+See, e.g. , 47 U.S.C. 252(e)(5) (directing the FCC to issue order "preempting the State commission's jurisdiction" of a proceeding if the State commission "fails to act to carry out its responsibility"); 47 U.S.C. 253(d) (directing the FCC to "preempt the enforcement" of any State statute or regulation that has the effect of denying a carrier the ability to provide any interstate or intrastate telecommunications service).
+No generalization can therefore be made about where, as between federal and State agencies, responsibility lies for decisions.
+The areas of responsibility are a patchwork and the dividing lines are sometimes murky, prompting one authority to observe: Peter W. Huber, Michael K. Kellogg & John Thorne, The Telecommunications Act of 1996 1.2.12 (1996).
+What is certain is that Congress intended to divide responsibility, and unless it expressly provided for federal responsibility, it left pre-1996 Act assignments of responsibility in place, such as by retaining 152 and 410.
+In 601(c)(1) of the 1996 Act, Congress makes this point explicit: unless expressly so provided Pub.L.
+No. 104-104, 110 Stat. 56, 143 (1996) (codified at 47 U.S.C. 152 note) (emphasis added).
+For purposes of determining whether the Act assigns federal courts or State courts the task of reviewing State commission determinations, 601(c) is consistent with well-established principles for defining federal jurisdiction and therefore is particularly apt.
+Because federal courts are courts of limited jurisdiction, when their jurisdiction is created by statute, the statute is strictly construed.
+See Turner v. Bank of North America , 4 U.S. (4 Dall.)
+8, 11 , 1 L.Ed. 718 (1799) (observing that because federal courts are courts of limited jurisdiction, "the fair presumption is that a cause is without its jurisdiction till the contrary appears").
+Thus, determinations by State commissions that are not expressly designated for review in federal court are left for review by State courts, as provided by the existing law of the State that created the State commission.
+The structure in Maryland is typical.
+The Public Service Commission, consisting of five commissioners, see Md.Code Ann., Pub. Util. Cos.
+2-102(a), is given broad and general powers to supervise and regulate all public service companies operating within the State, see id. 2-113.
+This authority includes the power to adjudicate complaints seeking to "enforce compliance with the requirements of law by public service companies."
+Id. 2-113(a)(ii); see also id. 3-102 (authorizing the filing of complaints before the commission).
+Any "party or person" who is "dissatisfied" with any final decision or order of the Public Service Commission may seek judicial review in the State circuit court for the county where the public service company operates or in the Circuit Court for Baltimore City.
+See id. 3-202(a), 3-204(a).
+Maryland law authorizes, but does not require, the Public Service Commission to be a party to any such appeal.
+See id. 3-204(d).
+Of course, once in court, the parties are entitled to further review by the Maryland Court of Special Appeals.
+They also may seek review from the Maryland Court of Appeals and the Supreme Court of the United States.
+B Against this general background of the 1996 Act and its patchwork of federal and State responsibility, we now turn to 47 U.S.C. 251 and 252 , which govern whether actions to review State commission determinations on the enforcement , as distinct from approval or rejection , of interconnection agreements for local service are to be routed to federal courts or left to State courts.
+Section 252(e)(6) of Title 47 provides in relevant part: Because it is clear that this section provides for direct federal court review of State commission "determination[s]" made "under this section [ 252]," we need only identify what determinations a state commission is authorized to make under 252 to ascertain the scope of federal jurisdiction.
+Determinations made pursuant to authority other than that conferred by 252 are, by operation of 601(c) of the 1996 Act, left, for review by State courts.
+See 47 U.S.C. 152 note.
+Section 251 of Title 47 lifts monopolistic barriers against insurgent or competing telecommunications carriers by mandating interconnection agreements among carriers and by imposing a duty on carriers to agree to terms that promote seamless service to consumers.
+Section 251 also directs the FCC to promulgate regulations to implement the section, at the same time commanding it to preserve State regulations that are consistent with 251.
+See 47 U.S.C. 251(d)(3).
+Section 252, entitled "Procedures for negotiation, arbitration, and approval of agreements," creates the procedural framework for implementing the commands of 251.
+Section 252 defines two separate courses leading to the formation of interconnection agreements--one by negotiation (including mediation) and the other by compulsory arbitration.
+Agreements arrived at through negotiation must be submitted to the appropriate State commission, which "shall approve or reject the agreement, with written findings as to any deficiencies."
+47 U.S.C. 252(e)(1); see 47 U.S.C. 252(a).
+But the State commission may only reject a negotiated agreement if it finds either that (1) the agreement discriminates against a nonparty telecommunications carrier or that (2) the agreement "is not consistent with the public interest, convenience, and necessity."
+47 U.S.C. 252(e)(2)(A).
+Section 252(e) also permits State commissions to impose State-law requirements in its review of interconnection agreements.
+See 47 U.S.C. 252(e)(3).
+Any party "aggrieved" by the State commission's determination approving or rejecting a negotiated agreement may "bring an action in an appropriate Federal district court" to test the agreement against the requirements of 251 and 252.
+47 U.S.C. 252(e)(6).
+And 252(e)(4) makes this limited federal review exclusive, stating that "[n]o State court shall have jurisdiction to review the action of a State commission in approving or rejecting an agreement under this section [ 252]."
+If an agreement cannot be reached through negotiation or mediation under 252(a), a party may petition the State commission for compulsory arbitration, setting forth the specific issues upon which agreement cannot be reached.
+The State commission is directed to arbitrate and resolve the disputed issues, including those raised in the response to the arbitration petition.
+See 47 U.S.C. 252(b)(4).
+In conducting the arbitration, the State commission is required (1) to ensure compliance with 251, (2) to establish rates for interconnecting services, and (3) to provide a schedule for implementation of the interconnection agreement.
+See 47 U.S.C. 252(c).
+Once the disputed issues are thus resolved through compulsory arbitration, the entire agreement is submitted to the State commission for approval or rejection.
+But unlike an agreement reached through negotiation , where the grounds for rejection by the State commission are limited to discrimination and inconsistency with the public interest, convenience, and necessity, an arbitrated agreement is reviewed by the State commission for compliance with the more comprehensive requirements of 251 (establishing multiple interconnection requirements) and 252(d) (establishing pricing standards).
+Finally, as with the State commission's determination approving or rejecting a negotiated agreement, any party "aggrieved" by the State commission's determination approving or rejecting an arbitrated agreement may bring an action in an appropriate federal district court, again "to determine whether the agreement meets the requirements" of 251 and 252.
+47 U.S.C. 252(e)(6).
+In short, 252(e)(6) confers jurisdiction on federal courts to review State commission "determinations" made under 252 "to determine whether the agreement meets the requirements of section 251 and this section ."
+While this federal jurisdictional provision authorizes review of 252 arbitration determinations ultimately leading to the formation of interconnection agreements, in the final analysis, the State commission determinations under 252 involve only approval or rejection of such agreements.
+6 With respect to negotiated agreements in particular, the federal review is narrower.
+The only "determination" that can be made by the State commission under 252 on a negotiated agreement is a determination to approve or reject it, and when the agreement is approved by the State commission, then there is a question whether there can be any "party aggrieved" to seek review in federal court.
+With respect to any determination made by a State commission that is not a 252 determination, judicial review is left for review as specified by State law for review of State commission actions.
+Again, this conclusion is confirmed by 601(c)(1) of the 1996 Act, which states that the Act is not to be construed "to modify, impair or supersede state, or local law unless expressly so provided in [the 1996 Act]," 47 U.S.C. 152 note (emphasis added), and by the general principle that we should not infer a grant of federal jurisdiction unless Congress manifests its intent to confer jurisdiction.
+In this case, an interconnection agreement was voluntarily negotiated and reached between Bell Atlantic and MCI.
+The agreement was submitted to the Maryland Public Service Commission, which approved the agreement, and no party challenged that approval.
+It would appear therefore that there has been no 252 "determination" left for review in the federal courts by virtue of 252(e)(6).
+The only "determination" that the State commission made under 252 was to approve the agreement and no party now seeks to review that determination; indeed, no party was thereby aggrieved.
+Only after the agreement was negotiated and approved did MCI file a complaint with the Maryland Public Service Commission, taking the position that telephone calls made to local exchanges for connection to the Internet were local calls subject to reciprocal compensation under the terms of MCI's interconnection agreement with Bell Atlantic.
+See 47 U.S.C. 251(b)(5) (imposing duty of reciprocal compensation on telecommunications carriers); 47 C.F.R. 51.711 (elaborating on the duty of reciprocal compensation).
+That ISP-bound calls were subject to reciprocal compensation was also a position maintained by more than 30 State public service commissions across the country.
+Bell Atlantic, however, argued logically that a telephone call initiated to an ISP, even though through a local exchange, was nevertheless an interstate call because it did not "terminate" locally.
+Therefore, it argued, under its interconnection agreement with MCI, such calls were not subject to reciprocal compensation.
+The Maryland Public Service Commission, however, ruled against Bell Atlantic, and Bell Atlantic appealed the State commission's decision to the Circuit Court for Montgomery County, Maryland.
+The State court affirmed the commission's decision, and no further appeal was taken.
+In ruling against Bell Atlantic, the Maryland Public Service Commission noted that if the FCC were to issue a ruling that declared calls to Internet service providers to be interstate calls, it would revisit its decision.
+The FCC did thereafter declare that ISP-bound traffic was interstate, not local, traffic, and therefore that such calls were not subject to reciprocal compensation, as provided for in 47 U.S.C. 251(b)(5).
+See FCC Ruling, 14 FCC Rcd 3689, vacated , Bell Atl. Tel. Cos.
+, 206 F.3d 1 .
+Within a week of the FCC's ruling, Bell Atlantic returned to the Maryland Public Service Commission, requesting that it review its earlier decision in light of the FCC's ruling.
+By a vote of three to two, the Maryland Public Service Commission again rejected Bell Atlantic's position, asserting State authority to decide whether the parties had agreed in their interconnection agreement to treat ISP-bound traffic as local and stating that in any event the commission had authority to require reciprocal compensation even if the parties did not so agree.
+It reasoned that because ISP-bound calls were treated as local traffic when the parties reached agreement, it was their intent to continue to treat them that way in the agreement.
+Following this decision by the Public Service Commission, Bell Atlantic sought review in federal court, invoking as the basis for its jurisdiction 251(e)(6), as well as 28 U.S.C. 1331 (general federal-question jurisdiction).
+Bell Atlantic argues vigorously that State commissions have authority to interpret and enforce interconnection agreements that they approve under 252.
+It maintains that this authority falls within State commissions' plenary authority, citing Iowa Utils.
+Bd. v. FCC , 120 F.3d at 804 , as well as the FCC Ruling, 14 FCC Rcd 3689.
+The Maryland Public Service Commission and MCI do not disagree.
+While Bell Atlantic suggests this authority is implicitly conferred by 252, it would appear that explicit authority is provided by both the 1934 Act and Maryland law.
+See 47 U.S.C. 152(b); Md.Code Ann., Pub. Util. Cos.
+2-113.
+The critical question is not whether State commissions have authority to interpret and enforce interconnection agreements--we believe they do--but whether these decisions are to be reviewed by State courts or federal courts .
+As we have noted in our analysis of 251 and 252, 252(e)(6) does not expressly confer jurisdiction on federal courts to review State commission orders enforcing negotiated interconnection agreements.
+And federal jurisdiction is not to be presumed or implied.
+Rather, it must result from a specific congressional grant, and when a statute confers jurisdiction to federal courts, we read it strictly.
+See Turner , 4 U.S. (4 Dall.)
+at 11 .
+The statute conferring jurisdiction on federal courts in this case--47 U.S.C. 252(e)(6)--authorizes federal review only of "determinations" made by State commissions under 252.
+Moreover, the scope of federal court review under that authorization is only to determine whether an interconnection agreement complies with the requirements of 251 and 252.
+In this case no question has been raised whether the interconnection agreement between Bell Atlantic and MCI meets the requirements of 251 and 252.
+The parties voluntarily negotiated the agreement and the Maryland Public Service Commission approved it.
+Moreover, even now, no party asserts that any term or provision of the agreement is illegal.
+Thus, no determination made by the Maryland Public Service Commission under 252 is being reviewed.
+The only 252 determination made by the Public Service Commission was its approval of the interconnection agreement, and that approval is not being reviewed.
+The dispute in this case arises from the ongoing administration of an approved agreement.
+While this dispute was properly brought before the Maryland commission and decided by it--both because of the commission's supervisory and regulatory authority over public service companies operating in Maryland and because of the 1934 Act's general assignment of responsibility to State commissions--the commission's decision was not a 252 determination and therefore was not reviewable in federal court by virtue of 252(e)(6).
+Thus, although the State commission may have had jurisdiction to administer and enforce interconnection agreements, review of such decisions by the commission is taken to the State courts as determined by the State review procedure preserved by the 1996 Act.
+See Md.
+Code Ann., Pub. Util. Cos.
+3-202(a), 3-204(a).
+In resolving the jurisdictional question in this case by carefully respecting Congress' division of responsibilities between federal and State spheres, we do not, we believe, adversely impact the national policies promoted by Congress in the Telecommunications Act of 1996.
+On the contrary, with a view to thousands of approved interconnection agreements that are now in place, Congress appropriately recognized the benefit of employing the vast resources and expertise of State public service commissions to resolve ongoing disputes arising from the administration and interpretation of interconnection agreements.
+The disputes may amount to tens of thousands of cases.
+While the lack of uniformity on the question in this case--whether ISP-bound calls are local traffic subject to reciprocal compensation--is generating substantial litigation nationally, the 1996 Act's deliberate choice to preserve pre 1996 procedural structures nevertheless provides a mechanism for working out that difficulty.
+Indeed, the FCC has already acted within its rulemaking authority to provide a uniform position that ISP-bound calls are not subject to reciprocal compensation.
+See 47 U.S.C. 251(d); FCC Ruling, 14 FCC Rcd 3689.
+And while that ruling is currently being revisited, see Bell Atl. Tel. Cos.
+, 206 F.3d 1 , inevitably a uniform federal position will emerge, providing guidance to the various State commissions--and the courts that review them--for enforcing interconnection agreements and their provisions for reciprocal compensation.
+But any resolution of this dispute that would require us to ignore the language of 252(e)(6) would modify the complex structure created by Congress and only exacerbate the frustration developing from a lack of uniformity.
+The statutory language provides unifying mile-posts for the courts, and we must be guided by them.
+Because the Maryland Public Service Commission's determination in this case was not a 252 determination, its review is expressly not covered by 252(e)(6).
+Accordingly, review of the determination must be obtained from State courts, which, it need not be said, are under no lesser obligation than federal courts to apply governing federal law.
+See Testa v. Katt , 330 U. S. 386 , 67 S.Ct. 810 , 91 L.Ed. 967 (1947).
+Bell Atlantic and MCI argue that this understanding of the scope of jurisdiction conferred by 252(e)(6) conflicts with rulings made by other circuits and, more importantly, with two statements made by the Supreme Court in a footnote to its opinion in AT&T Corp. v. Iowa Utils.
+Bd. , 525 U.S. 366 , 119 S.Ct. 721 , 142 L.Ed.2d 835 .
+However, neither source of authority provides persuasive support for the position urged by Bell Atlantic and MCI.
+To date, four circuits have directly confronted the jurisdictional question presented here--whether 252(e)(6) authorizes federal court review of commission actions enforcing interconnection agreements--the Fifth, Seventh, Eighth, and Tenth Circuits.
+7 And only the Fifth and Tenth Circuits conducted any relevant analysis.
+The Seventh Circuit stated simply, "Decisions of state agencies implementing the 1996 Act are reviewable in federal district courts," without providing analysis to support this broad statement in the context of a suit challenging a commission's interpretation or enforcement actions.
+Illinois Bell , 179 F.3d at 570 (quoting an earlier order in the same case that was similarly devoid of jurisdictional analysis, see Illinois Bell Tel. Co. v. WorldCom Techs., Inc. , 157 F.3d 500, 501 (7th Cir.1998)).
+And the Eighth Circuit, in dictum and without analysis, first stated its "belie[f] that the enforcement decisions of state commissions would be subject to federal district court review under subsection 252(e)(6)."
+Iowa Utils.
+Bd. v. FCC , 120 F.3d at 804 n. 24.
+This statement appeared in a footnote in a section of analysis that the Supreme Court held the Eighth Circuit should not have reached because the issue was not ripe for review.
+See Iowa Utils.
+, 525 U.S. at 386 , 119 S.Ct. 721 .
+Then later, it simply deferred to the FCC in finding jurisdiction.
+See Southwestern Bell Tel. Co. v. Connect Communications Corp. , 225 F.3d 942, 946 (8th Cir.2000).
+The Fifth Circuit held that "federal court jurisdiction extends to review of state commission rulings on complaints pertaining to interconnection agreements and that such jurisdiction is not restricted to mere approval or rejection of such agreements."
+Southwestern Bell Tel. Co. v. Public Util. Comm'n , 208 F.3d 475, 481 (5th Cir.2000).
+In reaching this conclusion, the court recognized that 252(e)(6) could be read literally to limit federal review of State commissions to decisions "approving or disapproving, or arbitrating, an interconnection agreement."
+Id. at 479 .
+But the court rejected that reading because it concluded, "We do not think so narrow a construction was intended."
+Id. The court then reasoned that assignment to State commissions "of plenary authority to approve or disapprove these interconnection agreements necessarily carries with it the authority to interpret and enforce the provisions of [such] agreements."
+Id.
+Thus, it concluded, an enforcement action, as an implied State commission power under 252, is a determination reviewable in federal court.
+See also Southwestern Bell Tel. Co. v. Brooks Fiber Communications of Okla., Inc. , 235 F.3d 493, 497-98 (10th Cir.2000).
+But finding such implied federal jurisdiction conflicts directly with 601(c)(1) of the 1996 Act, 47 U.S.C. 152 note, and with the well-established principle that federal jurisdiction must be found in an explicit grant from Congress.
+As the analysis above demonstrates, the State commission authority to enforce interconnection agreements derives not from the grant of authority in 252(e)(1) to approve or reject interconnection agreements, but from the residual authority of State commissions and courts conferred by 47 U.S.C. 152 and by State law, and preserved by the 1996 Act.
+Bell Atlantic and MCI also place great stress on two statements made by the Supreme Court in footnote 6 of its opinion in Iowa Utilities .
+See Iowa Utils.
+, 525 U.S. at 378-79 n. 6, 119 S.Ct. 721 .
+In the first, the Court stated that Id.
+This remark, which was directed at the suggestion that the FCC lacks rulemaking authority with respect to the regulation of local competition, does not resolve the question before us.
+The statement surely cannot mean that the Act deprived the States of all regulatory authority in the field because this would be inconsistent with the statute itself.
+See, e.g. , 47 U.S.C. 152 note, 251(d)(3), 252(e)(3), 253(b), (c); see also H. Conf.
+Rep.
+No. 104-458, at 126, reprinted in 1996 U.S.C.C.A.N.
+124, 137 (Section 252(e) "preserves State authority to enforce State law requirements").
+At most, this statement advances the unremarkable proposition that, where the 1996 Act speaks and conflicts with State law, the latter must yield.
+But the supremacy of federal law can be vindicated in State court as well as federal.
+See Testa v. Katt , 330 U.S. 386 , 67 S.Ct. 810 , 91 L.Ed. 967 .
+In the second footnote statement relied upon by Bell Atlantic and MCI, the Court observed that under the views expressed in both the majority and dissenting opinions, "if the federal courts believe a state commission is not regulating in accordance with federal policy they may bring it to heel."
+Iowa Utils.
+, 525 U.S. at 379 n. 6, 119 S.Ct. 721 .
+Again this must be true, as far as it goes.
+But it does not go so far as to constitute a jurisdictional ruling.
+The Court could not have meant to suggest that a federal court has jurisdiction under the Act to review any State commission action whenever the court feels the commission is not acting "in accordance with federal policy."
+On the contrary, the statement presupposes the statutory scope of existing federal jurisdiction and describes its effect; it does not purport to define that scope or extend it.
+In context, the statement would be just as sensible if the modifier "federal" were removed.
+The Court was merely emphasizing that the invocation of "what might loosely be called 'States' rights,'" id. , was out of place because the issue before the Court was not whether federal law applied, but whether it should be applied with deference given to the FCC's interpretations.
+At bottom, 47 U.S.C. 252(e)(6) authorizes federal court review only of State commission "determinations" made "under this Section [ 252]," leaving all other review to State courts in the manner that it existed before the 1996 Act.
+And State commission orders administering and enforcing interconnection agreements are not 252 determinations.
+They are routine State commission determinations made by State commissions within their retained powers, and accordingly they are reviewable only by State courts in accordance with State law that the 1996 Act has preserved.
+VI.
+Federal-Question Jurisdiction Bell Atlantic contends alternatively that subject matter jurisdiction is justified by 28 U.S.C. 1331, which confers federal jurisdiction over civil actions "arising under the Constitution, laws, or treaties of the United States."
+We also reject this argument, because we conclude that in light of the limited grant of federal jurisdiction in 47 U.S.C. 252(e)(6), the exercise of 1331 general federal-question jurisdiction would "flout, or at least undermine, congressional intent."
+Merrell Dow Pharmaceuticals Inc. v. Thompson , 478 U.S. 804, 812 , 106 S.Ct. 3229 , 92 L.Ed.2d 650 (1986).
+As we detailed in Part V, above, the Telecommunications Act of 1996 carefully divides jurisdiction between the federal courts and the State courts, explicitly admonishing that the 1996 Act should not be construed to change preexisting assignments of responsibility "unless expressly so provided" in the 1996 Act or its amendments.
+47 U.S.C. 152 note.
+As we likewise noted above, the 1996 Act confers jurisdiction on federal courts to review State commissions' determinations only when the question is whether an interconnection agreement "meets the requirements of section 251 and this section [ 252]."
+47 U.S.C. 252(e)(6).
+For review of other State commission determinations, the 1996 Act leaves jurisdiction with the State commissions and courts.
+It would be nonsensical to conclude that even though Congress carefully articulated jurisdictional responsibility in the 1996 Act, it nonetheless intended to have 28 U.S.C. 1331 override this effort.
+As we have noted previously about coordinating specific federal jurisdictional statutes with 28 U.S.C. 1331, section 1331 "is a general federal-question statute, which gives the district courts original jurisdiction unless a specific statute assigns jurisdiction elsewhere."
+International Science & Tech. Inst., Inc. v. Inacom Communications, Inc. , 106 F.3d 1146, 1154 (4th Cir.1997).
+In addition to this logical coordination of federal jurisdictional statutes, the proper application of 1331 itself is derived by understanding that the clause "arising under the laws of the United States" requires an analysis of the federal law implicated to determine whether Congress intended the resolution of cases under that law to occur in federal courts.
+See generally , 13B Wright, Miller & Cooper, Federal Practice & Procedure 3562 (1984 and Supp.2000).
+Thus, in Jackson Transit Auth. v. Local Div. 1285, Amalgamated Transit Union , 457 U.S. 15 , 102 S.Ct. 2202 , 72 L.Ed.2d 639 (1982), the Supreme Court, in construing the reach of 1331, looked carefully at the congressional intent with respect to the federal statute in question to determine whether disputes under that statute were intended to be resolved in federal courts or in State courts.
+Indeed, the circumstances in Jackson are closely analogous to those here.
+Presented with the question of whether federally created contract provisions were to be construed in federal courts under the authority of 1331 or in State courts, the Court held, looking to the underlying law, that "Congress intended those contracts to be governed by state law applied in state courts."
+Id. at 29 , 102 S.Ct. 2202 ; see also Merrell Dow , 478 U.S. at 811 , 106 S.Ct. 3229 ("Congress did not intend a private federal remedy for violations of the statute that it enacted".
+); cf. Ormet Corp. v. Ohio Power Co. , 98 F.3d 799, 806-07 (4th Cir.1996) (holding that "while routine transactional questions about the sale and transfer of [pollution] allowances are to be resolved [in State court] through application of standard principles of commercial law, the issues about who is entitled to share in the EPA's initial allocation of [pollution] allowances raise questions of federal law" that are "sufficiently substantial to arise under federal law within the meaning of 28 U.S.C.
+1331.")
+In this case, Congress created a limited federal right of review of State commission determinations as defined in 47 U.S.C. 252(e)(6), and otherwise it intended for the right of review to be exercised in State courts.
+The simple fact that interconnection agreements are "creations of federal law" does not make their interpretation a sufficiently substantial federal question to confer jurisdiction under 28 U.S.C. 1331.
+Jackson , 457 U.S. at 23 , 102 S.Ct. 2202 ; see also id. at 21 , 102 S.Ct. 2202 ; International Science , 106 F.3d at 1154 (describing the Supreme Court's decision in Shoshone Mining Co. v. Rutter , 177 U.S. 505 , 20 S.Ct. 726 , 44 L.Ed. 864 (1900), as holding that "notwithstanding the federal statutory basis, Congress [had] intended that because of the predominance of state issues the cases be litigated in state courts").
+Finally, it would violate basic tenets of federalism to conclude, in the absence of specific federal authorization, that a federal court may review a State quasi-judicial body, such as the Maryland Public Service Commission.
+See District of Columbia Court of Appeals v. Feldman , 460 U.S. 462, 476-77 , 103 S.Ct. 1303 , 75 L.Ed.2d 206 (1983) (noting that federal courts may, if authorized, review State commissions when acting in a legislative capacity, as distinct from a judicial capacity).
+We have noted repeatedly that "[a]s a jurisdictional doctrine, Rooker-Feldman precludes the lower federal courts from second-guessing the merits of [a] state court judgment."
+8 Brown & Root, Inc. v. Breckenridge , 211 F.3d 194, 202 (4th Cir.2000).
+While strict application of the doctrine requires a final judgment from State courts, the federal intrusion into State affairs is not any less when the judgment issues from a State quasi-judicial body.
+Accordingly, we conclude that 28 U.S.C. 1331 does not provide federal jurisdiction over Bell Atlantic's claims in the circumstances of this case where Congress intended that federal jurisdiction be limited to the grant in 47 U.S.C. 252(e)(6).
+But cf. GTE N., Inc. v. Strand , 209 F.3d 909, 919 (6th Cir.2000) (finding 1331 jurisdiction where 252(e)(6) jurisdiction was lacking for cases that are "the product of an independent state law proceeding"), petition for cert. filed , 121 S.Ct. 380 , 148 L.Ed.2d 293 , 69 U.S.L.W.
+3087 (2000) (No. 00-101).
+VII.
+Summary of Conclusions In sum, this federal action by Bell Atlantic against the Maryland Public Service Commission and its individual members in their official capacity is barred by the Eleventh Amendment, and the State parties did not waive that immunity by participation in the regulation of interconnection agreements, because Congress did not manifest an intent that these parties waive Eleventh Amendment immunity as a condition to participation in the federal regulatory scheme.
+Moreover, the doctrine of Ex parte Young does not provide an exception for the action against the individual State officials because (1) the State officials' decision was based on State contract law and arguably did not involve an ongoing violation of federal law, and (2) the federal interests served in making State officials parties to this federal court action under 47 U.S.C. 252(e)(6) are marginal, if not nonexistent, and do not outweigh countervailing interests of federalism.
+As to the action against MCI and the other LECS, the claims--seeking a declaratory judgment to interpret and an injunction to enforce already approved interconnection agreements--do not fall into the category of actions identified by 47 U.S.C. 252(e)(6) for resolution in federal court.
+Such claims are left by the 1996 Act for resolution by State commissions and for review in State courts, and therefore federal courts have no jurisdiction to decide them.
+Moreover, 28 U.S.C. 1331 does not operate to confer the jurisdiction that Congress withheld by the 1996 Act.
+For these reasons, we affirm the judgment of the district court.
+AFFIRMED.

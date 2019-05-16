@@ -1,0 +1,417 @@
+ MESKILL , Circuit Judge: These consolidated cases arise from an order of the Board of Governors of the United States Postal Service which allowed, under protest, certain changes in postal rates and fees to take effect pursuant to the rate-making provisions of the Postal Reorganization Act of 1970, 39 U.S.C. 101 et seq.
+(1976) ("Act").
+Collectively, the petitioners and intervenors in this case attack the order of the Postal Board of Governors on a broad front.
+The principal issue presented for review is whether the resulting changes in rates and fees are lawful.
+To that end, two major challenges are presented.
+Several parties argue that the rates are unlawful because they are based upon an incorrect interpretation of 39 U.S.C. 3622(b) that was foisted upon the postal system by the United States Court of Appeals for the District of Columbia Circuit.
+1 Other parties contend that the D.C.
+Circuit's interpretation is correct, but argue that the Service-Related Cost ("SRC") concept, which was used to allocate various costs in setting the current rates, is irrational and that the rates are accordingly unlawful.
+The respondent Postal Service, while it defends its decision to allow the changes to take effect under protest as legal and proper, also aligns itself with the petitioners to the extent that it contests the D.C.
+Circuit's interpretation of section 3622(b) and rejects the SRC concept.
+These issues are treated first in this opinion.
+An additional issue of primary importance raised on this appeal concerns the Postal Service's general revenue requirements.
+This issue is reviewed second.
+Finally, a plethora of issues concerning much narrower disputes is reviewed.
+An appropriate resolution of the esoteric issues presented in this case requires a general understanding of the postal system's organization and rate-making structure which will therefore be discussed first.
+The Postal Service The postal system is comprised of two independent executive agencies, the United States Postal Service, see 39 U.S.C. 201 , which is governed by a Board of Governors ("Board"), see 39 U.S.C. 202 , and a Postal Rate Commission ("PRC"), see 39 U.S.C. 3601 .
+The issues in this case arise from a rate-making proceeding, yet also touch upon certain tensions that exist within the structure of the postal system, specifically between the Board and the PRC.
+The rate-making process in the postal system is unique.
+While the Board is entrusted with the power "to establish reasonable and equitable rates of postage and fees for postal services," see 39 U.S.C. 3621 , its actual rate-making authority, with a few exceptions, is limited to approving, rejecting, modifying, or allowing under protest recommendations of the PRC, see 39 U.S.C. 3625(a) .
+The PRC, however, may not initiate a rate proceeding on its own.
+Rather, pursuant to section 3622(a) , the PRC must await a "request" from the Board 2 Section 3622(b) provides that upon receiving such a request from the Board, the PRC "shall make a recommended decision on the request for changes in rates or fees in each class of mail or type of service in accordance with the policies of this title and [certain] factors."
+For convenience, the individual factors are omitted at this point, but will be discussed in detail below.
+Once the PRC responds with its recommended decision, the Board has several options.
+Section 3625(a) provides that "the Governors may approve, allow under protest, reject, or modify that decision in accordance with the provisions of this section."
+As a prerequisite to modification, the Board must first reject the PRC's recommended decision and "resubmit" it to the PRC for further consideration.
+39 U.S.C. 3625(d) .
+Then, upon receiving the PRC's decision following reconsideration, the Board, only if it is unanimous, may modify the decision.
+Id .
+Finally, if pursuant to section 3625(c) the Board "under protest, allow[s] a recommended decision to take effect," it must either seek judicial review of the PRC's decision, or return the decision to the PRC for reconsideration and a further recommended decision.
+In the case before us, the Board opted for subdivision (c), placing the PRC's recommended decision into effect under protest, and "returning the decision to the PRC for further consideration.
+The Board's decision to allow under protest and return the decision to the PRC constituted a final order subject to judicial review upon the appeal of an "aggrieved party."
+39 U.S.C. 3628 .
+Section 3628 provides that a decision of the Board may be appealed to any circuit court of appeals in the United States and further provides that the circuit court Id .
+The Case The chronology of events giving rise to this litigation commenced with the Postal Service, through its Board of Governors, "requesting" a recommended decision on changes in postal rates on April 21, 1980.
+The Board's action initiated R80-1, the fifth general rate-making proceeding since the enactment of the Act in 1970.
+The Postal Service had determined that an annual revenue requirement of $22.9 billion was necessary for the "test year" beginning March 21, 1981 and ending March 20, 1982.
+The Postal Service had also determined that its proposed rates and fees would increase postal revenues by $3.75 billion annually.
+The Postal Service requested the PRC to recommend specific changes in hundreds of rates for classes and subclasses of mail and in certain fees.
+The "request" was accompanied by testimony of eleven witnesses and thousands of documents.
+3 Pursuant to sections 3622(b) and 3624, 39 U.S.C. 3622(b) , 3624, the PRC conducted extensive hearings in which more than fifty parties participated.
+On February 19, 1981, the PRC sent its recommended decision to the Postal Service.
+The recommendation included a staggering $1 billion reduction in the Postal Service's proposed general revenue requirements and major changes in cost distribution and in the rates compared with those proposed by the Postal Service.
+Dissatisfied with the recommendation, the Board returned it to the PRC pursuant to 39 U.S.C. 3625(c)(2) , allowing the decision to take effect under protest.
+This was the first time that the Board had failed to accept the PRC's initial recommended decision in a rate-making proceeding.
+The Board stated in its decision that the PRC's decision set rates and revenues so low that the Postal Service might have to borrow funds to meet its obligations.
+Furthermore, the Board claimed that the decision would require that more frequent rate proceedings be conducted, which would destabilize postal rates.
+The Board also implied that the PRC lacked authority to scrutinize or adjust general revenue requirements.
+Nevertheless, the Board allowed the rates to go into effect, albeit under protest, "because of the Postal Service's urgent need for revenues."
+4 The subsequent events were summarized by another panel of this Court in Newsweek, Inc. v. United States Postal Service , 652 F.2d 239 (2d Cir. 1981): Id. at 241 .
+At issue in that earlier case was whether Newsweek and Time had prematurely filed their petitions, and, even if their filings had been proper, whether their petitions should be transferred to the District of Columbia Circuit in the interest of justice and for the convenience of the parties.
+The Court concluded Id. at 240-41 .
+We now turn to the specific concerns raised on this appeal.
+39 U.S.C. 3622(b) The primary issue raised on this appeal concerns the proper interpretation of 39 U.S.C. 3622(b) (1976), which provides the procedure which the PRC must follow in setting recommended postal rates.
+Section 3622(b) provides in its entirety: In the first three general rate proceedings under the Act, the PRC and the Board were in agreement as to the meaning of section 3622(b) .
+See Docket Nos.
+R71-1, R74-1, and R76-1.
+Both read the provision to require a two-step process for allocating postal costs.
+The first step consisted of determining which costs were directly or indirectly attributable to a specific mail class or service based upon volume variability, and allocating these attributable costs to the specific class or service.
+Approximately half of the postal system's costs were determined to vary with the volume of mail and were therefore found "attributable" within the meaning of section 3622(b)(3) (as it was then interpreted).
+The second step was to treat the remaining costs of the postal system as "institutional" and judgmentally "assign" them to the various mail classes and services on the basis of elasticity of demand and, ostensibly, on the basis of the non-cost factors listed in section 3622(b) .
+In Association of American Publishers, Inc. v. Governors of United States Postal Service , 485 F.2d 768 (D.C.Cir.1973), the D.C.
+Circuit expressed its dissatisfaction with the manner in which the Postal Service had been allocating costs of its operations to the various services it provided, as reflected in the fees for those services, and the various classes and subclasses of mail, as reflected in the postal rates designated for those classes and subclasses.
+Judge Bazelon's concurring opinion, which was joined by the other two members of the panel, noted that the PRC's response to section 3622(b)(3) , "the requirement that each class of mail bear the direct and indirect postal costs attributable to that class plus that portion of all other costs of the Postal Service reasonably assignable to such class," was "questionable at best," 485 F.2d at 777 .
+The American Publishers panel interpreted the language of the subsection to require allocation of costs in accordance with cost-of-service principles to the fullest extent possible.
+Id. at 779 .
+However, in American Publishers , the court determined that the Postal Service should be allowed sufficient time in which to formulate a rate-making methodology which would comport with the D.C.
+Circuit's understanding of the legislative intent underlying the Act.
+Then, in National Association of Greeting Card Publishers v. United States Postal Service , 569 F.2d 570 (D.C.Cir.1976), vacated as to other issues , 434 U.S. 884 , 98 S.Ct. 253 , 54 L.Ed.2d 169 (1977) (NAGCP I), five years after its American Publishers decision, the D.C.
+Circuit decided to take a more active role.
+The court reaffirmed its earlier interpretation of section 3622 , that subsection (b)(3) is the principal factor to be considered by the PRC in setting rates.
+569 F.2d at 585 .
+The court noted that of the factors listed only subsection (b)(3) contained the word "requirement."
+In addition, the court found that the subsection's reference to indirect, direct and "all other costs" of the Postal Service "further emphasize[s] its importance by suggesting a substantial breadth to its coverage."
+Id. Third, the court noted an emphasis throughout the subsection upon cost-of-service principles--that each class bear its "attributable" costs and a portion of all other costs "reasonably assignable" to it.
+Thus, the court concluded in NAGCP I that the plain language of section 3622(b) demanded "that each class of mail and postal service shoulder all the postal costs that may reasonably be traced to the provision of that class or service."
+Id. The NAGCP I Court then declared that the PRC's methodology, which only "attributed" costs to a class of mail or service on the basis of "volume variability" (an accounting technique), was insufficient.
+Instead, the D.C.
+Circuit stated that the PRC should achieve greater attribution of costs through the use of "cost allocation formulae based on accounting principles" to fulfill Congress' intent that "attribution under subsection 3622(b)(3) extend beyond minimally attributable costs and include to a significant extent those additional costs which, although not measurably variable and therefore not directly attributable, may nonetheless be determined with reasonable confidence to be the consequence of providing the service."
+Id. at 586 .
+Second, the D.C.
+Circuit seized upon the term "reasonably assign" contained in subsection 3622(b)(3) and determined Id. at 586 .
+Third, the court noted that some "costs will exist but will not be 'reasonably assignable' to any particular class or type."
+Id. at 587 .
+With respect to this residuum, the D.C.
+Circuit stated that the "other factors enumerated in section 3622 will govern the allocation of these nonattributable and nonassignable costs."
+Id.
+Thus, the court displaced the two-tier approach followed by the PRC and Board with three tiers--the attribution and reasonable assignment tiers being based on cost-of-service principles and the final "residual" tier being based on section 3622(b) 's other factors.
+With this "guidance," the D.C.
+Circuit remanded the action to the Postal Service with this caveat : Id. at 592-93 (footnote omitted).
+5 In R77-1, the fourth general rate proceeding under the Act, the PRC acquiesced to the mandate of the D.C.
+Circuit contained in the NAGCP I decision by employing a "Service-Related Cost" ("SRC") concept to "assign" costs pursuant to the second tier of the NAGCP I Court's model.
+The concept was premised upon the assumption that without preferential classes of mail, the Postal Service would only operate on a three-day-a-week as opposed to the normal six-day-a-week schedule.
+The PRC therefore "assigned" to the preferential classes 6 the additional fixed costs incurred to accommodate them.
+In introducing the SRC concept, the PRC did express its reservation that: NAGCP I NAGCP I NAGCP I PRC Op., R77-1 at 9 (footnote omitted).
+The PRC's response to NAGCP I and its introduction of the SRC concept were then reviewed by the D.C.
+Circuit in National Association of Greeting Card Publishers v. United States Postal Service , 607 F.2d 392 (D.C.Cir.1979), cert. denied , 444 U.S. 1025 , 100 S.Ct. 688 , 62 L.Ed.2d 659 (1980) ( NAGCP III ).
+In NAGCP III , the D.C.
+Circuit first reaffirmed its prior interpretation of section 3622(b) which called for the three-tier cost allocation approach.
+Id. at 400 .
+Then, the court examined the Postal Service's attempt to comply with the court's mandate in NAGCP I .
+The NAGCP III Court first paid lip-service to the deference that must be accorded a decision of an agency such as the Postal Service, noting its "obligation to defer to the PRC's expert judgment in the selection of cost allocation methodologies."
+Id. at 401 .
+The court also made the following cryptic remark: NAGCP I Id .
+186 U.S.App.D.C.
+at 348 569 F.2d at 587 Id. at 401 .
+In addition, the court complimented the Postal Service and PRC for their efforts to comply with the directives contained in NAGCP I .
+Id. at 404 .
+Importantly, the PRC in R77-1 did not "attribute" costs to the extent directed under NAGCP I .
+Rather, the PRC continued to use volume variability as the exclusive factor to determine whether certain costs could be "attributed" within the meaning of section 3622(b)(3) .
+The PRC emphasized that the Postal Service had assembled improved data on long run variable costs that permitted greater "attribution" than had been accomplished in prior rate proceedings, and determined that NAGCP I 's call for "extended attribution" had been satisfied.
+607 F.2d at 405 .
+The D.C.
+Circuit was displeased with the PRC's resistance to its previous command in NAGCP I that the PRC use cost allocation formulae based on accounting principles as a supplement to the volume variability concept.
+Id. at 405 n.38.
+But the court never addressed the PRC's failure to adhere strictly to its mandate in NAGCP I because "no party challenged the PRC decision on this point," id. at 406 & n.40; the court simply stated: NAGCP I Id. (footnote omitted).
+The NAGCP III Court also upheld the SRC concept as a proper means to assign costs under section 3622(b) .
+The court rejected arguments that the SRC concept was irrational, finding it "to be reasoned, nonarbitrary, and congruent with the legislature's objective."
+Id. at 404 .
+Nor was the court impressed by the argument that deferral of mail rarely occurs, viewing as sufficient the PRC's contentions that "if all mail were nonpreferential, then three-day delivery would be feasible," and that "deferrability gives rise to differences between preferential and nonpreferential mail in the overall level of service provided."
+Id. at 408 .
+With R80-1, the proceeding here on review, commencing only weeks after the NAGCP III decision, the PRC felt compelled to adhere to the D.C.
+Circuit's mandate, and followed the three-tier process in recommending the current rates.
+The Board, however, was unswept by NAGCP III 's wake, stating in its decision to allow the rates to take effect under protest that the three-tier process--in particular the SRC concept--was "no longer acceptable."
+See Decision of the Governors of the United States Postal Service at 15 (March 10, 1981) (hereinafter "Board's Decision").
+Thus, the Board joins several parties here in challenging the D.C.
+Circuit's interpretation of section 3622(b) .
+At the outset, it is well settled that the decisions of one Circuit Court of Appeals are not binding upon another Circuit.
+See Pan American World Airways, Inc. v. C.A.B.
+, 517 F.2d 734, 741 (2d Cir. 1975); SEC v. Shapiro , 494 F.2d 1301, 1306 n.2 (2d Cir. 1974).
+Our analysis of the language of the statute, its legislative history and arguments of counsel convinces us that the D.C.
+Circuit's interpretation of 39 U.S.C. 3622(b) has placed unwarranted and unintended restraints upon the discretionary authority of the PRC and Board in setting postal rates and fees.
+Despite the consistent interpretation accorded to section 3622(b) by the PRC and the Board in the first three rate-making proceedings, 7 the D.C.
+Circuit chose to reject the two-step cost allocation analysis in favor of its three-tier approach.
+The NAGCP I and NAGCP III panels based their decisions upon the plain language of the statute and found support for their interpretation in the legislative history of the Act.
+We conclude that the D.C.
+Circuit failed to give sufficient deference to the agency's own interpretation of the statute, misread the plain language of section 3622(b) and misconstrued the legislative history of that section.
+In Udall v. Tallman , 380 U.S. 1, 16 , 85 S.Ct. 792, 801 , 13 L.Ed.2d 616 (1965), the Supreme Court admonished courts to accord great deference to an agency's interpretation of its enabling act: Unemployment Comm'n v. Aragan 329 U.S. 143, 153 67 S.Ct. 245, 250 91 L.Ed. 136 e. g. Gray v. Powell 314 U.S. 402 62 S.Ct. 326 86 L.Ed. 301 Universal Battery Co. v. United States 281 U.S. 580, 583 50 S.Ct. 422, 423 74 L.Ed. 1051 Id. Moreover, the Supreme Court has repeatedly warned courts to refrain from unwarranted intrusions into areas entrusted to agency discretion and expertise.
+Vermont Yankee Nuclear Power Corp. v. Natural Resources Defense Council, Inc. , 435 U.S. 519, 534-58 , 98 S.Ct. 1197, 1207-1219 , 55 L.Ed.2d 460 (1978).
+"[F]undamental policy questions appropriately resolved in Congress and in the state legislatures are not subject to re-examination in the federal courts under the guise of judicial review of agency action."
+Id. at 558 , 98 S.Ct. at 1219 .
+See generally Board of Governors v. First Lincolnwood Corp. , 439 U.S. 234, 251-52 , 99 S.Ct. 505, 514-515 , 58 L.Ed.2d 484 (1978).
+We believe that the D.C.
+Circuit's decisions in NAGCP I and III reflect a patent disregard both for the latter considerations and for the statutory limitations on the scope of judicial review imposed by 39 U.S.C. 3628 (1976) and 5 U.S.C. 706 (1976).
+It is our opinion that the D.C.
+Circuit erroneously supplanted the PRC's "reasonable" construction of section 3622(b) with its own interpretation.
+We cannot agree with the D.C.
+Circuit that a "plain reading" of section 3622(b) clearly reveals that the PRC is bound to "attribute" and "assign" costs of the Postal Service to the maximum extent possible using cost-of-service principles, and allocate only the residual costs using the non-cost factors, see NAGCP I , 569 F.2d at 585-87 .
+Indeed, in American Publishers , the D.C.
+Circuit itself stated, " Section 3622(b)(3) is susceptible of a variety of interpretations, as all parties to this proceeding have recognized."
+485 F.2d at 779 (Bazelon, C. J., concurring, with whom Tamm & Wyzanski, JJ., join) (footnote omitted).
+The NAGCP I Court's supposed "plain reading" went as follows: section 3622(b) to to 569 F.2d at 585 (footnote omitted).
+The court, however, neglected to mention that section 3622(b) states that the PRC "shall" consider all of the section's enumerated factors and places no special emphasis upon subdivision (3) other than by inserting the word "requirement" in that subdivision.
+But that alone, we think, is too tenuous a ground upon which to base such an expansive interpretation of that provision.
+Indeed, had Congress intended primary importance to attach to that factor, we think that, at the very least, it would have been placed at the top of the list of factors.
+We believe that the true genesis of the D.C.
+Circuit's construction lay not in the plain language of the statute or underlying intent of Congress, but rather in the opinion of the PRC's Chief Examiner in R71-1, who stated, "The paragraph as a whole suggests that assignment of costs was to be carried out as far as it reasonably could be."
+American Publishers , 485 F.2d at 779 n.17.
+However, that construction was rejected by the PRC in R71-1 and consistently rebuffed thereafter until the NAGCP I Court directed the agency to adopt it.
+Nor do we think that the legislative history of the statute supports the D.C.
+Circuit's interpretation.
+Nothing in the legislative history suggests that Congress meant to impose such rigid rules and standards for rate-setting so as to leave the PRC and Board with only minimal discretionary authority in determining how much of the postal costs a particular rate or fee was to absorb.
+The D.C.
+Circuit incorrectly equated Congress' clearly expressed intention to remove politics from the post office with removing discretion and judgment from the postal rate-making process.
+Congress, however, simply sought to eradicate discriminatory rate-making by creating an agency shielded from the forces of lobbyists and politics in general which in the past had caused discriminatory rate-setting while the rate-making process was conducted under the auspices of Congress.
+The House Report on H.R.
+17070, states: H.R.Rep.No.1104, 91st Cong., 2d Sess.
+6 (1970), U.S.Code Cong. & Admin.News, p. 3649.
+Accordingly, the House version of the postal reform legislation advocated the removal of the Post Office Department from the President's Cabinet and creation of an independent agency--the Postal Service, the prohibition of political endorsements of candidates for positions in the Postal Service and, most important, the establishment of a Postal Rate Board which was to be independent of the Postal Service, subject only to judicial review and congressional veto, see H.R.
+17070, 91st Cong., 2d Sess.
+1254 (1970).
+The Senate version, S. 3842, 91st Cong., 2d Sess.
+(1970), provided similar measures to remove the postal system from the political arena.
+For example, S. 3842 contained a provision establishing a Postal Rate Commission within an independent Postal Service, see S. 3842, supra , 3702 , but carried the matter one step further by exempting decisions of the PRC from congressional veto.
+Ultimately, a compromise was reached and two independent agencies were created, the PRC and the Postal Service, with neither subject to congressional veto.
+See Conference Committee Report on H.R.
+17070, H.R.Rep.No.
+91-1363, 91st Cong., 2d Sess.
+79-80, 84-85 (1970).
+That the rate-setting power was committed to agency discretion, subject to broad guidelines rather than specific, rigid formulae is clear.
+Under S. 3842, the PRC was charged with recommending rates "on the basis of general legislative criteria enacted by law."
+S.Rep.No.91-912, supra , at 4; see S. 3842, 91st Cong., 2d Sess., 3703 .
+The "general legislative criteria" were described as follows: S.Rep.No.91-912, supra , at 15.
+That the Senate bill contemplated granting broad discretion to the PRC in its consideration of all of the general criteria provided by statute is made clear in the following discussion in the Senate Report on S. 3842: requirements S.Rep.
+91-912, supra , at 17 (emphasis added).
+Moreover, that the Senate Report refers to all of the specific factors of section 3622(b) as "requirements" is a strong indication that no one factor was intended to carry more weight than any other.
+The House bill, H.R.
+17070, 91st Cong., 2d Sess.
+1201(c) (1970), like the Senate bill, required that rates be established to apportion all costs on a fair and equitable basis, and further imposed a statutorily mandated floor of cost coverage for each rate.
+Section 1201(c) of H.R.
+17070, and the original Administration bill, H.R.
+11750, 91st Cong., 1st Sess.
+1201(c) (1970), 8 provided that the rate for each non-preferred class of mail absorb the costs "demonstrably related" to it.
+Demonstrably related costs were defined as Postal Rates and Revenue and Cost Analysis: Hearings Before the House Subcomm. on Postal Rates , 91st Cong., 2d Sess.
+75 (1970).
+The Conference Committee reviewed the Senate and House version and compromised as follows: H.R.Rep.No.91-1363, 91st Cong., 2d Sess.
+87 (1970), U.S.Code Cong. & Admin.News at 3720.
+Thus, section 3622(b) , as enacted, represents a combination of (1) the common primary factor between the House and Senate bills that rates be established on a fair and equitable basis, (2) the non-cost factors provided in the Senate bill and (3) the rate floor provided by the House bill.
+The Conference Committee report quoted above makes it clear beyond cavil that the "direct and indirect costs attributable" language was intended to provide a rate floor just as was the "demonstrably related" language in the House bill.
+The additional language in section 3622(b)(3) that each class of mail is to bear "that portion of all other costs reasonably assignable to such class" is explained in the Committee report as providing for a "judgmental assignment of some part of the remaining costs."
+The report neglects, however, to mention just what criteria are to be employed by the PRC in making that "judgmental assignment."
+From our "plain reading" of the statute and review of its legislative history we conclude that the D.C.
+Circuit erred in NAGCP I and III in holding that section 3622(b) requires the PRC to attribute and assign costs to the maximum extent possible using cost-of-service principles.
+We view the statute, as did the D.C.
+Circuit panel in the American Publishers case, i. e. , as "susceptible of a variety of interpretations."
+485 F.2d at 779 .
+Moreover, we find Judge Wyzanski's comments concerning section 3622(b) in the majority opinion in American Publishers instructive: 485 F.2d at 774-75 .
+We are convinced that the only "legislative direction as to precisely what gravity each factor" in section 3622(b) should bear is the "requirement" in subdivision (b)(3) that each class or service bear as a minimum the direct and indirect costs attributable to that class or service.
+Beyond that, the statute only provides that the PRC "shall" consider all of the enumerated factors.
+And as to the level of attribution required, we conclude that the definition of that term in the Conference Committee report is controlling.
+Therefore, we reject the D.C.
+Circuit's rulings to the extent that they interpreted section 3622(b) as requiring the attribution and assignment of costs based on cost-of-service principles to the maximum extent possible.
+There is nothing in the legislative history to suggest that attribution of fifty percent of postal costs is inadequate.
+9 We believe that Congress intended that the PRC enjoy much more discretion and greater latitude in its rate-setting determinations.
+10 This is not to say, however, that the rates set in accordance with the D.C.
+Circuit's directives must necessarily be deemed unlawful.
+Quite to the contrary, just as we find no support for the extreme position taken by the NAGCP I and III Courts, we could not hold as a matter of law that the cost allocation methodology used by the PRC in R80-1 was impermissible under section 3622(b) .
+Upon remand, the PRC may still adhere to the methodology it has employed in R80-1, and under our interpretation of the statute it is free to do so. SERVICE-RELATED COSTS The PRC's recommended decision included the assignment of over $1.8 billion on the basis of the Service-Related Cost concept.
+The Board, however, in the face of NAGCP III 's endorsement of SRC, expressly rejected the concept in its decision which allowed the recommended rates to take effect under protest.
+See Board's Decision, supra , at 14-15.
+Several parties have intervened in this litigation to support the use of SRC in assigning costs.
+11 Other parties, however, take the position that since the concept was developed in response to the D.C.
+Circuit's erroneous interpretation of section 3622(b) , the concept itself must also be erroneous.
+12 It seems clear that the Postal Service would never have conjured up the SRC concept to "assign" certain postal costs had the NAGCP I Court not demanded such extensive use of cost-of-service principles in rate-making.
+In R77-1, the rate proceeding in which SRC made its debut, the PRC made clear that the concept was being employed to meet the directive of NAGCP I that costs that are untraceable through causal relationships such as volume variability should nevertheless be reasonably assigned "among the classes using cost-of-service techniques as opposed to the methods the [ NAGCP I ] Court found 'discretionary' which had been used to distribute residual costs."
+PRC Op., R77-1 at 122.
+The PRC concluded in R77-1: 3622(b)(3) NAGCP I Id. at 123 .
+The NAGCP III Court then reviewed the SRC concept, finding it to be "reasoned, nonarbitrary, and congruent with the legislature's objective."
+607 F.2d at 404 .
+13 Nevertheless, in the rate-making proceeding on review before us the Postal Service withdrew its sponsorship of the SRC concept, characterizing its own brainchild as "patently unrealistic."
+See Board's Decision, supra , at 14.
+The Board stated: NAGCP I Id. at 14-15 (footnote omitted).
+The PRC, faced with both the D.C.
+Circuit's endorsement of the SRC concept and the Postal Service's rejection of it, chose the judicially sanctioned road, stating that the Postal Service's alternative provided "no basis for abandoning an approach to cost tracing that the court of appeals has found acceptable."
+PRC Op., R80-1 at 151.
+Now the Postal Service, truly at odds with the PRC, joins several other parties on this appeal in challenging the SRC concept.
+Our ruling concerning the appropriate interpretation of section 3622(b) does not ipso facto dispose of the issues concerning the propriety of using the SRC concept.
+There is nothing in the legislative history to suggest that the PRC cannot use cost factors in "reasonably assigning" a "portion of all other costs" of the Postal Service to a particular class or service.
+The section, as we have already stated, simply requires that all of the enumerated factors be considered and that each class of mail and mail service bear, as a minimum, the direct and indirect postal costs attributable to that class or service, as defined in H.R.
+91-1363, 91st Cong., 2d Sess.
+87 (1970).
+While we reject the D.C.
+Circuit's holding that the PRC is required to employ cost factors in the assignment tier of the rate-making process, we also conclude that the deferrability aspect of non-preferential mail and the hypothetical three-day versus six-day system is not an unreasonable methodology to use in assigning costs.
+Thus, we agree with the D.C.
+Circuit statement in NAGCP III that 607 F.2d at 409-10 .
+Since the SRC concept was developed in specific response to the D.C.
+Circuit's erroneous interpretation of section 3622(b) , however, we seriously question whether the PRC will remain adamant in its employment of SRC once the strictures of NAGCP I and III have been finally removed.
+THE REVENUE REDUCTIONS 14 The Board's decision to protest the PRC's recommended rates was primarily directed toward five revenue reductions which would cut the Postal Service's operating capital by about $1 billion.
+Reductions were recommended by the PRC in the areas of prior years' losses, the provision for contingencies and the Civil Service Retirement Fund.
+Further reductions were to be generated by adopting a new measuring device for productivity and by applying a higher discount factor than had been used in the past to accrued workers' compensation liabilities.
+The Board, in returning the recommended decision for reconsideration, described one such reduction as "patently unlawful," another as "unreasonable" and still a third as "unrealistic."
+See Board's Decision, supra , at 9.
+The Postal Service, on this appeal, contends that the PRC's staggering revenue recommendations would "deprive postal management of its lawful authority to exercise its discretion as to the timing of rate filings" by leaving the rates so unrealistically low as to necessitate a further rate-making proceeding in the near future.
+See Brief of United States Postal Service at 32.
+The result would be an "endless morass of borrowing and filing for higher rates with interminable, overlapping rate proceedings."
+See Board's Decision, supra , at 4.
+In reviewing the legality of the revenue reductions, we first recognize, as did the D.C.
+Circuit in a recent case having great bearing on these issues, that Congress intended "to vest in the Board of Governors exclusive authority to manage the Postal Service."
+Governors of United States Postal Service v. United States Postal Rate Commission , 654 F.2d 108, 114 (D.C.Cir.1981) ( Governors ).
+The Governors Court declared that while Congress envisioned the PRC and Board to be partners, Id. at 114-15 .
+At issue in Governors was the propriety of a PRC recommended decision on a Postal Service proposal to enter the field of electronic mail (E-COM).
+The Postal Service requested the PRC to recommend a decision on a change in the classification schedule to establish E-COM as a new subclass of first class mail.
+The PRC recommended the new subclass only on an "experimental" basis.
+The Board claimed on appeal that the PRC's decision went beyond its statutory authority and undermined the management authority of the Board.
+The D.C.
+Circuit agreed, id. at 115 , and concluded, "It is not the function of the Rate Commission to regulate the management of the Postal Service We hold that by so doing the Rate Commission exceeded its authority and strayed from its ratemaking and classification powers to intrude upon the management functions of the Board of Governors," id.
+We see no reason to review in this case the legislative history that was so thoroughly analyzed by the D.C.
+Circuit in Governors .
+Id. at 113-15 .
+We agree that Congress intended the Board to have "exclusive authority to manage the Postal Service," id. at 114 , and conclude that the PRC's recommended decision in this case, which drastically reduced the Postal Service's revenue requirements, had the effect of undermining the Board's exclusive authority in timing changes in postal rates and fees.
+Thus, as in Governors , the PRC has improperly encroached upon the managerial authority of the Board.
+Section 3621 of the Act states, "Postal rates and fees shall provide sufficient revenues so that the total estimated income and appropriations to the Postal Service will equal as nearly as practicable total estimated costs of the Postal Service."
+Section 3622(a) grants the Postal Service broad discretion over the timing of rate and fee changes: if the Postal Service determines that such changes would be in the public interest and in accordance with the policies of this title.
+The Postal Service may submit such suggestions for rate adjustments as it deems suitable 39 U.S.C. 3622(a) (emphasis supplied).
+Whether or not it was the intent of the PRC to cause more frequent rate filings by eliminating nearly $1 billion from the Postal Service's revenue requirements, the Board determined that the PRC's action would necessarily have that effect.
+The Board in its decision approving the PRC's recommended decision under protest stated: Board's Decision, supra , at 7.
+Specifically, the PRC eliminated $449 million from the revenue schedule for the recovery of prior years' losses on the ground that the losses were 3621 PRC Op., R80-1 at 59.
+The Board characterized the PRC's action as "disciplinary" and declared that "nothing in the Postal Reorganization Act empowers the Commission to act as disciplinarian."
+Board's Decision, supra , at 10.
+We agree with the Board.
+The authority to file a rate proceeding lies, in the first instance, with the Board.
+The PRC cannot be permitted to frustrate the managerial authority of the Board with such divisive bureaucratic tactics.
+The PRC's unexplained departure from past decisions recommending the inclusion of provisions for prior years' losses was arbitrary and thus should be set aside.
+To the extent that the PRC claims that its decision was based on the "delinquency" of the rate request filing, that reason is simply insufficient.
+We stress that the Board, and not the PRC, is responsible for making policy decisions for the Postal Service.
+Should the Board exceed its authority or make questionable policy choices, remedies may be pursued through congressional amendment or judicial review.
+Further, the President may influence the Board's policy decisions through his appointment powers.
+Aside from these checks, the Board is free to fashion the policies of the Postal Service without interference, including from the PRC.
+With respect to the PRC's reduction of the contingency provision, we conclude that this decision also was an unlawful intrusion into the policy-making domain of the Board.
+Section 3621 of the Act specifically provides that the Postal Service's "total estimated costs" shall include "a reasonable provision for contingencies."
+Pursuant to that mandate, the Board included a provision for $665.7 million to cover contingencies equal to three percent of total accrued costs for the test year.
+The PRC slashed the contingency fund to 1.8 percent, or approximately $400 million.
+Though the PRC stated that it had recommended a 2.5 percent contingency fund, that amount included $44.1 million for increases in cost-of-living adjustments, amounts the Board viewed as actual rather than contingent expenses.
+In view of the four percent contingency provision approved by the Board in the last rate case, see Board's Decision, supra , at 12, we agree with the.
+Board that the reduction of the fund to less than half the percentage of the previous rate filing was arbitrary.
+The PRC also slashed $143 million from the Postal Service's revenue requirements by recalculating Postal Service productivity using two methodologies not introduced during the hearings.
+The PRC sent out a Notice of Inquiry eleven days after the evidentiary record had closed and gave the parties seven days to file briefs and twenty days to comment.
+No discovery or cross-examination was permitted.
+We conclude that the PRC's action violated the mandate contained in 39 U.S.C. 3624(a) that the PRC base its decisions upon materials presented at record hearings conducted pursuant to 5 U.S.C. 556 and 557.
+Since the PRC's productivity adjustments were not based on record evidence, they must be set aside.
+On remand the PRC is directed to subject its productivity adjustment rationale to the same hearing process as all other materials upon which it bases its recommended decisions.
+We make no comment on the PRC's other reductions of the Postal Service's revenue requirements except that, on remand, the PRC should refrain from making arbitrary adjustment of the Postal Service's estimates in order to stimulate more frequent rate filings and should articulate its reasons for any modification of the schedule proposed by the Board.
+We feel compelled to admonish the Board and PRC to obey an implicit command of the Act that they cooperate.
+In its final report, the Senate Committee stated: S.Rep.No.91-912, supra , at 13.
+Unfortunately, it appears that just such a "bureaucratic struggle" has ensued.
+We hope that the PRC and Board can achieve greater harmony to avoid the necessity of Congress' having to enact corrective legislation.
+THE BOARD'S "MODIFICATIONS" Petitioner United Parcel Service (UPS) charges that the Board unlawfully modified the PRC's recommended decision in violation of 39 U.S.C. 3625 .
+15 More precisely, UPS argues that the Board is vested with statutory authority on its initial review of a PRC recommended decision to approve the entire decision, reject the entire decision or allow the entire decision to take effect under protest.
+In the present case, however, the Board, while selecting the latter course, also effected several "modifications" relating to classification provisions, second class "red tag" rates, third class bulk mail rates, and Bulk Mail Centers.
+For the reasons set forth below, we find that the Board acted properly and within the statutory framework.
+At the outset, we take note of the delicate power structure of the Postal System, just discussed during the course of our review of the revenue reductions.
+Crucial to this structure is that the Board of Governors manage the system by virtue of the powers vested in it by 39 U.S.C. 202 , such powers including the approval of rate and classification recommendations made by the PRC.
+39 U.S.C. 3625 .
+The PRC, on the other hand, serves an equally viable function in being responsible to make lawful recommendations to the Board.
+See generally Governors , 654 F.2d at 109-10 .
+While it is generally true that section 3625 by its terms limits the Board's response to an initial PRC rate recommendation to acceptance, rejection, or acceptance under protest, we do not read that section so strictly as to emasculate the Board's authority to disregard improper recommendations which would encroach upon its independent management and reviewing powers.
+The PRC, reading section 3625 more strictly than we do, attempted to circumvent the Board's scrutiny in R80-1 by appending several classification changes to its rate recommendations, believing that the Board would be pressured to accept them in light of the limited responses available to the Board under the section.
+Specifically, the PRC recommended third class bulk rates which were inconsistent with the existing classification schedule.
+In effect, the PRC's rates were contingent upon a change in classification which had neither been discussed nor proposed in any record proceeding.
+The PRC also submitted rates for second class mail assuming the existence of a proposed dual rate structure based on whether delivery was expedited or not.
+While such a dual structure had been approved by the Board in a separate proceeding to take effect several months later, as of the date of the Commission's recommended decision the structure simply did not exist.
+We find that the other challenges by UPS similarly concern changes in classifications and rates which are normally subject to the Board's scrutiny under sections 3623 and 3625.
+The Board properly disregarded these changes which were, legally and practicably speaking, impossible to implement.
+Once these changes were disregarded, the Board acted properly in filling the gaps by establishing temporary rates pursuant to its authority under section 3641(a) .
+16 Our view of section 3625 finds support in the language of the section.
+UPS would have us insert the word "entire" in the section before each option given to the Board concerning a PRC recommended decision.
+However, where Congress sought to ensure that an entire decision be either rejected or approved, but unaltered, for example on review before this Court, it clearly stated such strictures: 39 U.S.C. 3628 (1976).
+Moreover, UPS' reading would produce a statutory inconsistency by allowing the PRC to dilute the Board's powers of review simply by introducing inappropriate changes during the course of a rate-making proceeding.
+The Board would face a dilemma, as it did in the present case, of having to reject the entire recommended decision in order to object to a small and improper change--the cost being the loss of much needed revenues to the Postal Service.
+We cannot believe that Congress intended such a result.
+We stress, however, that our interpretation of section 3625 is narrow--we do not extend to the Board an open invitation to alter the provisions of initial PRC rate-making recommendations.
+Such a result would jeopardize the PRC's proper role within the statutory framework.
+We conclude only that the limited changes made by the Board in allowing the PRC's overall recommended decision in R80-1 to take effect under protest were not "modifications" in violation of section 3625 , but were instead proper responses under the circumstances.
+ATTRIBUTION CHALLENGES We next address several challenges to specific attributions of costs by the PRC in its recommended decision.
+In both cases, we conclude that the PRC's findings were supported by substantial evidence in the record and therefore decline to disturb either attribution.
+Newsweek, Time and Magazine Publishers Association (Publishers) challenge the PRC's attribution of over ninety-six percent of purchased transportation costs.
+Specifically, Publishers contest the PRC's finding that "latent capacity costs" in purchased transportation--defined as the "[s]pace acquired for postal use and available, at no additional charge, for the conveyance of mail," see PRC Op., R80-1 at 174--are volume variable and thus properly attributable under section 3622(b) .
+17 Publishers contend instead that these costs are not causally linked with any special mail characteristic, and, being unpredictable in nature, should therefore lapse into the "residual," unattributable category of section 3622(b) .
+In light of our interpretation of section 3622(b) , it follows that these costs are properly attributable if they are volume variable.
+Our task on review, then, is to determine whether the PRC's finding of volume variability is supported by substantial evidence in the record.
+We first observe that the PRC has been able to attribute over ninety percent of purchased transportation costs in each of the past three rate-making proceedings.
+See PRC Op., R80-1 at 174 n.4.
+Furthermore, the PRC was addressed by witnesses of ten parties on this subject, with evidence supporting as well as rejecting a conclusion of volume variability.
+Publishers highlight the testimony of one witness who stated that the causes of latent capacity costs were irregularity, unpredictability, rigidity of supply and inefficiency of postal contracting procedures, but not volume changes.
+The PRC found, however, that it is reasonably able to predict such costs over a period of time on the basis of volume variations.
+Id. at 182 .
+In assessing the PRC's findings, "[w]e should not, and indeed cannot, substitute our judgment for that of the Commission " Mt. Mansfield Television, Inc. v. F.C.C.
+, 442 F.2d 470, 482 (2d Cir. 1971).
+Rather, we accord appropriate deference to the expertise of the agency in its own field.
+See Mourning v. Family Publications Service, Inc. , 411 U.S. 356, 371-72 , 93 S.Ct. 1652, 1661-1662 , 36 L.Ed.2d 318 (1973).
+Accordingly, we choose not to disturb the PRC's findings.
+In addition, UPS, a primary competitor of the Postal Service's parcel post, alleges that the PRC failed to attribute enough costs to parcel post.
+18 UPS takes particular issue with a new parcel post classification and rates adopted for parcels having both their origins and destinations within any one of the Postal Service's Bulk Mail Centers ("BMCs") or Auxiliary Service Centers ("ASCs").
+19 The PRC determined that intra-BMC parcels have lower processing costs than parcels processed through more than one BMC and should therefore be accorded lower rates.
+See PRC Op., R80-1 at 500-06.
+UPS alleges contrary to the PRC's findings that the basis for the BMC rates, a study of costs incurred at the San Francisco BMC, is not reflective of the entire BMC network and that the rates are therefore arbitrary, capricious and without substantial evidentiary support.
+5 U.S.C. 706(2)(A) & (E) (1976).
+Specifically, UPS charges that because the study was never filed as part of the record, 20 it could not properly be relied on by the PRC, and that, in any event, "data for two weeks at one BMC" is inadequate support on which to base rates, due to differences in productivity rates and sizes among the BMCS.
+See Brief for UPS at 31-36.
+We are convinced that the San Francisco study constituted adequate support for the PRC's new classification and rates under the standards of 5 U.S.C. 706 .
+The study made reasonable adjustments to control for variations in size and volume among the BMC facilities.
+Furthermore, even though the study was never formally filed as an exhibit by a sponsoring party, we agree with the PRC, see PRC Op., R80-1 at 505, that the Postal Service's production of the study's model and data during the hearings provided the parties with sufficient time for analysis and cross-examination to meet the requirements of 39 U.S.C. 3624(a) (1976).
+We therefore decline to disturb the BMC rates.
+We similarly find without merit a related challenge by UPS which alleges that the PRC improperly exempted intra-BMC parcels from a fifty-cent surcharge for nonmachinable parcels.
+PRESORTED MAIL Petitioner the Council of Public Utility Mailers (CPUM), a joint committee of the American Gas Association and the Edison Electric Institute, contests the PRC's treatment of presorted first-class mail as a rate category of first-class mail as opposed to a subclass.
+Simply put, CPUM argues that if treated as a rate category, presorted first-class mail will be forced to shoulder a portion of costs attributed to "single piece" first-class mail.
+CPUM therefore seeks to have presorted mail denominated a subclass of first-class mail to be accorded an independent rate-making assessment pursuant to section 3622(b) .
+CPUM contends that the PRC's decision to treat presorted mail as a rate category was in violation of the classification provisions of Title 39 and is unsupported by substantial evidence.
+We disagree.
+The PRC has vast discretion to recommend classification changes under 39 U.S.C. 3623 .
+Unlike the Act's rate-making provisions, which require a "request" from the Board of Governors before the PRC may recommend rate changes, see 39 U.S.C. 3622(a) , section 3623 allows the PRC to recommend classification changes "on its own initiative."
+Still, this discretion is limited by section 3623 's requirement that the PRC base its recommendations on six enumerated factors.
+21 Furthermore, section 3624 requires that the PRC conduct "a hearing on the record" before making classification recommendations.
+The crux of CPUM's argument is that presorted first-class mail was definitively established as a subclass as part of a classification schedule adopted in 1979, see Docket No. MC76-5, and has been treated as a subclass in virtually every PRC pronouncement since.
+CPUM recognizes the PRC's discretion over classifications and concedes that the PRC is free to change presorted mail's status from a subclass in a future classification proceeding.
+Still, CPUM asserts that "no substantial evidence was offered [in the present case] to support the declassification of Presorted Mail from subclass status to a 'rate category' status."
+See Brief for CPUM at 13.
+CPUM also attacks the PRC's consideration of the subclass status in the context of a rate-making proceeding.
+Id. at 6 .
+The Postal Service failed to address this issue on appeal.
+Still, it appears from the record that the PRC, while conceding that as a subclass presorted mail would be independently analyzed under section 3622(b) , concluded after a lengthy discussion that presorted mail should not be accorded that status.
+Instead, the PRC chose to offer presort discounts to reflect the resulting savings to the Postal Service.
+The PRC never mentioned the existence of the 1979 classification schedule in its recommended decision to treat presorted mail as a rate category.
+Even if presorted first-class mail has been treated as a subclass in the past, we can see no reason why a change in classification treatment may not occur during the course of a rate-making proceeding.
+It is widely recognized that classification and rate-making categories "inevitably overlap."
+See United Parcel Service, Inc. v. United States Postal Service , 615 F.2d 102, 110-11 (3d Cir. 1980).
+In fact, the Postal Service itself, in initiating Docket No. R80-1, requested changes in classifications as well as rates.
+The consideration of presorted mail's subclass status by the PRC was therefore proper.
+Our review of the record indicates compliance with the statutory provisions governing classifications as well as ample support for the PRC's recommendation to treat presorted first-class mail as a rate category.
+All that the statute requires as a prerequisite to a recommended classification change is a hearing and consideration of the specific factors enumerated in section 3623 .
+See 39 U.S.C. 3623 , 3624 (1976).
+The PRC heard extended testimony concerning subclass status, and the PRC fully examined the specific classification factors before reaching its decision.
+See PRC Op., R80-1 at 266-80.
+Based on the evidence presented, the PRC concluded that the cost characteristics and market demand elements of presorted first-class mail are not sufficiently different from that of regular first-class mail to justify subclass status.
+In light of the discretion accorded to the PRC in the area of classifications, we cannot say that the PRC's decision to allow presort discounts as opposed to separate subclass rates was unlawful or without substantial evidentiary support.
+In addition, Publishers claim that the levels of presort discounts for second-class mail as set by the PRC do not accurately reflect the cost savings to the Postal Service of presorting.
+22 During the PRC's hearings, an updated study of presortation was introduced which Publishers claim supported deepened discounts.
+The PRC, however, rejected the study as an inadequate basis on which to expand discounts, although it found the study to be sufficient support to retain the existing discounts.
+See PRC Op., R80-1 at 376-81.
+Publishers now assert that "the failure of the Commission and the Governors to deepen the presort discounts for regular rate second class mail is unsupported by substantial evidence in the record " See Reply Brief of Petitioners Newsweek, Inc., Time Incorporated, and Magazine Publishers Association, Inc. at 22.
+A reviewing court may not overturn an agency finding simply because evidence existed supporting an alternative finding.
+Rather, in applying the substantial evidence standard set forth in 5 U.S.C. 706(2)(E) we must first determine that a "reasonable mind" could not find the evidence on which the agency relied to be "adequate" to support its conclusion.
+Board of Governors v. First Lincolnwood Corp. , 439 U.S. 234, 253 , 99 S.Ct. 505, 515 , 58 L.Ed.2d 484 (1978); Edison Co. v. N.L.R.B.
+, 305 U.S. 197, 229 , 59 S.Ct. 206, 216 , 83 L.Ed. 126 (1938).
+While the updated study may have presented a strong argument to the PRC in favor of deepened discounts, we believe that the PRC's rejection of that study and subsequent retention of the existing discounts was adequately supported by the record.
+The study was based on data collected from the first quarter after new regulations governing presortation had become effective in 1979.
+While Publishers argue vigorously that the study constituted a reliable basis to support deepened discounts, the PRC simply concluded otherwise: PRC Op., R80-1 at 379-80 (footnotes omitted).
+Once the PRC had rejected the study, it was left with insufficient evidence to support an expansion of discount rates.
+Therefore, the PRC recommended retaining the existing presort discounts.
+On the basis of the record before us, we find that the PRC's recommended presort discounts for second-class mail are supported by substantial evidence.
+Conclusion We conclude that both the rate-making procedure followed by the PRC in R80-1 and the use of Service-Related Costs within that procedure are consistent with the provisions of 39 U.S.C. 3622(b) (1976).
+However, we reject the holdings of the District of Columbia Circuit in NAGCP I and III which mandated the three-tier process used by the PRC in setting the present rates.
+The PRC is free, on remand, to continue to use those methodologies employed in the rate-making proceeding here on review, but it may, if it wishes, return to the methodologies used in the first three rate-making proceedings or develop alternative methodologies which comport with the requirements of section 3622(b) , as we interpret it.
+We also conclude that the PRC's findings with respect to first and second-class presort discounts as well as the particular attributions challenged in this action are supported by substantial evidence in the record, and we therefore decline to disturb those findings.
+The Board's response to the PRC's initial recommended decision is also found to be consistent with its powers as set forth in 39 U.S.C. 3625 (1976).
+We hold, however, that the PRC's reductions of the Postal Service's general revenue requirements was an unlawful encroachment upon the policy-making authority of the Board, and therefore remand this case for further consideration in light of this opinion.
+Remanded for further consideration in light of this opinion.
+Each party shall bear its own costs.

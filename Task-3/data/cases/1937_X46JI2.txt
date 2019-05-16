@@ -1,0 +1,206 @@
+ MANTON , Circuit Judge.
+Three suits [**348] for patent infringement were tried together and will be considered in one opinion.
+Western Electric Co. v. General Talking Pictures Corporation (D.C.) 16 F.Supp.
+293 .
+They involve the validity of decrees holding valid and infringed the Lowenstein patent No. 1,231,764 (claims 1, 2, 4, 5, 6, 7), for a negative grid bias, filed April 24, 1912; Mathes patent No. 1,426,754 , for a grid biasing resistance, filed October 23, 1916 (claim 8); Arnold patent No. 1,329,283 (claims 7, 10, 13), for a power circuit, application filed May 28, 1914; Arnold patent No. 1,403,475 (claims 8, 9, 10), for resistance capacity coupling, application filed September 3, 1915; Arnold patent No. 1,448,550 (claims 1, 12), for definite input impedance, original application filed September 3, 1915, and November 2, 1915; Arnold patent No. 1,465,332 (claims 1, 3, 5, 8, 10, 11), for common plate supply, original application filed September 3, 1915.
+The Arnold patent No. 1,520,994 (claims 1 and 4), for gain control, original application filed September 3, 1915, was held invalid.
+These patents relate to the vacuum tube amplifier.
+Infringement is not seriously disputed if the patents are valid.
+The defendant, in addition to the general claim of invalidity of each patent, defends upon the ground that the five Arnold patents are invalid because of public use by one of the plaintiffs, American Telephone & Telegraph Company, for more than two years before the particular applications, upon which the patents were issued, were filed.
+None of the five patents was in public use more than two years before the original applications were filed and the inventions of but three of them (Nos.
+1,329,283, 1,448,550 and 1,520,994) were in such public use more than two years before the particular applications on which they were issued were filed.
+Such applications in each instance were copending with the original applications.
+Another defense is made, based on the claim that, because these amplifiers were purchased from the American Transformer Company, a licensee under the patents, although their sales were for private (amateur and experimental) use, infringement is avoided.
+The sales, however, to defendant were specifically for public or business use, that is, reproducing talking motion pictures in theaters for profit.
+Defendant leased the amplifiers it purchased to theater owners and operators.
+A defense is made that there was an acquiescence by plaintiffs in the infringement which amounts to an estoppel.
+The patents relate to combinations of three electrode vacuum tubes, and circuits and circuit elements useful for amplification.
+Each of the ordinary sounds of speech and music is composed of many different frequencies which must be accurately reproduced.
+The problem of amplification was to reproduce without distortion the input of the amplifier in its output greatly increased in energy.
+The patents in suit deal with one or more of the problems of this art of amplification which the patentee solved while the art was still young.
+The latest of the inventions was made in 1916 before amplification was commercially applied to such use as radio broadcast transmission and reception, public address systems and talking motion pictures.
+All inventions, except that of Lowenstein, were made by the inventors employed by the Western Electric Company.
+There can be no earnest denial of the usefulness and commercial success of the inventions which were held valid below.
+Lowenstein Patent.
+The negative grid bias patent of Lowenstein solved the problem of distortion in the input circuit of the three-electrode tube, which was due to the flow of current in that circuit.
+He eliminated distortion producing current by providing means for biasing the grid negatively.
+We held this patent valid and infringed in Western Electric Co. v. Wallerstein , 60 F.(2d) 723 .
+The same claims 1, 2, 4, 5, 6, and 7 were there involved.
+The defendant admits that the prior art now relied upon was considered by us in the earlier decision.
+The arguments against the validity of the Lowenstein patent now appearing were considered there, and nothing is added here which warrants our overruling the decision there.
+We there considered the patents to Von Lieben (No. 1,038,910), Stone (No. 884,110), and De Forest (Nos.
+841,347; 879,532; 995,126), and found that they did not anticipate this patent, and we concluded that Lowenstein made a contribution to the art of great merit and this patent was held valid and infringed.
+Its claims are infringed here.
+Mathes Patent.
+The grid biasing resistance patent to Mathes provided an improved means of obtaining the negative grid potential of the Lowenstein patent, which improved means had the advantage of eliminating the extra battery (c) employed by Lowenstein.
+He accomplished this by making [**349] the filament heating or "a" battery serve, in combination with a resistance placed in the filament heating circuit, the additional function of biasing the grid.
+Claim 8 defines the specific and useful series circuit combination of grid biasing resistance, filament heating battery and filament, the grid biasing resistance being included in the same circuit as the filament and filament heating battery.
+As prior art the defendant refers to Arnold patents No. 1,129,942 and No. 1,129,943, and Colpitts patent No. 1,388,450 .
+The Arnold patents do not disclose a grid biasing resistance in the filament heating circuit, as claimed in Mathes' claim 8, but employ a separate battery, as Lowenstein did, for providing the desired negative grid potential.
+But defendant argues that in the Arnold patents the filaments of the three tubes shown are all connected together in series so that all can be heated by the "a" battery, and says that the resistance (14) corresponds to Mathes' resistance.
+But that resistance is not in the filament heating circuit of the tube as Mathes' claim 8 provides.
+The purpose for which the resistance (14) is used in the Arnold patent is solely to act as a coupling between the output circuit of the first tube and the input circuit of the second tube.
+The effect on the grid of the second tube of the drop in potential across the resistance (14) is wholly erased by the positive potential of the plate battery (13) which is poled positively to the grid of the second tube.
+The grid of the second tube is not biased negatively by this resistance, but is so biased by Lowenstein's battery (11), poled negatively to the grid and included in the circuit for the same purpose as in Lowenstein's patent.
+The testimony shows that, if the Lowenstein battery (11) was not included in the circuit to buck out the effective positive voltage from the plate battery (13), the grid of the tube would be highly positive, notwithstanding the presence of the resistance (14).
+The grid would be at the same high and positive potential as the plate of the preceding tube, to which it would be directly connected were it not for Lowenstein's battery (11).
+Instead of teaching that Lowenstein's battery can be dispensed with, these Arnold patents teach that it should be used and they do not teach, as Mathes provides, that the filament heating battery can serve the additional function of biasing the grid if the biasing resistance is included in the series in the filament heating circuit.
+Colpitts discloses a resistance not in the filament heating circuit.
+The resistance (64) tends to compensate out or eliminate the signal which it is the whole purpose of the amplifier to strengthen.
+This resistance has a deamplifying effect which makes it objectionable in an amplifier.
+Defendant has been unable to establish priority of invention.
+Mathes made a distinct contribution to the art in the particular series of arrangement of grid biasing resistance, filament and filament heating source; the invention is held valid.
+Arnold Patent No. 1,329,283 .
+This is a power circuit patent issued in 1920 upon an application filed July 30, 1918 which was a continuation of two earlier applications filed May 28, 1914.
+Arnold discloses in this patent the fundamentals of the tube's operations and how to construct it so as definitely to adapt it to utilization in circuits and with other circuit elements to give efficient results.
+He teaches how to produce tubes having the desired characteristics, and how to determine in what circuit arrangement the particular types of tubes should be used to do the work.
+The invention relates to thermionic amplifiers of the audion type, and its object is to provide a structure by which the certain desired characteristics of the amplifier may be secured at will and in an efficient manner.
+The principles of operation are referred to and four suggestions as to construction are made.
+They are: (a) to locate the grid as near as possible to the filament for all purposes; (b) space the plate widely from the filament for high voltage output and closely for high current output; (c) use a fine mesh grid for high voltage output and a coarse mesh grid for high current output, and (d) for maximum efficiency, to construct the tube so that its internal impedance between the plate and the filament is "equal to the total impedance of the variable current consumption circuit."
+Thus the internal impedance between the plate and filament of the tube should equal or match the impedance of the external circuit, including the receiving or translating device to which power is to be supplied.
+In producing an amplifier with a high current or a large power output, these principles are applied.
+Such were the defendant's amplifiers.
+Greater power is required to drive the loud speakers for public address or motion picture systems than is required for radio or telephone.
+Without the power amplifier disclosed in this patent, it is said that public address and talking motion picture systems [**350] could not be successfully operated with any loud speaker yet devised.
+The claims in suit--Nos.
+7, 10 and 13--are each for a novel combination of a power or high current three-electrode vacuum tube of low impedance with a work circuit having low impedance of the same order of magnitude.
+Claim 7 specifies that the three elements of the tube are so spaced that the impedance of the discharge device (tube) between said anode (plate) and cathode (filament) is of the same order as that of the outgoing (work) circuit.
+Claim 10 is more specific, stating the filament is placed in immediate proximity to the grid, and that the plate is so spaced from the filament and the grid made of such coarse mesh that the two impedances mentioned above are of the same order.
+Claim 13 is similar to claim 7, adding, however, "a source of variable electro-motive force in said input circuit."
+The prior art referred to, the Seibt patent No. 1,012,456 , was not dealing with a vacuum tube which was unknown when Seibt filed his application in 1907.
+He shows an arc transmitter with a microphone and taught that in such a system a maximum output may be obtained when the resistance of the microphone is equal to the resistance of the rest of the system.
+This patent has no bearing upon this invention.
+The other patents referred to, Colpitts No. 1,129,959, and Langmuir No. 1,558,436, do not anticipate.
+Defendant relies on Arnold patent No. 1,129,943 , and claims that what Arnold disclosed in that patent and did not claim, he abandoned, and cannot reclaim what he has abandoned by his application filed more than three years subsequent to the issuance of the earlier patent.
+This is contrary to our ruling in Traitel Marble Co. v. Hungerford Brass & Copper Co. , 22 F.(2d) 259 .
+The application for the Arnold patent No. 1,129,943 was filed May 28, 1914, the same day on which the original applications were filed upon which the patent now considered was based.
+Each of the three Arnold applications disclosed the invention of the patent in suit and the application on which it issued was copending with the original applications.
+This power circuit patent has become an important contribution to the art here involved.
+It has become a device of very practical usefulness.
+It has organized elements and adapted their relations to the circuit described and constitutes an invention.
+Arnold Patent No. 1,403,475 .
+This resistance capacity coupling patent issued January 17, 1922, on an application filed November 11, 1920, is a division of and was copending with Arnold's original serial No. 48,873, filed September 3, 1915.
+The invention was employed in the receivers used in radio telephone experiments in 1915.
+It disclosed a new method of coupling the output circuit of one three-electrode vacuum tube to the input circuit of another, by which what is known as frequency distortion is avoided.
+This new coupling made it possible for the first tube to pass on to the next all frequencies of the signals equally amplified, without distorting any of them.
+Another advantage of the coupling is that extremely small as well as large currents or energies are equally effectively passed to the next tube.
+This is of advantage for talking motion pictures.
+In such amplifiers only a very small energy is produced by the photo-electric cell when light, modulated only by variations of density of the talking motion picture films, falls upon the cell.
+The direct current path of the plate or output circuit of the first tube consists of the space between the plate and the filament, the battery, the choke coil and the resistance which is the coupling resistance.
+The voltage variation at the top of this resistance corresponds exactly to the signal no matter what the frequency.
+The grid of the second tube is connected to its filament through the biasing battery and the resistance (29), the function of the latter being to permit the electrons, which would otherwise accumulate on the grid of the second tube and block the operation, to leak off through the resistance.
+Claims 8, 9 and 10 each specify the resistance and condenser of the patent, and claim 10 includes additionally the resistance (29).
+The Arnold patent No. 1,129,942 of the prior art does not disclose a resistance capacity coupling amplifier.
+Defendant claims in fig.
+6 the coupling between the first and second tube is a resistance capacity coupling, but it is not.
+It is an inductance capacity coupling as the defendant's expert admitted, referring to the difference as an essential one.
+An inductance consisting of a wire-wound iron core impedes the flow of alternating current, impeding high frequencies more than low, and causing distortion.
+The object of the patent in suit was to avoid such discrimination.
+We think this patent valid.
+[**351] Arnold Patent No. 1,448,550 .
+This definite input impedance patent issued March 13, 1923, upon an application filed February 3, 1919, was the continuation of two earlier applications filed September 3, 1915, and November 2, 1915.
+The input circuit of a three-electrode vacuum tube has a very high impedance.
+When the negative grid bias invention is used, the impedance of the input circuit becomes substantially infinite because no electrons can flow from the filament to an electrode which is negative.
+A tube to be useful, as from the end of a telephone line or the output side of another vacuum tube, needs connections to its input circuit so as to supply the tube with the signals to be amplified.
+In the absence of this invention, the action which would occur in imposing the signals on the input circuit would cause a rebound.
+The reflection back into the line or into the preceding tube, due to the high impedance encountered, may produce an echo in the telephone line which the speaker at the far end of the line will hear as an interfering echo of his own voice.
+And it may disturb the operation of other amplifiers in the line and might result in producing a state of resonance in the transformer at the end of the line upsetting its operation so that it will discriminate as to certain frequencies and may result in a feed back by setting up undesired oscillations which will be fed back into the line or preceding tube and interfere with their operations.
+These defects were cured by this invention now considered.
+Claim 12 differs from claim 1 only in that it specified that the impedance is of the order of 500,000 ohms as in defendant's amplifier.
+Other engineers were engaged in finding a solution of the problem, particularly those associated in the Western Electric Company and failed until Arnold made this invention.
+We think this patent is valid and withstands the attack of double patenting claimed.
+Defendant asserts double patenting by this patent and the subject matter of the Arnold power circuit patent in suit.
+The claim of invention of the patent in suit is a high impedance connected across the secondary of the input transformer of a three-electrode vacuum tube amplifier.
+Such invention is not found in any of the claims of the Arnold power circuit.
+For double patenting it must appear that the claims are the same.
+Traitel Marble Co. v. Hungerford Brass & Copper Co.
+(C.C.A.)
+22 F.(2d) 259, 262 .
+Arnold Patent No. 1,465,332 .
+This patent is for a common plate supply.
+It issued on a divisional application filed August 28, 1920, which was based on an application filed September 3, 1915.
+This invention made it possible for the first time to use a common source of plate current for two or more three-electrode vacuum tube amplifiers without introducing prohibitive distortion.
+The problem was in using the common source to prevent that source and the connections to it from serving a path through which the amplified signals in the plate circuit of the subsequent tube or tubes could get back into the circuits of the preceding tube or tubes, thereby setting the circuits into a state of oscillation or regeneration.
+When such feed back occurs, the amplified signals in such tube will flow into the plate circuit of the preceding tube and through that circuit will again be impressed on the input circuit of the tube from which they came; the cycle thus set up will change the tube into a generator of oscillations nullifying the usefulness of an amplifier.
+This invention made it possible to use a common plate or direct current supply for a plurality of tubes while preserving the alternating or signal current separateness of the output circuits of the tubes.
+Prior to this invention whenever a plurality of vacuum tube amplifiers were used, it was necessary to employ separate sources of plate current for each of the tubes in order to prevent the introduction of prohibitive distortions.
+By this invention it became possible for the first time to use a common plate supply for all the tubes without distorting the output of the amplifier system.
+Arnold patent No. 1,129,942 is referred to as an anticipation.
+This earlier patent shows a battery for supplying plate current to a plurality of tubes, but it does not disclose the arrangement of series inductances and shunt condensers as shown in this patent and which are essential to the best results with a common source of plate current in an amplifier.
+Without these filter means prohibitive distortion is introduced through the path common to the tubes.
+Claims in suit 1, 3, 5, 8, 10 and 11 are all infringed.
+Arnold Patent No. 1,520,994 .
+This is the gain control patent applied for March 28, 1919, and issued December, 1924; the original application was filed September 3, 1915.
+The claim for this patent is that it was impossible to [**352] control the gain, that is, the amount or degree of amplification of a three-electrode vacuum tube amplifier without seriously upsetting the operations of the entire system.
+This patent is for a variable resistance in the place where the resistance involved in the definite input impedance patent was placed.
+The purpose of the invention was to effect an easy means of regulating the amount of amplification to be obtained by regulating the length of the resistance, which would be in the grid circuit.
+The court below properly found that this was applying a potentiometer to the resistance to reach a result which such an instrument would be expected to produce.
+With knowledge of the well-known use of a potentiometer, it did not require invention to make use of this device.
+It is therefore unnecessary to consider the patents of the prior art referred to.
+This patent is held to be invalid for want of invention.
+But it is contended by the defendant that the five Arnold patents are invalid because of public use made by the plaintiff, the American Telephone & Telegraph Company, the patentee or patent owner, more than two years before the particular applications on which these patents issued were filed.
+There is no proof of public use of the inventions, the resistance capacity coupling patent or the common plate supply patent, prior to the filing dates of the applications on which these patents issued.
+These patents may be excluded from this defense.
+The other three Arnold patents, power circuit patent, definite impedance patent, and gain control patent, were used in the transcontinental line of the Telephone Company which was opened to the public in January, 1915.
+The first two issued on continuing applications and the third on a divisional application.
+There was continuity of prosecution between the original applications and the continuing and divisional applications, and the original applications in each instance fully disclosed the invention.
+In the instance of the power circuit patent, the original application was filed more than a year before the public use relied upon, and the original applications for the other two patents were filed less than a year after the public use.
+Defendant's contention seems to be that no patent is valid unless the application on which it issued was filed less than two years subsequent to any public use.
+It refers us to Westinghouse Electric & Mfg. Co. v. Jeffrey-De Witt Insulator Co. , 22 F.(2d) 277 (C.C.A.2); Crown Cork & Seal Co. v. Ferdinand Gutmann & Co.
+(C.C.A.)
+86 F.(2d) 698 ; Webster Electric Co. v. Splitdorf Electrical Co. , 264 U.S. 463 , 44 S.Ct. 342 , 68 L.Ed. 792 ; and Chapman v. Wintroath , 252 U.S. 126 , 40 S.Ct. 234 , 64 L.Ed. 491 .
+In the Westinghouse Case, the patent in suit had issued under a divisional application which was filed more than two years after the defendant had itself commenced the sale of the infringing device, whereas here the public use relied upon is that of the patentee or patent owner.
+It was not an adverse public use or one which was antagonistic to the patentee.
+The divisional application is normally entitled to the benefit of the original filing date and it is difficult to see how public use under license from an applicant can amount to laches under which adverse rights may arise.
+Wirebounds Patent Co. v. Saranac Machine Corporation (C.C.A.)
+37 F.(2d) 830, 841 .
+The Westinghouse , Webster Electric Co. , and Chapman Cases , supra , involve intervening adverse rights either of the defendant or some third party.
+In the instant case there is no pretense whatever of any claim to intervening rights, either of defendant's own or of any one else.
+The patentee's public use of his own invention after filing his original application does not invalidate the patent issued upon a division made more than two years after such public use.
+In the Crown Cork & Seal Co. Case , supra , an adverse patent for the same invention had issued to a third party before the divisional application for the patent in suit was applied for.
+There also the patentee had not only deliberately canceled the disclosure of the invention from the specifications of his original application, but had also canceled the claims which were sufficiently broad to cover the invention.
+The patentee had really abandoned the invention, and we said, "might never have considered the subject worth claiming as an invention" had a patent for the invention not issued to another.
+But the defendant claims that the subject matter of the claims in suit of the Arnold patents was not claimed in the original applications.
+It is true that the particular combinations of the claims in suit were not specifically claimed but broader combinations were claimed.
+And in the Crown Cork & Seal Co. Case, we said: "A patentee is not to be held at fault for failure to have divided his claims at an earlier date, merely because he might [**353] have, when instead he had elected to prosecute the broader claims of his original application."
+We also pointed out a distinction to be made between this case and the Crown Cork & Seal Co. Case by saying, "But, in the case at bar, for a period of more than two years Warth apparently did not wish to claim the preheating method, having deliberately canceled the preheating specification from his original application and shaped his claims so as to exclude it and his patent having been granted" January 6, 1935.
+This defense we deem no bar to the Arnold patents.
+A separate defense is interposed by defendant contending that the amplifiers charged with infringement were licensed because they were purchased from a licensee.
+February 1, 1927, the Transformer Company obtained from the Radio Corporation, with the assent of the patentee, a license to manufacture and sell patented amplifiers for private, that is, amateur and experimental, uses only.
+The defendant purchased these amplifiers from the Transformer Company with knowledge of the restriction but used the patented device commercially.
+The question presented is whether the restriction is binding upon the appellant as a purchaser from the licensee.
+A patentee who, under the patent laws, is granted an exclusive monopoly of use, should be able to reserve and preserve his monopoly over the commercial use of his patented invention; in other words, he may altogether exclude others from the commercial field.
+It is not disputed that under the patent law the patentee may impose binding restrictions upon the licensee which would include the restriction in issue.
+But it is maintained that upon the sale of the patented article restrictions of any kind are no longer enforceable by authority of the patent laws and that the patentee must seek protection, if any, under ordinary rules of contract.
+Motion Picture Co. v. Universal Film Co. , 243 U.S. 502 , 37 S.Ct. 416 , 61 L.Ed. 871 , L.R.A.1917E, 1187, Ann.Cas.1918A, 959, in overruling Henry v. A. B. Dick Co. , 224 U.S. 1 , 32 S.Ct. 364 , 56 L.Ed. 645 , Ann.Cas.1913D, 880, held ineffective a restriction on the use of a patented invention to materials not covered by the patent itself.
+Carbice Corporation v. American Patents Corporation , 283 U.S. 27 , 51 S.Ct. 334 , 75 L.Ed. 819 , reaffirmed this rule, stating that the patentee cannot, by such a restriction, monopolize commerce in unpatented materials.
+The court compared the problem before it with that of restrictions upon resale price which had been nullified in Bauer & Cie v. O'Donnell , 229 U.S. 1 , 33 S.Ct. 616 , 57 L.Ed. 1041 , 50 L.R.A.(N.S.)
+1185, Ann.Cas.1915A 150, and in subsequent cases ( Straus v. Victor Machine Co. , 243 U.S. 490 , 37 S.Ct. 412 , 61 L.Ed. 866 , L.R.A.1917E, 1196, Ann.Cas.1918A, 955; Boston Store v. Graphophone Co. , 246 U.S. 8 , 38 S.Ct. 257 , 62 L.Ed. 551 , Ann.Cas.1918C, 447), and termed such restrictions "limitations beyond the legitimate scope of its [the patentee's] monopoly."
+The holdings of these cases are not necessarily controlling on the point here at issue and could rest on the valid distinction that even under the patent law the monopoly of use, though granted by the statute in unqualified terms, is subject to limitations as to the kind of restrictions which may lawfully be imposed.
+A policy preventing control of resale prices and an extension of monopoly to unpatented materials would have nothing to do with the patentee's expressed desire, known to the purchaser, to keep the commercial field within its exclusive dominion.
+The Supreme Court has stated obiter that the sale of the patented invention puts it beyond the confines of the patent law, Boston Store Case [Boston Store v. American Graphophone Co.] , 246 U.S. 8 , 38 S.Ct. 257 , 62 L.Ed. 551 , Ann.Cas.1918C, 447, where a resale price restriction was held invalid as against a purchaser, and again in United States v. General Electric Co. , 272 U.S. 476 , 47 S.Ct. 192 , 71 L.Ed. 362 , where such a restriction was upheld against a licensee.
+In the Boston Store Case , supra , it was stated that "price-fixing contracts are contrary to general law, void, and not within the remedies of the patent law."
+Such language suggests that the real reason underlying its holdings, and a restrictive explanation of the doctrine it enunciated so broadly, is, that there is a policy forbidding the remote control of resale prices.
+Mitchell v. Hawley , 16 Wall.
+(83 U.S.) 544 , 21 L.Ed. 322 , which upheld a restriction of use to the original terms of the patent, can be supported.
+In that case there is a holding that such a restriction is valid against purchasers.
+In Bloomer v. McQuewan , 14 How. 539 , 14 L.Ed. 532 , referred to by the defendant, the court stated there were no restrictions or conditions imposed, and hence the purchasers were in no way limited.
+[**354] This circuit recognized that the patentee may extend his monopoly beyond a sale by a licensee.
+General Electric Co. v. Continental Lamp Works (C.C.A.)
+280 F. 846 ; Radio Corp. v. Andrea , 90 F.(2d) 612 , decided June 7, 1937 (C.C.A.2).
+It was beyond the scope of the American Transformer Company's license to sell the amplifiers for the use for which it sold them to defendants.
+The sale was therefore an infringement and not a licensee's lawful sale.
+Another separate defense is interposed because of alleged acquiescence by the plaintiffs in the infringement charged, which is said to create an estoppel.
+Alleged conferences with the plaintiffs' officials, which they deny, are urged upon this question of acquiescence and ratification.
+The trial judge found against the claim that these conversations resulted in acquiescence or approval of the defendant's infringement.
+Royalties were received and it is shown that the Radio Corporation of America refunded the royalties collected with respect to infringing amplifiers within two years after they received a list showing who were the purchasers from the Transformer Company, and all the defendant's strictures against plaintiffs for receiving royalties for over a year after the suit was filed constitutes neither acquiescence nor ratification.
+The evidence shows lack of knowledge when royalties were received, and it is difficult to see how later royalties can act as either acquiescence or estoppel, since the very maintenance of the suit showed defendant that there was no acquiescence on which it could rely.
+If the royalties had not been returned, perhaps it might have had some effect upon the plaintiffs' damages.
+All refunded royalties were accepted by the Transformer Company.
+But whether they were refunded or not is immaterial.
+See Vulcan Mfg. Co. v. Maytag Co.
+(C.C.A.)
+73 F.(2d) 136 .
+The first knowledge the plaintiffs had that the defendant was exceeding its license was in April, 1929, and within five months it instituted this suit.
+This defense is without merit.
+Decrees affirmed.

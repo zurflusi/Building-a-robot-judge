@@ -1,0 +1,156 @@
+ OPINION OF THE COURT GARTH , Circuit Judge.
+These two appeals pose a single question: whether the Employee Retirement Income Security Act of 1974 (ERISA) or the laws of New Jersey invalidate the provision of the pension plans of defendants General Motors and Raybestos-Manhattan authorizing reduction, or offset, of pension benefits by amounts received by the pensioner under a Workmen's Compensation statute.
+We conclude that these offset provisions are not unlawful under ERISA, and that the New Jersey statute prohibiting them is preempted by ERISA.
+We therefore reverse the district court orders which enjoined such offsets and which required payment to pension beneficiaries of those amounts which the pension trustees had offset in the past.
+I. Both these cases present similar fact patterns, 1 and procedural histories.
+General Motors (GM) and Raybestos-Manhattan (Raybestos) maintain pension plans covered by ERISA, 29 U.S.C. 1001 et seq.
+(1976).
+Both pension plans provide that, under certain circumstances, benefits will be reduced by the amount of Workmen's Compensation payments received by plan participants.
+2 In 1977, New Jersey enacted a statute expressly prohibiting such offset provisions.
+The statute, which became effective July 14, 1977, added the italicized sentence to N.J.Stat.Ann.
+34:15-29 (Supp.1979), a part of New Jersey's Workmen's Compensation program.
+The complete section now provides: The right of compensation granted by this chapter may be set off against disability pension benefits or payments but shall not be set off against employees' retirement pension benefits or payments Shortly after this statute went into effect, the plaintiffs brought class actions 3 against the defendants in the New Jersey state courts.
+The named plaintiffs in each suit were former employees of the defendants who had recovered Workmen's Compensation judgments against the defendants and whose pension benefits were being reduced as a result.
+4 The suits sought permanent injunctions against the offsets and recoupment damages for those offsets, alleged to be unlawful, which had already been made.
+Both cases were removed by the defendants to the United States District Court for the District of New Jersey.
+Both district judges to whom the respective cases were assigned reached the same result.
+The district court judge in Buczynski issued two published opinions.
+The first opinion is reported at 456 F.Supp.
+867 (D.N.J.1978).
+The second opinion, which denied reconsideration, is reported at 464 F.Supp.
+133 (D.N.J.1978).
+The district court judge in Alessi issued a single, unpublished letter opinion.
+Although the complaints in both cases challenged the offsets only on the basis of the New Jersey statute, both courts found the offset invalid under 203(a) of ERISA, 29 U.S.C. 1053(a) (1976) (hereinafter 1053(a)).
+In so holding, both courts invalidated a regulation issued by the Treasury Department expressly authorizing the offset clauses, 26 C.F.R. 1.411(a)-4(a) (1979).
+5 They also held that the New Jersey statute was not superseded by ERISA's preemption clause, 29 U.S.C. 1144 (1976).
+6 General Motors and Raybestos bring these appeals, challenging the district courts' conclusions that the offsets are invalid under ERISA and that the New Jersey statute is not preempted.
+We address these issues in turn.
+7 II.
+The plaintiffs claim that the defendants' offset is rendered unlawful by ERISA's antiforfeiture provision, 29 U.S.C. 1053(a) (1976).
+This section provides in pertinent part: A Treasury regulation, however, addresses the permissibility of offsets under ERISA's antiforfeiture provision and expressly authorizes such offsets, declaring them not to be prohibited forfeitures.
+This regulation provides in pertinent part: 8 26 C.F.R. 1.411(a)-4(a) (1979).
+In determining the legality of the Workmen's Compensation offset, then, we must begin our inquiry with this regulation, which, if held to be valid, would require us to sustain the offset provisions in the General Motors and Raybestos pension plans.
+A. In assessing the validity of 26 C.F.R. 1.411(a)-4(a) (1979), we first turn to a consideration of the character of the regulation.
+In this court's recent opinion in Baker v. Otis Elevator Co. , 609 F.2d 686 (3d Cir. 1979), which also concerned the validity of a Treasury regulation interpreting a provision of ERISA, we recognized a distinction between two types of administrative regulations, with a corresponding distinction in the appropriate standard of review.
+We there stated: see See id. 609 F.2d at 691 .
+After an analysis of the Supreme Court's decision in Batterton v. Francis , 432 U.S. 416 , 97 S.Ct. 2399 , 53 L.Ed.2d 448 (1977), which addressed the same issue, we concluded in Baker that, to sustain a legislative regulation, "we need only determine .
+.
+that its promulgation is not an abuse of discretion, that it is neither arbitrary or capricious, nor contrary to the governing statutory section and ERISA as a whole," 609 F.2d at 692 .
+As in Baker the Treasury Department regulation at issue here is plainly legislative in nature; it was issued pursuant to the same delegation of rule-making power as the regulation in Baker , which was there held to be legislative.
+See 609 F.2d at 691 ; 29 U.S.C. 1202(c) (1976).
+It is thus subject to the limited review prescribed in Baker .
+9 The plaintiffs contend that the Treasury regulation must be struck down because it is inconsistent with the governing statutory provision, ERISA's antiforfeiture requirement, 29 U.S.C. 1053(a) (1976).
+Before turning to their claim, we think it is appropriate to acknowledge that fidelity to the standard of review set forth in Baker and Batterton , supra , requires that a legislative regulation be invalidated only for a clear and manifest conflict with the governing statute.
+Overturning a legislative regulation where the statute may arguably be given conflicting readings, or where the conflict between the regulation and the statute is not plain, does violence to the congressional intent to delegate rule-making authority to the administrative agency.
+Approached from this perspective, the conclusions reached by the district courts in Buczynski and Alessi , that the regulation is inconsistent with 29 U.S.C. 1053(a) (1976), cannot be sustained: The legislative history affirmatively supports the Treasury regulation, and, at the very least, any conflict between the regulation and the statute, if one indeed exists, is clearly insufficient to mandate invalidation.
+B. The district courts here, as well as the other courts that have invalidated this regulation 10 make similar syllogistic arguments to demonstrate the conflict with ERISA which they perceive.
+They begin with 1053(a), which provides broadly that pension benefits must be nonforfeitable.
+They then focus on 1053(a)(3), which specifically exempts certain pension plan provisions from the nonforfeitability rule.
+The list of these exceptions includes, inter alia , nonpayment of benefits if the plan participant dies, 1053(a)(3)(A), and suspension of benefits if the participant takes a job with an employer in the same industry, 1053(a)(3)(B).
+This list, however, does not include offsets for Workmen's Compensation.
+Finally, these district courts add to 1053(a) the definition of "nonforfeitable" found in 29 U.S.C. 1002(19) (1976), which provides: shall not be treated as forfeitable merely because the plan contains a provision described in section 1053(a)(3) of this title Armed with these provisions, these district courts reason as follows: all reductions in benefits are forfeitures; all forfeitures are prohibited by 1053(a), with the sole exceptions being those listed in 1053(a)(3); Workmen's Compensation offsets are not included in the list of permissible forfeitures in 1053(a)(3); ergo , Workmen's Compensation offsets are prohibited forfeitures.
+Thus, they conclude that the Treasury regulation authorizing offsets for benefits provided under Federal or State law is in conflict with ERISA, and is therefore invalid, because it expands the class of permissible forfeitures beyond those specifically set forth in 1053(a)(3).
+The Buczynski district court, in its second opinion, makes the argument as follows: 464 F.Supp.
+at 135-36 (footnotes and citations omitted).
+Thereafter, the district court in Alessi , relying on the Buczynski opinions, reached the same result.
+See Alessi v. Raybestos-Manhattan , No. 78-0434, slip op. at 5 (D.N.J., Feb. 15, 1979).
+While this argument is not without some superficial appeal, the courts' syllogism is defective, and we must reject it.
+Understanding this defect, however, requires some explanation of the regulation of pension plans by the Internal Revenue Service before and after ERISA was enacted.
+Prior to enactment of ERISA in 1974, the Internal Revenue Code set forth a variety of requirements that had to be met by pension plans in order to qualify for favorable tax treatment.
+One requirement was that the plans be nondiscriminatory.
+This tax code requirement was set forth in 26 U.S.C. 401(a)(4) & (5).
+On the passage of ERISA, these sections were amended, but the amendments did not alter the basic aim of the statute.
+Discrimination in contributions or benefits under a pension plan was still prohibited.
+These sections now provide in pertinent part: Under these sections, the IRS prior to ERISA had extensive experience with a pension plan provision similar to the offset clause challenged here.
+That provision was the offset of Social Security benefits against pension benefits.
+In its interpretation of the clause excerpted above from 26 U.S.C. 401(a)(5), the IRS had long permitted pension plans to offset pension benefits by the amount of Social Security benefits that a plan participant received.
+The first such regulation was issued in 1943, and it simply reiterated the statutory language quoted above.
+The current version of this regulation, issued in 1960, provides as follows: 26 C.F.R. 1.401-4(b) (1979).
+The parties do not dispute that this regulation permits offset of pension benefits by the amount of Social Security benefits received.
+In enacting ERISA, Congress was familiar with the practice of the IRS allowing such offset provisions.
+Congress was also aware that the IRS, while allowing such offsets, would not permit any increase in the rate of offset based upon any increase in the level of Social Security benefits occurring after a retiree began to receive his pension.
+Congress sought to codify this administrative practice of not permitting an increased offset based upon increased Social Security benefits, and did so by enacting 1021(e) of ERISA, which is codified at 26 U.S.C. 401(a)(15) (1976).
+This section provides: decreased any increase any increase Congress's understanding in enacting this section is made clear in the report of the House Ways and Means Committee: i. e. H.R.Rep.
+No. 93-807, 3 U.S.Code Cong. & Admin.News, pp.
+4639, 4670, 4695 96 (1974).
+Despite certain misgivings about offset, or integration, practices expressed later in this report, Congress chose not to bar the Social Security offset entirely but merely to prohibit increases in the amount of the offset based on increases in the amount of Social Security benefits.
+A number of conclusions can be drawn from this history, conclusions which shed light on the analysis on which the Alessi and Buczynski courts relied in striking down the Treasury regulation.
+In choosing only to limit increased Social Security offsets rather than bar them entirely in 401(a)(15), Congress gave its implicit approval to the practice of permitting offsets against pension plan benefits--in that instance, an offset of Social Security benefits against pension plan benefits.
+Further, since 401(a)(15) was enacted at the same time as 1053(a)'s requirement that pension benefits be nonforfeitable, we must conclude that the offset of Social Security benefits implicitly approved in the former section was not simultaneously rendered illegal by the latter section's requirement of nonforfeitability.
+This conclusion reveals the primary defect in the Buczynski / Alessi district court analyses.
+Those courts reasoned, as noted above, that all benefit reductions are forfeitures, and all forfeitures are impermissible except for the four exceptions listed in 1053(a)(3).
+Yet Congress has approved the Social Security offset, and that offset does not appear among the permissible forfeitures under 1053(a)(3).
+Thus, the district courts' reasoning runs afoul of Congress's approval of the Social Security offset.
+If all reductions in benefits are forfeitures, and all forfeitures are prohibited with the exceptions listed in 1053(a)(3), then, under the district courts' reasoning, Social Security offsets should also be prohibited.
+Yet, as we have seen, this is not the case.
+It is true, as the courts reasoned, that all forfeitures are prohibited with the exception of those listed in 1053(a)(3), but it cannot be true that all reductions in benefits are necessarily forfeitures.
+Congress's implicit approval of the Social Security offset compels the conclusion that such an offset is not a forfeiture.
+Thus, the very basis on which the district courts found the Treasury regulation in issue here to conflict with 1053(a) is in error.
+The plaintiffs contend, however, that the Workmen's Compensation offset cannot be sustained on the strength of Congress's approval of the Social Security offset.
+They contend that even if the Social Security offset is not a forfeiture under ERISA, the Workmen's Compensation offset is .
+Social Security benefits and pension benefits, they point out, are both designed to compensate for wages lost as a result of old age, and therefore the Social Security offset simply avoids a duplication of benefits directed to the same end.
+Workmen's Compensation, by contrast, is designed to compensate for losses flowing from employment related injuries; thus, the Workmen's Compensation offset, unlike the Social Security offset, cannot be defended as a means to avoid duplication of benefits.
+The plaintiffs' argument here fails to recognize the breadth of the Social Security program.
+Social Security provides benefits for disabilities, see 42 U.S.C. 423 (1976), as well as benefits for old age.
+Thus, the Social Security offset that Congress has approved includes, perforce, an offset against pension benefits for disability benefits.
+The Social Security offset, since it includes an offset of disability benefits, makes any purported distinction between the Social Security offset and the Workmen's Compensation offset meaningless.
+The disability offset, included within the Social Security offset, thus compels us to reject any purported distinction between Social Security offsets and Workmen's Compensation offsets.
+And the same argument may be made with respect to benefits provided under the Railroad Retirement Act, 45 U.S.C. 231 et seq.
+(1976).
+The same implicit congressional approval of offsets of Social Security benefits that appears in 26 U.S.C. 401(a)(15) (1976) is accorded to offsets of Railroad Retirement Act benefits in 29 U.S.C. 1056(b) (1976).
+11 Railroad retirement benefits include payments for disability as well as payments for old age.
+See 45 U.S.C. 231a(a)(1)(iv) & (v) (1976).
+Thus, Congress has implicitly approved two disability offsets against retirement payments.
+As a result, reliance on the difference in the character of the offsets (retirement benefits as opposed to disability benefits) is misplaced.
+The conclusion that not all benefit reductions are forfeitures; that, specifically, a Social Security offset is not a forfeiture; and that the district courts' reasoning is erroneous, is enough by itself to require upholding the Treasury regulation under the review of legislative regulations prescribed by Baker v. Otis Elevator and Batterton v. Francis .
+Once we conclude that Social Security offsets are not forfeitures, in the absence of clear evidence that Congress intended to prohibit Workmen's Compensation offsets, it cannot be said that a regulation allowing Workmen's Compensation offsets is so contrary to ERISA that it cannot stand.
+Thus, we conclude that there is an insufficient basis on which to strike down the regulation.
+C. Our conclusion that a proper interpretation of ERISA requires giving binding effect to this regulation receives further support in the legislative history of the Act.
+That history demonstrates to our satisfaction that Congress did not disapprove of Workmen's Compensation offsets as well as Social Security offsets.
+In the course of IRS administration of the nondiscrimination requirement for pension plans under 26 U.S.C. 401(a)(4) & (5) (1976), the Service issued a revenue ruling explicitly approving an offset for Workmen's Compensation: See workmen's compensation law or occupational diseases law benefits payable under such laws are acceptable as an offset against benefits payable under the qualified pension plan Rev.Rul.
+68-243, 1968-1 C.B.
+157, 158.
+The substance of this ruling has been republished by the IRS on two occasions.
+12 The legislative history of ERISA indicates that Congress was familiar with the IRS rules on integration of benefits in pension plans, and intended that these rules be preserved.
+The report of the Conference Committee states: H.Conf.Rep.
+No. 93-1280, 3 U.S.Code Cong. & Admin.News, pp.
+5038, 5058 (1974).
+This history of IRS practice with respect to Workmen's Compensation offsets, and of congressional preservation of the antidiscrimination rules, suggests that, if anything, Congress approved of Workmen's Compensation offsets.
+Thus, the evidence indicates that the Treasury regulation in issue here conforms to congressional intent.
+Accordingly, because the regulation is not contrary to 1053(a) and the provisions of ERISA as a whole, we must sustain its validity.
+13 III.
+Our conclusion that the Treasury regulation must be sustained does not, by itself, require granting judgment in favor of the defendants.
+For even if ERISA does not prohibit the Workmen's Compensation offset in the GM and Raybestos pension plans, New Jersey's 1977 statute does .
+This statute, as noted earlier, provides in relevant part: N.J.Stat.Ann.
+34:15-29 (Supp.1979).
+The statute, of course, prohibits the offset clause challenged here, and the defendants do not contend otherwise.
+They do claim, however, that this statute is superseded by ERISA's preemption provision, 29 U.S.C. 1144(a) (1976).
+14 This section states: 15 The district court judge in Buczynski , despite his conclusion that the offset provision was unlawful under ERISA itself, nevertheless discussed the preemption issue.
+The district court in Buczynski , followed thereafter by Alessi , concluded that the New Jersey statute was not preempted: qua 456 F.Supp.
+at 872-73 (citations omitted).
+Our reading of ERISA satisfies us that ERISA does preempt N.J.Stat.Ann.
+34:15-29 (Supp.1979).
+Thus, we cannot agree with the district courts that have concluded otherwise.
+16 The primary purpose of the statute, and its direct effect, is to prohibit pension plans from offsetting Workmen's Compensation benefits against pension retirement benefits.
+It simply cannot be said that this statute does not concern pension plans qua pension plans ( Buczynski ), or that its effect on such plans is merely collateral ( Alessi ).
+In our opinion, the only purpose and effect of the statute is to set forth an additional statutory requirement for pension plans; this purpose negates the characterization of the statute attributed to it by the New Jersey district courts.
+Further, ERISA preempts state statutes that " relate to any employee benefit plan," 29 U.S.C. 1144(a) (1976) (emphasis added).
+The view taken by the Buczynski court, that ERISA preempts only statutes concerning "pension plans qua pension plans," could be accepted only if ERISA's preemption clause were much more narrowly drawn than it is.
+Here, the preemption clause, reaching statutes that "relate to" pension plans, has an obviously broader scope.
+In noting that "the New Jersey statute undoubtedly 'relates to' pension plans in the broadest dictionary sense of that term," 456 F.Supp.
+at 872 , the district court in Buczynski appears to concede the difficulty of its narrow interpretation.
+The court reasoned, however, that Congress could not have intended the term to be given its full breadth.
+Yet the legislative history of the clause, as well as the plain meaning of its language, belie this claim.
+The legislative history of the clause has been detailed elsewhere and we need not repeat it here.
+See Wadsworth v. Whaland , 562 F.2d 70, 76-77 (1st Cir. 1977), cert. denied , 435 U.S. 980 , 98 S.Ct. 1630 , 56 L.Ed.2d 72 (1978); National Carriers' Conference Comm. v. Heffernan , 454 F.Supp.
+914, 915-17 (D.Conn.1978); Hewlett-Packard Co. v. Barnes , 425 F.Supp.
+1294, 1297-1300 (N.D.Cal.1977), aff'd per curiam , 571 F.2d 502 (9th Cir.), cert. denied , 439 U.S. 831 , 99 S.Ct. 108 , 58 L.Ed.2d 125 (1978).
+We need only note its most prominent features: that the original House and Senate provisions were significantly narrower, and were rejected by the Conference Committee in favor of the current provision; and that explanations of the Conference substitute given on the floor of both chambers make plain that the preemptive intent is just as broad as its language suggests.
+Thus, it is clear that the preemption provision is intended to be read in its normal dictionary sense, and that the New Jersey statute prohibiting Workmen's Compensation offsets cannot stand.
+17 IV.
+We conclude that the Workmen's Compensation offset in General Motors' and Raybestos' pension plans is not a forfeiture rendered invalid by ERISA's antiforfeiture provision, 29 U.S.C. 1053(a) (1976).
+In so concluding, we sustain the Treasury regulation expressly authorizing provisions of this type, 26 C.F.R. 1.411(a)-4(a) (1979).
+We also conclude that the New Jersey statute that prohibits these offsets, N.J.Stat.Ann.
+34:15-29 (Supp.1979), is preempted by ERISA, 29 U.S.C. 1144(a) (1976).
+In light of our conclusions, which are contrary to the conclusions reached by the district courts in both Buczynski and Alessi , we will vacate the respective orders dated April 3, 1979 ( Buczynski ) and March 1, 1979 ( Alessi ) which permanently enjoin the defendants from offsetting Workmen's Compensation benefits and which required that reimbursement be made for amounts offset in the past; we direct that the district courts enter judgment for the defendants.
+Each side shall bear its own costs.

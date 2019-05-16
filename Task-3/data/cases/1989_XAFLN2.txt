@@ -1,0 +1,329 @@
+ JERRE S. WILLIAMS , Circuit Judge: Centennial Savings Bank appeals the district court's decision that the bank's exchange of 90% interests in depreciated mortgages with the Federal National Mortgage Association for a separate set of 90% interests in depreciated mortgages did not result in a loss for tax purposes.
+Centennial also challenges the district court's holding that the statute of limitations did not bar the IRS from assessing taxes owed.
+On a wholly separate issue the government cross appeals.
+It claims that the district court incorrectly ruled that income the bank had earned from penalties on the early withdrawal of certificates of deposit was to be treated for tax purposes as income from the discharge of indebtedness.
+We uphold the district court's rulings on the statute of limitations and the certificate of deposit issues.
+We overturn the district court's ruling that the mortgage exchange did not result in a realizable loss.
+Centennial Savings Bank ("Centennial") is a savings and loan association regulated by the Federal Home Loan Bank Board (FHLBB).
+1 On April 13, 1981, pursuant to the FHLBB's Memorandum R-49 Centennial engaged in a transaction in which it essentially exchanged a package of 90% participation interests in conventional and Federal Housing Administration and Veterans Administration (FHA/VA) mortgages.
+Centennial made this exchange with the Federal National Mortgage Association (FNMA).
+The participation interests exchanged were in conventional and FHA/VA mortgage packages having almost identical face and market value.
+This transaction was styled "a reciprocal sale".
+Centennial received mortgage participation interests with a face value of $8,481,263.56.
+It paid $5,662,044.57 for these participation interests.
+Similarly, FNMA received participation interests with a face value of $8,481,261.47 from Centennial and paid Centennial $5,662,043.04 for these mortgages.
+Centennial Savings Bank FSB v. United States , 682 F.Supp.
+1389, 1391 (N.D.Tex.1988).
+Although this transaction is styled as a sale, the mortgages were carefully selected so as to meet the criteria of Memorandum R-49 and the monetary difference in the packages ostensibly sold was in fact approximately $2.
+We have already dealt with the issue of how to characterize a R-49 transaction and found that such a transaction, although characterized as a reciprocal sale, was in fact an exchange.
+San Antonio Savings Association v. United States , 887 F.2d 577 (5th Cir.1989) (" SASA ").
+We therefore consistently refer to Centennial's R-49 transaction with FNMA as an exchange.
+This case comes to us consolidated with two other cases dealing with R-49 transactions, SASA , cited immediately above, and First Federal Savings & Loan Assoc. of Temple v. United States , 887 F.2d 593 (5th Cir.1989) (" Temple ").
+Because the details and history of the development of Memorandum R-49 by the FHLBB has already been dealt with in our opinion in SASA, we do not repeat that history here.
+The only significant difference between the facts of this case and those of SASA and Temple is that Centennial's transaction involved a straight swap of 90% participation interests in home mortgage loans, whereas SASA involved a triangular exchange of 90% participation interest, and Temple involved a straight swap of complete mortgages.
+These factual variations are of no consequence.
+The law as applied in SASA and Temple applies to these circumstances as well, and we so hold.
+Centennial conducted its exchange on April 13, 1981.
+It then filed for a tax refund and claimed that it sustained a loss of $2,819,218.43.
+This amount was derived from the difference in the face value of the mortgages it held and the market value which it received from FNMA for the mortgages it received.
+Centennial filed for the tentative allowance of refund on February 4, 1982, and applied its loss through the carryback mechanism to the taxable years of 1969 through 1980 (1971 excluded).
+The IRS refunded the tax money Centennial claimed it was owed at that time from the loss and under the carryback.
+That amount was $788,633.67.
+Also during 1981, Centennial received $258,019 as a result of premature withdrawals of certificates of deposit (CDs), a matter unrelated to the exchange of mortgage participation.
+Centennial characterized the income received from premature withdrawal of the CDs as income from discharge of indebtedness under 61(a)(12) of the Internal Revenue Code.
+The government challenges that characterization, arguing that the money received for early withdrawal of the certificates of deposit constituted gross income.
+On September 14, 1983, the IRS informed Centennial that the deduction resulting from the R-49 transaction would be disallowed and the CD penalties must be treated as ordinary income.
+On December 6, 1984, Centennial executed Form 872, entitled "Consent to Extend the Time to Assess Tax," which extended the time of assessment through December 31, 1985.
+On June 12, 1985, the IRS issued a notice of deficiency and on November 5, 1985, the IRS made its assessment that Centennial owed the full amount of the refund it had then received pursuant to the loss it claimed from the R-49 transaction.
+I. The Statute of Limitations Before dealing with the merits of the lower court's characterization of the R-49 transaction and the CD penalties, we first examine Centennial's claim that the IRS assessment was unenforceable because the statute of limitations had run.
+Section 6501 of the Code 2 provides the general rule that the statute of limitations as applied to tax assessment is ordinarily three years. 26 U.S.C. 6501(a) (1982).
+But, in an exception to the three year limit, the taxpayer can consent to later assessment.
+26 U.S.C. 6501(c)(4) (1982).
+The dispute in this case concerns the interrelationship between 6501(c)(4) and 6501(h) , which deals with the period allowing for the assessment of carrybacks.
+On December 6, 1984, Centennial's corporate officers signed Form 872, entitled "Consent to Extend the Time to Assess Tax."
+That agreement stated in part "[t]he amount of any Federal Income tax due on any return(s) made by or for the above taxpayer(s) for the period(s) ended December 31, 1981 may be assessed at any time on or before December 31, 1985."
+The district court denied Centennial's motion for summary judgment which asserted that the federal government's assessment of taxes and interest were barred by limitations.
+Centennial Savings Bank FSB v. United States , 670 F.Supp.
+195 (N.D.Tex.1987) (order denying summary judgment).
+Centennial now appeals that ruling on two grounds.
+First, Centennial contends that the form it signed constituted a "waiver" rather than an "extension" of the statute of limitations.
+Centennial cites two Supreme Court cases as support for this distinction, Florsheim Bros. Drygoods Co. v. United States , 280 U.S. 453 , 50 S.Ct. 215 , 74 L.Ed. 542 (1930), and Stange v. United States , 282 U.S. 270 , 51 S.Ct. 145 , 75 L.Ed. 335 (1931).
+In both of these cases the Court did conclude that the early analogies of Form 872 were waivers instead of contracts.
+The courts, however, drew no distinction between waivers and extensions.
+Centennial contends that because Form 872 never contained the term "waiver" it constitutes an illegal "extension," which only Congress has the power to grant.
+This is too slender a semantic thread to support Centennial's argument, particularly since Form 872 parallels the language of 6501(c)(4) , which explicitly allows for assessment after the normal statutory period when both parties consent to it.
+This language is broad enough to incorporate either the concept of "extension" or "waiver".
+Furthermore, this semantic hair-splitting seems at best to create a distinction without a difference.
+Even if one accepts Centennial's premise that only Congress can "extend" the statute of limitations, nevertheless waiving the ability to raise that defense in effect extends the period of limitations for however long a party contracts not to employ the defense.
+Whether such an agreement is characterized as a extension or a waiver, Congress has clearly provided for such agreements within the Tax Code.
+Hence it is not a usurpation of Congress' role for two parties to agree to allow assessment after the normal statute of limitations has run.
+Centennial's second contention is that the assessment was barred by the statute of limitations because the assessment was for amounts attributable to the carryback years, 1960-1980 (excluding 1971), while the consent form concerned only tax due for 1981.
+This argument is in flat contradiction of the plain words of 6501(h) .
+Section 6501(h) makes the period of assessment for carryback years coterminous with the limitations period for the year giving rise to the loss.
+26 U.S.C. 6501(h) (1982).
+Under this provision when a taxpayer agrees under 6501(c)(4) that the tax for the loss year may be assessed beyond the normal three year period, he is automatically extending the limitations period for the assessment of that loss as applied to the carryback years.
+The taxpayer's only authority for its construction of the code, Badaracco v. Commissioner , 464 U.S. 386 , 104 S.Ct. 756 , 78 L.Ed.2d 549 (1984), does not assist it.
+Badaracco held only generally that the statutes of limitation barring the assessment of taxes are to be narrowly construed to favor the government.
+Id. at 391 , 104 S.Ct. at 761 .
+See also Lucia v. United States , 474 F.2d 565, 570 (5th Cir.1973).
+But, the courts addressing this specific issue have held that an agreement to extend the period of assessment for the year in which the loss was incurred also extends the period for assessment for the carryback years.
+Nalley v. Ross , 308 F.Supp.
+1388, 1393 (N.D.Ga.1969); In re Crist , 85 B.R. 807, 815 (Bankr.N.D.Iowa 1988).
+See also , Pesch v. Commissioner , 78 T.C. 100, 134 , n. 57 (1982).
+We conclude that the statute of limitations had not yet run when the IRS assessed the tax consequences of the loss claimed on the R-49 transaction for the tax year of 1981.
+Nor was the statute of limitations applicable to the carryback to the tax years 1969-1980 (excluding 1971).
+II.
+The R-49 Transaction The district court below held that before a loss can be realized on an exchange of items, those items must be materially different.
+Centennial , 682 F.Supp.
+at 1396-98 .
+The lower court concluded, however, that the mortgages exchanged were not materially different.
+It came to this conclusion by determining that the mortgages were economic substitutes for each other.
+Centennial , 682 F.Supp.
+at 1398-1400 .
+We hold today in the related case that a "material difference" is required between exchanged items before a realization event can be held to occur.
+We also hold, however, that "economic substitutes" can still be "materially different" from each other for tax purposes.
+See SASA , 887 F.2d at 590 .
+As we stressed in the SASA decision, the FHLBB was not deciding the tax implications of its regulatory action.
+By the same reasoning, the IRS was not empowered to rule on the validity of the FHLBB accounting regulations as automatically implicating specific tax consequences.
+The test under the FHLBB's R-49 is "substantial identity" of the exchanged property.
+It is a different concept for a different administrative purpose from the IRS's concept of "material difference" for tax purposes.
+Tax Court so held, and we affirmed.
+SASA , 887 F.2d at 591 .
+We do not need to go into substantial detail as to the differences in the mortgage packages exchanged.
+It is sufficient to point out that the mortgages Centennial exchanged were generally for less expensive homes located in urban areas in north Texas.
+The mortgages received were for more expensive properties located throughout the state and primarily in non-urban areas.
+The average net worth of the mortgagors in the mortgages received was 40% higher than in the mortgages traded off.
+Also, the later performance of the two mortgage packages differed substantially.
+In accordance with our decision of this day in SASA , we hold Centennial's R-49 transaction resulted in a realized and recognizable loss for tax purposes because the participation interests exchanged were in mortgages which under the Internal Revenue Code differed materially from each other.
+III.
+The CD Penalties Received by Centennial were Income from Discharge of Indebtedness Under 108 of the Code The final issue in this case is whether the $258,019 received by Centennial during 1981 for early withdrawals of certificates of deposit (CDs) constituted "income from the discharge of indebtedness" under 108 and 1017 of the Code.
+The district court held that the "penalties" for early withdrawal were indebtedness discharge income.
+Centennial , 682 F.Supp.
+at 1400-03 .
+The United States Tax Court and the Seventh Circuit have also addressed this issue and held to the contrary in Colonial Savings Assoc. v. Commissioner , 85 T.C. 855 (1985), aff'd 854 F.2d 1001 (7th Cir.1988), cert. denied , U.S. , 109 S.Ct. 1556 , 103 L.Ed.2d 859 (1989).
+On this issue, we respectfully disagree with the conclusions of the Tax Court and the Seventh Circuit in Colonial Savings and affirm the holding of the district court below.
+There is no dispute that Centennial received income for purposes of the Internal Revenue Code when it received the early withdrawal penalties from its CD holders.
+The issue, however, is whether this income, the "penalty" money received for early withdrawal of the CDs, should be characterized as "income from the discharge of indebtedness."
+Such a characterization of the income would be favorable to Centennial because a taxpayer is permitted to pay the tax on income from the discharge of indebtedness over time via favorable mechanisms rather than immediately.
+26 U.S.C. 1017 (1982 and Supp. IV 1986).
+The statutory scheme that gave rise to this question is fairly straightforward.
+As in force for tax year 1981, 108 provided that "[g]ross income does not include any amount which (but for this subsection) would be includible in gross income by reason of the discharge (in whole or in part) of indebtedness of the taxpayer if (C) the indebtedness discharged is qualified business indebtedness."
+26 U.S.C. 108(a)(1)(C) (1982).
+"Qualified business indebtedness" was defined as follows: 26 U.S.C. 108(d)(4) (1982).
+Section 108(c) then allowed a corporation to reduce the adjusted basis of his depreciable assets under 1017 by the amount of the qualified business indebtedness.
+3 The principle that a taxpayer can realize income from the discharge of indebtedness was first established in United States v. Kirby Lumber Co. , 284 U.S. 1 , 52 S.Ct. 4 , 76 L.Ed. 131 (1931).
+In Kirby Lumber , a corporation retired some of its own bonds by purchasing them at a price less than the face value it had received for them when issued.
+The Supreme Court found that the excess of the issuing price over the purchase price constituted an accession to income.
+The Court characterized the income as income from the discharge of indebtedness.
+According to Centennial, when the depositor purchased a CD at a bank, the bank incurred a debt toward that depositor.
+Under the terms of the CD, Centennial was obligated to repay the depositor's principal plus interest that had accrued at a fixed rate at an agreed future date.
+If the depositor withdrew his or her money before the end of the term, he or she was assessed a "penalty" for the early receipt of that money.
+4 That penalty was predetermined by federal law. 12 C.F.R. 1204.103 (1981); 12 C.F.R. 526.7 (1980).
+Because Centennial characterized its relationship with holders of CDs as one of indebtedness, it treated the penalties assessed on the early withdrawal of CDs as "income from the discharge of indebtedness."
+The IRS argues instead that the penalty assessed for early withdrawal of a CD does not constitute income from the discharge of indebtedness, but is analogous to damages for breach of contract.
+5 The general rule is that the characterization of income as income from the discharge of indebtedness depends purely on the spread between the amount received by the debtor and the amount paid by him to satisfy his obligation.
+1 Bittker and Lokken, Federal Taxation of Income, Estates and Gifts , ¶ 6.4.2 (2nd Ed.1989).
+See also Bittker and Thompson, Income from the Discharge of Indebtedness: The Progeny of United States v. Kirby Lumber Co. , 66 Calif.L.Rev.
+1159, 1166 (1978).
+6 Under this general rule Centennial's CD penalties were income from the discharge of indebtedness.
+The general rule's focus on the final result has the aura of authenticity.
+As the Seventh Circuit conceded, one of the strengths of the savings institutions' argument is that "[a]fter all, whether the penalty is paid out of the funds in the bank's custody or by the depositor's funds from other sources, the effect of the penalty is to ensure that Colonial's net obligation to its depositor is far less than it would otherwise have been."
+Colonial Savings , 854 F.2d at 1006 .
+Bittker's application of Kirby Lumber involves financial adjustment purely for gain or to minimize loss.
+Kirby Lumber Bittker and Thompson, 66 Calif.L.Rev.
+at 1174.
+In the case before us, the individual CD holders may have withdrawn their deposits for a number of reasons, including the possibility that the going market interest rate may have risen and made it more profitable to withdraw the CD funds and deposit them elsewhere.
+This scenario perfectly fits the classic characterization of debt discharge income.
+It is true that some CD owners may have withdrawn their deposits early for unanticipated personal reasons rather than the purely economic motives posited in Bittker's scenario.
+Regardless of their motivation, however, the end result was the same; the CD holders withdrew the money because they believed they could put it to better use elsewhere.
+In turn, Centennial discharged its debt for less than its accrued obligation.
+A. Prior History and Purpose of 108 The government in arguing that the CD penalties do not qualify as 108 debt discharge income urges several grounds that were relied upon by the Tax Court and Seventh Circuit in Colonial Savings , 85 T.C. 855 , aff'd 854 F.2d 1001 .
+The first of these arguments is that 108 was not intended to apply to debt discharge income of solvent, financially liquid companies.
+While 108 was certainly originally intended to help financially troubled taxpayers, at the time applicable to this case it was not limited to such taxpayers.
+Hence we conclude that Centennial is not barred from the benefits of 108 and 1017 , even if it was not financially troubled.
+Often indebtedness is discharged to a company having financial difficulties.
+The creditor's purpose in discounting such a company's debt is to trade the right to full payment for swifter and more certain payment of a lesser portion of the debt.
+This sort of debt discharge produces income in the debtor's books due to a lowering of liabilities, but it does not leave the debtor with more cash in hand with which to pay taxes.
+It was because of these concerns that Congress originally enacted the predecessor to 108 , 22(b)(9) of the Internal Revenue Code of 1939.
+Revenue Act of 1939, ch.
+247, 215(a) , 53 Stat. 863 , 875.
+Thus, Section 22(b)(9) provided that a corporation could exclude the amount of a discharge of indebtedness from its gross income if the corporation was in an "unsound financial condition".
+But, in 1942, Congress removed the requirement that the corporation be in an "unsound financial condition".
+Revenue Act of 1942, ch.
+619, 114(a) , 56 Stat. 798 , 811.
+It is not entirely clear why the requirement was removed, but there is no question but that the amendment constituted a significant broadening of the provision.
+The Senate Committee which proposed its removal merely stated that its amendment relaxed "the standard established in 1939 and makes it possible for all corporations to have the advantages granted by this section without an impairment of their credit."
+(emphasis added) S.REP No. 1631, 77th Cong., 2nd Sess.
+114 (1942), 1942-2 C.B.
+504, 564.
+Finally, in 1986, Congress came full circle and eliminated the "qualified business indebtedness" provision from 108 , so that now only discharge of indebtedness income occurring in a bankruptcy case or when the taxpayer is insolvent is excluded from gross income by 108 and qualifies for the "spreading" provision of 1017 .
+Tax Reform Act of 1986, Pub.L.
+99-514, 822(a) , 100 Stat. 2085 , 2373 (codified as amended at 26 U.S.C. 108(a) (Supp. IV.
+1986)).
+Whatever may have been Congress' initial purpose in exempting debt discharge income from an immediate taxation, however, there was no requirement of financial inability to pay tax on that income between the years of 1942 and 1986, the critical year in this case being 1981.
+The Tax Court in Colonial Savings noted the elimination of the requirement of unsound financial condition but then failed to credit it, claiming that 108 and its predecessors were only intended to apply to situations in which assets were "trapped" and not liquid.
+Colonial Savings , 85 T.C. at 863-64 .
+The tax court relied on Estate of Delman v. Commissioner , 73 T.C. 15 (1979) in drawing its conclusion.
+Delman does not, however, deal with an instance of income from discharge of indebtedness, nor does it interpret 108 (in it's pre-1986 form) to require insolvency.
+Delman , 73 T.C. at 39-40 , n. 19.
+The district court in the instant case correctly rejected this Tax Court analysis in Colonial Savings because the Tax Court failed to take into account Congress' removal of the unsound financial condition requirement.
+Centennial , 682 F.Supp.
+at 1402 .
+B. Spurious versus Genuine Discharge of Indebtedness The government next argues that the debt discharge is not "genuine" 108 debt discharge but represents a "spurious" debt discharge.
+This phrase was employed by Professor Bittker in the often quoted, previously cited, article.
+See Bittker and Thompson, 66 Calif.L.Rev.
+at 1174.
+Two broad characteristics of spurious cancellation of indebtedness outlined by Professor Bittker are (1) the debt is not discharged for less than its full amount, but is paid in full indirectly and (2) the debt is cancelled "not to effect a financial adjustment of the debtor-creditor relationship but as an indirect way of achieving a much different objective."
+1 Bittker and Lokken, Federal Taxation of Income, Estates and Gifts , ¶ 6.4.4 (2nd Ed.1989).
+A widely used example of a spurious cancellation of debt occurs when an employer "loans" an employee $50 with the understanding that it will be deducted from the employee's next paycheck.
+The next pay day no cash changes hands, the transaction is formally termed a "cancellation" but nevertheless the debt is paid in full.
+The employee must report the $50 as regular income, not as income from the discharge of indebtedness within the meaning of 108 or Kirby Lumber .
+Bittker and Thompson, 66 Calif.L.Rev.
+at 1174.
+In this situation the employee did not gain nor did the employer lose income through the discharge of debt.
+The employer received work equal in value to the money which it paid; the employee conversely earned his wage.
+The only difference between this arrangement and the ordinary circumstance is that the employee received his payment ahead of time with the understanding that he would not receive that portion of his wage on pay day.
+Cancellation of indebtedness occurred in this example, but neither party received income as a result of the transaction.
+It is important to note what was and was not spurious in the example above.
+The debt discharge itself was not spurious, because the debt was truly and effectively cancelled.
+What would be spurious would be "the implication that the debt was discharged for less than its face amount."
+Bittker and Lokken, ¶ 6.4.1, n. 23.
+The spurious versus genuine debt discharge distinction is upheld by cases which deal with 108 and its statutory predecessors.
+Genuine discharge of indebtedness is held to have occurred in cases where creditors accepted less than full value for the amounts which were owed in return for the benefit of early payment.
+Such a case of genuine debt discharge is Reliable Incubator and Brooder Co. v. Commissioner , 6 T.C. 919, 926-27 (1946).
+In that case, the taxpayer-debtor had a debt of $6,700 upon which he was obligated to make $50 monthly payments.
+His creditor needed funds, so the parties agreed to reduce the outstanding debt by $1,200 in exchange for an advance payment of $600.
+The Tax Court determined that the taxpayer-debtor received $600 discharge of indebtedness income.
+7 See also San Marcos Hotel Co. v. Commissioner , 11 T.C.M.
+388, 392-93 (1952) , aff'd , 205 F.2d 641 (9th Cir.1953).
+In cases of spurious debt discharge, the debt discharge is often described as merely the "medium of payment" for an obviously separate obligation between two parties.
+Colonial Savings , 854 F.2d at 1005 .
+Two clarifying examples of use of debt discharge as a mere medium of payment are Spartan Petroleum Co. v. United States , 437 F.Supp.
+733 (D.S.C.1977) and OKC Corp. v. Commissioner , 82 T.C. 638 (1984).
+Spartan Petroleum Company was a gasoline distributor that was $233,174.73 in debt to its franchiser, Atlantic Richfield Company (ARCO).
+ARCO sought to cancel its franchise agreement with Spartan.
+The two parties agreed that ARCO would pay over $1 million in damages for that cancellation.
+ARCO agreed, however, to subtract Spartan's debt from its damages payment, rather than pay the full amount and then require Spartan to repay separately its debt to ARCO.
+Spartan characterized this cancellation as giving rise to 108 debt discharge income.
+The district court concluded, however, that the cancellation of indebtedness was not a 108 discharge because the "forgiveness of the indebtedness" was in fact part of the payment to the distributor for cancellation of the franchise agreements.
+Similarly, in OKC Phillips Petroleum agreed to cancel a debt of OKC's in return for OKC's agreement to release Phillips from an unprofitable output contract.
+In each of these cases, the creditor did not discharge the debtor of part or all of his obligation.
+The creditor had his loan entirely repaid by the receipt of something valuable from the debtor, and the cancellation of the debt was merely the creditor's method of payment.
+In contrast, in Reliable Incubator the creditor discharged a portion of the debt for the direct purpose of receiving payment of the remaining debt more quickly.
+Thus, two factors distinguish Reliable Incubator from Spartan .
+(1) The thing received--faster payment of outstanding debt--was only in the context of the debtor/creditor relationship.
+In both Spartan Petroleum and OKC Corporation on the other hand, the debt was cancelled as payment for an entirely different item or right of material worth outside the debtor/creditor relationship.
+(2) In Reliable Incubator , after all the dust had settled, the creditor did not get the full value of the loan back, whereas in OKC and Spartan they did.
+Thus, only genuine or "pure" debt discharge income falls within the ambit of 108 .
+We must now examine, therefore, whether Centennial's CD penalties are more like the income received in Reliable Incubator or that which occurred in Spartan .
+1.
+The CD Penalty as Payment of a Separate Obligation The Tax Court endorsed the IRS's view that when a CD holder received less money back than he otherwise would because of the penalty for early withdrawal, that forfeiture did not result in "108 debt discharge" income.
+The Tax Court views the penalty essentially as liquidated damages for breach of contract by early withdrawal of the deposits, rather than pure debt discharge.
+Hence the penalty was merely a medium for payment of a separate obligation.
+See Colonial Savings , 85 T.C. at 866-67 .
+United States v. Kirby Lumber Co. supra Colonial Savings , 85 T.C. at 861 .
+8 We cannot accept the government's claim that the CD penalty was a separate obligation, independent from the debtor/creditor relationship existing between the bank and the depositor.
+The penalty was not assessed as the result of a separate relationship.
+It was an integral part of the CD arrangement, a requirement delineated prior to the purchase of CD.
+No separate contract created the CD penalty, and in fact the penalty was an integral part of the CD obligation.
+The legal nature of a Certificate of Deposit is controlling.
+Part of a CD's function is to act as a hedge against a fall or an increase in interest rates.
+When the bank sells the creditor/depositor a CD, the bank is then obligated to pay the owner of the CD a fixed interest rate for a set period of time.
+If the market interest rate falls during that period of time, even precipitously, the bank must still continue to pay the CD holder that set interest rate.
+On the other hand, if the market interest rate rises significantly after the depositor has purchased his CD the bank will still need to pay no more than the fixed rate.
+In such circumstances the bank gets the use of the CD owner's money cheaply during a period of expensive money.
+If the CD owner could simply withdraw his money whenever the market interest rates rose above the agreed upon amount, there would be no point in having a CD arrangement (at least from the banker's point of view).
+The early withdrawal penalties allow the CD owner to buy the early termination of his agreement to leave his money in for a given period of time at a set interest rate.
+Because the contract is purely one of debt and credit, the penalty provision creates pure debt discharge and it adds nothing to say it is liquidated damages for breach of contract.
+The payment of Centennial's CD penalty is not an obligation independent of the creditor/debtor relationship, as were the damages in Spartan .
+What makes this case different from Spartan is the nature of the penalty.
+The penalty clause is actually nothing more than a common business arrangement which is the very basis of the CD as a financial device.
+The early withdrawal, pragmatically, is not a breach of contract.
+It is simply a right to end the contract at an earlier time by a discount of the face value at maturity.
+The fact that this particular debt discharge is required by federal regulations does not change the ultimate result--if the creditor claims his money early he reduces the amount of the debtor's obligation.
+Further, the change in the code in 1986 that now makes the receipt of such penalties a part of gross income does not change the routine nature of the transaction.
+It only changes the tax consequences, as of course the government has full power to do.
+2.
+The Two-Step v. One-Step Distinction The government claims that the CD penalties are properly analyzed as a two-step transaction, albeit a hidden two-step transaction of the sort involved in Spartan Petroleum .
+According to the government if the depositor had paid the penalty in cash, and in turn received the entire amount due on the account, then the bank-taxpayer would have had income in the amount of the penalty.
+That income, however, would not have been income from the discharge of indebtedness because in the posited example there was no discharge of a debt for less than its face amount.
+The source of income was simply from the receipt of a penalty.
+This "two transaction versus one transaction" analysis misapplies the law and elevates form over substance.
+In Spartan a debt was forgiven as a means of payment for breach of an entirely separate contract.
+The purpose of the debt forgiveness was to fulfill two different obligations in one action.
+The same effect would have been achieved if the debtor had paid the creditor the amount of money owed and then the creditor had paid the debtor for the breach of the separate dealership contract.
+Instead, the parties agreed that the two obligations cancelled each other.
+Such a transaction involving two completely separate relationships and obligations between the parties can properly be characterized as a two-step transaction hidden in a one-step transaction.
+The critical question, however, is whether the debtor ultimately fully repays his debt, whatever the form of that repayment.
+Any pure debt discharge transaction could be characterized as taking two steps.
+A 108 discharge of indebtedness would arise if a lender loaned $1,000 to a retail businessman but provided in the loan agreement that if the debtor encountered financial trouble (measured, for example, by a drop in sales of "x" units per month over a defined number of months) the required repayment on the debt would be reduced to $800.
+Under the government's analysis, such a loan agreement unrealistically would create a "separate obligation" on the creditor to pay $200 to the retail business if financial trouble occurred and the debtor would be conceived of as repaying his lender the full $1,000 after which the lender simply contributes $200 to assist the troubled business.
+In accordance with our analysis, however, we focus upon the result.
+The result would be that the debtor paid $800 in complete discharge of his $1,000 debt.
+Thus, he received $200 in income through debt discharge.
+Hence, we conclude that this claim by the IRS fails to demonstrate that CD penalties are spurious debt discharges.
+3.
+Aberrations from Normal 108 Debt Discharge Form The IRS next contends that the CD penalties exhibit aberrations from ordinary 108 debt discharge patterns because normal 108 debt discharge cases are the result of negotiation.
+It is true that debt discharge is often ad hoc, arising from the changed circumstances of the debtor rather than prearranged contractually.
+There is no reason, however, that debt discharge cannot be prearranged contractually.
+Furthermore, the fact that the creditor rather than the debtor initiates the CD withdrawal is of no consequence.
+Both the courts and the Internal Revenue Service agree that an individual homeowner/debtor realizes income from partial discharge of his home mortgage debt if he agrees to prepay his loan at a discount to his lender.
+S & Ls and banks frequently offer their mortgagors this prepayment opportunity in order to permit the creditor S & L or bank to profit by reloaning the mortgage money at higher interest rates.
+See Sutphin v. United States , 14 Cl.Ct.
+545 (1988); Michaels v. Commissioner , 87 T.C. 1412 (1986); Rev.Rul.
+82-202, 1982-2 C.B.
+36.
+In such cases the creditor initiates the transaction by offering the terms of debt reduction.
+But the government argues that this situation is distinguishable because the amount of debt forgiveness was the result of bargaining between the parties.
+We do not find this bargaining requirement persuasive.
+It is not in the Code, and in any event the penalty was bargained for as an integral part of the single transaction.
+A related argument involves the Tax Court's method of distinguishing Reliable Incubator .
+Reliable Incubator Colonial Savings , 85 T.C. at 868 .
+We fail to perceive the difference in facts that the Tax Court does.
+In Reliable Incubator , the creditor wished to receive part of the debt more quickly and in exchange for this benefit agreed to reduce the debtor's obligation.
+Here the depositors wish to receive the money for their CD's back from the bank ahead of schedule and therefore agreed to a reduction in the amount Centennial owed them in exchange for that benefit.
+Whether this is characterized as essentially two-for-one or one-for-one does not matter.
+In both cases the creditor gave up his rights to a part of the debt in order to receive the rest of debt more quickly.
+We find no justification in the Code for a conclusion that the amount given up to the amount of debt paid off matters for tax purposes.
+C. Revenue Ruling 73-511 The Seventh Circuit in Colonial Savings affirmed the Tax Court, but emphasized different reasoning from the IRS in its decision.
+Rather than relying on the spurious versus genuine debt discharge distinction, the Seventh Circuit based its determination upon the conclusion which it drew from Revenue Ruling 73-511 that a withdrawal penalty is not a 108 debt discharge.
+Colonial Savings , 854 F.2d at 1006-07 .
+The ruling says: section 165(a) section 165(c)(2) section 165(c)(1) section 165(a) Rev.Rul.
+73-511, 1973-2 C.B.
+402.
+We conclude that the Seventh Circuit read too much into Revenue Ruling 73-511.
+The crucial language, "the interest paid or credited and the forfeiture incurred represent two separate transactions" is somewhat ambiguous.
+Indebtedness always involves two types of transactions, the periodic payment or accrual of interest and the retirement of the indebtedness.
+While these are clearly two separate transactions, the Ruling does not explicitly state whether the payment of the aggregate of the principal and accrued interest at early retirement of a CD is a separate transaction from the forfeiture of a portion of such principal and accrued interest on early retirement.
+Assuming that Revenue Ruling 73-511 is read to address the relationship between the payment of principal and accrued interest and the early withdrawal penalty at retirement of the CD, we still do not find the Revenue Ruling controlling because it addresses only the mechanics of forfeiture and accrual of interest rather than the underlying relationship.
+It says that the penalty and interest payment are two separate transactions, but never says that two separate obligations are involved.
+As noted above, the forfeiture provision is integral to the CD arrangement.
+Revenue Ruling 73-511 does not characterize the payment of interest and principal on the one hand and the forfeiture of the early withdrawal penalty on the other hand as created by two separate agreements or obligations.
+We assume that for accounting purposes the discharge of a debt at a reduced rate constitutes two transactions in order to assess the amount lost by the creditor and gained by the debtor on the debt discharge.
+In the case of the CD withdrawals at issue, only one transaction actually occurred but we agree that the mechanics of the transaction should not control here.
+The controlling conditions to establish the discounted "penalty" as income must be: (1) the debt discharge occurred purely in the context of the debtor/creditor relationship as opposed to advancing a separate relationship or goal, and (2) the debt was ultimately fully discharged.
+In the case of these CDs both of these conditions were met.
+The Seventh Circuit concluded that early withdrawal penalties are "sufficiently different" from the usual 108 debt discharges that "Congress can be expected to have addressed specifically any special tax consequences surrounding [their] use."
+Colonial Savings , 854 F.2d at 1007 .
+Congress did address Revenue Ruling 73-511.
+The Ruling only allowed deduction of early withdrawal penalties from gross income by those who itemized their deductions.
+Congress sought to soften the blow of the Revenue Ruling by allowing non-itemizers to deduct early withdrawal penalties from gross income.
+Pub.L.
+No. 93-483, 6(a) , 88 Stat. 1457 , 1458-59 (1974).
+This congressional response is currently codified at 26 U.S.C. 62(a)(9) .
+section 165 26 U.S.C. 62(a)(9) (Supp. IV 1986).
+If the interest was included in gross income, the early withdrawal penalty was then subtracted from gross income, and the end result was just as if the netting rule was in force.
+This provision negates the IRS's determination that there was no "netting rule" allowing only the interest credited under a CD minus the early withdrawal penalty to be included in gross income.
+Congress never, however, directly addressed the issue of whether early withdrawal penalties were to be considered income from debt discharge or not.
+The Seventh Circuit held that Colonial Savings , 854 F.2d at 1007 .
+We do not find the Congressional reaction to Revenue Ruling 73-511 dispositive, as does the Seventh Circuit.
+The failure to discuss whether early withdrawal penalties equal 108 debt discharge income is not unreasonable, given the fact that Revenue Ruling 73-511 itself never directly addresses the issue.
+We therefore do not interpret Congressional silence on this issue as endorsing the IRS's current treatment of early withdrawal penalties as not being income from debt discharge under 108 .
+The issue of what constitutes debt discharge for purposes of 108 is admittedly difficult and many of the questions raise evenly balance considerations.
+9 We recognize that we are taking a position in opposition to the Internal Revenue Service, the Tax Court, and the Seventh Circuit.
+We nevertheless conclude that income from early withdrawal penalties of CDs can properly be classified as income from the discharge of indebtedness under the doctrine of Kirby Lumber and for purposes of 108 .
+We conclude that the so-called "penalty" for early withdrawal under the code as it then existed created income to the bank-debtor in the nature of a discharge of indebtedness.
+The fact that Congress has now decided to change the statute to treat the income as part of gross income does not change the dictates of the code as it existed and was applicable to the transactions here involved.
+Conclusion We uphold the district court's determination that the IRS's assessment was not barred by the statute of limitations and that the money Centennial received from early withdrawal penalties from certificate of deposits was income by way of debt discharge under 108 .
+We also uphold the district court's determination that a material difference is required between two exchanged items before gain or loss can be realized, but in accordance with the companion cases decided this day, we reverse the district court and find that the mortgage participation interests exchanged and received by Centennial were materially different under the Internal Revenue Code.
+AFFIRMED IN PART; REVERSED AND RENDERED IN PART.

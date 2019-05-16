@@ -1,0 +1,172 @@
+ STRAUB, Circuit Judge: Plaintiffs-Appellees asserted [**2] claims under the Employee Retirement Income Security Act of 1974 ("ERISA"), 29 U.S.C. 1001 et seq.
+, against their current or former employer, Xerox Corporation ("Xerox"), [fn1] the pension plan administered for the benefit of its employees, and various individuals associated with the administration of that plan.
+On remand from our first decision in this litigation, see Frommert v. Conkright , 433 F.3d 254 (2d Cir. 2006), the District Court crafted a remedy to address the ERISA violations we had identified and concluded that the release forms signed by several Plaintiffs-Appellees did not bar their ERISA claims, see Frommert v. Conkright , 472 F.Supp.2d 452 , 456-59 (W.D.N.Y.
+2007).
+Defendants-Appellants challenge both aspects of the District Court's decision.
+For the reasons set forth below, we reject Defendants-Appellants' first challenge and agree with the second.
+Accordingly, we vacate a portion of the District Court's order and remand the case to the District Court for proceedings consistent with this opinion.
+FACTUAL AND PROCEDURAL BACKGROUND We presume familiarity with the facts and procedural history of this case as set forth in our prior decision, see Frommert , 433 F.3d at 257-62 , and we repeat them here only as relevant to the issues presented in this appeal.
+In that decision, we concluded that Defendants-Appellants had impermissibly amended the ERISA plan at issue through their method of determining retirement benefits for those beneficiaries who had previously left the company only to be rehired later.
+Id. at 264-68 .
+When these beneficiaries left Xerox, they all received lump-sum distributions of their then-accrued pension benefits.
+Id. at 257 .
+The pension benefits of those who were subsequently rehired by Xerox were governed by a set of ambiguous provisions in the pension plan documents.
+The 1989 Xerox Retirement Income Guarantee Plan ("RIGP" or "Plan") provided that, "[i]n the event any part or all of a Member's accrued benefit is distributed to him prior to his Normal Retirement Date, .
+.
+.
+and such member at any time thereafter recommences active participation in the Plan, the accrued benefit of such Member based on all Years of Participation shall be offset by the accrued benefit attributable to such distribution."
+1989 RIGP 9.6 .
+The 1997 version of the Plan provided both that "[n]o credit shall be given [to a participating employee] for any period with respect to which a lump sum payment has been made .
+.
+."
+and that "Credit for Years of Participation preceding [such a payout] will be reinstated in the event that such an employee returns to Xerox."
+Frommert , 433 F.3d at 260 .
+Thus, in determining these employees' benefits, the plan administrator was required to account, in a manner unspecified to employees, for both an employee's total years of service at Xerox and the fact that the final benefits must be "offset by" an amount "attributable" to a prior lump sum distribution.
+The plan administrator resolved this difficulty by utilizing a so-called "phantom account" offset mechanism.
+The phrase "phantom account" refers to the calculation of the current value of the employee's prior, lump-sum distribution by adjusting that amount [**3] for "hypothetical investment gains and/or losses attributable to the prior distribution, as if the money had been left in [the employee's] account[]" instead of being distributed to the employee upon first leaving Xerox.
+Id. at 259 (quoting 1995 "Benefits Update").
+In estimating the pension benefit to which that employee would be entitled upon his or her future retirement (and thus second separation) from Xerox employment, the plan administrator would both account for the employee's total years of service and deduct an amount based on the prior, lump-sum distribution, as augmented by the "phantom account" offset method.
+See id. at 259-61 .
+In our first decision, we concluded that the "phantom account" offset mechanism constituted a "retroactive cut-back" of anticipated pension benefits in violation of 29 U.S.C. 1054 (g), and that Defendants-Appellants had impermissibly amended the ERISA Plan to include that mechanism in violation of 29 U.S.C. 1054 (h).
+See id. at 266-68 .
+We remanded to the District Court to fashion a remedy for these violations.
+See id. at 268 .
+Specifically, we instructed the District Court as follows: On remand, the remedy crafted by the district court for those employees re-hired prior to 1998 should utilize an appropriate pre-amendment calculation to determine their benefits.
+We recognize the difficulty that this task poses because of the ambiguous manner in which the pre-amendment terms of the Plan described how prior distributions were to be treated.
+As guidance for the district court, we suggest that it may wish to employ equitable principles when determining the appropriate calculation and fashioning the appropriate remedy.
+Id .
+In addition, we recognized that the District Court could apply the "phantom account" offset mechanism to employees hired after the 1998 amendment to the Plan because those individuals were on notice as to the mechanism's existence.
+Id. at 268-69 .
+But see Miller v. Xerox Corp.
+Retirement Income Guarantee Plan , 464 F.3d 871 (9th Cir. 2006) (holding that Plan's "phantom account" methodology itself violates ERISA), cert. denied , U.S. , 127 S.Ct. 1829 , 167 L.Ed.2d 321 (2007).
+Acknowledging our guidance to employ "equitable principles" and reviewing the language of the Plan materials, the District Court concluded that the appropriate remedy for employees hired before the 1998 amendment was to direct the plan administrator to pay each of these individuals "a lump sum in the amount of the difference between the amount of benefits that [an employee] has received, and the amount of the recalculated benefit, without any consideration of a `phantom account.'"
+[fn1] Frommert , 472 F.Supp.2d at 458 (internal quotation marks omitted).
+The District Court also stated that "it would not be unreasonable for the administrator to subtract out the amount of the prior distribution" in order to prevent such employees from receiving windfalls.
+Id .
+(alterations and internal quotation marks omitted).
+In addition, the District Court concluded that the release forms signed by several Plaintiffs-Appellees in exchange for their receiving severance pay from Xerox did not release Defendants-Appellants from [**4] the ERISA-based claims asserted in this litigation.
+See id. at 460-65 .
+Other matters addressed by the District Court on remand are not relevant to this appeal, which timely followed.
+DISCUSSION On appeal, Defendants-Appellants raise two challenges to the District Court's decision.
+First, Defendants-Appellants argue that the District Court fashioned an improper remedy for the ERISA violation associated with the implementation of the "phantom account offset" mechanism.
+Second, Defendants-Appellants argue that the District Court erroneously decided that the release forms signed by certain Plaintiffs-Appellees did not bar their ERISA-based claims.
+For the reasons that follow, we agree with Defendants-Appellants that the release forms at issue bar the signatories' ERISA claims, but we will not disturb the District Court's chosen remedy.
+I. Remedy On appeal, Defendants-Appellants challenge the District Court's remedy for the ERISA violations we identified in our prior decision, i.e. , the impermissible amendment of the ERISA plan at issue to calculate Plaintiffs-Appellees' pension benefits according to a "phantom account" offset method.
+As discussed above, we instructed the District Court as follows: On remand, the remedy crafted by the district court for those employees re-hired prior to 1998 should utilize an appropriate pre-amendment calculation to determine their benefits.
+We recognize the difficulty that this task poses because of the ambiguous manner in which the pre-amendment terms of the Plan described how prior distributions were to be treated.
+As guidance for the district court, we suggest that it may wish to employ equitable principles when determining the appropriate calculation and fashioning the appropriate remedy.
+Frommert , 433 F.3d at 268 .
+We review a district court's chosen remedy of an identified ERISA violation for an excess of allowable discretion.
+See Chao v. Merino , 452 F.3d 174 , 185 (2d Cir. 2006).
+Here, the Plan accounts for a retiring employee's total years of working at Xerox, but it also provides that an employee's benefits must "be offset by the accrued benefit attributable to [a prior distribution]."
+RIGP 9.6 .
+Plaintiffs-Appellees all received earlier, lump-sum distributions of their pension benefits when they first left their employment at Xerox, and the basic question presented to the District Court was how to ensure that these individuals received their due benefits in light of the ambiguous non-duplication of benefits provision.
+See Frommert , 472 F.Supp.2d at 457-58 (construing and applying 9.6 of 1989 Plan).
+On remand, the District Court decided that the appropriate remedy was to order the plan administrator to recalculate the relevant Plaintiffs-Appellees' benefits to deduct only the nominal value of their prior, lump-sum distributions, i.e. , without a "phantom account" adjustment reflecting hypothetical investment gains or, apparently, any other adjustment to reflect the inflation-adjusted values of the prior distributions.
+See id. at 458-59 .
+Defendants-Appellants fail to establish that the District Court's approach [**5] violated either the Plan terms or any law.
+Although Defendants-Appellants contend that the District Court failed to utilize pre-1998 Plan terms, the District Court explicitly did so but simply applied those terms to Plaintiffs-Appellees differently than Defendants-Appellants proposed.
+In advocating their proposed "new hire" approach instead of the remedy crafted by the District Court, Defendants-Appellants argue that 1.44(f) of the 1989 Plan requires that a rehired employee who then retires is entitled only to a pension benefit that accounts for his or her years of service since being rehired; the prior years of service are relevant only for the purpose of "vesting."
+However, in advocating this "new hire" method, Defendants-Appellants ignore the terms of the 1989 Plan, which is silent as to prior lump-sum distributions pursuant to 8.2 .
+To the extent that the 1997 Plan applies to certain Plaintiffs-Appellees, Defendants-Appellants ignore the language of 1.45(f) .
+See Frommert , 433 F.3d at 258-60 (discussing such provisions in the various versions of the Plan).
+Defendants-Appellants have failed to demonstrate that the District Court exceeded its allowable discretion in crafting its chosen remedy instead of adopting Defendants-Appellants' proposed approach.
+[fn2] Alternatively, Defendants-Appellants contend that the District Court erred by failing to adopt the remedy proposed by the plan administrator or, at least, by failing to remand to the administrator the task of fashioning a remedy.
+Regarding the failure of the District Court to remand to the plan administrator, it does not appear from the record that Defendants-Appellants actually requested such relief from the District Court.
+As such, they have waived the issue for appeal.
+See Allianz Ins. Co. v. Lerner , 416 F.3d 109 , 114 (2d Cir. 2005) ("It is a well-established general rule that an appellate court will not consider an issue raised for the first time on appeal."
+(alterations and internal quotation marks omitted)).
+Even if Defendants-Appellants had not waived the remand issue, we would review the District Court's decision to fashion a remedy itself instead of remanding to the plan administrator for an excess of allowable discretion.
+See Zervos v. Verizon N.Y., Inc. , 277 F.3d 635 , 648 (2d Cir. 2002); Kinek v. Paramount Commc'ns, Inc. , 22 F.3d 503 , 508 (2d Cir. 1994).
+The District Court here did not exceed its allowable discretion in this regard.
+Although we did not prohibit the District Court from remanding the case to the plan administrator, the language in our prior opinion presumed that the District Court would craft the remedy itself.
+See Frommert , 433 F.3d at 268 .
+Moreover, Defendants-Appellants had ample opportunity to explain fully the approach proposed by the plan administrator before the District Court, and did so, in their briefs and at oral argument, in a sworn affidavit from the plan administrator, and in a written report and accompanying testimony from an independent actuary who analyzed the plan administrator's approach.
+Indeed, Defendants-Appellants identify nothing that might have been gained by the District Court's remanding the matter [**6] to the plan administrator.
+See Krauss v. Oxford Health Plans, Inc. , 517 F.3d 614 , 630 (2d Cir. 2008) (stating that plaintiffs were not entitled to administrative remand where doing so would have been "futile"); Miller v. United Welfare Fund , 72 F.3d 1066 , 1071 (2d Cir. 1995) (stating that remand to a plan administrator is not required where such additional proceedings would be a "useless formality" (internal quotation marks omitted)).
+In addition, we suggested, as "guidance for the district court," that it "may wish to employ equitable principles."
+See Frommert , 433 F.3d at 268 .
+Defendants-Appellants identify no equitable principles that a district court might be employing, immediately upon remand from a circuit court, in merely performing the ministerial function of then remanding a case to an ERISA plan administrator.
+Defendants-Appellants rely on Miller v. United Welfare Fund to argue that remand is appropriate when "reasonable minds could differ as to the outcome of the case." However, we directed the district court in Miller to remand the case to the plan administrator to permit the plan administrator to gather additional evidence relevant to the nursing care sought by the claimant.
+See id .
+Here, we did not anticipate any comparable, extensive fact finding, and none occurred on remand before the District Court.
+Indeed, the only "evidence" considered by the District Court consisted of expert testimony regarding which of various proposed remedies was the most fair and equitable.
+Given the apparent lack of any benefit to remanding the case to the plan administrator and the language in our prior decision implying that the District Court should fashion its own remedy, see id. at 268-69 , we cannot conclude that the District Court exceeded its allowable discretion in actually doing so. In the alternative, Defendants-Appellants argue that the District Court erred in failing to adopt the plan administrator's proposed approach, or at least consider it under a deferential standard of review.
+We have held that where the ERISA plan confers upon the plan administrator discretionary authority to "construe the terms of the plan," the district court should review a decision by the plan administrator under an excess of allowable discretion standard.
+See Nichols v. Prudential Ins. Co. of Am. , 406 F.3d 98 , 108 (2d Cir. 2005) (citing Firestone Tire & Rubber Co. v. Bruch , 489 U.S. 101 , 115 , 109 S.Ct. 948 , 103 L.Ed.2d 80 (1989)).
+However, the District Court here had no decision to review because the plan administrator never rendered any decision other than the original benefit determinations, all of which were premised on the now-impermissible "phantom account" offset mechanism.
+See id .
+("[W]e may give deferential review only to actual exercises of discretion.").
+Defendants-Appellants have identified no authority in support of the proposition that a district court must afford deference to the mere opinion of the plan administrator in a case, such as this, where the administrator had previously construed the same terms and we found such a construction to have violated ERISA.
+To the extent that Defendants-Appellants argue that the District Court erred [**7] by instructing the plan administrator to calculate benefits by deducting the nominal value of prior distributions denominated in 1980s dollars from accrued benefits denominated in current dollars, see Appellants' Br. at 38-41, we reject their argument for reasons similar to those applicable to their arguments on behalf of their own preferred "new hire" remedy.
+The District Court had discretion to design a remedy to provide Plaintiffs-Appellees with the proper level of pension benefits in light of the ERISA violations we identified in our prior decision.
+As Defendants-Appellants wrote a pension plan that addresses the situation of a discharged-and-then-rehired employee with what can only be described as ambiguity, contradiction or silence, we see no problem with the District Court's selection of one reasonable approach among several reasonable alternatives.
+Cf. Lifson v. INA Life Ins. Co. of N.Y. , 333 F.3d 349 , 353 (2d Cir. 2003) (per curiam) (instructing that a court should construe ambiguities in plan terms against the drafter of the ERISA plan).
+II.
+Releases of Certain Plaintiffs' ERISA Claims The final issue raised in this appeal is Defendants-Appellants' argument that the District Court erred in ruling that the release forms signed by several Plaintiffs-Appellees did not apply to the ERISA claims asserted in this litigation.
+[fn3] The releases at issue provided that the signing employee "release[s] Xerox from any and all claims .
+.
+.
+based on anything that has occurred prior to the date [he or she] sign[s] this Release" in exchange for up to fifty-two weeks of salary continuance.
+In addition, the form specifies several potential federal claims, including those based in ERISA, that the release covers.
+As a threshold matter, Plaintiffs-Appellees argue, for the first time in this appeal, that Defendants-Appellants may not rely upon the release forms signed by several Plaintiffs-Appellees because Federal Rule of Civil Procedure 17 (a) requires that an action in federal court "be prosecuted in the name of the real party in interest."
+Although Defendants-Appellants are the pension plan at issue in this litigation and its administrators, Plaintiffs-Appellees argue that only Xerox Corporation has a "sufficient stake in reversing the trial court's ruling that the Xerox general release form constitutes a waiver of ERISA claims by the releasee."
+Appellees' Br. at 39.
+As noted above, the District Court dismissed Xerox early in this litigation, and Plaintiffs-Appellees did not appeal this ruling.
+See Frommert , 433 F.3d at 256 n. 2.
+Moreover, Plaintiffs-Appellees did not challenge the authority of Defendants-Appellants to rely upon the releases below and thus have waived this argument for purposes of this appeal.
+See Rogers v. Samedan Oil Corp. , 308 F.3d 477 , 482-84 (5th Cir. 2002) (affirming district court's ruling that third-party defendant had waived real-party-in-interest defense by failing to assert it until the day before trial); Richardson v. Edwards , 127 F.3d 97 , 99 (D.C. Cir. 1997) (deeming real-party-in-interest defense waived when not raised until appellate proceedings).
+Even if Plaintiffs-Appellees [**8] had not waived this argument, their real-party-in-interest argument is meritless because the release form itself defines its reference to "Xerox" to include "`the Xerox employee benefit plans'" in which the employee had participated or was then participating.
+See Frommert , 472 F.Supp.2d at 460 n. 2 (quoting release forms).
+Moreover, Defendants-Appellants are not the parties prosecuting this action; that role belongs to Plaintiffs-Appellees.
+See 6A Charles Alan Wright, Arthur R. Miller & Mary Kay Kane, Federal Practice & Procedure 1542 (2d ed. 1990) ("[T]he real party in interest principle .
+.
+.
+directs attention to whether [the] plaintiff has a significant interest in the particular action he has instituted, and Rule 17(a) is limited to plaintiffs.").
+Cf. Stichting Ter Behartiging Van de Belangen Van Oudaandeelhouders In Het Kapitaal Van Saybolt Int'l B.V.
+v. Schreiber , 407 F.3d 34 , 49 (2d Cir. 2005) (holding that a Rule 17(a) defect may not be cured by the joinder, as nominal defendants, of the real parties in interest to the action where those parties have evinced no intention of prosecuting the action).
+Thus, Plaintiffs-Appellees' real-party-in-interest argument fails.
+As to the merits of Defendants-Appellants' arguments regarding the releases, "an individual can waive his or her right to participate in a pension plan governed by ERISA only if his or her waiver `is made knowingly and voluntarily.'"
+Finz v. Schlesinger , 957 F.2d 78 , 82 (2d Cir. 1992) (quoting Laniok v. Advisory Comm. of Brainerd Mfg. Co. Pension Plan , 935 F.2d 1360 , 1365 (2d Cir. 1991)).
+We have articulated several factors as relevant to the determination of whether such a waiver is knowing and voluntary: 1) the plaintiffs education and business experience, 2) the amount of time the plaintiff had possession of or access to the agreement before signing it, 3) the role of plaintiff in deciding the terms of the agreement, 4) the clarity of the agreement, 5) whether the plaintiff was represented by or consulted with an attorney, [as well as whether an employer encouraged the employee to consult an attorney and whether the employee had a fair opportunity to do so] and 6) whether the consideration given in exchange for the waiver exceeds employee benefits to which the employee was already entitled by contract or law.
+.
+.
+.
+[T]his list of factors [is] not exhaustive.
+.
+.
+.
+Id .
+(internal citation omitted).
+A court should consider the "totality of the circumstances" in determining whether a waiver of ERISA rights is knowing and voluntary.
+Id .
+Despite acknowledging the explicit and broad language in the release form, the District Court concluded that the instant ERISA claims were not covered due to perceived deficiencies related to "the clarity of the release and the consideration given by Xerox in exchange for the releases."
+Frommert , 472 F.Supp.2d at 461-62 .
+Specifically, the District Court focused on one paragraph in which the signing employee agrees that "the consideration set forth in this Release is in addition to anything of value to which I am entitled by law or Xerox policy."
+The District Court concluded that this language meant that the employee was not waiving his or her ERISA claim: The import of paragraph [**9] 5 is that the salary continuance given to the employee did not take the place of, but was in addition to, any benefits to which the employee was already entitled by law or Xerox policy.
+This suggests that the employee was not waiving his right to such benefits.
+If he were, it would make little sense to describe his salary continuance as being "in addition to" such benefits.
+.
+.
+.
+Furthermore, while it might be argued that there is a distinction between a right to pension benefits in general and a "claim" seeking to have those benefits calculated according to a particular formula, that is a distinction without a difference here, because the Second Circuit has now held that, at least with respect to employees rehired before 1998, Xerox's "reduction of justified expectations of benefits [by using the phantom account] took the form of a retroactive cutback in violation of ERISA.
+In other words, those employees were "entitled by law" not simply to receive some pension benefits, but to have their benefits calculated without any reduction attributable to a "phantom" account.
+Id. at 462 (footnote omitted; emphasis in original).
+In reaching this conclusion, the District Court appears to have conflated the existence of consideration adequate to render a release enforceable with the scope of claims thereby released.
+[fn4] The paragraph on which the District Court focused provided only that the consideration for the release, i.e. , the salary continuance, did not replace any benefits, including pension benefits, to which the employee was already entitled.
+However, there is no allegation that Defendants-Appellants violated this term of the contract by denying these Plaintiffs-Appellees any and all pension benefits to which they would have been entitled.
+To the contrary, counsel for Defendants-Appellants represented to this Court at oral argument that several of these Plaintiffs-Appellees had already received pension benefits, albeit calculated under the "phantom account" offset method.
+At bottom, neither the uncertainty of such benefits at the time of release nor the fact that hindsight has revealed that such benefits are now worth more than the signing Plaintiffs-Appellees likely expected at that time can render these releases unenforceable.
+As the method used to calculate pension benefits for rehired employees was, and has continued to be, disputed throughout this litigation, the precise amount of benefits that an employee signing a release would have received in the absence of such a release was always indeterminate.
+Plaintiffs-Appellees who signed these releases did so before the District Court crafted its remedy for the ERISA violations we identified.
+The mere fact that the anticipated recovery associated with ongoing litigation is uncertain does not render an employee's release of claims asserted in that litigation unenforceable.
+Cf. Anita Founds., Inc. v. ILGWU Nat'l Ret.
+Fund , 902 F.2d 185 , 189 (2d Cir. 1990) ("[A] settlement payment, made when the law was uncertain, cannot be successfully attacked on the basis of any subsequent resolution [**10] of the uncertainty.").
+Applying the factors we have articulated as relevant to the issue of whether a waiver of ERISA rights was knowing and voluntary and reviewing the undisputed facts pertaining to these releases under the totality of the circumstances, see Finz , 957 F.2d at 82 , we conclude that the District Court erred in holding that the releases at issue were unenforceable.
+There appears to be no dispute that those Plaintiffs-Appellees who signed these releases had ample time (45 days) to decide whether to sign the release, that Xerox encouraged such individuals to consult an attorney, and that the signatories received salary continuances in consideration of their releasing claims.
+Some Plaintiffs-Appellees even modified the terms of the release forms with which they had been presented before signing them.
+As to the language of the releases themselves, we cannot conclude, as the District Court did, that the express terms of these releases were "at the very least ambiguous as to what the employee was giving up in exchange for salary continuance."
+Frommert , 472 F.Supp.2d at 462 .
+As the District Court's interpretation of the release forms is incorrect, it cannot stand.
+Unless the release form at issue specifically exempted this litigation as noted above, the releases signed by certain Plaintiffs-Appellees are enforceable.
+CONCLUSION For the foregoing reasons, we VACATE that portion of the order of the District Court holding that eighteen release forms are unenforceable, AFFIRM that portion of the order crafting a remedy for the identified ERISA violations, and REMAND the case for proceedings not inconsistent with this opinion.

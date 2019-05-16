@@ -1,0 +1,164 @@
+ BRISCOE , Circuit Judge.
+The Commissioner of Internal Revenue assessed tax deficiencies against David and Louise Gitlitz and Philip and Eleanor Winn after determining the taxpayers improperly utilized excluded discharge of indebtedness income to adjust their subchapter S corporate bases.
+The United States Tax Court upheld the Commissioner's deficiency determinations and taxpayers now appeal.
+We exercise jurisdiction pursuant to 26 U.S.C. 7482(a)(1) and affirm.
+I. David Gitlitz and Philip Winn each owned a fifty-percent interest in PDW & A, Inc., a Colorado corporation that elected to be taxed under subchapter S of the Internal Revenue Code.
+PDW & A was a partner in Parker Properties Joint Venture, a real estate partnership.
+In 1991, Parker Properties realized $4,154,891 in discharge of indebtedness income; PDW & A's pro rata share was $2,021,296.
+At that time, PDW & A was insolvent to the extent of $2,181,748 and thus was excluded from tax liability for the discharged debt income.
+See 26 U.S.C. 108(a)(1)(B) , 108(d)(6).
+1 Entering the 1991 tax year, both Gitlitz and Winn had suspended (i.e., unused) losses because each lacked sufficient basis in PDW & A to deduct losses in prior years.
+See 26 U.S.C. 1366(d)(1)(A) (the "aggregate amount of losses and deductions taken into account by a shareholder under [ 1366(a) ] for any taxable year shall not exceed the adjusted basis of the shareholder's stock in the S corporation"); 26 U.S.C. 1366(d)(2) ("Any loss or deduction which is disallowed for any taxable year by reason of [ 1366 (d)(1) ] shall be treated as incurred by the corporation in the succeeding taxable year with respect to that shareholder.").
+In 1991, Gitlitz and Winn each had additional losses from their association with PDW & A (i.e., pro rata shares of PDW & A's 1991 operating losses) which, when combined with their suspended losses, totaled $1,010,648.
+2 Absent an increase in basis, Gitlitz and Winn would have had to treat these losses as suspended losses under 1366(d)(1) because their bases in the corporation would have remained insufficient to permit contemporaneous recognition.
+On their respective joint income tax returns for the relevant tax years, Gitlitz and Winn claimed increases in the bases of their PDW & A stock in the amount of their pro rata shares of the excluded discharge of indebtedness income.
+3 Gitlitz and Winn maintained the excluded discharged debt was an "item of income (including tax exempt income)," as that term is used in 1366(a)(1) (A), thereby facilitating their basis increases pursuant to 26 U.S.C. 1367(a)(1)(A) .
+With the basis adjustments, the validity of which is at issue here, Gitlitz and Winn were able to claim the full amount of their pro rata share of PDW & A's ordinary losses.
+The Commissioner determined the taxpayers could not use PDW & A's excluded discharge of indebtedness income to increase their bases in the corporation stock and denied the taxpayers' ordinary loss deductions.
+The taxpayers contested the deficiency determinations.
+The Tax Court initially issued a consolidated opinion in favor of the taxpayers, but later granted the Commissioner's motion for reconsideration.
+The court relied on its "reviewed decision" in Nelson v. Commissioner , 110 T.C. 114 , [ 110 T.C. 114 ], 1998 WL 66131 (1998), and upheld the Commissioner's deficiency determinations, determining discharge of indebtedness income, which is excluded from gross income under 108(a) , does not pass through to shareholders of subchapter S corporations.
+Thus, the court concluded a subchapter S corporation's shareholder may not use the corporation's untaxed discharge of indebtedness income to increase the shareholder's adjusted basis of corporate stock.
+II.
+Decisions of the United States Tax Court are reviewed "in the same manner and to the same extent as decisions of the district courts in civil actions tried without a jury."
+26 U.S.C. 7482(a)(1) .
+We review factual findings for clear error and legal conclusions de novo.
+Schelble v. Commissioner , 130 F.3d 1388, 1391 (10th Cir.1997).
+Because the only issue here is whether the law applied to the undisputed facts satisfies the relevant statutory standard, we review the Tax Court's decision de novo as we are equally competent to draw conclusions from undisputed facts.
+Id. (citing Anderson v. Commissioner , 62 F.3d 1266, 1270 (10th Cir.1995)).
+III.
+Before reaching the merits of taxpayers' arguments, we address their contention that the Commissioner waived in the Tax Court many of the arguments now asserted on appeal.
+The Commissioner made clear in its motion for reconsideration that, notwithstanding certain ambiguous comments of counsel during the summary judgment hearing, it did not intend to waive any arguments previously asserted in its summary judgment motion.
+The Tax court apparently accepted the Commissioner's clarification in the order granting reconsideration.
+Such a decision is committed to the lower court's sound discretion, see Elsken v. Network Multi-Family Sec. Corp. , 49 F.3d 1470, 1476 (10th Cir.1995), and we discern no abuse here.
+Further, "it is well-settled that a court is not bound by stipulations of the parties as to questions of law."
+Koch v. United States , 47 F.3d 1015, 1018 (10th Cir.1995) (citations and internal alterations omitted).
+"[O]ur analysis, which may rest on any grounds for which there is a record sufficient to permit conclusions of law, even grounds not relied on by the district court, is not constrained by the government's ill-considered concession."
+United States v. Furman , 112 F.3d 435, 438 n. 2 (10th Cir.1997) (citations omitted).
+Subchapter S Corporations Subchapter S of the Internal Revenue Code, 26 U.S.C. 1361-1379 , permits certain corporations to elect to be taxed in a similar, but not identical, fashion as partnerships.
+See 3 Boris I. Bittker and Lawrence Lokken, Federal Taxation of Income, Estates and Gifts ¶ 95.6.1 (2d ed.1991) (highlighting major distinctions).
+A subchapter S corporation generally does not pay taxes as an entity.
+26 U.S.C. 1363(a) .
+Instead, the corporation's profits and losses pass through directly to its shareholders on a pro rata basis and are then reported on the shareholders' individual tax returns.
+26 U.S.C. 1366(a) .
+This conduit approach allows shareholders to avoid double taxation on corporate earnings.
+Tax integrity, meanwhile, is preserved by requiring shareholders to treat all income and deductions as if "realized directly from the source from which realized by the corporation, or incurred in the same manner as incurred by the corporation."
+26 U.S.C. 1366(b) .
+In other words, "the items attain no greater dignity from being passed through the corporation."
+Boris I. Bittker and James S. Eustice, Federal Income Taxation of Corporations and Shareholders , ¶ 6.06 [c] (6th ed.1998).
+To further prevent double taxation of subchapter S corporate income upon distribution to shareholders, 1367(a) normally requires shareholders to adjust their corporate bases by the items identified in 1366(a) .
+In particular, basis must be increased by, inter alia , the items of income delineated in 1366(a)(1) (A).
+Basis must be decreased by, inter alia , the items of loss and deduction set forth in 1366(a)(1) (A), as well as corporate distributions previously excluded from shareholders' income pursuant to 26 U.S.C. 1368(b) .
+Section 1368(b) provides that distributions of a subchapter S corporation having no earnings and profits (as is the case with PDW & A) are treated as follows: Amount applied against basis Amount in excess of basis Two examples help explain how this statutory scheme operates.
+Assume the sole shareholder of a subchapter S corporation has a basis of $100 in the corporation's stock.
+The corporation realizes $200 in taxable income.
+At the end of the tax year, the shareholder pays tax on the $200 of income under the "pass through" principles described above.
+The corporation distributes the $200 to the shareholder the following year.
+In the absence of an upward basis adjustment, the shareholder would be liable for additional tax upon the distribution pursuant to 1368(b)(2) because the amount of the distribution ($200) exceeds his preexisting basis in the stock.
+Sections 1366 and 1367 prevent this double taxation by mandating a $200 basis increase when the corporation first realizes the income and a $200 basis decrease upon the corporation's distribution of the income.
+A second example illustrates how the character of tax-exempt income is preserved under the subchapter S framework.
+Assume the same subchapter S corporation realizes $200 in tax-exempt income.
+Although a "pass through" technically occurs, the shareholder pays no tax on the income because, under 1366(b) , the income after "pass through" has the same character as if it was realized by the corporation.
+The corporation distributes the income to its shareholder the next year.
+Without the requisite basis adjustment, the shareholder would be forced to pay tax on the distribution under 1368(b)(2) because the amount of the distribution exceeds his preexisting basis in the stock.
+Once again, 1366 and 1367 prevent such a result by dictating a $200 basis increase when the corporation first realizes the income and a $200 basis decrease upon the corporation's distribution of the income.
+As a result, the shareholder pays no taxes on the income.
+Discharge of Indebtedness Income and Insolvency Exception Section 61(a)(12) of the Internal Revenue Code, 26 U.S.C. 61(a)(12) , ordinarily requires a taxpayer who has incurred a financial obligation, which is later discharged in whole or in part, to recognize as taxable income the extent of the reduction in the obligation.
+Section 108(a)(1) provides an exception to this rule if, inter alia , the debt is discharged in a bankruptcy proceeding or at a time when the taxpayer is insolvent.
+Exclusion of discharge of indebtedness from gross income, however, does not come without a price.
+Specifically, a taxpayer omitting such discharged debt from his income must make correlative reductions in various "tax attributes" that could otherwise yield future tax benefits.
+See 26 U.S.C. 108(b) .
+After the requisite tax attribute reductions have been made, any "remaining debt discharge amount is disregarded, i.e., does not result in income or have other tax consequences."
+S. Rep.
+No. 96-1035, at 2 (1980), reprinted in 1980 U.S.C.C.A.N.
+7017, 7018.
+This statutory scheme has "the effect of relieving the taxpayer of immediate recognition of debt discharge income, but at the cost of a forfeiture of an equal amount of potential tax benefit."
+1 Boris I. Bittker and Lawrence Lokken, Federal Taxation of Income, Estates and Gifts ¶ 7.6.3, at 7-58 (3d ed.1999).
+4 In this case of first impression, taxpayers maintain PDW & A's canceled debt is an "item of income (including tax exempt income)" under 1366(a)(1) (A).
+As the taxpayers see it, PDW & A's debt discharge, because it is an item of income under 1366(a)(1) (A), passes through to them immediately by way of 1366 and allows them to increase their basis in the corporation pursuant to 1367(a)(1) (A).
+If we embrace taxpayers' position, subchapter S corporate shareholders would receive a windfall.
+Not only would shareholders avoid taxation on the corporation's discharged debt, they would also receive an upward basis adjustment, thereby permitting them to report a larger capital loss from the sale of their stock.
+In addition, shareholders would be able to use the corporation's net operating losses to reduce their own non-corporate related gross income without having to decrease the net operating losses by the amount of the corporation's discharged debt.
+Taxpayers acknowledge the windfall, but insist the statutory language dictates such a result.
+The Supreme Court has held the Internal Revenue Code "should not be interpreted to allow [taxpayers] the practical equivalent of [a] double deduction absent a clear declaration of intent by Congress."
+United States v. Skelly Oil Co. , 394 U.S. 678, 684 , 89 S.Ct. 1379 , 22 L.Ed.2d 642 (1969) (citations omitted).
+We believe this principle is equally applicable to windfalls.
+Accordingly, only if taxpayers' theory is unequivocally supported by the statutory text may we adopt it here.
+Although taxpayers make some compelling arguments, we do not believe Congress intended to confer such a windfall upon individuals in their position.
+Exclusion of Discharge of Indebtedness Income at Corporate Level With subchapter S corporations, 108 's discharge of indebtedness income exclusions and tax attribute reduction principles must be applied at the corporate level.
+26 U.S.C. 108(d)(7)(A) .
+The Commissioner argues, and the Tax Court held, this rule serves as an exception to the normal pass-through practice in which items of income percolate directly to a corporation's shareholders.
+Taxpayers claim, however, that the only purpose of 108(d)(7) (A) is to create uniformity in the tax treatment of subchapter S corporations by applying the insolvency test at the corporate rather than shareholder level.
+If the corporation is solvent, the debt discharge is taxable; if the corporation is insolvent, the canceled debt is excluded from gross income up to the amount of the corporation's insolvency.
+Under either scenario, the taxpayers insist, the pass-through principles of subchapter S are fully applicable and shareholders must adjust their bases in the corporation.
+Although taxpayers' argument is not without merit, we reject it in favor of a position closer, although not identical, to that of the Commissioner.
+We note preliminarily that the parties have devoted significant discussion to the legislative history of the Subchapter S Revision Act of 1982, Pub.L.
+No. 97-354, 96 Stat. 1669 , which adopted 26 U.S.C. 1366-1368 , and the Tax Reform Act of 1984, Pub.L.
+No. 98-369, 98 Stat. 494 , which amended 26 U.S.C. 1366 .
+We find this legislative history largely unhelpful.
+The Commissioner's protestations notwithstanding, we discern no intent by Congress to treat certain subchapter S corporation income at the corporate level while treating other income at the shareholder level.
+Such a scheme would fundamentally alter the manner in which subchapter S corporations are taxed.
+Section 1366(a)(1) makes clear that all items of income are attributed initially to the corporation.
+Because the subchapter S corporation is not a tax-paying entity, however, the items must pass through to shareholders unless they are absorbed by tax attribute reductions.
+The outcome of this case is ultimately determined by the timing of the pass-through.
+If the attribute reduction procedures precede the pass-through, the corporation's excluded discharge of indebtedness income is absorbed before it can pass through to shareholders and compel basis adjustments.
+Potential windfalls are thus avoided.
+If, on the other hand, attribute reduction takes place after the pass-through, the taxpayers' theory must prevail.
+For the reasons described below, we conclude attribute reduction must precede the pass-through.
+Shareholder Suspended Losses as Corporate Net Operating Losses Section 108(d)(7) (B) provides that, in administering the tax attribute reduction scheme, shareholder losses suspended pursuant to 1366(d)(1) must be treated as net operating losses for purposes of 108(b)(2) (A), thereby precluding subchapter S corporation shareholders with carryover losses from enjoying the tax benefits of ordinary losses while simultaneously avoiding taxation on discharge of indebtedness income.
+As we interpret this statute, these suspended losses are added to the corporation's annual net operating losses in applying the net operating loss tax attribute reduction.
+Taxpayers maintain subchapter S corporations, by their very nature, have no net operating losses, and suggest the net operating loss tax attribute is confined to shareholder suspended losses.
+We have found no case law squarely addressing this issue.
+It is true that, because a subchapter S corporation's losses are normally deductible only by its shareholders and only to the extent of their bases in the corporation, see 1366(d)(1) , the corporation itself is not permitted to take a net operating loss deduction.
+However, nothing in the Internal Revenue Code mandates that corporate net operating losses pass through immediately to shareholders.
+If pass through was immediate, shareholders could secure a windfall by (1) avoiding tax on corporate discharge of indebtedness income under 108(a) , and (2) employing the corporation's passed-through net operating losses to reduce their own non-corporate related gross income without having first decreased the net operating losses by the amount of the corporation's discharged debt.
+The inequity would be magnified further if the shareholder's pre-pass-through basis was insufficient to recognize the net operating losses, and recognition was only possible as a result of the discharged debt increasing the shareholder's basis.
+Moreover, regardless of the pre-pass-through basis, the increase in basis resulting from an immediate pass-through of nontaxable discharge of indebtedness income would permit shareholders to secure a higher capital loss upon the ultimate disposition of the corporation.
+To embrace the taxpayers' position is to effectively eliminate the "price" Congress imposed upon entities whose discharged debt income is excluded under 108 .
+We conclude when 108(a) 's discharge of indebtedness income exclusion is triggered, a shareholder's pro rata share of the corporation's net operating losses passes through to him only to the extent such losses are not absorbed by the shareholder's pro rata share of the excluded canceled debt. 5 26 U.S.C. 108(b)(4)(A) The most difficult aspect of this case is determining the role 108(b)(4) (A) plays in the tax calculation.
+This section states the attribute reductions outlined in 108(b)(2) "shall be made after the determination of the tax imposed for the taxable year of the discharge."
+Taxpayers suggest an insolvent subchapter S corporation's discharge of indebtedness may be used in the current tax year to increase shareholder basis because the requisite tax attribute reduction does not occur until the following year.
+In essence, they claim the corporation's excluded discharge of indebtedness income passes through to them immediately upon recognition by the corporation.
+Unfortunately, there is no case law and commentators are divided on the proper operational mechanics of 108(b)(4) (A).
+Compare C. Richard McQueen and Jack F. Williams, Tax Aspects of Bankruptcy Law and Practice 25:6 , at 25-6 (3d ed.1997) (tax attribute reductions made in year of discharge) with 15 Collier on Bankruptcy ¶ 6.03 [b][i], at 6-103 (Lawrence P. King ed., 15th ed.1999) (tax attribute reductions made in year following discharge).
+The only point upon which all agree is that 108(b)(4) (A) is not an example of legislative clarity.
+Although a close question, we ultimately conclude the taxpayers' theory is not compelling.
+According to 108(d)(7) (A), tax attributes reductions must be applied at the corporate level with subchapter S corporations.
+Taxpayers' proposal would not give effect to the attribute reduction scheme.
+Taxpayers' approach, in fact, would thwart the purpose of the net operating loss tax attribute: 1 Bittker and Lokken, supra ¶ 7.6.3, at 7-59.
+As we see it, 108(b)(4) (A) is simply designed to compute certain tax applications (e.g., establishing income ceilings for 108(b)(2) deductions/credits, assessing charitable contribution deduction limitations, evaluating application of possible alternative minimum tax, etc.) before reducing tax attributes.
+We do not read the statute as mandating that attribute reductions be made in the tax year following the year of the discharge .
+We concede that, if 108(b)(4)(A) is read narrowly and in isolation, it is plausible to conclude Congress intended tax attributes to be reduced only in the tax year following the taxable year of the discharge.
+But we must read the Internal Revenue Code as a whole.
+UNUM Corp. v. United States , 130 F.3d 501, 507 (1st Cir.1997).
+"[T]he expounding of a statutory provision strictly according to the letter without regard to other parts of the Act and legislative history [may] often defeat the object intended to be accomplished."
+Id. (quoting Helvering v. New York Trust Co. , 292 U.S. 455, 464 , 54 S.Ct. 806 , 78 L.Ed. 1361 (1934)).
+Taxpayers' interpretation of 108(b)(4) (A) would negate the effect of the tax attribution scheme and would give taxpayers an unwarranted windfall.
+6 In 1991, PDW & A realized $2,021,296 in cancellation of indebtedness income.
+PDW & A was insolvent to the full extent of this figure and thus was excluded from paying taxes on the canceled debt.
+Shareholders Gitlitz and Winn each had a $1,010,648 pro rata share of discharged debt.
+Additionally, Gitlitz and Winn each had a combination of pro rata 1991 net operating losses and suspended losses from prior years which totaled $1,010,648.
+See footnote 2.
+In calculating its 1991 taxes, PDW & A first must compute its discharge of indebtedness income and set this figure aside temporarily.
+The corporation then must calculate its net operating loss tax attribute ($1,010,648 for Gitlitz + $1,010,648 for Winn $2,021,296).
+Finally, the corporation must apply the excluded discharged debt to reduce its tax attributes.
+In this case, the net operating loss tax attribute fully absorbs the corporation's excluded discharge of indebtedness income.
+Thus, there are no items of income to pass through to Gitlitz and Winn.
+The shareholders cannot utilize any net operating losses incurred by PDW & A to offset their own gross income or to adjust their corporate basis.
+Further, the suspended losses of Gitlitz and Winn effectively disappear and have no future tax consequences.
+Holding Confined to Excluded Discharge of Indebtedness Income We emphasize this case focuses only on excluded discharge of indebtedness income vis-a-vis insolvent subchapter S corporations.
+The special exception for treating such excluded income at the corporate level in 108(d)(7) (A) and the tax attribute reduction scheme in 108(b) have no application to other forms of tax-exempt income.
+7 The distinction is particularly logical when one considers that subchapter S corporation shareholders generally are not entitled to include the corporation's indebtedness to third parties in calculating their basis.
+Uri v. Commissioner , 949 F.2d 371, 373 (10th Cir.1991).
+The theory behind this rule is that the shareholders themselves have made no economic outlay.
+See Goatcher v. United States , 944 F.2d 747, 751 (10th Cir.1991) (citing Estate of Leavitt v. Commissioner , 875 F.2d 420, 422 (4th Cir.1989)).
+The types of tax-exempt income the taxpayers reference (i.e., nontaxable life insurance proceeds and municipal bond income) are acquired through initial economic outlays.
+CSI Hydrostatic Testers Taxpayers suggest the holding in CSI Hydrostatic Testers, Inc. v. Commissioner , 103 T.C. 398 , 1994 WL 466342 (1994), aff'd , 62 F.3d 136 (5th Cir.1995) (per curiam) is inconsistent with the holding here.
+CSI is unrelated to the present case. The issue in CSI was whether discharge of indebtedness income, which was excluded from the taxable income of a subsidiary subchapter C corporation pursuant to 108(a) , had to be included in the subsidiary's earnings and profits.
+The case turned on interpretations of 26 U.S.C. 312(l) and 26 C.F.R. 1.1502-19 (1987).
+Subchapter S corporations were not at issue.
+Nor was the potential windfall question before us even considered.
+In sum, taxpayers' reliance on CSI is inapposite.
+Taxpayers' remaining arguments have been rendered moot by the preceding discussion.
+The decision of the Tax Court is AFFIRMED.
+Taxpayers' motion to supplement the record with a letter which was not a part of the record before the Tax Court is DENIED.

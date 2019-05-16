@@ -1,0 +1,267 @@
+ BRORBY, Senior Circuit Judge.
+This bankruptcy appeal presents a question of first impression in this circuit: What is the proper way to calculate the "projected disposable income" of an above-median Chapter 13 debtor under amendments to the bankruptcy code effected by the Bankruptcy Abuse Prevention and Consumer Protection Act of 2005, Pub.L.
+No. 109-8 , 119 Stat. 23 (BAPCPA)?
+In this case, the United States Bankruptcy Court for the District of Kansas adopted the "forward-looking approach," which is the method adopted by the majority of bankruptcy courts and bankruptcy appellate panels (BAPs) that have considered the question.
+Under that approach, a Chapter 13 debtor's six-month, pre-petition "disposable income" (as defined by statute) is presumed to be the debtor's "projected disposable income" for purposes of establishing the monthly sum that the debtor must commit to repayment of unsecured creditors in order to advance a confirmable payment plan and overcome objections to it.
+The forward-looking approach permits the amount of projected disposable income to be rebutted upon a showing of special circumstances at the time of plan confirmation.
+In the course of its analysis, the bankruptcy court rejected a different method, the "mechanical approach," which equates a Chapter 13 debtor's projected disposable income with the statutorily defined "disposable income" and then "projects" that amount over the length of the applicable commitment period.
+It does not permit adjustment to projected disposable income to account for special circumstances at the time of plan confirmation.
+In affirming the bankruptcy court's decision, the Tenth Circuit BAP also adopted the forward-looking approach and its rebuttable presumption.
+See In re Lanning , 380 B.R. 17 (10th Cir. BAP 2007).
+For the reasons discussed below, we also adopt the "forward-looking approach."
+Exercising our jurisdiction under 28 U.S.C. 158 (d)(1) and 1291 , we affirm the BAP's decision.
+I. Factual Background The parties stipulated to the relevant facts.
+The debtor, Stephanie Kay Lanning, is a single woman with no children and a Kansas resident.
+She filed a Chapter 13 petition on October 16, 2006, to address $36,793.36 in unsecured debt.
+Her annual gross income was $43,147 in 2004, and $56,516 in 2005.
+During the six-month month period before filing her petition, Ms. Lanning took a buyout from her employer, Payless, that increased her monthly gross income to $11,990.
+03 in April 2006 and $15,356.42 in May 2006.
+As part of her petition, Ms. Lanning filed Schedule I ("Current Income of Individual Debtor(s)"), which showed a monthly net income of $1,922 ($23,604 annually), apparently reflecting actual income from a job she started after leaving Payless.
+App. at 31.
+She also filed Schedule [**2] J ("Current Expenditures of Individual Debtor(s)"), which showed actual monthly expenses of $1,772.97 and, consequently, excess monthly income of $149.03.
+Id. at 32 .
+In addition, Ms. Lanning completed Form B22C (now denominated Form 22C), "Statement of Current Monthly Income and Disposable Income Calculation."
+Id. at 40-43 .
+Form B22C first requires a debtor to calculate "current monthly income" as an average of income for the six calendar months immediately preceding the month in which the petition is filed.
+Id. at 40 .
+Under this formula, Ms. Lanning's "current monthly income" was $5,343.70, which included the buyout from Payless.
+When that figure was annualized, her income ($64,124.34) was greater than the median income for a family of one in Kansas ($36,631.00), so she was required to complete the remainder of Form B22C, on which most expenses and other deductions are calculated by reference to standard sums issued by the Internal Revenue Service (National and Local IRS Standards).
+Id. at 41-43 .
+According to her Form B22C, Ms. Lanning's total monthly expenses were $4,228.71, leaving her with "Monthly Disposable Income Under [11 U.S.C.] 1325(b)(2) " of $1,114.98.
+Id. at 43 .
+Based on the excess monthly income of $149 shown on Schedule J, Ms. Lanning proposed a repayment plan of $144 per month for thirty-six months ($5,184) as satisfaction of the $36,793.36 in unsecured debt.
+She moved the bankruptcy court to determine that 11 U.S.C. 1325 (b)(1)(B) did not require her to commit the $1,114.98 in monthly disposable income calculated on Form B22C (which included her buyout) to repayment of the unsecured creditors.
+Section 1325(b)(1) (B) is the primary statute involved in this case, and when, as here, a Chapter 13 debtor proposes a plan that contemplates less than full repayment of all allowed unsecured claims and there is an objection, that section conditions plan confirmation as follows: (b)(1) If the trustee or the holder of an allowed unsecured claim objects to the confirmation of the plan, then the court may not approve the plan unless, as of the effective date of the plan — .
+.
+.
+(B) the plan provides that all of the debtor's projected disposable income to be received in the applicable commitment period beginning on the date that the first payment is due under the plan will be applied to make payments to unsecured creditors under the plan.
+11 U.S.C. 1325 (b)(1)(B) (emphasis added).
+[fn1] Although none of the unsecured creditors objected to the proposed plan, the Chapter 13 Trustee did, arguing that 1325(b)(1)(B) provides a rigid formula for determining projected disposable income that is based on a debtor's historical monthly income as calculated on Form B22C.
+The Trustee proposed that a monthly payment of $756 (less than Ms. Lanning's Form B22C "monthly disposable income" of $1,114.98) for sixty months would repay the unsecured creditors in full, despite acknowledging that Ms. Lanning did not have the means to fund such a plan.
+II.
+The Bankruptcy Court's Decision The bankruptcy court rejected the mechanical approach that the Trustee advocated.
+The court noted that the term "projected disposable income" is not defined in 1325(b)(1)(B) , but that 1325(b)(2) , as amended by the [**3] BAPCPA, defines "disposable income": (2) For purposes of this subsection, the term "disposable income" means current monthly income received by the debtor (other than child support payments, foster care payments, or disability payments for a dependent child made in accordance with applicable nonbankruptcy law to the extent reasonably necessary to be expended for such child) less amounts reasonably necessary to be expended (A)(i) for the maintenance or support of the debtor or a dependent of the debtor, or for a domestic support obligation, that first becomes payable after the date the petition is filed; and (ii) for charitable contributions (that meet the definition of "charitable contribution" under section 548(d)(3) to a qualified religious or charitable entity or organization (as defined in section 548(d)(4) ) in an amount not to exceed 15 percent of gross income of the debtor for the year in which the contributions are made; and (B) if the debtor is engaged in business, for the payment of expenditures necessary for the continuation, preservation, and operation of such business.
+11 U.S.C. 1325 (b)(2) (emphasis added).
+In turn, the bankruptcy court looked to the statutory definition of "current monthly income" that Congress added with the BAPCPA.
+In relevant part, "current monthly income" (A) means the average monthly income from all sources that the debtor receives .
+.
+.
+without regard to whether such income is taxable income, derived during the 6-month period ending on — (i) the last day of the calendar month immediately preceding the date of the commencement of the case if the debtor files the schedule of current income required by section 521(a)(1) (B)(ii) [i.e., Schedule I][.]
+Id .
+101(10A)(A)(i) .
+The court also found relevant a new clause added to 1325(b) by the BAPCPA that, for above-median debtors, requires the use of the standardized expenses and deductions calculated on Form B22C as the "[a]mounts reasonably necessary to be expended" under 1325(b)(2) (with the exception of charitable contributions under (b)(2)(A)(ii) ).
+Id .
+1325(b)(3) .
+[fn2] In light of these statutory provisions, the bankruptcy court presumed that the "monthly disposable income" reflected on Form B22C constituted "projected disposable income" under 1325(b)(1)(B) , subject to a showing "that there has been a substantial change in circumstances such that the numbers contained in Form B22C are not commensurate with a fair projection of the debtor's budget in the future."
+App. at 126 (quotation omitted).
+The court observed that the words "projected" and "to be received" in 1325(b)(1)(B) would be superfluous if a debtor's historical average income was the only consideration.
+Id. at 123 .
+The court also placed significance on Schedule Fs mandate that a debtor provide an "`[e]stimate of average or projected monthly income at time case filed,'" an estimate of "`monthly overtime,'" and a description of "`any increase or decrease in income reasonably anticipated to occur within the year following the filing of [Schedule I].'"
+Id. at 123-24 (quoting Schedule I).
+[fn3] The court reasoned that "Schedule I tries to capture what income debtors actually will have to fund a plan."
+Id. at 124 [**4] .
+The court also noted that the prefatory portion of 1325(b)(1) requires the determination of "projected disposable income" to be made "`as of the effective date of the plan.'"
+Id .
+(quoting 11 U.S.C. 1325 (b)(1)).
+As to each of these observations, the court pointed out that "Schedule I assists courts in determining whether the plan is properly committing all this income, and clearly calls for the Court to consider income to be received during the life of the plan."
+Id .
+Finally, the bankruptcy court reasoned that the mechanical approach "leads to absurd results that are at odds with both congressional purpose and common sense."
+Id .
+Specifically, where a debtor's income at the time of confirmation has dropped significantly from the six-month pre-petition average (i.e., the current monthly income calculated on Form B22C), the court observed that the debtor would be unable to file a feasible and confirmable plan under the mechanical approach.
+Id .
+This would deny Chapter 13 protection to those most in need of bankruptcy protection — debtors whose "financial situation has significantly deteriorated over the six months prior to filing."
+Id. at 125 .
+The court further noted that even when, at the time of plan confirmation, a debtor has more disposable income than indicated by Form B22C, the mechanical approach would require confirmation of a plan over objection even though the debtor would not be paying all that she was able to pay to unsecured creditors.
+Id. at 126 .
+Applying its interpretation of 1325(b)(1)(B) , the bankruptcy court determined that the monthly disposable income shown on Ms. Lanning's Form B22C ($1,114.98) was not controlling.
+Instead, the court used her Schedule I income ($1,922) and then subtracted her Form B22C expenses ($4,228), which yielded a negative number.
+The court stated, however, that if Ms. Lanning were to pay nothing to the unsecured creditors, she could not formulate a feasible plan that meets the requirements of 1325(a) , which, among other things, requires a showing that "the debtor will be able to make all payments under the plan and to comply with the plan," 11 U.S.C. 1325 (a)(6).
+The court then concluded that "[n]othing prevents debtors from electing to pay more than the statutory means test requires, in order to meet the requirement that a plan must be feasible."
+App. at 131.
+Accordingly, the court agreed to confirm Ms. Lanning's $144-per-month plan provided that it continued for sixty months rather than thirty-six months.
+[fn4] III.
+The BAP Decision The Trustee appealed to the BAP, which affirmed, holding that if "it is shown that Form B22C disposable income fails accurately to predict a debtor's actual ability to fund a plan, that figure may be subject to modification."
+In re Lanning , 380 B.R. at 25 .
+The BAP discussed the judicial camps of thought on the issue, then pointed out that the BAPCPA added a definition of "disposable income" but left unchanged the term "projected disposable income," which had an established meaning under pre-BAPCPA law — essentially Schedule I income minus Schedule J expenses, subject to adjustment if there was reason to believe that those schedules did not accurately predict [**5] a debtor's actual ability to pay.
+The BAP concluded that although the BAPCPA amendments "specify the formula by which to determine a debtor's median standing, as well as the monthly disposable income as of the date of the petition, they give us no reason to believe that Congress intended to eliminate the bankruptcy courts' discretion to deviate from an application of that formula where significant circumstances support doing so." Id. at 24 ; see also id .
+n. 23 (quoting Cohen v. de la Cruz , 523 U.S. 213 , 221 , 118 S.Ct. 1212 , 140 L.Ed.2d 341 (1998), for the proposition that "the Bankruptcy Code should not be read `to erode past bankruptcy practice absent a clear indication that Congress intended such a departure'" (further quotation omitted)).
+The BAP adopted a rebuttable presumption that the Form B22C figures were correct subject to a showing of "a substantial change in circumstances" by way of documentation similar to that required by Chapter 7 debtors under the means test.
+In re Lanning , 380 B.R. at 25 .
+The BAP "emphasize[d] that deviation from the Form B22C determination of disposable income will be the exception rather than the rule."
+Id .
+Unsuccessful before the BAP, the Trustee filed the present appeal.
+Ms. Lanning has not participated in this appeal (and she did not participate in the appeal to the BAP), but the United States and the United States Trustee have filed a combined amicus brief opposing the Trustee's position (as they did before the BAP).
+IV.
+Standard of Review "On appeal from BAP decisions, we independently review the bankruptcy court's decision."
+Lampe v. Williamson (In re Lampe) , 331 F.3d 750 , 753 (10th Cir. 2003).
+The issue in this case is one of statutory interpretation, which is reviewed de novo.
+See Office of Thrift Supervision v. Overland Park Fin. Corp. (In re Overland Park Fin. Corp.) , 236 F.3d 1246 , 1251 (10th Cir. 2001).
+V. BAPCPA Amendments and Interpretive Judicial Decisions The issue to be resolved is whether the "projected disposable income" referred to in 1325(b)(1)(B) is calculated by mechanical application of the definitions of "disposable income" and "current monthly income" set forth in 1325(b)(2) and 101(10A)(A)(i) , respectively, or whether it is permissible to adjust the "monthly disposable income" calculated on Form B22C to account for a debtor's actual ability to fund a plan as of the effective date of the plan.
+"It is well established that when [a] statute's language is plain, the sole function of the courts — at least where the disposition required by the text is not absurd — is to enforce it according to its terms."
+Lamie v. U.S. Trustee , 540 U.S. 526 , 534 , 124 S.Ct. 1023 , 157 L.Ed.2d 1024 (2004) (quotation omitted).
+Here, the statutory language may be plain, but it is unclear in its meaning.
+Thus, before turning to an analysis of the statutory language, we briefly will review the relevant changes Congress made (and did not make) when it enacted the BAPCPA, and then consider a number of judicial decisions representative of the two methods used to calculate "projected disposable income."
+A. BAPCPA Amendments In passing the BAPCPA, Congress left 1325(b)(1)(B) substantially unchanged (for present purposes), the only differences being that the pre-BAPCPA version (1) referred to a "three-year period" rather than the " [**6] applicable commitment period" as the relevant time period over which the debtor's plan must apply "projected disposable income" to plan payments (now three years for below-median debtors and five years for above-median debtors); and (2) required all such "projected disposable income" to be "applied to make payments under the plan," 11 U.S.C. 1325 (b)(1)(B) (2000), rather than, more narrowly now, to make payments to the unsecured creditors.
+Thus, the relevant language of 1325(b)(1)(B) is substantially the same now as it was before passage of the BAPCPA, i.e., that all "projected disposable income to be received in the applicable commitment period .
+.
+.
+will be applied to make payments."
+As the BAP pointed out, the pre-BAPCPA language meant that "projected disposable income" was the difference between a debtor's Schedule I income and her Schedule J expenses, subject to adjustment by the court if there was reason to believe that those schedules "did not accurately predict a debtor's actual ability to pay."
+In re Lanning , 380 B.R. at 24 ; see also In re Nahat , 315 B.R. 368 , 378-79 (Bankr.N.D.Tex.
+2004).
+Next, prior to passage of the BAPCPA, "disposable income" was defined as "income which is received by the debtor and which is not reasonably necessary to be expended" for the debtor's maintenance, support, charitable contributions, and business expenses.
+11 U.S.C. 1325 (b)(2)(A) (2000).
+With the BAPCPA, Congress changed the definition of "disposable income" by tying it to a new term, "current monthly income," 11 U.S.C. 1325 (b)(2), and adding the definition of "current monthly income" that in relevant part, as noted above, looks at the debtor's six-month pre-petition income, id .
+101(10A)(A)(i) .
+Finally, the BAPCPA added a new clause to 1325(b) that, for above-median debtors, requires the use of the standardized expenses and deductions calculated on Form B22C as the "[a]mounts reasonably necessary to be expended" under 1325(b)(2) (with the exception of charitable contributions under (b)(2)(A)(ii) ).
+See id .
+1325(b)(3) .
+With this understanding of the relevant changes to the BAPCPA, we now turn to judicial decisions representative of the two interpretations of post-BAPCPA 1325(b)(1)(B) .
+B. Courts adopting the "forward-looking approach" The first court to address the issue appears to be In re Hardacre , 338 B.R. 718 (Bankr.N.D.Tex.
+2006).
+[fn5] In Hardacre , the court expressed concern about the consequences when "current monthly income" derived from Form B22C is used as the sole determinant of the "income" side of the "projected disposable income" calculation.
+Id .
+at 722.
+The court reasoned that a debtor expecting a significant increase in future income would file as quickly as possible, resulting in the commitment of less money to repay unsecured creditors than the debtor would actually be capable of paying during the commitment period.
+Id .
+Conversely, the court observed that a debtor who experiences a decrease in income after filing might not be able to confirm a plan because she would be unable to commit the amount of disposable income calculated on Form B22C.
+Id .
+The Hardacre court offered three justifications in support of its conclusion that "`projected disposable income' must be based upon the debtor's anticipated income [**7] during the term of the plan, not merely an average of her prepetition income."
+Id. First, noting the rule of statutory construction that requires a court "to presume that `Congress acts intentionally when it includes particular language in one section of a statute but omits it in another,'" the court reasoned that "Congress must have intended `projected disposable income' to be different than `disposable income'" when it chose to define only the latter term.
+Id. at 723 (quoting BFP v. Resolution Trust Corp. , 511 U.S. 531 , 537 , 114 S.Ct. 1757 , 128 L.Ed.2d 556 (1994)).
+Second, the court viewed the phrase "to be received" in 1325(b)(1)(B) as an expression of congressional intent "to refer to the income actually to be received by the debtor during the commitment period, rather than the prepetition average income"; an alternative interpretation, the court said, would render "to be received" superfluous.
+Id .
+And third, the court considered 1325(b)(1) 's prefatory language — "as of the effective date of the plan" — to be an indication that "`projected disposable income' .
+.
+.
+refers to income that a debtor reasonably expects to receive during the term of her plan."
+Id .
+A number of other courts, including one circuit court recently, have applied Hardacre 's reasoning in adopting the forward-looking approach.
+See, e.g., Coop v. Frederickson (In re Frederickson) , 545 F.3d 652 , 2008 WL 4693132 (8th Cir. 2008); Hildebrand v. Petro (In re Petro) , 395 B.R. 369 (6th Cir. BAP 2008); Kibbe v. Sumski (In re Kibbe) , 361 B.R. 302 (1st Cir.BAP2007) (per curiam); In re Watson , 366 B.R. 523 (Bankr.D.Md.
+2007); In re Pak , 357 B.R. 549 (Bankr.N.D.Cal.
+2006), aff'd , 378 B.R. 257 (9th Cir.BAP2007), abrogated by Maney v. Kagenveama (In re Kagenveama) , 541 F.3d 868 (9th Cir. 2008); In re Grady , 343 B.R. 747 (Bankr.N.D.Ga.
+2006); and In re Joss , 340 B.R. 411 (Bankr.D.Utah 2006).
+Most courts applying this approach view Form B22C as presumptively correct regarding income.
+[fn6] C. Courts adopting the mechanical approach To date, only one circuit court (other than a BAP) has adopted the mechanical approach.
+See Maney v. Kagenveama (In re Kagenveama) , 541 F.3d 868 (9th Cir. 2008).
+There the court reasoned: The substitution of any data not covered by the 1325(b)(2) definition in the "projected disposable income" calculation would render as surplusage the definition of "disposable income" found in 1325(b)(2) .
+There can be no reason for 1325(b)(2) to exist other than to define the term "disposable income" as used in 1325(b)(1)(B) .
+"If `disposable income' is not linked to `projected disposable income' then it is just a floating definition with no apparent purpose."
+In re Alexander , 344 B.R. 742 , 749 (Bankr.E.D.N.C.
+2006).
+The plain meaning of the word "projected," in and of itself, does not provide a basis for including other data in the calculation because "projected" is simply a modifier of the defined term "disposable income."
+Therefore, to give meaning to every word of 1325(b) , "disposable income," as defined in 1325(b)(2) , must be "projected" in order to derive "projected disposable income."
+Id. at 872-73 .
+Regarding the pre-BAPCPA treatment of "projected disposable income," the court concluded that [a]ny change in how "projected disposable income" is calculated only reflects the changes dictated by the new "disposable income" calculation; it does not change the relationship of "projected disposable income" to "disposable income."
+Pre-BAPCPA, " [**8] projected disposable income" was determined by taking the debtor's "disposable income," under 1325(b)(2)(A) & (B), and projecting that amount over the "applicable commitment period."
+Id. at 873 (footnote omitted).
+The court refused to "read the word `projected' to be synonymous with the word `anticipated' in this context."
+Id. at 874 .
+In addition to Kagenveama , a number of bankruptcy courts have adopted the mechanical approach.
+See, e.g., In re Austin , 372 B.R. 668 (Bankr.D.Vt.
+2007); In re Kolb , 366 B.R. 802 (Bankr.S.D.Ohio 2007); In re Hanks , 362 B.R. 494 (Bankr.D.Utah 2007); In re Miller , 361 B.R. 224 (Bankr. N.D.Ala.
+2007); In re Tranmer , 355 B.R. 234 (Bankr.D.Mont.
+2006); In re Alexander , 344 B.R. 742 (Bankr.E.D.N.C.
+2006); and In re Barr , 341 B.R. 181 , 185 (Bankr. M.D.N.C.
+2006).
+Three of these cases, In re Alexander, In re Hanks , and In re Austin , discuss matters of particular note.
+In In re Alexander , the court observed that Congress elected to adopt the redefinition of "disposable income" in 1325(b)(2) as written despite the warnings of Chapter 13 trustees that strict use of the Form B22C formula would lead to an anomalous result in some cases, namely, that some above-median debtors would pay less than they would prior to BAPCPA.
+344 B.R. at 747 .
+The trustees apparently asked that deducting expenses from "current monthly income" result in a minimum — not a maximum — for repayment to unsecured creditors.
+See id .
+The Alexander court reasoned that the legislature's nonresponse to this concern supported a presumption of legislative awareness and intent regarding the consequences of the language with respect to making debtors pay what they can and preventing abuse.
+Id. at 748 .
+In the second case of note, In re Hanks , the court followed In re Alexander , concluding that under the BAPCPA, the "new function" of the word "projected" in 1325(b)(1)(B) "is solely to multiply the net `disposable income' figure as calculated on Form B22C by the applicable commitment period.
+No more, no less."
+362 B.R. at 499 .
+Hanks viewed the interpretation given to the statute by the majority line of cases to mean that post-BAPCPA, nothing had changed with regard to the calculation of "projected disposable income."
+Id .
+Alternately, the court opined that the word "projected" could be deleted as surplusage because it is repugnant to the rest of the BAPCPA.
+Id .
+Hanks also rejected policy arguments the majority camp has relied on, such as affording bankruptcy protection and a fresh start to debtors who voluntarily and in good faith seek to repay creditors with money they have on hand.
+Id. at 500 .
+The court pointed to competing policies that might have informed Congress's choice of language: It is not at all clear that Congress did not actually intend to keep people out of bankruptcy altogether if possible or perhaps to push them into individual chapter 11 cases, nor is it clear that a "fresh start" is still the overriding policy of the portions of the Bankruptcy Code at issue in this case.
+Perhaps the concept of current monthly income is an expression of Congress' intent that debtors should attempt to resolve their financial difficulties outside of bankruptcy for a period of time before filing.
+Indeed, this view would jibe with the new prepetition briefing requirement [**9] in [11 U.S.C.] 109(h)(1) that contemplates meaningful credit counseling and the performance of budget analyses within six months of filing as well as the requirement in [11 U.S.C.] 521(b)(2) that the debtor file a copy of any debt repayment plan developed during the prepetition counseling session.
+In re Hanks , 362 B.R. at 500 .
+The court found "statements such as the one in the Purpose and Summary section of the BAPCPA House Report expressing the view that the means testing mechanism `is intended to ensure that debtors repay creditors the maximum they can afford[,]' H.R.
+109-031, Part I, Bankruptcy Abuse Prevention and Consumer Protection Act of 2005," to be "insufficient to overcome both the plain language of the statute and the statements' apparent conflict with other policies at play in the BAPCPA."
+Id. at 500 n. 23.
+The Chapter 13 Trustee quotes at length from the third case of note, In re Austin , where the debtors' Form B22C "monthly disposable income" was negative but their I-minus-J calculation left some excess income.
+The relevant point made in Austin is that, in the BAPCPA, Congress declared that the historical income data from the six months prior to the filing of the bankruptcy petition is a more reliable indicator of a debtor's future financial situation than the income on the day the debtor filed for bankruptcy relief, and has directed courts to adjust their starting point for analyzing Chapter 13 plans accordingly.
+372 B.R. at 679 .
+If this statement is accurate, then an obvious problem arises in cases like Ms. Lanning's, where the factual circumstances differ: despite the view under Austin that Ms. Lanning's prepetition income is a more reliable indicator of her future financial situation, and hence would lead one to believe that she would be capable of paying her Form B22C disposable income to unsecured creditors, she cannot get her plan confirmed because she cannot show that she "will be able to make all payments under the plan and to comply with the plan," as required for confirmation by 11 U.S.C. 1325 (a)(6).
+VI.
+Analysis As is evident from the foregoing discussion, each interpretation of the statutory language is not without problems.
+The difficulty with the forward-looking approach is that it renders the new definition of "disposable income," with its link to historic "current monthly income," nearly meaningless unless one reads a presumption into the statute — that the defined term "disposable income" is just the starting point — which can be rebutted by showing a substantial change in circumstances bearing on how much the debtor realistically can commit to repayment of unsecured creditors as of the effective date of the plan.
+This was the solution reached in the present case.
+It is compatible with the statutory language of 1325(b)(1)(B) , the new definition of disposable income, and the use of the means test to standardize an above-median Chapter 13 debtor's expenses, but requires a certain disregard of the notion that Congress knows how to create a presumption when it intends one, see In re Kagenveama , 541 F.3d at 874 .
+The main problem with the analysis in decisions adopting the mechanical [**10] approach is that little heed is given to three statutory phrases: "as of the effective date of the plan," 11 U.S.C. 1325 (b); "to be received in the applicable commitment period," id .
+1325(b)(1)(B) ; and "will be applied to make payments," id .
+"[A] cardinal principle of statutory construction [is] that a statute ought, upon the whole, to be so construed that, if it can be prevented, no clause, sentence, or word shall be superfluous, void, or insignificant."
+TRW Inc. v. Andrews , 534 U.S. 19 , 31 , 122 S.Ct. 441 , 151 L.Ed.2d 339 (2001) (quotation omitted).
+We think that these textual problems, discussed below, outweigh the concern about implying a presumption.
+Under 1325 (b)(1)(B) , a bankruptcy court may not approve a Chapter 13 plan over objection unless " as of the effective date of the plan " the plan "provides that all of the debtor's projected disposable income to be received in the applicable commitment period beginning on the date that the first payment is due under the plan will be applied to make payments to unsecured creditors under the plan."
+(Emphasis added.)
+The first emphasized phrase, "as of the effective date of the plan," indicates that the court should determine, at that time, whether the plan meets the remaining requirements of subparagraph (b)(1)(B).
+The term "effective date" is not defined in the Bankruptcy Code, but for purposes of 1325(b)(1) , "the most logical interpretation .
+.
+.
+is the date of plan confirmation, as a chapter 13 plan is not binding on the debtor and other interested parties until it is confirmed."
+In re Pak , 378 B.R. at 265 (relying on 11 U.S.C. 1327 (a)), abrogated on other grounds by In re Kagenveama , 541 F.3d 868 .
+The date of plan confirmation is practically certain to be later than the date on which the petition is filed, and it is the filing date that starts the backward-looking assessment of "current monthly income."
+Thus, determining whether or not a debtor has committed all projected disposable income to repayment of the unsecured creditors "as of the effective date of the plan" suggests consideration of the debtor's actual financial circumstances as of the effective date of the plan.
+In turn, the remaining statutory requirements are subject to conflicting interpretations.
+As viewed by mechanical-approach courts, "projected" could mean that a plan simply must project the Form B22C disposable income over the applicable commitment period to determine the amount that "will be applied to make payments" to the unsecured creditors.
+See, e.g., In re Kagenveama , 541 F.3d at 872-73 ; In re Hanks , 362 B.R. at 499 .
+Alternately, under the forward-looking approach, "projected" links "disposable income" and "to be received in the applicable commitment period," requiring the debtor to commit all "disposable income" (as defined by 1325(b)(2) and its reliance on the definition of "current monthly income") that is "projected .
+.
+.
+to be received in the applicable commitment period."
+Under this reading, the debtor's actual circumstances at the time of plan confirmation are taken into account in order to "project" (in other words, to "forecast") how much income the debtor will actually receive during the commitment period, which, after deducting permitted expenses, then "will be applied to make payments" to the unsecured creditors, [**11] as the statute requires.
+The second reading, i.e., the forward-looking approach, strikes us as the better one.
+As the Hardacre court said, Congress defined "disposable income," not "projected disposable income," meaning that "Congress must have intended `projected disposable income' to be different than `disposable income'" when it chose to define only the latter term for purposes of 1325(b) .
+In re Hardacre , 338 B.R. at 723 .
+Unlike the Ninth Circuit in Kagenveama , we do not think the forward-looking approach leaves the definition of "disposable income" floating with no apparent purpose.
+Through its reliance on the statutory definition of "current monthly income," the definition of "disposable income" serves to "describe[] the sources of revenue that constitute income, as well as those that do not."
+In re Hardacre , 338 B.R. at 723 .
+Also, the forward-looking approach gives effect to the phrase "to be received in the applicable commitment period," which otherwise would be rendered superfluous.
+Under the mechanical approach, the amount "to be received in the applicable commitment period" would be a fiction if, as of the effective date of the plan, the debtor had no realistic expectation of earning enough to produce the amount of "disposable income" calculated on Form B22C.
+Furthermore, such a debtor could not get the plan confirmed due to infeasibility.
+See id .
+1325(a)(6) .
+This undermines the importance given to historical income as a "better" predictor of "projected disposable income" in In re Austin , 372 B.R. at 679 .
+[fn7] In addition, language used on Form B22C supports the forward-looking approach.
+Part VI of Form B22C is titled "Determination of Disposable Income Under 1325(b)(2) ."
+App. at 43.
+Similarly, the last line in Part VI of the form is termed "Monthly Disposable Income Under 1325(b)(2) ."
+Id .
+Although the form is subservient to the statute, see In re Pak , 378 B.R. at 271 (concurring opinion), abrogated on other grounds by In re Kagenveama , 541 F.3d 868 , the absence of the word "projected" and any reference to the phrase "projected disposable income" are consistent with the forward-looking approach.
+[fn8] Legislative materials are of limited assistance in trying to divine the intent of Congress when it defined "disposable income" rather than "projected disposable income."
+Perhaps the best statement of the overarching purpose of the consumer aspects of the BAPCPA comes from a House Report issued by the Committee on the Judiciary just prior to enactment of the bill: "The heart of [BAPCPA's] consumer bankruptcy reforms consists of the implementation of an income/expense screening mechanism (`needs-based bankruptcy relief or `means-testing'), which is intended to ensure that debtors repay creditors the maximum they can afford."
+H.R.
+Rep.
+No. 109-31, pt.
+1, at 2 (2005), reprinted in 2005 U.S.C.C.A.N.
+88, 89.
+Commenting on this statement, one bankruptcy court has pointed out that "[t]he words `maximum' and `afford' tell the story.
+Congress intended that debtors pay the greatest amount within their capabilities.
+Nothing more; nothing less."
+In re Kibbe , 361 B.R. at 314 .
+While the statement in the House Report is exceedingly general for our purposes and expresses the view only of the members [**12] of the Judiciary Committee, it is consistent with the forward-looking approach, which assists a Chapter 13 debtor to propose a confirmable plan and repay creditors the maximum she can afford — no more and no less.
+Other courts that have examined congressional intent when confronted with the issue we face have found nothing more definitive.
+For example, one court applying the mechanical approach has posited that by standardizing income and most expenses to be used in the means test, and in applying the means test to Chapter 13, it may be that Congress intended to limit the judicial discretion historically exercised in determining what was or was not income or a necessary and reasonable expense under the pre-BAPCPA standard, and to make uniform the often disparate results that the courts had reached regarding the fact of a debtor's ability to pay as well as the amount a debtor could pay.
+In re Kolb , 366 B.R. at 817-18 .
+The inference of congressional intent drawn in In re Alexander concerning the apparently unheeded warnings chapter 13 trustees gave to Congress — that Congress adopted the definition of "disposable income" knowing that it might let some Chapter 13 debtors off easy, 344 B.R. at 747 — is one other possible inference.
+But as the U.S. Trustee points out, "[f]or all anyone knows, Congress may have believed that chapter 13 trustees were mistaken and that section 1325 actually would allow bankruptcy courts to do precisely what the chapter 13 trustees thought it would not."
+Amicus Br. at 24.
+Moreover, when an above-median debtor has Form B22C disposable income under the means test, she will not qualify for Chapter 7 protection.
+But when that debtor seeks Chapter 13 protection and no longer earns her prepetition income, she will be unable to confirm a plan over objection if bound to historical income and the mechanical approach to 1325(b)(1)(B) .
+If, as stated in In re Hanks , 362 B.R. at 500 , Congress may have intended that such a debtor then could seek Chapter 11 protection, it appears the debtor would encounter the same bar to confirmation due to the application of the definition of "disposable income" in 11 U.S.C. 1129 (a)(15)(B) noted above.
+Alternately, it could be that Congress intended to foreclose bankruptcy protection to such debtors altogether, but there is no obvious support for attributing such intent to Congress.
+Finally, we note that the mechanical approach advocated by the Trustee would effectively foreclose bankruptcy protection to debtors like Ms. Lanning, who lack adequate income going into the commitment period to pay the amount of disposable income on Form B22C, while at the same time permitting above-median debtors who have greater income at the time of plan confirmation to pay less to unsecured creditors than they are able to.
+While the latter situation could be rectified by post-confirmation modification of the plan under 11 U.S.C. 1329 , the former situation cannot be addressed in this manner because the plan would be infeasible and therefore unconfirmable in the first place.
+A Chapter 13 debtor may modify the plan prior to confirmation under 11 U.S.C. 1323 (a), but any effort by the debtor [**13] to deviate from Form B22C "disposable income" through pre-confirmation modification begs the question of whether the forward-looking approach is proper or not.
+VII.
+Conclusion For the foregoing reasons, we hold that, as to the income side of the 1325(b)(1)(B) inquiry, the starting point for calculating a Chapter 13 debtor's "projected disposable income" is presumed to be the debtor's "current monthly income," as defined in 11 U.S.C. 101 (10A)(A)(i), subject to a showing of a substantial change in circumstances.
+We have not been asked to determine whether the change in Ms. Lanning's particular circumstances was substantial, and we leave it to the bankruptcy courts to determine whether an adequate showing of changed circumstances has been made in each particular case. The judgment of the BAP is AFFIRMED.

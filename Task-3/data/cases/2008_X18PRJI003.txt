@@ -1,0 +1,415 @@
+ HOWARD, Circuit Judge.
+Defendants-appellants Shell Oil Company, Shell Oil Products Company (collectively, "Shell"), and Motiva Enterprises appeal jury verdicts against them on several claims relating to their treatment of plaintiffs-appellees (the "Dealers"), franchisees and operators of Shell-branded service stations.
+Shell and Motiva (together, "the defendants") challenge the legal basis for verdicts against them under a federal statute designed to protect franchisees, as well as the verdicts under Massachusetts state law.
+Additionally, they appeal the jury's damages determinations as without sufficient basis in the evidence.
+We affirm in part and reverse in part.
+Facts We recite the facts in the light most favorable to the jury's verdict.
+See Rodriguez-Torres v. Caribbean Forms Mfr., Inc. , 399 F.3d 52 , 56 (1st Cir. 2005).
+Shell maintained a network of franchisees in Massachusetts.
+Plaintiffs were eight of these franchisees.
+In 1998, Shell, Texaco, and Star Enterprises formed defendant Motiva, and Shell transferred the franchise relationships to that entity, assigning its rights and duties under the relevant contracts to Motiva.
+[fn1] Shortly thereafter, Motiva replaced the Variable Rent Program ("VRP") with the Special Temporary Incentive Program ("STIP").
+Each of these programs (collectively, the "Subsidy") provided for reduction of the contract rent through sales of gasoline; once the specified threshold gallonage was sold in a given month, the contract rent for the next month would be discounted by a certain amount for every gallon sold in excess of that threshold.
+The threshold amount and the discount amount changed from time to time.
+The Subsidy had been in effect since 1982; it was renewed in an annual notice [**2] to franchisees, although its terms explicitly provided for cancellation with thirty days' notice.
+Various representations were made to the Dealers to the effect that the Subsidy or something like it would always exist, the contract rent was to be disregarded, and the cancellation provision was only intended to be invoked in a situation like a war or an oil embargo.
+Nevertheless, having given the required notice, Motiva ended the STIP on January 1, 2000, terminating the Subsidy.
+Without the Subsidy, the Dealers paid much more rent.
+Motiva also offered new leases as the old leases expired.
+The new leases calculated rent differently than the old leases, resulting in a further increase in rent.
+In accordance with their fuel supply contracts, the Dealers were charged a wholesale price for gasoline known as the Dealer Tank Wagon price (the "DTW price").
+The fuel supply contracts were open price term contracts: the contracts were silent as to price, and one party set the price unilaterally.
+This price was set by the defendants, who calculated it by assessing the street prices of other competing gasoline stations in the area, and reducing those prices by the taxes levied on gasoline and an Estimated Industry Margin to approximate the wholesale price of the defendants' competitors.
+Proceedings Below Several franchisees, along with an unincorporated association called the Shell Dealers Defense Group (the "Defense Group"), filed for injunctive and declaratory relief as well as damages on June 6, 2000.
+Compl., Tsaniklides v. Shell Oil Products Co. , 00-CV-11295.
+When the Defense Group was found to lack standing, a motion was made to add its members as individual plaintiffs.
+In denying that motion the district court indicated in a margin order, "[P]laintiffs may file a new case which may be deemed to be related."
+The individual franchisees filed a new suit on July 27, 2001, and the original suit was voluntarily dismissed on August 10.
+The new suit was assigned to the same district judge.
+The cases of New Hampshire and Rhode Island plaintiffs in the new action were transferred to those districts.
+From the sixty-four Massachusetts plaintiffs in the new suit, ten plaintiffs were chosen to go forward.
+One of those settled on the eve of trial and another lost at summary judgment.
+One plaintiff of the remaining eight, Mac's Shell Service, Inc., operated two stations that were sometimes treated as separate plaintiffs.
+Therefore, eight plaintiffs representing nine stations proceeded to trial.
+The Dealers sued under a variety of theories.
+First, they contended that the Subsidy had been incorporated into the property leases, although the written leases purported to be integrated contracts under Massachusetts law.
+They claimed the amended contracts were then breached when Motiva eliminated the Subsidy.
+Under the Dealers' theory, this breach gave rise to two distinct claims: a state cause of action for breach of contract and a claim under the PMPA that Shell had improperly terminated the franchises when Shell assigned the franchise agreements [**3] to Motiva and Motiva terminated the Subsidy.
+Because no actual termination occurred, the Dealers proceeded under a theory of "constructive termination."
+Similarly, they claimed Motiva had "constructively nonrenewed" the franchise relationships in violation of the PMPA (even though the franchises were in fact renewed) because the new contracts changed the rent-calculation method and increased the rent, along with other objectionable changes.
+Finally, the Dealers argued that Motiva failed to set prices for gasoline in good faith, as required for open price term contracts under Massachusetts law.
+The defendants unsuccessfully moved for dismissal on all constructive termination claims and the constructive nonrenewal claims of two plaintiffs on the ground that they were time-barred.
+They also moved for a judgment as a matter of law on all claims.
+Following a jury verdict against them on all claims, they properly renewed this motion.
+They moved as well for a new trial and to set aside the jury's damages awards.
+The defendants now appeal the denial of all of these motions.
+The PMPA Congress enacted Title I of the PMPA to "remedy the disparity in bargaining power between franchisors and franchisees."
+S.Rep.
+No. 95-731, 95th Cong., 2d Sess.
+18, 1978 U.S.
+Code Cong. & Admin.News 873, 876; see also Four Corners Serv. Station v. Mobil Oil Corp. , 51 F.3d 306 , 310 (1st Cir. 1995).
+Because franchisees claimed that this unequal power was often wielded through arbitrary or discriminatory termination or nonrenewal, or threats of termination or nonrenewal, the PMPA aimed to remove this potent weapon from the franchisors' arsenal.
+S.Rep.
+No. 95-731, at 17, 1978 U.S.
+Code Cong. & Admin.News at 876 ("Numerous allegations have been made before Congressional committees investigating petroleum marketing problems that terminations and non-renewals, or threats of termination or non-renewal, have been used by franchisors to compel franchisees to comply with marketing policies of the franchisor.
+"); id. at 18 , 1978 U.S.
+Code Cong. & Admin.News at 876 ("[T]ermination of franchise agreements during the term as a remedy for contract violations has been repeatedly utilized.").
+The "PMPA attempts to level the playing field by restricting the grounds upon which a franchisor can assert a unilateral termination or nonrenewal of a franchise."
+Id .
+[fn2] The PMPA makes a distinction between a "franchise" and the "franchise relationship."
+The franchise is a set of definite agreements for 1) lease of the premises, 2) the right to purchase gasoline for resale, and 3) the right to use the franchisor's trademark.
+15 U.S.C. 2801 (1).
+"Franchise relationship" refers to the respective obligations of the franchisor and franchisee created by a franchise.
+Id. 2801(2) .
+The legislative history of the PMPA makes clear that "franchise" and "franchise relationship" were distinguished to drive home the fact that the franchise relationship survives the expiration of the agreements underlying the franchise.
+See S.Rep.
+No. 95-731, 95th Cong., 2d Sess.
+30, 1978 U.S.
+Code Cong. & Admin.News at 888 ("The term `franchise relationship' is utilized to avoid any contention that because [**4] the `franchise' does not exist there is nothing to renew.").
+The structure and history of the PMPA emphasize Congress's view that the franchisees have a reasonable expectation that the franchises would be renewed and that the relationships would continue.
+Accordingly, the PMPA forbids termination of a franchise or nonrenewal of a franchise relationship except under enumerated circumstances and with proper notice.
+See 15 U.S.C 2802 (a) (nonrenewals and terminations generally prohibited); id. 2802(b)(2)-(3) (grounds for termination and non-renewal); id. 2804 (notice requirements).
+The PMPA provides a cause of action to franchisees who suffer termination or nonrenewal in violation of the relevant sections.
+Id. 2805(a) .
+As long as the action is brought within one year of the termination or nonrenewal complained of, id. 2805(a)(1) , the franchisee may seek preliminary injunctive relief, id. 2805(b)(2) , damages, id. 2805(d) , and "such equitable relief as the court determines is necessary," id. 2805(b)(1) .
+The PMPA mandates that preliminary relief "shall" be granted if the plaintiff shows 1) termination or nonrenewal and 2) "sufficiently serious questions going to the merits" that are "a fair ground for litigation," and the court determines 3) that the balance of hardships tips in favor of granting the injunction.
+Id. 2805(b)(2) .
+In all private civil actions for termination or non-renewal, it is the franchisee's burden to show termination or lack of renewal.
+Id. 2805(c).
+Standard of Review We review the denial of judgment as a matter of law de novo as to issues of law.
+See Rodriguez-Torres , 399 F.3d at 57 .
+As to matters of fact, we view the evidence in the light most favorable to the verdict, asking only whether a rational jury could on the basis of that evidence find as the jury has.
+See id .
+We review a denial of a motion for a new trial for "a manifest abuse of discretion."
+United States v. George , 448 F.3d 96 , 101 (1st Cir. 2006).
+We "will order a new trial only if the verdict is against the demonstrable weight of the credible evidence or results in a blatant miscarriage of justice."
+Whitfield v. Melendez-Rivera , 431 F.3d 1 , 9 (1st Cir. 2005) (internal quotation omitted).
+We will uphold a jury award if it is a result of "any rational appraisal or estimate of the damages that could be based on the evidence before the jury."
+Data Gen. Corp. v. Grumman Sys.
+Support Corp. , 36 F.3d 1147 , 1172 (1st Cir. 1994) (quoting Anthony v. G.M.D.
+Airline Sens.
+, 17 F.3d 490 , 493 (1st Cir. 1994)).
+Because it is complex and requires some procedural background, we discuss the applicable standard of review for the statute of limitations claim within the discussion of that issue.
+Statute of Limitations The PMPA contains a one-year statute of limitations.
+[fn3] The district court found, and the defendants here do not contest, that the cause of action for constructive termination arose on January 1, 2000, when Motiva terminated the Subsidy.
+The defendants claim that all of the constructive termination claims are time-barred because this action was not filed until almost nineteen months later, on July 27, 2001.
+[fn4] The Dealers point out that in dismissing their motion to be added as plaintiffs to the old action, the district court gave them leave to file a new action "which may be deemed to be related" to the original complaint, [**5] and that the first action was not dismissed until after the second was filed.
+The defendants filed a motion to dismiss for failure to state a claim on which relief might be granted, citing the lapse of time and the PMPA's statute of limitations.
+This motion was denied.
+[fn5] Our review of the record indicates that the district court denied the motion to add the individual plaintiffs only because it granted the plaintiffs a right to file a new action that related back.
+We further conclude that had the district court allowed the motion to amend, the amended pleading would have related back under Federal Rule of Civil Procedure 15 .
+In the light of this, two powerful reasons lead us to uphold the district court's resolution of this issue: first, all the purposes of Rule 15(c) are satisfied, if not its letter; and second, the district court was in a better position when it placed the case in this posture than we are now to assess whether the interests of justice are served by permitting this relation back.
+[fn6] Federal Rule of Civil Procedure 15 (c) provides that an amended pleading may be deemed to "relate back" for statute of limitations purposes to the date of the pleading if certain conditions are met.
+The defendants rightly point out that Rule 15 concerns amended pleadings, not new pleadings in separate actions. "
+Rule 15(c) simply does not apply where, as here, the party bringing suit did not seek to `amend' or `supplement' his original pleading, but, rather, opted to file an entirely new [action] at a subsequent date."
+Neverson v. Bissonnette , 261 F.3d 120 , 126 (1st Cir. 2001) (noting that a dismissal without prejudice leaves the plaintiff "in the same situation as if [the] first suit had never been filed" for purposes of Rule 15(c) ).
+We note that this case differs from Neverson in that here the dismissal of the previous action did not occur until after the new pleading was filed, and we note further that the district court expressly suggested a new action be filed at the very moment it denied leave to amend the complaint in the first action.
+Acknowledging that the letter of Rule 15 is not met here, we conclude that the rule nonetheless does provide some guidance.
+Rule 15(c) is "intimately connected with the policy of the statute of limitations."
+Fed.R.Civ.P. 15 (c), advisory committee note.
+The purpose of statutes of limitations is to avoid the difficulties inherent in litigating matters long past, and to provide repose to potential defendants regarding such matters.
+See Nelson v. County of Allegheny , 60 F.3d 1010 , 1014 (3d Cir. 1995) ("Statutes of limitations ensure that defendants are protected against the prejudice of having to defend against stale claims, as well as the notion that, at some point, claims should be laid to rest so that security and stability can be restored to human affairs.")
+(internal quotation omitted).
+The defendants at no time could have expected or enjoyed repose regarding these matters.
+The denial of the motion to add the specific Dealers to the original litigation was accompanied in the same breath by notice that a new complaint might be filed under the same facts.
+This occurred in a timely fashion.
+And the first litigation was not dismissed [**6] until after the second one was filed.
+No evidence of sandbagging was brought forward, nor do we infer any prejudice to the defendants on this record.
+[fn7] Here, the Dealers had sought to vindicate their rights as the Defense Group, but lacked standing in that guise.
+In denying a motion to add the plaintiffs to the original litigation, the district court indicated it would allow a new filing to relate back to the date of the old one.
+It seems clear that the district court could instead have allowed the pleadings to be amended to name the plaintiffs individually.
+While we cannot say with certainty why one course of action was to be preferred over another, we are confident that the district court did not abuse its discretion.
+Rule 15(c) does not specifically contemplate the substitution of plaintiffs.
+See Fed.R.Civ.P. 15 (c), advisory committee note ("The relation back of amendments changing plaintiffs is not expressly treated in revised Rule 15(c) , since the problem is generally easier.").
+But this is not a bar to relation back here either; assuming that the general principles of Rule 15 are to govern this admittedly unusual situation, we find that substituting plaintiffs here wreaks no injustice.
+[W]e have laid down three separate requirements applicable to plaintiffs who seek succor under Rule 15(c)(3) : The amended complaint must arise out of the conduct, transaction, or occurrence set forth or attempted to be set forth in the original pleading; there must be a sufficient identity of interest between the new plaintiff, the old plaintiff, and their respective claims so that the defendants can be said to have been given fair notice of the latecomer's claim against them; and undue prejudice must be absent.
+Young v. Lepone , 305 F.3d 1 , 14 (1st Cir. 2002) (quoting Allied Int'l v. International Longshoremen's Ass'n , 814 F.2d 32 , 35-36 (1st Cir. 1987)).
+Accepting, as the district court did, that the Dealers were members of the Defense Group, [fn8] these factors are met here.
+The district court's factual conclusion does not represent an abuse of discretion, and so we adopt it.
+The original complaint states the same causes of action, arising from the same events, as the new complaint.
+The Dealers have always claimed that they were all members of the Defense Group.
+That organization was established only to assert its members' rights and protect their interests, and so we find sufficient identity of interest to put the defendants on notice of the claims against them.
+And there is no undue prejudice where the Dealers are simply asserting themselves a claim they had made through a proxy well within the statute of limitations.
+Had the motion to amend been granted, and the individual plaintiffs named, relation back would have been within the district court's discretion.
+The district court, then, properly allowed the relation back of the new case to the previous one, and therefore did not err when it denied the motion to dismiss.
+[fn9] State Contract Claim The defendants appeal the jury's determination that the leases were orally amended to include the Subsidy, and therefore when the Subsidy was ended, the leases were breached.
+First, the defendants [**7] contend that the leases were completely integrated, meaning oral representations before or during the execution of the contract must be excluded by the parol evidence rule.
+Second, they claim that even if the leases were not integrated, the jury had insufficient evidence to conclude that the leases were amended to include a promise to continue the Subsidy.
+The defendants argue as an initial matter that the leases were completely integrated agreements.
+The leases indisputably represented that they were integrated agreements and that any subsequent modification had to be in writing.
+The defendants claim the integration clause operated to insulate the leases from oral representations made prior to or contemporaneous with execution.
+But a document is not integrated merely because it says so. See Restatement (Second) of Contracts 209 cmt. b (1981) ("Written contracts, signed by both parties, may include an explicit declaration that there are no other agreements between the parties, but such a declaration may not be conclusive.").
+In Massachusetts, "the question of integration is one of fact reserved for the trial judge, whose resolution of that issue will not be reversed unless clearly erroneous."
+Cambridgeport Sav. Bank v. Boersner , 413 Mass. 432 , 436 n. 7, 597 N.E.2d 1017 (1992); Antonellis v. Northgate Constr. Corp. , 362 Mass. 847 , 850-51 , 291 N.E.2d 626 (1973) (even absent specific evaluation of evidence by trial judge, finding of non-integration upheld as not clearly erroneous); Alexander v. Snell , 12 Mass.App.Ct.
+323 , 424 N.E.2d 262 , 264 (1981); accord Brennan v. Carvel Corp. , 929 F.2d 801 , 807 (1st Cir. 1991) ("[U]nder Massachusetts law, the determination of whether a contract is completely or partially integrated, or whether a second contract is collateral to an integrated agreement, is a question of fact to be decided in the first instance by the trial judge.").
+[fn10] Here, the district court did not make a specific finding about integration, but the charge to the jury on amendments compels the inference that the agreements were not integrated.
+The jury was instructed to consider what the parties said and did concerning the lease; because the instruction did not exclude actions prior to or contemporaneous with the execution of the written lease, the district court must have concluded that the lease was not an integrated agreement.
+After review of the record, we cannot say that this determination was clear error.
+The Subsidy was explained to each plaintiff in documents accompanying the lease, and many plaintiffs testified they regarded the Subsidy as essential to their businesses.
+There was evidence that the defendants said that the Subsidy was intended to be permanent, that the 30-day-notice provision was only in place for cases of war or embargo, and that the Dealers could rely on the continuation of the Subsidy or something like it.
+The district court therefore had ample evidence before it to determine that the lease was not an integrated agreement.
+Because the leases were not integrated, they could be varied by mutual agreement.
+"Mutual agreement on modification of the requirement of a writing may .
+.
+.
+be inferred from the conduct of the parties and [**8] from the attendant circumstances."
+First Pa. Mortg. Trust v. Dorchester Sav. Bank , 395 Mass. 614 , 625 , 481 N.E.2d 1132 (1985) (internal quotation omitted).
+The defendants assert that the evidence was insufficient to allow the jury to decide, as it did, that a promise to continue the Subsidy was incorporated into the leases.
+The district court instructed the jury: "[Y]ou may consider what each one said, one to the other, how they behave[d], what each did, what each knew and what the circumstances were .
+.
+.
+then you may infer .
+.
+.
+from their statements and their conduct .
+.
+.
+whether both Shell and each plaintiff agreed to amend the leases."
+Evidence adduced at trial included not only representations made directly to the Dealers that the Subsidy or something like it would always be available, but also internal Shell documentation indicating that the Subsidy was intended to be permanent, that franchisees should plan their businesses around the continued availability of the Subsidy, and that franchisees would understand the loss of the Subsidy to be a breach of a promise by Shell.
+A rational jury viewing this evidence might come to the conclusion that the leases were amended to include the Subsidy.
+Constructive Termination The Dealers claimed that when Motiva breached their leases by eliminating the Subsidy, that breach perfected a constructive termination by Shell.
+The PMPA allows assignment of duties in franchise agreements in accordance with state law.
+See 15 U.S.C. 2806 (b).
+But an assignment that is violative of state law, or one that results in a breach of one of the statutory components of a franchise, gives rise to a claim under the PMPA against the original franchisor/assignor.
+In the words of the Fourth Circuit, "A franchisor cannot circumvent the protections the [PMPA] affords a franchisee by the simple expedient of assigning the franchisor's obligation to an assignee who increases the franchisee's burden.
+.
+.
+."
+Barnes v. Gulf Oil Corp. , 795 F.2d 358 , 362 (4th Cir. 1986) (reversing summary judgment and holding that where assignee breaches franchise agreement, action will lie against franchisor/assignor).
+In Chestnut Hill Gulf v. Cumberland Farms, Inc. , 940 F.2d 744 (1st Cir. 1991), we adopted the test for constructive termination articulated by the Sixth Circuit.
+To sustain a claim, under the PMPA, that a franchisor assigned and thereby constructively terminated a franchise agreement, the franchisee must prove either: (1) that by making the assignment, the franchisor breached one of the three statutory components of the franchise agreement, (the contract to use the refiner's trademark, the contract for the supply of motor fuel, or the lease of the premises), and thus, violated the PMPA; or (2) that the franchisor made the assignment in violation of state law and thus, the PMPA was invoked.
+Id. at 750-51 (quoting May-Som Gulf, Inc. v. Chevron U.S.A, Inc. , 869 F.2d 917 , 922 (6th Cir. 1989)).
+What set Barnes apart from both Chestnut Hill Gulf and May-Som Gulf 'was that in Barnes the assignment of the contract had resulted in gasoline prices above the price specified in the contract; in other words, Barnes concerned a breach of one of the statutory elements of the franchise, [**9] the agreement for the supply of branded motor fuel.
+The Fourth Circuit vacated summary judgment for the defendant, holding that the breach of the contract for the supply of gasoline created a constructive termination of the franchise.
+In Chestnut Hill Gulf we held the PMPA was not implicated because there was no evidence that any of the statutory components of a franchise had been breached.
+"[A]ll thirteen dealers continued to occupy the same service stations under the same leases; they continued to purchase Gulf brand gasoline under the same supply agreements; and they continued to do business under the same Gulf trademark."
+Chestnut Hill Gulf , 940 F.2d at 752 .
+In May-Som Gulf , the defendants were entitled to summary judgment because the plaintiffs had merely complained of potential breaches to the franchise agreement.
+In the case before us, the Dealers have proven to the jury's satisfaction that Motiva breached the lease component of the franchise agreements.
+That breach allowed the jury to find that Shell constructively terminated the Dealers' franchises when it assigned the franchises to Motiva.
+The defendants argue that in order to show a constructive termination, the breach must be contemporaneous with the assignment and the breach must amount to a total deprivation of one of the three elements of the franchise.
+Both contentions misunderstand constructive termination.
+First, we agree with the Fourth Circuit that an action for constructive termination lies against the assignor of a franchise when the assignee breaches the franchise.
+Barnes , 795 F.2d at 362 .
+This prevents the assignor/franchisor from shielding itself against liability through the use of another corporation.
+"The [PMPA] does not contemplate that a franchisee should be relegated to seeking damages from an assignee that might not have the resources to satisfy a judgment."
+Id .
+A delay between the assignment and the breach changes nothing.
+The reasons for this are even stronger where the assignee is a subsidiary of the franchisor, or a joint venture in which the franchisor is a party.
+Second, the breach of the statutory element of the franchise does not have to be a total breach.
+In Barnes the plaintiff was "forced to raise her prices, and her sales and net income .
+.
+.
+declined."
+Id. at 361 .
+She did not suffer a complete loss of the benefits of the motor fuel supply contract.
+The defendants' attempted analogy to constructive termination in employment law or constructive eviction in landlord-tenant law is misleading.
+Those doctrines require an actual severance of the relationship: The employee must leave the workplace; the tenant must move out.
+But here, as the Dealers testified, sunk costs, optimism, and the habit of years might lead franchisees to try to make the new arrangements work, even when the terms have changed so materially as to make success impossible.
+Indeed, some plaintiffs testified they had gone into personal debt, driven themselves into bankruptcy, or enlisted the aid of family members working without pay to make ends meet.
+To require an actual abandonment [**10] of years of work and investment before we recognize a right of action under the PMPA would be unreasonable.
+The "congressional plan would be frustrated by requiring a franchisee to go out of business before invoking the protections of the PMPA."
+Pro Sales, Inc. v. Texaco, U.S.A.
+, 792 F.2d 1394 , 1399 (9th Cir. 1986).
+We do not here say that any material breach of the lease would necessarily be sufficient to sustain the constructive termination claim.
+In this case, the district court instructed the jury that it could find constructive termination only if the breach of the lease "was such a material change that it effectively ended the lease, even though the plaintiffs continued to operate the business.
+.
+.
+.
+It's not simply was the lease breached, but did that breach amount to .
+.
+.
+effectively the end of the franchise relationship."
+In this instruction the district court set an appropriate threshold.
+We agree with the district court that an assignor may be liable for even a subsequent breach of the franchise agreement by an assignee, and that a breach of the franchise agreement need not result in complete deprivation of a statutory element of the franchise to support a constructive termination.
+Indeed, this case presents a strong argument for the doctrine of constructive termination.
+At trial the Dealers argued that Shell assigned the franchise agreements to Motiva, even created Motiva, in order to squeeze them out of their franchises.
+They presented evidence that this was the reason for the change in the rent formulation, the elimination of the Subsidy, and the dramatic increase in rents they paid.
+If the jury accepted this as the reason, the case falls within the scope of the PMPA, which is designed not to freeze the franchise agreements exactly where they were, [fn11] but to prevent franchisors from improperly terminating franchises and thereby to ensure that franchisees benefit from successful investment in their franchises.
+This same protection for franchisee expectations underlies the PMPA's requirement that a franchisor make a bona fide offer, or grant a right of first refusal, to the franchisee when the franchisor contemplates withdrawing from the relevant market, selling the underlying real property, or dedicating the property to another use.
+15 U.S.C. 2802 (b)(2)(E) & (b)(3)(D) .
+This is also why parts of the PMPA place more restrictions on franchisors when the purpose of termination or nonrenewal is to convert the station to direct operation by the franchisor.
+[fn12] Were it otherwise, the franchisor could extract any increase in value created by the franchisee's investment, without sharing that increase with the franchisee.
+This would dampen the incentive for a franchisee to develop the business.
+In this case, the Dealers presented evidence that the defendants wanted to convert their stations to direct operation.
+[fn13] Where a franchisor has breached its obligations to the franchisee such that the franchisee faces the effective end of the franchise, the PMPA must treat that as a termination of the franchise.
+Neither will we contradict the jury's verdict.
+When we are [**11] satisfied that the law has been faithfully interpreted, we will overturn a jury's verdict only when no reasonable jury could have come to that verdict on the facts presented.
+See Rodriguez-Torres , 399 F.3d at 57 .
+The jury heard ample evidence to conclude that the financial hardship resulting from the loss of the Subsidy meant the end of the relationship.
+The defendants had opportunity to attack the credibility of that evidence and to put on their own.
+We will not step into the jury box to provide a second opinion.
+Nor was the verdict against the demonstrable weight of the evidence or likely to result in a blatant miscarriage of justice.
+Consequently, there was no manifest abuse of discretion in the district court's denial of the motion for a new trial.
+Constructive Nonrenewal As each Dealer's lease expired, Motiva presented a new lease.
+The new leases changed the way rent was calculated, which had the effect of increasing the rents charged.
+The Dealers argued that this change and others were not made in good faith, as required by the PMPA, but rather were part of the plan to drive the franchisees out of business.
+They claimed that inclusion of these terms amounted to a nonrenewal of their agreements, even though each Dealer signed a new agreement (albeit "under protest").
+We conclude that the PMPA does not support a claim for nonrenewal under these circumstances.
+We therefore vacate this portion of the district court's judgment and remand with instructions to issue judgment on this claim for the defendants.
+It is the plaintiffs' burden to prove that a nonrenewal or a termination has taken place. 15 U.S.C. 2805 (c).
+A notice of nonrenewal issued pursuant to 15 U.S.C. 2804 , while not strictly speaking a non-renewal, presumably satisfies this burden.
+See Dersch Energies, Inc. v. Shell Oil Co. , 314 F.3d 846 , 864 (7th Cir. 2002) ("[A] franchisor's issuance of a notice of nonrenewal is the precise equivalent of a nonrenewal.
+"); Lippo v. Mobil Oil Corp. , 776 F.2d 706 , 720 (7th Cir. 1985) ("In an action brought under section 2805(a) the franchisee has the burden of proving termination of the franchise.
+(This must really mean attempted termination if the injunctive relief is to be of any use.)").
+But see Seckler v. Star Enter. , 124 F.3d 1399 , 1403 (11th Cir. 1997) (no claim under PMPA when notice of nonrenewal rescinded before action commenced); Akky v. BP Am. , 73 F.3d 974 , 974 (9th Cir. 1996) (same).
+The threshold question is whether to recognize such a "constructive nonrenewal" and thereby bring Motiva's actions within the reach of the PMPA.
+The Ninth Circuit is the only circuit so far to recognize a claim for constructive nonrenewal.
+Pro Sales , 792 F.2d 1394 .
+In Pro Sales , the plaintiff signed a renewal agreement "under protest" and immediately brought suit under the PMPA.
+Id. at 1398 .
+The court relied on legislative history to conclude that these facts gave rise to a claim for constructive nonrenewal under PMPA.
+Id. at 1399 .
+Pro Sales has been rejected by the other circuits to consider the issue.
+The PMPA, after all, requires a franchisor to provide a notice of nonrenewal, 15 U.S.C. 2805 (c), and then provides a framework for the franchisee to seek preliminary relief on receipt of that notice, id. 2805(b)(2) .
+Two circuits have held that this notice-and-preliminary-relief structure [**12] is evidence that Congress intended to limit the reach of the PMPA to cases where either a notice is given or an actual nonrenewal has taken place.
+See Abrams Shell v. Shell Oil Co. , 343 F.3d 482 , 489 n. 16 (5th Cir. 2003) ("[T]he Seventh Circuit rejected the Pro Sales approach based on a `franchisee's ability to obtain an injunction under the PMPA' in cases of nonrenewal.
+We reject the Pro Sales approach on the same basis."
+(quoting Dersch Energies , 314 F.3d at 865 )).
+Thus, in Dersch Energies , the Seventh Circuit held that a franchisee who had signed a renewal "under protest" did not have a claim for constructive nonrenewal because the franchise had in fact been renewed.
+"Had Dersch allowed the defendants to issue a formal notice of non-renewal, its dispute with the defendants would have been transformed from a mere contract dispute into a non-renewal (within 90 days) of its franchise relationship thus allowing it to .
+.
+.
+maintain suit" under the PMPA.
+Id. at 866 ; accord Abrams Shell v. Shell Oil , 343 F.3d 482 , 489 (5th Cir. 2003) ("We find the Seventh Circuit's reasoning in Dersch Energies to be especially persuasive, thus we apply the same logic to this case.
+Plaintiffs have not provided any evidence that Defendants failed to renew the relevant agreements; therefore, Plaintiffs have not shown a breach in the franchise relationship.").
+The plaintiffs' constructive nonrenewal argument requires the following reasoning.
+Had the Dealers refused to agree to the new contract terms, Motiva would have issued notices of nonrenewal alleging as a permissible basis for nonrenewal the "failure of [the parties] to agree on changes or additions to the provisions of the franchise.
+.
+.
+."
+15 U.S.C. 2802 (b)(3)(A).
+The Dealers would have asserted that the non-renewal was improper because the changes were not offered in good faith, id. 2802(b)(3)(A)(i) , or else were offered in order to convert the premises to the franchisor's own control, id. 2802(b)(3)(A)(ii) .
+On those grounds the Dealers could have sought preliminary relief and damages under the PMPA.
+Id. 2805(a) & (b) .
+The stumbling block that trips up the plaintiffs is that, rather than insist on receiving notices of nonrenewal, the Dealers signed the new agreements "under protest" and continued in operation under the new agreements.
+We conclude that just as the PMPA requires a clear indication from franchisors that they seek nonrenewal of a franchise relationship, it likewise requires that franchisees faced with objectionable contract terms refrain from ratifying those terms by executing the contracts (even "under protest") and operating under them.
+Allowing a franchisee to sign "under protest" and then later challenge the renewal would extend the period of uncertainty through the entire first year of a contract that in this case was only three years.
+Recognizing constructive nonrenewal also would enable a franchisee to sign the contract and simultaneously challenge it.
+If its claims were rejected by the courts, the franchisee would have lost nothing and could continue to operate the franchise under the agreement with the PMPA-enforced reasonable expectation of continuation and renewal.
+Absent a claim for constructive nonrenewal, a franchisee [**13] must wait for a notice of termination to bring suit under the PMPA.
+The franchisee therefore risks the end of the franchise if the claim fails and so must carefully weigh the decision to sign or sue.
+[fn14] This is the balance Congress has struck, and should we prefer another, we would not be free to impose it.
+Consequently, we reject application of constructive nonrenewal to these facts.
+We note with some concern the limited scope of the PMPA.
+Two unexpected consequences of the legislation seem to loom as potential problems.
+The first is that franchisors will conform their behavior to the letter of the law but still use their position of power to impose their will on franchisees.
+The statute is of course not a panacea and cannot be faulted for what it fails to do.
+But some statutory protection is worse than none when it serves as protective cover for the very misdeeds it purports to eliminate.
+The second unintended consequence is that, to the extent Congress succeeds in leveling the playing field, it makes the franchise arrangement less appealing to franchisors.
+It is not difficult to imagine protections for franchisees so strong that franchisors abandon the model entirely.
+Evidence introduced at trial spoke to both of these hazards.
+However, these are issues for Congress to weigh and remedy, not for the courts.
+Because we do not recognize a claim for nonrenewal under the PMPA where the franchisee has signed and operates under the renewal agreement complained of, we vacate this portion of the district court's judgment and remand with instruction to enter judgment on this count for the defendants.
+Unreasonable Gasoline Prices The Uniform Commercial Code, as adopted in Massachusetts, contemplates the enforcement of contracts in which one party sets the price of goods over time.
+Mass. Gen. Laws ch.
+106, 2-305 (2).
+But the price must be set in good faith.
+Id .
+The jury found that the defendants had failed to set reasonable prices in good faith.
+The defendants appeal on two grounds.
+First, they claim that the "good faith" requirement means only that such a price may not discriminate among similarly situated buyers.
+[fn15] And second, the defendants assert that the Dealers' evidence of unreasonable pricing is inadequate as a matter of law, because 1) it was based only on retail pricing charged by competitors to the Dealers, rather than DTW prices charged to those competitors; and 2) the Dealers' expert presented pricing analysis of only one competitor, thereby failing to establish a "range" of prices outside of which the defendants' wholesale prices fell.
+We find neither contention persuasive.
+Section 2-305(2) "rejects the uncommercial idea that .
+.
+.
+the seller .
+.
+.
+may fix any price he may wish by the express qualification that the price so fixed must be in good faith.
+Good faith includes observance of reasonable commercial standards of fair dealing.
+.
+.
+."
+Id. 2-305(2) cmt. 3; U.C.C.
+2-305(2) cmt. 3.
+"[I]n the normal case "a `posted price' or a future seller's or buyer's `given price,' `price in effect,' `market price,' or the like satisfies the good faith requirement."
+Id .
+The defendants and amici urge us to read this comment [**14] as providing an absolute safe harbor for nondiscriminatory posted prices in open price term contracts.
+This we will not do.
+For one thing, the very comment on which the defendants and amici rely expressly invokes the general notion of "reasonable commercial standards of fair dealing."
+If the comment meant that only discriminatory pricing would be disallowed it certainly could have said that.
+For another, it is clear to us that a situation in which one merchant is raising its prices in order to force a customer out of business is hardly the "normal case." The Eleventh Circuit allowed this question to go to a jury in a class action involving another oil company's pricing policies.
+Allapattah Servs.
+v. Exxon Corp. , 333 F.3d 1248 , 1262 n. 16 (11th Cir. 2003) (conceding that in a "normal case" nondiscriminatory pricing is protected, but holding that where the allegation was that an oil company was trying to drive service stations out of business, "whether this case constituted a normal case was a factual issue necessary to determine whether Exxon acted in good faith" and therefore rightly submitted to the jury).
+More recently, the Fifth Circuit upheld the denial of a motion for judgment as a matter of law on the basis that setting gasoline prices in bad faith to drive franchisees out of business violated the UCC.
+Mathis v. Exxon Corp. , 302 F.3d 448 , 457-59 (5th Cir. 2002) ("[T]he jury's finding that Exxon breached its duty of good faith in setting the DTW price it charged the plaintiffs is not without foundation in the law or the evidence.
+"); see also Bob's Shell, Inc. v. O'Connell Oil Assocs.
+, [ 2005 BL 35974 ], 2005 WL 2365324, 2005 U.S. Dist. LEXIS 21318 (D.Mass.
+Aug. 31, 2005); Wayman v. Amoco Oil Co. , 923 F.Supp.
+1322 , 1349 (D.Kan.
+1996) (finding that the case before it was a "normal case" but noting that "[i]f there was evidence that Amoco had, for example, engaged in discriminatory pricing or tried to run plaintiffs out of business, then the court's decision might be different").
+But see Shell Oil v. HRN, Inc. , 144 S.W.3d 429 , 435-38 (Tex. 2004) (holding absence of price discrimination created presumption of good faith notwithstanding allegations that that oil company set prices in bad faith as part of a plan to drive franchisees out of business).
+Commerce is predicated on the idea that a transaction is good for both buyer and seller.
+The comment recognizes that allowing one party complete control over the price would be "uncommercial."
+We do not think the only reason for this is the risk of price discrimination.
+The drafters of the UCC and amici here are rightly concerned about a flood of litigation second-guessing every price set in an open price term contract.
+Mere allegations of bad faith will never be enough to survive summary judgment.
+But this case comes to us after a jury verdict finding bad faith and commercial unreasonableness.
+Nor do the defendants' objections to the sufficiency of the evidence require us to set the jury verdict aside.
+While perhaps more specific and more comprehensive evidence would be preferable, the jury had enough evidence of the defendants' motives and practices, as well as enough information about competitors' pricing, to come to the conclusion that the DTW prices were commercially [**15] unreasonable.
+Specifically, the use of competing gas stations' retail prices to draw conclusions about what those stations might be paying for gasoline is not ideal, but is adequate to the task at hand.
+In fact, it is the same benchmark that the defendants used in their "street-back" pricing model in setting the DTW price in the first place.
+In the light of this, the defendants cannot be heard to complain that such prices are not a good measure of what other distributors of gasoline are charging.
+And although the Dealers' expert failed to present a "range" of such prices, the expert testimony was not the only testimony available.
+One Dealer testified that the retail prices he observed were equal to or lower than the wholesale prices he paid.
+Additionally, at least one Dealer had first-hand knowledge of the DTW prices charged in the same area by another franchisor.
+On appeal, the defendants put forward once again the contentions of their own experts regarding the range of prices set by competitors.
+But it was up to the jury to choose between these competing characterizations, and the jury did so. Damages [fn16] The defendants argue that the damages awarded for the PMPA constructive termination claim are not supported by sufficient evidence.
+The district court instructed the jury to calculate two kinds of damages: damages in the amounts of rents paid that were in excess of the rents under the Subsidy, and damages for reduction in the values of the Dealers' businesses.
+We agree with the district court that there was ample evidence in the record for the jury to make a damages award, and we uphold that award as reasonable.
+The defendants claim that the damages are not supported by sufficient evidence for two reasons.
+First, the plaintiffs' expert used the VRP when calculating damages for excess rent, rather than the STIP, as would have been correct.
+Because the STIP was less generous, the expert's figures were probably too high.
+And second, the expert presented damages figures for lost business value, but those figures were based on excess rent paid under the new leases, not on the elimination of the Subsidy.
+Because this testimony applied properly only to damages under the constructive nonrenewal claim, the defendants say that a correspondence between the expert's figures and the actual awards for lost business value awarded under the constructive termination theory must be error.
+We address each of these in turn.
+The judge instructed the jury to find damages for excess rent paid due to the elimination of the Subsidy and for the loss of value to the Dealers' businesses due to the increased rent and the higher gasoline prices.
+Calculation of excess rent requires several predictions: of the Subsidy threshold amount, of the discount rate, and of how much gasoline the Dealers could have sold under the scheme.
+Aside from those assumptions it is a relatively certain calculation, on which expert testimony was received.
+[fn17] The Dealers' damages expert concededly used the VRP instead of the STIP to calculate damages, thereby potentially [**16] inflating the damages.
+But even if we could state with certainty that the damages were therefore inaccurate, that would not necessitate our remanding for a new damages calculation or our settling the matter ourselves.
+A clock that is five minutes fast is, strictly speaking, wrong.
+But it still may give a general sense of the time and thereby serve its purpose.
+And the damage figures provided by the expert are, after all, only guideposts for the jury.
+Calculating the loss of business value, on the other hand, relies on many more intangible factors and requires many more assumptions.
+In this respect it is similar to calculating future lost profits, which we have previously held is a more speculative inquiry than normal economic damages calculations.
+See, e.g., Camar Corp. v. Preston Trucking Co. , 221 F.3d 271 , 279 (1st Cir. 2000) ("[M]athematical precision is not required in calculating lost profits" but "a damages award must have a rational basis in the evidence."
+(internal quotation omitted)); E. Mountain Platform Tennis v. Sherwin-Williams Co. , 40 F.3d 492 (1st Cir. 1994) (upholding as not erroneous a jury's award of future lost profits where the company was only "at a break-even point" and operations were not yet profitable).
+We reject the defendants' comparison of this case to Kolb v. Goldring , 694 F.2d 869 , 873 (1st Cir. 1982).
+That case dealt with lost wages, in a statutory setting that limited recovery to "accounts owing" on a similar footing as a "common law suit for back wages for breach of contract."
+Id. at 871-82 .
+Here, the plaintiffs are entitled to the loss of the value of their business as a result of the defendants' actions.
+Because that calculation is necessarily complex and uncertain, we require from the jury less rigor in making the award.
+Here, along with expert testimony, the Dealers presented testimony that the defendants themselves had valued these stations more highly before the elimination of the Subsidy, and that some of the franchises had lost substantial value.
+We recognize the wide latitude afforded the jury in this situation asked to make an uncertain calculation on little hard evidence and we are mindful that we review to see only if no rational jury could have made this award.
+"[T]he assessment of damages cannot be disturbed unless the award exceeded any rational appraisal or estimate of the damages that could be based upon the evidence or was grossly excessive, in-ordinate, shocking to the [conscience] of the court, or so high that it would be a denial of justice to permit it to stand."
+Consolo v. George , 58 F.3d 791 , 795 (1st Cir. 1995) (quotation marks and citations omitted).
+We decline to go so far.
+The jury's awards largely correlate with the figures put forward by the Dealers' damages expert.
+We believe, as did the district court, that once the weaknesses in the expert's figures were pointed out in closing arguments and jury instructions, the jury nonetheless was free to use them as markers of probable damages.
+That the jury adhered closely to these numbers does not change the fact that the jury was aware of their inadequacies.
+The jury may have decided that they were close enough, or that no other method of calculation [**17] would be better.
+While a jury is not free "to pull figures out of a hat," Kolb , 694 F.2d at 873 , we believe that the expert's testimony, the availability of the expert's background data, and the cautionary instruction issued by the district court gave enough guidance to the jury.
+And the jury did not simply parrot the expert's figures in any event.
+In fact, where the jury did depart from the experts' figures, the defendants attack those departures as aberrations deserving of reversal.
+Three Dealers received awards in excess of the damage expert's calculations.
+The defendants characterize these as mystery "bonus" amounts unsupported by any view of the evidence.
+But each of these three Dealers testified to particular hardships that the jury might have thought indicated special reductions in business value.
+The jury may well have been performing its function in calculating losses in business value stemming from those hardships.
+Similarly, we find that the jury had ample evidence to make a damages award for the claim under the open price term of the gasoline supply contract.
+That it differed in some particulars from the numbers put forward by the expert is immaterial, particularly where, as here, different forms of evidence showed different pieces of this picture.
+The award of attorneys' fees is mandated by the PMPA.
+Because we uphold only one of the two statutory claims, however, we must remand for a determination whether the failed constructive nonrenewal claim was a "severable" claim for the purpose of awarding attorney's fees.
+Such fees are normally not recoverable.
+See Figueroa-Torres v. Toledo-Dvila , 232 F.3d 270 , 278 (1st Cir. 2000) (fees for unsuccessful severable claims normally not recoverable); Coutin v. Young & Rubicam, P.R.
+, 124 F.3d 331 , 339 (1st Cir. 1997) (discussing framework for determining whether to reduce fees); see also Hensley v, Eckerhart , 461 U.S. 424 , 434-37 , 103 S.Ct. 1933 , 76 L.Ed.2d 40 (1983).
+We are mindful both of the district court's discretion in this matter, and of the Supreme Court's admonition that determination of attorney's fees should not result in a second major litigation.
+Hensley , 461 U.S. at 437 , 103 S.Ct. 1933 .
+But we have no basis here on which to make a judgment, and so we must remand.
+Conclusion The judgment of the district court on the state contract claims, the unreasonable gasoline pricing claims, and the constructive termination claims is affirmed.
+The judgment on the constructive nonrenewal claims is reversed.
+The jury awards as to the surviving claims are affirmed as rational awards supported by sufficient evidence.
+The award of attorney's fees and costs is vacated and remanded for reconsideration in the light of our mixed disposition of the claims under the PMPA.
+Costs on appeal are awarded to the appellees.

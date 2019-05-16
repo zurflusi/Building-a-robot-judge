@@ -1,0 +1,131 @@
+ WILSON , Circuit Judge: The issue we decide on this appeal is whether the plaintiffs' state-law usury claims are completely preempted by the National Bank Act (NBA), 12 U.S.C. 85 and 86, and therefore properly removable to federal court.
+Although the plaintiffs alleged only state-law claims in their complaint, the district court determined that it had jurisdiction based on the doctrine of complete preemption.
+We disagree and reverse.
+BACKGROUND The plaintiffs, who as customers of H&R Block, Inc. had taken out tax refund anticipation loans 1 from Beneficial National Bank, brought suit in state court against H&R Block, Beneficial National Bank, and Beneficial Tax Masters, Inc., alleging usury violations 2 along with other state-law claims.
+The defendants removed the case to federal court on the basis of federal question jurisdiction.
+The defendants argued that since the NBA provides the exclusive remedy for claims alleging excessive interest against national banks, the plaintiffs' state-law usury claims should be recharacterized as federal claims under the doctrine of complete preemption.
+The plaintiffs moved to remand the case back to state court, arguing that while 85 and 86 of the NBA may provide a defense to state-law usury claims, these provisions do not accomplish complete preemption.
+The district court denied the motion to remand, holding that removal was proper because federal question jurisdiction existed based on complete preemption.
+Recognizing that the issue was unsettled in this Circuit, the district court certified for interlocutory appeal the question of whether 85 and 86 of the NBA completely preempt state-law usury claims so as to confer removal jurisdiction.
+We hold that these sections do not accomplish complete preemption.
+DISCUSSION The question of whether 85 3 and 86 4 of the NBA completely preempt state-law usury claims against a national bank has been the subject of disagreement among other circuits and among district courts within this Circuit.
+5 What is at stake in this inquiry is whether 85 and 86 not only provide a defense to state-law usury claims under ordinary preemption, but also confer on defendants the ability to remove the case from state to federal court under the complete preemption doctrine.
+For the reasons that follow, we hold that 85 and 86 do not accomplish complete preemption.
+We begin by describing the complete preemption doctrine and analyzing how the doctrine has been applied by the Supreme Court and this Court.
+Our analysis reveals that the complete preemption inquiry turns on congressional intent--whether Congress not only intended for a federal statute to provide a defense to state-law claims, but also intended to confer on defendants the ability to remove a case to a federal forum.
+We conclude that 85 and 86 of the NBA do not accomplish the extraordinary result of complete preemption, because clear congressional intent to permit removal under these sections is lacking.
+I Whether a district court may exercise jurisdiction over this case based on complete preemption is a question of law that we review de novo.
+BLAB T.V.
+of Mobile.
+Inc. v. Comcast Cable Communications, Inc. , 182 F.3d 851, 854 (11th Cir.1999).
+As courts of limited jurisdiction, lower federal courts may decide a case only when Article III of the Constitution provides that the federal judicial power extends to the case and when Congress has granted jurisdiction.
+Univ. of S. Ala. v. Am.
+Tobacco Co. , 168 F.3d 405, 409 (11th Cir.1999).
+When a federal court acts outside its jurisdiction, it violates principles of separation of powers and federalism, interfering with Congress's authority to demarcate the jurisdiction of lower federal courts, and with the states' authority to resolve disputes in their own courts.
+Id. at 409-10 .
+For this reason, when there are doubts as to whether removal jurisdiction is proper, we favor remand of removed cases.
+Id. at 411 .
+The removal statute, 28 U.S.C. 1441(a) , provides that any civil action brought in state court may be removed to federal court by the defendant as long as the federal court has jurisdiction in the case.
+Removal based on federal question jurisdiction, the grounds for removal the district court found here, generally is governed by the "well-pleaded complaint" rule, which provides that a case may be removed only if the plaintiff's properly pleaded complaint reveals that the claim is based on federal law.
+Franchise Tax Bd. of Cal. v. Constr.
+Laborers Vacation Trust for S. Cal. , 463 U.S. 1, 9-10 , 103 S.Ct. 2841 , 77 L.Ed.2d 420 (1983).
+Under the well-pleaded complaint rule, a case in which the plaintiff asserts only state-law claims may not be removed to federal court based on the existence of a federal defense--even the defense of ordinary preemption.
+Caterpillar Inc. v. Williams , 482 U.S. 386, 393 , 107 S.Ct. 2425 , 96 L.Ed.2d 318 (1987).
+"Congress has long since decided that federal defenses do not provide a basis for removal."
+Id. at 399 , 107 S.Ct. 2425 .
+An exception to the well-pleaded complaint rule is the "complete preemption" doctrine.
+BLAB T.V.
+, 182 F.3d at 854 .
+Under this doctrine, a defendant may remove a case to federal court even though the plaintiff raises only state-law claims in her complaint, when "the preemptive force of a [federal] statute is so extraordinary that it converts an ordinary state common-law complaint into one stating a federal claim for purposes of the well-pleaded complaint rule."
+6 Caterpillar Inc. , 482 U.S. at 393 , 107 S.Ct. 2425 (internal quotation marks omitted).
+The Supreme Court has found complete preemption under two federal statutes- section 301 of the Labor Management Relations Act (LMRA), 29 U.S.C. 185 , and section 502(a) of the Employee Retirement Income Security Act (ERISA), 29 U.S.C. 1132(a) .
+BLAB T.V.
+, 182 F.3d at 855 .
+The complete preemption doctrine was born with little elaboration or explanation in Avco Corp. v. Aero Lodge Number 735, International Association of Machinists and Aerospace Workers , 390 U.S. 557, 560-62 , 88 S.Ct. 1235 , 20 L.Ed.2d 126 (1968), where the Supreme Court treated the plaintiff's state-law claim based on a collective bargaining agreement as a federal claim arising under section 301 of the LMRA, and held that the case was properly removed to federal court.
+The Supreme Court had not yet begun to use the term "complete preemption" to describe this result, and Avco provides little guidance on the scope of the complete preemption doctrine. 7 The Supreme Court provided more guidance on the contours of the complete preemption doctrine when it cautiously extended the doctrine to section 502(a) of ERISA in Metropolitan Life Insurance Co. v. Taylor , 481 U.S. 58, 64-67 , 107 S.Ct. 1542 , 95 L.Ed.2d 55 (1987).
+The Court said that without clear indications that Congress intended to permit removal of state claims that fell within the scope of ERISA's civil enforcement provision in section 502(a) , the Court would have been "reluctant" to expand the "extraordinary pre-emptive power" recognized by the Avco decision under section 301 of the LMRA.
+Id. at 65 , 107 S.Ct. 1542 .
+After examining section 502(a) , however, the Court did find clear indications of congressional intent to permit removal--explicit statements in the legislative history that Congress meant for this provision to be construed in the same fashion as section 301 of the LMRA, and close parallels between the jurisdictional subsection of ERISA's civil enforcement provision and section 301 of the LMRA.
+Id. at 65-66 , 107 S.Ct. 1542 .
+Because Congress "clearly manifested an intent to make [these] causes of action removable to federal court," the Supreme Court felt bound to "honor that intent" and find complete preemption.
+Id. at 66 , 107 S.Ct. 1542 .
+Outside the contexts of the LMRA and ERISA, this Court has addressed the question of complete preemption only twice, in Smith v. GTE Corp. , 236 F.3d 1292, 1310-13 (11th Cir.2001) (holding that the Federal Communications Act did not accomplish complete preemption), and BLAB T.V.
+, 182 F.3d at 857-59 (holding that the Cable Communications Policy Act did not accomplish complete preemption).
+In those cases, we recognized that the complete preemption doctrine should be carefully limited in scope.
+We noted that "although the Supreme Court recognizes the existence of the complete preemption doctrine, the Court does so hesitatingly and displays no enthusiasm to extend the doctrine into areas of law beyond the LMRA and ERISA."
+Id. at 856 .
+We recognized that the Supreme Court only "reluctant[ly]" extended the complete preemption in Taylor , based on "virtually identical" jurisdictional provisions in the LMRA and ERISA and explicit statements in the legislative history of ERISA that the two statutes should be construed in a like manner.
+Id. at 855 (alteration in original) (internal quotation marks omitted).
+Finding no similar clear manifestation of congressional intent to permit removal in BLAB T.V.
+or Smith , we held that the complete preemption doctrine did not create federal jurisdiction in those cases.
+Smith , 236 F.3d at 1313 ; BLAB T.V.
+, 182 F.3d at 858 .
+In determining whether Congress intends for a federal statute to completely preempt state-law claims, courts consider a variety of factors such as "whether the state claim is displaced by federal law under an ordinary preemption analysis, whether the federal statute provides a cause of action, what kind of jurisdictional language exists in the federal statute, and what kind of language is present in the legislative history to evince Congress's intentions."
+BLAB T.V.
+, 182 F.3d at 857 .
+While we have declined to adopt a specific test for this Circuit, we recognize that all of these tests have the same ultimate goal: also intended to grant a defendant the ability to remove Id. (emphasis added) (alteration in original) (quoting Arthur R. Miller, Artful Pleading: A Doctrine in Search of Definition , 76 Tex. L.Rev.
+1781, 1797-98 (1998)).
+In sum, both the Supreme Court and this Court have recognized that the "touchstone" of the complete preemption inquiry is congressional intent.
+Taylor , 481 U.S. at 66 , 107 S.Ct. 1542 ; BLAB T.V.
+, 182 F.3d at 857 .
+II Since congressional intent is the pivotal issue in the complete preemption inquiry, that is where we must focus our analysis of whether 85 and 86 of the NBA completely preempt state-law usury claims against a national bank.
+In enacting the NBA, did Congress merely intend for federal law to act as a defense to state-law usury claims against a national bank under ordinary preemption--a defense that just as well could be asserted in state court and applied by state judges?
+Or did Congress intend that national banks facing usury claims in state court should have the ability to remove the case to a federal forum?
+The defendants argue that it would be impossible for a court to find in the NBA the striking indications of congressional intent to permit removal through complete preemption that the Supreme Court relied on in Taylor , because the NBA was enacted more than a decade before Congress gave federal courts general federal question jurisdiction, more than two decades before the development of the well-pleaded complaint rule, and more than a century before the articulation of the complete preemption doctrine. 8 Nonetheless, the defendants argue that applying the complete preemption doctrine here would be consistent with Congress's purposes because the historical context of the NBA indicates that Congress was suspicious of state interference with national banks.
+The NBA was enacted in 1864 9 in the midst of economic strife during the Civil War.
+The defendants cite to many statements in the congressional debates surrounding the enactment of the NBA that show Congress's intent to protect the new national banks from unfriendly state legislation.
+For example, Representative Samuel Hooper of Massachusetts argued that the NBA was necessary so "the currency of the country may be within the control and regulation of a national law applicable to the whole country, instead of being controlled and regulated by State law as it has been heretofore," and stated, "I appeal to the members of the House, and I ask them if they can excuse themselves to their constituents and to posterity if they sacrifice the great interests that are now at stake to the comparatively petty interest of local banking."
+Cong. Globe, 38th Cong., 1st Sess.
+1451 (1864).
+Based on statements like this from the congressional debates, the defendants ask us to adopt the reasoning of Judge Anthony J. Scirica in his dissent in Spellman v. Meridian Bank , 3d Cir.1996, [ 1995 BL 988 ], 1995 WL 764548 (Nos.
+94-3203, 94-3204, 94-3215 to 94-3218, Jan. 12, 1996) (Scirica, J., dissenting), Rehearing in Banc Granted, Opinion Vacated (Feb. 16, 1996): that Congress clearly intended that the NBA alter federal state relations and protect national banks from state interference, and therefore the NBA completely preempts state law because "'Congress intended to have usury claims against national banks governed by a body of federal law which the federal courts would apply.'"
+14B Charles Alan Wright, Arthur R. Miller & Edward H. Cooper, Federal Practice and Procedure 3722.1 , at 557 (3d ed.1998) (quoting Spellman , [ 1995 BL 988 ], 1995 WL 764548, at *24 (Scirica, J., dissenting)).
+While the congressional debates amply demonstrate Congress's desire to protect national banks from state legislation, they do not demonstrate that Congress desired to protect national banks from facing suit in state court.
+Jones v. Bankboston, N.A. , 115 F.Supp.2d 1350, 1360 (S.D.Ala.2000) (acknowledging that the NBA was meant to protect against "unfriendly legislation by the States," but stating that "the evidence does not demonstrate that Congress was so distrustful of the states' judicial systems").
+Even before 1875, when Congress gave lower federal courts original federal question jurisdiction and general removal jurisdiction, Congress had provided in a handful of specific acts that federal law would both provide a defense and allow for removal from state to federal court.
+10 When Congress enacted the NBA in 1864, it provided that suit could be brought in federal or state court, and it did not provide for removal.
+11 Four years later, in the Act of July 27, 1868, Congress allowed for corporations organized under federal law to remove a case from state to federal court by filing a petition that they had a defense arising under federal law--but by amendment, Congress excepted national banks from this removal power.
+15 Stat. 226-27 (" And be it further enacted , That any corporation, or any member thereof, orther [other] than a banking corporation, organized under a law of the United States, and against which a suit at law or in equity has been or may be commenced in any court other than a circuit or district court of the United States, for any liability or alleged liability of such corporation, or any member thereof as such member, may have such suit removed from the court in which it may be pending, to the proper circuit or district court of the United States, upon filing a petition therefor, verified by oath, either before or after issue joined, stating they have a defence arising under or by virtue of the Constitution of the United States, or any treaty or law of the United States " (alteration in original)).
+See also Cong. Globe, 40th Cong., 2d Sess.
+4197-98 (1868); 7 Charles Fairman, History of the Supreme Court of the United States: Reconstruction and Reunion, 1864-88, Part Two , 394-97 (1987).
+This legislative history compels us to reject the defendants' suggestion that the early history of national banks offers clear congressional intent to make claims under the NBA removable.
+Since both the Supreme Court and this Court have recognized that congressional intent is the "touchstone" in the complete preemption inquiry, we also must reject the line of cases which have found complete preemption without inquiring into Congress's intent.
+The only circuit court opinions that are consistent with this suggestion are M. Nahas & Co. v. First National Bank of Hot Springs , 930 F.2d 608, 612 (8th Cir.1991), and Krispin v. May Department Stores Co. , 218 F.3d 919, 922 (8th Cir.2000), which follows the M. Nahas & Co. reasoning.
+Without examining congressional intent, the Eighth Circuit found complete preemption in M. Nahas & Co. based solely on well-settled law that 86 provides the exclusive remedy for usury claims against a national bank.
+12 930 F.2d at 612 .
+However, in Jones , Chief District Judge Charles R. Butler, Jr.
+criticized the Eighth Circuit's lenient complete preemption standard as inconsistent with Supreme Court and Eleventh Circuit precedent and held that the NBA did not completely preempt state-law usury claims so as to allow for removal.
+115 F.Supp.2d at 1361 .
+We consider Jones to be a sound application of the principles reflected in the complete preemption cases decided by the Supreme Court and this Court, and we take a similar approach here.
+In Jones , the court concluded that the sole justification the M. Nahas & Co. holding--that 86 provides the exclusive remedy for usury claims against a national bank--was not by itself sufficient to establish complete preemption.
+Id. at 1355-56 .
+The court in Jones arrived at this conclusion by examining the Supreme Court's analysis in Taylor , where before beginning its complete preemption inquiry, the Supreme Court acknowledged that ERISA preempted the plaintiff's state-law claims and provided an alternative federal remedy.
+Id. at 1356 (citing Taylor , 481 U.S. at 64 , 107 S.Ct. 1542 ).
+"Were the existence of an 'exclusive federal remedy' the only requirement for complete preemption, the Court would have concluded its analysis at this point and declared the plaintiff's claims completely preempted."
+Id.
+However, the Taylor Court went on to say that it would be "reluctant" to find complete preemption on this basis alone.
+481 U.S. at 65 , 107 S.Ct. 1542 .
+The Taylor Court then conducted a searching inquiry into congressional intent, focusing on the parallels to the LMRA and explicit statements in the legislative history that ERISA should be construed like the LMRA to find Congress had "clearly manifested an intent to make causes of action within the scope of the civil enforcement provisions of 502(a) removable to federal court."
+Id. at 66 , 107 S.Ct. 1542 .
+The Jones court concluded--and we agree--that the analysis in Taylor indicates that where there are no further indications of congressional intent to permit removal, the existence of an exclusive federal remedy generally will not be enough to achieve complete preemption.
+115 F.Supp.2d at 1356 .
+The Jones court also noted that this Court uses a more demanding standard for complete preemption than the Eighth Circuit used in M. Nahas & Co. Id. at 1355-56 .
+"[T]he only justification offered by the Nahas Court for its ruling was that the National Bank Act accomplishes 'ordinary' preemption of state law claims for excessive interest and provides an alternative federal cause of action for the preempted state claim."
+Id. at 1355 .
+We previously have recognized that the mere provision of a federal cause of action cannot be dispositive in the complete preemption inquiry: BLAB T.V.
+, 182 F.3d at 859 n. 3.
+Our precedent demands clear congressional intent to permit removal.
+Like the Supreme Court, we have not yet extended the complete preemption doctrine beyond section 301 of the LMRA and section 502(a) of ERISA.
+We cannot extend the complete preemption doctrine here, where clear congressional intent to permit removal is lacking.
+CONCLUSION Under our federal system, both state and federal courts are entrusted to faithfully follow federal law.
+Pub. Serv. Comm'n of Utah v. Wycoff Co. , 344 U.S. 237, 247-48 , 73 S.Ct. 236 , 97 L.Ed. 291 (1952) ("State courts are bound equally with the federal courts by the Federal Constitution and laws.").
+State courts in Alabama--the forum from which the defendants sought removal--have a long history of faithfully applying the NBA.
+E.g. , Lowery v. First Nat'l Bank of Oneonta , 239 Ala. 690 , 196 So. 891, 892 (1940) ("The penalties imposed upon a national bank for charging a higher rate of interest than allowed by the law of the state where located are fixed by the Federal Banking Law.
+"); Florence R.R. & Improvement Co. v. Chase Nat'l Bank , 106 Ala. 364 , 17 So. 720, 721 (Ala.1895) ("[T]he penalty prescribed by the national banking statute for usurious discounting paper by national banks is exclusive, and those imposed by state statutes cannot be applied and enforced.
+"); Helms v. First Ala. Bank of Gadsden, N.A. , 386 So.2d 450, 452 (Ala.Civ.App.1980) ("[S]ince Congress has provided the penalty for usury [with 86 ], that action preempts the field, leaving no room for varying state penalties.").
+Because state courts, like federal courts, are competent in determining when state-law claims are preempted by federal law, removal to a federal forum based on the doctrine of complete preemption has been the exception, not the rule.
+Recognizing that the complete preemption doctrine works to trump the well-pleaded complaint rule as well as the maxim that a plaintiff is the master of the complaint and may avoid a federal forum by relying exclusively on state law, the Supreme Court expanded the doctrine only "hesitatingly" when there was a clear showing of congressional intent to permit removal.
+BLAB T.V.
+, 182 F.3d at 856 .
+Since we find no clear congressional intent to permit removal under 85 and 86 of the NBA, we therefore hold that while these sections may provide a defense to state-law usury claims, they do not accomplish complete preemption so as to permit removal.
+We therefore REVERSE the district court's order denying the plaintiffs' motion to remand and REMAND to the district court for further proceedings consistent with this opinion.
